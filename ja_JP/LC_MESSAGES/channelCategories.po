@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: Sudomemo\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+
+msgid "UPPERTITLE"
+msgstr "カテゴリ"
+
+msgid "ART"
+msgstr "芸術作品"
+
+msgid "GENRES"
+msgstr "ジャンル"
+
+msgid "TOPICS"
+msgstr "トピック"
+
+msgid "ROLEPLAYS"
+msgstr "役割演技"
+
+msgid "FANDOMS"
+msgstr "ファン作品"
+
+msgid "RESOURCES"
+msgstr "素材"
+
+msgid "PERSONAL"
+msgstr "パーソナル"
+
+msgid "WEEKLY_TOPICS"
+msgstr "今週のお題"

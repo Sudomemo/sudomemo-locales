@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-03-05 00:26+0000\n"
+"PO-Revision-Date: 2016-12-30 20:49+0000\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+
+msgid "TIMESTAMP_FORMAT"
+msgstr "Y年m月d日 H:i:s"
+
+msgid "FLIPNOTE_TITLE_FORMAT"
+msgstr "%sさんのメモ"
+
+msgid "HEADER_DETAILS"
+msgstr "作品情報"
+
+msgid "HEADER_COMMENTS"
+msgstr "コメント"
+
+msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
+msgstr "この作品はスピンオフです"
+
+msgid "HEADER_ORIGINAL_FLIPNOTE"
+msgstr "導出メモ"
+
+msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
+msgstr "一つのメモに対して付けられるイエロースターは10個までです"
+
+msgid "HEADER_CREATOR"
+msgstr "作者"
+
+msgid "HEADER_STARS"
+msgstr "スター"
+
+msgid "HEADER_VIEWS"
+msgstr "えつらん回数"
+
+msgid "HEADER_SPINOFFS"
+msgstr "スピンオフ"
+
+msgid "HEADER_DOWNLOADS"
+msgstr "ダウンロード数"
+
+msgid "HEADER_TITLE"
+msgstr "タイトル"
+
+msgid "HEADER_POSTED"
+msgstr "投稿された時間"
+
+msgid "HEADER_FLIPNOTE_ID"
+msgstr "うごメモID"
+
+msgid "HEADER_CHANNEL"
+msgstr "チャンネル"
+
+msgid "HEADER_OPTIONS"
+msgstr "設定"
+
+msgid "HEADER_SET_AS_PROFILE_PICTURE"
+msgstr "プロフィール画像を変更する"
+
+msgid "HEADER_REPORT_FLIPNOTE"
+msgstr "規約違反を通報"
+
+msgid "ADMIN_ACTIONS"
+msgstr "Admin actions"

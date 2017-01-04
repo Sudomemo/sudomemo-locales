@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-02-10 13:15+0000\n"
+"PO-Revision-Date: 2016-02-15 18:10+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ../../../sudomemo/Locales\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: test-locale.php:20
+msgid "WATCH_FLIPNOTES"
+msgstr "みんなの作品"
+
+#: test-locale.php:21
+msgid "CHANNELS"
+msgstr "チャンネル"
+
+#: test-locale.php:22
+msgid "CATEGORIES"
+msgstr "カテゴリ"
+
+#: test-locale.php:23
+msgid "FEATURED"
+msgstr "おすすめ作品"
+
+#: test-locale.php:24
+msgid "HOT_FLIPNOTES"
+msgstr "人気作品"
+
+#: test-locale.php:25
+msgid "ABOUT_SUDOMEMO"
+msgstr "スドメモ情報"
+
+#: test-locale.php:26
+msgid "CREATORS_ROOM"
+msgstr "マイルーム"
+
+#: test-locale.php:27
+msgid "NEWS"
+msgstr "スドメモニュース"
+
+#: test-locale.php:28
+msgid "CHATROOMS"
+msgstr "チャット"
+
+#: test-locale.php:29
+msgid "SEARCH"
+msgstr "サーチ"
+
+#: test-locale.php:30
+msgid "SEARCH_USER"
+msgstr "ユーザーサーチ"
+
+#: test-locale.php:31
+msgid "SEARCH_FLIPNOTE"
+msgstr "作品サーチ"
+
+#: test-locale.php:32
+msgid "HELP"
+msgstr "ガイド"
+
+#: test-locale.php:33
+msgid "RELOAD_USER"
+msgstr "ユーザーリロード"
+
+#: test-locale.php:34
+msgid "LOGIN"
+msgstr "ログイン"
+
+#: test-locale.php:35
+msgid "LOGOUT"
+msgstr "ログアウト"
+
+#: test-locale.php:36
+msgid "REGISTER"
+msgstr "ユーザー登録"
+
+#: test-locale.php:37
+msgid "THEME_SHOP"
+msgstr "テームショップ"
+
+#: test-locale.php:38
+msgid "MAIL"
+msgstr "うごレータ"
+
+#: test-locale.php:42
+msgid "TEST_TRANSLATION"
+msgstr "JAPANESE TRANSLATION"

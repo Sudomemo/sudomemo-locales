@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-02-10 13:15+0000\n"
+"PO-Revision-Date: 2016-02-10 13:28+0000\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ../../../sudomemo/Locales\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language: en\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: test-locale.php:20
+msgid "WATCH_FLIPNOTES"
+msgstr "All Flipnotes"
+
+#: test-locale.php:21
+msgid "CHANNELS"
+msgstr "Channels"
+
+#: test-locale.php:22
+msgid "CATEGORIES"
+msgstr "Categories"
+
+#: test-locale.php:23
+msgid "FEATURED"
+msgstr "Featured"
+
+#: test-locale.php:24
+msgid "HOT_FLIPNOTES"
+msgstr "Hot Flipnotes"
+
+#: test-locale.php:25
+msgid "ABOUT_SUDOMEMO"
+msgstr "About Sudomemo"
+
+#: test-locale.php:26
+msgid "CREATORS_ROOM"
+msgstr "Creator's Room"
+
+#: test-locale.php:27
+msgid "NEWS"
+msgstr "Sudomemo News"
+
+#: test-locale.php:28
+msgid "CHATROOMS"
+msgstr "Chatrooms"
+
+#: test-locale.php:29
+msgid "SEARCH"
+msgstr "Search"
+
+#: test-locale.php:30
+msgid "SEARCH_USER"
+msgstr "User Search"
+
+#: test-locale.php:31
+msgid "SEARCH_FLIPNOTE"
+msgstr "Flipnote Search"
+
+#: test-locale.php:32
+msgid "HELP"
+msgstr "Sudomemo Help"
+
+#: test-locale.php:33
+msgid "RELOAD_USER"
+msgstr "Reload User"
+
+#: test-locale.php:34
+msgid "LOGIN"
+msgstr "Login"
+
+#: test-locale.php:35
+msgid "LOGOUT"
+msgstr "Logout"
+
+#: test-locale.php:36
+msgid "REGISTER"
+msgstr "Register"
+
+#: test-locale.php:37
+msgid "THEME_SHOP"
+msgstr "Theme Shop"
+
+#: test-locale.php:38
+msgid "MAIL"
+msgstr "Mail"
+
+#: test-locale.php:42
+msgid "TEST_TRANSLATION"
+msgstr "ENGLISH TRANSLATION"

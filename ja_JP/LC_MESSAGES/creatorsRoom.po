@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-03-05 00:26+0000\n"
+"PO-Revision-Date: 2017-01-03 22:30+0000\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Last-Translator: \n"
+"Language: ja_JP\n"
+
+msgid "STARRED_FLIPNOTES"
+msgstr "スターメモ"
+
+msgid "FAVORITE_USERS"
+msgstr "お気に入り"
+
+msgid "LATEST_FLIPNOTES"
+msgstr "お気に入りの作品"
+
+msgid "FAVORITE_CHANNELS"
+msgstr "お気に入りチャンネル"
+
+msgid "USER_DOWNLOADCOUNT"
+msgstr "ダウンロード"
+
+msgid "USER_VIEWCOUNT"
+msgstr "えつらん回数"
+
+msgid "USER_THEME"
+msgstr "テーマ"
+
+msgid "THEME_SHOP"
+msgstr "テーマショップ"
+
+msgid "POSTED_COMMENTS"
+msgstr "コメント投稿"
+
+msgid "POSTED_CHATCOMMENTS"
+msgstr "チャットメッセージ"
+
+msgid "FEATURE_USABILITY"
+msgstr "すべての機能"
+
+msgid "SUDOMEMO_THEATRE_URL"
+msgstr "Sudomemo Theatre URL"
+
+msgid "FLIPNOTE_STUDIO_ID"
+msgstr "うごメモID"
+
+msgid "ADMIN_ACCT_GOOD_STANDING"
+msgstr "In good standing"
+
+msgid "ADMIN_ACCT_BANNED"
+msgstr "Banned"
+
+msgid "ADMIN_ACCT_BLOCKED"
+msgstr "Blocked"
+
+msgid "ADMIN_USER_DETAILS"
+msgstr "User details"
+
+msgid "ADMIN_LAST_SEEN"
+msgstr "Last seen"
+
+msgid "ADMIN_USER_STATUS"
+msgstr "Status"
+
+msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
+msgstr "Administrative actions"
+
+msgid "BLOCK_COMMENTS_HEADER"
+msgstr "Block comments"
+
+msgid "BLOCK_COMMENTS_LINK"
+msgstr "Block"
