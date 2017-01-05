@@ -13,6 +13,9 @@ msgstr ""
 "Last-Translator: \n"
 "Language: en\n"
 
+msgid "SEE_MORE"
+msgstr "See More"
+
 msgid "STARRED_FLIPNOTES"
 msgstr "Starred Flipnotes"
 
@@ -46,11 +49,20 @@ msgstr "Chatroom Messages"
 msgid "FEATURE_USABILITY"
 msgstr "Feature Usability"
 
+msgid "USABLE"
+msgstr "Usable"
+
+msgid "NOT_USABLE"
+msgstr "Not Usable"
+
 msgid "SUDOMEMO_THEATRE_URL"
 msgstr "Sudomemo Theatre Link"
 
 msgid "FLIPNOTE_STUDIO_ID"
 msgstr "Flipnote Studio ID"
+
+msgid "SETTINGS"
+msgstr "Settings"
 
 msgid "ADMIN_ACCT_GOOD_STANDING"
 msgstr "In good standing"
@@ -60,6 +72,9 @@ msgstr "Banned"
 
 msgid "ADMIN_ACCT_BLOCKED"
 msgstr "Blocked"
+
+msgid "ADMIN_ACCT_MUTED"
+msgstr "Muted"
 
 msgid "ADMIN_USER_DETAILS"
 msgstr "User Details"
