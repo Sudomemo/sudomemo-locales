@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: ja\n"
+
+msgid "THEME_SHOP_LOGIN_REQUIRED"
+msgstr ""
+
+msgid "THEME_SHOP_MAINPAGE_HEADER"
+msgstr "テームショップ"
+
+msgid "THEME_SHOP_LEARN_MORE_HEADER"
+msgstr ""
+
+msgid "THEME_SHOP_REPORT_ISSUES_HEADER"
+msgstr ""
+
+msgid "THEME_SHOP_MAINPAGE_EXCHANGE_COST_FORMAT"
+msgstr ""
+
+msgid "THEME_SHOP_MAINPAGE_FREE_STARTER_THEMES"
+msgstr ""
+
+msgid "CONGRATULATIONS"
+msgstr "ありがとうございました"
+
+msgid "SEE MORE"
+msgstr "もっと見る"
+
+msgid "PREVIEW"
+msgstr "例"
+
+msgid "BUY"
+msgstr "購入"
+
+msgid "THEME"
+msgstr "テーマ"
+
+msgid "PRICE"
+msgstr "価格"
+
+msgid "CREATOR"
+msgstr "作者"
+
+msgid "DESCRIPTION"
+msgstr ""
+
+msgid "YOU_HAVE"
+msgstr ""
+
+msgid "USERNAME"
+msgstr "ユーザー名"
+
+msgid "CANCEL"
+msgstr "キャンセル"
+
+msgid "CONFIRM"
+msgstr "確認する"
+
+msgid "CREATORS_ROOM"
+msgstr "マイルーム"
+
+msgid "SHOP_MENU"
+msgstr "ショップメニュー"
+
+msgid "NO_DESCRIPTION_AVAILABLE"
+msgstr ""
+
+msgid "THEME_SHOP_SELECT_PAYMENT"
+msgstr ""
+
+msgid "THEME_SHOP_SELECTED_PAYMENT"
+msgstr ""
+
+msgid "THEME_SHOP_STAR_BALANCE_TOO_LOW"
+msgstr ""
+
+msgid "THEME_SHOP_CHOOSE_CAREFULLY_BEFORE_BUYING"
+msgstr ""
+
+msgid "THEME_SHOP_YOU_OWN_THIS_THEME"
+msgstr ""
+
+msgid "THEME_SHOP_PUBLIC_THEME"
+msgstr ""
+
+msgid "THEME_SHOP_OWNED_THEME_TRANSACTION_INFO_FORMAT"
+msgstr ""
+
+msgid "THEME_SHOP_CONFIRM_PURCHASE_BELOW"
+msgstr ""
+
+msgid "THEME_SHOP_STARS_LEFT_AFTER_PAYMENT"
+msgstr ""
+
+msgid "THEME_SHOP_POST_PURCHASE"
+msgstr ""
