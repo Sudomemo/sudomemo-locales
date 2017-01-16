@@ -11,20 +11,20 @@ msgstr ""
 "Language: en_US\n"
 "X-Generator: Poedit 1.8.11\n"
 
-msgid "UPPERTITLE"
-msgstr "Browse Channel"
+msgid "HEADER_COMMENTS"
+msgstr "Comments"
 
-msgid "POST_FLIPNOTE"
-msgstr "Post Flipnote"
+msgid "HEADER_DETAILS"
+msgstr "Details"
 
-msgid "NEXT"
+msgid "HEADER_PREVIOUS"
+msgstr "Prev"
+
+msgid "HEADER_NEXT"
 msgstr "Next"
 
-msgid "PREV"
-msgstr "Previous"
+msgid "PAGE_FORMAT"
+msgstr "Page %d"
 
-msgid "PAGE"
-msgstr "Page"
-
-msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d of %d"
+msgid "NO_COMMENTS_YET"
+msgstr "This Flipnote doesn't have any comments yet."
