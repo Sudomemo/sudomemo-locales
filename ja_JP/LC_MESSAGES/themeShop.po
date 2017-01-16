@@ -34,7 +34,7 @@ msgstr "無料のテーマ"
 msgid "CONGRATULATIONS"
 msgstr "おめでとうございます！"
 
-msgid "SEE MORE"
+msgid "SEE_MORE"
 msgstr "もっと見る"
 
 msgid "PREVIEW"
@@ -105,3 +105,13 @@ msgstr "支払い後に残ったカラースター"
 
 msgid "THEME_SHOP_POST_PURCHASE"
 msgstr "購入は成功しました！ マイルームの\"マイテーマ\"に移動して選択してください！"
+
+msgid "NAVIGATION_PREVIOUS"
+msgstr "Prev"
+
+msgid "NAVIGATION_NEXT"
+msgstr "Next"
+
+msgid "THEME_SHOP_SAMPLE_PROFILE"
+msgstr "Sample Profile"
+

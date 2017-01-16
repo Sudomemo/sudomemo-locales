@@ -34,7 +34,7 @@ msgstr "Free Starter Themes"
 msgid "CONGRATULATIONS"
 msgstr "Congratulations!"
 
-msgid "SEE MORE"
+msgid "SEE_MORE"
 msgstr "See more"
 
 msgid "PREVIEW"
@@ -105,3 +105,13 @@ msgstr "Color Stars left after payment:"
 
 msgid "THEME_SHOP_POST_PURCHASE"
 msgstr "Your purchase was successful! Go to the \"My Themes\" section in your Creator's Room to select it!"
+
+msgid "NAVIGATION_PREVIOUS"
+msgstr "Prev"
+
+msgid "NAVIGATION_NEXT"
+msgstr "Next"
+
+msgid "THEME_SHOP_SAMPLE_PROFILE"
+msgstr "Sample Profile"
+
