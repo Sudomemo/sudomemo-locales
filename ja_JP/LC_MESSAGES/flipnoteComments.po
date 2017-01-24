@@ -12,19 +12,19 @@ msgstr ""
 "X-Generator: Poedit 1.8.11\n"
 
 msgid "HEADER_COMMENTS"
-msgstr "Comments"
+msgstr "コメント"
 
 msgid "HEADER_DETAILS"
-msgstr "Details"
+msgstr "詳細"
 
 msgid "HEADER_PREVIOUS"
-msgstr "Prev"
+msgstr "前へ"
 
 msgid "HEADER_NEXT"
-msgstr "Next"
+msgstr "次へ"
 
 msgid "PAGE_FORMAT"
-msgstr "Page %d"
+msgstr "ページ %d"
 
 msgid "NO_COMMENTS_YET"
-msgstr "This Flipnote doesn't have any comments yet."
+msgstr "この作品にはまだコメントがありません。"
