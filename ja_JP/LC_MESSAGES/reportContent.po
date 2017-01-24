@@ -27,10 +27,10 @@ msgid "YOU_ARE_REPORTING_THIS_FORMAT"
 msgstr "この%sを報告しています。"
 
 msgid "USER_HAS_ALREADY_REPORTED_FORMAT"
-msgstr "You have already submitted a report for this %s."
+msgstr "この%sのレポートは既に送信されています。"
 
 msgid "HEADER_VIOLATION_CATEGORY"
-msgstr "Violation Category:"
+msgstr "違反カテゴリ:"
 
 msgid "FLIPNOTE_TITLE_FORMAT"
 msgstr "%sさんのメモ"
@@ -39,22 +39,22 @@ msgid "CREATOR_FORMAT"
 msgstr "作者: %s"
 
 msgid "NOTICE_REPORT_OTHER_ISSUES"
-msgstr "This form is for reporting user content only. To report a user's behaviour, or for other issues and requests, please email our support team:"
+msgstr "このフォームは、ユーザーのコンテンツを報告するためのものです。 ユーザーの行動やその他の問題やリクエストを報告するには、サポートチームにメールを送信してください:"
 
 msgid "REPORT_INSTRUCTIONS"
-msgstr "Please write a short description of why you believe this content is in violation of the Sudomemo Terms of Use. Once you submit it, tap Back to return to the Flipnote."
+msgstr "このコンテンツがSudomemoの利用規約に違反していると思われる簡単な理由を記入してください。 提出したら、Backをタップして作品に戻ります。"
 
 msgid "NO_BLANK_REPORTS"
-msgstr "You cannot post a blank report."
+msgstr "空白のレポートを投稿することはできません。"
 
 msgid "LIMIT_ONE_REPORT"
-msgstr "Please note: You may only report this content one time. Additional reports will not be registered, so please put your information in a single comment."
+msgstr "注意:このコンテンツは1度だけ報告することができます。 追加の報告出来ませんので、あなたの情報をコメントに入れてください。"
 
 msgid "REPORT_EXPLANATION_FAILED"
-msgstr "An error occurred while this report was being submitted."
+msgstr "レポートの送信中にエラーが発生しました。"
 
 msgid "RESTRICTED_CANCEL"
-msgstr "You may not report content if you have been restricted from interacting with Sudomemo in any way."
+msgstr "何らかの形でSudomemoとの対話が制限されている場合、コンテンツを報告することはできません。"
 
 msgid "HEADER_REASON"
-msgstr "Reason:"
+msgstr "理由:"
