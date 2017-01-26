@@ -5,8 +5,6 @@ For public contributions to localization efforts on Sudomemo.
 
 ### Out of date (untranslated or partially untranslated)
 - themeShop - partially untranslated. 
-- browseFlipnotes - untranslated
-- flipnoteComments - untranslated
 - creatorsRoom - partially untranslated
 
 
@@ -14,7 +12,11 @@ For public contributions to localization efforts on Sudomemo.
 - All Pages
 
 ### Up-to-Date Pages (full translation set - reviewed by someone fluent in Japanese)
-- (none since I recently added a few more entries)
+- browseFlipnotes
+- flipnoteComments
+- reportContent
+- detailsPage
+
 
 # Thank You
 
