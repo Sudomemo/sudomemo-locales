@@ -15,7 +15,7 @@ msgid "SUDOMEMO"
 msgstr "Sudomemo"
 
 msgid "HEADER_FLIPNOTES"
-msgstr "うごメモ"
+msgstr "作品"
 
 msgid "HEADER_NORMAL"
 msgstr "最新"
@@ -27,10 +27,10 @@ msgid "HEADER_MOST_POPULAR"
 msgstr "最も人気"
 
 msgid "HEADER_NO_SPINOFFS"
-msgstr "No Spinoffs"
+msgstr "スピンオフなし"
 
 msgid "HEADER_ROLEPLAYS"
-msgstr "Roleplays"
+msgstr "ロールプレイ"
 
 msgid "HEADER_BROWSE_FLIPNOTES"
 msgstr "作品を見る"
