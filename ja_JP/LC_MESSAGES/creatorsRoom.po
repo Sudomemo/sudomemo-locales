@@ -56,7 +56,7 @@ msgid "NOT_USABLE"
 msgstr "いいえ"
 
 msgid "SUDOMEMO_THEATRE_URL"
-msgstr "Sudomemo Theatre URL"
+msgstr "スドメモシアターのURL"
 
 msgid "FLIPNOTE_STUDIO_ID"
 msgstr "うごメモID"
@@ -65,38 +65,38 @@ msgid "SETTINGS"
 msgstr "設定"
 
 msgid "ADMIN_ACCT_GOOD_STANDING"
-msgstr "In good standing"
+msgstr "グッド･スタンディング"
 
 msgid "ADMIN_ACCT_BANNED"
-msgstr "Banned"
+msgstr "禁止"
 
 msgid "ADMIN_ACCT_BLOCKED"
-msgstr "Blocked"
+msgstr "ブロック"
 
 msgid "ADMIN_ACCT_MUTED"
-msgstr "Muted"
+msgstr "ミュート"
 
 msgid "ADMIN_USER_DETAILS"
-msgstr "User details"
+msgstr "ユーザーの詳細"
 
 msgid "ADMIN_LAST_SEEN"
-msgstr "Last seen"
+msgstr "最後に閲覧"
 
 msgid "ADMIN_USER_STATUS"
-msgstr "User Status"
+msgstr "ユーザーのテータス"
 
 msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
-msgstr "Admin actions"
+msgstr "管理者の操作"
 
 msgid "BLOCK_COMMENTS_HEADER"
-msgstr "Block comments"
+msgstr "コメントをブロックする"
 
 msgid "BLOCK_COMMENTS_LINK"
-msgstr "Block"
+msgstr "ブロック"
 
 msgid "USABILITY_USABLE"
-msgstr "Usable"
+msgstr "使用可能"
 
 msgid "USABILITY_NOT_USABLE"
-msgstr "Not Usable"
+msgstr "使用不可能"
 
