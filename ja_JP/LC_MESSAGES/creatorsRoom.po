@@ -100,3 +100,14 @@ msgstr "使用可能"
 msgid "USABILITY_NOT_USABLE"
 msgstr "使用不可能"
 
+msgid "HEADER_FOLLOWERS"
+msgstr "Followers"
+
+msgid "HEADER_FOLLOWING"
+msgstr "Following"
+
+msgid "PREVIOUS"
+msgstr "Previous"
+
+msgid "NEXT"
+msgstr "Next"

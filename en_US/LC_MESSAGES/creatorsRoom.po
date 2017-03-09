@@ -99,3 +99,16 @@ msgstr "Usable"
 
 msgid "USABILITY_NOT_USABLE"
 msgstr "Not Usable"
+
+msgid "HEADER_FOLLOWERS"
+msgstr "Followers"
+
+msgid "HEADER_FOLLOWING"
+msgstr "Following"
+
+msgid "PREVIOUS"
+msgstr "Previous"
+
+msgid "NEXT"
+msgstr "Next"
+

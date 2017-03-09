@@ -12,7 +12,7 @@ msgstr ""
 "X-Generator: Poedit 1.8.8\n"
 
 msgid "UPPERTITLE"
-msgstr "Browse Channel"
+msgstr "Browse"
 
 msgid "NEXT"
 msgstr "Next page"
@@ -28,3 +28,10 @@ msgstr "%d of %d"
 
 msgid "FLIPNOTES_BY_FORMAT"
 msgstr "Flipnotes by %s"
+
+msgid "STARRED_BY_FORMAT"
+msgstr "Starred by %s"
+
+msgid "FAVORITES_FEED_FORMAT"
+msgstr "%s's Favorites Feed"
+

@@ -12,7 +12,7 @@ msgstr ""
 "X-Generator: Poedit 1.8.8\n"
 
 msgid "UPPERTITLE"
-msgstr "チャネルの作品"
+msgstr "Browse"
 
 msgid "NEXT"
 msgstr "次へ"
@@ -28,3 +28,9 @@ msgstr "%d/%d"
 
 msgid "FLIPNOTES_BY_FORMAT"
 msgstr "のメモ%s"
+
+msgid "STARRED_BY_FORMAT"
+msgstr "Starred	by %s"
+
+msgid "FAVORITES_FEED_FORMAT"
+msgstr "%s's Favorites Feed"
