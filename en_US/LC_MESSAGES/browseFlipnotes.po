@@ -55,3 +55,16 @@ msgstr "Previous"
 
 msgid "POST_FLIPNOTE"
 msgstr "Post Flipnote"
+
+msgid "CATEGORY_recent"
+msgstr "@Recent Flipnotes"
+
+msgid "CATEGORY_hot"
+msgstr "@Hot Flipnotes"
+
+msgid "CATEGORY_popular"
+msgstr "@Most Popular"
+
+msgid "CATEGORY_featured"
+msgstr "@Featured Flipnotes"
+
