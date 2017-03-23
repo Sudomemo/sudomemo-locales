@@ -112,3 +112,47 @@ msgstr "Previous"
 msgid "NEXT"
 msgstr "Next"
 
+msgid "CHANGE_ROOM_THEME_LINK"
+msgstr "[change theme]"
+
+msgid "SELECT_THEME"
+msgstr "Select Theme"
+
+msgid "FANS"
+msgstr "Fans"
+
+msgid "EXAMPLE"
+msgstr "Example"
+
+msgid "THEMETEST_SET_THEME"
+msgstr "Set Theme"
+
+msgid "THEMETEST_NOTICE"
+msgstr "Notice"
+
+msgid "THEMETEST_OK"
+msgstr "Okay"
+
+msgid "THEMETEST_ERROR"
+msgstr "Error"
+
+msgid "THEMETEST_NOTICE_2"
+msgstr "Notice #2"
+
+msgid "THEMETEST_ACTIVE_TAB"
+msgstr "Active tab"
+
+msgid "THEMETEST_INACTIVE_TAB"
+msgstr "Inactive tab"
+
+msgid "PREVIEW"
+msgstr "Preview"
+
+msgid "CREATORS_ROOM"
+msgstr "Creator's Room"
+
+msgid "THEME_ERROR_THEME_NOT_OWNED"
+msgstr "Sorry! You do not own that theme."
+
+msgid "THEME_SUCCESSFULLY_SET"
+msgstr "Theme successfully set!"
