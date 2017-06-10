@@ -1,4 +1,5 @@
 #!/bin/bash
+# Remove Gettext .mo files and regenerate them from the .po files
 for i in $(find . -name \*.po|sed 's/\.po//g'); do
 	if [ -f "$i.mo" ]; then
 		rm $i.mo;
@@ -10,4 +11,4 @@ for i in $(find . -name \*.po|sed 's/\.po//g'); do
 done
 
 chown -R apache. *
-echo "Done!"
+echo "Done! Make sure to restart Apache."
