@@ -18,6 +18,10 @@ The following list is not up-to-date and will be updated shortly to reflect the 
 
 # Thank You
 
-English->Japanese
+## English to Japanese
 
 @Bukharin1 ( https://www.twitter.com/Fin_suomi_ )
+
+## English to Greek 
+
+@igantzia ( https://github.com/igantzia )
