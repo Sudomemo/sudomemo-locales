@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-03-05 00:26+0000\n"
+"PO-Revision-Date: 2017-01-03 23:00+0000\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language: gr\n"
+
+msgid "SEE_MORE"
+msgstr "Δειτε περισσοτερα..."
+
+msgid "STARRED_FLIPNOTES"
+msgstr "Flipnotes που εχου δωθει αστερια"
+
+msgid "FAVORITE_USERS"
+msgstr "Αγαπημενοι Χρηστεs"
+
+msgid "FAVORITES_FEED"
+msgstr "Καινουρια απο Αγαπημενουs"
+
+msgid "FAVORITE_CHANNELS"
+msgstr "Αγαπημενα Καναλια"
+
+msgid "USER_DOWNLOADCOUNT"
+msgstr "Ληψειs"
+
+msgid "USER_VIEWCOUNT"
+msgstr "Προβολεs"
+
+msgid "USER_THEME"
+msgstr "Θεμα"
+
+msgid "THEME_SHOP"
+msgstr "Μαγαζι Θεματων"
+
+msgid "POSTED_COMMENTS"
+msgstr "Σχολια"
+
+msgid "POSTED_CHATCOMMENTS"
+msgstr "Μηνυματα Τσατ"
+
+msgid "FEATURE_USABILITY"
+msgstr "Χρηση Feature"
+
+msgid "USABLE"
+msgstr "Διαθεσιμη"
+
+msgid "NOT_USABLE"
+msgstr "Μη Διαθεσιμη"
+
+msgid "SUDOMEMO_THEATRE_URL"
+msgstr "Λινκ για το Sudomemo Theatre"
+
+msgid "FLIPNOTE_STUDIO_ID"
+msgstr "Flipnote Studio ID"
+
+msgid "SETTINGS"
+msgstr "Ρυθμισειs"
+
+msgid "ADMIN_ACCT_GOOD_STANDING"
+msgstr "Μια χαρουλα"
+
+msgid "ADMIN_ACCT_BANNED"
+msgstr "Banned"
+
+msgid "ADMIN_ACCT_BLOCKED"
+msgstr "Blocked"
+
+msgid "ADMIN_ACCT_MUTED"
+msgstr "Muted"
+
+msgid "ADMIN_USER_DETAILS"
+msgstr "Λεπτομεριεs Χρηστη"
+
+msgid "ADMIN_LAST_SEEN"
+msgstr "Ιδομενος Τελευταια"
+
+msgid "ADMIN_USER_STATUS"
+msgstr "Status Χρηστη"
+
+msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
+msgstr "Ενεργεια Admin"
+
+msgid "BLOCK_COMMENTS_HEADER"
+msgstr "Block Σχολιων"
+
+msgid "BLOCK_COMMENTS_LINK"
+msgstr "Block"
+
+msgid "USABILITY_USABLE"
+msgstr "Διαθεσιμη"
+
+msgid "USABILITY_NOT_USABLE"
+msgstr "Μη Διαθεσιμη"
+
+msgid "HEADER_FOLLOWERS"
+msgstr "Θαυμαστεs"
+
+msgid "HEADER_FOLLOWING"
+msgstr "Ακολουθει"
+
+msgid "PREVIOUS"
+msgstr "Προηγουμενο"
+
+msgid "NEXT"
+msgstr "επομενο"
+
+msgid "CHANGE_ROOM_THEME_LINK"
+msgstr "[αλλαξτε θεμα]"
+
+msgid "SELECT_THEME"
+msgstr "Διαλεξτε θεμα"
+
+msgid "FANS"
+msgstr "Θαυμαστεs"
+
+msgid "EXAMPLE"
+msgstr "Παραδειγμα"
+
+msgid "THEMETEST_SET_THEME"
+msgstr "Βαλτε Θεμα"
+
+msgid "THEMETEST_NOTICE"
+msgstr "Ειδοποιηση"
+
+msgid "THEMETEST_OK"
+msgstr "Οκεικ"
+
+msgid "THEMETEST_ERROR"
+msgstr "Σφαλμα"
+
+msgid "THEMETEST_NOTICE_2"
+msgstr "Ειδοποιηση #2"
+
+msgid "THEMETEST_ACTIVE_TAB"
+msgstr "Ενεργο tab"
+
+msgid "THEMETEST_INACTIVE_TAB"
+msgstr "Ανενεργο tab"
+
+msgid "PREVIEW"
+msgstr "Preview"
+
+msgid "CREATORS_ROOM"
+msgstr "Εργαστηρι"
+
+msgid "THEME_ERROR_THEME_NOT_OWNED"
+msgstr "Λυπουμαστε! Δεν εχετε το θεμα αυτο."
+
+msgid "THEME_SUCCESSFULLY_SET"
+msgstr "Το θεμα σας διοριστηκε με επιτυχια!"

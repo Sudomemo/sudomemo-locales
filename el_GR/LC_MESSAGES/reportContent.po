@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sudomemo\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el_GR\n"
+"X-Generator: Poedit 1.8.11\n"
+
+msgid "HEADER_REPORT_CONTENT"
+msgstr "Αναφορα Περιεχομενου"
+
+msgid "CHAT_MESSAGE"
+msgstr "Μηνυμα Τσατ"
+
+msgid "COMMENT"
+msgstr "Σχολιο"
+
+msgid "FLIPNOTE"
+msgstr "Flipnote"
+
+msgid "YOU_ARE_REPORTING_THIS_FORMAT"
+msgstr "Αναφερετε %s:"
+
+msgid "USER_HAS_ALREADY_REPORTED_FORMAT"
+msgstr "Εχετε ηδη καταβαλλει αναφορα για %s."
+
+msgid "HEADER_VIOLATION_CATEGORY"
+msgstr "Κατηγοριες:"
+
+msgid "FLIPNOTE_TITLE_FORMAT"
+msgstr "Flipnote του %s"
+
+msgid "CREATOR_FORMAT"
+msgstr "Δημιουργοs: %s"
+
+msgid "NOTICE_REPORT_OTHER_ISSUES"
+msgstr "Αυτη η αιτηση ειναι για την αναφορα περιεχομενου ενος χρηστη ΜΟΝΟ. Για να αναφερετε για την συμπεριφορα χρηστη, η για αλλα προβληματα και αιτηματα, παρακαλουμε να στειλετε  mail στην ομαδα υποστηρηξεωs μαs:"
+
+msgid "REPORT_INSTRUCTIONS"
+msgstr "Παρακαλουμε γραψτε μια μικρη περιγραφη γιατιπιστευετε οτι το περιεχομενο αυτο καταπαταει τουs κανονεs του Sudomemo. Οταν το υποδειξετε, πατηστε Πισω για να επιστρεψετε στο Flipnote."
+
+msgid "NO_BLANK_REPORTS"
+msgstr "Δεν μπορειτε να δωσετε κενη αναφορα."
+
+msgid "LIMIT_ONE_REPORT"
+msgstr "Παρατηρηση: Μπορειτε να υποβαλετε αναφορα μονο μια φορα. Δευτερη αναφορα δεν θα σταλθει, γι αυτο παρακαλουμε να γραψετεο,τι εχετε να πειτε σε αυτη την αναφορα."
+
+msgid "REPORT_EXPLANATION_FAILED"
+msgstr "Εμφανιστηκε σφαλμα κατατην ωρα υποβοληs."
+
+msgid "RESTRICTED_CANCEL"
+msgstr "Δεν μπορειτε να αναφερετε περιεχομενα εαν σας εχει απαγορευτει η διαδραση με το Sudomemo με οποιοδηποτε τροπο."
+
+msgid "HEADER_REASON"
+msgstr "Λογω:"
