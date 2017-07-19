@@ -24,7 +24,7 @@ msgid "HEADER_NEXT"
 msgstr "次へ"
 
 msgid "PAGE_FORMAT"
-msgstr "ページ %d"
+msgstr "%dページ"
 
 msgid "NO_COMMENTS_YET"
 msgstr "この作品にはまだコメントがありません。"
