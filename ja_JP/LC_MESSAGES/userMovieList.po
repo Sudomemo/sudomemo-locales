@@ -12,7 +12,7 @@ msgstr ""
 "X-Generator: Poedit 1.8.8\n"
 
 msgid "UPPERTITLE"
-msgstr "Browse"
+msgstr "閲覧する"
 
 msgid "NEXT"
 msgstr "次へ"
@@ -27,10 +27,10 @@ msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d/%d"
 
 msgid "FLIPNOTES_BY_FORMAT"
-msgstr "のメモ%s"
+msgstr "%sのメモ"
 
 msgid "STARRED_BY_FORMAT"
-msgstr "Starred	by %s"
+msgstr "%sがスターをつけました"
 
 msgid "FAVORITES_FEED_FORMAT"
-msgstr "%s's Favorites Feed"
+msgstr "%sのお気に入り"

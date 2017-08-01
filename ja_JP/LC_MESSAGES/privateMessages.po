@@ -11,28 +11,28 @@ msgstr ""
 "Language: ja_JP\n"
 
 msgid "NO_COMMENTS_YET"
-msgstr "No messages have been sent here."
+msgstr "まだコメントがありません。"
 
 msgid "HEADER_DIRECT_MESSAGES"
-msgstr "Direct Messages"
+msgstr "ダイレクトメッセージ"
 
 msgid "HEADER_CONVERSATION_ID"
-msgstr "Conversation ID"
+msgstr "グループID"
 
 msgid "HEADER_PARTICIPANTS"
-msgstr "Participants"
+msgstr "参加者"
 
 msgid "HEADER_UNREAD_COUNT"
-msgstr "Unread"
+msgstr "未読"
 
 msgid "TAP_ON_CONVERSATION_ID_TO_JOIN_CHAT"
-msgstr "Tap on a Conversation ID to join the chat."
+msgstr "グループIDをタッチしてチャットに参加"
 
 msgid "HEADER_NEXT"
-msgstr "Next"
+msgstr "次へ"
 
 msgid "HEADER_PREV"
-msgstr "Prev"
+msgstr "前へ"
 
 msgid "PAGE_FORMAT"
-msgstr "Page %d"
+msgstr "%dページ"

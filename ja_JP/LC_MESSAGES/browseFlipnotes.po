@@ -45,7 +45,7 @@ msgid "PAGE"
 msgstr "ページ"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d of %d"
+msgstr "%d/%d"
 
 msgid "NEXT"
 msgstr "次へ"
@@ -57,14 +57,14 @@ msgid "POST_FLIPNOTE"
 msgstr "作品を投稿"
 
 msgid "CATEGORY_recent"
-msgstr "Recent Flipnotes"
+msgstr "新着作品"
 
 msgid "CATEGORY_hot"
-msgstr "Hot Flipnotes"
+msgstr "ホットな作品"
 
 msgid "CATEGORY_popular"
-msgstr "Most Popular"
+msgstr "人気作品"
 
 msgid "CATEGORY_featured"
-msgstr "Featured Flipnotes"
+msgstr "注目作品"
 

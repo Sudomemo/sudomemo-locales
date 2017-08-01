@@ -48,19 +48,19 @@ msgstr "スドメモニュース"
 
 #: test-locale.php:28
 msgid "CHATROOMS"
-msgstr "チャット"
+msgstr "チャットルーム"
 
 #: test-locale.php:29
 msgid "SEARCH"
-msgstr "サーチ"
+msgstr "検索"
 
 #: test-locale.php:30
 msgid "SEARCH_USER"
-msgstr "ユーザーサーチ"
+msgstr "ユーザー検索"
 
 #: test-locale.php:31
 msgid "SEARCH_FLIPNOTE"
-msgstr "作品サーチ"
+msgstr "作品検索"
 
 #: test-locale.php:32
 msgid "HELP"
@@ -84,11 +84,11 @@ msgstr "ユーザー登録"
 
 #: test-locale.php:37
 msgid "THEME_SHOP"
-msgstr "テームショップ"
+msgstr "テーマショップ"
 
 #: test-locale.php:38
 msgid "MAIL"
-msgstr "うごレータ"
+msgstr "うごレター"
 
 #: test-locale.php:42
 msgid "TEST_TRANSLATION"

@@ -17,7 +17,7 @@ msgid "SEE_MORE"
 msgstr "もっと見る"
 
 msgid "STARRED_FLIPNOTES"
-msgstr "スターメモ"
+msgstr "スターをつけたメモ"
 
 msgid "FAVORITE_USERS"
 msgstr "お気に入り"
@@ -101,25 +101,25 @@ msgid "USABILITY_NOT_USABLE"
 msgstr "使用不可能"
 
 msgid "HEADER_FOLLOWERS"
-msgstr "Followers"
+msgstr "フォロワー"
 
 msgid "HEADER_FOLLOWING"
-msgstr "Following"
+msgstr "フォロー"
 
 msgid "PREVIOUS"
-msgstr "Previous"
+msgstr "前へ"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "次へ"
 
 msgid "CHANGE_ROOM_THEME_LINK"
-msgstr "[change	theme]"
+msgstr "[テーマを変える]"
 
 msgid "SELECT_THEME"
 msgstr "テーマを選択する"
 
 msgid "FANS"
-msgstr "フォロワー"
+msgstr "ファン"
 
 msgid "EXAMPLE"
 msgstr "サンプル"
@@ -152,7 +152,7 @@ msgid "CREATORS_ROOM"
 msgstr "マイルーム"
 
 msgid "THEME_ERROR_THEME_NOT_OWNED"
-msgstr "Sorry! You do not own that theme."
+msgstr "あなたはそのテーマを所有していません。"
 
 msgid "THEME_SUCCESSFULLY_SET"
 msgstr "テーマの変更が完了しています!"

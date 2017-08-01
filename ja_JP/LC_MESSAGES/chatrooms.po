@@ -11,16 +11,16 @@ msgstr ""
 "Language: en_US\n"
 
 msgid "NO_COMMENTS_YET"
-msgstr "No messages have been sent here."
+msgstr "まだメッセージがありません。"
 
 msgid "HEADER_COMMENTS"
-msgstr "Comments"
+msgstr "コメント"
 
 msgid "PAGE_FORMAT"
-msgstr "Page %d"
+msgstr "%dページ"
 
 msgid "HEADER_NEXT"
-msgstr "Next"
+msgstr "次へ"
 
 msgid "HEADER_PREV"
-msgstr "Prev"
+msgstr "前へ"
