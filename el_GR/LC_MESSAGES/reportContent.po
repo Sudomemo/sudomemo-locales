@@ -58,3 +58,6 @@ msgstr "Δεν μπορειτε να αναφερετε περιεχομενα �
 
 msgid "HEADER_REASON"
 msgstr "Λογω:"
+
+msgid "LOGIN_REQUIRED_TO_CONTINUE"
+msgstr "You must log in to continue."

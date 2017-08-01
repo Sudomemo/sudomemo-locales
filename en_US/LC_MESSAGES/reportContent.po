@@ -58,3 +58,7 @@ msgstr "You may not report content if you have been restricted from interacting 
 
 msgid "HEADER_REASON"
 msgstr "Reason:"
+
+msgid "LOGIN_REQUIRED_TO_CONTINUE"
+msgstr "You must log in	to continue."
+

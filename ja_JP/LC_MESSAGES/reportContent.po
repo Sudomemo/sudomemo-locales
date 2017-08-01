@@ -58,3 +58,7 @@ msgstr "何らかの形でSudomemoとの対話が制限されている場合、�
 
 msgid "HEADER_REASON"
 msgstr "理由:"
+
+msgid "LOGIN_REQUIRED_TO_CONTINUE"
+msgstr "You must log in	to continue."
+
