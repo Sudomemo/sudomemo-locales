@@ -20,7 +20,8 @@ The following list is not up-to-date and will be updated shortly to reflect the 
 
 ## English to Japanese
 
-@Bukharin1 ( https://www.twitter.com/Fin_suomi_ )
+@[Bukharin1](https://www.twitter.com/Fin_suomi_)
+@[Compeito](https://twitter.com/ugo_compeito)
 
 ## English to Greek 
 
