@@ -62,10 +62,6 @@ msgstr "User Search"
 msgid "SEARCH_FLIPNOTE"
 msgstr "Flipnote Search"
 
-#: test-locale.php:32
-msgid "HELP"
-msgstr "Sudomemo Help"
-
 #: test-locale.php:33
 msgid "RELOAD_USER"
 msgstr "Reload User"
@@ -92,4 +88,8 @@ msgstr "Mail"
 
 #: test-locale.php:42
 msgid "TEST_TRANSLATION"
-msgstr "ENGLISH TRANSLATION"
+msgstr "English Translation"
+
+msgid "HELP"
+msgstr "Help"
+

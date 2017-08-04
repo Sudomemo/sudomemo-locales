@@ -63,8 +63,8 @@ msgid "SEARCH_FLIPNOTE"
 msgstr "Αναζητηση Flipnote"
 
 #: test-locale.php:32
-msgid "HELP"
-msgstr "Βοηθεια Sudomemo"
+#msgid "ABOUT_SUDOMEMO"
+#msgstr "Βοηθεια Sudomemo"
 
 #: test-locale.php:33
 msgid "RELOAD_USER"
@@ -92,4 +92,7 @@ msgstr "Mail"
 
 #: test-locale.php:42
 msgid "TEST_TRANSLATION"
-msgstr "ENGLISH TRANSLATION"
+msgstr "Greek Translation"
+
+msgid "HELP"
+msgstr "Help"

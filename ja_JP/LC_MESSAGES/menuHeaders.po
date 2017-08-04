@@ -62,10 +62,6 @@ msgstr "ユーザー検索"
 msgid "SEARCH_FLIPNOTE"
 msgstr "作品検索"
 
-#: test-locale.php:32
-msgid "HELP"
-msgstr "ガイド"
-
 #: test-locale.php:33
 msgid "RELOAD_USER"
 msgstr "ユーザーリロード"
@@ -93,3 +89,8 @@ msgstr "うごレター"
 #: test-locale.php:42
 msgid "TEST_TRANSLATION"
 msgstr "日本語翻訳"
+
+#: test-locale.php:32
+msgid "HELP"
+msgstr "ガイド"
+
