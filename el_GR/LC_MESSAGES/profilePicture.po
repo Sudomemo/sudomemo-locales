@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el_GR\n"
+
+msgid "SET_PROFILE_PICTURE"
+msgstr "Set Profile Picture"
+
+msgid "PROMPT_CHANGE_YOUR_PROFILE_IMAGE"
+msgstr "Change your profile picture?"
+
+msgid "CONTINUE_SET_AS_PROFILE_PICTURE"
+msgstr "Set as Profile Picture"
+
+msgid "CURRENT"
+msgstr "Current"
+
+msgid "NEW"
+msgstr "New"
+
+msgid "PROFILE_PICTURE_SET"
+msgstr "Profile	picture	successfully set!"
+
+msgid "RETURN_TO_FLIPNOTE"
+msgstr "Return to Flipnote"
+
+msgid "CREATORS_ROOM"
+msgstr "Creator's Room"
