@@ -14,7 +14,7 @@ msgid "PROMPT_CHANGE_YOUR_PROFILE_IMAGE"
 msgstr "Change your profile picture?"
 
 msgid "CONTINUE_SET_AS_PROFILE_PICTURE"
-msgstr "Set as Profile Picture"
+msgstr "Confirm"
 
 msgid "CURRENT"
 msgstr "Current"
@@ -30,3 +30,6 @@ msgstr "Return to Flipnote"
 
 msgid "CREATORS_ROOM"
 msgstr "Creator's Room"
+
+msgid "CANCEL"
+msgstr "Cancel"
