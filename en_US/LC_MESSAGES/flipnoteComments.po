@@ -23,6 +23,9 @@ msgstr "Prev"
 msgid "HEADER_NEXT"
 msgstr "Next"
 
+msgid "HEADER_REFRESH"
+msgstr "Refresh"
+
 msgid "PAGE_FORMAT"
 msgstr "Page %d"
 

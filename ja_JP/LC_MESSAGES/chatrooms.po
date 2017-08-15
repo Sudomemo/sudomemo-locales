@@ -18,5 +18,8 @@ msgstr "%dページ"
 msgid "HEADER_NEXT"
 msgstr "次へ"
 
+msgid "HEADER_REFRESH"
+msgstr "リロード"
+
 msgid "HEADER_PREV"
 msgstr "前へ"
