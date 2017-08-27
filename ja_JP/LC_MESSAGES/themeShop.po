@@ -94,7 +94,7 @@ msgstr "あなたはすでにこのテーマを所有しています。"
 msgid "THEME_SHOP_PUBLIC_THEME"
 msgstr "すべてのユーザーは無料でこのテーマにアクセスできます。"
 
-msgid "THEME_SHOP_OWNED_THEME_TRANSACTION_INFO_FORMAT"
+msgid "THEME_SHOP_OWNED_THEME_TRANSACTION_FORMAT"
 msgstr "このテーマを%sの%d個のグリーンスターで購入しました。"
 
 msgid "THEME_SHOP_CONFIRM_PURCHASE_BELOW"

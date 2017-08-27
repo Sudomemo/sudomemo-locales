@@ -1,0 +1,8 @@
+msgid "BAN_GREETING_FORMAT"
+msgstr "Hello, %s."
+
+msgid "BAN_NOTICE"
+msgstr "Your account and console have been suspended from Sudomemo.\nPlease read the letter we sent you for further information."
+
+msgid "BAN_VIEW_MAIL"
+msgstr "View Sudomemo Mail"

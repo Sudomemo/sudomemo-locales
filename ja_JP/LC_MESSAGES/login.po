@@ -1,0 +1,8 @@
+msgid "BAN_GREETING_FORMAT"
+msgstr "こんにちは, %sさん."
+
+msgid "BAN_NOTICE"
+msgstr "あなたのアカウントとシステムは中断されました。\n詳細については、スドメモのメールをおくりください。"
+
+msgid "BAN_VIEW_MAIL"
+msgstr "スドメモのメールを見ろ。"

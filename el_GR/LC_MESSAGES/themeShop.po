@@ -94,7 +94,7 @@ msgstr "Εχετε ηδη αυτο το θεμα."
 msgid "THEME_SHOP_PUBLIC_THEME"
 msgstr "Ολοι εχουν προσβαση δωρεαν σε αυτο το θεμα."
 
-msgid "THEME_SHOP_OWNED_THEME_TRANSACTION_INFO_FORMAT"
+msgid "THEME_SHOP_OWNED_THEME_TRANSACTION_FORMAT"
 msgstr "Αγορασατε αυτο το θεμα στιs %s για %d Πρασινα Αστερια."
 
 msgid "THEME_SHOP_CONFIRM_PURCHASE_BELOW"
