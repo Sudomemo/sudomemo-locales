@@ -23,3 +23,25 @@ msgstr "リロード"
 
 msgid "HEADER_PREV"
 msgstr "前へ"
+
+msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
+msgstr "You must be logged in to post a chat message."
+
+msgid "CHAT_REPLY_FAILED"
+msgstr "Chat reply failed. Try again in a moment."
+
+msgid "NO_BLANK_MESSAGES_ALLOWED"
+msgstr "You cannot post a blank chat message."
+
+msgid "FLIPNOTE_DATA_CORRUPTED"
+msgstr "The Flipnote data is corrupted. Try again in a moment."
+
+msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
+msgstr "You have been muted. You may not post chat messages while you are muted."
+
+msgid "DUPLICATE_COMMENT_FAILED"
+msgstr "This comment has already been posted to Sudomemo."
+
+msgid "COMMENT_FAILED_USER_BANNED"
+msgstr "You have been restricted from interacting with Sudomemo."
+

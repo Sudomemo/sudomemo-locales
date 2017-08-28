@@ -40,3 +40,20 @@ msgstr "%dページ"
 msgid "HEADER_REFRESH"
 msgstr "Refresh"
 
+msgid "LOGIN_REQUIRED_TO_REPLY"
+msgstr "You must be logged in to reply to this conversation."
+
+msgid "REPLY_FAIL_USER_BANNED"
+msgstr "You have been restricted from interacting with Sudomemo."
+
+msgid "DUPLICATE_COMMENT_FAILED"
+msgstr "This comment has already been posted to Sudomemo."
+
+msgid "CHAT_REPLY_FAILED"
+msgstr "Chat reply failed. Try again in a moment."
+
+msgid "NO_BLANK_MESSAGES_ALLOWED"
+msgstr "You cannot post a blank chat message."
+
+msgid "FLIPNOTE_DATA_CORRUPTED"
+msgstr "The Flipnote data is corrupted. Try again in a moment."
