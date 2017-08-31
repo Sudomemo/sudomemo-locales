@@ -1,0 +1,33 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.8\n"
+
+msgid "UPPERTITLE"
+msgstr "Channels"
+
+msgid "UPPERSUBBOTTOM"
+msgstr "Please select a channel!"
+
+msgid "NEXT"
+msgstr "Next page"
+
+msgid "PREV"
+msgstr "Previous page"
+
+msgid "FAVORITES"
+msgstr "Favorites"
+
+msgid "PAGE"
+msgstr "Page"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d of %d"

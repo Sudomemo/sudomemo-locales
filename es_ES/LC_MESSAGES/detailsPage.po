@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-03-05 00:26+0000\n"
+"PO-Revision-Date: 2016-03-05 15:46-0500\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language: en_US\n"
+
+msgid "TIMESTAMP_FORMAT"
+msgstr "M d, Y H:i:s"
+
+msgid "FLIPNOTE_TITLE_FORMAT"
+msgstr "Flipnote by %s"
+
+msgid "HEADER_DETAILS"
+msgstr "Details"
+
+msgid "HEADER_COMMENTS"
+msgstr "Comments"
+
+msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
+msgstr "This Flipnote is a spin-off."
+
+msgid "HEADER_ORIGINAL_FLIPNOTE"
+msgstr "View the source Flipnote here"
+
+msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
+msgstr "To prevent star-begging, yellow stars are limited to ten per Flipnote."
+
+msgid "HEADER_CREATOR"
+msgstr "Creator"
+
+msgid "HEADER_STARS"
+msgstr "Stars"
+
+msgid "HEADER_VIEWS"
+msgstr "Views"
+
+msgid "HEADER_SPINOFFS"
+msgstr "Spin-offs"
+
+msgid "HEADER_DOWNLOADS"
+msgstr "Downloads"
+
+msgid "HEADER_TITLE"
+msgstr "Title"
+
+msgid "HEADER_POSTED"
+msgstr "Posted"
+
+msgid "HEADER_FLIPNOTE_ID"
+msgstr "Flipnote ID"
+
+msgid "HEADER_CHANNEL"
+msgstr "Channel"
+
+msgid "HEADER_OPTIONS"
+msgstr "Options"
+
+msgid "HEADER_SET_AS_PROFILE_PICTURE"
+msgstr "Set as Profile Picture"
+
+msgid "HEADER_REPORT_FLIPNOTE"
+msgstr "Report Flipnote"
+
+msgid "ADMIN_ACTIONS"
+msgstr "Admin actions"
+
+msgid "PREV"
+msgstr "Prev"
+
+msgid "NEXT"
+msgstr "Next"
+
+msgid "STAR_DETAILS_UPPERTITLE"
+msgstr "★ Stars ★"

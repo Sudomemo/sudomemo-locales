@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sudomemo\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.11\n"
+
+msgid "SUDOMEMO"
+msgstr "Sudomemo"
+
+msgid "HEADER_FLIPNOTES"
+msgstr "Flipnotes"
+
+msgid "HEADER_NORMAL"
+msgstr "Recent"
+
+msgid "HEADER_HOT_FLIPNOTES"
+msgstr "Hot Flipnotes"
+
+msgid "HEADER_MOST_POPULAR"
+msgstr "Most Popular"
+
+msgid "HEADER_NO_SPINOFFS"
+msgstr "No Spinoffs"
+
+msgid "HEADER_ROLEPLAYS"
+msgstr "Roleplays"
+
+msgid "HEADER_BROWSE_FLIPNOTES"
+msgstr "Browse Flipnotes"
+
+msgid "HEADER_FEATURED_FLIPNOTES"
+msgstr "Featured Flipnotes"
+
+msgid "HEADER_PAGE"
+msgstr "Page"
+
+msgid "PAGE"
+msgstr "Page"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d of %d"
+
+msgid "NEXT"
+msgstr "Next"
+
+msgid "PREV"
+msgstr "Previous"
+
+msgid "POST_FLIPNOTE"
+msgstr "Post Flipnote"
+
+msgid "CATEGORY_recent"
+msgstr "@Recent Flipnotes"
+
+msgid "CATEGORY_hot"
+msgstr "@Hot Flipnotes"
+
+msgid "CATEGORY_popular"
+msgstr "@Most Popular"
+
+msgid "CATEGORY_featured"
+msgstr "@Featured Flipnotes"
+
