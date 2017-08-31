@@ -7,7 +7,7 @@ Notes: In some headers, text is shrunk by prepending an @ sign. As English text 
 
 Fork this repository. Please use a **single** branch for the branch to submit a PR with, rather than making many additional branches. Your master branch (main/default one) is fine to use. The single branch is what will be pulled into the main repository. 
 
-Copy the en_US folder to a new folder.
+Copy the en_US folder to a new folder, or let me know if you can only use the GitHub website and I will make a new folder for you with the untranslated entries contained within.
 
 Please name the folder as follows: ISO-639 language code concatenated with the ISO-3166 country code by an underscore. 
 
