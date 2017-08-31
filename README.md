@@ -1,69 +1,77 @@
 # sudomemo-locales
 For public contributions to localization efforts on Sudomemo.
 
-Notes: In some headers, text is shrunk by prepending an @ sign. As English text displays differently in the Japanese versions, and vice-a-versa, @ signs at the beginning of a locale string should not be included in the translated versions unless added after the fact.
+Full and verified translations can earn you citizenship on Sudomemo! c:
 
-Full and verified translations can earn you citizenship on Sudomemo c:
-
-Google Translate does not cut it: you'll need to be fluent in the language you are translating it to.
+Please note that translations will be verified; contributions will not be accepted if you only use Google Translate or if things are translated in an inappropriate manner.
 
 ## How to contribute
 
-You will need a basic understanding of git/GitHub and a GitHub account.
+1. If you don't already have a GitHub account, please [sign up](https://github.com/join) for one.
 
-Fork this repository. Please use a **single** branch for the branch to submit a PR with, rather than making many additional branches. Your master branch (main/default one) is fine to use. The single branch is what will be pulled into the main repository. 
+2. Fork this repository by clicking the **Fork** button. This will create a copy of it on your own GitHub account.
 
-Copy the en_US folder to a new folder, or simply save each new locale file to the new folder under the structure `<locale code>/LC_MESSAGES/filenameHere.po`. 
+3. Now we need to clone your newly Forked repository to your PC so that you can work on it. You'll need to download the official [GitHub Desktop app](https://desktop.github.com/) for this.
 
-Please name the folder as follows: ISO-639 language code concatenated with the ISO-3166 country code by an underscore. 
+4. Once you've downloaded and opened GitHub Desktop, go to **File** > **Clone Repository**.
 
-For example:
+	* Copy and paste the GitHub URL for your Fork into the **URL or username/repository** area.
 
-en_US = English (USA)
+	* For the **local path**, choose a convenient folder on your PC.
 
-ja_JP = Japanese (Japan)
+5. Navigate to the repository's folder (hint: with GitHub Desktop you can do this by going to **Repository** > **Show In Explorer**).
 
-el_GR = Greek (Greece)
+6. In here, you should see a few folders for different langcodes, like `en_US` and `ja_JP`. If you don't see a folder with the langcode for your chosen language, then please make a copy of `en_US` and rename it. If you aren't sure what the langcode is, we have a list [here](#langcode_list)
 
-For Spanish, please use
+7. Open the folder for your chosen language, and then open the **LC_MESSAGES** folder. You should see a lot of files that end with **.po** -- these are the translation files!
 
-es_ES - Spanish (Spain).
+8. To make changes to a translation file, open it in a text editor. Something like Notepad is fine, but if you're not sure about what to use, we recommend [Atom](https://atom.io/).
 
-If you have any question about what to name your locale folder, feel free to reach out to me on Discord (sudofox#8048) or on Twitter ( https://twitter.com/Sudomemo )
+9. Using a text editor, translate any **.po** lines that start with **`msgstr`**. 
+	* If the text starts with an `@` symbol, you can remove the `@` symbol. 
+    * Sometimes, format characters like `%s` and `%d` are used as placeholders (for example, the `%s` in "Flipnote by %s" becomes a username), please make sure these go in the right places!
+    
+10. After you've made changes, go back to **GitHub Desktop**. You should see all the files you've changed under the **Changes** tab. Below, there should be an input box where you can enter a **Summary** and **Description**.
 
-After that, translate all of the "msgstr" sections in all the .po files (not the "msgid" sections, those stay the same.)
+	* Your summary should explain what you changed; "added German translation" or "fixed Japanese translation for blockSettings.po" are examples of good summaries.
 
-Instances of %s are printf placeholders. Something like a name or a number will go in there. For example:
+	* Decription is optional, so don't worry about it.
 
-```
-msgid "FLIPNOTE_BY_FORMAT"
-msgstr "Flipnote by %s"
-```
+11. Click the **Commit to master** button at the bottom. Your changes will now be saved to GitHub. You may continue to make changes in the same way until you're ready to submit them back to us.
 
-Just include the %s where the relevant part being inserted would go.
+12. When you're ready to to submit your changes to us, go to **Github Desktop** and choose **Branch** > **Create Pull Request**
 
-If you have any questions, feel free to ask.
-   
-## English->Japanese efforts:
+13. Give your Pull Request a title and add your Flipnote Studio ID in the comment area along with anything you want to note. Finally, click on **Create Pull Request** to submit it. 
 
-The following list is not up-to-date and will be updated shortly to reflect the current state of translations. 	
+14. We'll review your Pull Request as soon as possible, make to to check back regularly in case there is something we ask you to fix. c:
 
-### Out of date (untranslated or partially untranslated)
+#### Langcode list
 
+Common languages:
 
-### In need of review by someone fluent in Japanese  
-- All Pages
+| Name    | Language          |
+|:--------|:------------------|
+| `en_US` | American English  |
+| `fr_FR` | French  |
+| `de_DE` | German  |
+| `nl-NL` | Dutch  |
+| `es_ES` | Spanish  |
+| `pt-PT` | Portugese |
+| `nl-NL` | Dutch  |
+| `it_IT` | Italian  |
+| `ja_JP` | Japanese  |
 
-### Up-to-Date Pages (full translation set - reviewed by someone fluent in Japanese)
+[A full list is available here](http://www.lingoes.net/en/translator/langcode.htm)
 
+If you have any question about which langcode to use, feel free to reach out to us on Discord (`@sudofox#8048` or `@jaames#7359`) or on Twitter (`@sudomemo` or `@rakujira`).
 
-# Thank You
+## Thank You
 
-## English to Japanese
+#### English to Japanese
 
 @[Bukharin1](https://www.twitter.com/Fin_suomi_)
 @[Compeito](https://twitter.com/ugo_compeito)
 
-## English to Greek 
+#### English to Greek 
 
-@igantzia ( https://github.com/igantzia )
+@[igantzia](https://github.com/igantzia)
