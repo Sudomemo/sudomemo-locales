@@ -5,7 +5,7 @@ Notes: In some headers, text is shrunk by prepending an @ sign. As English text 
 
 ## How to contribute
 
-Fork this repository. Please use your **master** branch rather than making additional branches, as your master branch is what will be pulled into the main repository. 
+Fork this repository. Please use a **single** branch for the branch to submit a PR with, rather than making many additional branches. Your master branch (main/default one) is fine to use. The single branch is what will be pulled into the main repository. 
 
 Copy the en_US folder to a new folder.
 
