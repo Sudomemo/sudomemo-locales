@@ -1,0 +1,47 @@
+msgid "NO_COMMENTS_YET"
+msgstr "No messages have been sent here."
+
+msgid "HEADER_DIRECT_MESSAGES"
+msgstr "Direct Messages"
+
+msgid "HEADER_CONVERSATION_ID"
+msgstr "Conversation ID"
+
+msgid "HEADER_PARTICIPANTS"
+msgstr "Participants"
+
+msgid "HEADER_UNREAD_COUNT"
+msgstr "Unread"
+
+msgid "TAP_ON_CONVERSATION_ID_TO_JOIN_CHAT"
+msgstr "Tap on a Conversation ID to join the chat."
+
+msgid "HEADER_NEXT"
+msgstr "Next"
+
+msgid "HEADER_PREV"
+msgstr "Prev"
+
+msgid "PAGE_FORMAT"
+msgstr "Page %d"
+
+msgid "HEADER_REFRESH"
+msgstr "Refresh"
+
+msgid "LOGIN_REQUIRED_TO_REPLY"
+msgstr "You must be logged in to reply to this conversation."
+
+msgid "REPLY_FAIL_USER_BANNED"
+msgstr "You have been restricted from interacting with Sudomemo."
+
+msgid "DUPLICATE_COMMENT_FAILED"
+msgstr "This comment has already been posted to Sudomemo."
+
+msgid "CHAT_REPLY_FAILED"
+msgstr "Chat reply failed. Try again in a moment."
+
+msgid "NO_BLANK_MESSAGES_ALLOWED"
+msgstr "You cannot post a blank chat message."
+
+msgid "FLIPNOTE_DATA_CORRUPTED"
+msgstr "The Flipnote data is corrupted. Try again in a moment."
