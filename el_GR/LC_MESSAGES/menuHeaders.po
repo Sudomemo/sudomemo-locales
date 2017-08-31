@@ -1,96 +1,60 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: \n"
-"POT-Creation-Date: 2016-02-10 13:15+0000\n"
-"PO-Revision-Date: 2016-02-10 13:28+0000\n"
-"Language-Team: \n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.7\n"
-"X-Poedit-Basepath: ../../../sudomemo/Locales\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Last-Translator: \n"
-"Language: gr\n"
-"X-Poedit-SearchPath-0: .\n"
-
-#: test-locale.php:20
 msgid "WATCH_FLIPNOTES"
 msgstr "Ολα τα Flipnotes"
 
-#: test-locale.php:21
 msgid "CHANNELS"
 msgstr "Καναλια"
 
-#: test-locale.php:22
 msgid "CATEGORIES"
 msgstr "Κατηγοριεs"
 
-#: test-locale.php:23
 msgid "FEATURED"
 msgstr "Προβαλλομενα"
 
-#: test-locale.php:24
 msgid "HOT_FLIPNOTES"
 msgstr "Καυτα Flipnotes"
 
-#: test-locale.php:25
 msgid "ABOUT_SUDOMEMO"
 msgstr "Για το Sudomemo"
 
-#: test-locale.php:26
 msgid "CREATORS_ROOM"
 msgstr "Εργαστηρι"
 
-#: test-locale.php:27
 msgid "NEWS"
 msgstr "Sudomemo News"
 
-#: test-locale.php:28
 msgid "CHATROOMS"
 msgstr "Δωματια Τσατ"
 
-#: test-locale.php:29
 msgid "SEARCH"
 msgstr "Αναζητηση"
 
-#: test-locale.php:30
 msgid "SEARCH_USER"
 msgstr "Αναζητηση Χρηστη"
 
-#: test-locale.php:31
 msgid "SEARCH_FLIPNOTE"
 msgstr "Αναζητηση Flipnote"
 
-#: test-locale.php:32
 #msgid "ABOUT_SUDOMEMO"
 #msgstr "Βοηθεια Sudomemo"
 
-#: test-locale.php:33
 msgid "RELOAD_USER"
 msgstr "Reload Χρηστη"
 
-#: test-locale.php:34
 msgid "LOGIN"
 msgstr "Συνδεση"
 
-#: test-locale.php:35
 msgid "LOGOUT"
 msgstr "Logout"
 
-#: test-locale.php:36
 msgid "REGISTER"
 msgstr "Register"
 
-#: test-locale.php:37
 msgid "THEME_SHOP"
 msgstr "Theme Shop"
 
-#: test-locale.php:38
 msgid "MAIL"
 msgstr "Mail"
 
-#: test-locale.php:42
 msgid "TEST_TRANSLATION"
 msgstr "Greek Translation"
 
