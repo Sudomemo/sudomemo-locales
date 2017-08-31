@@ -3,9 +3,13 @@ For public contributions to localization efforts on Sudomemo.
 
 Notes: In some headers, text is shrunk by prepending an @ sign. As English text displays differently in the Japanese versions, and vice-a-versa, @ signs at the beginning of a locale string should not be included in the translated versions unless added after the fact.
 
+Full and verified translations can earn you citizenship on Sudomemo c:
+
+Google Translate does not cut it: you'll need to be fluent in the language you are translating it to.
+
 ## How to contribute
 
-
+You will need a basic understanding of git/GitHub and a GitHub account.
 
 Fork this repository. Please use a **single** branch for the branch to submit a PR with, rather than making many additional branches. Your master branch (main/default one) is fine to use. The single branch is what will be pulled into the main repository. 
 
