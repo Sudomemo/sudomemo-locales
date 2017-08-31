@@ -5,7 +5,7 @@ Notes: In some headers, text is shrunk by prepending an @ sign. As English text 
 
 ## How to contribute
 
-1. Fork this repository. Please use your **master** branch rather than making additional branches, as your master branch is what will be pulled into the main repository. 
+Fork this repository. Please use your **master** branch rather than making additional branches, as your master branch is what will be pulled into the main repository. 
 
 Copy the en_US folder to a new folder.
 
