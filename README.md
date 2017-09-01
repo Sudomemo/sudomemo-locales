@@ -43,7 +43,7 @@ Please note that translations will be verified; contributions will not be accept
 
 13. Give your Pull Request a title and add your Flipnote Studio ID in the comment area along with anything you want to note. Finally, click on **Create Pull Request** to submit it. 
 
-14. We'll review your Pull Request as soon as possible, make to to check back regularly in case there is something we ask you to fix. c:
+14. We'll review your Pull Request as soon as possible, make sure to check back regularly in case there is something we ask you to fix. c:
 
 #### Langcode list
 
@@ -54,10 +54,10 @@ Common languages:
 | `en_US` | American English  |
 | `fr_FR` | French  |
 | `de_DE` | German  |
-| `nl-NL` | Dutch  |
+| `nl_NL` | Dutch  |
 | `es_ES` | Spanish  |
-| `pt-PT` | Portugese |
-| `nl-NL` | Dutch  |
+| `pt_PT` | Portugese |
+| `nl_NL` | Dutch  |
 | `it_IT` | Italian  |
 | `ja_JP` | Japanese  |
 
