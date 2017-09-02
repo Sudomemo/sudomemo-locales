@@ -21,7 +21,7 @@ Please note that translations will be verified; contributions will not be accept
 
 5. Navigate to the repository's folder (hint: with GitHub Desktop you can do this by going to **Repository** > **Show In Explorer**).
 
-6. In here, you should see a few folders for different langcodes, like `en_US` and `ja_JP`. If you don't see a folder with the langcode for your chosen language, then please make a copy of `en_US` and rename it. If you aren't sure what the langcode is, we have a list [here](#langcode_list)
+6. In here, you should see a few folders for different langcodes, like `en_US` and `ja_JP`. If you don't see a folder with the langcode for your chosen language, then please make a copy of `en_US` and rename it. If you aren't sure what the langcode is, we have a list [here](#langcode-list)
 
 7. Open the folder for your chosen language, and then open the **LC_MESSAGES** folder. You should see a lot of files that end with **.po** -- these are the translation files!
 
