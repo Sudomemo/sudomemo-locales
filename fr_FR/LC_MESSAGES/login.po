@@ -1,14 +1,14 @@
 msgid "BAN_GREETING_FORMAT"
-msgstr "Hello, %s."
+msgstr "Bonjour, %s."
 
 msgid "BAN_NOTICE_CONSOLE_BAN"
-msgstr "Your account and console have been suspended from Sudomemo."
+msgstr "Votre compte et console a été suspendu de Sudomemo."
 
 msgid "BAN_NOTICE_PLEASE_READ_BAN_LETTER"
 msgstr "Please read the letter we sent you for further information."
 
 msgid "BAN_VIEW_MAIL"
-msgstr "View Sudomemo Mail"
+msgstr "Voir Sudomemo Mail"
 
 msgid "LOGIN_SUCCESSFUL"
 msgstr "Login Successful"
@@ -107,41 +107,40 @@ msgid "REGISTRATION_ERROR_BAD_PASSWORD"
 msgstr "The password you provided is not permitted."
 
 msgid "ERROR"
-msgstr "Error"
+msgstr "Erreur"
 
 msgid "REGISTRATION_ERROR_PASSWORD_ALREADY_SET"
-msgstr "Password has already been set."
+msgstr "Mot depass a déja été défini."
 
 msgid "NEW_USER_THANKS_FOR_REGISTRATION"
-msgstr "Welcome to Sudomemo!"
+msgstr "Bienvenu sur Sudomemo!"
 
 msgid "RETURNING_USER_THANKS_FOR_REGISTRATION"
-msgstr "Welcome back! Thanks for setting up your login information."
+msgstr "Bon retour! Thanks for setting up your login information."
 
 msgid "BUTTON_SIGN_IN_TO_SUDOMEMO"
-msgstr "Sign in to Sudomemo"
+msgstr "S'identifiez a Sudomemo"
 
 msgid "LOGIN_FAILED"
-msgstr "Login failed."
+msgstr "Erreur d'identification."
 
 msgid "LOGIN_FAILED_REOPEN_FLIPNOTE_STUDIO"
 msgstr "Login failed. Close and reopen Flipnote Studio."
 
 msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE1"
-msgstr "The Flipnote data is corrupted."
+msgstr "La data de la Flipnote a été corrompue."
 
 msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE2"
-msgstr "Try sending it again."
+msgstr "Essayez de le renvoyer."
 
 msgid "LOGIN_FAILED_BANNED_LINE1"
-msgstr "You have been restricted from interacting with Sudomemo."
+msgstr ""Vous avez été restreint de interragir avec Sudomemo."
 
 msgid "CONTACT_SUPPORT_EMAIL_FORMAT"
-msgstr "Please contact %s."
+msgstr "S'il-vous-plaît contactez %s."
 
 msgid "CREATORS_ROOM_SHIM_WELCOME"
-msgstr "Welcome!"
+msgstr "Bienvenu!"
 
 msgid "CREATORS_ROOM_SHIM_PLEASE_LOGIN"
-msgstr "Welcome to Sudomemo! Please login to continue."
-
+msgstr "Bienvenu sur Sudomemo! Identifiez-vous pour continuer."

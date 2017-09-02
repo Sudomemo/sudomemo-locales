@@ -1,107 +1,107 @@
 msgid "SEE_MORE"
-msgstr "See more..."
+msgstr "Voir plus..."
 
 msgid "STARRED_FLIPNOTES"
-msgstr "Starred Flipnotes"
+msgstr "Flipnotes étoilées"
 
 msgid "FAVORITE_USERS"
-msgstr "Favorite Users"
+msgstr "Utilisateurs Favoris"
 
 msgid "FAVORITES_FEED"
-msgstr "Favorites Feed"
+msgstr "Nouvelles flipnotes d'Utilisateur favoris"
 
 msgid "FAVORITE_CHANNELS"
-msgstr "Favorite Channels"
+msgstr "Chaines Favoris"
 
 msgid "USER_DOWNLOADCOUNT"
-msgstr "Downloads"
+msgstr "Téléchargements"
 
 msgid "USER_VIEWCOUNT"
-msgstr "Views"
+msgstr "Vues"
 
 msgid "USER_THEME"
 msgstr "Theme"
 
 msgid "THEME_SHOP"
-msgstr "Theme Shop"
+msgstr "Boutique de Themes"
 
 msgid "POSTED_COMMENTS"
-msgstr "Posted Comments"
+msgstr "Commentaires Poster"
 
 msgid "POSTED_CHATCOMMENTS"
-msgstr "Chatroom Messages"
+msgstr "Messages de Chatroom"
 
 msgid "FEATURE_USABILITY"
 msgstr "Feature Usability"
 
 msgid "USABLE"
-msgstr "Usable"
+msgstr "Utilisable"
 
 msgid "NOT_USABLE"
-msgstr "Not Usable"
+msgstr "Non Utilisable"
 
 msgid "SUDOMEMO_THEATRE_URL"
-msgstr "Sudomemo Theatre Link"
+msgstr "Sudomemo Theatre Lien"
 
 msgid "FLIPNOTE_STUDIO_ID"
-msgstr "Flipnote Studio ID"
+msgstr "ID Flipnote Studio"
 
 msgid "SETTINGS"
-msgstr "Settings"
+msgstr "Paramétres"
 
 msgid "ADMIN_ACCT_GOOD_STANDING"
 msgstr "In good standing"
 
 msgid "ADMIN_ACCT_BANNED"
-msgstr "Banned"
+msgstr "Bannis"
 
 msgid "ADMIN_ACCT_BLOCKED"
-msgstr "Blocked"
+msgstr "Bloqué"
 
 msgid "ADMIN_ACCT_MUTED"
-msgstr "Muted"
+msgstr "Muet"
 
 msgid "ADMIN_USER_DETAILS"
 msgstr "User Details"
 
 msgid "ADMIN_LAST_SEEN"
-msgstr "Last seen"
+msgstr "Vue Dérniérement"
 
 msgid "ADMIN_USER_STATUS"
-msgstr "User Status"
+msgstr "Statut de l'Utilisateur"
 
 msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
-msgstr "Admin Actions"
+msgstr "Action Admin"
 
 msgid "BLOCK_COMMENTS_HEADER"
-msgstr "Block Comments"
+msgstr "Bloquer Commentaire"
 
 msgid "BLOCK_COMMENTS_LINK"
-msgstr "Block"
+msgstr "Bloque"
 
 msgid "USABILITY_USABLE"
-msgstr "Usable"
+msgstr "Utilisable"
 
 msgid "USABILITY_NOT_USABLE"
-msgstr "Not Usable"
+msgstr "Non Utilisable"
 
 msgid "HEADER_FOLLOWERS"
-msgstr "Followers"
+msgstr "Abonées"
 
 msgid "HEADER_FOLLOWING"
-msgstr "Following"
+msgstr "Abonements"
 
 msgid "PREVIOUS"
-msgstr "Previous"
+msgstr "Précédent"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "Suivant"
 
 msgid "CHANGE_ROOM_THEME_LINK"
-msgstr "[change theme]"
+msgstr "[changer le theme]"
 
 msgid "SELECT_THEME"
-msgstr "Select Theme"
+msgstr "Selectioner Theme"
 
 msgid "FANS"
 msgstr "Fans"
