@@ -1,33 +1,33 @@
 msgid "CHANNEL_NAME"
-msgstr "Channel Name"
+msgstr "Nombre del canal"
 
 msgid "CHANNEL_INFORMATION"
-msgstr "Channel Information"
+msgstr "Información del canal"
 
 msgid "FLIPNOTES"
 msgstr "Flipnotes"
 
 msgid "CHANNEL_ID"
-msgstr "Channel ID"
+msgstr "ID del canal"
 
 msgid "LOGIN_REQUIRED_TO_POST"
-msgstr "You must be logged in to post a Flipnote."
+msgstr "Debes iniciar sesión para publicar una Flipnote."
 
 msgid "CHANNEL_NOT_SPECIFIED"
-msgstr "You must pick a channel."
+msgstr "Debes elegir un canal."
 
 msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
-msgstr "You have been restricted from interacting with Sudomemo."
+msgstr "Tus interacciones en Sudomemo han sido restringidas."
 
 msgid "FLIPNOTE_POST_FAILED"
-msgstr "Flipnote upload failed. Try again in a moment."
+msgstr "Ha ocurrido un error al publicar esta Flipnote. intenta de nuevo en unos momentos."
 
 msgid "DUPLICATE_FLIPNOTE_FAILED"
-msgstr "This Flipnote has already been posted to Sudomemo. Try editing it again."
+msgstr "Esta flinote ya ha sido publicada. intenta editarla de nuevo."
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "The Flipnote data is corrupted. Try again in a moment."
+msgstr "Los datos de esta Flipnote estan corruptos, intenta de nuevo en unos momentos."
 
 msgid "NO_BLANK_FLIPNOTES_ALLOWED"
-msgstr "You may not post an empty Flipnote."
+msgstr "No debe publicar una Flipnote Vacía."
 
