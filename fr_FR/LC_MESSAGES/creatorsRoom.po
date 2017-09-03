@@ -62,7 +62,7 @@ msgid "ADMIN_ACCT_MUTED"
 msgstr "Muet"
 
 msgid "ADMIN_USER_DETAILS"
-msgstr "User Details"
+msgstr "Details De L'Utilisateur"
 
 msgid "ADMIN_LAST_SEEN"
 msgstr "Vue Dérniérement"
@@ -110,16 +110,16 @@ msgid "EXAMPLE"
 msgstr "Example"
 
 msgid "THEMETEST_SET_THEME"
-msgstr "Set Theme"
+msgstr "Définir Theme"
 
 msgid "THEMETEST_NOTICE"
 msgstr "Notice"
 
 msgid "THEMETEST_OK"
-msgstr "Okay"
+msgstr "Ok"
 
 msgid "THEMETEST_ERROR"
-msgstr "Error"
+msgstr "Erreur"
 
 msgid "THEMETEST_NOTICE_2"
 msgstr "Notice #2"
@@ -131,22 +131,22 @@ msgid "THEMETEST_INACTIVE_TAB"
 msgstr "Inactive tab"
 
 msgid "PREVIEW"
-msgstr "Preview"
+msgstr "Aperçu"
 
 msgid "CREATORS_ROOM"
-msgstr "Creator's Room"
+msgstr "Salle De Créateur"
 
 msgid "THEME_ERROR_THEME_NOT_OWNED"
-msgstr "Sorry! You do not own that theme."
+msgstr "Désolé! Vous ne possédez pas ce theme."
 
 msgid "THEME_SUCCESSFULLY_SET"
-msgstr "Theme successfully set!"
+msgstr "Theme changer avec succes!"
 
 msgid "BLOCKED_USERS"
-msgstr "Blocked users"
+msgstr "Utilisateurs Bloquées"
 
 msgid "VIEW"
-msgstr "View"
+msgstr "Voir"
 
 msgid "FAN_COUNT_FORMAT"
 msgstr "Fans: %s"

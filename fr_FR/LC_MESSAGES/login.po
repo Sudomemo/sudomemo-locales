@@ -5,106 +5,106 @@ msgid "BAN_NOTICE_CONSOLE_BAN"
 msgstr "Votre compte et console a été suspendu de Sudomemo."
 
 msgid "BAN_NOTICE_PLEASE_READ_BAN_LETTER"
-msgstr "Please read the letter we sent you for further information."
+msgstr "S'il-vous-plaît lisez la lettre que on vous a envoyer pour plus d'information."
 
 msgid "BAN_VIEW_MAIL"
 msgstr "Voir Sudomemo Mail"
 
 msgid "LOGIN_SUCCESSFUL"
-msgstr "Login Successful"
+msgstr "Conection réussie"
 
 msgid "THANKS_FOR_LOGIN_FORMAT"
-msgstr "Thanks for signing in, %s!"
+msgstr "Merci de vous être connecté, %s!"
 
 msgid "GOTO_CREATORS_ROOM"
-msgstr "Go to your Creator's Room"
+msgstr "Visitez votre Salle De Créateur"
 
 msgid "LOGIN"
-msgstr "Login"
+msgstr "Connectez-vous"
 
 msgid "POST_COMMENT_BELOW"
-msgstr "To continue, please post a comment below."
+msgstr "Pour continuer, S'il-vous-plaît postez un commentaire ci-dessous."
 
 msgid "LOGIN_SETUP"
-msgstr "Login Setup"
+msgstr "Création D'un Mot De Passe"
 
 msgid "WELCOME_BACK_FORMAT"
-msgstr "Welcome back, %s!"
+msgstr "Bon retour, %s!"
 
 msgid "RETURNING_USER_NEW_LOGIN_SYSTEM"
-msgstr "Since the last time you visited, we've added a new login system -- but don't worry, all of your content is still here!"
+msgstr "Depuis votre dernière visite, Nous avons ajoutez un nouveau systeme d'identification -- Mais pas de soucis, tous votre contenue est toujours içi!"
 
 msgid "RETURNING_USER_PLEASE_CREATE_PASSWORD"
-msgstr "To get started, please create a new password below."
+msgstr "Pour commencer, S'il-vous-plaît crée un Mot De Passe ci-dessous."
 
 msgid "NEW_USER_WELCOME_FORMAT"
-msgstr "Welcome to Sudomemo, %s!"
+msgstr "Bienvenu sur Sudomemo, %s!"
 
 msgid "NEW_USER_PLEASE_CREATE_PASSWORD"
-msgstr "Please create a new password."
+msgstr "S'il-vous-plaît entrez un nouveau Mot De Passe."
 
 msgid "FORM_HEADER_PASSWORD"
-msgstr "Password:"
+msgstr "Mot de passe:"
 
 msgid "FORM_PREFILL_PASSWORD"
-msgstr "Enter your password here..."
+msgstr "Entrez votre Mot De Passe içi..."
 
 msgid "FORM_WARNING_PASSWORD_TOO_SHORT"
-msgstr "Please enter a password that is longer than 8 characters."
+msgstr "S'il-vous-plaît entrez Un Mot De Passe qui est plus long que 8 charactères."
 
 msgid "FORM_WARNING_PASSWORD_DISALLOWED_CHARS"
-msgstr "Your password cannot contain any of these characters:"
+msgstr "Votre Mot De Passe ne peut pas contenir ces charactères:"
 
 msgid "FORM_LABEL_DONT_FORGET_PASSWORD"
-msgstr "Remember to make a note of your password, and keep it safe!"
+msgstr "Rapellez-vous de garder en note votre Mot De Passe, et gardez-le secret!"
 
 msgid "FORM_HEADER_EMAIL"
-msgstr "Email (Optional):"
+msgstr "Email (Optionel):"
 
 msgid "FORM_PREFILL_EMAIL"
-msgstr "Enter your email here..."
+msgstr "Entez votre email içi..."
 
 msgid "FORM_WARNING_EMAIL_INVALID"
-msgstr "The email address you entered isn't valid."
+msgstr "L'Email que vous avez saisi n'est pas valide."
 
 msgid "EMAIL_ADDITION_SUGGESTED"
-msgstr "Email is optional, but highly recommended. If you ever forget your password, we will send a password reset link to your email address."
+msgstr "Email est optionel, Mais hautement récommender. Si vous oubliez votre Mot de Passe, on vous enverra un lien de rénitialisation du Mot De Passe sur votre address email."
 
 msgid "CONFIRM_INFO_CORRECT"
 msgstr "Please make sure that the information below is correct."
 
 msgid "NO_PLAINTEXT_PASSWORD_RECOVERY_IF_LOST"
-msgstr "After this stage, we can't recover your password if you lose it."
+msgstr "Apres cet étape, nous pouvons pas récuperé votre Mot De Passe si vous le perdez."
 
 msgid "BUTTON_CHANGE_PASSWORD"
-msgstr "Change password"
+msgstr "Changer Mot De Passe"
 
 msgid "FORM_HEADER_EMAIL_CONFIRM"
 msgstr "Email:"
 
 msgid "BUTTON_CHANGE_EMAIL"
-msgstr "Change email address"
+msgstr "Changer l'address email"
 
 msgid "BUTTON_ADD_AN_EMAIL_ADDRESS"
-msgstr "Add an email address"
+msgstr "Ajouter une address email"
 
 msgid "BUTTON_SUBMIT"
-msgstr "Submit"
+msgstr "Entrer"
 
 msgid "PLEASE_ENTER_PASSWORD_TO_SIGN_IN"
-msgstr "Please enter your password to sign in"
+msgstr "S'il-vous-plais entrez votre Mot De Passse pour vous connecter"
 
 msgid "LOGIN_FORM_PREFILL_PASSWORD"
-msgstr "Enter password"
+msgstr "Entrer Mot De Passe"
 
 msgid "INCORRECT_PASSWORD_ATTEMPTS_FORMAT"
 msgstr "Incorrect password attempts: %s"
 
 msgid "REGISTRATION_ERROR_BAD_EMAIL"
-msgstr "The email address you provided is not permitted."
+msgstr "L'adress email que vous avez entrer n'est pas valide."
 
 msgid "REGISTRATION_ERROR_BAD_PASSWORD"
-msgstr "The password you provided is not permitted."
+msgstr "Le Mot De Passe que vous avez entrer n'est pas valide."
 
 msgid "ERROR"
 msgstr "Erreur"
@@ -125,7 +125,7 @@ msgid "LOGIN_FAILED"
 msgstr "Erreur d'identification."
 
 msgid "LOGIN_FAILED_REOPEN_FLIPNOTE_STUDIO"
-msgstr "Login failed. Close and reopen Flipnote Studio."
+msgstr "Identification échoué. Fermer et redémarrer Flipnote Studio."
 
 msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE1"
 msgstr "La data de la Flipnote a été corrompue."
@@ -134,7 +134,7 @@ msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE2"
 msgstr "Essayez de le renvoyer."
 
 msgid "LOGIN_FAILED_BANNED_LINE1"
-msgstr ""Vous avez été restreint de interragir avec Sudomemo."
+msgstr "Vous avez été restreint de interragir avec Sudomemo."
 
 msgid "CONTACT_SUPPORT_EMAIL_FORMAT"
 msgstr "S'il-vous-plaît contactez %s."

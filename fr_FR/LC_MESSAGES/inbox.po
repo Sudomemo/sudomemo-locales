@@ -1,9 +1,9 @@
 msgid "HEADER_INBOX"
-msgstr "Inbox"
+msgstr "Boîte de réception"
 
 # this must be a max of 6 characters
 msgid "UNAUTHED_READ"
-msgstr "lire.."
+msgstr "Lire.."
 
 msgid "PREV"
 msgstr "Précedent"
