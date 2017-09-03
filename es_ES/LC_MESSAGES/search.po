@@ -2,31 +2,31 @@ msgid "HEADER_PREV"
 msgstr "Prev"
 
 msgid "HEADER_NEXT"
-msgstr "Next"
+msgstr "Sig"
 
 msgid "PAGE_FORMAT"
-msgstr "Page %d"
+msgstr "Página %d"
 
 msgid "SEARCH"
-msgstr "Search"
+msgstr "Buscar"
 
 msgid "USERNAME"
-msgstr "Username"
+msgstr "Nombre de usuario"
 
 msgid "RESULTS"
-msgstr "Results"
+msgstr "Resultados"
 
 msgid "SEARCH_USERNAME"
-msgstr "Search Username"
+msgstr "Buscar nombre de usuario"
 
 msgid "PLEASE_ENTER_USERNAME"
-msgstr "Please enter a username..."
+msgstr "Por favor introduce un nombre de usuario..."
 
 msgid "RESULTS_FOUND_FORMAT_SINGULAR"
-msgstr "%1$d result found for \"%2$s\""
+msgstr "%1$d resultados encontrados de \"%2$s\""
 
 msgid "RESULTS_FOUND_FORMAT_MULTIPLE"
-msgstr "%1$d results found for \"%2$s\""
+msgstr "%1$d resultados encontrados de \"%2$s\""
 
 msgid "NO_RESULTS_FOUND"
-msgstr "No results found"
+msgstr "Ningùn resultado fue encontrado"

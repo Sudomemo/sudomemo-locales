@@ -1,39 +1,39 @@
 msgid "NO_COMMENTS_YET"
-msgstr "No messages have been sent here."
+msgstr "Ningun comentario ha sido publicado."
 
 msgid "HEADER_COMMENTS"
-msgstr "Comments"
+msgstr "Comentarios"
 
 msgid "PAGE_FORMAT"
-msgstr "Page %d"
+msgstr "Página %d"
 
 msgid "HEADER_NEXT"
-msgstr "Next"
+msgstr "Siguiente"
 
 msgid "HEADER_PREV"
-msgstr "Prev"
+msgstr "Anterior"
 
 msgid "HEADER_REFRESH"
-msgstr "Refresh"
+msgstr "Actualizar"
 
 msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
-msgstr "You must be logged in to post a chat message."
+msgstr "Debes iniciar sesión para publicar un comentario."
 
 msgid "CHAT_REPLY_FAILED"
-msgstr "Chat reply failed. Try again in a moment."
+msgstr "Ha ocurrido un error al publicar el comentario. Prueba de nuevo en un momento."
 
 msgid "NO_BLANK_MESSAGES_ALLOWED"
-msgstr "You cannot post a blank chat message."
+msgstr "No puedes publicar un comentario vacio!."
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "The Flipnote data is corrupted. Try again in a moment."
+msgstr "Los datos de esta Flipnote estan corruptos. Prueba de nuevo en un momento."
 
 msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
-msgstr "You have been muted. You may not post chat messages while you are muted."
+msgstr "Usted ha sido muteado. No podrá publicar comentarios mientras esta muteado."
 
 msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "This comment has already been posted to Sudomemo."
+msgstr "Este comentario ya ha sido publicado en Sudomemo."
 
 msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "You have been restricted from interacting with Sudomemo."
+msgstr "Tu interacción al publicar un comentario ha sido restringida de Sudomemo."
 

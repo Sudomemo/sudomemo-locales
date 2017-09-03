@@ -2,67 +2,67 @@ msgid "TIMESTAMP_FORMAT"
 msgstr "M d, Y H:i:s"
 
 msgid "FLIPNOTE_TITLE_FORMAT"
-msgstr "Flipnote by %s"
+msgstr "Flipnote de %s"
 
 msgid "HEADER_DETAILS"
-msgstr "Details"
+msgstr "Detalles"
 
 msgid "HEADER_COMMENTS"
-msgstr "Comments"
+msgstr "Comentarios"
 
 msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
-msgstr "This Flipnote is a spin-off."
+msgstr "Esta Flipnote es una spin-off."
 
 msgid "HEADER_ORIGINAL_FLIPNOTE"
-msgstr "View the source Flipnote here"
+msgstr "Vista del recurso aqui."
 
 msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
-msgstr "To prevent star-begging, yellow stars are limited to ten per Flipnote."
+msgstr "Para prevenir la sùplica de estrellas, las estrellas amarillas estan limitadas a diez por Flipnote."
 
 msgid "HEADER_CREATOR"
-msgstr "Creator"
+msgstr "Creador"
 
 msgid "HEADER_STARS"
-msgstr "Stars"
+msgstr "Estrellas"
 
 msgid "HEADER_VIEWS"
-msgstr "Views"
+msgstr "Vistas"
 
 msgid "HEADER_SPINOFFS"
 msgstr "Spin-offs"
 
 msgid "HEADER_DOWNLOADS"
-msgstr "Downloads"
+msgstr "Descargas"
 
 msgid "HEADER_TITLE"
-msgstr "Title"
+msgstr "Tìtulo"
 
 msgid "HEADER_POSTED"
-msgstr "Posted"
+msgstr "Publicado"
 
 msgid "HEADER_FLIPNOTE_ID"
-msgstr "Flipnote ID"
+msgstr "ID de Flipnote"
 
 msgid "HEADER_CHANNEL"
-msgstr "Channel"
+msgstr "Canal"
 
 msgid "HEADER_OPTIONS"
-msgstr "Options"
+msgstr "Opciones"
 
 msgid "HEADER_SET_AS_PROFILE_PICTURE"
-msgstr "Set as Profile Picture"
+msgstr "Establecer como imágen de perfil"
 
 msgid "HEADER_REPORT_FLIPNOTE"
-msgstr "Report Flipnote"
+msgstr "Reportar Flipnote"
 
 msgid "ADMIN_ACTIONS"
-msgstr "Admin actions"
+msgstr "Acciones de administrador"
 
 msgid "PREV"
-msgstr "Prev"
+msgstr "Anterior"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "Siguiente"
 
 msgid "STAR_DETAILS_UPPERTITLE"
-msgstr "★ Stars ★"
+msgstr "★ Estrellas ★"
