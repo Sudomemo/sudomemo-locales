@@ -134,7 +134,7 @@ msgid "PREVIEW"
 msgstr "プレビュー"
 
 msgid "CREATORS_ROOM"
-msgstr "マイルーム"
+msgstr "クリエイターズルーム"
 
 msgid "THEME_ERROR_THEME_NOT_OWNED"
 msgstr "あなたはそのテーマを所有していません。"
@@ -143,10 +143,10 @@ msgid "THEME_SUCCESSFULLY_SET"
 msgstr "テーマの変更が完了しています!"
 
 msgid "BLOCKED_USERS"
-msgstr "Blocked users"
+msgstr "ブロックされたユーザー"
 
 msgid "VIEW"
-msgstr "View"
+msgstr "ビュー"
 
 msgid "FAN_COUNT_FORMAT"
 msgstr "%s人"
