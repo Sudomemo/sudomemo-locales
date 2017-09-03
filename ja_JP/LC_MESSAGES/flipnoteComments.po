@@ -20,25 +20,25 @@ msgid "NO_COMMENTS_YET"
 msgstr "この作品にはまだコメントがありません。"
 
 msgid "LOGIN_REQUIRED_TO_POST_COMMENT"
-msgstr "You must be logged in to post a comment."
+msgstr "コメントを投稿するには、ログインしている必要があります。"
 
 msgid "COMMENT_POST_FAILED"
-msgstr "Comment post failed. Try again in a moment."
+msgstr "コメント投稿に失敗しました。 もう一度やり直してください。"
 
 msgid "NO_BLANK_COMMENTS_ALLOWED"
-msgstr "You cannot post a blank comment."
+msgstr "空白のコメントを投稿することはできません。"
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "The Flipnote data is corrupted. Try again in a moment."
+msgstr "うごメモのデータが破損しています。 もう一度やり直してください。"
 
 msgid "FLIPNOTE_COMMENTS_DISALLOWED"
-msgstr "You may not comment on this Flipnote."
+msgstr "あなたはこの作品にコメントできません"
 
 msgid "NO_COMMENTS_WHILE_MUTED"
-msgstr "You have been muted. You may not post comments while you are muted."
+msgstr "あなたはミュートされました。 ミュートされている間はコメントを投稿できません。"
 
 msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "This comment has already been posted to Sudomemo."
+msgstr "このコメントは既にSudomemoに投稿されています。"
 
 msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "You have been restricted from interacting with Sudomemo."
+msgstr "あなたはSudomemoとの対話を制限されています。"
