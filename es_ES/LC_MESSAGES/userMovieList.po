@@ -2,10 +2,10 @@ msgid "UPPERTITLE"
 msgstr "Vistazo"
 
 msgid "NEXT"
-msgstr "Siguiente página"
+msgstr "Sig"
 
 msgid "PREV"
-msgstr "Pagina anterior"
+msgstr "Prev"
 
 msgid "PAGE"
 msgstr "Página"
@@ -17,8 +17,8 @@ msgid "FLIPNOTES_BY_FORMAT"
 msgstr "Flipnotes de %s"
 
 msgid "STARRED_BY_FORMAT"
-msgstr "Marcado por %s"
+msgstr "Estrelladas por %s"
 
 msgid "FAVORITES_FEED_FORMAT"
-msgstr "Feed de Favoritos de %s's"
+msgstr "Noticias de Favoritos de %s's"
 
