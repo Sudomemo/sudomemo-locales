@@ -1,32 +1,32 @@
 msgid "HEADER_PREV"
-msgstr "Prev"
+msgstr "前へ"
 
 msgid "HEADER_NEXT"
-msgstr "Next"
+msgstr "次へ"
 
 msgid "PAGE_FORMAT"
 msgstr "Page %d"
 
 msgid "SEARCH"
-msgstr "Search"
+msgstr "検索"
 
 msgid "USERNAME"
-msgstr "Username"
+msgstr "ユーザーネーム"
 
 msgid "RESULTS"
-msgstr "Results"
+msgstr "結果"
 
 msgid "SEARCH_USERNAME"
-msgstr "Search Username"
+msgstr "ユーザーネーム検索"
 
 msgid "PLEASE_ENTER_USERNAME"
-msgstr "Please enter a username..."
+msgstr "ユーザー名を入力してください..."
 
 msgid "RESULTS_FOUND_FORMAT_SINGULAR"
-msgstr "%1$d result found for \"%2$s\""
+msgstr "\"%2$s\"で%1$d件見つかりました"
 
 msgid "RESULTS_FOUND_FORMAT_MULTIPLE"
-msgstr "%1$d results found for \"%2$s\""
+msgstr "\"%2$s\"で%1$d件見つかりました"
 
 msgid "NO_RESULTS_FOUND"
-msgstr "No results found"
+msgstr "結果が見つかりませんでした"
