@@ -1,41 +1,41 @@
 msgid "COMMENT_DETAILS"
-msgstr "Comment Details"
+msgstr "コメントの詳細"
 
 msgid "MESSAGE_DETAILS"
-msgstr "Message Details"
+msgstr "メッセージの詳細"
 
 msgid "AUTHOR"
-msgstr "Author"
+msgstr "作者"
 
 msgid "COMMENT_BY_FORMAT"
-msgstr "Comment by %s"
+msgstr "%sのコメント"
 
 msgid "CHAT_MESSAGE_FROM_FORMAT"
-msgstr "Chat Message from %s"
+msgstr "%sのチャットメッセージ"
 
 msgid "MESSAGE_FROM_FORMAT"
-msgstr "Message from %s"
+msgstr "%sのメッセージ"
 
 msgid "FLIPNOTE_BY_FORMAT"
-msgstr "Flipnote by %s"
+msgstr "%sの作品"
 
 msgid "COMMENT_ID"
-msgstr "Comment ID"
+msgstr "コメントID"
 
 msgid "MESSAGE_ID"
-msgstr "Message ID"
+msgstr "メッセージID"
 
 msgid "CHAT_COMMENT_ID"
-msgstr "Chat Comment ID"
+msgstr "チャットコメントID"
 
 msgid "TIMESTAMP"
-msgstr "Timestamp"
+msgstr "タイムスタンプ"
 
 msgid "POSTED_TO"
-msgstr "Posted to"
+msgstr "投稿者"
 
 msgid "PRIVATE_CONVERSATION"
-msgstr "Private Conversation"
+msgstr "内談"
 
 msgid "REPORT_CONTENT"
-msgstr "Report Content"
+msgstr "報告内容"
