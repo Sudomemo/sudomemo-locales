@@ -1,0 +1,146 @@
+msgid "BAN_GREETING_FORMAT"
+msgstr "Bonjour, %s."
+
+msgid "BAN_NOTICE_CONSOLE_BAN"
+msgstr "Votre compte et console a été suspendu de Sudomemo."
+
+msgid "BAN_NOTICE_PLEASE_READ_BAN_LETTER"
+msgstr "S'il-vous-plaît lisez la lettre que on vous a envoyer pour plus d'information."
+
+msgid "BAN_VIEW_MAIL"
+msgstr "Voir Sudomemo Mail"
+
+msgid "LOGIN_SUCCESSFUL"
+msgstr "Conection réussie"
+
+msgid "THANKS_FOR_LOGIN_FORMAT"
+msgstr "Merci de vous être connecté, %s!"
+
+msgid "GOTO_CREATORS_ROOM"
+msgstr "Visitez votre Salle De Créateur"
+
+msgid "LOGIN"
+msgstr "Connectez-vous"
+
+msgid "POST_COMMENT_BELOW"
+msgstr "Pour continuer, S'il-vous-plaît postez un commentaire ci-dessous."
+
+msgid "LOGIN_SETUP"
+msgstr "Création D'un Mot De Passe"
+
+msgid "WELCOME_BACK_FORMAT"
+msgstr "Bon retour, %s!"
+
+msgid "RETURNING_USER_NEW_LOGIN_SYSTEM"
+msgstr "Depuis votre dernière visite, Nous avons ajoutez un nouveau systeme d'identification -- Mais pas de soucis, tous votre contenue est toujours içi!"
+
+msgid "RETURNING_USER_PLEASE_CREATE_PASSWORD"
+msgstr "Pour commencer, S'il-vous-plaît crée un Mot De Passe ci-dessous."
+
+msgid "NEW_USER_WELCOME_FORMAT"
+msgstr "Bienvenu sur Sudomemo, %s!"
+
+msgid "NEW_USER_PLEASE_CREATE_PASSWORD"
+msgstr "S'il-vous-plaît entrez un nouveau Mot De Passe."
+
+msgid "FORM_HEADER_PASSWORD"
+msgstr "Mot de passe:"
+
+msgid "FORM_PREFILL_PASSWORD"
+msgstr "Entrez votre Mot De Passe içi..."
+
+msgid "FORM_WARNING_PASSWORD_TOO_SHORT"
+msgstr "S'il-vous-plaît entrez Un Mot De Passe qui est plus long que 8 charactères."
+
+msgid "FORM_WARNING_PASSWORD_DISALLOWED_CHARS"
+msgstr "Votre Mot De Passe ne peut pas contenir ces charactères:"
+
+msgid "FORM_LABEL_DONT_FORGET_PASSWORD"
+msgstr "Rapellez-vous de garder en note votre Mot De Passe, et gardez-le secret!"
+
+msgid "FORM_HEADER_EMAIL"
+msgstr "Email (Optionel):"
+
+msgid "FORM_PREFILL_EMAIL"
+msgstr "Entez votre email içi..."
+
+msgid "FORM_WARNING_EMAIL_INVALID"
+msgstr "L'Email que vous avez saisi n'est pas valide."
+
+msgid "EMAIL_ADDITION_SUGGESTED"
+msgstr "Email est optionel, Mais hautement récommender. Si vous oubliez votre Mot de Passe, on vous enverra un lien de rénitialisation du Mot De Passe sur votre address email."
+
+msgid "CONFIRM_INFO_CORRECT"
+msgstr "Please make sure that the information below is correct."
+
+msgid "NO_PLAINTEXT_PASSWORD_RECOVERY_IF_LOST"
+msgstr "Apres cet étape, nous pouvons pas récuperé votre Mot De Passe si vous le perdez."
+
+msgid "BUTTON_CHANGE_PASSWORD"
+msgstr "Changer Mot De Passe"
+
+msgid "FORM_HEADER_EMAIL_CONFIRM"
+msgstr "Email:"
+
+msgid "BUTTON_CHANGE_EMAIL"
+msgstr "Changer l'address email"
+
+msgid "BUTTON_ADD_AN_EMAIL_ADDRESS"
+msgstr "Ajouter une address email"
+
+msgid "BUTTON_SUBMIT"
+msgstr "Entrer"
+
+msgid "PLEASE_ENTER_PASSWORD_TO_SIGN_IN"
+msgstr "S'il-vous-plais entrez votre Mot De Passse pour vous connecter"
+
+msgid "LOGIN_FORM_PREFILL_PASSWORD"
+msgstr "Entrer Mot De Passe"
+
+msgid "INCORRECT_PASSWORD_ATTEMPTS_FORMAT"
+msgstr "Incorrect password attempts: %s"
+
+msgid "REGISTRATION_ERROR_BAD_EMAIL"
+msgstr "L'adress email que vous avez entrer n'est pas valide."
+
+msgid "REGISTRATION_ERROR_BAD_PASSWORD"
+msgstr "Le Mot De Passe que vous avez entrer n'est pas valide."
+
+msgid "ERROR"
+msgstr "Erreur"
+
+msgid "REGISTRATION_ERROR_PASSWORD_ALREADY_SET"
+msgstr "Mot depass a déja été défini."
+
+msgid "NEW_USER_THANKS_FOR_REGISTRATION"
+msgstr "Bienvenu sur Sudomemo!"
+
+msgid "RETURNING_USER_THANKS_FOR_REGISTRATION"
+msgstr "Bon retour! Thanks for setting up your login information."
+
+msgid "BUTTON_SIGN_IN_TO_SUDOMEMO"
+msgstr "S'identifiez a Sudomemo"
+
+msgid "LOGIN_FAILED"
+msgstr "Erreur d'identification."
+
+msgid "LOGIN_FAILED_REOPEN_FLIPNOTE_STUDIO"
+msgstr "Identification échoué. Fermer et redémarrer Flipnote Studio."
+
+msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE1"
+msgstr "La data de la Flipnote a été corrompue."
+
+msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE2"
+msgstr "Essayez de le renvoyer."
+
+msgid "LOGIN_FAILED_BANNED_LINE1"
+msgstr "Vous avez été restreint de interragir avec Sudomemo."
+
+msgid "CONTACT_SUPPORT_EMAIL_FORMAT"
+msgstr "S'il-vous-plaît contactez %s."
+
+msgid "CREATORS_ROOM_SHIM_WELCOME"
+msgstr "Bienvenu!"
+
+msgid "CREATORS_ROOM_SHIM_PLEASE_LOGIN"
+msgstr "Bienvenu sur Sudomemo! Identifiez-vous pour continuer."

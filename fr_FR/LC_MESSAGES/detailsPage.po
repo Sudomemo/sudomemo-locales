@@ -1,0 +1,68 @@
+msgid "TIMESTAMP_FORMAT"
+msgstr "D m, Y H:i:s"
+
+msgid "FLIPNOTE_TITLE_FORMAT"
+msgstr "Flipnote by %s"
+
+msgid "HEADER_DETAILS"
+msgstr "Details"
+
+msgid "HEADER_COMMENTS"
+msgstr "Commentaires"
+
+msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
+msgstr "Cet flipnote est une dérivée."
+
+msgid "HEADER_ORIGINAL_FLIPNOTE"
+msgstr "Voir la Flipnote source içi"
+
+msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
+msgstr "Pour éviter le mendiment d'étoiles, les étoiles jaunes son limités a 10 par Flipnote."
+
+msgid "HEADER_CREATOR"
+msgstr "Createur"
+
+msgid "HEADER_STARS"
+msgstr "Etoiles"
+
+msgid "HEADER_VIEWS"
+msgstr "Vues"
+
+msgid "HEADER_SPINOFFS"
+msgstr "Dérivées"
+
+msgid "HEADER_DOWNLOADS"
+msgstr "Téléchargements"
+
+msgid "HEADER_TITLE"
+msgstr "Titre"
+
+msgid "HEADER_POSTED"
+msgstr "Posté"
+
+msgid "HEADER_FLIPNOTE_ID"
+msgstr "ID Flipnote"
+
+msgid "HEADER_CHANNEL"
+msgstr "Chaine"
+
+msgid "HEADER_OPTIONS"
+msgstr "Options"
+
+msgid "HEADER_SET_AS_PROFILE_PICTURE"
+msgstr "Définir comme photo de profil"
+
+msgid "HEADER_REPORT_FLIPNOTE"
+msgstr "Signaler Flipnote"
+
+msgid "ADMIN_ACTIONS"
+msgstr "Action d'Admin"
+
+msgid "PREV"
+msgstr "Précedent"
+
+msgid "NEXT"
+msgstr "Suivant"
+
+msgid "STAR_DETAILS_UPPERTITLE"
+msgstr "★ Etoiles ★"

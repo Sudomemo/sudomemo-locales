@@ -1,0 +1,44 @@
+msgid "HEADER_COMMENTS"
+msgstr "Commentaire"
+
+msgid "HEADER_DETAILS"
+msgstr "Details"
+
+msgid "HEADER_PREV"
+msgstr "Précedent"
+
+msgid "HEADER_NEXT"
+msgstr "Suivant"
+
+msgid "HEADER_REFRESH"
+msgstr "Rafraîchir"
+
+msgid "PAGE_FORMAT"
+msgstr "Page %d"
+
+msgid "NO_COMMENTS_YET"
+msgstr "Cet Flipnote n'a pas encore de commentaires."
+
+msgid "LOGIN_REQUIRED_TO_POST_COMMENT"
+msgstr "Vous devez être identifier pour poster un commentaire."
+
+msgid "COMMENT_POST_FAILED"
+msgstr "Publication du commentair a échoué. Essayez plus tard."
+
+msgid "NO_BLANK_COMMENTS_ALLOWED"
+msgstr "Vous ne pouvez pas poster de commentaire vide."
+
+msgid "FLIPNOTE_DATA_CORRUPTED"
+msgstr "La data de la Flipnote a été corrompue, veuillez réessayer plus tard."
+
+msgid "FLIPNOTE_COMMENTS_DISALLOWED"
+msgstr "Vous ne pouvez pas commenter sur cet Flipnote."
+
+msgid "NO_COMMENTS_WHILE_MUTED"
+msgstr "Vous avez été mis en mode muet. vous ne pouvez pas poster de commentaire en mode muet."
+
+msgid "DUPLICATE_COMMENT_FAILED"
+msgstr "Ce commentaire a déja été poster sur Sudomemo."
+
+msgid "COMMENT_FAILED_USER_BANNED"
+msgstr "Vous avez été restreint de interragir avec Sudomemo."

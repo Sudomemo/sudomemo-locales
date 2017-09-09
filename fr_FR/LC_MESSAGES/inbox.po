@@ -1,0 +1,12 @@
+msgid "HEADER_INBOX"
+msgstr "Boîte de réception"
+
+# this must be a max of 6 characters
+msgid "UNAUTHED_READ"
+msgstr "Lire.."
+
+msgid "PREV"
+msgstr "Précedent"
+
+msgid "NEXT"
+msgstr "Suivant"
