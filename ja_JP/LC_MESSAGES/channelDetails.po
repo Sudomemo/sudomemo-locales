@@ -11,23 +11,23 @@ msgid "CHANNEL_ID"
 msgstr "チャンネルID"
 
 msgid "LOGIN_REQUIRED_TO_POST"
-msgstr "You must be logged in to post a Flipnote."
+msgstr "作品を投稿するにはログインする必要があります。"
 
 msgid "CHANNEL_NOT_SPECIFIED"
-msgstr "You must pick a channel."
+msgstr "チャンネルを選択してください。"
 
 msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
-msgstr "You have been restricted from interacting with Sudomemo."
+msgstr "Sudomemoとの対話を制限されています。"
 
 msgid "FLIPNOTE_POST_FAILED"
-msgstr "Flipnote upload failed. Try again in a moment."
+msgstr "作品の投稿に失敗しました。もう一度お試しください。"
 
 msgid "DUPLICATE_FLIPNOTE_FAILED"
-msgstr "This Flipnote has already been posted to Sudomemo. Try editing it again."
+msgstr "このうごメモはご覧のスポンサーの提供でお送りしております。もう一度編集してください。"
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "The Flipnote data is corrupted. Try again in a moment."
+msgstr "データが破損しています。もう一度お試しください。"
 
 msgid "NO_BLANK_FLIPNOTES_ALLOWED"
-msgstr "You may not post an empty Flipnote."
+msgstr "何も描かれていない作品を投稿することはできません。"
 
