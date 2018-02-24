@@ -56,7 +56,7 @@ msgid "FORM_WARNING_PASSWORD_DISALLOWED_CHARS"
 msgstr "パスワードに次の文字を含めることはできません:"
 
 msgid "FORM_LABEL_DONT_FORGET_PASSWORD"
-msgstr "パスワードはあらかじめ書き留めておき、安全に保管してください！"
+msgstr "パスワードはあらかじめメモしておき、安全に保管してください！"
 
 msgid "FORM_HEADER_EMAIL"
 msgstr "電子メール（オプション）:"
