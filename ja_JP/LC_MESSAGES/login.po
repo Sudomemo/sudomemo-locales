@@ -1,5 +1,5 @@
 msgid "BAN_GREETING_FORMAT"
-msgstr "こんにちは、 %s."
+msgstr "こんにちは。%sさん。"
 
 msgid "BAN_NOTICE_CONSOLE_BAN"
 msgstr "あなたのアカウントと機器はSudomemoから切断されています。"
@@ -11,13 +11,13 @@ msgid "BAN_VIEW_MAIL"
 msgstr "Sudomemoメールを見る"
 
 msgid "LOGIN_SUCCESSFUL"
-msgstr "ログイン成功"
+msgstr "ログインしました"
 
 msgid "THANKS_FOR_LOGIN_FORMAT"
-msgstr "ログインしていただきありがとうございます、 %s!"
+msgstr "ログインしていただきありがとうございます！%sさん！
 
 msgid "GOTO_CREATORS_ROOM"
-msgstr "あなたのクリエイターズルームに行く"
+msgstr "あなたのマイルームに行く"
 
 msgid "LOGIN"
 msgstr "ログイン"
@@ -29,7 +29,7 @@ msgid "LOGIN_SETUP"
 msgstr "ログインの設定"
 
 msgid "WELCOME_BACK_FORMAT"
-msgstr "ようこそ、 %s!"
+msgstr "ようこそ、 %sさん！"
 
 msgid "RETURNING_USER_NEW_LOGIN_SYSTEM"
 msgstr "前回訪問して以来、新しいログインシステムが追加されましたが、心配する必要はありません。あなたのコンテンツはすべてここにあります！"
@@ -38,7 +38,7 @@ msgid "RETURNING_USER_PLEASE_CREATE_PASSWORD"
 msgstr "新しいパスワードを作成してください。"
 
 msgid "NEW_USER_WELCOME_FORMAT"
-msgstr "Sudomemoへようこそ、 %s!"
+msgstr "Sudomemoへようこそ！%sさん！"
 
 msgid "NEW_USER_PLEASE_CREATE_PASSWORD"
 msgstr "新しいパスワードを作成してください。"
@@ -56,7 +56,7 @@ msgid "FORM_WARNING_PASSWORD_DISALLOWED_CHARS"
 msgstr "パスワードに次の文字を含めることはできません:"
 
 msgid "FORM_LABEL_DONT_FORGET_PASSWORD"
-msgstr "パスワードはあらかじめ書き留めておき、安全に保管してください！"
+msgstr "パスワードはあらかじめメモしておき、安全に保管してください！"
 
 msgid "FORM_HEADER_EMAIL"
 msgstr "電子メール（オプション）:"
@@ -98,7 +98,7 @@ msgid "LOGIN_FORM_PREFILL_PASSWORD"
 msgstr "パスワードを入力する"
 
 msgid "INCORRECT_PASSWORD_ATTEMPTS_FORMAT"
-msgstr "不正なパスワードの試行: %s"
+msgstr "間違えた回数: %s"
 
 msgid "REGISTRATION_ERROR_BAD_EMAIL"
 msgstr "あなたが入力した電子メールアドレスは許可されていないため、使用できません。"
@@ -128,7 +128,7 @@ msgid "LOGIN_FAILED_REOPEN_FLIPNOTE_STUDIO"
 msgstr "ログインに失敗しました。 一度うごくメモ帳を閉じて再度開き直してください。"
 
 msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE1"
-msgstr "うごメモのデータが破損しています。"
+msgstr "うごくメモ帳のデータが破損しています。"
 
 msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE2"
 msgstr "もう一度送信してみてください。"
@@ -137,7 +137,7 @@ msgid "LOGIN_FAILED_BANNED_LINE1"
 msgstr "あなたはSudomemoとの対話を制限されています。"
 
 msgid "CONTACT_SUPPORT_EMAIL_FORMAT"
-msgstr "お問い合わせください %s."
+msgstr "お問い合わせください %sさん。"
 
 msgid "CREATORS_ROOM_SHIM_WELCOME"
 msgstr "ようこそ!"
@@ -146,4 +146,4 @@ msgid "CREATORS_ROOM_SHIM_PLEASE_LOGIN"
 msgstr "Sudomemoへようこそ！ 続行するにはログインしてください。"
 
 msgid "GUIDE_MAIN_MENU_SHORTCUT"
-msgstr "Lボタン(左利きの場合はRボタン)を押すと一気にトップメニュ画面まで戻れる。"
+msgstr "Ｌボタン(左利きの場合はＲボタン)を押すと一気にトップメニューまで戻れます。"
