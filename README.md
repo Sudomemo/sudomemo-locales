@@ -72,6 +72,7 @@ If you have any question about which langcode to use, feel free to reach out to 
 @[Bukharin1](https://www.twitter.com/Fin_suomi_)
 @[Compeito](https://twitter.com/ugo_compeito)
 @[SlawomirNowak](https://twitter.com/Starbros_s)
+@[ManatoProject](https://github.com/ManatoProject)
 
 #### English to Greek 
 
