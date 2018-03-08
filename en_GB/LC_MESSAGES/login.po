@@ -134,7 +134,7 @@ msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE2"
 msgstr "Try sending it again."
 
 msgid "LOGIN_FAILED_BANNED_LINE1"
-msgstr "You have been restricted from interacting with Sudomemo."
+msgstr "You've been restricted from using Sudomemo."
 
 msgid "CONTACT_SUPPORT_EMAIL_FORMAT"
 msgstr "Please contact %s."
