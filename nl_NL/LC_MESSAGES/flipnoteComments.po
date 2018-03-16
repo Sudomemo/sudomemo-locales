@@ -1,0 +1,44 @@
+msgid "HEADER_COMMENTS"
+msgstr "Commentaar"
+
+msgid "HEADER_DETAILS"
+msgstr "Details"
+
+msgid "HEADER_PREV"
+msgstr "Vorige"
+
+msgid "HEADER_NEXT"
+msgstr "Volgende"
+
+msgid "HEADER_REFRESH"
+msgstr "Herlaad"
+
+msgid "PAGE_FORMAT"
+msgstr "Pagina %d"
+
+msgid "NO_COMMENTS_YET"
+msgstr "Deze Flipnote heeft nog geen commentaar."
+
+msgid "LOGIN_REQUIRED_TO_POST_COMMENT"
+msgstr "Je moet ingelogd zijn om commentaar te kunnen plaatsen."
+
+msgid "COMMENT_POST_FAILED"
+msgstr "Commentaar plaatsen mislukt. Probeer het binnenkort nog eens."
+
+msgid "NO_BLANK_COMMENTS_ALLOWED"
+msgstr "Je kan geen leeg stuk commentaar plaatsen."
+
+msgid "FLIPNOTE_DATA_CORRUPTED"
+msgstr "Deze Flipnote is beschadigd. Probeer het binnenkort nog eens."
+
+msgid "FLIPNOTE_COMMENTS_DISALLOWED"
+msgstr "Je mag geen commentaar leveren op deze Flipnote."
+
+msgid "NO_COMMENTS_WHILE_MUTED"
+msgstr "Je bent op stil gezet. Je mag geen commentaar plaatsen."
+
+msgid "DUPLICATE_COMMENT_FAILED"
+msgstr "Dit stuk commentaar is al eens geplaatst op Sudomemo."
+
+msgid "COMMENT_FAILED_USER_BANNED"
+msgstr "Je toegang tot Sudomemo is vergrendeld."
