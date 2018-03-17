@@ -1,0 +1,23 @@
+msgid "UPPERTITLE"
+msgstr "Blader"
+
+msgid "NEXT"
+msgstr "Volgende pagina"
+
+msgid "PREV"
+msgstr "Vorige pagina"
+
+msgid "PAGE"
+msgstr "Pagina"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d van %d"
+
+msgid "FLIPNOTES_BY_FORMAT"
+msgstr "Flipnotes door %s"
+
+msgid "STARRED_BY_FORMAT"
+msgstr "Sterren gegeven door %s"
+
+msgid "FAVORITES_FEED_FORMAT"
+msgstr "%s's Favorieten Feed"

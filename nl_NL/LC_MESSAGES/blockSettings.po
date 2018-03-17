@@ -1,0 +1,59 @@
+msgid "LOGIN_REQUIRED_TO_MANAGE_BLOCKS"
+msgstr "Je moet ingelogd zijn om geblokkeerde gebruikers te beheren."
+
+msgid "NO_USERS_BLOCKED"
+msgstr "Je hebt geen geblokkeerde gebruikers."
+
+msgid "BLOCKED_USERS"
+msgstr "Geblokkeerde gebruikers"
+
+msgid "BLOCK_USER"
+msgstr "Blokkeer gebruiker"
+
+msgid "COMMENT_BLOCK_IS_MUTUAL"
+msgstr "Wanneer je deze gebruiker blokkeert, kunnen jullie geen commentaar meer geven op elkaars Flipnotes."
+
+msgid "USER_HAS_BEEN_BLOCKED"
+msgstr "Deze gebruiker is geblokkeerd."
+
+msgid "IF_YOU_WISH_TO_UNBLOCK"
+msgstr "Als je hem ooit wilt deblokkeren, kan dat door in jouw Maker's ruimte de Geblokkeerde Gebruikers menu te openen"
+
+msgid "CONFIRM_BLOCK"
+msgstr "Bevestig Blokkeren"
+
+msgid "USER_ALREADY_BLOCKED"
+msgstr "Je hebt deze gebruiker al geblokkeerd. Je kan hem deblokkeren vanuit de Instellingen menu in jouw Maker's ruimte, maar je moet dan weer 24 uur wachten om hem weet te kunnen blokkeren"
+
+msgid "ONE_DAY_WAIT_BEFORE_REBLOCK_FORMAT"
+msgstr "Je hebt deze gebruiker onlangs gedeblokkeerd. Je kan hem niet meer blokkeren tot %s"
+
+msgid "UNBLOCK"
+msgstr "Deblokkeer"
+
+msgid "LOGIN_REQUIRED"
+msgstr "Je moet ingelogd zijn om dit te kunnen doen"
+
+msgid "TAP_BACK_TO_RETURN"
+msgstr "Druk op Back om terug te gaan naar jouw Maker's ruimte"
+
+msgid "UNBLOCK_USER"
+msgstr "Deblokkeer Gebruiker"
+
+msgid "CANNOT_UNBLOCK_NONBLOCKED_USER" 
+msgstr "Je kan deze gebruiker niet deblokkeren, omdat hij helemaal nog niet geblokkeerd is!"
+
+msgid "USER_HAS_BEEN_UNBLOCKED"
+msgstr "Je hebt deze gebruiker gedeblokkeerd."
+
+msgid "COMMENTING_ENABLED_AFTER_UNBLOCK"
+msgstr "Nadat je deze gebruiker gedeblokkeerd hebt, kunnen zij weer commentaar op jouw Flipnotes leveren, tenzij zij jou ook geblokkeerd hebben."
+
+msgid "UNBLOCK_WARNING_ONE_DAY_THRESHOLD"
+msgstr "Als je ze deblokeert, moet je 24 uur wachten voordat je ze weer kan blokkeren."
+
+msgid "CONFIRM_UNBLOCK"
+msgstr "Bevestig Deblokkeren"
+
+msgid "RECENTLY_UNBLOCKED_ONE_DAY_THRESHOLD"
+msgstr "Je hebt deze gebruiker onlangs gedeblokkeerd. Je moet 24 uur wachten vanaf de tijd dat hem gedeblokkeerd hebt voordat je hem weer kan blokkeren."
