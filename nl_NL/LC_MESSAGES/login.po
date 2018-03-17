@@ -147,3 +147,30 @@ msgstr "Welkom op Sudomemo! Log alsjeblieft in om door te gaan."
 
 msgid "GUIDE_MAIN_MENU_SHORTCUT"
 msgstr "Je kan terug naar het hoofdmenu door L in te houden (of R als je linkshandigheid hebt ingeschakeld) en op de 'Menu'-knop te drukken."
+
+msgid "SORRY_NO_LOGIN"
+msgstr "Sorry, we konden je niet inloggen!"
+
+msgid "BASIC_AUTH_NOT_ENABLED"
+msgstr "Het lijkt er niet op dat je Basic Authentication hebt ingesteld in je proxy instellingen."
+
+msgid "BASIC_AUTH_FSID_INVALID"
+msgstr "De Flipnote Studio ID die je hebt ingevuld in Basic Authentication is niet geldig:"
+
+msgid "BASIC_AUTH_BAD_LENGTH_FORMAT"
+msgstr "Het lijkt erop dat de ID %s karakters lang is (moet 16 zijn)"
+
+msgid "BASIC_AUTH_LOWERCASE_LETTERS"
+msgstr "De ID bevat kleine letters - ze moeten allemaal hoofdletters zijn"
+
+msgid "BASIC_AUTH_NONHEX_CHARACTERS"
+msgstr "De ID bevat karakters anders dan 0-9 en A-F (het mag alleen 0-9 en A-F bevatten)"
+
+msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
+msgstr "Als je hulp nodig hebt met verbinden, voel je vrij om het ons te vragen in onze Discord! Je kan joinen via %s."
+
+msgid "BAN_NOTICE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
+msgstr "Neem alsjeblieft contact met ons op via de Discord of om te emailen naar %s."
+
+msgid "FORGOT_PASSWORD_LINK"
+msgstr "Wachtwoord vergeten?"
