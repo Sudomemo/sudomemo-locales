@@ -1,0 +1,32 @@
+msgid "HEADER_PREV"
+msgstr "Vorige"
+
+msgid "HEADER_NEXT"
+msgstr "Volgende"
+
+msgid "PAGE_FORMAT"
+msgstr "Pagina %d"
+
+msgid "SEARCH"
+msgstr "Zoeken"
+
+msgid "USERNAME"
+msgstr "Gebruikersnaam"
+
+msgid "RESULTS"
+msgstr "Resultaten"
+
+msgid "SEARCH_USERNAME"
+msgstr "Zoek Gebruikersnaam"
+
+msgid "PLEASE_ENTER_USERNAME"
+msgstr "Voer alsjeblieft een gebruikersnaam in..."
+
+msgid "RESULTS_FOUND_FORMAT_SINGULAR"
+msgstr "%1$d resultaat gevonden voor \"%2$s\""
+
+msgid "RESULTS_FOUND_FORMAT_MULTIPLE"
+msgstr "%1$d resultaten gevonden voor \"%2$s\""
+
+msgid "NO_RESULTS_FOUND"
+msgstr "Geen resultaten gevonden"

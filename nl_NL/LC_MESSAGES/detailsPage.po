@@ -1,0 +1,68 @@
+msgid "TIMESTAMP_FORMAT"
+msgstr "d M, Y H:i:s"
+
+msgid "FLIPNOTE_TITLE_FORMAT"
+msgstr "Flipnote door %s"
+
+msgid "HEADER_DETAILS"
+msgstr "Details"
+
+msgid "HEADER_COMMENTS"
+msgstr "Commentaar"
+
+msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
+msgstr "Deze Flipnote is een spin-off."
+
+msgid "HEADER_ORIGINAL_FLIPNOTE"
+msgstr "Bekijk de originele Flipnote hier"
+
+msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
+msgstr "Om vragen voor sterren te voorkomen, zijn gele sterren gelimiteerd tot tien per Flipnote."
+
+msgid "HEADER_CREATOR"
+msgstr "Maker"
+
+msgid "HEADER_STARS"
+msgstr "Sterren"
+
+msgid "HEADER_VIEWS"
+msgstr "Weergaven"
+
+msgid "HEADER_SPINOFFS"
+msgstr "Spin-offs"
+
+msgid "HEADER_DOWNLOADS"
+msgstr "Downloads"
+
+msgid "HEADER_TITLE"
+msgstr "Titel"
+
+msgid "HEADER_POSTED"
+msgstr "Geplaatst"
+
+msgid "HEADER_FLIPNOTE_ID"
+msgstr "Flipnote ID"
+
+msgid "HEADER_CHANNEL"
+msgstr "Kanaal"
+
+msgid "HEADER_OPTIONS"
+msgstr "Opties"
+
+msgid "HEADER_SET_AS_PROFILE_PICTURE"
+msgstr "Zet als Profiel Foto"
+
+msgid "HEADER_REPORT_FLIPNOTE"
+msgstr "Rapporteer Flipnote"
+
+msgid "ADMIN_ACTIONS"
+msgstr "Admin acties"
+
+msgid "PREV"
+msgstr "Vorige"
+
+msgid "NEXT"
+msgstr "Volgende"
+
+msgid "STAR_DETAILS_UPPERTITLE"
+msgstr "★ Sterren ★"
