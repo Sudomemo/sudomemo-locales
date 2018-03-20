@@ -223,3 +223,6 @@ msgstr "Verification Expired"
 msgid "VERIFICATION_EXPIRED_TEXT"
 msgstr "The verification URL has expired or has already been used."
 
+msgid "CONTINUE_TO_LOGIN"
+msgstr "Continue to Login"
+
