@@ -226,3 +226,11 @@ msgstr "The verification URL has expired or has already been used."
 msgid "CONTINUE_TO_LOGIN"
 msgstr "Continue to Login"
 
+msgid "HEADER_UPDATE_EMAIL"
+msgstr "Update Email"
+
+msgid "THANK_YOU_FOR_UPDATING_EMAIL"
+msgstr "Thank you for updating your email!"
+
+msgid "BUTTON_CONTINUE"
+msgstr "Continue"
