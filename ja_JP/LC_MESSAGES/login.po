@@ -59,7 +59,7 @@ msgid "FORM_LABEL_DONT_FORGET_PASSWORD"
 msgstr "パスワードはあらかじめメモしておき、安全に保管してください！"
 
 msgid "FORM_HEADER_EMAIL"
-msgstr "電子メール（オプション）:"
+msgstr "電子メール:"
 
 msgid "FORM_PREFILL_EMAIL"
 msgstr "ここにあなたのメールアドレスを入力してください..."
@@ -69,6 +69,9 @@ msgstr "入力した電子メールアドレスは無効です。"
 
 msgid "EMAIL_ADDITION_SUGGESTED"
 msgstr "電子メールはオプションですが、設定されることを強くお勧めします。 パスワードを忘れた場合、メールアドレスにパスワード再設定のリンクが送信します。"
+
+msgid "EMAIL_ADDITION_DETAILS"
+msgstr "If you ever forget your password, we will send a password reset link to your email address."
 
 msgid "CONFIRM_INFO_CORRECT"
 msgstr "下記の情報が正しいことを確認してください。"
@@ -174,4 +177,37 @@ msgstr "Please contact us on Discord or via email to %s."
 
 msgid "FORGOT_PASSWORD_LINK"
 msgstr "Forgot your password?"
+
+msgid "EMAIL_IS_DUPLICATE"
+msgstr "The email address you entered is already in use."
+
+msgid "EMAIL_CONFIRMATION_SENT_FORMAT"
+msgstr "A confirmation email has been sent to %s. Please check for it in a moment."
+
+msgid "BUTTON_CHECK_VERIFICATION"
+msgstr "Check Verification Status"
+
+msgid "EMAIL_NOT_YET_VERIFIED"
+msgstr "Your email address has not yet been verified."
+
+msgid "EMAIL_VERIFIED"
+msgstr "Thank you for verifying your email!"
+
+msgid "EMAIL_REQUIRES_UPDATE"
+msgstr "Your email address needs to be updated."
+
+msgid "VERIFICATION_NEEDED"
+msgstr "We need you to verify your email address."
+
+msgid "BUTTON_RESEND_VERIFICATION_EMAIL"
+msgstr "Resend Verification Email"
+
+msgid "NOT_RECEIVING_HELP_FORMAT"
+msgstr "Not receiving the email? You can reach out to us on the Sudomemo Discord or via %s."
+
+msgid "HEADER_VERIFY_EMAIL"
+msgstr "Verify Email"
+
+msgid "VERIFICATION_LIMIT_EXCEEDED_FORMAT"
+msgstr "You have exceeded the maximum number of verification emails. Please contact support at %s or via Discord."
 
