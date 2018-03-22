@@ -150,3 +150,7 @@ msgstr "View"
 
 msgid "FAN_COUNT_FORMAT"
 msgstr "Fans: %s"
+
+msgid "HEADER_LANGUAGE"
+msgstr "Language"
+
