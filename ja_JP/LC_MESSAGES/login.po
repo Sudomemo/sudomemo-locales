@@ -47,7 +47,7 @@ msgid "FORM_HEADER_PASSWORD"
 msgstr "パスワード:"
 
 msgid "FORM_PREFILL_PASSWORD"
-msgstr "ここにあなたのパスワードを入力してください..."
+msgstr "パスワードを入力してください..."
 
 msgid "FORM_WARNING_PASSWORD_TOO_SHORT"
 msgstr "8文字以上のパスワードを入力してください。"
@@ -62,7 +62,7 @@ msgid "FORM_HEADER_EMAIL"
 msgstr "電子メール:"
 
 msgid "FORM_PREFILL_EMAIL"
-msgstr "ここにあなたのメールアドレスを入力してください..."
+msgstr "メールアドレスを入力してください..."
 
 msgid "FORM_WARNING_EMAIL_INVALID"
 msgstr "入力した電子メールアドレスは無効です。"
