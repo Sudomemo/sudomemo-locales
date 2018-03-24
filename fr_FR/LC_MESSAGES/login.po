@@ -122,7 +122,7 @@ msgid "RETURNING_USER_THANKS_FOR_REGISTRATION"
 msgstr "Bon retour! Merci d'avoir mis en place vos informations de connexion."
 
 msgid "BUTTON_SIGN_IN_TO_SUDOMEMO"
-msgstr "Se connecter �  Sudomemo"
+msgstr "Se connecter �  Sudomemo"
 
 msgid "LOGIN_FAILED"
 msgstr "Erreur d'identification."
@@ -170,19 +170,19 @@ msgid "BASIC_AUTH_NONHEX_CHARACTERS"
 msgstr "L'ID contient des caractères autres que 0-9 et A-F (cela devrait seulement contenir 0-9 et A-F)."
 
 msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
-msgstr "Si vous avez besoin d'aide pour vous connecter, n'hésitez pas �  nous le demander sur Discord ! Vous pouvez rejoindre depuis %s."
+msgstr "Si vous avez besoin d'aide pour vous connecter, n'hésitez pas �  nous le demander sur Discord ! Vous pouvez rejoindre depuis %s."
 
 msgid "BAN_NOTICE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
-msgstr "S'il-vous-plaît, contactez-nous sur Discord ou par mail �  %s."
+msgstr "S'il-vous-plaît, contactez-nous sur Discord ou par mail �  %s."
 
 msgid "FORGOT_PASSWORD_LINK"
 msgstr "Vous avez oublié votre mot de passe ?"
 
 msgid "EMAIL_IS_DUPLICATE"
-msgstr "L'adresse email que vous avez entrée est déj�  utilisée."
+msgstr "L'adresse email que vous avez entrée est déj�  utilisée."
 
 msgid "EMAIL_CONFIRMATION_SENT_FORMAT"
-msgstr "Un mail de confirmation a été envoyé �  %s. S'il-vous-plaît, vérifiez-le dans quelques minutes."
+msgstr "Un mail de confirmation a été envoyé �  %s. S'il-vous-plaît, vérifiez-le dans quelques minutes."
 
 msgid "BUTTON_CHECK_VERIFICATION"
 msgstr "Vérifier l'état de vérification"
@@ -194,7 +194,7 @@ msgid "EMAIL_VERIFIED"
 msgstr "Merci d'avoir vérifié votre adresse email !"
 
 msgid "EMAIL_REQUIRES_UPDATE"
-msgstr "Votre adresse email a besoin d'être mise �  jour."
+msgstr "Votre adresse email a besoin d'être mise �  jour."
 
 msgid "VERIFICATION_NEEDED"
 msgstr "Nous avons besoin que vous vérifiez votre adresse email."
@@ -209,7 +209,7 @@ msgid "HEADER_VERIFY_EMAIL"
 msgstr "Verifier l'email"
 
 msgid "VERIFICATION_LIMIT_EXCEEDED_FORMAT"
-msgstr "Vous avez atteint le nombre maximal de mails de vérification. S'il-vous-plaît contactez le support �  %s ou via Discord."
+msgstr "Vous avez atteint le nombre maximal de mails de vérification. S'il-vous-plaît contactez le support �  %s ou via Discord."
 
 msgid "WEB_HEADER_SUCCESS"
 msgstr "Succès !"
@@ -221,16 +221,16 @@ msgid "HEADER_VERIFICATION_EXPIRED"
 msgstr "Vérification expirée"
 
 msgid "VERIFICATION_EXPIRED_TEXT"
-msgstr "L'URL de vérification a expiré ou il a déj�  été utilisé."
+msgstr "L'URL de vérification a expiré ou il a déj�  été utilisé."
 
 msgid "CONTINUE_TO_LOGIN"
 msgstr "Aller se connecter"
 
 msgid "HEADER_UPDATE_EMAIL"
-msgstr "Mettre �  jour l'email"
+msgstr "Mettre �  jour l'email"
 
 msgid "THANK_YOU_FOR_UPDATING_EMAIL"
-msgstr "Merci d'avoir mis �  jour votre email !"
+msgstr "Merci d'avoir mis �  jour votre email !"
 
 msgid "BUTTON_CONTINUE"
 msgstr "Continuer"
