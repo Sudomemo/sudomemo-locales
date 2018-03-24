@@ -11,7 +11,7 @@ msgid "CHANNEL_ID"
 msgstr "ID del canal"
 
 msgid "LOGIN_REQUIRED_TO_POST"
-msgstr "Debes iniciar sesión para publicar una Flipnote."
+msgstr "Debes iniciar sesión para publicar un Flipnote."
 
 msgid "CHANNEL_NOT_SPECIFIED"
 msgstr "Debes elegir un canal."
@@ -23,11 +23,11 @@ msgid "FLIPNOTE_POST_FAILED"
 msgstr "Ha ocurrido un error al publicar esta Flipnote. intenta de nuevo en unos momentos."
 
 msgid "DUPLICATE_FLIPNOTE_FAILED"
-msgstr "Esta flinote ya ha sido publicada. intenta editarla de nuevo."
+msgstr "Este flinote ya ha sido publicada. intenta editarla de nuevo."
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "Los datos de esta Flipnote estan corruptos, intenta de nuevo en unos momentos."
+msgstr "Los datos de este Flipnote estan corrompidos, intenta de nuevo en unos momentos."
 
 msgid "NO_BLANK_FLIPNOTES_ALLOWED"
-msgstr "No debe publicar una Flipnote Vacía."
+msgstr "No debes publicar un Flipnote Vacía."
 
