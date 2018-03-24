@@ -1,18 +1,18 @@
 msgid "EMAIL_SUBJECT"
-msgstr "Sudomemo Signup Confirmation"
+msgstr "Confirmation d'inscription Ã  Sudomemo"
 
 msgid "SIGNUP_HEADER"
-msgstr "Sudomemo Signup Confirmation"
+msgstr "Confirmation d'inscription Ã  Sudomemo"
 
 msgid "TEXT_HELLO"
-msgstr "Hello!"
+msgstr "Bonjour !"
 
 msgid "TEXT_EMAIL_PURPOSE"
-msgstr "This email is to confirm your signup for Sudomemo."
+msgstr "Ceci est un mail pour confirmer votre inscription Ã  Sudomemo."
 
 msgid "TEXT_VERIFICATION_LINK_FORMAT"
-msgstr "Click <a target=\"_blank\" href=\"%s\">here</a> to continue!"
+msgstr "Cliquez <a target=\"_blank\" href=\"%s\">ici</a> pour continuer !"
 
 msgid "TEXT_URL_PLAIN_DISPLAY"
-msgstr "You may also copy and paste this URL into a new window:"
+msgstr "Vous pouvez aussi copier-coller ce lien dans une nouvelle fenÃªtre :"
 

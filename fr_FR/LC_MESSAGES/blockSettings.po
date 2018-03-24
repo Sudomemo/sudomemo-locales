@@ -17,13 +17,13 @@ msgid "USER_HAS_BEEN_BLOCKED"
 msgstr "Cet utilisateur a été bloqué."
 
 msgid "IF_YOU_WISH_TO_UNBLOCK"
-msgstr "Si vous souhaitez le débloquer, vous pouvez le faire en visitant votre Salle De Créateur et en ouvrant le menu des utilisateurs Bloqués."
+msgstr "Si vous souhaitez le débloquer, vous pouvez le faire en visitant votre salle de créateur et en ouvrant le menu des utilisateurs Bloqués."
 
 msgid "CONFIRM_BLOCK"
 msgstr "Confirmer le blocage"
 
 msgid "USER_ALREADY_BLOCKED"
-msgstr "Vous avez déja bloqué cet utilisateur. Vous pouvez le débloquer depuis les paramètres dans votre Salle De Créateur, mais vous devez attendre 24 heures avant de pouvoir le re-bloquer."
+msgstr "Vous avez déja bloqué cet utilisateur. Vous pouvez le débloquer depuis les paramètres dans votre salle de créateur, mais vous devez attendre 24 heures avant de pouvoir le re-bloquer."
 
 msgid "ONE_DAY_WAIT_BEFORE_REBLOCK_FORMAT"
 msgstr "Vous avez récemment débloqué cet utilisateur. Vous ne pouvez pas le re-bloquer avant %s"
@@ -35,7 +35,7 @@ msgid "LOGIN_REQUIRED"
 msgstr "Vous devez être identifié pour effectuer cette action."
 
 msgid "TAP_BACK_TO_RETURN"
-msgstr "Cliquez sur Retour pour retourner � �la Salle De Créateur."
+msgstr "Cliquez sur Retour pour retourner � �la salle de créateur."
 
 msgid "UNBLOCK_USER"
 msgstr "Débloquer un utilisateur"
