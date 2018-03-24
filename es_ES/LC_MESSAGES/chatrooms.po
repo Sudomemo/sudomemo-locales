@@ -17,19 +17,19 @@ msgid "HEADER_REFRESH"
 msgstr "Actualizar"
 
 msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
-msgstr "Debes iniciar sesión para publicar un comentario."
+msgstr "Debes iniciar una sesión para publicar un comentario."
 
 msgid "CHAT_REPLY_FAILED"
 msgstr "Ha ocurrido un error al publicar el comentario. Prueba de nuevo en un momento."
 
 msgid "NO_BLANK_MESSAGES_ALLOWED"
-msgstr "No puedes publicar un comentario vacio!."
+msgstr "No puedes publicar un comentario vacio."
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "Los datos de esta Flipnote estan corruptos. Prueba de nuevo en un momento."
+msgstr "Los datos de este Flipnote estan corrompidos. Prueba de nuevo en un momento."
 
 msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
-msgstr "Usted ha sido muteado. No podrá publicar comentarios mientras esta muteado."
+msgstr "Usted ha sido silenciado. No podrá publicar comentarios mientras estas silenciado."
 
 msgid "DUPLICATE_COMMENT_FAILED"
 msgstr "Este comentario ya ha sido publicado en Sudomemo."
