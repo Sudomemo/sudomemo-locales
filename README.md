@@ -81,3 +81,7 @@ If you have any question about which langcode to use, feel free to reach out to 
 #### English to Dutch
 
 @[olafher](https://github.com/olafher)
+
+#### English to Spanish
+
+@[NaoVolkova](https://github.com/NaoVolkova)
