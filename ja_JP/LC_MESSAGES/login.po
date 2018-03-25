@@ -152,89 +152,89 @@ msgid "GUIDE_MAIN_MENU_SHORTCUT"
 msgstr "Ｌボタン(左利きの場合はＲボタン)を押すと一気にトップメニューまで戻れます。"
 
 msgid "SORRY_NO_LOGIN"
-msgstr "Sorry, but we couldn't log you in!"
+msgstr "申し訳ありませんが、ログインできませんでした。"
 
 msgid "BASIC_AUTH_NOT_ENABLED"
-msgstr "You do not appear to have enabled Basic Authentication in your proxy settings."
+msgstr "プロキシ設定でBASIC認証を有効にする必要があります。"
 
 msgid "BASIC_AUTH_FSID_INVALID"
-msgstr "The Flipnote Studio ID you entered under Basic Authentication is invalid:"
+msgstr "BASIC認証で入力したうごメモIDが無効です："
 
 msgid "BASIC_AUTH_BAD_LENGTH_FORMAT"
-msgstr "The ID appears to be %s digits in length (should be 16)"
+msgstr "IDは%s桁の長さで表示されます（16桁でなければなりません）。"
 
 msgid "BASIC_AUTH_LOWERCASE_LETTERS"
-msgstr "The ID contain lowercase letters - it should be all uppercase."
+msgstr "IDに小文字が含まれています。すべて大文字にする必要があります。"
 
 msgid "BASIC_AUTH_NONHEX_CHARACTERS"
-msgstr "The ID contains characters other than 0-9 and A-F (it should only contain 0-9 and A-F)."
+msgstr "IDに0-9とA-F以外の文字が含まれています（0-9とA-Fのみが使用できます）。"
 
 msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
-msgstr "If you need help connecting, feel free to ask in our Discord! You can join from %s."
+msgstr "接続するのに困った場合は、私たちのDiscordへお気軽にお問い合わせください！ %sから参加できます。"
 
 msgid "BAN_NOTICE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
-msgstr "Please contact us on Discord or via email to %s."
+msgstr "Discordまたは%sのEメールでご連絡ください。"
 
 msgid "FORGOT_PASSWORD_LINK"
-msgstr "Forgot your password?"
+msgstr "パスワードをお忘れですか？"
 
 msgid "EMAIL_IS_DUPLICATE"
-msgstr "The email address you entered is already in use."
+msgstr "入力した電子メールアドレスはすでに使用されています。"
 
 msgid "EMAIL_CONFIRMATION_SENT_FORMAT"
-msgstr "A confirmation email has been sent to %s. Please check for it in a few minutes."
+msgstr "確認メールが%sへ送信されました。数分以内で確認してください。"
 
 msgid "BUTTON_CHECK_VERIFICATION"
-msgstr "Check Verification Status"
+msgstr "ステータスを確認する"
 
 msgid "EMAIL_NOT_YET_VERIFIED"
-msgstr "Your email address has not yet been verified."
+msgstr "あなたのメールアドレスはまだ確認されていません。"
 
 msgid "EMAIL_VERIFIED"
-msgstr "Thank you for verifying your email!"
+msgstr "電子メールを確認していただきありがとうございました！"
 
 msgid "EMAIL_REQUIRES_UPDATE"
-msgstr "Your email address needs to be updated."
+msgstr "メールアドレスを更新する必要があります。"
 
 msgid "VERIFICATION_NEEDED"
-msgstr "We need you to verify your email address."
+msgstr "メールアドレスを確認する必要があります。"
 
 msgid "BUTTON_RESEND_VERIFICATION_EMAIL"
-msgstr "Resend Verification Email"
+msgstr "確認メールを再送"
 
 msgid "NOT_RECEIVING_HELP_FORMAT"
-msgstr "Not receiving the email? You can reach out to us on the Sudomemo Discord or via %s."
+msgstr "メールが届きませんか？Sudomemo Discordまたは、%sより連絡してください。"
 
 msgid "HEADER_VERIFY_EMAIL"
-msgstr "Verify Email"
+msgstr "Eメールを確認する"
 
 msgid "VERIFICATION_LIMIT_EXCEEDED_FORMAT"
-msgstr "You have exceeded the maximum number of verification emails. Please contact support at %s or via Discord."
+msgstr "確認メールが最大数を超えました。 %sのサポートに連絡するかDiscordに連絡してください。"
 
 msgid "WEB_HEADER_SUCCESS"
-msgstr "Success!"
+msgstr "成功"
 
 msgid "WEB_TAP_CHECK_VERIFICATION_STATUS"
-msgstr "Go ahead and tap 'Check Verification Status' on your Nintendo DSi System."
+msgstr "DSiシステムで「ステータスの確認」をタップしてください。"
 
 msgid "HEADER_VERIFICATION_EXPIRED"
-msgstr "Verification Expired"
+msgstr "確認済み"
 
 msgid "VERIFICATION_EXPIRED_TEXT"
-msgstr "The verification URL has expired or has already been used."
+msgstr "確認URLの有効期限が切れているか、既に使用されているURLです。"
 
 msgid "CONTINUE_TO_LOGIN"
-msgstr "Continue to Login"
+msgstr "ログインを続ける"
 
 msgid "HEADER_UPDATE_EMAIL"
-msgstr "Update Email"
+msgstr "電子メールを更新"
 
 msgid "THANK_YOU_FOR_UPDATING_EMAIL"
-msgstr "Thank you for updating your email!"
+msgstr "メールの更新にご協力いただき、ありがとうございました。"
 
 msgid "BUTTON_CONTINUE"
-msgstr "Continue"
+msgstr "続ける"
 
 msgid "BUTTON_EDIT_EMAIL_ADDRESS"
-msgstr "Change Email Address"
+msgstr "メールアドレスを変更する"
 
