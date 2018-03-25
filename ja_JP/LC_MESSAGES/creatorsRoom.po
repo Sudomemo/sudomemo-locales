@@ -11,13 +11,13 @@ msgid "FAVORITES_FEED"
 msgstr "お気に入りの作品"
 
 msgid "FAVORITE_CHANNELS"
-msgstr "お気に入りチャンネル"
+msgstr "お気に入りのチャンネル"
 
 msgid "USER_DOWNLOADCOUNT"
 msgstr "ダウンロード"
 
 msgid "USER_VIEWCOUNT"
-msgstr "えつらん回数"
+msgstr "閲覧回数"
 
 msgid "USER_THEME"
 msgstr "テーマ"
@@ -140,17 +140,17 @@ msgid "THEME_ERROR_THEME_NOT_OWNED"
 msgstr "あなたはそのテーマを所有していません。"
 
 msgid "THEME_SUCCESSFULLY_SET"
-msgstr "テーマの変更が完了しています!"
+msgstr "テーマの変更が完了しました!"
 
 msgid "BLOCKED_USERS"
 msgstr "ブロックされたユーザー"
 
 msgid "VIEW"
-msgstr "ビュー"
+msgstr "閲覧"
 
 msgid "FAN_COUNT_FORMAT"
 msgstr "%s人"
 
 msgid "HEADER_LANGUAGE"
-msgstr "Language"
+msgstr "言語"
 

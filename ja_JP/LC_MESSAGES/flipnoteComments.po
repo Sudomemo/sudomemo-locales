@@ -11,7 +11,7 @@ msgid "HEADER_NEXT"
 msgstr "次へ"
 
 msgid "HEADER_REFRESH"
-msgstr "リロード"
+msgstr "再読み込み"
 
 msgid "PAGE_FORMAT"
 msgstr "%dページ"
@@ -20,7 +20,7 @@ msgid "NO_COMMENTS_YET"
 msgstr "この作品にはまだコメントがありません。"
 
 msgid "LOGIN_REQUIRED_TO_POST_COMMENT"
-msgstr "コメントを投稿するには、ログインしている必要があります。"
+msgstr "コメントを投稿するには、ログインする必要があります。"
 
 msgid "COMMENT_POST_FAILED"
 msgstr "コメント投稿に失敗しました。 もう一度やり直してください。"
