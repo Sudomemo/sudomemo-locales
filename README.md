@@ -70,9 +70,14 @@ If you have any question about which langcode to use, feel free to reach out to 
 #### English to Japanese
 
 @[Bukharin1](https://www.twitter.com/Fin_suomi_)
+
 @[Compeito](https://twitter.com/ugo_compeito)
+
 @[SlawomirNowak](https://twitter.com/Starbros_s)
+
 @[ManatoProject](https://github.com/ManatoProject)
+
+@[opera7133](https://github.com/opera7133)
 
 #### English to Greek 
 
