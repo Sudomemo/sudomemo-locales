@@ -1,8 +1,8 @@
 msgid "THEME_SHOP_LOGIN_REQUIRED"
-msgstr "Vous devez être connecté pour accéder �  la boutique de thèmes"
+msgstr "Vous devez être connecté pour accéder à la boutique de thèmes"
 
 msgid "THEME_SHOP_MAINPAGE_HEADER"
-msgstr "Ici �  la boutique de thèmes, vous pouvez acheter de nouveaux thèmes pour votre salle de créateur !"
+msgstr "Ici à la boutique de thèmes, vous pouvez acheter de nouveaux thèmes pour votre salle de créateur !"
 
 msgid "THEME_SHOP_LEARN_MORE_HEADER"
 msgstr "En savoir davantage sur la boutique de thèmes"
@@ -74,10 +74,10 @@ msgid "THEME_SHOP_CHOOSE_CAREFULLY_BEFORE_BUYING"
 msgstr "Tous les achats sont permanents, choisissez bien avant d'acheter !"
 
 msgid "THEME_SHOP_YOU_OWN_THIS_THEME"
-msgstr "Vous avez déj�  ce thème."
+msgstr "Vous avez déjà ce thème."
 
 msgid "THEME_SHOP_PUBLIC_THEME"
-msgstr "Tous les utilisateurs ont accès �  ce thème gratuitement."
+msgstr "Tous les utilisateurs ont accés à ce thème gratuitement."
 
 msgid "THEME_SHOP_OWNED_THEME_TRANSACTION_FORMAT"
 msgstr "Vous avez acheté ce thème sur %s pour %d étoiles vertes."
