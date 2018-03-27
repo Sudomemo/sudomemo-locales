@@ -5,10 +5,10 @@ msgid "LANGUAGE_UPDATED_FORMAT"
 msgstr "Votre langue a été réglée sur %s."
 
 msgid "POTENTIAL_CONTRIBUTOR_NOTE"
-msgstr "Sudomemo compte sur sa communauté pour fournir des traductions exactes. Si vous voyez quelque chose qui ne s'affiche pas correctement, qui est toujours en anglais, qui est une traduction de mauvaise qualité, ou si vous voudriez ajouter votre propre langue, or if you would like to add your own language, nous vous invitons �  contribuer ! Les nouvelles traductions complètes et vérifiées peuvent vous apporter la citoyenneté. Vous pouvez le faire ici : https://github.com/Sudomemo/sudomemo-locales"
+msgstr "Sudomemo compte sur sa communauté pour fournir des traductions exactes. Si vous voyez quelque chose qui ne s'affiche pas correctement, qui est toujours en anglais, qui est une traduction de mauvaise qualité, ou si vous voudriez ajouter votre propre langue, nous vous invitons à contribuer ! Les nouvelles traductions complètes et vérifiées peuvent vous apporter la citoyenneté. Vous pouvez le faire ici : https://github.com/Sudomemo/sudomemo-locales"
 
 msgid "RETURN_TO_CREATORS_ROOM"
-msgstr "Retour � la salle de créateur"
+msgstr "Retour à la salle de créateur"
 
 msgid "NOT_LOGGED_IN"
 msgstr "Vous devez être connecté avant de changer votre langue."
