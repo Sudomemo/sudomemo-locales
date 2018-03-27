@@ -17,13 +17,13 @@ msgid "HEADER_ORIGINAL_FLIPNOTE"
 msgstr "Voir la Flipnote source ici"
 
 msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
-msgstr "Pour éviter la mendicit� d'étoiles, les étoiles jaunes sont limitées �  10 par Flipnote."
+msgstr "Pour éviter la mendicité d'étoiles, les étoiles jaunes sont limitées à 10 par Flipnote."
 
 msgid "HEADER_CREATOR"
 msgstr "Créateur"
 
 msgid "HEADER_STARS"
-msgstr "�?toiles"
+msgstr "Étoiles"
 
 msgid "HEADER_VIEWS"
 msgstr "Vues"
@@ -59,10 +59,10 @@ msgid "ADMIN_ACTIONS"
 msgstr "Actions administratives"
 
 msgid "PREV"
-msgstr "Précedent"
+msgstr "Précédent"
 
 msgid "NEXT"
 msgstr "Suivant"
 
 msgid "STAR_DETAILS_UPPERTITLE"
-msgstr "★ �?toiles ★"
+msgstr "★ Étoiles ★"
