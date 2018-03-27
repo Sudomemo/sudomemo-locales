@@ -25,7 +25,7 @@ Please note that translations will be verified; contributions will not be accept
 
 7. Open the folder for your chosen language, and then open the **LC_MESSAGES** folder. You should see a lot of files that end with **.po** -- these are the translation files!
 
-8. To make changes to a translation file, open it in a text editor. Something like Notepad is fine, but if you're not sure about what to use, we recommend [Atom](https://atom.io/).
+8. To make changes to a translation file, open it in a text editor. Something like Notepad is fine, but if you're not sure about what to use, we recommend [Notepad++](https://notepad-plus-plus.org/) for Windows or [Atom](https://atom.io/) for all platforms. **Please do your best to ensure that the files are saved with UTF-8 encoding** -- it will save many a headache for languages with accents or a non-Roman alphabet. 
 
 9. Using a text editor, translate any **.po** lines that start with **`msgstr`**. 
 	* If the text starts with an `@` symbol, you can remove the `@` symbol. 
