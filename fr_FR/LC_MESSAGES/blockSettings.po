@@ -11,19 +11,19 @@ msgid "BLOCK_USER"
 msgstr "Bloquer un utilisateur"
 
 msgid "COMMENT_BLOCK_IS_MUTUAL"
-msgstr "Une fois cet utilisateur bloqué, vous ne pourrez plus commenter ses Flipnotes et il ne pourra plus commenter les votres."
+msgstr "Une fois cet utilisateur bloqué, vous ne pourrez plus commenter ses Flipnotes et il ne pourra plus commenter les vôtres."
 
 msgid "USER_HAS_BEEN_BLOCKED"
 msgstr "Cet utilisateur a été bloqué."
 
 msgid "IF_YOU_WISH_TO_UNBLOCK"
-msgstr "Si vous souhaitez le débloquer, vous pouvez le faire en visitant votre salle de créateur et en ouvrant le menu des utilisateurs Bloqués."
+msgstr "Si vous souhaitez le débloquer, vous pouvez le faire en visitant votre salle de créateur et en ouvrant le menu des utilisateurs bloqués."
 
 msgid "CONFIRM_BLOCK"
 msgstr "Confirmer le blocage"
 
 msgid "USER_ALREADY_BLOCKED"
-msgstr "Vous avez déja bloqué cet utilisateur. Vous pouvez le débloquer depuis les paramètres dans votre salle de créateur, mais vous devez attendre 24 heures avant de pouvoir le re-bloquer."
+msgstr "Vous avez déjà bloqué cet utilisateur. Vous pouvez le débloquer depuis les paramètres dans votre salle de créateur, mais vous devez attendre 24 heures avant de pouvoir le re-bloquer."
 
 msgid "ONE_DAY_WAIT_BEFORE_REBLOCK_FORMAT"
 msgstr "Vous avez récemment débloqué cet utilisateur. Vous ne pouvez pas le re-bloquer avant %s"
@@ -35,7 +35,7 @@ msgid "LOGIN_REQUIRED"
 msgstr "Vous devez être identifié pour effectuer cette action."
 
 msgid "TAP_BACK_TO_RETURN"
-msgstr "Cliquez sur Retour pour retourner � �la salle de créateur."
+msgstr "Cliquez sur Retour pour retourner à la salle de créateur."
 
 msgid "UNBLOCK_USER"
 msgstr "Débloquer un utilisateur"
@@ -44,7 +44,7 @@ msgid "CANNOT_UNBLOCK_NONBLOCKED_USER"
 msgstr "Vous ne pouvez pas débloquer cet utilisateur, car il n'a jamais vraiment été bloqué."
 
 msgid "USER_HAS_BEEN_UNBLOCKED"
-msgstr "Vous avez débloqueé cet utilisateur."
+msgstr "Vous avez débloqué cet utilisateur."
 
 msgid "COMMENTING_ENABLED_AFTER_UNBLOCK"
 msgstr "Après avoir débloqué cet utilisateur, il sera capable de commenter vos Flipnotes à nouveau, sauf s'il vous a lui-même bloqué."
