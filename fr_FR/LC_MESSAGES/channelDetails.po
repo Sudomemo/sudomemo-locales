@@ -8,7 +8,7 @@ msgid "FLIPNOTES"
 msgstr "Flipnotes"
 
 msgid "CHANNEL_ID"
-msgstr "ID de la Chaîne"
+msgstr "ID de la chaîne"
 
 msgid "LOGIN_REQUIRED_TO_POST"
 msgstr "Vous devez être identifié pour poster une flipnote."
@@ -23,7 +23,7 @@ msgid "FLIPNOTE_POST_FAILED"
 msgstr "Erreur de téléchargement de la Flipnote. Veuillez réesayer plus tard."
 
 msgid "DUPLICATE_FLIPNOTE_FAILED"
-msgstr "Cette flipnote a déja été postée sur Sudomemo. Essayez de l'éditer �  nouveau."
+msgstr "Cette flipnote a déjà été postée sur Sudomemo. Essayez de l'éditer à nouveau."
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
 msgstr "Les données de la Flipnote ont été corrompues, veuillez réessayer plus tard."
