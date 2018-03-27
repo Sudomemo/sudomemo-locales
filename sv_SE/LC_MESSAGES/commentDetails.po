@@ -11,10 +11,10 @@ msgid "COMMENT_BY_FORMAT"
 msgstr "Kommentar av %s"
 
 msgid "CHAT_MESSAGE_FROM_FORMAT"
-msgstr "Chattmeddelande frÂn %s"
+msgstr "Chattmeddelande fr√•n %s"
 
 msgid "MESSAGE_FROM_FORMAT"
-msgstr "Meddelande frÂn %s"
+msgstr "Meddelande fr√•n %s"
 
 msgid "FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote av %s"
@@ -29,7 +29,7 @@ msgid "CHAT_COMMENT_ID"
 msgstr "Chattkommentar ID"
 
 msgid "TIMESTAMP"
-msgstr "Tidsst‰mpel"
+msgstr "Tidsst√§mpel"
 
 msgid "POSTED_TO"
 msgstr "Publicerad till"
@@ -38,4 +38,4 @@ msgid "PRIVATE_CONVERSATION"
 msgstr "Privat konversation"
 
 msgid "REPORT_CONTENT"
-msgstr "Rapportera innehÂll"
+msgstr "Rapportera inneh√•ll"

@@ -1,18 +1,18 @@
 msgid "EMAIL_SUBJECT"
-msgstr "Sudomemo Registrering Bekr‰ftelse"
+msgstr "Sudomemo Registrering Bekr√§ftelse"
 
 msgid "SIGNUP_HEADER"
-msgstr "Sudomemo Registrering Bekr‰ftelse"
+msgstr "Sudomemo Registrering Bekr√§ftelse"
 
 msgid "TEXT_HELLO"
 msgstr "Hej!"
 
 msgid "TEXT_EMAIL_PURPOSE"
-msgstr "Detta mailet ‰r att bekr‰fta din registrering fˆr Sudomemo."
+msgstr "Detta mailet √§r att bekr√§fta din registrering f√∂r Sudomemo."
 
 msgid "TEXT_VERIFICATION_LINK_FORMAT"
-msgstr "Klicka pÂ <a target=\"_blank\" href=\"%s\">here</a> fˆr att forts‰tta!"
+msgstr "Klicka p√• <a target=\"_blank\" href=\"%s\">here</a> f√∂r att forts√§tta!"
 
 msgid "TEXT_URL_PLAIN_DISPLAY"
-msgstr "Du kan ocksÂ kopiera och klistra in den h‰r l‰nken i ett nytt fˆnster:"
+msgstr "Du kan ocks√• kopiera och klistra in den h√§r l√§nken i ett nytt f√∂nster:"
 

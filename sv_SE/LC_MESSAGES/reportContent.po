@@ -1,5 +1,5 @@
 msgid "HEADER_REPORT_CONTENT"
-msgstr "Rapportera innehåll"
+msgstr "Rapportera innehÃ¥ll"
 
 msgid "CHAT_MESSAGE"
 msgstr "chattrumsmeddelande"
@@ -14,10 +14,10 @@ msgid "YOU_ARE_REPORTING_THIS_FORMAT"
 msgstr "Du rapporterar detta %s:"
 
 msgid "USER_HAS_ALREADY_REPORTED_FORMAT"
-msgstr "Du har redan skickat in en rapport för detta %s."
+msgstr "Du har redan skickat in en rapport fÃ¶r detta %s."
 
 msgid "HEADER_VIOLATION_CATEGORY"
-msgstr "Överträdelseskategori:"
+msgstr "Ã–vertrÃ¤delseskategori:"
 
 msgid "FLIPNOTE_TITLE_FORMAT"
 msgstr "Flipnote av %s"
@@ -26,35 +26,35 @@ msgid "CREATOR_FORMAT"
 msgstr "Skapare: %s"
 
 msgid "NOTICE_REPORT_OTHER_ISSUES"
-msgstr "Denna blankett är endast för rapportering av innehåll. Om du vill rapportera användarens beteende eller för andra problem och förfrågningar, vänligen skicka ett mail till vårt supportteam:"
+msgstr "Denna blankett Ã¤r endast fÃ¶r rapportering av innehÃ¥ll. Om du vill rapportera anvÃ¤ndarens beteende eller fÃ¶r andra problem och fÃ¶rfrÃ¥gningar, vÃ¤nligen skicka ett mail till vÃ¥rt supportteam:"
 
 msgid "REPORT_INSTRUCTIONS"
-msgstr "Var god skriv en kort beskrivning om varför du anser att innehållet bryter mot Sudomemos användarvillkor. När du har skickat det, tryck på Tillbaka för att återgå till Flipnote."
+msgstr "Var god skriv en kort beskrivning om varfÃ¶r du anser att innehÃ¥llet bryter mot Sudomemos anvÃ¤ndarvillkor. NÃ¤r du har skickat det, tryck pÃ¥ Tillbaka fÃ¶r att Ã¥tergÃ¥ till Flipnote."
 
 msgid "NO_BLANK_REPORTS"
 msgstr "Du kan inte skicka en tom rapport."
 
 msgid "LIMIT_ONE_REPORT"
-msgstr "OBS: Du får bara rapportera det innehållet en gång. Ytterligare rapporter kommer inte att registreras, var vänlig skriv din information i en enda kommentar."
+msgstr "OBS: Du fÃ¥r bara rapportera det innehÃ¥llet en gÃ¥ng. Ytterligare rapporter kommer inte att registreras, var vÃ¤nlig skriv din information i en enda kommentar."
 
 msgid "REPORT_EXPLANATION_FAILED"
-msgstr "Ett fel uppstod när rapporten skickades in."
+msgstr "Ett fel uppstod nÃ¤r rapporten skickades in."
 
 msgid "RESTRICTED_CANCEL"
-msgstr "Du får inte rapportera innehåll om du har blivit förhindrad från att interagera med Sudomemo på något sätt."
+msgstr "Du fÃ¥r inte rapportera innehÃ¥ll om du har blivit fÃ¶rhindrad frÃ¥n att interagera med Sudomemo pÃ¥ nÃ¥got sÃ¤tt."
 
 msgid "HEADER_REASON"
 msgstr "Anledning:"
 
 msgid "LOGIN_REQUIRED_TO_CONTINUE"
-msgstr "Du måste logga in för att fortsätta."
+msgstr "Du mÃ¥ste logga in fÃ¶r att fortsÃ¤tta."
 
 msgid "LOGIN_REQUIRED_TO_REPORT_CONTENT"
-msgstr "Du måste vara inloggad för att rapportera innehåll."
+msgstr "Du mÃ¥ste vara inloggad fÃ¶r att rapportera innehÃ¥ll."
 
 msgid "REPORT_FAILED_USER_BANNED"
-msgstr "Rapportering misslyckades: du är förhindrad från Sudomemo."
+msgstr "Rapportering misslyckades: du Ã¤r fÃ¶rhindrad frÃ¥n Sudomemo."
 
 msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "Denna kommentar har redan publicerats på Sudomemo."
+msgstr "Denna kommentar har redan publicerats pÃ¥ Sudomemo."
 

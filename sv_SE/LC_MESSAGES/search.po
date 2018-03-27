@@ -1,32 +1,32 @@
 msgid "HEADER_PREV"
-msgstr "Före"
+msgstr "FÃ¶re"
 
 msgid "HEADER_NEXT"
-msgstr "Nästa"
+msgstr "NÃ¤sta"
 
 msgid "PAGE_FORMAT"
 msgstr "Sida %d"
 
 msgid "SEARCH"
-msgstr "Sök"
+msgstr "SÃ¶k"
 
 msgid "USERNAME"
-msgstr "Användarnamn"
+msgstr "AnvÃ¤ndarnamn"
 
 msgid "RESULTS"
 msgstr "Resultat"
 
 msgid "SEARCH_USERNAME"
-msgstr "Sök användarnamn"
+msgstr "SÃ¶k anvÃ¤ndarnamn"
 
 msgid "PLEASE_ENTER_USERNAME"
-msgstr "Skriv in ett användarnamn..."
+msgstr "Skriv in ett anvÃ¤ndarnamn..."
 
 msgid "RESULTS_FOUND_FORMAT_SINGULAR"
-msgstr "%1$d resultat hittad för \"%2$s\""
+msgstr "%1$d resultat hittad fÃ¶r \"%2$s\""
 
 msgid "RESULTS_FOUND_FORMAT_MULTIPLE"
-msgstr "%1$d resultat hittad för \"%2$s\""
+msgstr "%1$d resultat hittad fÃ¶r \"%2$s\""
 
 msgid "NO_RESULTS_FOUND"
 msgstr "Inga resultat hittade."

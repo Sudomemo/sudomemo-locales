@@ -2,10 +2,10 @@ msgid "BAN_GREETING_FORMAT"
 msgstr "Hej, %s."
 
 msgid "BAN_NOTICE_CONSOLE_BAN"
-msgstr "Ditt konto och konsol har förbjudits från Sudomemo."
+msgstr "Ditt konto och konsol har fÃ¶rbjudits frÃ¥n Sudomemo."
 
 msgid "BAN_NOTICE_PLEASE_READ_BAN_LETTER"
-msgstr "Vänligen läs det brev vi skickade till dig för ytterligare information."
+msgstr "VÃ¤nligen lÃ¤s det brev vi skickade till dig fÃ¶r ytterligare information."
 
 msgid "BAN_VIEW_MAIL"
 msgstr "Visa Sudomemo Mail"
@@ -14,73 +14,73 @@ msgid "LOGIN_SUCCESSFUL"
 msgstr "Inloggning lyckades"
 
 msgid "THANKS_FOR_LOGIN_FORMAT"
-msgstr "Tack för att du loggade in, %s!"
+msgstr "Tack fÃ¶r att du loggade in, %s!"
 
 msgid "GOTO_CREATORS_ROOM"
-msgstr "Gå till din Creator's Room"
+msgstr "GÃ¥ till din Creator's Room"
 
 msgid "LOGIN"
 msgstr "Inloggning"
 
 msgid "POST_COMMENT_BELOW"
-msgstr "För att fortsätta, vänligen skriv en kommentar nedan."
+msgstr "FÃ¶r att fortsÃ¤tta, vÃ¤nligen skriv en kommentar nedan."
 
 msgid "LOGIN_SETUP"
-msgstr "Inloggningsinställningar"
+msgstr "InloggningsinstÃ¤llningar"
 
 msgid "WELCOME_BACK_FORMAT"
-msgstr "Välkommen tillbaka, %s!"
+msgstr "VÃ¤lkommen tillbaka, %s!"
 
 msgid "RETURNING_USER_NEW_LOGIN_SYSTEM"
-msgstr "Sedan ditt senaste besök har vi lagt till ett nytt inloggningssystem -- men oroa dig inte, allt ditt innehåll är fortfarande kvar!"
+msgstr "Sedan ditt senaste besÃ¶k har vi lagt till ett nytt inloggningssystem -- men oroa dig inte, allt ditt innehÃ¥ll Ã¤r fortfarande kvar!"
 
 msgid "RETURNING_USER_PLEASE_CREATE_PASSWORD"
-msgstr "För att komma igång, skapa ett nytt lösenord nedan."
+msgstr "FÃ¶r att komma igÃ¥ng, skapa ett nytt lÃ¶senord nedan."
 
 msgid "NEW_USER_WELCOME_FORMAT"
-msgstr "Välkommen till Sudomemo, %s!"
+msgstr "VÃ¤lkommen till Sudomemo, %s!"
 
 msgid "NEW_USER_PLEASE_CREATE_PASSWORD"
-msgstr "Vänligen skapa ett nytt lösenord."
+msgstr "VÃ¤nligen skapa ett nytt lÃ¶senord."
 
 msgid "FORM_HEADER_PASSWORD"
-msgstr "Lösenord:"
+msgstr "LÃ¶senord:"
 
 msgid "FORM_PREFILL_PASSWORD"
-msgstr "Skriv ditt lösenord här..."
+msgstr "Skriv ditt lÃ¶senord hÃ¤r..."
 
 msgid "FORM_WARNING_PASSWORD_TOO_SHORT"
-msgstr "Vänligen ange ett lösenord som är längre än 8 tecken."
+msgstr "VÃ¤nligen ange ett lÃ¶senord som Ã¤r lÃ¤ngre Ã¤n 8 tecken."
 
 msgid "FORM_WARNING_PASSWORD_DISALLOWED_CHARS"
-msgstr "Ditt lösenord kan inte innehålla något av dessa tecken:"
+msgstr "Ditt lÃ¶senord kan inte innehÃ¥lla nÃ¥got av dessa tecken:"
 
 msgid "FORM_LABEL_DONT_FORGET_PASSWORD"
-msgstr "Kom ihåg att skriva ner ditt lösenord och håll det säkert!"
+msgstr "Kom ihÃ¥g att skriva ner ditt lÃ¶senord och hÃ¥ll det sÃ¤kert!"
 
 msgid "FORM_HEADER_EMAIL"
 msgstr "E-postadress:"
 
 msgid "FORM_PREFILL_EMAIL"
-msgstr "Skriv din E-postadress här..."
+msgstr "Skriv din E-postadress hÃ¤r..."
 
 msgid "FORM_WARNING_EMAIL_INVALID"
-msgstr "E-postadressen du angav är inte giltig."
+msgstr "E-postadressen du angav Ã¤r inte giltig."
 
 msgid "EMAIL_ADDITION_SUGGESTED"
-msgstr "E-post är valfritt, men rekommenderas starkt. Om du någonsin glömmer ditt lösenord skickar vi en länk för lösenordsåterställning till din e-postadress."
+msgstr "E-post Ã¤r valfritt, men rekommenderas starkt. Om du nÃ¥gonsin glÃ¶mmer ditt lÃ¶senord skickar vi en lÃ¤nk fÃ¶r lÃ¶senordsÃ¥terstÃ¤llning till din e-postadress."
 
 msgid "EMAIL_ADDITION_DETAILS"
-msgstr "Om du någonsin glömmer ditt lösenord skickar vi en länk för lösenordsåterställning till din e-postadress."
+msgstr "Om du nÃ¥gonsin glÃ¶mmer ditt lÃ¶senord skickar vi en lÃ¤nk fÃ¶r lÃ¶senordsÃ¥terstÃ¤llning till din e-postadress."
 
 msgid "CONFIRM_INFO_CORRECT"
-msgstr "Vänligen se till att informationen nedan är korrekt."
+msgstr "VÃ¤nligen se till att informationen nedan Ã¤r korrekt."
 
 msgid "NO_PLAINTEXT_PASSWORD_RECOVERY_IF_LOST"
-msgstr "Efter det här steget kan vi inte återställa ditt lösenord om du förlorar det."
+msgstr "Efter det hÃ¤r steget kan vi inte Ã¥terstÃ¤lla ditt lÃ¶senord om du fÃ¶rlorar det."
 
 msgid "BUTTON_CHANGE_PASSWORD"
-msgstr "Byt lösenord"
+msgstr "Byt lÃ¶senord"
 
 msgid "FORM_HEADER_EMAIL_CONFIRM"
 msgstr "E-postadress:"
@@ -89,151 +89,151 @@ msgid "BUTTON_CHANGE_EMAIL"
 msgstr "Byt E-postadress"
 
 msgid "BUTTON_ADD_AN_EMAIL_ADDRESS"
-msgstr "Lägg till en E-postadress"
+msgstr "LÃ¤gg till en E-postadress"
 
 msgid "BUTTON_SUBMIT"
 msgstr "Klar"
 
 msgid "PLEASE_ENTER_PASSWORD_TO_SIGN_IN"
-msgstr "Vänligen ange ditt lösenord för att logga in"
+msgstr "VÃ¤nligen ange ditt lÃ¶senord fÃ¶r att logga in"
 
 msgid "LOGIN_FORM_PREFILL_PASSWORD"
-msgstr "Skriv in lösenord"
+msgstr "Skriv in lÃ¶senord"
 
 msgid "INCORRECT_PASSWORD_ATTEMPTS_FORMAT"
-msgstr "Felaktiga lösenordsförsök: %s"
+msgstr "Felaktiga lÃ¶senordsfÃ¶rsÃ¶k: %s"
 
 msgid "REGISTRATION_ERROR_BAD_EMAIL"
-msgstr "E-postadress du angav är inte tillåten."
+msgstr "E-postadress du angav Ã¤r inte tillÃ¥ten."
 
 msgid "REGISTRATION_ERROR_BAD_PASSWORD"
-msgstr "Lösenordet du angav är inte tillåtet."
+msgstr "LÃ¶senordet du angav Ã¤r inte tillÃ¥tet."
 
 msgid "ERROR"
 msgstr "Fel"
 
 msgid "REGISTRATION_ERROR_PASSWORD_ALREADY_SET"
-msgstr "Lösenordet har redan ställts in."
+msgstr "LÃ¶senordet har redan stÃ¤llts in."
 
 msgid "NEW_USER_THANKS_FOR_REGISTRATION"
-msgstr "Välkommen till Sudomemo!"
+msgstr "VÃ¤lkommen till Sudomemo!"
 
 msgid "RETURNING_USER_THANKS_FOR_REGISTRATION"
-msgstr "Välkommen tillbaka! Tack för att du har konfigurerat din inloggningsinformation."
+msgstr "VÃ¤lkommen tillbaka! Tack fÃ¶r att du har konfigurerat din inloggningsinformation."
 
 msgid "BUTTON_SIGN_IN_TO_SUDOMEMO"
-msgstr "Logga in på Sudomemo"
+msgstr "Logga in pÃ¥ Sudomemo"
 
 msgid "LOGIN_FAILED"
 msgstr "Inloggning misslyckades."
 
 msgid "LOGIN_FAILED_REOPEN_FLIPNOTE_STUDIO"
-msgstr "Inloggning misslyckades. Avsluta och öppna Flipnote Studio igen."
+msgstr "Inloggning misslyckades. Avsluta och Ã¶ppna Flipnote Studio igen."
 
 msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE1"
-msgstr "Flipnote-data är skadad."
+msgstr "Flipnote-data Ã¤r skadad."
 
 msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE2"
-msgstr "Försök skicka det igen."
+msgstr "FÃ¶rsÃ¶k skicka det igen."
 
 msgid "LOGIN_FAILED_BANNED_LINE1"
-msgstr "Du har blivit förhindrad från att använda Sudomemo."
+msgstr "Du har blivit fÃ¶rhindrad frÃ¥n att anvÃ¤nda Sudomemo."
 
 msgid "CONTACT_SUPPORT_EMAIL_FORMAT"
-msgstr "Vänligen kontakta %s."
+msgstr "VÃ¤nligen kontakta %s."
 
 msgid "CREATORS_ROOM_SHIM_WELCOME"
-msgstr "Välkommen!"
+msgstr "VÃ¤lkommen!"
 
 msgid "CREATORS_ROOM_SHIM_PLEASE_LOGIN"
-msgstr "Välkommen till Sudomemo! Vänligen logga in för att fortsätta."
+msgstr "VÃ¤lkommen till Sudomemo! VÃ¤nligen logga in fÃ¶r att fortsÃ¤tta."
 
 msgid "GUIDE_MAIN_MENU_SHORTCUT"
-msgstr "Du kan återgå till huvudmenyn genom att hålla ned L (eller R om du är vänsterhänt) och trycka på knappen "Meny"."
+msgstr "Du kan Ã¥tergÃ¥ till huvudmenyn genom att hÃ¥lla ned L (eller R om du Ã¤r vÃ¤nsterhÃ¤nt) och trycka pÃ¥ knappen 'Meny'."
 
 msgid "SORRY_NO_LOGIN"
-msgstr "Tyvärr, men vi kunde inte logga in dig!"
+msgstr "TyvÃ¤rr, men vi kunde inte logga in dig!"
 
 msgid "BASIC_AUTH_NOT_ENABLED"
-msgstr "Du verkar inte ha aktiverat grundläggande autentisering i dina proxyinställningar."
+msgstr "Du verkar inte ha aktiverat grundlÃ¤ggande autentisering i dina proxyinstÃ¤llningar."
 
 msgid "BASIC_AUTH_FSID_INVALID"
-msgstr "Flipnote Studio ID som du angav under grundläggande autentisering är ogiltig:"
+msgstr "Flipnote Studio ID som du angav under grundlÃ¤ggande autentisering Ã¤r ogiltig:"
 
 msgid "BASIC_AUTH_BAD_LENGTH_FORMAT"
-msgstr "ID-numret verkar vara %s siffror i längd (Ska vara 16)"
+msgstr "ID-numret verkar vara %s siffror i lÃ¤ngd (Ska vara 16)"
 
 msgid "BASIC_AUTH_LOWERCASE_LETTERS"
-msgstr "IDn innehåller små bokstäver - det ska vara stor boxtäver."
+msgstr "IDn innehÃ¥ller smÃ¥ bokstÃ¤ver - det ska vara stor boxtÃ¤ver."
 
 msgid "BASIC_AUTH_NONHEX_CHARACTERS"
-msgstr "IDn innehåller andra täcken än 0-9 och A-F (den ska bara innehålla 0-9 och A-F)."
+msgstr "IDn innehÃ¥ller andra tÃ¤cken Ã¤n 0-9 och A-F (den ska bara innehÃ¥lla 0-9 och A-F)."
 
 msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
-msgstr "Om du behöver hjälp att ansluta, vänligen fråga i våran Discord! Du kan gå med från %s."
+msgstr "Om du behÃ¶ver hjÃ¤lp att ansluta, vÃ¤nligen frÃ¥ga i vÃ¥ran Discord! Du kan gÃ¥ med frÃ¥n %s."
 
 msgid "BAN_NOTICE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
-msgstr "Vänligen kontakta oss på Discord eller via e-post till %s."
+msgstr "VÃ¤nligen kontakta oss pÃ¥ Discord eller via e-post till %s."
 
 msgid "FORGOT_PASSWORD_LINK"
-msgstr "Har du glömt ditt lösenord?"
+msgstr "Har du glÃ¶mt ditt lÃ¶senord?"
 
 msgid "EMAIL_IS_DUPLICATE"
-msgstr "E-postadressen du angav används redan."
+msgstr "E-postadressen du angav anvÃ¤nds redan."
 
 msgid "EMAIL_CONFIRMATION_SENT_FORMAT"
-msgstr "Ett bekräftelsemail har skickats till %s. Vänligen se efter det om några minuter."
+msgstr "Ett bekrÃ¤ftelsemail har skickats till %s. VÃ¤nligen se efter det om nÃ¥gra minuter."
 
 msgid "BUTTON_CHECK_VERIFICATION"
 msgstr "Kontrollera verifieringsstatus"
 
 msgid "EMAIL_NOT_YET_VERIFIED"
-msgstr "Din e-postadress har ännu inte verifierats."
+msgstr "Din e-postadress har Ã¤nnu inte verifierats."
 
 msgid "EMAIL_VERIFIED"
-msgstr "Tack för att du verifierat din e-postadress!"
+msgstr "Tack fÃ¶r att du verifierat din e-postadress!"
 
 msgid "EMAIL_REQUIRES_UPDATE"
-msgstr "Din e-postadress måste uppdateras."
+msgstr "Din e-postadress mÃ¥ste uppdateras."
 
 msgid "VERIFICATION_NEEDED"
-msgstr "Du behöver verifiera din e-postadress."
+msgstr "Du behÃ¶ver verifiera din e-postadress."
 
 msgid "BUTTON_RESEND_VERIFICATION_EMAIL"
 msgstr "Skicka verifieringsemail igen"
 
 msgid "NOT_RECEIVING_HELP_FORMAT"
-msgstr "Får du inget mail? Du kan nå oss på Sudomemo Discord eller via %s."
+msgstr "FÃ¥r du inget mail? Du kan nÃ¥ oss pÃ¥ Sudomemo Discord eller via %s."
 
 msgid "HEADER_VERIFY_EMAIL"
 msgstr "Verifiera e-postadress"
 
 msgid "VERIFICATION_LIMIT_EXCEEDED_FORMAT"
-msgstr "Du har överstigit det maximala antalet verifieringsemail. Vänligen kontakta support på %s eller via Discord."
+msgstr "Du har Ã¶verstigit det maximala antalet verifieringsemail. VÃ¤nligen kontakta support pÃ¥ %s eller via Discord."
 
 msgid "WEB_HEADER_SUCCESS"
 msgstr "Lyckat!"
 
 msgid "WEB_TAP_CHECK_VERIFICATION_STATUS"
-msgstr "Fortsätt och tryck på "Kontrollera verifieringsstatus" i ditt Nintendo DSi system."
+msgstr "FortsÃ¤tt och tryck pÃ¥ 'Kontrollera verifieringsstatus' i ditt Nintendo DSi system."
 
 msgid "HEADER_VERIFICATION_EXPIRED"
-msgstr "Verifieringen har gått ut"
+msgstr "Verifieringen har gÃ¥tt ut"
 
 msgid "VERIFICATION_EXPIRED_TEXT"
-msgstr "Verifieringsadressen har gått ut eller redan använts."
+msgstr "Verifieringsadressen har gÃ¥tt ut eller redan anvÃ¤nts."
 
 msgid "CONTINUE_TO_LOGIN"
-msgstr "Fortsätt till inloggning"
+msgstr "FortsÃ¤tt till inloggning"
 
 msgid "HEADER_UPDATE_EMAIL"
 msgstr "Uppdatera e-postadress"
 
 msgid "THANK_YOU_FOR_UPDATING_EMAIL"
-msgstr "Tack för att du uppdaterat din e-postadress!"
+msgstr "Tack fÃ¶r att du uppdaterat din e-postadress!"
 
 msgid "BUTTON_CONTINUE"
-msgstr "Förtsätt"
+msgstr "FÃ¶rtsÃ¤tt"
 
 msgid "BUTTON_EDIT_EMAIL_ADDRESS"
 msgstr "Byt e-postadress"

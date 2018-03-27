@@ -1,5 +1,5 @@
 msgid "NO_COMMENTS_YET"
-msgstr "Inga meddelanden har skickats här."
+msgstr "Inga meddelanden har skickats hÃ¤r."
 
 msgid "HEADER_COMMENTS"
 msgstr "Kommentarer"
@@ -8,32 +8,32 @@ msgid "PAGE_FORMAT"
 msgstr "Sida %d"
 
 msgid "HEADER_NEXT"
-msgstr "Nästa"
+msgstr "NÃ¤sta"
 
 msgid "HEADER_PREV"
-msgstr "Före"
+msgstr "FÃ¶re"
 
 msgid "HEADER_REFRESH"
 msgstr "Uppdatera"
 
 msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
-msgstr "Du måste vara inloggad för att skicka ett chattmeddelande."
+msgstr "Du mÃ¥ste vara inloggad fÃ¶r att skicka ett chattmeddelande."
 
 msgid "CHAT_REPLY_FAILED"
-msgstr "Chat-svar misslyckades. Försök igen om en stund."
+msgstr "Chat-svar misslyckades. FÃ¶rsÃ¶k igen om en stund."
 
 msgid "NO_BLANK_MESSAGES_ALLOWED"
 msgstr "Du kan inte skicka ett tomt meddelande."
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "Flipnote-data är skadad. Försök igen om en stund."
+msgstr "Flipnote-data Ã¤r skadad. FÃ¶rsÃ¶k igen om en stund."
 
 msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
-msgstr "Du har blivit dämpad. Du får inte chatta."
+msgstr "Du har blivit dÃ¤mpad. Du fÃ¥r inte chatta."
 
 msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "Denna kommentar har redan publicerats på Sudomemo."
+msgstr "Denna kommentar har redan publicerats pÃ¥ Sudomemo."
 
 msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "Du har blivit förhindrad från att interagera på Sudomemo."
+msgstr "Du har blivit fÃ¶rhindrad frÃ¥n att interagera pÃ¥ Sudomemo."
 

@@ -5,10 +5,10 @@ msgid "HEADER_DETAILS"
 msgstr "Detaljer"
 
 msgid "HEADER_PREV"
-msgstr "Före"
+msgstr "FÃ¶re"
 
 msgid "HEADER_NEXT"
-msgstr "Nästa"
+msgstr "NÃ¤sta"
 
 msgid "HEADER_REFRESH"
 msgstr "Uppdatera"
@@ -17,28 +17,28 @@ msgid "PAGE_FORMAT"
 msgstr "Sida %d"
 
 msgid "NO_COMMENTS_YET"
-msgstr "Denna Flipnote har inga kommentarer än."
+msgstr "Denna Flipnote har inga kommentarer Ã¤n."
 
 msgid "LOGIN_REQUIRED_TO_POST_COMMENT"
-msgstr "Du måste vara inloggad för att skicka en kommentar."
+msgstr "Du mÃ¥ste vara inloggad fÃ¶r att skicka en kommentar."
 
 msgid "COMMENT_POST_FAILED"
-msgstr "Kommentaren kunde inte skickas. Försök igen om en stund."
+msgstr "Kommentaren kunde inte skickas. FÃ¶rsÃ¶k igen om en stund."
 
 msgid "NO_BLANK_COMMENTS_ALLOWED"
 msgstr "Du kan inte skicka en tom kommentar."
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "Flipnote-data är skadad. Försök igen om en stund."
+msgstr "Flipnote-data Ã¤r skadad. FÃ¶rsÃ¶k igen om en stund."
 
 msgid "FLIPNOTE_COMMENTS_DISALLOWED"
-msgstr "Du kan inte kommentera på denna Flipnote"
+msgstr "Du kan inte kommentera pÃ¥ denna Flipnote"
 
 msgid "NO_COMMENTS_WHILE_MUTED"
-msgstr "Du har blivit dämpad. Du kan inte skicka kommentarer."
+msgstr "Du har blivit dÃ¤mpad. Du kan inte skicka kommentarer."
 
 msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "Denna kommentar har redan publicerats på Sudomemo."
+msgstr "Denna kommentar har redan publicerats pÃ¥ Sudomemo."
 
 msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "Du har blivit förhindrad från att använda Sudomemo."
+msgstr "Du har blivit fÃ¶rhindrad frÃ¥n att anvÃ¤nda Sudomemo."
