@@ -67,6 +67,8 @@ If you have any question about which langcode to use, feel free to reach out to 
 
 ## Thank You
 
+If you'd like the link in this section adjusted, reach out to us.
+
 #### English to Japanese
 
 @[Bukharin1](https://www.twitter.com/Fin_suomi_)
@@ -90,3 +92,7 @@ If you have any question about which langcode to use, feel free to reach out to 
 #### English to Spanish
 
 @[NaoVolkova](https://github.com/NaoVolkova)
+
+#### English to Swedish
+
+@[Sweirde](https://github.com/sweirde)
