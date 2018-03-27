@@ -1,19 +1,19 @@
 msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
-msgstr "You must log in to view this page."
+msgstr "Vous devez être connecté pour intéragir avec cette page."
 
 msgid "HEADER_UNREAD_COMMENTS"
-msgstr "Unread Comments"
+msgstr "Commentaires non-lus"
 
 msgid "NO_UNREAD_COMMENTS"
-msgstr "You have no unread comments."
+msgstr "Vous n'avez pas de message non-lu."
 
 msgid "TAP_ON_FLIPNOTE_ID_TO_VISIT_COMMENTS"
-msgstr "Tap on a Flipnote ID to visit the comments page."
+msgstr "Tapotez l'ID d'une Flipnote pour visiter la page des commentaires."
 
 msgid "FLIPNOTE_ID"
 msgstr "Flipnote ID"
 
 msgid "UNREAD"
-msgstr "Unread"
+msgstr "Non-lu"
 
 
