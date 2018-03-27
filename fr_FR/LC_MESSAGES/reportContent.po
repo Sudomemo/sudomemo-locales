@@ -14,7 +14,7 @@ msgid "YOU_ARE_REPORTING_THIS_FORMAT"
 msgstr "Vous êtes en train de signaler ce(tte) %s :"
 
 msgid "USER_HAS_ALREADY_REPORTED_FORMAT"
-msgstr "Vous avez déj�  envoyé un signalement pour ce(tte) %s."
+msgstr "Vous avez déjà envoyé un signalement pour ce(tte) %s."
 
 msgid "HEADER_VIOLATION_CATEGORY"
 msgstr "Catégorie de violation :"
@@ -23,19 +23,19 @@ msgid "FLIPNOTE_TITLE_FORMAT"
 msgstr "Flipnote de %s"
 
 msgid "CREATOR_FORMAT"
-msgstr "Cr�ateur : %s"
+msgstr "Créateur : %s"
 
 msgid "NOTICE_REPORT_OTHER_ISSUES"
-msgstr "Ce formulaire est fait pour signaler le contenu d'utilisateur seulement. Pour signaler le comportement d'un utilisateur, ou pour d'autres problèmes et requêtes, merci d'envoyer un mail �  notre support :"
+msgstr "Ce formulaire est fait pour signaler le contenu d'utilisateur seulement. Pour signaler le comportement d'un utilisateur, ou pour d'autres problèmes et requêtes, merci d'envoyer un mail à notre support :"
 
 msgid "REPORT_INSTRUCTIONS"
-msgstr "Merci d'écrire une courte description pour expliquer pourquoi vous pensez que ce contenu viole les conditions d'utilisation de Sudomemo. Une fois que vous l'avez envoyée, appuyez sur Retour pour retourner �  la Flipnote."
+msgstr "Merci d'écrire une courte description pour expliquer pourquoi vous pensez que ce contenu viole les conditions d'utilisation de Sudomemo. Une fois que vous l'avez envoyée, appuyez sur Retour pour retourner à la Flipnote."
 
 msgid "NO_BLANK_REPORTS"
 msgstr "Vous ne pouvez pas envoyer un signalement vide."
 
 msgid "LIMIT_ONE_REPORT"
-msgstr "�? noter : Vous ne pouvez signaler ce contenu qu'une seule fois. Les signalements additionnels ne seront pas enregistrés, donc merci de mettre vos informations dans un seul message."
+msgstr "À noter : Vous ne pouvez signaler ce contenu qu'une seule fois. Les signalements additionnels ne seront pas enregistrés, donc merci de mettre vos informations dans un seul message."
 
 msgid "REPORT_EXPLANATION_FAILED"
 msgstr "Une erreur est survenue pendant l'envoi du signalement."
@@ -56,5 +56,5 @@ msgid "REPORT_FAILED_USER_BANNED"
 msgstr "You've been restricted from using Sudomemo."
 
 msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "Ce commentaire a dj�  été envoyé sur Sudomemo."
+msgstr "Ce commentaire a déjà été envoyé sur Sudomemo."
 
