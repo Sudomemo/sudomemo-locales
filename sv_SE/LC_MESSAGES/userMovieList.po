@@ -1,0 +1,24 @@
+msgid "UPPERTITLE"
+msgstr "Bläddra"
+
+msgid "NEXT"
+msgstr "Nästa Sida"
+
+msgid "PREV"
+msgstr "Föregående Sida"
+
+msgid "PAGE"
+msgstr "Sida"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d av %d"
+
+msgid "FLIPNOTES_BY_FORMAT"
+msgstr "Flipnotes av %s"
+
+msgid "STARRED_BY_FORMAT"
+msgstr "Starred av %s"
+
+msgid "FAVORITES_FEED_FORMAT"
+msgstr "%s's Favoriter Feed"
+
