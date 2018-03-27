@@ -50,10 +50,10 @@ msgid "FORM_PREFILL_PASSWORD"
 msgstr "Entrez votre mot de passe ici..."
 
 msgid "FORM_WARNING_PASSWORD_TOO_SHORT"
-msgstr "Entrez un mot de passe qui est plus long que 8 charactères, s'il-vous-plaît."
+msgstr "Entrez un mot de passe qui est plus long que 8 caractères, s'il-vous-plaît."
 
 msgid "FORM_WARNING_PASSWORD_DISALLOWED_CHARS"
-msgstr "Votre mot de passe ne peut pas contenir ces charactères :"
+msgstr "Votre mot de passe ne peut pas contenir ces caractères :"
 
 msgid "FORM_LABEL_DONT_FORGET_PASSWORD"
 msgstr "N'oubliez pas de noter votre mot de passe, et gardez-le secret !"
@@ -68,10 +68,10 @@ msgid "FORM_WARNING_EMAIL_INVALID"
 msgstr "L'email que vous avez saisi n'est pas valide."
 
 msgid "EMAIL_ADDITION_SUGGESTED"
-msgstr "L'email est optionel, mais hautement récommendé. Si vous oubliez votre mot de passe, nous vous enverrons un lien de rénitialisation du mot de passe par mail."
+msgstr "L'email est optionel, mais hautement recommandé. Si vous oubliez votre mot de passe, nous vous enverrons un lien de réinitialisation du mot de passe par mail."
 
 msgid "EMAIL_ADDITION_DETAILS"
-msgstr "Si vous oubliez votre mot de passe, nous vous enverrons un lien de rénitialisation du mot de passe par mail."
+msgstr "Si vous oubliez votre mot de passe, nous vous enverrons un lien de réinitialisation du mot de passe par mail."
 
 msgid "CONFIRM_INFO_CORRECT"
 msgstr "S'il-vous-plaît, assurez-vous que l'information ci-dessous est correcte."
@@ -122,7 +122,7 @@ msgid "RETURNING_USER_THANKS_FOR_REGISTRATION"
 msgstr "Bon retour! Merci d'avoir mis en place vos informations de connexion."
 
 msgid "BUTTON_SIGN_IN_TO_SUDOMEMO"
-msgstr "Se connecter �  Sudomemo"
+msgstr "Se connecter à Sudomemo"
 
 msgid "LOGIN_FAILED"
 msgstr "Erreur d'identification."
@@ -170,19 +170,19 @@ msgid "BASIC_AUTH_NONHEX_CHARACTERS"
 msgstr "L'ID contient des caractères autres que 0-9 et A-F (cela devrait seulement contenir 0-9 et A-F)."
 
 msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
-msgstr "Si vous avez besoin d'aide pour vous connecter, n'hésitez pas �  nous le demander sur Discord ! Vous pouvez rejoindre depuis %s."
+msgstr "Si vous avez besoin d'aide pour vous connecter, n'hésitez pas à nous le demander sur Discord ! Vous pouvez rejoindre depuis %s."
 
 msgid "BAN_NOTICE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
-msgstr "S'il-vous-plaît, contactez-nous sur Discord ou par mail �  %s."
+msgstr "S'il-vous-plaît, contactez-nous sur Discord ou par mail à %s."
 
 msgid "FORGOT_PASSWORD_LINK"
 msgstr "Vous avez oublié votre mot de passe ?"
 
 msgid "EMAIL_IS_DUPLICATE"
-msgstr "L'adresse email que vous avez entrée est déj�  utilisée."
+msgstr "L'adresse email que vous avez entrée est déjà utilisée."
 
 msgid "EMAIL_CONFIRMATION_SENT_FORMAT"
-msgstr "Un mail de confirmation a été envoyé �  %s. S'il-vous-plaît, vérifiez-le dans quelques minutes."
+msgstr "Un mail de confirmation a été envoyé à %s. S'il-vous-plaît, vérifiez-le dans quelques minutes."
 
 msgid "BUTTON_CHECK_VERIFICATION"
 msgstr "Vérifier l'état de vérification"
@@ -194,7 +194,7 @@ msgid "EMAIL_VERIFIED"
 msgstr "Merci d'avoir vérifié votre adresse email !"
 
 msgid "EMAIL_REQUIRES_UPDATE"
-msgstr "Votre adresse email a besoin d'être mise �  jour."
+msgstr "Votre adresse email a besoin d'être mise à jour."
 
 msgid "VERIFICATION_NEEDED"
 msgstr "Nous avons besoin que vous vérifiez votre adresse email."
@@ -203,13 +203,13 @@ msgid "BUTTON_RESEND_VERIFICATION_EMAIL"
 msgstr "Renvoyer le mail de vérification"
 
 msgid "NOT_RECEIVING_HELP_FORMAT"
-msgstr "Vous en recevez pas le mail ? Vous pouvez nous contacter sur le Discord de Sudomemo ou via %s."
+msgstr "Vous ne recevez pas le mail ? Vous pouvez nous contacter sur le Discord de Sudomemo ou via %s."
 
 msgid "HEADER_VERIFY_EMAIL"
-msgstr "Verifier l'email"
+msgstr "Vérifier l'email"
 
 msgid "VERIFICATION_LIMIT_EXCEEDED_FORMAT"
-msgstr "Vous avez atteint le nombre maximal de mails de vérification. S'il-vous-plaît contactez le support �  %s ou via Discord."
+msgstr "Vous avez atteint le nombre maximal de mails de vérification. S'il-vous-plaît contactez le support à %s ou via Discord."
 
 msgid "WEB_HEADER_SUCCESS"
 msgstr "Succès !"
@@ -221,16 +221,16 @@ msgid "HEADER_VERIFICATION_EXPIRED"
 msgstr "Vérification expirée"
 
 msgid "VERIFICATION_EXPIRED_TEXT"
-msgstr "L'URL de vérification a expiré ou il a déj�  été utilisé."
+msgstr "L'URL de vérification a expiré ou il a déjà été utilisé."
 
 msgid "CONTINUE_TO_LOGIN"
 msgstr "Aller se connecter"
 
 msgid "HEADER_UPDATE_EMAIL"
-msgstr "Mettre �  jour l'email"
+msgstr "Mettre à jour l'email"
 
 msgid "THANK_YOU_FOR_UPDATING_EMAIL"
-msgstr "Merci d'avoir mis �  jour votre email !"
+msgstr "Merci d'avoir mis à jour votre email !"
 
 msgid "BUTTON_CONTINUE"
 msgstr "Continuer"
