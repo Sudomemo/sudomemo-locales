@@ -1,0 +1,33 @@
+msgid "CHANNEL_NAME"
+msgstr "Kanal Namn"
+
+msgid "CHANNEL_INFORMATION"
+msgstr "Kanal Information"
+
+msgid "FLIPNOTES"
+msgstr "Flipnotes"
+
+msgid "CHANNEL_ID"
+msgstr "Kanal ID"
+
+msgid "LOGIN_REQUIRED_TO_POST"
+msgstr "Du måste vara inloggad för att publicera Flipnotes."
+
+msgid "CHANNEL_NOT_SPECIFIED"
+msgstr "Du måste välja kanal."
+
+msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
+msgstr "Du har blivit förhindrad från att använda Sudomemo."
+
+msgid "FLIPNOTE_POST_FAILED"
+msgstr "Uppladdning misslyckades. Försök igen om en stund."
+
+msgid "DUPLICATE_FLIPNOTE_FAILED"
+msgstr "Denna Flipnote har redan publicerats på Sudomemo. Försök att redigera den igen."
+
+msgid "FLIPNOTE_DATA_CORRUPTED"
+msgstr "Flipnote-data är skadad. Försök igen om en stund."
+
+msgid "NO_BLANK_FLIPNOTES_ALLOWED"
+msgstr "Du kan inte publicera en tom Flipnote."
+

@@ -1,0 +1,59 @@
+msgid "LOGIN_REQUIRED_TO_MANAGE_BLOCKS"
+msgstr "Du måste vara inloggad för att hantera blockerade användare."
+
+msgid "NO_USERS_BLOCKED"
+msgstr "Du har inga blockerade användare."
+
+msgid "BLOCKED_USERS"
+msgstr "Blockerade användare"
+
+msgid "BLOCK_USER"
+msgstr "Blockera användare"
+
+msgid "COMMENT_BLOCK_IS_MUTUAL"
+msgstr "När du har blockerat användaren kan ni inte längre kommentera på varandras Flipnotes."
+
+msgid "USER_HAS_BEEN_BLOCKED"
+msgstr "Användaren blockerad."
+
+msgid "IF_YOU_WISH_TO_UNBLOCK"
+msgstr "Om du någonsin vill avblockera dem kan du göra det genom att besöka din Creator's Room och öppna menyn Blockerade användare."
+
+msgid "CONFIRM_BLOCK"
+msgstr "Bekräfta blockering"
+
+msgid "USER_ALREADY_BLOCKED"
+msgstr "Du har redan blockerat användaren. Du kan avblockera dem från inställningsmenyn i din Creator's Room, men du måste vänta 24 timmar innan du kan blockera dem igen."
+
+msgid "ONE_DAY_WAIT_BEFORE_REBLOCK_FORMAT"
+msgstr "Du har nyligen avblockerat användaren. Du kan inte blockera de tills %s"
+
+msgid "UNBLOCK"
+msgstr "Avblockera"
+
+msgid "LOGIN_REQUIRED"
+msgstr "Du måste vara inloggad för att utföra den här åtgärden."
+
+msgid "TAP_BACK_TO_RETURN"
+msgstr "Tryck på Tillbaka för att återgå till din Creator's room."
+
+msgid "UNBLOCK_USER"
+msgstr "Avblockera användare"
+
+msgid "CANNOT_UNBLOCK_NONBLOCKED_USER"
+msgstr "Du kan inte avblockera användaren eftersom du inte har blockerat dem i första hand."
+
+msgid "USER_HAS_BEEN_UNBLOCKED"
+msgstr "Du har avblockerat användaren."
+
+msgid "COMMENTING_ENABLED_AFTER_UNBLOCK"
+msgstr "När du har avblockerat användaren kommer de att kunna kommentera dina Flipnotes igen, om inte de har blockerat dig också."
+
+msgid "UNBLOCK_WARNING_ONE_DAY_THRESHOLD"
+msgstr "Om du avblockerar dem måste du vänta 24 timmar innan du kan blockera dem igen."
+
+msgid "CONFIRM_UNBLOCK"
+msgstr "Bekräfta avblockering"
+
+msgid "RECENTLY_UBNLOCKED_ONE_DAY_THRESHOLD"
+msgstr "Du har nyligen avblockerat användaren. Du måste vänta 24 timmar från att du avblockerade dem innan du kan blockera dem igen."
