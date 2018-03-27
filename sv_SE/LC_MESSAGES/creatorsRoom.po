@@ -5,7 +5,7 @@ msgid "STARRED_FLIPNOTES"
 msgstr "Starred Flipnotes"
 
 msgid "FAVORITE_USERS"
-msgstr "Favorit Anv‰ndare"
+msgstr "Favorit Anv√§ndare"
 
 msgid "FAVORITES_FEED"
 msgstr "Favoriter Feed"
@@ -32,46 +32,46 @@ msgid "POSTED_CHATCOMMENTS"
 msgstr "Chatmeddelanden"
 
 msgid "FEATURE_USABILITY"
-msgstr "Funktions Anv‰ndbarhet"
+msgstr "Funktions Anv√§ndbarhet"
 
 msgid "USABLE"
-msgstr "Anv‰ndbar"
+msgstr "Anv√§ndbar"
 
 msgid "NOT_USABLE"
-msgstr "Inte Anv‰ndbar"
+msgstr "Inte Anv√§ndbar"
 
 msgid "SUDOMEMO_THEATRE_URL"
-msgstr "Sudomemo Theatre L‰nk"
+msgstr "Sudomemo Theatre L√§nk"
 
 msgid "FLIPNOTE_STUDIO_ID"
 msgstr "Flipnote Studio ID"
 
 msgid "SETTINGS"
-msgstr "Inst‰llningar"
+msgstr "Inst√§llningar"
 
 msgid "ADMIN_ACCT_GOOD_STANDING"
-msgstr "I god st‰llning"
+msgstr "I god st√§llning"
 
 msgid "ADMIN_ACCT_BANNED"
-msgstr "Fˆrbjuden"
+msgstr "F√∂rbjuden"
 
 msgid "ADMIN_ACCT_BLOCKED"
 msgstr "Blockerad"
 
 msgid "ADMIN_ACCT_MUTED"
-msgstr "D‰mpad"
+msgstr "D√§mpad"
 
 msgid "ADMIN_USER_DETAILS"
-msgstr "Anv‰ndar Detailer"
+msgstr "Anv√§ndar Detailer"
 
 msgid "ADMIN_LAST_SEEN"
 msgstr "Senast sedd"
 
 msgid "ADMIN_USER_STATUS"
-msgstr Anv‰ndar Status"
+msgstr "Anv√§ndar Status"
 
 msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
-msgstr "Admin-Âtg‰rder"
+msgstr "Admin-√•tg√§rder"
 
 msgid "BLOCK_COMMENTS_HEADER"
 msgstr "Blockera Kommentarer"
@@ -80,28 +80,28 @@ msgid "BLOCK_COMMENTS_LINK"
 msgstr "Blockera"
 
 msgid "USABILITY_USABLE"
-msgstr "Anv‰ndbar"
+msgstr "Anv√§ndbar"
 
 msgid "USABILITY_NOT_USABLE"
-msgstr "Inte anv‰ndbar"
+msgstr "Inte anv√§ndbar"
 
 msgid "HEADER_FOLLOWERS"
-msgstr "Fˆljare"
+msgstr "F√∂ljare"
 
 msgid "HEADER_FOLLOWING"
-msgstr "Fˆljer"
+msgstr "F√∂ljer"
 
 msgid "PREVIOUS"
-msgstr "FˆregÂende"
+msgstr "F√∂reg√•ende"
 
 msgid "NEXT"
-msgstr "N‰sta"
+msgstr "N√§sta"
 
 msgid "CHANGE_ROOM_THEME_LINK"
 msgstr "[byt tema]"
 
 msgid "SELECT_THEME"
-msgstr "V‰lj Tema"
+msgstr "V√§lj Tema"
 
 msgid "FANS"
 msgstr "Fans"
@@ -110,7 +110,7 @@ msgid "EXAMPLE"
 msgstr "Exempel"
 
 msgid "THEMETEST_SET_THEME"
-msgstr "L‰gg till Tema"
+msgstr "L√§gg till Tema"
 
 msgid "THEMETEST_NOTICE"
 msgstr "Notis"
@@ -131,19 +131,19 @@ msgid "THEMETEST_INACTIVE_TAB"
 msgstr "Inaktiv flik"
 
 msgid "PREVIEW"
-msgstr "Fˆrhandsvisning"
+msgstr "F√∂rhandsvisning"
 
 msgid "CREATORS_ROOM"
 msgstr "Creator's Room"
 
 msgid "THEME_ERROR_THEME_NOT_OWNED"
-msgstr "Tyv‰rr! Du ‰ger inte detta tema."
+msgstr "Tyv√§rr! Du √§ger inte detta tema."
 
 msgid "THEME_SUCCESSFULLY_SET"
 msgstr "Tema har lagts till!"
 
 msgid "BLOCKED_USERS"
-msgstr "Blockerade anv‰ndare"
+msgstr "Blockerade anv√§ndare"
 
 msgid "VIEW"
 msgstr "Visningar"
@@ -152,5 +152,5 @@ msgid "FAN_COUNT_FORMAT"
 msgstr "Fans: %s"
 
 msgid "HEADER_LANGUAGE"
-msgstr "SprÂk"
+msgstr "Spr√•k"
 

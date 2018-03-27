@@ -11,7 +11,7 @@ msgid "HEADER_HOT_FLIPNOTES"
 msgstr "Heta Flipnotes"
 
 msgid "HEADER_MOST_POPULAR"
-msgstr "Mest Popul‰ra"
+msgstr "Mest Popul√§ra"
 
 msgid "HEADER_NO_SPINOFFS"
 msgstr "Inga Spinoffs"
@@ -20,7 +20,7 @@ msgid "HEADER_ROLEPLAYS"
 msgstr "Roleplay"
 
 msgid "HEADER_BROWSE_FLIPNOTES"
-msgstr "Bl‰ddra Flipnotes"
+msgstr "Bl√§ddra Flipnotes"
 
 msgid "HEADER_FEATURED_FLIPNOTES"
 msgstr "Utvalda Flipnotes"
@@ -35,10 +35,10 @@ msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d av %d"
 
 msgid "NEXT"
-msgstr "N‰sta"
+msgstr "N√§sta"
 
 msgid "PREV"
-msgstr "FˆregÂende"
+msgstr "F√∂reg√•ende"
 
 msgid "POST_FLIPNOTE"
 msgstr "Publicera Flipnote"
@@ -50,7 +50,7 @@ msgid "CATEGORY_hot"
 msgstr "Heta Flipnotes"
 
 msgid "CATEGORY_popular"
-msgstr "Mest Popul‰ra"
+msgstr "Mest Popul√§ra"
 
 msgid "CATEGORY_featured"
 msgstr "Utvalda Flipnotes"

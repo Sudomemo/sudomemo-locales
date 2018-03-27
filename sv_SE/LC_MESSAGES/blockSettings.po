@@ -1,59 +1,59 @@
 msgid "LOGIN_REQUIRED_TO_MANAGE_BLOCKS"
-msgstr "Du måste vara inloggad för att hantera blockerade användare."
+msgstr "Du mÃ¥ste vara inloggad fÃ¶r att hantera blockerade anvÃ¤ndare."
 
 msgid "NO_USERS_BLOCKED"
-msgstr "Du har inga blockerade användare."
+msgstr "Du har inga blockerade anvÃ¤ndare."
 
 msgid "BLOCKED_USERS"
-msgstr "Blockerade användare"
+msgstr "Blockerade anvÃ¤ndare"
 
 msgid "BLOCK_USER"
-msgstr "Blockera användare"
+msgstr "Blockera anvÃ¤ndare"
 
 msgid "COMMENT_BLOCK_IS_MUTUAL"
-msgstr "När du har blockerat användaren kan ni inte längre kommentera på varandras Flipnotes."
+msgstr "NÃ¤r du har blockerat anvÃ¤ndaren kan ni inte lÃ¤ngre kommentera pÃ¥ varandras Flipnotes."
 
 msgid "USER_HAS_BEEN_BLOCKED"
-msgstr "Användaren blockerad."
+msgstr "AnvÃ¤ndaren blockerad."
 
 msgid "IF_YOU_WISH_TO_UNBLOCK"
-msgstr "Om du någonsin vill avblockera dem kan du göra det genom att besöka din Creator's Room och öppna menyn Blockerade användare."
+msgstr "Om du nÃ¥gonsin vill avblockera dem kan du gÃ¶ra det genom att besÃ¶ka din Creator's Room och Ã¶ppna menyn Blockerade anvÃ¤ndare."
 
 msgid "CONFIRM_BLOCK"
-msgstr "Bekräfta blockering"
+msgstr "BekrÃ¤fta blockering"
 
 msgid "USER_ALREADY_BLOCKED"
-msgstr "Du har redan blockerat användaren. Du kan avblockera dem från inställningsmenyn i din Creator's Room, men du måste vänta 24 timmar innan du kan blockera dem igen."
+msgstr "Du har redan blockerat anvÃ¤ndaren. Du kan avblockera dem frÃ¥n instÃ¤llningsmenyn i din Creator's Room, men du mÃ¥ste vÃ¤nta 24 timmar innan du kan blockera dem igen."
 
 msgid "ONE_DAY_WAIT_BEFORE_REBLOCK_FORMAT"
-msgstr "Du har nyligen avblockerat användaren. Du kan inte blockera de tills %s"
+msgstr "Du har nyligen avblockerat anvÃ¤ndaren. Du kan inte blockera de tills %s"
 
 msgid "UNBLOCK"
 msgstr "Avblockera"
 
 msgid "LOGIN_REQUIRED"
-msgstr "Du måste vara inloggad för att utföra den här åtgärden."
+msgstr "Du mÃ¥ste vara inloggad fÃ¶r att utfÃ¶ra den hÃ¤r Ã¥tgÃ¤rden."
 
 msgid "TAP_BACK_TO_RETURN"
-msgstr "Tryck på Tillbaka för att återgå till din Creator's room."
+msgstr "Tryck pÃ¥ Tillbaka fÃ¶r att Ã¥tergÃ¥ till din Creator's room."
 
 msgid "UNBLOCK_USER"
-msgstr "Avblockera användare"
+msgstr "Avblockera anvÃ¤ndare"
 
 msgid "CANNOT_UNBLOCK_NONBLOCKED_USER"
-msgstr "Du kan inte avblockera användaren eftersom du inte har blockerat dem i första hand."
+msgstr "Du kan inte avblockera anvÃ¤ndaren eftersom du inte har blockerat dem i fÃ¶rsta hand."
 
 msgid "USER_HAS_BEEN_UNBLOCKED"
-msgstr "Du har avblockerat användaren."
+msgstr "Du har avblockerat anvÃ¤ndaren."
 
 msgid "COMMENTING_ENABLED_AFTER_UNBLOCK"
-msgstr "När du har avblockerat användaren kommer de att kunna kommentera dina Flipnotes igen, om inte de har blockerat dig också."
+msgstr "NÃ¤r du har avblockerat anvÃ¤ndaren kommer de att kunna kommentera dina Flipnotes igen, om inte de har blockerat dig ocksÃ¥."
 
 msgid "UNBLOCK_WARNING_ONE_DAY_THRESHOLD"
-msgstr "Om du avblockerar dem måste du vänta 24 timmar innan du kan blockera dem igen."
+msgstr "Om du avblockerar dem mÃ¥ste du vÃ¤nta 24 timmar innan du kan blockera dem igen."
 
 msgid "CONFIRM_UNBLOCK"
-msgstr "Bekräfta avblockering"
+msgstr "BekrÃ¤fta avblockering"
 
 msgid "RECENTLY_UBNLOCKED_ONE_DAY_THRESHOLD"
-msgstr "Du har nyligen avblockerat användaren. Du måste vänta 24 timmar från att du avblockerade dem innan du kan blockera dem igen."
+msgstr "Du har nyligen avblockerat anvÃ¤ndaren. Du mÃ¥ste vÃ¤nta 24 timmar frÃ¥n att du avblockerade dem innan du kan blockera dem igen."
