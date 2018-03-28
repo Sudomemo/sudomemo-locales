@@ -93,6 +93,12 @@ If you'd like the link in this section adjusted, reach out to us.
 
 @[NaoVolkova](https://github.com/NaoVolkova)
 
+#### English to French
+
+@[SlurpieDoo](https://github.com/SlurpieDoo)
+
+@[Jean20B](https://github.com/Jean20B)
+
 #### English to Swedish
 
 @[Sweirde](https://github.com/sweirde)
