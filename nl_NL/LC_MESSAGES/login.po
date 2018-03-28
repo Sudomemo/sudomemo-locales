@@ -77,7 +77,7 @@ msgid "CONFIRM_INFO_CORRECT"
 msgstr "Controleer alsjeblieft of de onderstaande informatie correct is."
 
 msgid "NO_PLAINTEXT_PASSWORD_RECOVERY_IF_LOST"
-msgstr "Na dit, kunnen we je wachtwoord niet herstellen als je hem verliest."
+msgstr "Na deze stap, kunnen we je wachtwoord niet herstellen als je hem verliest."
 
 msgid "BUTTON_CHANGE_PASSWORD"
 msgstr "Verander wachtwoord"
@@ -179,62 +179,61 @@ msgid "FORGOT_PASSWORD_LINK"
 msgstr "Wachtwoord vergeten?"
 
 msgid "EMAIL_IS_DUPLICATE"
-msgstr "The email address you entered is already in use."
+msgstr "Deze email adres is al in gebeuik."
 
 msgid "EMAIL_CONFIRMATION_SENT_FORMAT"
-msgstr "A confirmation email has been sent to %s. Please check for it in a few minutes."
+msgstr "Een verificatie email is verstuurd naar %s. Controleer je inbox alsjeblieft na een paar minuten."
 
 msgid "BUTTON_CHECK_VERIFICATION"
-msgstr "Check Verification Status"
+msgstr "Contoleer Verificatie Status"
 
 msgid "EMAIL_NOT_YET_VERIFIED"
-msgstr "Your email address has not yet been verified."
+msgstr "Je email adres is nog niet geverifieerd."
 
 msgid "EMAIL_VERIFIED"
-msgstr "Thank you for verifying your email!"
+msgstr "Bedankt voor het verifieren van jouw email adres!"
 
 msgid "EMAIL_REQUIRES_UPDATE"
-msgstr "Your email address needs to be updated."
+msgstr "Je email adres moet geupdate worden."
 
 msgid "VERIFICATION_NEEDED"
-msgstr "We need you to verify your email address."
+msgstr "We moeten je email adres verifieren."
 
 msgid "BUTTON_RESEND_VERIFICATION_EMAIL"
-msgstr "Resend Verification Email"
+msgstr "Herstuur Verificatie Email"
 
 msgid "NOT_RECEIVING_HELP_FORMAT"
 msgstr "Not receiving the email? You can reach out to us on the Sudomemo Discord or via %s."
 
 msgid "HEADER_VERIFY_EMAIL"
-msgstr "Verify Email"
+msgstr "Verifieer Email"
 
 msgid "VERIFICATION_LIMIT_EXCEEDED_FORMAT"
-msgstr "You have exceeded the maximum number of verification emails. Please contact support at %s or via Discord."
+msgstr "Je hebt de maximaal aantal verificatie emails overschreden. Neem alsjeblieft contact op met ondersteuning via %s of via Discord."
 
 msgid "WEB_HEADER_SUCCESS"
-msgstr "Success!"
+msgstr "Succesvol!"
 
 msgid "WEB_TAP_CHECK_VERIFICATION_STATUS"
-msgstr "Go ahead and tap 'Check Verification Status' on your Nintendo DSi System."
+msgstr "Ga maar en klik op 'Controleer Verificatie Status' op jouw Nintendo DSi Systeem."
 
 msgid "HEADER_VERIFICATION_EXPIRED"
-msgstr "Verification Expired"
+msgstr "Verificatie verlopen"
 
 msgid "VERIFICATION_EXPIRED_TEXT"
-msgstr "The verification URL has expired or has already been used."
+msgstr "The verificatie URL is verlopen of is al eens gebruikt."
 
 msgid "CONTINUE_TO_LOGIN"
-msgstr "Continue to Login"
+msgstr "Ga verder naar Login"
 
 msgid "HEADER_UPDATE_EMAIL"
 msgstr "Update Email"
 
 msgid "THANK_YOU_FOR_UPDATING_EMAIL"
-msgstr "Thank you for updating your email!"
+msgstr "Bedankt voor het updaten van jouw email!"
 
 msgid "BUTTON_CONTINUE"
-msgstr "Continue"
+msgstr "Ga door"
 
 msgid "BUTTON_EDIT_EMAIL_ADDRESS"
-msgstr "Change Email Address"
-
+msgstr "Verander Email Adres"
