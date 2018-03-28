@@ -1,5 +1,5 @@
 msgid "NO_COMMENTS_YET"
-msgstr "Aucun message n'a été envoyer içi."
+msgstr "Aucun message n'a été envoyé ici."
 
 msgid "HEADER_COMMENTS"
 msgstr "Commentaires"
@@ -14,25 +14,25 @@ msgid "HEADER_PREV"
 msgstr "Précédent"
 
 msgid "HEADER_REFRESH"
-msgstr "Rafraichir"
+msgstr "Rafraîchir"
 
 msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
-msgstr "Vous devez être identifier pour poster un message sur le Chat."
+msgstr "Vous devez être identifié pour poster un message sur le chat."
 
 msgid "CHAT_REPLY_FAILED"
-msgstr "Erreur de la réponce Chat. Réesayez de nouveau."
+msgstr "L'envoi de la réponse sur le chat a échoué. Veuillez réesayer plus tard."
 
 msgid "NO_BLANK_MESSAGES_ALLOWED"
-msgstr "Vous ne pouvez pas poster de messages vide."
+msgstr "Vous ne pouvez pas poster de message vide."
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "La data de la Flipnote a été corrompue, veuillez réessayer plus tard."
+msgstr "Les données de la Flipnote ont été corrompues, veuillez réessayer plus tard."
 
 msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
 msgstr "Vous avez été mis en mode muet. vous ne pouvez pas poster de message en mode muet."
 
 msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "Ce commentaire a déja été poster sur Sudomemo."
+msgstr "Ce commentaire a déja été posté sur Sudomemo."
 
 msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "Vous avez été restreint de interragir avec Sudomemo."
+msgstr "L'utilisation de votre compte Sudomemo a été restreinte."

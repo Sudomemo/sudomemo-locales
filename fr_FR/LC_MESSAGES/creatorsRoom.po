@@ -5,13 +5,13 @@ msgid "STARRED_FLIPNOTES"
 msgstr "Flipnotes étoilées"
 
 msgid "FAVORITE_USERS"
-msgstr "Utilisateurs Favoris"
+msgstr "Utilisateurs favoris"
 
 msgid "FAVORITES_FEED"
-msgstr "Nouvelles flipnotes d'Utilisateur favoris"
+msgstr "Nouvelles Flipnotes d'utilisateur favoris"
 
 msgid "FAVORITE_CHANNELS"
-msgstr "Chaines Favoris"
+msgstr "Chaînes favorites"
 
 msgid "USER_DOWNLOADCOUNT"
 msgstr "Téléchargements"
@@ -20,28 +20,28 @@ msgid "USER_VIEWCOUNT"
 msgstr "Vues"
 
 msgid "USER_THEME"
-msgstr "Theme"
+msgstr "Thème"
 
 msgid "THEME_SHOP"
-msgstr "Boutique de Themes"
+msgstr "Boutique de thèmes"
 
 msgid "POSTED_COMMENTS"
-msgstr "Commentaires Poster"
+msgstr "Commentaires postés"
 
 msgid "POSTED_CHATCOMMENTS"
-msgstr "Messages de Chatroom"
+msgstr "Messages de chat"
 
 msgid "FEATURE_USABILITY"
-msgstr "Feature Usability"
+msgstr "Utilisation des fonctionnalités"
 
 msgid "USABLE"
 msgstr "Utilisable"
 
 msgid "NOT_USABLE"
-msgstr "Non Utilisable"
+msgstr "Non utilisable"
 
 msgid "SUDOMEMO_THEATRE_URL"
-msgstr "Sudomemo Theatre Lien"
+msgstr "Lien Sudomemo Theatre"
 
 msgid "FLIPNOTE_STUDIO_ID"
 msgstr "ID Flipnote Studio"
@@ -50,10 +50,10 @@ msgid "SETTINGS"
 msgstr "Paramétres"
 
 msgid "ADMIN_ACCT_GOOD_STANDING"
-msgstr "In good standing"
+msgstr "En règle"
 
 msgid "ADMIN_ACCT_BANNED"
-msgstr "Bannis"
+msgstr "Banni"
 
 msgid "ADMIN_ACCT_BLOCKED"
 msgstr "Bloqué"
@@ -62,34 +62,34 @@ msgid "ADMIN_ACCT_MUTED"
 msgstr "Muet"
 
 msgid "ADMIN_USER_DETAILS"
-msgstr "Details De L'Utilisateur"
+msgstr "Détails de l'utilisateur"
 
 msgid "ADMIN_LAST_SEEN"
-msgstr "Vue Dérniérement"
+msgstr "Vue derniérement"
 
 msgid "ADMIN_USER_STATUS"
-msgstr "Statut de l'Utilisateur"
+msgstr "Statut de l'utilisateur"
 
 msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
-msgstr "Action Admin"
+msgstr "Actions administratives"
 
 msgid "BLOCK_COMMENTS_HEADER"
-msgstr "Bloquer Commentaire"
+msgstr "Bloquer un commentaire"
 
 msgid "BLOCK_COMMENTS_LINK"
-msgstr "Bloque"
+msgstr "Bloquer"
 
 msgid "USABILITY_USABLE"
 msgstr "Utilisable"
 
 msgid "USABILITY_NOT_USABLE"
-msgstr "Non Utilisable"
+msgstr "Non utilisable"
 
 msgid "HEADER_FOLLOWERS"
-msgstr "Abonées"
+msgstr "Abonnés"
 
 msgid "HEADER_FOLLOWING"
-msgstr "Abonements"
+msgstr "Abonnements"
 
 msgid "PREVIOUS"
 msgstr "Précédent"
@@ -98,22 +98,22 @@ msgid "NEXT"
 msgstr "Suivant"
 
 msgid "CHANGE_ROOM_THEME_LINK"
-msgstr "[changer le theme]"
+msgstr "[Changer le theme]"
 
 msgid "SELECT_THEME"
-msgstr "Selectioner Theme"
+msgstr "Sélectionner le thème"
 
 msgid "FANS"
 msgstr "Fans"
 
 msgid "EXAMPLE"
-msgstr "Example"
+msgstr "Exemple"
 
 msgid "THEMETEST_SET_THEME"
-msgstr "Définir Theme"
+msgstr "Définir le thème"
 
 msgid "THEMETEST_NOTICE"
-msgstr "Notice"
+msgstr "Remarque"
 
 msgid "THEMETEST_OK"
 msgstr "Ok"
@@ -122,35 +122,35 @@ msgid "THEMETEST_ERROR"
 msgstr "Erreur"
 
 msgid "THEMETEST_NOTICE_2"
-msgstr "Notice #2"
+msgstr "Remarque #2"
 
 msgid "THEMETEST_ACTIVE_TAB"
-msgstr "Active tab"
+msgstr "Onglet actif"
 
 msgid "THEMETEST_INACTIVE_TAB"
-msgstr "Inactive tab"
+msgstr "Onglet inactif"
 
 msgid "PREVIEW"
 msgstr "Aperçu"
 
 msgid "CREATORS_ROOM"
-msgstr "Salle De Créateur"
+msgstr "Salle de créateur"
 
 msgid "THEME_ERROR_THEME_NOT_OWNED"
-msgstr "Désolé! Vous ne possédez pas ce theme."
+msgstr "Désolé ! Vous ne possédez pas ce theme."
 
 msgid "THEME_SUCCESSFULLY_SET"
-msgstr "Theme changer avec succes!"
+msgstr "Thème changé avec succès!"
 
 msgid "BLOCKED_USERS"
-msgstr "Utilisateurs Bloquées"
+msgstr "Utilisateurs bloqués"
 
 msgid "VIEW"
 msgstr "Voir"
 
 msgid "FAN_COUNT_FORMAT"
-msgstr "Fans: %s"
+msgstr "Fans : %s"
 
 msgid "HEADER_LANGUAGE"
-msgstr "Language"
+msgstr "Langue"
 
