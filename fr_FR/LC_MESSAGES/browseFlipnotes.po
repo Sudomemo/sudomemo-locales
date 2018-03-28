@@ -8,22 +8,22 @@ msgid "HEADER_NORMAL"
 msgstr "Recent"
 
 msgid "HEADER_HOT_FLIPNOTES"
-msgstr "Flipnotes Tendence"
+msgstr "Flipnotes Tendance"
 
 msgid "HEADER_MOST_POPULAR"
 msgstr "Plus Populaires"
 
 msgid "HEADER_NO_SPINOFFS"
-msgstr "Non Dérivées"
+msgstr "Non-Dérivées"
 
 msgid "HEADER_ROLEPLAYS"
-msgstr "Jeu de Roles"
+msgstr "Jeux de Roles"
 
 msgid "HEADER_BROWSE_FLIPNOTES"
-msgstr "Regardés les Flipnotes"
+msgstr "Regarder les Flipnotes"
 
 msgid "HEADER_FEATURED_FLIPNOTES"
-msgstr "Flipenotes Recommendés"
+msgstr "Flipenotes Recommandées"
 
 msgid "HEADER_PAGE"
 msgstr "Page"
@@ -47,10 +47,10 @@ msgid "CATEGORY_recent"
 msgstr "@Flipnotes Récentes"
 
 msgid "CATEGORY_hot"
-msgstr "@Flipnotes Tendences"
+msgstr "@Flipnotes Tendances"
 
 msgid "CATEGORY_popular"
 msgstr "@Plus Populaires"
 
 msgid "CATEGORY_featured"
-msgstr "@Flipnotes Recommendés"
+msgstr "@Flipnotes Recommendées"

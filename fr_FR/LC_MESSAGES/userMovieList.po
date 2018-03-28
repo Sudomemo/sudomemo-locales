@@ -1,24 +1,24 @@
 msgid "UPPERTITLE"
-msgstr "Browse"
+msgstr "Navigateur"
 
 msgid "NEXT"
-msgstr "Next page"
+msgstr "Page suivante"
 
 msgid "PREV"
-msgstr "Previous page"
+msgstr "Page précédente"
 
 msgid "PAGE"
 msgstr "Page"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d of %d"
+msgstr "%d de %d"
 
 msgid "FLIPNOTES_BY_FORMAT"
-msgstr "Flipnotes by %s"
+msgstr "Flipnotes créées %s"
 
 msgid "STARRED_BY_FORMAT"
-msgstr "Starred by %s"
+msgstr "Étoilé par %s"
 
 msgid "FAVORITES_FEED_FORMAT"
-msgstr "%s's Favorites Feed"
+msgstr "Les favoris de %s"
 

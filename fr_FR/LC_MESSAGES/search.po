@@ -1,32 +1,32 @@
 msgid "HEADER_PREV"
-msgstr "Prev"
+msgstr "Avant"
 
 msgid "HEADER_NEXT"
-msgstr "Next"
+msgstr "Après"
 
 msgid "PAGE_FORMAT"
 msgstr "Page %d"
 
 msgid "SEARCH"
-msgstr "Search"
+msgstr "Rechercher"
 
 msgid "USERNAME"
-msgstr "Username"
+msgstr "Pseudo"
 
 msgid "RESULTS"
-msgstr "Results"
+msgstr "Resultats"
 
 msgid "SEARCH_USERNAME"
-msgstr "Search Username"
+msgstr "Rechercher un pseudo"
 
 msgid "PLEASE_ENTER_USERNAME"
-msgstr "Please enter a username..."
+msgstr "S'il-vous-plait, entrer un pseudo..."
 
 msgid "RESULTS_FOUND_FORMAT_SINGULAR"
-msgstr "%1$d result found for \"%2$s\""
+msgstr "%1$d résultat trouvé pour \"%2$s\""
 
 msgid "RESULTS_FOUND_FORMAT_MULTIPLE"
-msgstr "%1$d results found for \"%2$s\""
+msgstr "%1$d résultats trouvés pour \"%2$s\""
 
 msgid "NO_RESULTS_FOUND"
-msgstr "No results found"
+msgstr "Pas de résultat trouvé"
