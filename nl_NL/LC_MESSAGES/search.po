@@ -20,7 +20,7 @@ msgid "SEARCH_USERNAME"
 msgstr "Zoek Gebruikersnaam"
 
 msgid "PLEASE_ENTER_USERNAME"
-msgstr "Voer alsjeblieft een gebruikersnaam in..."
+msgstr "Voer een gebruikersnaam in..."
 
 msgid "RESULTS_FOUND_FORMAT_SINGULAR"
 msgstr "%1$d resultaat gevonden voor \"%2$s\""
