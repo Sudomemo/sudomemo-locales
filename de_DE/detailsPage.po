@@ -1,0 +1,68 @@
+﻿msgid "TIMESTAMP_FORMAT"
+msgstr "d M, Y H:i:s"
+
+msgid "FLIPNOTE_TITLE_FORMAT"
+msgstr "Flipnote von %s"
+
+msgid "HEADER_DETAILS"
+msgstr "Informationen"
+
+msgid "HEADER_COMMENTS"
+msgstr "Kommentare"
+
+msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
+msgstr "Dieses Flipnote ist ein spin-off."
+
+msgid "HEADER_ORIGINAL_FLIPNOTE"
+msgstr "Das Orginal Flipnote anzeigen"
+
+msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
+msgstr "Um das betteln nach Sternen zu verhindern,können nur 10 gelbe Sterne pro Flipnote vergeben werden."
+
+msgid "HEADER_CREATOR"
+msgstr "Ersteller"
+
+msgid "HEADER_STARS"
+msgstr "Stars"
+
+msgid "HEADER_VIEWS"
+msgstr "Aufrufe"
+
+msgid "HEADER_SPINOFFS"
+msgstr "Spin-offs"
+
+msgid "HEADER_DOWNLOADS"
+msgstr "Downloads"
+
+msgid "HEADER_TITLE"
+msgstr "Titel"
+
+msgid "HEADER_POSTED"
+msgstr "Gepostetes"
+
+msgid "HEADER_FLIPNOTE_ID"
+msgstr "Flipnote ID"
+
+msgid "HEADER_CHANNEL"
+msgstr "Kanal"
+
+msgid "HEADER_OPTIONS"
+msgstr "Optionen"
+
+msgid "HEADER_SET_AS_PROFILE_PICTURE"
+msgstr "Als Profibild einstellen"
+
+msgid "HEADER_REPORT_FLIPNOTE"
+msgstr "Flipnote melden"
+
+msgid "ADMIN_ACTIONS"
+msgstr "Aktionen für Admins"
+
+msgid "PREV"
+msgstr "Vorheriges"
+
+msgid "NEXT"
+msgstr "Nächstes"
+
+msgid "STAR_DETAILS_UPPERTITLE"
+msgstr "★ Stars ★"

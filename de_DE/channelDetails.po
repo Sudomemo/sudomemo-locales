@@ -1,0 +1,33 @@
+msgid "CHANNEL_NAME"
+msgstr "Names des Kanals"
+
+msgid "CHANNEL_INFORMATION"
+msgstr "Kanalinformation"
+
+msgid "FLIPNOTES"
+msgstr "Flipnotes"
+
+msgid "CHANNEL_ID"
+msgstr "Kanal ID"
+
+msgid "LOGIN_REQUIRED_TO_POST"
+msgstr "Du musst angemeldet sein um ein Flipnote posten zu können."
+
+msgid "CHANNEL_NOT_SPECIFIED"
+msgstr "Du musst zuerst einen Kanal auswählen."
+
+msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
+msgstr "Die Nutzung von Sudomemo ist für dich beschränkt."
+
+msgid "FLIPNOTE_POST_FAILED"
+msgstr "Der Flipnote konnte nicht hochgeladen werden. Versuche es später erneut."
+
+msgid "DUPLICATE_FLIPNOTE_FAILED"
+msgstr "Dieses Flipnote wurde bereits auf Sudomemo hochgeladen. Versuch ihn nochmal zu bearbeiten."
+
+msgid "FLIPNOTE_DATA_CORRUPTED"
+msgstr "Die Informationen für dieses Flipnote scheinen beschädigt. Versuch es später erneut."
+
+msgid "NO_BLANK_FLIPNOTES_ALLOWED"
+msgstr "Es kann kein leerer Flipnote gepostet werden."
+

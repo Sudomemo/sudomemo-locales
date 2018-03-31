@@ -1,0 +1,102 @@
+msgid "THEME_SHOP_LOGIN_REQUIRED"
+msgstr "Du musst angemeldet sein um den Design Shop nutzen zu können"
+
+msgid "THEME_SHOP_MAINPAGE_HEADER"
+msgstr "Hier im Design Shop kannst du neue Designs für deinen Creator's Room kaufen!"
+
+msgid "THEME_SHOP_LEARN_MORE_HEADER"
+msgstr "Erfahre mehr über den Design Shop"
+
+msgid "THEME_SHOP_REPORT_ISSUES_HEADER"
+msgstr "Hier klicken um ein Design zu melden was nicht richtig funktioniert."
+
+msgid "THEME_SHOP_MAINPAGE_EXCHANGE_COST_FORMAT"
+msgstr "Für %d Grüne Sterne eintauschen  "
+
+msgid "THEME_SHOP_MAINPAGE_FREE_STARTER_THEMES"
+msgstr "Gratis Starter Designs"
+
+msgid "CONGRATULATIONS"
+msgstr "Gratuliere!"
+
+msgid "SEE_MORE"
+msgstr "Mehr anzeigen"
+
+msgid "PREVIEW"
+msgstr "Vorschau"
+
+msgid "BUY"
+msgstr "Kaufen"
+
+msgid "THEME"
+msgstr "Design"
+
+msgid "PRICE"
+msgstr "Preis"
+
+msgid "CREATOR"
+msgstr "Creator"
+
+msgid "DESCRIPTION"
+msgstr "Beschreibung"
+
+msgid "YOU_HAVE"
+msgstr "Deine Farbigen Sterne:"
+
+msgid "USERNAME"
+msgstr "Nutzername"
+
+msgid "CANCEL"
+msgstr "Abbruch"
+
+msgid "CONFIRM"
+msgstr "Bestätigen"
+
+msgid "CREATORS_ROOM"
+msgstr "Creator's Room"
+
+msgid "SHOP_MENU"
+msgstr "Shop Menü"
+
+msgid "NO_DESCRIPTION_AVAILABLE"
+msgstr "Keine Beschreibung vorhanden"
+
+msgid "THEME_SHOP_SELECT_PAYMENT"
+msgstr "Bezahlungsmöglichkeit wählen"
+
+msgid "THEME_SHOP_SELECTED_PAYMENT"
+msgstr "Ausgewählte Bezahlungsmöglichkeit"
+
+msgid "THEME_SHOP_STAR_BALANCE_TOO_LOW"
+msgstr "Entschuldige, aber du hast nicht genügend grüne Sterne für das Design."
+
+msgid "THEME_SHOP_CHOOSE_CAREFULLY_BEFORE_BUYING"
+msgstr "Alle Einkäufe sind permanent, bitte sei dir also beim Einkauf sicher!"
+
+msgid "THEME_SHOP_YOU_OWN_THIS_THEME"
+msgstr "Du besitzt dieses Design bereits."
+
+msgid "THEME_SHOP_PUBLIC_THEME"
+msgstr "Alle Nutzer können dieses Design kostenlos erhalten."
+
+msgid "THEME_SHOP_OWNED_THEME_TRANSACTION_FORMAT"
+msgstr "Du hast das Design am %s für %d Grüne Sterne gekauft."
+
+msgid "THEME_SHOP_CONFIRM_PURCHASE_BELOW"
+msgstr "Bitte bestätige deinen Einkauf."
+
+msgid "THEME_SHOP_STARS_LEFT_AFTER_PAYMENT"
+msgstr "Farbige Sterne nach Bezahlung übrig:"
+
+msgid "THEME_SHOP_POST_PURCHASE"
+msgstr "Dein Einkauf war erfolgreich! Geh zu \"Meine Designs\" in deinem Creator's Room um es auszuwählen!"
+
+msgid "NAVIGATION_PREVIOUS"
+msgstr "Vorheriges"
+
+msgid "NAVIGATION_NEXT"
+msgstr "Nächstes"
+
+msgid "THEME_SHOP_SAMPLE_PROFILE"
+msgstr "Beispiel eines Profiles"
+
