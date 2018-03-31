@@ -1,0 +1,60 @@
+msgid "HEADER_REPORT_CONTENT"
+msgstr "Kontent melden"
+
+msgid "CHAT_MESSAGE"
+msgstr "Chatroom Nachricht"
+
+msgid "COMMENT"
+msgstr "Kommentar"
+
+msgid "FLIPNOTE"
+msgstr "Flipnote"
+
+msgid "YOU_ARE_REPORTING_THIS_FORMAT"
+msgstr "Aus diesem Grund meldest du es %s:"
+
+msgid "USER_HAS_ALREADY_REPORTED_FORMAT"
+msgstr "Folgendes wurde bereits von dir gemeldet %s."
+
+msgid "HEADER_VIOLATION_CATEGORY"
+msgstr "Gründe für einen Verstoß:"
+
+msgid "FLIPNOTE_TITLE_FORMAT"
+msgstr "Flipnote von %s"
+
+msgid "CREATOR_FORMAT"
+msgstr "Creator: %s"
+
+msgid "NOTICE_REPORT_OTHER_ISSUES"
+msgstr "Diese Form is jediglich zum melden eines Vertoß. Um das Verhalten eines Nutzers zu melden, oder für ander Probleme oder Anfragen, bitte sende eine Email an einen unserer Supporter:"
+
+msgid "REPORT_INSTRUCTIONS"
+msgstr "Bitte fasse kurz zusammen warum du findest das es ein Verstoß gegen Sudomemos Nutzungsregeln ist. Sobald du es eingesendet hast, drücke zurück um zu Flipnote zurückzukehren."
+
+msgid "NO_BLANK_REPORTS"
+msgstr "Es ist nicht möglich leere Meldungen abzuschicken."
+
+msgid "LIMIT_ONE_REPORT"
+msgstr "Bitte sei dir sicher das: Du nur eine Meldung zur Zeit abschicken kannst. Zusätzliche Informationen werden nicht registriert, also achte darauf alles in einem Kommentar zu verfassen."
+
+msgid "REPORT_EXPLANATION_FAILED"
+msgstr "Beim senden der Meldung ist ein Fehler aufgetreten."
+
+msgid "RESTRICTED_CANCEL"
+msgstr "Du kannst niemanden melden wenn du selbst in irgendeiner weise von der Nutzung Sudomemos eingeschränkt wurdest."
+
+msgid "HEADER_REASON"
+msgstr "Grund:"
+
+msgid "LOGIN_REQUIRED_TO_CONTINUE"
+msgstr "Du musst dich anmelden um fortzufahren."
+
+msgid "LOGIN_REQUIRED_TO_REPORT_CONTENT"
+msgstr "Du musst dich anmelden um Meldungen zu versenden."
+
+msgid "REPORT_FAILED_USER_BANNED"
+msgstr "Melden fehlgeschlagen: die Nutzung Sudomemos ist für dich beinträchtigt."
+
+msgid "DUPLICATE_COMMENT_FAILED"
+msgstr "Dieser Kommentar wurde bereits auf Sudomemo gepostet."
+

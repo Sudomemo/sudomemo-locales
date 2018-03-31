@@ -1,0 +1,18 @@
+msgid "EMAIL_SUBJECT"
+msgstr "Sudomemo Registrierungsbestätigung"
+
+msgid "SIGNUP_HEADER"
+msgstr "Sudomemo Registrierungsbestätigung"
+
+msgid "TEXT_HELLO"
+msgstr "Hallo!"
+
+msgid "TEXT_EMAIL_PURPOSE"
+msgstr "Diese Email ist dafür da um deine Registrierung auf Sudomemo zu bestätigen."
+
+msgid "TEXT_VERIFICATION_LINK_FORMAT"
+msgstr "Drücke <a target=\"_blank\" href=\"%s\">here</a> um fortzufahren!"
+
+msgid "TEXT_URL_PLAIN_DISPLAY"
+msgstr "Du kannst diese URL auch in ein neues Fenster hineinkopieren:"
+
