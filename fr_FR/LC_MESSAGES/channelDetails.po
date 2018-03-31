@@ -30,3 +30,6 @@ msgstr "Les données de la Flipnote ont été corrompues, veuillez réessayer pl
 
 msgid "NO_BLANK_FLIPNOTES_ALLOWED"
 msgstr "Vous ne pouvez pas poster une Flipnote vide."
+
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "Please confirm your email before posting."

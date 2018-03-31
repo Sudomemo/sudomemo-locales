@@ -58,3 +58,5 @@ msgstr "Tus interacciones han sido restringidas de Sudomemo."
 msgid "DUPLICATE_COMMENT_FAILED"
 msgstr "Este comentario ya ha sido pubicado en Sudomemo."
 
+msgid "CONFIRM_EMAIL_BEFORE_REPORTING"
+msgstr "Please confirm your email before reporting content."

@@ -58,3 +58,5 @@ msgstr "You've been restricted from using Sudomemo."
 msgid "DUPLICATE_COMMENT_FAILED"
 msgstr "Ce commentaire a déjà été envoyé sur Sudomemo."
 
+msgid "CONFIRM_EMAIL_BEFORE_REPORTING"
+msgstr "Please confirm your email before reporting content."

@@ -30,3 +30,6 @@ msgstr "Deze Flipnote is beschadigd. Probeer het binnenkort nog eens."
 
 msgid "NO_BLANK_FLIPNOTES_ALLOWED"
 msgstr "Je mag geen lege Flipnote plaatsen."
+
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "Please confirm your email before posting."

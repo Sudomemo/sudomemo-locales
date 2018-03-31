@@ -31,3 +31,5 @@ msgstr "Flipnote-data är skadad. Försök igen om en stund."
 msgid "NO_BLANK_FLIPNOTES_ALLOWED"
 msgstr "Du kan inte publicera en tom Flipnote."
 
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "Please confirm your email before posting."
