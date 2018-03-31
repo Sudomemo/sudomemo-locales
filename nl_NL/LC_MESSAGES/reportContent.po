@@ -57,3 +57,6 @@ msgstr "Raportage mislukt: je toegang tot Sudomemo is ontnomen."
 
 msgid "DUPLICATE_COMMENT_FAILED"
 msgstr "Dit stuk commentaar is al eens geplaatst op Sudomemo."
+
+msgid "CONFIRM_EMAIL_BEFORE_REPORTING"
+msgstr "Please confirm your email before reporting content."

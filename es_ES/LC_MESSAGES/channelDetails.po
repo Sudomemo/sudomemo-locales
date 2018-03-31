@@ -31,3 +31,5 @@ msgstr "Los datos de esta Flipnote estan corruptos, intenta de nuevo en unos mom
 msgid "NO_BLANK_FLIPNOTES_ALLOWED"
 msgstr "No debe publicar una Flipnote Vacía."
 
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "Please confirm your email before posting."

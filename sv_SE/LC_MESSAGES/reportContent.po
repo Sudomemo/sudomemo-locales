@@ -58,3 +58,5 @@ msgstr "Rapportering misslyckades: du är förhindrad från Sudomemo."
 msgid "DUPLICATE_COMMENT_FAILED"
 msgstr "Denna kommentar har redan publicerats på Sudomemo."
 
+msgid "CONFIRM_EMAIL_BEFORE_REPORTING"
+msgstr "Please confirm your email before reporting content."

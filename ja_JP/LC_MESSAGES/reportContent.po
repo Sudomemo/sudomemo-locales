@@ -58,3 +58,5 @@ msgstr "あなたはSudomemoとの対話を制限されています。"
 msgid "DUPLICATE_COMMENT_FAILED"
 msgstr "このコメントは既にSudomemoに投稿されています。"
 
+msgid "CONFIRM_EMAIL_BEFORE_REPORTING"
+msgstr "Please confirm your email before reporting content."

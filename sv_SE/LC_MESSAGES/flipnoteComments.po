@@ -42,3 +42,6 @@ msgstr "Denna kommentar har redan publicerats på Sudomemo."
 
 msgid "COMMENT_FAILED_USER_BANNED"
 msgstr "Du har blivit förhindrad från att använda Sudomemo."
+
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "Please confirm your email before posting."
