@@ -32,7 +32,7 @@ msgid "WELCOME_BACK_FORMAT"
 msgstr "Bon retour, %s!"
 
 msgid "RETURNING_USER_NEW_LOGIN_SYSTEM"
-msgstr "Depuis votre dernière visite, Nous avons ajouté un nouveau système d'identification -- Mais pas de soucis, tout votre contenu est toujours ici!"
+msgstr "Depuis votre dernière visite, nous avons ajouté un nouveau système d'identification -- Mais pas de soucis, tout votre contenu est toujours ici!"
 
 msgid "RETURNING_USER_PLEASE_CREATE_PASSWORD"
 msgstr "Pour commencer, créez un mot de passe ci-dessous s'il-vous-plaît."
@@ -68,7 +68,7 @@ msgid "FORM_WARNING_EMAIL_INVALID"
 msgstr "L'email que vous avez saisi n'est pas valide."
 
 msgid "EMAIL_ADDITION_SUGGESTED"
-msgstr "L'email est optionel, mais hautement recommandé. Si vous oubliez votre mot de passe, nous vous enverrons un lien de réinitialisation du mot de passe par mail."
+msgstr "L'email est optionnel, mais hautement recommandé. Si vous oubliez votre mot de passe, nous vous enverrons un lien de réinitialisation du mot de passe par mail."
 
 msgid "EMAIL_ADDITION_DETAILS"
 msgstr "Si vous oubliez votre mot de passe, nous vous enverrons un lien de réinitialisation du mot de passe par mail."
@@ -113,7 +113,7 @@ msgid "ERROR"
 msgstr "Erreur"
 
 msgid "REGISTRATION_ERROR_PASSWORD_ALREADY_SET"
-msgstr "Le mot de passe a déja été défini."
+msgstr "Le mot de passe a déjà été défini."
 
 msgid "NEW_USER_THANKS_FOR_REGISTRATION"
 msgstr "Bienvenue sur Sudomemo!"
@@ -239,5 +239,5 @@ msgid "BUTTON_EDIT_EMAIL_ADDRESS"
 msgstr "Changer l'adresse email"
 
 msgid "SEARCH_FOR_SENDER_EMAIL_FORMAT"
-msgstr "Haven't received the email? Check your Spam box, and search for %s. If you find that it was marked spam, please ensure you first mark it Not Spam."
+msgstr "Vous n'avez pas reçu le mail ? Regardez dans les spams (indésirables), et cherchez %s. Si vous le trouvez et qu'il a été marqué comme Spam, merci de vous assurer d'abord de le marquer Non-spam."
 
