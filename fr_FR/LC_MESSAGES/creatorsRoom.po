@@ -47,7 +47,7 @@ msgid "FLIPNOTE_STUDIO_ID"
 msgstr "ID Flipnote Studio"
 
 msgid "SETTINGS"
-msgstr "Paramétres"
+msgstr "Paramètres"
 
 msgid "ADMIN_ACCT_GOOD_STANDING"
 msgstr "En règle"
@@ -65,7 +65,7 @@ msgid "ADMIN_USER_DETAILS"
 msgstr "Détails de l'utilisateur"
 
 msgid "ADMIN_LAST_SEEN"
-msgstr "Vue derniérement"
+msgstr "Vue dernièrement"
 
 msgid "ADMIN_USER_STATUS"
 msgstr "Statut de l'utilisateur"
@@ -153,4 +153,3 @@ msgstr "Fans : %s"
 
 msgid "HEADER_LANGUAGE"
 msgstr "Langue"
-
