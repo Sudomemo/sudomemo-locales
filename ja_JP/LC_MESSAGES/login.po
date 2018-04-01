@@ -238,3 +238,6 @@ msgstr "続行"
 msgid "BUTTON_EDIT_EMAIL_ADDRESS"
 msgstr "メールアドレスを変更する"
 
+msgid "SEARCH_FOR_SENDER_EMAIL_FORMAT"
+msgstr "Haven't received the email? Check your Spam box, and search for %s. If you find that it was marked spam, please ensure you first mark it Not Spam."
+
