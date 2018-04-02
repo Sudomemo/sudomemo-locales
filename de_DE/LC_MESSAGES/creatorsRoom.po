@@ -1,0 +1,152 @@
+msgid "SEE_MORE"
+msgstr "Mehr sehen..."
+
+msgid "STARRED_FLIPNOTES"
+msgstr "Markierte Flipnotes"
+
+msgid "FAVORITE_USERS"
+msgstr "Lieblings Benutzer"
+
+msgid "FAVORITES_FEED"
+msgstr "Lieblings Feed"
+
+msgid "FAVORITE_CHANNELS"
+msgstr "Lieblings Channel"
+
+msgid "USER_DOWNLOADCOUNT"
+msgstr "Downloads"
+
+msgid "USER_VIEWCOUNT"
+msgstr "Aufrufe"
+
+msgid "USER_THEME"
+msgstr "Theme"
+
+msgid "THEME_SHOP"
+msgstr "Theme Shop"
+
+msgid "POSTED_COMMENTS"
+msgstr "Hochgeladene Kommentare"
+
+msgid "POSTED_CHATCOMMENTS"
+msgstr "Chatraum-Nachrichten"
+
+msgid "FEATURE_USABILITY"
+msgstr "Benutzerfreundlichkeit"
+
+msgid "USABLE"
+msgstr "Benutzbar"
+
+msgid "NOT_USABLE"
+msgstr "Nicht benutzbar"
+
+msgid "SUDOMEMO_THEATRE_URL"
+msgstr "Sudomemo Theatre Link"
+
+msgid "FLIPNOTE_STUDIO_ID"
+msgstr "Flipnote Studio ID"
+
+msgid "SETTINGS"
+msgstr "Einstellungen"
+
+msgid "ADMIN_ACCT_GOOD_STANDING"
+msgstr "Im guten Ansehen"
+
+msgid "ADMIN_ACCT_BANNED"
+msgstr "Gebannt"
+
+msgid "ADMIN_ACCT_BLOCKED"
+msgstr "Blockiert"
+
+msgid "ADMIN_ACCT_MUTED"
+msgstr "Stummgeschalten"
+
+msgid "ADMIN_USER_DETAILS"
+msgstr "Benutzer Details"
+
+msgid "ADMIN_LAST_SEEN"
+msgstr "Zuletzt gesehen"
+
+msgid "ADMIN_USER_STATUS"
+msgstr "Benutzer Status"
+
+msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
+msgstr "Admin Aktionen"
+
+msgid "BLOCK_COMMENTS_HEADER"
+msgstr "Nachrichten blockieren"
+
+msgid "BLOCK_COMMENTS_LINK"
+msgstr "Blockieren"
+
+msgid "USABILITY_USABLE"
+msgstr "Benutzbar"
+
+msgid "USABILITY_NOT_USABLE"
+msgstr "Nicht benutzbar"
+
+msgid "HEADER_FOLLOWERS"
+msgstr "Follower"
+
+msgid "HEADER_FOLLOWING"
+msgstr "Verfolgt"
+
+msgid "PREVIOUS"
+msgstr "Zurück"
+
+msgid "NEXT"
+msgstr "Weiter"
+
+msgid "CHANGE_ROOM_THEME_LINK"
+msgstr "[Theme umändern]"
+
+msgid "SELECT_THEME"
+msgstr "Theme auswählen"
+
+msgid "FANS"
+msgstr "Fans"
+
+msgid "EXAMPLE"
+msgstr "beispiel"
+
+msgid "THEMETEST_SET_THEME"
+msgstr "Theme benutzen"
+
+msgid "THEMETEST_NOTICE"
+msgstr "Bemerkung"
+
+msgid "THEMETEST_OK"
+msgstr "Okay"
+
+msgid "THEMETEST_ERROR"
+msgstr "Fehler"
+
+msgid "THEMETEST_NOTICE_2"
+msgstr "Bemerkung #2"
+
+msgid "THEMETEST_ACTIVE_TAB"
+msgstr "Aktiver tab"
+
+msgid "THEMETEST_INACTIVE_TAB"
+msgstr "Inaktiver tab"
+
+msgid "PREVIEW"
+msgstr "Preview"
+
+msgid "CREATORS_ROOM"
+msgstr "Creator's Room"
+
+msgid "THEME_ERROR_THEME_NOT_OWNED"
+msgstr "Sorry! Du besitzt diesen Theme nicht."
+
+msgid "THEME_SUCCESSFULLY_SET"
+msgstr "Theme erfolgreich ausgewählt!"
+
+msgid "BLOCKED_USERS"
+msgstr "Blockierte Benutzer"
+
+msgid "VIEW"
+msgstr "Sehen"
+
+msgid "FAN_COUNT_FORMAT"
+msgstr "Fans: %s"

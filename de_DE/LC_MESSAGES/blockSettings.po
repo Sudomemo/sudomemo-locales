@@ -1,0 +1,59 @@
+msgid "LOGIN_REQUIRED_TO_MANAGE_BLOCKS"
+msgstr "Du musst eingeloggt sein um die blockierten Benutzer zu bearbeiten."
+
+msgid "NO_USERS_BLOCKED"
+msgstr "Du hast keine Benutzer blockiert."
+
+msgid "BLOCKED_USERS"
+msgstr "Blockierte Benutzer"
+
+msgid "BLOCK_USER"
+msgstr "Benutzer Blockieren"
+
+msgid "COMMENT_BLOCK_IS_MUTUAL"
+msgstr "Wenn du einmal einen Benutzer blockiert hast, werdet ihr nicht mehr in der lage sein eure flipnotes zu kommentieren."
+
+msgid "USER_HAS_BEEN_BLOCKED"
+msgstr "Dieser Benutzer wurde blockiert."
+
+msgid "IF_YOU_WISH_TO_UNBLOCK"
+msgstr "Wenn du jemals wieder einen Benutzer entblockieren möchtest, kannst du ihn in deimen Creators Room unter dein Blockierte-Benutzer-Menü entblockieren."
+
+msgid "CONFIRM_BLOCK"
+msgstr "Blockieren bestätigen"
+
+msgid "USER_ALREADY_BLOCKED"
+msgstr "Du hast diesen Benutzer schon blockiert. Du kannst ihn in deimen Creators Room unter den Blockierte-Benutzer-Menü entblockieren, aber du musst 24 Stunden warten bis du sie wieder blockieren kannst."
+
+msgid "ONE_DAY_WAIT_BEFORE_REBLOCK_FORMAT"
+msgstr "Du hast zuvor den Benutzer entblockiert. Du kannst ihn nicht nochmal bis %s blockieren"
+
+msgid "UNBLOCK"
+msgstr "Entblockieren"
+
+msgid "LOGIN_REQUIRED"
+msgstr "Du musst eingeloggt sein um diese Aktion auszuführen."
+
+msgid "TAP_BACK_TO_RETURN"
+msgstr "Tippe auf zurück um zu deinem Creators Room zurückzukehren"
+
+msgid "UNBLOCK_USER"
+msgstr "Benutzer entblockieren"
+
+msgid "CANNOT_UNBLOCK_NONBLOCKED_USER"
+msgstr "Du kannst den Benutzer nicht entblockieren da du ihn nicht blockiert hast."
+
+msgid "USER_HAS_BEEN_UNBLOCKED"
+msgstr "Dieser Benutzer wurde entblockiert."
+
+msgid "COMMENTING_ENABLED_AFTER_UNBLOCK"
+msgstr "Nachdem du diesen Benutzer entblockiert hast ksann er wieder deine Flipnotes kommentieren bis er dich blockiert hat."
+
+msgid "UNBLOCK_WARNING_ONE_DAY_THRESHOLD"
+msgstr "Wenn du den Benutzer entblockierst dann musst du 24 Stunden warten um ihn wieder zu blockieren."
+
+msgid "CONFIRM_UNBLOCK"
+msgstr "Entblockieren bestätigen"
+
+msgid "RECENTLY_UBNLOCKED_ONE_DAY_THRESHOLD"
+msgstr "Du hast diesen Benutzer schon entblockiert. Du musst 24 Stunden warten bis du ihn wieder blockieren kannst."
