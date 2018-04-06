@@ -17,7 +17,7 @@ msgid "THANKS_FOR_LOGIN_FORMAT"
 msgstr "ログインしていただきありがとうございます！%sさん！"
 
 msgid "GOTO_CREATORS_ROOM"
-msgstr "あなたのマイルームに行く"
+msgstr "マイルームに行く"
 
 msgid "LOGIN"
 msgstr "ログイン"
@@ -59,16 +59,16 @@ msgid "FORM_LABEL_DONT_FORGET_PASSWORD"
 msgstr "パスワードはあらかじめメモしておき、安全に保管してください！"
 
 msgid "FORM_HEADER_EMAIL"
-msgstr "電子メール:"
+msgstr "Eメール:"
 
 msgid "FORM_PREFILL_EMAIL"
 msgstr "メールアドレスを入力してください..."
 
 msgid "FORM_WARNING_EMAIL_INVALID"
-msgstr "入力した電子メールアドレスは無効です。"
+msgstr "入力したEメールアドレスは無効です。"
 
 msgid "EMAIL_ADDITION_SUGGESTED"
-msgstr "電子メールはオプションですが、設定されることを強くお勧めします。 パスワードを忘れた場合、メールアドレスにパスワード再設定のリンクが送信します。"
+msgstr "Eメールは任意ですが、設定されることを強くお勧めします。 パスワードを忘れた場合、メールアドレスにパスワード再設定のリンクが送信します。"
 
 msgid "EMAIL_ADDITION_DETAILS"
 msgstr "パスワードを忘れた場合は、メールにパスワードのリセットリンクを送信します。"
@@ -77,13 +77,13 @@ msgid "CONFIRM_INFO_CORRECT"
 msgstr "下記の情報が正しいことを確認してください。"
 
 msgid "NO_PLAINTEXT_PASSWORD_RECOVERY_IF_LOST"
-msgstr "この段階の後、パスワードを紛失した場合、パスワードを回復することはできません。"
+msgstr "この段階の後、パスワードを紛失した場合、パスワードを変更することはできません。"
 
 msgid "BUTTON_CHANGE_PASSWORD"
 msgstr "パスワードを変更する"
 
 msgid "FORM_HEADER_EMAIL_CONFIRM"
-msgstr "電子メール:"
+msgstr "Eメール:"
 
 msgid "BUTTON_CHANGE_EMAIL"
 msgstr "メールアドレスを変更する"
@@ -122,7 +122,7 @@ msgid "RETURNING_USER_THANKS_FOR_REGISTRATION"
 msgstr "お帰りなさい！ ログイン情報を設定していただきありがとうございます。"
 
 msgid "BUTTON_SIGN_IN_TO_SUDOMEMO"
-msgstr "Sudomemoにサインインする"
+msgstr "Sudomemoにログインする"
 
 msgid "LOGIN_FAILED"
 msgstr "ログインに失敗しました。"
@@ -155,10 +155,10 @@ msgid "SORRY_NO_LOGIN"
 msgstr "申し訳ありませんが、ログインできませんでした。"
 
 msgid "BASIC_AUTH_NOT_ENABLED"
-msgstr "プロキシ設定で基本認証を有効にしていないようです。"
+msgstr "プロキシ設定でBasic認証を有効にしていないようです。"
 
 msgid "BASIC_AUTH_FSID_INVALID"
-msgstr "基本認証で入力したFlipnote Studio IDが無効です："
+msgstr "Basic認証で入力したうごメモIDが無効です："
 
 msgid "BASIC_AUTH_BAD_LENGTH_FORMAT"
 msgstr "IDは%sの長さで記述されます (16でなければなりません)"
@@ -239,5 +239,5 @@ msgid "BUTTON_EDIT_EMAIL_ADDRESS"
 msgstr "メールアドレスを変更する"
 
 msgid "SEARCH_FOR_SENDER_EMAIL_FORMAT"
-msgstr "Haven't received the email? Check your Spam box, and search for %s. If you find that it was marked spam, please ensure you first mark it Not Spam."
+msgstr "メールが来ない場合、迷惑メールをチェックし、そして%sと検索してください。スパムとしてマークされていた場合はスパムではないことを確認してください。"
 
