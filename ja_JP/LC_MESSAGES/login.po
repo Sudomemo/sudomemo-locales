@@ -65,19 +65,19 @@ msgid "FORM_PREFILL_EMAIL"
 msgstr "メールアドレスを入力してください..."
 
 msgid "FORM_WARNING_EMAIL_INVALID"
-msgstr "入力したEメールアドレスは無効です。"
+msgstr "入力したメールアドレスは無効です。"
 
 msgid "EMAIL_ADDITION_SUGGESTED"
-msgstr "Eメールは任意ですが、設定されることを強くお勧めします。 パスワードを忘れた場合、メールアドレスにパスワード再設定のリンクが送信します。"
+msgstr "Eメールの登録は任意ですが、設定されることを強くお勧めします。 パスワードを忘れた場合、メールアドレスにパスワード再設定のリンクを送信するのに使います。。"
 
 msgid "EMAIL_ADDITION_DETAILS"
-msgstr "パスワードを忘れた場合は、メールにパスワードのリセットリンクを送信します。"
+msgstr "パスワードを忘れた場合、メールにパスワードを再設定するためのリンクを送信します。"
 
 msgid "CONFIRM_INFO_CORRECT"
 msgstr "下記の情報が正しいことを確認してください。"
 
 msgid "NO_PLAINTEXT_PASSWORD_RECOVERY_IF_LOST"
-msgstr "この段階の後、パスワードを紛失した場合、パスワードを変更することはできません。"
+msgstr "この段階の後、パスワードを紛失した場合、パスワードを再設定することはできません。"
 
 msgid "BUTTON_CHANGE_PASSWORD"
 msgstr "パスワードを変更する"
@@ -95,7 +95,7 @@ msgid "BUTTON_SUBMIT"
 msgstr "適用"
 
 msgid "PLEASE_ENTER_PASSWORD_TO_SIGN_IN"
-msgstr "ログインするためのパスワードを入力してください"
+msgstr "パスワードを入力してください"
 
 msgid "LOGIN_FORM_PREFILL_PASSWORD"
 msgstr "パスワードを入力する"
@@ -104,10 +104,10 @@ msgid "INCORRECT_PASSWORD_ATTEMPTS_FORMAT"
 msgstr "間違えた回数: %s"
 
 msgid "REGISTRATION_ERROR_BAD_EMAIL"
-msgstr "あなたが入力した電子メールアドレスは許可されていないため、使用できません。"
+msgstr "入力したメールアドレスは使用できません。"
 
 msgid "REGISTRATION_ERROR_BAD_PASSWORD"
-msgstr "あなたが入力したパスワードは許可されていないため、使用できません。"
+msgstr "あなたが入力したパスワードは使用できません。"
 
 msgid "ERROR"
 msgstr "エラー"
