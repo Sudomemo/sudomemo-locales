@@ -2,22 +2,22 @@ msgid "LOGIN_REQUIRED_TO_MANAGE_BLOCKS"
 msgstr "ブロックされたユーザーを管理するには、ログインする必要があります。"
 
 msgid "NO_USERS_BLOCKED"
-msgstr "ブロックされたユーザーはいません。"
+msgstr "ブロックしユーザーはいません。"
 
 msgid "BLOCKED_USERS"
-msgstr "ブロックされたユーザー"
-
-msgid "BLOCK_USER"
 msgstr "ブロックしたユーザー"
 
+msgid "BLOCK_USER"
+msgstr "ユーザーをブロックする"
+
 msgid "COMMENT_BLOCK_IS_MUTUAL"
-msgstr "このユーザーをブロックすると、お互いの作品にコメントすることができなくなります。"
+msgstr "ユーザーをブロックすると、お互い作品にコメントすることができなくなります。"
 
 msgid "USER_HAS_BEEN_BLOCKED"
 msgstr "このユーザーはすでにブロックしています。"
 
 msgid "IF_YOU_WISH_TO_UNBLOCK"
-msgstr "ブロックを解除するには、マイルームに行きブロックしたユーザーのメニューを開いてブロックを解除することができます。"
+msgstr "ブロックを解除するには、マイルームに行きブロックしたユーザーのメニューを開いきます。"
 
 msgid "CONFIRM_BLOCK"
 msgstr "ブロックを確認"
@@ -32,13 +32,13 @@ msgid "UNBLOCK"
 msgstr "ブロック解除"
 
 msgid "LOGIN_REQUIRED"
-msgstr "この操作を実行するには、ログインする必要があります。"
+msgstr "この操作をするには、ログインする必要があります。"
 
 msgid "TAP_BACK_TO_RETURN"
 msgstr "[戻る]をタップしてマイルームに戻ります。"
 
 msgid "UNBLOCK_USER"
-msgstr "ブロックが解除されたユーザー"
+msgstr "ブロックを解除したユーザー"
 
 msgid "CANNOT_UNBLOCK_NONBLOCKED_USER"
 msgstr "あなたはこのユーザーをブロックしていないため、解除することはできません。"
@@ -47,7 +47,7 @@ msgid "USER_HAS_BEEN_UNBLOCKED"
 msgstr "あなたはこのユーザーをブロック解除しました。"
 
 msgid "COMMENTING_ENABLED_AFTER_UNBLOCK"
-msgstr "このユーザーをブロック解除すると、ブロックされていない限り、再びあなたの作品にコメントすることができます。"
+msgstr "このユーザーのブロック解除すると、あちらからブロックされていない限り、再びあなたの作品にコメントすることができます。"
 
 msgid "UNBLOCK_WARNING_ONE_DAY_THRESHOLD"
 msgstr "ブロックを解除する場合は、再度ブロックするまでに一日待つ必要があります。"
@@ -56,4 +56,4 @@ msgid "CONFIRM_UNBLOCK"
 msgstr "ブロック解除の確認"
 
 msgid "RECENTLY_UBNLOCKED_ONE_DAY_THRESHOLD"
-msgstr "あなたは最近このユーザーのブロックを解除しました。 ブロックをし直すまでには、一日待つ必要があります。"
+msgstr "あなたは最近このユーザーのブロックを解除しました。 再度ブロックをするには、一日待つ必要があります。"
