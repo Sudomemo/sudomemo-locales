@@ -35,7 +35,7 @@ msgid "SEARCH_FLIPNOTE"
 msgstr "作品検索"
 
 msgid "RELOAD_USER"
-msgstr "ユーザーリロード"
+msgstr "リロード"
 
 msgid "LOGIN"
 msgstr "ログイン"
@@ -56,5 +56,5 @@ msgid "TEST_TRANSLATION"
 msgstr "日本語翻訳"
 
 msgid "HELP"
-msgstr "ガイド"
+msgstr "ヘルプ"
 
