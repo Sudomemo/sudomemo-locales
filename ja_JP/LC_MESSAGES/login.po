@@ -182,7 +182,7 @@ msgid "EMAIL_IS_DUPLICATE"
 msgstr "入力したメールアドレスはすでに使用されています。"
 
 msgid "EMAIL_CONFIRMATION_SENT_FORMAT"
-msgstr "確認メールが％sに送信されました。 メールを確認してください。"
+msgstr "確認メールが%sに送信されました。 メールを確認してください。"
 
 msgid "BUTTON_CHECK_VERIFICATION"
 msgstr "認証されているか確認する"
@@ -203,13 +203,13 @@ msgid "BUTTON_RESEND_VERIFICATION_EMAIL"
 msgstr "確認メールを再送信する"
 
 msgid "NOT_RECEIVING_HELP_FORMAT"
-msgstr "メールが受け取れていませんか？ SudomemoのDiscordまたは％s経由でお問い合わせください。"
+msgstr "メールが受け取れていませんか？ SudomemoのDiscordまたは%s経由でお問い合わせください。"
 
 msgid "HEADER_VERIFY_EMAIL"
 msgstr "Eメールを認証"
 
 msgid "VERIFICATION_LIMIT_EXCEEDED_FORMAT"
-msgstr "確認メールの最大数を超えました。 ％sのサポートに連絡するかDiscord経由で連絡してください。"
+msgstr "確認メールの最大数を超えました。 %sのサポートに連絡するかDiscord経由で連絡してください。"
 
 msgid "WEB_HEADER_SUCCESS"
 msgstr "成功!"
