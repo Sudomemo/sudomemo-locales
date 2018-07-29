@@ -2,16 +2,16 @@ msgid "SUDOMEMO"
 msgstr "スドメモ"
 
 msgid "HEADER_FLIPNOTES"
-msgstr "作品"
+msgstr "さくひん"
 
 msgid "HEADER_NORMAL"
-msgstr "最新"
+msgstr "さいしん"
 
 msgid "HEADER_HOT_FLIPNOTES"
-msgstr "人気の作品"
+msgstr "にんきのさくひん"
 
 msgid "HEADER_MOST_POPULAR"
-msgstr "最も人気"
+msgstr "もっともにんき"
 
 msgid "HEADER_NO_SPINOFFS"
 msgstr "スピンオフなし"
@@ -20,7 +20,7 @@ msgid "HEADER_ROLEPLAYS"
 msgstr "ロールプレイ"
 
 msgid "HEADER_BROWSE_FLIPNOTES"
-msgstr "作品を見る"
+msgstr "さくひんをみる"
 
 msgid "HEADER_FEATURED_FLIPNOTES"
 msgstr "おすすめの作品"
@@ -35,23 +35,23 @@ msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d/%d"
 
 msgid "NEXT"
-msgstr "次へ"
+msgstr "つぎへ"
 
 msgid "PREV"
-msgstr "前へ"
+msgstr "まえへ"
 
 msgid "POST_FLIPNOTE"
-msgstr "作品を投稿"
+msgstr "さきひんをとーこー"
 
 msgid "CATEGORY_recent"
-msgstr "新着作品"
+msgstr "しんちゃくさくひん"
 
 msgid "CATEGORY_hot"
-msgstr "おすすめの作品"
+msgstr "おすすめのさくひん"
 
 msgid "CATEGORY_popular"
-msgstr "人気作品"
+msgstr "にんきさくひん"
 
 msgid "CATEGORY_featured"
-msgstr "注目作品"
+msgstr "ちゅーもくさくひん"
 
