@@ -1,0 +1,62 @@
+msgid "HEADER_REPORT_CONTENT"
+msgstr "Rapporteer Inhoud"
+
+msgid "CHAT_MESSAGE"
+msgstr "chatbericht"
+
+msgid "COMMENT"
+msgstr "commentaar"
+
+msgid "FLIPNOTE"
+msgstr "Flipnote"
+
+msgid "YOU_ARE_REPORTING_THIS_FORMAT"
+msgstr "Je bent deze %s aan het rapporteren:"
+
+msgid "USER_HAS_ALREADY_REPORTED_FORMAT"
+msgstr "Je hebt deze %s al eens gerapporteerd."
+
+msgid "HEADER_VIOLATION_CATEGORY"
+msgstr "Schendings Categorie:"
+
+msgid "FLIPNOTE_TITLE_FORMAT"
+msgstr "Flipnote door %s"
+
+msgid "CREATOR_FORMAT"
+msgstr "Maker: %s"
+
+msgid "NOTICE_REPORT_OTHER_ISSUES"
+msgstr "Deze formulier is alleen om inhoud te rapporteren. Om het gedrag van een gebruiker te rapporteren, of voor andere problemen en verzoeken, stuur ons ondersteunings team alsjeblieft een email:"
+
+msgid "REPORT_INSTRUCTIONS"
+msgstr "Schrijf alsjeblieft een korte beschrijving over waarom jij vindt dat is in strijd is met de Sudomemo Gebruiksvoorwaarden. Als het verstuurd is, druk op terug om terug te gaan naar de Flipnote."
+
+msgid "NO_BLANK_REPORTS"
+msgstr "Je mag geen lege rapportage versturen."
+
+msgid "LIMIT_ONE_REPORT"
+msgstr "Houdt in gedachten: Je mag deze inhoud alleen één keer rapporteren. Andere rapportages worden niet geregistreerd, dus stop je informatie alsjeblieft in één stuk commentaar."
+
+msgid "REPORT_EXPLANATION_FAILED"
+msgstr "Er was een fout opgetreden terwijl wij deze rapportage aan het behandelen waren."
+
+msgid "RESTRICTED_CANCEL"
+msgstr "Je mag geen inhoud rapporteren als je toegang tot Sudomemo je ontnomen is in enige manier."
+
+msgid "HEADER_REASON"
+msgstr "Reden:"
+
+msgid "LOGIN_REQUIRED_TO_CONTINUE"
+msgstr "Je moet inloggen om door te gaan."
+
+msgid "LOGIN_REQUIRED_TO_REPORT_CONTENT"
+msgstr "Je moet ingelogd zijn om inhoud rapportages te versturen."
+
+msgid "REPORT_FAILED_USER_BANNED"
+msgstr "Raportage mislukt: je toegang tot Sudomemo is ontnomen."
+
+msgid "DUPLICATE_COMMENT_FAILED"
+msgstr "Dit stuk commentaar is al eens geplaatst op Sudomemo."
+
+msgid "CONFIRM_EMAIL_BEFORE_REPORTING"
+msgstr "Please confirm your email before reporting content."

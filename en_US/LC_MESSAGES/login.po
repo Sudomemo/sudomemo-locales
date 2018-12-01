@@ -59,7 +59,7 @@ msgid "FORM_LABEL_DONT_FORGET_PASSWORD"
 msgstr "Remember to make a note of your password, and keep it safe!"
 
 msgid "FORM_HEADER_EMAIL"
-msgstr "Email (Optional):"
+msgstr "Email:"
 
 msgid "FORM_PREFILL_EMAIL"
 msgstr "Enter your email here..."
@@ -69,6 +69,9 @@ msgstr "The email address you entered isn't valid."
 
 msgid "EMAIL_ADDITION_SUGGESTED"
 msgstr "Email is optional, but highly recommended. If you ever forget your password, we will send a password reset link to your email address."
+
+msgid "EMAIL_ADDITION_DETAILS"
+msgstr "If you ever forget your password, we will send a password reset link to your email address."
 
 msgid "CONFIRM_INFO_CORRECT"
 msgstr "Please make sure that the information below is correct."
@@ -134,7 +137,7 @@ msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE2"
 msgstr "Try sending it again."
 
 msgid "LOGIN_FAILED_BANNED_LINE1"
-msgstr "You have been restricted from interacting with Sudomemo."
+msgstr "You've been restricted from using Sudomemo."
 
 msgid "CONTACT_SUPPORT_EMAIL_FORMAT"
 msgstr "Please contact %s."
@@ -144,4 +147,97 @@ msgstr "Welcome!"
 
 msgid "CREATORS_ROOM_SHIM_PLEASE_LOGIN"
 msgstr "Welcome to Sudomemo! Please login to continue."
+
+msgid "GUIDE_MAIN_MENU_SHORTCUT"
+msgstr "You can return to the main menu by holding down L (or R if you're left-handed) and pressing the 'Menu' button."
+
+msgid "SORRY_NO_LOGIN"
+msgstr "Sorry, but we couldn't log you in!"
+
+msgid "BASIC_AUTH_NOT_ENABLED"
+msgstr "You do not appear to have enabled Basic Authentication in your proxy settings."
+
+msgid "BASIC_AUTH_FSID_INVALID"
+msgstr "The Flipnote Studio ID you entered under Basic Authentication is invalid:"
+
+msgid "BASIC_AUTH_BAD_LENGTH_FORMAT"
+msgstr "The ID appears to be %s digits in length (should be 16)"
+
+msgid "BASIC_AUTH_LOWERCASE_LETTERS"
+msgstr "The ID contain lowercase letters - it should be all uppercase."
+
+msgid "BASIC_AUTH_NONHEX_CHARACTERS"
+msgstr "The ID contains characters other than 0-9 and A-F (it should only contain 0-9 and A-F)."
+
+msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
+msgstr "If you need help connecting, feel free to ask in our Discord! You can join from %s."
+
+msgid "BAN_NOTICE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
+msgstr "Please contact us on Discord or via email to %s."
+
+msgid "FORGOT_PASSWORD_LINK"
+msgstr "Forgot your password?"
+
+msgid "EMAIL_IS_DUPLICATE"
+msgstr "The email address you entered is already in use."
+
+msgid "EMAIL_CONFIRMATION_SENT_FORMAT"
+msgstr "A confirmation email has been sent to %s. Please check for it in a few minutes."
+
+msgid "BUTTON_CHECK_VERIFICATION"
+msgstr "Check Verification Status"
+
+msgid "EMAIL_NOT_YET_VERIFIED"
+msgstr "Your email address has not yet been verified."
+
+msgid "EMAIL_VERIFIED"
+msgstr "Thank you for verifying your email!"
+
+msgid "EMAIL_REQUIRES_UPDATE"
+msgstr "Your email address needs to be updated."
+
+msgid "VERIFICATION_NEEDED"
+msgstr "We need you to verify your email address."
+
+msgid "BUTTON_RESEND_VERIFICATION_EMAIL"
+msgstr "Resend Verification Email"
+
+msgid "NOT_RECEIVING_HELP_FORMAT"
+msgstr "Not receiving the email? You can reach out to us on the Sudomemo Discord or via %s."
+
+msgid "HEADER_VERIFY_EMAIL"
+msgstr "Verify Email"
+
+msgid "VERIFICATION_LIMIT_EXCEEDED_FORMAT"
+msgstr "You have exceeded the maximum number of verification emails. Please contact support at %s or via Discord."
+
+msgid "WEB_HEADER_SUCCESS"
+msgstr "Success!"
+
+msgid "WEB_TAP_CHECK_VERIFICATION_STATUS"
+msgstr "Go ahead and tap 'Check Verification Status' on your Nintendo DSi System."
+
+msgid "HEADER_VERIFICATION_EXPIRED"
+msgstr "Verification Expired"
+
+msgid "VERIFICATION_EXPIRED_TEXT"
+msgstr "The verification URL has expired or has already been used."
+
+msgid "CONTINUE_TO_LOGIN"
+msgstr "Continue to Login"
+
+msgid "HEADER_UPDATE_EMAIL"
+msgstr "Update Email"
+
+msgid "THANK_YOU_FOR_UPDATING_EMAIL"
+msgstr "Thank you for updating your email!"
+
+msgid "BUTTON_CONTINUE"
+msgstr "Continue"
+
+msgid "BUTTON_EDIT_EMAIL_ADDRESS"
+msgstr "Change Email Address"
+
+msgid "SEARCH_FOR_SENDER_EMAIL_FORMAT"
+msgstr "Haven't received the email? Check your Spam box, and search for %s. If you find that it was marked spam, please ensure you first mark it Not Spam."
 

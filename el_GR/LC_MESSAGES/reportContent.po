@@ -53,8 +53,10 @@ msgid "LOGIN_REQUIRED_TO_REPORT_CONTENT"
 msgstr "You must be logged in to submit content reports."
 
 msgid "REPORT_FAILED_USER_BANNED"
-msgstr "You have been restricted from interacting with Sudomemo."
+msgstr "You've been restricted from using Sudomemo."
 
 msgid "DUPLICATE_COMMENT_FAILED"
 msgstr "This comment has already been posted to Sudomemo."
 
+msgid "CONFIRM_EMAIL_BEFORE_REPORTING"
+msgstr "Please confirm your email before reporting content."

@@ -1,0 +1,41 @@
+msgid "NO_COMMENTS_YET"
+msgstr "Inga meddelanden har skickats här."
+
+msgid "HEADER_COMMENTS"
+msgstr "Kommentarer"
+
+msgid "PAGE_FORMAT"
+msgstr "Sida %d"
+
+msgid "HEADER_NEXT"
+msgstr "Nästa"
+
+msgid "HEADER_PREV"
+msgstr "Före"
+
+msgid "HEADER_REFRESH"
+msgstr "Uppdatera"
+
+msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
+msgstr "Du måste vara inloggad för att skicka ett chattmeddelande."
+
+msgid "CHAT_REPLY_FAILED"
+msgstr "Chat-svar misslyckades. Försök igen om en stund."
+
+msgid "NO_BLANK_MESSAGES_ALLOWED"
+msgstr "Du kan inte skicka ett tomt meddelande."
+
+msgid "FLIPNOTE_DATA_CORRUPTED"
+msgstr "Flipnote-data är skadad. Försök igen om en stund."
+
+msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
+msgstr "Du har blivit dämpad. Du får inte chatta."
+
+msgid "DUPLICATE_COMMENT_FAILED"
+msgstr "Denna kommentar har redan publicerats på Sudomemo."
+
+msgid "COMMENT_FAILED_USER_BANNED"
+msgstr "Du har blivit förhindrad från att interagera på Sudomemo."
+
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "Please confirm your email before posting."

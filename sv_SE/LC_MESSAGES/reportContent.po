@@ -1,0 +1,62 @@
+msgid "HEADER_REPORT_CONTENT"
+msgstr "Rapportera innehåll"
+
+msgid "CHAT_MESSAGE"
+msgstr "chattrumsmeddelande"
+
+msgid "COMMENT"
+msgstr "kommentar"
+
+msgid "FLIPNOTE"
+msgstr "Flipnote"
+
+msgid "YOU_ARE_REPORTING_THIS_FORMAT"
+msgstr "Du rapporterar detta %s:"
+
+msgid "USER_HAS_ALREADY_REPORTED_FORMAT"
+msgstr "Du har redan skickat in en rapport för detta %s."
+
+msgid "HEADER_VIOLATION_CATEGORY"
+msgstr "Överträdelseskategori:"
+
+msgid "FLIPNOTE_TITLE_FORMAT"
+msgstr "Flipnote av %s"
+
+msgid "CREATOR_FORMAT"
+msgstr "Skapare: %s"
+
+msgid "NOTICE_REPORT_OTHER_ISSUES"
+msgstr "Denna blankett är endast för rapportering av innehåll. Om du vill rapportera användarens beteende eller för andra problem och förfrågningar, vänligen skicka ett mail till vårt supportteam:"
+
+msgid "REPORT_INSTRUCTIONS"
+msgstr "Var god skriv en kort beskrivning om varför du anser att innehållet bryter mot Sudomemos användarvillkor. När du har skickat det, tryck på Tillbaka för att återgå till Flipnote."
+
+msgid "NO_BLANK_REPORTS"
+msgstr "Du kan inte skicka en tom rapport."
+
+msgid "LIMIT_ONE_REPORT"
+msgstr "OBS: Du får bara rapportera det innehållet en gång. Ytterligare rapporter kommer inte att registreras, var vänlig skriv din information i en enda kommentar."
+
+msgid "REPORT_EXPLANATION_FAILED"
+msgstr "Ett fel uppstod när rapporten skickades in."
+
+msgid "RESTRICTED_CANCEL"
+msgstr "Du får inte rapportera innehåll om du har blivit förhindrad från att interagera med Sudomemo på något sätt."
+
+msgid "HEADER_REASON"
+msgstr "Anledning:"
+
+msgid "LOGIN_REQUIRED_TO_CONTINUE"
+msgstr "Du måste logga in för att fortsätta."
+
+msgid "LOGIN_REQUIRED_TO_REPORT_CONTENT"
+msgstr "Du måste vara inloggad för att rapportera innehåll."
+
+msgid "REPORT_FAILED_USER_BANNED"
+msgstr "Rapportering misslyckades: du är förhindrad från Sudomemo."
+
+msgid "DUPLICATE_COMMENT_FAILED"
+msgstr "Denna kommentar har redan publicerats på Sudomemo."
+
+msgid "CONFIRM_EMAIL_BEFORE_REPORTING"
+msgstr "Please confirm your email before reporting content."

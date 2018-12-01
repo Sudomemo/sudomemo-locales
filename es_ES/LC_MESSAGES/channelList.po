@@ -1,20 +1,20 @@
 msgid "UPPERTITLE"
-msgstr "Channels"
+msgstr "Canales"
 
 msgid "UPPERSUBBOTTOM"
-msgstr "Please select a channel!"
+msgstr "Por favor escoge un canal!"
 
 msgid "NEXT"
-msgstr "Next page"
+msgstr "Página siguiente"
 
 msgid "PREV"
-msgstr "Previous page"
+msgstr "Página anterior"
 
 msgid "FAVORITES"
-msgstr "Favorites"
+msgstr "Favoritos"
 
 msgid "PAGE"
-msgstr "Page"
+msgstr "Página"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d of %d"
+msgstr "%d de %d"

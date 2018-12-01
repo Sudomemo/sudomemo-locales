@@ -1,0 +1,243 @@
+msgid "BAN_GREETING_FORMAT"
+msgstr "Hej, %s."
+
+msgid "BAN_NOTICE_CONSOLE_BAN"
+msgstr "Ditt konto och konsol har förbjudits från Sudomemo."
+
+msgid "BAN_NOTICE_PLEASE_READ_BAN_LETTER"
+msgstr "Vänligen läs det brev vi skickade till dig för ytterligare information."
+
+msgid "BAN_VIEW_MAIL"
+msgstr "Visa Sudomemo Mail"
+
+msgid "LOGIN_SUCCESSFUL"
+msgstr "Inloggning lyckades"
+
+msgid "THANKS_FOR_LOGIN_FORMAT"
+msgstr "Tack för att du loggade in, %s!"
+
+msgid "GOTO_CREATORS_ROOM"
+msgstr "Gå till din Creator's Room"
+
+msgid "LOGIN"
+msgstr "Inloggning"
+
+msgid "POST_COMMENT_BELOW"
+msgstr "För att fortsätta, vänligen skriv en kommentar nedan."
+
+msgid "LOGIN_SETUP"
+msgstr "Inloggningsinställningar"
+
+msgid "WELCOME_BACK_FORMAT"
+msgstr "Välkommen tillbaka, %s!"
+
+msgid "RETURNING_USER_NEW_LOGIN_SYSTEM"
+msgstr "Sedan ditt senaste besök har vi lagt till ett nytt inloggningssystem -- men oroa dig inte, allt ditt innehåll är fortfarande kvar!"
+
+msgid "RETURNING_USER_PLEASE_CREATE_PASSWORD"
+msgstr "För att komma igång, skapa ett nytt lösenord nedan."
+
+msgid "NEW_USER_WELCOME_FORMAT"
+msgstr "Välkommen till Sudomemo, %s!"
+
+msgid "NEW_USER_PLEASE_CREATE_PASSWORD"
+msgstr "Vänligen skapa ett nytt lösenord."
+
+msgid "FORM_HEADER_PASSWORD"
+msgstr "Lösenord:"
+
+msgid "FORM_PREFILL_PASSWORD"
+msgstr "Skriv ditt lösenord här..."
+
+msgid "FORM_WARNING_PASSWORD_TOO_SHORT"
+msgstr "Vänligen ange ett lösenord som är längre än 8 tecken."
+
+msgid "FORM_WARNING_PASSWORD_DISALLOWED_CHARS"
+msgstr "Ditt lösenord kan inte innehålla något av dessa tecken:"
+
+msgid "FORM_LABEL_DONT_FORGET_PASSWORD"
+msgstr "Kom ihåg att skriva ner ditt lösenord och håll det säkert!"
+
+msgid "FORM_HEADER_EMAIL"
+msgstr "E-postadress:"
+
+msgid "FORM_PREFILL_EMAIL"
+msgstr "Skriv din E-postadress här..."
+
+msgid "FORM_WARNING_EMAIL_INVALID"
+msgstr "E-postadressen du angav är inte giltig."
+
+msgid "EMAIL_ADDITION_SUGGESTED"
+msgstr "E-post är valfritt, men rekommenderas starkt. Om du någonsin glömmer ditt lösenord skickar vi en länk för lösenordsåterställning till din e-postadress."
+
+msgid "EMAIL_ADDITION_DETAILS"
+msgstr "Om du någonsin glömmer ditt lösenord skickar vi en länk för lösenordsåterställning till din e-postadress."
+
+msgid "CONFIRM_INFO_CORRECT"
+msgstr "Vänligen se till att informationen nedan är korrekt."
+
+msgid "NO_PLAINTEXT_PASSWORD_RECOVERY_IF_LOST"
+msgstr "Efter det här steget kan vi inte återställa ditt lösenord om du förlorar det."
+
+msgid "BUTTON_CHANGE_PASSWORD"
+msgstr "Byt lösenord"
+
+msgid "FORM_HEADER_EMAIL_CONFIRM"
+msgstr "E-postadress:"
+
+msgid "BUTTON_CHANGE_EMAIL"
+msgstr "Byt E-postadress"
+
+msgid "BUTTON_ADD_AN_EMAIL_ADDRESS"
+msgstr "Lägg till en E-postadress"
+
+msgid "BUTTON_SUBMIT"
+msgstr "Klar"
+
+msgid "PLEASE_ENTER_PASSWORD_TO_SIGN_IN"
+msgstr "Vänligen ange ditt lösenord för att logga in"
+
+msgid "LOGIN_FORM_PREFILL_PASSWORD"
+msgstr "Skriv in lösenord"
+
+msgid "INCORRECT_PASSWORD_ATTEMPTS_FORMAT"
+msgstr "Felaktiga lösenordsförsök: %s"
+
+msgid "REGISTRATION_ERROR_BAD_EMAIL"
+msgstr "E-postadress du angav är inte tillåten."
+
+msgid "REGISTRATION_ERROR_BAD_PASSWORD"
+msgstr "Lösenordet du angav är inte tillåtet."
+
+msgid "ERROR"
+msgstr "Fel"
+
+msgid "REGISTRATION_ERROR_PASSWORD_ALREADY_SET"
+msgstr "Lösenordet har redan ställts in."
+
+msgid "NEW_USER_THANKS_FOR_REGISTRATION"
+msgstr "Välkommen till Sudomemo!"
+
+msgid "RETURNING_USER_THANKS_FOR_REGISTRATION"
+msgstr "Välkommen tillbaka! Tack för att du har konfigurerat din inloggningsinformation."
+
+msgid "BUTTON_SIGN_IN_TO_SUDOMEMO"
+msgstr "Logga in på Sudomemo"
+
+msgid "LOGIN_FAILED"
+msgstr "Inloggning misslyckades."
+
+msgid "LOGIN_FAILED_REOPEN_FLIPNOTE_STUDIO"
+msgstr "Inloggning misslyckades. Avsluta och öppna Flipnote Studio igen."
+
+msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE1"
+msgstr "Flipnote-data är skadad."
+
+msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE2"
+msgstr "Försök skicka det igen."
+
+msgid "LOGIN_FAILED_BANNED_LINE1"
+msgstr "Du har blivit förhindrad från att använda Sudomemo."
+
+msgid "CONTACT_SUPPORT_EMAIL_FORMAT"
+msgstr "Vänligen kontakta %s."
+
+msgid "CREATORS_ROOM_SHIM_WELCOME"
+msgstr "Välkommen!"
+
+msgid "CREATORS_ROOM_SHIM_PLEASE_LOGIN"
+msgstr "Välkommen till Sudomemo! Vänligen logga in för att fortsätta."
+
+msgid "GUIDE_MAIN_MENU_SHORTCUT"
+msgstr "Du kan återgå till huvudmenyn genom att hålla ned L (eller R om du är vänsterhänt) och trycka på knappen 'Meny'."
+
+msgid "SORRY_NO_LOGIN"
+msgstr "Tyvärr, men vi kunde inte logga in dig!"
+
+msgid "BASIC_AUTH_NOT_ENABLED"
+msgstr "Du verkar inte ha aktiverat grundläggande autentisering i dina proxyinställningar."
+
+msgid "BASIC_AUTH_FSID_INVALID"
+msgstr "Flipnote Studio ID som du angav under grundläggande autentisering är ogiltig:"
+
+msgid "BASIC_AUTH_BAD_LENGTH_FORMAT"
+msgstr "ID-numret verkar vara %s siffror i längd (Ska vara 16)"
+
+msgid "BASIC_AUTH_LOWERCASE_LETTERS"
+msgstr "IDn innehåller små bokstäver - det ska vara stor boxtäver."
+
+msgid "BASIC_AUTH_NONHEX_CHARACTERS"
+msgstr "IDn innehåller andra täcken än 0-9 och A-F (den ska bara innehålla 0-9 och A-F)."
+
+msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
+msgstr "Om du behöver hjälp att ansluta, vänligen fråga i våran Discord! Du kan gå med från %s."
+
+msgid "BAN_NOTICE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
+msgstr "Vänligen kontakta oss på Discord eller via e-post till %s."
+
+msgid "FORGOT_PASSWORD_LINK"
+msgstr "Har du glömt ditt lösenord?"
+
+msgid "EMAIL_IS_DUPLICATE"
+msgstr "E-postadressen du angav används redan."
+
+msgid "EMAIL_CONFIRMATION_SENT_FORMAT"
+msgstr "Ett bekräftelsemail har skickats till %s. Vänligen se efter det om några minuter."
+
+msgid "BUTTON_CHECK_VERIFICATION"
+msgstr "Kontrollera verifieringsstatus"
+
+msgid "EMAIL_NOT_YET_VERIFIED"
+msgstr "Din e-postadress har ännu inte verifierats."
+
+msgid "EMAIL_VERIFIED"
+msgstr "Tack för att du verifierat din e-postadress!"
+
+msgid "EMAIL_REQUIRES_UPDATE"
+msgstr "Din e-postadress måste uppdateras."
+
+msgid "VERIFICATION_NEEDED"
+msgstr "Du behöver verifiera din e-postadress."
+
+msgid "BUTTON_RESEND_VERIFICATION_EMAIL"
+msgstr "Skicka verifieringsemail igen"
+
+msgid "NOT_RECEIVING_HELP_FORMAT"
+msgstr "Får du inget mail? Du kan nå oss på Sudomemo Discord eller via %s."
+
+msgid "HEADER_VERIFY_EMAIL"
+msgstr "Verifiera e-postadress"
+
+msgid "VERIFICATION_LIMIT_EXCEEDED_FORMAT"
+msgstr "Du har överstigit det maximala antalet verifieringsemail. Vänligen kontakta support på %s eller via Discord."
+
+msgid "WEB_HEADER_SUCCESS"
+msgstr "Lyckat!"
+
+msgid "WEB_TAP_CHECK_VERIFICATION_STATUS"
+msgstr "Fortsätt och tryck på 'Kontrollera verifieringsstatus' i ditt Nintendo DSi system."
+
+msgid "HEADER_VERIFICATION_EXPIRED"
+msgstr "Verifieringen har gått ut"
+
+msgid "VERIFICATION_EXPIRED_TEXT"
+msgstr "Verifieringsadressen har gått ut eller redan använts."
+
+msgid "CONTINUE_TO_LOGIN"
+msgstr "Fortsätt till inloggning"
+
+msgid "HEADER_UPDATE_EMAIL"
+msgstr "Uppdatera e-postadress"
+
+msgid "THANK_YOU_FOR_UPDATING_EMAIL"
+msgstr "Tack för att du uppdaterat din e-postadress!"
+
+msgid "BUTTON_CONTINUE"
+msgstr "Förtsätt"
+
+msgid "BUTTON_EDIT_EMAIL_ADDRESS"
+msgstr "Byt e-postadress"
+
+msgid "SEARCH_FOR_SENDER_EMAIL_FORMAT"
+msgstr "Haven't received the email? Check your Spam box, and search for %s. If you find that it was marked spam, please ensure you first mark it Not Spam."
+

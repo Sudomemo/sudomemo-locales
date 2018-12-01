@@ -1,147 +1,243 @@
 msgid "BAN_GREETING_FORMAT"
-msgstr "Hello, %s."
+msgstr "こんにちは。%sさん。"
 
 msgid "BAN_NOTICE_CONSOLE_BAN"
-msgstr "Your account and console have been suspended from Sudomemo."
+msgstr "あなたのアカウントと機器はSudomemoから切断されています。"
 
 msgid "BAN_NOTICE_PLEASE_READ_BAN_LETTER"
-msgstr "Please read the letter we sent you for further information."
+msgstr "詳細については、お送りしたメッセージをご覧ください。"
 
 msgid "BAN_VIEW_MAIL"
-msgstr "View Sudomemo Mail"
+msgstr "Sudomemoメールを見る"
 
 msgid "LOGIN_SUCCESSFUL"
-msgstr "Login Successful"
+msgstr "ログインしました"
 
 msgid "THANKS_FOR_LOGIN_FORMAT"
-msgstr "Thanks for signing in, %s!"
+msgstr "ログインしていただきありがとうございます！%sさん！"
 
 msgid "GOTO_CREATORS_ROOM"
-msgstr "Go to your Creator's Room"
+msgstr "あなたのマイルームに行く"
 
 msgid "LOGIN"
-msgstr "Login"
+msgstr "ログイン"
 
 msgid "POST_COMMENT_BELOW"
-msgstr "To continue, please post a comment below."
+msgstr "続行するには、下記のコメントを投稿してください。"
 
 msgid "LOGIN_SETUP"
-msgstr "Login Setup"
+msgstr "ログインの設定"
 
 msgid "WELCOME_BACK_FORMAT"
-msgstr "Welcome back, %s!"
+msgstr "ようこそ、 %sさん！"
 
 msgid "RETURNING_USER_NEW_LOGIN_SYSTEM"
-msgstr "Since the last time you visited, we've added a new login system -- but don't worry, all of your content is still here!"
+msgstr "前回訪問して以来、新しいログインシステムが追加されましたが、心配する必要はありません。あなたのコンテンツはすべてここにあります！"
 
 msgid "RETURNING_USER_PLEASE_CREATE_PASSWORD"
-msgstr "To get started, please create a new password below."
+msgstr "新しいパスワードを作成してください。"
 
 msgid "NEW_USER_WELCOME_FORMAT"
-msgstr "Welcome to Sudomemo, %s!"
+msgstr "Sudomemoへようこそ！%sさん！"
 
 msgid "NEW_USER_PLEASE_CREATE_PASSWORD"
-msgstr "Please create a new password."
+msgstr "新しいパスワードを作成してください。"
 
 msgid "FORM_HEADER_PASSWORD"
-msgstr "Password:"
+msgstr "パスワード:"
 
 msgid "FORM_PREFILL_PASSWORD"
-msgstr "Enter your password here..."
+msgstr "パスワードを入力してください..."
 
 msgid "FORM_WARNING_PASSWORD_TOO_SHORT"
-msgstr "Please enter a password that is longer than 8 characters."
+msgstr "8文字以上のパスワードを入力してください。"
 
 msgid "FORM_WARNING_PASSWORD_DISALLOWED_CHARS"
-msgstr "Your password cannot contain any of these characters:"
+msgstr "パスワードに次の文字を含めることはできません:"
 
 msgid "FORM_LABEL_DONT_FORGET_PASSWORD"
-msgstr "Remember to make a note of your password, and keep it safe!"
+msgstr "パスワードはあらかじめメモしておき、安全に保管してください！"
 
 msgid "FORM_HEADER_EMAIL"
-msgstr "Email (Optional):"
+msgstr "電子メール:"
 
 msgid "FORM_PREFILL_EMAIL"
-msgstr "Enter your email here..."
+msgstr "メールアドレスを入力してください..."
 
 msgid "FORM_WARNING_EMAIL_INVALID"
-msgstr "The email address you entered isn't valid."
+msgstr "入力した電子メールアドレスは無効です。"
 
 msgid "EMAIL_ADDITION_SUGGESTED"
-msgstr "Email is optional, but highly recommended. If you ever forget your password, we will send a password reset link to your email address."
+msgstr "電子メールはオプションですが、設定されることを強くお勧めします。 パスワードを忘れた場合、メールアドレスにパスワード再設定のリンクが送信します。"
+
+msgid "EMAIL_ADDITION_DETAILS"
+msgstr "パスワードを忘れた場合は、メールにパスワードのリセットリンクを送信します。"
 
 msgid "CONFIRM_INFO_CORRECT"
-msgstr "Please make sure that the information below is correct."
+msgstr "下記の情報が正しいことを確認してください。"
 
 msgid "NO_PLAINTEXT_PASSWORD_RECOVERY_IF_LOST"
-msgstr "After this stage, we can't recover your password if you lose it."
+msgstr "この段階の後、パスワードを紛失した場合、パスワードを回復することはできません。"
 
 msgid "BUTTON_CHANGE_PASSWORD"
-msgstr "Change password"
+msgstr "パスワードを変更する"
 
 msgid "FORM_HEADER_EMAIL_CONFIRM"
-msgstr "Email:"
+msgstr "電子メール:"
 
 msgid "BUTTON_CHANGE_EMAIL"
-msgstr "Change email address"
+msgstr "メールアドレスを変更する"
 
 msgid "BUTTON_ADD_AN_EMAIL_ADDRESS"
-msgstr "Add an email address"
+msgstr "メールアドレスを追加する"
 
 msgid "BUTTON_SUBMIT"
-msgstr "Submit"
+msgstr "適用"
 
 msgid "PLEASE_ENTER_PASSWORD_TO_SIGN_IN"
-msgstr "Please enter your password to sign in"
+msgstr "ログインするためのパスワードを入力してください"
 
 msgid "LOGIN_FORM_PREFILL_PASSWORD"
-msgstr "Enter password"
+msgstr "パスワードを入力する"
 
 msgid "INCORRECT_PASSWORD_ATTEMPTS_FORMAT"
-msgstr "Incorrect password attempts: %s"
+msgstr "間違えた回数: %s"
 
 msgid "REGISTRATION_ERROR_BAD_EMAIL"
-msgstr "The email address you provided is not permitted."
+msgstr "あなたが入力した電子メールアドレスは許可されていないため、使用できません。"
 
 msgid "REGISTRATION_ERROR_BAD_PASSWORD"
-msgstr "The password you provided is not permitted."
+msgstr "あなたが入力したパスワードは許可されていないため、使用できません。"
 
 msgid "ERROR"
-msgstr "Error"
+msgstr "エラー"
 
 msgid "REGISTRATION_ERROR_PASSWORD_ALREADY_SET"
-msgstr "Password has already been set."
+msgstr "パスワードはすでに設定されています。"
 
 msgid "NEW_USER_THANKS_FOR_REGISTRATION"
-msgstr "Welcome to Sudomemo!"
+msgstr "Sudomemoへようこそ！"
 
 msgid "RETURNING_USER_THANKS_FOR_REGISTRATION"
-msgstr "Welcome back! Thanks for setting up your login information."
+msgstr "お帰りなさい！ ログイン情報を設定していただきありがとうございます。"
 
 msgid "BUTTON_SIGN_IN_TO_SUDOMEMO"
-msgstr "Sign in to Sudomemo"
+msgstr "Sudomemoにサインインする"
 
 msgid "LOGIN_FAILED"
-msgstr "Login failed."
+msgstr "ログインに失敗しました。"
 
 msgid "LOGIN_FAILED_REOPEN_FLIPNOTE_STUDIO"
-msgstr "Login failed. Close and reopen Flipnote Studio."
+msgstr "ログインに失敗しました。 一度うごくメモ帳を閉じて再度開き直してください。"
 
 msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE1"
-msgstr "The Flipnote data is corrupted."
+msgstr "うごくメモ帳のデータが破損しています。"
 
 msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE2"
-msgstr "Try sending it again."
+msgstr "もう一度送信してみてください。"
 
 msgid "LOGIN_FAILED_BANNED_LINE1"
-msgstr "You have been restricted from interacting with Sudomemo."
+msgstr "あなたはSudomemoとの対話を制限されています。"
 
 msgid "CONTACT_SUPPORT_EMAIL_FORMAT"
-msgstr "Please contact %s."
+msgstr "お問い合わせください %sさん。"
 
 msgid "CREATORS_ROOM_SHIM_WELCOME"
-msgstr "Welcome!"
+msgstr "ようこそ!"
 
 msgid "CREATORS_ROOM_SHIM_PLEASE_LOGIN"
-msgstr "Welcome to Sudomemo! Please login to continue."
+msgstr "Sudomemoへようこそ！ 続行するにはログインしてください。"
+
+msgid "GUIDE_MAIN_MENU_SHORTCUT"
+msgstr "Ｌボタン(左利きの場合はＲボタン)を押すと一気にトップメニューまで戻れます。"
+
+msgid "SORRY_NO_LOGIN"
+msgstr "申し訳ありませんが、ログインできませんでした。"
+
+msgid "BASIC_AUTH_NOT_ENABLED"
+msgstr "プロキシ設定で基本認証を有効にしていないようです。"
+
+msgid "BASIC_AUTH_FSID_INVALID"
+msgstr "基本認証で入力したFlipnote Studio IDが無効です："
+
+msgid "BASIC_AUTH_BAD_LENGTH_FORMAT"
+msgstr "IDは%sの長さで記述されます (16でなければなりません)"
+
+msgid "BASIC_AUTH_LOWERCASE_LETTERS"
+msgstr "IDに小文字が含まれています。すべて大文字にする必要があります。"
+
+msgid "BASIC_AUTH_NONHEX_CHARACTERS"
+msgstr "IDに0-9とA-F以外の文字が含まれています（0-9とA-Fのみを含める必要があります）。"
+
+msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
+msgstr "あなたがSudomemoに役立ちたい場合は、Discordでお気軽にお問い合わせください！ あなたは%sから参加できます。"
+
+msgid "BAN_NOTICE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
+msgstr "Discordまたは%sのEメールでご連絡ください。"
+
+msgid "FORGOT_PASSWORD_LINK"
+msgstr "パスワードをお忘れですか？"
+
+msgid "EMAIL_IS_DUPLICATE"
+msgstr "入力したメールアドレスはすでに使用されています。"
+
+msgid "EMAIL_CONFIRMATION_SENT_FORMAT"
+msgstr "確認メールが%sに送信されました。 メールを確認してください。"
+
+msgid "BUTTON_CHECK_VERIFICATION"
+msgstr "認証されているか確認する"
+
+msgid "EMAIL_NOT_YET_VERIFIED"
+msgstr "あなたのメールアドレスはまだ認証されていません。"
+
+msgid "EMAIL_VERIFIED"
+msgstr "Eメールが認証されました!"
+
+msgid "EMAIL_REQUIRES_UPDATE"
+msgstr "あなたのメールアドレスを更新する必要があります。"
+
+msgid "VERIFICATION_NEEDED"
+msgstr "あなたのメールアドレスを認証する必要があります。"
+
+msgid "BUTTON_RESEND_VERIFICATION_EMAIL"
+msgstr "確認メールを再送信する"
+
+msgid "NOT_RECEIVING_HELP_FORMAT"
+msgstr "メールが受け取れていませんか？ SudomemoのDiscordまたは%s経由でお問い合わせください。"
+
+msgid "HEADER_VERIFY_EMAIL"
+msgstr "Eメールを認証"
+
+msgid "VERIFICATION_LIMIT_EXCEEDED_FORMAT"
+msgstr "確認メールの最大数を超えました。 %sのサポートに連絡するかDiscord経由で連絡してください。"
+
+msgid "WEB_HEADER_SUCCESS"
+msgstr "成功!"
+
+msgid "WEB_TAP_CHECK_VERIFICATION_STATUS"
+msgstr "あなたの任天堂DSiシステムで「認証ステータスの確認」をタップしてください。"
+
+msgid "HEADER_VERIFICATION_EXPIRED"
+msgstr "認証済み"
+
+msgid "VERIFICATION_EXPIRED_TEXT"
+msgstr "認証URLの有効期限が切れているか、既に使用されています。"
+
+msgid "CONTINUE_TO_LOGIN"
+msgstr "ログインを続ける"
+
+msgid "HEADER_UPDATE_EMAIL"
+msgstr "メールの更新"
+
+msgid "THANK_YOU_FOR_UPDATING_EMAIL"
+msgstr "メールを更新していただきありがとうございます！"
+
+msgid "BUTTON_CONTINUE"
+msgstr "続行"
+
+msgid "BUTTON_EDIT_EMAIL_ADDRESS"
+msgstr "メールアドレスを変更する"
+
+msgid "SEARCH_FOR_SENDER_EMAIL_FORMAT"
+msgstr "Haven't received the email? Check your Spam box, and search for %s. If you find that it was marked spam, please ensure you first mark it Not Spam."
 

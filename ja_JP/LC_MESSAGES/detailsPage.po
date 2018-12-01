@@ -11,10 +11,10 @@ msgid "HEADER_COMMENTS"
 msgstr "コメント"
 
 msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
-msgstr "この作品はスピンオフです。"
+msgstr "この作品は子作品です。"
 
 msgid "HEADER_ORIGINAL_FLIPNOTE"
-msgstr "オリジナル作品はこちら"
+msgstr "親作品はこちら"
 
 msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
 msgstr "一つのメモに対して付けられるイエロースターは10個までです。"
@@ -29,7 +29,7 @@ msgid "HEADER_VIEWS"
 msgstr "閲覧回数"
 
 msgid "HEADER_SPINOFFS"
-msgstr "スピンオフ"
+msgstr "子作品"
 
 msgid "HEADER_DOWNLOADS"
 msgstr "ダウンロード数"

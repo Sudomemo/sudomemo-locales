@@ -1,26 +1,26 @@
 msgid "SET_PROFILE_PICTURE"
-msgstr "Set Profile Picture"
+msgstr "プロフィール画像を設定する"
 
 msgid "PROMPT_CHANGE_YOUR_PROFILE_IMAGE"
-msgstr "Change your profile picture?"
+msgstr "プロフィール画像を変更しますか？"
 
 msgid "CONTINUE_SET_AS_PROFILE_PICTURE"
-msgstr "Confirm"
+msgstr "確認"
 
 msgid "CURRENT"
-msgstr "Current"
+msgstr "現在"
 
 msgid "NEW"
-msgstr "New"
+msgstr "設定後"
 
 msgid "PROFILE_PICTURE_SET"
-msgstr "Profile picture successfully set!"
+msgstr "プロフィール画像が正常に設定されました。"
 
 msgid "RETURN_TO_FLIPNOTE"
-msgstr "Return to Flipnote"
+msgstr "作品一覧へ戻る"
 
 msgid "CREATORS_ROOM"
-msgstr "Creator's Room"
+msgstr "作者の部屋"
 
 msgid "CANCEL"
-msgstr "Cancel"
+msgstr "キャンセル"

@@ -1,0 +1,41 @@
+msgid "COMMENT_DETAILS"
+msgstr "Kommentar detaljer"
+
+msgid "MESSAGE_DETAILS"
+msgstr "Meddelande detaljer"
+
+msgid "AUTHOR"
+msgstr "Skapare"
+
+msgid "COMMENT_BY_FORMAT"
+msgstr "Kommentar av %s"
+
+msgid "CHAT_MESSAGE_FROM_FORMAT"
+msgstr "Chattmeddelande från %s"
+
+msgid "MESSAGE_FROM_FORMAT"
+msgstr "Meddelande från %s"
+
+msgid "FLIPNOTE_BY_FORMAT"
+msgstr "Flipnote av %s"
+
+msgid "COMMENT_ID"
+msgstr "Kommentar ID"
+
+msgid "MESSAGE_ID"
+msgstr "Meddelande ID"
+
+msgid "CHAT_COMMENT_ID"
+msgstr "Chattkommentar ID"
+
+msgid "TIMESTAMP"
+msgstr "Tidsstämpel"
+
+msgid "POSTED_TO"
+msgstr "Publicerad till"
+
+msgid "PRIVATE_CONVERSATION"
+msgstr "Privat konversation"
+
+msgid "REPORT_CONTENT"
+msgstr "Rapportera innehåll"

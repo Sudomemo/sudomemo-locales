@@ -1,0 +1,17 @@
+msgid "CHANGE_LANGUAGE"
+msgstr "Byt språk"
+
+msgid "LANGUAGE_UPDATED_FORMAT"
+msgstr "Ditt språk har ändrats till %s."
+
+msgid "POTENTIAL_CONTRIBUTOR_NOTE"
+msgstr "Sudomemo litar på sin gemenskap för att ge exakta översättningar. Om du ser något som inte visas korrekt, är fortfarande på engelska, en översättning av låg kvalitet, eller om du vill lägga till ditt eget språk så bjuder vi in dig att bidra! Fullständiga och verifierade översättningar kan tjäna dig medborgarskap. Du kan göra det här: https://github.com/Sudomemo/sudomemo-locales"
+
+msgid "RETURN_TO_CREATORS_ROOM"
+msgstr "Gå tillbaka till Creator's Room"
+
+msgid "NOT_LOGGED_IN"
+msgstr "Du måste vara inloggad innan du byter språk."
+
+msgid "INVALID_LOCALE"
+msgstr "Tyvärr, men det språket är inte tillgängligt."

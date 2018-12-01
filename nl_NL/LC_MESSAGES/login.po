@@ -1,0 +1,243 @@
+msgid "BAN_GREETING_FORMAT"
+msgstr "Hallo, %s."
+
+msgid "BAN_NOTICE_CONSOLE_BAN"
+msgstr "Je account en apparaat zijn vergrendeld van gebruik van Sudomemo."
+
+msgid "BAN_NOTICE_PLEASE_READ_BAN_LETTER"
+msgstr "Lees alsjeblieft het bericht dat we je gestuurd hebben voor meer informatie"
+
+msgid "BAN_VIEW_MAIL"
+msgstr "Ga naar Sudomemo mail"
+
+msgid "LOGIN_SUCCESSFUL"
+msgstr "Log in Succesvol"
+
+msgid "THANKS_FOR_LOGIN_FORMAT"
+msgstr "Bedankt voor het inloggen, %s!"
+
+msgid "GOTO_CREATORS_ROOM"
+msgstr "Ga naar jouw Maker's Ruimte"
+
+msgid "LOGIN"
+msgstr "Log in"
+
+msgid "POST_COMMENT_BELOW"
+msgstr "Om door te gaan, plaats alsjeblieft commentaar hieronder."
+
+msgid "LOGIN_SETUP"
+msgstr "Login Opstelling"
+
+msgid "WELCOME_BACK_FORMAT"
+msgstr "Welkom terug, %s!"
+
+msgid "RETURNING_USER_NEW_LOGIN_SYSTEM"
+msgstr "Sinds de vorige keer dat je hebt ingelogd, hebben we een nieuw inlog systeem toegevoegd -- maar maak je geen zorgen, al je inhoud is er nog steeds!"
+
+msgid "RETURNING_USER_PLEASE_CREATE_PASSWORD"
+msgstr "Om te beginnen, kies alsjeblieft een wachtwoord hieronder."
+
+msgid "NEW_USER_WELCOME_FORMAT"
+msgstr "Welkom op Sudomemo, %s!"
+
+msgid "NEW_USER_PLEASE_CREATE_PASSWORD"
+msgstr "Kies alsjeblieft een nieuw wachtwoord."
+
+msgid "FORM_HEADER_PASSWORD"
+msgstr "Wachtwoord:"
+
+msgid "FORM_PREFILL_PASSWORD"
+msgstr "Vul je wachtwoord hier in..."
+
+msgid "FORM_WARNING_PASSWORD_TOO_SHORT"
+msgstr "Vul alsjeblieft een wachtwoord in dat langer is dan 8 lettertekens."
+
+msgid "FORM_WARNING_PASSWORD_DISALLOWED_CHARS"
+msgstr "Je wachtwoord mag niet een van de volgende tekens bevatten:"
+
+msgid "FORM_LABEL_DONT_FORGET_PASSWORD"
+msgstr "Vergeet je wachtwoord niet, en houdt hem veilig!"
+
+msgid "FORM_HEADER_EMAIL"
+msgstr "Email:"
+
+msgid "FORM_PREFILL_EMAIL"
+msgstr "Vul je email hier in..."
+
+msgid "FORM_WARNING_EMAIL_INVALID"
+msgstr "De email adres die je hebt ingevuld is niet geldig."
+
+msgid "EMAIL_ADDITION_SUGGESTED"
+msgstr "Email is optioneel, maar aanbevolen. Als je je wachtwoord ooit vergeet, sturen we een wachtwoord herstel link naar je email adres."
+
+msgid "EMAIL_ADDITION_DETAILS"
+msgstr "If you ever forget your password, we will send a password reset link to your email address."
+
+msgid "CONFIRM_INFO_CORRECT"
+msgstr "Controleer alsjeblieft of de onderstaande informatie correct is."
+
+msgid "NO_PLAINTEXT_PASSWORD_RECOVERY_IF_LOST"
+msgstr "Na deze stap, kunnen we je wachtwoord niet herstellen als je hem verliest."
+
+msgid "BUTTON_CHANGE_PASSWORD"
+msgstr "Verander wachtwoord"
+
+msgid "FORM_HEADER_EMAIL_CONFIRM"
+msgstr "Email:"
+
+msgid "BUTTON_CHANGE_EMAIL"
+msgstr "Verander email adres"
+
+msgid "BUTTON_ADD_AN_EMAIL_ADDRESS"
+msgstr "Voeg een email adres toe"
+
+msgid "BUTTON_SUBMIT"
+msgstr "Verzend"
+
+msgid "PLEASE_ENTER_PASSWORD_TO_SIGN_IN"
+msgstr "Vul alsjeblieft je wachtwoord in om in te loggen"
+
+msgid "LOGIN_FORM_PREFILL_PASSWORD"
+msgstr "Vul wachtwoord in"
+
+msgid "INCORRECT_PASSWORD_ATTEMPTS_FORMAT"
+msgstr "Aantal keer fout wachtwoord ingevuld: %s"
+
+msgid "REGISTRATION_ERROR_BAD_EMAIL"
+msgstr "Het ingevulde email adres is niet toegestaan."
+
+msgid "REGISTRATION_ERROR_BAD_PASSWORD"
+msgstr "Het ingevulde wachtwoord is niet toegestaan."
+
+msgid "ERROR"
+msgstr "Fout"
+
+msgid "REGISTRATION_ERROR_PASSWORD_ALREADY_SET"
+msgstr "Er is al eens een wachtwoord opgegeven."
+
+msgid "NEW_USER_THANKS_FOR_REGISTRATION"
+msgstr "Welkom op Sudomemo!"
+
+msgid "RETURNING_USER_THANKS_FOR_REGISTRATION"
+msgstr "Welkom terug! Bedankt voor het opgeven van je login informatie."
+
+msgid "BUTTON_SIGN_IN_TO_SUDOMEMO"
+msgstr "Log in tot Sudomemo"
+
+msgid "LOGIN_FAILED"
+msgstr "Inloggen mislukt."
+
+msgid "LOGIN_FAILED_REOPEN_FLIPNOTE_STUDIO"
+msgstr "Inloggen mislukt. Sluit en heropen Flipnote Studio."
+
+msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE1"
+msgstr "De Flipnote is beschadigd."
+
+msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE2"
+msgstr "Probeer het nog eens te verzenden."
+
+msgid "LOGIN_FAILED_BANNED_LINE1"
+msgstr "Jouw gebruik van Sudomemo is ontnomen."
+
+msgid "CONTACT_SUPPORT_EMAIL_FORMAT"
+msgstr "Neem contact op met %s."
+
+msgid "CREATORS_ROOM_SHIM_WELCOME"
+msgstr "Welkom!"
+
+msgid "CREATORS_ROOM_SHIM_PLEASE_LOGIN"
+msgstr "Welkom op Sudomemo! Log alsjeblieft in om door te gaan."
+
+msgid "GUIDE_MAIN_MENU_SHORTCUT"
+msgstr "Je kan terug naar het hoofdmenu door L in te houden (of R als je linkshandigheid hebt ingeschakeld) en op de 'Menu'-knop te drukken."
+
+msgid "SORRY_NO_LOGIN"
+msgstr "Sorry, we konden je niet inloggen!"
+
+msgid "BASIC_AUTH_NOT_ENABLED"
+msgstr "Het lijkt er niet op dat je Basic Authentication hebt ingesteld in je proxy instellingen."
+
+msgid "BASIC_AUTH_FSID_INVALID"
+msgstr "De Flipnote Studio ID die je hebt ingevuld in Basic Authentication is niet geldig:"
+
+msgid "BASIC_AUTH_BAD_LENGTH_FORMAT"
+msgstr "Het lijkt erop dat de ID %s karakters lang is (moet 16 zijn)"
+
+msgid "BASIC_AUTH_LOWERCASE_LETTERS"
+msgstr "De ID bevat kleine letters - ze moeten allemaal hoofdletters zijn"
+
+msgid "BASIC_AUTH_NONHEX_CHARACTERS"
+msgstr "De ID bevat karakters anders dan 0-9 en A-F (het mag alleen 0-9 en A-F bevatten)"
+
+msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
+msgstr "Als je hulp nodig hebt met verbinden, voel je vrij om het ons te vragen in onze Discord! Je kan joinen via %s."
+
+msgid "BAN_NOTICE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
+msgstr "Neem alsjeblieft contact met ons op via de Discord of om te emailen naar %s."
+
+msgid "FORGOT_PASSWORD_LINK"
+msgstr "Wachtwoord vergeten?"
+
+msgid "EMAIL_IS_DUPLICATE"
+msgstr "Deze email adres is al in gebeuik."
+
+msgid "EMAIL_CONFIRMATION_SENT_FORMAT"
+msgstr "Een verificatie email is verstuurd naar %s. Controleer je inbox alsjeblieft na een paar minuten."
+
+msgid "BUTTON_CHECK_VERIFICATION"
+msgstr "Contoleer Verificatie Status"
+
+msgid "EMAIL_NOT_YET_VERIFIED"
+msgstr "Je email adres is nog niet geverifieerd."
+
+msgid "EMAIL_VERIFIED"
+msgstr "Bedankt voor het verifieren van jouw email adres!"
+
+msgid "EMAIL_REQUIRES_UPDATE"
+msgstr "Je email adres moet geupdate worden."
+
+msgid "VERIFICATION_NEEDED"
+msgstr "We moeten je email adres verifieren."
+
+msgid "BUTTON_RESEND_VERIFICATION_EMAIL"
+msgstr "Herstuur Verificatie Email"
+
+msgid "NOT_RECEIVING_HELP_FORMAT"
+msgstr "Not receiving the email? You can reach out to us on the Sudomemo Discord or via %s."
+
+msgid "HEADER_VERIFY_EMAIL"
+msgstr "Verifieer Email"
+
+msgid "VERIFICATION_LIMIT_EXCEEDED_FORMAT"
+msgstr "Je hebt de maximaal aantal verificatie emails overschreden. Neem alsjeblieft contact op met ondersteuning via %s of via Discord."
+
+msgid "WEB_HEADER_SUCCESS"
+msgstr "Succesvol!"
+
+msgid "WEB_TAP_CHECK_VERIFICATION_STATUS"
+msgstr "Ga maar en klik op 'Controleer Verificatie Status' op jouw Nintendo DSi Systeem."
+
+msgid "HEADER_VERIFICATION_EXPIRED"
+msgstr "Verificatie verlopen"
+
+msgid "VERIFICATION_EXPIRED_TEXT"
+msgstr "The verificatie URL is verlopen of is al eens gebruikt."
+
+msgid "CONTINUE_TO_LOGIN"
+msgstr "Ga verder naar Login"
+
+msgid "HEADER_UPDATE_EMAIL"
+msgstr "Update Email"
+
+msgid "THANK_YOU_FOR_UPDATING_EMAIL"
+msgstr "Bedankt voor het updaten van jouw email!"
+
+msgid "BUTTON_CONTINUE"
+msgstr "Ga door"
+
+msgid "BUTTON_EDIT_EMAIL_ADDRESS"
+msgstr "Verander Email Adres"
+
+msgid "SEARCH_FOR_SENDER_EMAIL_FORMAT"
+msgstr "Haven't received the email? Check your Spam box, and search for %s. If you find that it was marked spam, please ensure you first mark it Not Spam."
+

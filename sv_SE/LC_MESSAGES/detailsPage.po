@@ -1,0 +1,68 @@
+msgid "TIMESTAMP_FORMAT"
+msgstr "M d, Å H:i:s"
+
+msgid "FLIPNOTE_TITLE_FORMAT"
+msgstr "Flipnote av %s"
+
+msgid "HEADER_DETAILS"
+msgstr "Detaljer"
+
+msgid "HEADER_COMMENTS"
+msgstr "Kommentarer"
+
+msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
+msgstr "Denna Flipnote är en spin-off."
+
+msgid "HEADER_ORIGINAL_FLIPNOTE"
+msgstr "Visa käll-Flipnote här"
+
+msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
+msgstr "För att förhindra Star-begging är gula Stars begränsade till tio per Flipnote."
+
+msgid "HEADER_CREATOR"
+msgstr "Skapare"
+
+msgid "HEADER_STARS"
+msgstr "Stars"
+
+msgid "HEADER_VIEWS"
+msgstr "Visningar"
+
+msgid "HEADER_SPINOFFS"
+msgstr "Spin-offs"
+
+msgid "HEADER_DOWNLOADS"
+msgstr "Nerladdningar"
+
+msgid "HEADER_TITLE"
+msgstr "Titel"
+
+msgid "HEADER_POSTED"
+msgstr "Publicerad"
+
+msgid "HEADER_FLIPNOTE_ID"
+msgstr "Flipnote ID"
+
+msgid "HEADER_CHANNEL"
+msgstr "Kanal"
+
+msgid "HEADER_OPTIONS"
+msgstr "Alternativ"
+
+msgid "HEADER_SET_AS_PROFILE_PICTURE"
+msgstr "Lägg till som profilbild"
+
+msgid "HEADER_REPORT_FLIPNOTE"
+msgstr "Raportera Flipnote"
+
+msgid "ADMIN_ACTIONS"
+msgstr "Admin-åtgärder"
+
+msgid "PREV"
+msgstr "Före"
+
+msgid "NEXT"
+msgstr "Nästa"
+
+msgid "STAR_DETAILS_UPPERTITLE"
+msgstr "★ Stars ★"

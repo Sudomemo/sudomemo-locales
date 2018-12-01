@@ -1,0 +1,102 @@
+msgid "THEME_SHOP_LOGIN_REQUIRED"
+msgstr "Du måste vara inloggad för att komma åt Temabutiken"
+
+msgid "THEME_SHOP_MAINPAGE_HEADER"
+msgstr "Här på Temabutiken kan du köpa nya teman till ditt Creator's Room"
+
+msgid "THEME_SHOP_LEARN_MORE_HEADER"
+msgstr "Läs mer om Temabutiken"
+
+msgid "THEME_SHOP_REPORT_ISSUES_HEADER"
+msgstr "Tryck på den här länken för att rapportera ett tema som inte fungerar korrekt."
+
+msgid "THEME_SHOP_MAINPAGE_EXCHANGE_COST_FORMAT"
+msgstr "Köp för %d gröna Stars"
+
+msgid "THEME_SHOP_MAINPAGE_FREE_STARTER_THEMES"
+msgstr "Gratis Startteman"
+
+msgid "CONGRATULATIONS"
+msgstr "Gratulerar!"
+
+msgid "SEE_MORE"
+msgstr "Se mer"
+
+msgid "PREVIEW"
+msgstr "Förhandsvisning"
+
+msgid "BUY"
+msgstr "Köp"
+
+msgid "THEME"
+msgstr "Tema"
+
+msgid "PRICE"
+msgstr "Pris"
+
+msgid "CREATOR"
+msgstr "Skapare"
+
+msgid "DESCRIPTION"
+msgstr "Beskrivning"
+
+msgid "YOU_HAVE"
+msgstr "Dina Color Stars:"
+
+msgid "USERNAME"
+msgstr "Användarnamn"
+
+msgid "CANCEL"
+msgstr "Avbryt"
+
+msgid "CONFIRM"
+msgstr "Bekräfta"
+
+msgid "CREATORS_ROOM"
+msgstr "Creator's Room"
+
+msgid "SHOP_MENU"
+msgstr "Butiksmeny"
+
+msgid "NO_DESCRIPTION_AVAILABLE"
+msgstr "Ingen beskrivning"
+
+msgid "THEME_SHOP_SELECT_PAYMENT"
+msgstr "Välj Betalning"
+
+msgid "THEME_SHOP_SELECTED_PAYMENT"
+msgstr "Vald Betalning"
+
+msgid "THEME_SHOP_STAR_BALANCE_TOO_LOW"
+msgstr "Tyvärr, du har inte tillräckligt med gröna Stars för det här temat."
+
+msgid "THEME_SHOP_CHOOSE_CAREFULLY_BEFORE_BUYING"
+msgstr "Alla inköp är permanenta, vänligen välj noga innan du köper!"
+
+msgid "THEME_SHOP_YOU_OWN_THIS_THEME"
+msgstr "Du äger redan detta tema."
+
+msgid "THEME_SHOP_PUBLIC_THEME"
+msgstr "Alla användare har tillgång till detta tema gratis."
+
+msgid "THEME_SHOP_OWNED_THEME_TRANSACTION_FORMAT"
+msgstr "Du köpte det här temat %s för %d gröna Stars."
+
+msgid "THEME_SHOP_CONFIRM_PURCHASE_BELOW"
+msgstr "Vänligen bekräfta ditt köp nedan."
+
+msgid "THEME_SHOP_STARS_LEFT_AFTER_PAYMENT"
+msgstr "Color Stars kvar efter betalning:"
+
+msgid "THEME_SHOP_POST_PURCHASE"
+msgstr "Ditt köp lyckades! Gå till \"Mina teman\" i ditt Creator's Room för att välja den!"
+
+msgid "NAVIGATION_PREVIOUS"
+msgstr "Före"
+
+msgid "NAVIGATION_NEXT"
+msgstr "Nästa"
+
+msgid "THEME_SHOP_SAMPLE_PROFILE"
+msgstr "Provprofil"
+

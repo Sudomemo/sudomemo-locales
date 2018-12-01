@@ -1,19 +1,19 @@
 msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
-msgstr "You must log in to view this page."
+msgstr "このページを表示するには、ログインする必要があります。"
 
 msgid "HEADER_UNREAD_COMMENTS"
-msgstr "Unread Comments"
+msgstr "未読のコメント"
 
 msgid "NO_UNREAD_COMMENTS"
-msgstr "You have no unread comments."
+msgstr "未読のコメントはありません"
 
 msgid "TAP_ON_FLIPNOTE_ID_TO_VISIT_COMMENTS"
-msgstr "Tap on a Flipnote ID to visit the comments page."
+msgstr "うごメモIDをタップしてコメントページにアクセスしてください。"
 
 msgid "FLIPNOTE_ID"
-msgstr "Flipnote ID"
+msgstr "うごメモID"
 
 msgid "UNREAD"
-msgstr "Unread"
+msgstr "未読"
 
 

@@ -1,0 +1,32 @@
+msgid "HEADER_PREV"
+msgstr "Précédent"
+
+msgid "HEADER_NEXT"
+msgstr "Suivant"
+
+msgid "PAGE_FORMAT"
+msgstr "Page %d"
+
+msgid "SEARCH"
+msgstr "Rechercher"
+
+msgid "USERNAME"
+msgstr "Nom d'utilisateur"
+
+msgid "RESULTS"
+msgstr "Résultats"
+
+msgid "SEARCH_USERNAME"
+msgstr "Rechercher un nom d'utilisateur"
+
+msgid "PLEASE_ENTER_USERNAME"
+msgstr "Merci d'entrer un nom d'utilisateur..."
+
+msgid "RESULTS_FOUND_FORMAT_SINGULAR"
+msgstr "%1$d résultat trouvé pour \"%2$s\""
+
+msgid "RESULTS_FOUND_FORMAT_MULTIPLE"
+msgstr "%1$d résultats trouvés pour \"%2$s\""
+
+msgid "NO_RESULTS_FOUND"
+msgstr "Pas de résultat trouvé"

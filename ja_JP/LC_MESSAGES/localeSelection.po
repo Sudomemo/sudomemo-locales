@@ -1,0 +1,17 @@
+msgid "CHANGE_LANGUAGE"
+msgstr "言語を変更する"
+
+msgid "LANGUAGE_UPDATED_FORMAT"
+msgstr "言語が %sに変更されました。"
+
+msgid "POTENTIAL_CONTRIBUTOR_NOTE"
+msgstr "Sudomemoは正確な翻訳を提供するためにコミュニティに依存しています。 正しく表示されない、英語で表示される、低品質の翻訳がある、またはあなた自身の言語を追加したい場合は、コミュニティに参加してください！ https://github.com/Sudomemo/sudomemo-localesでこれを翻訳できます。"
+
+msgid "RETURN_TO_CREATORS_ROOM"
+msgstr "作者の部屋に戻る"
+
+msgid "NOT_LOGGED_IN"
+msgstr "言語を変更する前にログインする必要があります。"
+
+msgid "INVALID_LOCALE"
+msgstr "申し訳ありませんが、その言語は利用できません。"

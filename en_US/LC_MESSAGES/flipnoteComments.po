@@ -35,10 +35,13 @@ msgid "FLIPNOTE_COMMENTS_DISALLOWED"
 msgstr "You may not comment on this Flipnote."
 
 msgid "NO_COMMENTS_WHILE_MUTED"
-msgstr "You have been muted. You may not post comments while you are muted."
+msgstr "You've been muted. You may not comment."
 
 msgid "DUPLICATE_COMMENT_FAILED"
 msgstr "This comment has already been posted to Sudomemo."
 
 msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "You have been restricted from interacting with Sudomemo."
+msgstr "You've been restricted from using Sudomemo."
+
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "Please confirm your email before posting."

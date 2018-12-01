@@ -17,7 +17,7 @@ msgid "CHANNEL_NOT_SPECIFIED"
 msgstr "You must pick a channel."
 
 msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
-msgstr "You have been restricted from interacting with Sudomemo."
+msgstr "You've been restricted from using Sudomemo."
 
 msgid "FLIPNOTE_POST_FAILED"
 msgstr "Flipnote upload failed. Try again in a moment."
@@ -31,3 +31,5 @@ msgstr "The Flipnote data is corrupted. Try again in a moment."
 msgid "NO_BLANK_FLIPNOTES_ALLOWED"
 msgstr "You may not post an empty Flipnote."
 
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "Please confirm your email before posting."

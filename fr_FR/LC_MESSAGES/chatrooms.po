@@ -1,0 +1,41 @@
+msgid "NO_COMMENTS_YET"
+msgstr "Aucun message n'a été envoyé ici."
+
+msgid "HEADER_COMMENTS"
+msgstr "Commentaires"
+
+msgid "PAGE_FORMAT"
+msgstr "Page %d"
+
+msgid "HEADER_NEXT"
+msgstr "Suivant"
+
+msgid "HEADER_PREV"
+msgstr "Précédent"
+
+msgid "HEADER_REFRESH"
+msgstr "Rafraîchir"
+
+msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
+msgstr "Vous devez être identifié pour poster un message sur le chat."
+
+msgid "CHAT_REPLY_FAILED"
+msgstr "L'envoi de la réponse sur le chat a échoué. Veuillez réesayer plus tard."
+
+msgid "NO_BLANK_MESSAGES_ALLOWED"
+msgstr "Vous ne pouvez pas poster de message vide."
+
+msgid "FLIPNOTE_DATA_CORRUPTED"
+msgstr "Les données de la Flipnote ont été corrompues, veuillez réessayer plus tard."
+
+msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
+msgstr "Vous avez été mis en mode muet. vous ne pouvez pas poster de message en mode muet."
+
+msgid "DUPLICATE_COMMENT_FAILED"
+msgstr "Ce commentaire a déjà été posté sur Sudomemo."
+
+msgid "COMMENT_FAILED_USER_BANNED"
+msgstr "L'utilisation de votre compte Sudomemo a été restreinte."
+
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "Merci de confirmer votre adresse email avant de poster."

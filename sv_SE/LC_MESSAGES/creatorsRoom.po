@@ -1,0 +1,156 @@
+msgid "SEE_MORE"
+msgstr "Visa mer..."
+
+msgid "STARRED_FLIPNOTES"
+msgstr "Starred Flipnotes"
+
+msgid "FAVORITE_USERS"
+msgstr "Favorit Användare"
+
+msgid "FAVORITES_FEED"
+msgstr "Favoriter Feed"
+
+msgid "FAVORITE_CHANNELS"
+msgstr "Favorit Kanaler"
+
+msgid "USER_DOWNLOADCOUNT"
+msgstr "Nerladdningar"
+
+msgid "USER_VIEWCOUNT"
+msgstr "Visningar"
+
+msgid "USER_THEME"
+msgstr "Tema"
+
+msgid "THEME_SHOP"
+msgstr "Temabutik"
+
+msgid "POSTED_COMMENTS"
+msgstr "Publicerade Kommentarer"
+
+msgid "POSTED_CHATCOMMENTS"
+msgstr "Chatmeddelanden"
+
+msgid "FEATURE_USABILITY"
+msgstr "Funktions Användbarhet"
+
+msgid "USABLE"
+msgstr "Användbar"
+
+msgid "NOT_USABLE"
+msgstr "Inte Användbar"
+
+msgid "SUDOMEMO_THEATRE_URL"
+msgstr "Sudomemo Theatre Länk"
+
+msgid "FLIPNOTE_STUDIO_ID"
+msgstr "Flipnote Studio ID"
+
+msgid "SETTINGS"
+msgstr "Inställningar"
+
+msgid "ADMIN_ACCT_GOOD_STANDING"
+msgstr "I god ställning"
+
+msgid "ADMIN_ACCT_BANNED"
+msgstr "Förbjuden"
+
+msgid "ADMIN_ACCT_BLOCKED"
+msgstr "Blockerad"
+
+msgid "ADMIN_ACCT_MUTED"
+msgstr "Dämpad"
+
+msgid "ADMIN_USER_DETAILS"
+msgstr "Användar Detailer"
+
+msgid "ADMIN_LAST_SEEN"
+msgstr "Senast sedd"
+
+msgid "ADMIN_USER_STATUS"
+msgstr "Användar Status"
+
+msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
+msgstr "Admin-åtgärder"
+
+msgid "BLOCK_COMMENTS_HEADER"
+msgstr "Blockera Kommentarer"
+
+msgid "BLOCK_COMMENTS_LINK"
+msgstr "Blockera"
+
+msgid "USABILITY_USABLE"
+msgstr "Användbar"
+
+msgid "USABILITY_NOT_USABLE"
+msgstr "Inte användbar"
+
+msgid "HEADER_FOLLOWERS"
+msgstr "Följare"
+
+msgid "HEADER_FOLLOWING"
+msgstr "Följer"
+
+msgid "PREVIOUS"
+msgstr "Föregående"
+
+msgid "NEXT"
+msgstr "Nästa"
+
+msgid "CHANGE_ROOM_THEME_LINK"
+msgstr "[byt tema]"
+
+msgid "SELECT_THEME"
+msgstr "Välj Tema"
+
+msgid "FANS"
+msgstr "Fans"
+
+msgid "EXAMPLE"
+msgstr "Exempel"
+
+msgid "THEMETEST_SET_THEME"
+msgstr "Lägg till Tema"
+
+msgid "THEMETEST_NOTICE"
+msgstr "Notis"
+
+msgid "THEMETEST_OK"
+msgstr "Okej"
+
+msgid "THEMETEST_ERROR"
+msgstr "Fel"
+
+msgid "THEMETEST_NOTICE_2"
+msgstr "Notis #2"
+
+msgid "THEMETEST_ACTIVE_TAB"
+msgstr "Aktiv flik"
+
+msgid "THEMETEST_INACTIVE_TAB"
+msgstr "Inaktiv flik"
+
+msgid "PREVIEW"
+msgstr "Förhandsvisning"
+
+msgid "CREATORS_ROOM"
+msgstr "Creator's Room"
+
+msgid "THEME_ERROR_THEME_NOT_OWNED"
+msgstr "Tyvärr! Du äger inte detta tema."
+
+msgid "THEME_SUCCESSFULLY_SET"
+msgstr "Tema har lagts till!"
+
+msgid "BLOCKED_USERS"
+msgstr "Blockerade användare"
+
+msgid "VIEW"
+msgstr "Visningar"
+
+msgid "FAN_COUNT_FORMAT"
+msgstr "Fans: %s"
+
+msgid "HEADER_LANGUAGE"
+msgstr "Språk"
+

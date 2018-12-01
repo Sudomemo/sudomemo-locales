@@ -1,14 +1,14 @@
 msgid "HEADER_INBOX"
-msgstr "Inbox"
+msgstr "受信トレイ"
 
 # this must be a max of 6 characters
 msgid "UNAUTHED_READ"
-msgstr "Read.."
+msgstr "読む.."
 
 msgid "PREV"
-msgstr "Prev"
+msgstr "前へ"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "次へ"
 
 
