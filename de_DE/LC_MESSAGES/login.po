@@ -1,0 +1,146 @@
+msgid "BAN_GREETING_FORMAT"
+msgstr "Hallo, %s."
+
+msgid "BAN_NOTICE_CONSOLE_BAN"
+msgstr "Dein Account + Konsole wurde von Sudomemo gebannt."
+
+msgid "BAN_NOTICE_PLEASE_READ_BAN_LETTER"
+msgstr "Bitte lese die mail die wir geschickt haben für weitere Information."
+
+msgid "BAN_VIEW_MAIL"
+msgstr "Sudomemo Mail Sehen"
+
+msgid "LOGIN_SUCCESSFUL"
+msgstr "Login erfolgreich"
+
+msgid "THANKS_FOR_LOGIN_FORMAT"
+msgstr "Danke für's einloggen, %s!"
+
+msgid "GOTO_CREATORS_ROOM"
+msgstr "Geh zu dein Creator's Room"
+
+msgid "LOGIN"
+msgstr "Login"
+
+msgid "POST_COMMENT_BELOW"
+msgstr "Um fortzufahren bitte hinterlasse ein Kommentar."
+
+msgid "LOGIN_SETUP"
+msgstr "Login Setup"
+
+msgid "WELCOME_BACK_FORMAT"
+msgstr "Willkommen zurück, %s!"
+
+msgid "RETURNING_USER_NEW_LOGIN_SYSTEM"
+msgstr "Seit letztes mal als du online warst haben wir jetzt ein neues Login-system, aber keine Sorge! All deine Flipnotes sind noch da!"
+
+msgid "RETURNING_USER_PLEASE_CREATE_PASSWORD"
+msgstr "Um fortzufahren bitte erstelle ein Passwort."
+
+msgid "NEW_USER_WELCOME_FORMAT"
+msgstr "Willkommen zu Sudomemo, %s!"
+
+msgid "NEW_USER_PLEASE_CREATE_PASSWORD"
+msgstr "Bitte erstelle ein neues Passwort."
+
+msgid "FORM_HEADER_PASSWORD"
+msgstr "Passwort:"
+
+msgid "FORM_PREFILL_PASSWORD"
+msgstr "Gebe dein Passwort hier ein..."
+
+msgid "FORM_WARNING_PASSWORD_TOO_SHORT"
+msgstr "Bitte gib ein Passwort an das länger als 8 Zeichen sind."
+
+msgid "FORM_WARNING_PASSWORD_DISALLOWED_CHARS"
+msgstr "Dein Passwort kann diese Zeichen nicht enthalten":"
+
+msgid "FORM_LABEL_DONT_FORGET_PASSWORD"
+msgstr "Erinnerung: Mach eine Erinnerung für dein passwort und halte es geheim!"
+
+msgid "FORM_HEADER_EMAIL"
+msgstr "Email (Optional):"
+
+msgid "FORM_PREFILL_EMAIL"
+msgstr "Gib deine Email hier an..."
+
+msgid "FORM_WARNING_EMAIL_INVALID"
+msgstr "Die Email ist nicht richtig."
+
+msgid "EMAIL_ADDITION_SUGGESTED"
+msgstr "Die Email ist Optional aber du brauchst es damit wir falls du dein passwort vergisst eine Wiederherstellungs Email schicken können."
+
+msgid "CONFIRM_INFO_CORRECT"
+msgstr "Bitte stell sicher das die Information ist correct."
+
+msgid "NO_PLAINTEXT_PASSWORD_RECOVERY_IF_LOST"
+msgstr "Danach können wir dein Passwort nicht mehr wiederherstellen."
+
+msgid "BUTTON_CHANGE_PASSWORD"
+msgstr "Passort ändern"
+
+msgid "FORM_HEADER_EMAIL_CONFIRM"
+msgstr "Email:"
+
+msgid "BUTTON_CHANGE_EMAIL"
+msgstr "Email Adresse umändern"
+
+msgid "BUTTON_ADD_AN_EMAIL_ADDRESS"
+msgstr "Email adresse hinzufügen"
+
+msgid "BUTTON_SUBMIT"
+msgstr "Einreichen"
+
+msgid "PLEASE_ENTER_PASSWORD_TO_SIGN_IN"
+msgstr "Bitte gib dein Passwort an um dich einzuloggen"
+
+msgid "LOGIN_FORM_PREFILL_PASSWORD"
+msgstr "Passwort eingeben"
+
+msgid "INCORRECT_PASSWORD_ATTEMPTS_FORMAT"
+msgstr "Incorrecte passwörter: %s"
+
+msgid "REGISTRATION_ERROR_BAD_EMAIL"
+msgstr "Die Email die du angegeben ist nicht zulässig."
+
+msgid "REGISTRATION_ERROR_BAD_PASSWORD"
+msgstr "Dieses Passwort ist nicht zulässig."
+
+msgid "ERROR"
+msgstr "Fehler"
+
+msgid "REGISTRATION_ERROR_PASSWORD_ALREADY_SET"
+msgstr "Passwort wurde schon eingestellt."
+
+msgid "NEW_USER_THANKS_FOR_REGISTRATION"
+msgstr "Willkommen in Sudomemo!"
+
+msgid "RETURNING_USER_THANKS_FOR_REGISTRATION"
+msgstr "Willkommen zurück! Danke dass du deine login information einzustellen."
+
+msgid "BUTTON_SIGN_IN_TO_SUDOMEMO"
+msgstr "In Sudomemo einloggen"
+
+msgid "LOGIN_FAILED"
+msgstr "Login fehlgeschlagen."
+
+msgid "LOGIN_FAILED_REOPEN_FLIPNOTE_STUDIO"
+msgstr "Login fehlgeschlagen. Starte Flipnote Studio neu."
+
+msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE1"
+msgstr "Die Flipnote Datei ist beschädigt."
+
+msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE2"
+msgstr "Versuche es erneut zu senden."
+
+msgid "LOGIN_FAILED_BANNED_LINE1"
+msgstr "Du wurdest von Sudomemo gebannt."
+
+msgid "CONTACT_SUPPORT_EMAIL_FORMAT"
+msgstr "Bitte kontaktiere %s."
+
+msgid "CREATORS_ROOM_SHIM_WELCOME"
+msgstr "Willkommen!"
+
+msgid "CREATORS_ROOM_SHIM_PLEASE_LOGIN"
+msgstr "Willkommen zu Sudomemo! Melde dich an um fortzufahren."
