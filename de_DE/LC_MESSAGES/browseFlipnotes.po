@@ -1,0 +1,56 @@
+msgid "SUDOMEMO"
+msgstr "Sudomemo"
+
+msgid "HEADER_FLIPNOTES"
+msgstr "Flipnotes"
+
+msgid "HEADER_NORMAL"
+msgstr "Neueste"
+
+msgid "HEADER_HOT_FLIPNOTES"
+msgstr "Heiße Flipnotes"
+
+msgid "HEADER_MOST_POPULAR"
+msgstr "Beliebteste"
+
+msgid "HEADER_NO_SPINOFFS"
+msgstr "Keine Spinoffs"
+
+msgid "HEADER_ROLEPLAYS"
+msgstr "Rollenspiele"
+
+msgid "HEADER_BROWSE_FLIPNOTES"
+msgstr "Flipnotes durchsuchen"
+
+msgid "HEADER_FEATURED_FLIPNOTES"
+msgstr "Featured Flipnotes"
+
+msgid "HEADER_PAGE"
+msgstr "Seite"
+
+msgid "PAGE"
+msgstr "Seite"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d von %d"
+
+msgid "NEXT"
+msgstr "Weiter"
+
+msgid "PREV"
+msgstr "Zurück"
+
+msgid "POST_FLIPNOTE"
+msgstr "Post Flipnote"
+
+msgid "CATEGORY_recent"
+msgstr "@Neueste Flipnotes"
+
+msgid "CATEGORY_hot"
+msgstr "@Heiße Flipnotes"
+
+msgid "CATEGORY_popular"
+msgstr "@Beliebteste"
+
+msgid "CATEGORY_featured"
+msgstr "@Featured Flipnotes"
