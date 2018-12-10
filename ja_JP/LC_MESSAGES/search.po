@@ -5,7 +5,7 @@ msgid "HEADER_NEXT"
 msgstr "次へ"
 
 msgid "PAGE_FORMAT"
-msgstr "Page %d"
+msgstr "ページ %d"
 
 msgid "SEARCH"
 msgstr "検索"
@@ -20,7 +20,7 @@ msgid "SEARCH_USERNAME"
 msgstr "ユーザー名検索"
 
 msgid "PLEASE_ENTER_USERNAME"
-msgstr "ユーザー名を入力してください..."
+msgstr "ユーザー名を入力してください"
 
 msgid "RESULTS_FOUND_FORMAT_SINGULAR"
 msgstr "\"%2$s\"で%1$d件見つかりました"
