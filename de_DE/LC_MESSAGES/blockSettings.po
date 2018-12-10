@@ -55,5 +55,5 @@ msgstr "Wenn du den Benutzer entblockierst dann musst du 24 Stunden warten um ih
 msgid "CONFIRM_UNBLOCK"
 msgstr "Entblockieren bestätigen"
 
-msgid "RECENTLY_UBNLOCKED_ONE_DAY_THRESHOLD"
+msgid "RECENTLY_UNBLOCKED_ONE_DAY_THRESHOLD"
 msgstr "Du hast diesen Benutzer schon entblockiert. Du musst 24 Stunden warten bis du ihn wieder blockieren kannst."
