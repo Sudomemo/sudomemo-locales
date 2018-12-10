@@ -55,5 +55,5 @@ msgstr "Si vous le débloquez, alors vous devrez attendre 24 heures avant de pou
 msgid "CONFIRM_UNBLOCK"
 msgstr "Confirmer le déblocage"
 
-msgid "RECENTLY_UBNLOCKED_ONE_DAY_THRESHOLD"
+msgid "RECENTLY_UNBLOCKED_ONE_DAY_THRESHOLD"
 msgstr "Vous avez récemment débloqué cet utilisateur. Vous devez attendre 24 heures depuis le moment où vous l'avez débloqué avant de pouvoir le re-bloquer."

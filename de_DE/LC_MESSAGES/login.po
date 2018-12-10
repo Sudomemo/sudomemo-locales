@@ -53,7 +53,7 @@ msgid "FORM_WARNING_PASSWORD_TOO_SHORT"
 msgstr "Bitte gib ein Passwort an das länger als 8 Zeichen sind."
 
 msgid "FORM_WARNING_PASSWORD_DISALLOWED_CHARS"
-msgstr "Dein Passwort kann diese Zeichen nicht enthalten":"
+msgstr "Dein Passwort kann diese Zeichen nicht enthalten:"
 
 msgid "FORM_LABEL_DONT_FORGET_PASSWORD"
 msgstr "Erinnerung: Mach eine Erinnerung für dein passwort und halte es geheim!"

@@ -35,7 +35,7 @@ msgid "REPLY_FAIL_USER_BANNED"
 msgstr "Du wurdest von Sudomemo gebannt."
 
 msgid "DUPLICATE_COMMENT_FAILED"
-msgstr Dieser Kommentar wurde schon auf Sudomemo geposted."
+msgstr "Dieser Kommentar wurde schon auf Sudomemo geposted."
 
 msgid "CHAT_REPLY_FAILED"
 msgstr "Chat Antwort fehlgeschlagen! Versuche es später erneut."
