@@ -30,3 +30,15 @@ msgstr "%1$d Ergebnisse gefunden für \"%2$s\""
 
 msgid "NO_RESULTS_FOUND"
 msgstr "Keine Ergebnisse gefunden"
+
+msgid "SEARCH_SHORT_KEY"
+msgstr "Flipnote ID"
+
+msgid "SHORT_KEY_NO_RESULTS"
+msgstr "No Flipnote found"
+
+msgid "SHORT_KEY_FORMAT_GUIDE"
+msgstr "Not finding what you're looking for? You may have entered the Flipnote ID incorrectly. Flipnote IDs are six digits long and can be found in the details section for the Flipnote."
+
+msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
+msgstr "No result was found, but a similar ID exists. Please note that Flipnote IDs are case-sensitive, and usually all-capital letters and numbers."
