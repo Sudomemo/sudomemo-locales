@@ -1,32 +1,32 @@
 msgid "WATCH_FLIPNOTES"
-msgstr "Toutes les Flipnotes"
+msgstr "@Toutes les Flipnotes"
 
 msgid "CHANNELS"
-msgstr "Chaînes"
+msgstr "@Chaînes"
 
 msgid "CATEGORIES"
 msgstr "Catégories"
 
 msgid "FEATURED"
-msgstr "En vedette"
+msgstr "@En vedette"
 
 msgid "HOT_FLIPNOTES"
-msgstr "Meilleures Flipnotes"
+msgstr "@Meilleures Flipnotes"
 
 msgid "ABOUT_SUDOMEMO"
-msgstr "À propos de Sudomemo"
+msgstr "@À propos de Sudomemo"
 
 msgid "CREATORS_ROOM"
-msgstr "Salle de créateur"
+msgstr "@Salle de créateur"
 
 msgid "NEWS"
-msgstr "Infos de Sudomemo"
+msgstr "@Infos de Sudomemo"
 
 msgid "CHATROOMS"
-msgstr "Chat (discussion)"
+msgstr "@Chat (discussion)"
 
 msgid "SEARCH"
-msgstr "Recherche"
+msgstr "@Recherche"
 
 msgid "SEARCH_USER"
 msgstr "Recherche d'utilisateur"
@@ -56,5 +56,5 @@ msgid "TEST_TRANSLATION"
 msgstr "Traduction en Anglais"
 
 msgid "HELP"
-msgstr "Aide"
+msgstr "@Aide"
 
