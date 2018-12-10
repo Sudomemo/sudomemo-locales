@@ -1,11 +1,11 @@
 msgid "THEME_SHOP_LOGIN_REQUIRED"
-msgstr "Necesitas iniciar sesiòn para acceder a la Tienda de temas"
+msgstr "Necesitas iniciar sesión para acceder a la Tienda de temas"
 
 msgid "THEME_SHOP_MAINPAGE_HEADER"
 msgstr "Aqui en la tienda de temas puedes comprar nuevos temas para tu Sala de Creador!"
 
 msgid "THEME_SHOP_LEARN_MORE_HEADER"
-msgstr "Ver màs acerca de la Tienda de temas"
+msgstr "Ver más acerca de la Tienda de temas"
 
 msgid "THEME_SHOP_REPORT_ISSUES_HEADER"
 msgstr "Presiona este enlace para reportar un tema que no esta funcionando correctamente."
@@ -38,7 +38,7 @@ msgid "CREATOR"
 msgstr "Creador"
 
 msgid "DESCRIPTION"
-msgstr "Descripciòn"
+msgstr "Descripción"
 
 msgid "YOU_HAVE"
 msgstr "Tus estrellas de color:"
@@ -56,7 +56,7 @@ msgid "CREATORS_ROOM"
 msgstr "Sala de Creador"
 
 msgid "SHOP_MENU"
-msgstr "Menu de la Tienda"
+msgstr "Menú de la Tienda"
 
 msgid "NO_DESCRIPTION_AVAILABLE"
 msgstr "Ninguno"
@@ -86,10 +86,10 @@ msgid "THEME_SHOP_CONFIRM_PURCHASE_BELOW"
 msgstr "Por favor confirma tu compra debajo."
 
 msgid "THEME_SHOP_STARS_LEFT_AFTER_PAYMENT"
-msgstr "Estrellas de Color restantes despuès de la compra:"
+msgstr "Estrellas de Color restantes después de la compra:"
 
 msgid "THEME_SHOP_POST_PURCHASE"
-msgstr "Tu compra ha sido exitòsamente hecha! Ve a la secciòn de \"Mis temas\" en tu Sala de Creador para usarlo!"
+msgstr "Tu compra ha sido exitósamente hecha! Ve a la sección de \"Mis temas\" en tu Sala de Creador para usarlo!"
 
 msgid "NAVIGATION_PREVIOUS"
 msgstr "Prev"

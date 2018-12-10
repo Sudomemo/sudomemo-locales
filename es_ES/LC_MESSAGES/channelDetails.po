@@ -23,7 +23,7 @@ msgid "FLIPNOTE_POST_FAILED"
 msgstr "Ha ocurrido un error al publicar esta Flipnote. intenta de nuevo en unos momentos."
 
 msgid "DUPLICATE_FLIPNOTE_FAILED"
-msgstr "Esta flinote ya ha sido publicada. intenta editarla de nuevo."
+msgstr "Esta flipnote ya ha sido publicada. intenta editarla de nuevo."
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
 msgstr "Los datos de esta Flipnote estan corruptos, intenta de nuevo en unos momentos."
@@ -32,4 +32,4 @@ msgid "NO_BLANK_FLIPNOTES_ALLOWED"
 msgstr "No debe publicar una Flipnote Vacía."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Please confirm your email before posting."
+msgstr "Por favor, confirma tu correo antes de publicar."

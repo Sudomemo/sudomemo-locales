@@ -11,13 +11,13 @@ msgid "FLIPNOTE"
 msgstr "Flipnote"
 
 msgid "YOU_ARE_REPORTING_THIS_FORMAT"
-msgstr "Estàs reportando esto %s:"
+msgstr "Estás reportando esto %s:"
 
 msgid "USER_HAS_ALREADY_REPORTED_FORMAT"
 msgstr "Has enviado un reporte de esto %s."
 
 msgid "HEADER_VIOLATION_CATEGORY"
-msgstr "Categorìa de Violaciòn:"
+msgstr "Categoría de Violaciòn:"
 
 msgid "FLIPNOTE_TITLE_FORMAT"
 msgstr "Flipnote de %s"
@@ -29,19 +29,19 @@ msgid "NOTICE_REPORT_OTHER_ISSUES"
 msgstr "Este punto es para reportar. Pare reportar la conducta de un usuario, u otro problema, por favor manda un email a nuestro soporte:"
 
 msgid "REPORT_INSTRUCTIONS"
-msgstr "Por favor escribe una breve descripciòn de porque crees que este esta violando los Tèrminos de Uso de Sudomemo. Una vez enviado, presiona de nuevo para regresar a la Flipnote."
+msgstr "Por favor escribe una breve descripción de porque crees que este esta violando los Términos de Uso de Sudomemo. Una vez enviado, presiona de nuevo para regresar a la Flipnote."
 
 msgid "NO_BLANK_REPORTS"
-msgstr "No puedes publicar un reporte vacìo."
+msgstr "No puedes publicar un reporte vacío."
 
 msgid "LIMIT_ONE_REPORT"
 msgstr "Por favor toma en cuenta: Solo puedes reportar este contenido una vez. Reportes adicionales no seràn registrados, asi que pon toda la informaciòn en un solo comentario."
 
 msgid "REPORT_EXPLANATION_FAILED"
-msgstr "Un error ha ocurrido mientras se enviava el reporte."
+msgstr "Un error ha ocurrido mientras se enviaba el reporte."
 
 msgid "RESTRICTED_CANCEL"
-msgstr "No podràs reportar este contenido una vez que tus interacciones hayan sido restringidas de Sudomemo."
+msgstr "No podrás reportar este contenido una vez que tus interacciones hayan sido restringidas de Sudomemo."
 
 msgid "HEADER_REASON"
 msgstr "Razón:"
@@ -59,4 +59,4 @@ msgid "DUPLICATE_COMMENT_FAILED"
 msgstr "Este comentario ya ha sido pubicado en Sudomemo."
 
 msgid "CONFIRM_EMAIL_BEFORE_REPORTING"
-msgstr "Please confirm your email before reporting content."
+msgstr "Por favor, confirma tu correo antes de publicar."

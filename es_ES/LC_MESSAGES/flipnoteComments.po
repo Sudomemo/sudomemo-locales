@@ -14,13 +14,13 @@ msgid "HEADER_REFRESH"
 msgstr "Actualizar"
 
 msgid "PAGE_FORMAT"
-msgstr "Pàgina %d"
+msgstr "Página %d"
 
 msgid "NO_COMMENTS_YET"
-msgstr "Esta Flipnote aùn no tiene comentarios."
+msgstr "Esta Flipnote aún no tiene comentarios."
 
 msgid "LOGIN_REQUIRED_TO_POST_COMMENT"
-msgstr "Debes haber iniciado sesiòn para publicar un comentario."
+msgstr "Debes haber iniciado sesión para publicar un comentario."
 
 msgid "COMMENT_POST_FAILED"
 msgstr "Ha ocurrido un error al publicar el comentario. intenta de nuevo en otro momento."
@@ -41,7 +41,7 @@ msgid "DUPLICATE_COMMENT_FAILED"
 msgstr "Este comentario ya ha sido publicado en Sudomemo."
 
 msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "Tu interacciòn ha sido restringido de Sudomemo."
+msgstr "Tu interacción ha sido restringido de Sudomemo."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Please confirm your email before posting."
+msgstr "Por favor, confirma tu correo antes de publicar."
