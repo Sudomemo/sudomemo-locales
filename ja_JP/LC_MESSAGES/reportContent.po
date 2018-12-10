@@ -26,7 +26,7 @@ msgid "CREATOR_FORMAT"
 msgstr "作者: %s"
 
 msgid "NOTICE_REPORT_OTHER_ISSUES"
-msgstr "このフォームは、ユーザーのコンテンツを報告するためのものです。 ユーザーの行動やその他の問題やリクエストを報告するには、サポートチームにメールを送信してください:"
+msgstr "このフォームは、ユーザーのコンテンツを報告するためのものです。 ユーザーの行動やその他の問題やリクエストを報告するには、サポートチームにメールを送信してください。"
 
 msgid "REPORT_INSTRUCTIONS"
 msgstr "このコンテンツがSudomemoの利用規約に違反していると思われる簡単な理由を記入してください。 提出したら、Backをタップして作品に戻ります。"
@@ -35,7 +35,7 @@ msgid "NO_BLANK_REPORTS"
 msgstr "空白のレポートを投稿することはできません。"
 
 msgid "LIMIT_ONE_REPORT"
-msgstr "注意:このコンテンツは1度だけ報告することができます。 追加の報告出来ませんので、あなたの情報をコメントに入れてください。"
+msgstr "注意:このコンテンツは1度だけ報告することができます。 追加の報告は出来ませんので、あなたの情報をコメントに入れてください。"
 
 msgid "REPORT_EXPLANATION_FAILED"
 msgstr "レポートの送信中にエラーが発生しました。"
@@ -59,4 +59,4 @@ msgid "DUPLICATE_COMMENT_FAILED"
 msgstr "このコメントは既にSudomemoに投稿されています。"
 
 msgid "CONFIRM_EMAIL_BEFORE_REPORTING"
-msgstr "Please confirm your email before reporting content."
+msgstr "報告の前にメールアドレスの確認をしてください。"
