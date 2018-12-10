@@ -59,13 +59,13 @@ msgid "ADMIN_ACCT_BLOCKED"
 msgstr "Bloqueado"
 
 msgid "ADMIN_ACCT_MUTED"
-msgstr "Muteado"
+msgstr "Silenciado"
 
 msgid "ADMIN_USER_DETAILS"
 msgstr "Detalles de usuario"
 
 msgid "ADMIN_LAST_SEEN"
-msgstr "Ultima vez visto"
+msgstr "Última vez visto"
 
 msgid "ADMIN_USER_STATUS"
 msgstr "Estado de Usuario"
@@ -131,7 +131,7 @@ msgid "THEMETEST_INACTIVE_TAB"
 msgstr "Pestaña inactiva"
 
 msgid "PREVIEW"
-msgstr "Avance"
+msgstr "Vista Previa"
 
 msgid "CREATORS_ROOM"
 msgstr "Sala de Creador"
@@ -152,5 +152,5 @@ msgid "FAN_COUNT_FORMAT"
 msgstr "Fans: %s"
 
 msgid "HEADER_LANGUAGE"
-msgstr "Language"
+msgstr "Lenguaje"
 
