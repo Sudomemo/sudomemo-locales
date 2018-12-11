@@ -68,17 +68,17 @@ msgid "STAR_DETAILS_UPPERTITLE"
 msgstr "★ Étoiles ★"
 
 msgid "SET_TITLE"
-msgstr "Set Title"
+msgstr "Mettre un titre"
 
 msgid "SET_TITLE_INSTRUCTIONS"
-msgstr "Enter the new title for your Flipnote below."
+msgstr "Entrez le nouveau titre de votre Flipnote ci-dessous."
 
 msgid "40_CHARACTER_LIMIT"
-msgstr "Your title is limited to 40 characters in length."
+msgstr "Votre titre ne peut pas avoir plus de 40 caractères."
 
 msgid "LEAVE_BLANK_TO_RESET"
-msgstr "To reset the title to default, leave the form blank when submitting."
+msgstr "Pour remttre le titre par défaut, laissez le formulaire vide lorsque vous l'envoyez."
 
 msgid "ENTER_TITLE"
-msgstr "Enter title..."
+msgstr "Entrez un titre..."
 
