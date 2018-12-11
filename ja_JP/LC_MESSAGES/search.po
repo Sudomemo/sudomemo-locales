@@ -5,7 +5,7 @@ msgid "HEADER_NEXT"
 msgstr "次へ"
 
 msgid "PAGE_FORMAT"
-msgstr "Page %d"
+msgstr "ページ %d"
 
 msgid "SEARCH"
 msgstr "検索"
@@ -20,7 +20,7 @@ msgid "SEARCH_USERNAME"
 msgstr "ユーザー名検索"
 
 msgid "PLEASE_ENTER_USERNAME"
-msgstr "ユーザー名を入力してください..."
+msgstr "ユーザー名を入力してください"
 
 msgid "RESULTS_FOUND_FORMAT_SINGULAR"
 msgstr "\"%2$s\"で%1$d件見つかりました"
@@ -30,3 +30,16 @@ msgstr "\"%2$s\"で%1$d件見つかりました"
 
 msgid "NO_RESULTS_FOUND"
 msgstr "結果が見つかりませんでした"
+
+msgid "SEARCH_SHORT_KEY"
+msgstr "Flipnote ID"
+
+msgid "SHORT_KEY_NO_RESULTS"
+msgstr "No Flipnote found"
+
+msgid "SHORT_KEY_FORMAT_GUIDE"
+msgstr "Not finding what you're looking for? You may have entered the Flipnote ID incorrectly. Flipnote IDs are six digits long and can be found in the details section for the Flipnote."
+
+msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
+msgstr "No result was found, but a similar ID exists. Please note that Flipnote IDs are case-sensitive, and usually all-capital letters and numbers."
+

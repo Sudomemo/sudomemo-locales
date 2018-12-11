@@ -1,0 +1,47 @@
+msgid "NO_COMMENTS_YET"
+msgstr "Es gibt hier keine Nachrichten."
+
+msgid "HEADER_DIRECT_MESSAGES"
+msgstr "Direkt Nachrichten"
+
+msgid "HEADER_CONVERSATION_ID"
+msgstr "Konversations ID"
+
+msgid "HEADER_PARTICIPANTS"
+msgstr "Teilnehmer"
+
+msgid "HEADER_UNREAD_COUNT"
+msgstr "Nicht gelesen"
+
+msgid "TAP_ON_CONVERSATION_ID_TO_JOIN_CHAT"
+msgstr "Tippe auf einer Konversations ID um den chat beizutreten."
+
+msgid "HEADER_NEXT"
+msgstr "Weiter"
+
+msgid "HEADER_PREV"
+msgstr "Zurück"
+
+msgid "PAGE_FORMAT"
+msgstr "Seite %d"
+
+msgid "HEADER_REFRESH"
+msgstr "Neu laden"
+
+msgid "LOGIN_REQUIRED_TO_REPLY"
+msgstr "Du must eingeloggt sein um dieser Konversation zu antworten."
+
+msgid "REPLY_FAIL_USER_BANNED"
+msgstr "Du wurdest von Sudomemo gebannt."
+
+msgid "DUPLICATE_COMMENT_FAILED"
+msgstr "Dieser Kommentar wurde schon auf Sudomemo geposted."
+
+msgid "CHAT_REPLY_FAILED"
+msgstr "Chat Antwort fehlgeschlagen! Versuche es später erneut."
+
+msgid "NO_BLANK_MESSAGES_ALLOWED"
+msgstr "Du kannst keine leere Nachricht versenden."
+
+msgid "FLIPNOTE_DATA_CORRUPTED"
+msgstr "Die Flipnote Dateiist beschädigt! Versuche es später erneut."

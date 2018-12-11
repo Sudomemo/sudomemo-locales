@@ -17,7 +17,7 @@ msgid "HEADER_ORIGINAL_FLIPNOTE"
 msgstr "Vista del recurso aqui."
 
 msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
-msgstr "Para prevenir la sùplica de estrellas, las estrellas amarillas estan limitadas a diez por Flipnote."
+msgstr "Para prevenir la súplica de estrellas, las estrellas amarillas estan limitadas a diez por Flipnote."
 
 msgid "HEADER_CREATOR"
 msgstr "Creador"
@@ -35,7 +35,7 @@ msgid "HEADER_DOWNLOADS"
 msgstr "Descargas"
 
 msgid "HEADER_TITLE"
-msgstr "Tìtulo"
+msgstr "Título"
 
 msgid "HEADER_POSTED"
 msgstr "Publicado"
@@ -66,3 +66,19 @@ msgstr "Siguiente"
 
 msgid "STAR_DETAILS_UPPERTITLE"
 msgstr "★ Estrellas ★"
+
+msgid "SET_TITLE"
+msgstr "Set Title"
+
+msgid "SET_TITLE_INSTRUCTIONS"
+msgstr "Enter the new title for your Flipnote below."
+
+msgid "40_CHARACTER_LIMIT"
+msgstr "Your title is limited to 40 characters in length."
+
+msgid "LEAVE_BLANK_TO_RESET"
+msgstr "To reset the title to default, leave the form blank when submitting."
+
+msgid "ENTER_TITLE"
+msgstr "Enter title..."
+

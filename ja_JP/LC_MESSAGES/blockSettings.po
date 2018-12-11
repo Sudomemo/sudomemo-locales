@@ -32,10 +32,10 @@ msgid "UNBLOCK"
 msgstr "ブロック解除"
 
 msgid "LOGIN_REQUIRED"
-msgstr "この操作を実行するには、ログインする必要があります。"
+msgstr "この操作を実行するには、ログインをする必要があります。"
 
 msgid "TAP_BACK_TO_RETURN"
-msgstr "[戻る]をタップしてマイルームに戻ります。"
+msgstr "[戻る]をタッチしてマイルームに戻ります。"
 
 msgid "UNBLOCK_USER"
 msgstr "ブロックが解除されたユーザー"
@@ -55,5 +55,5 @@ msgstr "ブロックを解除する場合は、再度ブロックするまでに
 msgid "CONFIRM_UNBLOCK"
 msgstr "ブロック解除の確認"
 
-msgid "RECENTLY_UBNLOCKED_ONE_DAY_THRESHOLD"
-msgstr "あなたは最近このユーザーのブロックを解除しました。 ブロックをし直すまでには、一日待つ必要があります。"
+msgid "RECENTLY_UNBLOCKED_ONE_DAY_THRESHOLD"
+msgstr "あなたは最近このユーザーのブロックを解除しました。 再度ブロックするには、一日待つ必要があります。"

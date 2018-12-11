@@ -68,10 +68,10 @@ msgid "THEME_SHOP_SELECTED_PAYMENT"
 msgstr "選択したお支払方法"
 
 msgid "THEME_SHOP_STAR_BALANCE_TOO_LOW"
-msgstr "申し訳ありませんが、このテーマのためのグリーンスターが足りていません"
+msgstr "このテーマを購入するグリーンスターが足りません"
 
 msgid "THEME_SHOP_CHOOSE_CAREFULLY_BEFORE_BUYING"
-msgstr "すべての購入は永久的です、購入する前に慎重に選択してください！"
+msgstr "購入する際は慎重に選択してください"
 
 msgid "THEME_SHOP_YOU_OWN_THIS_THEME"
 msgstr "あなたはすでにこのテーマを所有しています。"

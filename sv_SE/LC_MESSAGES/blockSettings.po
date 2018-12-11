@@ -55,5 +55,5 @@ msgstr "Om du avblockerar dem måste du vänta 24 timmar innan du kan blockera d
 msgid "CONFIRM_UNBLOCK"
 msgstr "Bekräfta avblockering"
 
-msgid "RECENTLY_UBNLOCKED_ONE_DAY_THRESHOLD"
+msgid "RECENTLY_UNBLOCKED_ONE_DAY_THRESHOLD"
 msgstr "Du har nyligen avblockerat användaren. Du måste vänta 24 timmar från att du avblockerade dem innan du kan blockera dem igen."

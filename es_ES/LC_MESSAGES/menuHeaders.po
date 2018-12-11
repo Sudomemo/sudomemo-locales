@@ -38,10 +38,10 @@ msgid "RELOAD_USER"
 msgstr "Recargar usuario"
 
 msgid "LOGIN"
-msgstr "Iniciar Sesiòn"
+msgstr "Iniciar Sesión"
 
 msgid "LOGOUT"
-msgstr "Cerrar Sesiòn"
+msgstr "Cerrar Sesión"
 
 msgid "REGISTER"
 msgstr "Registrarse"
@@ -53,7 +53,7 @@ msgid "MAIL"
 msgstr "Correo"
 
 msgid "TEST_TRANSLATION"
-msgstr "Traducciòn de Inglès"
+msgstr "Traducción de Inglés"
 
 msgid "HELP"
 msgstr "Ayuda"

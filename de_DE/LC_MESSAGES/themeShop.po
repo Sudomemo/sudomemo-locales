@@ -1,0 +1,101 @@
+msgid "THEME_SHOP_LOGIN_REQUIRED"
+msgstr "Du musst eingeloggt sein um den Theme Shop zu benutzen"
+
+msgid "THEME_SHOP_MAINPAGE_HEADER"
+msgstr "Hier im Theme Shop kannst du neue Designs für dein Creator's Room kaufen!"
+
+msgid "THEME_SHOP_LEARN_MORE_HEADER"
+msgstr "Lerne mehr über den Theme Shop"
+
+msgid "THEME_SHOP_REPORT_ISSUES_HEADER"
+msgstr "Tippe auf diesen Link um ein Desing zu melden was nicht richtig funktioniert."
+
+msgid "THEME_SHOP_MAINPAGE_EXCHANGE_COST_FORMAT"
+msgstr "Tauschen für %d Grüne Sterne"
+
+msgid "THEME_SHOP_MAINPAGE_FREE_STARTER_THEMES"
+msgstr "Kostenlos Starter Designs"
+
+msgid "CONGRATULATIONS"
+msgstr "Glückwunsch!"
+
+msgid "SEE_MORE"
+msgstr "Mehr sehen"
+
+msgid "PREVIEW"
+msgstr "Vorschau"
+
+msgid "BUY"
+msgstr "Kaufen"
+
+msgid "THEME"
+msgstr "Design"
+
+msgid "PRICE"
+msgstr "Preis"
+
+msgid "CREATOR"
+msgstr "Creator"
+
+msgid "DESCRIPTION"
+msgstr "Description"
+
+msgid "YOU_HAVE"
+msgstr "Deine Farb-Sterne:"
+
+msgid "USERNAME"
+msgstr "Benutzername"
+
+msgid "CANCEL"
+msgstr "Abbrechen"
+
+msgid "CONFIRM"
+msgstr "Bestätigen"
+
+msgid "CREATORS_ROOM"
+msgstr "Creator's Room"
+
+msgid "SHOP_MENU"
+msgstr "Shop Menü"
+
+msgid "NO_DESCRIPTION_AVAILABLE"
+msgstr "Kein"
+
+msgid "THEME_SHOP_SELECT_PAYMENT"
+msgstr "Zahlung auswählen"
+
+msgid "THEME_SHOP_SELECTED_PAYMENT"
+msgstr "Ausgewählte Zahlung"
+
+msgid "THEME_SHOP_STAR_BALANCE_TOO_LOW"
+msgstr "Sorry, Du hast nicht genug Grüne Sterne für dieses Design."
+
+msgid "THEME_SHOP_CHOOSE_CAREFULLY_BEFORE_BUYING"
+msgstr "Alle Käufe sind permanent, also sei vorsichtig beim Kaufen!"
+
+msgid "THEME_SHOP_YOU_OWN_THIS_THEME"
+msgstr "Dir gehört schon dieses Design."
+
+msgid "THEME_SHOP_PUBLIC_THEME"
+msgstr "Jeder Benutzer hat kostenlos zugriff auf dieses Design."
+
+msgid "THEME_SHOP_OWNED_THEME_TRANSACTION_FORMAT"
+msgstr "Du hast das Design auf %s für %d Grüne Sterne."
+
+msgid "THEME_SHOP_CONFIRM_PURCHASE_BELOW"
+msgstr "Bitte bestätige dein Einkauf."
+
+msgid "THEME_SHOP_STARS_LEFT_AFTER_PAYMENT"
+msgstr "Nach kauf verfügbare Farb-Sterne:"
+
+msgid "THEME_SHOP_POST_PURCHASE"
+msgstr "Dein Einkauf war erfolgreich! Geh zu \"My Themes\"  in deinem Creators room um es auszuwählen!"
+
+msgid "NAVIGATION_PREVIOUS"
+msgstr "Zurück"
+
+msgid "NAVIGATION_NEXT"
+msgstr "Weiter"
+
+msgid "THEME_SHOP_SAMPLE_PROFILE"
+msgstr "Profil-Probe"

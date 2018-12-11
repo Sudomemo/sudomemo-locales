@@ -32,4 +32,4 @@ msgid "NO_BLANK_FLIPNOTES_ALLOWED"
 msgstr "何も描かれていない作品を投稿することはできません。"
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Please confirm your email before posting."
+msgstr "投稿する前にメールアドレスを確認してください。"
