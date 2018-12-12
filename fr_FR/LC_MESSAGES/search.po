@@ -11,13 +11,13 @@ msgid "SEARCH"
 msgstr "Rechercher"
 
 msgid "USERNAME"
-msgstr "@Nom d'utilisateur"
+msgstr "Nom d'utilisateur"
 
 msgid "RESULTS"
 msgstr "Résultats"
 
 msgid "SEARCH_USERNAME"
-msgstr "Rechercher un nom d'utilisateur"
+msgstr "@Rechercher un nom"
 
 msgid "PLEASE_ENTER_USERNAME"
 msgstr "Entrez un nom d'utilisateur..."
