@@ -35,11 +35,10 @@ msgid "SEARCH_SHORT_KEY"
 msgstr "Flipnote ID"
 
 msgid "SHORT_KEY_NO_RESULTS"
-msgstr "No Flipnote found"
+msgstr "Geen Flipnote gevonden"
 
 msgid "SHORT_KEY_FORMAT_GUIDE"
-msgstr "Not finding what you're looking for? You may have entered the Flipnote ID incorrectly. Flipnote IDs are six digits long and can be found in the details section for the Flipnote."
+msgstr "Vindt je niet waar je naar zoekt? Het kan zijn dat je de Flipnote ID verkeerd hebt ingevuld. Flipnote ID's zijn zes nummers lang en kunnen gevonden worden in het Details gedeelte van de Flipnote."
 
 msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
-msgstr "No result was found, but a similar ID exists. Please note that Flipnote IDs are case-sensitive, and usually all-capital letters and numbers."
-
+msgstr "Er is geen resultaat gevonden, maar een soortgelijke ID bestaat. Houd er rekening mee dat Flipnote ID's hoofdlettergevoelig zijn, en meestal alleen hoofdletters en nummers bevatten."

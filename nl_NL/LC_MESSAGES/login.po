@@ -239,5 +239,4 @@ msgid "BUTTON_EDIT_EMAIL_ADDRESS"
 msgstr "Verander Email Adres"
 
 msgid "SEARCH_FOR_SENDER_EMAIL_FORMAT"
-msgstr "Haven't received the email? Check your Spam box, and search for %s. If you find that it was marked spam, please ensure you first mark it Not Spam."
-
+msgstr "Geen email ontvangen? Check je Spam box, en zoek voor %s. Als het blijkt dat het gemarkeert is als span, zorg er voor dat je het markeert als Geen Spam."
