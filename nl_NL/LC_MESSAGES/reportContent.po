@@ -26,7 +26,7 @@ msgid "CREATOR_FORMAT"
 msgstr "Maker: %s"
 
 msgid "NOTICE_REPORT_OTHER_ISSUES"
-msgstr "Deze formulier is alleen om inhoud te rapporteren. Om het gedrag van een gebruiker te rapporteren, of voor andere problemen en verzoeken, stuur ons ondersteunings team alsjeblieft een email:"
+msgstr "Deze formulier is alleen om inhoud te rapporteren. Om het gedrag van een gebruiker te rapporteren, of voor andere problemen en verzoeken, stuur ons ondersteunings team alsjeblieft een e-mail:"
 
 msgid "REPORT_INSTRUCTIONS"
 msgstr "Schrijf alsjeblieft een korte beschrijving over waarom jij vindt dat is in strijd is met de Sudomemo Gebruiksvoorwaarden. Als het verstuurd is, druk op terug om terug te gaan naar de Flipnote."
@@ -59,4 +59,4 @@ msgid "DUPLICATE_COMMENT_FAILED"
 msgstr "Dit stuk commentaar is al eens geplaatst op Sudomemo."
 
 msgid "CONFIRM_EMAIL_BEFORE_REPORTING"
-msgstr "Bevestig alsjeblieft je email-adres voor je iets rapporteert."
+msgstr "Bevestig alsjeblieft je e-mailadres voor je iets rapporteert."
