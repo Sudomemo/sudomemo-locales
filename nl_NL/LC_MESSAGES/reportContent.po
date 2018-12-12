@@ -11,7 +11,7 @@ msgid "FLIPNOTE"
 msgstr "Flipnote"
 
 msgid "YOU_ARE_REPORTING_THIS_FORMAT"
-msgstr "Je bent deze %s aan het rapporteren:"
+msgstr "Je bent deze/dit (stuk) %s aan het rapporteren:"
 
 msgid "USER_HAS_ALREADY_REPORTED_FORMAT"
 msgstr "Je hebt deze %s al eens gerapporteerd."

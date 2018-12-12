@@ -71,7 +71,7 @@ msgid "EMAIL_ADDITION_SUGGESTED"
 msgstr "Een e-mailadres is optioneel, maar aanbevolen. Als je je wachtwoord ooit vergeet, sturen we een wachtwoord herstel link naar je e-mailadres."
 
 msgid "EMAIL_ADDITION_DETAILS"
-msgstr "If you ever forget your password, we will send a password reset link to your email address."
+msgstr "Als je ooit je wachtwoord vergeet, zullen we een wachtwoord herstel link naar je e-mailadres sturen."
 
 msgid "CONFIRM_INFO_CORRECT"
 msgstr "Controleer alsjeblieft of de onderstaande informatie correct is."
@@ -203,7 +203,7 @@ msgid "BUTTON_RESEND_VERIFICATION_EMAIL"
 msgstr "Herstuur Verificatie E-mail"
 
 msgid "NOT_RECEIVING_HELP_FORMAT"
-msgstr "Not receiving the email? You can reach out to us on the Sudomemo Discord or via %s."
+msgstr "Ontvang je de e-mail niet? Je kan ons bereiken op de Sudomemo Discord of via %s."
 
 msgid "HEADER_VERIFY_EMAIL"
 msgstr "Verifieer E-mail"
