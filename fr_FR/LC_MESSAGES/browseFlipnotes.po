@@ -44,13 +44,13 @@ msgid "POST_FLIPNOTE"
 msgstr "Poster une Flipnote"
 
 msgid "CATEGORY_recent"
-msgstr "Flipnotes récentes"
+msgstr "@Flipnotes récentes"
 
 msgid "CATEGORY_hot"
-msgstr "Flipnotes tendances"
+msgstr "@Flipnotes tendances"
 
 msgid "CATEGORY_popular"
-msgstr "Les plus populaires"
+msgstr "@Les plus populaires"
 
 msgid "CATEGORY_featured"
-msgstr "Flipnotes recommendées"
+msgstr "@Flipnotes recommendées"
