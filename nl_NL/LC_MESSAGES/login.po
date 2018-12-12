@@ -59,16 +59,16 @@ msgid "FORM_LABEL_DONT_FORGET_PASSWORD"
 msgstr "Vergeet je wachtwoord niet, en houdt hem veilig!"
 
 msgid "FORM_HEADER_EMAIL"
-msgstr "Email:"
+msgstr "E-mailadres:"
 
 msgid "FORM_PREFILL_EMAIL"
-msgstr "Vul je email hier in..."
+msgstr "Vul je hier je e-mailadres in..."
 
 msgid "FORM_WARNING_EMAIL_INVALID"
-msgstr "De email adres die je hebt ingevuld is niet geldig."
+msgstr "De e-mailadres die je hebt ingevuld is niet geldig."
 
 msgid "EMAIL_ADDITION_SUGGESTED"
-msgstr "Email is optioneel, maar aanbevolen. Als je je wachtwoord ooit vergeet, sturen we een wachtwoord herstel link naar je email adres."
+msgstr "Een e-mailadres is optioneel, maar aanbevolen. Als je je wachtwoord ooit vergeet, sturen we een wachtwoord herstel link naar je e-mailadres."
 
 msgid "EMAIL_ADDITION_DETAILS"
 msgstr "If you ever forget your password, we will send a password reset link to your email address."
@@ -83,13 +83,13 @@ msgid "BUTTON_CHANGE_PASSWORD"
 msgstr "Verander wachtwoord"
 
 msgid "FORM_HEADER_EMAIL_CONFIRM"
-msgstr "Email:"
+msgstr "E-mailadres:"
 
 msgid "BUTTON_CHANGE_EMAIL"
-msgstr "Verander email adres"
+msgstr "Verander e-mailadres"
 
 msgid "BUTTON_ADD_AN_EMAIL_ADDRESS"
-msgstr "Voeg een email adres toe"
+msgstr "Voeg een e-mailadres toe"
 
 msgid "BUTTON_SUBMIT"
 msgstr "Verzend"
@@ -104,7 +104,7 @@ msgid "INCORRECT_PASSWORD_ATTEMPTS_FORMAT"
 msgstr "Aantal keer fout wachtwoord ingevuld: %s"
 
 msgid "REGISTRATION_ERROR_BAD_EMAIL"
-msgstr "Het ingevulde email adres is niet toegestaan."
+msgstr "Het ingevulde e-mailadres is niet toegestaan."
 
 msgid "REGISTRATION_ERROR_BAD_PASSWORD"
 msgstr "Het ingevulde wachtwoord is niet toegestaan."
@@ -173,43 +173,43 @@ msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
 msgstr "Als je hulp nodig hebt met verbinden, voel je vrij om het ons te vragen in onze Discord! Je kan joinen via %s."
 
 msgid "BAN_NOTICE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
-msgstr "Neem alsjeblieft contact met ons op via de Discord of om te emailen naar %s."
+msgstr "Neem alsjeblieft contact met ons op via de Discord of door te e-mailen naar %s."
 
 msgid "FORGOT_PASSWORD_LINK"
 msgstr "Wachtwoord vergeten?"
 
 msgid "EMAIL_IS_DUPLICATE"
-msgstr "Deze email adres is al in gebeuik."
+msgstr "Deze e-mailadres is al in gebruik."
 
 msgid "EMAIL_CONFIRMATION_SENT_FORMAT"
-msgstr "Een verificatie email is verstuurd naar %s. Controleer je inbox alsjeblieft na een paar minuten."
+msgstr "Een verificatie e-mail is verstuurd naar %s. Controleer je inbox alsjeblieft na een paar minuten."
 
 msgid "BUTTON_CHECK_VERIFICATION"
 msgstr "Contoleer Verificatie Status"
 
 msgid "EMAIL_NOT_YET_VERIFIED"
-msgstr "Je email adres is nog niet geverifieerd."
+msgstr "Je e-mailadres is nog niet geverifieerd."
 
 msgid "EMAIL_VERIFIED"
-msgstr "Bedankt voor het verifieren van jouw email adres!"
+msgstr "Bedankt voor het verifiëren van jouw e-mailadres!"
 
 msgid "EMAIL_REQUIRES_UPDATE"
-msgstr "Je email adres moet geupdate worden."
+msgstr "Je e-mailadres moet geupdate worden."
 
 msgid "VERIFICATION_NEEDED"
-msgstr "We moeten je email adres verifieren."
+msgstr "We moeten je e-mailadres verifieren."
 
 msgid "BUTTON_RESEND_VERIFICATION_EMAIL"
-msgstr "Herstuur Verificatie Email"
+msgstr "Herstuur Verificatie E-mail"
 
 msgid "NOT_RECEIVING_HELP_FORMAT"
 msgstr "Not receiving the email? You can reach out to us on the Sudomemo Discord or via %s."
 
 msgid "HEADER_VERIFY_EMAIL"
-msgstr "Verifieer Email"
+msgstr "Verifieer E-mail"
 
 msgid "VERIFICATION_LIMIT_EXCEEDED_FORMAT"
-msgstr "Je hebt de maximaal aantal verificatie emails overschreden. Neem alsjeblieft contact op met ondersteuning via %s of via Discord."
+msgstr "Je hebt het maximaal aantal verificatie e-mails bereikt. Neem alsjeblieft contact op met ondersteuning via %s of via Discord."
 
 msgid "WEB_HEADER_SUCCESS"
 msgstr "Succesvol!"
@@ -230,13 +230,13 @@ msgid "HEADER_UPDATE_EMAIL"
 msgstr "Update Email"
 
 msgid "THANK_YOU_FOR_UPDATING_EMAIL"
-msgstr "Bedankt voor het updaten van jouw email!"
+msgstr "Bedankt voor het updaten van jouw e-mailadres!"
 
 msgid "BUTTON_CONTINUE"
 msgstr "Ga door"
 
 msgid "BUTTON_EDIT_EMAIL_ADDRESS"
-msgstr "Verander Email Adres"
+msgstr "Verander E-mailadres"
 
 msgid "SEARCH_FOR_SENDER_EMAIL_FORMAT"
-msgstr "Geen email ontvangen? Check je Spam box, en zoek voor %s. Als het blijkt dat het gemarkeert is als span, zorg er voor dat je het markeert als Geen Spam."
+msgstr "Geen e-mail ontvangen? Check je Spam box, en zoek voor %s. Als het blijkt dat het gemarkeert is als span, zorg er voor dat je het markeert als Geen Spam."
