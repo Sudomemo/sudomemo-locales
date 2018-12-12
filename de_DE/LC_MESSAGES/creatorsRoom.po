@@ -150,3 +150,7 @@ msgstr "Sehen"
 
 msgid "FAN_COUNT_FORMAT"
 msgstr "Fans: %s"
+
+msgid "HEADER_MAIL_SETTINGS"
+msgstr "Mail Settings"
+
