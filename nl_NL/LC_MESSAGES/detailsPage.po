@@ -1,5 +1,5 @@
 msgid "TIMESTAMP_FORMAT"
-msgstr "d M, Y H:i:s"
+msgstr "d M Y H:i:s"
 
 msgid "FLIPNOTE_TITLE_FORMAT"
 msgstr "Flipnote door %s"
