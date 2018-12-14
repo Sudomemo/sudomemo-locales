@@ -5,10 +5,10 @@ msgid "STRING_SUDOMEMO"
 msgstr "Sudomemo"
 
 msgid "STRING_DAILY_STAR_REPORT"
-msgstr "Dagelijkse Ster Raportage"
+msgstr "Dagelijkse Ster Rapportage"
 
 msgid "TEXT_STAR_REPORT_GREETING_FORMAT"
-msgstr "Hallo, %s! Dit is jouw Dagelijkse Ster Raportage van Sudomemo."
+msgstr "Hallo, %s! Dit is jouw Dagelijkse Ster Rapportage van Sudomemo."
 
 msgid "TEXT_FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote door %s"
