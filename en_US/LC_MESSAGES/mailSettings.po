@@ -19,7 +19,7 @@ msgstr "Disabled"
 msgid "ENABLE"
 msgstr "Enable"
 
-msgid "Disable"
+msgid "DISABLE"
 msgstr "Disable"
 
 msgid "TAP_TO_ENABLE"
@@ -78,3 +78,18 @@ msgstr "Receive an email when we update the status of content that you've flagge
 
 msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
 msgstr "Tap on a mail type's status to view or update it."
+
+msgid "HEADER_CHANGE_EMAIL_SETTINGS"
+msgstr "Change Email Settings"
+
+msgid "DISABLE_CONFIRMATION_FORMAT"
+msgstr "Are you sure you want to disable '%s' emails?"
+
+msgid "REENABLE_INSTRUCTIONS"
+msgstr "If you want to turn them back on, you can do so from by selecting <strong>Email Settings</strong> in your Creator's Room."
+
+msgid "EMAIL_SETTING_DISABLED_FINISH_FORMAT"
+msgstr "You've disabled '%s' emails."
+
+msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
+msgstr "The link you followed has expired."
