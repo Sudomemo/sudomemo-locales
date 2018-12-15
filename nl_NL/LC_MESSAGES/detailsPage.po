@@ -1,5 +1,5 @@
 msgid "TIMESTAMP_FORMAT"
-msgstr "d M, Y H:i:s"
+msgstr "d M Y H:i:s"
 
 msgid "FLIPNOTE_TITLE_FORMAT"
 msgstr "Flipnote door %s"
@@ -68,17 +68,16 @@ msgid "STAR_DETAILS_UPPERTITLE"
 msgstr "★ Sterren ★"
 
 msgid "SET_TITLE"
-msgstr "Set Title"
+msgstr "Titel geven"
 
 msgid "SET_TITLE_INSTRUCTIONS"
-msgstr "Enter the new title for your Flipnote below."
+msgstr "Voer de nieuwe titel voor je Flipnote hieronder in."
 
 msgid "40_CHARACTER_LIMIT"
-msgstr "Your title is limited to 40 characters in length."
+msgstr "De titel mag niet langer zijn dan 40 karakters."
 
 msgid "LEAVE_BLANK_TO_RESET"
-msgstr "To reset the title to default, leave the form blank when submitting."
+msgstr "Om de titel terug te zetten naar het standaard, laat het formulier leeg bij het insturen."
 
 msgid "ENTER_TITLE"
-msgstr "Enter title..."
-
+msgstr "Voer titel in..."
