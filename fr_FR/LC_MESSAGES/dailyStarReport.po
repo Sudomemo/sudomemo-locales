@@ -26,5 +26,5 @@ msgid "TEXT_HOW_TO_CHANGE_SETTINGS_DSI"
 msgstr "Vous pouvez facilement les mettre à jour en visitant votre Salle de créateur sur Sudomemo et en sélectionnant <strong>Paramètres de mail</strong>."
 
 msgid "TEXT_WEB_SETTINGS_CHANGE_FORMAT"
-msgstr "Sinon, vous pouvez désactiver ce type de mails en cliquant <a target=\"_blank\" href=\"%s\"><strong>ici</strong></a>."
+msgstr "Sinon, vous pouvez désactiver ce type de mail en cliquant <a target=\"_blank\" href=\"%s\"><strong>ici</strong></a>."
 
