@@ -89,7 +89,7 @@ msgid "REENABLE_INSTRUCTIONS"
 msgstr "Si vous voulez les réactiver, vous pouvez le faire en sélectionnant <strong>Paramètres de mail</strong> dnas votre Salle de créateur."
 
 msgid "EMAIL_SETTING_DISABLED_FINISH_FORMAT"
-msgstr "Vous avez désactivé ces mails : '%s' ."
+msgstr "Vous avez désactivé ces mails : '%s'."
 
 msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
 msgstr "Le lien que vous avez suivi a expiré."
