@@ -23,10 +23,10 @@ msgid "CONFIRM_BLOCK"
 msgstr "Confirmer le blocage"
 
 msgid "USER_ALREADY_BLOCKED"
-msgstr "Vous avez déjà bloqué cet utilisateur. Vous pouvez le débloquer depuis les paramètres dans votre salle de créateur, mais vous devez attendre 24 heures avant de pouvoir le re-bloquer."
+msgstr "Vous avez déjà bloqué cet utilisateur. Vous pouvez le débloquer depuis les paramètres dans votre salle de créateur, mais vous devez attendre 24 heures avant de pouvoir le rebloquer."
 
 msgid "ONE_DAY_WAIT_BEFORE_REBLOCK_FORMAT"
-msgstr "Vous avez récemment débloqué cet utilisateur. Vous ne pouvez pas le re-bloquer avant %s"
+msgstr "Vous avez récemment débloqué cet utilisateur. Vous ne pouvez pas le rebloquer avant %s"
 
 msgid "UNBLOCK"
 msgstr "Débloquer"
@@ -56,4 +56,4 @@ msgid "CONFIRM_UNBLOCK"
 msgstr "Confirmer le déblocage"
 
 msgid "RECENTLY_UNBLOCKED_ONE_DAY_THRESHOLD"
-msgstr "Vous avez récemment débloqué cet utilisateur. Vous devez attendre 24 heures depuis le moment où vous l'avez débloqué avant de pouvoir le re-bloquer."
+msgstr "Vous avez récemment débloqué cet utilisateur. Vous devez attendre 24 heures depuis le moment où vous l'avez débloqué avant de pouvoir le rebloquer."
