@@ -80,16 +80,16 @@ msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
 msgstr "Tik op een e-mail soort's status om het te bekijken of om het te veranderen."
 
 msgid "HEADER_CHANGE_EMAIL_SETTINGS"
-msgstr "Change Email Settings"
+msgstr "Verander E-mail Instellingen"
 
 msgid "DISABLE_CONFIRMATION_FORMAT"
-msgstr "Are you sure you want to disable '%s' emails?"
+msgstr "Weet je zeker dat je '%s' e-mails wilt uitschakelen?"
 
 msgid "REENABLE_INSTRUCTIONS"
-msgstr "If you want to turn them back on, you can do so from by selecting <strong>Email Settings</strong> in your Creator's Room."
+msgstr "Als je ze weer aan wilt zetten, kan je dat doen door <strong>E-mail Instellingen</strong> in je Maker's Ruimte te selecteren."
 
 msgid "EMAIL_SETTING_DISABLED_FINISH_FORMAT"
-msgstr "You've disabled '%s' emails."
+msgstr "Je hebt '%s' e-mails uitgeschakeld."
 
 msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
-msgstr "The link you followed has expired."
+msgstr "De link die je gevolgd hebt is verlopen."
