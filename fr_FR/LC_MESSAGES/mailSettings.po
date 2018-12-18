@@ -53,13 +53,13 @@ msgid "TYPE_COMMENT_NOTIF_DESC"
 msgstr "Recevez un mail quand quelqu'un commente votre Flipnote"
 
 msgid "TYPE_STAR_REPORT_NAME"
-msgstr "Rapport quotidien des étoiles"
+msgstr "Rapport quotidien des ★"
 
 msgid "TYPE_STAR_REPORT_DESC"
 msgstr "Recevez un mail à la fin de la journée concernant les étoiles que vous avez reçues"
 
 msgid "TYPE_SPINOFF_NOTIF_NAME"
-msgstr "Dérivé reçu"
+msgstr "Dérivée reçue"
 
 msgid "TYPE_SPINOFF_NOTIF_DESC"
 msgstr "Recevez un mail quand quelqu'un poste une dérivée de votre Flipnote"
@@ -80,17 +80,17 @@ msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
 msgstr "Appuyez sur le statut d'un type de mail pour l'afficher ou le mettre à jour."
 
 msgid "HEADER_CHANGE_EMAIL_SETTINGS"
-msgstr "Change Email Settings"
+msgstr "Modifier les paramètres de mail"
 
 msgid "DISABLE_CONFIRMATION_FORMAT"
-msgstr "Are you sure you want to disable '%s' emails?"
+msgstr "Êtes-vous sûr de vouloir désactiver ces mails : '%s' ?"
 
 msgid "REENABLE_INSTRUCTIONS"
-msgstr "If you want to turn them back on, you can do so from by selecting <strong>Email Settings</strong> in your Creator's Room."
+msgstr "Si vous voulez les réactiver, vous pouvez le faire en sélectionnant <strong>Paramètres de mail</strong> dnas votre Salle de créateur."
 
 msgid "EMAIL_SETTING_DISABLED_FINISH_FORMAT"
-msgstr "You've disabled '%s' emails."
+msgstr "Vous avez désactivé ces mails : '%s'."
 
 msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
-msgstr "The link you followed has expired."
+msgstr "Le lien que vous avez suivi a expiré."
 
