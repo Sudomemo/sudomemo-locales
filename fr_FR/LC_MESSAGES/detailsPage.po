@@ -1,5 +1,5 @@
 msgid "TIMESTAMP_FORMAT"
-msgstr "D j m Y, H:i:s"
+msgstr "D j/m/Y, H:i:s"
 
 msgid "FLIPNOTE_TITLE_FORMAT"
 msgstr "Flipnote de %s"
@@ -77,7 +77,7 @@ msgid "40_CHARACTER_LIMIT"
 msgstr "Votre titre ne peut pas avoir plus de 40 caractères."
 
 msgid "LEAVE_BLANK_TO_RESET"
-msgstr "Pour remttre le titre par défaut, laissez le formulaire vide lorsque vous l'envoyez."
+msgstr "Pour remettre le titre par défaut, laissez le formulaire vide lorsque vous l'envoyez."
 
 msgid "ENTER_TITLE"
 msgstr "Entrez un titre..."
