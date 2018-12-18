@@ -1,30 +1,29 @@
 msgid "EMAIL_SUBJECT_FORMAT"
-msgstr "[Sudomemo] %s's Daily Star Report"
+msgstr "[Sudomemo] %s's Dagelijkse Ster Raportage"
 
 msgid "STRING_SUDOMEMO"
 msgstr "Sudomemo"
 
 msgid "STRING_DAILY_STAR_REPORT"
-msgstr "Daily Star Report"
+msgstr "Dagelijkse Ster Rapportage"
 
 msgid "TEXT_STAR_REPORT_GREETING_FORMAT"
-msgstr "Hello, %s! This is your Daily Star Report from Sudomemo."
+msgstr "Hallo, %s! Dit is jouw Dagelijkse Ster Rapportage van Sudomemo."
 
 msgid "TEXT_FLIPNOTE_BY_FORMAT"
-msgstr "Flipnote by %s"
+msgstr "Flipnote door %s"
 
 msgid "TEXT_TOTAL_STARS_RECEIVED_TODAY"
-msgstr "Total Stars received today"
+msgstr "Totaal aantal sterren vandaag ontvangen"
 
 msgid "TEXT_HOW_TO_VIEW_STAR_ADDERS_DSI"
-msgstr "Using your Nintendo DSi System, you can see who added Stars by tapping <strong>Stars</strong> in your Flipnote's details page on Sudomemo."
+msgstr "Met jouw Nintendo DSi Systeem, kan je zien wie Sterren heeft toegevoegd door op <strong>Sterren</strong> te drukken in je Flipnote's details pagina op Sudomemo."
 
 msgid "TEXT_CHANGE_SETTINGS_PROMPT"
-msgstr "Want to adjust the emails you get from Sudomemo?"
+msgstr "Wil je de e-mails aanpassen die je krijgt van Sudomemo?"
 
 msgid "TEXT_HOW_TO_CHANGE_SETTINGS_DSI"
-msgstr "You can easily update them by visiting your Creator's Room on Sudomemo and selecting <strong>Mail Settings</strong>."
+msgstr "Je kan je instellingen makkelijk aanspassen door je Maker's Ruimte op Sudomemo te bezoeken en en dan <strong>E-mail Instellingen</strong> te selecteren."
 
 msgid "TEXT_WEB_SETTINGS_CHANGE_FORMAT"
-msgstr "Or, you can turn off these kinds of emails by clicking <a target=\"_blank\" href=\"%s\"><strong>here</strong></a>."
-
+msgstr "Of, je kan al deze e-mails uitschakelen door <a target=\"_blank\" href=\"%s\"><strong>hier</strong></a> te klikken."
