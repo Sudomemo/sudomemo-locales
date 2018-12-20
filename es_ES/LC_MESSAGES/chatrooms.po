@@ -1,5 +1,5 @@
 msgid "NO_COMMENTS_YET"
-msgstr "Ningún comentario ha sido publicado."
+msgstr "Ningún comentario ha sido publicado aún."
 
 msgid "HEADER_COMMENTS"
 msgstr "Comentarios"
@@ -23,13 +23,13 @@ msgid "CHAT_REPLY_FAILED"
 msgstr "Ha ocurrido un error al publicar el comentario. Prueba de nuevo en un momento."
 
 msgid "NO_BLANK_MESSAGES_ALLOWED"
-msgstr "No puedes publicar un comentario vacio!."
+msgstr "¡No puedes publicar un comentario vacio!"
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
 msgstr "Los datos de esta Flipnote estan corruptos. Prueba de nuevo en un momento."
 
 msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
-msgstr "Usted ha sido muteado. No podrá publicar comentarios mientras esta muteado."
+msgstr "Usted ha sido muteado. No podrá publicar comentarios mientras esté muteado."
 
 msgid "DUPLICATE_COMMENT_FAILED"
 msgstr "Este comentario ya ha sido publicado en Sudomemo."
