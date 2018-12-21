@@ -1,26 +1,26 @@
 msgid "WATCH_FLIPNOTES"
-msgstr "@Todas las Flipnotes"
+msgstr "Todas las Flipnotes"
 
 msgid "CHANNELS"
 msgstr "Canales"
 
 msgid "CATEGORIES"
-msgstr "Categorias"
+msgstr "Categorías"
 
 msgid "FEATURED"
 msgstr "Destacados"
 
 msgid "HOT_FLIPNOTES"
-msgstr "Hot Flipnotes"
+msgstr "Flipnotes recientes"
 
 msgid "ABOUT_SUDOMEMO"
-msgstr "Acerca Sudomemo"
+msgstr "Acerca de Sudomemo"
 
 msgid "CREATORS_ROOM"
-msgstr "Sala de Creador"
+msgstr "Sala del Creador"
 
 msgid "NEWS"
-msgstr "@Noticias Sudomemo"
+msgstr "Noticias Sudomemo"
 
 msgid "CHATROOMS"
 msgstr "Salas de Chat"
@@ -35,7 +35,7 @@ msgid "SEARCH_FLIPNOTE"
 msgstr "Buscar Flipnote"
 
 msgid "RELOAD_USER"
-msgstr "Recargar usuario"
+msgstr "Recargar Usuario"
 
 msgid "LOGIN"
 msgstr "Iniciar Sesión"

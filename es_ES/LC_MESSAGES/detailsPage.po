@@ -11,13 +11,13 @@ msgid "HEADER_COMMENTS"
 msgstr "Comentarios"
 
 msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
-msgstr "Esta Flipnote es una spin-off."
+msgstr "Esta Flipnote es una Spin-off."
 
 msgid "HEADER_ORIGINAL_FLIPNOTE"
-msgstr "Vista del recurso aqui."
+msgstr "Ver la Flipnote original aquí."
 
 msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
-msgstr "Para prevenir la súplica de estrellas, las estrellas amarillas estan limitadas a diez por Flipnote."
+msgstr "Para prevenir exceso de estrellas, las estrellas amarillas estan limitadas a diez por Flipnote."
 
 msgid "HEADER_CREATOR"
 msgstr "Creador"
@@ -50,7 +50,7 @@ msgid "HEADER_OPTIONS"
 msgstr "Opciones"
 
 msgid "HEADER_SET_AS_PROFILE_PICTURE"
-msgstr "Establecer como imágen de perfil"
+msgstr "Establecer como foto de perfil"
 
 msgid "HEADER_REPORT_FLIPNOTE"
 msgstr "Reportar Flipnote"
@@ -68,17 +68,17 @@ msgid "STAR_DETAILS_UPPERTITLE"
 msgstr "★ Estrellas ★"
 
 msgid "SET_TITLE"
-msgstr "Set Title"
+msgstr "Ingresar título"
 
 msgid "SET_TITLE_INSTRUCTIONS"
-msgstr "Enter the new title for your Flipnote below."
+msgstr "Ingresa el nuevo título para tu Flipnote debajo."
 
 msgid "40_CHARACTER_LIMIT"
-msgstr "Your title is limited to 40 characters in length."
+msgstr "Tu título esta limitado a 40 caractéres de longitud."
 
 msgid "LEAVE_BLANK_TO_RESET"
-msgstr "To reset the title to default, leave the form blank when submitting."
+msgstr "Para restablecer el título como predeterminado, deja el formulario en blanco a la hora de subirlo."
 
 msgid "ENTER_TITLE"
-msgstr "Enter title..."
+msgstr "Ingresar título..."
 

@@ -1,11 +1,11 @@
 msgid "UPPERTITLE"
-msgstr "Vistazo"
+msgstr "Buscar"
 
 msgid "NEXT"
-msgstr "Sig"
+msgstr "Siguiente página"
 
 msgid "PREV"
-msgstr "Prev"
+msgstr "Página anterior"
 
 msgid "PAGE"
 msgstr "Página"
@@ -14,11 +14,11 @@ msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d de %d"
 
 msgid "FLIPNOTES_BY_FORMAT"
-msgstr "Flipnotes de %s"
+msgstr "Flipnotes por %s"
 
 msgid "STARRED_BY_FORMAT"
-msgstr "Estrelladas por %s"
+msgstr "Calificado por %s"
 
 msgid "FAVORITES_FEED_FORMAT"
-msgstr "Noticias de Favoritos de %s's"
+msgstr "Contenido favorito de %s"
 

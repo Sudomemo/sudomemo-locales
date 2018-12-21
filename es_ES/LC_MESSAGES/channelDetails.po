@@ -20,16 +20,16 @@ msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
 msgstr "Tus interacciones en Sudomemo han sido restringidas."
 
 msgid "FLIPNOTE_POST_FAILED"
-msgstr "Ha ocurrido un error al publicar esta Flipnote. intenta de nuevo en unos momentos."
+msgstr "Ha ocurrido un error al publicar esta Flipnote. Intenta de nuevo en unos momentos."
 
 msgid "DUPLICATE_FLIPNOTE_FAILED"
-msgstr "Esta flipnote ya ha sido publicada. intenta editarla de nuevo."
+msgstr "Esta flipnote ya ha sido publicada. Edítala para poder publicarla."
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "Los datos de esta Flipnote estan corruptos, intenta de nuevo en unos momentos."
+msgstr "Los datos de esta Flipnote estan corruptos. Intenta de nuevo en unos momentos."
 
 msgid "NO_BLANK_FLIPNOTES_ALLOWED"
-msgstr "No debe publicar una Flipnote Vacía."
+msgstr "No se permite publicar una Flipnote vacía."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
 msgstr "Por favor, confirma tu correo antes de publicar."

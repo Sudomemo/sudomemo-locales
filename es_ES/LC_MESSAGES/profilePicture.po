@@ -2,7 +2,7 @@ msgid "SET_PROFILE_PICTURE"
 msgstr "Establecer foto de perfil"
 
 msgid "PROMPT_CHANGE_YOUR_PROFILE_IMAGE"
-msgstr "Cambiar tu foto de perfil?"
+msgstr "¿Cambiar tu foto de perfil?"
 
 msgid "CONTINUE_SET_AS_PROFILE_PICTURE"
 msgstr "Confirmar"
@@ -14,13 +14,13 @@ msgid "NEW"
 msgstr "Nuevo"
 
 msgid "PROFILE_PICTURE_SET"
-msgstr "Foto de perfil exitósamente establecida!"
+msgstr "¡Foto de perfil exitosamente establecida!"
 
 msgid "RETURN_TO_FLIPNOTE"
-msgstr "Regresar al Flipnote"
+msgstr "Regresar a la Flipnote"
 
 msgid "CREATORS_ROOM"
-msgstr "Sala de Creador"
+msgstr "Sala del Creador"
 
 msgid "CANCEL"
 msgstr "Cancelar"

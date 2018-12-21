@@ -23,13 +23,13 @@ msgid "LOGIN_REQUIRED_TO_POST_COMMENT"
 msgstr "Debes haber iniciado sesión para publicar un comentario."
 
 msgid "COMMENT_POST_FAILED"
-msgstr "Ha ocurrido un error al publicar el comentario. intenta de nuevo en otro momento."
+msgstr "Ha ocurrido un error al publicar el comentario. Intenta de nuevo en otro momento."
 
 msgid "NO_BLANK_COMMENTS_ALLOWED"
-msgstr "No puedes publicar un comentario vacio."
+msgstr "No puedes publicar un comentario vacío."
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "Los datos de esta Flipnote estan corruptos, intenta de nuevo en un momento."
+msgstr "Los datos de esta Flipnote estan corruptos. Intenta de nuevo en un momento."
 
 msgid "FLIPNOTE_COMMENTS_DISALLOWED"
 msgstr "No puedes comentar en esta Flipnote."

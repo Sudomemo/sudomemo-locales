@@ -2,13 +2,13 @@ msgid "SEE_MORE"
 msgstr "Ver más..."
 
 msgid "STARRED_FLIPNOTES"
-msgstr "Flipnotes Estrelladas"
+msgstr "Flipnotes Calificadas"
 
 msgid "FAVORITE_USERS"
 msgstr "Usuarios Favoritos"
 
 msgid "FAVORITES_FEED"
-msgstr "Flipnotes de Favoritos"
+msgstr "Flipnotes de tus Usuarios Favoritos"
 
 msgid "FAVORITE_CHANNELS"
 msgstr "Canales Favoritos"
@@ -41,7 +41,7 @@ msgid "NOT_USABLE"
 msgstr "No Usable"
 
 msgid "SUDOMEMO_THEATRE_URL"
-msgstr "Link de Sudomemo Theathre"
+msgstr "Link de Sudomemo Theatre"
 
 msgid "FLIPNOTE_STUDIO_ID"
 msgstr "ID de Flipnote Studio"
@@ -98,7 +98,7 @@ msgid "NEXT"
 msgstr "Siguiente"
 
 msgid "CHANGE_ROOM_THEME_LINK"
-msgstr "[cambiar tema]"
+msgstr "[Cambiar tema]"
 
 msgid "SELECT_THEME"
 msgstr "Seleccionar tema"
@@ -134,13 +134,13 @@ msgid "PREVIEW"
 msgstr "Vista Previa"
 
 msgid "CREATORS_ROOM"
-msgstr "Sala de Creador"
+msgstr "Sala del Creador"
 
 msgid "THEME_ERROR_THEME_NOT_OWNED"
-msgstr "Caracoles! No tienes ese tema."
+msgstr "¡Caracoles! No tienes ese tema."
 
 msgid "THEME_SUCCESSFULLY_SET"
-msgstr "Tema exitosamente establecido!"
+msgstr "¡Tema exitosamente establecido!"
 
 msgid "BLOCKED_USERS"
 msgstr "Usuarios bloqueados"
@@ -155,5 +155,5 @@ msgid "HEADER_LANGUAGE"
 msgstr "Lenguaje"
 
 msgid "HEADER_MAIL_SETTINGS"
-msgstr "Mail Settings"
+msgstr "Ajustes de correo"
 

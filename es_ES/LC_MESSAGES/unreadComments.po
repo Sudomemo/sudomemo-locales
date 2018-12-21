@@ -1,5 +1,5 @@
 msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
-msgstr "Debe iniciar sesión para ver esta página."
+msgstr "Debes haber iniciado sesión para ver esta página."
 
 msgid "HEADER_UNREAD_COMMENTS"
 msgstr "Comentarios no leídos"
@@ -8,10 +8,10 @@ msgid "NO_UNREAD_COMMENTS"
 msgstr "No tienes comentarios sin leer."
 
 msgid "TAP_ON_FLIPNOTE_ID_TO_VISIT_COMMENTS"
-msgstr "Toque un ID de Flipnote para visitar la página de comentarios."
+msgstr "Presiona en una Flipnote ID para visitar la página de comentarios."
 
 msgid "FLIPNOTE_ID"
-msgstr "ID de Flipnote"
+msgstr "Flipnote ID"
 
 msgid "UNREAD"
 msgstr "No leído"
