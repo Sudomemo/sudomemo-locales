@@ -68,6 +68,7 @@ If you have any question about which langcode to use, feel free to reach out to 
 ## Thank You
 
 If you'd like the link in this section adjusted, reach out to us.
+If your name is missing, please also reach out to us - sometimes it slips between the cracks.
 
 #### English to Japanese
 
@@ -92,6 +93,7 @@ If you'd like the link in this section adjusted, reach out to us.
 #### English to Spanish
 
 @[NaoVolkova](https://github.com/NaoVolkova)
+@[EDaniCB](https://github.com/EDaniCB)
 
 #### English to French
 
