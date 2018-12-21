@@ -29,13 +29,13 @@ msgid "CHAT_COMMENT_ID"
 msgstr "チャットコメントID"
 
 msgid "TIMESTAMP"
-msgstr "タイムスタンプ"
+msgstr "作成時刻"
 
 msgid "POSTED_TO"
 msgstr "投稿者"
 
 msgid "PRIVATE_CONVERSATION"
-msgstr "内談"
+msgstr "プライベートな会話"
 
 msgid "REPORT_CONTENT"
 msgstr "報告内容"
