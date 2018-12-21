@@ -32,14 +32,14 @@ msgid "NO_RESULTS_FOUND"
 msgstr "結果が見つかりませんでした"
 
 msgid "SEARCH_SHORT_KEY"
-msgstr "Flipnote ID"
+msgstr "うごメモID"
 
 msgid "SHORT_KEY_NO_RESULTS"
-msgstr "No Flipnote found"
+msgstr "作品は見つかりませんでした"
 
 msgid "SHORT_KEY_FORMAT_GUIDE"
-msgstr "Not finding what you're looking for? You may have entered the Flipnote ID incorrectly. Flipnote IDs are six digits long and can be found in the details section for the Flipnote."
+msgstr "探しているものが見つかりませんか？ 間違って作品IDを入力した可能性があります。作品IDは6桁で、作品の詳細画面で閲覧できます。"
 
 msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
-msgstr "No result was found, but a similar ID exists. Please note that Flipnote IDs are case-sensitive, and usually all-capital letters and numbers."
+msgstr "結果は見つかりませんでしたが、同じIDが存在します。 うごメモIDは大文字と小文字の区別があることに注意してください。"
 
