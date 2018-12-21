@@ -2,7 +2,7 @@ msgid "BAN_GREETING_FORMAT"
 msgstr "こんにちは。%sさん。"
 
 msgid "BAN_NOTICE_CONSOLE_BAN"
-msgstr "あなたのアカウントと機器はSudomemoから切断されています。"
+msgstr "あなたのアカウント及び機器はSudomemoから切断されています。"
 
 msgid "BAN_NOTICE_PLEASE_READ_BAN_LETTER"
 msgstr "詳細については、お送りしたメッセージをご覧ください。"
@@ -32,7 +32,7 @@ msgid "WELCOME_BACK_FORMAT"
 msgstr "ようこそ、 %sさん！"
 
 msgid "RETURNING_USER_NEW_LOGIN_SYSTEM"
-msgstr "前回訪問して以来、新しいログインシステムが追加されましたが、心配する必要はありません。あなたのコンテンツはすべてここにあります！"
+msgstr "前回訪問して以来、新しいログインシステムが追加されましたが、心配する必要はありません。投稿した作品などは消えていません！"
 
 msgid "RETURNING_USER_PLEASE_CREATE_PASSWORD"
 msgstr "新しいパスワードを作成してください。"
@@ -68,10 +68,10 @@ msgid "FORM_WARNING_EMAIL_INVALID"
 msgstr "入力した電子メールアドレスは無効です。"
 
 msgid "EMAIL_ADDITION_SUGGESTED"
-msgstr "電子メールはオプションですが、設定されることを強くお勧めします。 パスワードを忘れた場合、メールアドレスにパスワード再設定のリンクが送信します。"
+msgstr "電子メールは任意ですが、設定されることを強くお勧めします。 パスワードを忘れた場合、メールアドレスにパスワード再設定のリンクが送信できます。"
 
 msgid "EMAIL_ADDITION_DETAILS"
-msgstr "パスワードを忘れた場合は、メールにパスワードのリセットリンクを送信します。"
+msgstr "パスワードを忘れた場合は、メールにパスワード再設定リンクを送信します。"
 
 msgid "CONFIRM_INFO_CORRECT"
 msgstr "下記の情報が正しいことを確認してください。"
@@ -92,7 +92,7 @@ msgid "BUTTON_ADD_AN_EMAIL_ADDRESS"
 msgstr "メールアドレスを追加する"
 
 msgid "BUTTON_SUBMIT"
-msgstr "適用"
+msgstr "送信"
 
 msgid "PLEASE_ENTER_PASSWORD_TO_SIGN_IN"
 msgstr "ログインするためのパスワードを入力してください"
@@ -155,7 +155,7 @@ msgid "SORRY_NO_LOGIN"
 msgstr "申し訳ありませんが、ログインできませんでした。"
 
 msgid "BASIC_AUTH_NOT_ENABLED"
-msgstr "プロキシ設定で基本認証を有効にしていないようです。"
+msgstr "Proxy設定でベーシック認証を有効にしていないようです。"
 
 msgid "BASIC_AUTH_FSID_INVALID"
 msgstr "基本認証で入力したFlipnote Studio IDが無効です："
@@ -167,10 +167,10 @@ msgid "BASIC_AUTH_LOWERCASE_LETTERS"
 msgstr "IDに小文字が含まれています。すべて大文字にする必要があります。"
 
 msgid "BASIC_AUTH_NONHEX_CHARACTERS"
-msgstr "IDに0-9とA-F以外の文字が含まれています（0-9とA-Fのみを含める必要があります）。"
+msgstr "IDに英数字以外の文字が含まれています（0-9とA-Fのみを含める必要があります）。"
 
 msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
-msgstr "あなたがSudomemoに役立ちたい場合は、Discordでお気軽にお問い合わせください！ あなたは%sから参加できます。"
+msgstr "あなたがSudomemoに貢献したい場合は、Discordでお気軽にお問い合わせください！ あなたは%sから参加できます。"
 
 msgid "BAN_NOTICE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
 msgstr "Discordまたは%sのEメールでご連絡ください。"
@@ -239,5 +239,5 @@ msgid "BUTTON_EDIT_EMAIL_ADDRESS"
 msgstr "メールアドレスを変更する"
 
 msgid "SEARCH_FOR_SENDER_EMAIL_FORMAT"
-msgstr "メールを受信していませんか? 迷惑メールボックスをチェックし、%sを探してみてください。 もしも自動的に迷惑メールとしてマークされていたら、 そうではないことをメールプロバイダに報告してください。"
+msgstr "メールを受信していないませんか？迷惑メールをチェックし、%sを探してみてください。 もし迷惑メールとしてマークされていたら、 メールの受信許可の設定をしてください。"
 
