@@ -42,3 +42,7 @@ msgstr "Dieser Kommentar wurde schon in Sudomemo hochgeladen."
 
 msgid "COMMENT_FAILED_USER_BANNED"
 msgstr "Du wurdest von Sudomemo gebannt."
+
+msgid "MODERATOR"
+msgstr "Moderator"
+
