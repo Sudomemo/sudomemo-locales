@@ -5,37 +5,37 @@ msgid "BAN_NOTICE_CONSOLE_BAN"
 msgstr "Tu cuenta y tu consola han sido suspendidos de Sudomemo."
 
 msgid "BAN_NOTICE_PLEASE_READ_BAN_LETTER"
-msgstr "Por favor leé la nota que te hemos enviado para más información.."
+msgstr "Por favor lee la nota que te hemos enviado para más información..."
 
 msgid "BAN_VIEW_MAIL"
-msgstr "Vista del correo de Sudomemo"
+msgstr "Vista del Correo de Sudomemo"
 
 msgid "LOGIN_SUCCESSFUL"
-msgstr "Ha iniciado sesión exitósamente"
+msgstr "Ha iniciado sesión exitosamente"
 
 msgid "THANKS_FOR_LOGIN_FORMAT"
 msgstr "Gracias por iniciar sesión, %s!"
 
 msgid "GOTO_CREATORS_ROOM"
-msgstr "Ir a Sala de Creador"
+msgstr "Ir a la Sala del Creador"
 
 msgid "LOGIN"
 msgstr "Iniciar sesión"
 
 msgid "POST_COMMENT_BELOW"
-msgstr "Para continuar, escribe un comentario aqui abajo."
+msgstr "Para continuar, escribe un comentario aquí abajo."
 
 msgid "LOGIN_SETUP"
-msgstr "Configuración de Inicio de sesión"
+msgstr "Configuración de inicio de sesión"
 
 msgid "WELCOME_BACK_FORMAT"
 msgstr "Bienvenido de vuelta!, %s!"
 
 msgid "RETURNING_USER_NEW_LOGIN_SYSTEM"
-msgstr "Desde la última vez que iniciaste sesión, hemos agregado un nuevo sistema de inicio de sesión -- Pero no te preocupes todo tu contenido sigue aqui!"
+msgstr "Desde la última vez que iniciaste sesión, hemos agregado un nuevo sistema de inicio de sesión -- Pero no te preocupes,¡ todo tu contenido sigue aqui!"
 
 msgid "RETURNING_USER_PLEASE_CREATE_PASSWORD"
-msgstr "Para comenzar, crea una nueva contraseña aqui abajo."
+msgstr "Para comenzar, crea una nueva contraseña aquí abajo."
 
 msgid "NEW_USER_WELCOME_FORMAT"
 msgstr "Bienvenido a Sudomemo, %s!"
@@ -47,34 +47,34 @@ msgid "FORM_HEADER_PASSWORD"
 msgstr "Contraseña:"
 
 msgid "FORM_PREFILL_PASSWORD"
-msgstr "Introduce tu contraseña aqui..."
+msgstr "Introduce tu contraseña aquí..."
 
 msgid "FORM_WARNING_PASSWORD_TOO_SHORT"
-msgstr "Por favor introduce una contraseña con más de 8 carácteres."
+msgstr "Por favor introduce una contraseña con más de 8 caracteres."
 
 msgid "FORM_WARNING_PASSWORD_DISALLOWED_CHARS"
-msgstr "Tu contraseña no puede contener ninguno de estos carácteres:"
+msgstr "Tu contraseña no puede contener ninguno de estos caracteres:"
 
 msgid "FORM_LABEL_DONT_FORGET_PASSWORD"
-msgstr "Recuerda tener apuntada tu contraseña, y mantenerla segura!"
+msgstr "¡Recuerda tener apuntada tu contraseña, y mantenerla segura!"
 
 msgid "FORM_HEADER_EMAIL"
-msgstr "Email:"
+msgstr "Correo electrónico:"
 
 msgid "FORM_PREFILL_EMAIL"
-msgstr "Introduce tu email aquí..."
+msgstr "Introduce tu Correo electrónico aquí..."
 
 msgid "FORM_WARNING_EMAIL_INVALID"
-msgstr "La dirección de email que has introducido no es válida."
+msgstr "La dirección de Correo electrónico que has introducido no es válida."
 
 msgid "EMAIL_ADDITION_SUGGESTED"
-msgstr "El email es opcional, pero muy recomendado. Si llegas a olvidar tu contraseña, te enviaremos un correo para que la recuperes."
+msgstr "El Correo electrónico es opcional, pero muy recomendado. Si llegas a olvidar tu contraseña, te enviaremos un Correo electrónico para que la recuperes."
 
 msgid "EMAIL_ADDITION_DETAILS"
-msgstr "Si en algún momento pierdes tu contraseña, te enviaremos un enlace para reestablecerla a tu correo electrónico."
+msgstr "Si en algún momento pierdes tu contraseña, te enviaremos un enlace para reestablecerla a tu Correo electrónico."
 
 msgid "CONFIRM_INFO_CORRECT"
-msgstr "Por favor verifica que la información que introduciste es correcta."
+msgstr "Por favor verifíca que la información que introduciste es correcta."
 
 msgid "NO_PLAINTEXT_PASSWORD_RECOVERY_IF_LOST"
 msgstr "Después de este punto, no podrémos recuperar tu contraseña."
@@ -83,13 +83,13 @@ msgid "BUTTON_CHANGE_PASSWORD"
 msgstr "Cambiar contraseña"
 
 msgid "FORM_HEADER_EMAIL_CONFIRM"
-msgstr "Email:"
+msgstr "Correo electrónico:"
 
 msgid "BUTTON_CHANGE_EMAIL"
-msgstr "Cambiar dirección de email aquí"
+msgstr "Cambiar dirección de Correo electrónico aquí"
 
 msgid "BUTTON_ADD_AN_EMAIL_ADDRESS"
-msgstr "Agregar dirección de correo electrónico"
+msgstr "Agregar dirección de Correo electrónico"
 
 msgid "BUTTON_SUBMIT"
 msgstr "Enviar"
@@ -104,7 +104,7 @@ msgid "INCORRECT_PASSWORD_ATTEMPTS_FORMAT"
 msgstr "Intentos de introducir contraseña: %s"
 
 msgid "REGISTRATION_ERROR_BAD_EMAIL"
-msgstr "El email que has introducido no esta permitido."
+msgstr "El Correo electrónico que has introducido no esta permitido."
 
 msgid "REGISTRATION_ERROR_BAD_PASSWORD"
 msgstr "La contraseña que has introducido no esta permitida."
@@ -116,10 +116,10 @@ msgid "REGISTRATION_ERROR_PASSWORD_ALREADY_SET"
 msgstr "Contraseña ya ha sido establecida."
 
 msgid "NEW_USER_THANKS_FOR_REGISTRATION"
-msgstr "Bienvenido a Sudomemo!"
+msgstr "¡Bienvenido a Sudomemo!"
 
 msgid "RETURNING_USER_THANKS_FOR_REGISTRATION"
-msgstr "Bienvenido de vuelta! Gracias por configurar tu informacin de inicio de sesión."
+msgstr "¡Bienvenido de vuelta! Gracias por configurar tu información de inicio de sesión."
 
 msgid "BUTTON_SIGN_IN_TO_SUDOMEMO"
 msgstr "Iniciar sesión en Sudomemo"
@@ -143,22 +143,22 @@ msgid "CONTACT_SUPPORT_EMAIL_FORMAT"
 msgstr "Por favor contacta a %s."
 
 msgid "CREATORS_ROOM_SHIM_WELCOME"
-msgstr "Bienvenido!"
+msgstr "¡Bienvenido!"
 
 msgid "CREATORS_ROOM_SHIM_PLEASE_LOGIN"
-msgstr "Bienvenido a Sudomemo! Por favor inicia sesión para entrar."
+msgstr "¡Bienvenido a Sudomemo! Por favor inicia sesión para entrar."
 
 msgid "GUIDE_MAIN_MENU_SHORTCUT"
 msgstr "Puedes regresar al menú principal presionando L (o R si eres zurdo) y el botón de 'Menú'."
 
 msgid "SORRY_NO_LOGIN"
-msgstr "Lo sentimos, pero no pudimos iniciar tu sesión!"
+msgstr "Lo sentimos, ¡pero no pudimos iniciar tu sesión!"
 
 msgid "BASIC_AUTH_NOT_ENABLED"
-msgstr "No parece que tengas activado la Autenticación Basica en tus configuraciones de Proxy."
+msgstr "No parece que tengas activado la Autenticación Básica en tus configuraciones de Proxy."
 
 msgid "BASIC_AUTH_FSID_INVALID"
-msgstr "El Flipnote Studio ID que proporcionaste en la Autenticación Basica no es válido:"
+msgstr "El Flipnote Studio ID que proporcionaste en la Autenticación Básica no es válido:"
 
 msgid "BASIC_AUTH_BAD_LENGTH_FORMAT"
 msgstr "El ID parecer ser de %s digitos en tamaño (deberían ser solo 16)"
@@ -173,49 +173,49 @@ msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
 msgstr "Si necesitas ayuda para conectarte, eres libre de preguntar en nuestro Discord! Puedes unirte desde %s."
 
 msgid "BAN_NOTICE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
-msgstr "Por favor, contáctanos por Discord o via correo electrónico a %s."
+msgstr "Por favor, contáctanos por Discord o vía Correo electrónico a %s."
 
 msgid "FORGOT_PASSWORD_LINK"
-msgstr "Olvidaste tu contraseña?"
+msgstr "¿Olvidaste tu contraseña?"
 
 msgid "EMAIL_IS_DUPLICATE"
 msgstr "El correo electrónico que ingresaste ya está en uso."
 
 msgid "EMAIL_CONFIRMATION_SENT_FORMAT"
-msgstr "A confirmation email has been sent to %s. Please check for it in a few minutes."
+msgstr "Un Correo de confirmación ha sido enviado a %s. Por favor verifícalo en unos cuantos minutos."
 
 msgid "BUTTON_CHECK_VERIFICATION"
 msgstr "Verificar el estado de confirmación"
 
 msgid "EMAIL_NOT_YET_VERIFIED"
-msgstr "Tu correo electrónico aún no ha sido confirmado."
+msgstr "Tu Correo electrónico aún no ha sido confirmado."
 
 msgid "EMAIL_VERIFIED"
-msgstr "Gracias por confirmar tu correo!"
+msgstr "¡Gracias por confirmar tu Correo!"
 
 msgid "EMAIL_REQUIRES_UPDATE"
-msgstr "Tu correo electrónico necesita ser actualizado."
+msgstr "Tu Correo electrónico necesita ser actualizado."
 
 msgid "VERIFICATION_NEEDED"
-msgstr "Necesitamos verificar tu correo electrónico."
+msgstr "Necesitamos verificar tu Correo electrónico."
 
 msgid "BUTTON_RESEND_VERIFICATION_EMAIL"
-msgstr "Re-enviar correo de confirmación"
+msgstr "Re-enviar Correo de confirmación"
 
 msgid "NOT_RECEIVING_HELP_FORMAT"
-msgstr "Sigues sin recibir el correo? Puedes hablar con nosotros en el Discord de Sudomemo o via %s."
+msgstr "¿Sigues sin recibir el Correo? Puedes hablar con nosotros en el Discord de Sudomemo o vía %s."
 
 msgid "HEADER_VERIFY_EMAIL"
 msgstr "Confirmar Correo"
 
 msgid "VERIFICATION_LIMIT_EXCEEDED_FORMAT"
-msgstr "Has excedido el número máximo de correos de confirmación verification. Por favor, contáctanos por %s o via Discord."
+msgstr "Has excedido el número máximo de correos de confirmación. Por favor, contáctanos por %s o vía Discord."
 
 msgid "WEB_HEADER_SUCCESS"
-msgstr "Exitoso!"
+msgstr "¡Exitoso!"
 
 msgid "WEB_TAP_CHECK_VERIFICATION_STATUS"
-msgstr "Ve y tapea 'Verificar el estado de confirmación' en tu sistema Nintendo DSi."
+msgstr "Ve y presiona 'Verificar el estado de confirmación' en tu sistema Nintendo DSi."
 
 msgid "HEADER_VERIFICATION_EXPIRED"
 msgstr "Confirmación expirada"
@@ -230,7 +230,7 @@ msgid "HEADER_UPDATE_EMAIL"
 msgstr "Actualizar correo"
 
 msgid "THANK_YOU_FOR_UPDATING_EMAIL"
-msgstr "Gracias por actualizar tu correo electrónico!"
+msgstr "¡Gracias por actualizar tu correo electrónico!"
 
 msgid "BUTTON_CONTINUE"
 msgstr "Continuar"
@@ -239,5 +239,5 @@ msgid "BUTTON_EDIT_EMAIL_ADDRESS"
 msgstr "Cambiar Correo electrónico"
 
 msgid "SEARCH_FOR_SENDER_EMAIL_FORMAT"
-msgstr "Aún no has recibido el correo? Échale un vistazo a tu correo basura, y busca por %s. Si lo encuentras y está marcado como spam, por favor asegúrate de primero marcar No es Spam."
+msgstr "¿Aún no has recibido el correo? Échale un vistazo a tu correo basura (Spam), y busca por %s. Si lo encuentras y está marcado como Spam, por favor asegúrate de primero marcar No es Spam."
 

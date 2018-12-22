@@ -20,13 +20,13 @@ msgid "FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote de %s"
 
 msgid "COMMENT_ID"
-msgstr "ID de comentario"
+msgstr "ID del comentario"
 
 msgid "MESSAGE_ID"
-msgstr "ID de mensaje"
+msgstr "ID del mensaje"
 
 msgid "CHAT_COMMENT_ID"
-msgstr "ID de comentario del chat"
+msgstr "ID del comentario del chat"
 
 msgid "TIMESTAMP"
 msgstr "Timestamp"

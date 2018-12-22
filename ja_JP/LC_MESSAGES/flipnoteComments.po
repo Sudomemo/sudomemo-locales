@@ -45,3 +45,7 @@ msgstr "あなたはSudomemoとの対話を制限されています。"
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
 msgstr "投稿する前にメールアドレスを確認してください。"
+
+msgid "MODERATOR"
+msgstr "Moderator"
+
