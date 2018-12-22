@@ -29,7 +29,7 @@ msgid "LOGIN_SETUP"
 msgstr "Création d'un mot de passe"
 
 msgid "WELCOME_BACK_FORMAT"
-msgstr "Bon retour, %s!"
+msgstr "Bon retour, %s !"
 
 msgid "RETURNING_USER_NEW_LOGIN_SYSTEM"
 msgstr "Depuis votre dernière visite, nous avons ajouté un nouveau système d'identification -- Mais pas de soucis, tout votre contenu est toujours ici !"
