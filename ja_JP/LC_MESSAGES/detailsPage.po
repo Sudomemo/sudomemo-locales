@@ -68,38 +68,38 @@ msgid "STAR_DETAILS_UPPERTITLE"
 msgstr "★ スター ★"
 
 msgid "SET_TITLE"
-msgstr "Set Title"
+msgstr "タイトルを設定"
 
 msgid "SET_TITLE_INSTRUCTIONS"
-msgstr "Enter the new title for your Flipnote below."
+msgstr "作品の新しいタイトルを入力してください。"
 
 msgid "40_CHARACTER_LIMIT"
-msgstr "Your title is limited to 40 characters in length."
+msgstr "タイトルのは40文字に制限されています。"
 
 msgid "LEAVE_BLANK_TO_RESET"
-msgstr "To reset the title to default, leave the form blank when submitting."
+msgstr "タイトルをデフォルトの状態にするにはフォームを空白にして送信します。"
 
 msgid "ENTER_TITLE"
-msgstr "Enter title..."
+msgstr "タイトルを入力"
 
 msgid "HEADER_ADD_DESCRIPTION"
-msgstr "Add Description"
+msgstr "説明を追加"
 
 msgid "HEADER_DESCRIPTION"
-msgstr "Description"
+msgstr "説明"
 
 msgid "SET_DESCRIPTION"
-msgstr "Set Description"
+msgstr "説明の設定"
 
 msgid "SET_DESCRIPTION_INSTRUCTIONS"
-msgstr "Enter the new description for your Flipnote below."
+msgstr "作品の説明を入力してください。"
 
 msgid "320_CHARACTER_LIMIT_DESC"
-msgstr "Your description is limited to 320 characters in length."
+msgstr "説明は320文字以内に制限されています"
 
 msgid "LEAVE_BLANK_TO_RESET_DESC"
-msgstr "To remove the description, leave the form blank when submitting."
+msgstr "説明を削除するには、フォームを空白にしたまま送信します。"
 
 msgid "ENTER_DESCRIPTION"
-msgstr "Enter description..."
+msgstr "説明を入力してください..."
 
