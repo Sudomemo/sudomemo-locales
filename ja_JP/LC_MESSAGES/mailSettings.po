@@ -1,96 +1,96 @@
 msgid "HEADER_MAIL_SETTINGS"
-msgstr "Mail Settings"
+msgstr "メール設定"
 
 msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
-msgstr "You must be logged in to edit your mail settings."
+msgstr "メール設定を変更するにはログインする必要があります。"
 
 msgid "MAIL_TYPE"
-msgstr "Type"
+msgstr "タイプ"
 
 msgid "MAIL_STATUS"
-msgstr "Status"
+msgstr "状態"
 
 msgid "ENABLED"
-msgstr "Enabled"
+msgstr "有効"
 
 msgid "DISABLED"
-msgstr "Disabled"
+msgstr "無効"
 
 msgid "ENABLE"
-msgstr "Enable"
+msgstr "有効にする"
 
 msgid "Disable"
-msgstr "Disable"
+msgstr "無効にする"
 
 msgid "TAP_TO_ENABLE"
-msgstr "Tap to enable"
+msgstr "タップで有効にする"
 
 msgid "TAP_TO_DISABLE"
-msgstr "Tap to disable"
+msgstr "タップで無効にする"
 
 msgid "TYPE_NEWS_NAME"
-msgstr "Sudomemo News"
+msgstr "Sudomemoニュース"
 
 msgid "TYPE_NEWS_DESC"
-msgstr "Receive an email when something new is posted to the Sudomemo News"
+msgstr "Sudomemoニュースが更新されたときメールを受信する"
 
 msgid "TYPE_PROMO_NAME"
-msgstr "Service Updates"
+msgstr "サービスの更新"
 
 msgid "TYPE_PROMO_DESC"
-msgstr "Receive emails about new features, tips and tricks, and upcoming events!"
+msgstr "新機能、ヒント、コツ、そして今後開催されるイベントについてのメールを受け取る"
 
 msgid "TYPE_FAVE_NOTIF_NAME"
-msgstr "Added as Favorite"
+msgstr "お気に入りに追加された"
 
 msgid "TYPE_FAVE_NOTIF_DESC"
-msgstr "Receive an email when someone adds you to their Favorites"
+msgstr "誰かがあなたをお気に入りに追加したときにEメールを受信する"
 
 msgid "TYPE_COMMENT_NOTIF_NAME"
-msgstr "Comment Received"
+msgstr "受け取ったコメント"
 
 msgid "TYPE_COMMENT_NOTIF_DESC"
-msgstr "Receive an email when someone comments on your Flipnote"
+msgstr "作品にコメントが投稿されたときEメールを受け取る"
 
 msgid "TYPE_STAR_REPORT_NAME"
-msgstr "Daily Star Report"
+msgstr "1日のスターレポート"
 
 msgid "TYPE_STAR_REPORT_DESC"
-msgstr "Receive an email at the end of the day about any stars you've received"
+msgstr "一日の終わりに、受け取ったスターについてのEメールを受け取る"
 
 msgid "TYPE_SPINOFF_NOTIF_NAME"
-msgstr "Spin-off Received"
+msgstr "子作品を受信"
 
 msgid "TYPE_SPINOFF_NOTIF_DESC"
-msgstr "Receive an email when someone posts a spin-off to your Flipnote"
+msgstr "誰かが作品への子作品を投稿したときにEメールを受信する"
 
 msgid "TYPE_SECURITY_NOTIF_NAME"
-msgstr "Account Security"
+msgstr "アカウントのセキュリティ"
 
 msgid "TYPE_SECURITY_NOTIF_DESC"
-msgstr "Receive an email when your email address or password is updated"
+msgstr "Eメールアドレスまたはパスワードが更新されたときにEメールを受信する"
 
 msgid "TYPE_REPORT_UPDATE_NAME"
-msgstr "Flagged Content Update"
+msgstr "フラグ付きのコンテンツの更新"
 
 msgid "TYPE_REPORT_UPDATE_DESC"
-msgstr "Receive an email when we update the status of content that you've flagged"
+msgstr "フラグを立てたコンテンツが更新されたときメールを受信する"
 
 msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
-msgstr "Tap on a mail type's status to view or update it."
+msgstr "表示または更新するには、メールタイプの状態をタップします。"
 
 msgid "HEADER_CHANGE_EMAIL_SETTINGS"
-msgstr "Change Email Settings"
+msgstr "メール設定の変更"
 
 msgid "DISABLE_CONFIRMATION_FORMAT"
-msgstr "Are you sure you want to disable '%s' emails?"
+msgstr "'%s'のメールを無効にしてもよろしいですか？"
 
 msgid "REENABLE_INSTRUCTIONS"
-msgstr "If you want to turn them back on, you can do so from by selecting <strong>Email Settings</strong> in your Creator's Room."
+msgstr "再度有効にしたい場合は、マイページの<strong> メール設定</strong>で有効にできます。"
 
 msgid "EMAIL_SETTING_DISABLED_FINISH_FORMAT"
-msgstr "You've disabled '%s' emails."
+msgstr "'%s'のメールを無効にしました。"
 
 msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
-msgstr "The link you followed has expired."
+msgstr "あなたがたどったリンクは期限が切れました。"
 
