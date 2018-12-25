@@ -82,3 +82,24 @@ msgstr "Para restablecer el título como predeterminado, deja el formulario en b
 msgid "ENTER_TITLE"
 msgstr "Ingresar título..."
 
+msgid "HEADER_ADD_DESCRIPTION"
+msgstr "Add Description"
+
+msgid "HEADER_DESCRIPTION"
+msgstr "Description"
+
+msgid "SET_DESCRIPTION"
+msgstr "Set Description"
+
+msgid "SET_DESCRIPTION_INSTRUCTIONS"
+msgstr "Enter the new description for your Flipnote below."
+
+msgid "320_CHARACTER_LIMIT_DESC"
+msgstr "Your description is limited to 320 characters in length."
+
+msgid "LEAVE_BLANK_TO_RESET_DESC"
+msgstr "To remove the description, leave the form blank when submitting."
+
+msgid "ENTER_DESCRIPTION"
+msgstr "Enter description..."
+
