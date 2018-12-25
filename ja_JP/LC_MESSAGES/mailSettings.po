@@ -68,7 +68,7 @@ msgid "TYPE_SECURITY_NOTIF_NAME"
 msgstr "アカウントのセキュリティ"
 
 msgid "TYPE_SECURITY_NOTIF_DESC"
-msgstr "Eメールアドレスまたはパスワードが更新されたときにEメールを受信する"
+msgstr "メールアドレスまたはパスワードが更新されたときにEメールを受信する"
 
 msgid "TYPE_REPORT_UPDATE_NAME"
 msgstr "フラグ付きのコンテンツの更新"
@@ -86,11 +86,11 @@ msgid "DISABLE_CONFIRMATION_FORMAT"
 msgstr "'%s'のメールを無効にしてもよろしいですか？"
 
 msgid "REENABLE_INSTRUCTIONS"
-msgstr "再度有効にしたい場合は、マイページの<strong> メール設定</strong>で有効にできます。"
+msgstr "再度有効にしたい場合は、マイページの<strong>メール設定</strong>で有効にできます。"
 
 msgid "EMAIL_SETTING_DISABLED_FINISH_FORMAT"
 msgstr "'%s'のメールを無効にしました。"
 
 msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
-msgstr "あなたがたどったリンクは期限が切れました。"
+msgstr "このリンクは期限が切れました。"
 
