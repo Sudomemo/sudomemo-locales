@@ -23,7 +23,7 @@ msgid "FLIPNOTE_POST_FAILED"
 msgstr "作品の投稿に失敗しました。もう一度お試しください。"
 
 msgid "DUPLICATE_FLIPNOTE_FAILED"
-msgstr "このうごメモはご覧のスポンサーの提供でお送りしております。もう一度編集してください。"
+msgstr "この作品はすでにSudomemoに投稿されています。 もう一度編集してみてください。"
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
 msgstr "データが破損しています。もう一度お試しください。"
