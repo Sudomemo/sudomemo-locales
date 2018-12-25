@@ -1,30 +1,30 @@
 msgid "EMAIL_SUBJECT_FORMAT"
-msgstr "[Sudomemo] %s's Daily Star Report"
+msgstr "[Sudomemo] %s's の一日のスターレポート"
 
 msgid "STRING_SUDOMEMO"
 msgstr "Sudomemo"
 
 msgid "STRING_DAILY_STAR_REPORT"
-msgstr "Daily Star Report"
+msgstr "一日のスターレポート"
 
 msgid "TEXT_STAR_REPORT_GREETING_FORMAT"
-msgstr "Hello, %s! This is your Daily Star Report from Sudomemo."
+msgstr "こんにちは %s! これはSudomemoからのあなたの一日のスターレポートです。"
 
 msgid "TEXT_FLIPNOTE_BY_FORMAT"
-msgstr "Flipnote by %s"
+msgstr "%sの作品"
 
 msgid "TEXT_TOTAL_STARS_RECEIVED_TODAY"
-msgstr "Total Stars received today"
+msgstr "今日受け取ったスターの合計"
 
 msgid "TEXT_HOW_TO_VIEW_STAR_ADDERS_DSI"
-msgstr "Using your Nintendo DSi System, you can see who added Stars by tapping <strong>Stars</strong> in your Flipnote's details page on Sudomemo."
+msgstr "Sudomemoを開き、作品の詳細ページの<strong>スター</strong>をタップすることでスターを付けた人を見ることができます。"
 
 msgid "TEXT_CHANGE_SETTINGS_PROMPT"
-msgstr "Want to adjust the emails you get from Sudomemo?"
+msgstr "Sudomemoから受け取るメールの設定をしたいですか？"
 
 msgid "TEXT_HOW_TO_CHANGE_SETTINGS_DSI"
-msgstr "You can easily update them by visiting your Creator's Room on Sudomemo and selecting <strong>Mail Settings</strong>."
+msgstr "Sudomemoを開き、マイルームにアクセスして<strong>メール設定</strong>を選択することで設定を変更することができます。。"
 
 msgid "TEXT_WEB_SETTINGS_CHANGE_FORMAT"
-msgstr "Or, you can turn off these kinds of emails by clicking <a target=\"_blank\" href=\"%s\"><strong>here</strong></a>."
+msgstr "または <a target=\"_blank\" href=\"%s\"><strong>こちら</strong></a>をクリックしてメールを無効にすることもできます。"
 
