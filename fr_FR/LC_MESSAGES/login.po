@@ -14,7 +14,7 @@ msgid "LOGIN_SUCCESSFUL"
 msgstr "Connexion réussie"
 
 msgid "THANKS_FOR_LOGIN_FORMAT"
-msgstr "Merci de vous être connecté, %s!"
+msgstr "Merci de vous être connecté, %s !"
 
 msgid "GOTO_CREATORS_ROOM"
 msgstr "Visitez votre salle de créateur"
@@ -29,16 +29,16 @@ msgid "LOGIN_SETUP"
 msgstr "Création d'un mot de passe"
 
 msgid "WELCOME_BACK_FORMAT"
-msgstr "Bon retour, %s!"
+msgstr "Bon retour, %s !"
 
 msgid "RETURNING_USER_NEW_LOGIN_SYSTEM"
-msgstr "Depuis votre dernière visite, nous avons ajouté un nouveau système d'identification -- Mais pas de soucis, tout votre contenu est toujours ici!"
+msgstr "Depuis votre dernière visite, nous avons ajouté un nouveau système d'identification -- Mais pas de soucis, tout votre contenu est toujours ici !"
 
 msgid "RETURNING_USER_PLEASE_CREATE_PASSWORD"
 msgstr "Pour commencer, créez un mot de passe ci-dessous s'il-vous-plaît."
 
 msgid "NEW_USER_WELCOME_FORMAT"
-msgstr "Bienvenue sur Sudomemo, %s!"
+msgstr "Bienvenue sur Sudomemo, %s !"
 
 msgid "NEW_USER_PLEASE_CREATE_PASSWORD"
 msgstr "Entrez un nouveau mot de passe, s'il-vous-plaît."
@@ -116,10 +116,10 @@ msgid "REGISTRATION_ERROR_PASSWORD_ALREADY_SET"
 msgstr "Le mot de passe a déjà été défini."
 
 msgid "NEW_USER_THANKS_FOR_REGISTRATION"
-msgstr "Bienvenue sur Sudomemo!"
+msgstr "Bienvenue sur Sudomemo !"
 
 msgid "RETURNING_USER_THANKS_FOR_REGISTRATION"
-msgstr "Bon retour! Merci d'avoir mis en place vos informations de connexion."
+msgstr "Bon retour ! Merci d'avoir mis en place vos informations de connexion."
 
 msgid "BUTTON_SIGN_IN_TO_SUDOMEMO"
 msgstr "Se connecter à Sudomemo"
@@ -128,7 +128,7 @@ msgid "LOGIN_FAILED"
 msgstr "Erreur d'identification."
 
 msgid "LOGIN_FAILED_REOPEN_FLIPNOTE_STUDIO"
-msgstr "Identification échouée. Fermez et redémarrez Flipnote Studio."
+msgstr "Échec de l'identification. Fermez et redémarrez Flipnote Studio."
 
 msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE1"
 msgstr "Les données de la Flipnote ont été corrompues."
