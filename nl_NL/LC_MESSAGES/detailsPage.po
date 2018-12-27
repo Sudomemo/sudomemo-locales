@@ -83,23 +83,22 @@ msgid "ENTER_TITLE"
 msgstr "Voer titel in..."
 
 msgid "HEADER_ADD_DESCRIPTION"
-msgstr "Add Description"
+msgstr "Beschrijving toevoegen"
 
 msgid "HEADER_DESCRIPTION"
-msgstr "Description"
+msgstr "Beschrijving"
 
 msgid "SET_DESCRIPTION"
-msgstr "Set Description"
+msgstr "Beschrijving geven"
 
 msgid "SET_DESCRIPTION_INSTRUCTIONS"
-msgstr "Enter the new description for your Flipnote below."
+msgstr "Voer de nieuwe beschrijving voor jouw Flipnote beneden in."
 
 msgid "320_CHARACTER_LIMIT_DESC"
-msgstr "Your description is limited to 320 characters in length."
+msgstr "Jouw beschrijving mag niet langer zijn dan 320 karakters."
 
 msgid "LEAVE_BLANK_TO_RESET_DESC"
-msgstr "To remove the description, leave the form blank when submitting."
+msgstr "Om de beschrijving te verwijderen, laat het formulier leeg bij het insturen."
 
 msgid "ENTER_DESCRIPTION"
-msgstr "Enter description..."
-
+msgstr "Voer beschrijving in..."
