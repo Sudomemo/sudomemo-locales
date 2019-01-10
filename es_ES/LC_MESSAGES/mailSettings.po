@@ -80,7 +80,7 @@ msgid "TYPE_UNREAD_COMMENTS_NAME"
 msgstr "Unread Comments"
 
 msgid "TYPE_UNREAD_COMMENTS_DESC"
-msgstr "Receive	an email summary of any	new comments you've received recently"
+msgstr "Receive an email summary of any new comments you've received recently"
 
 msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
 msgstr "Presiona el estado de un tipo de Correo para verlo o actualizarlo"
