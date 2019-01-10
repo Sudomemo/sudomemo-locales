@@ -1,20 +1,20 @@
 msgid "EMAIL_SUBJECT_FORMAT"
-msgstr "[Sudomemo] %s, you've got new comments on your Flipnotes!"
+msgstr "[Sudomemo] %s、作品に新しいコメントが付きました！"
 
 msgid "TITLE_NEW_COMMENTS"
-msgstr "New Comments"
+msgstr "新しいコメント"
 
 msgid "HELLO_FORMAT"
-msgstr "Hello, %s!"
+msgstr "こんにちは、%s!"
 
 msgid "TEXT_YOU_HAVE_X_COMMENTS_FROM_FORMAT"
-msgstr "You have %d new comment(s) on Sudomemo from %s"
+msgstr "スドメモに%sから%d個の新しいコメントがあります"
 
 msgid "AND"
-msgstr "and"
+msgstr "そして"
 
 msgid "AND_X_OTHERS_FORMAT"
-msgstr "and %s others."
+msgstr "他 %s。"
 
 msgid "TEXT_HOW_TO_VIEW_UNREAD_COMMENTS_TAP_ICON_FORMAT"
-msgstr "You can view your unread comments on Sudomemo by tapping %s on your notification bar."
+msgstr "通知バーの%sをタップすると、スドメモに関する未読のコメントを見ることができます。"
