@@ -5,7 +5,7 @@ msgid "STRING_SUDOMEMO"
 msgstr "Sudomemo"
 
 msgid "STRING_DAILY_STAR_REPORT"
-msgstr "Rapport quoitidien des étoiles"
+msgstr "Rapport quotidien des étoiles"
 
 msgid "TEXT_STAR_REPORT_GREETING_FORMAT"
 msgstr "Bonjour, %s ! Ceci est votre rapport quotidien des étoiles de Sudomemo."
@@ -23,7 +23,7 @@ msgid "TEXT_CHANGE_SETTINGS_PROMPT"
 msgstr "Vous voulez ajuster les mails que vous recevez de Sudomemo ?"
 
 msgid "TEXT_HOW_TO_CHANGE_SETTINGS_DSI"
-msgstr "Vous pouvez facilement les mettre à jour en visitant votre Salle de créateur sur Sudomemo et en sélectionnant <strong>Paramètres de mail</strong>."
+msgstr "Vous pouvez facilement modifier les paramètres en visitant votre Salle de créateur sur Sudomemo et en sélectionnant <strong>Paramètres de mail</strong>."
 
 msgid "TEXT_WEB_SETTINGS_CHANGE_FORMAT"
 msgstr "Sinon, vous pouvez désactiver ce type de mail en cliquant <a target=\"_blank\" href=\"%s\"><strong>ici</strong></a>."
