@@ -11,7 +11,7 @@ msgid "HEADER_NEXT"
 msgstr "次へ"
 
 msgid "HEADER_REFRESH"
-msgstr "再読み込み"
+msgstr "リロード"
 
 msgid "PAGE_FORMAT"
 msgstr "%dページ"
@@ -29,7 +29,7 @@ msgid "NO_BLANK_COMMENTS_ALLOWED"
 msgstr "空白のコメントを投稿することはできません。"
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "うごメモのデータが破損しています。 もう一度やり直してください。"
+msgstr "作品のデータが破損しています。 もう一度やり直してください。"
 
 msgid "FLIPNOTE_COMMENTS_DISALLOWED"
 msgstr "あなたはこの作品にコメントできません"
