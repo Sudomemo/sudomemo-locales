@@ -8,7 +8,7 @@ msgid "HELLO_FORMAT"
 msgstr "hej, %s!"
 
 msgid "TEXT_YOU_HAVE_X_COMMENTS_FROM_FORMAT"
-msgstr "Du har %d nya kommentarer på Sudomemo från %s!"
+msgstr "Du har %d nya kommentar(er) på Sudomemo från %s"
 
 msgid "AND"
 msgstr "och"
