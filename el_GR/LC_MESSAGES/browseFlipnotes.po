@@ -25,6 +25,9 @@ msgstr "Χαζεψτε Flipnotes"
 msgid "HEADER_FEATURED_FLIPNOTES"
 msgstr "Προβαλλομενα Flipnotes"
 
+msgid "HEADER_RANDOM_FLIPNOTES"
+msgstr "Random Flipnotes"
+
 msgid "HEADER_PAGE"
 msgstr "Σελιδα"
 
@@ -54,4 +57,7 @@ msgstr "@Πιο Δημοφιλη"
 
 msgid "CATEGORY_featured"
 msgstr "@Προβαλλομενα Flipnotes"
+
+msgid "CATEGORY_random"
+msgstr "@Random Flipnotes"
 

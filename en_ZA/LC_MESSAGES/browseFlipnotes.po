@@ -25,6 +25,9 @@ msgstr "meme wepositowy"
 msgid "HEADER_FEATURED_FLIPNOTES"
 msgstr "the chosen ones"
 
+msgid "HEADER_RANDOM_FLIPNOTES"
+msgstr "Random Flipnotes"
+
 msgid "HEADER_PAGE"
 msgstr "rank"
 
@@ -54,4 +57,7 @@ msgstr "@THE MP!! UwU"
 
 msgid "CATEGORY_featured"
 msgstr "@chosen ones"
+
+msgid "CATEGORY_random"
+msgstr "@Random Flipnotes"
 

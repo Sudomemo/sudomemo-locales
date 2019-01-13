@@ -25,6 +25,9 @@ msgstr "Bläddra Flipnotes"
 msgid "HEADER_FEATURED_FLIPNOTES"
 msgstr "Utvalda Flipnotes"
 
+msgid "HEADER_RANDOM_FLIPNOTES"
+msgstr "Random Flipnotes"
+
 msgid "HEADER_PAGE"
 msgstr "Sida"
 
@@ -54,4 +57,7 @@ msgstr "Mest Populära"
 
 msgid "CATEGORY_featured"
 msgstr "Utvalda Flipnotes"
+
+msgid "CATEGORY_random"
+msgstr "@Random Flipnotes"
 
