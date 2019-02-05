@@ -103,3 +103,6 @@ msgstr "説明を削除するには、フォームを空白にしたまま送信
 msgid "ENTER_DESCRIPTION"
 msgstr "説明を入力してください..."
 
+msgid "HEADER_FLIPNOTE_OPTIONS"
+msgstr "Options"
+

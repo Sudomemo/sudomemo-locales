@@ -102,3 +102,7 @@ msgstr "To remove the description, leave the form blank when submitting."
 
 msgid "ENTER_DESCRIPTION"
 msgstr "Enter description..."
+
+msgid "HEADER_FLIPNOTE_OPTIONS"
+msgstr "Options"
+
