@@ -1,0 +1,39 @@
+msgid "FLIPNOTE_OPTIONS"
+msgstr "Options de la Flipnote"
+
+msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
+msgstr "Vous devez être connecté pour voir cette page."
+
+msgid "HEADER_OPTION"
+msgstr "Option"
+
+msgid "HEADER_STATUS"
+msgstr "Statut"
+
+msgid "OPTION_NAME_SMOOTH"
+msgstr "Lissage"
+
+msgid "OPTION_DESC_SMOOTH"
+msgstr "Les lignes, les courbes et les bords sont lissés pour donner un aspect plus naturel sur Sudomemo Theatre."
+
+msgid "FLIPNOTE_URL_IS"
+msgstr "URL de la Flipnote :"
+
+msgid "ENABLE_SMOOTHING"
+msgstr "Activer le lissage"
+
+msgid "DISABLE_SMOOTHING"
+msgstr "Désactiver le lissage"
+
+msgid "ON"
+msgstr "Oui"
+
+msgid "OFF"
+msgstr "Non"
+
+msgid "CITIZENSHIP_REQUIRED"
+msgstr "Vous devez être un citoyen Sudomemo pour utiliser cette fonctionnalité."
+
+msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
+msgstr "Appuyez sur le statut d'une option pour l'afficher ou le modifier."
+

@@ -94,12 +94,15 @@ msgstr "説明の設定"
 msgid "SET_DESCRIPTION_INSTRUCTIONS"
 msgstr "作品の説明を入力してください。"
 
-msgid "320_CHARACTER_LIMIT_DESC"
-msgstr "説明は320文字以内に制限されています"
+msgid "101_CHARACTER_LIMIT_DESC"
+msgstr "説明は101文字以内に制限されています"
 
 msgid "LEAVE_BLANK_TO_RESET_DESC"
 msgstr "説明を削除するには、フォームを空白にしたまま送信します。"
 
 msgid "ENTER_DESCRIPTION"
 msgstr "説明を入力してください..."
+
+msgid "HEADER_FLIPNOTE_OPTIONS"
+msgstr "Options"
 

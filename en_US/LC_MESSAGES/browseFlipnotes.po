@@ -25,6 +25,9 @@ msgstr "Browse Flipnotes"
 msgid "HEADER_FEATURED_FLIPNOTES"
 msgstr "Featured Flipnotes"
 
+msgid "HEADER_RANDOM_FLIPNOTES"
+msgstr "Random Flipnotes"
+
 msgid "HEADER_PAGE"
 msgstr "Page"
 
@@ -54,4 +57,7 @@ msgstr "@Most Popular"
 
 msgid "CATEGORY_featured"
 msgstr "@Featured Flipnotes"
+
+msgid "CATEGORY_random"
+msgstr "@Random Flipnotes"
 

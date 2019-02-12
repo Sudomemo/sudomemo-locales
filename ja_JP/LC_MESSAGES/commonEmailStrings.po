@@ -1,0 +1,9 @@
+msgid "TEXT_CHANGE_SETTINGS_PROMPT"
+msgstr "スドメモから受け取るメールの設定の変更を希望しますか？"
+
+msgid "TEXT_HOW_TO_CHANGE_SETTINGS_DSI"
+msgstr "スドメモのマイルームにアクセスし、<strong>メール設定</strong>を選択することで簡単に設定を変更できます。"
+
+msgid "TEXT_WEB_SETTINGS_CHANGE_FORMAT"
+msgstr "または、<a target=\"_blank\" href=\"%s\"><strong>こちら</strong></a>をクリックすることでメールの受信を停止することができます。"
+

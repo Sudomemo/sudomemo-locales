@@ -94,11 +94,14 @@ msgstr "Beschrijving geven"
 msgid "SET_DESCRIPTION_INSTRUCTIONS"
 msgstr "Voer de nieuwe beschrijving voor jouw Flipnote beneden in."
 
-msgid "320_CHARACTER_LIMIT_DESC"
-msgstr "Jouw beschrijving mag niet langer zijn dan 320 karakters."
+msgid "101_CHARACTER_LIMIT_DESC"
+msgstr "Jouw beschrijving mag niet langer zijn dan 101 karakters."
 
 msgid "LEAVE_BLANK_TO_RESET_DESC"
 msgstr "Om de beschrijving te verwijderen, laat het formulier leeg bij het insturen."
 
 msgid "ENTER_DESCRIPTION"
 msgstr "Voer beschrijving in..."
+
+msgid "HEADER_FLIPNOTE_OPTIONS"
+msgstr "Options"

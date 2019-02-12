@@ -25,6 +25,9 @@ msgstr "Blader door Flipnotes"
 msgid "HEADER_FEATURED_FLIPNOTES"
 msgstr "Aanbevolen Flipnotes"
 
+msgid "HEADER_RANDOM_FLIPNOTES"
+msgstr "Random Flipnotes"
+
 msgid "HEADER_PAGE"
 msgstr "Bladzijde"
 
@@ -54,3 +57,7 @@ msgstr "Meest Populair"
 
 msgid "CATEGORY_featured"
 msgstr "Aanbevolen"
+
+msgid "CATEGORY_random"
+msgstr "@Random Flipnotes"
+

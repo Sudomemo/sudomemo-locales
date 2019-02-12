@@ -76,6 +76,12 @@ msgstr "フラグ付きのコンテンツの更新"
 msgid "TYPE_REPORT_UPDATE_DESC"
 msgstr "フラグを立てたコンテンツが更新されたときメールを受信する"
 
+msgid "TYPE_UNREAD_COMMENTS_NAME"
+msgstr "未読のコメント"
+
+msgid "TYPE_UNREAD_COMMENTS_DESC"
+msgstr "最近受け取った新しいコメントの内容をメールで受け取る"
+
 msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
 msgstr "表示または更新するには、メールタイプの状態をタップします。"
 

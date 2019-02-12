@@ -1,0 +1,20 @@
+msgid "EMAIL_SUBJECT_FORMAT"
+msgstr "[スドメモ] %s、作品に新しいコメントが付きました！"
+
+msgid "TITLE_NEW_COMMENTS"
+msgstr "新しいコメント"
+
+msgid "HELLO_FORMAT"
+msgstr "こんにちは、%s!"
+
+msgid "TEXT_YOU_HAVE_X_COMMENTS_FROM_FORMAT"
+msgstr "スドメモに%sから%d個の新しいコメントがあります"
+
+msgid "AND"
+msgstr "そして"
+
+msgid "AND_X_OTHERS_FORMAT"
+msgstr "他 %s。"
+
+msgid "TEXT_HOW_TO_VIEW_UNREAD_COMMENTS_TAP_ICON_FORMAT"
+msgstr "通知バーの%sをタップすると、スドメモに関する未読のコメントを見ることができます。"

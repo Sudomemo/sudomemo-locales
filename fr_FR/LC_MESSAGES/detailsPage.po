@@ -94,12 +94,15 @@ msgstr "Mettre une description"
 msgid "SET_DESCRIPTION_INSTRUCTIONS"
 msgstr "Entrez la nouvelle description de votre Flipnote ci-dessous."
 
-msgid "320_CHARACTER_LIMIT_DESC"
-msgstr "Votre description ne peut pas avoir plus de 320 caractères."
+msgid "101_CHARACTER_LIMIT_DESC"
+msgstr "Votre description ne peut pas avoir plus de 101 caractères."
 
 msgid "LEAVE_BLANK_TO_RESET_DESC"
 msgstr "Pour supprimer la description, laissez le formulaire vide lorsque vous l'envoyez."
 
 msgid "ENTER_DESCRIPTION"
 msgstr "Entrez une description..."
+
+msgid "HEADER_FLIPNOTE_OPTIONS"
+msgstr "Options"
 

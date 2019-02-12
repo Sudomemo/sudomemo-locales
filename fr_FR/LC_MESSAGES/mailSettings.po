@@ -76,6 +76,12 @@ msgstr "Mise à jour du contenu signalé"
 msgid "TYPE_REPORT_UPDATE_DESC"
 msgstr "Recevez un mail quand nous mettons à jour le statut d'un contenu que vous avez signalé"
 
+msgid "TYPE_UNREAD_COMMENTS_NAME"
+msgstr "Commentaires non lus"
+
+msgid "TYPE_UNREAD_COMMENTS_DESC"
+msgstr "Recevez un résumé par mail de tous les nouveaux commentaires que vous avez reçus récemment"
+
 msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
 msgstr "Appuyez sur le statut d'un type de mail pour l'afficher ou le mettre à jour."
 
