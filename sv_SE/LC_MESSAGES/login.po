@@ -241,3 +241,6 @@ msgstr "Byt e-postadress"
 msgid "SEARCH_FOR_SENDER_EMAIL_FORMAT"
 msgstr "Har inte fått  ett mail? Kontrollera din Skräppost och sök efter %s. Om du upptäcker att det var märkt som skräppost, vanligen se till att du avmarkerar den."
 
+msgid "NEW_USER_INTRO_POST_INTRO_CHANNEL"
+msgstr "When you're ready, go ahead and introduce yourself in our Introduction channel, under the Personal category."
+
