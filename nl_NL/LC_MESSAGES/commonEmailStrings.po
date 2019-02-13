@@ -1,9 +1,8 @@
 msgid "TEXT_CHANGE_SETTINGS_PROMPT"
-msgstr "Want to adjust the emails you get from Sudomemo?"
+msgstr "Wil je aanpassen welke e-mails je krijgt van Sudomemo?"
 
 msgid "TEXT_HOW_TO_CHANGE_SETTINGS_DSI"
-msgstr "You can easily update them by visiting your Creator's Room on Sudomemo and selecting <strong>Mail Settings</strong>."
+msgstr "Je kan het gemakkelijk aanpassen door naar je Maker's Ruimte op Sudomemo te gaan en <strong>E-mail Instellingen</strong> te selecteren."
 
 msgid "TEXT_WEB_SETTINGS_CHANGE_FORMAT"
-msgstr "Or, you can turn off these kinds of emails by clicking <a target=\"_blank\" href=\"%s\"><strong>here</strong></a>."
-
+msgstr "Of, je kan al deze soort e-mails uitzetten door <a target=\"_blank\" href=\"%s\"><strong>hier</strong></a> te klikken."
