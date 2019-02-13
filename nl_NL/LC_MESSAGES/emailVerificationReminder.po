@@ -1,19 +1,17 @@
 msgid "EMAIL_SUBJECT"
-msgstr "[Sudomemo] You need to verify your email address"
+msgstr "[Sudomemo] Je moet je e-mailadres verifiëren"
 
 msgid "VERIFICATION_HEADER"
-msgstr "Sudomemo - Verify Email"
+msgstr "Sudomemo - Verifieer e-mailadres"
 
 msgid "TEXT_HELLO_FORMAT"
-msgstr "Hello, %s!"
+msgstr "Hallo, %s!"
 
 msgid "TEXT_NEED_TO_VERIFY_EMAIL"
-msgstr "This is a reminder that you need to verify your email address on Sudomemo."
+msgstr "Dit is een herinnering dat je je e-mailadres op Sudomemo moet verifiëren."
 
 msgid "TEXT_LOGIN_WITH_DSI_TO_VERIFY"
-msgstr "You can have a new verification email sent to you by logging into Sudomemo with your Nintendo DSi System."
+msgstr "We kunnen je een nieuwe verificatie e-mail sturen als je inlogd op Sudomemo met je Nintendo DSi Systeem."
 
 msgid "TEXT_NEED_HELP_CONNECTION_INFO_LINK_FORMAT"
-msgstr "Need help connecting to Sudomemo? The setup guide can be found here: %s"
-
-
+msgstr "Hulp nodig bij het verbinden met Sudomemo? Hoe dat moet kan je hier vinden: %s"
