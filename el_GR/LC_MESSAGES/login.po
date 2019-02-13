@@ -240,3 +240,7 @@ msgstr "Change Email Address"
 
 msgid "SEARCH_FOR_SENDER_EMAIL_FORMAT"
 msgstr "Haven't received the email? Check your Spam box, and search for %s. If you find that it was marked spam, please ensure you first mark it Not Spam."
+
+msgid "NEW_USER_INTRO_POST_INTRO_CHANNEL"
+msgstr "When you're ready, go ahead and introduce yourself in our Introduction channel, under the Personal category."
+

@@ -157,3 +157,24 @@ msgstr "言語"
 msgid "HEADER_MAIL_SETTINGS"
 msgstr "メール設定"
 
+msgid "HEADER_EDIT_BIOGRAPHY"
+msgstr "Edit Biography"
+
+msgid "SET_BIO_INSTRUCTIONS"
+msgstr "Enter your profile biography below. This will be displayed on Sudomemo and Sudomemo Theatre."
+
+msgid "ENTER_BIO"
+msgstr "Enter Bio..."
+
+msgid "101_CHARACTER_LIMIT_BIO"
+msgstr "Your biography is limited to 101 characters."
+
+msgid "LEAVE_BLANK_TO_RESET_BIO"
+msgstr "To clear your biography, leave the form blank when submitting."
+
+msgid "CURRENT_BIO"
+msgstr "Current Bio:"
+ 
+msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
+msgstr "You can't follow more than %d users."
+

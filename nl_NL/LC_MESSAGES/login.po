@@ -240,3 +240,7 @@ msgstr "Verander E-mailadres"
 
 msgid "SEARCH_FOR_SENDER_EMAIL_FORMAT"
 msgstr "Geen e-mail ontvangen? Check je Spam box, en zoek voor %s. Als het blijkt dat het gemarkeert is als span, zorg er voor dat je het markeert als Geen Spam."
+
+msgid "NEW_USER_INTRO_POST_INTRO_CHANNEL"
+msgstr "When you're ready, go ahead and introduce yourself in our Introduction channel, under the Personal category."
+
