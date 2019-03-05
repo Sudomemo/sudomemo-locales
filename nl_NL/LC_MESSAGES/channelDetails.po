@@ -33,3 +33,6 @@ msgstr "Je mag geen lege Flipnote plaatsen."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
 msgstr "Bevestig alsjeblieft je e-mailadres voor je iets plaatst."
+
+msgid "NO_POSTS_WHILE_MUTED"
+msgstr "You may not post while you are muted."

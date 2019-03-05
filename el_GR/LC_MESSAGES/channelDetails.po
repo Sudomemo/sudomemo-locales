@@ -33,3 +33,6 @@ msgstr "You may not post an empty Flipnote."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
 msgstr "Please confirm your email before posting."
+
+msgid "NO_POSTS_WHILE_MUTED"
+msgstr "You may not post while you are muted."

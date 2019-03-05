@@ -177,3 +177,6 @@ msgstr "Current Bio:"
 
 msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
 msgstr "You can't follow more than %d users."
+
+msgid "RANKING"
+msgstr "Ranking"
