@@ -30,3 +30,6 @@ msgstr "Die Flipnote Datei ist beschädigt! Versuche es später erneut."
 
 msgid "NO_BLANK_FLIPNOTES_ALLOWED"
 msgstr "Du kannst keine leeren Flipnotes posten."
+
+msgid "NO_POSTS_WHILE_MUTED"
+msgstr "You may not post while you are muted."
