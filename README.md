@@ -104,3 +104,7 @@ If your name is missing, please also reach out to us - sometimes it slips betwee
 #### English to Swedish
 
 @[Sweirde](https://github.com/sweirde)
+
+#### English to Italian
+
+@[crensyhanilas](https://github.com/crensyhanilas)
