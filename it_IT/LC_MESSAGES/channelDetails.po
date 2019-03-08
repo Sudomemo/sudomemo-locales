@@ -1,0 +1,35 @@
+msgid "CHANNEL_NAME"
+msgstr "Nome Canale"
+
+msgid "CHANNEL_INFORMATION"
+msgstr "Informazioni canale"
+
+msgid "FLIPNOTES"
+msgstr "Flipnote"
+
+msgid "CHANNEL_ID"
+msgstr "ID canale"
+
+msgid "LOGIN_REQUIRED_TO_POST"
+msgstr "Devi accedere per pubblicare i flipnote."
+
+msgid "CHANNEL_NOT_SPECIFIED"
+msgstr "il Canale deve essere dentro."
+
+msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
+msgstr "Gentile Sudo, non è possibile pubblicare i flipnote perché ha rotto le braccia e mani."
+
+msgid "FLIPNOTE_POST_FAILED"
+msgstr "Pubblicazione Fallita. Riprova."
+
+msgid "DUPLICATE_FLIPNOTE_FAILED"
+msgstr "Flipnote è già pubblicato. quindi, modifica e crea."
+
+msgid "FLIPNOTE_DATA_CORRUPTED"
+msgstr "null"
+
+msgid "NO_BLANK_FLIPNOTES_ALLOWED"
+msgstr "non è possibile pubblicare un flipnote vuoto."
+
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "Verifica la mail (Google) Prima di pubblicare."
