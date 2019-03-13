@@ -19,12 +19,4 @@ msgstr "How many stars today? :O"
 msgid "TEXT_HOW_TO_VIEW_STAR_ADDERS_DSI"
 msgstr "With ur DSi, u can see all the SUPER DUPER star-adders, by tapping <strong>OwO whats this</strong> in the Flipnote's details page on Sudomemo."
 
-msgid "TEXT_CHANGE_SETTINGS_PROMPT"
-msgstr "Want to adjust the emails you get from Sudomemo?"
-
-msgid "TEXT_HOW_TO_CHANGE_SETTINGS_DSI"
-msgstr "You can easily update them by visiting your Creator's Room on Sudomemo and selecting <strong>Mail Settings</strong>."
-
-msgid "TEXT_WEB_SETTINGS_CHANGE_FORMAT"
-msgstr "Or, you can turn off these kinds of emails by clicking <a target=\"_blank\" href=\"%s\"><strong>here</strong></a>."
 
