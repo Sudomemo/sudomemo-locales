@@ -19,12 +19,3 @@ msgstr "Total de Estrellas recibidas hoy"
 msgid "TEXT_HOW_TO_VIEW_STAR_ADDERS_DSI"
 msgstr "Usando tu Nintendo DSi, puedes ver quien ha añadido estrellas tocando <strong>Estrellas</strong> en la página de detalles de tu Flipnote en Sudomemo."
 
-msgid "TEXT_CHANGE_SETTINGS_PROMPT"
-msgstr "¿Quieres ajustar los correos que obtienes de Sudomemo?"
-
-msgid "TEXT_HOW_TO_CHANGE_SETTINGS_DSI"
-msgstr "Los puedes actualizar fácilmente visitando tu Sala del Creador en Sudomemo y seleccionando <strong>Ajustes de correo</strong>."
-
-msgid "TEXT_WEB_SETTINGS_CHANGE_FORMAT"
-msgstr "O, puedes desactivar este tipo de correos presionando <a target=\"_blank\" href=\"%s\"><strong>Aquí</strong></a>."
-

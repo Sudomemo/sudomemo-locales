@@ -19,11 +19,3 @@ msgstr "今日受け取った合計スター数"
 msgid "TEXT_HOW_TO_VIEW_STAR_ADDERS_DSI"
 msgstr "ニンテンドーDSiを使用して、スドメモ上のあなたのうごメモの詳細ページで<strong>スター</strong>をタッチすることでスターを追加した人を見ることができます。"
 
-msgid "TEXT_CHANGE_SETTINGS_PROMPT"
-msgstr "あなたがスドメモから受け取るメールを設定したいですか？"
-
-msgid "TEXT_HOW_TO_CHANGE_SETTINGS_DSI"
-msgstr "スドメモから受け取るメールを設定するには、スドメモのマイルームにアクセスし、<strong>メール設定</strong>を選択してください。"
-
-msgid "TEXT_WEB_SETTINGS_CHANGE_FORMAT"
-msgstr "または、<a target=\"_blank\" href=\"%s\"> <strong>こちら</strong> </a>をクリックして、これらの種類のメールを無効にすることもできます。"
