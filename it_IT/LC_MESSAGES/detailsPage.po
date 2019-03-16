@@ -80,7 +80,7 @@ msgid "LEAVE_BLANK_TO_RESET"
 msgstr "Per reimpostare il titolo come predefinito, lascia vuoto il modulo quando invii."
 
 msgid "ENTER_TITLE"
-msgstr "Inserisci il titolo ..."
+msgstr "Inserisci il titolo..."
 
 msgid "HEADER_ADD_DESCRIPTION"
 msgstr "Aggiungi una descrizione"
@@ -101,7 +101,7 @@ msgid "LEAVE_BLANK_TO_RESET_DESC"
 msgstr "Per rimuovere la descrizione, lascia vuoto il modulo durante l'invio."
 
 msgid "ENTER_DESCRIPTION"
-msgstr "Inserisci la descrizione ..."
+msgstr "Inserisci la descrizione..."
 
 msgid "HEADER_FLIPNOTE_OPTIONS"
 msgstr ""
