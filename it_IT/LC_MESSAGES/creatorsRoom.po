@@ -1,179 +1,179 @@
 msgid "SEE_MORE"
-msgstr "See more..."
+msgstr "Altro..."
 
 msgid "STARRED_FLIPNOTES"
-msgstr "Starred Flipnotes"
+msgstr "Flipnote stellati"
 
 msgid "FAVORITE_USERS"
-msgstr "Favorite Users"
+msgstr "Utenti preferiti"
 
 msgid "FAVORITES_FEED"
-msgstr "Favorites Feed"
+msgstr "Feed preferiti"
 
 msgid "FAVORITE_CHANNELS"
-msgstr "Favorite Channels"
+msgstr "Canali preferiti"
 
 msgid "USER_DOWNLOADCOUNT"
-msgstr "Downloads"
+msgstr "Download"
 
 msgid "USER_VIEWCOUNT"
-msgstr "Views"
+msgstr "Visualizzazioni"
 
 msgid "USER_THEME"
-msgstr "Theme"
+msgstr "Tema"
 
 msgid "THEME_SHOP"
-msgstr "Theme Shop"
+msgstr "Negozio di temi"
 
 msgid "POSTED_COMMENTS"
-msgstr "Posted Comments"
+msgstr "Commenti pubblicati"
 
 msgid "POSTED_CHATCOMMENTS"
-msgstr "Chatroom Messages"
+msgstr "Messaggi di Chatroom"
 
 msgid "FEATURE_USABILITY"
-msgstr "Feature Usability"
+msgstr "Usabilità caratteristica"
 
 msgid "USABLE"
-msgstr "Usable"
+msgstr "Utilizzabile"
 
 msgid "NOT_USABLE"
-msgstr "Not Usable"
+msgstr "Non utilizzabile"
 
 msgid "SUDOMEMO_THEATRE_URL"
-msgstr "Sudomemo Theatre Link"
+msgstr "Collegamento al teatro Sudomemo"
 
 msgid "FLIPNOTE_STUDIO_ID"
 msgstr "Flipnote Studio ID"
 
 msgid "SETTINGS"
-msgstr "Settings"
+msgstr "impostazioni"
 
 msgid "ADMIN_ACCT_GOOD_STANDING"
-msgstr "In good standing"
+msgstr "In regola"
 
 msgid "ADMIN_ACCT_BANNED"
-msgstr "Banned"
+msgstr "Bandito"
 
 msgid "ADMIN_ACCT_BLOCKED"
-msgstr "Blocked"
+msgstr "Bloccato"
 
 msgid "ADMIN_ACCT_MUTED"
-msgstr "Muted"
+msgstr "Muto"
 
 msgid "ADMIN_USER_DETAILS"
-msgstr "User Details"
+msgstr "Dettagli utente"
 
 msgid "ADMIN_LAST_SEEN"
-msgstr "Last seen"
+msgstr "Ultima visualizzazione"
 
 msgid "ADMIN_USER_STATUS"
-msgstr "User Status"
+msgstr "Stato dell'utente"
 
 msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
-msgstr "Admin Actions"
+msgstr "Azioni di amministrazione"
 
 msgid "BLOCK_COMMENTS_HEADER"
-msgstr "Block Comments"
+msgstr "Blocca commenti"
 
 msgid "BLOCK_COMMENTS_LINK"
-msgstr "Block"
+msgstr "Blocca"
 
 msgid "USABILITY_USABLE"
-msgstr "Usable"
+msgstr "Utilizzabile"
 
 msgid "USABILITY_NOT_USABLE"
-msgstr "Not Usable"
+msgstr "Non utilizzabile"
 
 msgid "HEADER_FOLLOWERS"
-msgstr "Followers"
+msgstr "Seguiti"
 
 msgid "HEADER_FOLLOWING"
-msgstr "Following"
+msgstr "Seguito"
 
 msgid "PREVIOUS"
-msgstr "Previous"
+msgstr "Precedente"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "Prossimi"
 
 msgid "CHANGE_ROOM_THEME_LINK"
-msgstr "[change theme]"
+msgstr "[cambia tema]"
 
 msgid "SELECT_THEME"
-msgstr "Select Theme"
+msgstr "Seleziona il tema"
 
 msgid "FANS"
 msgstr "Fans"
 
 msgid "EXAMPLE"
-msgstr "Example"
+msgstr "Esempio"
 
 msgid "THEMETEST_SET_THEME"
-msgstr "Set Theme"
+msgstr "Imposta tema"
 
 msgid "THEMETEST_NOTICE"
-msgstr "Notice"
+msgstr "Avviso"
 
 msgid "THEMETEST_OK"
-msgstr "Okay"
+msgstr "Va bene"
 
 msgid "THEMETEST_ERROR"
-msgstr "Error"
+msgstr "Errore"
 
 msgid "THEMETEST_NOTICE_2"
-msgstr "Notice #2"
+msgstr "Avviso n.2"
 
 msgid "THEMETEST_ACTIVE_TAB"
-msgstr "Active tab"
+msgstr "Scheda attiva"
 
 msgid "THEMETEST_INACTIVE_TAB"
-msgstr "Inactive tab"
+msgstr "Scheda inattiva"
 
 msgid "PREVIEW"
-msgstr "Preview"
+msgstr "Anteprima"
 
 msgid "CREATORS_ROOM"
-msgstr "Creator's Room"
+msgstr "Stanza del Creatore"
 
 msgid "THEME_ERROR_THEME_NOT_OWNED"
-msgstr "Sorry! You do not own that theme."
+msgstr "Scusate! Non possiedi quel tema."
 
 msgid "THEME_SUCCESSFULLY_SET"
-msgstr "Theme successfully set!"
+msgstr "Tema impostato con successo!"
 
 msgid "BLOCKED_USERS"
-msgstr "Blocked users"
+msgstr "Utenti bloccati"
 
 msgid "VIEW"
-msgstr "View"
+msgstr "Vista"
 
 msgid "FAN_COUNT_FORMAT"
 msgstr "Fans: %s"
 
 msgid "HEADER_LANGUAGE"
-msgstr "Language"
+msgstr "Lingua"
 
 msgid "HEADER_MAIL_SETTINGS"
-msgstr "Mail Settings"
+msgstr "Impostazioni di posta"
 
 msgid "HEADER_EDIT_BIOGRAPHY"
-msgstr "Edit Biography"
+msgstr "Modifica la biografia"
 
 msgid "SET_BIO_INSTRUCTIONS"
-msgstr "Enter your profile biography below. This will be displayed on Sudomemo and Sudomemo Theatre."
+msgstr "Inserisci la tua biografia profilo qui sotto. Questo verrà visualizzato su Sudomemo e su Sudomemo Theatre."
 
 msgid "ENTER_BIO"
-msgstr "Enter Bio..."
+msgstr "Inserisci Bio..."
 
 msgid "101_CHARACTER_LIMIT_BIO"
-msgstr "Your biography is limited to 101 characters."
+msgstr "La tua biografia è limitata a 101 caratteri."
 
 msgid "LEAVE_BLANK_TO_RESET_BIO"
-msgstr "To clear your biography, leave the form blank when submitting."
+msgstr "Per cancellare la tua biografia, lascia il modulo vuoto al momento dell'invio."
 
 msgid "CURRENT_BIO"
-msgstr "Current Bio:"
+msgstr "Bio corrente:"
 
 msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
-msgstr "You can't follow more than %d users."
+msgstr " %d utenti."
