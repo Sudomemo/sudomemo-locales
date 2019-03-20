@@ -1,41 +1,41 @@
 msgid "COMMENT_DETAILS"
-msgstr "Comment Details"
+msgstr "Dettagli del commento"
 
 msgid "MESSAGE_DETAILS"
-msgstr "Message Details"
+msgstr "Dettagli del messaggio"
 
 msgid "AUTHOR"
-msgstr "Author"
+msgstr "Autore"
 
 msgid "COMMENT_BY_FORMAT"
-msgstr "Comment by %s"
+msgstr "Commento da %s"
 
 msgid "CHAT_MESSAGE_FROM_FORMAT"
-msgstr "Chat Message from %s"
+msgstr "Messaggio di chat da %s"
 
 msgid "MESSAGE_FROM_FORMAT"
-msgstr "Message from %s"
+msgstr "messaggio da %s"
 
 msgid "FLIPNOTE_BY_FORMAT"
-msgstr "Flipnote by %s"
+msgstr "Flipnote da %s"
 
 msgid "COMMENT_ID"
-msgstr "Comment ID"
+msgstr "ID Commento"
 
 msgid "MESSAGE_ID"
-msgstr "Message ID"
+msgstr "ID Messaggio"
 
 msgid "CHAT_COMMENT_ID"
-msgstr "Chat Comment ID"
+msgstr "ID commento chat"
 
 msgid "TIMESTAMP"
 msgstr "Timestamp"
 
 msgid "POSTED_TO"
-msgstr "Posted to"
+msgstr "Pubblicato a"
 
 msgid "PRIVATE_CONVERSATION"
-msgstr "Private Conversation"
+msgstr "Conversazione privata"
 
 msgid "REPORT_CONTENT"
-msgstr "Report Content"
+msgstr "Segnala contenuto"
