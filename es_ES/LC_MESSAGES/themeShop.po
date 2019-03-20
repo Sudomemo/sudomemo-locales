@@ -1,20 +1,20 @@
 msgid "THEME_SHOP_LOGIN_REQUIRED"
-msgstr "Debes haber iniciado sesión para accesar a la Tienda de Temas"
+msgstr "Inicia sesión para acceder a la Tienda de Temas"
 
 msgid "THEME_SHOP_MAINPAGE_HEADER"
-msgstr "¡Aquí en la Tienda de Temas puedes comprar nuevos temas para tu Sala del Creador!"
+msgstr "¡En la Tienda de Temas, puedes comprar nuevos temas para tu Sala del Creador!"
 
 msgid "THEME_SHOP_LEARN_MORE_HEADER"
 msgstr "Aprende más acerca de la Tienda de Temas"
 
 msgid "THEME_SHOP_REPORT_ISSUES_HEADER"
-msgstr "Presiona este link para reportar un tema que no esté funcionando correctamente."
+msgstr "Toca este enlace para reportar un tema que no esté funcionando correctamente."
 
 msgid "THEME_SHOP_MAINPAGE_EXCHANGE_COST_FORMAT"
 msgstr "Intercambia por %d Estrellas Verdes"
 
 msgid "THEME_SHOP_MAINPAGE_FREE_STARTER_THEMES"
-msgstr "Temas de Inicio Gratis"
+msgstr "Temas de inicio gratuitos"
 
 msgid "CONGRATULATIONS"
 msgstr "¡Felicidades!"
@@ -44,7 +44,7 @@ msgid "YOU_HAVE"
 msgstr "Tus Estrellas de Colores:"
 
 msgid "USERNAME"
-msgstr "Nombre de usuario0"
+msgstr "Nombre de usuario:"
 
 msgid "CANCEL"
 msgstr "Cancelar"
@@ -71,7 +71,7 @@ msgid "THEME_SHOP_STAR_BALANCE_TOO_LOW"
 msgstr "Lo siento, no tienes suficientes Estrellas Verdes para comprar este tema."
 
 msgid "THEME_SHOP_CHOOSE_CAREFULLY_BEFORE_BUYING"
-msgstr "¡Todas las compras son permanentes, por favor elige con cuidado antes de comprar!"
+msgstr "Todas las compras son permanentes, así que elige con cuidado antes de comprar."
 
 msgid "THEME_SHOP_YOU_OWN_THIS_THEME"
 msgstr "Ya tienes este tema."

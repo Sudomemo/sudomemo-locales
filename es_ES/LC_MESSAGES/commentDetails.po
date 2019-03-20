@@ -1,8 +1,8 @@
-msgid "COMMENT_DETAILS"
-msgstr "Detalles de los comentarios"
+﻿msgid "COMMENT_DETAILS"
+msgstr "Detalles del comentario"
 
 msgid "MESSAGE_DETAILS"
-msgstr "Detalles de los mensajes"
+msgstr "Detalles del mensaje"
 
 msgid "AUTHOR"
 msgstr "Autor"
@@ -29,13 +29,13 @@ msgid "CHAT_COMMENT_ID"
 msgstr "ID del comentario del chat"
 
 msgid "TIMESTAMP"
-msgstr "Timestamp"
+msgstr "Fecha y hora"
 
 msgid "POSTED_TO"
-msgstr "Publicado a"
+msgstr "Publicado en"
 
 msgid "PRIVATE_CONVERSATION"
-msgstr "Conversación Privada"
+msgstr "Conversación privada"
 
 msgid "REPORT_CONTENT"
 msgstr "Reportar contenido"

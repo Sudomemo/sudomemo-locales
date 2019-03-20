@@ -41,7 +41,7 @@ msgid "NOT_USABLE"
 msgstr "No Usable"
 
 msgid "SUDOMEMO_THEATRE_URL"
-msgstr "Link de Sudomemo Theatre"
+msgstr "Enlace de Sudomemo Theatre"
 
 msgid "FLIPNOTE_STUDIO_ID"
 msgstr "ID de Flipnote Studio"
@@ -53,7 +53,7 @@ msgid "ADMIN_ACCT_GOOD_STANDING"
 msgstr "En buen estado"
 
 msgid "ADMIN_ACCT_BANNED"
-msgstr "Baneado"
+msgstr "Restringido"
 
 msgid "ADMIN_ACCT_BLOCKED"
 msgstr "Bloqueado"
@@ -113,16 +113,16 @@ msgid "THEMETEST_SET_THEME"
 msgstr "Establecer tema"
 
 msgid "THEMETEST_NOTICE"
-msgstr "Noticia"
+msgstr "Aviso"
 
 msgid "THEMETEST_OK"
-msgstr "Okay"
+msgstr "Aceptar"
 
 msgid "THEMETEST_ERROR"
 msgstr "Error"
 
 msgid "THEMETEST_NOTICE_2"
-msgstr "Noticia #2"
+msgstr "Aviso N°2"
 
 msgid "THEMETEST_ACTIVE_TAB"
 msgstr "Pestaña activa"
@@ -137,46 +137,46 @@ msgid "CREATORS_ROOM"
 msgstr "Sala del Creador"
 
 msgid "THEME_ERROR_THEME_NOT_OWNED"
-msgstr "¡Caracoles! No tienes ese tema."
+msgstr "¡Vaya! No tienes ese tema..."
 
 msgid "THEME_SUCCESSFULLY_SET"
-msgstr "¡Tema exitosamente establecido!"
+msgstr "¡Tema establecido!"
 
 msgid "BLOCKED_USERS"
 msgstr "Usuarios bloqueados"
 
 msgid "VIEW"
-msgstr "Vista"
+msgstr "Ver"
 
 msgid "FAN_COUNT_FORMAT"
 msgstr "Fans: %s"
 
 msgid "HEADER_LANGUAGE"
-msgstr "Lenguaje"
+msgstr "Idioma"
 
 msgid "HEADER_MAIL_SETTINGS"
 msgstr "Ajustes de correo"
 
 msgid "HEADER_EDIT_BIOGRAPHY"
-msgstr "Edit Biography"
+msgstr "Editar biografía"
 
 msgid "SET_BIO_INSTRUCTIONS"
-msgstr "Enter your profile biography below. This will be displayed on Sudomemo and Sudomemo Theatre."
+msgstr "Escribe una pequeña introducción aquí. Será visible tanto en Sudomemo como en Sudomemo Theatre."
 
 msgid "ENTER_BIO"
-msgstr "Enter Bio..."
+msgstr "Escribir biografía..."
 
 msgid "101_CHARACTER_LIMIT_BIO"
-msgstr "Your biography is limited to 101 characters."
+msgstr "Tu biografía está limitada a 101 caracteres."
 
 msgid "LEAVE_BLANK_TO_RESET_BIO"
-msgstr "To clear your biography, leave the form blank when submitting."
+msgstr "Para borrar tu biografía, deja el cuadro en blanco antes de confirmar."
 
 msgid "CURRENT_BIO"
-msgstr "Current Bio:"
+msgstr "Biografía actual:"
  
 msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
-msgstr "You can't follow more than %d users."
+msgstr "No puedes seguir a más de %d usuarios."
 
 msgid "RANKING"
 msgstr "Ranking"

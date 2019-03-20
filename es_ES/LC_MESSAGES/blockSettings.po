@@ -1,59 +1,59 @@
-msgid "LOGIN_REQUIRED_TO_MANAGE_BLOCKS"
-msgstr "Es necesario que inicies sesión para poder editar los usuarios bloqueados."
+﻿msgid "LOGIN_REQUIRED_TO_MANAGE_BLOCKS"
+msgstr "Es necesario que inicies sesión para administrar los usuarios bloqueados."
 
 msgid "NO_USERS_BLOCKED"
 msgstr "No tienes usuarios bloqueados."
 
 msgid "BLOCKED_USERS"
-msgstr "Usuarios Bloqueados."
+msgstr "Usuarios bloqueados"
 
 msgid "BLOCK_USER"
 msgstr "Bloquear usuario."
 
 msgid "COMMENT_BLOCK_IS_MUTUAL"
-msgstr "Una vez que hayas bloqueado a este usuario no podrás comentar en sus flipnotes, ni él en las tuyas."
+msgstr "Una vez que hayas bloqueado a este usuario, no podrás comentar en sus Flipnotes, ni este en las tuyas."
 
 msgid "USER_HAS_BEEN_BLOCKED"
 msgstr "Este usuario ha sido bloqueado."
 
 msgid "IF_YOU_WISH_TO_UNBLOCK"
-msgstr "Si desea desbloquear a este usuario, deberá desbloquearlo visitando tu Sitio del Creador y abriendo el menú de usuarios bloqueados."
+msgstr "Si deseas desbloquear a este usuario, deberás desbloquearlo en tu Sala del Creador, abriendo el menú de usuarios bloqueados."
 
 msgid "CONFIRM_BLOCK"
 msgstr "Confirmar bloqueo."
 
 msgid "USER_ALREADY_BLOCKED"
-msgstr "Ya ha bloqueado a este usuario, deberá desbloquearlo en el menú de configuración en tu Sitio del Creador, pero deberás esperar 24 horas antes de bloquearlo de nuevo."
+msgstr "Ya has bloqueado a este usuario. Puedes desbloquearlo al menú de configuración en tu Sala del Creador, pero deberás esperar 24 horas antes de bloquearlo de nuevo."
 
 msgid "ONE_DAY_WAIT_BEFORE_REBLOCK_FORMAT"
 msgstr "Ya has bloqueado a este usuario recientemente. No puedes bloquearlo hasta %s"
 
 msgid "UNBLOCK"
-msgstr "Desbloquear."
+msgstr "Desbloquear"
 
 msgid "LOGIN_REQUIRED"
 msgstr "Necesitas iniciar sesión para realizar esta acción."
 
 msgid "TAP_BACK_TO_RETURN"
-msgstr "Presiona para regresar a tu Sitio del Creador."
+msgstr "Presiona para regresar a tu Sala del Creador."
 
 msgid "UNBLOCK_USER"
-msgstr "Desbloquear usuario."
+msgstr "Desbloquear usuario"
 
 msgid "CANNOT_UNBLOCK_NONBLOCKED_USER"
-msgstr "No puedes desbloquear este usuario porque no lo tienes bloqueado."
+msgstr "No puedes desbloquear a este usuario porque no está bloqueado."
 
 msgid "USER_HAS_BEEN_UNBLOCKED"
 msgstr "Has desbloqueado a este usuario."
 
 msgid "COMMENTING_ENABLED_AFTER_UNBLOCK"
-msgstr "Despues de haber desbloqueado a este usuario, podrán comentar en las flipnotes de cada uno de nuevo, a menos de que te tenga bloqueado también."
+msgstr "Después de haber desbloqueado a este usuario, podrás comentar en sus Flipnotes nuevamente, a menos de que este también te haya bloqueado."
 
 msgid "UNBLOCK_WARNING_ONE_DAY_THRESHOLD"
-msgstr "Si ha bloqueado al usuario, debe esperar 24 horas antes de poder bloquearlo de nuevo."
+msgstr "Si has bloqueado al usuario, debes esperar 24 horas antes de poder bloquearlo de nuevo."
 
 msgid "CONFIRM_UNBLOCK"
-msgstr "Confirmar desbloqueo."
+msgstr "Confirmar desbloqueo"
 
 msgid "RECENTLY_UNBLOCKED_ONE_DAY_THRESHOLD"
-msgstr "Recientemente ya ha desbloqueado a este usuario, debe esperar 24 horas desde la hora que lo desbloqueo antes de que pueda bloquearlo de nuevo."
+msgstr "Ya has desbloqueado a este usuario recientemente. Debes esperar 24 horas desde la hora que lo desbloqueaste antes de lo que puedas bloquear de nuevo."

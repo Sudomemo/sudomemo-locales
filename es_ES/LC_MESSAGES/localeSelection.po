@@ -1,11 +1,11 @@
 msgid "CHANGE_LANGUAGE"
-msgstr "Cambiar Idioma"
+msgstr "Cambiar idioma"
 
 msgid "LANGUAGE_UPDATED_FORMAT"
 msgstr "Tu idioma ha sido cambiado a %s."
 
 msgid "POTENTIAL_CONTRIBUTOR_NOTE"
-msgstr "Sudomemo confía en su comunidad para ofrecer traducciones acertadas. Si tu ves algo que no se muestra correctamente, aún sigue en inglés, es un traducción de baja calidad, o si te gustaría agregar tu propio idioma, ¡te invitamos a contribuir! Nuevas traducciones completas y verificadas puden darte ciudadanía en Sudomemo. Puedes hacerlo aquí: https://github.com/Sudomemo/sudomemo-locales"
+msgstr "Sudomemo confía en su comunidad para ofrecer traducciones precisas. Si ves algo que no se muestra correctamente, aún sigue en inglés, es un traducción de baja calidad, o si te gustaría agregar tu propio idioma, ¡te invitamos a contribuir! Nuevas traducciones completas y verificadas puden darte ciudadanía en Sudomemo. Puedes hacerlo aquí: https://github.com/Sudomemo/sudomemo-locales"
 
 msgid "RETURN_TO_CREATORS_ROOM"
 msgstr "Regresar a la Sala del Creador"

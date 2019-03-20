@@ -20,32 +20,32 @@ msgid "NO_COMMENTS_YET"
 msgstr "Esta Flipnote aún no tiene comentarios."
 
 msgid "LOGIN_REQUIRED_TO_POST_COMMENT"
-msgstr "Debes haber iniciado sesión para publicar un comentario."
+msgstr "Debes iniciar sesión para publicar un comentario."
 
 msgid "COMMENT_POST_FAILED"
-msgstr "Ha ocurrido un error al publicar el comentario. Intenta de nuevo en otro momento."
+msgstr "Ha ocurrido un error al publicar el comentario. Intenta de nuevo más tarde."
 
 msgid "NO_BLANK_COMMENTS_ALLOWED"
 msgstr "No puedes publicar un comentario vacío."
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "Los datos de esta Flipnote estan corruptos. Intenta de nuevo en un momento."
+msgstr "Los datos de esta Flipnote estan corruptos. Intenta de nuevo más tarde."
 
 msgid "FLIPNOTE_COMMENTS_DISALLOWED"
 msgstr "No puedes comentar en esta Flipnote."
 
 msgid "NO_COMMENTS_WHILE_MUTED"
-msgstr "Has sido muteado. No puedes publicar un comentario si estas muteado."
+msgstr "Has sido silenciado. No puedes publicar comentarios."
 
 msgid "DUPLICATE_COMMENT_FAILED"
 msgstr "Este comentario ya ha sido publicado en Sudomemo."
 
 msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "Tu interacción ha sido restringido de Sudomemo."
+msgstr "Tus interacciones en Sudomemo han sido restringidas."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
 msgstr "Por favor, confirma tu correo antes de publicar."
 
 msgid "MODERATOR"
-msgstr "Moderator"
+msgstr "Moderador"
 
