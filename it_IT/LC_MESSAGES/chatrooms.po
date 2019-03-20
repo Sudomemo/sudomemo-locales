@@ -23,22 +23,22 @@ msgid "CHAT_REPLY_FAILED"
 msgstr "Risposta non riuscita. Controlla la connessione internet."
 
 msgid "NO_BLANK_MESSAGES_ALLOWED"
-msgstr "Non è possibile pubblicare un messaggio vuoto."
+msgstr "Non Ã¨ possibile pubblicare un messaggio vuoto."
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "The Flipnote data is corrupted. Try again in a moment."
+msgstr "I dati di Flipnote sono corrotti. Riprova tra un momento."
 
 msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
-msgstr "Ti sei buttato nel cestino."
+msgstr "Sei stato muto. Non puoi chattare"
 
 msgid "DUPLICATE_COMMENT_FAILED"
 msgstr "Sei Sicuro di inviare e eliminare un messaggio?"
 
 msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "Ti sei buttato nel cestino."
+msgstr "Sei Stato Bandito su Sudomemo."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
 msgstr "Verificare la mail di conferma. poi rientri."
 
 msgid "MODERATOR"
-msgstr "Moderatore (inglese)"
+msgstr "Moderatore"
