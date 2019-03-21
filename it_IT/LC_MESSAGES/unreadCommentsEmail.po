@@ -8,13 +8,13 @@ msgid "HELLO_FORMAT"
 msgstr "Hello, %s!"
 
 msgid "TEXT_YOU_HAVE_X_COMMENTS_FROM_FORMAT"
-msgstr "You have %d new comment(s) on Sudomemo from %s"
+msgstr "Hai %d nuovi commenti su Sudomemo da %s"
 
 msgid "AND"
-msgstr "and"
+msgstr "e"
 
 msgid "AND_X_OTHERS_FORMAT"
-msgstr "and %s others."
+msgstr "e %s gli altri."
 
 msgid "TEXT_HOW_TO_VIEW_UNREAD_COMMENTS_TAP_ICON_FORMAT"
-msgstr "You can view your unread comments on Sudomemo by tapping %s on your notification bar."
+msgstr "È possibile visualizzare i commenti non letti su Sudomemo toccando %s sulla barra delle notifiche."
