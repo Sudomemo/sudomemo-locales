@@ -1,20 +1,20 @@
 msgid "THEME_SHOP_LOGIN_REQUIRED"
-msgstr "You must be logged in to access the Theme Shop"
+msgstr "Devi essere registrato per accedere al Negozio di temi."
 
 msgid "THEME_SHOP_MAINPAGE_HEADER"
-msgstr "Here at the Theme Shop you can purchase new themes for your Creator's Room!"
+msgstr "Qui nel negozio tematico puoi acquistare nuovi temi per la stanza del tuo Creatore!"
 
 msgid "THEME_SHOP_LEARN_MORE_HEADER"
-msgstr "Learn more about the Theme Shop"
+msgstr "Ulteriori informazioni sul negozio di temi"
 
 msgid "THEME_SHOP_REPORT_ISSUES_HEADER"
-msgstr "Tap this link to report a theme that isn't working properly."
+msgstr "Tocca questo link per segnalare un tema che non funziona correttamente."
 
 msgid "THEME_SHOP_MAINPAGE_EXCHANGE_COST_FORMAT"
-msgstr "Exchange for %d Green Stars"
+msgstr "Scambio di %d stelle verdi"
 
 msgid "THEME_SHOP_MAINPAGE_FREE_STARTER_THEMES"
-msgstr "Free Starter Themes"
+msgstr "Temi di avviamento gratuiti"
 
 msgid "CONGRATULATIONS"
 msgstr "Congratulations!"
@@ -77,26 +77,25 @@ msgid "THEME_SHOP_YOU_OWN_THIS_THEME"
 msgstr "You already own this theme."
 
 msgid "THEME_SHOP_PUBLIC_THEME"
-msgstr "All users have access to this theme for free."
+msgstr "Tutti gli utenti hanno accesso a questo tema gratuitamente."
 
 msgid "THEME_SHOP_OWNED_THEME_TRANSACTION_FORMAT"
-msgstr "You purchased this theme on %s for %d Green Stars."
+msgstr "Hai acquistato questo tema su %s per %d Stelle verdi."
 
 msgid "THEME_SHOP_CONFIRM_PURCHASE_BELOW"
-msgstr "Please confirm your purchase below."
+msgstr "Si prega di confermare l'acquisto di seguito."
 
 msgid "THEME_SHOP_STARS_LEFT_AFTER_PAYMENT"
-msgstr "Color Stars left after payment:"
+msgstr "Stelle colorate a sinistra dopo il pagamento:"
 
 msgid "THEME_SHOP_POST_PURCHASE"
-msgstr "Your purchase was successful! Go to the \"My Themes\" section in your Creator's Room to select it!"
+msgstr "Il tuo acquisto è andato a buon fine! Vai alla sezione "I miei temi" nella stanza del tuo Creatore per selezionarlo!"
 
 msgid "NAVIGATION_PREVIOUS"
-msgstr "Prev"
+msgstr "Precedenti"
 
 msgid "NAVIGATION_NEXT"
-msgstr "Next"
+msgstr "Prossimi"
 
 msgid "THEME_SHOP_SAMPLE_PROFILE"
-msgstr "Sample Profile"
-
+msgstr "Profilo campione"
