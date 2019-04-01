@@ -158,25 +158,25 @@ msgid "HEADER_MAIL_SETTINGS"
 msgstr "we mail u?"
 
 msgid "HEADER_EDIT_BIOGRAPHY"
-msgstr "Edit Biography"
+msgstr "who are u"
 
 msgid "SET_BIO_INSTRUCTIONS"
-msgstr "Enter your profile biography below. This will be displayed on Sudomemo and Sudomemo Theatre."
+msgstr "tell me more about urself pls."
 
 msgid "ENTER_BIO"
-msgstr "Enter Bio..."
+msgstr "yAA right here..."
 
 msgid "101_CHARACTER_LIMIT_BIO"
-msgstr "Your biography is limited to 101 characters."
+msgstr "u can only put 101 characters WUPS."
 
 msgid "LEAVE_BLANK_TO_RESET_BIO"
-msgstr "To clear your biography, leave the form blank when submitting."
+msgstr "to wipe your Bio just dont put anything yaya."
 
 msgid "CURRENT_BIO"
-msgstr "Current Bio:"
+msgstr "dis you:"
  
 msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
-msgstr "You can't follow more than %d users."
+msgstr "ur followin TOO MANY PPL!! (max %d)"
 
 msgid "RANKING"
 msgstr "Ranking"
