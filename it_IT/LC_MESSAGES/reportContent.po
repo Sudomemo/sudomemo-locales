@@ -1,62 +1,62 @@
 msgid "HEADER_REPORT_CONTENT"
-msgstr "Report Content"
+msgstr "Segnala contenuto"
 
 msgid "CHAT_MESSAGE"
-msgstr "chatroom message"
+msgstr "messaggio della chat"
 
 msgid "COMMENT"
-msgstr "comment"
+msgstr "commento"
 
 msgid "FLIPNOTE"
 msgstr "Flipnote"
 
 msgid "YOU_ARE_REPORTING_THIS_FORMAT"
-msgstr "You are reporting this %s:"
+msgstr "Stai segnalando questo %s:"
 
 msgid "USER_HAS_ALREADY_REPORTED_FORMAT"
-msgstr "You have already submitted a report for this %s."
+msgstr "Hai già inviato un rapporto per questo %s."
 
 msgid "HEADER_VIOLATION_CATEGORY"
-msgstr "Violation Category:"
+msgstr "Categoria di violazione:"
 
 msgid "FLIPNOTE_TITLE_FORMAT"
-msgstr "Flipnote by %s"
+msgstr "Flipnote da %s"
 
 msgid "CREATOR_FORMAT"
 msgstr "Creator: %s"
 
 msgid "NOTICE_REPORT_OTHER_ISSUES"
-msgstr "This form is for reporting user content only. To report a user's behaviour, or for other issues and requests, please email our support team:"
+msgstr "Questo modulo serve solo per segnalare il contenuto dell'utente. Per segnalare il comportamento di un utente o per altri problemi e richieste, inviare un'email al nostro team di supporto:"
 
 msgid "REPORT_INSTRUCTIONS"
-msgstr "Please write a short description of why you believe this content is in violation of the Sudomemo Terms of Use. Once you submit it, tap Back to return to the Flipnote."
+msgstr "Scrivi una breve descrizione del motivo per cui ritieni che questo contenuto violi le Condizioni d'uso di Sudomemo. Dopo averlo inviato, tocca Indietro per tornare al Flipnote."
 
 msgid "NO_BLANK_REPORTS"
-msgstr "You cannot post a blank report."
+msgstr "Non puoi pubblicare un rapporto vuoto."
 
 msgid "LIMIT_ONE_REPORT"
-msgstr "Please note: You may only report this content one time. Additional reports will not be registered, so please put your information in a single comment."
+msgstr "Nota: è possibile segnalare questo contenuto solo una volta. Ulteriori rapporti non saranno registrati, quindi ti preghiamo di inserire le tue informazioni in un singolo commento."
 
 msgid "REPORT_EXPLANATION_FAILED"
 msgstr "An error occurred while this report was being submitted."
 
 msgid "RESTRICTED_CANCEL"
-msgstr "You may not report content if you have been restricted from interacting with Sudomemo in any way."
+msgstr "Non puoi segnalare contenuti se ti è stato impedito in qualsiasi modo di interagire con Sudomemo."
 
 msgid "HEADER_REASON"
-msgstr "Reason:"
+msgstr "Ragioni:"
 
 msgid "LOGIN_REQUIRED_TO_CONTINUE"
-msgstr "You must log in to continue."
+msgstr "È necessario eseguire il login per continuare."
 
 msgid "LOGIN_REQUIRED_TO_REPORT_CONTENT"
-msgstr "You must be logged in to submit content reports."
+msgstr "Devi essere registrato per inviare rapporti sui contenuti."
 
 msgid "REPORT_FAILED_USER_BANNED"
-msgstr "Report failed: you are restricted from Sudomemo."
+msgstr "Rapporto fallito: sei limitato da Sudomemo."
 
 msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "This comment has already been posted to Sudomemo."
+msgstr "Questo commento è già stato pubblicato su Sudomemo."
 
 msgid "CONFIRM_EMAIL_BEFORE_REPORTING"
-msgstr "Please confirm your email before reporting content."
+msgstr "Conferma la tua email prima di segnalare il contenuto."
