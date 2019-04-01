@@ -1,22 +1,20 @@
 msgid "EMAIL_SUBJECT_FORMAT"
-msgstr "[Sudomemo] %s's Daily Star Report"
+msgstr "[Sudomemo] %s's daiwy staw wepowt :3"
 
 msgid "STRING_SUDOMEMO"
 msgstr "Sudomemo"
 
 msgid "STRING_DAILY_STAR_REPORT"
-msgstr "Daily Star Report"
+msgstr "daiwy staw wepowt :3"
 
 msgid "TEXT_STAR_REPORT_GREETING_FORMAT"
-msgstr "Hewwo %s!! here's ur Daily Star Report from Sudomemo."
+msgstr "Hewo, %s! *nuzzles you* hehe~ dis is youw daiwy staw wepowt fwum Sudomemo!."
 
 msgid "TEXT_FLIPNOTE_BY_FORMAT"
-msgstr "Flipnote by %s"
+msgstr "fwipnote by %s~"
 
 msgid "TEXT_TOTAL_STARS_RECEIVED_TODAY"
-msgstr "How many stars today? :O"
+msgstr "towotal staws wecieved tuwuday"
 
 msgid "TEXT_HOW_TO_VIEW_STAR_ADDERS_DSI"
-msgstr "With ur DSi, u can see all the SUPER DUPER star-adders, by tapping <strong>OwO whats this</strong> in the Flipnote's details page on Sudomemo."
-
-
+msgstr "UwUsing yow Nyantendo DSi system, u can see who giv u staw by taping <strong>Stars</strong> in ur Fwipnote's detaiws page on Sudomemo."
