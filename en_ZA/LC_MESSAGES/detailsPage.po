@@ -68,22 +68,22 @@ msgid "STAR_DETAILS_UPPERTITLE"
 msgstr "★ OwO ★"
 
 msgid "SET_TITLE"
-msgstr "Set Title"
+msgstr "give name"
 
 msgid "SET_TITLE_INSTRUCTIONS"
-msgstr "Enter the new title for your Flipnote below."
+msgstr "put name here pls."
 
 msgid "40_CHARACTER_LIMIT"
-msgstr "Your title is limited to 40 characters in length."
+msgstr "it can be... 40 LETTERS!"
 
 msgid "LEAVE_BLANK_TO_RESET"
-msgstr "To reset the title to default, leave the form blank when submitting."
+msgstr "take away title? leave blank."
 
 msgid "ENTER_TITLE"
-msgstr "Enter title..."
+msgstr "ya right here..."
 
 msgid "HEADER_ADD_DESCRIPTION"
-msgstr "Add Description"
+msgstr "add MORE INFO pls"
 
 msgid "HEADER_DESCRIPTION"
 msgstr "Description"
@@ -92,17 +92,17 @@ msgid "SET_DESCRIPTION"
 msgstr "Set Description"
 
 msgid "SET_DESCRIPTION_INSTRUCTIONS"
-msgstr "Enter the new description for your Flipnote below."
+msgstr "description goes here i think."
 
 msgid "101_CHARACTER_LIMIT_DESC"
-msgstr "Your description is limited to 101 characters in length."
+msgstr "it can be...101 LETTERS!"
 
 msgid "LEAVE_BLANK_TO_RESET_DESC"
-msgstr "To remove the description, leave the form blank when submitting."
+msgstr "take away description? ;<; leave blank"
 
 msgid "ENTER_DESCRIPTION"
-msgstr "Enter description..."
+msgstr "put it in here..."
 
 msgid "HEADER_FLIPNOTE_OPTIONS"
-msgstr "Options"
+msgstr "fiddle"
 
