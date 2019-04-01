@@ -1,51 +1,51 @@
 msgid "HEADER_COMMENTS"
-msgstr "Comments"
+msgstr "Commenti"
 
 msgid "HEADER_DETAILS"
-msgstr "Details"
+msgstr "Dettagli"
 
 msgid "HEADER_PREV"
-msgstr "Prev"
+msgstr "Precedente"
 
 msgid "HEADER_NEXT"
-msgstr "Next"
+msgstr "Successivo"
 
 msgid "HEADER_REFRESH"
-msgstr "Refresh"
+msgstr "Ricarica"
 
 msgid "PAGE_FORMAT"
-msgstr "Page %d"
+msgstr "Pagina %d"
 
 msgid "NO_COMMENTS_YET"
-msgstr "This Flipnote doesn't have any comments yet."
+msgstr "Questo Flipnote non ha ancora commenti."
 
 msgid "LOGIN_REQUIRED_TO_POST_COMMENT"
-msgstr "You must be logged in to post a comment."
+msgstr "Devi essere loggato per pubblicare un commento."
 
 msgid "COMMENT_POST_FAILED"
-msgstr "Comment post failed. Try again in a moment."
+msgstr "Commento post non riuscito. Riprova tra un momento."
 
 msgid "NO_BLANK_COMMENTS_ALLOWED"
-msgstr "You cannot post a blank comment."
+msgstr "Non puoi pubblicare un commento vuoto."
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "The Flipnote data is corrupted. Try again in a moment."
+msgstr "I dati di Flipnote sono corrotti. Riprova tra un momento."
 
 msgid "FLIPNOTE_COMMENTS_DISALLOWED"
-msgstr "You may not comment on this Flipnote."
+msgstr "Non puoi commentare questo Flipnote."
 
 msgid "NO_COMMENTS_WHILE_MUTED"
-msgstr "You've been muted. You may not comment."
+msgstr "Sei stato disattivato. Non puoi commentare."
 
 msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "This comment has already been posted to Sudomemo."
+msgstr "Questo commento è già stato pubblicato su Sudomemo."
 
 msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "You've been restricted from using Sudomemo."
+msgstr "Ti è stato impedito di usare Sudomemo."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Please confirm your email before posting."
+msgstr "Si prega di confermare la tua e-mail prima di pubblicare."
 
 msgid "MODERATOR"
-msgstr "Moderator"
+msgstr "Moderatore"
 
