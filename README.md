@@ -63,7 +63,7 @@ Common languages:
 
 [A full list is available here](http://www.lingoes.net/en/translator/langcode.htm)
 
-If you have any question about which langcode to use, feel free to reach out to us on Discord (`@sudofox#8048` or `@jaames#7359`) or on Twitter (`@sudomemo` or `@rakujira`).
+If you have any question about which langcode to use, feel free to reach out to us on Discord (`@sudofox#8048`) or on Twitter (`@sudomemo`).
 
 ## Thank You
 
