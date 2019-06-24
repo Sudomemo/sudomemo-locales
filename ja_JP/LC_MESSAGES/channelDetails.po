@@ -35,4 +35,4 @@ msgid "CONFIRM_EMAIL_BEFORE_POSTING"
 msgstr "投稿する前にメールアドレスを確認してください。"
 
 msgid "NO_POSTS_WHILE_MUTED"
-msgstr "You may not post while you are muted."
+msgstr "ミュートされている間は投稿できません。"
