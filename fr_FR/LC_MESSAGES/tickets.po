@@ -70,3 +70,9 @@ msgstr "Ticket Ordinaire"
 
 msgid "TICKET_DESC_regular_ticket"
 msgstr "Merci d'utiliser Sudomemo !"
+
+msgid "TICKET_NAME_twitter_promo_ticket"
+msgstr "Twitter Promo Ticket"
+
+msgid "TICKET_DESC_twitter_promo_ticket"
+msgstr "Thanks for following the Sudomemo Twitter!"
