@@ -185,17 +185,17 @@ msgid "TICKET_SECTION"
 msgstr "Tickets"
 
 msgid "DRAW_REGULAR_TICKET"
-msgstr "Draw Ticket"
+msgstr "Obtenir un ticket"
 
 msgid "CAN_DRAW_TICKET_SUBTEXT"
-msgstr "You can draw a regular ticket! You might win a prize."
+msgstr "Vous pouvez obtenir un ticket ordinaire ! Vous pourriez gagner un prix."
 
 msgid "INVENTORY"
-msgstr "Inventory"
+msgstr "Inventaire"
 
 msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
-msgstr "You can draw another ticket in: %s hour(s) %s minute(s)."
+msgstr "Vous pouvez obtenir un autre ticket dans : %s heure(s) %s minute(s)."
 
 msgid "REDEEM"
-msgstr "Redeem"
+msgstr "Utiliser un code"
 
