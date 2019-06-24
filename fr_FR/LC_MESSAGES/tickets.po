@@ -1,72 +1,72 @@
 # Code Redemption
 
 msgid "REDEEM_CODE"
-msgstr "Redeem Code"
+msgstr "Utiliser un code"
 
 msgid "ENTER_CODE_TO_REDEEM"
-msgstr "Enter the code you'd like to redeem below."
+msgstr "Entrez le code que vous voulez utiliser ci-dessous."
 
 msgid "CODE_ALREADY_USED"
-msgstr "The code you entered has already been used."
+msgstr "Le code que vous avez entré a déjà été utilisé."
 
 msgid "CODE_INVALID"
-msgstr "The code you entered is invalid."
+msgstr "Le code que vous avez entré est invalide."
 
 msgid "CODE_NONEXISTING_OR_EXPIRED"
-msgstr "The code you entered doesn't exist or has expired."
+msgstr "Le code que vous avez entré n'existe pas ou a expiré."
 
 msgid "LOGIN_REQUIRED_REDEEM_CODE"
-msgstr "You must be logged in to redeem a code."
+msgstr "Vous devez être connecté pour utiliser un code."
 
 # Ticket delivery
 
 msgid "YOU_GOT_A_TICKET"
-msgstr "You got a ticket!"
+msgstr "Vous avez obtenu un ticket !"
 
 msgid "CONTINUE"
-msgstr "Continue"
+msgstr "Continuer"
 
 # Inventory
 
 msgid "INVENTORY"
-msgstr "Inventory"
+msgstr "Inventaire"
 
 msgid "USE_ITEM"
-msgstr "Use"
+msgstr "Utiliser"
 
 msgid "INVENTORY_IS_EMPTY"
-msgstr "Your inventory is empty."
+msgstr "Votre inventaire est vide."
 
 # Ticket redemption
 
 msgid "TICKET_REDEEM_WIN_FORMAT"
-msgstr "You redeemed the %s!"
+msgstr "Vous avez utilisé le %s !"
 
 msgid "TICKET_REDEEM_LOSE_FORMAT"
-msgstr "You redeemed the %s, but..."
+msgstr "Vous avez utilisé le %s, mais..."
 
 msgid "TICKET_REDEEM_NO_PRIZES"
-msgstr "You didn't win anything. Sorry!"
+msgstr "Vous n'avez rien gagné. Désolé !"
 
 msgid "COLOR_STARS"
-msgstr "Color Stars"
+msgstr "Étoiles colorées"
 
 msgid "CREATORS_ROOM_THEME"
-msgstr "Creator's Room Theme"
+msgstr "Thème de la Salle de créateur"
 
 msgid "THEME_AVAILABLE_FOR_USE"
-msgstr "You can now use this theme in your Creator's Room!"
+msgstr "Vous pouvez maintenant utiliser ce thème dans votre Salle de créateur !"
 
 # Each ticket type will have a name and a description 
 
 msgid "TICKET_NAME_demo_ticket"
-msgstr "Demo Ticket"
+msgstr "Ticket Démo"
 
 msgid "TICKET_DESC_demo_ticket"
-msgstr "Obviously, this is the description for the demo ticket."
+msgstr "Évidemment, ceci est la description du ticket démo."
 
 msgid "TICKET_NAME_regular_ticket"
-msgstr "Regular Ticket"
+msgstr "Ticket Ordinaire"
 
 msgid "TICKET_DESC_regular_ticket"
-msgstr "Thank you for using Sudomemo!"
+msgstr "Merci d'utiliser Sudomemo !"
