@@ -181,3 +181,17 @@ msgstr "You can't follow more than %d users."
 msgid "RANKING"
 msgstr "Ranking"
 
+msgid "TICKET_SECTION"
+msgstr "Tickets"
+
+msgid "DRAW_REGULAR_TICKET"
+msgstr "Draw Ticket"
+
+msgid "CAN_DRAW_TICKET_SUBTEXT"
+msgstr "You can draw a regular ticket! You might win a prize."
+
+msgid "INVENTORY"
+msgstr "Inventory"
+
+msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
+msgstr "You can draw another ticket in: %s hour(s) %s minute(s)."
