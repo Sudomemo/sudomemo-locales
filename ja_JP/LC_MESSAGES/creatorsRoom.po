@@ -158,28 +158,28 @@ msgid "HEADER_MAIL_SETTINGS"
 msgstr "メール設定"
 
 msgid "HEADER_EDIT_BIOGRAPHY"
-msgstr "Edit Biography"
+msgstr "プロフィールを編集"
 
 msgid "SET_BIO_INSTRUCTIONS"
-msgstr "Enter your profile biography below. This will be displayed on Sudomemo and Sudomemo Theatre."
+msgstr "プロフィールを以下に入力してください。これはSudomemoとSudomemo Theatreに掲載されます。"
 
 msgid "ENTER_BIO"
-msgstr "Enter Bio..."
+msgstr "プロフィールを入力してください…"
 
 msgid "101_CHARACTER_LIMIT_BIO"
-msgstr "Your biography is limited to 101 characters."
+msgstr "プロフィールは101文字以下に制限されています。"
 
 msgid "LEAVE_BLANK_TO_RESET_BIO"
-msgstr "To clear your biography, leave the form blank when submitting."
+msgstr "プロフィールをリセットする場合、送信するときにフォームを空白のままにしてください。"
 
 msgid "CURRENT_BIO"
-msgstr "Current Bio:"
+msgstr "現在のプロフィール："
  
 msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
-msgstr "You can't follow more than %d users."
+msgstr "%d人以上のユーザーをフォローすることはできません。"
 
 msgid "RANKING"
-msgstr "Ranking"
+msgstr "ランキング"
 
 msgid "TICKET_SECTION"
 msgstr "Tickets"
