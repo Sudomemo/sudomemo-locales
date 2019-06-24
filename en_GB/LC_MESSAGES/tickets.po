@@ -1,3 +1,23 @@
+# Code Redemption
+
+msgid "REDEEM_CODE"
+msgstr "Redeem Code"
+
+msgid "ENTER_CODE_TO_REDEEM"
+msgstr "Enter the code you'd like to redeem below."
+
+msgid "CODE_ALREADY_USED"
+msgstr "The code you entered has already been used."
+
+msgid "CODE_INVALID"
+msgstr "The code you entered is invalid."
+
+msgid "CODE_NONEXISTING_OR_EXPIRED"
+msgstr "The code you entered doesn't exist or has expired."
+
+msgid "LOGIN_REQUIRED_REDEEM_CODE"
+msgstr "You must be logged in to redeem a code."
+
 # Ticket delivery
 
 msgid "YOU_GOT_A_TICKET"
