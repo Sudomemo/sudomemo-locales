@@ -1,4 +1,4 @@
-msgid "BAN_GREETING_FORMAT"
+sagemsgid "BAN_GREETING_FORMAT"
 msgstr "こんにちは。%sさん。"
 
 msgid "BAN_NOTICE_CONSOLE_BAN"
@@ -242,5 +242,4 @@ msgid "SEARCH_FOR_SENDER_EMAIL_FORMAT"
 msgstr "メールを受信していないませんか？迷惑メールをチェックし、%sを探してみてください。 もし迷惑メールとしてマークされていたら、 メールの受信許可の設定をしてください。"
 
 msgid "NEW_USER_INTRO_POST_INTRO_CHANNEL"
-msgstr "準備が整ったら、先へ進み、個人カテゴリの下の紹介チャンネルで自己紹介をしていってください。"
-
+msgstr "準備が整ったら、先へ進み、個人カテゴリの下のIntroductionsチャンネルで自己紹介をしていってください。"
