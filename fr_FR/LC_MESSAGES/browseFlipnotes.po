@@ -23,7 +23,7 @@ msgid "HEADER_BROWSE_FLIPNOTES"
 msgstr "Regarder les Flipnotes"
 
 msgid "HEADER_FEATURED_FLIPNOTES"
-msgstr "Flipnotes recommendées"
+msgstr "Flipnotes recommandées"
 
 msgid "HEADER_RANDOM_FLIPNOTES"
 msgstr "Flipnotes aléatoires"
@@ -56,7 +56,7 @@ msgid "CATEGORY_popular"
 msgstr "@Les plus populaires"
 
 msgid "CATEGORY_featured"
-msgstr "@Flipnotes recommendées"
+msgstr "@Flipnotes recommandées"
 
 msgid "CATEGORY_random"
 msgstr "@Flipnotes aléatoires"
