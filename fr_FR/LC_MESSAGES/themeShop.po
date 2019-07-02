@@ -11,7 +11,7 @@ msgid "THEME_SHOP_REPORT_ISSUES_HEADER"
 msgstr "Appuyez sur ce lien pour signaler un thème qui ne fonctionne pas correctement."
 
 msgid "THEME_SHOP_MAINPAGE_EXCHANGE_COST_FORMAT"
-msgstr "Echanger pour %d étoiles vertes"
+msgstr "Échanger pour %d étoiles vertes"
 
 msgid "THEME_SHOP_MAINPAGE_FREE_STARTER_THEMES"
 msgstr "Thèmes de démarrage gratuits"
@@ -23,7 +23,7 @@ msgid "SEE_MORE"
 msgstr "Voir plus"
 
 msgid "PREVIEW"
-msgstr "Prévisualiser"
+msgstr "Aperçu"
 
 msgid "BUY"
 msgstr "Acheter"
@@ -35,13 +35,13 @@ msgid "PRICE"
 msgstr "Prix"
 
 msgid "CREATOR"
-msgstr "Créator"
+msgstr "Créateur"
 
 msgid "DESCRIPTION"
 msgstr "Description"
 
 msgid "YOU_HAVE"
-msgstr "Vos étoiles colorées:"
+msgstr "Vos étoiles colorées :"
 
 msgid "USERNAME"
 msgstr "Nom d'utilisateur"
@@ -77,16 +77,16 @@ msgid "THEME_SHOP_YOU_OWN_THIS_THEME"
 msgstr "Vous avez déjà ce thème."
 
 msgid "THEME_SHOP_PUBLIC_THEME"
-msgstr "Tous les utilisateurs ont accés à ce thème gratuitement."
+msgstr "Tous les utilisateurs ont accès à ce thème gratuitement."
 
 msgid "THEME_SHOP_OWNED_THEME_TRANSACTION_FORMAT"
-msgstr "Vous avez acheté ce thème sur %s pour %d étoiles vertes."
+msgstr "Vous avez acheté ce thème le %s pour %d étoiles vertes."
 
 msgid "THEME_SHOP_CONFIRM_PURCHASE_BELOW"
 msgstr "Merci de confirmer votre achat ci-dessous."
 
 msgid "THEME_SHOP_STARS_LEFT_AFTER_PAYMENT"
-msgstr "Etoiles colorées restantes après l'achat :"
+msgstr "Étoiles colorées restantes après l'achat :"
 
 msgid "THEME_SHOP_POST_PURCHASE"
 msgstr "Votre achat a été fait avec succès ! Allez dans la section \"Mes thèmes\" dans votre salle de créateur pour le sélectionner !"
