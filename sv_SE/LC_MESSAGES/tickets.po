@@ -76,3 +76,21 @@ msgstr "Twitter Promo Ticket"
 
 msgid "TICKET_DESC_twitter_promo_ticket"
 msgstr "Thanks for following the Sudomemo Twitter!"
+
+msgid "TICKET_NAME_instagram_promo_ticket"
+msgstr "Instagram Promo Ticket"
+
+msgid "TICKET_DESC_instagram_promo_ticket"
+msgstr "Thanks for following the Sudomemo Instagram!"
+
+msgid "TICKET_NAME_weekly_topic_winner_ticket"
+msgstr "Weekly Topic Winner Ticket"
+
+msgid "TICKET_DESC_weekly_topic_winner_ticket"
+msgstr "Congratulations on winning the Sudomemo Weekly Topic!"
+
+msgid "TICKET_NAME_birthday_ticket"
+msgstr "Birthday Ticket"
+
+msgid "TICKET_DESC_birthday_ticket"
+msgstr "Happy Birthday!"
