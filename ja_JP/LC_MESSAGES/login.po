@@ -1,4 +1,4 @@
-sagemsgid "BAN_GREETING_FORMAT"
+msgid "BAN_GREETING_FORMAT"
 msgstr "こんにちは。%sさん。"
 
 msgid "BAN_NOTICE_CONSOLE_BAN"
