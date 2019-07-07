@@ -32,7 +32,7 @@ msgid "TYPE_NEWS_NAME"
 msgstr "Sudomemo News"
 
 msgid "TYPE_NEWS_DESC"
-msgstr "Receive an email when something new is posted to the Sudomemo News"
+msgstr "Receive an email when something new is posted to the Sudomemo News."
 
 msgid "TYPE_PROMO_NAME"
 msgstr "Service Updates"
@@ -44,43 +44,43 @@ msgid "TYPE_FAVE_NOTIF_NAME"
 msgstr "Added as Favourite"
 
 msgid "TYPE_FAVE_NOTIF_DESC"
-msgstr "Receive an email when someone adds you to their Favourites"
+msgstr "Receive an email when someone adds you to their Favourites."
 
 msgid "TYPE_COMMENT_NOTIF_NAME"
 msgstr "Comment Received"
 
 msgid "TYPE_COMMENT_NOTIF_DESC"
-msgstr "Receive an email when someone comments on your Flipnote"
+msgstr "Receive an email when someone comments on your Flipnote."
 
 msgid "TYPE_STAR_REPORT_NAME"
 msgstr "Daily Star Report"
 
 msgid "TYPE_STAR_REPORT_DESC"
-msgstr "Receive an email at the end of the day about any stars you've received"
+msgstr "Receive an email at the end of the day about any stars you've received."
 
 msgid "TYPE_SPINOFF_NOTIF_NAME"
 msgstr "Spin-off Received"
 
 msgid "TYPE_SPINOFF_NOTIF_DESC"
-msgstr "Receive an email when someone posts a spin-off to your Flipnote"
+msgstr "Receive an email when someone posts a spin-off to your Flipnote."
 
 msgid "TYPE_SECURITY_NOTIF_NAME"
 msgstr "Account Security"
 
 msgid "TYPE_SECURITY_NOTIF_DESC"
-msgstr "Receive an email when your email address or password is updated"
+msgstr "Receive an email when your email address or password is updated."
 
 msgid "TYPE_REPORT_UPDATE_NAME"
 msgstr "Flagged Content Update"
 
 msgid "TYPE_REPORT_UPDATE_DESC"
-msgstr "Receive an email when we update the status of content that you've flagged"
+msgstr "Receive an email when we update the status of content that you've flagged."
 
 msgid "TYPE_UNREAD_COMMENTS_NAME"
 msgstr "Unread Comments"
 
 msgid "TYPE_UNREAD_COMMENTS_DESC"
-msgstr "Receive an email summary of any new comments you've received recently"
+msgstr "Receive an email summary of any new comments you've received recently."
 
 msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
 msgstr "Tap on a mail type's status to view or update it."
