@@ -1,99 +1,99 @@
 # Code Redemption
 
 msgid "REDEEM_CODE"
-msgstr "Redeem Code"
+msgstr "Canjear código"
 
 msgid "ENTER_CODE_TO_REDEEM"
-msgstr "Enter the code you'd like to redeem below."
+msgstr "Escribe debajo el código que quieres canjear."
 
 msgid "CODE_ALREADY_USED"
-msgstr "The code you entered has already been used."
+msgstr "El código que has introducido ya se ha usado."
 
 msgid "CODE_INVALID"
-msgstr "The code you entered is invalid."
+msgstr "El código introducido no es valido."
 
 msgid "CODE_NONEXISTING_OR_EXPIRED"
-msgstr "The code you entered doesn't exist or has expired."
+msgstr "El código que has introducido no existe o ha caducado."
 
 msgid "LOGIN_REQUIRED_REDEEM_CODE"
-msgstr "You must be logged in to redeem a code."
+msgstr "Tienes que iniciar sesión para canjear un código."
 
 # Ticket delivery
 
 msgid "YOU_GOT_A_TICKET"
-msgstr "You got a ticket!"
+msgstr "¡Has conseguido un ticket!"
 
 msgid "CONTINUE"
-msgstr "Continue"
+msgstr "Continuar"
 
 # Inventory
 
 msgid "INVENTORY"
-msgstr "Inventory"
+msgstr "Inventario"
 
 msgid "USE_ITEM"
-msgstr "Use"
+msgstr "Usar"
 
 msgid "INVENTORY_IS_EMPTY"
-msgstr "Your inventory is empty."
+msgstr "Tu inventario está vacio."
 
 # Ticket redemption
 
 msgid "TICKET_REDEEM_WIN_FORMAT"
-msgstr "You redeemed the %s!"
+msgstr "¡Has canjeado los %s!"
 
 msgid "TICKET_REDEEM_LOSE_FORMAT"
-msgstr "You redeemed the %s, but..."
+msgstr "Has canjeado los %s, pero..."
 
 msgid "TICKET_REDEEM_NO_PRIZES"
-msgstr "You didn't win anything. Sorry!"
+msgstr "No has conseguido nada. ¡Lo siento!"
 
 msgid "COLOR_STARS"
-msgstr "Color Stars"
+msgstr "Estrellas de Colores"
 
 msgid "CREATORS_ROOM_THEME"
-msgstr "Creator's Room Theme"
+msgstr "Tema de la Sala del Creador"
 
 msgid "SUDOMEMO_CITIZENSHIP"
-msgstr "Sudomemo Citizenship"
+msgstr "Ciudadano de Sudomemo"
 
 msgid "THEME_AVAILABLE_FOR_USE"
-msgstr "You can now use this theme in your Creator's Room!"
+msgstr "¡Ahora puedes usar este tema en la Sala del Creador!"
 
 # Each ticket type will have a name and a description 
 
 msgid "TICKET_NAME_demo_ticket"
-msgstr "Demo Ticket"
+msgstr "Ticket demostración"
 
 msgid "TICKET_DESC_demo_ticket"
-msgstr "Obviously, this is the description for the demo ticket."
+msgstr "Claramente, esta es la descripción del ticket demostración."
 
 msgid "TICKET_NAME_regular_ticket"
-msgstr "Regular Ticket"
+msgstr "Ticket normal"
 
 msgid "TICKET_DESC_regular_ticket"
-msgstr "Thank you for using Sudomemo!"
+msgstr "¡Gracias por usar Sudomemo!"
 
 msgid "TICKET_NAME_twitter_promo_ticket"
-msgstr "Twitter Promo Ticket"
+msgstr "Ticket promoción de Twitter"
 
 msgid "TICKET_DESC_twitter_promo_ticket"
-msgstr "Thanks for following the Sudomemo Twitter!"
+msgstr "¡Gracias por seguir al twitter de Sudomemo!"
 
 msgid "TICKET_NAME_instagram_promo_ticket"
-msgstr "Instagram Promo Ticket"
+msgstr "Ticket promoción de Instagram"
 
 msgid "TICKET_DESC_instagram_promo_ticket"
-msgstr "Thanks for following the Sudomemo Instagram!"
+msgstr "¡Gracias por seguir al Instagram de Sudomemo!"
 
 msgid "TICKET_NAME_weekly_topic_winner_ticket"
-msgstr "Weekly Topic Winner Ticket"
+msgstr "Ticket de ganador del Tópico Semanal"
 
 msgid "TICKET_DESC_weekly_topic_winner_ticket"
-msgstr "Congratulations on winning the Sudomemo Weekly Topic!"
+msgstr "¡Enhorabuena por ganar el Tópico Semanal de Sudomemo!"
 
 msgid "TICKET_NAME_birthday_ticket"
-msgstr "Birthday Ticket"
+msgstr "Ticket de cumpleaños"
 
 msgid "TICKET_DESC_birthday_ticket"
-msgstr "Happy Birthday!"
+msgstr "¡Feliz cumpleaños!"
