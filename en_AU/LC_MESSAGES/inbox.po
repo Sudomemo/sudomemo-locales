@@ -1,0 +1,13 @@
+msgid "HEADER_INBOX"
+msgstr "Inbox"
+
+# this must be a max of 6 characters
+msgid "UNAUTHED_READ"
+msgstr "Read.."
+
+msgid "PREV"
+msgstr "Prev"
+
+msgid "NEXT"
+msgstr "Next"
+
