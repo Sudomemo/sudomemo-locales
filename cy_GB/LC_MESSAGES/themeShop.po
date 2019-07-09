@@ -1,0 +1,102 @@
+msgid "THEME_SHOP_LOGIN_REQUIRED"
+msgstr "Rhaid i chi fod wedi mewngofnodi i gael mynediad i'r Siop Thema"
+
+msgid "THEME_SHOP_MAINPAGE_HEADER"
+msgstr "Yma yn y Siop Thema gallwch brynu themâu newydd ar gyfer Ystafell eich Creawdwr!"
+
+msgid "THEME_SHOP_LEARN_MORE_HEADER"
+msgstr "Dysgu mwy am y Siop Thema"
+
+msgid "THEME_SHOP_REPORT_ISSUES_HEADER"
+msgstr "Defnyddiwch y ddolen hon i adrodd am thema nad yw'n gweithio'n iawn."
+
+msgid "THEME_SHOP_MAINPAGE_EXCHANGE_COST_FORMAT"
+msgstr "Cyfnewid am %d Sêr Gwyrdd"
+
+msgid "THEME_SHOP_MAINPAGE_FREE_STARTER_THEMES"
+msgstr "Themâu Rhydd"
+
+msgid "CONGRATULATIONS"
+msgstr "Llongyfarchiadau!"
+
+msgid "SEE_MORE"
+msgstr "Gwylio Mwy"
+
+msgid "PREVIEW"
+msgstr "Preview"
+
+msgid "BUY"
+msgstr "Prynu"
+
+msgid "THEME"
+msgstr "Thema"
+
+msgid "PRICE"
+msgstr "Price"
+
+msgid "CREATOR"
+msgstr "Crëwr"
+
+msgid "DESCRIPTION"
+msgstr "Description"
+
+msgid "YOU_HAVE"
+msgstr "Your Colour Stars:"
+
+msgid "USERNAME"
+msgstr "Enw Defnyddiwr"
+
+msgid "CANCEL"
+msgstr "Cancel"
+
+msgid "CONFIRM"
+msgstr "Confirm"
+
+msgid "CREATORS_ROOM"
+msgstr "Ystafell Crëwr"
+
+msgid "SHOP_MENU"
+msgstr "Dewislen Siop"
+
+msgid "NO_DESCRIPTION_AVAILABLE"
+msgstr "Dim"
+
+msgid "THEME_SHOP_SELECT_PAYMENT"
+msgstr "Dewiswch Talu"
+
+msgid "THEME_SHOP_SELECTED_PAYMENT"
+msgstr "Taliad Dethol"
+
+msgid "THEME_SHOP_STAR_BALANCE_TOO_LOW"
+msgstr "Mae'n ddrwg gennym, nid oes gennych ddigon o Sêr Gwyrdd ar gyfer y thema hon."
+
+msgid "THEME_SHOP_CHOOSE_CAREFULLY_BEFORE_BUYING"
+msgstr "Mae pob pryniant yn barhaol, dewiswch yn ofalus cyn prynu!"
+
+msgid "THEME_SHOP_YOU_OWN_THIS_THEME"
+msgstr "Rydych chi eisoes yn berchen ar y thema hon."
+
+msgid "THEME_SHOP_PUBLIC_THEME"
+msgstr "Mae gan bob defnyddiwr fynediad i'r thema hon am ddim."
+
+msgid "THEME_SHOP_OWNED_THEME_TRANSACTION_FORMAT"
+msgstr "Fe wnaethoch chi brynu'r thema hon ar %s ar gyfer %d Sêr Gwyrdd."
+
+msgid "THEME_SHOP_CONFIRM_PURCHASE_BELOW"
+msgstr "Cadarnhewch eich pryniant isod."
+
+msgid "THEME_SHOP_STARS_LEFT_AFTER_PAYMENT"
+msgstr "Sêr Lliw ar ôl talu:"
+
+msgid "THEME_SHOP_POST_PURCHASE"
+msgstr "Roedd eich pryniant yn llwyddiannus! Ewch i'r adran "\Fy Themâu\" yn Ystafell eich Creawdwr i'w dewis!"
+
+msgid "NAVIGATION_PREVIOUS"
+msgstr "Blae"
+
+msgid "NAVIGATION_NEXT"
+msgstr "Nesaf"
+
+msgid "THEME_SHOP_SAMPLE_PROFILE"
+msgstr "Proffil Sampl"
+
