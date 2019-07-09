@@ -2,13 +2,13 @@ msgid "TIMESTAMP_FORMAT"
 msgstr "M d, Y H:i:s"
 
 msgid "FLIPNOTE_TITLE_FORMAT"
-msgstr "Flipnote by %s"
+msgstr "Flipnote gan %s"
 
 msgid "HEADER_DETAILS"
-msgstr "Details"
+msgstr "Manylion"
 
 msgid "HEADER_COMMENTS"
-msgstr "Comments"
+msgstr "Sylwadau"
 
 msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
 msgstr "This Flipnote is a spin-off."
@@ -23,86 +23,86 @@ msgid "HEADER_CREATOR"
 msgstr "Crewr"
 
 msgid "HEADER_STARS"
-msgstr "Stars"
+msgstr "Sêr"
 
 msgid "HEADER_VIEWS"
-msgstr "Views"
+msgstr "Golygfeydd"
 
 msgid "HEADER_SPINOFFS"
-msgstr "Spin-offs"
+msgstr "Deilliannau"
 
 msgid "HEADER_DOWNLOADS"
-msgstr "Downloads"
+msgstr "Lawrlwythiadau"
 
 msgid "HEADER_TITLE"
-msgstr "Title"
+msgstr "Teitl"
 
 msgid "HEADER_POSTED"
-msgstr "Posted"
+msgstr "Wedi Postio"
 
 msgid "HEADER_FLIPNOTE_ID"
 msgstr "Flipnote ID"
 
 msgid "HEADER_CHANNEL"
-msgstr "Channel"
+msgstr "Sianel"
 
 msgid "HEADER_OPTIONS"
-msgstr "Options"
+msgstr "Opsionau"
 
 msgid "HEADER_SET_AS_PROFILE_PICTURE"
-msgstr "Set as Profile Picture"
+msgstr "Wedi'i osod fel llun proffil"
 
 msgid "HEADER_REPORT_FLIPNOTE"
-msgstr "Report Flipnote"
+msgstr "Adroddiad Flipnote"
 
 msgid "ADMIN_ACTIONS"
-msgstr "Admin actions"
+msgstr "Camau gweithredu gweinyddol"
 
 msgid "PREV"
-msgstr "Prev"
+msgstr "Blae"
 
 msgid "NEXT"
 msgstr "Nesaf"
 
 msgid "STAR_DETAILS_UPPERTITLE"
-msgstr "★ Stars ★"
+msgstr "★ Sêr ★"
 
 msgid "SET_TITLE"
-msgstr "Set Title"
+msgstr "Teitl y Set"
 
 msgid "SET_TITLE_INSTRUCTIONS"
-msgstr "Enter the new title for your Flipnote below."
+msgstr "Rhowch y teitl newydd ar gyfer eich Flipnote isod."
 
 msgid "40_CHARACTER_LIMIT"
-msgstr "Your title is limited to 40 characters in length."
+msgstr "Mae eich teitl wedi'i gyfyngu i 40 o nodau."
 
 msgid "LEAVE_BLANK_TO_RESET"
-msgstr "To reset the title to default, leave the form blank when submitting."
+msgstr "I ailosod y teitl i ddiffyg, gadewch y ffurflen yn wag wrth gyflwyno."
 
 msgid "ENTER_TITLE"
-msgstr "Enter title..."
+msgstr "Rhowch deitl..."
 
 msgid "HEADER_ADD_DESCRIPTION"
-msgstr "Add Description"
+msgstr "Ychwanegu Disgrifiad"
 
 msgid "HEADER_DESCRIPTION"
-msgstr "Description"
+msgstr "Disgrifiad"
 
 msgid "SET_DESCRIPTION"
-msgstr "Set Description"
+msgstr "Disgrifiad y Set"
 
 msgid "SET_DESCRIPTION_INSTRUCTIONS"
-msgstr "Enter the new description for your Flipnote below."
+msgstr "Rhowch y disgrifiad newydd ar gyfer eich Flipnote isod."
 
 msgid "101_CHARACTER_LIMIT_DESC"
-msgstr "Your description is limited to 101 characters in length."
+msgstr "Mae eich disgrifiad wedi'i gyfyngu i 101 o gymeriadau o hyd."
 
 msgid "LEAVE_BLANK_TO_RESET_DESC"
-msgstr "To remove the description, leave the form blank when submitting."
+msgstr "I ddileu'r disgrifiad, gadewch y ffurflen yn wag wrth gyflwyno."
 
 msgid "ENTER_DESCRIPTION"
-msgstr "Enter description..."
+msgstr "Rhowch ddisgrifiad..."
 
 msgid "HEADER_FLIPNOTE_OPTIONS"
-msgstr "Options"
+msgstr "Opsionau"
 
