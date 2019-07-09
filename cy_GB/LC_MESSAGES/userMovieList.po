@@ -1,24 +1,24 @@
 msgid "UPPERTITLE"
-msgstr "Browse"
+msgstr "Porwch"
 
 msgid "NEXT"
-msgstr "Next page"
+msgstr "Tudalen nesaf"
 
 msgid "PREV"
-msgstr "Previous page"
+msgstr "Tudalen flaenorol"
 
 msgid "PAGE"
-msgstr "Page"
+msgstr "Tudalen"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d of %d"
+msgstr "%d o %d"
 
 msgid "FLIPNOTES_BY_FORMAT"
-msgstr "Flipnotes by %s"
+msgstr "Flipnotes gan %s"
 
 msgid "STARRED_BY_FORMAT"
-msgstr "Starred by %s"
+msgstr "Yn serennu gan %s"
 
 msgid "FAVORITES_FEED_FORMAT"
-msgstr "%s's Favorites Feed"
+msgstr "%s's Ffefrynnau Feed"
 
