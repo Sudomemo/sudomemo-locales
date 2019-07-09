@@ -1,45 +1,45 @@
 msgid "HEADER_PREV"
-msgstr "Prev"
+msgstr "Blae"
 
 msgid "HEADER_NEXT"
-msgstr "Next"
+msgstr "Nesaf"
 
 msgid "PAGE_FORMAT"
-msgstr "Page %d"
+msgstr "Tudalen %d"
 
 msgid "SEARCH"
-msgstr "Search"
+msgstr "Chwiliwch"
 
 msgid "USERNAME"
-msgstr "Username"
+msgstr "Enw Defnyddiwr"
 
 msgid "RESULTS"
-msgstr "Results"
+msgstr "Canlyniadau"
 
 msgid "SEARCH_USERNAME"
-msgstr "Search Username"
+msgstr "Chwiliwch Enw Defnyddiwr"
 
 msgid "PLEASE_ENTER_USERNAME"
-msgstr "Please enter a username..."
+msgstr "Rhowch enw defnyddiwr..."
 
 msgid "RESULTS_FOUND_FORMAT_SINGULAR"
-msgstr "%1$d result found for \"%2$s\""
+msgstr "%1$d darganfuwyd canlyniad \"%2$s\""
 
 msgid "RESULTS_FOUND_FORMAT_MULTIPLE"
-msgstr "%1$d results found for \"%2$s\""
+msgstr "%1$d cafwyd canlyniadau ar gyfer \"%2$s\""
 
 msgid "NO_RESULTS_FOUND"
-msgstr "No results found"
+msgstr "Ni ddarganfwyd canlyniadau"
 
 msgid "SEARCH_SHORT_KEY"
 msgstr "Flipnote ID"
 
 msgid "SHORT_KEY_NO_RESULTS"
-msgstr "No Flipnote found"
+msgstr "Ni ddarganfuwyd Flipnote"
 
 msgid "SHORT_KEY_FORMAT_GUIDE"
-msgstr "Not finding what you're looking for? You may have entered the Flipnote ID incorrectly. Flipnote IDs are six digits long and can be found in the details section for the Flipnote."
+msgstr "Ddim yn dod o hyd i'r hyn rydych chi'n chwilio amdano? Efallai eich bod wedi cofnodi'r ID Flipnote yn anghywir. Mae ID Flipnote yn chwe digid o hyd a gellir dod o hyd iddynt yn adran manylion y Flipnote."
 
 msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
-msgstr "No result was found, but a similar ID exists. Please note that Flipnote IDs are case-sensitive, and usually all-capital letters and numbers."
+msgstr "Ni chanfuwyd unrhyw ganlyniad, ond mae ID tebyg yn bodoli. Sylwch fod Flipnote IDs yn sensitif i achosion, ac fel arfer llythrennau a rhifau cyfalaf i gyd."
 
