@@ -1,17 +1,17 @@
 msgid "CHANGE_LANGUAGE"
-msgstr "Change Language"
+msgstr "Newid Iaith"
 
 msgid "LANGUAGE_UPDATED_FORMAT"
-msgstr "Your language has been updated to %s."
+msgstr "Diweddarwyd eich iaith i %s."
 
 msgid "POTENTIAL_CONTRIBUTOR_NOTE"
-msgstr "Sudomemo relies on its community to provide accurate translations. If you see something that does not display correctly, is still in English, is a low-quality translation, or if you would like to add your own language, we invite you to contribute! Full and verified new translations can earn you citizenship. You can do so here: https://github.com/Sudomemo/sudomemo-locales"
+msgstr "Mae Sudomemo yn dibynnu ar ei gymuned i ddarparu cyfieithiadau cywir. Os ydych chi'n gweld rhywbeth nad yw'n cael ei arddangos yn gywir, yn Saesneg o hyd, mae'n gyfieithiad o ansawdd isel, neu os hoffech ychwanegu eich iaith eich hun, rydym yn eich gwahodd i gyfrannu! Gall cyfieithiadau newydd a gwiriedig ennill dinasyddiaeth i chi. Gallwch wneud hynny yma: https://github.com/Sudomemo/sudomemo-locales"
 
 msgid "RETURN_TO_CREATORS_ROOM"
-msgstr "Return to Creator's Room"
+msgstr "Dychwelyd i Ystafell y Crewr"
 
 msgid "NOT_LOGGED_IN"
-msgstr "You must log in before changing your language."
+msgstr "Rhaid i chi fewngofnodi cyn newid eich iaith."
 
 msgid "INVALID_LOCALE"
-msgstr "Sorry, but that language is not available."
+msgstr "Mae'n ddrwg gennym, ond nid yw'r iaith honno ar gael."
