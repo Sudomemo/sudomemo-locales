@@ -1,22 +1,22 @@
 # Code Redemption
 
 msgid "REDEEM_CODE"
-msgstr "Redeem Code"
+msgstr "Wneud iawn am cod"
 
 msgid "ENTER_CODE_TO_REDEEM"
-msgstr "Enter the code you'd like to redeem below."
+msgstr "Nodwch y cod yr hoffech chi ei adbrynu isod."
 
 msgid "CODE_ALREADY_USED"
-msgstr "The code you entered has already been used."
+msgstr "Mae'r cod a nodwyd gennych eisoes wedi'i ddefnyddio."
 
 msgid "CODE_INVALID"
-msgstr "The code you entered is invalid."
+msgstr "Mae'r cod a rhoddoch yn annilys."
 
 msgid "CODE_NONEXISTING_OR_EXPIRED"
-msgstr "The code you entered doesn't exist or has expired."
+msgstr "Nid yw'r cod fewnosodwyd yn bodoli neu wedi dod i ben."
 
 msgid "LOGIN_REQUIRED_REDEEM_CODE"
-msgstr "You must be logged in to redeem a code."
+msgstr "Rhaid i chi fod mewngofnodi i wneud iawn cod."
 
 # Ticket delivery
 
@@ -24,46 +24,46 @@ msgid "YOU_GOT_A_TICKET"
 msgstr "Mae gennych chi tocyn!"
 
 msgid "CONTINUE"
-msgstr "Continue"
+msgstr "Parhau"
 
-# Inventory
+# InventoryYour inventory is empty
 
 msgid "INVENTORY"
-msgstr "Inventory"
+msgstr "Rhestr Eiddo"
 
 msgid "USE_ITEM"
 msgstr "Defnyddio"
 
 msgid "INVENTORY_IS_EMPTY"
-msgstr "Your inventory is empty."
+msgstr "Mae eich rhestr eiddo yn wag."
 
 # Ticket redemption
 
 msgid "TICKET_REDEEM_WIN_FORMAT"
-msgstr "You redeemed the %s!"
+msgstr "Rydych chi wedi prynu'r% s!"
 
 msgid "TICKET_REDEEM_LOSE_FORMAT"
-msgstr "You redeemed the %s, but..."
+msgstr "Fe wnaethoch chi brynu'r %s, ond ..."
 
 msgid "TICKET_REDEEM_NO_PRIZES"
-msgstr "You didn't win anything. Sorry!"
+msgstr "Wnaethoch chi ddim ennill dim byd. Mae'n ddrwg gennym!"
 
 msgid "COLOR_STARS"
 msgstr "Seren Lliw"
 
 msgid "CREATORS_ROOM_THEME"
-msgstr "Creator's Room Theme"
+msgstr "Thema Ystafell Crewr"
 
 msgid "THEME_AVAILABLE_FOR_USE"
-msgstr "You can now use this theme in your Creator's Room!"
+msgstr "Nawr gallwch ddefnyddio'r thema hon yn Ystafell eich Creawdwr!"
 
 # Each ticket type will have a name and a description 
 
 msgid "TICKET_NAME_demo_ticket"
-msgstr "Demo Ticket"
+msgstr "Tocyn Demo"
 
 msgid "TICKET_DESC_demo_ticket"
-msgstr "Obviously, this is the description for the demo ticket."
+msgstr "Yn amlwg, dyma'r disgrifiad ar gyfer y tocyn demo."
 
 msgid "TICKET_NAME_regular_ticket"
 msgstr "Tocyn Rheolaidd"
@@ -72,7 +72,7 @@ msgid "TICKET_DESC_regular_ticket"
 msgstr "Diolch am defnyddio Sudomemo!"
 
 msgid "TICKET_NAME_twitter_promo_ticket"
-msgstr "Twitter Promo Ticket"
+msgstr "Tocyn Promo Trydar"
 
 msgid "TICKET_DESC_twitter_promo_ticket"
 msgstr "Diolch am ddilyn y Sudomemo Twitter!"
