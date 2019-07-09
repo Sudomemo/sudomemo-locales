@@ -1,14 +1,14 @@
 msgid "HEADER_INBOX"
-msgstr "Inbox"
+msgstr "Mewnflwch"
 
 # this must be a max of 6 characters
 msgid "UNAUTHED_READ"
-msgstr "Read.."
+msgstr "Darllen.."
 
 msgid "PREV"
-msgstr "Prev"
+msgstr "Blae"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "Nesaf"
 
 
