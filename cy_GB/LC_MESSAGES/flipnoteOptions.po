@@ -11,19 +11,19 @@ msgid "HEADER_STATUS"
 msgstr "Statws"
 
 msgid "OPTION_NAME_SMOOTH"
-msgstr "Smoothing"
+msgstr "Llyfnhau"
 
 msgid "OPTION_DESC_SMOOTH"
-msgstr "Lines, curves, and edges are smoothed for a more natural look on Sudomemo Theatre."
+msgstr "Mae llinellau, cromliniau ac ymylon yn cael eu llyfnhau er mwyn edrych yn fwy naturiol ar Theatr Sudomemo."
 
 msgid "FLIPNOTE_URL_IS"
 msgstr "Flipnote URL:"
 
 msgid "ENABLE_SMOOTHING"
-msgstr "Enable smoothing"
+msgstr "Galluogi llyfnu"
 
 msgid "DISABLE_SMOOTHING"
-msgstr "Disable smoothing"
+msgstr "Analluogi llyfnu"
 
 msgid "ON"
 msgstr "Ymlaen"
