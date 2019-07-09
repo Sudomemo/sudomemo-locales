@@ -1,51 +1,51 @@
 msgid "HEADER_COMMENTS"
-msgstr "Comments"
+msgstr "Sylwadau"
 
 msgid "HEADER_DETAILS"
-msgstr "Details"
+msgstr "Manylion"
 
 msgid "HEADER_PREV"
-msgstr "Prev"
+msgstr "Blae"
 
 msgid "HEADER_NEXT"
-msgstr "Next"
+msgstr "Nesaf"
 
 msgid "HEADER_REFRESH"
-msgstr "Refresh"
+msgstr "Adnewyddu"
 
 msgid "PAGE_FORMAT"
-msgstr "Page %d"
+msgstr "Tudalen %d"
 
 msgid "NO_COMMENTS_YET"
-msgstr "This Flipnote doesn't have any comments yet."
+msgstr "Nid oes gan y Flipnote unrhyw sylwadau eto."
 
 msgid "LOGIN_REQUIRED_TO_POST_COMMENT"
-msgstr "You must be logged in to post a comment."
+msgstr "Rhaid i chi fod wedi mewngofnodi i bostio sylw."
 
 msgid "COMMENT_POST_FAILED"
-msgstr "Comment post failed. Try again in a moment."
+msgstr "Methodd y sylw post. Ceisiwch eto mewn eiliad."
 
 msgid "NO_BLANK_COMMENTS_ALLOWED"
-msgstr "You cannot post a blank comment."
+msgstr "Ni allwch bostio sylw gwag."
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "The Flipnote data is corrupted. Try again in a moment."
+msgstr "Mae'r data Flipnote wedi'i lygru. Ceisiwch eto mewn eiliad."
 
 msgid "FLIPNOTE_COMMENTS_DISALLOWED"
-msgstr "You may not comment on this Flipnote."
+msgstr "Ni chewch wneud sylwadau ar y Flipnote hwn."
 
 msgid "NO_COMMENTS_WHILE_MUTED"
-msgstr "You have been muted. You may not comment."
+msgstr "Rydych wedi cael eich atal rhag gwneud sylwadau. Ni allwch wneud sylw."
 
 msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "This comment has already been posted to Sudomemo."
+msgstr "Mae'r sylw hwn eisoes wedi'i bostio i Sudomemo."
 
 msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "You've been restricted from using Sudomemo."
+msgstr "Rydych chi wedi cael eich cyfyngu rhag defnyddio Sudomemo."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Please confirm your email before posting."
+msgstr "Cadarnhewch eich e-bost cyn ei bostio."
 
 msgid "MODERATOR"
-msgstr "Moderator"
+msgstr "Cymedrolwr"
 
