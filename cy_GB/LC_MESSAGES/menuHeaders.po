@@ -1,14 +1,14 @@
 msgid "WATCH_FLIPNOTES"
-msgstr "All Flipnotes"
+msgstr "Gwylio Flipnotes"
 
 msgid "CHANNELS"
-msgstr "Channels"
+msgstr "Sianelau"
 
 msgid "CATEGORIES"
-msgstr "Categories"
+msgstr "Categoriau"
 
 msgid "FEATURED"
-msgstr "Featured"
+msgstr "Ymddangos"
 
 msgid "HOT_FLIPNOTES"
 msgstr "Flipnote Poblogaidd"
@@ -17,13 +17,13 @@ msgid "ABOUT_SUDOMEMO"
 msgstr "Amdanom ni"
 
 msgid "CREATORS_ROOM"
-msgstr "Ystafell y Crëwr"
+msgstr "Ystafell y Crewr"
 
 msgid "NEWS"
 msgstr "Newyddion Sudomemo"
 
 msgid "CHATROOMS"
-msgstr "Chatrooms"
+msgstr "Ystafelloedd Sgwrsio"
 
 msgid "SEARCH"
 msgstr "Chwiliwch"
@@ -35,16 +35,16 @@ msgid "SEARCH_FLIPNOTE"
 msgstr "Chwiliwch Flipnote"
 
 msgid "RELOAD_USER"
-msgstr "Reload User"
+msgstr "Ail-lwytho Defnyddiwr"
 
 msgid "LOGIN"
-msgstr "Login"
+msgstr "Mewngofnodi"
 
 msgid "LOGOUT"
-msgstr "Logout"
+msgstr "Allgofnodi"
 
 msgid "REGISTER"
-msgstr "Register"
+msgstr "Cofrestrwch"
 
 msgid "THEME_SHOP"
 msgstr "Siop Thema"
