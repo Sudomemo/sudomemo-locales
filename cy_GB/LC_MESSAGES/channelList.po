@@ -1,20 +1,20 @@
 msgid "UPPERTITLE"
-msgstr "Channels"
+msgstr "Sianelau"
 
 msgid "UPPERSUBBOTTOM"
 msgstr "Please select a channel!"
 
 msgid "NEXT"
-msgstr "Next page"
+msgstr "Tudalen Nesaf"
 
 msgid "PREV"
-msgstr "Previous page"
+msgstr "Tudalen Flaenorol"
 
 msgid "FAVORITES"
-msgstr "Favorites"
+msgstr "Ffefrynnau"
 
 msgid "PAGE"
-msgstr "Page"
+msgstr "Tudaloen"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d of %d"
+msgstr "%d o %d"
