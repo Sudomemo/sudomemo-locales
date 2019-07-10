@@ -1,38 +1,38 @@
 msgid "CHANNEL_NAME"
-msgstr "Channel Name"
+msgstr "Enw Sianel"
 
 msgid "CHANNEL_INFORMATION"
-msgstr "Channel Information"
+msgstr "Gwybodaeth Sianel"
 
 msgid "FLIPNOTES"
 msgstr "Flipnotes"
 
 msgid "CHANNEL_ID"
-msgstr "Channel ID"
+msgstr "Sianel ID"
 
 msgid "LOGIN_REQUIRED_TO_POST"
-msgstr "You must be logged in to post a Flipnote."
+msgstr "Rhaid i chi fod wedi mewngofnodi i bostio Flipnote."
 
 msgid "CHANNEL_NOT_SPECIFIED"
-msgstr "You must pick a channel."
+msgstr "Rhaid i chi ddewis sianel."
 
 msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
-msgstr "You've been restricted from using Sudomemo."
+msgstr "Rydych chi wedi cael eich cyfyngu rhag defnyddio Sudomemo."
 
 msgid "FLIPNOTE_POST_FAILED"
-msgstr "Flipnote upload failed. Try again in a moment."
+msgstr "Methodd llwytho Flipnote. Ceisiwch eto mewn eiliad."
 
 msgid "DUPLICATE_FLIPNOTE_FAILED"
-msgstr "This Flipnote has already been posted to Sudomemo. Try editing it again."
+msgstr "Mae'r Flipnote hwn eisoes wedi ei bostio i Sudomemo. Ceisiwch ei olygu eto."
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "The Flipnote data is corrupted. Try again in a moment."
+msgstr "Mae'r data Flipnote wedi'i lygru. Ceisiwch eto mewn eiliad."
 
 msgid "NO_BLANK_FLIPNOTES_ALLOWED"
-msgstr "You may not post an empty Flipnote."
+msgstr "Ni chewch bostio Flipnote gwag."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Please confirm your email before posting."
+msgstr "Cadarnhewch eich e-bost cyn ei bostio."
 
 msgid "NO_POSTS_WHILE_MUTED"
-msgstr "You may not post while you are muted."
+msgstr "Ni allwch bostio tra byddwch chi'n dawel."
