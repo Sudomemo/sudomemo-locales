@@ -40,7 +40,7 @@ msgstr "Mae eich rhestr eiddo yn wag."
 # Ticket redemption
 
 msgid "TICKET_REDEEM_WIN_FORMAT"
-msgstr "Rydych chi wedi prynu'r% s!"
+msgstr "Rydych chi wedi prynu'r %s!"
 
 msgid "TICKET_REDEEM_LOSE_FORMAT"
 msgstr "Fe wnaethoch chi brynu'r %s, ond ..."
@@ -53,6 +53,9 @@ msgstr "Seren Lliw"
 
 msgid "CREATORS_ROOM_THEME"
 msgstr "Thema Ystafell Crewr"
+
+msgid "SUDOMEMO_CITIZENSHIP"
+msgstr "Sudomemo Citizenship"
 
 msgid "THEME_AVAILABLE_FOR_USE"
 msgstr "Nawr gallwch ddefnyddio'r thema hon yn Ystafell eich Creawdwr!"
@@ -76,3 +79,21 @@ msgstr "Tocyn Promo Trydar"
 
 msgid "TICKET_DESC_twitter_promo_ticket"
 msgstr "Diolch am ddilyn y Sudomemo Twitter!"
+
+msgid "TICKET_NAME_instagram_promo_ticket"
+msgstr "Tocyn Promo Instagram"
+
+msgid "TICKET_DESC_instagram_promo_ticket"
+msgstr "Diolch am ddilyn yr Instagram Sudomemo!"
+
+msgid "TICKET_NAME_weekly_topic_winner_ticket"
+msgstr "Tocyn Enillydd Pwnc Wythnosol"
+
+msgid "TICKET_DESC_weekly_topic_winner_ticket"
+msgstr "Llongyfarchiadau ar ennill Pwnc Wythnosol Sudomemo!"
+
+msgid "TICKET_NAME_birthday_ticket"
+msgstr "Tocyn Pen-blwydd"
+
+msgid "TICKET_DESC_birthday_ticket"
+msgstr "Penblwydd hapus!"
