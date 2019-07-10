@@ -80,10 +80,10 @@ msgid "BLOCK_COMMENTS_LINK"
 msgstr "Blokkeer"
 
 msgid "USABILITY_USABLE"
-msgstr "Gebruikbaar"
+msgstr "Bruikbaar"
 
 msgid "USABILITY_NOT_USABLE"
-msgstr "Ongebruikbaar"
+msgstr "Onbruikbaar"
 
 msgid "HEADER_FOLLOWERS"
 msgstr "Volgers"
@@ -125,10 +125,10 @@ msgid "THEMETEST_NOTICE_2"
 msgstr "Notitie #2"
 
 msgid "THEMETEST_ACTIVE_TAB"
-msgstr "Actieve tabblad"
+msgstr "Actief tabblad"
 
 msgid "THEMETEST_INACTIVE_TAB"
-msgstr "Inactieve tabblad"
+msgstr "Inactief tabblad"
 
 msgid "PREVIEW"
 msgstr "Voorbeeld"
@@ -158,44 +158,44 @@ msgid "HEADER_MAIL_SETTINGS"
 msgstr "E-mail Instellingen"
 
 msgid "HEADER_EDIT_BIOGRAPHY"
-msgstr "Edit Biography"
+msgstr "Verander Biografie"
 
 msgid "SET_BIO_INSTRUCTIONS"
-msgstr "Enter your profile biography below. This will be displayed on Sudomemo and Sudomemo Theatre."
+msgstr "Vul je profiel biografie hieronder in. Dit zal weergeven worden op Sudomemo en Sudomemo Theater."
 
 msgid "ENTER_BIO"
-msgstr "Enter Bio..."
+msgstr "Vul Bio in..."
 
 msgid "101_CHARACTER_LIMIT_BIO"
-msgstr "Your biography is limited to 101 characters."
+msgstr "Je biografie is gelimiteerd tot 101 tekens."
 
 msgid "LEAVE_BLANK_TO_RESET_BIO"
-msgstr "To clear your biography, leave the form blank when submitting."
+msgstr "Om je biografie te verwijderen, laat het formulier leeg bij het insturen."
 
 msgid "CURRENT_BIO"
-msgstr "Current Bio:"
- 
-msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
-msgstr "You can't follow more than %d users."
+msgstr "Huidige Bio:"
 
+msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
+msgstr "Je kan niet meer dan %d gebruikers volgen."
+
+# The Dutch word for this depends on the context. I'll have a look what it's used for and change it if needed.
 msgid "RANKING"
-msgstr "Ranking"
+msgstr "Rang"
 
 msgid "TICKET_SECTION"
-msgstr "Tickets"
+msgstr "Prijskaarten"
 
 msgid "DRAW_REGULAR_TICKET"
-msgstr "Draw Ticket"
+msgstr "Trek Prijskaart"
 
 msgid "CAN_DRAW_TICKET_SUBTEXT"
-msgstr "You can draw a regular ticket! You might win a prize."
+msgstr "Je kan een reguliere ticket trekken! Misschien win je een prijs."
 
 msgid "INVENTORY"
-msgstr "Inventory"
+msgstr "Inventaris"
 
 msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
-msgstr "You can draw another ticket in: %s hour(s) %s minute(s)."
+msgstr "Je kan nog een prijskaart trekken in: %s uur %s minuut/minuten."
 
 msgid "REDEEM"
-msgstr "Redeem"
-
+msgstr "Wissel in"
