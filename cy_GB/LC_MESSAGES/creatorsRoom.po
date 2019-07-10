@@ -1,23 +1,23 @@
 msgid "SEE_MORE"
-msgstr "Gwylio mwy..."
+msgstr "Mwy..."
 
 msgid "STARRED_FLIPNOTES"
-msgstr "Starred Flipnotes"
+msgstr "Flipnotes Serennog"
 
 msgid "FAVORITE_USERS"
-msgstr "Hoff Defnyddiwr"
+msgstr "Hoff Ddefnyddwyr"
 
 msgid "FAVORITES_FEED"
-msgstr "Favorites Feed"
+msgstr "Ffefrynnau Feed"
 
 msgid "FAVORITE_CHANNELS"
-msgstr "Favorite Channels"
+msgstr "Sianelau Hoff"
 
 msgid "USER_DOWNLOADCOUNT"
-msgstr "Downloads"
+msgstr "Lawrlwythiadau"
 
 msgid "USER_VIEWCOUNT"
-msgstr "Views"
+msgstr "Golygfeydd"
 
 msgid "USER_THEME"
 msgstr "Thema"
@@ -26,22 +26,22 @@ msgid "THEME_SHOP"
 msgstr "Siop Thema"
 
 msgid "POSTED_COMMENTS"
-msgstr "Posted Comments"
+msgstr "Sylwadau a Bostiwyd"
 
 msgid "POSTED_CHATCOMMENTS"
-msgstr "Chatroom Messages"
+msgstr "Negeseuon Ystafell Sgwrsio"
 
 msgid "FEATURE_USABILITY"
-msgstr "Feature Usability"
+msgstr "Defnyddioldeb Nodwedd"
 
 msgid "USABLE"
-msgstr "Usable"
+msgstr "Defnyddiadwy"
 
 msgid "NOT_USABLE"
-msgstr "Not Usable"
+msgstr "Ddim yn Ddefnyddiol"
 
 msgid "SUDOMEMO_THEATRE_URL"
-msgstr "Sudomemo Theatre Link"
+msgstr "Cyswllt Theatr Sudomemo"
 
 msgid "FLIPNOTE_STUDIO_ID"
 msgstr "Flipnote Stwdio ID"
@@ -50,152 +50,152 @@ msgid "SETTINGS"
 msgstr "Lleoliadau"
 
 msgid "ADMIN_ACCT_GOOD_STANDING"
-msgstr "In good standing"
+msgstr "Mewn sefyllfa dda"
 
 msgid "ADMIN_ACCT_BANNED"
-msgstr "Banned"
+msgstr "Wedi'i Wahardd"
 
 msgid "ADMIN_ACCT_BLOCKED"
-msgstr "Blocked"
+msgstr "Wedi'i Rwystro"
 
 msgid "ADMIN_ACCT_MUTED"
-msgstr "Muted"
+msgstr "Tawel"
 
 msgid "ADMIN_USER_DETAILS"
-msgstr "User Details"
+msgstr "Manylion Defnyddwyr"
 
 msgid "ADMIN_LAST_SEEN"
-msgstr "Last seen"
+msgstr "Wedi'i weld ddiwethaf"
 
 msgid "ADMIN_USER_STATUS"
-msgstr "User Status"
+msgstr "Statws Defnyddiwr"
 
 msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
-msgstr "Admin Actions"
+msgstr "Camau Gweinyddol"
 
 msgid "BLOCK_COMMENTS_HEADER"
-msgstr "Block Comments"
+msgstr "Sylwadau Bloc"
 
 msgid "BLOCK_COMMENTS_LINK"
-msgstr "Block"
+msgstr "Bloc"
 
 msgid "USABILITY_USABLE"
-msgstr "Usable"
+msgstr "Defnyddiadwy"
 
 msgid "USABILITY_NOT_USABLE"
-msgstr "Not Usable"
+msgstr "Ddim yn Ddefnyddiol"
 
 msgid "HEADER_FOLLOWERS"
-msgstr "Followers"
+msgstr "Dilynwyr"
 
 msgid "HEADER_FOLLOWING"
-msgstr "Following"
+msgstr "Yn dilyn"
 
 msgid "PREVIOUS"
-msgstr "Previous"
+msgstr "Blaenorol"
 
 msgid "NEXT"
 msgstr "Nesaf"
 
 msgid "CHANGE_ROOM_THEME_LINK"
-msgstr "[change theme]"
+msgstr "[newid thema]"
 
 msgid "SELECT_THEME"
-msgstr "Select Theme"
+msgstr "Dewiswch Thema"
 
 msgid "FANS"
-msgstr "Fans"
+msgstr "Cefnogwyr"
 
 msgid "EXAMPLE"
-msgstr "Example"
+msgstr "Enghraifft"
 
 msgid "THEMETEST_SET_THEME"
-msgstr "Set Theme"
+msgstr "Gosod Thema"
 
 msgid "THEMETEST_NOTICE"
-msgstr "Notice"
+msgstr "Rhybudd"
 
 msgid "THEMETEST_OK"
-msgstr "Okay"
+msgstr "Gweddol"
 
 msgid "THEMETEST_ERROR"
-msgstr "Error"
+msgstr "Gwall"
 
 msgid "THEMETEST_NOTICE_2"
-msgstr "Notice #2"
+msgstr "Rhybudd #2"
 
 msgid "THEMETEST_ACTIVE_TAB"
-msgstr "Active tab"
+msgstr "Tab gweithredol"
 
 msgid "THEMETEST_INACTIVE_TAB"
-msgstr "Inactive tab"
+msgstr "Tab anweithredol"
 
 msgid "PREVIEW"
-msgstr "Preview"
+msgstr "Rhagolwg"
 
 msgid "CREATORS_ROOM"
-msgstr "Ystafell y Crewr"
+msgstr "Ystafell Crewr"
 
 msgid "THEME_ERROR_THEME_NOT_OWNED"
-msgstr "Sorry! You do not own that theme."
+msgstr "Mae'n ddrwg gennym! Nid ydych yn berchen ar y thema honno."
 
 msgid "THEME_SUCCESSFULLY_SET"
-msgstr "Theme successfully set!"
+msgstr "Thema wedi'i gosod yn llwyddiannus!"
 
 msgid "BLOCKED_USERS"
-msgstr "Blocked users"
+msgstr "Defnyddwyr wedi'u blocio"
 
 msgid "VIEW"
-msgstr "View"
+msgstr "Golygfa"
 
 msgid "FAN_COUNT_FORMAT"
-msgstr "Fans: %s"
+msgstr "Cefnogwyr: %s"
 
 msgid "HEADER_LANGUAGE"
-msgstr "Language"
+msgstr "Iaith"
 
 msgid "HEADER_MAIL_SETTINGS"
 msgstr "Lleoliadau Bost"
 
 msgid "HEADER_EDIT_BIOGRAPHY"
-msgstr "Edit Biography"
+msgstr "Golygu Bywgraffiad"
 
 msgid "SET_BIO_INSTRUCTIONS"
-msgstr "Enter your profile biography below. This will be displayed on Sudomemo and Sudomemo Theatre."
+msgstr "Rhowch gofiant eich proffil isod. Bydd hyn yn cael ei arddangos ar Sudomemo a Sudomemo Theatre."
 
 msgid "ENTER_BIO"
-msgstr "Enter Bio..."
+msgstr "Rhowch eich bio..."
 
 msgid "101_CHARACTER_LIMIT_BIO"
-msgstr "Your biography is limited to 101 characters."
+msgstr "Mae eich bywgraffiad wedi'i gyfyngu i 101 o gymeriadau."
 
 msgid "LEAVE_BLANK_TO_RESET_BIO"
-msgstr "To clear your biography, leave the form blank when submitting."
+msgstr "I glirio'ch bywgraffiad, gadewch y ffurflen yn wag wrth gyflwyno."
 
 msgid "CURRENT_BIO"
-msgstr "Current Bio:"
+msgstr "Bio Presennol:"
  
 msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
-msgstr "You can't follow more than %d users."
+msgstr "Ni allwch ddilyn mwy na %d o ddefnyddwyr."
 
 msgid "RANKING"
-msgstr "Ranking"
+msgstr "Safle"
 
 msgid "TICKET_SECTION"
 msgstr "Tocynnau"
 
 msgid "DRAW_REGULAR_TICKET"
-msgstr "Draw Ticket"
+msgstr "Tynnwch Docyn"
 
 msgid "CAN_DRAW_TICKET_SUBTEXT"
-msgstr "You can draw a regular ticket! You might win a prize."
+msgstr "Gallwch dynnu tocyn rheolaidd! Efallai y byddwch yn ennill gwobr."
 
 msgid "INVENTORY"
-msgstr "Inventory"
+msgstr "Rhestr Eiddo"
 
 msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
-msgstr "You can draw another ticket in: %s hour(s) %s minute(s)."
+msgstr "Gallwch dynnu tocyn arall mewn: %s awr(au) %s munud(au)."
 
 msgid "REDEEM"
-msgstr "Redeem"
+msgstr "Adennill"
 
