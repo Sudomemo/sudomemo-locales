@@ -92,7 +92,7 @@ msgid "DISABLE_CONFIRMATION_FORMAT"
 msgstr "Ydych chi'n siŵr eich bod am analluogi negeseuon e-bost '%s' ?"
 
 msgid "REENABLE_INSTRUCTIONS"
-msgstr "msgstr "Os ydych chi am eu troi'n ôl, gallwch wneud hynny drwy ddewis <strong>Gosodiadau E-bost</strong> yn Ystafell eich Creawdwr."
+msgstr "Os ydych chi am eu troi'n ôl, gallwch wneud hynny drwy ddewis <strong>Gosodiadau E-bost</strong> yn Ystafell eich Creawdwr."
 
 msgid "EMAIL_SETTING_DISABLED_FINISH_FORMAT"
 msgstr "Rydych chi wedi analluogi negeseuon e-bost '%s'."
