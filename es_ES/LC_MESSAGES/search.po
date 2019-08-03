@@ -11,16 +11,16 @@ msgid "SEARCH"
 msgstr "Buscar"
 
 msgid "USERNAME"
-msgstr "Nombre de usuario"
+msgstr "Nombre"
 
 msgid "RESULTS"
 msgstr "Resultados"
 
 msgid "SEARCH_USERNAME"
-msgstr "Buscar nombre de usuario"
+msgstr "Creador"
 
 msgid "PLEASE_ENTER_USERNAME"
-msgstr "Por favor introduzca un nombre de usuario..."
+msgstr "Introduzca el nombre del creador..."
 
 msgid "RESULTS_FOUND_FORMAT_SINGULAR"
 msgstr "%1$d Resultado encontrado para \"%2$s\""
@@ -32,14 +32,14 @@ msgid "NO_RESULTS_FOUND"
 msgstr "No se encontraron resultados"
 
 msgid "SEARCH_SHORT_KEY"
-msgstr "Flipnote ID"
+msgstr "ID de Flipnote"
 
 msgid "SHORT_KEY_NO_RESULTS"
 msgstr "Flipnote no encontrada"
 
 msgid "SHORT_KEY_FORMAT_GUIDE"
-msgstr "¿No encuentras lo que estás buscando? Debes haber ingresar la Flipnote ID incorrectamente. Las Flipnote ID son de seis dígitos y pueden ser encontradas en los sección de detalles de la Flipnote."
+msgstr "¿No encuentras lo que estás buscando? Debes de haber puesto mal el ID. Los ID de las Flipnotes son de seis dígitos y se encuentran en la sección de detalles del mismo."
 
 msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
-msgstr "No se han encontrado resultados, pero existe una ID similar. Por favor nota que las Flipnote ID distinguen letras mayúsculas y minúsculas, usualmente todas son mayúsculas y contienen números."
+msgstr "No se han encontrado resultados, pero si una ID similar. Por favor, comprueba si el ID tiene letras mayúsculas o minúsculas y números, suelen ser casi todas con mayúsculas y con números."
 
