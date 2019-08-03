@@ -20,13 +20,13 @@ msgid "HEADER_ROLEPLAYS"
 msgstr "Juegos de Rol"
 
 msgid "HEADER_BROWSE_FLIPNOTES"
-msgstr "Navegar entre las Flipnotes"
+msgstr "Navegar entre Flipnotes"
 
 msgid "HEADER_FEATURED_FLIPNOTES"
-msgstr "Flipnotes Destacadas"
+msgstr "Flipnotes destacadas"
 
 msgid "HEADER_RANDOM_FLIPNOTES"
-msgstr "Random Flipnotes"
+msgstr "Flipnotes aleatorias"
 
 msgid "HEADER_PAGE"
 msgstr "Página"
@@ -47,21 +47,21 @@ msgid "POST_FLIPNOTE"
 msgstr "Publicar Flipnote"
 
 msgid "CATEGORY_recent"
-msgstr "Flipnotes Recientes"
+msgstr "Flipnotes recientes"
 
 msgid "CATEGORY_hot"
-msgstr "Flipnotes Recientes"
+msgstr "Flipnotes"
 
 msgid "CATEGORY_popular"
-msgstr "Las más Populares"
+msgstr "@Flipnotes populares"
 
 msgid "CATEGORY_featured"
-msgstr "Flipnotes Destacadas"
+msgstr "@Flipnotes destacadas"
 
 msgid "CATEGORY_random"
-msgstr "@Random Flipnotes"
+msgstr "@Flipnotes aleatorias"
 
 msgid "CATEGORY_feed"
-msgstr "@Feed"
+msgstr "@Todo"
 
 
