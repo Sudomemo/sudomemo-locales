@@ -53,7 +53,7 @@ msgid "FORM_WARNING_PASSWORD_TOO_SHORT"
 msgstr "Vul alsjeblieft een wachtwoord in dat langer is dan 8 lettertekens."
 
 msgid "FORM_WARNING_PASSWORD_DISALLOWED_CHARS"
-msgstr "Je wachtwoord mag niet een van de volgende tekens bevatten:"
+msgstr "Je wachtwoord mag geen van de volgende tekens bevatten:"
 
 msgid "FORM_LABEL_DONT_FORGET_PASSWORD"
 msgstr "Vergeet je wachtwoord niet, en houdt hem veilig!"
@@ -179,7 +179,7 @@ msgid "FORGOT_PASSWORD_LINK"
 msgstr "Wachtwoord vergeten?"
 
 msgid "EMAIL_IS_DUPLICATE"
-msgstr "Deze e-mailadres is al in gebruik."
+msgstr "Dit e-mailadres is al in gebruik."
 
 msgid "EMAIL_CONFIRMATION_SENT_FORMAT"
 msgstr "Een verificatie e-mail is verstuurd naar %s. Controleer je inbox alsjeblieft na een paar minuten."
@@ -233,14 +233,13 @@ msgid "THANK_YOU_FOR_UPDATING_EMAIL"
 msgstr "Bedankt voor het updaten van jouw e-mailadres!"
 
 msgid "BUTTON_CONTINUE"
-msgstr "Ga door"
+msgstr "Ga verder"
 
 msgid "BUTTON_EDIT_EMAIL_ADDRESS"
 msgstr "Verander E-mailadres"
 
 msgid "SEARCH_FOR_SENDER_EMAIL_FORMAT"
-msgstr "Geen e-mail ontvangen? Check je Spam box, en zoek voor %s. Als het blijkt dat het gemarkeert is als span, zorg er voor dat je het markeert als Geen Spam."
+msgstr "Geen e-mail ontvangen? Check je Spam box, en zoek voor %s. Als het blijkt dat het gemarkeerd is als spam, zorg er voor dat je het markeert als Geen Spam."
 
 msgid "NEW_USER_INTRO_POST_INTRO_CHANNEL"
-msgstr "When you're ready, go ahead and introduce yourself in our Introduction channel, under the Personal category."
-
+msgstr "Wanneer je er klaar voor bent, stel jezelf voor in onze Introduction kanaal, onder de Persoonlijk categorie."

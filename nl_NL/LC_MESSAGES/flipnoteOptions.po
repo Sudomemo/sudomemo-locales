@@ -1,39 +1,38 @@
 msgid "FLIPNOTE_OPTIONS"
-msgstr "Flipnote Options"
+msgstr "Flipnote Opties"
 
 msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
-msgstr "You must be logged in to view this page."
+msgstr "Je moet ingelogd zijn om deze pagina te weergeven."
 
 msgid "HEADER_OPTION"
-msgstr "Option"
+msgstr "Optie"
 
 msgid "HEADER_STATUS"
 msgstr "Status"
 
 msgid "OPTION_NAME_SMOOTH"
-msgstr "Smoothing"
+msgstr "Verzachting"
 
 msgid "OPTION_DESC_SMOOTH"
-msgstr "Lines, curves, and edges are smoothed for a more natural look on Sudomemo Theatre."
+msgstr "Lijnen, rondingen, en randen worden verzacht voor een meer natuurlijke uitstraling op Sudomemo Theatre."
 
 msgid "FLIPNOTE_URL_IS"
 msgstr "Flipnote URL:"
 
 msgid "ENABLE_SMOOTHING"
-msgstr "Enable smoothing"
+msgstr "Verzachting inschakelen"
 
 msgid "DISABLE_SMOOTHING"
-msgstr "Disable smoothing"
+msgstr "Verzachting uitschakelen"
 
 msgid "ON"
-msgstr "On"
+msgstr "Aan"
 
 msgid "OFF"
-msgstr "Off"
+msgstr "Uit"
 
 msgid "CITIZENSHIP_REQUIRED"
-msgstr "You'll need Sudomemo Citizenship to use this feature."
+msgstr "Je hebt Sudomemo Citizenship nodig om deze functie te gebruiken."
 
 msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
-msgstr "Tap on an option's status to view or change it."
-
+msgstr "Tik op de status van een optie om deze te weergeven of te veranderen."
