@@ -37,3 +37,15 @@ msgstr "この機能を使用するには、Sudomemo Citizenshipが必要です�
 msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
 msgstr "表示または変更するには、オプションのステータスをタップします。"
 
+msgid "OPTION_NAME_FORCE_44K_BITRATE"
+msgstr "Enhanced audio"
+
+msgid "OPTION_DESC_FORCE_44K_BITRATE"
+msgstr "Sudomemo will try to make your audio sound crisper and cleaner for Sudomemo Theatre."
+
+msgid "ENABLE_AUDIO_ENHANCEMENT"
+msgstr "Enable audio enhancement"
+
+msgid "DISABLE_AUDIO_ENHANCEMENT"
+msgstr "Disable audio enhancement"
+
