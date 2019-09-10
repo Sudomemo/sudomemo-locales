@@ -60,6 +60,15 @@ msgstr "Citoyenneté Sudomemo"
 msgid "THEME_AVAILABLE_FOR_USE"
 msgstr "Vous pouvez maintenant utiliser ce thème dans votre Salle de créateur !"
 
+msgid "SUDOMEMO_PLUS"
+msgstr "Sudomemo Plus"
+
+msgid "SUDOMEMO_PLUS_FORMAT"
+msgstr "You received %s days worth of Sudomemo Plus!"
+
+msgid "SUDOMEMO_PLUS_BALANCE_FORMAT"
+msgstr "Balance: %s days"
+
 # Each ticket type will have a name and a description 
 
 msgid "TICKET_NAME_demo_ticket"
