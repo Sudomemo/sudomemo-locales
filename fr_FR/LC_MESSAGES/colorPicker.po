@@ -1,17 +1,17 @@
 msgid "SET_PEN_COLOR"
-msgstr "Couleur du crayon"
+msgstr "Set Pen Color"
 
 msgid "SET_PAPER_COLOR"
-msgstr "Couleur du papier"
+msgstr "Set Paper Color"
 
 msgid "SELECT_A_COLOR"
-msgstr "Choisissez une couleur."
+msgstr "Select a color."
 
 msgid "CURRENT_COLOR"
-msgstr "Couleur actuelle :"
+msgstr "Current color:"
 
 msgid "CURRENT_COLOR_DEFAULT"
-msgstr "Couleur actuelle : par défaut"
+msgstr "Current color: default"
 
 msgid "RETURN"
-msgstr "Retour"
+msgstr "Return"
