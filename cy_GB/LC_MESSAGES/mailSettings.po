@@ -1,0 +1,102 @@
+msgid "HEADER_MAIL_SETTINGS"
+msgstr "Lleoliadau E-bost"
+
+msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
+msgstr "Rhaid i chi fewngofnodi i olygu eich gosodiadau post."
+
+msgid "MAIL_TYPE"
+msgstr "Math"
+
+msgid "MAIL_STATUS"
+msgstr "Statws"
+
+msgid "ENABLED"
+msgstr "Wedi'i alluogi"
+
+msgid "DISABLED"
+msgstr "Anabl"
+
+msgid "ENABLE"
+msgstr "Alluogi"
+
+msgid "Disable"
+msgstr "Analluogi"
+
+msgid "TAP_TO_ENABLE"
+msgstr "Tap i alluogi"
+
+msgid "TAP_TO_DISABLE"
+msgstr "Tap i analluogi"
+
+msgid "TYPE_NEWS_NAME"
+msgstr "Newyddion Sudomemo"
+
+msgid "TYPE_NEWS_DESC"
+msgstr "Derbyn e-bost pan fydd rhywbeth newydd yn cael ei bostio i Sudomemo News"
+
+msgid "TYPE_PROMO_NAME"
+msgstr "Newyddion Gwasanaeth"
+
+msgid "TYPE_PROMO_DESC"
+msgstr "Derbyn negeseuon e-bost am nodweddion, awgrymiadau a driciau newydd, a digwyddiadau sydd ar y gweill!"
+
+msgid "TYPE_FAVE_NOTIF_NAME"
+msgstr "Wedi'i ychwanegu fel Hoff"
+
+msgid "TYPE_FAVE_NOTIF_DESC"
+msgstr "Derbyniwch e-bost pan fydd rhywun yn eich ychwanegu at eu Ffefrynnau"
+
+msgid "TYPE_COMMENT_NOTIF_NAME"
+msgstr "Sylwadau a Dderbyniwyd"
+
+msgid "TYPE_COMMENT_NOTIF_DESC"
+msgstr "Derbyn e-bost pan fydd rhywun yn gwneud sylwadau ar eich Flipnote"
+
+msgid "TYPE_STAR_REPORT_NAME"
+msgstr "Adroddiad Daily Star"
+
+msgid "TYPE_STAR_REPORT_DESC"
+msgstr "Derbyniwch e-bost ar ddiwedd y dydd am unrhyw sêr a gawsoch"
+
+msgid "TYPE_SPINOFF_NOTIF_NAME"
+msgstr "Ail-wneud Derbyniwyd"
+
+msgid "TYPE_SPINOFF_NOTIF_DESC"
+msgstr "Derbyn e-bost pan fydd rhywun yn postio deilliant i'ch Flipnote"
+
+msgid "TYPE_SECURITY_NOTIF_NAME"
+msgstr "Diogelwch Cyfrif"
+
+msgid "TYPE_SECURITY_NOTIF_DESC"
+msgstr "Derbyn e-bost pan fydd eich cyfeiriad e-bost neu'ch cyfrinair yn cael ei ddiweddaru"
+
+msgid "TYPE_REPORT_UPDATE_NAME"
+msgstr "Diweddariad Cynnwys wedi'i Fflagio"
+
+msgid "TYPE_REPORT_UPDATE_DESC"
+msgstr "Derbyn e-bost pan fyddwn yn diweddaru statws y cynnwys rydych chi wedi'i flaggio"
+
+msgid "TYPE_UNREAD_COMMENTS_NAME"
+msgstr "Sylwadau heb eu darllen"
+
+msgid "TYPE_UNREAD_COMMENTS_DESC"
+msgstr "Derbyniwch grynodeb e-bost o unrhyw sylwadau newydd a gawsoch yn ddiweddar"
+
+msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
+msgstr "Tap ar statws math post i weld neu ei ddiweddaru."
+
+msgid "HEADER_CHANGE_EMAIL_SETTINGS"
+msgstr "Newid Gosodiadau E-bost"
+
+msgid "DISABLE_CONFIRMATION_FORMAT"
+msgstr "Ydych chi'n siŵr eich bod am analluogi negeseuon e-bost '%s' ?"
+
+msgid "REENABLE_INSTRUCTIONS"
+msgstr "Os ydych chi am eu troi'n ôl, gallwch wneud hynny drwy ddewis <strong>Gosodiadau E-bost</strong> yn Ystafell eich Creawdwr."
+
+msgid "EMAIL_SETTING_DISABLED_FINISH_FORMAT"
+msgstr "Rydych chi wedi analluogi negeseuon e-bost '%s'."
+
+msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
+msgstr "Mae'r ddolen a ddilynoch wedi dod i ben."
+

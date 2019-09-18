@@ -1,0 +1,102 @@
+msgid "THEME_SHOP_LOGIN_REQUIRED"
+msgstr "You must be logged in to access the Theme Shop"
+
+msgid "THEME_SHOP_MAINPAGE_HEADER"
+msgstr "Here at the Theme Shop you can purchase new themes for your Creator's Room!"
+
+msgid "THEME_SHOP_LEARN_MORE_HEADER"
+msgstr "Learn more about the Theme Shop"
+
+msgid "THEME_SHOP_REPORT_ISSUES_HEADER"
+msgstr "Tap this link to report a theme that isn't working properly."
+
+msgid "THEME_SHOP_MAINPAGE_EXCHANGE_COST_FORMAT"
+msgstr "Exchange for %d Green Stars"
+
+msgid "THEME_SHOP_MAINPAGE_FREE_STARTER_THEMES"
+msgstr "Free Starter Themes"
+
+msgid "CONGRATULATIONS"
+msgstr "Congratulations!"
+
+msgid "SEE_MORE"
+msgstr "See more"
+
+msgid "PREVIEW"
+msgstr "Preview"
+
+msgid "BUY"
+msgstr "Buy"
+
+msgid "THEME"
+msgstr "Theme"
+
+msgid "PRICE"
+msgstr "Price"
+
+msgid "CREATOR"
+msgstr "Creator"
+
+msgid "DESCRIPTION"
+msgstr "Description"
+
+msgid "YOU_HAVE"
+msgstr "Your Colour Stars:"
+
+msgid "USERNAME"
+msgstr "Username"
+
+msgid "CANCEL"
+msgstr "Cancel"
+
+msgid "CONFIRM"
+msgstr "Confirm"
+
+msgid "CREATORS_ROOM"
+msgstr "Creator's Room"
+
+msgid "SHOP_MENU"
+msgstr "Shop Menu"
+
+msgid "NO_DESCRIPTION_AVAILABLE"
+msgstr "None"
+
+msgid "THEME_SHOP_SELECT_PAYMENT"
+msgstr "Select Payment"
+
+msgid "THEME_SHOP_SELECTED_PAYMENT"
+msgstr "Selected Payment"
+
+msgid "THEME_SHOP_STAR_BALANCE_TOO_LOW"
+msgstr "Sorry, you don't have enough Green Stars for this theme."
+
+msgid "THEME_SHOP_CHOOSE_CAREFULLY_BEFORE_BUYING"
+msgstr "All purchases are permanent, please choose carefully before buying!"
+
+msgid "THEME_SHOP_YOU_OWN_THIS_THEME"
+msgstr "You already own this theme."
+
+msgid "THEME_SHOP_PUBLIC_THEME"
+msgstr "All users have access to this theme for free."
+
+msgid "THEME_SHOP_OWNED_THEME_TRANSACTION_FORMAT"
+msgstr "You purchased this theme on %s for %d Green Stars."
+
+msgid "THEME_SHOP_CONFIRM_PURCHASE_BELOW"
+msgstr "Please confirm your purchase below."
+
+msgid "THEME_SHOP_STARS_LEFT_AFTER_PAYMENT"
+msgstr "Colour Stars left after payment:"
+
+msgid "THEME_SHOP_POST_PURCHASE"
+msgstr "Your purchase was successful! Go to the \"My Themes\" section in your Creator's Room to select it!"
+
+msgid "NAVIGATION_PREVIOUS"
+msgstr "Prev"
+
+msgid "NAVIGATION_NEXT"
+msgstr "Next"
+
+msgid "THEME_SHOP_SAMPLE_PROFILE"
+msgstr "Sample Profile"
+

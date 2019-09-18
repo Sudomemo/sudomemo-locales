@@ -1,0 +1,108 @@
+msgid "TIMESTAMP_FORMAT"
+msgstr "M d, Y H:i:s"
+
+msgid "FLIPNOTE_TITLE_FORMAT"
+msgstr "Flipnote gan %s"
+
+msgid "HEADER_DETAILS"
+msgstr "Manylion"
+
+msgid "HEADER_COMMENTS"
+msgstr "Sylwadau"
+
+msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
+msgstr "This Flipnote is a spin-off."
+
+msgid "HEADER_ORIGINAL_FLIPNOTE"
+msgstr "View the source Flipnote here"
+
+msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
+msgstr "To prevent star-begging, yellow stars are limited to ten per Flipnote."
+
+msgid "HEADER_CREATOR"
+msgstr "Crewr"
+
+msgid "HEADER_STARS"
+msgstr "Sêr"
+
+msgid "HEADER_VIEWS"
+msgstr "Golygfeydd"
+
+msgid "HEADER_SPINOFFS"
+msgstr "Deilliannau"
+
+msgid "HEADER_DOWNLOADS"
+msgstr "Lawrlwythiadau"
+
+msgid "HEADER_TITLE"
+msgstr "Teitl"
+
+msgid "HEADER_POSTED"
+msgstr "Wedi Postio"
+
+msgid "HEADER_FLIPNOTE_ID"
+msgstr "Flipnote ID"
+
+msgid "HEADER_CHANNEL"
+msgstr "Sianel"
+
+msgid "HEADER_OPTIONS"
+msgstr "Opsionau"
+
+msgid "HEADER_SET_AS_PROFILE_PICTURE"
+msgstr "Wedi'i osod fel llun proffil"
+
+msgid "HEADER_REPORT_FLIPNOTE"
+msgstr "Adroddiad Flipnote"
+
+msgid "ADMIN_ACTIONS"
+msgstr "Camau gweithredu gweinyddol"
+
+msgid "PREV"
+msgstr "Blae"
+
+msgid "NEXT"
+msgstr "Nesaf"
+
+msgid "STAR_DETAILS_UPPERTITLE"
+msgstr "★ Sêr ★"
+
+msgid "SET_TITLE"
+msgstr "Teitl y Set"
+
+msgid "SET_TITLE_INSTRUCTIONS"
+msgstr "Rhowch y teitl newydd ar gyfer eich Flipnote isod."
+
+msgid "40_CHARACTER_LIMIT"
+msgstr "Mae eich teitl wedi'i gyfyngu i 40 o nodau."
+
+msgid "LEAVE_BLANK_TO_RESET"
+msgstr "I ailosod y teitl i ddiffyg, gadewch y ffurflen yn wag wrth gyflwyno."
+
+msgid "ENTER_TITLE"
+msgstr "Rhowch deitl..."
+
+msgid "HEADER_ADD_DESCRIPTION"
+msgstr "Ychwanegu Disgrifiad"
+
+msgid "HEADER_DESCRIPTION"
+msgstr "Disgrifiad"
+
+msgid "SET_DESCRIPTION"
+msgstr "Disgrifiad y Set"
+
+msgid "SET_DESCRIPTION_INSTRUCTIONS"
+msgstr "Rhowch y disgrifiad newydd ar gyfer eich Flipnote isod."
+
+msgid "101_CHARACTER_LIMIT_DESC"
+msgstr "Mae eich disgrifiad wedi'i gyfyngu i 101 o gymeriadau o hyd."
+
+msgid "LEAVE_BLANK_TO_RESET_DESC"
+msgstr "I ddileu'r disgrifiad, gadewch y ffurflen yn wag wrth gyflwyno."
+
+msgid "ENTER_DESCRIPTION"
+msgstr "Rhowch ddisgrifiad..."
+
+msgid "HEADER_FLIPNOTE_OPTIONS"
+msgstr "Opsionau"
+

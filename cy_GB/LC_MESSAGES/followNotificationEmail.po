@@ -1,0 +1,24 @@
+msgid "EMAIL_SUBJECT_FORMAT"
+msgstr "[Sudomemo] %s Ychwanegodd chi at eu Ffefrynnau"
+
+msgid "GREETING_FORMAT"
+msgstr "Shwmae %s!"
+
+msgid "NEW_FOLLOWER_ADDED_YOU_FORMAT"
+msgstr "%s dim ond eich ychwanegu at eu Ffefrynnau."
+
+msgid "STATS_FLIPNOTES_FORMAT"
+msgstr "%s Flipnotes"
+
+msgid "STATS_FOLLOWERS_FORMAT"
+msgstr "%s Dilynwyr"
+
+msgid "STATS_FLIPNOTES_FORMAT_SINGULAR"
+msgstr "%s Flipnote"
+
+msgid "STATS_FOLLOWERS_FORMAT_SINGULAR"
+msgstr "%s Dilynwr"
+
+msgid "VIEW_PROFILE"
+msgstr "Gweld Proffil"
+
