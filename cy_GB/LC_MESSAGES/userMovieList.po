@@ -1,0 +1,24 @@
+msgid "UPPERTITLE"
+msgstr "Porwch"
+
+msgid "NEXT"
+msgstr "Tudalen nesaf"
+
+msgid "PREV"
+msgstr "Tudalen flaenorol"
+
+msgid "PAGE"
+msgstr "Tudalen"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d o %d"
+
+msgid "FLIPNOTES_BY_FORMAT"
+msgstr "Flipnotes gan %s"
+
+msgid "STARRED_BY_FORMAT"
+msgstr "Yn serennu gan %s"
+
+msgid "FAVORITES_FEED_FORMAT"
+msgstr "%s's Ffefrynnau Feed"
+

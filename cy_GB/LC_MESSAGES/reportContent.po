@@ -1,0 +1,62 @@
+msgid "HEADER_REPORT_CONTENT"
+msgstr "Cynnwys yr Adroddiad"
+
+msgid "CHAT_MESSAGE"
+msgstr "Neges ystafell sgwrsio"
+
+msgid "COMMENT"
+msgstr "Sylw"
+
+msgid "FLIPNOTE"
+msgstr "Flipnote"
+
+msgid "YOU_ARE_REPORTING_THIS_FORMAT"
+msgstr "Rydych chi'n adrodd am hyn %s:"
+
+msgid "USER_HAS_ALREADY_REPORTED_FORMAT"
+msgstr "Rydych eisoes wedi cyflwyno adroddiad ar gyfer hyn %s."
+
+msgid "HEADER_VIOLATION_CATEGORY"
+msgstr "Categori Troseddau:"
+
+msgid "FLIPNOTE_TITLE_FORMAT"
+msgstr "Flipnote gan %s"
+
+msgid "CREATOR_FORMAT"
+msgstr "Crewr: %s"
+
+msgid "NOTICE_REPORT_OTHER_ISSUES"
+msgstr "Mae'r ffurflen hon ar gyfer adrodd cynnwys defnyddwyr yn unig. I roi gwybod am ymddygiad defnyddiwr, neu am faterion a cheisiadau eraill, anfonwch e-bost at ein tîm cefnogi:"
+
+msgid "REPORT_INSTRUCTIONS"
+msgstr "Ysgrifennwch ddisgrifiad byr o pam rydych chi'n credu bod y cynnwys hwn yn groes i Delerau Defnyddio Sudomemo. Unwaith y byddwch chi'n ei gyflwyno, tapiwch yn ôl i ddychwelyd i'r Flipnote."
+
+msgid "NO_BLANK_REPORTS"
+msgstr "Ni allwch bostio adroddiad gwag."
+
+msgid "LIMIT_ONE_REPORT"
+msgstr "Sylwer: Dim ond un tro y gallwch chi adrodd y cynnwys hwn. Ni fydd adroddiadau ychwanegol yn cael eu cofrestru, felly rhowch eich gwybodaeth mewn un sylw."
+
+msgid "REPORT_EXPLANATION_FAILED"
+msgstr "Digwyddodd gwall tra roedd yr adroddiad hwn yn cael ei gyflwyno."
+
+msgid "RESTRICTED_CANCEL"
+msgstr "Efallai na fyddwch yn rhoi gwybod am gynnwys os ydych wedi'ch cyfyngu rhag rhyngweithio â Sudomemo mewn unrhyw ffordd."
+
+msgid "HEADER_REASON"
+msgstr "Rheswm:"
+
+msgid "LOGIN_REQUIRED_TO_CONTINUE"
+msgstr "Rhaid i chi fewngofnodi i barhau."
+
+msgid "LOGIN_REQUIRED_TO_REPORT_CONTENT"
+msgstr "Rhaid i chi fewngofnodi i gyflwyno adroddiadau cynnwys."
+
+msgid "REPORT_FAILED_USER_BANNED"
+msgstr "Methodd yr adroddiad: cewch eich cyfyngu o Sudomemo."
+
+msgid "DUPLICATE_COMMENT_FAILED"
+msgstr "Mae'r sylw hwn eisoes wedi'i bostio i Sudomemo."
+
+msgid "CONFIRM_EMAIL_BEFORE_REPORTING"
+msgstr "Cadarnhewch eich e-bost cyn adrodd ar y cynnwys."

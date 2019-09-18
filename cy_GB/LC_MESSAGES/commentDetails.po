@@ -1,0 +1,41 @@
+msgid "COMMENT_DETAILS"
+msgstr "Manylion Sylw"
+
+msgid "MESSAGE_DETAILS"
+msgstr "Manylion Neges"
+
+msgid "AUTHOR"
+msgstr "Awdur"
+
+msgid "COMMENT_BY_FORMAT"
+msgstr "Sylw gan %s"
+
+msgid "CHAT_MESSAGE_FROM_FORMAT"
+msgstr "Sgwrs Sgwrsio gan %s"
+
+msgid "MESSAGE_FROM_FORMAT"
+msgstr "Neges gan %s"
+
+msgid "FLIPNOTE_BY_FORMAT"
+msgstr "Flipnote gan %s"
+
+msgid "COMMENT_ID"
+msgstr "ID Sylw "
+
+msgid "MESSAGE_ID"
+msgstr "ID Neges"
+
+msgid "CHAT_COMMENT_ID"
+msgstr "ID Sylw Sgwrs"
+
+msgid "TIMESTAMP"
+msgstr "Timestamp"
+
+msgid "POSTED_TO"
+msgstr "Postio i"
+
+msgid "PRIVATE_CONVERSATION"
+msgstr "Sgwrs Breifat"
+
+msgid "REPORT_CONTENT"
+msgstr "Cynnwys yr Adroddiad"

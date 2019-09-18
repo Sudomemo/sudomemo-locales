@@ -1,0 +1,78 @@
+# Code Redemption
+
+msgid "REDEEM_CODE"
+msgstr "Redeem Code"
+
+msgid "ENTER_CODE_TO_REDEEM"
+msgstr "Enter the code you'd like to redeem below."
+
+msgid "CODE_ALREADY_USED"
+msgstr "The code you entered has already been used."
+
+msgid "CODE_INVALID"
+msgstr "The code you entered is invalid."
+
+msgid "CODE_NONEXISTING_OR_EXPIRED"
+msgstr "The code you entered doesn't exist or has expired."
+
+msgid "LOGIN_REQUIRED_REDEEM_CODE"
+msgstr "You must be logged in to redeem a code."
+
+# Ticket delivery
+
+msgid "YOU_GOT_A_TICKET"
+msgstr "You got a ticket!"
+
+msgid "CONTINUE"
+msgstr "Continue"
+
+# Inventory
+
+msgid "INVENTORY"
+msgstr "Inventory"
+
+msgid "USE_ITEM"
+msgstr "Use"
+
+msgid "INVENTORY_IS_EMPTY"
+msgstr "Your inventory is empty."
+
+# Ticket redemption
+
+msgid "TICKET_REDEEM_WIN_FORMAT"
+msgstr "You redeemed the %s!"
+
+msgid "TICKET_REDEEM_LOSE_FORMAT"
+msgstr "You redeemed the %s, but..."
+
+msgid "TICKET_REDEEM_NO_PRIZES"
+msgstr "You didn't win anything. Sorry!"
+
+msgid "COLOR_STARS"
+msgstr "Color Stars"
+
+msgid "CREATORS_ROOM_THEME"
+msgstr "Creator's Room Theme"
+
+msgid "THEME_AVAILABLE_FOR_USE"
+msgstr "You can now use this theme in your Creator's Room!"
+
+# Each ticket type will have a name and a description 
+
+msgid "TICKET_NAME_demo_ticket"
+msgstr "Demo Ticket"
+
+msgid "TICKET_DESC_demo_ticket"
+msgstr "Obviously, this is the description for the demo ticket."
+
+msgid "TICKET_NAME_regular_ticket"
+msgstr "Regular Ticket"
+
+msgid "TICKET_DESC_regular_ticket"
+msgstr "Thank you for using Sudomemo!"
+
+msgid "TICKET_NAME_twitter_promo_ticket"
+msgstr "Twitter Promo Ticket"
+
+msgid "TICKET_DESC_twitter_promo_ticket"
+msgstr "Thanks for following the Sudomemo Twitter!"

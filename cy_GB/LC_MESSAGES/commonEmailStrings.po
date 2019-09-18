@@ -1,0 +1,9 @@
+msgid "TEXT_CHANGE_SETTINGS_PROMPT"
+msgstr "Eisiau addasu'r negeseuon e-bost a gewch o Sudomemo?"
+
+msgid "TEXT_HOW_TO_CHANGE_SETTINGS_DSI"
+msgstr "Gallwch eu diweddaru'n hawdd trwy ymweld ag Ystafell eich Creawdwr ar Sudomemo a dewis <strong>Gosodiadau Post</strong>."
+
+msgid "TEXT_WEB_SETTINGS_CHANGE_FORMAT"
+msgstr "Neu, gallwch ddiffodd y mathau hyn o negeseuon e-bost trwy glicio <a target=\"_blank\" href=\"%s\"> <strong>yma</strong> </a>."
+
