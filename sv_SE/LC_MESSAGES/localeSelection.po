@@ -5,7 +5,7 @@ msgid "LANGUAGE_UPDATED_FORMAT"
 msgstr "Ditt språk har ändrats till %s."
 
 msgid "POTENTIAL_CONTRIBUTOR_NOTE"
-msgstr "Sudomemo litar på sin gemenskap för att ge exakta översättningar. Om du ser något som inte visas korrekt, är fortfarande på engelska, en översättning av låg kvalitet, eller om du vill lägga till ditt eget språk så bjuder vi in dig att bidra! Fullständiga och verifierade översättningar kan tjäna dig medborgarskap. Du kan göra det här: https://github.com/Sudomemo/sudomemo-locales"
+msgstr "Sudomemo relies on its community to provide accurate translations. If you see something that does not display correctly, is still in English, is a low-quality translation, or if you would like to add your own language, we invite you to contribute! Full and verified new translations can earn you extra days of Sudomemo Plus. You can do so here: https://github.com/Sudomemo/sudomemo-locales"
 
 msgid "RETURN_TO_CREATORS_ROOM"
 msgstr "Gå tillbaka till Creator's Room"
