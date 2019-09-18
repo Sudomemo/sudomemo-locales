@@ -57,3 +57,21 @@ msgstr "Accéder à des informations analytiques pour vos Flipnotes"
 
 msgid "SUDOMEMO_GAME_ACCESS"
 msgstr "Jouer à des jeux spéciaux directement sur Sudomemo !"
+
+# Sudomemo Plus Running Low Message
+
+msgid "PLUS_RUNNING_OUT_MSG_TITLE"
+msgstr "My Sudomemo Plus"
+
+msgid "PLUS_RUNNING_OUT_MSG_INTRO"
+msgstr "Hello, %s!"
+
+msgid "PLUS_RUNNING_OUT_MSG_DAYS_REMAINING_FORMAT"
+msgstr "This message is to let you know that you have %s days of Sudomemo Plus remaining."
+
+msgid "PLUS_RUNNING_OUT_MSG_HOW_TO_EARN_PLUS"
+msgstr "Don't forget that you can earn Sudomemo Plus by entering winning entries to the Weekly Topic, or by redeeming tickets purchased from our Shop."
+
+msgid "PLUS_RUNNING_OUT_MSG_HAPPY_FLIPNOTING"
+msgstr "Happy Flipnoting!"
+
