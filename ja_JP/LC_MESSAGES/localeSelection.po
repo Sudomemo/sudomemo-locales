@@ -5,7 +5,7 @@ msgid "LANGUAGE_UPDATED_FORMAT"
 msgstr "言語が %sに変更されました。"
 
 msgid "POTENTIAL_CONTRIBUTOR_NOTE"
-msgstr "Sudomemoは正確な翻訳を提供するためにコミュニティに依存しています。 正しく表示されない、英語で表示される、低品質の翻訳がある、またはあなた自身の言語を追加したい場合は、コミュニティに参加してください！ https://github.com/Sudomemo/sudomemo-localesでこれを翻訳できます。"
+msgstr "Sudomemo relies on its community to provide accurate translations. If you see something that does not display correctly, is still in English, is a low-quality translation, or if you would like to add your own language, we invite you to contribute! Full and verified new translations can earn you extra days of Sudomemo Plus. You can do so here: https://github.com/Sudomemo/sudomemo-locales"
 
 msgid "RETURN_TO_CREATORS_ROOM"
 msgstr "マイルームに戻る"

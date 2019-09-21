@@ -34,6 +34,9 @@ msgstr "オフ"
 msgid "CITIZENSHIP_REQUIRED"
 msgstr "この機能を使用するには、Sudomemo Citizenshipが必要です。"
 
+msgid "PLUS_REQUIRED"
+msgstr "You'll need Sudomemo Plus to use this feature."
+
 msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
 msgstr "表示または変更するには、オプションのステータスをタップします。"
 
