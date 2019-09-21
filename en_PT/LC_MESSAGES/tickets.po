@@ -76,3 +76,10 @@ msgstr "Twitter Promo Ticket"
 
 msgid "TICKET_DESC_twitter_promo_ticket"
 msgstr "Thanks for following the Sudomemo Twitter!"
+
+msgid "TICKET_NAME_love_anniversary_ticket"
+msgstr "Anniversary Ticket"
+
+# The last character of this message is the DSi symbol for a heart. Don't remove it.
+msgid "TICKET_DESC_love_anniversary_ticket" 
+msgstr "Happy Anniversary "

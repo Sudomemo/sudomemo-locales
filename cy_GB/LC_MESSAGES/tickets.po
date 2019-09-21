@@ -97,3 +97,10 @@ msgstr "Tocyn Pen-blwydd"
 
 msgid "TICKET_DESC_birthday_ticket"
 msgstr "Penblwydd hapus!"
+
+msgid "TICKET_NAME_love_anniversary_ticket"
+msgstr "Anniversary Ticket"
+
+# The last character of this message is the DSi symbol for a heart. Don't remove it.
+msgid "TICKET_DESC_love_anniversary_ticket"
+msgstr "Happy Anniversary "
