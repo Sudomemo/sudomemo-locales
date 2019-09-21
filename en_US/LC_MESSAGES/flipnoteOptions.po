@@ -34,6 +34,9 @@ msgstr "Off"
 msgid "CITIZENSHIP_REQUIRED"
 msgstr "You'll need Sudomemo Citizenship to use this feature."
 
+msgid "PLUS_REQUIRED"
+msgstr "You'll need Sudomemo Plus to use this feature."
+
 msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
 msgstr "Tap on an option's status to view or change it."
 
