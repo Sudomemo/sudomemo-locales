@@ -108,8 +108,8 @@ msgid "TICKET_DESC_birthday_ticket"
 msgstr "Joyeux anniversaire !"
 
 msgid "TICKET_NAME_love_anniversary_ticket"
-msgstr "Ticket d'anniversaire"
+msgstr "Ticket annuel d'inscription"
 
 # The last character of this message is the DSi symbol for a heart. Don't remove it.
 msgid "TICKET_DESC_love_anniversary_ticket" 
-msgstr "Joyeux anniversaire "
+msgstr "Joyeux anniversaire sur Sudomemo "
