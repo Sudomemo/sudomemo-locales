@@ -11,7 +11,7 @@ msgid "FAVORITES_FEED"
 msgstr "Favourites Feed"
 
 msgid "FAVORITE_CHANNELS"
-msgstr "Favourite Channels"
+msgstr "Favourites Channels"
 
 msgid "USER_DOWNLOADCOUNT"
 msgstr "Downloads"
@@ -198,4 +198,3 @@ msgstr "You can draw another ticket in: %s hour(s) %s minute(s)."
 
 msgid "REDEEM"
 msgstr "Redeem"
-

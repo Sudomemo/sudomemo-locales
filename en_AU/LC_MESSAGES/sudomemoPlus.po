@@ -3,13 +3,13 @@ msgid "SUDOMEMO_PLUS_LEGACY_HEADER"
 msgstr "Welcome to Sudomemo Plus!"
 
 msgid "GREETING_LEGACY_ACTIVATE_FORMAT"
-msgstr "Hello, %s!"
+msgstr "G'day, %s!"
 
 msgid "LEGACY_ACTIVATE_CITIZENSHIP_CHANGE"
 msgstr "Sudomemo Citizenship has gone away, replaced by Sudomemo Plus!"
 
 msgid "LEGACY_ACTIVATE_PLUS_TEASER"
-msgstr "Sudomemo Plus gives you access to all sorts of extra features, such as smoothing and audio enhancement of your Flipnotes on Sudomemo Theatre, as well as colorful comments and other neat features!"
+msgstr "Sudomemo Plus gives you access to all sorts of extra features, such as smoothing and audio enhancement of your Flipnotes on Sudomemo Theatre, as well as colourful comments and other neat features!"
 
 msgid "LEGACY_ACTIVATE_EARN_PLUS"
 msgstr "Sudomemo Plus can be earned by redeeming tickets purchased from our Shop or by entering a winning entry to our Weekly Topic."
@@ -44,7 +44,7 @@ msgid "FLIPNOTE_AUDIO_ENHANCEMENT"
 msgstr "Flipnote Audio Enhancement"
 
 msgid "COLORFUL_COMMENTS"
-msgstr "Write colorful comments"
+msgstr "Write colourful comments"
 
 msgid "DOWNLOAD_YOUR_COMMENTS"
 msgstr "Download your comments as Flipnotes"
@@ -64,7 +64,7 @@ msgid "PLUS_RUNNING_OUT_MSG_TITLE"
 msgstr "My Sudomemo Plus"
 
 msgid "PLUS_RUNNING_OUT_MSG_INTRO"
-msgstr "Hello, %s!"
+msgstr "G'day, %s!"
 
 msgid "PLUS_RUNNING_OUT_MSG_DAYS_REMAINING_FORMAT"
 msgstr "This message is to let you know that you have %s days of Sudomemo Plus remaining."
@@ -74,4 +74,3 @@ msgstr "Don't forget that you can earn Sudomemo Plus by entering winning entries
 
 msgid "PLUS_RUNNING_OUT_MSG_HAPPY_FLIPNOTING"
 msgstr "Happy Flipnoting!"
-
