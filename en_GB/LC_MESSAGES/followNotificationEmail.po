@@ -1,11 +1,11 @@
 msgid "EMAIL_SUBJECT_FORMAT"
-msgstr "[Sudomemo] %s added you to their Favorites"
+msgstr "[Sudomemo] %s added you to their Favourites"
 
 msgid "GREETING_FORMAT"
 msgstr "Hey %s!"
 
 msgid "NEW_FOLLOWER_ADDED_YOU_FORMAT"
-msgstr "%s just added you to their Favorites."
+msgstr "%s just added you to their Favourites."
 
 msgid "STATS_FLIPNOTES_FORMAT"
 msgstr "%s Flipnotes"
@@ -21,4 +21,3 @@ msgstr "%s Follower"
 
 msgid "VIEW_PROFILE"
 msgstr "View Profile"
-

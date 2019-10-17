@@ -1,5 +1,5 @@
 msgid "TIMESTAMP_FORMAT"
-msgstr "M d, Y H:i:s"
+msgstr "j/m/Y, g:i:s a"
 
 msgid "FLIPNOTE_TITLE_FORMAT"
 msgstr "Flipnote by %s"
@@ -105,4 +105,3 @@ msgstr "Enter description..."
 
 msgid "HEADER_FLIPNOTE_OPTIONS"
 msgstr "Options"
-

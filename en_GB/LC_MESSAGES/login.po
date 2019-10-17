@@ -215,7 +215,7 @@ msgid "WEB_HEADER_SUCCESS"
 msgstr "Success!"
 
 msgid "WEB_TAP_CHECK_VERIFICATION_STATUS"
-msgstr "Go ahead and tap 'Check Verification Status' on your Nintendo DSi System."
+msgstr "Go ahead and tap 'Check Verification Status' on your Nintendo DSi System to complete the email verification."
 
 msgid "HEADER_VERIFICATION_EXPIRED"
 msgstr "Verification Expired"
@@ -243,4 +243,3 @@ msgstr "Haven't received the email? Check your Spam box, and search for %s. If y
 
 msgid "NEW_USER_INTRO_POST_INTRO_CHANNEL"
 msgstr "When you're ready, go ahead and introduce yourself in our Introduction channel, under the Personal category."
-

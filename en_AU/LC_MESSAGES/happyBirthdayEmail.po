@@ -2,7 +2,7 @@ msgid "EMAIL_SUBJECT_FORMAT"
 msgstr "[Sudomemo] Happy Birthday, %s!"
 
 msgid "GREETING_FORMAT"
-msgstr "G'day, %s!"
+msgstr "Hey %s!"
 
 msgid "HAPPY_BIRTHDAY"
 msgstr "Happy birthday!"
@@ -12,4 +12,3 @@ msgstr "There's a special birthday surprise waiting for you on Sudomemo."
 
 msgid "LOGON_ON_DS_TO_VIEW"
 msgstr "Log on to Sudomemo with your Nintendo DSi or 3DS to receive your birthday gift!"
-

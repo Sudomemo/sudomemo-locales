@@ -54,6 +54,9 @@ msgstr "Colour Stars"
 msgid "CREATORS_ROOM_THEME"
 msgstr "Creator's Room Theme"
 
+msgid "SUDOMEMO_CITIZENSHIP"
+msgstr "Sudomemo Citizenship"
+
 msgid "THEME_AVAILABLE_FOR_USE"
 msgstr "You can now use this theme in your Creator's Room!"
 
@@ -123,4 +126,3 @@ msgstr "Plus Ticket (One Year)"
 
 msgid "TICKET_DESC_one_year_plus_ticket"
 msgstr "This ticket will give you one year of Sudomemo Plus!"
-

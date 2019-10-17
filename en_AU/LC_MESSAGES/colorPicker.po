@@ -1,17 +1,17 @@
 msgid "SET_PEN_COLOR"
-msgstr "Set Pen Color"
+msgstr "Set Pen Colour"
 
 msgid "SET_PAPER_COLOR"
-msgstr "Set Paper Color"
+msgstr "Set Paper Colour"
 
 msgid "SELECT_A_COLOR"
-msgstr "Select a color."
+msgstr "Select a colour."
 
 msgid "CURRENT_COLOR"
-msgstr "Current color:"
+msgstr "Current colour:"
 
 msgid "CURRENT_COLOR_DEFAULT"
-msgstr "Current color: default"
+msgstr "Current colour: default"
 
 msgid "RETURN"
 msgstr "Return"
