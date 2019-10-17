@@ -35,11 +35,10 @@ msgid "DUPLICATE_COMMENT_FAILED"
 msgstr "This comment has already been posted to Sudomemo."
 
 msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "You've been restricted from using Sudomemo."
+msgstr "You have been restricted from interacting with Sudomemo."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
 msgstr "Please confirm your email before posting."
 
 msgid "MODERATOR"
 msgstr "Moderator"
-

@@ -5,13 +5,13 @@ msgid "STARRED_FLIPNOTES"
 msgstr "Starred Flipnotes"
 
 msgid "FAVORITE_USERS"
-msgstr "Favorite Users"
+msgstr "Favourite Users"
 
 msgid "FAVORITES_FEED"
-msgstr "Favorites Feed"
+msgstr "Favourites Feed"
 
 msgid "FAVORITE_CHANNELS"
-msgstr "Favorite Channels"
+msgstr "Favourite Channels"
 
 msgid "USER_DOWNLOADCOUNT"
 msgstr "Downloads"
@@ -174,7 +174,7 @@ msgstr "To clear your biography, leave the form blank when submitting."
 
 msgid "CURRENT_BIO"
 msgstr "Current Bio:"
- 
+
 msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
 msgstr "You can't follow more than %d users."
 
@@ -198,4 +198,3 @@ msgstr "You can draw another ticket in: %s hour(s) %s minute(s)."
 
 msgid "REDEEM"
 msgstr "Redeem"
-
