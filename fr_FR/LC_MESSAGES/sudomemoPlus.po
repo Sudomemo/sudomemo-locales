@@ -61,17 +61,17 @@ msgstr "Jouer à des jeux spéciaux directement sur Sudomemo !"
 # Sudomemo Plus Running Low Message
 
 msgid "PLUS_RUNNING_OUT_MSG_TITLE"
-msgstr "My Sudomemo Plus"
+msgstr "Mon Sudomemo Plus"
 
 msgid "PLUS_RUNNING_OUT_MSG_INTRO"
-msgstr "Hello, %s!"
+msgstr "Bonjour, %s !"
 
 msgid "PLUS_RUNNING_OUT_MSG_DAYS_REMAINING_FORMAT"
-msgstr "This message is to let you know that you have %s days of Sudomemo Plus remaining."
+msgstr "Ce message est là pour vous informer qu'il vous reste %s jours de Sudomemo Plus."
 
 msgid "PLUS_RUNNING_OUT_MSG_HOW_TO_EARN_PLUS"
-msgstr "Don't forget that you can earn Sudomemo Plus by entering winning entries to the Weekly Topic, or by redeeming tickets purchased from our Shop."
+msgstr "N'oubliez pas que vous pouvez obtenir Sudomemo Plus en gagnant au Weekly Topic, ou en utilisant des tickets achetés depuis notre boutique."
 
 msgid "PLUS_RUNNING_OUT_MSG_HAPPY_FLIPNOTING"
-msgstr "Happy Flipnoting!"
+msgstr "Bon flipnotage !"
 
