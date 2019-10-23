@@ -199,3 +199,9 @@ msgstr "Gallwch dynnu tocyn arall mewn: %s awr(au) %s munud(au)."
 msgid "REDEEM"
 msgstr "Adennill"
 
+
+msgid "SPENDABLE_STARS"
+msgstr "Your Stars"
+
+msgid "SPENDABLE_STARS_HELPTEXT"
+msgstr "Stars to add to Flipnotes or use for themes"

@@ -199,3 +199,9 @@ msgstr "Je kan nog een prijskaart trekken in: %s uur %s minuut/minuten."
 
 msgid "REDEEM"
 msgstr "Wissel in"
+
+msgid "SPENDABLE_STARS"
+msgstr "Your Stars"
+
+msgid "SPENDABLE_STARS_HELPTEXT"
+msgstr "Stars to add to Flipnotes or use for themes"

@@ -199,3 +199,9 @@ msgstr "Podrás conseguir otro ticket en: %s hora(s) %s minuto(s)."
 msgid "REDEEM"
 msgstr "Canjear"
 
+
+msgid "SPENDABLE_STARS"
+msgstr "Your Stars"
+
+msgid "SPENDABLE_STARS_HELPTEXT"
+msgstr "Stars to add to Flipnotes or use for themes"
