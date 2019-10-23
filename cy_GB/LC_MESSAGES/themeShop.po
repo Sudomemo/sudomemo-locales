@@ -59,7 +59,7 @@ msgid "SHOP_MENU"
 msgstr "Dewislen Siop"
 
 msgid "NO_DESCRIPTION_AVAILABLE"
-msgstr "Dim"
+msgstr "Dim disgrifiad"
 
 msgid "THEME_SHOP_SELECT_PAYMENT"
 msgstr "Dewiswch Talu"
@@ -68,7 +68,7 @@ msgid "THEME_SHOP_SELECTED_PAYMENT"
 msgstr "Taliad Dethol"
 
 msgid "THEME_SHOP_STAR_BALANCE_TOO_LOW"
-msgstr "Mae'n ddrwg gennym, nid oes gennych ddigon o Sêr Gwyrdd ar gyfer y thema hon."
+msgstr "Sori, nid oes gennych ddigon o Sêr Gwyrdd ar gyfer y thema hon."
 
 msgid "THEME_SHOP_CHOOSE_CAREFULLY_BEFORE_BUYING"
 msgstr "Mae pob pryniant yn barhaol, dewiswch yn ofalus cyn prynu!"
@@ -99,4 +99,3 @@ msgstr "Nesaf"
 
 msgid "THEME_SHOP_SAMPLE_PROFILE"
 msgstr "Proffil Sampl"
-
