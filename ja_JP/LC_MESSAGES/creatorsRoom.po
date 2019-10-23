@@ -199,3 +199,9 @@ msgstr "別のチケットを引けるようになるまで:あと %s 時間 %s 
 msgid "REDEEM"
 msgstr "引き換え"
 
+
+msgid "SPENDABLE_STARS"
+msgstr "Your Stars"
+
+msgid "SPENDABLE_STARS_HELPTEXT"
+msgstr "Stars to add to Flipnotes or use for themes"
