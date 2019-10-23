@@ -137,7 +137,7 @@ msgid "CREATORS_ROOM"
 msgstr "Ystafell Crewr"
 
 msgid "THEME_ERROR_THEME_NOT_OWNED"
-msgstr "Mae'n ddrwg gennym! Nid ydych yn berchen ar y thema honno."
+msgstr "Sori! Nid ydych yn berchen ar y thema honno."
 
 msgid "THEME_SUCCESSFULLY_SET"
 msgstr "Thema wedi'i gosod yn llwyddiannus!"
@@ -174,12 +174,12 @@ msgstr "I glirio'ch bywgraffiad, gadewch y ffurflen yn wag wrth gyflwyno."
 
 msgid "CURRENT_BIO"
 msgstr "Bio Presennol:"
- 
+
 msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
 msgstr "Ni allwch ddilyn mwy na %d o ddefnyddwyr."
 
 msgid "RANKING"
-msgstr "Safle"
+msgstr "Rheng"
 
 msgid "TICKET_SECTION"
 msgstr "Tocynnau"
@@ -199,3 +199,11 @@ msgstr "Gallwch dynnu tocyn arall mewn: %s awr(au) %s munud(au)."
 msgid "REDEEM"
 msgstr "Adennill"
 
+msgid "REDEEM"
+msgstr "Adbrynu"
+
+msgid "SPENDABLE_STARS"
+msgstr "Eich Sêr"
+
+msgid "SPENDABLE_STARS_HELPTEXT"
+msgstr "Sêr i'w hychwanegu at Flipnotes neu eu defnyddio ar gyfer themâu"
