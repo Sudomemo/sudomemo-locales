@@ -1,7 +1,7 @@
 # sudomemo-locales
 For public contributions to localization efforts on Sudomemo.
 
-Full and verified translations can earn you citizenship on Sudomemo! c:
+Full and verified translations can earn you Plus on Sudomemo! c:
 
 Please note that translations will be verified; contributions will not be accepted if you only use Google Translate or if things are translated in an inappropriate manner.
 
@@ -35,7 +35,7 @@ Please note that translations will be verified; contributions will not be accept
 
 	* Your summary should explain what you changed; "added German translation" or "fixed Japanese translation for blockSettings.po" are examples of good summaries.
 
-	* Decription is optional, so don't worry about it.
+	* Description is optional, so don't worry about it.
 
 11. Click the **Commit to master** button at the bottom. Your changes will now be saved to GitHub. You may continue to make changes in the same way until you're ready to submit them back to us.
 

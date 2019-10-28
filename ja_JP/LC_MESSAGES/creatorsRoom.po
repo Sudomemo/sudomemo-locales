@@ -182,20 +182,26 @@ msgid "RANKING"
 msgstr "ランキング"
 
 msgid "TICKET_SECTION"
-msgstr "Tickets"
+msgstr "チケット"
 
 msgid "DRAW_REGULAR_TICKET"
-msgstr "Draw Ticket"
+msgstr "チケットを引く"
 
 msgid "CAN_DRAW_TICKET_SUBTEXT"
-msgstr "You can draw a regular ticket! You might win a prize."
+msgstr "レギュラーチケットを引くことができます！賞品を獲得するかもしれません。"
 
 msgid "INVENTORY"
-msgstr "Inventory"
+msgstr "チケット一覧"
 
 msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
-msgstr "You can draw another ticket in: %s hour(s) %s minute(s)."
+msgstr "別のチケットを引けるようになるまで:あと %s 時間 %s 分"
 
 msgid "REDEEM"
-msgstr "Redeem"
+msgstr "引き換え"
 
+
+msgid "SPENDABLE_STARS"
+msgstr "Your Stars"
+
+msgid "SPENDABLE_STARS_HELPTEXT"
+msgstr "Stars to add to Flipnotes or use for themes"

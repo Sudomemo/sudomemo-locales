@@ -1,39 +1,54 @@
 msgid "FLIPNOTE_OPTIONS"
-msgstr "Flipnote Options"
+msgstr "Opciones del Flipnote"
 
 msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
-msgstr "You must be logged in to view this page."
+msgstr "Debes iniciar sesión para ver esta página."
 
 msgid "HEADER_OPTION"
-msgstr "Option"
+msgstr "Opción"
 
 msgid "HEADER_STATUS"
-msgstr "Status"
+msgstr "Estatus"
 
 msgid "OPTION_NAME_SMOOTH"
-msgstr "Smoothing"
+msgstr "Suavizado"
 
 msgid "OPTION_DESC_SMOOTH"
-msgstr "Lines, curves, and edges are smoothed for a more natural look on Sudomemo Theatre."
+msgstr "Líneas, curvas, y otros bordes serán suavizados para una apariencia más natural en Sudomemo Theatre."
 
 msgid "FLIPNOTE_URL_IS"
-msgstr "Flipnote URL:"
+msgstr "URL del Flipnote:"
 
 msgid "ENABLE_SMOOTHING"
-msgstr "Enable smoothing"
+msgstr "Habilitar suavizado"
 
 msgid "DISABLE_SMOOTHING"
-msgstr "Disable smoothing"
+msgstr "Deshabilitar suavizado"
 
 msgid "ON"
-msgstr "On"
+msgstr "Habilitado"
 
 msgid "OFF"
-msgstr "Off"
+msgstr "Deshabilitado"
 
 msgid "CITIZENSHIP_REQUIRED"
-msgstr "You'll need Sudomemo Citizenship to use this feature."
+msgstr "Necesitas Sudomemo Citizenship para utilizar esta característica."
+
+msgid "PLUS_REQUIRED"
+msgstr "Necesitas Sudomemo Plus para utilizar esta característica."
 
 msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
-msgstr "Tap on an option's status to view or change it."
+msgstr "Toca el estatus de una opción para verla o cambiarla."
+
+msgid "OPTION_NAME_FORCE_44K_BITRATE"
+msgstr "Audio mejorado"
+
+msgid "OPTION_DESC_FORCE_44K_BITRATE"
+msgstr "Sudomemo hará lo mejor para que tu audio suene más nítido y limpio en Sudomemo Theatre."
+
+msgid "ENABLE_AUDIO_ENHANCEMENT"
+msgstr "Habilitar audio mejorado"
+
+msgid "DISABLE_AUDIO_ENHANCEMENT"
+msgstr "Deshabilitar audio mejorado"
 

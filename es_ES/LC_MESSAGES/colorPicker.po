@@ -1,0 +1,17 @@
+msgid "SET_PEN_COLOR"
+msgstr "Establecer color del lápiz"
+
+msgid "SET_PAPER_COLOR"
+msgstr "Establecer color del papel"
+
+msgid "SELECT_A_COLOR"
+msgstr "Selecciona un color."
+
+msgid "CURRENT_COLOR"
+msgstr "Color actual:"
+
+msgid "CURRENT_COLOR_DEFAULT"
+msgstr "Color actual: por defecto"
+
+msgid "RETURN"
+msgstr "Regresar"

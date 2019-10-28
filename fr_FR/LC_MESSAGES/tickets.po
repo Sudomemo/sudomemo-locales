@@ -55,10 +55,19 @@ msgid "CREATORS_ROOM_THEME"
 msgstr "Thème de la Salle de créateur"
 
 msgid "SUDOMEMO_CITIZENSHIP"
-msgstr "Sudomemo Citizenship"
+msgstr "Citoyenneté Sudomemo"
 
 msgid "THEME_AVAILABLE_FOR_USE"
 msgstr "Vous pouvez maintenant utiliser ce thème dans votre Salle de créateur !"
+
+msgid "SUDOMEMO_PLUS"
+msgstr "Sudomemo Plus"
+
+msgid "SUDOMEMO_PLUS_FORMAT"
+msgstr "Vous avez reçu %s jours de Sudomemo Plus !"
+
+msgid "SUDOMEMO_PLUS_BALANCE_FORMAT"
+msgstr "Solde : %s jours"
 
 # Each ticket type will have a name and a description 
 
@@ -97,3 +106,23 @@ msgstr "Ticket d'anniversaire"
 
 msgid "TICKET_DESC_birthday_ticket"
 msgstr "Joyeux anniversaire !"
+
+msgid "TICKET_NAME_love_anniversary_ticket"
+msgstr "Ticket de célébration"
+
+# The last character of this message is the DSi symbol for a heart. Don't remove it.
+msgid "TICKET_DESC_love_anniversary_ticket" 
+msgstr "Joyeux anniversaire mon "
+
+# Sudomemo Plus
+msgid "TICKET_NAME_one_month_plus_ticket"
+msgstr "Ticket Plus (Un mois)"
+
+msgid "TICKET_DESC_one_month_plus_ticket"
+msgstr "Ce ticket vous donnera un mois de Sudomemo Plus !"
+
+msgid "TICKET_NAME_one_year_plus_ticket"
+msgstr "Ticket Plus (Un an)"
+
+msgid "TICKET_DESC_one_year_plus_ticket"
+msgstr "Ce ticket vous donnera un an de Sudomemo Plus !"

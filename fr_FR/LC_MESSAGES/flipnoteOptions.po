@@ -34,6 +34,21 @@ msgstr "Non"
 msgid "CITIZENSHIP_REQUIRED"
 msgstr "Vous devez être un citoyen Sudomemo pour utiliser cette fonctionnalité."
 
+msgid "PLUS_REQUIRED"
+msgstr "Vous devez avoir Sudomemo Plus pour utiliser cette fonctionnalité."
+
 msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
 msgstr "Appuyez sur le statut d'une option pour l'afficher ou le modifier."
+
+msgid "OPTION_NAME_FORCE_44K_BITRATE"
+msgstr "Audio amélioré"
+
+msgid "OPTION_DESC_FORCE_44K_BITRATE"
+msgstr "Sudomemo tentera de rendre le son plus net et plus propre pour Sudomemo Theatre."
+
+msgid "ENABLE_AUDIO_ENHANCEMENT"
+msgstr "Activer l'amélioration audio"
+
+msgid "DISABLE_AUDIO_ENHANCEMENT"
+msgstr "Désactiver l'amélioration audio"
 

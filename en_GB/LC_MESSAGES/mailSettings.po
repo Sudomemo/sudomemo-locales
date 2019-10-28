@@ -19,7 +19,7 @@ msgstr "Disabled"
 msgid "ENABLE"
 msgstr "Enable"
 
-msgid "Disable"
+msgid "DISABLE"
 msgstr "Disable"
 
 msgid "TAP_TO_ENABLE"
@@ -41,10 +41,10 @@ msgid "TYPE_PROMO_DESC"
 msgstr "Receive emails about new features, tips and tricks, and upcoming events!"
 
 msgid "TYPE_FAVE_NOTIF_NAME"
-msgstr "Added as Favorite"
+msgstr "Added as Favourite"
 
 msgid "TYPE_FAVE_NOTIF_DESC"
-msgstr "Receive an email when someone adds you to their Favorites"
+msgstr "Receive an email when someone adds you to their Favourites"
 
 msgid "TYPE_COMMENT_NOTIF_NAME"
 msgstr "Comment Received"
@@ -99,4 +99,3 @@ msgstr "You've disabled '%s' emails."
 
 msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
 msgstr "The link you followed has expired."
-

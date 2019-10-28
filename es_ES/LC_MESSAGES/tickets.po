@@ -35,7 +35,7 @@ msgid "USE_ITEM"
 msgstr "Usar"
 
 msgid "INVENTORY_IS_EMPTY"
-msgstr "Tu inventario está vacio."
+msgstr "Tu inventario está vacío."
 
 # Ticket redemption
 
@@ -60,6 +60,15 @@ msgstr "Ciudadano de Sudomemo"
 msgid "THEME_AVAILABLE_FOR_USE"
 msgstr "¡Ahora puedes usar este tema en la Sala del Creador!"
 
+msgid "SUDOMEMO_PLUS"
+msgstr "Sudomemo Plus"
+
+msgid "SUDOMEMO_PLUS_FORMAT"
+msgstr "You received %s days worth of Sudomemo Plus!"
+
+msgid "SUDOMEMO_PLUS_BALANCE_FORMAT"
+msgstr "Balance: %s days"
+
 # Each ticket type will have a name and a description 
 
 msgid "TICKET_NAME_demo_ticket"
@@ -78,7 +87,7 @@ msgid "TICKET_NAME_twitter_promo_ticket"
 msgstr "Ticket promoción de Twitter"
 
 msgid "TICKET_DESC_twitter_promo_ticket"
-msgstr "¡Gracias por seguir al twitter de Sudomemo!"
+msgstr "¡Gracias por seguir al Twitter de Sudomemo!"
 
 msgid "TICKET_NAME_instagram_promo_ticket"
 msgstr "Ticket promoción de Instagram"
@@ -97,3 +106,24 @@ msgstr "Ticket de cumpleaños"
 
 msgid "TICKET_DESC_birthday_ticket"
 msgstr "¡Feliz cumpleaños!"
+
+msgid "TICKET_NAME_love_anniversary_ticket"
+msgstr "Ticket de aniversario"
+
+# The last character of this message is the DSi symbol for a heart. Don't remove it.
+msgid "TICKET_DESC_love_anniversary_ticket" 
+msgstr "Feliz aniversario "
+
+# Sudomemo Plus
+msgid "TICKET_NAME_one_month_plus_ticket"
+msgstr "Ticket Plus (un mes)"
+
+msgid "TICKET_DESC_one_month_plus_ticket"
+msgstr "Este ticket te dará un mes de Sudomemo Plus!"
+
+msgid "TICKET_NAME_one_year_plus_ticket"
+msgstr "Ticket Plus (un año)"
+
+msgid "TICKET_DESC_one_year_plus_ticket"
+msgstr "Este ticket te dará un año de Sudomemo Plus!"
+

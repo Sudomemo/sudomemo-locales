@@ -83,26 +83,26 @@ msgid "ENTER_TITLE"
 msgstr "Ingresar título..."
 
 msgid "HEADER_ADD_DESCRIPTION"
-msgstr "Add Description"
+msgstr "Añadir descripción"
 
 msgid "HEADER_DESCRIPTION"
-msgstr "Description"
+msgstr "Descripción"
 
 msgid "SET_DESCRIPTION"
-msgstr "Set Description"
+msgstr "Establecer descripción"
 
 msgid "SET_DESCRIPTION_INSTRUCTIONS"
-msgstr "Enter the new description for your Flipnote below."
+msgstr "Introduce una nueva descripción para tu Flipnote debajo."
 
 msgid "101_CHARACTER_LIMIT_DESC"
-msgstr "Your description is limited to 101 characters in length."
+msgstr "Tu descripción está limitada a 101 caractéres."
 
 msgid "LEAVE_BLANK_TO_RESET_DESC"
-msgstr "To remove the description, leave the form blank when submitting."
+msgstr "Para borrar la descripción, deja el formulario en blanco al momento de enviarlo."
 
 msgid "ENTER_DESCRIPTION"
-msgstr "Enter description..."
+msgstr "Introducir descripción..."
 
 msgid "HEADER_FLIPNOTE_OPTIONS"
-msgstr "Options"
+msgstr "Opciones"
 

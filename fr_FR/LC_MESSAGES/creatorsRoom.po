@@ -98,7 +98,7 @@ msgid "NEXT"
 msgstr "Suivant"
 
 msgid "CHANGE_ROOM_THEME_LINK"
-msgstr "[Changer le theme]"
+msgstr "[Changer le thème]"
 
 msgid "SELECT_THEME"
 msgstr "Sélectionner le thème"
@@ -137,7 +137,7 @@ msgid "CREATORS_ROOM"
 msgstr "Salle de créateur"
 
 msgid "THEME_ERROR_THEME_NOT_OWNED"
-msgstr "Désolé ! Vous ne possédez pas ce theme."
+msgstr "Désolé ! Vous ne possédez pas ce thème."
 
 msgid "THEME_SUCCESSFULLY_SET"
 msgstr "Thème changé avec succès!"
@@ -199,3 +199,9 @@ msgstr "Vous pouvez obtenir un autre ticket dans : %s heure(s) %s minute(s)."
 msgid "REDEEM"
 msgstr "Utiliser un code"
 
+
+msgid "SPENDABLE_STARS"
+msgstr "Vos étoiles"
+
+msgid "SPENDABLE_STARS_HELPTEXT"
+msgstr "Étoiles à ajouter aux Flipnotes ou à utiliser pour des thèmes"

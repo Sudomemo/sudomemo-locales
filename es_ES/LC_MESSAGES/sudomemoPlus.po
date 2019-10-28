@@ -1,0 +1,83 @@
+# Sudomemo Plus Legacy Citizenship Activation
+msgid "SUDOMEMO_PLUS_LEGACY_HEADER"
+msgstr "¡Bienvenido a Sudomemo Plus!"
+
+msgid "GREETING_LEGACY_ACTIVATE_FORMAT"
+msgstr "¡Hola, %s!"
+
+msgid "LEGACY_ACTIVATE_CITIZENSHIP_CHANGE"
+msgstr "Sudomemo Citizenship ha expirado, ¡reemplazado por Sudomemo Plus!"
+
+msgid "LEGACY_ACTIVATE_PLUS_TEASER"
+msgstr "Sudomemo Plus te da acceso a toda clase de características extra, tales como suavizado y audio mejorado en tus Flipnotes de Sudomemo Theatre, al igual que comentarios con color ¡y otras características!"
+
+msgid "LEGACY_ACTIVATE_EARN_PLUS"
+msgstr "Puedes obtener Sudomemo Plus canjeando tickets que compres en nuestra tienda o ganando en nuestro tema semanal."
+
+msgid "LEGACY_ACTIVATE_GRANDFATHERED_BONUS"
+msgstr "Ya que anteriormente contabas con Citizenship, Has recibido un mes gratis de Sudomemo Plus. Asegúrate de darle una mirada ¡y probar algunas de las nuevas características!"
+
+msgid "CONTINUE"
+msgstr "Continuar"
+
+# My Sudomemo Plus
+
+msgid "MANAGE_PLUS_HEADER"
+msgstr "Mi Sudomemo Plus"
+
+msgid "MANAGE_PLUS_REMAINING"
+msgstr "Actualmente tienes %s día(s) de Sudomemo Plus restante(s)."
+
+msgid "MANAGE_PLUS_HOW_TO_EARN_PLUS"
+msgstr "Puedes obtener Sudomemo Plus canjeando tickets que compres en nuestra tienda o ganando en nuestro tema semanal."
+
+msgid "AVAILABLE_PLUS_FEATURES"
+msgstr "Las siguientes características solo están disponibles con Sudomemo Plus. ¡Asegúrate de volver a revisar cada cierto tiempo!"
+
+msgid "FOOTNOTE_PLATFORM_FEATURE_PARITY"
+msgstr "Por favor nota que algunas características, tales como suavizado en tus Flipnotes y audio mejorado solo son visibles en Sudomemo Theatre."
+
+msgid "FLIPNOTE_SMOOTHING"
+msgstr "Suavizado en tu Flipnote"
+
+msgid "FLIPNOTE_AUDIO_ENHANCEMENT"
+msgstr "Mejora el audio de tu Flipnote"
+
+msgid "COLORFUL_COMMENTS"
+msgstr "Escribe comentarios a color"
+
+msgid "DOWNLOAD_YOUR_COMMENTS"
+msgstr "Descarga tus comentarios como Flipnotes"
+
+msgid "THEME_PUBLISHER_ACCESS"
+msgstr "Publica temas en la Tienda de temas"
+
+msgid "FLIPNOTE_ANALYTICS"
+msgstr "Accede a información analítica para tus Flipnotes"
+
+msgid "SUDOMEMO_GAME_ACCESS"
+msgstr "¡Juega a juegos especiales directamente en Sudomemo!"
+
+msgid "NO_THEATRE_ADS"
+msgstr "No advertisements on Sudomemo Theatre"
+
+msgid "INCREASED_FOLLOW_LIMIT"
+msgstr "Increased follow limit - up to %s Creators"
+
+# Sudomemo Plus Running Low Message
+
+msgid "PLUS_RUNNING_OUT_MSG_TITLE"
+msgstr "Mi Sudomemo Plus"
+
+msgid "PLUS_RUNNING_OUT_MSG_INTRO"
+msgstr "¡Hola, %s!"
+
+msgid "PLUS_RUNNING_OUT_MSG_DAYS_REMAINING_FORMAT"
+msgstr "Éste es un mensaje para hacerte saber que tienes %s día(s) de Sudomemo Plus restante(s)."
+
+msgid "PLUS_RUNNING_OUT_MSG_HOW_TO_EARN_PLUS"
+msgstr "No olvides que Puedes obtener Sudomemo Plus ganando en nuestro tema semanal, o canjeando tickets que compres en nuestra tienda."
+
+msgid "PLUS_RUNNING_OUT_MSG_HAPPY_FLIPNOTING"
+msgstr "¡Anima tu día!"
+

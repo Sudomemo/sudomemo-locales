@@ -59,7 +59,7 @@ msgid "SHOP_MENU"
 msgstr "Shop Menu"
 
 msgid "NO_DESCRIPTION_AVAILABLE"
-msgstr "None"
+msgstr "No description"
 
 msgid "THEME_SHOP_SELECT_PAYMENT"
 msgstr "Select Payment"
@@ -99,4 +99,3 @@ msgstr "Next"
 
 msgid "THEME_SHOP_SAMPLE_PROFILE"
 msgstr "Sample Profile"
-
