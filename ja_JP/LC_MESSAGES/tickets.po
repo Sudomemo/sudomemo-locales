@@ -43,10 +43,10 @@ msgid "TICKET_REDEEM_WIN_FORMAT"
 msgstr "%sを引き換えました!"
 
 msgid "TICKET_REDEEM_LOSE_FORMAT"
-msgstr "%sを引き換えましたが、しかし..."
+msgstr "%sを引き換えましたが、"
 
 msgid "TICKET_REDEEM_NO_PRIZES"
-msgstr "残念!何も獲得できませんでした。"
+msgstr "残念ですが、何も獲得できませんでした。"
 
 msgid "COLOR_STARS"
 msgstr "カラースター"
@@ -58,16 +58,16 @@ msgid "SUDOMEMO_CITIZENSHIP"
 msgstr "スドメモ市民権"
 
 msgid "THEME_AVAILABLE_FOR_USE"
-msgstr "このテーマをあなたのマイルームで使うことができます!"
+msgstr "このテーマをマイルームで使うことができます!"
 
 msgid "SUDOMEMO_PLUS"
 msgstr "Sudomemo Plus"
 
 msgid "SUDOMEMO_PLUS_FORMAT"
-msgstr "You received %s days worth of Sudomemo Plus!"
+msgstr "%s日分のSudomemo Plusを受け取りました!"
 
 msgid "SUDOMEMO_PLUS_BALANCE_FORMAT"
-msgstr "Balance: %s days"
+msgstr "残り日数: %s日"
 
 # Each ticket type will have a name and a description 
 
@@ -75,25 +75,25 @@ msgid "TICKET_NAME_demo_ticket"
 msgstr "デモチケット"
 
 msgid "TICKET_DESC_demo_ticket"
-msgstr "明らかに、これはデモチケットの説明です。"
+msgstr "デモチケットの説明です。"
 
 msgid "TICKET_NAME_regular_ticket"
 msgstr "レギュラーチケット"
 
 msgid "TICKET_DESC_regular_ticket"
-msgstr "スドメモを使ってくれてありがとう!"
+msgstr "スドメモをご利用いただきありがとうございます!"
 
 msgid "TICKET_NAME_twitter_promo_ticket"
 msgstr "Twitterプロモチケット"
 
 msgid "TICKET_DESC_twitter_promo_ticket"
-msgstr "スドメモのTwitterをフォローしてくれてありがとう!"
+msgstr "スドメモのTwitterをフォローしていただきありがとうございます!"
 
 msgid "TICKET_NAME_instagram_promo_ticket"
 msgstr "Instagramプロモチケット"
 
 msgid "TICKET_DESC_instagram_promo_ticket"
-msgstr "スドメモのInstagramをフォローしてくれてありがとう!"
+msgstr "スドメモのInstagramをフォローしていただきありがとうございます!"
 
 msgid "TICKET_NAME_weekly_topic_winner_ticket"
 msgstr "今週のお題入選者チケット"
@@ -108,22 +108,22 @@ msgid "TICKET_DESC_birthday_ticket"
 msgstr "お誕生日おめでとう!"
 
 msgid "TICKET_NAME_love_anniversary_ticket"
-msgstr "Anniversary Ticket"
+msgstr "記念日チケット"
 
-# The last character of this message is the DSi symbol for a heart. Don't remove it.
+# Anniversary The last character of this message is the DSi symbol for a heart. Don't remove it.
 msgid "TICKET_DESC_love_anniversary_ticket" 
-msgstr "Happy Anniversary "
+msgstr "記念おめでとう "
 
 # Sudomemo Plus
 msgid "TICKET_NAME_one_month_plus_ticket"
-msgstr "Plus Ticket (One Month)"
+msgstr "Plusチケット (1ヶ月)"
 
 msgid "TICKET_DESC_one_month_plus_ticket"
-msgstr "This ticket will give you one month of Sudomemo Plus!"
+msgstr "1ヶ月分Sudomemo Plusをご利用いただけるチケットです!"
 
 msgid "TICKET_NAME_one_year_plus_ticket"
-msgstr "Plus Ticket (One Year)"
+msgstr "Plusチケット (1年)"
 
 msgid "TICKET_DESC_one_year_plus_ticket"
-msgstr "This ticket will give you one year of Sudomemo Plus!"
+msgstr "1年分Sudomemo Plusをご利用いただけるチケットです!"
 
