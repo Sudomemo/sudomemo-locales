@@ -9,7 +9,7 @@ msgid "LEGACY_ACTIVATE_CITIZENSHIP_CHANGE"
 msgstr "Sudomemo市民は廃止され、Sudomemo Plusに変わりました！"
 
 msgid "LEGACY_ACTIVATE_PLUS_TEASER"
-msgstr "Sudomemo Plusに加入すると、Sudomemo Theatreでの作品を平滑化させたり、オーディオの拡張、色付きのコメントやその他、あらゆる種類の追加機能をご利用いただけます。"
+msgstr "Sudomemo Plusに加入すると、Sudomemo Theatreでの作品のスムージング、オーディオの拡張、色付きのコメントやその他、あらゆる種類の追加機能をご利用いただけます。"
 
 msgid "LEGACY_ACTIVATE_EARN_PLUS"
 msgstr "Sudomemo Plusは、ショップで購入したチケットを使用するか、ウィークリートピックに入賞することで獲得できます。"
@@ -38,7 +38,7 @@ msgid "FOOTNOTE_PLATFORM_FEATURE_PARITY"
 msgstr "作品の平滑化や音声強調などの一部機能は、Sudomemo Theatreでのみ表示されることに注意してください。"
 
 msgid "FLIPNOTE_SMOOTHING"
-msgstr "作品の平滑化"
+msgstr "作品のスムージング"
 
 msgid "FLIPNOTE_AUDIO_ENHANCEMENT"
 msgstr "作品のオーディオの機能強化"
