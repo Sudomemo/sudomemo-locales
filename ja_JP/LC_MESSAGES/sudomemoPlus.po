@@ -1,83 +1,83 @@
 # Sudomemo Plus Legacy Citizenship Activation
 msgid "SUDOMEMO_PLUS_LEGACY_HEADER"
-msgstr "Welcome to Sudomemo Plus!"
+msgstr "Sudomemo Plusへようこそ!"
 
 msgid "GREETING_LEGACY_ACTIVATE_FORMAT"
-msgstr "Hello, %s!"
+msgstr "こんにちは、%s!"
 
 msgid "LEGACY_ACTIVATE_CITIZENSHIP_CHANGE"
-msgstr "Sudomemo Citizenship has gone away, replaced by Sudomemo Plus!"
+msgstr "Sudomemo市民は廃止され、Sudomemo Plusに変わりました！"
 
 msgid "LEGACY_ACTIVATE_PLUS_TEASER"
-msgstr "Sudomemo Plus gives you access to all sorts of extra features, such as smoothing and audio enhancement of your Flipnotes on Sudomemo Theatre, as well as colorful comments and other neat features!"
+msgstr "Sudomemo Plusに加入すると、Sudomemo Theatreでの作品を平滑化させたり、オーディオの拡張、色付きのコメントやその他、あらゆる種類の追加機能をご利用いただけます。"
 
 msgid "LEGACY_ACTIVATE_EARN_PLUS"
-msgstr "Sudomemo Plus can be earned by redeeming tickets purchased from our Shop or by entering a winning entry to our Weekly Topic."
+msgstr "Sudomemo Plusは、ショップで購入したチケットを使用するか、ウィークリートピックに入賞することで獲得できます。"
 
 msgid "LEGACY_ACTIVATE_GRANDFATHERED_BONUS"
-msgstr "Since you previously had Citizenship, you've been given a month free of Sudomemo Plus. Make sure to take a look around and try out some fun new features!"
+msgstr "以前に市民権を取得している方には、Sudomemo Plusが1か月無料で提供されます。 楽しい新機能を是非お試しください!"
 
 msgid "CONTINUE"
-msgstr "Continue"
+msgstr "続ける"
 
 # My Sudomemo Plus
 
 msgid "MANAGE_PLUS_HEADER"
-msgstr "My Sudomemo Plus"
+msgstr "マイSudomemo Plus"
 
 msgid "MANAGE_PLUS_REMAINING"
-msgstr "You currently have %s day(s) of Sudomemo Plus remaining."
+msgstr "残り%s日Sudomemo Plusをご利用いただけます"
 
 msgid "MANAGE_PLUS_HOW_TO_EARN_PLUS"
-msgstr "Sudomemo Plus can be earned by redeeming tickets purchased from our Shop or by entering a winning entry to our Weekly Topic."
+msgstr "Sudomemo Plusは、ショップで購入したチケットを利用するか、ウィークリートピックに入賞することで獲得できます。"
 
 msgid "AVAILABLE_PLUS_FEATURES"
-msgstr "The following features are available through Sudomemo Plus. Make sure to check back here every once in a while!"
+msgstr "Sudomemo Plusでは、次の機能を使用できます。 時々ここに戻って確認してください！"
 
 msgid "FOOTNOTE_PLATFORM_FEATURE_PARITY"
-msgstr "Please note that some features, such as Flipnote Smoothing and audio enhancement, can only be seen on Sudomemo Theatre."
+msgstr "作品の平滑化や音声強調などの一部機能は、Sudomemo Theatreでのみ表示されることに注意してください。"
 
 msgid "FLIPNOTE_SMOOTHING"
-msgstr "Flipnote Smoothing"
+msgstr "作品の平滑化"
 
 msgid "FLIPNOTE_AUDIO_ENHANCEMENT"
-msgstr "Flipnote Audio Enhancement"
+msgstr "作品のオーディオの機能強化"
 
 msgid "COLORFUL_COMMENTS"
-msgstr "Write colorful comments"
+msgstr "色付きのコメントを書く"
 
 msgid "DOWNLOAD_YOUR_COMMENTS"
-msgstr "Download your comments as Flipnotes"
+msgstr "コメントを作品としてダウンロード"
 
 msgid "THEME_PUBLISHER_ACCESS"
-msgstr "Publish themes to the Theme Shop"
+msgstr "テーマショップにテーマを公開する"
 
 msgid "FLIPNOTE_ANALYTICS"
-msgstr "Access analytics information for your Flipnotes"
+msgstr "作品のアナリティクスにアクセスする"
 
 msgid "SUDOMEMO_GAME_ACCESS"
-msgstr "Play special games right on Sudomemo!"
+msgstr "Sudomemoで特別なゲームをプレイしてみよう！"
 
 msgid "NO_THEATRE_ADS"
-msgstr "No advertisements on Sudomemo Theatre"
+msgstr "Sudomemo Theatreに広告はありません！"
 
 msgid "INCREASED_FOLLOW_LIMIT"
-msgstr "Increased follow limit - up to %s Creators"
+msgstr "フォロー制限の増加 - 最大%s人の作者"
 
 # Sudomemo Plus Running Low Message
 
 msgid "PLUS_RUNNING_OUT_MSG_TITLE"
-msgstr "My Sudomemo Plus"
+msgstr "マイSudomemo Plus"
 
 msgid "PLUS_RUNNING_OUT_MSG_INTRO"
-msgstr "Hello, %s!"
+msgstr "こんにちは、%s!"
 
 msgid "PLUS_RUNNING_OUT_MSG_DAYS_REMAINING_FORMAT"
-msgstr "This message is to let you know that you have %s days of Sudomemo Plus remaining."
+msgstr "このメッセージはSudomemo Plusが残り%s日ご利用いただけるかを通知するものです。"
 
 msgid "PLUS_RUNNING_OUT_MSG_HOW_TO_EARN_PLUS"
-msgstr "Don't forget that you can earn Sudomemo Plus by entering winning entries to the Weekly Topic, or by redeeming tickets purchased from our Shop."
+msgstr "ウィークリートピックに受賞するか、ショップから購入したチケットを使用することで、Sudomemo Plusをご利用いただけます。"
 
 msgid "PLUS_RUNNING_OUT_MSG_HAPPY_FLIPNOTING"
-msgstr "Happy Flipnoting!"
+msgstr "楽しいうごメモライフを！"
 
