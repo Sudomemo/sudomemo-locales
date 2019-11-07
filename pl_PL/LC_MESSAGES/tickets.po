@@ -1,0 +1,128 @@
+# Code Redemption
+
+msgid "REDEEM_CODE"
+msgstr "Wykorzystaj kod"
+
+msgid "ENTER_CODE_TO_REDEEM"
+msgstr "Wpisz kod który chcesz wykorzystać poniżej."
+
+msgid "CODE_ALREADY_USED"
+msgstr "Wpisany kod został już użyty."
+
+msgid "CODE_INVALID"
+msgstr "Wpisany kod jest niepoprawny."
+
+msgid "CODE_NONEXISTING_OR_EXPIRED"
+msgstr "Wpisany kod jest niepoprawny lub wygasł."
+
+msgid "LOGIN_REQUIRED_REDEEM_CODE"
+msgstr "Musisz się zalogować zanim wykorzystasz kod."
+
+# Ticket delivery
+
+msgid "YOU_GOT_A_TICKET"
+msgstr "Otrzymałeś los!"
+
+msgid "CONTINUE"
+msgstr "Kontynuuj"
+
+# Inventory
+
+msgid "INVENTORY"
+msgstr "Ekwipunek"
+
+msgid "USE_ITEM"
+msgstr "Użyj"
+
+msgid "INVENTORY_IS_EMPTY"
+msgstr "Twój ekwipunek jest pusty."
+
+# Ticket redemption
+
+msgid "TICKET_REDEEM_WIN_FORMAT"
+msgstr "Wykorzystałeś %s!"
+
+msgid "TICKET_REDEEM_LOSE_FORMAT"
+msgstr "Wykorzystałeś %s, ale..."
+
+msgid "TICKET_REDEEM_NO_PRIZES"
+msgstr "Nic nie wygrałeś. Przepraszamy!"
+
+msgid "COLOR_STARS"
+msgstr "Kolorowe Gwiazdki"
+
+msgid "CREATORS_ROOM_THEME"
+msgstr "Motyw do Pokoju Twórcy"
+
+msgid "SUDOMEMO_CITIZENSHIP"
+msgstr "Sudomemo Citizenship"
+
+msgid "THEME_AVAILABLE_FOR_USE"
+msgstr "Możesz teraz używać tego motywu w twoim Pokoju Twórcy!"
+
+msgid "SUDOMEMO_PLUS"
+msgstr "Sudomemo Plus"
+
+msgid "SUDOMEMO_PLUS_FORMAT"
+msgstr "Otrzymałeś %s dni Sudomemo Plus!"
+
+msgid "SUDOMEMO_PLUS_BALANCE_FORMAT"
+msgstr "Balans: %s dni"
+
+# Each ticket type will have a name and a description 
+
+msgid "TICKET_NAME_demo_ticket"
+msgstr "Los demonstracyjny"
+
+msgid "TICKET_DESC_demo_ticket"
+msgstr "Oczywyście, to jest opis dla losu demonstracyjnego."
+
+msgid "TICKET_NAME_regular_ticket"
+msgstr "Zwyczajny los"
+
+msgid "TICKET_DESC_regular_ticket"
+msgstr "Dziękujemy za używanie Sudomemo!"
+
+msgid "TICKET_NAME_twitter_promo_ticket"
+msgstr "Los z promocji na Twitterze"
+
+msgid "TICKET_DESC_twitter_promo_ticket"
+msgstr "Dziękujemy za obserwowanie Sudomemo na Twitterze!"
+
+msgid "TICKET_NAME_instagram_promo_ticket"
+msgstr "Los z promocji na Instagramie"
+
+msgid "TICKET_DESC_instagram_promo_ticket"
+msgstr "Dziękujemy za obserwowanie Sudomemo na Instagramie!"
+
+msgid "TICKET_NAME_weekly_topic_winner_ticket"
+msgstr "Los za wygraną w Cotygodniowym Temacie"
+
+msgid "TICKET_DESC_weekly_topic_winner_ticket"
+msgstr "Gratulujemy wygranej w Cotygodniowym Temacie Sudomemo!"
+
+msgid "TICKET_NAME_birthday_ticket"
+msgstr "Urodzinowy los"
+
+msgid "TICKET_DESC_birthday_ticket"
+msgstr "Sto lat!"
+
+msgid "TICKET_NAME_love_anniversary_ticket"
+msgstr "Rocznicowy los"
+
+# The last character of this message is the DSi symbol for a heart. Don't remove it.
+msgid "TICKET_DESC_love_anniversary_ticket" 
+msgstr "Wesołej rocznicy "
+
+# Sudomemo Plus
+msgid "TICKET_NAME_one_month_plus_ticket"
+msgstr "Los na Sudomemo Plus (Jeden miesiąc)"
+
+msgid "TICKET_DESC_one_month_plus_ticket"
+msgstr "Ten los da ci jeden miesiąc Sudomemo Plus!"
+
+msgid "TICKET_NAME_one_year_plus_ticket"
+msgstr "Los na Sudomemo Plus (Jeden rok)"
+
+msgid "TICKET_DESC_one_year_plus_ticket"
+msgstr "Ten los da ci jeden rok Sudomemo Plus!"

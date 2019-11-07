@@ -1,0 +1,101 @@
+msgid "THEME_SHOP_LOGIN_REQUIRED"
+msgstr "Musisz się zalogować by przeglądać sklep z motywami."
+
+msgid "THEME_SHOP_MAINPAGE_HEADER"
+msgstr "W sklepie z motywami możesz wykupić nowe motywy dla twojego Pokoju Twórcy!"
+
+msgid "THEME_SHOP_LEARN_MORE_HEADER"
+msgstr "Dowiedz się więcej o sklepie z motywami"
+
+msgid "THEME_SHOP_REPORT_ISSUES_HEADER"
+msgstr "Kliknij ten link żeby zgłosić motyw który nie działa poprawnie."
+
+msgid "THEME_SHOP_MAINPAGE_EXCHANGE_COST_FORMAT"
+msgstr "Kup za %d Zielonych Gwiazdek"
+
+msgid "THEME_SHOP_MAINPAGE_FREE_STARTER_THEMES"
+msgstr "Darmowe motywy na rozpoczęcie"
+
+msgid "CONGRATULATIONS"
+msgstr "Gratulacje!"
+
+msgid "SEE_MORE"
+msgstr "Zobacz więcej"
+
+msgid "PREVIEW"
+msgstr "Podgląd"
+
+msgid "BUY"
+msgstr "Kup"
+
+msgid "THEME"
+msgstr "Motyw"
+
+msgid "PRICE"
+msgstr "Cena"
+
+msgid "CREATOR"
+msgstr "Twórca"
+
+msgid "DESCRIPTION"
+msgstr "Opis"
+
+msgid "YOU_HAVE"
+msgstr "Twoje Kolorowe Gwiazdki:"
+
+msgid "USERNAME"
+msgstr "Nazwa użytkownika"
+
+msgid "CANCEL"
+msgstr "Anuluj"
+
+msgid "CONFIRM"
+msgstr "Potwierdź"
+
+msgid "CREATORS_ROOM"
+msgstr "Pokój Twórcy"
+
+msgid "SHOP_MENU"
+msgstr "Menu sklepu"
+
+msgid "NO_DESCRIPTION_AVAILABLE"
+msgstr "Brak opisu"
+
+msgid "THEME_SHOP_SELECT_PAYMENT"
+msgstr "Wybierz metodę płatności"
+
+msgid "THEME_SHOP_SELECTED_PAYMENT"
+msgstr "Wybrana metoda płatności"
+
+msgid "THEME_SHOP_STAR_BALANCE_TOO_LOW"
+msgstr "Przeprasamy, nie starczy ci Zielonych Gwiazdek na kupienie tego motywu."
+
+msgid "THEME_SHOP_CHOOSE_CAREFULLY_BEFORE_BUYING"
+msgstr "Wszystkie zakupy są pernamentne, wybierz uważnie zanim potwierdzisz kupno!"
+
+msgid "THEME_SHOP_YOU_OWN_THIS_THEME"
+msgstr "Już posiadasz ten motyw."
+
+msgid "THEME_SHOP_PUBLIC_THEME"
+msgstr "Wszyscy użytkownicy mają darmowy dostęp do tego motywu."
+
+msgid "THEME_SHOP_OWNED_THEME_TRANSACTION_FORMAT"
+msgstr "Kupiłeś ten motyw %s za %d Zielonych Gwiazdek."
+
+msgid "THEME_SHOP_CONFIRM_PURCHASE_BELOW"
+msgstr "Potwierdź swoją transakcję poniżej."
+
+msgid "THEME_SHOP_STARS_LEFT_AFTER_PAYMENT"
+msgstr "Kolorowe Gwiazdki pozostałe po płatności:"
+
+msgid "THEME_SHOP_POST_PURCHASE"
+msgstr "Twoja transakcja powiodła się! Wejdź do sekcji \"Moje motywy\" w twoim Pokoju Twórcy by ją wybrać!"
+
+msgid "NAVIGATION_PREVIOUS"
+msgstr "Poprzednia"
+
+msgid "NAVIGATION_NEXT"
+msgstr "Następna"
+
+msgid "THEME_SHOP_SAMPLE_PROFILE"
+msgstr "Przykładowy profil"

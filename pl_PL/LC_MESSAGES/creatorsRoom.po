@@ -1,0 +1,206 @@
+msgid "SEE_MORE"
+msgstr "Zobacz więcej..."
+
+msgid "STARRED_FLIPNOTES"
+msgstr "Starred Flipnotes"
+
+msgid "FAVORITE_USERS"
+msgstr "Ulubieni użytkownicy"
+
+msgid "FAVORITES_FEED"
+msgstr "Strumień ulubionych"
+
+msgid "FAVORITE_CHANNELS"
+msgstr "Ulubione kanały"
+
+msgid "USER_DOWNLOADCOUNT"
+msgstr "Pobrania"
+
+msgid "USER_VIEWCOUNT"
+msgstr "Wyświetlenia"
+
+msgid "USER_THEME"
+msgstr "Motyw"
+
+msgid "THEME_SHOP"
+msgstr "Sklep z motywami"
+
+msgid "POSTED_COMMENTS"
+msgstr "Wysłane komentarze"
+
+msgid "POSTED_CHATCOMMENTS"
+msgstr "Wiadomości na czacie"
+
+msgid "FEATURE_USABILITY"
+msgstr "Feature Usability"
+
+msgid "USABLE"
+msgstr "Usable"
+
+msgid "NOT_USABLE"
+msgstr "Not Usable"
+
+msgid "SUDOMEMO_THEATRE_URL"
+msgstr "Link na Sudomemo Theatre"
+
+msgid "FLIPNOTE_STUDIO_ID"
+msgstr "ID Flipnote Studio"
+
+msgid "SETTINGS"
+msgstr "Ustawienia"
+
+msgid "ADMIN_ACCT_GOOD_STANDING"
+msgstr "W dobrym stanie"
+
+msgid "ADMIN_ACCT_BANNED"
+msgstr "Zbanowany"
+
+msgid "ADMIN_ACCT_BLOCKED"
+msgstr "Zablokowany"
+
+msgid "ADMIN_ACCT_MUTED"
+msgstr "Wyciszony"
+
+msgid "ADMIN_USER_DETAILS"
+msgstr "Informacje o użytkowniku"
+
+msgid "ADMIN_LAST_SEEN"
+msgstr "Ostatnio widziany"
+
+msgid "ADMIN_USER_STATUS"
+msgstr "Status użytkownika"
+
+msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
+msgstr "Akcje administracyjne"
+
+msgid "BLOCK_COMMENTS_HEADER"
+msgstr "Zablokuj komentarze"
+
+msgid "BLOCK_COMMENTS_LINK"
+msgstr "Zablokuj"
+
+msgid "USABILITY_USABLE"
+msgstr "Usable"
+
+msgid "USABILITY_NOT_USABLE"
+msgstr "Not Usable"
+
+msgid "HEADER_FOLLOWERS"
+msgstr "Obserwujący"
+
+msgid "HEADER_FOLLOWING"
+msgstr "Obserwowani"
+
+msgid "PREVIOUS"
+msgstr "Poprzednia"
+
+msgid "NEXT"
+msgstr "Następna"
+
+msgid "CHANGE_ROOM_THEME_LINK"
+msgstr "[zmień motyw]"
+
+msgid "SELECT_THEME"
+msgstr "Wybierz motyw"
+
+msgid "FANS"
+msgstr "Fani"
+
+msgid "EXAMPLE"
+msgstr "Przykład"
+
+msgid "THEMETEST_SET_THEME"
+msgstr "Ustaw motyw"
+
+msgid "THEMETEST_NOTICE"
+msgstr "Uwaga"
+
+msgid "THEMETEST_OK"
+msgstr "OK"
+
+msgid "THEMETEST_ERROR"
+msgstr "Błąd"
+
+msgid "THEMETEST_NOTICE_2"
+msgstr "Uwaga #2"
+
+msgid "THEMETEST_ACTIVE_TAB"
+msgstr "Aktywna zakładka"
+
+msgid "THEMETEST_INACTIVE_TAB"
+msgstr "Nieaktywna zakładka"
+
+msgid "PREVIEW"
+msgstr "Podgląd"
+
+msgid "CREATORS_ROOM"
+msgstr "Pokój Twórcy"
+
+msgid "THEME_ERROR_THEME_NOT_OWNED"
+msgstr "Przepraszamy! Nie posiadasz tego motywu."
+
+msgid "THEME_SUCCESSFULLY_SET"
+msgstr "Ustawianie motywu powiodło się!"
+
+msgid "BLOCKED_USERS"
+msgstr "Zablokowani użytkownicy"
+
+msgid "VIEW"
+msgstr "Pokać"
+
+msgid "FAN_COUNT_FORMAT"
+msgstr "Fani: %s"
+
+msgid "HEADER_LANGUAGE"
+msgstr "Język"
+
+msgid "HEADER_MAIL_SETTINGS"
+msgstr "Ustawienia e-maila"
+
+msgid "HEADER_EDIT_BIOGRAPHY"
+msgstr "Edytuj biografię"
+
+msgid "SET_BIO_INSTRUCTIONS"
+msgstr "Wpisz biografię profilu poniżej. Będzie ona wyświetlana na Sudomemo i Sudomemo Theatre."
+
+msgid "ENTER_BIO"
+msgstr "Wpisz biografię..."
+
+msgid "101_CHARACTER_LIMIT_BIO"
+msgstr "Twoja biografia ma limit 101 znaków."
+
+msgid "LEAVE_BLANK_TO_RESET_BIO"
+msgstr "Żeby wyczyścić biografię, zostaw ten formularz pusty podczas wysyłania."
+
+msgid "CURRENT_BIO"
+msgstr "Aktualna biografia:"
+
+msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
+msgstr "Nie możesz obserwować więcej niż %d osób."
+
+msgid "RANKING"
+msgstr "Ranking"
+
+msgid "TICKET_SECTION"
+msgstr "Losy"
+
+msgid "DRAW_REGULAR_TICKET"
+msgstr "Los"
+
+msgid "CAN_DRAW_TICKET_SUBTEXT"
+msgstr "Możesz użyć zwyczajnego losu! Możesz wygrać nagrodę."
+
+msgid "INVENTORY"
+msgstr "Ekwipunek"
+
+msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
+msgstr "Możesz użyć kolejnego losu za: %s godzin(y) %s minut(y)."
+
+msgid "REDEEM"
+msgstr "Użyj"
+
+msgid "SPENDABLE_STARS"
+msgstr "Twoje gwiazdki"
+
+msgid "SPENDABLE_STARS_HELPTEXT"
+msgstr "Gwiazdki które możesz dodać do Flipnotes lub użyć do motywów"
