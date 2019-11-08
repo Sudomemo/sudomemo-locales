@@ -204,3 +204,12 @@ msgstr "Twoje gwiazdki"
 
 msgid "SPENDABLE_STARS_HELPTEXT"
 msgstr "Gwiazdki które możesz dodać do Flipnotes lub użyć do motywów"
+
+msgid "LOGIN_REQUIRED_ACTION"
+msgstr "Musisz się zalogować by wykonać tę operację."
+
+msgid "PAGE"
+msgstr "Strona"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d z %d"
