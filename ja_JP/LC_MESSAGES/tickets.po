@@ -127,3 +127,7 @@ msgstr "Plusチケット (1年)"
 msgid "TICKET_DESC_one_year_plus_ticket"
 msgstr "1年分Sudomemo Plusをご利用いただけるチケットです!"
 
+
+msgid "DONT_HAVE_ANY_TO_USE"
+msgstr "You don't have any of that item to use."
+

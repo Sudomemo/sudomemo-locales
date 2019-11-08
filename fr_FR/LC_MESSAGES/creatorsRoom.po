@@ -205,3 +205,12 @@ msgstr "Vos étoiles"
 
 msgid "SPENDABLE_STARS_HELPTEXT"
 msgstr "Étoiles à ajouter aux Flipnotes ou à utiliser pour des thèmes"
+
+msgid "LOGIN_REQUIRED_ACTION"
+msgstr "You must be logged in to perform this action."
+
+msgid "PAGE"
+msgstr "Page"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d of %d"

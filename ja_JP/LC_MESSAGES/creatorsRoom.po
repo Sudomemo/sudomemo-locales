@@ -205,3 +205,12 @@ msgstr "あなたのスター"
 
 msgid "SPENDABLE_STARS_HELPTEXT"
 msgstr "作品を評価したり、テーマに使用するスター"
+
+msgid "LOGIN_REQUIRED_ACTION"
+msgstr "You must be logged in to perform this action."
+
+msgid "PAGE"
+msgstr "Page"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d of %d"

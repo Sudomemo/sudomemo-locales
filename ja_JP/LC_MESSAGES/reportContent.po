@@ -60,3 +60,7 @@ msgstr "このコメントは既にSudomemoに投稿されています。"
 
 msgid "CONFIRM_EMAIL_BEFORE_REPORTING"
 msgstr "報告の前にメールアドレスの確認をしてください。"
+
+msgid "THANKS_FOR_REPORTING"
+msgstr "We've received your report. Thanks for helping make Sudomemo a better place!"
+
