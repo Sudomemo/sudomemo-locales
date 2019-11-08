@@ -1,0 +1,107 @@
+msgid "TIMESTAMP_FORMAT"
+msgstr "d M Y H:i:s"
+
+msgid "FLIPNOTE_TITLE_FORMAT"
+msgstr "Flipnote stworzony przez %s"
+
+msgid "HEADER_DETAILS"
+msgstr "Informacje"
+
+msgid "HEADER_COMMENTS"
+msgstr "Komentarze"
+
+msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
+msgstr "Ten Flipnote jest spin-offem."
+
+msgid "HEADER_ORIGINAL_FLIPNOTE"
+msgstr "Zobacz orginalny Flipnote tutaj"
+
+msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
+msgstr "Żeby zapobiec naciąganiu na gwiazdki, żółte gwiazdki są limitowane na 10 na Flipnote."
+
+msgid "HEADER_CREATOR"
+msgstr "Twórca"
+
+msgid "HEADER_STARS"
+msgstr "Gwiazdki"
+
+msgid "HEADER_VIEWS"
+msgstr "Wyświetlenia"
+
+msgid "HEADER_SPINOFFS"
+msgstr "Spin-offy"
+
+msgid "HEADER_DOWNLOADS"
+msgstr "Pobrania"
+
+msgid "HEADER_TITLE"
+msgstr "Tytuł"
+
+msgid "HEADER_POSTED"
+msgstr "Wysłany"
+
+msgid "HEADER_FLIPNOTE_ID"
+msgstr "ID Flipnote"
+
+msgid "HEADER_CHANNEL"
+msgstr "Kanał"
+
+msgid "HEADER_OPTIONS"
+msgstr "Opcje"
+
+msgid "HEADER_SET_AS_PROFILE_PICTURE"
+msgstr "Ustaw jako zdjęcie profilowe"
+
+msgid "HEADER_REPORT_FLIPNOTE"
+msgstr "Zgłoś Flipnote"
+
+msgid "ADMIN_ACTIONS"
+msgstr "Akcje administracyjne"
+
+msgid "PREV"
+msgstr "Poprzednia"
+
+msgid "NEXT"
+msgstr "Następna"
+
+msgid "STAR_DETAILS_UPPERTITLE"
+msgstr "★ Gwiazdki ★"
+
+msgid "SET_TITLE"
+msgstr "Ustaw tytuł"
+
+msgid "SET_TITLE_INSTRUCTIONS"
+msgstr "Wpisz nowy tytuł dla twojego Flipnote poniżej."
+
+msgid "40_CHARACTER_LIMIT"
+msgstr "Twój tytuł może mieć długość max. 40 znaków."
+
+msgid "LEAVE_BLANK_TO_RESET"
+msgstr "Żeby zresetować tytuł do domyślnego, zostaw ten formularz pusty podczas wysyłania."
+
+msgid "ENTER_TITLE"
+msgstr "Wpisz tytuł..."
+
+msgid "HEADER_ADD_DESCRIPTION"
+msgstr "Dodaj opis"
+
+msgid "HEADER_DESCRIPTION"
+msgstr "Opis"
+
+msgid "SET_DESCRIPTION"
+msgstr "Ustaw opis"
+
+msgid "SET_DESCRIPTION_INSTRUCTIONS"
+msgstr "Wpisz nowy opis dla twojego Flipnote poniżej."
+
+msgid "101_CHARACTER_LIMIT_DESC"
+msgstr "Twój opis może mieć długość max. 101 znaków."
+
+msgid "LEAVE_BLANK_TO_RESET_DESC"
+msgstr "Żeby usunąć opis, zostaw ten formularz pusty podczas wysyłania."
+
+msgid "ENTER_DESCRIPTION"
+msgstr "Wpisz opis..."
+
+msgid "HEADER_FLIPNOTE_OPTIONS"
+msgstr "Opcje"

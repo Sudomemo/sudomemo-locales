@@ -1,0 +1,101 @@
+msgid "HEADER_MAIL_SETTINGS"
+msgstr "Ustawienia e-maila"
+
+msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
+msgstr "Musisz się zalogować, by zmieniać ustawienia e-maila."
+
+msgid "MAIL_TYPE"
+msgstr "Typ"
+
+msgid "MAIL_STATUS"
+msgstr "Status"
+
+msgid "ENABLED"
+msgstr "Aktywny"
+
+msgid "DISABLED"
+msgstr "Nieaktywnu"
+
+msgid "ENABLE"
+msgstr "Aktywuj"
+
+msgid "DISABLE"
+msgstr "Dezaktywuj"
+
+msgid "TAP_TO_ENABLE"
+msgstr "Wciśnij by aktywować"
+
+msgid "TAP_TO_DISABLE"
+msgstr "Wciśnij by dezaktywować"
+
+msgid "TYPE_NEWS_NAME"
+msgstr "Sudomemo News"
+
+msgid "TYPE_NEWS_DESC"
+msgstr "Otrzymuj e-maile gdy coś nowego pojawia się w Sudomemo News"
+
+msgid "TYPE_PROMO_NAME"
+msgstr "Aktualności o serwisie"
+
+msgid "TYPE_PROMO_DESC"
+msgstr "Otrzymuj e-maile o nowych funkcjach, poradach i sztuczkach, a także nadchodzących wydarzeniach."
+
+msgid "TYPE_FAVE_NOTIF_NAME"
+msgstr "Dodano twój profil do ulubionych"
+
+msgid "TYPE_FAVE_NOTIF_DESC"
+msgstr "Otrzymuj e-maile gdy ktoś doda cię do Ulubionych"
+
+msgid "TYPE_COMMENT_NOTIF_NAME"
+msgstr "Otrzymano komentarz"
+
+msgid "TYPE_COMMENT_NOTIF_DESC"
+msgstr "Otrzymuj e-maile gdy ktoś komentuje na twoich Flipnote"
+
+msgid "TYPE_STAR_REPORT_NAME"
+msgstr "Codzienne podsumowanie gwiazdek"
+
+msgid "TYPE_STAR_REPORT_DESC"
+msgstr "Otrzymuj e-maile na koniec każdego dnia z ilością gwiazdek które otrzymałeś"
+
+msgid "TYPE_SPINOFF_NOTIF_NAME"
+msgstr "Ktoś tworzy Spin-off"
+
+msgid "TYPE_SPINOFF_NOTIF_DESC"
+msgstr "Otrzymuj e-maile gdy ktoś wysyła spin-off twojego Flipnota"
+
+msgid "TYPE_SECURITY_NOTIF_NAME"
+msgstr "Bezpieczeństwo konta"
+
+msgid "TYPE_SECURITY_NOTIF_DESC"
+msgstr "Otrzymuj e-maile gdy twój adres e-mail lub hasło jest aktualizowane"
+
+msgid "TYPE_REPORT_UPDATE_NAME"
+msgstr "Aktualizacje o zgłoszonej zawartości"
+
+msgid "TYPE_REPORT_UPDATE_DESC"
+msgstr "Otrzymuj e-maile gdy zmienimy status zawartości którą zgłosiłeś"
+
+msgid "TYPE_UNREAD_COMMENTS_NAME"
+msgstr "Nieprzeczytane komentarze"
+
+msgid "TYPE_UNREAD_COMMENTS_DESC"
+msgstr "Otrzymuj przez e-maila podsumowanie nowych komentarzy, które niedawno otrzymałeś"
+
+msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
+msgstr "Kliknij na status rodzaju maila by go zobaczyć lub zmienić."
+
+msgid "HEADER_CHANGE_EMAIL_SETTINGS"
+msgstr "Zmień ustawienia e-maila"
+
+msgid "DISABLE_CONFIRMATION_FORMAT"
+msgstr "Czy napewno chcesz deaktywować e-maile '%s'?"
+
+msgid "REENABLE_INSTRUCTIONS"
+msgstr "Jeżeli chcesz aktywować je ponownie, możesz to zrobić wchodząc w <strong>Ustawienia e-maila</strong> w twoim Pokoju Twórcy."
+
+msgid "EMAIL_SETTING_DISABLED_FINISH_FORMAT"
+msgstr "Zdeaktwowano '%s' e-maili."
+
+msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
+msgstr "Link, którym podążasz, wygasł."
