@@ -126,3 +126,6 @@ msgstr "Plus Ticket (One Year)"
 
 msgid "TICKET_DESC_one_year_plus_ticket"
 msgstr "This ticket will give you one year of Sudomemo Plus!"
+msgid "DONT_HAVE_ANY_TO_USE"
+msgstr "You don't have any of that item to use."
+

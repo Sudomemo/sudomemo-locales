@@ -60,3 +60,7 @@ msgstr "Mae'r sylw hwn eisoes wedi'i bostio i Sudomemo."
 
 msgid "CONFIRM_EMAIL_BEFORE_REPORTING"
 msgstr "Cadarnhewch eich e-bost cyn adrodd ar y cynnwys."
+
+msgid "THANKS_FOR_REPORTING"
+msgstr "We've received your report. Thanks for helping make Sudomemo a better place!"
+

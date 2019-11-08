@@ -204,3 +204,12 @@ msgstr "Eich Sêr"
 
 msgid "SPENDABLE_STARS_HELPTEXT"
 msgstr "Sêr i'w hychwanegu at Flipnotes neu eu defnyddio ar gyfer themâu"
+
+msgid "LOGIN_REQUIRED_ACTION"
+msgstr "You must be logged in to perform this action."
+
+msgid "PAGE"
+msgstr "Page"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d of %d"

@@ -10,5 +10,4 @@ for i in $(find . -name \*.po|sed 's/\.po//g'); do
 	fi
 done
 
-chown -R apache. *
-echo "Done! Make sure to restart Apache."
+echo "Done! Make sure to update file permissions and reload Apache."

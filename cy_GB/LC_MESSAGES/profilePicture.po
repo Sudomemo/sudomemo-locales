@@ -24,3 +24,7 @@ msgstr "Ystafell Crewr"
 
 msgid "CANCEL"
 msgstr "Canslo"
+
+msgid "LOGIN_REQUIRED_TO_CHANGE"
+msgstr "You must be logged in to change your profile picture."
+
