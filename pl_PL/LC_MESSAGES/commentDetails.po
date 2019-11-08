@@ -1,0 +1,41 @@
+msgid "COMMENT_DETAILS"
+msgstr "Informacje o komentarzu"
+
+msgid "MESSAGE_DETAILS"
+msgstr "Informacje o wiadomości"
+
+msgid "AUTHOR"
+msgstr "Autor"
+
+msgid "COMMENT_BY_FORMAT"
+msgstr "Komentarz %s"
+
+msgid "CHAT_MESSAGE_FROM_FORMAT"
+msgstr "Wiadomość na czacie od %s"
+
+msgid "MESSAGE_FROM_FORMAT"
+msgstr "Wiadomość od %s"
+
+msgid "FLIPNOTE_BY_FORMAT"
+msgstr "Flipnote stworzony przez %s"
+
+msgid "COMMENT_ID"
+msgstr "ID komentarza"
+
+msgid "MESSAGE_ID"
+msgstr "ID wiadomości"
+
+msgid "CHAT_COMMENT_ID"
+msgstr "ID komentarza na czacie"
+
+msgid "TIMESTAMP"
+msgstr "Data"
+
+msgid "POSTED_TO"
+msgstr "Wysłane do"
+
+msgid "PRIVATE_CONVERSATION"
+msgstr "Prywatna konwersacja"
+
+msgid "REPORT_CONTENT"
+msgstr "Zgłoś zawartość"

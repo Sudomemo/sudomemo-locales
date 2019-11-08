@@ -1,0 +1,23 @@
+msgid "UPPERTITLE"
+msgstr "Przeglądaj"
+
+msgid "NEXT"
+msgstr "Następna strona"
+
+msgid "PREV"
+msgstr "Poprzednia strona"
+
+msgid "PAGE"
+msgstr "Strona"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d z %d"
+
+msgid "FLIPNOTES_BY_FORMAT"
+msgstr "Flipnotes stworzone przez %s"
+
+msgid "STARRED_BY_FORMAT"
+msgstr "Zagwiazdkowane przez %s"
+
+msgid "FAVORITES_FEED_FORMAT"
+msgstr "Strumień Ulubionych dla %s"

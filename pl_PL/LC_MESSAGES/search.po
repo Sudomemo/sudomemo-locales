@@ -1,0 +1,44 @@
+msgid "HEADER_PREV"
+msgstr "Poprzednia"
+
+msgid "HEADER_NEXT"
+msgstr "Następna"
+
+msgid "PAGE_FORMAT"
+msgstr "Strona %d"
+
+msgid "SEARCH"
+msgstr "Szukaj"
+
+msgid "USERNAME"
+msgstr "Nazwa użytkownika"
+
+msgid "RESULTS"
+msgstr "Wyniki"
+
+msgid "SEARCH_USERNAME"
+msgstr "Szukaj użytkownika"
+
+msgid "PLEASE_ENTER_USERNAME"
+msgstr "Wpisz nazwę użytkownika..."
+
+msgid "RESULTS_FOUND_FORMAT_SINGULAR"
+msgstr "%1$d wynik znaleziony dla \"%2$s\""
+
+msgid "RESULTS_FOUND_FORMAT_MULTIPLE"
+msgstr "%1$d wyniki znalezione dla \"%2$s\""
+
+msgid "NO_RESULTS_FOUND"
+msgstr "Brak znalezionych wyników"
+
+msgid "SEARCH_SHORT_KEY"
+msgstr "ID Flipnote"
+
+msgid "SHORT_KEY_NO_RESULTS"
+msgstr "Nie znaleziono Flipnotes"
+
+msgid "SHORT_KEY_FORMAT_GUIDE"
+msgstr "Nie znajdujesz tego, czego szukasz? Możliwe, że źle wpisałeś ID Flipnote. ID Flipnote mają 6 znaków i można je znaleść w sekcji z informacjami o Flipnote."
+
+msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
+msgstr "Nie znaleziono niczego, ale istnieje podoble ID. Pamiętaj że ID Flipnote uwzględniają wielkość liter i zazwyczaj składają się z całych dużych liter i cyfr."
