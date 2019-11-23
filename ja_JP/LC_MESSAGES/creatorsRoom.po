@@ -201,7 +201,16 @@ msgstr "引き換え"
 
 
 msgid "SPENDABLE_STARS"
-msgstr "Your Stars"
+msgstr "あなたのスター"
 
 msgid "SPENDABLE_STARS_HELPTEXT"
-msgstr "Stars to add to Flipnotes or use for themes"
+msgstr "作品を評価したり、テーマに使用するスター"
+
+msgid "LOGIN_REQUIRED_ACTION"
+msgstr "You must be logged in to perform this action."
+
+msgid "PAGE"
+msgstr "Page"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d of %d"

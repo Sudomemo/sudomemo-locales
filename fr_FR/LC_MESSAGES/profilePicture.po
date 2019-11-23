@@ -24,3 +24,7 @@ msgstr "Salle de créateur"
 
 msgid "CANCEL"
 msgstr "Annuler"
+
+msgid "LOGIN_REQUIRED_TO_CHANGE"
+msgstr "Vous devez être connecté pour changer votre photo de profil."
+

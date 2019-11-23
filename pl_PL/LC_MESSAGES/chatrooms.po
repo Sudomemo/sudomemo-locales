@@ -1,0 +1,44 @@
+msgid "NO_COMMENTS_YET"
+msgstr "Żadne wiadomości nie zostały jeszcze przesłane."
+
+msgid "HEADER_COMMENTS"
+msgstr "Komentarze"
+
+msgid "PAGE_FORMAT"
+msgstr "Strona %d"
+
+msgid "HEADER_NEXT"
+msgstr "Następna"
+
+msgid "HEADER_PREV"
+msgstr "Poprzednia"
+
+msgid "HEADER_REFRESH"
+msgstr "Odśwież"
+
+msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
+msgstr "Musisz się zalogować żeby wysłać wiadomość."
+
+msgid "CHAT_REPLY_FAILED"
+msgstr "Wysyłanie odpowiedzi nie powiodło się. Spróbuj ponownie później."
+
+msgid "NO_BLANK_MESSAGES_ALLOWED"
+msgstr "Nie możesz wysłać pustej wiadomości."
+
+msgid "FLIPNOTE_DATA_CORRUPTED"
+msgstr "Dane tego Flipnote zostały uszkodzone. Spróbuj ponownie za kilka minut."
+
+msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
+msgstr "Zostałeś wyciszony. Nie możesz czatować."
+
+msgid "DUPLICATE_COMMENT_FAILED"
+msgstr "Ten komentarz został już wysłano do Sudomemo."
+
+msgid "COMMENT_FAILED_USER_BANNED"
+msgstr "Twoja możliwość interakcji z Sudomemo została zawieszona."
+
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "Potwierdź swój adres e-mail przed wysłaniem."
+
+msgid "MODERATOR"
+msgstr "Moderator"

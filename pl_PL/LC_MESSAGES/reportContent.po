@@ -1,0 +1,65 @@
+msgid "HEADER_REPORT_CONTENT"
+msgstr "Zgłoś zawartość"
+
+msgid "CHAT_MESSAGE"
+msgstr "wiadomość na czacie"
+
+msgid "COMMENT"
+msgstr "komentarz"
+
+msgid "FLIPNOTE"
+msgstr "Flipnote"
+
+msgid "YOU_ARE_REPORTING_THIS_FORMAT"
+msgstr "Zgłaszasz %s:"
+
+msgid "USER_HAS_ALREADY_REPORTED_FORMAT"
+msgstr "Zgłosiłeś już ten/tą %s."
+
+msgid "HEADER_VIOLATION_CATEGORY"
+msgstr "Kategoria wykroczenia::"
+
+msgid "FLIPNOTE_TITLE_FORMAT"
+msgstr "Flipnote stworzony przez %s"
+
+msgid "CREATOR_FORMAT"
+msgstr "Twórca: %s"
+
+msgid "NOTICE_REPORT_OTHER_ISSUES"
+msgstr "Ten formularz jest jedynie do zgłaszania zawartości wysyłanej przez użytkownika. Żeby zgłosić jego zachowanie, lub dla innych problemów i zgłoszeń, skontaktuj się z naszym zespołem przez e-maila."
+
+msgid "REPORT_INSTRUCTIONS"
+msgstr "Krótko zapisz, dlaczego uważasz że ta zawartość narusza warunki korzystania z Sudomemo. Kiedy już wyślesz swój opis, kliknij Wróć by powrócić do Flipnote."
+
+msgid "NO_BLANK_REPORTS"
+msgstr "Nie możesz wysłać pustego zgłoszenia."
+
+msgid "LIMIT_ONE_REPORT"
+msgstr "Uwaga: Możesz zgłosić tę zawartość tylko jeden raz. Dodatkowe zgłoszenia nie będą rejestrowane, więc zapisz swoje uwagi w jednym komentarzu."
+
+msgid "REPORT_EXPLANATION_FAILED"
+msgstr "Podczas wysyłania zgłoszenia wystąpił błąd."
+
+msgid "RESTRICTED_CANCEL"
+msgstr "Nie możesz zgłaszać zawartości jeżeli twoje konto jest zawieszone i nie może interaktować się z Sudomemo w jakikolwiek sposób."
+
+msgid "HEADER_REASON"
+msgstr "Powód:"
+
+msgid "LOGIN_REQUIRED_TO_CONTINUE"
+msgstr "Zaloguj się, żeby kontynuować."
+
+msgid "LOGIN_REQUIRED_TO_REPORT_CONTENT"
+msgstr "Zaloguj się, żeby wysyłać zgłoszenia zawartości."
+
+msgid "REPORT_FAILED_USER_BANNED"
+msgstr "Zgłoszenie nie powiodło się: jesteś zbanowany z Sudomemo."
+
+msgid "DUPLICATE_COMMENT_FAILED"
+msgstr "Ten komentarz został już wysłany na Sudomemo."
+
+msgid "CONFIRM_EMAIL_BEFORE_REPORTING"
+msgstr "Potwierdź swój adres e-mail zanim zgłosisz zawartość."
+
+msgid "THANKS_FOR_REPORTING"
+msgstr "Otrzymaliśmy twoje zgłoszenie. Dziękujemy za pomoc w zmienianiu Sudomemo na lepsze!"

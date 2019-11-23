@@ -1,17 +1,17 @@
 msgid "SET_PEN_COLOR"
-msgstr "Set Pen Color"
+msgstr "ペンの色の設定"
 
 msgid "SET_PAPER_COLOR"
-msgstr "Set Paper Color"
+msgstr "用紙の色の設定"
 
 msgid "SELECT_A_COLOR"
-msgstr "Select a color."
+msgstr "色を選択"
 
 msgid "CURRENT_COLOR"
-msgstr "Current color:"
+msgstr "現在の色:"
 
 msgid "CURRENT_COLOR_DEFAULT"
-msgstr "Current color: default"
+msgstr "現在の色:デフォルト"
 
 msgid "RETURN"
-msgstr "Return"
+msgstr "戻る"

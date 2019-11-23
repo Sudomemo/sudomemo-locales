@@ -1,0 +1,53 @@
+msgid "FLIPNOTE_OPTIONS"
+msgstr "Opcje Flipnota"
+
+msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
+msgstr "Musisz się zalogować by wyświetlić tą stronę."
+
+msgid "HEADER_OPTION"
+msgstr "Opcja"
+
+msgid "HEADER_STATUS"
+msgstr "Status"
+
+msgid "OPTION_NAME_SMOOTH"
+msgstr "Wygładzanie"
+
+msgid "OPTION_DESC_SMOOTH"
+msgstr "Linie, wygięcia i kanty są wygładzone dla bardziej naturalnego wyglądu na Sudomemo Theatre."
+
+msgid "FLIPNOTE_URL_IS"
+msgstr "Link do Flipnote:"
+
+msgid "ENABLE_SMOOTHING"
+msgstr "Włącz wygładzanie"
+
+msgid "DISABLE_SMOOTHING"
+msgstr "Wyłącz wygładzanie"
+
+msgid "ON"
+msgstr "Włączone"
+
+msgid "OFF"
+msgstr "Wyłączone"
+
+msgid "CITIZENSHIP_REQUIRED"
+msgstr "Potrzebujesz Sudomemo Citizenship by używać tej funkcji."
+
+msgid "PLUS_REQUIRED"
+msgstr "Potrzebujesz Sudomemo Plus by używać tej funkcji."
+
+msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
+msgstr "Kliknij na status opcji by go wyświetlić lub zmienić."
+
+msgid "OPTION_NAME_FORCE_44K_BITRATE"
+msgstr "Ulepszenie dźwięku"
+
+msgid "OPTION_DESC_FORCE_44K_BITRATE"
+msgstr "Sudomemo spróbuje ulepszyć dźwięk twojego Flipnote na Sudomemo Theatre."
+
+msgid "ENABLE_AUDIO_ENHANCEMENT"
+msgstr "Włącz ulepszenie dźwięku"
+
+msgid "DISABLE_AUDIO_ENHANCEMENT"
+msgstr "Wyłącz ulepszenie dźwięku"
