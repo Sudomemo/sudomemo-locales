@@ -1,22 +1,22 @@
 # Code Redemption
 
 msgid "REDEEM_CODE"
-msgstr "Wneud iawn am cod"
+msgstr "Wneud iawn am côd"
 
 msgid "ENTER_CODE_TO_REDEEM"
-msgstr "Nodwch y cod yr hoffech chi ei adbrynu isod."
+msgstr "Nodwch y côd yr hoffech chi ei adbrynu isod."
 
 msgid "CODE_ALREADY_USED"
-msgstr "Mae'r cod a nodwyd gennych eisoes wedi'i ddefnyddio."
+msgstr "Mae'r côd a nodwyd gennych eisoes wedi'i ddefnyddio."
 
 msgid "CODE_INVALID"
-msgstr "Mae'r cod a rhoddoch yn annilys."
+msgstr "Mae'r côd a rhoddoch yn annilys."
 
 msgid "CODE_NONEXISTING_OR_EXPIRED"
-msgstr "Nid yw'r cod fewnosodwyd yn bodoli neu wedi dod i ben."
+msgstr "Nid yw'r côd fewnosodwyd yn bodoli neu wedi dod i ben."
 
 msgid "LOGIN_REQUIRED_REDEEM_CODE"
-msgstr "Rhaid i chi fod mewngofnodi i wneud iawn cod."
+msgstr "Rhaid i chi fod mewngofnodi i wneud iawn côd."
 
 # Ticket delivery
 
@@ -128,5 +128,4 @@ msgid "TICKET_DESC_one_year_plus_ticket"
 msgstr "Bydd y tocyn hwn yn rhoi blwyddyn o Sudomemo Plus i chi!"
 
 msgid "DONT_HAVE_ANY_TO_USE"
-msgstr "You don't have any of that item to use."
-
+msgstr "Does dim yr eitem honno i'w defnyddio gyda chi."
