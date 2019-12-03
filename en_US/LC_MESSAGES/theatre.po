@@ -1,0 +1,371 @@
+# THIS IS A TEST - WE MAY BREAK IT DOWN BY SECTION IN THE FUTURE
+# This file contains most of the translations for Sudomemo Theatre.
+
+# Meta tags, descriptions, etc
+msgid "SUDOMEMO"
+msgstr "Sudomemo"
+
+msgid "SUDOMEMO_THEATRE"
+msgstr "Sudomemo Theatre"
+
+msgid "DEFAULT_META_DESCRIPTION"
+msgstr "Sudomemo: Share your Flipnotes with the world! For Nintendo DSi and 3DS."
+
+msgid "FRONTPAGE_TITLE_TAGLINE"
+msgstr "Sudomemo: Flipnote Hatena is back!"
+
+msgid "VIEWPAGE_COMMENT_TEXTBOX"
+msgstr "Comment entry text box"
+
+# Very common terms and one-word translations
+
+msgid "CHANNEL"
+msgstr "Channel"
+
+msgid "COMMENTS"
+msgstr "Comments"
+
+msgid "CREATOR"
+msgstr "Creator"
+
+msgid "CREATORS_ROOM"
+msgstr "Creator's Room"
+
+msgid "DETAILS"
+msgstr "Details"
+
+msgid "DOWNLOADS"
+msgstr "Downloads"
+
+msgid "FLIPNOTE_ID"
+msgstr "Flipnote ID"
+
+msgid "FLIPNOTE"
+msgstr "Flipnote"
+
+msgid "FLIPNOTES"
+msgstr "Flipnotes"
+
+msgid "HELP_CENTER"
+msgstr "Help Center"
+
+msgid "MODERATOR"
+msgstr "Moderator"
+
+msgid "MORE"
+msgstr "More"
+
+msgid "NEXT"
+msgstr "Next"
+
+# Number of times something has been viewed, or played.
+
+msgid "VIEWS"
+msgstr "Views"
+
+# Previous, abbreviated "Prev". Should be a maximum of 4 characters.
+msgid "PREV"
+msgstr "Prev"
+
+msgid "SHARE"
+msgstr "Share"
+
+msgid "SIGN_IN"
+msgstr "Sign in"
+
+msgid "SIGN_OUT"
+msgstr "Sign out"
+
+# For MusicMatch
+
+msgid "SONG"
+msgstr "Song"
+
+msgid "SUDOMEMO_PLUS"
+msgstr "Sudomemo Plus"
+
+# Navbar
+
+msgid "NAVBAR_TOGGLE_NAVIGATION"
+msgstr "Toggle navigation"
+
+msgid "NAVBAR_ITEM_SHOP"
+msgstr "Shop"
+
+msgid "NAVBAR_ITEM_HELP"
+msgstr "Help"
+
+msgid "NAVBAR_ITEM_USEFUL_LINKS"
+msgstr "Useful Links"
+
+msgid "NAVBAR_ITEM_DISCORD"
+msgstr "Discord"
+
+msgid "NAVBAR_ITEM_HOW_TO_JOIN"
+msgstr "How to Join"
+
+msgid "NAVBAR_ITEM_CONNECTION_HELP"
+msgstr "Connection Help"
+
+msgid "NAVBAR_ITEM_FAQS"
+msgstr "FAQs"
+
+msgid "NAVBAR_ITEM_TERMS"
+msgstr "Terms of Use"
+
+msgid "NAVBAR_ITEM_CONTACT_US"
+msgstr "Contact Us"
+
+msgid "NAVBAR_ITEM_TWITTER"
+msgstr "Twitter"
+
+msgid "NAVBAR_ITEM_INSTAGRAM"
+msgstr "Instagram"
+
+msgid "NAVBAR_ITEM_FACEBOOK"
+msgstr "Facebook"
+
+msgid "NAVBAR_ITEM_EMAIL"
+msgstr "Email"
+
+msgid "NAVBAR_ITEM_OTHER"
+msgstr "Other"
+
+msgid "NAVBAR_ITEM_CREDITS"
+msgstr "Credits"
+
+msgid "NAVBAR_ITEM_SEARCH"
+msgstr "Search"
+
+msgid "NAVBAR_ITEM_ADMIN"
+msgstr "Admin"
+
+msgid "NAVBAR_ITEM_SUDOMEMO_ADMIN"
+msgstr "Sudomin"
+
+msgid "NAVBAR_ITEM_REPORTED_FLIPNOTES"
+msgstr "Reported Flipnotes"
+
+msgid "NAVBAR_ITEM_SWITCH_TO_USER_ACCOUNT"
+msgstr "Switch to user account"
+
+## Switch to dark mode
+msgid "NAVBAR_ITEM_LIGHTS_OFF"
+msgstr "Lights off"
+
+## Switch to light mode
+msgid "NAVBAR_ITEM_LIGHTS_ON"
+msgstr "Lights on"
+
+# Front Page
+
+## Alt tags, aria labels
+
+msgid "ALT_WEEKLY_TOPIC_BANNER"
+msgstr "Banner advertising the Weekly Topic"
+
+msgid "ALT_USER_PROFILE_PICTURE"
+msgstr "%s's profile picture"
+
+msgid "ALT_DRAWN_COMMENT_BY_USER"
+msgstr "Drawn comment by %s"
+
+## Welcome to Sudomemo Box
+
+msgid "WELCOME_BOX_GREET_ADMIN"
+msgstr "Welcome back, %s"
+
+msgid "WELCOME_BOX_YOU_ARE_ADMIN"
+msgstr "You are logged in as an Administrator."
+
+msgid "WELCOME_BOX_OPEN_SUDOMIN"
+msgstr "Open Sudomin"
+
+### Our welcome box can change it's greeting, depending on time of day.
+### It is displayed like this:
+### Good afternoon, User! Happy Flipnoting!
+
+msgid "WELCOME_BOX_DEFAULT_GREETING"
+msgstr "Hello"
+
+msgid "WELCOME_BOX_MORNING_GREETING"
+msgstr "Good morning"
+
+msgid "WELCOME_BOX_AFTERNOON_GREETING"
+msgstr "Good afternoon"
+
+msgid "WELCOME_BOX_EVENING_GREETING"
+msgstr "Good evening"
+
+### "Happy Flipnoting!" is one of our brand catchphrases. "Flipnoting" refers to the act of creating or watching Flipnotes.
+### Please don't translate "Flipnoting", except to Japanese where you could probably modify the word うごメモ.
+
+msgid "WELCOME_BOX_USERNAME_HAPPY_FLIPNOTING"
+msgstr ", %s! Happy Flipnoting!"
+
+msgid "WELCOME_BOX_WELCOME_TO"
+msgstr "Welcome to"
+
+### Another one of our taglines 
+
+msgid "WELCOME_BOX_SHARE_CREATIVITY_TAGLINE"
+msgstr "Share your creativity with the world!"
+
+msgid "WELCOME_BOX_WHAT_IS_SUDOMEMO"
+msgstr "Sudomemo is an animation site where people can share flipbook animations - called Flipnotes - created on and posted from the Nintendo DSi and 3DS."
+
+msgid "WELCOME_BOX_HOW_TO_JOIN"
+msgstr "Learn how to Join!"
+
+# Give, in the same sense as "Donate"
+
+msgid "WELCOME_BOX_GIVE"
+msgstr "Give"
+
+## Flipnote sections
+
+msgid "FLIPNOTE_LIST_RECALCULATING"
+msgstr "The rankings are currently being recalculated. Try reloading the page in a few moments."
+
+msgid "RECENT_FLIPNOTES"
+msgstr "Recent Flipnotes"
+
+msgid "POPULAR_THIS_MONTH"
+msgstr "Popular This Month"
+
+msgid "HOT_FLIPNOTES"
+msgstr "Hot Flipnotes"
+
+msgid "RANDOM_FLIPNOTES"
+msgstr "Random Flipnotes"
+
+msgid "FEATURED_FLIPNOTES"
+msgstr "Featured Flipnotes"
+
+## Flipnote sections, short
+msgid "RECENT"
+msgstr "Recent"
+
+msgid "POPULAR"
+msgstr "Popular"
+
+msgid "HOT"
+msgstr "Hot"
+
+msgid "RANDOM"
+msgstr "Random"
+
+msgid "FEATURED"
+msgstr "Featured"
+
+## Flipnote by...
+
+msgid "FLIPNOTE_BY_FORMAT"
+msgstr "Flipnote by %s"
+
+## Comments section
+
+msgid "VIEWPAGE_COMMENT_WRITE_HERE"
+msgstr "Write here"
+
+msgid "VIEWPAGE_COMMENT_POST_BUTTON"
+msgstr "Post Comment"
+
+msgid "VIEWPAGE_ADD_MODERATOR_COMMENT"
+msgstr "Add Moderator Comment"
+
+msgid "VIEWPAGE_MODERATOR_COMMENT_WARNING"
+msgstr "Do not use this for personal comments."
+
+### This is composed of two parts: SIGN_IN and TO_ADD_A_COMMENT
+### SIGN_IN is a link to the login page, and TO_ADD_A_COMMENT is the part that comes after.
+### It reads as follows: Sign in to add a comment
+
+msgid "TO_ADD_A_COMMENT"
+msgstr "to add a comment"
+
+### When the Post Comment button is pressed, it changes to "Posting..." and then "Posted!" when complete.
+msgid "VIEWPAGE_COMMENT_POSTING"
+msgstr "Posting..."
+
+msgid "VIEWPAGE_COMMENT_POSTED"
+msgstr "Posted!"
+
+### This can happen in cases of network failure or if the comment is rejected
+msgid "VIEWPAGE_COMMENT_FAILED"
+msgstr "Comment failed..."
+
+## Right sidebar
+
+msgid "FRONTPAGE_FLIPNOTE_SPOTLIGHT"
+msgstr "Flipnote Spotlight"
+
+msgid "FRONTPAGE_TRENDING_CREATORS"
+msgstr "Trending Creators"
+
+# Flipnote View Page
+
+msgid "VIEWPAGE_EDIT_FLIPNOTE"
+msgstr "Edit Flipnote"
+
+msgid "REGION"
+msgstr "Region"
+
+# Comprising the continents of North and South America
+msgid "REGION_AMERICAS"
+msgstr "Americas"
+
+msgid "REGION_EUROPE_AND_OCEANIA"
+msgstr "Europe and Oceania"
+
+msgid "REGION_JAPAN"
+msgstr "Japan"
+
+# Fallback region (this shouldn't happen)
+msgid "REGION_UNKNOWN"
+msgstr "Unknown"
+
+msgid "SHARE_ON_FACEBOOK"
+msgstr "Share on Facebook"
+
+msgid "SHARE_ON_TWITTER"
+msgstr "Share to Twitter"
+
+msgid "SHARE_ON_TUMBLR"
+msgstr "Share on Tumblr"
+
+msgid "SHARE_ON_REDDIT"
+msgstr "Share to Reddit"
+
+msgid "VIEWPAGE_SPINOFFS"
+msgstr "Spin-offs"
+
+## MusicMatch
+
+### Where the Flipnote's audio starts at in the song
+
+msgid "MUSICMATCH_AUDIO_OFFSET"
+msgstr "Starts at %s"
+
+msgid "MUSICMATCH_LISTEN_ON_YOUTUBE_MUSIC"
+msgstr "Listen on YouTube Music"
+
+msgid "MUSICMATCH_LISTEN_ON_SPOTIFY"
+msgstr "Listen on Spotify"
+
+msgid "MUSICMATCH_ABOUT"
+msgstr "About MusicMatch"
+
+## Original Flipnote / Spinoffs
+
+msgid "VIEWPAGE_ORIGINAL_FLIPNOTE"
+msgstr "Original Flipnote"
+
+msgid "VIEWPAGE_ORIGINAL_FLIPNOTE_NOT_ON_SUDOMEMO"
+msgstr "The original Flipnote isn't on Sudomemo."
+
+# This shows as "by User" underneath the Flipnote thumbnail
+
+msgid "VIEWPAGE_RELATED_FLIPNOTE_BY"
+msgstr "by %s"
+
