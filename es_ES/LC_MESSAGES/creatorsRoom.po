@@ -201,16 +201,16 @@ msgstr "Canjear"
 
 
 msgid "SPENDABLE_STARS"
-msgstr "Your Stars"
+msgstr "Tus Estrellas"
 
 msgid "SPENDABLE_STARS_HELPTEXT"
-msgstr "Stars to add to Flipnotes or use for themes"
+msgstr "Estrellas para añadir a flipnotes o gastar en temas."
 
 msgid "LOGIN_REQUIRED_ACTION"
-msgstr "You must be logged in to perform this action."
+msgstr "Debes iniciar sesión para realizar esta acción."
 
 msgid "PAGE"
-msgstr "Page"
+msgstr "Pagina"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d of %d"
+msgstr "%d de %d"
