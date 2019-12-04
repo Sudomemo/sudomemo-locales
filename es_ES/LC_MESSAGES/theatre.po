@@ -717,3 +717,9 @@ msgstr "Nintendo DSi"
 
 msgid "NINTENDO_3DS"
 msgstr "Nintendo 3DS"
+
+# Additional things
+
+# See Flipnotes with the song <song name> by <band/artist name>
+msgid "BROWSE_SONG_YOU_ARE_BROWSING_SONG"
+msgstr "See Flipnotes with the song % by %"
