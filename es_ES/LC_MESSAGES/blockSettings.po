@@ -1,5 +1,5 @@
 msgid "LOGIN_REQUIRED_TO_MANAGE_BLOCKS"
-msgstr "Tienes que iniciar sesión para poder acceder a los usuarios bloqueados."
+msgstr "Debes iniciar sesión para acceder a lista de usuarios bloqueados."
 
 msgid "NO_USERS_BLOCKED"
 msgstr "No tienes usuarios bloqueados."
@@ -23,16 +23,16 @@ msgid "CONFIRM_BLOCK"
 msgstr "Bloquear"
 
 msgid "USER_ALREADY_BLOCKED"
-msgstr "Ya has bloqueado a este usuario, podrás desbloquearlo en el menú de usuarios bloqueados de tu Sala del Creador, pero deberás esperar 24 si quieres bloquearlo de nuevo."
+msgstr "Ya has bloqueado a este usuario, podrás desbloquearlo en el menú de usuarios bloqueados de tu Sala del Creador, pero deberás esperar 24 horas si quieres bloquearlo de nuevo."
 
 msgid "ONE_DAY_WAIT_BEFORE_REBLOCK_FORMAT"
-msgstr "Ya has bloqueado a este usuario recientemente. No puedes bloquearlo hasta %s"
+msgstr "Has desbloqueado a este usuario recientemente. No puedes bloquearlo hasta %s"
 
 msgid "UNBLOCK"
 msgstr "Desbloquear."
 
 msgid "LOGIN_REQUIRED"
-msgstr "Para hacer esto necesitas iniciar sesión."
+msgstr "Debes iniciar sesión para realizar esta acción."
 
 msgid "TAP_BACK_TO_RETURN"
 msgstr "Toca para volver a tu Sala del Creador."
@@ -47,13 +47,13 @@ msgid "USER_HAS_BEEN_UNBLOCKED"
 msgstr "Usuario desbloqueado"
 
 msgid "COMMENTING_ENABLED_AFTER_UNBLOCK"
-msgstr "Después de haber desbloqueado a este usuario, podreis comentar en las flipnotes de cada uno de nuevo, a menos que el te tenga bloqueado también."
+msgstr "Después de haber desbloqueado a este usuario, el podrá comentar en tus flipnotes nuevamente, a menos que el te tenga bloqueado también."
 
 msgid "UNBLOCK_WARNING_ONE_DAY_THRESHOLD"
 msgstr "Si has bloqueado al usuario, tendrás que esperar 24 horas antes de poder bloquearlo de nuevo."
 
 msgid "CONFIRM_UNBLOCK"
-msgstr "Desbloquear"
+msgstr "Confirmar Desbloqueo"
 
 msgid "RECENTLY_UNBLOCKED_ONE_DAY_THRESHOLD"
 msgstr "Has desbloqueado recientemente a este usuario, tienes que esperar 24 horas desde la hora del desbloqueo antes de que puedas bloquearlo de nuevo."
