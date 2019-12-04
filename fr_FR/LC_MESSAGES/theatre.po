@@ -20,7 +20,7 @@ msgid "DEFAULT_META_DESCRIPTION"
 msgstr "Sudomemo : partagez vos Flipnotes avec le monde entier ! Pour Nintendo DSi et 3DS."
 
 msgid "FRONTPAGE_TITLE_TAGLINE"
-msgstr "Sudomemo: Flipnote Hatena est de retour !"
+msgstr "Sudomemo : Flipnote Hatena est de retour !"
 
 msgid "VIEWPAGE_COMMENT_TEXTBOX"
 msgstr "Zone de saisie de commentaire"
@@ -673,7 +673,7 @@ msgid "TICKETS"
 msgstr "Tickets"
 
 msgid "SUDOMEMO_SHOP_ABOUT_TICKETS_1"
-msgstr "Tickets sont des objets sympas sur Sudomemo que vous pouvez utiliser pour des étoiles, Sudomemo Plus, et d'autres choses !"
+msgstr "Les tickets sont des objets sympas sur Sudomemo que vous pouvez utiliser pour des étoiles, Sudomemo Plus, et d'autres choses !"
 
 msgid "SUDOMEMO_SHOP_ABOUT_TICKETS_2"
 msgstr "Une fois que vous avez un ticket, vous pouvez l'utiliser dans votre Salle de créateur en appuyant sur \"Utiliser un code\" - ou vous pouvez donner un code de ticket comme cadeau pour un ami !"
@@ -723,4 +723,4 @@ msgstr "Nintendo 3DS"
 
 # See Flipnotes with the song <song name> by <band/artist name>
 msgid "BROWSE_SONG_YOU_ARE_BROWSING_SONG"
-msgstr "See Flipnotes with the song %s by %s"
+msgstr "Voir les Flipnotes avec la chanson %s de %s"
