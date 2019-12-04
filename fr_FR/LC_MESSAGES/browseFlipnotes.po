@@ -8,7 +8,7 @@ msgid "HEADER_NORMAL"
 msgstr "Récent"
 
 msgid "HEADER_HOT_FLIPNOTES"
-msgstr "Flipnotes tendances"
+msgstr "Flipnotes tendance"
 
 msgid "HEADER_MOST_POPULAR"
 msgstr "Les plus populaires"
@@ -23,7 +23,7 @@ msgid "HEADER_BROWSE_FLIPNOTES"
 msgstr "Regarder les Flipnotes"
 
 msgid "HEADER_FEATURED_FLIPNOTES"
-msgstr "Flipnotes recommandées"
+msgstr "Flipnotes en vedette"
 
 msgid "HEADER_RANDOM_FLIPNOTES"
 msgstr "Flipnotes aléatoires"
