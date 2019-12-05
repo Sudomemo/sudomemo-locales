@@ -23,7 +23,7 @@ msgid "FLIPNOTE_POST_FAILED"
 msgstr "Ha ocurrido un error al publicar esta Flipnote. Intenta de nuevo en unos momentos."
 
 msgid "DUPLICATE_FLIPNOTE_FAILED"
-msgstr "Esta flipnote ya ha sido publicada. Edítala para poder publicarla."
+msgstr "Esta Flipnote ya ha sido publicada. Edítala para poder publicarla."
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
 msgstr "Los datos de esta Flipnote estan corruptos. Intenta de nuevo en unos momentos."
