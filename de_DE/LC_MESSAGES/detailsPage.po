@@ -1,5 +1,5 @@
 msgid "TIMESTAMP_FORMAT"
-msgstr "M T, J H:i:s"
+msgstr "j. M y, H:i:s"
 
 msgid "FLIPNOTE_TITLE_FORMAT"
 msgstr "Flipnote von %s"
@@ -11,16 +11,16 @@ msgid "HEADER_COMMENTS"
 msgstr "Kommentare"
 
 msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
-msgstr "Dieser Flipnote ist ein spin-off."
+msgstr "Dieses Flipnote ist ein Spin-Off."
 
 msgid "HEADER_ORIGINAL_FLIPNOTE"
-msgstr "Rufe die original Flipnote hier auf!"
+msgstr "Rufe das Original-Flipnote hier auf!"
 
 msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
-msgstr "Um Sterne-bätteln zu verhindern haben wir die anzahl Gelber Sterne auf 10 limitiert."
+msgstr "Um gegen Sternebettlerei vorzugehen haben wir die Anzahl Gelber Sterne auf 10 begrenzt."
 
 msgid "HEADER_CREATOR"
-msgstr "Creator"
+msgstr "Ersteller"
 
 msgid "HEADER_STARS"
 msgstr "Sterne"
@@ -29,7 +29,7 @@ msgid "HEADER_VIEWS"
 msgstr "Aufrufe"
 
 msgid "HEADER_SPINOFFS"
-msgstr "Spin-offs"
+msgstr "Spin-Offs"
 
 msgid "HEADER_DOWNLOADS"
 msgstr "Downloads"
@@ -41,10 +41,10 @@ msgid "HEADER_POSTED"
 msgstr "Hochgeladen"
 
 msgid "HEADER_FLIPNOTE_ID"
-msgstr "Flipnote ID"
+msgstr "Flipnote-ID"
 
 msgid "HEADER_CHANNEL"
-msgstr "Channel"
+msgstr "Kanal"
 
 msgid "HEADER_OPTIONS"
 msgstr "Optionen"
@@ -53,10 +53,10 @@ msgid "HEADER_SET_AS_PROFILE_PICTURE"
 msgstr "Als Profilbild einstellen"
 
 msgid "HEADER_REPORT_FLIPNOTE"
-msgstr "Flipnote Melden"
+msgstr "Flipnote melden"
 
 msgid "ADMIN_ACTIONS"
-msgstr "Admin Aktionen"
+msgstr "Admin-Aktionen"
 
 msgid "PREV"
 msgstr "Zurück"
@@ -68,43 +68,43 @@ msgid "STAR_DETAILS_UPPERTITLE"
 msgstr "★ Sterne ★"
 
 msgid "SET_TITLE"
-msgstr "Set Title"
+msgstr "Titel einstellen"
 
 msgid "SET_TITLE_INSTRUCTIONS"
-msgstr "Enter the new title for your Flipnote below."
+msgstr "Den neuen Titel deines Flipnotes hier unten eingeben."
 
 msgid "40_CHARACTER_LIMIT"
-msgstr "Your title is limited to 40 characters in length."
+msgstr "Die Länge deines Titels ist auf 40 Charaktere begrenzt."
 
 msgid "LEAVE_BLANK_TO_RESET"
-msgstr "To reset the title to default, leave the form blank when submitting."
+msgstr "Der Titel kann beim Speichern ohne Text zurückgesetzt werden."
 
 msgid "ENTER_TITLE"
-msgstr "Enter title..."
+msgstr "Titel eingeben..."
 
 msgid "HEADER_ADD_DESCRIPTION"
-msgstr "Add Description"
+msgstr "Beschreibung hinzufügen"
 
 msgid "HEADER_DESCRIPTION"
-msgstr "Description"
+msgstr "Beschreibung"
 
 msgid "SET_DESCRIPTION"
-msgstr "Set Description"
+msgstr "Beschreibung einstellen"
 
 msgid "SET_DESCRIPTION_INSTRUCTIONS"
-msgstr "Enter the new description for your Flipnote below."
+msgstr "Die neue Beschreibung deines Flipnotes hier unten eingeben."
 
 msgid "101_CHARACTER_LIMIT_DESC"
-msgstr "Your description is limited to 101 characters in length."
+msgstr "Die Länge deiner Beschreibung ist auf 101 Charaktere begrenzt."
 
 msgid "LEAVE_BLANK_TO_RESET_DESC"
-msgstr "To remove the description, leave the form blank when submitting."
+msgstr "Die Beschreibung kann beim Speichern ohne Text zurückgesetzt werden."
 
 msgid "ENTER_DESCRIPTION"
-msgstr "Enter description..."
+msgstr "Beschreibung eingeben..."
 
 msgid "HEADER_FLIPNOTE_OPTIONS"
-msgstr "Options"
+msgstr "Optionen"
 
 msgid "HEADER_SONG"
 msgstr "Song"

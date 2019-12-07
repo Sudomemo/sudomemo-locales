@@ -2,7 +2,7 @@ msgid "HEADER_REPORT_CONTENT"
 msgstr "Melden"
 
 msgid "CHAT_MESSAGE"
-msgstr "Chatraum Nachricht"
+msgstr "Chatraum-Nachricht"
 
 msgid "COMMENT"
 msgstr "Kommentar"
@@ -14,7 +14,7 @@ msgid "YOU_ARE_REPORTING_THIS_FORMAT"
 msgstr "Du meldest dies: %s:"
 
 msgid "USER_HAS_ALREADY_REPORTED_FORMAT"
-msgstr "Du hast da schon gemeldet: %s."
+msgstr "Du hast dies schon gemeldet: %s."
 
 msgid "HEADER_VIOLATION_CATEGORY"
 msgstr "Verstoß-Kategorie:"
@@ -23,34 +23,34 @@ msgid "FLIPNOTE_TITLE_FORMAT"
 msgstr "Flipnote von %s"
 
 msgid "CREATOR_FORMAT"
-msgstr "Creator: %s"
+msgstr "Ersteller: %s"
 
 msgid "NOTICE_REPORT_OTHER_ISSUES"
-msgstr "Diese Form ist nur um den Inhalt dieses Benutzers zu melden. Um das verhalten des Benutzers zu melden, oder andere probleme, bitte schicke eine email an unseren support:"
+msgstr "Dieses Formular dient ausschiließen dem Melden des Inhaltes. Um das Verhalten des Benutzers sowie sonstige Probleme zu melden, schicke bitte eine Email an unseren Support-Dienst:"
 
 msgid "REPORT_INSTRUCTIONS"
-msgstr "Bitte mach eine kurze beschreibung warum du denkst das dieser inhalt gegen die Sudomemo Nutzungsbedingungen verstößt. Wenn du es eingereicht hast tippe auf zurück."
+msgstr "Bitte gib deine zusammengefasste Meinung daruber, wie der gemeldete Inhalt gegen die Nutzungsrechtlinien Sudomemos verstößt. Tippe nach dem Einreichen auf Zurück."
 
 msgid "NO_BLANK_REPORTS"
-msgstr "Du kannst keine leere beschreibung einreichen."
+msgstr "Du kannst keine leere Meldung einreichen."
 
 msgid "LIMIT_ONE_REPORT"
-msgstr "Bitte beachte dass du diesen inhalt nur 1 mal melden kannst, weitere Meldungen von dir zu diesen inhalt wird nicht regristriert, also fasse alles in ein Kommentar ab."
+msgstr "Bitte beachte, dass du diesen Inhalt nur 1-mal melden kannst. Weitere von dir eingereichte Meldungen zu diesem Inhalt werden nicht regristriert. Fasse daher bitte alles in einem Kommentar zusammen."
 
 msgid "REPORT_EXPLANATION_FAILED"
-msgstr "Fehler beim einreichen der Meldung."
+msgstr "Ein Fehler beim Einreichen der Meldung ist aufgetreten."
 
 msgid "RESTRICTED_CANCEL"
-msgstr "Du kannst diesen Inhalt nicht melden da du von Sudomemo gebannt wurdest."
+msgstr "Du kannst diesen Inhalt nicht melden, da du von Sudomemo gebannt wurdest."
 
 msgid "HEADER_REASON"
 msgstr "Grund:"
 
 msgid "LOGIN_REQUIRED_TO_CONTINUE"
-msgstr "Du musst eingeloggt sein um fortzufahren."
+msgstr "Du musst angemeldet sein, um fortzufahren."
 
 msgid "LOGIN_REQUIRED_TO_REPORT_CONTENT"
-msgstr "Du musst eingeloggt sein um irgendein Inhalt zu melden."
+msgstr "Du musst angemeldet sein, um Inhalte zu melden."
 
 msgid "REPORT_FAILED_USER_BANNED"
 msgstr "Du wurdest von Sudomemo gebannt."
@@ -59,5 +59,4 @@ msgid "DUPLICATE_COMMENT_FAILED"
 msgstr "Dieser Kommentar wurde schon auf Sudomemo hochgeladen."
 
 msgid "THANKS_FOR_REPORTING"
-msgstr "We've received your report. Thanks for helping make Sudomemo a better place!"
-
+msgstr "Wir haben deine Meldung erfolgreich erhalten. Vielen Dank für deine Kooperation zur Aufrechterhaltung von Sudomemo!"

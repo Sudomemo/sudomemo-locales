@@ -17,28 +17,28 @@ msgid "PAGE_FORMAT"
 msgstr "Seite %d"
 
 msgid "NO_COMMENTS_YET"
-msgstr "Dieser Flipnote hat noch keine Kommentare."
+msgstr "Dieses Flipnote hat noch keine Kommentare."
 
 msgid "LOGIN_REQUIRED_TO_POST_COMMENT"
-msgstr "Du musst ein geloggt sein um ein Kommentar zu posten."
+msgstr "Du musst eingeloggt sein um, einen Kommentar zu versenden."
 
 msgid "COMMENT_POST_FAILED"
-msgstr "Hochladen des Kommentars ist fehlgeschlagen! Versuche es später erneut!"
+msgstr "Senden des Kommentars fehlgeschlagen! Versuche es später erneut."
 
 msgid "NO_BLANK_COMMENTS_ALLOWED"
-msgstr "Du kannst kein leeren Kommentar posten."
+msgstr "Du kannst keinen leeren Kommentar posten."
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "Die Flipnote Datei ist beschädigt! Versuche es später erneut."
+msgstr "Die Flipnote-Datei ist beschädigt! Versuche es später erneut."
 
 msgid "FLIPNOTE_COMMENTS_DISALLOWED"
-msgstr "Du darfst kein Kommentar an diesen Flipnote posten."
+msgstr "Du darfst keinen Kommentar an dieses Flipnote posten."
 
 msgid "NO_COMMENTS_WHILE_MUTED"
-msgstr "Du wurdest stummgeschalten! Du kannst keine Kommentare posten."
+msgstr "Du wurdest stummgeschalten! Du kannst keine Kommentare versenden, wenn du stummgeschalten wurdest."
 
 msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "Dieser Kommentar wurde schon in Sudomemo hochgeladen."
+msgstr "Dieser Kommentar wurde schon in Sudomemo gepostet."
 
 msgid "COMMENT_FAILED_USER_BANNED"
 msgstr "Du wurdest von Sudomemo gebannt."

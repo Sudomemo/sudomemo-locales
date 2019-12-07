@@ -1,20 +1,20 @@
 msgid "THEME_SHOP_LOGIN_REQUIRED"
-msgstr "Du musst eingeloggt sein um den Theme Shop zu benutzen"
+msgstr "Du musst eingeloggt sein, um den Kulissen-Shop zu nutzen."
 
 msgid "THEME_SHOP_MAINPAGE_HEADER"
-msgstr "Hier im Theme Shop kannst du neue Designs für dein Creator's Room kaufen!"
+msgstr "Hier im Kulissen-Shop kannst du neue Kulissen für dein Ersteller-Raum kaufen!"
 
 msgid "THEME_SHOP_LEARN_MORE_HEADER"
-msgstr "Lerne mehr über den Theme Shop"
+msgstr "Lerne mehr über den Kulissen-Shop"
 
 msgid "THEME_SHOP_REPORT_ISSUES_HEADER"
-msgstr "Tippe auf diesen Link um ein Desing zu melden was nicht richtig funktioniert."
+msgstr "Tippe auf diesen Link, um ein fehlerhaftes Design zu melden."
 
 msgid "THEME_SHOP_MAINPAGE_EXCHANGE_COST_FORMAT"
-msgstr "Tauschen für %d Grüne Sterne"
+msgstr "Für %d Grüne Sterne eintauschen"
 
 msgid "THEME_SHOP_MAINPAGE_FREE_STARTER_THEMES"
-msgstr "Kostenlos Starter Designs"
+msgstr "Kostenlose Starter-Kulissen"
 
 msgid "CONGRATULATIONS"
 msgstr "Glückwunsch!"
@@ -29,16 +29,16 @@ msgid "BUY"
 msgstr "Kaufen"
 
 msgid "THEME"
-msgstr "Design"
+msgstr "Kulisse"
 
 msgid "PRICE"
 msgstr "Preis"
 
 msgid "CREATOR"
-msgstr "Creator"
+msgstr "Ersteller"
 
 msgid "DESCRIPTION"
-msgstr "Description"
+msgstr "Beschreibung"
 
 msgid "YOU_HAVE"
 msgstr "Deine Farb-Sterne:"
@@ -53,13 +53,13 @@ msgid "CONFIRM"
 msgstr "Bestätigen"
 
 msgid "CREATORS_ROOM"
-msgstr "Creator's Room"
+msgstr "Ersteller-Raum"
 
 msgid "SHOP_MENU"
-msgstr "Shop Menü"
+msgstr "Shop-Menü"
 
 msgid "NO_DESCRIPTION_AVAILABLE"
-msgstr "No description"
+msgstr "Keine Beschreibung vorhanden"
 
 msgid "THEME_SHOP_SELECT_PAYMENT"
 msgstr "Zahlung auswählen"
@@ -68,28 +68,28 @@ msgid "THEME_SHOP_SELECTED_PAYMENT"
 msgstr "Ausgewählte Zahlung"
 
 msgid "THEME_SHOP_STAR_BALANCE_TOO_LOW"
-msgstr "Sorry, Du hast nicht genug Grüne Sterne für dieses Design."
+msgstr "Du hast nicht genug Grüne Sterne für diese Kulisse. Tut und Leid."
 
 msgid "THEME_SHOP_CHOOSE_CAREFULLY_BEFORE_BUYING"
-msgstr "Alle Käufe sind permanent, also sei vorsichtig beim Kaufen!"
+msgstr "Alle Käufe sind endgültig, also bedenke deine Käufe sorgfältig!"
 
 msgid "THEME_SHOP_YOU_OWN_THIS_THEME"
-msgstr "Dir gehört schon dieses Design."
+msgstr "Dir gehört diese Kulisse schon."
 
 msgid "THEME_SHOP_PUBLIC_THEME"
-msgstr "Jeder Benutzer hat kostenlos zugriff auf dieses Design."
+msgstr "Jeder Benutzer hat kostenlosen Zugriff auf diese Kulisse."
 
 msgid "THEME_SHOP_OWNED_THEME_TRANSACTION_FORMAT"
-msgstr "Du hast das Design auf %s für %d Grüne Sterne."
+msgstr "Du hast die Kulisse am %s für %d Grüne Sterne gekauft."
 
 msgid "THEME_SHOP_CONFIRM_PURCHASE_BELOW"
-msgstr "Bitte bestätige dein Einkauf."
+msgstr "Bitte bestätige deinen Kauf."
 
 msgid "THEME_SHOP_STARS_LEFT_AFTER_PAYMENT"
-msgstr "Nach kauf verfügbare Farb-Sterne:"
+msgstr "Nach Kauf verbleibende Farb-Sterne:"
 
 msgid "THEME_SHOP_POST_PURCHASE"
-msgstr "Dein Einkauf war erfolgreich! Geh zu \"My Themes\"  in deinem Creators room um es auszuwählen!"
+msgstr "Dein Einkauf war erfolgreich! Wähle die Kulisse unter \"Meine Kulissen\" in deinem Ersteller-Raum aus!"
 
 msgid "NAVIGATION_PREVIOUS"
 msgstr "Zurück"
@@ -98,8 +98,8 @@ msgid "NAVIGATION_NEXT"
 msgstr "Weiter"
 
 msgid "THEME_SHOP_SAMPLE_PROFILE"
-msgstr "Profil-Probe"
+msgstr "Profil-Vorschau"
 
 msgid "THEME_SHOP"
-msgstr "Theme Shop"
+msgstr "Kulissenshop"
 

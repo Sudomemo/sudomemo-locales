@@ -1,5 +1,5 @@
 msgid "NO_COMMENTS_YET"
-msgstr "Es wurden hier keine Nachrichten versendet."
+msgstr "Hier wurden noch keine Nachrichten versendet."
 
 msgid "HEADER_COMMENTS"
 msgstr "Kommentare"
@@ -17,7 +17,7 @@ msgid "HEADER_REFRESH"
 msgstr "Neu laden"
 
 msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
-msgstr "Du musst eingeloggt sein um eine Chat-Nachricht zu versenden."
+msgstr "Du musst angemeldet sein, um eine Chat-Nachricht zu versenden."
 
 msgid "CHAT_REPLY_FAILED"
 msgstr "Chat-Antwort fehlgeschlagen! Versuche es später erneut."
@@ -26,13 +26,13 @@ msgid "NO_BLANK_MESSAGES_ALLOWED"
 msgstr "Du kannst keine leere Nachricht versenden."
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "Die Flipnote Datei ist beschädigt! Versuche es später erneut."
+msgstr "Die Flipnote-Datei ist beschädigt! Versuche es später erneut."
 
 msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
-msgstr "Du wurdest stummgeschalten! Du kannst keine Chat-Nachrichten versenden wenn du stummgeschalten wurdest."
+msgstr "Du wurdest stummgeschalten! Du kannst keine Chat-Nachrichten versenden, wenn du stummgeschalten wurdest."
 
 msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "Dieser Kommentar wurde schon in Sudomemo versendet."
+msgstr "Dieser Kommentar wurde schon auf Sudomemo versendet."
 
 msgid "COMMENT_FAILED_USER_BANNED"
 msgstr "Du wurdest von Sudomemo gebannt."

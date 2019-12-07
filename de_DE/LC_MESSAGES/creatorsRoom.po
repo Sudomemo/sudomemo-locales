@@ -2,16 +2,16 @@ msgid "SEE_MORE"
 msgstr "Mehr sehen..."
 
 msgid "STARRED_FLIPNOTES"
-msgstr "Markierte Flipnotes"
+msgstr "Bewertete Flipnotes"
 
 msgid "FAVORITE_USERS"
-msgstr "Lieblings Benutzer"
+msgstr "Favorisierte Benutzer"
 
 msgid "FAVORITES_FEED"
-msgstr "Lieblings Feed"
+msgstr "Favoriten-Feed"
 
 msgid "FAVORITE_CHANNELS"
-msgstr "Lieblings Channel"
+msgstr "Favorisierte Kanäle"
 
 msgid "USER_DOWNLOADCOUNT"
 msgstr "Downloads"
@@ -20,16 +20,16 @@ msgid "USER_VIEWCOUNT"
 msgstr "Aufrufe"
 
 msgid "USER_THEME"
-msgstr "Theme"
+msgstr "Kulisse"
 
 msgid "THEME_SHOP"
-msgstr "Theme Shop"
+msgstr "Kulissen-Shop"
 
 msgid "POSTED_COMMENTS"
-msgstr "Hochgeladene Kommentare"
+msgstr "Versendete Kommentare"
 
 msgid "POSTED_CHATCOMMENTS"
-msgstr "Chatraum-Nachrichten"
+msgstr "Versendete Chatraum-Nachrichten"
 
 msgid "FEATURE_USABILITY"
 msgstr "Benutzerfreundlichkeit"
@@ -41,10 +41,10 @@ msgid "NOT_USABLE"
 msgstr "Nicht benutzbar"
 
 msgid "SUDOMEMO_THEATRE_URL"
-msgstr "Sudomemo Theatre Link"
+msgstr "Sudomemo-Theatre-Link"
 
 msgid "FLIPNOTE_STUDIO_ID"
-msgstr "Flipnote Studio ID"
+msgstr "Flipnote-Studio-ID"
 
 msgid "SETTINGS"
 msgstr "Einstellungen"
@@ -62,16 +62,16 @@ msgid "ADMIN_ACCT_MUTED"
 msgstr "Stummgeschalten"
 
 msgid "ADMIN_USER_DETAILS"
-msgstr "Benutzer Details"
+msgstr "Benutzer-Details"
 
 msgid "ADMIN_LAST_SEEN"
 msgstr "Zuletzt gesehen"
 
 msgid "ADMIN_USER_STATUS"
-msgstr "Benutzer Status"
+msgstr "Benutzer-Status"
 
 msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
-msgstr "Admin Aktionen"
+msgstr "Admin-Aktionen"
 
 msgid "BLOCK_COMMENTS_HEADER"
 msgstr "Nachrichten blockieren"
@@ -89,7 +89,7 @@ msgid "HEADER_FOLLOWERS"
 msgstr "Follower"
 
 msgid "HEADER_FOLLOWING"
-msgstr "Verfolgt"
+msgstr "Folgend"
 
 msgid "PREVIOUS"
 msgstr "Zurück"
@@ -98,19 +98,19 @@ msgid "NEXT"
 msgstr "Weiter"
 
 msgid "CHANGE_ROOM_THEME_LINK"
-msgstr "[Theme umändern]"
+msgstr "[Kulisse umändern]"
 
 msgid "SELECT_THEME"
-msgstr "Theme auswählen"
+msgstr "Kulisse auswählen"
 
 msgid "FANS"
 msgstr "Fans"
 
 msgid "EXAMPLE"
-msgstr "beispiel"
+msgstr "Beispiel"
 
 msgid "THEMETEST_SET_THEME"
-msgstr "Theme benutzen"
+msgstr "Kulisse benutzen"
 
 msgid "THEMETEST_NOTICE"
 msgstr "Bemerkung"
@@ -125,22 +125,22 @@ msgid "THEMETEST_NOTICE_2"
 msgstr "Bemerkung #2"
 
 msgid "THEMETEST_ACTIVE_TAB"
-msgstr "Aktiver tab"
+msgstr "Aktiver Tab"
 
 msgid "THEMETEST_INACTIVE_TAB"
-msgstr "Inaktiver tab"
+msgstr "Inaktiver Tab"
 
 msgid "PREVIEW"
-msgstr "Preview"
+msgstr "Vorschau"
 
 msgid "CREATORS_ROOM"
-msgstr "Creator's Room"
+msgstr "Ersteller-Raum"
 
 msgid "THEME_ERROR_THEME_NOT_OWNED"
-msgstr "Sorry! Du besitzt diesen Theme nicht."
+msgstr "Tut uns Leid! Du besitzt diese Kulisse nicht."
 
 msgid "THEME_SUCCESSFULLY_SET"
-msgstr "Theme erfolgreich ausgewählt!"
+msgstr "Kulisse erfolgreich ausgewählt!"
 
 msgid "BLOCKED_USERS"
 msgstr "Blockierte Benutzer"
@@ -152,28 +152,28 @@ msgid "FAN_COUNT_FORMAT"
 msgstr "Fans: %s"
 
 msgid "HEADER_MAIL_SETTINGS"
-msgstr "Mail Settings"
+msgstr "Mail-Einstellungen"
 
 msgid "HEADER_EDIT_BIOGRAPHY"
-msgstr "Edit Biography"
+msgstr "Biografie bearbeiten"
 
 msgid "SET_BIO_INSTRUCTIONS"
-msgstr "Enter your profile biography below. This will be displayed on Sudomemo and Sudomemo Theatre."
+msgstr "Gib deine Biografie hier unten ein. Sie wird auf Sudomemo und Sudomemo Theatre sichtbar sein."
 
 msgid "ENTER_BIO"
-msgstr "Enter Bio..."
+msgstr "Biografie eingeben..."
 
 msgid "101_CHARACTER_LIMIT_BIO"
-msgstr "Your biography is limited to 101 characters."
+msgstr "Die Länge der Biografie ist auf 101 Charaktere begrenzt."
 
 msgid "LEAVE_BLANK_TO_RESET_BIO"
-msgstr "To clear your biography, leave the form blank when submitting."
+msgstr "Die Biografie kann beim Speichern ohne Text zurückgesetzt werden."
 
 msgid "CURRENT_BIO"
-msgstr "Current Bio:"
+msgstr "Aktuelle Biografie:"
 
 msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
-msgstr "You can't follow more than %d users."
+msgstr "Du kannst nicht mehr als %d Benutzern folgen."
 
 msgid "RANKING"
 msgstr "Ranking"
@@ -182,32 +182,31 @@ msgid "TICKET_SECTION"
 msgstr "Tickets"
 
 msgid "DRAW_REGULAR_TICKET"
-msgstr "Draw Ticket"
+msgstr "Ticket ziehen"
 
 msgid "CAN_DRAW_TICKET_SUBTEXT"
-msgstr "You can draw a regular ticket! You might win a prize."
+msgstr "Du kannst ein normales Ticket ziehen! Mit etwas Glück gewinnst du einen Preis."
 
 msgid "INVENTORY"
-msgstr "Inventory"
+msgstr "Inventar"
 
 msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
-msgstr "You can draw another ticket in: %s hour(s) %s minute(s)."
+msgstr "Du kannst ein weiteres Ticket ziehen in: %s Stunde(n) %s Minute(n)."
 
 msgid "REDEEM"
-msgstr "Redeem"
-
+msgstr "Einlösen"
 
 msgid "SPENDABLE_STARS"
-msgstr "Your Stars"
+msgstr "Deine Sterne"
 
 msgid "SPENDABLE_STARS_HELPTEXT"
-msgstr "Stars to add to Flipnotes or use for themes"
+msgstr "Sterne zum Bewerten von Flipnotes / Erwerben von Kulissen"
 
 msgid "LOGIN_REQUIRED_ACTION"
-msgstr "You must be logged in to perform this action."
+msgstr "Du musst eingeloggt sein, um diese Aktion auszuführen."
 
 msgid "PAGE"
-msgstr "Page"
+msgstr "Seite"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d of %d"
+msgstr "%d von %d"

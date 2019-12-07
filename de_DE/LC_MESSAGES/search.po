@@ -20,10 +20,10 @@ msgid "SEARCH_USERNAME"
 msgstr "Benutzername suchen"
 
 msgid "PLEASE_ENTER_USERNAME"
-msgstr "Bitte gib ein Benutzernamen ein..."
+msgstr "Bitte gib einen Benutzernamen ein..."
 
 msgid "RESULTS_FOUND_FORMAT_SINGULAR"
-msgstr "%1$d Ergebniss gefunden für \"%2$s\""
+msgstr "%1$d Ergebnis gefunden für \"%2$s\""
 
 msgid "RESULTS_FOUND_FORMAT_MULTIPLE"
 msgstr "%1$d Ergebnisse gefunden für \"%2$s\""
@@ -32,13 +32,13 @@ msgid "NO_RESULTS_FOUND"
 msgstr "Keine Ergebnisse gefunden"
 
 msgid "SEARCH_SHORT_KEY"
-msgstr "Flipnote ID"
+msgstr "Flipnote-ID"
 
 msgid "SHORT_KEY_NO_RESULTS"
-msgstr "No Flipnote found"
+msgstr "Keine Suchergebnisse"
 
 msgid "SHORT_KEY_FORMAT_GUIDE"
-msgstr "Not finding what you're looking for? You may have entered the Flipnote ID incorrectly. Flipnote IDs are six digits long and can be found in the details section for the Flipnote."
+msgstr "Du findest nicht, wonach du suchst? Du hast womöglich die falsche Flipnote-ID eingegeben. Flipnote-IDs betragen eine Länge von 6 Charakteren und können in den Details von Flipnotes aufgefunden werden."
 
 msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
-msgstr "No result was found, but a similar ID exists. Please note that Flipnote IDs are case-sensitive, and usually all-capital letters and numbers."
+msgstr "Es wurden keine Suchergebnisse gefunden, aber es existiert eine ähnliche Flipnote-ID. Bitte beachte, dass Flipnote-IDs Groß- und Kleinschreibung beachten und gewöhnlicherweise nur aus Großbuchstaben und Ziffern bestehen."
