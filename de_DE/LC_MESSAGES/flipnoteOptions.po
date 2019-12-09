@@ -43,7 +43,7 @@ msgstr "Tippe den Status einer Option an, um sie zu verwalten."
 msgid "OPTION_NAME_FORCE_44K_BITRATE"
 msgstr "Audio-Korrektur"
 
-msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
+msgid "OPTION_DESC_FORCE_44K_BITRATE"
 msgstr "Sudomemo wird versuchen, Audio von Flipnotes klarer und sauberer über Sudomemo Theatre abzuspielen."
 
 msgid "ENABLE_AUDIO_ENHANCEMENT"
