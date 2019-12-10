@@ -1,20 +1,20 @@
 msgid "EMAIL_SUBJECT_FORMAT"
-msgstr "[Sudomemo] %s's Daily Star Report"
+msgstr "[Sudomemo] %s's Täglicher Sterne-Bericht"
 
 msgid "STRING_SUDOMEMO"
 msgstr "Sudomemo"
 
 msgid "STRING_DAILY_STAR_REPORT"
-msgstr "Daily Star Report"
+msgstr "Täglicher Sterne-Bericht"
 
 msgid "TEXT_STAR_REPORT_GREETING_FORMAT"
-msgstr "Hello, %s! This is your Daily Star Report from Sudomemo."
+msgstr "Hallo, %s! Dies ist dein Täglicher Sterne-Bericht von Sudomemo."
 
 msgid "TEXT_FLIPNOTE_BY_FORMAT"
-msgstr "Flipnote by %s"
+msgstr "Flipnote von %s"
 
 msgid "TEXT_TOTAL_STARS_RECEIVED_TODAY"
-msgstr "Total Stars received today"
+msgstr "Summe der heute erhaltenen Sterne"
 
 msgid "TEXT_HOW_TO_VIEW_STAR_ADDERS_DSI"
-msgstr "Using your Nintendo DSi System, you can see who added Stars by tapping <strong>Stars</strong> in your Flipnote's details page on Sudomemo."
+msgstr "Mit deinem Nintendo DSi oder Nintendo 3DS kannst du einsehen, welche Nutzer dein Flipnote mit Sternen bewertet haben, indem du in den Flipnote-Details auf <strong>Sterne</strong> tippst."

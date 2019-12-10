@@ -17,7 +17,7 @@ msgid "FLIPNOTES_BY_FORMAT"
 msgstr "Flipnotes von %s"
 
 msgid "STARRED_BY_FORMAT"
-msgstr "Angeschaut von %s"
+msgstr "Sterne gegeben von %s"
 
 msgid "FAVORITES_FEED_FORMAT"
-msgstr "%s's Feed den er am liebsten mag"
+msgstr "%s's Favoriten-Feed"

@@ -17,17 +17,16 @@ msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d von %d"
 
 msgid "SPINOFFS"
-msgstr "Spinoffs"
+msgstr "Spin-Offs"
 
 msgid "BROWSE_BY_SONG"
-msgstr "Browse by Song"
+msgstr "Nach Song durchsuchen"
 
 msgid "BROWSE_BY_ARTIST"
-msgstr "Browse by Artist"
+msgstr "Nach Künstler durchsuchen"
 
 msgid "BROWSE_BY_ALBUM"
-msgstr "Browse by Album"
+msgstr "Nach Album durchsuchen"
 
 msgid "BROWSE_PLAYLIST"
-msgstr "Browse Playlist"
-
+msgstr "Playlist durchsuchen"

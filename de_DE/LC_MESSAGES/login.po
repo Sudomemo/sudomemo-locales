@@ -2,43 +2,43 @@ msgid "BAN_GREETING_FORMAT"
 msgstr "Hallo, %s."
 
 msgid "BAN_NOTICE_CONSOLE_BAN"
-msgstr "Dein Account + Konsole wurde von Sudomemo gebannt."
+msgstr "Sowohl dein Konto als auch deine Konsole wurden von Sudomemo gebannt."
 
 msgid "BAN_NOTICE_PLEASE_READ_BAN_LETTER"
-msgstr "Bitte lese die mail die wir geschickt haben für weitere Information."
+msgstr "Bitte lese die von uns gelieferte Email für weitere Informationen."
 
 msgid "BAN_VIEW_MAIL"
-msgstr "Sudomemo Mail Sehen"
+msgstr "Sudomemo-Mail sehen"
 
 msgid "LOGIN_SUCCESSFUL"
 msgstr "Login erfolgreich"
 
 msgid "THANKS_FOR_LOGIN_FORMAT"
-msgstr "Danke für's einloggen, %s!"
+msgstr "Danke für's Einloggen, %s!"
 
 msgid "GOTO_CREATORS_ROOM"
-msgstr "Geh zu dein Creator's Room"
+msgstr "Geh zu deinem Ersteller-Raum"
 
 msgid "LOGIN"
 msgstr "Login"
 
 msgid "POST_COMMENT_BELOW"
-msgstr "Um fortzufahren bitte hinterlasse ein Kommentar."
+msgstr "Bitte hinterlasse ein Kommentar um fortzufahren."
 
 msgid "LOGIN_SETUP"
-msgstr "Login Setup"
+msgstr "Login-Setup"
 
 msgid "WELCOME_BACK_FORMAT"
 msgstr "Willkommen zurück, %s!"
 
 msgid "RETURNING_USER_NEW_LOGIN_SYSTEM"
-msgstr "Seit letztes mal als du online warst haben wir jetzt ein neues Login-system, aber keine Sorge! All deine Flipnotes sind noch da!"
+msgstr "Wir haben seit deinem letzten Besuch ein neues Login-System eingerichtet, aber keine Sorge! All deine Inhalte sind stets vorhanden!"
 
 msgid "RETURNING_USER_PLEASE_CREATE_PASSWORD"
-msgstr "Um fortzufahren bitte erstelle ein Passwort."
+msgstr "Bitte erstelle ein Passwort um fortzufahren."
 
 msgid "NEW_USER_WELCOME_FORMAT"
-msgstr "Willkommen zu Sudomemo, %s!"
+msgstr "Willkommen bei Sudomemo, %s!"
 
 msgid "NEW_USER_PLEASE_CREATE_PASSWORD"
 msgstr "Bitte erstelle ein neues Passwort."
@@ -47,34 +47,34 @@ msgid "FORM_HEADER_PASSWORD"
 msgstr "Passwort:"
 
 msgid "FORM_PREFILL_PASSWORD"
-msgstr "Gebe dein Passwort hier ein..."
+msgstr "Gib dein Passwort hier ein..."
 
 msgid "FORM_WARNING_PASSWORD_TOO_SHORT"
-msgstr "Bitte gib ein Passwort an das länger als 8 Zeichen sind."
+msgstr "Stelle bitte sicher, dass das Passwort mehr als 8 Charaktere enthält."
 
 msgid "FORM_WARNING_PASSWORD_DISALLOWED_CHARS"
 msgstr "Dein Passwort kann diese Zeichen nicht enthalten:"
 
 msgid "FORM_LABEL_DONT_FORGET_PASSWORD"
-msgstr "Erinnerung: Mach eine Erinnerung für dein passwort und halte es geheim!"
+msgstr "Erstelle eine Notiz für dein Passwort, und halte es geheim!"
 
 msgid "FORM_HEADER_EMAIL"
 msgstr "Email (Optional):"
 
 msgid "FORM_PREFILL_EMAIL"
-msgstr "Gib deine Email hier an..."
+msgstr "Bitte deine Email hier eingeben."
 
 msgid "FORM_WARNING_EMAIL_INVALID"
-msgstr "Die Email ist nicht richtig."
+msgstr "Die eingegebene Email ist ungültig."
 
 msgid "EMAIL_ADDITION_SUGGESTED"
-msgstr "Die Email ist Optional aber du brauchst es damit wir falls du dein passwort vergisst eine Wiederherstellungs Email schicken können."
+msgstr "Die Eingabe der Email-Adresse ist optional, jedoch ist sie für Wiederherstellungs-Emails nötig, falls du dein Passwort vergessen hast."
 
 msgid "CONFIRM_INFO_CORRECT"
-msgstr "Bitte stell sicher das die Information ist correct."
+msgstr "Bitte stelle sicher, ob die eingegebene Information korrekt ist."
 
 msgid "NO_PLAINTEXT_PASSWORD_RECOVERY_IF_LOST"
-msgstr "Danach können wir dein Passwort nicht mehr wiederherstellen."
+msgstr "Hiernach können wir dein Passwort kein erneutes Mal wiederherstellen."
 
 msgid "BUTTON_CHANGE_PASSWORD"
 msgstr "Passort ändern"
@@ -83,25 +83,25 @@ msgid "FORM_HEADER_EMAIL_CONFIRM"
 msgstr "Email:"
 
 msgid "BUTTON_CHANGE_EMAIL"
-msgstr "Email Adresse umändern"
+msgstr "Email-Adresse ändern"
 
 msgid "BUTTON_ADD_AN_EMAIL_ADDRESS"
-msgstr "Email adresse hinzufügen"
+msgstr "Email-Adresse hinzufügen"
 
 msgid "BUTTON_SUBMIT"
 msgstr "Einreichen"
 
 msgid "PLEASE_ENTER_PASSWORD_TO_SIGN_IN"
-msgstr "Bitte gib dein Passwort an um dich einzuloggen"
+msgstr "Bitte dein Passwort eingeben, um dich einzuloggen"
 
 msgid "LOGIN_FORM_PREFILL_PASSWORD"
 msgstr "Passwort eingeben"
 
 msgid "INCORRECT_PASSWORD_ATTEMPTS_FORMAT"
-msgstr "Incorrecte passwörter: %s"
+msgstr "Inkorrekte Passwörter: %s"
 
 msgid "REGISTRATION_ERROR_BAD_EMAIL"
-msgstr "Die Email die du angegeben ist nicht zulässig."
+msgstr "Die von dir angegebene Email-Adresse ist nicht zulässig."
 
 msgid "REGISTRATION_ERROR_BAD_PASSWORD"
 msgstr "Dieses Passwort ist nicht zulässig."
@@ -113,25 +113,25 @@ msgid "REGISTRATION_ERROR_PASSWORD_ALREADY_SET"
 msgstr "Passwort wurde schon eingestellt."
 
 msgid "NEW_USER_THANKS_FOR_REGISTRATION"
-msgstr "Willkommen in Sudomemo!"
+msgstr "Willkommen auf Sudomemo!"
 
 msgid "RETURNING_USER_THANKS_FOR_REGISTRATION"
-msgstr "Willkommen zurück! Danke dass du deine login information einzustellen."
+msgstr "Willkommen zurück! Vielen Dank für deine Registrierung!"
 
 msgid "BUTTON_SIGN_IN_TO_SUDOMEMO"
-msgstr "In Sudomemo einloggen"
+msgstr "Auf Sudomemo einloggen"
 
 msgid "LOGIN_FAILED"
 msgstr "Login fehlgeschlagen."
 
 msgid "LOGIN_FAILED_REOPEN_FLIPNOTE_STUDIO"
-msgstr "Login fehlgeschlagen. Starte Flipnote Studio neu."
+msgstr "Login fehlgeschlagen. Bitte starte Flipnote Studio erneut."
 
 msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE1"
-msgstr "Die Flipnote Datei ist beschädigt."
+msgstr "Die Flipnote-Datei ist beschädigt."
 
 msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE2"
-msgstr "Versuche es erneut zu senden."
+msgstr "Versuche, sie erneut zu senden."
 
 msgid "LOGIN_FAILED_BANNED_LINE1"
 msgstr "Du wurdest von Sudomemo gebannt."
@@ -143,8 +143,7 @@ msgid "CREATORS_ROOM_SHIM_WELCOME"
 msgstr "Willkommen!"
 
 msgid "CREATORS_ROOM_SHIM_PLEASE_LOGIN"
-msgstr "Willkommen zu Sudomemo! Melde dich an um fortzufahren."
+msgstr "Willkommen auf Sudomemo! Melde dich an um fortzufahren."
 
 msgid "NEW_USER_INTRO_POST_INTRO_CHANNEL"
-msgstr "When you're ready, go ahead and introduce yourself in our Introduction channel, under the Personal category."
-
+msgstr "Wenn du bereit bist, gib dich der Welt im Vorstelleungs-Kanal in der Personal-Kategorie preis."

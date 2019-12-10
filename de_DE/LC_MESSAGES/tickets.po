@@ -1,133 +1,131 @@
 # Code Redemption
 
 msgid "REDEEM_CODE"
-msgstr "Redeem Code"
+msgstr "Code einlösen"
 
 msgid "ENTER_CODE_TO_REDEEM"
-msgstr "Enter the code you'd like to redeem below."
+msgstr "Gib den einzulösenden Code hier unten ein."
 
 msgid "CODE_ALREADY_USED"
-msgstr "The code you entered has already been used."
+msgstr "Der eingegebene Code wurde bereits benutzt."
 
 msgid "CODE_INVALID"
-msgstr "The code you entered is invalid."
+msgstr "Der eingegebene Code ist ungültig."
 
 msgid "CODE_NONEXISTING_OR_EXPIRED"
-msgstr "The code you entered doesn't exist or has expired."
+msgstr "Der eingegebene Code existiert entweder nicht oder ist abgelaufen."
 
 msgid "LOGIN_REQUIRED_REDEEM_CODE"
-msgstr "You must be logged in to redeem a code."
+msgstr "Du musst angemelded sein, um einen Code einzulösen."
 
 # Ticket delivery
 
 msgid "YOU_GOT_A_TICKET"
-msgstr "You got a ticket!"
+msgstr "Du hast ein Ticket erhalten!"
 
 msgid "CONTINUE"
-msgstr "Continue"
+msgstr "Weiter"
 
 # Inventory
 
 msgid "INVENTORY"
-msgstr "Inventory"
+msgstr "Inventar"
 
 msgid "USE_ITEM"
-msgstr "Use"
+msgstr "Benutzen"
 
 msgid "INVENTORY_IS_EMPTY"
-msgstr "Your inventory is empty."
+msgstr "Dein Inventar ist leer."
 
 # Ticket redemption
 
 msgid "TICKET_REDEEM_WIN_FORMAT"
-msgstr "You redeemed the %s!"
+msgstr "%s wurde eingelöst!"
 
 msgid "TICKET_REDEEM_LOSE_FORMAT"
-msgstr "You redeemed the %s, but..."
+msgstr "%s wurde eingelöst, aber..."
 
 msgid "TICKET_REDEEM_NO_PRIZES"
-msgstr "You didn't win anything. Sorry!"
+msgstr "Du hast nichts gewonnen. Schade!"
 
 msgid "COLOR_STARS"
-msgstr "Color Stars"
+msgstr "Farbene Sterne"
 
 msgid "CREATORS_ROOM_THEME"
-msgstr "Creator's Room Theme"
+msgstr "Ersteller-Raum-Kulisse"
 
 msgid "SUDOMEMO_CITIZENSHIP"
-msgstr "Sudomemo Citizenship"
+msgstr "Sudomemo-Bürgerschaft"
 
 msgid "THEME_AVAILABLE_FOR_USE"
-msgstr "You can now use this theme in your Creator's Room!"
+msgstr "Du kannst diese Kulisse nun in deinem Ersteller-Raum anwenden!"
 
 msgid "SUDOMEMO_PLUS"
 msgstr "Sudomemo Plus"
 
 msgid "SUDOMEMO_PLUS_FORMAT"
-msgstr "You received %s days worth of Sudomemo Plus!"
+msgstr "Du hast %s Tage Sudomemo Plus erhalten!"
 
 msgid "SUDOMEMO_PLUS_BALANCE_FORMAT"
-msgstr "Balance: %s days"
+msgstr "Kontostand: %s Tage"
 
 # Each ticket type will have a name and a description 
 
 msgid "TICKET_NAME_demo_ticket"
-msgstr "Demo Ticket"
+msgstr "Demo-Ticket"
 
 msgid "TICKET_DESC_demo_ticket"
-msgstr "Obviously, this is the description for the demo ticket."
+msgstr "Dies ist tatsächlich die Beschreibung des Demo-Tickets."
 
 msgid "TICKET_NAME_regular_ticket"
-msgstr "Regular Ticket"
+msgstr "Normales Ticket"
 
 msgid "TICKET_DESC_regular_ticket"
-msgstr "Thank you for using Sudomemo!"
+msgstr "Vielen Dank, dass du Sudomemo nutzt!"
 
 msgid "TICKET_NAME_twitter_promo_ticket"
-msgstr "Twitter Promo Ticket"
+msgstr "Twitter-Promo-Ticket"
 
 msgid "TICKET_DESC_twitter_promo_ticket"
-msgstr "Thanks for following the Sudomemo Twitter!"
+msgstr "Vielen Dank, dass du Sudomemo auf Twitter folgst!"
 
 msgid "TICKET_NAME_instagram_promo_ticket"
-msgstr "Instagram Promo Ticket"
+msgstr "Instagram-Promo-Ticket"
 
 msgid "TICKET_DESC_instagram_promo_ticket"
-msgstr "Thanks for following the Sudomemo Instagram!"
+msgstr "Vielen Dank, dass du Sudomemo auf Instagram folgst!"
 
 msgid "TICKET_NAME_weekly_topic_winner_ticket"
-msgstr "Weekly Topic Winner Ticket"
+msgstr "Woche-Gewinner-Ticket"
 
 msgid "TICKET_DESC_weekly_topic_winner_ticket"
-msgstr "Congratulations on winning the Sudomemo Weekly Topic!"
+msgstr "Glückwunsch zum Gewinn des Wochen-Themas auf Sudomemo!"
 
 msgid "TICKET_NAME_birthday_ticket"
-msgstr "Birthday Ticket"
+msgstr "Geburtstags-Ticket"
 
 msgid "TICKET_DESC_birthday_ticket"
-msgstr "Happy Birthday!"
+msgstr "Alles Gute!"
 
 msgid "TICKET_NAME_love_anniversary_ticket"
-msgstr "Anniversary Ticket"
+msgstr "Jubiläums-Ticket"
 
 # The last character of this message is the DSi symbol for a heart. Don't remove it.
 msgid "TICKET_DESC_love_anniversary_ticket" 
-msgstr "Happy Anniversary "
+msgstr "Alles Gute zum Jubiläum! "
 
 # Sudomemo Plus
 msgid "TICKET_NAME_one_month_plus_ticket"
-msgstr "Plus Ticket (One Month)"
+msgstr "Plus-Ticket (1 Monat)"
 
 msgid "TICKET_DESC_one_month_plus_ticket"
-msgstr "This ticket will give you one month of Sudomemo Plus!"
+msgstr "Dieses Ticket gewährt dir einen Monat Sudomemo Plus!"
 
 msgid "TICKET_NAME_one_year_plus_ticket"
-msgstr "Plus Ticket (One Year)"
+msgstr "Plus-Ticket (1 Jahr)"
 
 msgid "TICKET_DESC_one_year_plus_ticket"
-msgstr "This ticket will give you one year of Sudomemo Plus!"
-
+msgstr "Dieses Ticket gewährt dir ein Jahr Sudomemo Plus!"
 
 msgid "DONT_HAVE_ANY_TO_USE"
-msgstr "You don't have any of that item to use."
-
+msgstr "Du hast kein Item, welches du nutzen könntest."

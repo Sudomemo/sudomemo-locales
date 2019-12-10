@@ -2,10 +2,10 @@ msgid "COMMENT_DETAILS"
 msgstr "Kommentar-Details"
 
 msgid "MESSAGE_DETAILS"
-msgstr "Nachricht-Details"
+msgstr "Nachrichten-Details"
 
 msgid "AUTHOR"
-msgstr "Author"
+msgstr "Autor"
 
 msgid "COMMENT_BY_FORMAT"
 msgstr "Kommentar von %s"
@@ -20,13 +20,13 @@ msgid "FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote von %s"
 
 msgid "COMMENT_ID"
-msgstr "Kommentar ID"
+msgstr "Kommentar-ID"
 
 msgid "MESSAGE_ID"
-msgstr "Nachricht ID"
+msgstr "Nachrichten-ID"
 
 msgid "CHAT_COMMENT_ID"
-msgstr "Chat-Kommentar ID"
+msgstr "Chat-Kommentar-ID"
 
 msgid "TIMESTAMP"
 msgstr "Zeitstempel"
@@ -35,7 +35,7 @@ msgid "POSTED_TO"
 msgstr "Hochgeladen zu"
 
 msgid "PRIVATE_CONVERSATION"
-msgstr "Private Konversation"
+msgstr "Privatunterhaltung"
 
 msgid "REPORT_CONTENT"
 msgstr "Melden"
