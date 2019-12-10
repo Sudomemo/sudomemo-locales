@@ -1,11 +1,11 @@
 msgid "FLIPNOTE_OPTIONS"
-msgstr "Flipnote Options"
+msgstr "Flipnote-Optionen"
 
 msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
-msgstr "You must be logged in to view this page."
+msgstr "Du musst angemeldet sein, um diese Seite zu sehen."
 
 msgid "HEADER_OPTION"
-msgstr "Option"
+msgstr "Optionen"
 
 msgid "HEADER_STATUS"
 msgstr "Status"
@@ -14,41 +14,41 @@ msgid "OPTION_NAME_SMOOTH"
 msgstr "Smoothing"
 
 msgid "OPTION_DESC_SMOOTH"
-msgstr "Lines, curves, and edges are smoothed for a more natural look on Sudomemo Theatre."
+msgstr "Linien, Kurven und Kanten werden in Sudomemo Theatre abgerundet, um einen natürlicheren Effekt wiederzugeben."
 
 msgid "FLIPNOTE_URL_IS"
-msgstr "Flipnote URL:"
+msgstr "Flipnote-URL:"
 
 msgid "ENABLE_SMOOTHING"
-msgstr "Enable smoothing"
+msgstr "Smoothing einschalten"
 
 msgid "DISABLE_SMOOTHING"
-msgstr "Disable smoothing"
+msgstr "Smoothing ausschalten"
 
 msgid "ON"
-msgstr "On"
+msgstr "Ein"
 
 msgid "OFF"
-msgstr "Off"
+msgstr "Aus"
 
 msgid "CITIZENSHIP_REQUIRED"
-msgstr "You'll need Sudomemo Citizenship to use this feature."
+msgstr "Du benötigst eine Sudomemo-Bürgerschaft, um dieses Feature zu nutzen."
 
 msgid "PLUS_REQUIRED"
-msgstr "You'll need Sudomemo Plus to use this feature."
+msgstr "Du benötigst Sudomemo Plus, um dieses Feature zu nutzen."
 
 msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
-msgstr "Tap on an option's status to view or change it."
+msgstr "Tippe den Status einer Option an, um sie zu verwalten."
 
 msgid "OPTION_NAME_FORCE_44K_BITRATE"
-msgstr "Enhanced audio"
+msgstr "Audio-Korrektur"
 
 msgid "OPTION_DESC_FORCE_44K_BITRATE"
-msgstr "Sudomemo will try to make your audio sound crisper and cleaner for Sudomemo Theatre."
+msgstr "Sudomemo wird versuchen, Audio von Flipnotes klarer und sauberer über Sudomemo Theatre abzuspielen."
 
 msgid "ENABLE_AUDIO_ENHANCEMENT"
-msgstr "Enable audio enhancement"
+msgstr "Audioverbesserung einschalten"
 
 msgid "DISABLE_AUDIO_ENHANCEMENT"
-msgstr "Disable audio enhancement"
+msgstr "Audioverbesserung ausschalten"
 

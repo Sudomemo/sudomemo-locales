@@ -1,5 +1,5 @@
 msgid "LOGIN_REQUIRED_TO_MANAGE_BLOCKS"
-msgstr "Du musst eingeloggt sein um die blockierten Benutzer zu bearbeiten."
+msgstr "Du musst angemeldet sein, um blockierte Benutzer zu bearbeiten."
 
 msgid "NO_USERS_BLOCKED"
 msgstr "Du hast keine Benutzer blockiert."
@@ -8,52 +8,52 @@ msgid "BLOCKED_USERS"
 msgstr "Blockierte Benutzer"
 
 msgid "BLOCK_USER"
-msgstr "Benutzer Blockieren"
+msgstr "Benutzer blockieren"
 
 msgid "COMMENT_BLOCK_IS_MUTUAL"
-msgstr "Wenn du einmal einen Benutzer blockiert hast, werdet ihr nicht mehr in der lage sein eure flipnotes zu kommentieren."
+msgstr "Wenn du einmal einen Benutzer blockiert hast, könnt ihr auf den Flipnotes des jeweils Anderen keine Kommentare senden."
 
 msgid "USER_HAS_BEEN_BLOCKED"
 msgstr "Dieser Benutzer wurde blockiert."
 
 msgid "IF_YOU_WISH_TO_UNBLOCK"
-msgstr "Wenn du jemals wieder einen Benutzer entblockieren möchtest, kannst du ihn in deimen Creators Room unter dein Blockierte-Benutzer-Menü entblockieren."
+msgstr "Wenn du einen Benutzer jedoch wieder entblocken möchtest, kannst du ihn in deinem Ersteller-Raum unter dein Blockierte-Benutzer-Menü entblocken."
 
 msgid "CONFIRM_BLOCK"
 msgstr "Blockieren bestätigen"
 
 msgid "USER_ALREADY_BLOCKED"
-msgstr "Du hast diesen Benutzer schon blockiert. Du kannst ihn in deimen Creators Room unter den Blockierte-Benutzer-Menü entblockieren, aber du musst 24 Stunden warten bis du sie wieder blockieren kannst."
+msgstr "Du hast diesen Benutzer schon blockiert. Du kannst ihn in deinem Ersteller-Raum unter Blockierte Benutzer entblocken. Du musst aber 24 Stunden warten, bis du ihn wieder blockieren kannst."
 
 msgid "ONE_DAY_WAIT_BEFORE_REBLOCK_FORMAT"
-msgstr "Du hast zuvor den Benutzer entblockiert. Du kannst ihn nicht nochmal bis %s blockieren"
+msgstr "Du hast diesen Benutzer kürzlich entblockt. Du kannst ihn nicht nochmal bis vor %s blockieren."
 
 msgid "UNBLOCK"
-msgstr "Entblockieren"
+msgstr "Entblocken"
 
 msgid "LOGIN_REQUIRED"
-msgstr "Du musst eingeloggt sein um diese Aktion auszuführen."
+msgstr "Du musst angemeldet sein, um diese Aktion auszuführen."
 
 msgid "TAP_BACK_TO_RETURN"
-msgstr "Tippe auf zurück um zu deinem Creators Room zurückzukehren"
+msgstr "Tippe auf Zurück, um zu deinem Ersteller-Raum zurückzukehren."
 
 msgid "UNBLOCK_USER"
-msgstr "Benutzer entblockieren"
+msgstr "Benutzer entblocken"
 
 msgid "CANNOT_UNBLOCK_NONBLOCKED_USER"
-msgstr "Du kannst den Benutzer nicht entblockieren da du ihn nicht blockiert hast."
+msgstr "Du kannst diesen Benutzer nicht entblocken, da du ihn momentan nicht blockierst."
 
 msgid "USER_HAS_BEEN_UNBLOCKED"
-msgstr "Dieser Benutzer wurde entblockiert."
+msgstr "Dieser Benutzer wurde entblockt."
 
 msgid "COMMENTING_ENABLED_AFTER_UNBLOCK"
-msgstr "Nachdem du diesen Benutzer entblockiert hast ksann er wieder deine Flipnotes kommentieren bis er dich blockiert hat."
+msgstr "Nachdem dieser Beutzer entblockt wurde, kann er wieder auf deinen Flipnotes kommentieren, wenn er dich nicht ebenfalls blockiert hat."
 
 msgid "UNBLOCK_WARNING_ONE_DAY_THRESHOLD"
-msgstr "Wenn du den Benutzer entblockierst dann musst du 24 Stunden warten um ihn wieder zu blockieren."
+msgstr "Hast du einen Benutzer entblockt, musst du 24 Stunden warten, bis du ihn wieder blockieren kannst."
 
 msgid "CONFIRM_UNBLOCK"
-msgstr "Entblockieren bestätigen"
+msgstr "Entblocken bestätigen"
 
 msgid "RECENTLY_UNBLOCKED_ONE_DAY_THRESHOLD"
-msgstr "Du hast diesen Benutzer schon entblockiert. Du musst 24 Stunden warten bis du ihn wieder blockieren kannst."
+msgstr "Du hast diesen Benutzer schon entblockt. Du musst 24 Stunden warten, bis du ihn wieder blockieren kannst."
