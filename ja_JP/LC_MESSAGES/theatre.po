@@ -78,7 +78,7 @@ msgid "CREATORS_ROOM"
 msgstr "マイルーム"
 
 msgid "DETAILS"
-msgstr "詳細"
+msgstr "作品情報"
 
 msgid "DESCRIPTION"
 msgstr "説明"
@@ -87,10 +87,10 @@ msgid "DOWNLOADS"
 msgstr "ダウンロード"
 
 msgid "FANS"
-msgstr "ファン"
+msgstr "この作者のファン"
 
 msgid "FEATURED"
-msgstr "特集"
+msgstr "注目順"
 
 msgid "FLIPNOTE_ID"
 msgstr "作品ID"
@@ -99,7 +99,7 @@ msgid "FLIPNOTE"
 msgstr "うごメモ"
 
 msgid "FLIPNOTES"
-msgstr "うごメモ"
+msgstr "作品"
 
 # This is short for Flipnote Studio ID. Leave it as "FSID" except in Japanese, where it should be うごメモID
 msgid "FSID"
@@ -116,13 +116,13 @@ msgid "HELP_CENTER"
 msgstr "ヘルプセンター"
 
 msgid "HOT"
-msgstr "流行作品"
+msgstr "話題順"
 
 msgid "INFO"
 msgstr "情報"
 
 msgid "LATEST"
-msgstr "新着作品"
+msgstr "新着順"
 
 msgid "MODERATOR"
 msgstr "運営"
@@ -144,7 +144,7 @@ msgid "PERMISSIONS"
 msgstr "同意する"
 
 msgid "POPULAR"
-msgstr "人気作品"
+msgstr "人気順"
 
 # Previous, abbreviated "Prev". Should be a maximum of 4 characters.
 msgid "PREV"
@@ -158,7 +158,7 @@ msgid "RELEASED"
 msgstr "新着順"
 
 msgid "RANK"
-msgstr "順位"
+msgstr "作者ランキング"
 
 msgid "RECENT"
 msgstr "新着順"
@@ -185,10 +185,10 @@ msgid "SIGN_OUT"
 msgstr "サインアウト"
 
 msgid "STARS"
-msgstr "スター"
+msgstr "スター数"
 
 msgid "TITLE"
-msgstr "タイトル"
+msgstr "作品名"
 
 
 # Referring to being the most popular (in terms of ranking)
@@ -202,7 +202,7 @@ msgstr "えつらん回数"
 # For MusicMatch
 
 msgid "SONG"
-msgstr "楽曲"
+msgstr "BGM"
 
 msgid "SUDOMEMO_PLUS"
 msgstr "スドメモプラス"
@@ -271,11 +271,11 @@ msgstr "アカウントを切り替える"
 
 ## Switch to dark mode
 msgid "NAVBAR_ITEM_LIGHTS_OFF"
-msgstr "ダークモード"
+msgstr "ダークテーマ"
 
 ## Switch to light mode
 msgid "NAVBAR_ITEM_LIGHTS_ON"
-msgstr "ライトモード"
+msgstr "ライトテーマ"
 
 # Front Page
 
@@ -324,7 +324,7 @@ msgid "WELCOME_BOX_USERNAME_HAPPY_FLIPNOTING"
 msgstr "、%s！ Happy Flipnoting！"
 
 msgid "WELCOME_BOX_WELCOME_TO"
-msgstr "ようこそ"
+msgstr "Welcome to"
 
 ### Another one of our taglines 
 
@@ -335,12 +335,12 @@ msgid "WELCOME_BOX_WHAT_IS_SUDOMEMO"
 msgstr "スドメモはNintendo DSiと3DSで作成したメモ帳のアニメーション、「うごメモ」を投稿して共有できるアニメーションサイトです。"
 
 msgid "WELCOME_BOX_HOW_TO_JOIN"
-msgstr "接続方法はこちら！"
+msgstr "設定方法はこちら"
 
 # Give, in the same sense as "Donate"
 
 msgid "WELCOME_BOX_GIVE"
-msgstr "援助"
+msgstr "支援"
 
 ## Flipnote sections
 
@@ -354,13 +354,13 @@ msgid "POPULAR_THIS_MONTH"
 msgstr "今月の人気作品"
 
 msgid "HOT_FLIPNOTES"
-msgstr "流行作品"
+msgstr "話題作品"
 
 msgid "RANDOM_FLIPNOTES"
 msgstr "ランダム"
 
 msgid "FEATURED_FLIPNOTES"
-msgstr "おすすめ作品"
+msgstr "注目作品"
 
 ## Flipnote by...
 
@@ -405,7 +405,7 @@ msgid "FRONTPAGE_FLIPNOTE_SPOTLIGHT"
 msgstr "注目作品"
 
 msgid "FRONTPAGE_TRENDING_CREATORS"
-msgstr "注目作者"
+msgstr "作者ランキング"
 
 # Flipnote View Page
 
@@ -508,7 +508,7 @@ msgstr "最近ついたコメント"
 
 ## channels that the user posts in most often
 msgid "PROFILE_USER_POSTS_IN"
-msgstr "%sさんが投稿したチャンネル"
+msgstr "投稿したチャンネル"
 
 # Search page
 
@@ -516,7 +516,7 @@ msgid "SEARCH_SUDOMEMO"
 msgstr "検索"
 
 msgid "SEARCH_PAGE_FORM_PLACEHOLDER"
-msgstr "ユーザー名、うごメモIDまたはチャンネル名を入力"
+msgstr "ユーザー名、うごメモIDまたはチャンネル名"
 
 msgid "SEARCH_PAGE_FUZZY_SEARCH_TIP"
 msgstr "ヒント：例えば「ÄuらtÎn」を探す場合には「Austin」と入力しても見つけることができます"
@@ -534,7 +534,7 @@ msgstr "まだ作品を投稿していません"
 # Edit Flipnote page
 
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
-msgstr "編集中のうごメモ："
+msgstr "編集中"
 
 msgid "DESCRIPTION_WILL_GO_HERE"
 msgstr "説明文はここに表示されます。"
@@ -559,10 +559,10 @@ msgid "EDIT_PAGE_FLIPNOTE_PREVIEW_NOTE"
 msgstr "注意：うごメモのプレビューは更新されません。"
 
 msgid "EDIT_PAGE_TITLE_AND_DESCRIPTION"
-msgstr "タイトルと説明文"
+msgstr "作品名と説明文"
 
 msgid "EDIT_PAGE_ENTER_A_TITLE"
-msgstr "タイトルを入力"
+msgstr "作品名を入力"
 
 msgid "EDIT_PAGE_ENTER_A_DESCRIPTION"
 msgstr "説明文を入力"
@@ -576,13 +576,13 @@ msgstr "文字、数字、記号を320文字まで使用できます。"
 ## MusicMatch
 
 msgid "EDIT_PAGE_ABOUT_MUSICMATCH_1"
-msgstr "スドメモMusicMatchは作品に使用された楽曲を自動で識別します！"
+msgstr "スドメモMusicMatchは作品に使用されたBGMを自動で識別します！"
 
 msgid "EDIT_PAGE_ABOUT_MUSICMATCH_2"
 msgstr "MusicMatchは誤った曲や複数の関係のない曲を表示する場合があります。その際は表示される曲名をここで修正することができます。"
 
 msgid "EDIT_PAGE_ABOUT_MUSICMATCH_3"
-msgstr "修正した曲情報は、うごメモから音源を検出するMusicMatchの精度向上にも活用されます"
+msgstr "修正した曲情報は、うごメモから音源を検出するMusicMatchの精度向上にも活用されます。"
 
 msgid "EDIT_PAGE_MUSICMATCH_NO_BGM"
 msgstr "この作品にはBGMがありません。"
