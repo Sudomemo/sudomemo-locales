@@ -190,7 +190,6 @@ msgstr "スター数"
 msgid "TITLE"
 msgstr "作品名"
 
-
 # Referring to being the most popular (in terms of ranking)
 msgid "TOP"
 msgstr "トップ"
@@ -276,7 +275,6 @@ msgstr "ダークテーマ"
 ## Switch to light mode
 msgid "NAVBAR_ITEM_LIGHTS_ON"
 msgstr "ライトテーマ"
-
 # Front Page
 
 ## Alt tags, aria labels
@@ -324,7 +322,7 @@ msgid "WELCOME_BOX_USERNAME_HAPPY_FLIPNOTING"
 msgstr "、%s！ Happy Flipnoting！"
 
 msgid "WELCOME_BOX_WELCOME_TO"
-msgstr "Welcome to"
+msgstr "ようこそ"
 
 ### Another one of our taglines 
 
