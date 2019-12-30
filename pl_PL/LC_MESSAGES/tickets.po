@@ -21,7 +21,7 @@ msgstr "Musisz się zalogować zanim wykorzystasz kod."
 # Ticket delivery
 
 msgid "YOU_GOT_A_TICKET"
-msgstr "Otrzymałeś los!"
+msgstr "Otrzymałeś bilet!"
 
 msgid "CONTINUE"
 msgstr "Kontynuuj"
@@ -72,43 +72,43 @@ msgstr "Balans: %s dni"
 # Each ticket type will have a name and a description 
 
 msgid "TICKET_NAME_demo_ticket"
-msgstr "Los demonstracyjny"
+msgstr "Bilet demonstracyjny"
 
 msgid "TICKET_DESC_demo_ticket"
-msgstr "Oczywyście, to jest opis dla losu demonstracyjnego."
+msgstr "Oczywyście, to jest opis dla biletu demonstracyjnego."
 
 msgid "TICKET_NAME_regular_ticket"
-msgstr "Zwyczajny los"
+msgstr "Zwyczajny bilet"
 
 msgid "TICKET_DESC_regular_ticket"
 msgstr "Dziękujemy za używanie Sudomemo!"
 
 msgid "TICKET_NAME_twitter_promo_ticket"
-msgstr "Los z promocji na Twitterze"
+msgstr "Bilet z promocji na Twitterze"
 
 msgid "TICKET_DESC_twitter_promo_ticket"
 msgstr "Dziękujemy za obserwowanie Sudomemo na Twitterze!"
 
 msgid "TICKET_NAME_instagram_promo_ticket"
-msgstr "Los z promocji na Instagramie"
+msgstr "Bilet z promocji na Instagramie"
 
 msgid "TICKET_DESC_instagram_promo_ticket"
 msgstr "Dziękujemy za obserwowanie Sudomemo na Instagramie!"
 
 msgid "TICKET_NAME_weekly_topic_winner_ticket"
-msgstr "Los za wygraną w Cotygodniowym Temacie"
+msgstr "Bilet za wygraną w Temacie Tygodnia"
 
 msgid "TICKET_DESC_weekly_topic_winner_ticket"
-msgstr "Gratulujemy wygranej w Cotygodniowym Temacie Sudomemo!"
+msgstr "Gratulujemy wygranej w Temacie Tygodnia Sudomemo!"
 
 msgid "TICKET_NAME_birthday_ticket"
-msgstr "Urodzinowy los"
+msgstr "Urodzinowy bilet"
 
 msgid "TICKET_DESC_birthday_ticket"
 msgstr "Sto lat!"
 
 msgid "TICKET_NAME_love_anniversary_ticket"
-msgstr "Rocznicowy los"
+msgstr "Rocznicowy bilet"
 
 # The last character of this message is the DSi symbol for a heart. Don't remove it.
 msgid "TICKET_DESC_love_anniversary_ticket" 
@@ -116,16 +116,16 @@ msgstr "Wesołej rocznicy "
 
 # Sudomemo Plus
 msgid "TICKET_NAME_one_month_plus_ticket"
-msgstr "Los na Sudomemo Plus (Jeden miesiąc)"
+msgstr "Bilet na Sudomemo Plus (Jeden miesiąc)"
 
 msgid "TICKET_DESC_one_month_plus_ticket"
-msgstr "Ten los da ci jeden miesiąc Sudomemo Plus!"
+msgstr "Ten bilet da ci jeden miesiąc Sudomemo Plus!"
 
 msgid "TICKET_NAME_one_year_plus_ticket"
-msgstr "Los na Sudomemo Plus (Jeden rok)"
+msgstr "Bilet na Sudomemo Plus (Jeden rok)"
 
 msgid "TICKET_DESC_one_year_plus_ticket"
-msgstr "Ten los da ci jeden rok Sudomemo Plus!"
+msgstr "Ten bilet da ci jeden rok Sudomemo Plus!"
 
 msgid "DONT_HAVE_ANY_TO_USE"
 msgstr "Nie masz tego przedmiotu, więc nie możesz go użyć."

@@ -182,19 +182,19 @@ msgid "RANKING"
 msgstr "Ranking"
 
 msgid "TICKET_SECTION"
-msgstr "Losy"
+msgstr "Bilety"
 
 msgid "DRAW_REGULAR_TICKET"
-msgstr "Los"
+msgstr "Bilet"
 
 msgid "CAN_DRAW_TICKET_SUBTEXT"
-msgstr "Możesz użyć zwyczajnego losu! Możesz wygrać nagrodę."
+msgstr "Możesz użyć zwyczajnego biletu! Możesz wygrać nagrodę."
 
 msgid "INVENTORY"
 msgstr "Ekwipunek"
 
 msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
-msgstr "Możesz użyć kolejnego losu za: %s godzin(y) %s minut(y)."
+msgstr "Możesz użyć kolejnego biletu za: %s godzin(y) %s minut(y)."
 
 msgid "REDEEM"
 msgstr "Użyj"
