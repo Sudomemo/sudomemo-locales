@@ -721,3 +721,8 @@ msgstr "Nintendo 3DS"
 # See Flipnotes with the song <song name> by <band/artist name>
 msgid "BROWSE_SONG_YOU_ARE_BROWSING_SONG"
 msgstr "Flipnotes mit Song %s von %s durchsuchen"
+msgid "TICKET_NAME_ffotd_ticket"
+msgstr "First Flipnote of the Decade"
+
+msgid "TICKET_DESC_ffotd_ticket"
+msgstr "Congratulations! You posted the first Flipnote of the new decade!"
