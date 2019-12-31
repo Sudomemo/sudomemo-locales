@@ -53,14 +53,14 @@ msgid "LOGIN_REQUIRED_TO_REPORT_CONTENT"
 msgstr "Du måste vara inloggad för att rapportera innehåll."
 
 msgid "REPORT_FAILED_USER_BANNED"
-msgstr "Rapportering misslyckades: du är förhindrad från Sudomemo."
+msgstr "Rapportering misslyckades: du är förbjuden från Sudomemo."
 
 msgid "DUPLICATE_COMMENT_FAILED"
 msgstr "Denna kommentar har redan publicerats på Sudomemo."
 
 msgid "CONFIRM_EMAIL_BEFORE_REPORTING"
-msgstr "Please confirm your email before reporting content."
+msgstr "Var god bekräfta din e-postadress innan du rapporterar innehåll."
 
 msgid "THANKS_FOR_REPORTING"
-msgstr "We've received your report. Thanks for helping make Sudomemo a better place!"
+msgstr "Vi har mottagit din rapport, tack för att du hjälper till för ett tryggare Sudomemo!"
 
