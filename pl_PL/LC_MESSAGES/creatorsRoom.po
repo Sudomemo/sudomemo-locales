@@ -2,7 +2,7 @@ msgid "SEE_MORE"
 msgstr "Zobacz więcej..."
 
 msgid "STARRED_FLIPNOTES"
-msgstr "Starred Flipnotes"
+msgstr "Zagwiazdkowane Flipnotes"
 
 msgid "FAVORITE_USERS"
 msgstr "Ulubieni użytkownicy"
@@ -32,13 +32,13 @@ msgid "POSTED_CHATCOMMENTS"
 msgstr "Wiadomości na czacie"
 
 msgid "FEATURE_USABILITY"
-msgstr "Feature Usability"
+msgstr "Dostępność funkcji"
 
 msgid "USABLE"
-msgstr "Usable"
+msgstr "Dostępna"
 
 msgid "NOT_USABLE"
-msgstr "Not Usable"
+msgstr "Niedostępna"
 
 msgid "SUDOMEMO_THEATRE_URL"
 msgstr "Link na Sudomemo Theatre"
@@ -80,10 +80,10 @@ msgid "BLOCK_COMMENTS_LINK"
 msgstr "Zablokuj"
 
 msgid "USABILITY_USABLE"
-msgstr "Usable"
+msgstr "Dostępna"
 
 msgid "USABILITY_NOT_USABLE"
-msgstr "Not Usable"
+msgstr "Niedostępna"
 
 msgid "HEADER_FOLLOWERS"
 msgstr "Obserwujący"
@@ -146,7 +146,7 @@ msgid "BLOCKED_USERS"
 msgstr "Zablokowani użytkownicy"
 
 msgid "VIEW"
-msgstr "Pokać"
+msgstr "Pokaż"
 
 msgid "FAN_COUNT_FORMAT"
 msgstr "Fani: %s"
