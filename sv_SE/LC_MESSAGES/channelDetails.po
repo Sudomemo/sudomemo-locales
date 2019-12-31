@@ -32,7 +32,7 @@ msgid "NO_BLANK_FLIPNOTES_ALLOWED"
 msgstr "Du kan inte publicera en tom Flipnote."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Var god bekräfta din e-postadress innan du laddar upp."
+msgstr "Var god bekräfta din e-postadress innan du publicerar."
 
 msgid "NO_POSTS_WHILE_MUTED"
-msgstr "Du får inte ladda upp medan du är dämpad."
+msgstr "Du får inte publicera medan du är dämpad."
