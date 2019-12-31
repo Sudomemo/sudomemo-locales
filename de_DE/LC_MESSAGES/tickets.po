@@ -129,3 +129,10 @@ msgstr "Dieses Ticket gewährt dir ein Jahr Sudomemo Plus!"
 
 msgid "DONT_HAVE_ANY_TO_USE"
 msgstr "Du hast kein Item, welches du nutzen könntest."
+
+msgid "TICKET_NAME_ffotd_ticket"
+msgstr "First Flipnote of the Decade"
+
+msgid "TICKET_DESC_ffotd_ticket"
+msgstr "Congratulations! You posted the first Flipnote of the new decade!"
+

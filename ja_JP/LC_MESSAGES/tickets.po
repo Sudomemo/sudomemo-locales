@@ -131,3 +131,10 @@ msgstr "1年分Sudomemo Plusをご利用いただけるチケットです!"
 msgid "DONT_HAVE_ANY_TO_USE"
 msgstr "You don't have any of that item to use."
 
+
+msgid "TICKET_NAME_ffotd_ticket"
+msgstr "First Flipnote of the Decade"
+
+msgid "TICKET_DESC_ffotd_ticket"
+msgstr "Congratulations! You posted the first Flipnote of the new decade!"
+
