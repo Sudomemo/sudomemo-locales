@@ -8,28 +8,28 @@ msgid "SUDOMEMO_THEATRE"
 msgstr "Sudomemo Theatre"
 
 msgid "SUDOMEMO_NEWS"
-msgstr "Sudomemo News"
+msgstr "Wiadomości Sudomemo"
 
 msgid "SUDOMEMO_SHOP"
-msgstr "Sudomemo Shop"
+msgstr "Sklep Sudomemo"
 
 msgid "SUDOMEMO_SHOP_META_DESCRIPTION"
-msgstr "Sudomemo Shop: Sudomemo merch, tickets for Plus and Stars, and other fun things!"
+msgstr "Sklep Sudomemo: Gadżety Sudomemo, bilety na Plus i gwiazdki i inne fajne rzeczy!"
 
 msgid "DEFAULT_META_DESCRIPTION"
-msgstr "Sudomemo: Share your Flipnotes with the world! For Nintendo DSi and 3DS."
+msgstr "Sudomemo: Podziel się swoimi Flipnotes z całym światem! Dla Nintendo DSi i 3DS."
 
 msgid "FRONTPAGE_TITLE_TAGLINE"
-msgstr "Sudomemo: Flipnote Hatena is back!"
+msgstr "Sudomemo: Flipnote Hatena wróciło!"
 
 msgid "VIEWPAGE_COMMENT_TEXTBOX"
-msgstr "Comment entry text box"
+msgstr "Miejsce na wpisanie komentarza"
 
 ## "Username - 3 fans, 25 Flipnotes on Sudomemo"
 ## Not going to bother making plural variants
 
 msgid "PROFILE_DEFAULT_DESCRIPTION"
-msgstr "%s - %s fans, %s Flipnotes on Sudomemo"
+msgstr "%s - %s fanów, %s Flipnotes na Sudomemo"
 
 # Date-time formats
 # You can adjust the way dates display to match your region better.
@@ -50,50 +50,50 @@ msgstr "F jS, Y h:i:s"
 # Very common terms and one-word translations
 
 msgid "ARTIST"
-msgstr "Artist"
+msgstr "Artysta"
 
 # Back, in the sense of navigation
 msgid "BACK"
-msgstr "Back"
+msgstr "Powrót"
 
 msgid "CATEGORY"
-msgstr "Category"
+msgstr "Kategoria"
 
 msgid "CHANNEL"
-msgstr "Channel"
+msgstr "Kanał"
 
 msgid "CHANNELS"
-msgstr "Channels"
+msgstr "Kanały"
 
 msgid "COMMENTS"
-msgstr "Comments"
+msgstr "Komentarze"
 
 msgid "CREATOR"
-msgstr "Creator"
+msgstr "Twórca"
 
 msgid "CREATORS"
-msgstr "Creators"
+msgstr "Twórcy"
 
 msgid "CREATORS_ROOM"
-msgstr "Creator's Room"
+msgstr "Pokój Twórcy"
 
 msgid "DETAILS"
-msgstr "Details"
+msgstr "Informacje"
 
 msgid "DESCRIPTION"
-msgstr "Description"
+msgstr "Opis"
 
 msgid "DOWNLOADS"
-msgstr "Downloads"
+msgstr "Pobrania"
 
 msgid "FANS"
-msgstr "Fans"
+msgstr "Fani"
 
 msgid "FEATURED"
-msgstr "Featured"
+msgstr "Wyróżnione"
 
 msgid "FLIPNOTE_ID"
-msgstr "Flipnote ID"
+msgstr "ID Flipnote"
 
 msgid "FLIPNOTE"
 msgstr "Flipnote"
@@ -110,85 +110,85 @@ msgid "FLIPNOTE_STUDIO_ID"
 msgstr "Flipnote Studio ID"
 
 msgid "GENRE"
-msgstr "Genre"
+msgstr "Gatunek"
 
 msgid "HELP_CENTER"
-msgstr "Help Center"
+msgstr "Centrum pomocy"
 
 msgid "HOT"
-msgstr "Hot"
+msgstr "Gorące"
 
 msgid "INFO"
-msgstr "Info"
+msgstr "Informacje"
 
 msgid "LATEST"
-msgstr "Latest"
+msgstr "Najnowsze"
 
 msgid "MODERATOR"
 msgstr "Moderator"
 
 msgid "MORE"
-msgstr "More"
+msgstr "Więcej"
 
 msgid "MUSICMATCH"
 msgstr "MusicMatch"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "Następne"
 
 msgid "NEWS"
-msgstr "News"
+msgstr "Wiadomości"
 
 # Channel permissions: Is posting Flipnotes to a channel allowed or not?
 msgid "PERMISSIONS"
-msgstr "Permissions"
+msgstr "Uprawnienia"
 
 msgid "POPULAR"
-msgstr "Popular"
+msgstr "Popularne"
 
 # Previous, abbreviated "Prev". Should be a maximum of 4 characters.
 msgid "PREV"
-msgstr "Prev"
+msgstr "Pprz"
 
 msgid "RANDOM"
-msgstr "Random"
+msgstr "Losowe"
 
 # Referring to a release date/publishing date
 msgid "RELEASED"
-msgstr "Released"
+msgstr "Wydane"
 
 msgid "RANK"
-msgstr "Rank"
+msgstr "Ranga"
 
 msgid "RECENT"
-msgstr "Recent"
+msgstr "Świeże"
 
 msgid "SAVE"
-msgstr "Save"
+msgstr "Zapisz"
 
 msgid "SAVING"
-msgstr "Saving"
+msgstr "Zapisywanie"
 
 msgid "SEARCH"
-msgstr "Search"
+msgstr "Szukaj"
 
 msgid "SHARE"
-msgstr "Share"
+msgstr "Udostępnij"
 
 msgid "SIGN_UP"
-msgstr "Sign Up"
+msgstr "Zarejestruj się"
 
 msgid "SIGN_IN"
-msgstr "Sign in"
+msgstr "Zaloguj się"
 
 msgid "SIGN_OUT"
-msgstr "Sign out"
+msgstr "Wyloguj się"
 
 msgid "STARS"
-msgstr "Stars"
+msgstr "Gwiazdki"
 
 msgid "TITLE"
-msgstr "Title"
+msgstr "Tytuł"
 
 
 # Referring to being the most popular (in terms of ranking)
@@ -197,12 +197,12 @@ msgstr "Top"
 
 # Number of times something has been viewed, or played.
 msgid "VIEWS"
-msgstr "Views"
+msgstr "Wyświetleń"
 
 # For MusicMatch
 
 msgid "SONG"
-msgstr "Song"
+msgstr "Piosenka"
 
 msgid "SUDOMEMO_PLUS"
 msgstr "Sudomemo Plus"
@@ -210,34 +210,34 @@ msgstr "Sudomemo Plus"
 # Navbar
 
 msgid "NAVBAR_TOGGLE_NAVIGATION"
-msgstr "Toggle navigation"
+msgstr "Otwórz/zamknij nawigację"
 
 msgid "NAVBAR_ITEM_SHOP"
-msgstr "Shop"
+msgstr "Sklep"
 
 msgid "NAVBAR_ITEM_HELP"
-msgstr "Help"
+msgstr "Pomoc"
 
 msgid "NAVBAR_ITEM_USEFUL_LINKS"
-msgstr "Useful Links"
+msgstr "Pomocne linki"
 
 msgid "NAVBAR_ITEM_DISCORD"
 msgstr "Discord"
 
 msgid "NAVBAR_ITEM_HOW_TO_JOIN"
-msgstr "How to Join"
+msgstr "Jak dołączyć"
 
 msgid "NAVBAR_ITEM_CONNECTION_HELP"
-msgstr "Connection Help"
+msgstr "Pomoc z łącznością"
 
 msgid "NAVBAR_ITEM_FAQS"
-msgstr "FAQs"
+msgstr "FAQ"
 
 msgid "NAVBAR_ITEM_TERMS"
-msgstr "Terms of Use"
+msgstr "Regulamin"
 
 msgid "NAVBAR_ITEM_CONTACT_US"
-msgstr "Contact Us"
+msgstr "Skontaktuj się z nami"
 
 msgid "NAVBAR_ITEM_TWITTER"
 msgstr "Twitter"
@@ -252,10 +252,10 @@ msgid "NAVBAR_ITEM_EMAIL"
 msgstr "Email"
 
 msgid "NAVBAR_ITEM_OTHER"
-msgstr "Other"
+msgstr "Inne"
 
 msgid "NAVBAR_ITEM_CREDITS"
-msgstr "Credits"
+msgstr "Zasługi"
 
 msgid "NAVBAR_ITEM_ADMIN"
 msgstr "Admin"
@@ -264,140 +264,140 @@ msgid "NAVBAR_ITEM_SUDOMEMO_ADMIN"
 msgstr "Sudomin"
 
 msgid "NAVBAR_ITEM_REPORTED_FLIPNOTES"
-msgstr "Reported Flipnotes"
+msgstr "Zgłoszone Flipnotes"
 
 msgid "NAVBAR_ITEM_SWITCH_TO_USER_ACCOUNT"
-msgstr "Switch to user account"
+msgstr "Przejdź do konta użytkownika"
 
 ## Switch to dark mode
 msgid "NAVBAR_ITEM_LIGHTS_OFF"
-msgstr "Lights off"
+msgstr "Zgaś światła"
 
 ## Switch to light mode
 msgid "NAVBAR_ITEM_LIGHTS_ON"
-msgstr "Lights on"
+msgstr "Włącz światła"
 
 # Front Page
 
 ## Alt tags, aria labels
 
 msgid "ALT_WEEKLY_TOPIC_BANNER"
-msgstr "Banner advertising the Weekly Topic"
+msgstr "Baner promujący Temat Tygodnia"
 
 msgid "ALT_USER_PROFILE_PICTURE"
-msgstr "%s's profile picture"
+msgstr "%s's zdjęcie profilowe"
 
 msgid "ALT_DRAWN_COMMENT_BY_USER"
-msgstr "Drawn comment by %s"
+msgstr "Rysowany komentarz stworzony przez %s"
 
 ## Welcome to Sudomemo Box
 
 msgid "WELCOME_BOX_GREET_ADMIN"
-msgstr "Welcome back, %s"
+msgstr "Witaj spowrotem, %s"
 
 msgid "WELCOME_BOX_YOU_ARE_ADMIN"
-msgstr "You are logged in as an Administrator."
+msgstr "Jesteś zalogowany jako Administrator."
 
 msgid "WELCOME_BOX_OPEN_SUDOMIN"
-msgstr "Open Sudomin"
+msgstr "Otwórz Sudomin"
 
 ### Our welcome box can change it's greeting, depending on time of day.
 ### It is displayed like this:
 ### Good afternoon, User! Happy Flipnoting!
 
 msgid "WELCOME_BOX_DEFAULT_GREETING"
-msgstr "Hello"
+msgstr "Witaj"
 
 msgid "WELCOME_BOX_MORNING_GREETING"
-msgstr "Good morning"
+msgstr "Dzień dobry"
 
 msgid "WELCOME_BOX_AFTERNOON_GREETING"
-msgstr "Good afternoon"
+msgstr "Dzień dobry"
 
 msgid "WELCOME_BOX_EVENING_GREETING"
-msgstr "Good evening"
+msgstr "Dobry wieczór"
 
 ### "Happy Flipnoting!" is one of our brand catchphrases. "Flipnoting" refers to the act of creating or watching Flipnotes.
 ### Please don't translate "Flipnoting", except to Japanese where you could probably modify the word うごメモ.
 
 msgid "WELCOME_BOX_USERNAME_HAPPY_FLIPNOTING"
-msgstr ", %s! Happy Flipnoting!"
+msgstr ", %s! Wesołego Flipnoting!"
 
 msgid "WELCOME_BOX_WELCOME_TO"
-msgstr "Welcome to"
+msgstr "Witaj na"
 
 ### Another one of our taglines 
 
 msgid "WELCOME_BOX_SHARE_CREATIVITY_TAGLINE"
-msgstr "Share your creativity with the world!"
+msgstr "Podziel się swoją kreatywnością z całym światem!"
 
 msgid "WELCOME_BOX_WHAT_IS_SUDOMEMO"
-msgstr "Sudomemo is an animation site where people can share flipbook animations - called Flipnotes - created on and posted from the Nintendo DSi and 3DS."
+msgstr "Sudomemo to strona, na której użytkownicy mogą dzielić się animacjami - zwanymi Flipnotes - stworzonymi i wysłanymi za pomocą konsoli Nintendo DSi/3DS."
 
 msgid "WELCOME_BOX_HOW_TO_JOIN"
-msgstr "Learn how to Join!"
+msgstr "Dowiedz się jak dołączyć!"
 
 # Give, in the same sense as "Donate"
 
 msgid "WELCOME_BOX_GIVE"
-msgstr "Give"
+msgstr "Daj"
 
 ## Flipnote sections
 
 msgid "FLIPNOTE_LIST_RECALCULATING"
-msgstr "The rankings are currently being recalculated. Try reloading the page in a few moments."
+msgstr "Rankingi są aktualnie aktualizowane. Spróbuj odświeżyć tę stronę za chwilę."
 
 msgid "RECENT_FLIPNOTES"
-msgstr "Recent Flipnotes"
+msgstr "Najnowsze Flipnotes"
 
 msgid "POPULAR_THIS_MONTH"
-msgstr "Popular This Month"
+msgstr "Popularne w tym miesiącu"
 
 msgid "HOT_FLIPNOTES"
-msgstr "Hot Flipnotes"
+msgstr "Gorące Flipnotes"
 
 msgid "RANDOM_FLIPNOTES"
-msgstr "Random Flipnotes"
+msgstr "Losowe Flipnotes"
 
 msgid "FEATURED_FLIPNOTES"
-msgstr "Featured Flipnotes"
+msgstr "Wyróżnione Flipnotes"
 
 ## Flipnote by...
 
 msgid "FLIPNOTE_BY_FORMAT"
-msgstr "Flipnote by %s"
+msgstr "Flipnote stworzony przez %s"
 
 ## Comments section
 
 msgid "VIEWPAGE_COMMENT_WRITE_HERE"
-msgstr "Write here"
+msgstr "Pisz tutaj"
 
 msgid "VIEWPAGE_COMMENT_POST_BUTTON"
-msgstr "Post Comment"
+msgstr "Wyślij komentarz"
 
 msgid "VIEWPAGE_ADD_MODERATOR_COMMENT"
-msgstr "Add Moderator Comment"
+msgstr "Dodaj komentarz moderatora"
 
 msgid "VIEWPAGE_MODERATOR_COMMENT_WARNING"
-msgstr "Do not use this for personal comments."
+msgstr "Nie używaj tego do personalnych komentarzy."
 
 ### This is composed of two parts: SIGN_IN and TO_ADD_A_COMMENT
 ### SIGN_IN is a link to the login page, and TO_ADD_A_COMMENT is the part that comes after.
 ### It reads as follows: Sign in to add a comment
 
 msgid "TO_ADD_A_COMMENT"
-msgstr "to add a comment"
+msgstr "żeby dodać komentarz"
 
 ### When the Post Comment button is pressed, it changes to "Posting..." and then "Posted!" when complete.
 msgid "VIEWPAGE_COMMENT_POSTING"
-msgstr "Posting..."
+msgstr "Wysyłanie..."
 
 msgid "VIEWPAGE_COMMENT_POSTED"
-msgstr "Posted!"
+msgstr "Wysłano!"
 
 ### This can happen in cases of network failure or if the comment is rejected
 msgid "VIEWPAGE_COMMENT_FAILED"
-msgstr "Comment failed..."
+msgstr "Wysyłanie nie powiodło się..."
 
 ## Right sidebar
 
@@ -405,312 +405,312 @@ msgid "FRONTPAGE_FLIPNOTE_SPOTLIGHT"
 msgstr "Flipnote Spotlight"
 
 msgid "FRONTPAGE_TRENDING_CREATORS"
-msgstr "Trending Creators"
+msgstr "Trendujący twórcy"
 
 # Flipnote View Page
 
 msgid "EDIT_FLIPNOTE"
-msgstr "Edit Flipnote"
+msgstr "Edytuj Flipnote"
 
 msgid "REGION"
 msgstr "Region"
 
 # Comprising the continents of North and South America
 msgid "REGION_AMERICAS"
-msgstr "Americas"
+msgstr "Ameryki"
 
 msgid "REGION_EUROPE_AND_OCEANIA"
-msgstr "Europe and Oceania"
+msgstr "Europa i Oceania"
 
 msgid "REGION_JAPAN"
-msgstr "Japan"
+msgstr "Japonia"
 
 # Fallback region (this shouldn't happen)
 msgid "REGION_UNKNOWN"
-msgstr "Unknown"
+msgstr "Nieznany"
 
 msgid "SHARE_ON_FACEBOOK"
-msgstr "Share on Facebook"
+msgstr "Podziel się na Facebooku"
 
 msgid "SHARE_ON_TWITTER"
-msgstr "Share to Twitter"
+msgstr "Podziel się na Twitterze"
 
 msgid "SHARE_ON_TUMBLR"
-msgstr "Share on Tumblr"
+msgstr "Podziel się na Tumblr"
 
 msgid "SHARE_ON_REDDIT"
-msgstr "Share to Reddit"
+msgstr "Podziel się na Reddit"
 
 msgid "VIEWPAGE_SPINOFFS"
-msgstr "Spin-offs"
+msgstr "Spin-offy"
 
 ## MusicMatch
 
 ### Where the Flipnote's audio starts at in the song
 
 msgid "MUSICMATCH_AUDIO_OFFSET"
-msgstr "Starts at %s"
+msgstr "Zaczyna się na %s"
 
 msgid "MUSICMATCH_LISTEN_ON_YOUTUBE_MUSIC"
-msgstr "Listen on YouTube Music"
+msgstr "Posłuchaj na YouTube Music"
 
 msgid "MUSICMATCH_LISTEN_ON_SPOTIFY"
-msgstr "Listen on Spotify"
+msgstr "Posłuchaj na Spotify"
 
 msgid "MUSICMATCH_ABOUT"
-msgstr "About MusicMatch"
+msgstr "O MusicMatch"
 
 ## Original Flipnote / Spinoffs
 
 msgid "VIEWPAGE_ORIGINAL_FLIPNOTE"
-msgstr "Original Flipnote"
+msgstr "Oryginalny Flipnote"
 
 msgid "VIEWPAGE_ORIGINAL_FLIPNOTE_NOT_ON_SUDOMEMO"
-msgstr "The original Flipnote isn't on Sudomemo."
+msgstr "Oryginalny Flipnote nie jest na Sudomemo."
 
 # This shows as "by User" underneath the Flipnote thumbnail
 
 msgid "VIEWPAGE_RELATED_FLIPNOTE_BY"
-msgstr "by %s"
+msgstr "stworzony przez %s"
 
 # Creator's Room (Profile)
 
 msgid "FOLLOWS_YOU"
-msgstr "Follows You"
+msgstr "Obserwuje ciebie"
 
 msgid "FOLLOW_BACK"
-msgstr "Follow Back"
+msgstr "Obserwuj spowrotem"
 
 msgid "FOLLOWING"
-msgstr "Following"
+msgstr "Obserwuje"
 
 msgid "FOLLOW"
-msgstr "Follow"
+msgstr "Obserwuj"
 
 msgid "FOLLOWERS"
-msgstr "Followers"
+msgstr "Obserwujący"
 
 ## はてなID
 msgid "HATENA_ID"
 msgstr "Hatena ID"
 
 msgid "PROFILE_ABOUT_USERNAME"
-msgstr "About %s"
+msgstr "O %s"
 
 ## User's ★ are from:
 msgid "PROFILE_STAR_COUNTRY_HEADER"
-msgstr "%s's ★s are from:"
+msgstr "★ %s pochodzą z:"
 
 ## Recent comments on their Flipnotes
 
 msgid "PROFILE_RECENT_COMMENTS"
-msgstr "Recent comments"
+msgstr "Najnowsze komentarze"
 
 ## channels that the user posts in most often
 msgid "PROFILE_USER_POSTS_IN"
-msgstr "%s posts in..."
+msgstr "%s jest aktywny w..."
 
 # Search page
 
 msgid "SEARCH_SUDOMEMO"
-msgstr "Search Sudomemo"
+msgstr "Szukaj na Sudomemo"
 
 msgid "SEARCH_PAGE_FORM_PLACEHOLDER"
-msgstr "Username, FSID, or channel"
+msgstr "Nazwa użytkownika, FSID, lub kanał"
 
 msgid "SEARCH_PAGE_FUZZY_SEARCH_TIP"
-msgstr "Tip: You can enter things like 'Austin' and find results like 'ÄuらtÎn'"
+msgstr "Porada: możesz wpisać coś pokroju 'Austin' i znaleźć coś takiego jak 'ÄuらtÎn'"
 
 msgid "SEARCH_PAGE_NO_RESULTS_FOUND"
-msgstr "No results found."
+msgstr "Nic nie znaleziono."
 
 msgid "SEARCH_PAGE_TOO_MANY_MATCHED"
-msgstr "Your query matched too many creators - try something more specific."
+msgstr "Twoje zapytanie pokrywało się ze zbyt wieloma twórcami - spróbuj czegoś bardziej specyficznego."
 
 ## User hasn't posted any Flipnotes yet
 msgid "SEARCH_PAGE_NO_FLIPNOTES_YET"
-msgstr "No Flipnotes yet..."
+msgstr "Nie ma tu żadnych Flipnotes..."
 
 # Edit Flipnote page
 
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
-msgstr "You are editing this Flipnote:"
+msgstr "Edytujesz ten Flipnote:"
 
 msgid "DESCRIPTION_WILL_GO_HERE"
-msgstr "Your description will go here."
+msgstr "Twój opis pojawi się tutaj."
 
 msgid "COULD_NOT_SAVE_DETAILS"
-msgstr "Couldn't save details"
+msgstr "Nie można było zapisać informacji"
 
 msgid "PLUS_LEARN_MORE"
-msgstr "Learn more..."
+msgstr "Dowiedz się więcej..."
 
 msgid "EDIT_PAGE_SUDOMEMO_PLUS_REQUIRED"
-msgstr "You'll need Sudomemo Plus to use these features."
+msgstr "Potrzebujesz Sudomemo Plus by używać tych funkcji."
 
 # Flipnote smoothing
 msgid "EDIT_PAGE_PLUS_SMOOTHING"
-msgstr "Smoothing"
+msgstr "Wygładzanie"
 
 msgid "EDIT_PAGE_PLUS_AUDIO_ENHANCEMENT"
-msgstr "Audio Enhancement"
+msgstr "Ulepszenie dźwięku"
 
 msgid "EDIT_PAGE_FLIPNOTE_PREVIEW_NOTE"
-msgstr "Note: Flipnote preview does not update."
+msgstr "Uwaga: Podgląd Flipnote się nie aktualizuje."
 
 msgid "EDIT_PAGE_TITLE_AND_DESCRIPTION"
-msgstr "Title and Description"
+msgstr "Tytuł i opis"
 
 msgid "EDIT_PAGE_ENTER_A_TITLE"
-msgstr "Enter a title"
+msgstr "Wpisz tytuł"
 
 msgid "EDIT_PAGE_ENTER_A_DESCRIPTION"
-msgstr "Enter a description"
+msgstr "Wpisz opis"
 
 msgid "EDIT_PAGE_TITLE_TOOLTIP"
-msgstr "Letters, numbers, and symbols, maximum of 40 characters."
+msgstr "Litery, cyfry i symbole, maksymalnie 40 znaków."
 
 msgid "EDIT_PAGE_DESCRIPTION_TOOLTIP"
-msgstr "Letters, numbers, and symbols, maximum of 320 characters."
+msgstr "Litery, cyfry i symbole, maksymalnie 320 znaków."
 
 ## MusicMatch
 
 msgid "EDIT_PAGE_ABOUT_MUSICMATCH_1"
-msgstr "Sudomemo's MusicMatch listens to your Flipnote to find what music it uses!"
+msgstr "Sudomemo MusicMatch słucha twojego Flipnote by dowiedzieć się, jaki utwór jest w nim używany!"
 
 msgid "EDIT_PAGE_ABOUT_MUSICMATCH_2"
-msgstr "MusicMatch will sometimes find more than one potential song, or pick the wrong one. If this happens, you can update the displayed song here."
+msgstr "Czasami MusicMatch znajdzie więcej niż jedną potencjalną piosenkę, lub wybierze złą piosenkę. Jeżeli tak się stanie, możesz zaktualizować wyświetlany utwór tutaj."
 
 msgid "EDIT_PAGE_ABOUT_MUSICMATCH_3"
-msgstr "If you update the song, MusicMatch will learn from that information to better detect songs from Flipnote audio in the future."
+msgstr "Jeżeli zaktualizujesz utwór, MusicMatch nauczy się z tych informacji by lepiej wykrywać utwory z Flipnotes w przyszłości."
 
 msgid "EDIT_PAGE_MUSICMATCH_NO_BGM"
-msgstr "Your Flipnote does not have a background audio track."
+msgstr "Twój Flipnote nie ma ścieżki dźwiękowej."
 
 msgid "EDIT_PAGE_MUSICMATCH_UNMATCHED"
-msgstr "MusicMatch couldn't find any songs matching your Flipnote."
+msgstr "MusicMatch nie mogło znaleźć pasującego utworu do twojego Flipnote."
 
 msgid "EDIT_PAGE_MUSICMATCH_UNMAPPED"
-msgstr "MusicMatch hasn't gotten to your Flipnote yet. Check back again later."
+msgstr "MusicMatch nie doszło jeszcze do twojego Flipnote. Sprawdź ponownie później."
 
 msgid "EDIT_PAGE_MUSICMATCH_PENDING_MAPPING"
-msgstr "MusicMatch is currently processing your Flipnote. Check back again later."
+msgstr "MusicMatch aktualnie przetwarza twój Flipnote. Sprawdź ponownie później."
 
 msgid "EDIT_PAGE_MUSICMATCH_NONE_CORRECT"
-msgstr "None of these are correct"
+msgstr "Żaden z tych nie jest prawidłowy"
 
 msgid "EDIT_PAGE_MUSICMATCH_PREVIEW_ON_YOUTUBE"
-msgstr "Preview on YouTube Music"
+msgstr "Podgląd na YouTube Music"
 
 msgid "EDIT_PAGE_MUSICMATCH_PREVIEW_ON_SPOTIFY"
-msgstr "Preview on Spotify"
+msgstr "Podgląd na Spotify"
 
 # Browse Song
 
 msgid "BROWSE_SONG_NO_FLIPNOTES_YET"
-msgstr "There have been no Flipnotes posted with this song yet."
+msgstr "Nie ma jeszcze żadnych Flipnotes używających tego utworu."
 
 ## Referring to a music label/publishing company
 msgid "MUSIC_LABEL"
-msgstr "Label"
+msgstr "Wytwórnia"
 
 # Browse Channel
 
 msgid "BROWSE_CHANNEL_NO_FLIPNOTES_YET"
-msgstr "There have been no Flipnotes posted to this channel yet."
+msgstr "Na tym kanale nie ma jeszcze żadnych Flipnotes."
 
 ## Posting permissions
 msgid "CHANNEL_PERM_CLOSED"
-msgstr "Closed"
+msgstr "Zamknięty"
 
 msgid "CHANNEL_PERM_OPEN"
-msgstr "Open"
+msgstr "Otwarty"
 
 ## categories
 
 msgid "CHANNEL_CAT_NAME_NONE"
-msgstr "None"
+msgstr "Brak"
 
 msgid "CHANNEL_CAT_NAME_ART"
-msgstr "Art"
+msgstr "Sztuka"
 
 msgid "CHANNEL_CAT_NAME_GENRES"
-msgstr "Genres"
+msgstr "Gatunki"
 
 msgid "CHANNEL_CAT_NAME_TOPICS"
-msgstr "Topics"
+msgstr "Tematy"
 
 msgid "CHANNEL_CAT_NAME_ROLEPLAYS"
-msgstr "Roleplays"
+msgstr "Roleplaye"
 
 msgid "CHANNEL_CAT_NAME_FANDOMS"
-msgstr "Fandoms"
+msgstr "Fandomy"
 
 msgid "CHANNEL_CAT_NAME_RESOURCES"
-msgstr "Resources"
+msgstr "Zasoby"
 
 msgid "CHANNEL_CAT_NAME_PERSONAL"
-msgstr "Personal"
+msgstr "Personalne"
 
 msgid "CHANNEL_CAT_NAME_WEEKLY_TOPIC"
-msgstr "Weekly Topic"
+msgstr "Temat Tygodnia"
 
 
 # 404 Page
 
 msgid "404_OOPS_NOT_FOUND"
-msgstr "Oops - That page couldn't be found"
+msgstr "Ups - Ta strona nie została znaleziona"
 
 msgid "404_WHOOPS_NOT_THERE"
-msgstr "Whoops! Whatever you were looking for, it wasn't there."
+msgstr "Ups! Czegokolwiek szukałeś, nie znajduje się tutaj."
 
 msgid "404_GO_BACK"
-msgstr "Back to Sudomemo Theatre"
+msgstr "Wróć do Sudomemo Theatre"
 
 # Sudomemo Shop
 
 msgid "TICKETS"
-msgstr "Tickets"
+msgstr "Bilety"
 
 msgid "SUDOMEMO_SHOP_ABOUT_TICKETS_1"
-msgstr "Tickets are fun items on Sudomemo that you can redeem for Stars, Sudomemo Plus, and other things!"
+msgstr "Bilety to przedmioty na Sudomemo które możesz wykorzystać by zdobyć gwiazdki, Sudomemo Plus i inne rzeczy!"
 
 msgid "SUDOMEMO_SHOP_ABOUT_TICKETS_2"
-msgstr "Once you have a ticket, you can redeem it in your Creator's Room by tapping on \"Redeem\" - or, you can give a ticket code as a gift to a friend!"
+msgstr "Kiedy masz bilet, możesz go wykorzystać w twoim Pokoju Twórcy klikając na \"Wykorzystaj\" - lub, możesz dać kod na bilet jako prezent dla przyjaciela!"
 
 msgid "SUDOMEMO_SHOP_LEARN_ABOUT_PLUS"
-msgstr "Learn about what you can do with Sudomemo Plus:"
+msgstr "Dowiedz się, co możesz zrobić z Sudomemo Plus:"
 
 msgid "SUDOMEMO_SHOP_ALL_ABOUT_PLUS"
-msgstr "All About Sudomemo Plus"
+msgstr "Wszystko o Sudomemo Plus"
 
 ## Ticket types..
 
 msgid "TICKET_NAME_one_month_plus_ticket"
-msgstr "Plus Ticket (One Month)"
+msgstr "Bilet na Sudomemo Plus (Jeden miesiąc)"
 
 msgid "TICKET_DESC_one_month_plus_ticket"
-msgstr "This ticket will give you one month of Sudomemo Plus!"
+msgstr "Ten bilet da ci jeden miesiąc Sudomemo Plus!"
 
 msgid "TICKET_NAME_one_year_plus_ticket"
-msgstr "Plus Ticket (One Year)"
+msgstr "Bilet na Sudomemo Plus (Jeden rok)"
 
 msgid "TICKET_DESC_one_year_plus_ticket"
-msgstr "This ticket will give you one year of Sudomemo Plus!"
+msgstr "Ten bilet da ci jeden rok Sudomemo Plus!"
 
 # Login Page
 
 msgid "LOGIN_FAILED_CHECK_DETAILS"
-msgstr "We couldn't log you in. Check the details you entered and try again."
+msgstr "Nie mogliśmy ciebie zalogować. Sprawdź wpisane dane i spróbuj ponownie."
 
 msgid "LOGIN_PLACEHOLDER_USERNAME"
-msgstr "Email or Flipnote Studio ID"
+msgstr "E-mail lub Flipnote Studio ID"
 
 msgid "LOGIN_PLACEHOLDER_PASSWORD"
-msgstr "Password"
+msgstr "Hasło"
 
 msgid "LOGIN_SIGNUP_SELECT_DEVICE"
-msgstr "Select your device"
+msgstr "Wybierz swoje urządzenie"
 
 msgid "NINTENDO_DSI"
 msgstr "Nintendo DSi"
@@ -722,10 +722,10 @@ msgstr "Nintendo 3DS"
 
 # See Flipnotes with the song <song name> by <band/artist name>
 msgid "BROWSE_SONG_YOU_ARE_BROWSING_SONG"
-msgstr "See Flipnotes with the song %s by %s"
+msgstr "Zobacz Flipnotes używających utworu %s artysty %s"
 
 msgid "TICKET_NAME_ffotd_ticket"
-msgstr "First Flipnote of the Decade"
+msgstr "Pierwszy Flipnote Dekady"
 
 msgid "TICKET_DESC_ffotd_ticket"
-msgstr "Congratulations! You posted the first Flipnote of the new decade!"
+msgstr "Gratulacje! Wysłałeś pierwszy Flipnote nowej dekady!"
