@@ -12,7 +12,7 @@ msgid "LEGACY_ACTIVATE_PLUS_TEASER"
 msgstr "Sudomemo Plus daje ci dostęp do wielu dodatkowych funkcji, takich jak wygładzanie i ulepszanie dźwięku twoich Flipnotes na Sudomemo Theatre, a także kolorowe komentarze i inne niezłe funkcje!"
 
 msgid "LEGACY_ACTIVATE_EARN_PLUS"
-msgstr "Sudomemo Plus może być uzyskane poprzez wykorzystanie losu wykupionego w naszym sklepie lub jeżeli twój Flipnote wygra w jednym z naszych Cotygodniowych Tematów."
+msgstr "Sudomemo Plus może być uzyskane poprzez wykorzystanie biletu wykupionego w naszym sklepie lub jeżeli twój Flipnote wygra w jednym z naszych Tematów Tygodnia."
 
 msgid "LEGACY_ACTIVATE_GRANDFATHERED_BONUS"
 msgstr "Ponieważ poprzednio miałeś Citizenship, daliśmi ci darmowy miesiąc Sudememo Plus. Porozglądaj się po naszej stronie i wypróbuj kilku nowych funkcji!"
@@ -29,7 +29,7 @@ msgid "MANAGE_PLUS_REMAINING"
 msgstr "Pozostało ci %s dni Sudomemo Plus."
 
 msgid "MANAGE_PLUS_HOW_TO_EARN_PLUS"
-msgstr "Sudomemo Plus może być uzyskane poprzez wykorzystanie losu wykupionego w naszym sklepie lub jeżeli twój Flipnote wygra w jednym z naszych Cotygodniowych Tematów."
+msgstr "Sudomemo Plus może być uzyskane poprzez wykorzystanie biletu wykupionego w naszym sklepie lub jeżeli twój Flipnote wygra w jednym z naszych Tematów Tygodnia."
 
 msgid "AVAILABLE_PLUS_FEATURES"
 msgstr "Dzięki Sudomemo Plus masz dostęp do tych funkcji. Sprawdzaj tę sekcję raz na jakiś czas!"
@@ -76,7 +76,7 @@ msgid "PLUS_RUNNING_OUT_MSG_DAYS_REMAINING_FORMAT"
 msgstr "Przypominamy, że zostało ci %s dni Sudomemo Plus."
 
 msgid "PLUS_RUNNING_OUT_MSG_HOW_TO_EARN_PLUS"
-msgstr "Nie zapomnij, że Sudomemo Plus może być uzyskane poprzez wykorzystanie losu wykupionego w naszym sklepie lub jeżeli twój Flipnote wygra w jednym z naszych Cotygodniowych Tematów."
+msgstr "Nie zapomnij, że Sudomemo Plus może być uzyskane poprzez wykorzystanie biletu wykupionego w naszym sklepie lub jeżeli twój Flipnote wygra w jednym z naszych Tematów Tygodnia."
 
 msgid "PLUS_RUNNING_OUT_MSG_HAPPY_FLIPNOTING"
 msgstr "Wesołego Flipnotowania!"
