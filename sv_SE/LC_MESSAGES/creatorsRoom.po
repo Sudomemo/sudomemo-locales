@@ -5,13 +5,13 @@ msgid "STARRED_FLIPNOTES"
 msgstr "Starred Flipnotes"
 
 msgid "FAVORITE_USERS"
-msgstr "Favorit Användare"
+msgstr "Favoritanvändare"
 
 msgid "FAVORITES_FEED"
-msgstr "Favoriter Feed"
+msgstr "Favoriter flöde"
 
 msgid "FAVORITE_CHANNELS"
-msgstr "Favorit Kanaler"
+msgstr "Favoritkanaler"
 
 msgid "USER_DOWNLOADCOUNT"
 msgstr "Nerladdningar"
@@ -32,7 +32,7 @@ msgid "POSTED_CHATCOMMENTS"
 msgstr "Chatmeddelanden"
 
 msgid "FEATURE_USABILITY"
-msgstr "Funktions Användbarhet"
+msgstr "Funktionsanvändbarhet"
 
 msgid "USABLE"
 msgstr "Användbar"
@@ -68,10 +68,10 @@ msgid "ADMIN_LAST_SEEN"
 msgstr "Senast sedd"
 
 msgid "ADMIN_USER_STATUS"
-msgstr "Användar Status"
+msgstr "Användaratatus"
 
 msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
-msgstr "Admin-åtgärder"
+msgstr "Adminåtgärder"
 
 msgid "BLOCK_COMMENTS_HEADER"
 msgstr "Blockera Kommentarer"
@@ -146,7 +146,7 @@ msgid "BLOCKED_USERS"
 msgstr "Blockerade användare"
 
 msgid "VIEW"
-msgstr "Visningar"
+msgstr "Visa"
 
 msgid "FAN_COUNT_FORMAT"
 msgstr "Fans: %s"
@@ -155,62 +155,62 @@ msgid "HEADER_LANGUAGE"
 msgstr "Språk"
 
 msgid "HEADER_MAIL_SETTINGS"
-msgstr "Mail Settings"
+msgstr "Mailinställningar"
 
 msgid "HEADER_EDIT_BIOGRAPHY"
-msgstr "Edit Biography"
+msgstr "Ändrabiografi"
 
 msgid "SET_BIO_INSTRUCTIONS"
-msgstr "Enter your profile biography below. This will be displayed on Sudomemo and Sudomemo Theatre."
+msgstr "Lägg till din profilbiografi nedan. Detta kommer visas på Sudomemo och Sudomemo Theatre"
 
 msgid "ENTER_BIO"
-msgstr "Enter Bio..."
+msgstr "Lägg till bio..."
 
 msgid "101_CHARACTER_LIMIT_BIO"
-msgstr "Your biography is limited to 101 characters."
+msgstr "Din biografi är begränsad till 101 tecken."
 
 msgid "LEAVE_BLANK_TO_RESET_BIO"
-msgstr "To clear your biography, leave the form blank when submitting."
+msgstr "För att rensa din biografi, lämna formulären tom när du sparar."
 
 msgid "CURRENT_BIO"
-msgstr "Current Bio:"
+msgstr "Nuvarande bio:"
  
 msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
-msgstr "You can't follow more than %d users."
+msgstr "Du kan inte följa mer än %d användare."
 
 msgid "RANKING"
 msgstr "Ranking"
 
 msgid "TICKET_SECTION"
-msgstr "Tickets"
+msgstr "Biljetter"
 
 msgid "DRAW_REGULAR_TICKET"
-msgstr "Draw Ticket"
+msgstr "Dra biljett"
 
 msgid "CAN_DRAW_TICKET_SUBTEXT"
-msgstr "You can draw a regular ticket! You might win a prize."
+msgstr "Du kan dra en vanlig biljett! Du kanske vinner ett pris."
 
 msgid "INVENTORY"
-msgstr "Inventory"
+msgstr "Förråd"
 
 msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
-msgstr "You can draw another ticket in: %s hour(s) %s minute(s)."
+msgstr "Du kan dra en annan biljett om: %s timme(ar) %s minut(er)."
 
 msgid "REDEEM"
-msgstr "Redeem"
+msgstr "Dra"
 
 
 msgid "SPENDABLE_STARS"
-msgstr "Your Stars"
+msgstr "Dina Stars"
 
 msgid "SPENDABLE_STARS_HELPTEXT"
-msgstr "Stars to add to Flipnotes or use for themes"
+msgstr "Stars att använda för att lägga till på Flipnotes eller köpa teman"
 
 msgid "LOGIN_REQUIRED_ACTION"
-msgstr "You must be logged in to perform this action."
+msgstr "Du måste logga in för att utföra den här åtgärden."
 
 msgid "PAGE"
-msgstr "Page"
+msgstr "Sida"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d of %d"
+msgstr "%d av %d"

@@ -5,7 +5,7 @@ msgid "BAN_NOTICE_CONSOLE_BAN"
 msgstr "Ditt konto och konsol har förbjudits från Sudomemo."
 
 msgid "BAN_NOTICE_PLEASE_READ_BAN_LETTER"
-msgstr "Vänligen läs det brev vi skickade till dig för ytterligare information."
+msgstr "Vänligen läs det mailet vi skickade till dig med ytterligare information."
 
 msgid "BAN_VIEW_MAIL"
 msgstr "Visa Sudomemo Mail"
@@ -56,7 +56,7 @@ msgid "FORM_WARNING_PASSWORD_DISALLOWED_CHARS"
 msgstr "Ditt lösenord kan inte innehålla något av dessa tecken:"
 
 msgid "FORM_LABEL_DONT_FORGET_PASSWORD"
-msgstr "Kom ihåg att skriva ner ditt lösenord och håll det säkert!"
+msgstr "Kom ihåg att skriva ner ditt lösenord och förvara det säkert!"
 
 msgid "FORM_HEADER_EMAIL"
 msgstr "E-postadress:"
@@ -68,7 +68,7 @@ msgid "FORM_WARNING_EMAIL_INVALID"
 msgstr "E-postadressen du angav är inte giltig."
 
 msgid "EMAIL_ADDITION_SUGGESTED"
-msgstr "E-post är valfritt, men rekommenderas starkt. Om du någonsin glömmer ditt lösenord skickar vi en länk för lösenordsåterställning till din e-postadress."
+msgstr "E-postadress är valfritt, men rekommenderas starkt. Om du någonsin glömmer ditt lösenord skickar vi en länk för lösenordsåterställning till din e-postadress."
 
 msgid "EMAIL_ADDITION_DETAILS"
 msgstr "Om du någonsin glömmer ditt lösenord skickar vi en länk för lösenordsåterställning till din e-postadress."
@@ -131,13 +131,13 @@ msgid "LOGIN_FAILED_REOPEN_FLIPNOTE_STUDIO"
 msgstr "Inloggning misslyckades. Avsluta och öppna Flipnote Studio igen."
 
 msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE1"
-msgstr "Flipnote-data är skadad."
+msgstr "Flipnote-datan är skadad."
 
 msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE2"
 msgstr "Försök skicka det igen."
 
 msgid "LOGIN_FAILED_BANNED_LINE1"
-msgstr "Du har blivit förhindrad från att använda Sudomemo."
+msgstr "Du har blivit förbjuden från att använda Sudomemo."
 
 msgid "CONTACT_SUPPORT_EMAIL_FORMAT"
 msgstr "Vänligen kontakta %s."
@@ -164,13 +164,13 @@ msgid "BASIC_AUTH_BAD_LENGTH_FORMAT"
 msgstr "ID-numret verkar vara %s siffror i längd (Ska vara 16)"
 
 msgid "BASIC_AUTH_LOWERCASE_LETTERS"
-msgstr "IDn innehåller små bokstäver - det ska vara stor boxtäver."
+msgstr "ID:n innehåller små bokstäver - det ska vara stor boxtäver."
 
 msgid "BASIC_AUTH_NONHEX_CHARACTERS"
-msgstr "IDn innehåller andra täcken än 0-9 och A-F (den ska bara innehålla 0-9 och A-F)."
+msgstr "ID:n innehåller andra täcken än 0-9 och A-F (den ska bara innehålla 0-9 och A-F)."
 
 msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
-msgstr "Om du behöver hjälp att ansluta, vänligen fråga i våran Discord! Du kan gå med från %s."
+msgstr "Om du behöver hjälp att ansluta, vänligen fråga på våran Discord! Du kan gå med från %s."
 
 msgid "BAN_NOTICE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
 msgstr "Vänligen kontakta oss på Discord eller via e-post till %s."
@@ -221,7 +221,7 @@ msgid "HEADER_VERIFICATION_EXPIRED"
 msgstr "Verifieringen har gått ut"
 
 msgid "VERIFICATION_EXPIRED_TEXT"
-msgstr "Verifieringsadressen har gått ut eller redan använts."
+msgstr "Verifieringsadressen har gått ut eller används redan."
 
 msgid "CONTINUE_TO_LOGIN"
 msgstr "Fortsätt till inloggning"
@@ -239,8 +239,8 @@ msgid "BUTTON_EDIT_EMAIL_ADDRESS"
 msgstr "Byt e-postadress"
 
 msgid "SEARCH_FOR_SENDER_EMAIL_FORMAT"
-msgstr "Har inte fått  ett mail? Kontrollera din Skräppost och sök efter %s. Om du upptäcker att det var märkt som skräppost, vanligen se till att du avmarkerar den."
+msgstr "Har du inte fått ett mail? Kolla din Skräppost och sök efter %s. Om du upptäcker att det var markerat som skräppost, vanligen se till att du avmarkerar den."
 
 msgid "NEW_USER_INTRO_POST_INTRO_CHANNEL"
-msgstr "When you're ready, go ahead and introduce yourself in our Introduction channel, under the Personal category."
+msgstr "När du är redo, varsågod att presentera dig själv i våran presentationskanal, under den personliga kategorin."
 

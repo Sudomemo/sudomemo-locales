@@ -14,7 +14,7 @@ msgid "NEW"
 msgstr "Ny"
 
 msgid "PROFILE_PICTURE_SET"
-msgstr "Profilbilden har lagts till!"
+msgstr "Profilbilden har ändrats!"
 
 msgid "RETURN_TO_FLIPNOTE"
 msgstr "Tillbaka till Flipnote"
@@ -26,5 +26,5 @@ msgid "CANCEL"
 msgstr "Avbryt"
 
 msgid "LOGIN_REQUIRED_TO_CHANGE"
-msgstr "You must be logged in to change your profile picture."
+msgstr "Du måste vara inloggad för att byta profilebild."
 

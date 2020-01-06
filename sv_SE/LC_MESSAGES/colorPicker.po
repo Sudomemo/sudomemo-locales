@@ -1,17 +1,17 @@
 msgid "SET_PEN_COLOR"
-msgstr "Set Pen Color"
+msgstr "Sätt pennfärg"
 
 msgid "SET_PAPER_COLOR"
-msgstr "Set Paper Color"
+msgstr "Sätt papersfärg"
 
 msgid "SELECT_A_COLOR"
-msgstr "Select a color."
+msgstr "Välj färg"
 
 msgid "CURRENT_COLOR"
-msgstr "Current color:"
+msgstr "Nuvarande färg:"
 
 msgid "CURRENT_COLOR_DEFAULT"
-msgstr "Current color: default"
+msgstr "Nuvarande färg: standard"
 
 msgid "RETURN"
-msgstr "Return"
+msgstr "Återvänd"

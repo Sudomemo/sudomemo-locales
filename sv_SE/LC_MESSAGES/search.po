@@ -32,14 +32,14 @@ msgid "NO_RESULTS_FOUND"
 msgstr "Inga resultat hittade."
 
 msgid "SEARCH_SHORT_KEY"
-msgstr "Flipnote ID"
+msgstr "FlipnoteID"
 
 msgid "SHORT_KEY_NO_RESULTS"
-msgstr "No Flipnote found"
+msgstr "Inga Flipnotes hittades"
 
 msgid "SHORT_KEY_FORMAT_GUIDE"
-msgstr "Not finding what you're looking for? You may have entered the Flipnote ID incorrectly. Flipnote IDs are six digits long and can be found in the details section for the Flipnote."
+msgstr "Hittar inte vad du letar efter? Du kan ha skrivit ett felaktigt FlipnoteID, FlipnoteID:n är sex nummer långa och kan hittas i detaljsektionen för Flipnoten."
 
 msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
-msgstr "No result was found, but a similar ID exists. Please note that Flipnote IDs are case-sensitive, and usually all-capital letters and numbers."
+msgstr "Inga resultat hittades, men en liknande ID finns. Vänligen notera att FlipnoteID:n är skiftlägeskänsliga, och är vanligtvis bara stora bokstäver och nummer."
 

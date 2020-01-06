@@ -1,8 +1,8 @@
 msgid "COMMENT_DETAILS"
-msgstr "Kommentar detaljer"
+msgstr "Kommentarsdetaljer"
 
 msgid "MESSAGE_DETAILS"
-msgstr "Meddelande detaljer"
+msgstr "Meddelandedetaljer"
 
 msgid "AUTHOR"
 msgstr "Skapare"
@@ -20,13 +20,13 @@ msgid "FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote av %s"
 
 msgid "COMMENT_ID"
-msgstr "Kommentar ID"
+msgstr "KommentarID"
 
 msgid "MESSAGE_ID"
-msgstr "Meddelande ID"
+msgstr "MeddelandeID"
 
 msgid "CHAT_COMMENT_ID"
-msgstr "Chattkommentar ID"
+msgstr "ChattkommentarID"
 
 msgid "TIMESTAMP"
 msgstr "Tidsstämpel"
