@@ -53,10 +53,10 @@ msgid "HEADER_SET_AS_PROFILE_PICTURE"
 msgstr "Lägg till som profilbild"
 
 msgid "HEADER_REPORT_FLIPNOTE"
-msgstr "Raportera Flipnote"
+msgstr "Rapportera Flipnote"
 
 msgid "ADMIN_ACTIONS"
-msgstr "Admin-åtgärder"
+msgstr "Adminåtgärder"
 
 msgid "PREV"
 msgstr "Före"
@@ -68,44 +68,44 @@ msgid "STAR_DETAILS_UPPERTITLE"
 msgstr "★ Stars ★"
 
 msgid "SET_TITLE"
-msgstr "Set Title"
+msgstr "Sätt titel"
 
 msgid "SET_TITLE_INSTRUCTIONS"
-msgstr "Enter the new title for your Flipnote below."
+msgstr "Lägg till en ny titel till din Flipnote nedan."
 
 msgid "40_CHARACTER_LIMIT"
-msgstr "Your title is limited to 40 characters in length."
+msgstr "Din titel är begränsad till 40 tecken i längd."
 
 msgid "LEAVE_BLANK_TO_RESET"
-msgstr "To reset the title to default, leave the form blank when submitting."
+msgstr "För att återställa titel till standard, lämna formulären tom när du sparar."
 
 msgid "ENTER_TITLE"
-msgstr "Enter title..."
+msgstr "Lägg till titel..."
 
 msgid "HEADER_ADD_DESCRIPTION"
-msgstr "Add Description"
+msgstr "Lägg till beskrivning"
 
 msgid "HEADER_DESCRIPTION"
-msgstr "Description"
+msgstr "Beskrivning"
 
 msgid "SET_DESCRIPTION"
-msgstr "Set Description"
+msgstr "Sätt Beskrivning"
 
 msgid "SET_DESCRIPTION_INSTRUCTIONS"
-msgstr "Enter the new description for your Flipnote below."
+msgstr "Lägg till den nya beskrivningen till din Flipnote nedan."
 
 msgid "101_CHARACTER_LIMIT_DESC"
-msgstr "Your description is limited to 101 characters in length."
+msgstr "Din beskrivning är begränsad till 101 tecken i längd."
 
 msgid "LEAVE_BLANK_TO_RESET_DESC"
-msgstr "To remove the description, leave the form blank when submitting."
+msgstr "För att ta bort beskrivning, lämna formuläraren tom när du sparar."
 
 msgid "ENTER_DESCRIPTION"
-msgstr "Enter description..."
+msgstr "Lägg till beskrivning"
 
 msgid "HEADER_FLIPNOTE_OPTIONS"
-msgstr "Options"
+msgstr "Alternativ"
 
 
 msgid "HEADER_SONG"
-msgstr "Song"
+msgstr "Låt"
