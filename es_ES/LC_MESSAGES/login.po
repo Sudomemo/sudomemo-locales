@@ -244,3 +244,6 @@ msgstr "¿Aún no has recibido el correo? Échale un vistazo a tu correo basura 
 msgid "NEW_USER_INTRO_POST_INTRO_CHANNEL"
 msgstr "Cuando estés listo, preséntate en nuestro canal de introducción, bajo la categoría personal."
 
+
+msgid "EMAIL_VERIFICATION_ADDRESS_REMOVED"
+msgstr "Sorry about that! We've marked that email address as incorrect, so you shouldn't receive any further emails from Sudomemo."
