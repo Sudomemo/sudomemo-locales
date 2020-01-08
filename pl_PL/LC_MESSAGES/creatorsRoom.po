@@ -8,7 +8,7 @@ msgid "FAVORITE_USERS"
 msgstr "Ulubieni użytkownicy"
 
 msgid "FAVORITES_FEED"
-msgstr "Strumień ulubionych"
+msgstr "Najnowsze od ulubionych twórców"
 
 msgid "FAVORITE_CHANNELS"
 msgstr "Ulubione kanały"
@@ -155,7 +155,7 @@ msgid "HEADER_LANGUAGE"
 msgstr "Język"
 
 msgid "HEADER_MAIL_SETTINGS"
-msgstr "Ustawienia e-maila"
+msgstr "Ustawienia e-maili"
 
 msgid "HEADER_EDIT_BIOGRAPHY"
 msgstr "Edytuj biografię"
@@ -188,22 +188,22 @@ msgid "DRAW_REGULAR_TICKET"
 msgstr "Bilet"
 
 msgid "CAN_DRAW_TICKET_SUBTEXT"
-msgstr "Możesz użyć zwyczajnego biletu! Możesz wygrać nagrodę."
+msgstr "Masz możliwość wykorzystania biletu! Kto wie, może coś wygrasz?"
 
 msgid "INVENTORY"
 msgstr "Ekwipunek"
 
 msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
-msgstr "Możesz użyć kolejnego biletu za: %s godzin(y) %s minut(y)."
+msgstr "Możesz wykorzystać kolejny bilet za: %s godzin(y) %s minut(y)."
 
 msgid "REDEEM"
-msgstr "Użyj"
+msgstr "Wykorzystaj"
 
 msgid "SPENDABLE_STARS"
 msgstr "Twoje gwiazdki"
 
 msgid "SPENDABLE_STARS_HELPTEXT"
-msgstr "Gwiazdki które możesz dodać do Flipnotes lub użyć do motywów"
+msgstr "Gwiazdki które możesz dodać do Flipnotes lub wykupić za nie motywy"
 
 msgid "LOGIN_REQUIRED_ACTION"
 msgstr "Musisz się zalogować by wykonać tę operację."

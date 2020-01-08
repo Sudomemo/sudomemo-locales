@@ -1,8 +1,8 @@
 msgid "HEADER_MAIL_SETTINGS"
-msgstr "Ustawienia e-maila"
+msgstr "Ustawienia e-maili"
 
 msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
-msgstr "Musisz się zalogować, by zmieniać ustawienia e-maila."
+msgstr "Musisz się zalogować, by zmieniać ustawienia e-maili."
 
 msgid "MAIL_TYPE"
 msgstr "Typ"
@@ -86,13 +86,13 @@ msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
 msgstr "Kliknij na status rodzaju maila by go zobaczyć lub zmienić."
 
 msgid "HEADER_CHANGE_EMAIL_SETTINGS"
-msgstr "Zmień ustawienia e-maila"
+msgstr "Zmień ustawienia e-maili"
 
 msgid "DISABLE_CONFIRMATION_FORMAT"
 msgstr "Czy napewno chcesz deaktywować e-maile '%s'?"
 
 msgid "REENABLE_INSTRUCTIONS"
-msgstr "Jeżeli chcesz aktywować je ponownie, możesz to zrobić wchodząc w <strong>Ustawienia e-maila</strong> w twoim Pokoju Twórcy."
+msgstr "Jeżeli chcesz aktywować je ponownie, możesz to zrobić wchodząc w <strong>Ustawienia e-maili</strong> w twoim Pokoju Twórcy."
 
 msgid "EMAIL_SETTING_DISABLED_FINISH_FORMAT"
 msgstr "Zdeaktwowano '%s' e-maili."
