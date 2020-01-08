@@ -243,3 +243,6 @@ msgstr "Geen e-mail ontvangen? Check je Spam box, en zoek voor %s. Als het blijk
 
 msgid "NEW_USER_INTRO_POST_INTRO_CHANNEL"
 msgstr "Wanneer je er klaar voor bent, stel jezelf voor in onze Introduction kanaal, onder de Persoonlijk categorie."
+
+msgid "EMAIL_VERIFICATION_ADDRESS_REMOVED"
+msgstr "Sorry about that! We've marked that email address as incorrect, so you shouldn't receive any further emails from Sudomemo."

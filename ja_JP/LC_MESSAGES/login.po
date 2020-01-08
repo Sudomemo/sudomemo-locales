@@ -243,3 +243,6 @@ msgstr "メールを受信していないませんか？迷惑メールをチェ
 
 msgid "NEW_USER_INTRO_POST_INTRO_CHANNEL"
 msgstr "準備が整ったら、先へ進み、個人カテゴリの下のIntroductionsチャンネルで自己紹介をしていってください。"
+
+msgid "EMAIL_VERIFICATION_ADDRESS_REMOVED"
+msgstr "Sorry about that! We've marked that email address as incorrect, so you shouldn't receive any further emails from Sudomemo."
