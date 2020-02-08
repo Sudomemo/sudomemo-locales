@@ -1,0 +1,59 @@
+msgid "LOGIN_REQUIRED_TO_MANAGE_BLOCKS"
+msgstr "Vi devas esti ensalutinta por administri blokitajn uzantojn."
+
+msgid "NO_USERS_BLOCKED"
+msgstr "Vi ne havas blokitajn uzantojn.
+
+msgid "BLOCKED_USERS"
+msgstr "Uzantoj blokitaj"
+
+msgid "BLOCK_USER"
+msgstr "Uzanto de Bloko"
+
+msgid "COMMENT_BLOCK_IS_MUTUAL"
+msgstr "Post kiam vi blokos ĉi tiun uzanton, vi ne plu povos komenti la Flipnotojn de ĉi tiu uzanto."
+
+msgid "USER_HAS_BEEN_BLOCKED"
+msgstr "Ĉi tiu uzanto estis blokita."
+
+msgid "IF_YOU_WISH_TO_UNBLOCK"
+msgstr "Se vi iam volas malŝlosi ilin, vi eble volas malŝlosi ilin vizitante Ĉambron de via Fabrikisto kaj malfermante la menuon de Blokitaj Uzantoj."
+
+msgid "CONFIRM_BLOCK"
+msgstr "Konfirmu Blokon"
+
+msgid "USER_ALREADY_BLOCKED"
+msgstr "Vi jam blokis ĉi tiun uzanton. Vi eble malŝlosos ilin de la agordoj en la Ĉambro de via Kreinto, sed vi devas atendi 24 horojn antaŭ ol vi povas ŝlosi ilin denove."
+
+msgid "ONE_DAY_WAIT_BEFORE_REBLOCK_FORMAT"
+msgstr "Lastatempe vi malŝlosis ĉi tiun uzanton. Vi ne povas bloki ilin denove ĝis %s"
+
+msgid "UNBLOCK"
+msgstr "Malŝlosi"
+
+msgid "LOGIN_REQUIRED"
+msgstr "Vi devas esti ensalutinta por plenumi ĉi tiun agon."
+
+msgid "TAP_BACK_TO_RETURN"
+msgstr "Frapeti Reen por reveni al la Ĉambro de via Kreinto."
+
+msgid "UNBLOCK_USER"
+msgstr "Malŝlosi Uzanton"
+
+msgid "CANNOT_UNBLOCK_NONBLOCKED_USER"
+msgstr "Vi ne povas malŝlosi ĉi tiun uzanton, ĉar vi fakte ne blokis ilin unue."
+
+msgid "USER_HAS_BEEN_UNBLOCKED"
+msgstr "Vi malŝlosis ĉi tiun uzanton."
+
+msgid "COMMENTING_ENABLED_AFTER_UNBLOCK"
+msgstr "Post kiam vi malŝlosos ĉi tiun uzanton, ili povos komenti viajn Flipnotojn denove, krom se ili ankaŭ blokis vin."
+
+msgid "UNBLOCK_WARNING_ONE_DAY_THRESHOLD"
+msgstr "Se vi malŝlosas ilin, vi devas atendi 24 horojn antaŭ ol vi povos bloki ilin denove."
+
+msgid "CONFIRM_UNBLOCK"
+msgstr "Konfirmu Malŝlosi"
+
+msgid "RECENTLY_UNBLOCKED_ONE_DAY_THRESHOLD"
+msgstr "Lastatempe vi malŝlosis ĉi tiun uzanton. Vi devas atendi 24 horojn de la tempo kiam vi malŝlosis ilin antaŭ ol vi povos bloki ilin denove."

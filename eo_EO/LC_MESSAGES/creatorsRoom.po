@@ -1,0 +1,214 @@
+msgid "SEE_MORE"
+msgstr "Vidi pli da enhavo..."
+
+msgid "STARRED_FLIPNOTES"
+msgstr "Steligitaj Flipnotoj"
+
+msgid "FAVORITE_USERS"
+msgstr "Plej ŝatataj Uzantoj"
+
+msgid "FAVORITES_FEED"
+msgstr "Preferoj Feed"
+
+msgid "FAVORITE_CHANNELS"
+msgstr "Favoritaj Kanaloj"
+
+msgid "USER_DOWNLOADCOUNT"
+msgstr "Elŝutoj"
+
+msgid "USER_VIEWCOUNT"
+msgstr "Vidoj"
+
+msgid "USER_THEME"
+msgstr "Stilo"
+
+msgid "THEME_SHOP"
+msgstr "Stila Butiko"
+
+msgid "POSTED_COMMENTS"
+msgstr "Afiŝitaj Komentoj"
+
+msgid "POSTED_CHATCOMMENTS"
+msgstr "Babilejaj mesaĝoj"
+
+msgid "FEATURE_USABILITY"
+msgstr "Trajto Uzebleco"
+
+msgid "USABLE"
+msgstr "Uzebla"
+
+msgid "NOT_USABLE"
+msgstr "Neuzebla"
+
+msgid "SUDOMEMO_THEATRE_URL"
+msgstr "Sudomemo Theatre Ligilo"
+
+msgid "FLIPNOTE_STUDIO_ID"
+msgstr "ID de Flipnote Studio"
+
+msgid "SETTINGS"
+msgstr "Settings"
+
+msgid "ADMIN_ACCT_GOOD_STANDING"
+msgstr "In good standing"
+
+msgid "ADMIN_ACCT_BANNED"
+msgstr "Banned"
+
+msgid "ADMIN_ACCT_BLOCKED"
+msgstr "Blocked"
+
+msgid "ADMIN_ACCT_MUTED"
+msgstr "Muted"
+
+msgid "ADMIN_USER_DETAILS"
+msgstr "User Details"
+
+msgid "ADMIN_LAST_SEEN"
+msgstr "Last seen"
+
+msgid "ADMIN_USER_STATUS"
+msgstr "User Status"
+
+msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
+msgstr "Admin Actions"
+
+msgid "BLOCK_COMMENTS_HEADER"
+msgstr "Block Comments"
+
+msgid "BLOCK_COMMENTS_LINK"
+msgstr "Block"
+
+msgid "USABILITY_USABLE"
+msgstr "Usable"
+
+msgid "USABILITY_NOT_USABLE"
+msgstr "Not Usable"
+
+msgid "HEADER_FOLLOWERS"
+msgstr "Followers"
+
+msgid "HEADER_FOLLOWING"
+msgstr "Following"
+
+msgid "PREVIOUS"
+msgstr "Previous"
+
+msgid "NEXT"
+msgstr "Next"
+
+msgid "CHANGE_ROOM_THEME_LINK"
+msgstr "[change theme]"
+
+msgid "SELECT_THEME"
+msgstr "Select Theme"
+
+msgid "FANS"
+msgstr "Fans"
+
+msgid "EXAMPLE"
+msgstr "Example"
+
+msgid "THEMETEST_SET_THEME"
+msgstr "Set Theme"
+
+msgid "THEMETEST_NOTICE"
+msgstr "Notice"
+
+msgid "THEMETEST_OK"
+msgstr "Okay"
+
+msgid "THEMETEST_ERROR"
+msgstr "Error"
+
+msgid "THEMETEST_NOTICE_2"
+msgstr "Notice #2"
+
+msgid "THEMETEST_ACTIVE_TAB"
+msgstr "Active tab"
+
+msgid "THEMETEST_INACTIVE_TAB"
+msgstr "Inactive tab"
+
+msgid "PREVIEW"
+msgstr "Preview"
+
+msgid "CREATORS_ROOM"
+msgstr "Creator's Room"
+
+msgid "THEME_ERROR_THEME_NOT_OWNED"
+msgstr "Sorry! You do not own that theme."
+
+msgid "THEME_SUCCESSFULLY_SET"
+msgstr "Theme successfully set!"
+
+msgid "BLOCKED_USERS"
+msgstr "Blocked users"
+
+msgid "VIEW"
+msgstr "View"
+
+msgid "FAN_COUNT_FORMAT"
+msgstr "Fans: %s"
+
+msgid "HEADER_LANGUAGE"
+msgstr "Language"
+
+msgid "HEADER_MAIL_SETTINGS"
+msgstr "Mail Settings"
+
+msgid "HEADER_EDIT_BIOGRAPHY"
+msgstr "Edit Biography"
+
+msgid "SET_BIO_INSTRUCTIONS"
+msgstr "Enter your profile biography below. This will be displayed on Sudomemo and Sudomemo Theatre."
+
+msgid "ENTER_BIO"
+msgstr "Enter Bio..."
+
+msgid "101_CHARACTER_LIMIT_BIO"
+msgstr "Your biography is limited to 101 characters."
+
+msgid "LEAVE_BLANK_TO_RESET_BIO"
+msgstr "To clear your biography, leave the form blank when submitting."
+
+msgid "CURRENT_BIO"
+msgstr "Current Bio:"
+
+msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
+msgstr "You can't follow more than %d users."
+
+msgid "RANKING"
+msgstr "Ranking"
+
+msgid "TICKET_SECTION"
+msgstr "Tickets"
+
+msgid "DRAW_REGULAR_TICKET"
+msgstr "Draw Ticket"
+
+msgid "CAN_DRAW_TICKET_SUBTEXT"
+msgstr "You can draw a regular ticket! You might win a prize."
+
+msgid "INVENTORY"
+msgstr "Inventory"
+
+msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
+msgstr "You can draw another ticket in: %s hour(s) %s minute(s)."
+
+msgid "REDEEM"
+msgstr "Redeem"
+msgid "SPENDABLE_STARS"
+msgstr "Your Stars"
+
+msgid "SPENDABLE_STARS_HELPTEXT"
+msgstr "Stars to add to Flipnotes or use for themes"
+
+msgid "LOGIN_REQUIRED_ACTION"
+msgstr "You must be logged in to perform this action."
+
+msgid "PAGE"
+msgstr "Page"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d of %d"

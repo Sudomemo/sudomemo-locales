@@ -1,0 +1,109 @@
+msgid "TIMESTAMP_FORMAT"
+msgstr "M d, Y H:i:s"
+
+msgid "FLIPNOTE_TITLE_FORMAT"
+msgstr "Flipnote by %s"
+
+msgid "HEADER_DETAILS"
+msgstr "Details"
+
+msgid "HEADER_COMMENTS"
+msgstr "Comments"
+
+msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
+msgstr "This Flipnote is a spin-off."
+
+msgid "HEADER_ORIGINAL_FLIPNOTE"
+msgstr "View the source Flipnote here"
+
+msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
+msgstr "To prevent star-begging, yellow stars are limited to ten per Flipnote."
+
+msgid "HEADER_CREATOR"
+msgstr "Creator"
+
+msgid "HEADER_STARS"
+msgstr "Stars"
+
+msgid "HEADER_VIEWS"
+msgstr "Views"
+
+msgid "HEADER_SPINOFFS"
+msgstr "Spin-offs"
+
+msgid "HEADER_DOWNLOADS"
+msgstr "Downloads"
+
+msgid "HEADER_TITLE"
+msgstr "Title"
+
+msgid "HEADER_POSTED"
+msgstr "Posted"
+
+msgid "HEADER_FLIPNOTE_ID"
+msgstr "Flipnote ID"
+
+msgid "HEADER_CHANNEL"
+msgstr "Channel"
+
+msgid "HEADER_OPTIONS"
+msgstr "Options"
+
+msgid "HEADER_SET_AS_PROFILE_PICTURE"
+msgstr "Set as Profile Picture"
+
+msgid "HEADER_REPORT_FLIPNOTE"
+msgstr "Report Flipnote"
+
+msgid "ADMIN_ACTIONS"
+msgstr "Admin actions"
+
+msgid "PREV"
+msgstr "Prev"
+
+msgid "NEXT"
+msgstr "Next"
+
+msgid "STAR_DETAILS_UPPERTITLE"
+msgstr "★ Stars ★"
+
+msgid "SET_TITLE"
+msgstr "Set Title"
+
+msgid "SET_TITLE_INSTRUCTIONS"
+msgstr "Enter the new title for your Flipnote below."
+
+msgid "40_CHARACTER_LIMIT"
+msgstr "Your title is limited to 40 characters in length."
+
+msgid "LEAVE_BLANK_TO_RESET"
+msgstr "To reset the title to default, leave the form blank when submitting."
+
+msgid "ENTER_TITLE"
+msgstr "Enter title..."
+
+msgid "HEADER_ADD_DESCRIPTION"
+msgstr "Add Description"
+
+msgid "HEADER_DESCRIPTION"
+msgstr "Description"
+
+msgid "SET_DESCRIPTION"
+msgstr "Set Description"
+
+msgid "SET_DESCRIPTION_INSTRUCTIONS"
+msgstr "Enter the new description for your Flipnote below."
+
+msgid "101_CHARACTER_LIMIT_DESC"
+msgstr "Your description is limited to 101 characters in length."
+
+msgid "LEAVE_BLANK_TO_RESET_DESC"
+msgstr "To remove the description, leave the form blank when submitting."
+
+msgid "ENTER_DESCRIPTION"
+msgstr "Enter description..."
+
+msgid "HEADER_FLIPNOTE_OPTIONS"
+msgstr "Options"
+msgid "HEADER_SONG"
+msgstr "Song"

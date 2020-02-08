@@ -1,0 +1,44 @@
+msgid "NO_COMMENTS_YET"
+msgstr "No messages have been sent here."
+
+msgid "HEADER_COMMENTS"
+msgstr "Comments"
+
+msgid "PAGE_FORMAT"
+msgstr "Paĝo %d"
+
+msgid "HEADER_NEXT"
+msgstr "Sekva"
+
+msgid "HEADER_PREV"
+msgstr "Antaŭ"
+
+msgid "HEADER_REFRESH"
+msgstr "Refreŝigi"
+
+msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
+msgstr "Vi devas esti ensalutinta por sendi babilejan mesaĝon."
+
+msgid "CHAT_REPLY_FAILED"
+msgstr "Babileja respondo malsukcesis. Provu denove momente."
+
+msgid "NO_BLANK_MESSAGES_ALLOWED"
+msgstr "Vi ne povas afiŝi malplenan konversacian mesaĝon."
+
+msgid "FLIPNOTE_DATA_CORRUPTED"
+msgstr "La datumoj de Flipnote estas koruptitaj. Provu denove momente."
+
+msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
+msgstr "Vi mutiĝis. Vi eble ne babilas."
+
+msgid "DUPLICATE_COMMENT_FAILED"
+msgstr "Ĉi tiu komento jam estis afiŝita al Sudomemo."
+
+msgid "COMMENT_FAILED_USER_BANNED"
+msgstr "Vi estis aŭ restriktita, aŭ malpermesita de Sudomemo."
+
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "Bonvolu konfirmi vian retpoŝton antaŭ ol sendi."
+
+msgid "MODERATOR"
+msgstr "Moderiganto"

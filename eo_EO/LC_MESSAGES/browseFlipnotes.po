@@ -1,0 +1,65 @@
+msgid "SUDOMEMO"
+msgstr "Sudomemo"
+
+msgid "HEADER_FLIPNOTES"
+msgstr "Flipnotoj"
+
+msgid "HEADER_NORMAL"
+msgstr "Lastatempaj"
+
+msgid "HEADER_HOT_FLIPNOTES"
+msgstr "Varma Flipnotoj"
+
+msgid "HEADER_MOST_POPULAR"
+msgstr "Plej Populara"
+
+msgid "HEADER_NO_SPINOFFS"
+msgstr "Ne Spinoffs"
+
+msgid "HEADER_ROLEPLAYS"
+msgstr "Rolmontriloj"
+
+msgid "HEADER_BROWSE_FLIPNOTES"
+msgstr "Foliumi Flipnotojn"
+
+msgid "HEADER_FEATURED_FLIPNOTES"
+msgstr "Prezentitaj Flipnotoj"
+
+msgid "HEADER_RANDOM_FLIPNOTES"
+msgstr "Randomaj Flipnotoj"
+
+msgid "HEADER_PAGE"
+msgstr "Paĝo"
+
+msgid "PAGE"
+msgstr "Paĝo"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d de %d"
+
+msgid "NEXT"
+msgstr "Sekva"
+
+msgid "PREV"
+msgstr "Antaŭa"
+
+msgid "POST_FLIPNOTE"
+msgstr "Afiŝu Flipnoton"
+
+msgid "CATEGORY_recent"
+msgstr "@Lastatempaj Flipnotoj"
+
+msgid "CATEGORY_hot"
+msgstr "@Varma Flipnotoj"
+
+msgid "CATEGORY_popular"
+msgstr "@Plej Populara"
+
+msgid "CATEGORY_featured"
+msgstr "@Prezentitaj Flipnotoj"
+
+msgid "CATEGORY_random"
+msgstr "@Randomaj Flipnotoj"
+
+msgid "CATEGORY_feed"
+msgstr "@Feed"

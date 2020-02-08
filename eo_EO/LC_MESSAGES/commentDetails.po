@@ -1,0 +1,41 @@
+msgid "COMMENT_DETAILS"
+msgstr "Komentaj Detaloj"
+
+msgid "MESSAGE_DETAILS"
+msgstr "Mesaĝoj Detaloj"
+
+msgid "AUTHOR"
+msgstr "Aŭtoro / Kreinto"
+
+msgid "COMMENT_BY_FORMAT"
+msgstr "Komento de %s"
+
+msgid "CHAT_MESSAGE_FROM_FORMAT"
+msgstr "Babileja Mesaĝo de %s"
+
+msgid "MESSAGE_FROM_FORMAT"
+msgstr "Mesaĝo de %s"
+
+msgid "FLIPNOTE_BY_FORMAT"
+msgstr "Flipnoto de %s"
+
+msgid "COMMENT_ID"
+msgstr "Komenta ID"
+
+msgid "MESSAGE_ID"
+msgstr "ID de mesaĝo"
+
+msgid "CHAT_COMMENT_ID"
+msgstr "Babilada Komenta ID"
+
+msgid "TIMESTAMP"
+msgstr "Tempa poŝtmarko"
+
+msgid "POSTED_TO"
+msgstr "Afiŝita al"
+
+msgid "PRIVATE_CONVERSATION"
+msgstr "Privata Konversacio"
+
+msgid "REPORT_CONTENT"
+msgstr "Raporti Enhavo"

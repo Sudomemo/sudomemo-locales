@@ -1,0 +1,38 @@
+msgid "CHANNEL_NAME"
+msgstr "Kanala Nomo"
+
+msgid "CHANNEL_INFORMATION"
+msgstr "Kanala Informo"
+
+msgid "FLIPNOTES"
+msgstr "Flipnotoj"
+
+msgid "CHANNEL_ID"
+msgstr "ID de Kanalo"
+
+msgid "LOGIN_REQUIRED_TO_POST"
+msgstr "Vi devas esti ensalutinta por afiŝi Flipnoton."
+
+msgid "CHANNEL_NOT_SPECIFIED"
+msgstr "Vi devas elekti kanalon."
+
+msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
+msgstr "Vi estis limigita uzi Sudomemo."
+
+msgid "FLIPNOTE_POST_FAILED"
+msgstr "Flipnota alŝuto malsukcesis. Provu denove momente."
+
+msgid "DUPLICATE_FLIPNOTE_FAILED"
+msgstr "Ĉi Flipnoto jam estis afiŝita al Sudomemo. Provu redakti ĝin denove."
+
+msgid "FLIPNOTE_DATA_CORRUPTED"
+msgstr "La datumoj de Flipnote estas koruptitaj. Provu denove momente."
+
+msgid "NO_BLANK_FLIPNOTES_ALLOWED"
+msgstr "Vi ne rajtas sendi malplenan Flipnoton."
+
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "Bonvolu konfirmi vian retpoŝton antaŭ ol sendi."
+
+msgid "NO_POSTS_WHILE_MUTED"
+msgstr "Vi ne povas afiŝi dum vi silentas."

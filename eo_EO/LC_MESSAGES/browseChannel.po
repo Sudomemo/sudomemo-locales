@@ -1,0 +1,33 @@
+msgid "UPPERTITLE"
+msgstr "Browse Channel"
+
+msgid "POST_FLIPNOTE"
+msgstr "Post Flipnote"
+
+msgid "NEXT"
+msgstr "Next"
+
+msgid "PREV"
+msgstr "Previous"
+
+msgid "PAGE"
+msgstr "Page"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d of %d"
+
+msgid "SPINOFFS"
+msgstr "Spinoffs"
+
+msgid "BROWSE_BY_SONG"
+msgstr "Browse by Song"
+
+msgid "BROWSE_BY_ARTIST"
+msgstr "Browse by Artist"
+
+msgid "BROWSE_BY_ALBUM"
+msgstr "Browse by Album"
+
+msgid "BROWSE_PLAYLIST"
+msgstr "Browse Playlist"
+
