@@ -1,5 +1,11 @@
+
+# To say "who smth belongs to" is usually to add 's. EXCEPT IF THE NAME ENDS WITH s/x, then the prefix is just '.
+# Example:
+#   - olafh10's Dagelijkse Ster Rapportage
+#   - cafas' Dagelijkse Ster Rapportage
+# Any way to program this in here..? Probably not because of the way this translation is grabbed in php right?
 msgid "EMAIL_SUBJECT_FORMAT"
-msgstr "[Sudomemo] %s's Dagelijkse Ster Raportage"
+msgstr "[Sudomemo] %s's Dagelijkse Ster Rapportage"
 
 msgid "STRING_SUDOMEMO"
 msgstr "Sudomemo"
