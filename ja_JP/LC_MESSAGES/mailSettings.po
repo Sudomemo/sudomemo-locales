@@ -35,7 +35,7 @@ msgid "TYPE_NEWS_DESC"
 msgstr "Sudomemoニュースが更新されたときメールを受信する"
 
 msgid "TYPE_PROMO_NAME"
-msgstr "サービスの更新"
+msgstr "Promo"
 
 msgid "TYPE_PROMO_DESC"
 msgstr "新機能、ヒント、コツ、そして今後開催されるイベントについてのメールを受け取る"
@@ -100,3 +100,9 @@ msgstr "'%s'のメールを無効にしました。"
 msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
 msgstr "このリンクは期限が切れました。"
 
+
+msgid "TYPE_SERVICE_UPDATE_NAME"
+msgstr "Service Updates"
+
+msgid "TYPE_SERVICE_UPDATE_DESC"
+msgstr "Important updates about Sudomemo's status or availability related to your account"

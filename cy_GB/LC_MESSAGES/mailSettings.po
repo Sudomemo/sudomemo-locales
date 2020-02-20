@@ -35,7 +35,7 @@ msgid "TYPE_NEWS_DESC"
 msgstr "Derbyn e-bost pan fydd rhywbeth newydd yn cael ei bostio i Sudomemo News"
 
 msgid "TYPE_PROMO_NAME"
-msgstr "Newyddion Gwasanaeth"
+msgstr "Promo"
 
 msgid "TYPE_PROMO_DESC"
 msgstr "Derbyn negeseuon e-bost am nodweddion, awgrymiadau a driciau newydd, a digwyddiadau sydd ar y gweill!"
@@ -100,3 +100,9 @@ msgstr "Rydych chi wedi analluogi negeseuon e-bost '%s'."
 msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
 msgstr "Mae'r ddolen a ddilynoch wedi dod i ben."
 
+
+msgid "TYPE_SERVICE_UPDATE_NAME"
+msgstr "Service Updates"
+
+msgid "TYPE_SERVICE_UPDATE_DESC"
+msgstr "Important updates about Sudomemo's status or availability related to your account"

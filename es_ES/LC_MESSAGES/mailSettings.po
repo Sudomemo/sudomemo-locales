@@ -35,7 +35,7 @@ msgid "TYPE_NEWS_DESC"
 msgstr "Recibe un Correo electrónico cuando algo nuevo sea publicado en las Noticas de Sudomemo"
 
 msgid "TYPE_PROMO_NAME"
-msgstr "Actualizaciones de servicio"
+msgstr "Promo"
 
 msgid "TYPE_PROMO_DESC"
 msgstr "¡Reciba Correos electrónicos de nuevas funciones, consejos y eventos por venir!"
@@ -100,3 +100,9 @@ msgstr "Has desabilitado los Correos de '%s'."
 msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
 msgstr "El link que has seguido ha caducado."
 
+
+msgid "TYPE_SERVICE_UPDATE_NAME"
+msgstr "Service Updates"
+
+msgid "TYPE_SERVICE_UPDATE_DESC"
+msgstr "Important updates about Sudomemo's status or availability related to your account"
