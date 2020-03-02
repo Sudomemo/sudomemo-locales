@@ -1,83 +1,83 @@
 # Sudomemo Plus Legacy Citizenship Activation
 msgid "SUDOMEMO_PLUS_LEGACY_HEADER"
-msgstr "Welcome to Sudomemo Plus!"
+msgstr "Welkom bij Sudomemo Plus!"
 
 msgid "GREETING_LEGACY_ACTIVATE_FORMAT"
-msgstr "Hello, %s!"
+msgstr "Hallo, %s!"
 
 msgid "LEGACY_ACTIVATE_CITIZENSHIP_CHANGE"
-msgstr "Sudomemo Citizenship has gone away, replaced by Sudomemo Plus!"
+msgstr "Sudomemo Citizenship is weggegaan, en is vervangen door Sudomemo Plus!"
 
 msgid "LEGACY_ACTIVATE_PLUS_TEASER"
-msgstr "Sudomemo Plus gives you access to all sorts of extra features, such as smoothing and audio enhancement of your Flipnotes on Sudomemo Theatre, as well as colorful comments and other neat features!"
+msgstr "Sudomemo Plus geeft je toegang tot veel soorten extra functies, zoals verzachting en geluidsverbetering voor jouw Flipnotes op Sudomemo Theatre, net als kleurvolle stukken commentaar en en andere mooie functies!"
 
 msgid "LEGACY_ACTIVATE_EARN_PLUS"
-msgstr "Sudomemo Plus can be earned by redeeming tickets purchased from our Shop or by entering a winning entry to our Weekly Topic."
+msgstr "Sudomemo Plus kan verdiend worden door tickets te verzilveren die in onze Shop zijn gekocht of door een winnende inzending te doen naar ons Weeklijkse Onderwerp."
 
 msgid "LEGACY_ACTIVATE_GRANDFATHERED_BONUS"
-msgstr "Since you previously had Citizenship, you've been given a month free of Sudomemo Plus. Make sure to take a look around and try out some fun new features!"
+msgstr "Omdat je hiervoor al Citizenship had, ben je een maand gratis Sudomemo Plus gegeven. Zorg dat je een beetje rondkijkt en een paar van de leuke nieuwe functies uitprobeert!"
 
 msgid "CONTINUE"
-msgstr "Continue"
+msgstr "Ga door"
 
 # My Sudomemo Plus
 
 msgid "MANAGE_PLUS_HEADER"
-msgstr "My Sudomemo Plus"
+msgstr "Mijn Sudomemo Plus"
 
 msgid "MANAGE_PLUS_REMAINING"
-msgstr "You currently have %s day(s) of Sudomemo Plus remaining."
+msgstr "Je hebt op dit moment %s dag(en) van Sudomemo Plus over."
 
 msgid "MANAGE_PLUS_HOW_TO_EARN_PLUS"
-msgstr "Sudomemo Plus can be earned by redeeming tickets purchased from our Shop or by entering a winning entry to our Weekly Topic."
+msgstr "Sudomemo Plus kan verdiend worden door tickets te verzilveren die in onze Shop zijn gekocht of door een winnende inzending te doen naar ons Weeklijkse Onderwerp."
 
 msgid "AVAILABLE_PLUS_FEATURES"
-msgstr "The following features are available through Sudomemo Plus. Make sure to check back here every once in a while!"
+msgstr "De onderstaande functies zijn beschikbaar door Sudomemo Plus. Zorg dat je hier nog eens komt kijken elke nu en dan!"
 
 msgid "FOOTNOTE_PLATFORM_FEATURE_PARITY"
-msgstr "Please note that some features, such as Flipnote Smoothing and audio enhancement, can only be seen on Sudomemo Theatre."
+msgstr "Houdt alsjeblieft in gedachten dat sommige functies, zoals Flipnote verzachting en geluidsverbetering, alleen gezien kunnen worden op Sudomemo Theatre."
 
 msgid "FLIPNOTE_SMOOTHING"
-msgstr "Flipnote Smoothing"
+msgstr "Flipnote Verzachting"
 
 msgid "FLIPNOTE_AUDIO_ENHANCEMENT"
-msgstr "Flipnote Audio Enhancement"
+msgstr "Flipnote Geluidsverbetering"
 
 msgid "COLORFUL_COMMENTS"
-msgstr "Write colorful comments"
+msgstr "Schrijf kleurvolle stukken commentaar"
 
 msgid "DOWNLOAD_YOUR_COMMENTS"
-msgstr "Download your comments as Flipnotes"
+msgstr "Download je comments als Flipnotes"
 
 msgid "THEME_PUBLISHER_ACCESS"
-msgstr "Publish themes to the Theme Shop"
+msgstr "Publiceer thema's op de Thema's Winkel"
 
 msgid "FLIPNOTE_ANALYTICS"
-msgstr "Access analytics information for your Flipnotes"
+msgstr "Toegang hebben tot analytics informatie voor je Flipnotes"
 
 msgid "SUDOMEMO_GAME_ACCESS"
-msgstr "Play special games right on Sudomemo!"
+msgstr "Speel speciale games direct op Sudomemo!"
 
 msgid "NO_THEATRE_ADS"
-msgstr "No advertisements on Sudomemo Theatre"
+msgstr "Geen advertenties op Sudomemo Theatre"
 
 msgid "INCREASED_FOLLOW_LIMIT"
-msgstr "Increased follow limit - up to %s Creators"
+msgstr "Hoger volg limiet - tot %s Makers"
 
 # Sudomemo Plus Running Low Message
 
 msgid "PLUS_RUNNING_OUT_MSG_TITLE"
-msgstr "My Sudomemo Plus"
+msgstr "Mijn Sudomemo Plus"
 
 msgid "PLUS_RUNNING_OUT_MSG_INTRO"
-msgstr "Hello, %s!"
+msgstr "Hallo, %s!"
 
 msgid "PLUS_RUNNING_OUT_MSG_DAYS_REMAINING_FORMAT"
-msgstr "This message is to let you know that you have %s days of Sudomemo Plus remaining."
+msgstr "Dit bericht is om je te laten weten dat je %s dagen van Sudomemo Plus over hebt."
 
 msgid "PLUS_RUNNING_OUT_MSG_HOW_TO_EARN_PLUS"
-msgstr "Don't forget that you can earn Sudomemo Plus by entering winning entries to the Weekly Topic, or by redeeming tickets purchased from our Shop."
+msgstr "Vergeet niet dat je Sudomemo Plus kan verdienen door winnende inzendingen te doen naar ons Weeklijkse Onderwerp, of door tickets te verzilveren die in onze Shop gekocht zijn."
 
+# I think that this is kind of the catch phrase of Sudomemo, so I'm not translating it.
 msgid "PLUS_RUNNING_OUT_MSG_HAPPY_FLIPNOTING"
 msgstr "Happy Flipnoting!"
-

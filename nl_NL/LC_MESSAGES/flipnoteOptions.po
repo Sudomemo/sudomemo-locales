@@ -35,20 +35,20 @@ msgid "CITIZENSHIP_REQUIRED"
 msgstr "Je hebt Sudomemo Citizenship nodig om deze functie te gebruiken."
 
 msgid "PLUS_REQUIRED"
-msgstr "You'll need Sudomemo Plus to use this feature."
+msgstr "Je hebt Sudomemo Plus nodig om dit te gebruiken."
 
 msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
 msgstr "Tik op de status van een optie om deze te weergeven of te veranderen."
 
 msgid "OPTION_NAME_FORCE_44K_BITRATE"
-msgstr "Enhanced audio"
+msgstr "Verbeterd geluid"
 
 msgid "OPTION_DESC_FORCE_44K_BITRATE"
-msgstr "Sudomemo will try to make your audio sound crisper and cleaner for Sudomemo Theatre."
+msgstr "Sudomemo zal proberen om jouw geluid scherper en schoner te maken voor Sudomemo Theatre."
 
 msgid "ENABLE_AUDIO_ENHANCEMENT"
-msgstr "Enable audio enhancement"
+msgstr "Schakel geluidsverbetering in"
 
 msgid "DISABLE_AUDIO_ENHANCEMENT"
-msgstr "Disable audio enhancement"
+msgstr "Schakel geluidsverbetering uit"
 

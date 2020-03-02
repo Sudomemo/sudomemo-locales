@@ -106,5 +106,6 @@ msgstr "Voer beschrijving in..."
 msgid "HEADER_FLIPNOTE_OPTIONS"
 msgstr "Opties"
 
+# This is actually the translation for "Music", but it fits better because the word for "Song" ("Lied"/"Liedje") isn't used in Dutch very often
 msgid "HEADER_SONG"
-msgstr "Song"
+msgstr "Muziek"
