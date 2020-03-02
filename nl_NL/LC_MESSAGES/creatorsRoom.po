@@ -201,16 +201,16 @@ msgid "REDEEM"
 msgstr "Wissel in"
 
 msgid "SPENDABLE_STARS"
-msgstr "Your Stars"
+msgstr "Jouw Sterren "
 
 msgid "SPENDABLE_STARS_HELPTEXT"
-msgstr "Stars to add to Flipnotes or use for themes"
+msgstr "Sterren om aan Flipnotes toe te voegen of om te gebruiken voor thema's"
 
 msgid "LOGIN_REQUIRED_ACTION"
-msgstr "You must be logged in to perform this action."
+msgstr "Je moet ingelogd zijn om dit te doen."
 
 msgid "PAGE"
-msgstr "Page"
+msgstr "Pagina"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d of %d"
+msgstr "%d van %d"
