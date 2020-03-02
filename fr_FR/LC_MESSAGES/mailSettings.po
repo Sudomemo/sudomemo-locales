@@ -102,7 +102,7 @@ msgstr "Le lien que vous avez suivi a expiré."
 
 
 msgid "TYPE_SERVICE_UPDATE_NAME"
-msgstr "Service Updates"
+msgstr "Mises à jour du service"
 
 msgid "TYPE_SERVICE_UPDATE_DESC"
-msgstr "Important updates about Sudomemo's status or availability related to your account"
+msgstr "Mises à jour concernant le statut ou la disponibilité de Sudomemo liées à votre compte"
