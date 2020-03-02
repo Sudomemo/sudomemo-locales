@@ -728,4 +728,18 @@ msgid "TICKET_NAME_ffotd_ticket"
 msgstr "First Flipnote of the Decade"
 
 msgid "TICKET_DESC_ffotd_ticket"
+
 msgstr "Congratulations! You posted the first Flipnote of the new decade!"
+
+msgid "TICKET_NAME_love_anniversary_ticket"
+msgstr "Anniversary Ticket"
+
+msgid "TICKET_DESC_love_anniversary_ticket" 
+msgstr "Happy Anniversary "
+
+msgid "TICKET_NAME_special_someone_ticket"
+msgstr "Special Someone Ticket"
+
+msgid "TICKET_DESC_special_someone_ticket"
+msgstr "A special ticket for a special someone."
+

@@ -729,3 +729,16 @@ msgstr "Första Flipnoten av decenniet"
 
 msgid "TICKET_DESC_ffotd_ticket"
 msgstr "Gratulerar! Du Publicerade den första Flipnten av decenniet!"
+
+msgid "TICKET_NAME_love_anniversary_ticket"
+msgstr "Årsdagsbiljett"
+
+msgid "TICKET_DESC_love_anniversary_ticket" 
+msgstr "Grattis på årsdagen "
+
+msgid "TICKET_NAME_special_someone_ticket"
+msgstr "Special Someone Ticket"
+
+msgid "TICKET_DESC_special_someone_ticket"
+msgstr "A special ticket for a special someone."
+
