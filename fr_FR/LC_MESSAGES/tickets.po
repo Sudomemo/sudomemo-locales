@@ -137,3 +137,17 @@ msgstr "Première Flipnote de la décennie"
 msgid "TICKET_DESC_ffotd_ticket"
 msgstr "Félicitations ! Vous avez posté la première Flipnote de cette décennie !"
 
+
+msgid "TICKET_NAME_survey_thanks_ticket"
+msgstr "Survey Ticket"
+
+msgid "TICKET_DESC_survey_thanks_ticket"
+msgstr "Thanks for filling out our survey!"
+
+
+msgid "TICKET_NAME_special_someone_ticket"
+msgstr "Special Someone Ticket"
+
+msgid "TICKET_DESC_special_someone_ticket"
+msgstr "A special ticket for a special someone."
+
