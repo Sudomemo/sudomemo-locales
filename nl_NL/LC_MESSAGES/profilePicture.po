@@ -1,8 +1,8 @@
 msgid "SET_PROFILE_PICTURE"
-msgstr "Zet als Profiel Foto"
+msgstr "Zet als Profielfoto"
 
 msgid "PROMPT_CHANGE_YOUR_PROFILE_IMAGE"
-msgstr "Verander je Profiel Foto?"
+msgstr "Verander je Profielfoto?"
 
 msgid "CONTINUE_SET_AS_PROFILE_PICTURE"
 msgstr "Bevestig"
@@ -14,7 +14,7 @@ msgid "NEW"
 msgstr "Nieuw"
 
 msgid "PROFILE_PICTURE_SET"
-msgstr "Profiel Foto succesvol veranderd!"
+msgstr "Profielfoto succesvol veranderd!"
 
 msgid "RETURN_TO_FLIPNOTE"
 msgstr "Terug naar Flipnote"
@@ -26,5 +26,4 @@ msgid "CANCEL"
 msgstr "Annuleer"
 
 msgid "LOGIN_REQUIRED_TO_CHANGE"
-msgstr "You must be logged in to change your profile picture."
-
+msgstr "Je moet ingelogd zijn om je profielfoto te kunnen veranderen"

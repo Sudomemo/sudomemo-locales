@@ -64,10 +64,10 @@ msgid "SUDOMEMO_PLUS"
 msgstr "Sudomemo Plus"
 
 msgid "SUDOMEMO_PLUS_FORMAT"
-msgstr "You received %s days worth of Sudomemo Plus!"
+msgstr "Je hebt %s dagen Sudomemo Plus ontvangen!"
 
 msgid "SUDOMEMO_PLUS_BALANCE_FORMAT"
-msgstr "Balance: %s days"
+msgstr "Saldo: %s days"
 
 # Each ticket type will have a name and a description
 
@@ -108,36 +108,33 @@ msgid "TICKET_DESC_birthday_ticket"
 msgstr "Van Harte Gefeliciteerd!"
 
 msgid "TICKET_NAME_love_anniversary_ticket"
-msgstr "Anniversary Ticket"
+msgstr "Jubileum Ticket"
 
 # The last character of this message is the DSi symbol for a heart. Don't remove it.
 msgid "TICKET_DESC_love_anniversary_ticket" 
-msgstr "Happy Anniversary "
+msgstr "Gefeliciteerd met jouw jubileum "
 
 # Sudomemo Plus
 msgid "TICKET_NAME_one_month_plus_ticket"
-msgstr "Plus Ticket (One Month)"
+msgstr "Plus Ticket (Één Maand)"
 
 msgid "TICKET_DESC_one_month_plus_ticket"
-msgstr "This ticket will give you one month of Sudomemo Plus!"
+msgstr "Dit prijskaartje zal je één maand Sudomemo Plus geven!"
 
 msgid "TICKET_NAME_one_year_plus_ticket"
-msgstr "Plus Ticket (One Year)"
+msgstr "Plus Ticket (Één Jaar)"
 
 msgid "TICKET_DESC_one_year_plus_ticket"
-msgstr "This ticket will give you one year of Sudomemo Plus!"
-
+msgstr "Dit prijskaartje zal je één jaar Sudomemo Plus geven!"
 
 msgid "DONT_HAVE_ANY_TO_USE"
-msgstr "You don't have any of that item to use."
-
+msgstr "Je hebt geen van dat item om te gebruiken."
 
 msgid "TICKET_NAME_ffotd_ticket"
-msgstr "First Flipnote of the Decade"
+msgstr "Eerste Flipnote van de Decade"
 
 msgid "TICKET_DESC_ffotd_ticket"
-msgstr "Congratulations! You posted the first Flipnote of the new decade!"
-
+msgstr "Gefeliciteerd! Je hebt de eerste Flipnote van de decade geplaatst!"
 
 msgid "TICKET_NAME_survey_thanks_ticket"
 msgstr "Survey Ticket"
@@ -145,10 +142,8 @@ msgstr "Survey Ticket"
 msgid "TICKET_DESC_survey_thanks_ticket"
 msgstr "Thanks for filling out our survey!"
 
-
 msgid "TICKET_NAME_special_someone_ticket"
 msgstr "Special Someone Ticket"
 
 msgid "TICKET_DESC_special_someone_ticket"
 msgstr "A special ticket for a special someone."
-
