@@ -4,7 +4,7 @@ msgid "REDEEM_CODE"
 msgstr "引き換えコード"
 
 msgid "ENTER_CODE_TO_REDEEM"
-msgstr "下に引き換えるコードを入力してください。"
+msgstr "引き換えるコードを入力してください。"
 
 msgid "CODE_ALREADY_USED"
 msgstr "入力されたコードは使用済みです。"
@@ -129,21 +129,21 @@ msgstr "1年分Sudomemo Plusをご利用いただけるチケットです!"
 
 
 msgid "DONT_HAVE_ANY_TO_USE"
-msgstr "You don't have any of that item to use."
+msgstr "使用できるアイテムがありません…"
 
 
 msgid "TICKET_NAME_ffotd_ticket"
-msgstr "First Flipnote of the Decade"
+msgstr "10年間の最初の作品"
 
 msgid "TICKET_DESC_ffotd_ticket"
-msgstr "Congratulations! You posted the first Flipnote of the new decade!"
+msgstr "おめでとうございます！新10年間の最初の作品を投稿しました。"
 
 
 msgid "TICKET_NAME_survey_thanks_ticket"
-msgstr "Survey Ticket"
+msgstr "調査チケット"
 
 msgid "TICKET_DESC_survey_thanks_ticket"
-msgstr "Thanks for filling out our survey!"
+msgstr "調査にご協力いただき、ありがとうございました！"
 
 
 
@@ -156,8 +156,7 @@ msgstr "Thanks for filling out our survey!"
 
 
 msgid "TICKET_NAME_special_someone_ticket"
-msgstr "Special Someone Ticket"
+msgstr "スペシャルサムワンチケット"
 
 msgid "TICKET_DESC_special_someone_ticket"
-msgstr "For that special someone. Three months of Plus, Color Stars, and an exclusive theme."
-
+msgstr "スペシャルサムワンチケットは、特別な誰かのために贈るものです。三か月間のSudomemo Plus、カラースター、および専用のテーマが交付されます。"
