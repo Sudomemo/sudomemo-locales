@@ -102,7 +102,7 @@ msgstr "このリンクは期限が切れました。"
 
 
 msgid "TYPE_SERVICE_UPDATE_NAME"
-msgstr "Service Updates"
+msgstr "サービスアップデート"
 
 msgid "TYPE_SERVICE_UPDATE_DESC"
-msgstr "Important updates about Sudomemo's status or availability related to your account"
+msgstr "アカウントに関連する、スドメモのステータスに対する重要な更新、またはそれに関連したアベイラビリティ"
