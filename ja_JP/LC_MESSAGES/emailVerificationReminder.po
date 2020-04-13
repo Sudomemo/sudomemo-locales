@@ -17,6 +17,5 @@ msgid "TEXT_NEED_HELP_CONNECTION_INFO_LINK_FORMAT"
 msgstr "スドメモに接続するためのサポートが必要ですか？設定ガイドはここにあります: %s"
 
 
-
 msgid "EMAIL_VERIFICATION_REMOVE_ME"
-msgstr "Remove me, you have the wrong email address"
+msgstr "無効なメールアドレスです"
