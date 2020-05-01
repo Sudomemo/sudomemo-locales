@@ -145,18 +145,14 @@ msgstr "調査チケット"
 msgid "TICKET_DESC_survey_thanks_ticket"
 msgstr "調査にご協力いただき、ありがとうございました！"
 
-
-
-
-
-
-
-
-
-
-
 msgid "TICKET_NAME_special_someone_ticket"
 msgstr "スペシャルサムワンチケット"
 
 msgid "TICKET_DESC_special_someone_ticket"
 msgstr "スペシャルサムワンチケットは、特別な誰かのために贈るものです。三か月間のSudomemo Plus、カラースター、および専用のテーマが交付されます。"
+
+msgid "TICKET_NAME_folding_reward_ticket"
+msgstr "Folding@Home Reward Ticket"
+
+msgid "TICKET_DESC_folding_reward_ticket"
+msgstr "Thanks for helping save lives!"
