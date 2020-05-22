@@ -48,6 +48,9 @@ msgstr "%sを引き換えましたが、"
 msgid "TICKET_REDEEM_NO_PRIZES"
 msgstr "残念ですが、何も獲得できませんでした。"
 
+msgid "ACHIEVEMENT"
+msgstr "Achievement"
+
 msgid "COLOR_STARS"
 msgstr "カラースター"
 
@@ -156,3 +159,34 @@ msgstr "Folding@Home Reward Ticket"
 
 msgid "TICKET_DESC_folding_reward_ticket"
 msgstr "Thanks for helping save lives!"
+msgid "TICKET_NAME_green_panda_ticket"
+msgstr "Lazy Paisley Ticket"
+
+msgid "TICKET_DESC_green_panda_ticket"
+msgstr "This ticket gives you 110 spendable Sudomemo Stars, an exclusive theme, and a special badge displayed on your profile!"
+
+msgid "TICKET_NAME_red_bird_ticket"
+msgstr "Bailey Flitwing Ticket"
+
+msgid "TICKET_DESC_red_bird_ticket"
+msgstr "This ticket gives you 230 spendable Sudomemo Stars, an exclusive theme, and a special badge displayed on your profile!"
+
+msgid "TICKET_NAME_blue_dog_ticket"
+msgstr "Ziggy Starburst Ticket"
+
+msgid "TICKET_DESC_blue_dog_ticket"
+msgstr "This ticket gives you 350 spendable Sudomemo Stars (maybe even a rare one!), an exclusive theme, and a special badge displayed on your profile!"
+
+msgid "TICKET_NAME_purple_bunny_ticket"
+msgstr "Russell Ramblewood Ticket"
+
+msgid "TICKET_DESC_purple_bunny_ticket"
+msgstr "This ticket gives you 600 spendable Sudomemo Stars (very likely some rare ones!), an exclusive theme, and a special badge displayed on your profile!"
+
+msgid "TICKET_NAME_golden_neko_ticket"
+msgstr "Mitsuo Meow Ticket"
+
+msgid "TICKET_DESC_golden_neko_ticket"
+msgstr "This ticket gives you 1300 spendable Sudomemo Stars (with multiple rare ones!), an exclusive theme, and a special badge displayed on your profile!"
+
+
