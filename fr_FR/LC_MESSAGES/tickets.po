@@ -188,3 +188,15 @@ msgstr "Ticket Mitsuo Meow"
 
 msgid "TICKET_DESC_golden_neko_ticket"
 msgstr "Ce ticket vous donne 1300 Étoiles Sudomemo dépensables (avec plusieurs étoiles rares !), un thème exclusif, et un badge spécial affiché sur votre profil !"
+msgid "TICKET_NAME_translator_ticket"
+msgstr "Translator Ticket"
+
+msgid "TICKET_DESC_translator_ticket"
+msgstr "Thank you for helping localize Sudomemo!"
+
+
+msgid "TICKET_NAME_colors_promo_ticket"
+msgstr "Colors! Promo Ticket"
+
+msgid "TICKET_DESC_colors_promo_ticket"
+msgstr "You won the Sudomemo x Colors! June 2020 Weekly Topic!"

@@ -782,3 +782,21 @@ msgstr "Ce ticket vous donne 1300 Étoiles Sudomemo dépensables (avec plusieurs
 
 msgid "TROPHY_CASE"
 msgstr "Vitrine à trophées"
+msgid "TICKET_NAME_translator_ticket"
+msgstr "Translator Ticket"
+
+msgid "TICKET_DESC_translator_ticket"
+msgstr "Thank you for helping localize Sudomemo!"
+
+
+
+# This is shown to logged-in users on their own Flipnotes without titles
+
+msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
+msgstr "Untitled Flipnote by %s"
+
+msgid "TICKET_NAME_colors_promo_ticket"
+msgstr "Colors! Promo Ticket"
+
+msgid "TICKET_DESC_colors_promo_ticket"
+msgstr "You won the Sudomemo x Colors! June 2020 Weekly Topic!"
