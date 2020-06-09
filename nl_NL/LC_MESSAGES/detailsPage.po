@@ -109,3 +109,8 @@ msgstr "Opties"
 # This is actually the translation for "Music", but it fits better because the word for "Song" ("Lied"/"Liedje") isn't used in Dutch very often
 msgid "HEADER_SONG"
 msgstr "Muziek"
+
+# This is shown to logged-in users on their own Flipnotes without titles
+
+msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
+msgstr "Untitled Flipnote by %s"
