@@ -1,8 +1,8 @@
 msgid "EMAIL_SUBJECT"
-msgstr "[Sudomemo] Du musst deine Email-Adresse bestätigen"
+msgstr "[Sudomemo] Bestätigung deiner Email-Adresse"
 
 msgid "VERIFICATION_HEADER"
-msgstr "Sudomemo - Email-Bestätigung"
+msgstr "Sudomemo - Bestätigung der Email-Adresse"
 
 msgid "TEXT_HELLO_FORMAT"
 msgstr "Hallo, %s!"
@@ -17,4 +17,4 @@ msgid "TEXT_NEED_HELP_CONNECTION_INFO_LINK_FORMAT"
 msgstr "Benötigst du Hilfe zur Verbindung mit Sudomemo? Hier findest du die Einrichtungs-Anleitung: %s"
 
 msgid "EMAIL_VERIFICATION_REMOVE_ME"
-msgstr "Remove me, you have the wrong email address"
+msgstr "Entferne mich, du hast die falsche Email-Adresse"
