@@ -190,7 +190,6 @@ msgstr "Stars"
 msgid "TITLE"
 msgstr "Title"
 
-
 # Referring to being the most popular (in terms of ranking)
 msgid "TOP"
 msgstr "Top"
@@ -655,7 +654,6 @@ msgstr "Personal"
 msgid "CHANNEL_CAT_NAME_WEEKLY_TOPIC"
 msgstr "Weekly Topic"
 
-
 # 404 Page
 
 msgid "404_OOPS_NOT_FOUND"
@@ -686,18 +684,6 @@ msgstr "All About Sudomemo Plus"
 
 ## Ticket types..
 
-msgid "TICKET_NAME_one_month_plus_ticket"
-msgstr "Plus Ticket (One Month)"
-
-msgid "TICKET_DESC_one_month_plus_ticket"
-msgstr "This ticket will give you one month of Sudomemo Plus!"
-
-msgid "TICKET_NAME_one_year_plus_ticket"
-msgstr "Plus Ticket (One Year)"
-
-msgid "TICKET_DESC_one_year_plus_ticket"
-msgstr "This ticket will give you one year of Sudomemo Plus!"
-
 # Login Page
 
 msgid "LOGIN_FAILED_CHECK_DETAILS"
@@ -724,86 +710,11 @@ msgstr "Nintendo 3DS"
 msgid "BROWSE_SONG_YOU_ARE_BROWSING_SONG"
 msgstr "See Flipnotes with the song %s by %s"
 
-msgid "TICKET_NAME_ffotd_ticket"
-msgstr "First Flipnote of the Decade"
-
-msgid "TICKET_DESC_ffotd_ticket"
-msgstr "Congratulations! You posted the first Flipnote of the new decade!"
-
-msgid "TICKET_NAME_love_anniversary_ticket"
-msgstr "Anniversary Ticket"
-
-msgid "TICKET_DESC_love_anniversary_ticket" 
-msgstr "Happy Anniversary "
-
-
-
-
-
-
-
-msgid "TICKET_NAME_special_someone_ticket"
-msgstr "Special Someone Ticket"
-
-msgid "TICKET_DESC_special_someone_ticket"
-msgstr "For that special someone. Three months of Plus, Color Stars, and an exclusive theme."
-
-
-msgid "TICKET_NAME_folding_reward_ticket"
-msgstr "Folding@Home Reward Ticket"
-
-msgid "TICKET_DESC_folding_reward_ticket"
-msgstr "Thanks for helping save lives!"
-
-
-msgid "TICKET_NAME_green_panda_ticket"
-msgstr "Lazy Paisley Ticket"
-
-msgid "TICKET_DESC_green_panda_ticket"
-msgstr "This ticket gives you 110 spendable Sudomemo Stars, an exclusive theme, and a special badge displayed on your profile!"
-
-msgid "TICKET_NAME_red_bird_ticket"
-msgstr "Bailey Flitwing Ticket"
-
-msgid "TICKET_DESC_red_bird_ticket"
-msgstr "This ticket gives you 230 spendable Sudomemo Stars, an exclusive theme, and a special badge displayed on your profile!"
-
-msgid "TICKET_NAME_blue_dog_ticket"
-msgstr "Ziggy Starburst Ticket"
-
-msgid "TICKET_DESC_blue_dog_ticket"
-msgstr "This ticket gives you 350 spendable Sudomemo Stars (maybe even a rare one!), an exclusive theme, and a special badge displayed on your profile!"
-
-msgid "TICKET_NAME_purple_bunny_ticket"
-msgstr "Russell Ramblewood Ticket"
-
-msgid "TICKET_DESC_purple_bunny_ticket"
-msgstr "This ticket gives you 600 spendable Sudomemo Stars (very likely some rare ones!), an exclusive theme, and a special badge displayed on your profile!"
-
-msgid "TICKET_NAME_golden_neko_ticket"
-msgstr "Mitsuo Meow Ticket"
-
-msgid "TICKET_DESC_golden_neko_ticket"
-msgstr "This ticket gives you 1300 spendable Sudomemo Stars (with multiple rare ones!), an exclusive theme, and a special badge displayed on your profile!"
-
-
 msgid "TROPHY_CASE"
 msgstr "Trophy Case"
-msgid "TICKET_NAME_translator_ticket"
-msgstr "Translator Ticket"
-
-msgid "TICKET_DESC_translator_ticket"
-msgstr "Thank you for helping localize Sudomemo!"
-
-
 
 # This is shown to logged-in users on their own Flipnotes without titles
 
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "Untitled Flipnote by %s"
 
-msgid "TICKET_NAME_colors_promo_ticket"
-msgstr "Colors! Promo Ticket"
-
-msgid "TICKET_DESC_colors_promo_ticket"
-msgstr "You won the Sudomemo x Colors! June 2020 Weekly Topic!"
