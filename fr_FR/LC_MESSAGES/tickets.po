@@ -133,13 +133,11 @@ msgstr "Ce ticket vous donnera un an de Sudomemo Plus !"
 msgid "DONT_HAVE_ANY_TO_USE"
 msgstr "Vous n'avez aucun exemplaire de cet objet à utiliser."
 
-
 msgid "TICKET_NAME_ffotd_ticket"
 msgstr "Première Flipnote de la décennie"
 
 msgid "TICKET_DESC_ffotd_ticket"
 msgstr "Félicitations ! Vous avez posté la première Flipnote de cette décennie !"
-
 
 msgid "TICKET_NAME_survey_thanks_ticket"
 msgstr "Ticket de sondage"
@@ -194,9 +192,14 @@ msgstr "Ticket de traducteur"
 msgid "TICKET_DESC_translator_ticket"
 msgstr "Merci d'avoir aidé à traduire Sudomemo !"
 
-
 msgid "TICKET_NAME_colors_promo_ticket"
 msgstr "Ticket Promo Colors!"
 
 msgid "TICKET_DESC_colors_promo_ticket"
 msgstr "Vous avez gagné le Weekly Topic (thème hebdomadaire) Sudomemo x Colors! de juin 2020 !"
+
+msgid "TICKET_NAME_neighborhood_watch_ticket"
+msgstr "Neighborhood Watch Ticket"
+
+msgid "TICKET_DESC_neighborhood_watch_ticket"
+msgstr "Thank you helping keep Sudomemo a safe and welcoming place!"

@@ -100,7 +100,6 @@ msgstr "Vous avez désactivé ces mails : '%s'."
 msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
 msgstr "Le lien que vous avez suivi a expiré."
 
-
 msgid "TYPE_SERVICE_UPDATE_NAME"
 msgstr "Mises à jour du service"
 

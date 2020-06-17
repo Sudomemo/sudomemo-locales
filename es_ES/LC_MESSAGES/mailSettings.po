@@ -100,7 +100,6 @@ msgstr "Has desabilitado los Correos de '%s'."
 msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
 msgstr "El link que has seguido ha caducado."
 
-
 msgid "TYPE_SERVICE_UPDATE_NAME"
 msgstr "Service Updates"
 

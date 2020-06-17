@@ -130,17 +130,14 @@ msgstr "Plusチケット (1年)"
 msgid "TICKET_DESC_one_year_plus_ticket"
 msgstr "1年分Sudomemo Plusをご利用いただけるチケットです!"
 
-
 msgid "DONT_HAVE_ANY_TO_USE"
 msgstr "使用できるアイテムがありません…"
-
 
 msgid "TICKET_NAME_ffotd_ticket"
 msgstr "10年間の最初の作品"
 
 msgid "TICKET_DESC_ffotd_ticket"
 msgstr "おめでとうございます！新10年間の最初の作品を投稿しました。"
-
 
 msgid "TICKET_NAME_survey_thanks_ticket"
 msgstr "調査チケット"
@@ -189,16 +186,20 @@ msgstr "Mitsuo Meow Ticket"
 msgid "TICKET_DESC_golden_neko_ticket"
 msgstr "This ticket gives you 1300 spendable Sudomemo Stars (with multiple rare ones!), an exclusive theme, and a special badge displayed on your profile!"
 
-
 msgid "TICKET_NAME_translator_ticket"
 msgstr "Translator Ticket"
 
 msgid "TICKET_DESC_translator_ticket"
 msgstr "Thank you for helping localize Sudomemo!"
 
-
 msgid "TICKET_NAME_colors_promo_ticket"
 msgstr "Colors! Promo Ticket"
 
 msgid "TICKET_DESC_colors_promo_ticket"
 msgstr "You won the Sudomemo x Colors! June 2020 Weekly Topic!"
+
+msgid "TICKET_NAME_neighborhood_watch_ticket"
+msgstr "Neighborhood Watch Ticket"
+
+msgid "TICKET_DESC_neighborhood_watch_ticket"
+msgstr "Thank you helping keep Sudomemo a safe and welcoming place!"

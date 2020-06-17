@@ -100,7 +100,6 @@ msgstr "'%s'のメールを無効にしました。"
 msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
 msgstr "このリンクは期限が切れました。"
 
-
 msgid "TYPE_SERVICE_UPDATE_NAME"
 msgstr "サービスアップデート"
 

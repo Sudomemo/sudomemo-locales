@@ -132,13 +132,11 @@ msgstr "This ticket will give you one year of Sudomemo Plus!"
 msgid "DONT_HAVE_ANY_TO_USE"
 msgstr "You don't have any of that item to use."
 
-
 msgid "TICKET_NAME_ffotd_ticket"
 msgstr "First Flipnote of the Decade"
 
 msgid "TICKET_DESC_ffotd_ticket"
 msgstr "Congratulations! You posted the first Flipnote of the new decade!"
-
 
 msgid "TICKET_NAME_survey_thanks_ticket"
 msgstr "Survey Ticket"
@@ -146,29 +144,17 @@ msgstr "Survey Ticket"
 msgid "TICKET_DESC_survey_thanks_ticket"
 msgstr "Thanks for filling out our survey!"
 
-
-
-
-
-
-
-
-
-
-
 msgid "TICKET_NAME_special_someone_ticket"
 msgstr "Special Someone Ticket"
 
 msgid "TICKET_DESC_special_someone_ticket"
 msgstr "For that special someone. Three months of Plus, Color Stars, and an exclusive theme."
 
-
 msgid "TICKET_NAME_folding_reward_ticket"
 msgstr "Folding@Home Reward Ticket"
 
 msgid "TICKET_DESC_folding_reward_ticket"
 msgstr "Thanks for helping save lives!"
-
 
 msgid "TICKET_NAME_green_panda_ticket"
 msgstr "Lazy Paisley Ticket"
@@ -200,16 +186,20 @@ msgstr "Mitsuo Meow Ticket"
 msgid "TICKET_DESC_golden_neko_ticket"
 msgstr "This ticket gives you 1300 spendable Sudomemo Stars (with multiple rare ones!), an exclusive theme, and a special badge displayed on your profile!"
 
-
 msgid "TICKET_NAME_translator_ticket"
 msgstr "Translator Ticket"
 
 msgid "TICKET_DESC_translator_ticket"
 msgstr "Thank you for helping localize Sudomemo!"
 
-
 msgid "TICKET_NAME_colors_promo_ticket"
 msgstr "Colors! Promo Ticket"
 
 msgid "TICKET_DESC_colors_promo_ticket"
 msgstr "You won the Sudomemo x Colors! June 2020 Weekly Topic!"
+
+msgid "TICKET_NAME_neighborhood_watch_ticket"
+msgstr "Neighborhood Watch Ticket"
+
+msgid "TICKET_DESC_neighborhood_watch_ticket"
+msgstr "Thank you helping keep Sudomemo a safe and welcoming place!"

@@ -16,7 +16,6 @@ msgstr "Continue"
 
 ## Trophy names and descriptions
 
-
 msgid "TROPHY_NAME_demo_tester"
 msgstr "Demo Tester"
 
@@ -93,7 +92,7 @@ msgid "TROPHY_NAME_neighborhood_watch"
 msgstr "Neighborhood Watch"
 
 msgid "TROPHY_DESC_neighborhood_watch"
-msgstr "Correctly flag a Flipnote that violates our Content Policy"
+msgstr "Correctly flag content that violates our Content Policy"
 
 msgid "TROPHY_NAME_one_million_flips_event"
 msgstr "One Million Flipnotes Event"
@@ -112,8 +111,6 @@ msgstr "Weekly Topic Winner"
 
 msgid "TROPHY_DESC_weekly_topic_winner"
 msgstr "Submit a winning entry to Sudomemo's Weekly Topic"
-
-
 
 msgid "TROPHY_NAME_folder"
 msgstr "Folder"
