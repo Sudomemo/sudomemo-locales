@@ -2,7 +2,7 @@ msgid "LOGIN_REQUIRED_TO_MANAGE_BLOCKS"
 msgstr "Je moet ingelogd zijn om geblokkeerde gebruikers te beheren."
 
 msgid "NO_USERS_BLOCKED"
-msgstr "Je hebt geen geblokkeerde gebruikers."
+msgstr "Je hebt geen gebruikers geblokkeerd."
 
 msgid "BLOCKED_USERS"
 msgstr "Geblokkeerde gebruikers"
@@ -17,16 +17,16 @@ msgid "USER_HAS_BEEN_BLOCKED"
 msgstr "Deze gebruiker is geblokkeerd."
 
 msgid "IF_YOU_WISH_TO_UNBLOCK"
-msgstr "Als je hem ooit wilt deblokkeren, kan dat door in jouw Maker's ruimte de Geblokkeerde Gebruikers menu te openen"
+msgstr "Als je deze gebruiker ooit wilt deblokkeren, kan dat door in jouw Makersruimte het "Geblokkeerde Gebruikers"-menu te openen"
 
 msgid "CONFIRM_BLOCK"
-msgstr "Bevestig Blokkeren"
+msgstr "Blokkeren Bevestigen"
 
 msgid "USER_ALREADY_BLOCKED"
-msgstr "Je hebt deze gebruiker al geblokkeerd. Je kan hem deblokkeren vanuit de Instellingen menu in jouw Maker's ruimte, maar je moet dan weer 24 uur wachten om hem weet te kunnen blokkeren"
+msgstr "Je hebt deze gebruiker al geblokkeerd. Je kan iemand deblokkeren vanuit het instellingenmenu in jouw Makersruimte, maar je moet dan weer 24 uur wachten om deze te kunnen blokkeren"
 
 msgid "ONE_DAY_WAIT_BEFORE_REBLOCK_FORMAT"
-msgstr "Je hebt deze gebruiker onlangs gedeblokkeerd. Je kan hem niet meer blokkeren tot %s"
+msgstr "Je hebt deze gebruiker onlangs gedeblokkeerd. Je kan deze niet meer blokkeren tot %s"
 
 msgid "UNBLOCK"
 msgstr "Deblokkeer"
@@ -35,25 +35,25 @@ msgid "LOGIN_REQUIRED"
 msgstr "Je moet ingelogd zijn om dit te kunnen doen"
 
 msgid "TAP_BACK_TO_RETURN"
-msgstr "Druk op Back om terug te gaan naar jouw Maker's ruimte"
+msgstr "Druk op Terug om terug te gaan naar jouw Makersruimte"
 
 msgid "UNBLOCK_USER"
 msgstr "Deblokkeer Gebruiker"
 
 msgid "CANNOT_UNBLOCK_NONBLOCKED_USER" 
-msgstr "Je kan deze gebruiker niet deblokkeren, omdat hij helemaal nog niet geblokkeerd is!"
+msgstr "Je kan deze gebruiker niet deblokkeren, omdat deze niet geblokkeerd is!"
 
 msgid "USER_HAS_BEEN_UNBLOCKED"
 msgstr "Je hebt deze gebruiker gedeblokkeerd."
 
 msgid "COMMENTING_ENABLED_AFTER_UNBLOCK"
-msgstr "Nadat je deze gebruiker gedeblokkeerd hebt, kunnen zij weer commentaar op jouw Flipnotes leveren, tenzij zij jou ook geblokkeerd hebben."
+msgstr "Nadat je deze gebruiker gedeblokkeerd hebt, kan die weer commentaar op jouw Flipnotes leveren, tenzij deze jou ook geblokkeerd heeft."
 
 msgid "UNBLOCK_WARNING_ONE_DAY_THRESHOLD"
-msgstr "Als je ze deblokeert, moet je 24 uur wachten voordat je ze weer kan blokkeren."
+msgstr "Als je deze gebruiker deblokeert, moet je 24 uur wachten voordat je die weer kan blokkeren."
 
 msgid "CONFIRM_UNBLOCK"
 msgstr "Bevestig Deblokkeren"
 
 msgid "RECENTLY_UNBLOCKED_ONE_DAY_THRESHOLD"
-msgstr "Je hebt deze gebruiker onlangs gedeblokkeerd. Je moet 24 uur wachten vanaf de tijd dat hem gedeblokkeerd hebt voordat je hem weer kan blokkeren."
+msgstr "Je hebt deze gebruiker onlangs gedeblokkeerd. Je moet 24 uur wachten vanaf de tijd dat je deze gebruiker gedeblokkeerd hebt voordat je die weer kan blokkeren."
