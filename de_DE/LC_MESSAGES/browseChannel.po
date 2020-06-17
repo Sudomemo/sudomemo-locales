@@ -1,5 +1,5 @@
 msgid "UPPERTITLE"
-msgstr "Kanal durschsuchen"
+msgstr "Kanal durchsuchen"
 
 msgid "POST_FLIPNOTE"
 msgstr "Flipnote posten"
@@ -14,19 +14,19 @@ msgid "PAGE"
 msgstr "Seite"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d von %d"
+msgstr "Seite %d von %d"
 
 msgid "SPINOFFS"
 msgstr "Spin-Offs"
 
 msgid "BROWSE_BY_SONG"
-msgstr "Nach Song durchsuchen"
+msgstr "Nach Song filtern"
 
 msgid "BROWSE_BY_ARTIST"
-msgstr "Nach Künstler durchsuchen"
+msgstr "Nach Künstler filtern"
 
 msgid "BROWSE_BY_ALBUM"
-msgstr "Nach Album durchsuchen"
+msgstr "Nach Album filtern"
 
 msgid "BROWSE_PLAYLIST"
-msgstr "Playlist durchsuchen"
+msgstr "Playlist öffnen"
