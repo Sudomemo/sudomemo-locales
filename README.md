@@ -9,7 +9,7 @@ Please note that translations will be verified; contributions will not be accept
 
 1. If you don't already have a GitHub account, please [sign up](https://github.com/join) for one.
 
-2. Take a look at our repository, in which you will see a few folders for different langcodes, like `en_US` and `ja_JP`. If you don't see a folder with the langcode for your chosen language, then please make a copy of `en_US` and rename it. If you aren't sure what the langcode is, we have a list [here](#langcode-list)
+2. Take a look at our repository, in which you will see a few folders for different langcodes, like `en_US` and `ja_JP`. If you don't see a folder with the langcode for your chosen language, then skip to step 3. If you aren't sure what the langcode is, we have a list [here](#langcode-list)
 
 3. If the langcode for your language isn't there, [open a new issue](https://github.com/Sudomemo/sudomemo-locales/issues/new) and request that we add it.
 
