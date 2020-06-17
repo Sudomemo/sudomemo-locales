@@ -35,7 +35,7 @@ msgid "DUPLICATE_COMMENT_FAILED"
 msgstr "Dieser Kommentar wurde schon auf Sudomemo versendet."
 
 msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "Du wurdest von Sudomemo gebannt."
+msgstr "Dein Kommentar konnte nicht gepostet werden, da du von Sudomemo gebannt wurdest."
 
 msgid "MODERATOR"
 msgstr "Moderator"
