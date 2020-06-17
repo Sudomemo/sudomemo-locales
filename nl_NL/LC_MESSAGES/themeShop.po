@@ -1,11 +1,11 @@
 msgid "THEME_SHOP_LOGIN_REQUIRED"
-msgstr "Je moet ingelogd zijn om toegang te hebben tot de Thema Winkel"
+msgstr "Je moet ingelogd zijn om toegang te hebben tot de Themawinkel"
 
 msgid "THEME_SHOP_MAINPAGE_HEADER"
-msgstr "Hier in de Thema Winkel kan je nieuwe thema's kopen voor je Maker's Ruimte!"
+msgstr "Hier in de Themawinkel kan je nieuwe thema's kopen voor je Makersruimte!"
 
 msgid "THEME_SHOP_LEARN_MORE_HEADER"
-msgstr "Lees meer over de Thema Winkel"
+msgstr "Lees meer over de Themawinkel"
 
 msgid "THEME_SHOP_REPORT_ISSUES_HEADER"
 msgstr "Klik hier om een thema te rapporteren dat niet goed werkt."
@@ -14,7 +14,7 @@ msgid "THEME_SHOP_MAINPAGE_EXCHANGE_COST_FORMAT"
 msgstr "Uitwisseling voor %d Groene Sterren"
 
 msgid "THEME_SHOP_MAINPAGE_FREE_STARTER_THEMES"
-msgstr "Gratis Starter Thema's"
+msgstr "Gratis Starterthema's"
 
 msgid "CONGRATULATIONS"
 msgstr "Gefeliciteerd!"
@@ -53,10 +53,10 @@ msgid "CONFIRM"
 msgstr "Bevestig"
 
 msgid "CREATORS_ROOM"
-msgstr "Maker's Ruimte"
+msgstr "Makersruimte"
 
 msgid "SHOP_MENU"
-msgstr "Winkel Menu"
+msgstr "Winkelmenu"
 
 msgid "NO_DESCRIPTION_AVAILABLE"
 msgstr "Geen beschrijving"
@@ -68,28 +68,28 @@ msgid "THEME_SHOP_SELECTED_PAYMENT"
 msgstr "Betaling Geselecteerd"
 
 msgid "THEME_SHOP_STAR_BALANCE_TOO_LOW"
-msgstr "Sorry, je hebt niet genoeg Groene Sterren voor det thema."
+msgstr "Sorry, je hebt niet genoeg Groene Sterren voor dit thema."
 
 msgid "THEME_SHOP_CHOOSE_CAREFULLY_BEFORE_BUYING"
 msgstr "Alle aankopen zijn permanent, kies zorgvuldig voordat je koopt!"
 
 msgid "THEME_SHOP_YOU_OWN_THIS_THEME"
-msgstr "Je bezit deze thema al."
+msgstr "Je bezit dit thema al."
 
 msgid "THEME_SHOP_PUBLIC_THEME"
-msgstr "Alle gebruikers hebben gratis toegang tot deze thema."
+msgstr "Alle gebruikers hebben gratis toegang tot dit thema."
 
 msgid "THEME_SHOP_OWNED_THEME_TRANSACTION_FORMAT"
-msgstr "Je hebt deze thema gekocht op %s voor %d Groene Sterren."
+msgstr "Je hebt dit thema gekocht op %s voor %d Groene Sterren."
 
 msgid "THEME_SHOP_CONFIRM_PURCHASE_BELOW"
 msgstr "Bevestig je aankoop alsjeblieft hieronder."
 
 msgid "THEME_SHOP_STARS_LEFT_AFTER_PAYMENT"
-msgstr "Kleur Sterren over na aankoop:"
+msgstr "Kleursterren over na aankoop:"
 
 msgid "THEME_SHOP_POST_PURCHASE"
-msgstr "Je aankoop was succesvol! Ga naar het \"Mijn Thema's\" deel in jouw Maker's Ruimte om het te selecteren!"
+msgstr "Je aankoop was succesvol! Ga naar het \"Mijn Thema's\" deel in jouw Makersruimte om het te selecteren!"
 
 msgid "NAVIGATION_PREVIOUS"
 msgstr "Vorige"
@@ -101,5 +101,5 @@ msgid "THEME_SHOP_SAMPLE_PROFILE"
 msgstr "Voorbeeld Profiel"
 
 msgid "THEME_SHOP"
-msgstr "Thema Winkel"
+msgstr "Themawinkel"
 
