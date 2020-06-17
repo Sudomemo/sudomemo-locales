@@ -16,7 +16,5 @@ msgstr "Vous pouvez recevoir un nouveau mail de vérification en vous connectant
 msgid "TEXT_NEED_HELP_CONNECTION_INFO_LINK_FORMAT"
 msgstr "Besoin d'aide pour vous connecter à Sudomemo ? Vous pouvez trouver le guide d'installation ici : %s"
 
-
-
 msgid "EMAIL_VERIFICATION_REMOVE_ME"
 msgstr "Supprimez-moi, vous avez la mauvaise adresse email"
