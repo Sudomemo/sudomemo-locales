@@ -1,14 +1,14 @@
 msgid "COMMENT_DETAILS"
-msgstr "Commentaar Details"
+msgstr "Reactiedetails"
 
 msgid "MESSAGE_DETAILS"
-msgstr "Bericht Details"
+msgstr "Berichtdetails"
 
 msgid "AUTHOR"
 msgstr "Auteur"
 
 msgid "COMMENT_BY_FORMAT"
-msgstr "Commentaar door %s"
+msgstr "Reactie door %s"
 
 msgid "CHAT_MESSAGE_FROM_FORMAT"
 msgstr "Chatbericht van %s"
@@ -20,22 +20,22 @@ msgid "FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote door %s"
 
 msgid "COMMENT_ID"
-msgstr "Commentaar ID"
+msgstr "Commentaar-ID"
 
 msgid "MESSAGE_ID"
-msgstr "Bericht ID"
+msgstr "Bericht-ID"
 
 msgid "CHAT_COMMENT_ID"
-msgstr "Chatbericht ID"
+msgstr "Chatbericht-ID"
 
 msgid "TIMESTAMP"
-msgstr "Tijdopname"
+msgstr "Tijd"
 
 msgid "POSTED_TO"
 msgstr "Geplaatst op"
 
 msgid "PRIVATE_CONVERSATION"
-msgstr "Privé Conversatie"
+msgstr "Privéconversatie"
 
 msgid "REPORT_CONTENT"
 msgstr "Rapporteer Inhoud"
