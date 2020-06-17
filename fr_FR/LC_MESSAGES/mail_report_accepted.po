@@ -1,12 +1,12 @@
 # Content Report Accepted - sent to user who has correctly reported content
 
 msgid "NOTICE"
-msgstr "Notice"
+msgstr "Avis"
 
 ## Intro
 
 msgid "REPORT_ACCEPTED"
-msgstr "We've reviewed a content report that you submitted and found it to be valid."
+msgstr "Nous avons examiné un signalement de contenu que vous avez envoyé et nous l'avons jugé valide."
 
 ## Content types
 
@@ -14,36 +14,36 @@ msgid "CONTENT_TYPE_flipnote"
 msgstr "Flipnote"
 
 msgid "CONTENT_TYPE_comment"
-msgstr "Comment"
+msgstr "Commentaire"
 
 msgid "CONTENT_TYPE_chat_message"
-msgstr "Chat message"
+msgstr "Message de chat"
 
 ### We plan on adding user-created themes.
 
 msgid "CONTENT_TYPE_room_theme"
-msgstr "Creator's Room theme"
+msgstr "Thème pour la salle de créateur"
 
 msgid "CONTENT_TYPE_profile_bio"
-msgstr "Profile text"
+msgstr "Texte du profil"
 
 ### Catch-all
 
 msgid "CONTENT_TYPE_content"
-msgstr "Other content"
+msgstr "Autre contenu"
 
 ## continued message...
 
 msgid "REPORT_ACCEPTED_CONTINUED"
-msgstr "As such, the content has been removed."
+msgstr "Par conséquent, le contenu a été supprimé."
 
 # this message is followed by a link
 
 msgid "REPORT_ACCEPTED_INFO"
-msgstr "Reports like yours help make Sudomemo a safe and welcoming place for everyone. If you'd like to learn more about our Content Policy, you can do so here:"
+msgstr "Des rapports comme le vôtre contribuent à faire de Sudomemo un endroit sûr et accueillant pour tout le monde. Si vous souhaitez en savoir plus sur notre Politique de contenu, vous pouvez le faire ici :"
 
 msgid "CONTENT_TYPE"
-msgstr "Content type:"
+msgstr "Type de contenu :"
 
 msgid "CONTENT_ID"
-msgstr "Content ID:"
+msgstr "ID du contenu :"
