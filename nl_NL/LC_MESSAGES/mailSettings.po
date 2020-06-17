@@ -5,7 +5,7 @@ msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
 msgstr "Je moet ingelogd zijn om je e-mailinstellingen te beheren."
 
 msgid "MAIL_TYPE"
-msgstr "Soort"
+msgstr "Type"
 
 msgid "MAIL_STATUS"
 msgstr "Status"
@@ -83,7 +83,7 @@ msgid "TYPE_UNREAD_COMMENTS_DESC"
 msgstr "Ontvang een e-mailsamenvatting over enige nieuwe reacties die je recent hebt ontvangen"
 
 msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
-msgstr "Tik op de status van een e-mailsoort om het te bekijken of om het te veranderen."
+msgstr "Tik op de status van een e-mailtype om het te bekijken of om het te veranderen."
 
 msgid "HEADER_CHANGE_EMAIL_SETTINGS"
 msgstr "Verander E-mailinstellingen"
