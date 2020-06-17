@@ -2,7 +2,7 @@ msgid "TEXT_CHANGE_SETTINGS_PROMPT"
 msgstr "Willst du verwalten, welche Emails du von Sudomemo erhalten möchtest?"
 
 msgid "TEXT_HOW_TO_CHANGE_SETTINGS_DSI"
-msgstr "Du kannst deine Präferenzen einfach in deinem Ersteller-Raum unter <strong>Mail-Einstellungen</strong> ändern."
+msgstr "Du kannst deine Einstellungen einfach in deinem Ersteller-Raum unter <strong>Mail-Einstellungen</strong> ändern."
 
 msgid "TEXT_WEB_SETTINGS_CHANGE_FORMAT"
-msgstr "Wenn du jedoch keine Emails dieser Art erhalten möchtest, klicke <a target=\"_blank\" href=\"%s\"><strong>hier</strong></a>."
+msgstr "Wenn du keine Emails dieser Art erhalten möchtest, klicke <a target=\"_blank\" href=\"%s\"><strong>hier</strong></a>."
