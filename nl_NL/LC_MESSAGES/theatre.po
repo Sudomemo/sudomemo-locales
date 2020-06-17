@@ -25,7 +25,7 @@ msgid "FRONTPAGE_TITLE_TAGLINE"
 msgstr "Sudomemo: Flipnote Hatena is back!"
 
 msgid "VIEWPAGE_COMMENT_TEXTBOX"
-msgstr "Commentaar tekst doos"
+msgstr "Reactietekstdoos"
 
 ## "Username - 3 fans, 25 Flipnotes on Sudomemo"
 ## Not going to bother making plural variants
@@ -61,7 +61,7 @@ msgstr "h:i:s, j F Y"
 # Very common terms and one-word translations
 
 msgid "ARTIST"
-msgstr "Artiest"
+msgstr "Auteur"
 
 # Back, in the sense of navigation
 msgid "BACK"
@@ -71,7 +71,7 @@ msgid "CATEGORY"
 msgstr "Categorie"
 
 msgid "CHANNEL"
-msgstr "Channel"
+msgstr "Kanaal"
 
 msgid "CHANNELS"
 msgstr "Kanalen"
@@ -86,7 +86,7 @@ msgid "CREATORS"
 msgstr "Makers"
 
 msgid "CREATORS_ROOM"
-msgstr "Maker's Ruimte"
+msgstr "Makersruimte"
 
 msgid "DETAILS"
 msgstr "Details"
@@ -104,7 +104,7 @@ msgid "FEATURED"
 msgstr "Uitgelicht"
 
 msgid "FLIPNOTE_ID"
-msgstr "Flipnote ID"
+msgstr "Flipnote-ID"
 
 msgid "FLIPNOTE"
 msgstr "Flipnote"
@@ -118,7 +118,7 @@ msgstr "FSID"
 
 # Japanese translation should also be be うごメモID here
 msgid "FLIPNOTE_STUDIO_ID"
-msgstr "Flipnote Studio ID"
+msgstr "Flipnote Studio-ID"
 
 msgid "GENRE"
 msgstr "Genre"
@@ -133,7 +133,7 @@ msgid "INFO"
 msgstr "Info"
 
 msgid "LATEST"
-msgstr "Laatste"
+msgstr "Nieuwste"
 
 msgid "MODERATOR"
 msgstr "Moderator"
@@ -212,12 +212,12 @@ msgstr "Beste"
 
 # Number of times something has been viewed, or played.
 msgid "VIEWS"
-msgstr "Bekeken"
+msgstr "Weergaven"
 
 # For MusicMatch
 
 msgid "SONG"
-msgstr "Lied"
+msgstr "Nummer"
 
 # Trademark, not translating
 msgid "SUDOMEMO_PLUS"
@@ -244,7 +244,7 @@ msgid "NAVBAR_ITEM_HOW_TO_JOIN"
 msgstr "Hoe deel te nemen"
 
 msgid "NAVBAR_ITEM_CONNECTION_HELP"
-msgstr "Verbindings Hulp"
+msgstr "Verbindingshulp"
 
 msgid "NAVBAR_ITEM_FAQS"
 msgstr "Veelgestelde Vragen"
@@ -288,11 +288,11 @@ msgstr "Schakel over naar gebruikersaccount"
 
 ## Switch to dark mode
 msgid "NAVBAR_ITEM_LIGHTS_OFF"
-msgstr "Lichten uit"
+msgstr "Licht uit"
 
 ## Switch to light mode
 msgid "NAVBAR_ITEM_LIGHTS_ON"
-msgstr "Lichten aan"
+msgstr "Licht aan"
 
 # Front Page
 
@@ -305,7 +305,7 @@ msgid "ALT_USER_PROFILE_PICTURE"
 msgstr "%s's profielfoto"
 
 msgid "ALT_DRAWN_COMMENT_BY_USER"
-msgstr "Getekend commentaar door %s"
+msgstr "Getekende reactie door %s"
 
 ## Welcome to Sudomemo Box
 
@@ -349,10 +349,10 @@ msgid "WELCOME_BOX_SHARE_CREATIVITY_TAGLINE"
 msgstr "Share your creativity with the world!"
 
 msgid "WELCOME_BOX_WHAT_IS_SUDOMEMO"
-msgstr "Sudomemo is een animatie site waar mensen flipboek animaties kunnen delen - genaamd Flipnotes - gemaakt en geplaatst vanaf de Nintendo DSi en 3DS."
+msgstr "Sudomemo is een animatiesite waar mensen flipboekanimaties kunnen delen - genaamd Flipnotes - gemaakt en geplaatst vanaf de Nintendo DSi en 3DS."
 
 msgid "WELCOME_BOX_HOW_TO_JOIN"
-msgstr "Leer hoe mee te doen!"
+msgstr "Leer hoe je mee kan doen!"
 
 # Give, in the same sense as "Donate"
 
@@ -390,13 +390,13 @@ msgid "VIEWPAGE_COMMENT_WRITE_HERE"
 msgstr "Schrijf hier"
 
 msgid "VIEWPAGE_COMMENT_POST_BUTTON"
-msgstr "Plaats Commentaar"
+msgstr "Plaats Reactie"
 
 msgid "VIEWPAGE_ADD_MODERATOR_COMMENT"
-msgstr "Voeg Moderator Commentaar Toe"
+msgstr "Voeg Moderatorreactie Toe"
 
 msgid "VIEWPAGE_MODERATOR_COMMENT_WARNING"
-msgstr "Gebruik dit niet voor persoonlijke stukken commentaar."
+msgstr "Gebruik dit niet voor persoonlijke reacties."
 
 ### This is composed of two parts: SIGN_IN and TO_ADD_A_COMMENT
 ### SIGN_IN is a link to the login page, and TO_ADD_A_COMMENT is the part that comes after.
@@ -414,7 +414,7 @@ msgstr "Geplaatst!"
 
 ### This can happen in cases of network failure or if the comment is rejected
 msgid "VIEWPAGE_COMMENT_FAILED"
-msgstr "Commentaar mislukt..."
+msgstr "Reactie mislukt..."
 
 ## Right sidebar
 
@@ -510,19 +510,19 @@ msgstr "Volgers"
 
 ## はてなID
 msgid "HATENA_ID"
-msgstr "Hatena ID"
+msgstr "Hatena-ID"
 
 msgid "PROFILE_ABOUT_USERNAME"
 msgstr "Over %s"
 
 ## User's ★ are from:
 msgid "PROFILE_STAR_COUNTRY_HEADER"
-msgstr "%s's ★ren zijn van:"
+msgstr "%s's ★ zijn van:"
 
 ## Recent comments on their Flipnotes
 
 msgid "PROFILE_RECENT_COMMENTS"
-msgstr "Recente stukken commentaar"
+msgstr "Recente reacties"
 
 ## channels that the user posts in most often
 msgid "PROFILE_USER_POSTS_IN"
@@ -566,7 +566,7 @@ msgid "PLUS_LEARN_MORE"
 msgstr "Meer informatie..."
 
 msgid "EDIT_PAGE_SUDOMEMO_PLUS_REQUIRED"
-msgstr "Je hebt Sudomemo Plus nodig om deze functionaliteiten te gebruiken."
+msgstr "Je hebt Sudomemo Plus nodig om deze functionaliteit te gebruiken."
 
 # Flipnote smoothing
 msgid "EDIT_PAGE_PLUS_SMOOTHING"
@@ -576,7 +576,7 @@ msgid "EDIT_PAGE_PLUS_AUDIO_ENHANCEMENT"
 msgstr "Geluidsverbetering"
 
 msgid "EDIT_PAGE_FLIPNOTE_PREVIEW_NOTE"
-msgstr "Info: Flipnote voorbeeld wordt niet bijgewerkt."
+msgstr "Info: Flipnotevoorbeeld wordt niet bijgewerkt."
 
 msgid "EDIT_PAGE_TITLE_AND_DESCRIPTION"
 msgstr "Titel en Beschrijving"
