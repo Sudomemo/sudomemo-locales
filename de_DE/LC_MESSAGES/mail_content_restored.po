@@ -1,12 +1,12 @@
 # Content Removed - sent to user when a piece of their content has been restored
 
 msgid "NOTICE"
-msgstr "Notice"
+msgstr "Benachrichtigung"
 
 ## Intro
 
 msgid "USER_CONTENT_RESTORED"
-msgstr "Something you posted that was previously removed has been restored after further review."
+msgstr "Einer der geposteten Inhalte, der kürzlich aufgrund von Verstößen gegen unsere Richtlinien entfernt wurde, wurde nach erneuter Überprüfung wiederhergestellt."
 
 ## Content types
 
@@ -14,31 +14,31 @@ msgid "CONTENT_TYPE_flipnote"
 msgstr "Flipnote"
 
 msgid "CONTENT_TYPE_comment"
-msgstr "Comment"
+msgstr "Kommentar"
 
 msgid "CONTENT_TYPE_chat_message"
-msgstr "Chat message"
+msgstr "Chat-Nachricht"
 
 ### We plan on adding user-created themes.
 
 msgid "CONTENT_TYPE_room_theme"
-msgstr "Creator's Room theme"
+msgstr "Creator-Raum-Theme"
 
 msgid "CONTENT_TYPE_profile_bio"
-msgstr "Profile text"
+msgstr "Biografie"
 
 ### Catch-all
 
 msgid "CONTENT_TYPE_content"
-msgstr "Other content"
+msgstr "Sonstiges"
 
 ## continued message...
 
 msgid "CONTENT_RESTORED_CONTINUED"
-msgstr "The content has been restored to public view, and there's nothing more that you need to do."
+msgstr "Der Inhalt kann nun wieder öffentlich eingesehen werden, und du musst nichts weiter tun."
 
 msgid "CONTENT_TYPE"
-msgstr "Content type:"
+msgstr "Art des Inhalts:"
 
 msgid "CONTENT_ID"
-msgstr "Content ID:"
+msgstr "Content-ID:"

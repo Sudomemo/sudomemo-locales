@@ -11,19 +11,19 @@ msgid "BLOCK_USER"
 msgstr "Benutzer blockieren"
 
 msgid "COMMENT_BLOCK_IS_MUTUAL"
-msgstr "Wenn du einmal einen Benutzer blockiert hast, könnt ihr auf den Flipnotes des jeweils Anderen keine Kommentare senden."
+msgstr "Wenn du einmal einen Benutzer blockiert hast, kannst du auf den Flipnotes des jeweils Anderen keine Kommentare verfassen."
 
 msgid "USER_HAS_BEEN_BLOCKED"
 msgstr "Dieser Benutzer wurde blockiert."
 
 msgid "IF_YOU_WISH_TO_UNBLOCK"
-msgstr "Wenn du einen Benutzer jedoch wieder entblocken möchtest, kannst du ihn in deinem Ersteller-Raum unter dein Blockierte-Benutzer-Menü entblocken."
+msgstr "Wenn du einen Benutzer wieder entblocken möchtest, kannst du ihn in deinem Creator-Raum unter deinem Blockierte-Benutzer-Menü entblocken."
 
 msgid "CONFIRM_BLOCK"
 msgstr "Blockieren bestätigen"
 
 msgid "USER_ALREADY_BLOCKED"
-msgstr "Du hast diesen Benutzer schon blockiert. Du kannst ihn in deinem Ersteller-Raum unter Blockierte Benutzer entblocken. Du musst aber 24 Stunden warten, bis du ihn wieder blockieren kannst."
+msgstr "Du hast diesen Benutzer schon blockiert. Du kannst ihn in deinem Creator-Raum unter Blockierte Benutzer entblocken. Du musst aber 24 Stunden warten, bis du ihn wieder blockieren kannst."
 
 msgid "ONE_DAY_WAIT_BEFORE_REBLOCK_FORMAT"
 msgstr "Du hast diesen Benutzer kürzlich entblockt. Du kannst ihn nicht nochmal bis vor %s blockieren."
@@ -32,16 +32,16 @@ msgid "UNBLOCK"
 msgstr "Entblocken"
 
 msgid "LOGIN_REQUIRED"
-msgstr "Du musst angemeldet sein, um diese Aktion auszuführen."
+msgstr "Hierfür musst du angemeldet sein."
 
 msgid "TAP_BACK_TO_RETURN"
-msgstr "Tippe auf Zurück, um zu deinem Ersteller-Raum zurückzukehren."
+msgstr "Tippe auf Zurück, um zu deinem Creator-Raum zurückzukehren."
 
 msgid "UNBLOCK_USER"
 msgstr "Benutzer entblocken"
 
 msgid "CANNOT_UNBLOCK_NONBLOCKED_USER"
-msgstr "Du kannst diesen Benutzer nicht entblocken, da du ihn momentan nicht blockierst."
+msgstr "Du kannst diesen Benutzer nicht entblocken, da du ihn nicht blockiert hast."
 
 msgid "USER_HAS_BEEN_UNBLOCKED"
 msgstr "Dieser Benutzer wurde entblockt."

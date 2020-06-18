@@ -711,10 +711,10 @@ msgid "BROWSE_SONG_YOU_ARE_BROWSING_SONG"
 msgstr "Flipnotes mit Song %s von %s durchsuchen"
 
 msgid "TROPHY_CASE"
-msgstr "Trophy Case"
+msgstr "Trophäen-Vitrine"
 
 # This is shown to logged-in users on their own Flipnotes without titles
 
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
-msgstr "Untitled Flipnote by %s"
+msgstr "Unbenanntes Flipnote von %s"
 

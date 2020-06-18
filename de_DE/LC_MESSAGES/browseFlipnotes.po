@@ -8,7 +8,7 @@ msgid "HEADER_NORMAL"
 msgstr "Neueste"
 
 msgid "HEADER_HOT_FLIPNOTES"
-msgstr "Heiße Flipnotes"
+msgstr "Beliebte Flipnotes"
 
 msgid "HEADER_MOST_POPULAR"
 msgstr "Beliebteste"
@@ -20,10 +20,10 @@ msgid "HEADER_ROLEPLAYS"
 msgstr "Rollenspiele"
 
 msgid "HEADER_BROWSE_FLIPNOTES"
-msgstr "Flipnotes durchsuchen"
+msgstr "Flipnotes suchen"
 
 msgid "HEADER_FEATURED_FLIPNOTES"
-msgstr "Vorgeschlagene Flipnotes"
+msgstr "Empfohlene Flipnotes"
 
 msgid "HEADER_RANDOM_FLIPNOTES"
 msgstr "Zufällige Flipnotes"
@@ -44,23 +44,23 @@ msgid "PREV"
 msgstr "Zurück"
 
 msgid "POST_FLIPNOTE"
-msgstr "Flipnote posten"
+msgstr "Flipnote hochladen"
 
 msgid "CATEGORY_recent"
-msgstr "@Neueste Flipnotes"
+msgstr "Neueste"
 
 msgid "CATEGORY_hot"
-msgstr "@Heiße Flipnotes"
+msgstr "Heiß"
 
 msgid "CATEGORY_popular"
-msgstr "@Beliebteste"
+msgstr "Beliebt"
 
 msgid "CATEGORY_featured"
-msgstr "@Vorgeschlagene Flipnotes"
+msgstr "Empfohlen"
 
 msgid "CATEGORY_random"
-msgstr "@Zufällige Flipnotes"
+msgstr "Zufällig"
 
 msgid "CATEGORY_feed"
-msgstr "@Feed"
+msgstr "Dein Feed"
 
