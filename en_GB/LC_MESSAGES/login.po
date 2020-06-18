@@ -2,7 +2,7 @@ msgid "BAN_GREETING_FORMAT"
 msgstr "Hello, %s."
 
 msgid "BAN_NOTICE_CONSOLE_BAN"
-msgstr "Your account and console have been suspended from Sudomemo."
+msgstr "Your account and console have been suspended from accessing Sudomemo."
 
 msgid "BAN_NOTICE_PLEASE_READ_BAN_LETTER"
 msgstr "Please read the letter we sent you for further information."
@@ -32,7 +32,7 @@ msgid "WELCOME_BACK_FORMAT"
 msgstr "Welcome back, %s!"
 
 msgid "RETURNING_USER_NEW_LOGIN_SYSTEM"
-msgstr "Since the last time you visited, we've added a new login system -- but don't worry, all of your content is still here!"
+msgstr "Since the last time you visited we've added a new login system -- but don't worry, all of your content is still here!"
 
 msgid "RETURNING_USER_PLEASE_CREATE_PASSWORD"
 msgstr "To get started, please create a new password below."
@@ -56,7 +56,7 @@ msgid "FORM_WARNING_PASSWORD_DISALLOWED_CHARS"
 msgstr "Your password cannot contain any of these characters:"
 
 msgid "FORM_LABEL_DONT_FORGET_PASSWORD"
-msgstr "Remember to make a note of your password, and keep it safe!"
+msgstr "Remember to note down your password and keep it somewhere safe!"
 
 msgid "FORM_HEADER_EMAIL"
 msgstr "Email:"
@@ -68,10 +68,10 @@ msgid "FORM_WARNING_EMAIL_INVALID"
 msgstr "The email address you entered isn't valid."
 
 msgid "EMAIL_ADDITION_SUGGESTED"
-msgstr "Email is optional, but highly recommended. If you ever forget your password, we will send a password reset link to your email address."
+msgstr "Email is optional, but highly recommended. If you ever forget your password, we'll send a password reset link to your email address."
 
 msgid "EMAIL_ADDITION_DETAILS"
-msgstr "If you ever forget your password, we will send a password reset link to your email address."
+msgstr "If you ever forget your password, we'll send a password reset link to your email address."
 
 msgid "CONFIRM_INFO_CORRECT"
 msgstr "Please make sure that the information below is correct."
@@ -164,13 +164,13 @@ msgid "BASIC_AUTH_BAD_LENGTH_FORMAT"
 msgstr "The ID appears to be %s digits in length (should be 16)"
 
 msgid "BASIC_AUTH_LOWERCASE_LETTERS"
-msgstr "The ID contain lowercase letters - it should be all uppercase."
+msgstr "The ID contains lowercase letters - it should be all uppercase."
 
 msgid "BASIC_AUTH_NONHEX_CHARACTERS"
-msgstr "The ID contains characters other than 0-9 and A-F (it should only contain 0-9 and A-F)."
+msgstr "The ID contains characters other than 0-9 and A-F (other characters are never used)."
 
 msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
-msgstr "If you need help connecting, feel free to ask in our Discord! You can join from %s."
+msgstr "If you need help connecting, feel free to ask in our Discord server! You can join from %s."
 
 msgid "BAN_NOTICE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
 msgstr "Please contact us on Discord or via email to %s."
@@ -203,13 +203,13 @@ msgid "BUTTON_RESEND_VERIFICATION_EMAIL"
 msgstr "Resend Verification Email"
 
 msgid "NOT_RECEIVING_HELP_FORMAT"
-msgstr "Not receiving the email? You can reach out to us on the Sudomemo Discord or via %s."
+msgstr "Not receiving the email? You can reach out to us on the Sudomemo Discord server or via %s."
 
 msgid "HEADER_VERIFY_EMAIL"
 msgstr "Verify Email"
 
 msgid "VERIFICATION_LIMIT_EXCEEDED_FORMAT"
-msgstr "You have exceeded the maximum number of verification emails. Please contact support at %s or via Discord."
+msgstr "You have exceeded the maximum number of verification attempts. Please contact support at %s or via Discord."
 
 msgid "WEB_HEADER_SUCCESS"
 msgstr "Success!"
@@ -239,9 +239,9 @@ msgid "BUTTON_EDIT_EMAIL_ADDRESS"
 msgstr "Change Email Address"
 
 msgid "SEARCH_FOR_SENDER_EMAIL_FORMAT"
-msgstr "Haven't received the email? Check your Spam box, and search for %s. If you find that it was marked spam, please ensure you first mark it Not Spam."
+msgstr "Haven't received the email? Check your Junk or Spam inbox, and search for %s. If you find that it was marked spam, please ensure you first mark it as safe, Not Spam, and/or Not Junk."
 
 msgid "NEW_USER_INTRO_POST_INTRO_CHANNEL"
-msgstr "When you're ready, go ahead and introduce yourself in our Introduction channel, under the Personal category."
+msgstr "When you're ready, why not go ahead and introduce yourself in our Introduction channel? You can find it under the Personal category."
 msgid "EMAIL_VERIFICATION_ADDRESS_REMOVED"
 msgstr "Sorry about that! We've marked that email address as incorrect, so you shouldn't receive any further emails from Sudomemo."

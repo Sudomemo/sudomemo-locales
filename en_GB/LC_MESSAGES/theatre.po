@@ -40,12 +40,12 @@ msgstr "%s - %s fans, %s Flipnotes on Sudomemo"
 # Wednesday, December 3rd, 2019
 # Used for news articles
 msgid "DATETIME_WEEKDAY_MONTH_DAY_ORDINAL_YEAR_FORMAT"
-msgstr "l, F jS, Y"
+msgstr "l j F Y"
 
 # November 29th, 2019 08:23:07
 # Used for Flipnote Details
 msgid "DATETIME_MONTH_DAY_ORDINAL_HOUR_MINUTE_SECOND_FORMAT"
-msgstr "F jS, Y h:i:s"
+msgstr "j F Y H:i:s"
 
 # Very common terms and one-word translations
 
@@ -176,7 +176,7 @@ msgid "SHARE"
 msgstr "Share"
 
 msgid "SIGN_UP"
-msgstr "Sign Up"
+msgstr "Sign up"
 
 msgid "SIGN_IN"
 msgstr "Sign in"
@@ -674,7 +674,7 @@ msgid "SUDOMEMO_SHOP_ABOUT_TICKETS_1"
 msgstr "Tickets are fun items on Sudomemo that you can redeem for Stars, Sudomemo Plus, and other things!"
 
 msgid "SUDOMEMO_SHOP_ABOUT_TICKETS_2"
-msgstr "Once you have a ticket, you can redeem it in your Creator's Room by tapping on \"Redeem\" - or, you can give a ticket code as a gift to a friend!"
+msgstr "Once you have a ticket, you can redeem it in your Creator's Room by tapping on \"Redeem\" - or, you can give a ticket code as a present to a friend!"
 
 msgid "SUDOMEMO_SHOP_LEARN_ABOUT_PLUS"
 msgstr "Learn about what you can do with Sudomemo Plus:"
