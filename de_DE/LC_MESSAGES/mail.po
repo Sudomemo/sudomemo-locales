@@ -3,40 +3,40 @@
 # Common
 
 msgid "LOGIN_FIRST_TO_ACCESS_MAIL"
-msgstr "You'll need to log back in before you can view this."
+msgstr "Du musst dich erneut einloggen, um diese Aktion auszuführen."
 
 msgid "CONTINUE"
-msgstr "Continue"
+msgstr "Weiter"
 
 msgid "HEADER_INBOX"
-msgstr "Inbox"
+msgstr "Posteingang"
 
 # this must be a max of 6 characters
 msgid "UNAUTHED_READ"
-msgstr "Read.."
+msgstr "Lesen"
 
 msgid "PREV"
-msgstr "Prev"
+msgstr "Zurück"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "Weiter"
 
 # Titles
 
 msgid "TITLE_SPINOFF"
-msgstr "Spin-off"
+msgstr "Spin-Off"
 
 msgid "TITLE_WARNING"
-msgstr "Warning"
+msgstr "Warnung"
 
 msgid "TITLE_NOTICE"
-msgstr "Notice"
+msgstr "Anmerkung"
 
 msgid "TITLE_MESSAGE"
-msgstr "Message"
+msgstr "Nachricht"
 
 msgid "TITLE_NEWS"
-msgstr "News"
+msgstr "Neuigkeiten"
 
 msgid "TITLE_INFO"
 msgstr "Info"
@@ -44,5 +44,5 @@ msgstr "Info"
 # Not found
 
 msgid "MAIL_NOT_FOUND"
-msgstr "This message does not exist."
+msgstr "Diese Nachricht existiert nicht."
 
