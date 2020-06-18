@@ -14,4 +14,4 @@ msgid "TEXT_VERIFICATION_LINK_FORMAT"
 msgstr "Click <a target=\"_blank\" href=\"%s\">here</a> to continue!"
 
 msgid "TEXT_URL_PLAIN_DISPLAY"
-msgstr "You may also copy and paste this URL into a new window:"
+msgstr "You can also copy and paste this URL into a new window:"

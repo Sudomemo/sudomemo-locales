@@ -35,13 +35,13 @@ msgid "NO_BLANK_REPORTS"
 msgstr "You cannot post a blank report."
 
 msgid "LIMIT_ONE_REPORT"
-msgstr "Please note: You may only report this content one time. Additional reports will not be registered, so please put your information in a single comment."
+msgstr "Please note: You can only report this content once. Additional reports will not be registered, so please put your information in a single comment."
 
 msgid "REPORT_EXPLANATION_FAILED"
 msgstr "An error occurred while this report was being submitted."
 
 msgid "RESTRICTED_CANCEL"
-msgstr "You may not report content if you have been restricted from interacting with Sudomemo in any way."
+msgstr "You cannot report content if you have been restricted from interacting with Sudomemo in any way."
 
 msgid "HEADER_REASON"
 msgstr "Reason:"
