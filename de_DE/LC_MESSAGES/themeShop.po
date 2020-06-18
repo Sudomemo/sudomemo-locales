@@ -2,7 +2,7 @@ msgid "THEME_SHOP_LOGIN_REQUIRED"
 msgstr "Du musst eingeloggt sein, um den Theme-Shop zu nutzen."
 
 msgid "THEME_SHOP_MAINPAGE_HEADER"
-msgstr "Hier im Theme-Shop kannst du neue Kulissen für deine Creator-Seite kaufen!"
+msgstr "Hier im Theme-Shop kannst du neue Kulissen für deinen Creator-Raum kaufen!"
 
 msgid "THEME_SHOP_LEARN_MORE_HEADER"
 msgstr "Erfahre mehr über den Theme-Shop"
@@ -53,7 +53,7 @@ msgid "CONFIRM"
 msgstr "Bestätigen"
 
 msgid "CREATORS_ROOM"
-msgstr "Creator-Seite"
+msgstr "Creator-Raum"
 
 msgid "SHOP_MENU"
 msgstr "Shop-Menü"
@@ -89,7 +89,7 @@ msgid "THEME_SHOP_STARS_LEFT_AFTER_PAYMENT"
 msgstr "Nach Kauf verbleibende Farb-Sterne:"
 
 msgid "THEME_SHOP_POST_PURCHASE"
-msgstr "Dein Einkauf war erfolgreich! Wähle die Kulisse unter \"Meine Kulissen\" auf deiner Creator-Seite aus!"
+msgstr "Dein Einkauf war erfolgreich! Wähle die Kulisse unter \"Meine Kulissen\" in deinem Creator-Raum aus!"
 
 msgid "NAVIGATION_PREVIOUS"
 msgstr "Zurück"
