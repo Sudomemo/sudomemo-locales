@@ -23,7 +23,7 @@ msgid "LOGIN_REQUIRED_TO_POST_COMMENT"
 msgstr "You must be logged in to post a comment."
 
 msgid "COMMENT_POST_FAILED"
-msgstr "Comment post failed. Try again in a moment."
+msgstr "Failed to post comment. Try again in a moment."
 
 msgid "NO_BLANK_COMMENTS_ALLOWED"
 msgstr "You cannot post a blank comment."
@@ -32,10 +32,10 @@ msgid "FLIPNOTE_DATA_CORRUPTED"
 msgstr "The Flipnote data is corrupted. Try again in a moment."
 
 msgid "FLIPNOTE_COMMENTS_DISALLOWED"
-msgstr "You may not comment on this Flipnote."
+msgstr "You cannot comment on this Flipnote."
 
 msgid "NO_COMMENTS_WHILE_MUTED"
-msgstr "You've been muted. You may not comment."
+msgstr "You've been muted, so you cannot comment."
 
 msgid "DUPLICATE_COMMENT_FAILED"
 msgstr "This comment has already been posted to Sudomemo."

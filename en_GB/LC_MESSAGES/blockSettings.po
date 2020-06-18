@@ -17,13 +17,13 @@ msgid "USER_HAS_BEEN_BLOCKED"
 msgstr "This user has been blocked."
 
 msgid "IF_YOU_WISH_TO_UNBLOCK"
-msgstr "If you should ever wish to unblock them, you may unblock them by visiting your Creator's Room and opening the Blocked Users menu."
+msgstr "If you should ever wish to unblock them, you can unblock them by visiting your Creator's Room and opening the Blocked Users menu."
 
 msgid "CONFIRM_BLOCK"
 msgstr "Confirm Block"
 
 msgid "USER_ALREADY_BLOCKED"
-msgstr "You have already blocked this user. You may unblock them from the Settings menu in your Creator's Room, but you must wait 24 hours before you can block them again."
+msgstr "You have already blocked this user. You can unblock them from the Settings menu in your Creator's Room, but you must wait 24 hours before you can block them again."
 
 msgid "ONE_DAY_WAIT_BEFORE_REBLOCK_FORMAT"
 msgstr "You have recently unblocked this user. You cannot block them again until %s"
