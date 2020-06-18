@@ -1,5 +1,5 @@
 msgid "EMAIL_SUBJECT_FORMAT"
-msgstr "[Sudomemo] %s's Täglicher Sterne-Bericht"
+msgstr "[Sudomemo] (%s) Dein täglicher Sterne-Bericht"
 
 msgid "STRING_SUDOMEMO"
 msgstr "Sudomemo"
@@ -8,7 +8,7 @@ msgid "STRING_DAILY_STAR_REPORT"
 msgstr "Täglicher Sterne-Bericht"
 
 msgid "TEXT_STAR_REPORT_GREETING_FORMAT"
-msgstr "Hallo, %s! Dies ist dein Täglicher Sterne-Bericht von Sudomemo."
+msgstr "Hallo, %s! Dies ist dein täglicher Sterne-Bericht von Sudomemo."
 
 msgid "TEXT_FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote von %s"

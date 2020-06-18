@@ -8,7 +8,7 @@ msgid "BAN_NOTICE_PLEASE_READ_BAN_LETTER"
 msgstr "Bitte lese die von uns gelieferte Email für weitere Informationen."
 
 msgid "BAN_VIEW_MAIL"
-msgstr "Sudomemo-Mail sehen"
+msgstr "Sudomemo-Mail öffnen"
 
 msgid "LOGIN_SUCCESSFUL"
 msgstr "Login erfolgreich"
@@ -17,13 +17,13 @@ msgid "THANKS_FOR_LOGIN_FORMAT"
 msgstr "Danke für's Einloggen, %s!"
 
 msgid "GOTO_CREATORS_ROOM"
-msgstr "Geh zu deinem Ersteller-Raum"
+msgstr "Zu deinem Creator-Raum"
 
 msgid "LOGIN"
-msgstr "Login"
+msgstr "Einloggen"
 
 msgid "POST_COMMENT_BELOW"
-msgstr "Bitte hinterlasse ein Kommentar um fortzufahren."
+msgstr "Bitte hinterlasse einen Kommentar um fortzufahren."
 
 msgid "LOGIN_SETUP"
 msgstr "Login-Setup"
@@ -32,13 +32,13 @@ msgid "WELCOME_BACK_FORMAT"
 msgstr "Willkommen zurück, %s!"
 
 msgid "RETURNING_USER_NEW_LOGIN_SYSTEM"
-msgstr "Wir haben seit deinem letzten Besuch ein neues Login-System eingerichtet, aber keine Sorge! All deine Inhalte sind stets vorhanden!"
+msgstr "Wir haben seit deinem letzten Besuch ein neues Login-System eingerichtet, aber keine Sorge! All deine Inhalte sind immer noch vorhanden!"
 
 msgid "RETURNING_USER_PLEASE_CREATE_PASSWORD"
-msgstr "Bitte erstelle ein Passwort um fortzufahren."
+msgstr "Bitte erstelle ein neues Passwort um fortzufahren."
 
 msgid "NEW_USER_WELCOME_FORMAT"
-msgstr "Willkommen bei Sudomemo, %s!"
+msgstr "Herzlich Willkommen bei Sudomemo, %s!"
 
 msgid "NEW_USER_PLEASE_CREATE_PASSWORD"
 msgstr "Bitte erstelle ein neues Passwort."
@@ -47,40 +47,40 @@ msgid "FORM_HEADER_PASSWORD"
 msgstr "Passwort:"
 
 msgid "FORM_PREFILL_PASSWORD"
-msgstr "Gib dein Passwort hier ein..."
+msgstr "Bitte gib dein Passwort hier ein"
 
 msgid "FORM_WARNING_PASSWORD_TOO_SHORT"
-msgstr "Stelle bitte sicher, dass das Passwort mehr als 8 Charaktere enthält."
+msgstr "Stelle bitte sicher, dass das Passwort mehr als 8 Zeichen enthält."
 
 msgid "FORM_WARNING_PASSWORD_DISALLOWED_CHARS"
-msgstr "Dein Passwort kann diese Zeichen nicht enthalten:"
+msgstr "Passwörter können diese Zeichen nicht enthalten:"
 
 msgid "FORM_LABEL_DONT_FORGET_PASSWORD"
 msgstr "Erstelle eine Notiz für dein Passwort, und halte es geheim!"
 
 msgid "FORM_HEADER_EMAIL"
-msgstr "Email (Optional):"
+msgstr "Email-Adresse (optional):"
 
 msgid "FORM_PREFILL_EMAIL"
-msgstr "Bitte deine Email hier eingeben."
+msgstr "Bitte gib deine Email-Adresse hier ein"
 
 msgid "FORM_WARNING_EMAIL_INVALID"
-msgstr "Die eingegebene Email ist ungültig."
+msgstr "Die eingegebene Email-Adresse ist ungültig."
 
 msgid "EMAIL_ADDITION_SUGGESTED"
 msgstr "Die Eingabe der Email-Adresse ist optional, jedoch ist sie für Wiederherstellungs-Emails nötig, falls du dein Passwort vergessen hast."
 
 msgid "CONFIRM_INFO_CORRECT"
-msgstr "Bitte stelle sicher, ob die eingegebene Information korrekt ist."
+msgstr "Bitte stelle sicher, ob die eingegebenen Information korrekt sind."
 
 msgid "NO_PLAINTEXT_PASSWORD_RECOVERY_IF_LOST"
 msgstr "Hiernach können wir dein Passwort kein erneutes Mal wiederherstellen."
 
 msgid "BUTTON_CHANGE_PASSWORD"
-msgstr "Passort ändern"
+msgstr "Passwort ändern"
 
 msgid "FORM_HEADER_EMAIL_CONFIRM"
-msgstr "Email:"
+msgstr "Email-Adresse:"
 
 msgid "BUTTON_CHANGE_EMAIL"
 msgstr "Email-Adresse ändern"
@@ -89,28 +89,28 @@ msgid "BUTTON_ADD_AN_EMAIL_ADDRESS"
 msgstr "Email-Adresse hinzufügen"
 
 msgid "BUTTON_SUBMIT"
-msgstr "Einreichen"
+msgstr "Hochladen"
 
 msgid "PLEASE_ENTER_PASSWORD_TO_SIGN_IN"
-msgstr "Bitte dein Passwort eingeben, um dich einzuloggen"
+msgstr "Bitte gib dein Passwort ein, um dich einzuloggen."
 
 msgid "LOGIN_FORM_PREFILL_PASSWORD"
 msgstr "Passwort eingeben"
 
 msgid "INCORRECT_PASSWORD_ATTEMPTS_FORMAT"
-msgstr "Inkorrekte Passwörter: %s"
+msgstr "Anzahl der falsch eingegebenen Passwörter: %s"
 
 msgid "REGISTRATION_ERROR_BAD_EMAIL"
-msgstr "Die von dir angegebene Email-Adresse ist nicht zulässig."
+msgstr "Die von dir angegebene Email-Adresse existiert nicht."
 
 msgid "REGISTRATION_ERROR_BAD_PASSWORD"
-msgstr "Dieses Passwort ist nicht zulässig."
+msgstr "Dieses Passwort wurde in einem falschen Format eingegeben."
 
 msgid "ERROR"
 msgstr "Fehler"
 
 msgid "REGISTRATION_ERROR_PASSWORD_ALREADY_SET"
-msgstr "Passwort wurde schon eingestellt."
+msgstr "Passwort wurde schon festgelegt."
 
 msgid "NEW_USER_THANKS_FOR_REGISTRATION"
 msgstr "Willkommen auf Sudomemo!"
@@ -137,7 +137,7 @@ msgid "LOGIN_FAILED_BANNED_LINE1"
 msgstr "Du wurdest von Sudomemo gebannt."
 
 msgid "CONTACT_SUPPORT_EMAIL_FORMAT"
-msgstr "Bitte kontaktiere %s."
+msgstr "Bitte kontaktiere unseren Support unter der Email-Adresse %s."
 
 msgid "CREATORS_ROOM_SHIM_WELCOME"
 msgstr "Willkommen!"
@@ -146,7 +146,7 @@ msgid "CREATORS_ROOM_SHIM_PLEASE_LOGIN"
 msgstr "Willkommen auf Sudomemo! Melde dich an um fortzufahren."
 
 msgid "NEW_USER_INTRO_POST_INTRO_CHANNEL"
-msgstr "Wenn du bereit bist, gib dich der Welt im Vorstelleungs-Kanal in der Personal-Kategorie preis."
+msgstr "Wenn du bereit bist, gib dich der Welt im Vorstellungs-Kanal in der Persönlichkeits-Kategorie preis."
 
 msgid "EMAIL_VERIFICATION_ADDRESS_REMOVED"
-msgstr "Sorry about that! We've marked that email address as incorrect, so you shouldn't receive any further emails from Sudomemo."
+msgstr "Wir entschuldigen uns dafür! Wir haben die Email-Adresse als falsch markiert, also solltest du keine weiteren Emails von Sudomemo erhalten."

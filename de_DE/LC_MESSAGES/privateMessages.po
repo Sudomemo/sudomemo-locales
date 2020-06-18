@@ -1,11 +1,11 @@
 msgid "NO_COMMENTS_YET"
-msgstr "Es gibt hier noch keine Nachrichten."
+msgstr "Ziemlich leer hier, oder?"
 
 msgid "HEADER_DIRECT_MESSAGES"
 msgstr "Direkt-Nachrichten"
 
 msgid "HEADER_CONVERSATION_ID"
-msgstr "Gesprächs-ID"
+msgstr "Konversations-ID"
 
 msgid "HEADER_PARTICIPANTS"
 msgstr "Teilnehmer"
@@ -14,7 +14,7 @@ msgid "HEADER_UNREAD_COUNT"
 msgstr "Ungelesen"
 
 msgid "TAP_ON_CONVERSATION_ID_TO_JOIN_CHAT"
-msgstr "Tippe auf eine Gesprächs-ID, um dem Chat beizutreten."
+msgstr "Tippe auf eine Konversations-ID, um der Konversation beizutreten."
 
 msgid "HEADER_NEXT"
 msgstr "Weiter"

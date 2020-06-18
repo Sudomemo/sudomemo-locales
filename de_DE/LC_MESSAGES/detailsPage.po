@@ -2,7 +2,7 @@ msgid "TIMESTAMP_FORMAT"
 msgstr "j. M y, H:i:s"
 
 msgid "FLIPNOTE_TITLE_FORMAT"
-msgstr "Flipnote von %s"
+msgstr "Hochgeladen von %s"
 
 msgid "HEADER_DETAILS"
 msgstr "Details"
@@ -17,7 +17,7 @@ msgid "HEADER_ORIGINAL_FLIPNOTE"
 msgstr "Rufe das Original-Flipnote hier auf!"
 
 msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
-msgstr "Um gegen Sternebettlerei vorzugehen haben wir die Anzahl Gelber Sterne auf 10 begrenzt."
+msgstr "Um Sternebettlerei vorzubeugen, haben wir die Anzahl maximal verleihbarer gelber Sterne auf 10 begrenzt."
 
 msgid "HEADER_CREATOR"
 msgstr "Ersteller"
@@ -50,13 +50,13 @@ msgid "HEADER_OPTIONS"
 msgstr "Optionen"
 
 msgid "HEADER_SET_AS_PROFILE_PICTURE"
-msgstr "Als Profilbild einstellen"
+msgstr "Als Profilbild festlegen"
 
 msgid "HEADER_REPORT_FLIPNOTE"
-msgstr "Flipnote melden"
+msgstr "Melden"
 
 msgid "ADMIN_ACTIONS"
-msgstr "Admin-Aktionen"
+msgstr "Administrator-Aktionen"
 
 msgid "PREV"
 msgstr "Zurück"
@@ -65,22 +65,22 @@ msgid "NEXT"
 msgstr "Weiter"
 
 msgid "STAR_DETAILS_UPPERTITLE"
-msgstr "★ Sterne ★"
+msgstr "Sterne"
 
 msgid "SET_TITLE"
-msgstr "Titel einstellen"
+msgstr "Titel ändern"
 
 msgid "SET_TITLE_INSTRUCTIONS"
-msgstr "Den neuen Titel deines Flipnotes hier unten eingeben."
+msgstr "Bitte gebe den gewünschten Titel deines Flipnotes unten ein."
 
 msgid "40_CHARACTER_LIMIT"
-msgstr "Die Länge deines Titels ist auf 40 Charaktere begrenzt."
+msgstr "Die Länge deines Titels ist auf 40 Zeichen begrenzt."
 
 msgid "LEAVE_BLANK_TO_RESET"
-msgstr "Der Titel kann beim Speichern ohne Text zurückgesetzt werden."
+msgstr "Wenn du den Titel zurücksetzen möchtest, lasse das untere Feld einfach leer."
 
 msgid "ENTER_TITLE"
-msgstr "Titel eingeben..."
+msgstr "Titel eingeben"
 
 msgid "HEADER_ADD_DESCRIPTION"
 msgstr "Beschreibung hinzufügen"
@@ -89,19 +89,19 @@ msgid "HEADER_DESCRIPTION"
 msgstr "Beschreibung"
 
 msgid "SET_DESCRIPTION"
-msgstr "Beschreibung einstellen"
+msgstr "Beschreibung festlegen"
 
 msgid "SET_DESCRIPTION_INSTRUCTIONS"
 msgstr "Die neue Beschreibung deines Flipnotes hier unten eingeben."
 
 msgid "101_CHARACTER_LIMIT_DESC"
-msgstr "Die Länge deiner Beschreibung ist auf 101 Charaktere begrenzt."
+msgstr "Die Länge deiner Beschreibung ist auf 101 Zeichen begrenzt."
 
 msgid "LEAVE_BLANK_TO_RESET_DESC"
-msgstr "Die Beschreibung kann beim Speichern ohne Text zurückgesetzt werden."
+msgstr "Wenn du die Beschreibung zurücksetzen möchtest, lasse das untere Feld einfach leer."
 
 msgid "ENTER_DESCRIPTION"
-msgstr "Beschreibung eingeben..."
+msgstr "Beschreibung eingeben"
 
 msgid "HEADER_FLIPNOTE_OPTIONS"
 msgstr "Optionen"
@@ -112,4 +112,4 @@ msgstr "Song"
 # This is shown to logged-in users on their own Flipnotes without titles
 
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
-msgstr "Untitled Flipnote by %s"
+msgstr "Unbenanntes Flipnote von %s"

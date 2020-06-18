@@ -11,16 +11,16 @@ msgid "CHANNEL_ID"
 msgstr "Kanal-ID"
 
 msgid "LOGIN_REQUIRED_TO_POST"
-msgstr "Du musst angemeldet sein, um ein Flipnote zu posten."
+msgstr "Du musst angemeldet sein, um ein Flipnote hochzuladen."
 
 msgid "CHANNEL_NOT_SPECIFIED"
 msgstr "Du musst einen Kanal auswählen."
 
 msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
-msgstr "Du wurdest von Sudomemo gebannt."
+msgstr "Dein Flipnote konnte nicht hochgeladen werden, da du von Sudomemo gebannt wurdest."
 
 msgid "FLIPNOTE_POST_FAILED"
-msgstr "Posten deines Flipnotes fehlgeschlagen! Versuche es später erneut."
+msgstr "Dein Flipnote konnte nicht hochgeladen werden! Versuche es später erneut."
 
 msgid "DUPLICATE_FLIPNOTE_FAILED"
 msgstr "Dieses Flipnote existiert schon auf Sudomemo! Bearbeite es, und versuche es später erneut."

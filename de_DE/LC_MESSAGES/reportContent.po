@@ -2,7 +2,7 @@ msgid "HEADER_REPORT_CONTENT"
 msgstr "Melden"
 
 msgid "CHAT_MESSAGE"
-msgstr "Chatraum-Nachricht"
+msgstr "Chat-Nachricht"
 
 msgid "COMMENT"
 msgstr "Kommentar"
@@ -26,10 +26,10 @@ msgid "CREATOR_FORMAT"
 msgstr "Ersteller: %s"
 
 msgid "NOTICE_REPORT_OTHER_ISSUES"
-msgstr "Dieses Formular dient ausschiließen dem Melden des Inhaltes. Um das Verhalten des Benutzers sowie sonstige Probleme zu melden, schicke bitte eine Email an unseren Support-Dienst:"
+msgstr "Dieses Formular dient ausschließlich dem Melden des Inhaltes. Um das Verhalten des Benutzers sowie sonstige Probleme zu melden, schicke bitte eine Email an unseren Support-Dienst:"
 
 msgid "REPORT_INSTRUCTIONS"
-msgstr "Bitte gib deine zusammengefasste Meinung daruber, wie der gemeldete Inhalt gegen die Nutzungsrechtlinien Sudomemos verstößt. Tippe nach dem Einreichen auf Zurück."
+msgstr "Bitte gib deine zusammengefasste Meinung daruber, wie der gemeldete Inhalt gegen die Nutzungsrichtlinien Sudomemos verstößt. Tippe nach dem Einreichen auf Zurück."
 
 msgid "NO_BLANK_REPORTS"
 msgstr "Du kannst keine leere Meldung einreichen."
@@ -59,4 +59,4 @@ msgid "DUPLICATE_COMMENT_FAILED"
 msgstr "Dieser Kommentar wurde schon auf Sudomemo hochgeladen."
 
 msgid "THANKS_FOR_REPORTING"
-msgstr "Wir haben deine Meldung erfolgreich erhalten. Vielen Dank für deine Kooperation zur Aufrechterhaltung von Sudomemo!"
+msgstr "Wir haben deine Meldung erhalten. Vielen Dank für deine Kooperation zur Aufrechterhaltung von Sudomemo!"

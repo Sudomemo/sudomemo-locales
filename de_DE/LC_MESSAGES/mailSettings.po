@@ -11,28 +11,28 @@ msgid "MAIL_STATUS"
 msgstr "Status"
 
 msgid "ENABLED"
-msgstr "Eingeschaltet"
+msgstr "Aktiviert"
 
 msgid "DISABLED"
-msgstr "Ausgeschaltet"
+msgstr "Deaktiviert"
 
 msgid "ENABLE"
-msgstr "Einschalten"
+msgstr "Aktivieren"
 
 msgid "Disable"
-msgstr "Ausschalten"
+msgstr "Deaktivieren"
 
 msgid "TAP_TO_ENABLE"
-msgstr "Hier zum Einschalten tippen"
+msgstr "Zum Aktivieren hier tippen"
 
 msgid "TAP_TO_DISABLE"
-msgstr "Hier zum Ausschalten tippen"
+msgstr "Zum Deaktivieren hier tippen"
 
 msgid "TYPE_NEWS_NAME"
 msgstr "Sudomemo News"
 
 msgid "TYPE_NEWS_DESC"
-msgstr "Erhalte Emails über neue Beiträge in Sudomemo News"
+msgstr "Erhalte Emails über neue Beiträge auf Sudomemo News"
 
 msgid "TYPE_PROMO_NAME"
 msgstr "Promo"
@@ -50,19 +50,19 @@ msgid "TYPE_COMMENT_NOTIF_NAME"
 msgstr "Kommentar erhalten"
 
 msgid "TYPE_COMMENT_NOTIF_DESC"
-msgstr "Erhalte eine Email, wenn jemand dein Flipnote einen Kommentar versendet"
+msgstr "Erhalte eine Email, wenn jemand unter deinem Flipnote einen Kommentar postet"
 
 msgid "TYPE_STAR_REPORT_NAME"
-msgstr "Täglicher Sternenbericht"
+msgstr "Täglicher Sternebericht"
 
 msgid "TYPE_STAR_REPORT_DESC"
-msgstr "Erhalte täglich eine Email mit einem Überblick auf die im Tag erhaltenen Sterne"
+msgstr "Erhalte täglich eine Email mit einer Zusammenfassung über die am Tag erhaltenen Sterne"
 
 msgid "TYPE_SPINOFF_NOTIF_NAME"
 msgstr "Spin-Off erhalten"
 
 msgid "TYPE_SPINOFF_NOTIF_DESC"
-msgstr "Erhalte eine Email, wenn ein Spin-off eines deiner Flipnotes hochgeladen wird"
+msgstr "Erhalte eine Email, wenn ein Spin-off deiner Flipnotes hochgeladen wird"
 
 msgid "TYPE_SECURITY_NOTIF_NAME"
 msgstr "Konto-Sicherheit"
@@ -86,22 +86,22 @@ msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
 msgstr "Tippe auf den Status eines Mail-Typs, um ihn zu verwalten."
 
 msgid "HEADER_CHANGE_EMAIL_SETTINGS"
-msgstr "Email-Einstellungen bearbeiten"
+msgstr "Email-Einstellungen ändern"
 
 msgid "DISABLE_CONFIRMATION_FORMAT"
-msgstr "Willst du sicherlich die Emails für '%s' abschalten?"
+msgstr "Willst du wirklich die Emails für '%s' deaktivieren?"
 
 msgid "REENABLE_INSTRUCTIONS"
-msgstr "Willst du sie wieder einschalten, so wähle die Option <strong>Mail-Einstellungen</strong> in deinem Ersteller-Raum."
+msgstr "Willst du sie wieder aktivieren, wähle die Option <strong>Mail-Einstellungen</strong> auf deiner Creator-Seite."
 
 msgid "EMAIL_SETTING_DISABLED_FINISH_FORMAT"
-msgstr "Du hast die Emails für '%s' abgeschaltet."
+msgstr "Du hast die Emails für '%s' deaktiviert."
 
 msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
 msgstr "Der eingegebene Link ist abgelaufen."
 
 msgid "TYPE_SERVICE_UPDATE_NAME"
-msgstr "Service Updates"
+msgstr "Service-Neuigkeiten"
 
 msgid "TYPE_SERVICE_UPDATE_DESC"
-msgstr "Important updates about Sudomemo's status or availability related to your account"
+msgstr "Wichtige Neuigkeiten bezüglich Sudomemo's Erreichbarkeit, die deinen Account betreffen"
