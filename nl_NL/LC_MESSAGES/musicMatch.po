@@ -1,5 +1,5 @@
 msgid "HEADER_SONG_DETAILS"
-msgstr "Lied Details"
+msgstr "Nummerdetails"
 
 # Song Name
 msgid "TITLE"
@@ -22,22 +22,22 @@ msgid "FLIPNOTE_COUNT"
 msgstr "Flipnotes"
 
 msgid "BROWSE"
-msgstr "Blader"
+msgstr "Bladeren"
 
 # Not translating this because I think it counts as an "internal name" for the song. You should be able to find the "Song ID" whether you're using English or Dutch.
 msgid "SONG_ID"
-msgstr "Song ID"
+msgstr "Song-ID"
 
 msgid "LINK_YOUTUBE_SPOTIFY"
 msgstr "YouTube en Spotify links zijn beschikbaar:"
 
 msgid "LINK_YOUTUBE"
-msgstr "Een YouTube link is beschikbaar hier:"
+msgstr "Een YouTubelink is hier beschikbaar:"
 
 msgid "LINK_SPOTIFY"
-msgstr "Een Spotify link is beschikbaar hier:"
+msgstr "Een Spotifylink is hier beschikbaar:"
 
 # Creator instructions
 
 msgid "IF_SONG_INCORRECT"
-msgstr "Als een verkeerd lied bij jouw Flipnote weergegeven wordt, je kan het veranderen op Sudomemo Theatre. Voor meer informatie, kijk op: https://flipnot.es/musicmatch"
+msgstr "Als een verkeerd nummer bij jouw Flipnote weergegeven wordt, je kan het veranderen op Sudomemo Theatre. Voor meer informatie, kijk op: https://flipnot.es/musicmatch"

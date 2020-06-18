@@ -1,5 +1,5 @@
 msgid "HEADER_COMMENTS"
-msgstr "Commentaar"
+msgstr "Reacties"
 
 msgid "HEADER_DETAILS"
 msgstr "Details"
@@ -17,28 +17,28 @@ msgid "PAGE_FORMAT"
 msgstr "Pagina %d"
 
 msgid "NO_COMMENTS_YET"
-msgstr "Deze Flipnote heeft nog geen commentaar."
+msgstr "Deze Flipnote heeft nog geen reacties."
 
 msgid "LOGIN_REQUIRED_TO_POST_COMMENT"
-msgstr "Je moet ingelogd zijn om commentaar te kunnen plaatsen."
+msgstr "Je moet ingelogd zijn om reacties te kunnen plaatsen."
 
 msgid "COMMENT_POST_FAILED"
-msgstr "Commentaar plaatsen mislukt. Probeer het binnenkort nog eens."
+msgstr "Reactie plaatsen mislukt. Probeer het binnenkort nog eens."
 
 msgid "NO_BLANK_COMMENTS_ALLOWED"
-msgstr "Je kan geen leeg stuk commentaar plaatsen."
+msgstr "Je kan geen lege reacties plaatsen."
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
 msgstr "Deze Flipnote is beschadigd. Probeer het binnenkort nog eens."
 
 msgid "FLIPNOTE_COMMENTS_DISALLOWED"
-msgstr "Je mag geen commentaar leveren op deze Flipnote."
+msgstr "Je mag geen reacties plaatsen op deze Flipnote."
 
 msgid "NO_COMMENTS_WHILE_MUTED"
-msgstr "Je bent op stil gezet. Je mag geen commentaar plaatsen."
+msgstr "Je bent op stil gezet. Je mag geen reacties plaatsen."
 
 msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "Dit stuk commentaar is al eens geplaatst op Sudomemo."
+msgstr "Deze reactie is al eens geplaatst op Sudomemo."
 
 msgid "COMMENT_FAILED_USER_BANNED"
 msgstr "Je toegang tot Sudomemo is vergrendeld."

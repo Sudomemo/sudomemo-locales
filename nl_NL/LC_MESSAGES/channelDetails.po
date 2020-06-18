@@ -1,14 +1,14 @@
 msgid "CHANNEL_NAME"
-msgstr "Kanaal Naam"
+msgstr "Kanaalnaam"
 
 msgid "CHANNEL_INFORMATION"
-msgstr "Kanaal Informatie"
+msgstr "Kanaalinformatie"
 
 msgid "FLIPNOTES"
 msgstr "Flipnotes"
 
 msgid "CHANNEL_ID"
-msgstr "Kanaal ID"
+msgstr "Kanaal-ID"
 
 msgid "LOGIN_REQUIRED_TO_POST"
 msgstr "Je moet ingelogd zijn om een Flipnote te kunnen plaatsen."
@@ -20,7 +20,7 @@ msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
 msgstr "Je toegang tot Sudomemo is vergrendeld."
 
 msgid "FLIPNOTE_POST_FAILED"
-msgstr "Flipnote upload mislukt. Probeer het binnenkort nog eens."
+msgstr "Uploaden van Flipnote mislukt. Probeer het binnenkort nog eens."
 
 msgid "DUPLICATE_FLIPNOTE_FAILED"
 msgstr "Deze Flipnote is al geplaatst op Sudomemo. Probeer het eerst te bewerken."

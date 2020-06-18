@@ -5,10 +5,10 @@ msgid "LANGUAGE_UPDATED_FORMAT"
 msgstr "Je taal is veranderd naar %s."
 
 msgid "POTENTIAL_CONTRIBUTOR_NOTE"
-msgstr "Sudomemo relies on its community to provide accurate translations. If you see something that does not display correctly, is still in English, is a low-quality translation, or if you would like to add your own language, we invite you to contribute! Full and verified new translations can earn you extra days of Sudomemo Plus. You can do so here: https://github.com/Sudomemo/sudomemo-locales"
+msgstr "Sudomemo steunt op zijn gemeenschap om accurate vertalingen te leveren. Als iets niet goed weergegeven, nog Engels, of een lage kwaliteit vertaling is, of als je je eigen taal wil toevoegen, nodigen we je uit om een bijdrage te leveren! Volledige en geverifiëerde nieuwe vertalingen kunnen leiden tot extra dagen Sudomemo Plus. Hier kan je dat doen: https://github.com/Sudomemo/sudomemo-locales"
 
 msgid "RETURN_TO_CREATORS_ROOM"
-msgstr "Terug naar Maker's Ruimte"
+msgstr "Terug naar Makersruimte"
 
 msgid "NOT_LOGGED_IN"
 msgstr "Je moet inloggen voor je je taal verandert."

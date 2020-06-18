@@ -2,13 +2,13 @@ msgid "SET_PROFILE_PICTURE"
 msgstr "Zet als Profielfoto"
 
 msgid "PROMPT_CHANGE_YOUR_PROFILE_IMAGE"
-msgstr "Verander je Profielfoto?"
+msgstr "Profielfoto Veranderen?"
 
 msgid "CONTINUE_SET_AS_PROFILE_PICTURE"
-msgstr "Bevestig"
+msgstr "Bevestigen"
 
 msgid "CURRENT"
-msgstr "Momenteel"
+msgstr "Huidig"
 
 msgid "NEW"
 msgstr "Nieuw"
@@ -20,7 +20,7 @@ msgid "RETURN_TO_FLIPNOTE"
 msgstr "Terug naar Flipnote"
 
 msgid "CREATORS_ROOM"
-msgstr "Maker's Ruimte"
+msgstr "Makersruimte"
 
 msgid "CANCEL"
 msgstr "Annuleer"

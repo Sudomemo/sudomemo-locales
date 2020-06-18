@@ -17,7 +17,7 @@ msgid "RESULTS"
 msgstr "Resultaten"
 
 msgid "SEARCH_USERNAME"
-msgstr "@Zoek Gebruikersnaam"
+msgstr "Zoek Gebruikersnaam"
 
 msgid "PLEASE_ENTER_USERNAME"
 msgstr "Voer een gebruikersnaam in..."
@@ -32,13 +32,13 @@ msgid "NO_RESULTS_FOUND"
 msgstr "Geen resultaten gevonden"
 
 msgid "SEARCH_SHORT_KEY"
-msgstr "Flipnote ID"
+msgstr "Flipnote-ID"
 
 msgid "SHORT_KEY_NO_RESULTS"
 msgstr "Geen Flipnote gevonden"
 
 msgid "SHORT_KEY_FORMAT_GUIDE"
-msgstr "Vindt je niet waar je naar zoekt? Het kan zijn dat je de Flipnote ID verkeerd hebt ingevuld. Flipnote ID's zijn zes nummers lang en kunnen gevonden worden in het Details gedeelte van de Flipnote."
+msgstr "Vindt je niet waar je naar zoekt? Het kan zijn dat je de Flipnote-ID verkeerd hebt ingevuld. Flipnote-ID's zijn zes nummers lang en kunnen gevonden worden in het 'Details'-gedeelte van de Flipnote."
 
 msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
-msgstr "Er is geen resultaat gevonden, maar een soortgelijke ID bestaat. Houd er rekening mee dat Flipnote ID's hoofdlettergevoelig zijn, en meestal alleen hoofdletters en nummers bevatten."
+msgstr "Er is geen resultaat gevonden, maar een soortgelijke ID bestaat. Houd er rekening mee dat Flipnote-ID's hoofdlettergevoelig zijn, en meestal alleen hoofdletters en nummers bevatten."

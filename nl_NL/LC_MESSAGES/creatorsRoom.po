@@ -2,13 +2,13 @@ msgid "SEE_MORE"
 msgstr "Zie meer..."
 
 msgid "STARRED_FLIPNOTES"
-msgstr "Ster gegeven Flipnotes"
+msgstr "Gesterde Flipnotes"
 
 msgid "FAVORITE_USERS"
 msgstr "Favoriete Gebruikers"
 
 msgid "FAVORITES_FEED"
-msgstr "Favorieten Feed"
+msgstr "Favorietenfeed"
 
 msgid "FAVORITE_CHANNELS"
 msgstr "Favoriete Kanalen"
@@ -23,28 +23,28 @@ msgid "USER_THEME"
 msgstr "Thema"
 
 msgid "THEME_SHOP"
-msgstr "Thema Winkel"
+msgstr "Themawinkel"
 
 msgid "POSTED_COMMENTS"
-msgstr "Geplaatste Commentaar"
+msgstr "Geplaatste Reacties"
 
 msgid "POSTED_CHATCOMMENTS"
 msgstr "Chatberichten"
 
 msgid "FEATURE_USABILITY"
-msgstr "Extra Functies Bruikbaarheid"
+msgstr "Bruikbaarheid"
 
 msgid "USABLE"
-msgstr "Gebruikbaar"
+msgstr "Bruikbaar"
 
 msgid "NOT_USABLE"
-msgstr "Ongebruikbaar"
+msgstr "Onbruikbaar"
 
 msgid "SUDOMEMO_THEATRE_URL"
-msgstr "Sudomemo Theatre Link"
+msgstr "Sudomemo Theatrelink"
 
 msgid "FLIPNOTE_STUDIO_ID"
-msgstr "Flipnote Studio ID"
+msgstr "Flipnote Studio-ID"
 
 msgid "SETTINGS"
 msgstr "Instellingen"
@@ -53,7 +53,7 @@ msgid "ADMIN_ACCT_GOOD_STANDING"
 msgstr "In goede staat"
 
 msgid "ADMIN_ACCT_BANNED"
-msgstr "Banned"
+msgstr "Verbannen"
 
 msgid "ADMIN_ACCT_BLOCKED"
 msgstr "Geblokkeerd"
@@ -62,19 +62,19 @@ msgid "ADMIN_ACCT_MUTED"
 msgstr "Op stil gezet"
 
 msgid "ADMIN_USER_DETAILS"
-msgstr "Gebruiker Details"
+msgstr "Gebruikerdetails"
 
 msgid "ADMIN_LAST_SEEN"
 msgstr "Laatst gezien"
 
 msgid "ADMIN_USER_STATUS"
-msgstr "Gebruiker Status"
+msgstr "Gebruikerstatus"
 
 msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
-msgstr "Admin Acties"
+msgstr "Adminacties"
 
 msgid "BLOCK_COMMENTS_HEADER"
-msgstr "Blokkeer Commentaar"
+msgstr "Blokkeer Reacties"
 
 msgid "BLOCK_COMMENTS_LINK"
 msgstr "Blokkeer"
@@ -134,10 +134,10 @@ msgid "PREVIEW"
 msgstr "Voorbeeld"
 
 msgid "CREATORS_ROOM"
-msgstr "Maker's Ruimte"
+msgstr "Makersruimte"
 
 msgid "THEME_ERROR_THEME_NOT_OWNED"
-msgstr "Sorry! Je bezit die thema niet."
+msgstr "Sorry! Je bezit dit thema niet."
 
 msgid "THEME_SUCCESSFULLY_SET"
 msgstr "Thema succesvol veranderd!"
@@ -146,7 +146,7 @@ msgid "BLOCKED_USERS"
 msgstr "Geblokkeerde Gebruikers"
 
 msgid "VIEW"
-msgstr "Laat zien"
+msgstr "Weergeven"
 
 msgid "FAN_COUNT_FORMAT"
 msgstr "Fans: %s"
@@ -155,13 +155,13 @@ msgid "HEADER_LANGUAGE"
 msgstr "Taal"
 
 msgid "HEADER_MAIL_SETTINGS"
-msgstr "E-mail Instellingen"
+msgstr "E-mailinstellingen"
 
 msgid "HEADER_EDIT_BIOGRAPHY"
 msgstr "Verander Biografie"
 
 msgid "SET_BIO_INSTRUCTIONS"
-msgstr "Vul je profiel biografie hieronder in. Dit zal weergeven worden op Sudomemo en Sudomemo Theatre."
+msgstr "Vul je profielbiografie hieronder in. Dit zal weergegeven worden op Sudomemo en Sudomemo Theatre."
 
 msgid "ENTER_BIO"
 msgstr "Vul Bio in..."
@@ -178,7 +178,6 @@ msgstr "Huidige Bio:"
 msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
 msgstr "Je kan niet meer dan %d gebruikers volgen."
 
-# The Dutch word for this depends on the context. I'll have a look what it's used for and change it if needed.
 msgid "RANKING"
 msgstr "Rang"
 
@@ -201,7 +200,7 @@ msgid "REDEEM"
 msgstr "Wissel in"
 
 msgid "SPENDABLE_STARS"
-msgstr "Jouw Sterren "
+msgstr "Jouw Sterren"
 
 msgid "SPENDABLE_STARS_HELPTEXT"
 msgstr "Sterren om aan Flipnotes toe te voegen of om te gebruiken voor thema's"

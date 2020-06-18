@@ -2,7 +2,7 @@ msgid "EMAIL_SUBJECT_FORMAT"
 msgstr "[Sudomemo] %s heeft je toegevoegd aan hun Favorieten"
 
 msgid "GREETING_FORMAT"
-msgstr "Hé %s!"
+msgstr "Hé, %s!"
 
 msgid "NEW_FOLLOWER_ADDED_YOU_FORMAT"
 msgstr "%s heeft je zojuist toegevoegd aan hun Favorieten."
