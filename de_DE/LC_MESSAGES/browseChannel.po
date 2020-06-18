@@ -14,7 +14,7 @@ msgid "PAGE"
 msgstr "Seite"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "Seite %d von %d"
+msgstr "%d von %d"
 
 msgid "SPINOFFS"
 msgstr "Spin-Offs"
