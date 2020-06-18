@@ -1,5 +1,5 @@
 msgid "FLIPNOTE_OPTIONS"
-msgstr "Flipnote Opties"
+msgstr "Flipnoteopties"
 
 msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
 msgstr "Je moet ingelogd zijn om deze pagina te weergeven."
@@ -14,10 +14,10 @@ msgid "OPTION_NAME_SMOOTH"
 msgstr "Verzachting"
 
 msgid "OPTION_DESC_SMOOTH"
-msgstr "Lijnen, rondingen, en randen worden verzacht voor een meer natuurlijke uitstraling op Sudomemo Theatre."
+msgstr "Lijnen, bogen, en randen worden verzacht voor een meer natuurlijke uitstraling op Sudomemo Theatre."
 
 msgid "FLIPNOTE_URL_IS"
-msgstr "Flipnote URL:"
+msgstr "Flipnote-URL:"
 
 msgid "ENABLE_SMOOTHING"
 msgstr "Verzachting inschakelen"
@@ -32,13 +32,13 @@ msgid "OFF"
 msgstr "Uit"
 
 msgid "CITIZENSHIP_REQUIRED"
-msgstr "Je hebt Sudomemo Citizenship nodig om deze functie te gebruiken."
+msgstr "Je hebt Sudomemo Citizenship nodig om dit te gebruiken."
 
 msgid "PLUS_REQUIRED"
 msgstr "Je hebt Sudomemo Plus nodig om dit te gebruiken."
 
 msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
-msgstr "Tik op de status van een optie om deze te weergeven of te veranderen."
+msgstr "Tik op de status van een optie om deze weer te geven of te veranderen."
 
 msgid "OPTION_NAME_FORCE_44K_BITRATE"
 msgstr "Verbeterd geluid"

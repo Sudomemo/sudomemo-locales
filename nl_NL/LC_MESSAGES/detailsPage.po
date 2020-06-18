@@ -8,7 +8,7 @@ msgid "HEADER_DETAILS"
 msgstr "Details"
 
 msgid "HEADER_COMMENTS"
-msgstr "Commentaar"
+msgstr "Reacties"
 
 msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
 msgstr "Deze Flipnote is een spin-off."
@@ -20,7 +20,7 @@ msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
 msgstr "Om vragen voor sterren (\"Starbegging\") te voorkomen, zijn gele sterren gelimiteerd tot tien per Flipnote."
 
 msgid "HEADER_CREATOR"
-msgstr "Maker"
+msgstr "Auteur"
 
 msgid "HEADER_STARS"
 msgstr "Sterren"
@@ -41,7 +41,7 @@ msgid "HEADER_POSTED"
 msgstr "Geplaatst"
 
 msgid "HEADER_FLIPNOTE_ID"
-msgstr "Flipnote ID"
+msgstr "Flipnote-ID"
 
 msgid "HEADER_CHANNEL"
 msgstr "Kanaal"
@@ -50,13 +50,13 @@ msgid "HEADER_OPTIONS"
 msgstr "Opties"
 
 msgid "HEADER_SET_AS_PROFILE_PICTURE"
-msgstr "Zet als Profiel Foto"
+msgstr "Zet als Profielfoto"
 
 msgid "HEADER_REPORT_FLIPNOTE"
 msgstr "Rapporteer Flipnote"
 
 msgid "ADMIN_ACTIONS"
-msgstr "Admin Acties"
+msgstr "Adminacties"
 
 msgid "PREV"
 msgstr "Vorige"
@@ -83,7 +83,7 @@ msgid "ENTER_TITLE"
 msgstr "Voer titel in..."
 
 msgid "HEADER_ADD_DESCRIPTION"
-msgstr "Beschrijving toevoegen"
+msgstr "Voeg beschrijving toe"
 
 msgid "HEADER_DESCRIPTION"
 msgstr "Beschrijving"
@@ -95,7 +95,7 @@ msgid "SET_DESCRIPTION_INSTRUCTIONS"
 msgstr "Voer de nieuwe beschrijving voor jouw Flipnote beneden in."
 
 msgid "101_CHARACTER_LIMIT_DESC"
-msgstr "Jouw beschrijving mag niet langer zijn dan 101 karakters."
+msgstr "De beschrijving mag niet langer zijn dan 101 karakters."
 
 msgid "LEAVE_BLANK_TO_RESET_DESC"
 msgstr "Om de beschrijving te verwijderen, laat het formulier leeg bij het insturen."
@@ -106,11 +106,11 @@ msgstr "Voer beschrijving in..."
 msgid "HEADER_FLIPNOTE_OPTIONS"
 msgstr "Opties"
 
-# This is actually the translation for "Music", but it fits better because the word for "Song" ("Lied"/"Liedje") isn't used in Dutch very often
+#This literally translates to "number", but it's also the Dutch word for "track" as in music track.
 msgid "HEADER_SONG"
-msgstr "Muziek"
+msgstr "Nummer"
 
 # This is shown to logged-in users on their own Flipnotes without titles
 
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
-msgstr "Untitled Flipnote by %s"
+msgstr "Naamloze Flipnote door %s"

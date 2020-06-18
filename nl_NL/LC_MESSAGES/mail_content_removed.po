@@ -1,12 +1,12 @@
 # Content Removed - sent to user when a piece of their content has been moderated away
 
 msgid "NOTICE"
-msgstr "Notice"
+msgstr "Opmerking"
 
 ## Intro
 
 msgid "USER_CONTENT_REMOVED"
-msgstr "Something you posted was found to be in violation of Sudomemo's Content Policy and Terms of Use, and has been removed."
+msgstr "Iets dat je hebt geplaatst ging tegen Sudomemo's Inhoudsbeleid en Gebruikerstermen in, en is verwijderd."
 
 ## Content types
 
@@ -14,48 +14,48 @@ msgid "CONTENT_TYPE_flipnote"
 msgstr "Flipnote"
 
 msgid "CONTENT_TYPE_comment"
-msgstr "Comment"
+msgstr "Reactie"
 
 msgid "CONTENT_TYPE_chat_message"
-msgstr "Chat message"
+msgstr "Chatbericht"
 
 ### We plan on adding user-created themes.
 
 msgid "CONTENT_TYPE_room_theme"
-msgstr "Creator's Room theme"
+msgstr "Thema Makersruimte"
 
 msgid "CONTENT_TYPE_profile_bio"
-msgstr "Profile text"
+msgstr "Profieltekst"
 
 ### Catch-all
 
 msgid "CONTENT_TYPE_content"
-msgstr "Other content"
+msgstr "Andere inhoud"
 
 ## continued message...
 
 msgid "REMOVAL_REASON_HEADER"
-msgstr "This content has been removed due to one or more of the following reasons:"
+msgstr "Deze inhoud is verwijderd wegens een of meer van de volgende redenen:"
 
 msgid "CONTENT_POLICY_REVIEW_INTRO"
-msgstr "We understand that when content policies meet artistic expression, context and presentation must be taken into consideration."
+msgstr "We begrijpen dat context en presentatie in acht genomen moet worden wanneer inhoudsbeleid en artistieke expressie bij elkaar komen."
 
 msgid "CONTENT_POLICY_REVIEW_LINK"
 msgstr "We'd like to encourage you to review our Content Policy here:"
 
 msgid "HOW_TO_APPEAL"
-msgstr "If you believe this to be in error, you can learn how to submit an appeal at:"
+msgstr "Als je gelooft dat dit een fout is, kan je leren om beroep te doen op:"
 
 msgid "CONTENT_TYPE"
-msgstr "Content type:"
+msgstr "Inhoudstype:"
 
 msgid "CONTENT_ID"
-msgstr "Content ID:"
+msgstr "Content-ID:"
 
 ## re-download will be made available for certain content types
 
 msgid "REDOWNLOAD_HEADER"
-msgstr "If you would like to revise your %s, you may download it %s"
+msgstr "Als je %s wilt herinzien, kan je het downloaden als %s"
 
 msgid "REDOWNLOAD_LINK"
-msgstr "here"
+msgstr "hier"

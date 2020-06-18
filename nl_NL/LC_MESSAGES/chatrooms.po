@@ -2,7 +2,7 @@ msgid "NO_COMMENTS_YET"
 msgstr "Er zijn hier nog geen chatberichten gestuurd."
 
 msgid "HEADER_COMMENTS"
-msgstr "Commentaar"
+msgstr "Reacties"
 
 msgid "PAGE_FORMAT"
 msgstr "Pagina %d"
@@ -20,7 +20,7 @@ msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
 msgstr "Je moet ingelogd zijn om een chatbericht te kunnen sturen."
 
 msgid "CHAT_REPLY_FAILED"
-msgstr "Chat reactie sturen mislukt. Probeer het binnenkort nog eens."
+msgstr "Chatreactie sturen mislukt. Probeer het binnenkort nog eens."
 
 msgid "NO_BLANK_MESSAGES_ALLOWED"
 msgstr "Je mag geen lege chatberichten sturen."
@@ -32,7 +32,7 @@ msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
 msgstr "Je bent op stil gezet. Je mag nu niet chatten."
 
 msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "Dit stuk commentaar is al eens op Sudomemo gezet."
+msgstr "Deze reactie is al eens op Sudomemo gezet."
 
 msgid "COMMENT_FAILED_USER_BANNED"
 msgstr "Je toegang tot Sudomemo is vergrendeld."

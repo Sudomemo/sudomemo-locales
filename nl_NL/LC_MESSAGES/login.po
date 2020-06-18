@@ -2,40 +2,40 @@ msgid "BAN_GREETING_FORMAT"
 msgstr "Hallo, %s."
 
 msgid "BAN_NOTICE_CONSOLE_BAN"
-msgstr "Je account en apparaat zijn vergrendeld van gebruik van Sudomemo."
+msgstr "Je account en apparaat zijn vergrendeld tegen gebruik van Sudomemo."
 
 msgid "BAN_NOTICE_PLEASE_READ_BAN_LETTER"
 msgstr "Lees alsjeblieft het bericht dat we je gestuurd hebben voor meer informatie"
 
 msgid "BAN_VIEW_MAIL"
-msgstr "Ga naar Sudomemo mail"
+msgstr "Ga naar de mail van Sudomemo"
 
 msgid "LOGIN_SUCCESSFUL"
-msgstr "Log in Succesvol"
+msgstr "Succesvol Ingelogd"
 
 msgid "THANKS_FOR_LOGIN_FORMAT"
 msgstr "Bedankt voor het inloggen, %s!"
 
 msgid "GOTO_CREATORS_ROOM"
-msgstr "Ga naar jouw Maker's Ruimte"
+msgstr "Ga naar jouw Makersruimte"
 
 msgid "LOGIN"
 msgstr "Log in"
 
 msgid "POST_COMMENT_BELOW"
-msgstr "Om door te gaan, plaats alsjeblieft commentaar hieronder."
+msgstr "Om door te gaan, plaats hieronder alsjeblieft een reactie."
 
 msgid "LOGIN_SETUP"
-msgstr "Login Opstelling"
+msgstr "Loginopstelling"
 
 msgid "WELCOME_BACK_FORMAT"
 msgstr "Welkom terug, %s!"
 
 msgid "RETURNING_USER_NEW_LOGIN_SYSTEM"
-msgstr "Sinds de vorige keer dat je hebt ingelogd, hebben we een nieuw inlog systeem toegevoegd -- maar maak je geen zorgen, al je inhoud is er nog steeds!"
+msgstr "Sinds de vorige keer dat je hebt ingelogd, hebben we een nieuw inlogsysteem toegevoegd, maar maak je geen zorgen, al je inhoud is er nog steeds!"
 
 msgid "RETURNING_USER_PLEASE_CREATE_PASSWORD"
-msgstr "Om te beginnen, kies alsjeblieft een wachtwoord hieronder."
+msgstr "Om te beginnen, voer alsjeblieft een wachtwoord hieronder in."
 
 msgid "NEW_USER_WELCOME_FORMAT"
 msgstr "Welkom op Sudomemo, %s!"
@@ -50,28 +50,28 @@ msgid "FORM_PREFILL_PASSWORD"
 msgstr "Vul je wachtwoord hier in..."
 
 msgid "FORM_WARNING_PASSWORD_TOO_SHORT"
-msgstr "Vul alsjeblieft een wachtwoord in dat langer is dan 8 lettertekens."
+msgstr "Vul alsjeblieft een wachtwoord in dat langer is dan 8 tekens."
 
 msgid "FORM_WARNING_PASSWORD_DISALLOWED_CHARS"
 msgstr "Je wachtwoord mag geen van de volgende tekens bevatten:"
 
 msgid "FORM_LABEL_DONT_FORGET_PASSWORD"
-msgstr "Vergeet je wachtwoord niet, en houdt hem veilig!"
+msgstr "Vergeet je wachtwoord niet, en houd hem veilig!"
 
 msgid "FORM_HEADER_EMAIL"
 msgstr "E-mailadres:"
 
 msgid "FORM_PREFILL_EMAIL"
-msgstr "Vul je hier je e-mailadres in..."
+msgstr "Vul hier je e-mailadres in..."
 
 msgid "FORM_WARNING_EMAIL_INVALID"
 msgstr "De e-mailadres die je hebt ingevuld is niet geldig."
 
 msgid "EMAIL_ADDITION_SUGGESTED"
-msgstr "Een e-mailadres is optioneel, maar aanbevolen. Als je je wachtwoord ooit vergeet, sturen we een wachtwoord herstel link naar je e-mailadres."
+msgstr "Een e-mailadres is optioneel, maar aanbevolen. Als je je wachtwoord ooit vergeet, sturen we een wachtwoordherstellink naar je e-mailadres."
 
 msgid "EMAIL_ADDITION_DETAILS"
-msgstr "Als je ooit je wachtwoord vergeet, zullen we een wachtwoord herstel link naar je e-mailadres sturen."
+msgstr "Als je ooit je wachtwoord vergeet, zullen we een wachtwoordherstellink naar je e-mailadres sturen."
 
 msgid "CONFIRM_INFO_CORRECT"
 msgstr "Controleer alsjeblieft of de onderstaande informatie correct is."
@@ -101,7 +101,7 @@ msgid "LOGIN_FORM_PREFILL_PASSWORD"
 msgstr "Vul wachtwoord in"
 
 msgid "INCORRECT_PASSWORD_ATTEMPTS_FORMAT"
-msgstr "Aantal keer fout wachtwoord ingevuld: %s"
+msgstr "Aantal foute wachtwoorden ingevuld: %s"
 
 msgid "REGISTRATION_ERROR_BAD_EMAIL"
 msgstr "Het ingevulde e-mailadres is niet toegestaan."
@@ -119,10 +119,10 @@ msgid "NEW_USER_THANKS_FOR_REGISTRATION"
 msgstr "Welkom op Sudomemo!"
 
 msgid "RETURNING_USER_THANKS_FOR_REGISTRATION"
-msgstr "Welkom terug! Bedankt voor het opgeven van je login informatie."
+msgstr "Welkom terug! Bedankt voor het opgeven van je logininformatie."
 
 msgid "BUTTON_SIGN_IN_TO_SUDOMEMO"
-msgstr "Log in tot Sudomemo"
+msgstr "Log in naar Sudomemo"
 
 msgid "LOGIN_FAILED"
 msgstr "Inloggen mislukt."
@@ -149,16 +149,16 @@ msgid "CREATORS_ROOM_SHIM_PLEASE_LOGIN"
 msgstr "Welkom op Sudomemo! Log alsjeblieft in om door te gaan."
 
 msgid "GUIDE_MAIN_MENU_SHORTCUT"
-msgstr "Je kan terug naar het hoofdmenu door L in te houden (of R als je linkshandigheid hebt ingeschakeld) en op de 'Menu'-knop te drukken."
+msgstr "Je kan terug naar het hoofdmenu door L ingedrukt te houden (of R als je linkshandigheid hebt ingeschakeld) en op de 'Menu'-knop te drukken."
 
 msgid "SORRY_NO_LOGIN"
 msgstr "Sorry, we konden je niet inloggen!"
 
 msgid "BASIC_AUTH_NOT_ENABLED"
-msgstr "Het lijkt er niet op dat je Basic Authentication hebt ingesteld in je proxy instellingen."
+msgstr "Het lijkt er niet op dat je Basic Authentication hebt ingesteld in je proxyinstellingen."
 
 msgid "BASIC_AUTH_FSID_INVALID"
-msgstr "De Flipnote Studio ID die je hebt ingevuld in Basic Authentication is niet geldig:"
+msgstr "De Flipnote Studio-ID die je hebt ingevuld in Basic Authentication is niet geldig:"
 
 msgid "BASIC_AUTH_BAD_LENGTH_FORMAT"
 msgstr "Het lijkt erop dat de ID %s karakters lang is (moet 16 zijn)"
@@ -170,7 +170,7 @@ msgid "BASIC_AUTH_NONHEX_CHARACTERS"
 msgstr "De ID bevat karakters anders dan 0-9 en A-F (het mag alleen 0-9 en A-F bevatten)"
 
 msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
-msgstr "Als je hulp nodig hebt met verbinden, voel je vrij om het ons te vragen in onze Discord! Je kan joinen via %s."
+msgstr "Als je hulp nodig hebt met verbinden, voel je vrij een vraag te stellen in onze Discord! Je kan deelnemen via %s."
 
 msgid "BAN_NOTICE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
 msgstr "Neem alsjeblieft contact met ons op via de Discord of door te e-mailen naar %s."
@@ -182,10 +182,10 @@ msgid "EMAIL_IS_DUPLICATE"
 msgstr "Dit e-mailadres is al in gebruik."
 
 msgid "EMAIL_CONFIRMATION_SENT_FORMAT"
-msgstr "Een verificatie e-mail is verstuurd naar %s. Controleer je inbox alsjeblieft na een paar minuten."
+msgstr "Een verificatiemail is verstuurd naar %s. Controleer je inbox alsjeblieft na een paar minuten."
 
 msgid "BUTTON_CHECK_VERIFICATION"
-msgstr "Contoleer Verificatie Status"
+msgstr "Contoleer Verificatiestatus"
 
 msgid "EMAIL_NOT_YET_VERIFIED"
 msgstr "Je e-mailadres is nog niet geverifieerd."
@@ -194,13 +194,13 @@ msgid "EMAIL_VERIFIED"
 msgstr "Bedankt voor het verifiëren van jouw e-mailadres!"
 
 msgid "EMAIL_REQUIRES_UPDATE"
-msgstr "Je e-mailadres moet geupdate worden."
+msgstr "Je e-mailadres moet geüpdate worden."
 
 msgid "VERIFICATION_NEEDED"
 msgstr "We moeten je e-mailadres verifieren."
 
 msgid "BUTTON_RESEND_VERIFICATION_EMAIL"
-msgstr "Herstuur Verificatie E-mail"
+msgstr "Herstuur Verificatiemail"
 
 msgid "NOT_RECEIVING_HELP_FORMAT"
 msgstr "Ontvang je de e-mail niet? Je kan ons bereiken op de Sudomemo Discord of via %s."
@@ -209,25 +209,25 @@ msgid "HEADER_VERIFY_EMAIL"
 msgstr "Verifieer E-mail"
 
 msgid "VERIFICATION_LIMIT_EXCEEDED_FORMAT"
-msgstr "Je hebt het maximaal aantal verificatie e-mails bereikt. Neem alsjeblieft contact op met ondersteuning via %s of via Discord."
+msgstr "Je hebt het maximaal aantal verificatiemails bereikt. Neem alsjeblieft contact op met ondersteuning via %s of via Discord."
 
 msgid "WEB_HEADER_SUCCESS"
 msgstr "Succesvol!"
 
 msgid "WEB_TAP_CHECK_VERIFICATION_STATUS"
-msgstr "Ga maar en klik op 'Controleer Verificatie Status' op jouw Nintendo DSi Systeem."
+msgstr "Ga verder en klik op 'Controleer Verificatiestatus' op jouw Nintendo DSi Systeem."
 
 msgid "HEADER_VERIFICATION_EXPIRED"
 msgstr "Verificatie verlopen"
 
 msgid "VERIFICATION_EXPIRED_TEXT"
-msgstr "The verificatie URL is verlopen of is al eens gebruikt."
+msgstr "The verificatie-URL is verlopen of is al eens gebruikt."
 
 msgid "CONTINUE_TO_LOGIN"
 msgstr "Ga verder naar Login"
 
 msgid "HEADER_UPDATE_EMAIL"
-msgstr "Update Email"
+msgstr "Update E-mail"
 
 msgid "THANK_YOU_FOR_UPDATING_EMAIL"
 msgstr "Bedankt voor het updaten van jouw e-mailadres!"
@@ -239,10 +239,10 @@ msgid "BUTTON_EDIT_EMAIL_ADDRESS"
 msgstr "Verander E-mailadres"
 
 msgid "SEARCH_FOR_SENDER_EMAIL_FORMAT"
-msgstr "Geen e-mail ontvangen? Check je Spam box, en zoek voor %s. Als het blijkt dat het gemarkeerd is als spam, zorg er voor dat je het markeert als Geen Spam."
+msgstr "Geen e-mail ontvangen? Check je spambox, en zoek voor %s. Als het blijkt dat het gemarkeerd is als spam, zorg er voor dat je het markeert als Geen Spam."
 
 msgid "NEW_USER_INTRO_POST_INTRO_CHANNEL"
-msgstr "Wanneer je er klaar voor bent, stel jezelf voor in onze Introduction kanaal, onder de categorie Persoonlijk."
+msgstr "Wanneer je er klaar voor bent, stel jezelf voor in ons introductiekanaal, onder de categorie Persoonlijk."
 
 msgid "EMAIL_VERIFICATION_ADDRESS_REMOVED"
 msgstr "Sorry daarvoor! We hebben gemarkeerd dat je e-mailadres niet klopt, dus je hoort vanaf nu geen e-mails meer van Sudomemo te ontvangen."

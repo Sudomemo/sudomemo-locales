@@ -1,11 +1,11 @@
 msgid "HEADER_MAIL_SETTINGS"
-msgstr "E-mail Instellingen"
+msgstr "E-mailinstellingen"
 
 msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
-msgstr "Je moet ingelogd zijn om je e-mail instellingen te beheren."
+msgstr "Je moet ingelogd zijn om je e-mailinstellingen te beheren."
 
 msgid "MAIL_TYPE"
-msgstr "Soort"
+msgstr "Type"
 
 msgid "MAIL_STATUS"
 msgstr "Status"
@@ -47,13 +47,13 @@ msgid "TYPE_FAVE_NOTIF_DESC"
 msgstr "Ontvang een e-mail wanneer iemand je toevoegd aan hun Favorieten"
 
 msgid "TYPE_COMMENT_NOTIF_NAME"
-msgstr "Commentaar Ontvangen"
+msgstr "Reactie Ontvangen"
 
 msgid "TYPE_COMMENT_NOTIF_DESC"
-msgstr "Ontvang een e-mail wanneer iemand commentaar levert op je Flipnote"
+msgstr "Ontvang een e-mail wanneer iemand een reactie levert op je Flipnote"
 
 msgid "TYPE_STAR_REPORT_NAME"
-msgstr "Dagelijkse Ster Rapportage"
+msgstr "Dagelijkse Sterrapportage"
 
 msgid "TYPE_STAR_REPORT_DESC"
 msgstr "Ontvang een e-mail aan het eind van de dag over enige sterren die je ontvangen hebt"
@@ -68,40 +68,40 @@ msgid "TYPE_SECURITY_NOTIF_NAME"
 msgstr "Accountbeveiliging"
 
 msgid "TYPE_SECURITY_NOTIF_DESC"
-msgstr "Ontvang een e-mail wanneer je e-mail adres of wachtwoord verandert is."
+msgstr "Ontvang een e-mail wanneer je e-mail adres of wachtwoord veranderd is."
 
 msgid "TYPE_REPORT_UPDATE_NAME"
-msgstr "Gemarkeerde Inhoud Update"
+msgstr "Gemarkeerde Inhoudsupdate"
 
 msgid "TYPE_REPORT_UPDATE_DESC"
-msgstr "Ontvang een e-mail wanneer we de status van inhoud dat jij gemarkeerd hebt veranderen"
+msgstr "Ontvang een e-mail wanneer we de status van inhoud die jij gemarkeerd hebt veranderen"
 
 msgid "TYPE_UNREAD_COMMENTS_NAME"
-msgstr "Ongelezen commentaar"
+msgstr "Ongelezen reacties"
 
 msgid "TYPE_UNREAD_COMMENTS_DESC"
-msgstr "Ontvang een e-mail samenvatting over enige nieuwe stukken commentaar die je recent hebt ontvangen"
+msgstr "Ontvang een e-mailsamenvatting over enige nieuwe reacties die je recent hebt ontvangen"
 
 msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
-msgstr "Tik op een e-mail soort's status om het te bekijken of om het te veranderen."
+msgstr "Tik op de status van een e-mailtype om het te bekijken of om het te veranderen."
 
 msgid "HEADER_CHANGE_EMAIL_SETTINGS"
-msgstr "Verander E-mail Instellingen"
+msgstr "Verander E-mailinstellingen"
 
 msgid "DISABLE_CONFIRMATION_FORMAT"
-msgstr "Weet je zeker dat je '%s' e-mails wilt uitschakelen?"
+msgstr "Weet je zeker dat je '%s'-mails wilt uitschakelen?"
 
 msgid "REENABLE_INSTRUCTIONS"
-msgstr "Als je ze weer aan wilt zetten, kan je dat doen door <strong>E-mail Instellingen</strong> in je Maker's Ruimte te selecteren."
+msgstr "Als je ze weer aan wilt zetten, kan je dat doen door <strong>E-mailinstellingen</strong> in je Makersruimte te selecteren."
 
 msgid "EMAIL_SETTING_DISABLED_FINISH_FORMAT"
-msgstr "Je hebt '%s' e-mails uitgeschakeld."
+msgstr "Je hebt '%s'-mails uitgeschakeld."
 
 msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
-msgstr "De link die je gevolgd hebt is verlopen."
+msgstr "De link die je aan het volgen was is verlopen."
 
 msgid "TYPE_SERVICE_UPDATE_NAME"
 msgstr "Service Updates"
 
 msgid "TYPE_SERVICE_UPDATE_DESC"
-msgstr "Important updates about Sudomemo's status or availability related to your account"
+msgstr "Belangrijke updates over de status van Sudomemo of beschikbaarheid gerelateerd aan je account"
