@@ -3,16 +3,16 @@
 ## UI Headers, messages, labels
 
 msgid "TROPHY_CASE"
-msgstr "Trophy Case"
+msgstr "Trophäen-Vitrine"
 
 msgid "CASE_IS_EMPTY"
-msgstr "The Trophy Case is empty."
+msgstr "Ziemlich leer hier, oder?"
 
 msgid "ACHIEVEMENT_EARNED"
-msgstr "Achievement Get!"
+msgstr "Achievement abgeschlossen!"
 
 msgid "CONTINUE"
-msgstr "Continue"
+msgstr "Weiter"
 
 ## Trophy names and descriptions
 
