@@ -1,5 +1,5 @@
 msgid "GET_STARTED"
-msgstr "Durchstarten"
+msgstr "Loslegen"
 
 msgid "WATCH_FLIPNOTES"
 msgstr "Alle Flipnotes"
@@ -11,7 +11,7 @@ msgid "CATEGORIES"
 msgstr "Kategorien"
 
 msgid "FEATURED"
-msgstr "Schaugestellt"
+msgstr "Empfohlen"
 
 msgid "HOT_FLIPNOTES"
 msgstr "Heiße Flipnotes"
@@ -20,7 +20,7 @@ msgid "ABOUT_SUDOMEMO"
 msgstr "Über Sudomemo"
 
 msgid "CREATORS_ROOM"
-msgstr "Ersteller-Raum"
+msgstr "Creator-Seite"
 
 msgid "NEWS"
 msgstr "Sudomemo News"
@@ -50,7 +50,7 @@ msgid "REGISTER"
 msgstr "Regristrieren"
 
 msgid "THEME_SHOP"
-msgstr "Kulissen-Shop"
+msgstr "Theme-Shop"
 
 msgid "MAIL"
 msgstr "Mail"
