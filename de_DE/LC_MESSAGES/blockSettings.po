@@ -17,13 +17,13 @@ msgid "USER_HAS_BEEN_BLOCKED"
 msgstr "Dieser Benutzer wurde blockiert."
 
 msgid "IF_YOU_WISH_TO_UNBLOCK"
-msgstr "Wenn du einen Benutzer wieder entblocken möchtest, kannst du ihn in deinem Ersteller-Raum unter deinem Blockierte-Benutzer-Menü entblocken."
+msgstr "Wenn du einen Benutzer wieder entblocken möchtest, kannst du ihn in deinem Creator-Raum unter deinem Blockierte-Benutzer-Menü entblocken."
 
 msgid "CONFIRM_BLOCK"
 msgstr "Blockieren bestätigen"
 
 msgid "USER_ALREADY_BLOCKED"
-msgstr "Du hast diesen Benutzer schon blockiert. Du kannst ihn in deinem Ersteller-Raum unter Blockierte Benutzer entblocken. Du musst aber 24 Stunden warten, bis du ihn wieder blockieren kannst."
+msgstr "Du hast diesen Benutzer schon blockiert. Du kannst ihn in deinem Creator-Raum unter Blockierte Benutzer entblocken. Du musst aber 24 Stunden warten, bis du ihn wieder blockieren kannst."
 
 msgid "ONE_DAY_WAIT_BEFORE_REBLOCK_FORMAT"
 msgstr "Du hast diesen Benutzer kürzlich entblockt. Du kannst ihn nicht nochmal bis vor %s blockieren."
@@ -35,7 +35,7 @@ msgid "LOGIN_REQUIRED"
 msgstr "Hierfür musst du angemeldet sein."
 
 msgid "TAP_BACK_TO_RETURN"
-msgstr "Tippe auf Zurück, um zu deinem Ersteller-Raum zurückzukehren."
+msgstr "Tippe auf Zurück, um zu deinem Creator-Raum zurückzukehren."
 
 msgid "UNBLOCK_USER"
 msgstr "Benutzer entblocken"
