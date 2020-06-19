@@ -49,7 +49,7 @@ msgid "TICKET_REDEEM_NO_PRIZES"
 msgstr "Nic nie wygrałeś. Przepraszamy!"
 
 msgid "ACHIEVEMENT"
-msgstr "Achievement"
+msgstr "Osiągnięcie"
 
 msgid "COLOR_STARS"
 msgstr "Kolorowe Gwiazdki"
@@ -134,73 +134,73 @@ msgid "DONT_HAVE_ANY_TO_USE"
 msgstr "Nie masz tego przedmiotu, więc nie możesz go użyć."
 
 msgid "TICKET_NAME_ffotd_ticket"
-msgstr "First Flipnote of the Decade"
+msgstr "Pierwszy Flipnote dekady"
 
 msgid "TICKET_DESC_ffotd_ticket"
-msgstr "Congratulations! You posted the first Flipnote of the new decade!"
+msgstr "Gratulacje! Opublikowałeś/aś pierwszy Flipnote tej dekady!"
 
 msgid "TICKET_NAME_survey_thanks_ticket"
-msgstr "Survey Ticket"
+msgstr "Bilet za ankietę"
 
 msgid "TICKET_DESC_survey_thanks_ticket"
-msgstr "Thanks for filling out our survey!"
+msgstr "Dziękujemy za wzięcie udziału w naszej ankiecie!"
 
 msgid "TICKET_NAME_special_someone_ticket"
-msgstr "Special Someone Ticket"
+msgstr "Bilet dla kogoś specjalnego"
 
 msgid "TICKET_DESC_special_someone_ticket"
-msgstr "For that special someone. Three months of Plus, Color Stars, and an exclusive theme."
+msgstr "Dla tej specjalnej osoby. 3 miesiące Sudomemo Plus, kolorowe gwiazdki i ekskluzywny motyw."
 
 msgid "TICKET_NAME_folding_reward_ticket"
-msgstr "Folding@Home Reward Ticket"
+msgstr "Bilet w nagrodzie za Folding@Home"
 
 msgid "TICKET_DESC_folding_reward_ticket"
-msgstr "Thanks for helping save lives!"
+msgstr "Dziękujemy za pomoc w ocalaniu żyć!"
 
 msgid "TICKET_NAME_green_panda_ticket"
-msgstr "Lazy Paisley Ticket"
+msgstr "Bilet Lazy Paisley"
 
 msgid "TICKET_DESC_green_panda_ticket"
-msgstr "This ticket gives you 110 spendable Sudomemo Stars, an exclusive theme, and a special badge displayed on your profile!"
+msgstr "Ten bilet da ci 110 gwiazdek Sudomemo, ekskluzywny motyw, i specjalną odznakę która pojawi się na twoim profilu!"
 
 msgid "TICKET_NAME_red_bird_ticket"
-msgstr "Bailey Flitwing Ticket"
+msgstr "Bilet Bailey Flitwing"
 
 msgid "TICKET_DESC_red_bird_ticket"
-msgstr "This ticket gives you 230 spendable Sudomemo Stars, an exclusive theme, and a special badge displayed on your profile!"
+msgstr "Ten bilet da ci 230 gwiazdek Sudomemo, ekskluzywny motyw, i specjalną odznakę która pojawi się na twoim profilu!"
 
 msgid "TICKET_NAME_blue_dog_ticket"
-msgstr "Ziggy Starburst Ticket"
+msgstr "Bilet Ziggy Starburst"
 
 msgid "TICKET_DESC_blue_dog_ticket"
-msgstr "This ticket gives you 350 spendable Sudomemo Stars (maybe even a rare one!), an exclusive theme, and a special badge displayed on your profile!"
+msgstr "Ten bilet da ci 350 gwiazdek Sudomemo (może nawet jedną z rzadszych!), ekskluzywny motyw, i specjalną odznakę która pojawi się na twoim profilu!"
 
 msgid "TICKET_NAME_purple_bunny_ticket"
-msgstr "Russell Ramblewood Ticket"
+msgstr "Bilet Russell Ramblewood"
 
 msgid "TICKET_DESC_purple_bunny_ticket"
-msgstr "This ticket gives you 600 spendable Sudomemo Stars (very likely some rare ones!), an exclusive theme, and a special badge displayed on your profile!"
+msgstr "Ten bilet da ci 600 gwiazdek Sudomemo (prawdopodobnie jedną z rzadszych!), ekskluzywny motyw, i specjalną odznakę która pojawi się na twoim profilu!"
 
 msgid "TICKET_NAME_golden_neko_ticket"
-msgstr "Mitsuo Meow Ticket"
+msgstr "Bilet Mitsuo Meow"
 
 msgid "TICKET_DESC_golden_neko_ticket"
-msgstr "This ticket gives you 1300 spendable Sudomemo Stars (with multiple rare ones!), an exclusive theme, and a special badge displayed on your profile!"
+msgstr "Ten bilet da ci 1300 gwiazdek Sudomemo (w tym kilka rzadkich!), ekskluzywny motyw, i specjalną odznakę która pojawi się na twoim profilu!"
 
 msgid "TICKET_NAME_translator_ticket"
-msgstr "Translator Ticket"
+msgstr "Bilet tłumacza"
 
 msgid "TICKET_DESC_translator_ticket"
-msgstr "Thank you for helping localize Sudomemo!"
+msgstr "Dziękujemy za pomoc w tłumaczeniu Sudomemo!"
 
 msgid "TICKET_NAME_colors_promo_ticket"
-msgstr "Colors! Promo Ticket"
+msgstr "Promocyjny bilet Colors!"
 
 msgid "TICKET_DESC_colors_promo_ticket"
-msgstr "You won the Sudomemo x Colors! June 2020 Weekly Topic!"
+msgstr "Wygrałeś/aś Temat Tygodnia Sudomemo x Colors! z czerwca 2020!"
 
 msgid "TICKET_NAME_neighborhood_watch_ticket"
-msgstr "Neighborhood Watch Ticket"
+msgstr "Bilet za zgłoszenie"
 
 msgid "TICKET_DESC_neighborhood_watch_ticket"
-msgstr "Thank you helping keep Sudomemo a safe and welcoming place!"
+msgstr "Dzięki tobie możemy sprawić, że Sudomemo jest przyjaznym i bezpiecznym miejscem dla wszystkich."
