@@ -101,7 +101,7 @@ msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
 msgstr "Link, którym podążasz, wygasł."
 
 msgid "TYPE_SERVICE_UPDATE_NAME"
-msgstr "Service Updates"
+msgstr "Aktualizacje o serwisie"
 
 msgid "TYPE_SERVICE_UPDATE_DESC"
-msgstr "Important updates about Sudomemo's status or availability related to your account"
+msgstr "Ważne informacje o stanie Sudomemo i dostępem do twojego konta"
