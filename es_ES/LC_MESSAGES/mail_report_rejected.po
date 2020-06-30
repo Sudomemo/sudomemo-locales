@@ -1,20 +1,20 @@
 # Content Report Rejected - sent to user who has reported content after report deemed invalid
 
 msgid "NOTICE"
-msgstr "Notice"
+msgstr "Aviso"
 
 ## Intro
 
 msgid "REPORT_REJECTED"
-msgstr "We've reviewed a content report that you submitted."
+msgstr "Hemos revisado un reporte de contenido que has enviado."
 
 msgid "REPORT_REJECTED_CONTINUED"
-msgstr "Our investigation found that this content wasn't in violation of our Content Policy, so it hasn't been removed."
+msgstr "Nuestra investigación resultó en que este contenido no viola nuestras Politicas de Contenido, por lo tanto, no ha sido eliminado."
 
 # this message is followed by a link
 
 msgid "REPORT_REJECTED_INFO"
-msgstr "Reports like yours help make Sudomemo a safe and welcoming place for everyone. We'd recommend reviewing our Content Policy to better understand what kinds of content are acceptable on Sudomemo:"
+msgstr "Reportes como el tuyo ayudan a Sudomemo a ser un lugar seguro y acogedor. Recomendamos revisar nuestras Politicas de Contenido para entender mejor que tipo de contenido es acpetable en Sudomemo."
 
 ## Content types
 
@@ -22,26 +22,26 @@ msgid "CONTENT_TYPE_flipnote"
 msgstr "Flipnote"
 
 msgid "CONTENT_TYPE_comment"
-msgstr "Comment"
+msgstr "Comentario"
 
 msgid "CONTENT_TYPE_chat_message"
-msgstr "Chat message"
+msgstr "Mensaje de chat"
 
 ### We plan on adding user-created themes.
 
 msgid "CONTENT_TYPE_room_theme"
-msgstr "Creator's Room theme"
+msgstr "Temas de la Sala del Creador"
 
 msgid "CONTENT_TYPE_profile_bio"
-msgstr "Profile text"
+msgstr "Texto del perfil"
 
 ### Catch-all
 
 msgid "CONTENT_TYPE_content"
-msgstr "Other content"
+msgstr "Otro contenido"
 
 msgid "CONTENT_TYPE"
-msgstr "Content type:"
+msgstr "Tipo de contenido:"
 
 msgid "CONTENT_ID"
-msgstr "Content ID:"
+msgstr "ID de contenido:"

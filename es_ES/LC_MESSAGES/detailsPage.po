@@ -107,9 +107,9 @@ msgid "HEADER_FLIPNOTE_OPTIONS"
 msgstr "Opciones"
 
 msgid "HEADER_SONG"
-msgstr "Song"
+msgstr "Canción"
 
 # This is shown to logged-in users on their own Flipnotes without titles
 
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
-msgstr "Untitled Flipnote by %s"
+msgstr "Flipnote sin titulo creada por %s"

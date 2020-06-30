@@ -44,7 +44,7 @@ msgid "YOU_HAVE"
 msgstr "Tus Estrellas de Colores:"
 
 msgid "USERNAME"
-msgstr "Nombre de usuario0"
+msgstr "Nombre de usuario"
 
 msgid "CANCEL"
 msgstr "Cancelar"
@@ -59,7 +59,7 @@ msgid "SHOP_MENU"
 msgstr "Menú de la Tienda"
 
 msgid "NO_DESCRIPTION_AVAILABLE"
-msgstr "No description"
+msgstr "Sin descripcion disponible"
 
 msgid "THEME_SHOP_SELECT_PAYMENT"
 msgstr "Selecciona el pago"
@@ -101,5 +101,5 @@ msgid "THEME_SHOP_SAMPLE_PROFILE"
 msgstr "Perfil de muestra"
 
 msgid "THEME_SHOP"
-msgstr "Theme Shop"
+msgstr "Tienda de Temas"
 
