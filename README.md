@@ -7,10 +7,11 @@ Please note that translations will be verified; contributions will not be accept
 
 ## How to contribute
 
+Before starting work on a new language or updating an existing one, please check for existing Pull Requests for your language. If you submit a duplicate/incomplete one and somebody else has already done the work, your PR may be closed.
+
 1. If you don't already have a GitHub account, please [sign up](https://github.com/join) for one.
 
 2. Take a look at our repository, in which you will see a few folders for different langcodes, like `en_US` and `ja_JP`. If you don't see a folder with the langcode for your chosen language, then skip to step 3. If you aren't sure what the langcode is, [a full list is available here](http://www.lingoes.net/en/translator/langcode.htm)
-
 
 3. If the langcode for your language isn't there, [open a new issue](https://github.com/Sudomemo/sudomemo-locales/issues/new) and request that we add it.
 
