@@ -203,3 +203,17 @@ msgstr "Ticket de surveillance de quartier"
 
 msgid "TICKET_DESC_neighborhood_watch_ticket"
 msgstr "Merci d'avoir aidé à maintenir Sudomemo comme un endroit sûr et accueillant !"
+
+msgid "TICKET_NAME_featured_flipnote_ticket"
+msgstr "Featured Flipnote Ticket"
+
+msgid "TICKET_DESC_featured_flipnote_ticket"
+msgstr "Congratulations! One of your Flipnotes was featured."
+
+msgid "TICKET_NAME_featured_artist_ticket"
+msgstr "Featured Artist Ticket"
+
+msgid "TICKET_DESC_featured_artist_ticket"
+msgstr "We give our warm congratulations to you for becoming a Sudomemo Featured Artist!"
+
+
