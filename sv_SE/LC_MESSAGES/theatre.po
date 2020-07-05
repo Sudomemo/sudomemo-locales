@@ -503,7 +503,7 @@ msgstr "%ss ★s Är från:"
 ## Recent comments on their Flipnotes
 
 msgid "PROFILE_RECENT_COMMENTS"
-msgstr "Nya comments"
+msgstr "Nya kommentarer"
 
 ## channels that the user posts in most often
 msgid "PROFILE_USER_POSTS_IN"
@@ -711,10 +711,10 @@ msgid "BROWSE_SONG_YOU_ARE_BROWSING_SONG"
 msgstr "Visa Flipnotes med låten %s av %s"
 
 msgid "TROPHY_CASE"
-msgstr "Trophy Case"
+msgstr "Troféfall"
 
 # This is shown to logged-in users on their own Flipnotes without titles
 
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
-msgstr "Untitled Flipnote by %s"
+msgstr "Odöpt Flipnote av %s"
 
