@@ -3,23 +3,23 @@
 # Common
 
 msgid "LOGIN_FIRST_TO_ACCESS_MAIL"
-msgstr "You'll need to log back in before you can view this."
+msgstr "Du måste logga tillbaka in för att se detta."
 
 msgid "CONTINUE"
-msgstr "Continue"
+msgstr "Fortsätt"
 
 msgid "HEADER_INBOX"
-msgstr "Inbox"
+msgstr "Inkorg"
 
 # this must be a max of 6 characters
 msgid "UNAUTHED_READ"
-msgstr "Read.."
+msgstr "Läs.."
 
 msgid "PREV"
-msgstr "Prev"
+msgstr "Föregående"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "Nästa"
 
 # Titles
 
@@ -27,16 +27,16 @@ msgid "TITLE_SPINOFF"
 msgstr "Spin-off"
 
 msgid "TITLE_WARNING"
-msgstr "Warning"
+msgstr "Varning"
 
 msgid "TITLE_NOTICE"
-msgstr "Notice"
+msgstr "Notering"
 
 msgid "TITLE_MESSAGE"
-msgstr "Message"
+msgstr "Meddelande"
 
 msgid "TITLE_NEWS"
-msgstr "News"
+msgstr "Nyheter"
 
 msgid "TITLE_INFO"
 msgstr "Info"
@@ -44,5 +44,5 @@ msgstr "Info"
 # Not found
 
 msgid "MAIL_NOT_FOUND"
-msgstr "This message does not exist."
+msgstr "Detta meddelande finns inte."
 
