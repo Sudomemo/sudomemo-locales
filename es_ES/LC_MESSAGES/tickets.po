@@ -4,13 +4,13 @@ msgid "REDEEM_CODE"
 msgstr "Canjear código"
 
 msgid "ENTER_CODE_TO_REDEEM"
-msgstr "Escribe debajo el código que quieres canjear."
+msgstr "Escribe debajo el código que deseas canjear."
 
 msgid "CODE_ALREADY_USED"
 msgstr "El código que has introducido ya se ha usado."
 
 msgid "CODE_INVALID"
-msgstr "El código introducido no es valido."
+msgstr "El código introducido no es válido."
 
 msgid "CODE_NONEXISTING_OR_EXPIRED"
 msgstr "El código que has introducido no existe o ha caducado."
@@ -128,7 +128,7 @@ msgid "TICKET_NAME_one_year_plus_ticket"
 msgstr "Ticket Plus (un año)"
 
 msgid "TICKET_DESC_one_year_plus_ticket"
-msgstr "Este ticket te dará un año de Sudomemo Plus!"
+msgstr "¡Este ticket te dará un año de Sudomemo Plus!"
 
 msgid "DONT_HAVE_ANY_TO_USE"
 msgstr "No tienes ningun item de ese tipo el cual usar."
@@ -137,7 +137,7 @@ msgid "TICKET_NAME_ffotd_ticket"
 msgstr "Primer Flipnote de la Decada"
 
 msgid "TICKET_DESC_ffotd_ticket"
-msgstr "¡Felicidades! Publicaste la primer Flipnote de la nueva decada!"
+msgstr "¡Felicidades! ¡Publicaste la primer Flipnote de la nueva decada!"
 
 msgid "TICKET_NAME_survey_thanks_ticket"
 msgstr "Ticket de Encuesta"
@@ -161,7 +161,7 @@ msgid "TICKET_NAME_green_panda_ticket"
 msgstr "Ticket de Lazy Paisley"
 
 msgid "TICKET_DESC_green_panda_ticket"
-msgstr "¡Este ticket te brinda 110 estrellas Sudomemo gastables ,un tema exclusivo, y una insignia especial mostrada en tu perfil!"
+msgstr "¡Este ticket te brinda 110 estrellas Sudomemo gastables, un tema exclusivo, y una insignia especial mostrada en tu perfil!"
 
 msgid "TICKET_NAME_red_bird_ticket"
 msgstr "Ticket de Bailey Flitwing"
@@ -176,7 +176,7 @@ msgid "TICKET_DESC_blue_dog_ticket"
 msgstr "¡Este ticket te brinda 350 estrellas Sudomemo gastables (¡Incluso hasta una estrella rara!), un tema exclusivo, y una insignia especial mostrada en tu perfil!"
 
 msgid "TICKET_NAME_purple_bunny_ticket"
-msgstr "Russell Ramblewood Ticket"
+msgstr "Ticket de Russell Ramblewood"
 
 msgid "TICKET_DESC_purple_bunny_ticket"
 msgstr "¡Este ticket te brinda 350 estrellas Sudomemo gastables (¡Probablemente hasta algunas estrellas raras!), un tema exclusivo, y una insignia especial mostrada en tu perfil!"
@@ -191,7 +191,7 @@ msgid "TICKET_NAME_translator_ticket"
 msgstr "Ticket de Traductor"
 
 msgid "TICKET_DESC_translator_ticket"
-msgstr "¡Gracias por ayudar a hacer local a SUdomemo!"
+msgstr "¡Gracias por ayudar a hacer local a Sudomemo!"
 
 msgid "TICKET_NAME_colors_promo_ticket"
 msgstr "Ticket de Promoción Colors!"
@@ -206,15 +206,15 @@ msgid "TICKET_DESC_neighborhood_watch_ticket"
 msgstr "¡Gracias por ayudar a mantener Sudomemo como un lugar seguro y acogedor!"
 
 msgid "TICKET_NAME_featured_flipnote_ticket"
-msgstr "Featured Flipnote Ticket"
+msgstr "Ticket de Flipnote destacada"
 
 msgid "TICKET_DESC_featured_flipnote_ticket"
-msgstr "Congratulations! One of your Flipnotes was featured."
+msgstr "¡Felicidades! Una de tus Flipnotes ha sido destacada."
 
 msgid "TICKET_NAME_featured_artist_ticket"
-msgstr "Featured Artist Ticket"
+msgstr "Ticket de Artista destacado"
 
 msgid "TICKET_DESC_featured_artist_ticket"
-msgstr "We give our warm congratulations to you for becoming a Sudomemo Featured Artist!"
+msgstr "¡Te damos nuestras cálidas felicitaciones por convertirte en un Artista destacado de Sudomemo!"
 
 
