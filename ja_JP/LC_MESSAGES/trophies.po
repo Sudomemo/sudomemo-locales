@@ -3,123 +3,123 @@
 ## UI Headers, messages, labels
 
 msgid "TROPHY_CASE"
-msgstr "Trophy Case"
+msgstr "トロフィーケース"
 
 msgid "CASE_IS_EMPTY"
-msgstr "The Trophy Case is empty."
+msgstr "トロフィーケースにトロフィはありません"
 
 msgid "ACHIEVEMENT_EARNED"
-msgstr "Achievement Get!"
+msgstr "実績獲得"
 
 msgid "CONTINUE"
-msgstr "Continue"
+msgstr "続ける"
 
 ## Trophy names and descriptions
 
 msgid "TROPHY_NAME_demo_tester"
-msgstr "Demo Tester"
+msgstr "デモテスター"
 
 msgid "TROPHY_DESC_demo_tester"
-msgstr "Participate in the 2017 Sudomemo Update Demo Testing program"
+msgstr "2017年スドメモアップデートデモテストに参加する"
 
 msgid "TROPHY_NAME_early_adopter"
-msgstr "Early Adopter"
+msgstr "古参者"
 
 msgid "TROPHY_DESC_early_adopter"
-msgstr "Join Sudomemo during our first month of service"
+msgstr "サービス開始の最初の1か月間の間にスドメモに参加"
 
 msgid "TROPHY_NAME_featured_artist"
-msgstr "Featured Artist"
+msgstr "注目の作者"
 
 msgid "TROPHY_DESC_featured_artist"
-msgstr "Get recognized as a Sudomemo Featured Artist"
+msgstr "スドメモにおいて注目された作者であると認められる"
 
 msgid "TROPHY_NAME_featured_flipnote"
-msgstr "Featured Flipnote"
+msgstr "注目の作品"
 
 msgid "TROPHY_DESC_featured_flipnote"
-msgstr "Have a Flipnote featured"
+msgstr "注目された作品がある"
 
 msgid "TROPHY_NAME_ffotd"
-msgstr "First Flipnote of the Decade"
+msgstr "10年最初ののうごメモ"
 
 msgid "TROPHY_DESC_ffotd"
-msgstr "Post the first Flipnote of a new decade"
+msgstr "新しい十年の作品を投稿する"
 
 msgid "TROPHY_NAME_fifth_bday_event"
-msgstr "Sudomemo's Fifth Birthday Party"
+msgstr "スドメモ5回目の誕生日パーティー"
 
 msgid "TROPHY_DESC_fifth_bday_event"
-msgstr "Attended Sudomemo's fifth birthday party"
+msgstr "スドメモ5回目の誕生日パーティーに参加する"
 
 msgid "TROPHY_NAME_legacy_citizen"
-msgstr "Legacy Citizen"
+msgstr "レガシー市民"
 
 msgid "TROPHY_DESC_legacy_citizen"
-msgstr "Had Sudomemo Citizenship before it became Plus"
+msgstr "スドメモplusができる前にスドメモ市民権を持っていた"
 
 msgid "TROPHY_NAME_meet_lazy_paisley"
-msgstr "Meet Lazy Paisley"
+msgstr "レイジーペイズリーに会う"
 
 msgid "TROPHY_DESC_meet_lazy_paisley"
-msgstr "Enjoys his simple life. And food."
+msgstr "彼の質素な生活を楽しむ。もちろん食べ物も"
 
 msgid "TROPHY_NAME_meet_bailey_flitwing"
-msgstr "Meet Bailey Flitwing"
+msgstr "ベイリー・フリットウィングに会う"
 
 msgid "TROPHY_DESC_meet_bailey_flitwing"
-msgstr "Curious about the world outside her nest."
+msgstr "巣の外に興味がある"
 
 msgid "TROPHY_NAME_meet_ziggy_starburst"
-msgstr "Meet Ziggy Starburst"
+msgstr "ジギースターバーストに会う"
 
 msgid "TROPHY_DESC_meet_ziggy_starburst"
-msgstr "Living his life day by day with a touch of added flair."
+msgstr "日々の生活にちょっとした工夫を加えて生きている"
 
 msgid "TROPHY_NAME_meet_russell_ramblewood"
-msgstr "Meet Russell Ramblewood"
+msgstr "ラッセル・ランブルウッドに会う"
 
 msgid "TROPHY_DESC_meet_russell_ramblewood"
-msgstr "He's flamboyant to a fault, but still wants to hear about your day."
+msgstr "彼は欠点に対して大胆ですが、それでもあなたの一日について聞たがっている"
 
 msgid "TROPHY_NAME_meet_mitsuo_meow"
-msgstr "Meet Mitsuo Meow"
+msgstr "ミツオ・ミャオに会う"
 
 msgid "TROPHY_DESC_meet_mitsuo_meow"
-msgstr "Wants to bring good luck and happiness to everyone around her."
+msgstr "彼女の周りの人に幸運と幸せをもたらしたいと思っています。"
 
 msgid "TROPHY_NAME_neighborhood_watch"
-msgstr "Neighborhood Watch"
+msgstr "自警団"
 
 msgid "TROPHY_DESC_neighborhood_watch"
-msgstr "Correctly flag content that violates our Content Policy"
+msgstr "ポリシーに違反するコンテンツを適切に報告する"
 
 msgid "TROPHY_NAME_one_million_flips_event"
-msgstr "One Million Flipnotes Event"
+msgstr "100万の作品イベント"
 
 msgid "TROPHY_DESC_one_million_flips_event"
-msgstr "Attend the One-Million Flipnotes event"
+msgstr "100万の作品イベントに参加する"
 
 msgid "TROPHY_NAME_translator"
-msgstr "Translator"
+msgstr "翻訳者"
 
 msgid "TROPHY_DESC_translator"
-msgstr "Contribute translations to make Sudomemo open to everyone"
+msgstr "スドメモをだれでも利用しやすくするための翻訳に協力する"
 
 msgid "TROPHY_NAME_weekly_topic_winner"
-msgstr "Weekly Topic Winner"
+msgstr "週刊のお題の優勝者"
 
 msgid "TROPHY_DESC_weekly_topic_winner"
-msgstr "Submit a winning entry to Sudomemo's Weekly Topic"
+msgstr "スドメモの週刊のお題に入賞する"
 
 msgid "TROPHY_NAME_folder"
-msgstr "Folder"
+msgstr "フォルダー"
 
 msgid "TROPHY_DESC_folder"
-msgstr "Donate spare compute time to Folding@Home to help fight disease"
+msgstr "予備の計算時間をFolding@Homeに寄付し、闘病を助ける"
 
 msgid "TROPHY_NAME_colors_promo"
-msgstr "Colors! x Sudomemo Topic Winner"
+msgstr "カラーズ×スドメモのお題の受賞者"
 
 msgid "TROPHY_DESC_colors_promo"
-msgstr "One of the winners of the Sudomemo x Colors joint topic, Into The Light"
+msgstr "スドメモ×カラーズの合同のお題「Into The Light」の受賞者の一人になる"
