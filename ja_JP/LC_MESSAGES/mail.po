@@ -3,46 +3,46 @@
 # Common
 
 msgid "LOGIN_FIRST_TO_ACCESS_MAIL"
-msgstr "You'll need to log back in before you can view this."
+msgstr "このページを表示するには再度ログインする必要があります"
 
 msgid "CONTINUE"
-msgstr "Continue"
+msgstr "続ける"
 
 msgid "HEADER_INBOX"
-msgstr "Inbox"
+msgstr "受信トレイ"
 
 # this must be a max of 6 characters
 msgid "UNAUTHED_READ"
-msgstr "Read.."
+msgstr "読み込む…"
 
 msgid "PREV"
-msgstr "Prev"
+msgstr "前へ"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "次へ"
 
 # Titles
 
 msgid "TITLE_SPINOFF"
-msgstr "Spin-off"
+msgstr "スピンオフ"
 
 msgid "TITLE_WARNING"
-msgstr "Warning"
+msgstr "警告"
 
 msgid "TITLE_NOTICE"
-msgstr "Notice"
+msgstr "通知"
 
 msgid "TITLE_MESSAGE"
-msgstr "Message"
+msgstr "メッセージ"
 
 msgid "TITLE_NEWS"
-msgstr "News"
+msgstr "ニュース"
 
 msgid "TITLE_INFO"
-msgstr "Info"
+msgstr "情報"
 
 # Not found
 
 msgid "MAIL_NOT_FOUND"
-msgstr "This message does not exist."
+msgstr "メッセージは存在しません"
 
