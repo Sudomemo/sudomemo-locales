@@ -710,10 +710,10 @@ msgid "BROWSE_SONG_YOU_ARE_BROWSING_SONG"
 msgstr "%s / %sが使われている作品"
 
 msgid "TROPHY_CASE"
-msgstr "Trophy Case"
+msgstr "トロフィーケース"
 
 # This is shown to logged-in users on their own Flipnotes without titles
 
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
-msgstr "Untitled Flipnote by %s"
+msgstr "%sさんの無題の作品"
 
