@@ -1,44 +1,44 @@
 # Content Removed - sent to user when a piece of their content has been restored
 
 msgid "NOTICE"
-msgstr "Notice"
+msgstr "通知"
 
 ## Intro
 
 msgid "USER_CONTENT_RESTORED"
-msgstr "Something you posted that was previously removed has been restored after further review."
+msgstr "審査した結果、以前に削除された動画は復元されました"
 
 ## Content types
 
 msgid "CONTENT_TYPE_flipnote"
-msgstr "Flipnote"
+msgstr "作品"
 
 msgid "CONTENT_TYPE_comment"
-msgstr "Comment"
+msgstr "コメント"
 
 msgid "CONTENT_TYPE_chat_message"
-msgstr "Chat message"
+msgstr "チャットメッセージ"
 
 ### We plan on adding user-created themes.
 
 msgid "CONTENT_TYPE_room_theme"
-msgstr "Creator's Room theme"
+msgstr "マイルームのテーマ"
 
 msgid "CONTENT_TYPE_profile_bio"
-msgstr "Profile text"
+msgstr "プロフィールの内容"
 
 ### Catch-all
 
 msgid "CONTENT_TYPE_content"
-msgstr "Other content"
+msgstr "その他のコンテンツ"
 
 ## continued message...
 
 msgid "CONTENT_RESTORED_CONTINUED"
-msgstr "The content has been restored to public view, and there's nothing more that you need to do."
+msgstr "コンテンツが誰でも閲覧できる状態に復元されました。これ以上行う動作はありません。"
 
 msgid "CONTENT_TYPE"
-msgstr "Content type:"
+msgstr "コンテンツの種類:"
 
 msgid "CONTENT_ID"
-msgstr "Content ID:"
+msgstr "コンテンツID:"
