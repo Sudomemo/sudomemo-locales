@@ -1,47 +1,47 @@
 # Content Report Rejected - sent to user who has reported content after report deemed invalid
 
 msgid "NOTICE"
-msgstr "Notice"
+msgstr "通知"
 
 ## Intro
 
 msgid "REPORT_REJECTED"
-msgstr "We've reviewed a content report that you submitted."
+msgstr "送信されたコンテンツの報告を確認いたしました"
 
 msgid "REPORT_REJECTED_CONTINUED"
-msgstr "Our investigation found that this content wasn't in violation of our Content Policy, so it hasn't been removed."
+msgstr "審査した結果、このコンテンツはコンテンツポリシーに違反されていないと判断されたため、削除はされませんでした"
 
 # this message is followed by a link
 
 msgid "REPORT_REJECTED_INFO"
-msgstr "Reports like yours help make Sudomemo a safe and welcoming place for everyone. We'd recommend reviewing our Content Policy to better understand what kinds of content are acceptable on Sudomemo:"
+msgstr "皆さんの報告が誰にとっても使いやすく、快適なSudomemoを形作っています。コンテンツポリシーを確認し、どのような行為がSudomemoで受け入れられるのかを知ることをお勧めいたします"
 
 ## Content types
 
 msgid "CONTENT_TYPE_flipnote"
-msgstr "Flipnote"
+msgstr "作品"
 
 msgid "CONTENT_TYPE_comment"
-msgstr "Comment"
+msgstr "コメント"
 
 msgid "CONTENT_TYPE_chat_message"
-msgstr "Chat message"
+msgstr "チャットメッセージ"
 
 ### We plan on adding user-created themes.
 
 msgid "CONTENT_TYPE_room_theme"
-msgstr "Creator's Room theme"
+msgstr "マイルームのテーマ"
 
 msgid "CONTENT_TYPE_profile_bio"
-msgstr "Profile text"
+msgstr "プロフィールの内容"
 
 ### Catch-all
 
 msgid "CONTENT_TYPE_content"
-msgstr "Other content"
+msgstr "その他のコンテンツ"
 
 msgid "CONTENT_TYPE"
-msgstr "Content type:"
+msgstr "コンテンツのタイプ:"
 
 msgid "CONTENT_ID"
-msgstr "Content ID:"
+msgstr "コンテンツID:"
