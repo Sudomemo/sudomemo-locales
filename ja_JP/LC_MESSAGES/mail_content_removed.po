@@ -1,61 +1,61 @@
 # Content Removed - sent to user when a piece of their content has been moderated away
 
 msgid "NOTICE"
-msgstr "Notice"
+msgstr "通知"
 
 ## Intro
 
 msgid "USER_CONTENT_REMOVED"
-msgstr "Something you posted was found to be in violation of Sudomemo's Content Policy and Terms of Use, and has been removed."
+msgstr "スドメモのコンテンツポリシー又は利用規約に違反していると判断したため、あなたの投稿は削除されました。"
 
 ## Content types
 
 msgid "CONTENT_TYPE_flipnote"
-msgstr "Flipnote"
+msgstr "作品"
 
 msgid "CONTENT_TYPE_comment"
-msgstr "Comment"
+msgstr "コメント"
 
 msgid "CONTENT_TYPE_chat_message"
-msgstr "Chat message"
+msgstr "チャットメッセージ"
 
 ### We plan on adding user-created themes.
 
 msgid "CONTENT_TYPE_room_theme"
-msgstr "Creator's Room theme"
+msgstr "マイルームのテーマ"
 
 msgid "CONTENT_TYPE_profile_bio"
-msgstr "Profile text"
+msgstr "プロフィール文"
 
 ### Catch-all
 
 msgid "CONTENT_TYPE_content"
-msgstr "Other content"
+msgstr "その他のコンテンツ"
 
 ## continued message...
 
 msgid "REMOVAL_REASON_HEADER"
-msgstr "This content has been removed due to one or more of the following reasons:"
+msgstr "コンテンツが削除された理由:"
 
 msgid "CONTENT_POLICY_REVIEW_INTRO"
-msgstr "We understand that when content policies meet artistic expression, context and presentation must be taken into consideration."
+msgstr "私たちは、コンテンツポリシーが芸術的な表現、文脈、プレゼンテーションである場合を考慮に入れなければならないことを理解しています。"
 
 msgid "CONTENT_POLICY_REVIEW_LINK"
-msgstr "We'd like to encourage you to review our Content Policy here:"
+msgstr "こちらでコンテンツポリシーを確認されることをお勧めいたします:"
 
 msgid "HOW_TO_APPEAL"
-msgstr "If you believe this to be in error, you can learn how to submit an appeal at:"
+msgstr "誤って削除されたと思われる場合、こちらのURLで異議申し立てをすることができます:"
 
 msgid "CONTENT_TYPE"
-msgstr "Content type:"
+msgstr "コンテンツのタイプ:"
 
 msgid "CONTENT_ID"
-msgstr "Content ID:"
+msgstr "コンテンツID:"
 
 ## re-download will be made available for certain content types
 
 msgid "REDOWNLOAD_HEADER"
-msgstr "If you would like to revise your %s, you may download it %s"
+msgstr "%sを修正したい場合、%sをダウンロードすることができます"
 
 msgid "REDOWNLOAD_LINK"
-msgstr "here"
+msgstr "こちら"
