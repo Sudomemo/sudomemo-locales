@@ -55,7 +55,7 @@ msgstr "コンテンツID:"
 ## re-download will be made available for certain content types
 
 msgid "REDOWNLOAD_HEADER"
-msgstr "%sを修正したい場合、%sをダウンロードすることができます"
+msgstr "%sを修正したい場合、%sでダウンロードすることができます"
 
 msgid "REDOWNLOAD_LINK"
-msgstr "こちらでダウンロードできます"
+msgstr "こちら"
