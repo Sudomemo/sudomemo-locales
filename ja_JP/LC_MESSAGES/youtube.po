@@ -53,7 +53,7 @@ msgid "NONE"
 msgstr "なし"
 
 msgid "YOUTUBE_LOOP_COUNT"
-msgstr "再生回数"
+msgstr "ループ回数"
 
 msgid "YOUTUBE_LOOP_COUNT_EXPLANATION"
 msgstr "作品をループする回数を指定します。「1」の場合は1回だけ再生されます。"
