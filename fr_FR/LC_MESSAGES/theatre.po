@@ -898,7 +898,7 @@ msgid "YOUTUBE_UPLOAD_HISTORY"
 msgstr "Historique d'envoi"
 
 msgid "YOUTUBE_UPLOAD_HISTORY_CLICK_ICON_TO_TRACK"
-msgstr "Cliquez sur l'icône de statut à gauche pour visiter le suivi en direct de l'envoi de votre vidéo !"
+msgstr "Cliquez sur l'icône de statut à gauche pour aller voir le suivi en direct de l'envoi de votre vidéo !"
 
 # We may need to limit uploads per day depending on our API quota usage rate
 
