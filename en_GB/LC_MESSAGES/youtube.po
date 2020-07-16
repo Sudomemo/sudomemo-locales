@@ -195,3 +195,7 @@ msgstr "YouTube ID"
 
 msgid "BTN_UPLOAD_AGAIN"
 msgstr "Upload Again"
+
+msgid "YOUTUBE_STATUS_PAUSED_GLOBAL_QUOTA"
+msgstr "Our global usage quota has been exceeded, so the upload may be significantly delayed."
+
