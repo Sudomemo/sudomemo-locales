@@ -11,7 +11,7 @@ msgid "HEADER_COMMENTS"
 msgstr "Comentarios"
 
 msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
-msgstr "Esta Flipnote es una Spin-off."
+msgstr "Esta Flipnote es un Spin-off."
 
 msgid "HEADER_ORIGINAL_FLIPNOTE"
 msgstr "Ver la Flipnote original aquí."
@@ -115,4 +115,4 @@ msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote sin titulo creada por %s"
 
 msgid "HEADER_UPLOAD_TO_YOUTUBE"
-msgstr "Upload to YouTube"
+msgstr "Subir a YouTube"
