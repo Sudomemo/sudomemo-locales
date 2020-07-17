@@ -197,7 +197,7 @@ msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
 msgstr "Możesz wylosować kolejny bilet za: %s godzin(y) %s minut(y)."
 
 msgid "REDEEM"
-msgstr "Wykorzystaj"
+msgstr "Wykorzystaj kod"
 
 msgid "SPENDABLE_STARS"
 msgstr "Twoje gwiazdki"
