@@ -185,16 +185,16 @@ msgid "TICKET_SECTION"
 msgstr "Bilety"
 
 msgid "DRAW_REGULAR_TICKET"
-msgstr "Bilet"
+msgstr "Wylosuj bilet"
 
 msgid "CAN_DRAW_TICKET_SUBTEXT"
-msgstr "Masz możliwość wykorzystania biletu! Kto wie, może coś wygrasz?"
+msgstr "Masz możliwość wylosowania zwykłego biletu! Kto wie, może coś wygrasz?"
 
 msgid "INVENTORY"
 msgstr "Ekwipunek"
 
 msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
-msgstr "Możesz wykorzystać kolejny bilet za: %s godzin(y) %s minut(y)."
+msgstr "Możesz wylosować kolejny bilet za: %s godzin(y) %s minut(y)."
 
 msgid "REDEEM"
 msgstr "Wykorzystaj"
