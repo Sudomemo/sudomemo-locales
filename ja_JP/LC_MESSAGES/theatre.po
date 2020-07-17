@@ -179,10 +179,10 @@ msgid "SIGN_UP"
 msgstr "新規登録"
 
 msgid "SIGN_IN"
-msgstr "サインイン"
+msgstr "ログイン"
 
 msgid "SIGN_OUT"
-msgstr "サインアウト"
+msgstr "ログアウト"
 
 msgid "STARS"
 msgstr "スター数"
@@ -595,7 +595,7 @@ msgid "EDIT_PAGE_MUSICMATCH_PENDING_MAPPING"
 msgstr "MusicMatchの処理をしています。時間をおいて確認してください。"
 
 msgid "EDIT_PAGE_MUSICMATCH_NONE_CORRECT"
-msgstr "曲名に間違いがある"
+msgstr "曲名に間違いがあります"
 
 msgid "EDIT_PAGE_MUSICMATCH_PREVIEW_ON_YOUTUBE"
 msgstr "YouTube Musicで聴く"
@@ -639,7 +639,7 @@ msgid "CHANNEL_CAT_NAME_TOPICS"
 msgstr "トピック"
 
 msgid "CHANNEL_CAT_NAME_ROLEPLAYS"
-msgstr "ロールプレイング"
+msgstr "ロールプレイ"
 
 msgid "CHANNEL_CAT_NAME_FANDOMS"
 msgstr "ファン作品"
@@ -721,197 +721,197 @@ msgstr "%sさんの無題の作品"
 # Account Settings (Theatre)
 
 msgid "ACCOUNT_SETTINGS"
-msgstr "Account Settings"
+msgstr "アカウント設定"
 
 msgid "YOUTUBE"
 msgstr "YouTube"
 
 msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
-msgstr "Configure your linked YouTube channel and default Flipnote upload settings."
+msgstr "連携したYouTubeチャンネルとデフォルトの作品アップロード設定を行います。"
 
 msgid "YOUTUBE_CONNECT_INTRO"
-msgstr "Connecting your YouTube channel lets you share your Flipnotes directly to YouTube!"
+msgstr "YouTubeチャンネルと連携すると、作品を直接YouTubeに共有できます！"
 
 msgid "YOUTUBE_LINK_PROMPT"
-msgstr "Link your YouTube channel to upload your Flipnotes to YouTube."
+msgstr "YouTubeチャンネルと連携して作品をYouTubeにアップロードします。"
 
 msgid "YOUTUBE_RECONNECT_PROMPT"
-msgstr "The connection to your channel is out of date. Please reconnect it to continue."
+msgstr "チャンネルとの連携が古くなっています。続行するには、再度連携してください。"
 
 msgid "BTN_SIGN_IN_WITH_GOOGLE"
-msgstr "Sign in with Google"
+msgstr "Googleアカウントでログイン"
 
 msgid "YOUTUBE_ACCOUNT_UNVERIFIED"
-msgstr "Account unverified"
+msgstr "未確認のアカウント"
 
 msgid "YOUTUBE_ACCOUNT_VERIFIED"
-msgstr "Account verified"
+msgstr "アカウントが確認されました"
 
 msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
-msgstr "Your YouTube account is unverified. Certain features will not function correctly, such as video thumbnails and Flipnotes longer than 15 minutes."
+msgstr "YouTubeアカウントが未確認です。 15分を超える作品や、サムネイルなど、特定の機能はご利用になれません。"
 
 msgid "YOUTUBE_ACCOUNT_VERIFICATION_FIX_NOW"
-msgstr "Fix now"
+msgstr "いますぐ修正"
 
 # YouTube metadata
 
 # Extra description text: will be placed at the end of your video descriptions. 
 
 msgid "YOUTUBE_DEFAULT_SETTINGS_EXPLANATION"
-msgstr "These settings will be filled in automatically when you upload a Flipnote from your Nintendo DSi or 3DS. If you're uploading from Sudomemo Theatre, you'll be prompted to change or confirm these settings before starting the upload."
+msgstr "これらの設定は、ニンテンドーDSiまたは3DSから作品をアップロードするときに自動的に入力されます。 スドメモシアターからアップロードする場合は、アップロードを開始する前に、これらの設定を変更または確認するように求められます。"
 
 msgid "YOUTUBE_EXTRA_DESCRIPTION_TEXT"
-msgstr "Extra Description Text"
+msgstr "追加の説明文"
 
 msgid "YOUTUBE_EXTRA_DESCRIPTION_TEXT_EXPLANATION"
-msgstr "This text will display when viewers click on 'Show more' in your video's description."
+msgstr "この説明文は、視聴者が動画の説明で[もっと見る]をクリックすると表示されます。"
 
 msgid "YOUTUBE_TAGS"
-msgstr "Tags"
+msgstr "タグ"
 
 msgid "YOUTUBE_TAGS_HINT"
-msgstr "Tags, separated by comma."
+msgstr "タグはカンマで区切ります。"
 
 msgid "YOUTUBE_TAGS_EXPLANATION"
-msgstr "Enter a comma after each tag"
+msgstr "タグの後にカンマを入力してください"
 
 msgid "YOUTUBE_LOOP_COUNT"
-msgstr "Number of plays"
+msgstr "ループ回数"
 
 msgid "YOUTUBE_LOOP_COUNT_EXPLANATION"
-msgstr "Number of times a looped Flipnote will repeat. Select 1 to only play once."
+msgstr "作品が繰り返される回数です。1回だけ再生するには1を選択します。"
 
 msgid "YOUTUBE_VISIBILITY"
-msgstr "Visibility"
+msgstr "公開範囲"
 
 msgid "YOUTUBE_VISIBILITY_PUBLIC"
-msgstr "Public"
+msgstr "公開"
 
 msgid "YOUTUBE_VISIBILITY_UNLISTED"
-msgstr "Unlisted"
+msgstr "限定公開"
 
 msgid "YOUTUBE_VISIBILITY_PRIVATE"
-msgstr "Private"
+msgstr "非公開"
 
 # Upload page specifics
 
 # Upload to YouTube header
 
 msgid "HEADER_UPLOAD_TO_YOUTUBE"
-msgstr "Upload to YouTube"
+msgstr "YouTubeにアップロード"
 
 msgid "LINK_REQUIRED_BEFORE_UPLOAD"
-msgstr "You'll need to link your YouTube channel before you can upload your Flipnote."
+msgstr "作品をアップロードする前に、YouTubeチャンネルと連携する必要があります。"
 
 msgid "BTN_GO_TO_SETTINGS"
-msgstr "Go to Settings"
+msgstr "設定に移動"
 
 msgid "UPLOAD_OPTIONS"
-msgstr "Upload Options"
+msgstr "アップロードオプション"
 
 msgid "YOUTUBE_TERMS_AGREEMENT_NOTE"
-msgstr "By submitting your videos to YouTube, you acknowledge that you agree to YouTube's Terms of Service and Community Guidelines."
+msgstr "動画をYouTubeに送信した時点で、YouTubeの利用規約とコミュニティガイドラインに同意したことになります。"
 
 msgid "SUBMIT"
-msgstr "Submit"
+msgstr "送信"
 
 # Upload status
 
 msgid "UPLOAD_STATUS"
-msgstr "Upload Status"
+msgstr "アップロード状態"
 
 msgid "YOUTUBE_PENDING_UPLOAD"
-msgstr "Your Flipnote is currently waiting to be uploaded. Check back in a few minutes."
+msgstr "作品がアップロードされるのを待っています。時間を空けてご確認ください。"
 
 # Added to the queue at: 2020-07-08 02:46:38
 
 msgid "YOUTUBE_ADDED_TO_QUEUE_AT"
-msgstr "Added to the queue at:"
+msgstr "キューに追加されました:"
 
 msgid "YOUTUBE_STATUS_TRACKER_NEW"
 msgstr "New"
 
 msgid "YOUTUBE_STATUS_TRACKER_PROCESSING"
-msgstr "Processing"
+msgstr "処理中"
 
 msgid "YOUTUBE_STATUS_TRACKER_DONE"
-msgstr "Done!"
+msgstr "完了!"
 
 msgid "YOUTUBE_STATUS_WAITING_TO_BE_PROCESSED"
-msgstr "Your upload is currently waiting to be processed."
+msgstr "アップロードは現在処理待ちです。"
 
 msgid "YOUTUBE_STATUS_BEING_PROCESSED"
-msgstr "Your upload is currently being processed."
+msgstr "アップロードは現在処理中です。"
 
 msgid "YOUTUBE_STATUS_COMPLETE"
-msgstr "Your upload is complete!"
+msgstr "アップロードが完了しました！"
 
 msgid "YOUTUBE_STATUS_FAILED_GONE"
-msgstr "The Flipnote disappeared before the upload could complete."
+msgstr "アップロードが完了する前に作品が削除されました。"
 
 msgid "YOUTUBE_STATUS_FAILED_AUTH"
-msgstr "The upload failed due to an authentication problem."
+msgstr "認証の問題によりアップロードに失敗しました。"
 
 msgid "YOUTUBE_STATUS_FAILED_SERVICE_ERROR"
-msgstr "The upload failed due to a service error."
+msgstr "サービスエラーが発生したため、アップロードに失敗しました。"
 
 msgid "YOUTUBE_STATUS_FAILED_CLIENT_ERROR"
-msgstr "The upload failed due to a client error."
+msgstr "クライアントエラーが発生したため、アップロードに失敗しました。"
 
 msgid "YOUTUBE_STATUS_FAILED_UNEXPECTED_ERROR"
-msgstr "An unexpected error occurred during upload."
+msgstr "アップロード中に予期せぬエラーが発生しました。"
 
 msgid "YOUTUBE_STATUS_FAILED_UNKNOWN"
-msgstr "The upload failed for an unknown reason."
+msgstr "原因不明のエラーが発生しました。"
 
 msgid "YOUTUBE_STATUS_PAUSED_GLOBAL_QUOTA"
-msgstr "Our global usage quota has been exceeded, so the upload may be significantly delayed."
+msgstr "グローバル利用枠を超えてしまったため、アップロードが大幅に遅れる可能性があります。"
 
 msgid "YOUTUBE_WATCH_NOW_AT"
-msgstr "Watch now:"
+msgstr "今見る:"
 
 msgid "BTN_START_UPLOAD"
-msgstr "Start Upload"
+msgstr "アップロードを開始"
 
 msgid "BTN_STARTING_UPLOAD"
-msgstr "Starting..."
+msgstr "開始しています..."
 
 msgid "BTN_UPLOAD_FAILED"
-msgstr "Upload failed..."
+msgstr "アップロードに失敗しました..."
 
 msgid "FLIPNOTE_SETTINGS_UPLOAD_TO_YOUTUBE"
-msgstr "You can upload your Flipnote to your YouTube channel. Click the button below to get started."
+msgstr "作品はYouTubeチャンネルにアップロードできます。 開始するには、下のボタンをクリックしてください。"
 
 msgid "BTN_GET_STARTED"
-msgstr "Get Started"
+msgstr "始める"
 
 msgid "YOUTUBE_ESTIMATED_DURATION"
-msgstr "Estimated video duration:"
+msgstr "推定される動画の長さ:"
 
 # Position in queue: 4 - means there are three uploads ahead of yours
 
 msgid "YOUTUBE_POSITION_IN_QUEUE"
-msgstr "Position in queue:"
+msgstr "キュー内の位置:"
 
 msgid "YOUTUBE_UPLOAD_HISTORY"
-msgstr "Upload History"
+msgstr "アップロード履歴"
 
 msgid "YOUTUBE_UPLOAD_HISTORY_CLICK_ICON_TO_TRACK"
-msgstr "Click the status icon on the left to visit your video's live Upload Tracker!"
+msgstr "左側のステータスアイコンをクリックして、動画のライブアップロードトラッカーにアクセスしてください"
 
 # We may need to limit uploads per day depending on our API quota usage rate
 
 msgid "YOUTUBE_UPLOAD_LIMIT"
-msgstr "You can currently upload %s videos to YouTube per day."
+msgstr "現在、1日につき%s本の動画をYouTubeにアップロードすることができます。"
 
 msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_LIMIT_NOTE"
-msgstr "Sudomemo Plus members can upload %s videos per day."
+msgstr "スドメモPlusのメンバーは1日につき%s本の動画をアップロードすることができます。"
 
 msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_UNLIMITED_NOTE"
-msgstr "Sudomemo Plus members can upload an unlimited number of videos each day."
+msgstr "スドメモPlusメンバーは1日にアップロードできる動画の数の制限がありません。"
 
 msgid "YOUTUBE_UPLOAD_LIMIT_CURRENT"
-msgstr "You have uploaded %s videos so far today."
+msgstr "今日までに%s本の動画をアップロードしました。"
 
 msgid "YOUTUBE_UPLOAD_LIMIT_EXCEEDED"
-msgstr "You can't upload any more videos until tomorrow."
+msgstr "これ以上動画をアップロードできません。明日までお待ちください。"
