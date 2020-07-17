@@ -59,7 +59,7 @@ msgid "YOUTUBE_LOOP_COUNT_EXPLANATION"
 msgstr "作品をループする回数を指定します。「1」の場合は1回だけ再生されます。"
 
 msgid "YOUTUBE_VISIBILITY"
-msgstr "視界"
+msgstr "公開範囲"
 
 msgid "YOUTUBE_VISIBILITY_PUBLIC"
 msgstr "公開"
