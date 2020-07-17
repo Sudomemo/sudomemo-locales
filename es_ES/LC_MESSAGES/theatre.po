@@ -749,7 +749,7 @@ msgid "YOUTUBE_ACCOUNT_VERIFIED"
 msgstr "Cuenta verificada"
 
 msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
-msgstr ""Tu cuenta de YouTube no está verificada. Ciertas características no funcionarán correctamente, tales como miniaturas de vídeos y Flipnotes con una duración mayor a 15 minutos."
+msgstr "Tu cuenta de YouTube no está verificada. Ciertas características no funcionarán correctamente, tales como miniaturas de vídeos y Flipnotes con una duración mayor a 15 minutos."
 
 msgid "YOUTUBE_ACCOUNT_VERIFICATION_FIX_NOW"
 msgstr "Arreglar ahora"
