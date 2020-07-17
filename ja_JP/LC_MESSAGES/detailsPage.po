@@ -2,7 +2,7 @@ msgid "TIMESTAMP_FORMAT"
 msgstr "Y年m月d日 H:i:s"
 
 msgid "FLIPNOTE_TITLE_FORMAT"
-msgstr "%sさんのメモ"
+msgstr "%sさんの作品"
 
 msgid "HEADER_DETAILS"
 msgstr "作品情報"
@@ -41,7 +41,7 @@ msgid "HEADER_POSTED"
 msgstr "投稿された時間"
 
 msgid "HEADER_FLIPNOTE_ID"
-msgstr "メモID"
+msgstr "うごメモID"
 
 msgid "HEADER_CHANNEL"
 msgstr "チャンネル"
@@ -68,13 +68,13 @@ msgid "STAR_DETAILS_UPPERTITLE"
 msgstr "★ スター ★"
 
 msgid "SET_TITLE"
-msgstr "タイトルを設定"
+msgstr "タイトル設定"
 
 msgid "SET_TITLE_INSTRUCTIONS"
 msgstr "作品の新しいタイトルを入力してください。"
 
 msgid "40_CHARACTER_LIMIT"
-msgstr "タイトルのは40文字に制限されています。"
+msgstr "タイトルの文字数は40文字に制限されています。"
 
 msgid "LEAVE_BLANK_TO_RESET"
 msgstr "タイトルをデフォルトの状態にするにはフォームを空白にして送信します。"
@@ -104,15 +104,15 @@ msgid "ENTER_DESCRIPTION"
 msgstr "説明を入力してください..."
 
 msgid "HEADER_FLIPNOTE_OPTIONS"
-msgstr "Options"
+msgstr "オプション"
 
 msgid "HEADER_SONG"
-msgstr "Song"
+msgstr "曲"
 
 # This is shown to logged-in users on their own Flipnotes without titles
 
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
-msgstr "Untitled Flipnote by %s"
+msgstr "%sさんの作品"
 
 msgid "HEADER_UPLOAD_TO_YOUTUBE"
-msgstr "Upload to YouTube"
+msgstr "YouTubeにアップロード"
