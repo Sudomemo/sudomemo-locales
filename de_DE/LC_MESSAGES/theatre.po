@@ -232,7 +232,7 @@ msgstr "Verbindungs-Hilfe"
 msgid "NAVBAR_ITEM_FAQS"
 msgstr "FAQs"
 
-msgid "NAVBAR_ITEM_TERMS"
+msgid "TERMS_OF_USE"
 msgstr "Nutzungsrechtlinien"
 
 msgid "NAVBAR_ITEM_CONTACT_US"
@@ -916,3 +916,8 @@ msgstr "You have uploaded %s videos so far today."
 
 msgid "YOUTUBE_UPLOAD_LIMIT_EXCEEDED"
 msgstr "You can't upload any more videos until tomorrow."
+msgid "SETTINGS"
+msgstr "Settings"
+
+msgid "PRIVACY_POLICY"
+msgstr "Privacy Policy"

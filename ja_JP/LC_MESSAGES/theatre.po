@@ -232,7 +232,7 @@ msgstr "接続ヘルプ"
 msgid "NAVBAR_ITEM_FAQS"
 msgstr "FAQ"
 
-msgid "NAVBAR_ITEM_TERMS"
+msgid "TERMS_OF_USE"
 msgstr "利用規約"
 
 msgid "NAVBAR_ITEM_CONTACT_US"
@@ -915,3 +915,9 @@ msgstr "今日までに%s本の動画をアップロードしました。"
 
 msgid "YOUTUBE_UPLOAD_LIMIT_EXCEEDED"
 msgstr "これ以上動画をアップロードできません。明日までお待ちください。"
+
+msgid "SETTINGS"
+msgstr "Settings"
+
+msgid "PRIVACY_POLICY"
+msgstr "Privacy Policy"
