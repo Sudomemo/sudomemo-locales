@@ -921,3 +921,9 @@ msgstr "Settings"
 
 msgid "PRIVACY_POLICY"
 msgstr "Privacy Policy"
+
+msgid "YOUTUBE_STATUS_FAILED_THUMB"
+msgstr "Your video was uploaded successfully, but we had a problem uploading the thumbnail."
+
+msgid "YOUTUBE_CHECK_FEATURES_THUMB"
+msgstr "Your YouTube channel might not be completely verified. For more information, you can check the status of Custom Thumbnails here:"
