@@ -924,7 +924,7 @@ msgid "PRIVACY_POLICY"
 msgstr "Politique de confidentialité"
 
 msgid "YOUTUBE_STATUS_FAILED_THUMB"
-msgstr "Your video was uploaded successfully, but we had a problem uploading the thumbnail."
+msgstr "Votre vidéo a bien été envoyée, mais nous avons eu un problème lors de l'envoi de la miniature."
 
 msgid "YOUTUBE_CHECK_FEATURES_THUMB"
-msgstr "Your YouTube channel might not be completely verified. For more information, you can check the status of Custom Thumbnails here:"
+msgstr "Votre chaîne YouTube n'est peut-être pas complètement vérifiée. Pour plus d'informations, vous pouvez vérifier le statut des miniatures personnalisées ici :"
