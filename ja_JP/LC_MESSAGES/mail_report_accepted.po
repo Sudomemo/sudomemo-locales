@@ -1,49 +1,49 @@
 # Content Report Accepted - sent to user who has correctly reported content
 
 msgid "NOTICE"
-msgstr "Notice"
+msgstr "通知"
 
 ## Intro
 
 msgid "REPORT_ACCEPTED"
-msgstr "We've reviewed a content report that you submitted and found it to be valid."
+msgstr "送信されたコンテンツレポートを調査したところ、レポートは有効であるが判明しました。"
 
 ## Content types
 
 msgid "CONTENT_TYPE_flipnote"
-msgstr "Flipnote"
+msgstr "作品"
 
 msgid "CONTENT_TYPE_comment"
-msgstr "Comment"
+msgstr "コメント"
 
 msgid "CONTENT_TYPE_chat_message"
-msgstr "Chat message"
+msgstr "チャットメッセージ"
 
 ### We plan on adding user-created themes.
 
 msgid "CONTENT_TYPE_room_theme"
-msgstr "Creator's Room theme"
+msgstr "マイルームのテーマ"
 
 msgid "CONTENT_TYPE_profile_bio"
-msgstr "Profile text"
+msgstr "プロフィール文"
 
 ### Catch-all
 
 msgid "CONTENT_TYPE_content"
-msgstr "Other content"
+msgstr "その他のコンテンツ"
 
 ## continued message...
 
 msgid "REPORT_ACCEPTED_CONTINUED"
-msgstr "As such, the content has been removed."
+msgstr "そのため、コンテンツは削除されました。"
 
 # this message is followed by a link
 
 msgid "REPORT_ACCEPTED_INFO"
-msgstr "Reports like yours help make Sudomemo a safe and welcoming place for everyone. If you'd like to learn more about our Content Policy, you can do so here:"
+msgstr "レポートはスドメモを誰にとっても安全で親しみやすい場所にすることに大変有効です。コンテンツポリシーの詳細については、こちらをご覧ください："
 
 msgid "CONTENT_TYPE"
-msgstr "Content type:"
+msgstr "コンテンツのタイプ:"
 
 msgid "CONTENT_ID"
-msgstr "Content ID:"
+msgstr "コンテンツID:"
