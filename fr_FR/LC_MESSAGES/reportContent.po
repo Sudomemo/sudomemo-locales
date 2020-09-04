@@ -64,3 +64,63 @@ msgstr "Merci de confirmer votre adresse email avant de signaler un contenu."
 msgid "THANKS_FOR_REPORTING"
 msgstr "Nous avons reçu votre signalement. Merci de nous aider à faire de Sudomemo un meilleur endroit !"
 
+
+msgid "CATEGORY_NAME_stolen"
+msgstr "Stolen"
+
+msgid "CATEGORY_DESC_stolen"
+msgstr "Misuse of spin-off function (stolen)"
+
+msgid "CATEGORY_NAME_spam"
+msgstr "Spam"
+
+msgid "CATEGORY_DESC_spam"
+msgstr "Spam (no meaningful content)"
+
+msgid "CATEGORY_NAME_harassment"
+msgstr "Harassment"
+
+msgid "CATEGORY_DESC_harassment"
+msgstr "Bullying, discrimination, harassment or libel"
+
+msgid "CATEGORY_NAME_fraud"
+msgstr "Fraud"
+
+msgid "CATEGORY_DESC_fraud"
+msgstr "Impersonation or other fraudulent activities"
+
+msgid "CATEGORY_NAME_swearing"
+msgstr "Profane"
+
+msgid "CATEGORY_DESC_swearing"
+msgstr "Use of very strong language, or frequent use of strong language"
+
+msgid "CATEGORY_NAME_sexual"
+msgstr "Sexual"
+
+msgid "CATEGORY_DESC_sexual"
+msgstr "Sexual themes or content"
+
+msgid "CATEGORY_NAME_violent"
+msgstr "Graphic"
+
+msgid "CATEGORY_DESC_violent"
+msgstr "Graphic content, excessive violence, gore, blood, or body horror"
+
+msgid "CATEGORY_NAME_misplaced_rp"
+msgstr "Misplaced RP"
+
+msgid "CATEGORY_DESC_misplaced_rp"
+msgstr "Roleplay posted to non-roleplay channel"
+
+msgid "CATEGORY_NAME_drugs"
+msgstr "Drugs"
+
+msgid "CATEGORY_DESC_drugs"
+msgstr "Substance abuse or drug references"
+
+msgid "CATEGORY_NAME_rapid_flashing"
+msgstr "Rapid Flashing"
+
+msgid "CATEGORY_DESC_rapid_flashing"
+msgstr "Flashing more than three times in one second"
