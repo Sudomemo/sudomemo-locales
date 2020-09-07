@@ -1,5 +1,5 @@
 msgid "HEADER_REPORT_CONTENT"
-msgstr "Report Content"
+msgstr "Signaler du contenu"
 
 msgid "CHAT_MESSAGE"
 msgstr "message de chat"
@@ -66,61 +66,61 @@ msgstr "Nous avons reçu votre signalement. Merci de nous aider à faire de Sudo
 
 
 msgid "CATEGORY_NAME_stolen"
-msgstr "Stolen"
+msgstr "Vol"
 
 msgid "CATEGORY_DESC_stolen"
-msgstr "Misuse of spin-off function (stolen)"
+msgstr "Utilisation abusive de la dérivation de Flipnote (vol)"
 
 msgid "CATEGORY_NAME_spam"
 msgstr "Spam"
 
 msgid "CATEGORY_DESC_spam"
-msgstr "Spam (no meaningful content)"
+msgstr "Spam (contenu non pertinent)"
 
 msgid "CATEGORY_NAME_harassment"
-msgstr "Harassment"
+msgstr "Harcèlement"
 
 msgid "CATEGORY_DESC_harassment"
-msgstr "Bullying, discrimination, harassment or libel"
+msgstr "Intimidation, discrimination, harcèlement ou diffamation"
 
 msgid "CATEGORY_NAME_fraud"
-msgstr "Fraud"
+msgstr "Fraude"
 
 msgid "CATEGORY_DESC_fraud"
-msgstr "Impersonation or other fraudulent activities"
+msgstr "Usurpation d'identité ou autres activités frauduleuses"
 
 msgid "CATEGORY_NAME_swearing"
-msgstr "Profane"
+msgstr "Langage grossier"
 
 msgid "CATEGORY_DESC_swearing"
-msgstr "Use of very strong language, or frequent use of strong language"
+msgstr "Utilisation de langage très grossier, ou utilisation fréquente de gros mots, de jurons"
 
 msgid "CATEGORY_NAME_sexual"
-msgstr "Sexual"
+msgstr "Sexuel"
 
 msgid "CATEGORY_DESC_sexual"
-msgstr "Sexual themes or content"
+msgstr "Thème ou contenu à caractère sexuel"
 
 msgid "CATEGORY_NAME_violent"
-msgstr "Graphic"
+msgstr "Violence"
 
 msgid "CATEGORY_DESC_violent"
-msgstr "Graphic content, excessive violence, gore, blood, or body horror"
+msgstr "Contenu explicite, violence excessive, gore, sang, ou horreur corporelle"
 
 msgid "CATEGORY_NAME_misplaced_rp"
-msgstr "Misplaced RP"
+msgstr "Jeu de rôle hors-sujet"
 
 msgid "CATEGORY_DESC_misplaced_rp"
-msgstr "Roleplay posted to non-roleplay channel"
+msgstr "Jeu de rôle posté dans une chaîne non liée aux jeux de rôle"
 
 msgid "CATEGORY_NAME_drugs"
-msgstr "Drugs"
+msgstr "Drogues"
 
 msgid "CATEGORY_DESC_drugs"
-msgstr "Substance abuse or drug references"
+msgstr "Abus de substances, toxicomanie ou références à la drogue"
 
 msgid "CATEGORY_NAME_rapid_flashing"
-msgstr "Rapid Flashing"
+msgstr "Clignotement rapide"
 
 msgid "CATEGORY_DESC_rapid_flashing"
-msgstr "Flashing more than four times in one second"
+msgstr "Plus de quatre clignotements en une seconde"
