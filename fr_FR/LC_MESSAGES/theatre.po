@@ -928,3 +928,12 @@ msgstr "Votre vidéo a bien été envoyée, mais nous avons eu un problème lors
 
 msgid "YOUTUBE_CHECK_FEATURES_THUMB"
 msgstr "Votre chaîne YouTube n'est peut-être pas complètement vérifiée. Pour plus d'informations, vous pouvez vérifier le statut des miniatures personnalisées ici :"
+
+msgid "YOUTUBE_REFRESH_ACCOUNT"
+msgstr "Refresh account"
+
+msgid "YOUTUBE_UNLINK_ACCOUNT"
+msgstr "Unlink account"
+
+msgid "YOUTUBE_UNLINK_ACCOUNT_CONFIRM"
+msgstr "Are you sure you want to remove your linked YouTube channel?"

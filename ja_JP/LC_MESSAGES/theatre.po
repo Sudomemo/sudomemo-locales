@@ -917,13 +917,22 @@ msgid "YOUTUBE_UPLOAD_LIMIT_EXCEEDED"
 msgstr "これ以上動画をアップロードできません。明日までお待ちください。"
 
 msgid "SETTINGS"
-msgstr "Settings"
+msgstr "設定"
 
 msgid "PRIVACY_POLICY"
-msgstr "Privacy Policy"
+msgstr "個人情報保護方針"
 
 msgid "YOUTUBE_STATUS_FAILED_THUMB"
 msgstr "Your video was uploaded successfully, but we had a problem uploading the thumbnail."
 
 msgid "YOUTUBE_CHECK_FEATURES_THUMB"
 msgstr "Your YouTube channel might not be completely verified. For more information, you can check the status of Custom Thumbnails here:"
+
+msgid "YOUTUBE_REFRESH_ACCOUNT"
+msgstr "Refresh account"
+
+msgid "YOUTUBE_UNLINK_ACCOUNT"
+msgstr "Unlink account"
+
+msgid "YOUTUBE_UNLINK_ACCOUNT_CONFIRM"
+msgstr "Are you sure you want to remove your linked YouTube channel?"

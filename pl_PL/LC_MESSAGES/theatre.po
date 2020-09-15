@@ -927,3 +927,12 @@ msgstr "Your video was uploaded successfully, but we had a problem uploading the
 
 msgid "YOUTUBE_CHECK_FEATURES_THUMB"
 msgstr "Your YouTube channel might not be completely verified. For more information, you can check the status of Custom Thumbnails here:"
+
+msgid "YOUTUBE_REFRESH_ACCOUNT"
+msgstr "Refresh account"
+
+msgid "YOUTUBE_UNLINK_ACCOUNT"
+msgstr "Unlink account"
+
+msgid "YOUTUBE_UNLINK_ACCOUNT_CONFIRM"
+msgstr "Are you sure you want to remove your linked YouTube channel?"
