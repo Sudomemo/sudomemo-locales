@@ -246,3 +246,9 @@ msgstr "Wanneer je er klaar voor bent, stel jezelf voor in ons introductiekanaal
 
 msgid "EMAIL_VERIFICATION_ADDRESS_REMOVED"
 msgstr "Sorry daarvoor! We hebben gemarkeerd dat je e-mailadres niet klopt, dus je hoort vanaf nu geen e-mails meer van Sudomemo te ontvangen."
+
+msgid "THANKS_FOR_LOGIN_PROMPT_INTRO"
+msgstr "Welcome to Sudomemo! Now, let's write a little message to say who you are! (This will be posted as a Flipnote in our Introductions channel.)"
+
+msgid "PLEASE_DISCONNECT_AND_RECONNECT"
+msgstr "An error occured. To try again, disconnect and then reconnect to Sudomemo."

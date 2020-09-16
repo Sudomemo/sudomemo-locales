@@ -246,3 +246,8 @@ msgstr "準備が整ったら、先へ進み、個人カテゴリの下のIntrod
 
 msgid "EMAIL_VERIFICATION_ADDRESS_REMOVED"
 msgstr "Sorry about that! We've marked that email address as incorrect, so you shouldn't receive any further emails from Sudomemo."
+msgid "THANKS_FOR_LOGIN_PROMPT_INTRO"
+msgstr "Welcome to Sudomemo! Now, let's write a little message to say who you are! (This will be posted as a Flipnote in our Introductions channel.)"
+
+msgid "PLEASE_DISCONNECT_AND_RECONNECT"
+msgstr "An error occured. To try again, disconnect and then reconnect to Sudomemo."
