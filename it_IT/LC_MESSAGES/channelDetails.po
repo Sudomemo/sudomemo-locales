@@ -1,35 +1,38 @@
 msgid "CHANNEL_NAME"
-msgstr "Nome Canale"
+msgstr "Channel Name"
 
 msgid "CHANNEL_INFORMATION"
-msgstr "Informazioni canale"
+msgstr "Channel Information"
 
 msgid "FLIPNOTES"
-msgstr "Flipnote"
+msgstr "Flipnotes"
 
 msgid "CHANNEL_ID"
-msgstr "ID canale"
+msgstr "Channel ID"
 
 msgid "LOGIN_REQUIRED_TO_POST"
-msgstr "Devi accedere per pubblicare i flipnote."
+msgstr "You must be logged in to post a Flipnote."
 
 msgid "CHANNEL_NOT_SPECIFIED"
-msgstr "il Canale deve essere dentro."
+msgstr "You must pick a channel."
 
 msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
-msgstr "Gentile Sudo, non è possibile pubblicare i flipnote perché ha rotto le braccia e mani."
+msgstr "You've been restricted from using Sudomemo."
 
 msgid "FLIPNOTE_POST_FAILED"
-msgstr "Pubblicazione Fallita. Riprova."
+msgstr "Flipnote upload failed. Try again in a moment."
 
 msgid "DUPLICATE_FLIPNOTE_FAILED"
-msgstr "Flipnote è già pubblicato. quindi, modifica e crea."
+msgstr "This Flipnote has already been posted to Sudomemo. Try editing it again."
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "null"
+msgstr "The Flipnote data is corrupted. Try again in a moment."
 
 msgid "NO_BLANK_FLIPNOTES_ALLOWED"
-msgstr "non è possibile pubblicare un flipnote vuoto."
+msgstr "You may not post an empty Flipnote."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Verifica la mail (Google) Prima di pubblicare."
+msgstr "Please confirm your email before posting."
+
+msgid "NO_POSTS_WHILE_MUTED"
+msgstr "You may not post while you are muted."
