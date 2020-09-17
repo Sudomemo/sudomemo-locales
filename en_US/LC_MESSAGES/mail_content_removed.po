@@ -1,15 +1,17 @@
-# Content Removed - sent to user when a piece of their content has been moderated away
+msgid ""
+msgstr ""
+"Language: en_US\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 
+# Content Removed - sent to user when a piece of their content has been moderated away
 msgid "NOTICE"
 msgstr "Notice"
 
-## Intro
-
+# # Intro
 msgid "USER_CONTENT_REMOVED"
 msgstr "Something you posted was found to be in violation of Sudomemo's Content Policy and Terms of Use, and has been removed."
 
-## Content types
-
+# # Content types
 msgid "CONTENT_TYPE_flipnote"
 msgstr "Flipnote"
 
@@ -19,21 +21,18 @@ msgstr "Comment"
 msgid "CONTENT_TYPE_chat_message"
 msgstr "Chat message"
 
-### We plan on adding user-created themes.
-
+# ## We plan on adding user-created themes.
 msgid "CONTENT_TYPE_room_theme"
 msgstr "Creator's Room theme"
 
 msgid "CONTENT_TYPE_profile_bio"
 msgstr "Profile text"
 
-### Catch-all
-
+# ## Catch-all
 msgid "CONTENT_TYPE_content"
 msgstr "Other content"
 
-## continued message...
-
+# # continued message...
 msgid "REMOVAL_REASON_HEADER"
 msgstr "This content has been removed due to one or more of the following reasons:"
 
@@ -52,8 +51,7 @@ msgstr "Content type:"
 msgid "CONTENT_ID"
 msgstr "Content ID:"
 
-## re-download will be made available for certain content types
-
+# # re-download will be made available for certain content types
 msgid "REDOWNLOAD_HEADER"
 msgstr "If you would like to revise your %s, you may download it %s"
 

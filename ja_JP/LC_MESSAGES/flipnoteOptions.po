@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: ja_JP\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "FLIPNOTE_OPTIONS"
 msgstr "うごメモのオプション"
 
@@ -51,4 +56,3 @@ msgstr "オーディオ拡張を有効にする"
 
 msgid "DISABLE_AUDIO_ENHANCEMENT"
 msgstr "オーディオ拡張を無効にする"
-

@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: es_ES\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "UPPERTITLE"
 msgstr "Buscar"
 
@@ -21,4 +26,3 @@ msgstr "Calificado por %s"
 
 msgid "FAVORITES_FEED_FORMAT"
 msgstr "Contenido favorito de %s"
-

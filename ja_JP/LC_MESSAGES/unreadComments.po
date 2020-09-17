@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: ja_JP\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
 msgstr "このページを表示するには、ログインする必要があります。"
 
@@ -15,4 +20,3 @@ msgstr "うごメモID"
 
 msgid "UNREAD"
 msgstr "未読"
-

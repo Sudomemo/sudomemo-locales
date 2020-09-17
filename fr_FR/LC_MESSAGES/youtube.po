@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: fr_FR\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "HEADER_UPLOAD_TO_YOUTUBE"
 msgstr "Envoyer sur YouTube"
 
@@ -14,7 +19,6 @@ msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
 msgstr "Votre compte YouTube n'est pas vérifié. Certaines fonctionnalités ne fonctionneront pas correctement, comme les miniatures des vidéos et les Flipnotes ayant une durée de plus de 15 minutes."
 
 # To fix this, visit: https://flipnot.es/ytsetup
-
 msgid "YOUTUBE_ACCOUNT_VERIFICATION_FIX"
 msgstr "Pour réparer cela, allez sur :"
 
@@ -25,7 +29,6 @@ msgid "TITLE_DESC_ADD_FIRST"
 msgstr "Merci d'aller les ajouter avant de continuer."
 
 # A URL is displayed after this:
-
 msgid "HOW_TO_LINK_FROM_THEATRE"
 msgstr "Pour lier votre chaîne YouTube, visitez cette page :"
 
@@ -33,7 +36,6 @@ msgid "HOW_TO_REFRESH_FROM_THEATRE"
 msgstr "Pour mettre à jour votre chaîne, visitez cette page :"
 
 # Preview upload details before submitting
-
 msgid "PREVIEW_TITLE"
 msgstr "Titre"
 
@@ -74,7 +76,6 @@ msgid "SUBMIT"
 msgstr "Publier"
 
 # Upload status
-
 msgid "UPLOAD_STATUS"
 msgstr "Statut de l'envoi"
 
@@ -82,7 +83,6 @@ msgid "YOUTUBE_PENDING_UPLOAD"
 msgstr "Votre Flipnote est actuellement en attente d'envoi. Revenez dans quelques minutes."
 
 # Position in queue: 4
-
 msgid "POSITION_IN_QUEUE"
 msgstr "Position dans la file d'attente : %d"
 
@@ -93,12 +93,10 @@ msgid "REVIEW_DETAILS_BEFORE_UPLOAD"
 msgstr "Merci de vérifier ces options avant de démarrer l'envoi."
 
 # ...do so, visit https://flipnot.es/ABC123/yt
-
 msgid "CHANGE_OPTIONS_ON_THEATRE"
 msgstr "Vous pouvez changer ces options avant l'envoi. Pour le faire, allez sur :"
 
 # ...please visit: https://flipnot.es/ytsetup
-
 msgid "SET_DEFAULTS_ON_THEATRE"
 msgstr "Pour changer vos options d'envoi par défaut, merci de vous rendre sur :"
 
@@ -145,7 +143,6 @@ msgid "YOUTUBE_ESTIMATED_DURATION"
 msgstr "Durée de la vidéo estimée :"
 
 # Extra features provided by Sudomemo Plus (see flipnoteOptions.po)
-
 msgid "PLUS_FEATURES"
 msgstr "Fonctionnalités Sudomemo Plus"
 
@@ -168,7 +165,6 @@ msgid "YOUTUBE_TERMS_AGREEMENT_NOTE"
 msgstr "En publiant vos vidéos sur YouTube, vous reconnaissez accepter les conditions d'utilisation de YouTube et son règlement de la communauté."
 
 # We may need to limit uploads per day depending on our API quota usage rate
-
 msgid "YOUTUBE_UPLOAD_LIMIT"
 msgstr "Vous pouvez actuellement envoyer %s vidéos sur YouTube par jour."
 
@@ -185,7 +181,6 @@ msgid "YOUTUBE_UPLOAD_LIMIT_EXCEEDED"
 msgstr "Vous ne pouvez plus envoyer de vidéos jusqu'à demain."
 
 # If the user's already uploaded it...
-
 msgid "FLIPNOTE_ALREADY_UPLOADED"
 msgstr "Vous avez déjà envoyé cette Flipnote sur YouTube."
 
@@ -197,4 +192,3 @@ msgstr "Envoyer à nouveau"
 
 msgid "YOUTUBE_STATUS_PAUSED_GLOBAL_QUOTA"
 msgstr "Notre quota d'utilisation global a été dépassé, donc l'envoi peut être significativement retardé."
-

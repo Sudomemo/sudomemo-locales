@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: es_ES\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "SET_PROFILE_PICTURE"
 msgstr "Establecer foto de perfil"
 
@@ -27,4 +32,3 @@ msgstr "Cancelar"
 
 msgid "LOGIN_REQUIRED_TO_CHANGE"
 msgstr "Tienes que iniciar sesión para cambiar tu foto de perfil."
-

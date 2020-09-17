@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: ja_JP\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "HEADER_COMMENTS"
 msgstr "コメント"
 
@@ -48,4 +53,3 @@ msgstr "投稿する前にメールアドレスを確認してください。"
 
 msgid "MODERATOR"
 msgstr "モデレータ"
-

@@ -1,10 +1,13 @@
-# Content Report Rejected - sent to user who has reported content after report deemed invalid
+msgid ""
+msgstr ""
+"Language: sv_SE\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 
+# Content Report Rejected - sent to user who has reported content after report deemed invalid
 msgid "NOTICE"
 msgstr "Notering"
 
-## Intro
-
+# # Intro
 msgid "REPORT_REJECTED"
 msgstr "Vi har granskat en innehållsrapport som du skickat in."
 
@@ -12,12 +15,10 @@ msgid "REPORT_REJECTED_CONTINUED"
 msgstr "Vi bestlutade efter en undersökning att detta innehåll inte är mot vår innehållspolicy, så det har inte tagits bort."
 
 # this message is followed by a link
-
 msgid "REPORT_REJECTED_INFO"
 msgstr "Rapporter som din hjälper Sudomemo vara en säker och välkomnande plats för alla. Vi rekommenderar att du granskar vår innehållspolicy för att bättre förstå vilka typer av innehåll som är acceptabelt på Sudomemo:"
 
-## Content types
-
+# # Content types
 msgid "CONTENT_TYPE_flipnote"
 msgstr "Flipnote"
 
@@ -27,16 +28,14 @@ msgstr "Kommentar"
 msgid "CONTENT_TYPE_chat_message"
 msgstr "Chattmeddelande"
 
-### We plan on adding user-created themes.
-
+# ## We plan on adding user-created themes.
 msgid "CONTENT_TYPE_room_theme"
 msgstr "Creator's Roomtema"
 
 msgid "CONTENT_TYPE_profile_bio"
 msgstr "Profiltext"
 
-### Catch-all
-
+# ## Catch-all
 msgid "CONTENT_TYPE_content"
 msgstr "Annat innehål"
 

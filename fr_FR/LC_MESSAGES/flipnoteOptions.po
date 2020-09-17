@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: fr_FR\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "FLIPNOTE_OPTIONS"
 msgstr "Options de la Flipnote"
 
@@ -51,4 +56,3 @@ msgstr "Activer l'amélioration audio"
 
 msgid "DISABLE_AUDIO_ENHANCEMENT"
 msgstr "Désactiver l'amélioration audio"
-

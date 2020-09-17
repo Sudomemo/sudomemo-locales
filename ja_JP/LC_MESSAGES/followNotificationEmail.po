@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: ja_JP\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "EMAIL_SUBJECT_FORMAT"
 msgstr "[Sudomemo] %sさんがあなたをお気に入りに追加しました"
 
@@ -21,4 +26,3 @@ msgstr "フォロワー%s"
 
 msgid "VIEW_PROFILE"
 msgstr "プロフィールを見る"
-

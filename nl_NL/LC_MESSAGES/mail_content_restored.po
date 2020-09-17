@@ -1,15 +1,17 @@
-# Content Removed - sent to user when a piece of their content has been restored
+msgid ""
+msgstr ""
+"Language: nl_NL\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 
+# Content Removed - sent to user when a piece of their content has been restored
 msgid "NOTICE"
 msgstr "Opmerking"
 
-## Intro
-
+# # Intro
 msgid "USER_CONTENT_RESTORED"
 msgstr "Iets dat je hebt geplaatst, wat voorheen verwijderd was, is hersteld nadat het opnieuw beoordeeld is."
 
-## Content types
-
+# # Content types
 msgid "CONTENT_TYPE_flipnote"
 msgstr "Flipnote"
 
@@ -19,21 +21,18 @@ msgstr "Reactie"
 msgid "CONTENT_TYPE_chat_message"
 msgstr "Chatbericht"
 
-### We plan on adding user-created themes.
-
+# ## We plan on adding user-created themes.
 msgid "CONTENT_TYPE_room_theme"
 msgstr "Thema Makersruimte"
 
 msgid "CONTENT_TYPE_profile_bio"
 msgstr "Profieltekst"
 
-### Catch-all
-
+# ## Catch-all
 msgid "CONTENT_TYPE_content"
 msgstr "Andere inhoud"
 
-## continued message...
-
+# # continued message...
 msgid "CONTENT_RESTORED_CONTINUED"
 msgstr "Deze inhoud is hersteld naar het openbaar, je hoeft niets meer te doen!"
 

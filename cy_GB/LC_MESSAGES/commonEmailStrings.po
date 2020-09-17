@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: cy_GB\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "TEXT_CHANGE_SETTINGS_PROMPT"
 msgstr "Eisiau addasu'r negeseuon e-bost a gewch o Sudomemo?"
 
@@ -6,4 +11,3 @@ msgstr "Gallwch eu diweddaru'n hawdd trwy ymweld ag Ystafell eich Creawdwr ar Su
 
 msgid "TEXT_WEB_SETTINGS_CHANGE_FORMAT"
 msgstr "Neu, gallwch ddiffodd y mathau hyn o negeseuon e-bost trwy glicio <a target=\"_blank\" href=\"%s\"> <strong>yma</strong> </a>."
-

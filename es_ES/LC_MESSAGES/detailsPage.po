@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: es_ES\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "TIMESTAMP_FORMAT"
 msgstr "M d, Y H:i:s"
 
@@ -110,7 +115,6 @@ msgid "HEADER_SONG"
 msgstr "Canción"
 
 # This is shown to logged-in users on their own Flipnotes without titles
-
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote sin titulo creada por %s"
 

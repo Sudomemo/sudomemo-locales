@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: cy_GB\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "UPPERTITLE"
 msgstr "Porwch"
 
@@ -21,4 +26,3 @@ msgstr "Yn serennu gan %s"
 
 msgid "FAVORITES_FEED_FORMAT"
 msgstr "%s's Ffefrynnau Feed"
-

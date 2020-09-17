@@ -1,7 +1,10 @@
+msgid ""
+msgstr ""
+"Language: en_GB\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 # This contains common strings used for the general notification ("mail") system as well
-
 # Common
-
 msgid "LOGIN_FIRST_TO_ACCESS_MAIL"
 msgstr "You'll need to log back in before you can view this."
 
@@ -22,7 +25,6 @@ msgid "NEXT"
 msgstr "Next"
 
 # Titles
-
 msgid "TITLE_SPINOFF"
 msgstr "Spin-off"
 
@@ -42,7 +44,5 @@ msgid "TITLE_INFO"
 msgstr "Info"
 
 # Not found
-
 msgid "MAIL_NOT_FOUND"
 msgstr "This message does not exist."
-

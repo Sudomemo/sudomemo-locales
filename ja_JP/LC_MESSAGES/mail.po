@@ -1,7 +1,10 @@
+msgid ""
+msgstr ""
+"Language: ja_JP\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 # This contains common strings used for the general notification ("mail") system as well
-
 # Common
-
 msgid "LOGIN_FIRST_TO_ACCESS_MAIL"
 msgstr "このページを表示するには再度ログインする必要があります"
 
@@ -22,7 +25,6 @@ msgid "NEXT"
 msgstr "次へ"
 
 # Titles
-
 msgid "TITLE_SPINOFF"
 msgstr "スピンオフ"
 
@@ -42,7 +44,5 @@ msgid "TITLE_INFO"
 msgstr "情報"
 
 # Not found
-
 msgid "MAIL_NOT_FOUND"
 msgstr "メッセージは存在しません"
-

@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: en_ZA\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "HEADER_UPLOAD_TO_YOUTUBE"
 msgstr "Upload to YouTube"
 
@@ -14,7 +19,6 @@ msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
 msgstr "Your YouTube account is unverified. Certain features will not function correctly, such as video thumbnails and Flipnotes longer than 15 minutes."
 
 # To fix this, visit: https://flipnot.es/ytsetup
-
 msgid "YOUTUBE_ACCOUNT_VERIFICATION_FIX"
 msgstr "To fix this, visit:"
 
@@ -25,7 +29,6 @@ msgid "TITLE_DESC_ADD_FIRST"
 msgstr "Please go back and add these before continuing."
 
 # A URL is displayed after this:
-
 msgid "HOW_TO_LINK_FROM_THEATRE"
 msgstr "To link your YouTube channel, visit this page:"
 
@@ -33,7 +36,6 @@ msgid "HOW_TO_REFRESH_FROM_THEATRE"
 msgstr "To update your channel, visit this page:"
 
 # Preview upload details before submitting
-
 msgid "PREVIEW_TITLE"
 msgstr "Title"
 
@@ -74,7 +76,6 @@ msgid "SUBMIT"
 msgstr "Submit"
 
 # Upload status
-
 msgid "UPLOAD_STATUS"
 msgstr "Upload Status"
 
@@ -82,7 +83,6 @@ msgid "YOUTUBE_PENDING_UPLOAD"
 msgstr "Your Flipnote is currently waiting to be uploaded. Check back in a few minutes."
 
 # Position in queue: 4
-
 msgid "POSITION_IN_QUEUE"
 msgstr "Position in queue: %d"
 
@@ -93,12 +93,10 @@ msgid "REVIEW_DETAILS_BEFORE_UPLOAD"
 msgstr "Please review these options before starting your upload."
 
 # ...do so, visit https://flipnot.es/ABC123/yt
-
 msgid "CHANGE_OPTIONS_ON_THEATRE"
 msgstr "You can change these options before upload. To do so, visit:"
 
 # ...please visit: https://flipnot.es/ytsetup
-
 msgid "SET_DEFAULTS_ON_THEATRE"
 msgstr "To change your default upload options, please visit:"
 
@@ -145,7 +143,6 @@ msgid "YOUTUBE_ESTIMATED_DURATION"
 msgstr "Estimated video duration:"
 
 # Extra features provided by Sudomemo Plus (see flipnoteOptions.po)
-
 msgid "PLUS_FEATURES"
 msgstr "Plus Features"
 
@@ -168,7 +165,6 @@ msgid "YOUTUBE_TERMS_AGREEMENT_NOTE"
 msgstr "By submitting your videos to YouTube, you acknowledge that you agree to YouTube's Terms of Service and Community Guidelines."
 
 # We may need to limit uploads per day depending on our API quota usage rate
-
 msgid "YOUTUBE_UPLOAD_LIMIT"
 msgstr "You can currently upload %s videos to YouTube per day."
 
@@ -185,7 +181,6 @@ msgid "YOUTUBE_UPLOAD_LIMIT_EXCEEDED"
 msgstr "You can't upload any more videos until tomorrow."
 
 # If the user's already uploaded it...
-
 msgid "FLIPNOTE_ALREADY_UPLOADED"
 msgstr "You've already uploaded this Flipnote to YouTube."
 
@@ -197,4 +192,3 @@ msgstr "Upload Again"
 
 msgid "YOUTUBE_STATUS_PAUSED_GLOBAL_QUOTA"
 msgstr "Our global usage quota has been exceeded, so the upload may be significantly delayed."
-

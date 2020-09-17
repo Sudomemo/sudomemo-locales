@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: fr_FR\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "EMAIL_SUBJECT_FORMAT"
 msgstr "[Sudomemo] %s vous a ajouté à ses favoris"
 
@@ -21,4 +26,3 @@ msgstr "%s abonné"
 
 msgid "VIEW_PROFILE"
 msgstr "Voir le profil"
-

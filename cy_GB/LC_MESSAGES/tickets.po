@@ -1,5 +1,9 @@
-# Code Redemption
+msgid ""
+msgstr ""
+"Language: cy_GB\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 
+# Code Redemption
 msgid "REDEEM_CODE"
 msgstr "Wneud iawn am côd"
 
@@ -19,7 +23,6 @@ msgid "LOGIN_REQUIRED_REDEEM_CODE"
 msgstr "Rhaid i chi fod mewngofnodi i wneud iawn côd."
 
 # Ticket delivery
-
 msgid "YOU_GOT_A_TICKET"
 msgstr "Mae gennych chi tocyn!"
 
@@ -27,7 +30,6 @@ msgid "CONTINUE"
 msgstr "Parhau"
 
 # InventoryYour inventory is empty
-
 msgid "INVENTORY"
 msgstr "Rhestr Eiddo"
 
@@ -38,7 +40,6 @@ msgid "INVENTORY_IS_EMPTY"
 msgstr "Mae eich rhestr eiddo yn wag."
 
 # Ticket redemption
-
 msgid "TICKET_REDEEM_WIN_FORMAT"
 msgstr "Rydych chi wedi prynu'r %s!"
 
@@ -73,7 +74,6 @@ msgid "SUDOMEMO_PLUS_BALANCE_FORMAT"
 msgstr "Balans: %s dyddiau"
 
 # Each ticket type will have a name and a description 
-
 msgid "TICKET_NAME_demo_ticket"
 msgstr "Tocyn Demo"
 
@@ -114,7 +114,7 @@ msgid "TICKET_NAME_love_anniversary_ticket"
 msgstr "Anniversary Ticket"
 
 # The last character of this message is the DSi symbol for a heart. Don't remove it. [NOTE: Birthday and anniversary are the same word in Welsh].
-msgid "TICKET_DESC_love_anniversary_ticket" 
+msgid "TICKET_DESC_love_anniversary_ticket"
 msgstr "Penblwydd Hapus "
 
 # Sudomemo Plus
@@ -216,4 +216,3 @@ msgstr "Featured Artist Ticket"
 
 msgid "TICKET_DESC_featured_artist_ticket"
 msgstr "We give our warm congratulations to you for becoming a Sudomemo Featured Artist!"
-

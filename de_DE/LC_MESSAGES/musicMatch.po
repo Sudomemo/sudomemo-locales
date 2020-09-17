@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: de_DE\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "HEADER_SONG_DETAILS"
 msgstr "Song-Details"
 
@@ -17,7 +22,6 @@ msgid "GENRE"
 msgstr "Genre"
 
 # How many Flipnotes are using this song?
-
 msgid "FLIPNOTE_COUNT"
 msgstr "Flipnotes"
 
@@ -37,6 +41,5 @@ msgid "LINK_SPOTIFY"
 msgstr "Verfügbarer Spotify-Link:"
 
 # Creator instructions
-
 msgid "IF_SONG_INCORRECT"
 msgstr "Falls ein falscher Song bei deinem Flipnote angegeben ist, kannst du diesen auf Sudomemo Theatre ändern. Besuche https://flipnot.es/musicmatch für weitere Informationen."

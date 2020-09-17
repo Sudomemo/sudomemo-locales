@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: fr_FR\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "HEADER_PREV"
 msgstr "Précédent"
 
@@ -42,4 +47,3 @@ msgstr "Vous ne trouvez pas ce que vous cherchez ? Vous avez peut-être mal écr
 
 msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
 msgstr "Aucun résultat n'a été trouvé, mais un ID similaire existe. Prenez en compte que les ID Flipnotes sont sensibles aux majuscules et minuscules, et n'ont en général que des majuscules et des chiffres."
-

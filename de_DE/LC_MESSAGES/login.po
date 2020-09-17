@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: de_DE\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "BAN_GREETING_FORMAT"
 msgstr "Hello, %s."
 
@@ -246,6 +251,7 @@ msgstr "When you're ready, go ahead and introduce yourself in our Introduction c
 
 msgid "EMAIL_VERIFICATION_ADDRESS_REMOVED"
 msgstr "Sorry about that! We've marked that email address as incorrect, so you shouldn't receive any further emails from Sudomemo."
+
 msgid "THANKS_FOR_LOGIN_PROMPT_INTRO"
 msgstr "Welcome to Sudomemo! Now, let's write a little message to say who you are! (This will be posted as a Flipnote in our Introductions channel.)"
 

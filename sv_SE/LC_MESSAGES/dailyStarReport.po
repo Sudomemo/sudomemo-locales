@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: sv_SE\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "EMAIL_SUBJECT_FORMAT"
 msgstr "[Sudomemo] %s Dagliga Starrapport"
 
@@ -18,4 +23,3 @@ msgstr "Totalt antal Stars mottagna idag."
 
 msgid "TEXT_HOW_TO_VIEW_STAR_ADDERS_DSI"
 msgstr "Använder sig av ditt Nintendo DSi-system, du kan se vem som har lagt till Stars genom att klicka på <strong>Stars</strong> i din Flipnotes informationssida på Sudomemo."
-

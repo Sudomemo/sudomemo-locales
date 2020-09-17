@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: de_DE\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "THEME_SHOP_LOGIN_REQUIRED"
 msgstr "Du musst eingeloggt sein, um den Theme-Shop zu nutzen."
 
@@ -105,4 +110,3 @@ msgstr "Theme-Shop"
 
 msgid "DETAILS"
 msgstr "Details"
-

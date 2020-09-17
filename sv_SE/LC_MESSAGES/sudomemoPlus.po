@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: sv_SE\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 # Sudomemo Plus Legacy Citizenship Activation
 msgid "SUDOMEMO_PLUS_LEGACY_HEADER"
 msgstr "Välkommen till Sudomemo Plus!"
@@ -21,7 +26,6 @@ msgid "CONTINUE"
 msgstr "Fortsätt"
 
 # My Sudomemo Plus
-
 msgid "MANAGE_PLUS_HEADER"
 msgstr "Mitt Sudomemo Plus"
 
@@ -65,7 +69,6 @@ msgid "INCREASED_FOLLOW_LIMIT"
 msgstr "Ökade följargräns - upp till %s Creators"
 
 # Sudomemo Plus Running Low Message
-
 msgid "PLUS_RUNNING_OUT_MSG_TITLE"
 msgstr "Mitt Sudomemo Plus"
 
@@ -80,4 +83,3 @@ msgstr "Glöm inte att du kan tjäna Sudomemo Plus från att bidra ett vinnande 
 
 msgid "PLUS_RUNNING_OUT_MSG_HAPPY_FLIPNOTING"
 msgstr "Glad Flipnoting!"
-

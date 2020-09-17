@@ -1,5 +1,9 @@
-# Code Redemption
+msgid ""
+msgstr ""
+"Language: ja_JP\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 
+# Code Redemption
 msgid "REDEEM_CODE"
 msgstr "引き換えコード"
 
@@ -19,7 +23,6 @@ msgid "LOGIN_REQUIRED_REDEEM_CODE"
 msgstr "コードを引き換えるにはログインする必要があります。"
 
 # Ticket delivery
-
 msgid "YOU_GOT_A_TICKET"
 msgstr "チケットを手に入れました!"
 
@@ -27,7 +30,6 @@ msgid "CONTINUE"
 msgstr "続ける"
 
 # Inventory
-
 msgid "INVENTORY"
 msgstr "チケット一覧"
 
@@ -38,7 +40,6 @@ msgid "INVENTORY_IS_EMPTY"
 msgstr "チケットはありません。"
 
 # Ticket redemption
-
 msgid "TICKET_REDEEM_WIN_FORMAT"
 msgstr "%sを引き換えました!"
 
@@ -73,7 +74,6 @@ msgid "SUDOMEMO_PLUS_BALANCE_FORMAT"
 msgstr "残り日数: %s日"
 
 # Each ticket type will have a name and a description 
-
 msgid "TICKET_NAME_demo_ticket"
 msgstr "デモチケット"
 
@@ -114,7 +114,7 @@ msgid "TICKET_NAME_love_anniversary_ticket"
 msgstr "記念日チケット"
 
 # Anniversary The last character of this message is the DSi symbol for a heart. Don't remove it.
-msgid "TICKET_DESC_love_anniversary_ticket" 
+msgid "TICKET_DESC_love_anniversary_ticket"
 msgstr "記念おめでとう "
 
 # Sudomemo Plus
@@ -216,4 +216,3 @@ msgstr "注目の作者のチケット"
 
 msgid "TICKET_DESC_featured_artist_ticket"
 msgstr "スドメモで注目された作者になったことを心からお祝いします！"
-

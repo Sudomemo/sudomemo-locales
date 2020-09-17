@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: sv_SE\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "FLIPNOTE_OPTIONS"
 msgstr "Flipnotealternativ"
 
@@ -51,4 +56,3 @@ msgstr "Aktivera ljudförbättring"
 
 msgid "DISABLE_AUDIO_ENHANCEMENT"
 msgstr "Avaktivera ljudförbättring"
-

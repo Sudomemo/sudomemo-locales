@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: sv_SE\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "SEE_MORE"
 msgstr "Visa mer..."
 
@@ -174,7 +179,7 @@ msgstr "För att rensa din biografi, lämna formulären tom när du sparar."
 
 msgid "CURRENT_BIO"
 msgstr "Nuvarande bio:"
- 
+
 msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
 msgstr "Du kan inte följa mer än %d användare."
 

@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: ja_JP\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "HEADER_PREV"
 msgstr "前へ"
 
@@ -42,4 +47,3 @@ msgstr "探しているものが見つかりませんか？ 間違って作品ID
 
 msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
 msgstr "結果は見つかりませんでしたが、同じIDが存在します。 うごメモIDは大文字と小文字の区別があることに注意してください。"
-

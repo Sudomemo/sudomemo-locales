@@ -1,15 +1,17 @@
-# Content Removed - sent to user when a piece of their content has been moderated away
+msgid ""
+msgstr ""
+"Language: sv_SE\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 
+# Content Removed - sent to user when a piece of their content has been moderated away
 msgid "NOTICE"
 msgstr "Notering"
 
-## Intro
-
+# # Intro
 msgid "USER_CONTENT_REMOVED"
 msgstr "Något som du publicerade visade sig vara mot Sudomemos innehållspolicy och användarvillkor och har tagits bort."
 
-## Content types
-
+# # Content types
 msgid "CONTENT_TYPE_flipnote"
 msgstr "Flipnote"
 
@@ -19,21 +21,18 @@ msgstr "Kommentar"
 msgid "CONTENT_TYPE_chat_message"
 msgstr "Chattmeddelande"
 
-### We plan on adding user-created themes.
-
+# ## We plan on adding user-created themes.
 msgid "CONTENT_TYPE_room_theme"
 msgstr "Creator's Roomtema"
 
 msgid "CONTENT_TYPE_profile_bio"
 msgstr "Profiltext"
 
-### Catch-all
-
+# ## Catch-all
 msgid "CONTENT_TYPE_content"
 msgstr "Annat innehåll"
 
-## continued message...
-
+# # continued message...
 msgid "REMOVAL_REASON_HEADER"
 msgstr "Detta innehåll har tagits bort på grund av ett eller flera av följande skäl:"
 
@@ -52,8 +51,7 @@ msgstr "Innehållstyp:"
 msgid "CONTENT_ID"
 msgstr "InnehållsID:"
 
-## re-download will be made available for certain content types
-
+# # re-download will be made available for certain content types
 msgid "REDOWNLOAD_HEADER"
 msgstr "Om du vill ändra din %s kan du ladda ner den %s"
 

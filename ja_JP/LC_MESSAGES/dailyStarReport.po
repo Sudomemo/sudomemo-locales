@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: ja_JP\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "EMAIL_SUBJECT_FORMAT"
 msgstr "[スドメモ] %sさんの1日のスターレポート"
 
@@ -18,4 +23,3 @@ msgstr "今日受け取った合計スター数"
 
 msgid "TEXT_HOW_TO_VIEW_STAR_ADDERS_DSI"
 msgstr "ニンテンドーDSiを使用して、スドメモ上のあなたのうごメモの詳細ページで<strong>スター</strong>をタッチすることでスターを追加した人を見ることができます。"
-

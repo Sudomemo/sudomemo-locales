@@ -1,7 +1,10 @@
+msgid ""
+msgstr ""
+"Language: ja_JP\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 # Trophy Case
-
-## UI Headers, messages, labels
-
+# # UI Headers, messages, labels
 msgid "TROPHY_CASE"
 msgstr "トロフィーケース"
 
@@ -14,8 +17,7 @@ msgstr "実績獲得"
 msgid "CONTINUE"
 msgstr "続ける"
 
-## Trophy names and descriptions
-
+# # Trophy names and descriptions
 msgid "TROPHY_NAME_demo_tester"
 msgstr "デモテスター"
 
