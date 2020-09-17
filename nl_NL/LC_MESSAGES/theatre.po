@@ -52,7 +52,6 @@ msgstr "l j F, Y"
 # Used for Flipnote Details
 # Now in Dutch:
 #   08:23:07, 29 November 2019
-#   08:23:07, 29 November 2019
 # (English and Dutch are the same in this case.)
 # Once again, will PHP use the Dutch names for the days and the month?
 msgid "DATETIME_MONTH_DAY_ORDINAL_HOUR_MINUTE_SECOND_FORMAT"
@@ -740,7 +739,6 @@ msgstr "Trophy Case"
 
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "Untitled Flipnote by %s"
-
 
 # Account Settings (Theatre)
 
