@@ -42,7 +42,7 @@ for lang in $(echo ??_?? | tr ' ' '\n' | grep $LANGFILTER); do
         if [ $? -ne 0 ]; then
             echo "Check the formatting for $lang/LC_MESSAGES/$domain"
             exit 1
-        fi        
+        fi
 
         # Missing/extra strings?
 
@@ -52,15 +52,17 @@ for lang in $(echo ??_?? | tr ' ' '\n' | grep $LANGFILTER); do
         COMPARE_MISSING=$(comm -23 <(echo "$ENG_MSGID_LIST") <(echo "$NEW_MSGID_LIST"))
         COMPARE_EXTRA=$(comm -23 <(echo "$NEW_MSGID_LIST") <(echo "$ENG_MSGID_LIST"))
 
-        if [ ! -z $COMPARE_MISSING ]; then
+        if [ ! -z "$COMPARE_MISSING" ]; then
             echo "$lang/LC_MESSAGES/$domain is missing msgid's present in en_US/LC_MESSAGES/$domain :"
             echo "$COMPARE_MISSING"
+            echo "Please fix before continuing."
             exit 1
         fi
 
-        if [ ! -z $COMPARE_EXTRA ]; then
+        if [ ! -z "$COMPARE_EXTRA" ]; then
             echo "$lang/LC_MESSAGES/$domain has extra msgid's compared to en_US/LC_MESSAGES/$domain :"
             echo "$COMPARE_EXTRA"
+            echo "Please fix before continuing."
             exit 1
         fi
 
@@ -84,8 +86,8 @@ for lang in $(echo ??_?? | tr ' ' '\n' | grep $LANGFILTER); do
 
         if [[ $lang =~ $SKIP_DIFF_REGEX ]]; then
             echo "Skipping comparison for $domain: $lang is an English variant"
-            continue;
-        fi;
+            continue
+        fi
 
         RESULTS=$(diff --unchanged-line-format='%L' --old-line-format='' --new-line-format='' en_US/LC_MESSAGES/$domain $lang/LC_MESSAGES/$domain | sed '/^$/d' | grep -B1 msgstr | grep -Po "^msgid..\K.+?(?=\")" | awk '{print "- " $1}')
         if [ ! -z "$RESULTS" ]; then
