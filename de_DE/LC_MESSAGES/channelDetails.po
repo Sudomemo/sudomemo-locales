@@ -31,5 +31,8 @@ msgstr "Die Flipnote-Datei ist beschädigt! Versuche es später erneut."
 msgid "NO_BLANK_FLIPNOTES_ALLOWED"
 msgstr "Du kannst keine leeren Flipnotes posten."
 
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "Please confirm your email before posting."
+
 msgid "NO_POSTS_WHILE_MUTED"
 msgstr "Du kannst nichts hochladen, solange du stummgeschalten bist."

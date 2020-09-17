@@ -58,6 +58,9 @@ msgstr "Du wurdest von Sudomemo gebannt."
 msgid "DUPLICATE_COMMENT_FAILED"
 msgstr "Dieser Kommentar wurde schon auf Sudomemo hochgeladen."
 
+msgid "CONFIRM_EMAIL_BEFORE_REPORTING"
+msgstr "Please confirm your email before reporting content."
+
 msgid "THANKS_FOR_REPORTING"
 msgstr "Wir haben deine Meldung erhalten. Vielen Dank für deine Kooperation zur Aufrechterhaltung von Sudomemo!"
 

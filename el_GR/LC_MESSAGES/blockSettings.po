@@ -49,7 +49,7 @@ msgstr "Εχετε ξεμπλοκαρει αυτον τον χρηστη."
 msgid "COMMENTING_ENABLED_AFTER_UNBLOCK"
 msgstr "Αφου ξεμπλοκαρετε τον χρηστη αυτον, θα μπορειτε να σχολιαζετε ξανα στα Flipnotes του, εκτοs και εαν σαs εχει μπλοκαρει και ο ιδιοs."
 
-msgid "UNBLOCK_WARNING_ONE_DAY_THRESHOL"
+msgid "UNBLOCK_WARNING_ONE_DAY_THRESHOLD"
 msgstr "Εαν τουs ξεμπλοκαρετε, θα πρεπει να περιμενετε 24 ωρεs πριν να μπορειτε να τουs μπλοκαρετε ξανα."
 
 msgid "CONFIRM_UNBLOCK"
