@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: es_ES\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "HEADER_UPLOAD_TO_YOUTUBE"
 msgstr "Subir a YouTube"
 
@@ -14,7 +19,6 @@ msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
 msgstr "Tu cuenta de YouTube no está verificada. Ciertas caracteristicas no funcionaran correctamente, tales como miniaturas de vídeos y Flipnotes con una duración mayor a 15 minutos."
 
 # Para arreglar esto, visita: https://flipnot.es/ytsetup
-
 msgid "YOUTUBE_ACCOUNT_VERIFICATION_FIX"
 msgstr "Para arreglar esto, visita:"
 
@@ -25,7 +29,6 @@ msgid "TITLE_DESC_ADD_FIRST"
 msgstr "Por favor, regresa atrás y añade esto antes de continuar."
 
 # A URL is displayed after this:
-
 msgid "HOW_TO_LINK_FROM_THEATRE"
 msgstr "Para vincular tu canal de YouTube, visita esta página:"
 
@@ -33,7 +36,6 @@ msgid "HOW_TO_REFRESH_FROM_THEATRE"
 msgstr "Para actualizar tu canal, visita esta página:"
 
 # Preview upload details before submitting
-
 msgid "PREVIEW_TITLE"
 msgstr "Título"
 
@@ -74,7 +76,6 @@ msgid "SUBMIT"
 msgstr "Enviar"
 
 # Upload status
-
 msgid "UPLOAD_STATUS"
 msgstr "Estado de la carga"
 
@@ -82,7 +83,6 @@ msgid "YOUTUBE_PENDING_UPLOAD"
 msgstr "Tu Flipnote está esperando a ser cargada en este momento. Revisa de nuevo en unos minutos."
 
 # Position in queue: 4
-
 msgid "POSITION_IN_QUEUE"
 msgstr "Posición en cola: %d"
 
@@ -93,12 +93,10 @@ msgid "REVIEW_DETAILS_BEFORE_UPLOAD"
 msgstr "Por favor, revisa estas opciones antes de empezar tu carga."
 
 # ...do so, visit https://flipnot.es/ABC123/yt
-
 msgid "CHANGE_OPTIONS_ON_THEATRE"
 msgstr "Puedes cambiar estas opciones antes de subir. Para hacer esto, visita:"
 
 # ...please visit: https://flipnot.es/ytsetup
-
 msgid "SET_DEFAULTS_ON_THEATRE"
 msgstr "Para cambiar tus opciones de carga por defecto, por favor visita:"
 
@@ -145,7 +143,6 @@ msgid "YOUTUBE_ESTIMATED_DURATION"
 msgstr "Duración estimada del vídeo:"
 
 # Extra features provided by Sudomemo Plus (see flipnoteOptions.po)
-
 msgid "PLUS_FEATURES"
 msgstr "Características Plus"
 
@@ -168,7 +165,6 @@ msgid "YOUTUBE_TERMS_AGREEMENT_NOTE"
 msgstr "Al subir tus vídeos a YouTube, estás de acuerdo con los Terminos y Condiciones de Servicio de YouTube y los Principios de la Comunidad."
 
 # We may need to limit uploads per day depending on our API quota usage rate
-
 msgid "YOUTUBE_UPLOAD_LIMIT"
 msgstr "Por el momento, puedes subir %s vídeos por día a YouTube."
 
@@ -185,7 +181,6 @@ msgid "YOUTUBE_UPLOAD_LIMIT_EXCEEDED"
 msgstr "No puedes subir más vídeos hasta mañana."
 
 # If the user's already uploaded it...
-
 msgid "FLIPNOTE_ALREADY_UPLOADED"
 msgstr "Ya has subido anteriormente esta Flipnote a YouTube."
 
@@ -197,4 +192,3 @@ msgstr "Subir de nuevo"
 
 msgid "YOUTUBE_STATUS_PAUSED_GLOBAL_QUOTA"
 msgstr "Nuestra cuota global de uso ha sido excedida, por lo cual tu carga ha sido significantemente atrasada."
-

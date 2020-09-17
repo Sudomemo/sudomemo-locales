@@ -1,15 +1,17 @@
-# Content Report Accepted - sent to user who has correctly reported content
+msgid ""
+msgstr ""
+"Language: fr_FR\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 
+# Content Report Accepted - sent to user who has correctly reported content
 msgid "NOTICE"
 msgstr "Avis"
 
-## Intro
-
+# # Intro
 msgid "REPORT_ACCEPTED"
 msgstr "Nous avons examiné un signalement de contenu que vous avez envoyé et nous l'avons jugé valide."
 
-## Content types
-
+# # Content types
 msgid "CONTENT_TYPE_flipnote"
 msgstr "Flipnote"
 
@@ -19,26 +21,22 @@ msgstr "Commentaire"
 msgid "CONTENT_TYPE_chat_message"
 msgstr "Message de chat"
 
-### We plan on adding user-created themes.
-
+# ## We plan on adding user-created themes.
 msgid "CONTENT_TYPE_room_theme"
 msgstr "Thème pour la salle de créateur"
 
 msgid "CONTENT_TYPE_profile_bio"
 msgstr "Texte du profil"
 
-### Catch-all
-
+# ## Catch-all
 msgid "CONTENT_TYPE_content"
 msgstr "Autre contenu"
 
-## continued message...
-
+# # continued message...
 msgid "REPORT_ACCEPTED_CONTINUED"
 msgstr "Par conséquent, le contenu a été supprimé."
 
 # this message is followed by a link
-
 msgid "REPORT_ACCEPTED_INFO"
 msgstr "Des rapports comme le vôtre contribuent à faire de Sudomemo un endroit sûr et accueillant pour tout le monde. Si vous souhaitez en savoir plus sur notre Politique de contenu, vous pouvez le faire ici :"
 

@@ -1,15 +1,17 @@
-# Content Removed - sent to user when a piece of their content has been restored
+msgid ""
+msgstr ""
+"Language: sv_SE\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 
+# Content Removed - sent to user when a piece of their content has been restored
 msgid "NOTICE"
 msgstr "Notering"
 
-## Intro
-
+# # Intro
 msgid "USER_CONTENT_RESTORED"
 msgstr "Något du publicerat som tidigare har tagits bort har återställts efter ytterligare granskning."
 
-## Content types
-
+# # Content types
 msgid "CONTENT_TYPE_flipnote"
 msgstr "Flipnote"
 
@@ -19,21 +21,18 @@ msgstr "Kommentar"
 msgid "CONTENT_TYPE_chat_message"
 msgstr "Chattmeddelande"
 
-### We plan on adding user-created themes.
-
+# ## We plan on adding user-created themes.
 msgid "CONTENT_TYPE_room_theme"
 msgstr "Creator's Roomtema"
 
 msgid "CONTENT_TYPE_profile_bio"
 msgstr "Profiltext"
 
-### Catch-all
-
+# ## Catch-all
 msgid "CONTENT_TYPE_content"
 msgstr "Annat innehål"
 
-## continued message...
-
+# # continued message...
 msgid "CONTENT_RESTORED_CONTINUED"
 msgstr "Innehållet har återställts för allmänheten och det finns inget mer du behöver göra."
 

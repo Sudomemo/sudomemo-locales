@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: el_GR\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "SEE_MORE"
 msgstr "Δειτε περισσοτερα..."
 
@@ -174,7 +179,7 @@ msgstr "To clear your biography, leave the form blank when submitting."
 
 msgid "CURRENT_BIO"
 msgstr "Current Bio:"
- 
+
 msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
 msgstr "You can't follow more than %d users."
 

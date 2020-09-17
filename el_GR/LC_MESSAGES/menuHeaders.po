@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: el_GR\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "GET_STARTED"
 msgstr "Get Started"
 
@@ -37,9 +42,8 @@ msgstr "Αναζητηση Χρηστη"
 msgid "SEARCH_FLIPNOTE"
 msgstr "Αναζητηση Flipnote"
 
-#msgid "ABOUT_SUDOMEMO"
-#msgstr "Βοηθεια Sudomemo"
-
+# msgid "ABOUT_SUDOMEMO"
+# msgstr "Βοηθεια Sudomemo"
 msgid "RELOAD_USER"
 msgstr "Reload Χρηστη"
 

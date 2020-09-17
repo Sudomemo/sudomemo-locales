@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: sv_SE\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
 msgstr "Du måste logga in för att se den här sidan"
 
@@ -15,4 +20,3 @@ msgstr "FlipnoteID"
 
 msgid "UNREAD"
 msgstr "Oläst"
-

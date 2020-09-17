@@ -1,5 +1,9 @@
-# This file contains most of the translations for Sudomemo Theatre.
+msgid ""
+msgstr ""
+"Language: ja_JP\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 
+# This file contains most of the translations for Sudomemo Theatre.
 # Meta tags, descriptions, etc
 msgid "SUDOMEMO"
 msgstr "スドメモ"
@@ -25,9 +29,8 @@ msgstr "スドメモ：うごメモはてなを再び！"
 msgid "VIEWPAGE_COMMENT_TEXTBOX"
 msgstr "コメントを入力"
 
-## "Username - 3 fans, 25 Flipnotes on Sudomemo"
-## Not going to bother making plural variants
-
+# # "Username - 3 fans, 25 Flipnotes on Sudomemo"
+# # Not going to bother making plural variants
 msgid "PROFILE_DEFAULT_DESCRIPTION"
 msgstr "%s - %sファン、%s作品 on スドメモ"
 
@@ -36,7 +39,6 @@ msgstr "%s - %sファン、%s作品 on スドメモ"
 # These are named after what they are in "American"-style format.
 # Follow this guide: https://www.php.net/manual/en/function.date.php
 # Test with this tool: http://php.fnlist.com/date_time/date
-
 # Wednesday, December 3rd, 2019
 # Used for news articles
 msgid "DATETIME_WEEKDAY_MONTH_DAY_ORDINAL_YEAR_FORMAT"
@@ -48,7 +50,6 @@ msgid "DATETIME_MONTH_DAY_ORDINAL_HOUR_MINUTE_SECOND_FORMAT"
 msgstr "Y/m/d h:i:s"
 
 # Very common terms and one-word translations
-
 msgid "ARTIST"
 msgstr "アーティスト"
 
@@ -199,7 +200,6 @@ msgid "VIEWS"
 msgstr "えつらん回数"
 
 # For MusicMatch
-
 msgid "SONG"
 msgstr "BGM"
 
@@ -207,7 +207,6 @@ msgid "SUDOMEMO_PLUS"
 msgstr "スドメモプラス"
 
 # Navbar
-
 msgid "NAVBAR_TOGGLE_NAVIGATION"
 msgstr "ナビゲーションの切り替え"
 
@@ -268,17 +267,16 @@ msgstr "規約違反を通報"
 msgid "NAVBAR_ITEM_SWITCH_TO_USER_ACCOUNT"
 msgstr "アカウントを切り替える"
 
-## Switch to dark mode
+# # Switch to dark mode
 msgid "NAVBAR_ITEM_LIGHTS_OFF"
 msgstr "ダークテーマ"
 
-## Switch to light mode
+# # Switch to light mode
 msgid "NAVBAR_ITEM_LIGHTS_ON"
 msgstr "ライトテーマ"
+
 # Front Page
-
-## Alt tags, aria labels
-
+# # Alt tags, aria labels
 msgid "ALT_WEEKLY_TOPIC_BANNER"
 msgstr "「今週のお題」宣伝バナー"
 
@@ -288,8 +286,7 @@ msgstr "%sさんのプロフィール画像"
 msgid "ALT_DRAWN_COMMENT_BY_USER"
 msgstr "%sさんのコメント"
 
-## Welcome to Sudomemo Box
-
+# # Welcome to Sudomemo Box
 msgid "WELCOME_BOX_GREET_ADMIN"
 msgstr "お疲れ様です、%sさん"
 
@@ -299,10 +296,9 @@ msgstr "管理者権限でログインしています。"
 msgid "WELCOME_BOX_OPEN_SUDOMIN"
 msgstr "Sudominを開く"
 
-### Our welcome box can change it's greeting, depending on time of day.
-### It is displayed like this:
-### Good afternoon, User! Happy Flipnoting!
-
+# ## Our welcome box can change it's greeting, depending on time of day.
+# ## It is displayed like this:
+# ## Good afternoon, User! Happy Flipnoting!
 msgid "WELCOME_BOX_DEFAULT_GREETING"
 msgstr "こんにちは"
 
@@ -315,17 +311,15 @@ msgstr "こんにちは"
 msgid "WELCOME_BOX_EVENING_GREETING"
 msgstr "こんばんは"
 
-### "Happy Flipnoting!" is one of our brand catchphrases. "Flipnoting" refers to the act of creating or watching Flipnotes.
-### Please don't translate "Flipnoting", except to Japanese where you could probably modify the word うごメモ.
-
+# ## "Happy Flipnoting!" is one of our brand catchphrases. "Flipnoting" refers to the act of creating or watching Flipnotes.
+# ## Please don't translate "Flipnoting", except to Japanese where you could probably modify the word うごメモ.
 msgid "WELCOME_BOX_USERNAME_HAPPY_FLIPNOTING"
 msgstr "、%s！ ハッピーうごライフ！"
 
 msgid "WELCOME_BOX_WELCOME_TO"
 msgstr "ようこそ"
 
-### Another one of our taglines 
-
+# ## Another one of our taglines 
 msgid "WELCOME_BOX_SHARE_CREATIVITY_TAGLINE"
 msgstr "作ったメモを世界に発信しよう！"
 
@@ -336,12 +330,10 @@ msgid "WELCOME_BOX_HOW_TO_JOIN"
 msgstr "設定方法はこちら"
 
 # Give, in the same sense as "Donate"
-
 msgid "WELCOME_BOX_GIVE"
 msgstr "支援"
 
-## Flipnote sections
-
+# # Flipnote sections
 msgid "FLIPNOTE_LIST_RECALCULATING"
 msgstr "現在ランキングの集計中です。しばらく待ってから再度読み込んでください。"
 
@@ -360,13 +352,11 @@ msgstr "ランダム"
 msgid "FEATURED_FLIPNOTES"
 msgstr "注目作品"
 
-## Flipnote by...
-
+# # Flipnote by...
 msgid "FLIPNOTE_BY_FORMAT"
 msgstr "%sさんの作品"
 
-## Comments section
-
+# # Comments section
 msgid "VIEWPAGE_COMMENT_WRITE_HERE"
 msgstr "ここに入力してください"
 
@@ -379,26 +369,24 @@ msgstr "運営コメントを送信"
 msgid "VIEWPAGE_MODERATOR_COMMENT_WARNING"
 msgstr "個人的なコメントは送信しないでください"
 
-### This is composed of two parts: SIGN_IN and TO_ADD_A_COMMENT
-### SIGN_IN is a link to the login page, and TO_ADD_A_COMMENT is the part that comes after.
-### It reads as follows: Sign in to add a comment
-
+# ## This is composed of two parts: SIGN_IN and TO_ADD_A_COMMENT
+# ## SIGN_IN is a link to the login page, and TO_ADD_A_COMMENT is the part that comes after.
+# ## It reads as follows: Sign in to add a comment
 msgid "TO_ADD_A_COMMENT"
 msgstr "コメントを送信"
 
-### When the Post Comment button is pressed, it changes to "Posting..." and then "Posted!" when complete.
+# ## When the Post Comment button is pressed, it changes to "Posting..." and then "Posted!" when complete.
 msgid "VIEWPAGE_COMMENT_POSTING"
 msgstr "送信中…"
 
 msgid "VIEWPAGE_COMMENT_POSTED"
 msgstr "送信しました！"
 
-### This can happen in cases of network failure or if the comment is rejected
+# ## This can happen in cases of network failure or if the comment is rejected
 msgid "VIEWPAGE_COMMENT_FAILED"
 msgstr "コメントの送信に失敗しました…"
 
-## Right sidebar
-
+# # Right sidebar
 msgid "FRONTPAGE_FLIPNOTE_SPOTLIGHT"
 msgstr "注目作品"
 
@@ -406,7 +394,6 @@ msgid "FRONTPAGE_TRENDING_CREATORS"
 msgstr "作者ランキング"
 
 # Flipnote View Page
-
 msgid "EDIT_FLIPNOTE"
 msgstr "編集"
 
@@ -442,10 +429,8 @@ msgstr "Redditで共有"
 msgid "VIEWPAGE_SPINOFFS"
 msgstr "子作品"
 
-## MusicMatch
-
-### Where the Flipnote's audio starts at in the song
-
+# # MusicMatch
+# ## Where the Flipnote's audio starts at in the song
 msgid "MUSICMATCH_AUDIO_OFFSET"
 msgstr "%s~"
 
@@ -458,8 +443,7 @@ msgstr "Spotifyで聴く"
 msgid "MUSICMATCH_ABOUT"
 msgstr "MusicMatchについて"
 
-## Original Flipnote / Spinoffs
-
+# # Original Flipnote / Spinoffs
 msgid "VIEWPAGE_ORIGINAL_FLIPNOTE"
 msgstr "親作品"
 
@@ -467,12 +451,10 @@ msgid "VIEWPAGE_ORIGINAL_FLIPNOTE_NOT_ON_SUDOMEMO"
 msgstr "親作品が見つかりませんでした。"
 
 # This shows as "by User" underneath the Flipnote thumbnail
-
 msgid "VIEWPAGE_RELATED_FLIPNOTE_BY"
 msgstr "by %s"
 
 # Creator's Room (Profile)
-
 msgid "FOLLOWS_YOU"
 msgstr "あなたのファンです"
 
@@ -488,28 +470,26 @@ msgstr "お気に入りに追加"
 msgid "FOLLOWERS"
 msgstr "ファン"
 
-## はてなID
+# # はてなID
 msgid "HATENA_ID"
 msgstr "はてなID"
 
 msgid "PROFILE_ABOUT_USERNAME"
 msgstr "%sさんのプロフィール"
 
-## User's ★ are from:
+# # User's ★ are from:
 msgid "PROFILE_STAR_COUNTRY_HEADER"
 msgstr "★をもらった国"
 
-## Recent comments on their Flipnotes
-
+# # Recent comments on their Flipnotes
 msgid "PROFILE_RECENT_COMMENTS"
 msgstr "最近ついたコメント"
 
-## channels that the user posts in most often
+# # channels that the user posts in most often
 msgid "PROFILE_USER_POSTS_IN"
 msgstr "投稿したチャンネル"
 
 # Search page
-
 msgid "SEARCH_SUDOMEMO"
 msgstr "検索"
 
@@ -525,12 +505,11 @@ msgstr "見つかりませんでした。"
 msgid "SEARCH_PAGE_TOO_MANY_MATCHED"
 msgstr "検索結果が多すぎます。キーワードを増やして試してください。"
 
-## User hasn't posted any Flipnotes yet
+# # User hasn't posted any Flipnotes yet
 msgid "SEARCH_PAGE_NO_FLIPNOTES_YET"
 msgstr "まだ作品を投稿していません"
 
 # Edit Flipnote page
-
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "編集中"
 
@@ -571,8 +550,7 @@ msgstr "文字、数字、記号を40字まで使用できます。"
 msgid "EDIT_PAGE_DESCRIPTION_TOOLTIP"
 msgstr "文字、数字、記号を320文字まで使用できます。"
 
-## MusicMatch
-
+# # MusicMatch
 msgid "EDIT_PAGE_ABOUT_MUSICMATCH_1"
 msgstr "スドメモMusicMatchは作品に使用されたBGMを自動で識別します！"
 
@@ -604,28 +582,25 @@ msgid "EDIT_PAGE_MUSICMATCH_PREVIEW_ON_SPOTIFY"
 msgstr "Spotifyで聴く"
 
 # Browse Song
-
 msgid "BROWSE_SONG_NO_FLIPNOTES_YET"
 msgstr "この曲が使われた作品はまだありません。"
 
-## Referring to a music label/publishing company
+# # Referring to a music label/publishing company
 msgid "MUSIC_LABEL"
 msgstr "レーベル"
 
 # Browse Channel
-
 msgid "BROWSE_CHANNEL_NO_FLIPNOTES_YET"
 msgstr "このチャンネルに投稿された作品はまだありません。"
 
-## Posting permissions
+# # Posting permissions
 msgid "CHANNEL_PERM_CLOSED"
 msgstr "閉じる"
 
 msgid "CHANNEL_PERM_OPEN"
 msgstr "開く"
 
-## categories
-
+# # categories
 msgid "CHANNEL_CAT_NAME_NONE"
 msgstr "なし"
 
@@ -654,7 +629,6 @@ msgid "CHANNEL_CAT_NAME_WEEKLY_TOPIC"
 msgstr "今週のお題"
 
 # 404 Page
-
 msgid "404_OOPS_NOT_FOUND"
 msgstr "エラー！ページが見つかりませんでした"
 
@@ -665,7 +639,6 @@ msgid "404_GO_BACK"
 msgstr "スドメモシアターに戻る"
 
 # Sudomemo Shop
-
 msgid "TICKETS"
 msgstr "チケット"
 
@@ -681,10 +654,8 @@ msgstr "スドメモプラスでできることについて詳しくはこちら
 msgid "SUDOMEMO_SHOP_ALL_ABOUT_PLUS"
 msgstr "スドメモプラスについて"
 
-## Ticket types..
-
+# # Ticket types..
 # Login Page
-
 msgid "LOGIN_FAILED_CHECK_DETAILS"
 msgstr "ログインできませんでした。入力内容を確認してもう一度送信してください"
 
@@ -704,7 +675,6 @@ msgid "NINTENDO_3DS"
 msgstr "Nintendo 3DS"
 
 # Additional things
-
 # See Flipnotes with the song <song name> by <band/artist name>
 msgid "BROWSE_SONG_YOU_ARE_BROWSING_SONG"
 msgstr "%s / %sが使われている作品"
@@ -713,12 +683,10 @@ msgid "TROPHY_CASE"
 msgstr "トロフィーケース"
 
 # This is shown to logged-in users on their own Flipnotes without titles
-
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "%sさんの無題の作品"
 
 # Account Settings (Theatre)
-
 msgid "ACCOUNT_SETTINGS"
 msgstr "アカウント設定"
 
@@ -753,9 +721,7 @@ msgid "YOUTUBE_ACCOUNT_VERIFICATION_FIX_NOW"
 msgstr "いますぐ修正"
 
 # YouTube metadata
-
 # Extra description text: will be placed at the end of your video descriptions. 
-
 msgid "YOUTUBE_DEFAULT_SETTINGS_EXPLANATION"
 msgstr "これらの設定は、ニンテンドーDSiまたは3DSから作品をアップロードするときに自動的に入力されます。 スドメモシアターからアップロードする場合は、アップロードを開始する前に、これらの設定を変更または確認するように求められます。"
 
@@ -793,9 +759,7 @@ msgid "YOUTUBE_VISIBILITY_PRIVATE"
 msgstr "非公開"
 
 # Upload page specifics
-
 # Upload to YouTube header
-
 msgid "HEADER_UPLOAD_TO_YOUTUBE"
 msgstr "YouTubeにアップロード"
 
@@ -815,7 +779,6 @@ msgid "SUBMIT"
 msgstr "送信"
 
 # Upload status
-
 msgid "UPLOAD_STATUS"
 msgstr "アップロード状態"
 
@@ -823,7 +786,6 @@ msgid "YOUTUBE_PENDING_UPLOAD"
 msgstr "作品がアップロードされるのを待っています。時間を空けてご確認ください。"
 
 # Added to the queue at: 2020-07-08 02:46:38
-
 msgid "YOUTUBE_ADDED_TO_QUEUE_AT"
 msgstr "キューに追加されました:"
 
@@ -888,7 +850,6 @@ msgid "YOUTUBE_ESTIMATED_DURATION"
 msgstr "推定される動画の長さ:"
 
 # Position in queue: 4 - means there are three uploads ahead of yours
-
 msgid "YOUTUBE_POSITION_IN_QUEUE"
 msgstr "キュー内の位置:"
 
@@ -899,7 +860,6 @@ msgid "YOUTUBE_UPLOAD_HISTORY_CLICK_ICON_TO_TRACK"
 msgstr "左側のステータスアイコンをクリックして、動画のライブアップロードトラッカーにアクセスしてください"
 
 # We may need to limit uploads per day depending on our API quota usage rate
-
 msgid "YOUTUBE_UPLOAD_LIMIT"
 msgstr "現在、1日につき%s本の動画をYouTubeにアップロードすることができます。"
 

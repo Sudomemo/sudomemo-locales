@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: es_ES\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "EMAIL_SUBJECT"
 msgstr "Confirmación de Registro de Sudomemo"
 
@@ -15,4 +20,3 @@ msgstr "¡Presione <a target=\"_blank\" href=\"%s\">Aquí</a> para continuar!"
 
 msgid "TEXT_URL_PLAIN_DISPLAY"
 msgstr "También puedes copiar y pegar esta URL en una nueva ventana:"
-

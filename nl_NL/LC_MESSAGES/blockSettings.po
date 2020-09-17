@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: nl_NL\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "LOGIN_REQUIRED_TO_MANAGE_BLOCKS"
 msgstr "Je moet ingelogd zijn om geblokkeerde gebruikers te beheren."
 
@@ -40,7 +45,7 @@ msgstr "Druk op Terug om terug te gaan naar jouw Makersruimte"
 msgid "UNBLOCK_USER"
 msgstr "Deblokkeer Gebruiker"
 
-msgid "CANNOT_UNBLOCK_NONBLOCKED_USER" 
+msgid "CANNOT_UNBLOCK_NONBLOCKED_USER"
 msgstr "Je kan deze gebruiker niet deblokkeren, omdat deze niet geblokkeerd is!"
 
 msgid "USER_HAS_BEEN_UNBLOCKED"

@@ -1,7 +1,10 @@
+msgid ""
+msgstr ""
+"Language: es_ES\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 # Trophy Case
-
-## UI Headers, messages, labels
-
+# # UI Headers, messages, labels
 msgid "TROPHY_CASE"
 msgstr "Vitrina de Trofeos"
 
@@ -14,8 +17,7 @@ msgstr "¡Logro Obtenido!"
 msgid "CONTINUE"
 msgstr "Continuar"
 
-## Trophy names and descriptions
-
+# # Trophy names and descriptions
 msgid "TROPHY_NAME_demo_tester"
 msgstr "Probador Demo"
 

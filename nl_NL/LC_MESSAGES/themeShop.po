@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: nl_NL\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "THEME_SHOP_LOGIN_REQUIRED"
 msgstr "Je moet ingelogd zijn om toegang te hebben tot de Themawinkel"
 
@@ -105,4 +110,3 @@ msgstr "Themawinkel"
 
 msgid "DETAILS"
 msgstr "Details"
-

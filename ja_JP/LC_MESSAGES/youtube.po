@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: ja_JP\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "HEADER_UPLOAD_TO_YOUTUBE"
 msgstr "YouTubeにアップロード"
 
@@ -14,7 +19,6 @@ msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
 msgstr "YouTubeのアカウントが未確認の状態です。サムネイルの設定や15分を超える作品など、確認が必要な機能はご利用になれません。"
 
 # To fix this, visit: https://flipnot.es/ytsetup
-
 msgid "YOUTUBE_ACCOUNT_VERIFICATION_FIX"
 msgstr "修正するには、次のURLにアクセスしてください。"
 
@@ -25,7 +29,6 @@ msgid "TITLE_DESC_ADD_FIRST"
 msgstr "続行する前にこれらを追加してください。"
 
 # A URL is displayed after this:
-
 msgid "HOW_TO_LINK_FROM_THEATRE"
 msgstr "YouTubeチャンネルと連携するには、このページにアクセスしてください:"
 
@@ -33,7 +36,6 @@ msgid "HOW_TO_REFRESH_FROM_THEATRE"
 msgstr "チャンネルを更新するには、このページにアクセスしてください:"
 
 # Preview upload details before submitting
-
 msgid "PREVIEW_TITLE"
 msgstr "タイトル"
 
@@ -74,7 +76,6 @@ msgid "SUBMIT"
 msgstr "送信"
 
 # Upload status
-
 msgid "UPLOAD_STATUS"
 msgstr "アップロード状態"
 
@@ -82,7 +83,6 @@ msgid "YOUTUBE_PENDING_UPLOAD"
 msgstr "作品がアップロードされるのを待っています。時間を空けてご確認ください。"
 
 # Position in queue: 4
-
 msgid "POSITION_IN_QUEUE"
 msgstr "進行状態: %d"
 
@@ -93,12 +93,10 @@ msgid "REVIEW_DETAILS_BEFORE_UPLOAD"
 msgstr "アップロードを開始する前にこれらのオプションを確認してください"
 
 # ...do so, visit https://flipnot.es/ABC123/yt
-
 msgid "CHANGE_OPTIONS_ON_THEATRE"
 msgstr "アップロードする前にこれらのオプションを変更できます。 これを行うには:"
 
 # ...please visit: https://flipnot.es/ytsetup
-
 msgid "SET_DEFAULTS_ON_THEATRE"
 msgstr "デフォルトのアップロードオプションを変更するには、次のURLにアクセスしてください:"
 
@@ -145,7 +143,6 @@ msgid "YOUTUBE_ESTIMATED_DURATION"
 msgstr "推定される動画の長さ:"
 
 # Extra features provided by Sudomemo Plus (see flipnoteOptions.po)
-
 msgid "PLUS_FEATURES"
 msgstr "その他機能"
 
@@ -168,7 +165,6 @@ msgid "YOUTUBE_TERMS_AGREEMENT_NOTE"
 msgstr "動画をYouTubeに送信すると、YouTubeの利用規約とコミュニティガイドラインに同意したことになります。"
 
 # We may need to limit uploads per day depending on our API quota usage rate
-
 msgid "YOUTUBE_UPLOAD_LIMIT"
 msgstr "現在、1日につき%s本の動画をYouTubeにアップロードすることができます。"
 
@@ -185,7 +181,6 @@ msgid "YOUTUBE_UPLOAD_LIMIT_EXCEEDED"
 msgstr "これ以上動画をアップロードできません。明日までお待ちください。"
 
 # If the user's already uploaded it...
-
 msgid "FLIPNOTE_ALREADY_UPLOADED"
 msgstr "この作品はすでにYouTubeにアップロードされています。"
 
@@ -197,4 +192,3 @@ msgstr "もう一度アップロード"
 
 msgid "YOUTUBE_STATUS_PAUSED_GLOBAL_QUOTA"
 msgstr "グローバル利用枠を超えてしまったため、アップロードが大幅に遅れる可能性があります。"
-

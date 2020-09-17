@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: nl_NL\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "FLIPNOTE_OPTIONS"
 msgstr "Flipnoteopties"
 
@@ -51,4 +56,3 @@ msgstr "Schakel geluidsverbetering in"
 
 msgid "DISABLE_AUDIO_ENHANCEMENT"
 msgstr "Schakel geluidsverbetering uit"
-

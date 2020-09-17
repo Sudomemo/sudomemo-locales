@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: ja_JP\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "TIMESTAMP_FORMAT"
 msgstr "Y年m月d日 H:i:s"
 
@@ -110,7 +115,6 @@ msgid "HEADER_SONG"
 msgstr "曲"
 
 # This is shown to logged-in users on their own Flipnotes without titles
-
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "%sさんの作品"
 

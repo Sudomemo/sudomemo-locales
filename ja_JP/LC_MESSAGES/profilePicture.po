@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: ja_JP\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "SET_PROFILE_PICTURE"
 msgstr "プロフィール画像を設定する"
 
@@ -27,4 +32,3 @@ msgstr "キャンセル"
 
 msgid "LOGIN_REQUIRED_TO_CHANGE"
 msgstr "You must be logged in to change your profile picture."
-

@@ -1,15 +1,17 @@
-# Content Removed - sent to user when a piece of their content has been restored
+msgid ""
+msgstr ""
+"Language: fr_FR\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 
+# Content Removed - sent to user when a piece of their content has been restored
 msgid "NOTICE"
 msgstr "Avis"
 
-## Intro
-
+# # Intro
 msgid "USER_CONTENT_RESTORED"
 msgstr "Quelque chose que vous avez posté qui a été précemment supprimé a été restauré après un nouvel examen."
 
-## Content types
-
+# # Content types
 msgid "CONTENT_TYPE_flipnote"
 msgstr "Flipnote"
 
@@ -19,21 +21,18 @@ msgstr "Commentaire"
 msgid "CONTENT_TYPE_chat_message"
 msgstr "Message de chat"
 
-### We plan on adding user-created themes.
-
+# ## We plan on adding user-created themes.
 msgid "CONTENT_TYPE_room_theme"
 msgstr "Thème pour la salle de créateur"
 
 msgid "CONTENT_TYPE_profile_bio"
 msgstr "Texte du profil"
 
-### Catch-all
-
+# ## Catch-all
 msgid "CONTENT_TYPE_content"
 msgstr "Autre contenu"
 
-## continued message...
-
+# # continued message...
 msgid "CONTENT_RESTORED_CONTINUED"
 msgstr "Le contenu a été restauré à la vue du public, et vous n'avez rien de plus à faire."
 

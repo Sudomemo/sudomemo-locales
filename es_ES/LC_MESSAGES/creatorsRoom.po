@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: es_ES\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "SEE_MORE"
 msgstr "Ver más..."
 
@@ -174,7 +179,7 @@ msgstr "Para borrar tu biografía, deja el formulario en blanco al momento de en
 
 msgid "CURRENT_BIO"
 msgstr "Biografía actual:"
- 
+
 msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
 msgstr "No puedes seguir a más de %d usuarios."
 

@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: en_AU\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "HEADER_MAIL_SETTINGS"
 msgstr "Mail Settings"
 
@@ -99,6 +104,7 @@ msgstr "You've disabled '%s' emails."
 
 msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
 msgstr "The link you followed has expired."
+
 msgid "TYPE_SERVICE_UPDATE_NAME"
 msgstr "Service Updates"
 

@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: nl_NL\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 # Sudomemo Plus Legacy Citizenship Activation
 msgid "SUDOMEMO_PLUS_LEGACY_HEADER"
 msgstr "Welkom bij Sudomemo Plus!"
@@ -21,7 +26,6 @@ msgid "CONTINUE"
 msgstr "Verder"
 
 # My Sudomemo Plus
-
 msgid "MANAGE_PLUS_HEADER"
 msgstr "Mijn Sudomemo Plus"
 
@@ -65,7 +69,6 @@ msgid "INCREASED_FOLLOW_LIMIT"
 msgstr "Hoger volg limiet - tot %s Makers"
 
 # Sudomemo Plus Running Low Message
-
 msgid "PLUS_RUNNING_OUT_MSG_TITLE"
 msgstr "Mijn Sudomemo Plus"
 

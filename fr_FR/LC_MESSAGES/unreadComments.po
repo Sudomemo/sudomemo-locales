@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: fr_FR\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
 msgstr "Vous devez être connecté pour voir cette page."
 
@@ -15,4 +20,3 @@ msgstr "ID de la Flipnote"
 
 msgid "UNREAD"
 msgstr "Non lu"
-

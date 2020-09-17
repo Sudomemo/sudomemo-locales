@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: fr_FR\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "SEE_MORE"
 msgstr "Voir plus..."
 
@@ -174,7 +179,7 @@ msgstr "Pour effacer votre biographie, laissez le formulaire vide quand vous l'e
 
 msgid "CURRENT_BIO"
 msgstr "Bio actuelle :"
- 
+
 msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
 msgstr "Vous ne pouvez pas suivre plus de %d utilisateurs."
 

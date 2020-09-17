@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: el_GR\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "EMAIL_SUBJECT"
 msgstr "Sudomemo Signup Confirmation"
 
@@ -15,4 +20,3 @@ msgstr "Click <a target=\"_blank\" href=\"%s\">here</a> to continue!"
 
 msgid "TEXT_URL_PLAIN_DISPLAY"
 msgstr "You may also copy and paste this URL into a new window:"
-

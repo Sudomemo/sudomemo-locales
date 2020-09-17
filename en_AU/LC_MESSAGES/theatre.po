@@ -1,5 +1,9 @@
-# This file contains most of the translations for Sudomemo Theatre.
+msgid ""
+msgstr ""
+"Language: en_AU\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 
+# This file contains most of the translations for Sudomemo Theatre.
 # Meta tags, descriptions, etc
 msgid "SUDOMEMO"
 msgstr "Sudomemo"
@@ -25,9 +29,8 @@ msgstr "Sudomemo: Flipnote Hatena is back!"
 msgid "VIEWPAGE_COMMENT_TEXTBOX"
 msgstr "Comment entry text box"
 
-## "Username - 3 fans, 25 Flipnotes on Sudomemo"
-## Not going to bother making plural variants
-
+# # "Username - 3 fans, 25 Flipnotes on Sudomemo"
+# # Not going to bother making plural variants
 msgid "PROFILE_DEFAULT_DESCRIPTION"
 msgstr "%s - %s fans, %s Flipnotes on Sudomemo"
 
@@ -36,7 +39,6 @@ msgstr "%s - %s fans, %s Flipnotes on Sudomemo"
 # These are named after what they are in "American"-style format.
 # Follow this guide: https://www.php.net/manual/en/function.date.php
 # Test with this tool: http://php.fnlist.com/date_time/date
-
 # Wednesday, December 3rd, 2019
 # Used for news articles
 msgid "DATETIME_WEEKDAY_MONTH_DAY_ORDINAL_YEAR_FORMAT"
@@ -48,7 +50,6 @@ msgid "DATETIME_MONTH_DAY_ORDINAL_HOUR_MINUTE_SECOND_FORMAT"
 msgstr "F jS, Y h:i:s"
 
 # Very common terms and one-word translations
-
 msgid "ARTIST"
 msgstr "Artist"
 
@@ -199,7 +200,6 @@ msgid "VIEWS"
 msgstr "Views"
 
 # For MusicMatch
-
 msgid "SONG"
 msgstr "Song"
 
@@ -207,7 +207,6 @@ msgid "SUDOMEMO_PLUS"
 msgstr "Sudomemo Plus"
 
 # Navbar
-
 msgid "NAVBAR_TOGGLE_NAVIGATION"
 msgstr "Toggle navigation"
 
@@ -268,18 +267,16 @@ msgstr "Reported Flipnotes"
 msgid "NAVBAR_ITEM_SWITCH_TO_USER_ACCOUNT"
 msgstr "Switch to user account"
 
-## Switch to dark mode
+# # Switch to dark mode
 msgid "NAVBAR_ITEM_LIGHTS_OFF"
 msgstr "Lights off"
 
-## Switch to light mode
+# # Switch to light mode
 msgid "NAVBAR_ITEM_LIGHTS_ON"
 msgstr "Lights on"
 
 # Front Page
-
-## Alt tags, aria labels
-
+# # Alt tags, aria labels
 msgid "ALT_WEEKLY_TOPIC_BANNER"
 msgstr "Banner advertising the Weekly Topic"
 
@@ -289,8 +286,7 @@ msgstr "%s's profile picture"
 msgid "ALT_DRAWN_COMMENT_BY_USER"
 msgstr "Drawn comment by %s"
 
-## Welcome to Sudomemo Box
-
+# # Welcome to Sudomemo Box
 msgid "WELCOME_BOX_GREET_ADMIN"
 msgstr "Welcome back, %s"
 
@@ -300,10 +296,9 @@ msgstr "You are logged in as an Administrator."
 msgid "WELCOME_BOX_OPEN_SUDOMIN"
 msgstr "Open Sudomin"
 
-### Our welcome box can change it's greeting, depending on time of day.
-### It is displayed like this:
-### Good afternoon, User! Happy Flipnoting!
-
+# ## Our welcome box can change it's greeting, depending on time of day.
+# ## It is displayed like this:
+# ## Good afternoon, User! Happy Flipnoting!
 msgid "WELCOME_BOX_DEFAULT_GREETING"
 msgstr "Hello"
 
@@ -316,17 +311,15 @@ msgstr "Good afternoon"
 msgid "WELCOME_BOX_EVENING_GREETING"
 msgstr "Good evening"
 
-### "Happy Flipnoting!" is one of our brand catchphrases. "Flipnoting" refers to the act of creating or watching Flipnotes.
-### Please don't translate "Flipnoting", except to Japanese where you could probably modify the word うごメモ.
-
+# ## "Happy Flipnoting!" is one of our brand catchphrases. "Flipnoting" refers to the act of creating or watching Flipnotes.
+# ## Please don't translate "Flipnoting", except to Japanese where you could probably modify the word うごメモ.
 msgid "WELCOME_BOX_USERNAME_HAPPY_FLIPNOTING"
 msgstr ", %s! Happy Flipnoting!"
 
 msgid "WELCOME_BOX_WELCOME_TO"
 msgstr "Welcome to"
 
-### Another one of our taglines 
-
+# ## Another one of our taglines 
 msgid "WELCOME_BOX_SHARE_CREATIVITY_TAGLINE"
 msgstr "Share your creativity with the world!"
 
@@ -337,12 +330,10 @@ msgid "WELCOME_BOX_HOW_TO_JOIN"
 msgstr "Learn how to Join!"
 
 # Give, in the same sense as "Donate"
-
 msgid "WELCOME_BOX_GIVE"
 msgstr "Give"
 
-## Flipnote sections
-
+# # Flipnote sections
 msgid "FLIPNOTE_LIST_RECALCULATING"
 msgstr "The rankings are currently being recalculated. Try reloading the page in a few moments."
 
@@ -361,13 +352,11 @@ msgstr "Random Flipnotes"
 msgid "FEATURED_FLIPNOTES"
 msgstr "Featured Flipnotes"
 
-## Flipnote by...
-
+# # Flipnote by...
 msgid "FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote by %s"
 
-## Comments section
-
+# # Comments section
 msgid "VIEWPAGE_COMMENT_WRITE_HERE"
 msgstr "Write here"
 
@@ -380,26 +369,24 @@ msgstr "Add Moderator Comment"
 msgid "VIEWPAGE_MODERATOR_COMMENT_WARNING"
 msgstr "Do not use this for personal comments."
 
-### This is composed of two parts: SIGN_IN and TO_ADD_A_COMMENT
-### SIGN_IN is a link to the login page, and TO_ADD_A_COMMENT is the part that comes after.
-### It reads as follows: Sign in to add a comment
-
+# ## This is composed of two parts: SIGN_IN and TO_ADD_A_COMMENT
+# ## SIGN_IN is a link to the login page, and TO_ADD_A_COMMENT is the part that comes after.
+# ## It reads as follows: Sign in to add a comment
 msgid "TO_ADD_A_COMMENT"
 msgstr "to add a comment"
 
-### When the Post Comment button is pressed, it changes to "Posting..." and then "Posted!" when complete.
+# ## When the Post Comment button is pressed, it changes to "Posting..." and then "Posted!" when complete.
 msgid "VIEWPAGE_COMMENT_POSTING"
 msgstr "Posting..."
 
 msgid "VIEWPAGE_COMMENT_POSTED"
 msgstr "Posted!"
 
-### This can happen in cases of network failure or if the comment is rejected
+# ## This can happen in cases of network failure or if the comment is rejected
 msgid "VIEWPAGE_COMMENT_FAILED"
 msgstr "Comment failed..."
 
-## Right sidebar
-
+# # Right sidebar
 msgid "FRONTPAGE_FLIPNOTE_SPOTLIGHT"
 msgstr "Flipnote Spotlight"
 
@@ -407,7 +394,6 @@ msgid "FRONTPAGE_TRENDING_CREATORS"
 msgstr "Trending Creators"
 
 # Flipnote View Page
-
 msgid "EDIT_FLIPNOTE"
 msgstr "Edit Flipnote"
 
@@ -443,10 +429,8 @@ msgstr "Share to Reddit"
 msgid "VIEWPAGE_SPINOFFS"
 msgstr "Spin-offs"
 
-## MusicMatch
-
-### Where the Flipnote's audio starts at in the song
-
+# # MusicMatch
+# ## Where the Flipnote's audio starts at in the song
 msgid "MUSICMATCH_AUDIO_OFFSET"
 msgstr "Starts at %s"
 
@@ -459,8 +443,7 @@ msgstr "Listen on Spotify"
 msgid "MUSICMATCH_ABOUT"
 msgstr "About MusicMatch"
 
-## Original Flipnote / Spinoffs
-
+# # Original Flipnote / Spinoffs
 msgid "VIEWPAGE_ORIGINAL_FLIPNOTE"
 msgstr "Original Flipnote"
 
@@ -468,12 +451,10 @@ msgid "VIEWPAGE_ORIGINAL_FLIPNOTE_NOT_ON_SUDOMEMO"
 msgstr "The original Flipnote isn't on Sudomemo."
 
 # This shows as "by User" underneath the Flipnote thumbnail
-
 msgid "VIEWPAGE_RELATED_FLIPNOTE_BY"
 msgstr "by %s"
 
 # Creator's Room (Profile)
-
 msgid "FOLLOWS_YOU"
 msgstr "Follows You"
 
@@ -489,28 +470,26 @@ msgstr "Follow"
 msgid "FOLLOWERS"
 msgstr "Followers"
 
-## はてなID
+# # はてなID
 msgid "HATENA_ID"
 msgstr "Hatena ID"
 
 msgid "PROFILE_ABOUT_USERNAME"
 msgstr "About %s"
 
-## User's ★ are from:
+# # User's ★ are from:
 msgid "PROFILE_STAR_COUNTRY_HEADER"
 msgstr "%s's ★s are from:"
 
-## Recent comments on their Flipnotes
-
+# # Recent comments on their Flipnotes
 msgid "PROFILE_RECENT_COMMENTS"
 msgstr "Recent comments"
 
-## channels that the user posts in most often
+# # channels that the user posts in most often
 msgid "PROFILE_USER_POSTS_IN"
 msgstr "%s posts in..."
 
 # Search page
-
 msgid "SEARCH_SUDOMEMO"
 msgstr "Search Sudomemo"
 
@@ -526,12 +505,11 @@ msgstr "No results found."
 msgid "SEARCH_PAGE_TOO_MANY_MATCHED"
 msgstr "Your query matched too many creators - try something more specific."
 
-## User hasn't posted any Flipnotes yet
+# # User hasn't posted any Flipnotes yet
 msgid "SEARCH_PAGE_NO_FLIPNOTES_YET"
 msgstr "No Flipnotes yet..."
 
 # Edit Flipnote page
-
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "You are editing this Flipnote:"
 
@@ -572,8 +550,7 @@ msgstr "Letters, numbers, and symbols, maximum of 40 characters."
 msgid "EDIT_PAGE_DESCRIPTION_TOOLTIP"
 msgstr "Letters, numbers, and symbols, maximum of 320 characters."
 
-## MusicMatch
-
+# # MusicMatch
 msgid "EDIT_PAGE_ABOUT_MUSICMATCH_1"
 msgstr "Sudomemo's MusicMatch listens to your Flipnote to find what music it uses!"
 
@@ -605,28 +582,25 @@ msgid "EDIT_PAGE_MUSICMATCH_PREVIEW_ON_SPOTIFY"
 msgstr "Preview on Spotify"
 
 # Browse Song
-
 msgid "BROWSE_SONG_NO_FLIPNOTES_YET"
 msgstr "There have been no Flipnotes posted with this song yet."
 
-## Referring to a music label/publishing company
+# # Referring to a music label/publishing company
 msgid "MUSIC_LABEL"
 msgstr "Label"
 
 # Browse Channel
-
 msgid "BROWSE_CHANNEL_NO_FLIPNOTES_YET"
 msgstr "There have been no Flipnotes posted to this channel yet."
 
-## Posting permissions
+# # Posting permissions
 msgid "CHANNEL_PERM_CLOSED"
 msgstr "Closed"
 
 msgid "CHANNEL_PERM_OPEN"
 msgstr "Open"
 
-## categories
-
+# # categories
 msgid "CHANNEL_CAT_NAME_NONE"
 msgstr "None"
 
@@ -655,7 +629,6 @@ msgid "CHANNEL_CAT_NAME_WEEKLY_TOPIC"
 msgstr "Weekly Topic"
 
 # 404 Page
-
 msgid "404_OOPS_NOT_FOUND"
 msgstr "Oops - That page couldn't be found"
 
@@ -666,7 +639,6 @@ msgid "404_GO_BACK"
 msgstr "Back to Sudomemo Theatre"
 
 # Sudomemo Shop
-
 msgid "TICKETS"
 msgstr "Tickets"
 
@@ -682,10 +654,8 @@ msgstr "Learn about what you can do with Sudomemo Plus:"
 msgid "SUDOMEMO_SHOP_ALL_ABOUT_PLUS"
 msgstr "All About Sudomemo Plus"
 
-## Ticket types..
-
+# # Ticket types..
 # Login Page
-
 msgid "LOGIN_FAILED_CHECK_DETAILS"
 msgstr "We couldn't log you in. Check the details you entered and try again."
 
@@ -705,7 +675,6 @@ msgid "NINTENDO_3DS"
 msgstr "Nintendo 3DS"
 
 # Additional things
-
 # See Flipnotes with the song <song name> by <band/artist name>
 msgid "BROWSE_SONG_YOU_ARE_BROWSING_SONG"
 msgstr "See Flipnotes with the song %s by %s"
@@ -714,12 +683,10 @@ msgid "TROPHY_CASE"
 msgstr "Trophy Case"
 
 # This is shown to logged-in users on their own Flipnotes without titles
-
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "Untitled Flipnote by %s"
 
 # Account Settings (Theatre)
-
 msgid "ACCOUNT_SETTINGS"
 msgstr "Account Settings"
 
@@ -754,9 +721,7 @@ msgid "YOUTUBE_ACCOUNT_VERIFICATION_FIX_NOW"
 msgstr "Fix now"
 
 # YouTube metadata
-
 # Extra description text: will be placed at the end of your video descriptions. 
-
 msgid "YOUTUBE_DEFAULT_SETTINGS_EXPLANATION"
 msgstr "These settings will be filled in automatically when you upload a Flipnote from your Nintendo DSi or 3DS. If you're uploading from Sudomemo Theatre, you'll be prompted to change or confirm these settings before starting the upload."
 
@@ -794,9 +759,7 @@ msgid "YOUTUBE_VISIBILITY_PRIVATE"
 msgstr "Private"
 
 # Upload page specifics
-
 # Upload to YouTube header
-
 msgid "HEADER_UPLOAD_TO_YOUTUBE"
 msgstr "Upload to YouTube"
 
@@ -816,7 +779,6 @@ msgid "SUBMIT"
 msgstr "Submit"
 
 # Upload status
-
 msgid "UPLOAD_STATUS"
 msgstr "Upload Status"
 
@@ -824,7 +786,6 @@ msgid "YOUTUBE_PENDING_UPLOAD"
 msgstr "Your Flipnote is currently waiting to be uploaded. Check back in a few minutes."
 
 # Added to the queue at: 2020-07-08 02:46:38
-
 msgid "YOUTUBE_ADDED_TO_QUEUE_AT"
 msgstr "Added to the queue at:"
 
@@ -889,7 +850,6 @@ msgid "YOUTUBE_ESTIMATED_DURATION"
 msgstr "Estimated video duration:"
 
 # Position in queue: 4 - means there are three uploads ahead of yours
-
 msgid "YOUTUBE_POSITION_IN_QUEUE"
 msgstr "Position in queue:"
 
@@ -900,7 +860,6 @@ msgid "YOUTUBE_UPLOAD_HISTORY_CLICK_ICON_TO_TRACK"
 msgstr "Click the status icon on the left to visit your video's live Upload Tracker!"
 
 # We may need to limit uploads per day depending on our API quota usage rate
-
 msgid "YOUTUBE_UPLOAD_LIMIT"
 msgstr "You can currently upload %s videos to YouTube per day."
 
@@ -915,6 +874,7 @@ msgstr "You have uploaded %s videos so far today."
 
 msgid "YOUTUBE_UPLOAD_LIMIT_EXCEEDED"
 msgstr "You can't upload any more videos until tomorrow."
+
 msgid "SETTINGS"
 msgstr "Settings"
 

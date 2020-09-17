@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: ja_JP\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "SEE_MORE"
 msgstr "もっと見る"
 
@@ -174,7 +179,7 @@ msgstr "プロフィールをリセットする場合、送信するときにフ
 
 msgid "CURRENT_BIO"
 msgstr "現在のプロフィール："
- 
+
 msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
 msgstr "%d人以上のユーザーをフォローすることはできません。"
 

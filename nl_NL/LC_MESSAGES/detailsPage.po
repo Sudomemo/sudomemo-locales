@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: nl_NL\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "TIMESTAMP_FORMAT"
 msgstr "d M Y H:i:s"
 
@@ -106,12 +111,11 @@ msgstr "Voer beschrijving in..."
 msgid "HEADER_FLIPNOTE_OPTIONS"
 msgstr "Opties"
 
-#This literally translates to "number", but it's also the Dutch word for "track" as in music track.
+# This literally translates to "number", but it's also the Dutch word for "track" as in music track.
 msgid "HEADER_SONG"
 msgstr "Nummer"
 
 # This is shown to logged-in users on their own Flipnotes without titles
-
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "Naamloze Flipnote door %s"
 

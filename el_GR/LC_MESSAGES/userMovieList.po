@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: el_GR\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "UPPERTITLE"
 msgstr "Χαζεψτε"
 
@@ -21,4 +26,3 @@ msgstr "Εβαλε αστερια ο %s"
 
 msgid "FAVORITES_FEED_FORMAT"
 msgstr "Τοιχος Αγαπημενων του %s'"
-

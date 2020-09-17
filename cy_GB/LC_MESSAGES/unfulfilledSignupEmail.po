@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: cy_GB\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "EMAIL_SUBJECT"
 msgstr "Cadarnhad Arwyddo Sudomemo"
 
@@ -15,4 +20,3 @@ msgstr "Cliciwch <a target=\"_blank\" href=\"%s\">yma</a> i barhau!"
 
 msgid "TEXT_URL_PLAIN_DISPLAY"
 msgstr "Gallwch hefyd gopïo a gludo'r URL hwn i ffenestr newydd:"
-

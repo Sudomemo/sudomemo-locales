@@ -1,5 +1,9 @@
-# Code Redemption
+msgid ""
+msgstr ""
+"Language: es_ES\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 
+# Code Redemption
 msgid "REDEEM_CODE"
 msgstr "Canjear código"
 
@@ -19,7 +23,6 @@ msgid "LOGIN_REQUIRED_REDEEM_CODE"
 msgstr "Tienes que iniciar sesión para canjear un código."
 
 # Ticket delivery
-
 msgid "YOU_GOT_A_TICKET"
 msgstr "¡Has conseguido un ticket!"
 
@@ -27,7 +30,6 @@ msgid "CONTINUE"
 msgstr "Continuar"
 
 # Inventory
-
 msgid "INVENTORY"
 msgstr "Inventario"
 
@@ -38,7 +40,6 @@ msgid "INVENTORY_IS_EMPTY"
 msgstr "Tu inventario está vacío."
 
 # Ticket redemption
-
 msgid "TICKET_REDEEM_WIN_FORMAT"
 msgstr "¡Has canjeado el %s!"
 
@@ -73,7 +74,6 @@ msgid "SUDOMEMO_PLUS_BALANCE_FORMAT"
 msgstr "Saldo: %s dias"
 
 # Each ticket type will have a name and a description 
-
 msgid "TICKET_NAME_demo_ticket"
 msgstr "Ticket demostración"
 
@@ -114,7 +114,7 @@ msgid "TICKET_NAME_love_anniversary_ticket"
 msgstr "Ticket de aniversario"
 
 # The last character of this message is the DSi symbol for a heart. Don't remove it.
-msgid "TICKET_DESC_love_anniversary_ticket" 
+msgid "TICKET_DESC_love_anniversary_ticket"
 msgstr "Feliz aniversario "
 
 # Sudomemo Plus
@@ -216,4 +216,3 @@ msgstr "Ticket de Artista destacado"
 
 msgid "TICKET_DESC_featured_artist_ticket"
 msgstr "¡Te damos nuestras cálidas felicitaciones por convertirte en un Artista destacado de Sudomemo!"
-

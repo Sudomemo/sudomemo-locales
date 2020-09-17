@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: sv_SE\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "HEADER_PREV"
 msgstr "Före"
 
@@ -42,4 +47,3 @@ msgstr "Hittar inte vad du letar efter? Du kan ha skrivit ett felaktigt Flipnote
 
 msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
 msgstr "Inga resultat hittades, men en liknande ID finns. Vänligen notera att FlipnoteID:n är skiftlägeskänsliga, och är vanligtvis bara stora bokstäver och nummer."
-

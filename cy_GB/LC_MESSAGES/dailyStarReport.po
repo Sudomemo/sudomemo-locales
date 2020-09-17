@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: cy_GB\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "EMAIL_SUBJECT_FORMAT"
 msgstr "[Sudomemo] %s's Adroddiad Seren Ddyddiol"
 
@@ -18,4 +23,3 @@ msgstr "Cyfanswm y Sêr a dderbyniwyd heddiw"
 
 msgid "TEXT_HOW_TO_VIEW_STAR_ADDERS_DSI"
 msgstr "Gan ddefnyddio'ch System Nintendo DSi, gallwch weld pwy a ychwanegodd Sêr drwy ddefnyddio <strong>Sêr</strong> yn eich tudalen manylion Flipnote ar Sudomemo."
-

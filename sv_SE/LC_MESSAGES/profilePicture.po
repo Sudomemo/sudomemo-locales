@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: sv_SE\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "SET_PROFILE_PICTURE"
 msgstr "Lägg till profilbild"
 
@@ -27,4 +32,3 @@ msgstr "Avbryt"
 
 msgid "LOGIN_REQUIRED_TO_CHANGE"
 msgstr "Du måste vara inloggad för att byta profilebild."
-

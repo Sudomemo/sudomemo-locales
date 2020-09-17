@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: el_GR\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "THEME_SHOP_LOGIN_REQUIRED"
 msgstr "Πρεπει να εχετε συνθεθει για να αποκτησετε προσβαση στο Μαγαζι Θεματων"
 
@@ -105,4 +110,3 @@ msgstr "Theme Shop"
 
 msgid "DETAILS"
 msgstr "Details"
-

@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: ja_JP\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "EMAIL_SUBJECT"
 msgstr "Sudomemo 登録の確認"
 
@@ -15,4 +20,3 @@ msgstr "続行するには<a target=\"_blank\" href=\"%s\">こちら</a>をク�
 
 msgid "TEXT_URL_PLAIN_DISPLAY"
 msgstr "このURLをコピーして貼り付けることもできます："
-

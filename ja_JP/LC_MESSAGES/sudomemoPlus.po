@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: ja_JP\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 # Sudomemo Plus Legacy Citizenship Activation
 msgid "SUDOMEMO_PLUS_LEGACY_HEADER"
 msgstr "Sudomemo Plusへようこそ!"
@@ -21,7 +26,6 @@ msgid "CONTINUE"
 msgstr "続ける"
 
 # My Sudomemo Plus
-
 msgid "MANAGE_PLUS_HEADER"
 msgstr "マイSudomemo Plus"
 
@@ -65,7 +69,6 @@ msgid "INCREASED_FOLLOW_LIMIT"
 msgstr "フォロー制限の増加 - 最大%s人の作者"
 
 # Sudomemo Plus Running Low Message
-
 msgid "PLUS_RUNNING_OUT_MSG_TITLE"
 msgstr "マイSudomemo Plus"
 
@@ -80,4 +83,3 @@ msgstr "ウィークリートピックに受賞するか、ショップから購
 
 msgid "PLUS_RUNNING_OUT_MSG_HAPPY_FLIPNOTING"
 msgstr "ハッピーうごライフ！"
-

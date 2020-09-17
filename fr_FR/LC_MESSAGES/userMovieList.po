@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: fr_FR\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "UPPERTITLE"
 msgstr "Naviguer"
 
@@ -21,4 +26,3 @@ msgstr "Étoilées par %s"
 
 msgid "FAVORITES_FEED_FORMAT"
 msgstr "Flux des favoris de %s"
-

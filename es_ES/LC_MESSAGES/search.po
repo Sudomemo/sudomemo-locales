@@ -1,3 +1,8 @@
+msgid ""
+msgstr ""
+"Language: es_ES\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "HEADER_PREV"
 msgstr "Anterior"
 
@@ -42,4 +47,3 @@ msgstr "¿No encuentras lo que estás buscando? Debes de haber puesto mal el ID.
 
 msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
 msgstr "No se han encontrado resultados, pero si una ID similar. Por favor, comprueba si el ID tiene letras mayúsculas o minúsculas y números, suelen ser casi todas con mayúsculas y con números."
-
