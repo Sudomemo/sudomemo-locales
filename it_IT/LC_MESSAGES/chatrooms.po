@@ -1,44 +1,44 @@
 msgid "NO_COMMENTS_YET"
-msgstr "Ancora Nessun Messaggi."
+msgstr "No messages have been sent here."
 
 msgid "HEADER_COMMENTS"
-msgstr "Commenti"
+msgstr "Comments"
 
 msgid "PAGE_FORMAT"
-msgstr "Pagina %d"
+msgstr "Page %d"
 
 msgid "HEADER_NEXT"
-msgstr "Avanti"
+msgstr "Next"
 
 msgid "HEADER_PREV"
-msgstr "Indietro"
+msgstr "Prev"
 
 msgid "HEADER_REFRESH"
-msgstr "Ricarica"
+msgstr "Refresh"
 
 msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
-msgstr "Account obbligatorio per entrare un messaggio."
+msgstr "You must be logged in to post a chat message."
 
 msgid "CHAT_REPLY_FAILED"
-msgstr "Risposta non riuscita. Controlla la connessione internet."
+msgstr "Chat reply failed. Try again in a moment."
 
 msgid "NO_BLANK_MESSAGES_ALLOWED"
-msgstr "Non è possibile pubblicare un messaggio vuoto."
+msgstr "You cannot post a blank chat message."
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
 msgstr "The Flipnote data is corrupted. Try again in a moment."
 
 msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
-msgstr "Ti sei buttato nel cestino."
+msgstr "You have been muted. You may not chat."
 
 msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "Sei Sicuro di inviare e eliminare un messaggio?"
+msgstr "This comment has already been posted to Sudomemo."
 
 msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "Ti sei buttato nel cestino."
+msgstr "You have been restricted from interacting with Sudomemo."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Verificare la mail di conferma. poi rientri."
+msgstr "Please confirm your email before posting."
 
 msgid "MODERATOR"
-msgstr "Moderatore (inglese)"
+msgstr "Moderator"
