@@ -156,7 +156,7 @@ msgstr "Aléatoire"
 
 # Referring to a release date/publishing date
 msgid "RELEASED"
-msgstr "Released"
+msgstr "Date de sortie"
 
 msgid "RANK"
 msgstr "Rang"
@@ -193,7 +193,7 @@ msgstr "Titre"
 
 # Referring to being the most popular (in terms of ranking)
 msgid "TOP"
-msgstr "Top"
+msgstr "Les plus populaires"
 
 # Number of times something has been viewed, or played.
 msgid "VIEWS"
@@ -888,10 +888,10 @@ msgid "YOUTUBE_CHECK_FEATURES_THUMB"
 msgstr "Votre chaîne YouTube n'est peut-être pas complètement vérifiée. Pour plus d'informations, vous pouvez vérifier le statut des miniatures personnalisées ici :"
 
 msgid "YOUTUBE_REFRESH_ACCOUNT"
-msgstr "Refresh account"
+msgstr "Actualiser le compte"
 
 msgid "YOUTUBE_UNLINK_ACCOUNT"
-msgstr "Unlink account"
+msgstr "Dissocier le compte"
 
 msgid "YOUTUBE_UNLINK_ACCOUNT_CONFIRM"
-msgstr "Are you sure you want to remove your linked YouTube channel?"
+msgstr "Êtes-vous sûr de vouloir dissocier votre chaîne YouTube ?"
