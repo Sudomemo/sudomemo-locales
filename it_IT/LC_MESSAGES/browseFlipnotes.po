@@ -2,49 +2,49 @@ msgid "SUDOMEMO"
 msgstr "Sudomemo"
 
 msgid "HEADER_FLIPNOTES"
-msgstr "Flipnote"
+msgstr "Flipnotes"
 
 msgid "HEADER_NORMAL"
-msgstr "Recenti"
+msgstr "Recent"
 
 msgid "HEADER_HOT_FLIPNOTES"
 msgstr "Hot Flipnotes"
 
 msgid "HEADER_MOST_POPULAR"
-msgstr "Più Populari"
+msgstr "Most Popular"
 
 msgid "HEADER_NO_SPINOFFS"
-msgstr "Senza Spinoff"
+msgstr "No Spinoffs"
 
 msgid "HEADER_ROLEPLAYS"
-msgstr "Roleplay"
+msgstr "Roleplays"
 
 msgid "HEADER_BROWSE_FLIPNOTES"
-msgstr "Esplora Flipnote"
+msgstr "Browse Flipnotes"
 
 msgid "HEADER_FEATURED_FLIPNOTES"
-msgstr "Flipnote In primo piano"
+msgstr "Featured Flipnotes"
 
 msgid "HEADER_RANDOM_FLIPNOTES"
 msgstr "Random Flipnotes"
 
 msgid "HEADER_PAGE"
-msgstr "Pagina"
+msgstr "Page"
 
 msgid "PAGE"
-msgstr "Pagina"
+msgstr "Page"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d di %d"
+msgstr "%d of %d"
 
 msgid "NEXT"
-msgstr "Avanti"
+msgstr "Next"
 
 msgid "PREV"
-msgstr "Indietro"
+msgstr "Previous"
 
 msgid "POST_FLIPNOTE"
-msgstr "Pubblica Flipnote"
+msgstr "Post Flipnote"
 
 msgid "CATEGORY_recent"
 msgstr "@Recent Flipnotes"
@@ -63,4 +63,3 @@ msgstr "@Random Flipnotes"
 
 msgid "CATEGORY_feed"
 msgstr "@Feed"
-
