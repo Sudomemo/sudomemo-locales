@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "=== Untranslated (or identical) strings ==="
+echo "# Untranslated (or identical) strings"
 
 # you can pass a langcode to filter by language
 # We exclude English variations from this
@@ -13,7 +13,7 @@ else
 fi
 
 for lang in $(echo ??_?? |tr ' ' '\n' | grep -v "en_" |grep $LANGFILTER); do
-    echo "===== $lang ====="
+    echo "## $lang"
     echo
     for domain in $(ls en_US/LC_MESSAGES/*.po|xargs -L1 basename); do
 
