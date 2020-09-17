@@ -1,9 +1,11 @@
 #!/bin/bash
 
-echo "# Untranslated (or identical) strings"
+echo "# sudomemo-locales Problem Finder"
+echo "Scans for problems as well as untranslated (or identical) strings"
+echo
 
 # you can pass a langcode to filter by language
-# We exclude English variations from this
+# We exclude English variations from this, needs to update so we can optionally include
 # e.g ./find_untranslated.sh ja_JP
 
 if [ ! -z $1 ]; then
@@ -12,7 +14,7 @@ else
     LANGFILTER="."
 fi
 
-for lang in $(echo ??_?? | tr ' ' '\n' | grep -v "en_" | grep $LANGFILTER); do
+for lang in $(echo ??_?? | tr ' ' '\n' | grep $LANGFILTER); do
     echo "## $lang"
     echo
     for domain in $(ls en_US/LC_MESSAGES/*.po | xargs -L1 basename); do
@@ -32,6 +34,15 @@ for lang in $(echo ??_?? | tr ' ' '\n' | grep -v "en_" | grep $LANGFILTER); do
             file $lang/LC_MESSAGES/$domain
             exit 1
         fi
+
+        # Invalid?
+
+        msgfmt --check-format $lang/LC_MESSAGES/$domain -o - >/dev/null
+
+        if [ $? -ne 0 ]; then
+            echo "Check the formatting for $lang/LC_MESSAGES/$domain"
+            exit 1
+        fi        
 
         # Missing/extra strings?
 
@@ -53,7 +64,28 @@ for lang in $(echo ??_?? | tr ' ' '\n' | grep -v "en_" | grep $LANGFILTER); do
             exit 1
         fi
 
+        # Number of lines differs?
+        # Disabled for now
+
+        # ENG_LINE_COUNT=$(wc -l < en_US/LC_MESSAGES/$domain)
+        # NEW_LINE_COUNT=$(wc -l < $lang/LC_MESSAGES/$domain)
+
+        # if [ "$ENG_LINE_COUNT" -ne "$NEW_LINE_COUNT" ]; then
+        #     echo "Line count for $lang/LC_MESSAGES/$domain different from en_US/LC_MESSAGES/$domain"
+        #     echo "Check for missing/extra newlines inside and at the top/bottom of the file"
+        #     echo "en_US: $ENG_LINE_COUNT"
+        #     echo "$lang: $NEW_LINE_COUNT"
+        #     exit 1;
+        # fi;
+
         # Untranslated strings?
+
+        SKIP_DIFF_REGEX="en_(AU|GB|US)"
+
+        if [[ $lang =~ $SKIP_DIFF_REGEX ]]; then
+            echo "Skipping comparison for $domain: $lang is an English variant"
+            continue;
+        fi;
 
         RESULTS=$(diff --unchanged-line-format='%L' --old-line-format='' --new-line-format='' en_US/LC_MESSAGES/$domain $lang/LC_MESSAGES/$domain | sed '/^$/d' | grep -B1 msgstr | grep -Po "^msgid..\K.+?(?=\")" | awk '{print "- " $1}')
         if [ ! -z "$RESULTS" ]; then
