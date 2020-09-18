@@ -253,7 +253,7 @@ msgid "EMAIL_VERIFICATION_ADDRESS_REMOVED"
 msgstr "Désolé pour ça ! Nous avons marqué cette adresse email comme étant incorrecte, donc vous ne devriez plus recevoir de mail de Sudomemo."
 
 msgid "THANKS_FOR_LOGIN_PROMPT_INTRO"
-msgstr "Welcome to Sudomemo! Now, let's write a little message to say who you are! (This will be posted as a Flipnote in our Introductions channel.)"
+msgstr "Bienvenue sur Sudomemo ! Maintenant, écrivez un petit message pour vous présenter ! (Ce sera posté en tant que Flipnote dans notre chaîne de présentations (Introductions))"
 
 msgid "PLEASE_DISCONNECT_AND_RECONNECT"
-msgstr "An error occured. To try again, disconnect and then reconnect to Sudomemo."
+msgstr "Une erreur est survenue. Pour réessayer, déconnectez-vous puis reconnectez-vous à Sudomemo."
