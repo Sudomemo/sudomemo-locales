@@ -5,6 +5,16 @@ Full and verified translations can earn you the special Translator Trophy on Sud
 
 Please note that translations will be verified; contributions will not be accepted if you only use Google Translate or if things are translated in an inappropriate manner.
 
+## How to contribute during a Roundup
+
+Translation Roundups are events where we work to get everything that's not translated brought up to date. Please check the list of [issues](https://github.com/Sudomemo/sudomemo-locales/issues) to see if we have an active Roundup going on. If so, please read the instructions there for special information.
+
+Some things that are different during Roundups:
+
+- We will only be accepting complete translations, and they need to submitted in a **single Pull Request**. We suggest working on a single branch on your fork, but if you've created multiple branches, make sure to merge them into a single branch before submitting your PR.
+- A list of untranslated strings for your language can be found in the Issues list. If there are things that should not be translated, please list the `msgid`s in the details of your Pull Request so that we can add it to our ignore list.
+- Further details, including "claiming" a language for translation, can be found by reviewing the instructions for the Roundup.
+
 ## How to contribute
 
 Before starting work on a new language or updating an existing one, please check for existing Pull Requests for your language. If you submit a duplicate/incomplete one and somebody else has already done the work, your PR may be closed.
