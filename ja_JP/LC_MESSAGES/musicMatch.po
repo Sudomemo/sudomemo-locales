@@ -4,42 +4,42 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "HEADER_SONG_DETAILS"
-msgstr "Song Details"
+msgstr "曲の詳細"
 
 # Song Name
 msgid "TITLE"
-msgstr "Title"
+msgstr "タイトル"
 
 # Song Band/Artist
 msgid "ARTIST"
-msgstr "Artist"
+msgstr "アーティスト"
 
 # Year song was published
 msgid "RELEASE_YEAR"
-msgstr "Released"
+msgstr "リリース年"
 
 msgid "GENRE"
-msgstr "Genre"
+msgstr "ジャンル"
 
 # How many Flipnotes are using this song?
 msgid "FLIPNOTE_COUNT"
-msgstr "Flipnotes"
+msgstr "うごメモ数"
 
 msgid "BROWSE"
-msgstr "Browse"
+msgstr "見る"
 
 msgid "SONG_ID"
-msgstr "Song ID"
+msgstr "曲ID"
 
 msgid "LINK_YOUTUBE_SPOTIFY"
-msgstr "YouTube and Spotify links are available:"
+msgstr "YouTubeとSpotifyのリンクが存在します:"
 
 msgid "LINK_YOUTUBE"
-msgstr "A YouTube link is available here:"
+msgstr "Youtubeのリンクはこちら:"
 
 msgid "LINK_SPOTIFY"
-msgstr "A Spotify link is available here:"
+msgstr "Spotifyのリンクはこちら:"
 
 # Creator instructions
 msgid "IF_SONG_INCORRECT"
-msgstr "If an incorrect song is shown on your Flipnote, you can update it on Sudomemo Theatre. To learn more, visit: https://flipnot.es/musicmatch"
+msgstr "間違っている曲があなたのメモに表示されている場合は、Sudomemoシアターで更新できます。詳しくは、https://flipnot.es/musicmatch をご覧ください。"
