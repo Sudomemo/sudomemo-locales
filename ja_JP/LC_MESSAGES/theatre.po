@@ -247,7 +247,7 @@ msgid "NAVBAR_ITEM_FACEBOOK"
 msgstr "Facebook"
 
 msgid "NAVBAR_ITEM_EMAIL"
-msgstr "Email"
+msgstr "Eメール"
 
 msgid "NAVBAR_ITEM_OTHER"
 msgstr "その他"
@@ -288,7 +288,7 @@ msgstr "%sさんのコメント"
 
 # # Welcome to Sudomemo Box
 msgid "WELCOME_BOX_GREET_ADMIN"
-msgstr "お疲れ様です、%sさん"
+msgstr "ようこそ、%sさん"
 
 msgid "WELCOME_BOX_YOU_ARE_ADMIN"
 msgstr "管理者権限でログインしています。"
@@ -314,7 +314,7 @@ msgstr "こんばんは"
 # ## "Happy Flipnoting!" is one of our brand catchphrases. "Flipnoting" refers to the act of creating or watching Flipnotes.
 # ## Please don't translate "Flipnoting", except to Japanese where you could probably modify the word うごメモ.
 msgid "WELCOME_BOX_USERNAME_HAPPY_FLIPNOTING"
-msgstr "、%s！ ハッピーうごライフ！"
+msgstr "、%s！ よきうごメモライフを！"
 
 msgid "WELCOME_BOX_WELCOME_TO"
 msgstr "ようこそ"
@@ -452,7 +452,7 @@ msgstr "親作品が見つかりませんでした。"
 
 # This shows as "by User" underneath the Flipnote thumbnail
 msgid "VIEWPAGE_RELATED_FLIPNOTE_BY"
-msgstr "by %s"
+msgstr "%sさんの作品"
 
 # Creator's Room (Profile)
 msgid "FOLLOWS_YOU"
