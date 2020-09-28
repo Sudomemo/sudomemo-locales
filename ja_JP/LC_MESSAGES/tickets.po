@@ -50,7 +50,7 @@ msgid "TICKET_REDEEM_NO_PRIZES"
 msgstr "残念ですが、何も獲得できませんでした。"
 
 msgid "ACHIEVEMENT"
-msgstr "Achievement"
+msgstr "成果"
 
 msgid "COLOR_STARS"
 msgstr "カラースター"
@@ -65,7 +65,7 @@ msgid "THEME_AVAILABLE_FOR_USE"
 msgstr "このテーマをマイルームで使うことができます!"
 
 msgid "SUDOMEMO_PLUS"
-msgstr "Sudomemo Plus"
+msgstr "スドメモPlus"
 
 msgid "SUDOMEMO_PLUS_FORMAT"
 msgstr "%s日分のSudomemo Plusを受け取りました!"
@@ -197,7 +197,7 @@ msgid "TICKET_NAME_colors_promo_ticket"
 msgstr "Colors!プロモーションチケット"
 
 msgid "TICKET_DESC_colors_promo_ticket"
-msgstr "Sudomemo x Colorsを獲得しました！※2020年6月の週刊トピックです！"
+msgstr "スドメモ x Colorsを獲得しました！※2020年6月の週刊トピックです！"
 
 msgid "TICKET_NAME_neighborhood_watch_ticket"
 msgstr "近隣ウォッチチケット"
