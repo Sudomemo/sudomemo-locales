@@ -16,7 +16,7 @@ msgstr "審査した結果、このコンテンツはコンテンツポリシー
 
 # this message is followed by a link
 msgid "REPORT_REJECTED_INFO"
-msgstr "皆さんの報告が誰にとっても使いやすく、快適なSudomemoを形作っています。コンテンツポリシーを確認し、どのような行為がSudomemoで受け入れられるのかを知ることをお勧めいたします"
+msgstr "皆さんの報告が誰にとっても使いやすく、快適なスドメモを形作っています。コンテンツポリシーを確認し、スドメモにおいてどのような行為が受け入れられるのかを知ることをお勧めいたします"
 
 # # Content types
 msgid "CONTENT_TYPE_flipnote"
