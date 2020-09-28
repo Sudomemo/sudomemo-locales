@@ -43,10 +43,10 @@ msgid "NO_COMMENTS_WHILE_MUTED"
 msgstr "あなたはミュートされました。 ミュートされている間はコメントを投稿できません。"
 
 msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "このコメントは既にSudomemoに投稿されています。"
+msgstr "このコメントは既にスドメモに投稿されています。"
 
 msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "あなたはSudomemoとの対話を制限されています。"
+msgstr "あなたはスドメモへの投稿を制限されています。。"
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
 msgstr "投稿する前にメールアドレスを確認してください。"
