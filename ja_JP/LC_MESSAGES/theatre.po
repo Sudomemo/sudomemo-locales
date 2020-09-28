@@ -256,7 +256,7 @@ msgid "NAVBAR_ITEM_CREDITS"
 msgstr "クレジット"
 
 msgid "NAVBAR_ITEM_ADMIN"
-msgstr "Admin"
+msgstr "管理者"
 
 msgid "NAVBAR_ITEM_SUDOMEMO_ADMIN"
 msgstr "Sudomin"
@@ -882,16 +882,16 @@ msgid "PRIVACY_POLICY"
 msgstr "個人情報保護方針"
 
 msgid "YOUTUBE_STATUS_FAILED_THUMB"
-msgstr "Your video was uploaded successfully, but we had a problem uploading the thumbnail."
+msgstr "動画は正常にアップロードされましたが、サムネイルのアップロードで問題が発生しました。"
 
 msgid "YOUTUBE_CHECK_FEATURES_THUMB"
-msgstr "Your YouTube channel might not be completely verified. For more information, you can check the status of Custom Thumbnails here:"
+msgstr "YouTubeチャンネルが認証されていない可能性があります。 詳細についてはこちらをご覧ください:"
 
 msgid "YOUTUBE_REFRESH_ACCOUNT"
-msgstr "Refresh account"
+msgstr "アカウントを更新"
 
 msgid "YOUTUBE_UNLINK_ACCOUNT"
-msgstr "Unlink account"
+msgstr "アカウントの連携を解除する"
 
 msgid "YOUTUBE_UNLINK_ACCOUNT_CONFIRM"
-msgstr "Are you sure you want to remove your linked YouTube channel?"
+msgstr "YouTubeチャンネルとの連携を削除してもよろしいですか？"
