@@ -34,13 +34,13 @@ msgid "TAP_TO_DISABLE"
 msgstr "タップで無効にする"
 
 msgid "TYPE_NEWS_NAME"
-msgstr "Sudomemoニュース"
+msgstr "スドメモニュース"
 
 msgid "TYPE_NEWS_DESC"
-msgstr "Sudomemoニュースが更新されたときメールを受信する"
+msgstr "スドメモニュースが更新されたときメールを受信する"
 
 msgid "TYPE_PROMO_NAME"
-msgstr "Promo"
+msgstr "プロモーション"
 
 msgid "TYPE_PROMO_DESC"
 msgstr "新機能、ヒント、コツ、そして今後開催されるイベントについてのメールを受け取る"
