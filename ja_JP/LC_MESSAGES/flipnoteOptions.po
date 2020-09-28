@@ -4,7 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "FLIPNOTE_OPTIONS"
-msgstr "うごメモのオプション"
+msgstr "作品のオプション"
 
 msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
 msgstr "このページを見るにはログインする必要があります。"
@@ -19,10 +19,10 @@ msgid "OPTION_NAME_SMOOTH"
 msgstr "スムージング"
 
 msgid "OPTION_DESC_SMOOTH"
-msgstr "Sudomemo Theatreでは、線、曲線、およびエッジが滑らかになり、より自然に見えます。"
+msgstr "スドメモシアターでは、直線、曲線、エッジが滑らかになり、より自然に見えます。"
 
 msgid "FLIPNOTE_URL_IS"
-msgstr "うごメモURL:"
+msgstr "作品URL:"
 
 msgid "ENABLE_SMOOTHING"
 msgstr "スムージングを有効にする"
@@ -37,10 +37,10 @@ msgid "OFF"
 msgstr "オフ"
 
 msgid "CITIZENSHIP_REQUIRED"
-msgstr "この機能を使用するには、Sudomemo Citizenshipが必要です。"
+msgstr "この機能を使用するには、スドメモ市民権が必要です。"
 
 msgid "PLUS_REQUIRED"
-msgstr "この機能を使用するには、Sudomemo Plusに加入する必要があります。"
+msgstr "この機能を使用するには、スドメモPlusに加入する必要があります。"
 
 msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
 msgstr "表示または変更するには、オプションのステータスをタップします。"
@@ -49,7 +49,7 @@ msgid "OPTION_NAME_FORCE_44K_BITRATE"
 msgstr "強化された音声"
 
 msgid "OPTION_DESC_FORCE_44K_BITRATE"
-msgstr "Sudomemoは、Sudomemo Theatreのオーディオサウンドをより鮮明できれいにしようとします。"
+msgstr "スドメモは、スドメモシアターの音声をより鮮明できれいにしようとします。"
 
 msgid "ENABLE_AUDIO_ENHANCEMENT"
 msgstr "オーディオ拡張を有効にする"
