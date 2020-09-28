@@ -250,10 +250,10 @@ msgid "NEW_USER_INTRO_POST_INTRO_CHANNEL"
 msgstr "準備が整ったら、先へ進み、個人カテゴリの下のIntroductionsチャンネルで自己紹介をしていってください。"
 
 msgid "EMAIL_VERIFICATION_ADDRESS_REMOVED"
-msgstr "Sorry about that! We've marked that email address as incorrect, so you shouldn't receive any further emails from Sudomemo."
+msgstr "申し訳ございませんが、そのメールアドレスは不正なメールアドレスとしてマークしました。スドメモからこれ以上メールを受信することはありません。"
 
 msgid "THANKS_FOR_LOGIN_PROMPT_INTRO"
-msgstr "Welcome to Sudomemo! Now, let's write a little message to say who you are! (This will be posted as a Flipnote in our Introductions channel.)"
+msgstr "スドメモへようこそ！少しだけ自己紹介をしてみましょう！（紹介チャンネルに作品として公開されます）"
 
 msgid "PLEASE_DISCONNECT_AND_RECONNECT"
-msgstr "An error occured. To try again, disconnect and then reconnect to Sudomemo."
+msgstr "エラーが発生しました。再試行するにはいったんスドメモを切断し、再接続をする必要があります。"
