@@ -7,13 +7,13 @@ msgid "BAN_GREETING_FORMAT"
 msgstr "こんにちは。%sさん。"
 
 msgid "BAN_NOTICE_CONSOLE_BAN"
-msgstr "このアカウント及び機器はSudomemoから切断されています。"
+msgstr "このアカウント及び機器はスドメモから切断されています。"
 
 msgid "BAN_NOTICE_PLEASE_READ_BAN_LETTER"
 msgstr "詳細については、お送りしたメッセージをご覧ください。"
 
 msgid "BAN_VIEW_MAIL"
-msgstr "Sudomemoメールを見る"
+msgstr "スドメモのメールを見る"
 
 msgid "LOGIN_SUCCESSFUL"
 msgstr "ログインしました"
@@ -43,7 +43,7 @@ msgid "RETURNING_USER_PLEASE_CREATE_PASSWORD"
 msgstr "新しいパスワードを作成してください。"
 
 msgid "NEW_USER_WELCOME_FORMAT"
-msgstr "Sudomemoへようこそ！%sさん！"
+msgstr "%sさん、スドメモへようこそ！"
 
 msgid "NEW_USER_PLEASE_CREATE_PASSWORD"
 msgstr "新しいパスワードを作成してください。"
@@ -121,13 +121,13 @@ msgid "REGISTRATION_ERROR_PASSWORD_ALREADY_SET"
 msgstr "パスワードはすでに設定されています。"
 
 msgid "NEW_USER_THANKS_FOR_REGISTRATION"
-msgstr "Sudomemoへようこそ！"
+msgstr "スドメモへようこそ！"
 
 msgid "RETURNING_USER_THANKS_FOR_REGISTRATION"
 msgstr "お帰りなさい！ ログイン情報を設定していただきありがとうございます。"
 
 msgid "BUTTON_SIGN_IN_TO_SUDOMEMO"
-msgstr "Sudomemoにログインする"
+msgstr "スドメモにログインする"
 
 msgid "LOGIN_FAILED"
 msgstr "ログインに失敗しました。"
@@ -136,7 +136,7 @@ msgid "LOGIN_FAILED_REOPEN_FLIPNOTE_STUDIO"
 msgstr "ログインに失敗しました。 一度うごくメモ帳を閉じて再度開き直してください。"
 
 msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE1"
-msgstr "うごくメモ帳のデータが破損しています。"
+msgstr "うごメモのデータが破損しています。"
 
 msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE2"
 msgstr "もう一度送信してみてください。"
@@ -151,7 +151,7 @@ msgid "CREATORS_ROOM_SHIM_WELCOME"
 msgstr "ようこそ!"
 
 msgid "CREATORS_ROOM_SHIM_PLEASE_LOGIN"
-msgstr "Sudomemoへようこそ！ 続行するにはログインしてください。"
+msgstr "スドメモへようこそ！ 続行するにはログインしてください。"
 
 msgid "GUIDE_MAIN_MENU_SHORTCUT"
 msgstr "Ｌボタン(左利きの場合はＲボタン)を押すと一気にトップメニューまで戻れます。"
@@ -175,7 +175,7 @@ msgid "BASIC_AUTH_NONHEX_CHARACTERS"
 msgstr "IDに英数字以外の文字が含まれています（0-9とA-Fのみを含める必要があります）。"
 
 msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
-msgstr "あなたがSudomemoに貢献したい場合は、Discordでお気軽にお問い合わせください！ あなたは%sから参加できます。"
+msgstr "あなたがスドメモに貢献したい場合は、Discordでお気軽にお問い合わせください！ あなたは%sから参加できます。"
 
 msgid "BAN_NOTICE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
 msgstr "Discordまたは%sのメールでご連絡ください。"
@@ -208,7 +208,7 @@ msgid "BUTTON_RESEND_VERIFICATION_EMAIL"
 msgstr "確認メールを再送信する"
 
 msgid "NOT_RECEIVING_HELP_FORMAT"
-msgstr "メールが受け取れていませんか？ SudomemoのDiscordまたは%s経由でお問い合わせください。"
+msgstr "メールが受け取れていませんか？ スドメモのDiscordまたは%s経由でお問い合わせください。"
 
 msgid "HEADER_VERIFY_EMAIL"
 msgstr "メールアドレスを認証"
@@ -247,13 +247,13 @@ msgid "SEARCH_FOR_SENDER_EMAIL_FORMAT"
 msgstr "メールを受信していないませんか？迷惑メールをチェックし、%sを探してみてください。 もし迷惑メールとしてマークされていたら、 メールの受信許可の設定をしてください。"
 
 msgid "NEW_USER_INTRO_POST_INTRO_CHANNEL"
-msgstr "準備が整ったら、先へ進み、個人カテゴリの下のIntroductionsチャンネルで自己紹介をしていってください。"
+msgstr "準備が整ったら、先へ進み、個人カテゴリの下の紹介チャンネルで自己紹介をしていってください。"
 
 msgid "EMAIL_VERIFICATION_ADDRESS_REMOVED"
-msgstr "Sorry about that! We've marked that email address as incorrect, so you shouldn't receive any further emails from Sudomemo."
+msgstr "申し訳ございませんが、そのメールアドレスは不正なメールアドレスとしてマークしました。スドメモからこれ以上メールを受信することはありません。"
 
 msgid "THANKS_FOR_LOGIN_PROMPT_INTRO"
-msgstr "Welcome to Sudomemo! Now, let's write a little message to say who you are! (This will be posted as a Flipnote in our Introductions channel.)"
+msgstr "スドメモへようこそ！少しだけ自己紹介をしてみましょう！（紹介チャンネルに作品として公開されます）"
 
 msgid "PLEASE_DISCONNECT_AND_RECONNECT"
-msgstr "An error occured. To try again, disconnect and then reconnect to Sudomemo."
+msgstr "エラーが発生しました。再試行するにはいったんスドメモを切断し、再接続をする必要があります。"
