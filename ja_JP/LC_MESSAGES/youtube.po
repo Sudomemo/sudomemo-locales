@@ -119,7 +119,7 @@ msgid "YOUTUBE_STATUS_ERROR"
 msgstr "エラー"
 
 msgid "YOUTUBE_STATUS_UNKNOWN"
-msgstr "unknown"
+msgstr "不明"
 
 msgid "YOUTUBE_STATUS_WAITING_TO_BE_PROCESSED"
 msgstr "この作品は現在処理待ちです"
