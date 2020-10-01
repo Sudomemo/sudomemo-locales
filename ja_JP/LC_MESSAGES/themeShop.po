@@ -3,53 +3,8 @@ msgstr ""
 "Language: ja_JP\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "THEME_SHOP_LOGIN_REQUIRED"
-msgstr "テーマショップにアクセスするにはログインする必要があります"
-
-msgid "THEME_SHOP_MAINPAGE_HEADER"
-msgstr "テーマショップでは、マイルームの新しいテーマを購入できます。"
-
-msgid "THEME_SHOP_LEARN_MORE_HEADER"
-msgstr "テーマショップの詳細"
-
-msgid "THEME_SHOP_REPORT_ISSUES_HEADER"
-msgstr "このリンクをタップすると、正常に動作していないテーマを報告できます。"
-
-msgid "THEME_SHOP_MAINPAGE_EXCHANGE_COST_FORMAT"
-msgstr "%d個のグリーンスターと交換"
-
-msgid "THEME_SHOP_MAINPAGE_FREE_STARTER_THEMES"
-msgstr "無料のテーマ"
-
-msgid "CONGRATULATIONS"
-msgstr "おめでとうございます！"
-
-msgid "SEE_MORE"
-msgstr "もっと見る"
-
-msgid "PREVIEW"
-msgstr "例"
-
 msgid "BUY"
 msgstr "購入"
-
-msgid "THEME"
-msgstr "テーマ"
-
-msgid "PRICE"
-msgstr "価格"
-
-msgid "CREATOR"
-msgstr "作者"
-
-msgid "DESCRIPTION"
-msgstr "説明"
-
-msgid "YOU_HAVE"
-msgstr "あなたのカラースター："
-
-msgid "USERNAME"
-msgstr "ユーザー名"
 
 msgid "CANCEL"
 msgstr "キャンセル"
@@ -57,56 +12,101 @@ msgstr "キャンセル"
 msgid "CONFIRM"
 msgstr "確認する"
 
+msgid "CONGRATULATIONS"
+msgstr "おめでとうございます！"
+
+msgid "CREATOR"
+msgstr "作者"
+
 msgid "CREATORS_ROOM"
 msgstr "マイルーム"
 
-msgid "SHOP_MENU"
-msgstr "ショップメニュー"
+msgid "DESCRIPTION"
+msgstr "説明"
 
-msgid "NO_DESCRIPTION_AVAILABLE"
-msgstr "説明なし"
-
-msgid "THEME_SHOP_SELECT_PAYMENT"
-msgstr "お支払い方法を選択"
-
-msgid "THEME_SHOP_SELECTED_PAYMENT"
-msgstr "選択したお支払方法"
-
-msgid "THEME_SHOP_STAR_BALANCE_TOO_LOW"
-msgstr "このテーマを購入するグリーンスターが足りません"
-
-msgid "THEME_SHOP_CHOOSE_CAREFULLY_BEFORE_BUYING"
-msgstr "購入する際は慎重に選択してください"
-
-msgid "THEME_SHOP_YOU_OWN_THIS_THEME"
-msgstr "あなたはすでにこのテーマを所有しています。"
-
-msgid "THEME_SHOP_PUBLIC_THEME"
-msgstr "すべてのユーザーは無料でこのテーマにアクセスできます。"
-
-msgid "THEME_SHOP_OWNED_THEME_TRANSACTION_FORMAT"
-msgstr "このテーマを%sの%d個のグリーンスターで購入しました。"
-
-msgid "THEME_SHOP_CONFIRM_PURCHASE_BELOW"
-msgstr "下記のご購入をご確認ください。"
-
-msgid "THEME_SHOP_STARS_LEFT_AFTER_PAYMENT"
-msgstr "支払い後に残るカラースター"
-
-msgid "THEME_SHOP_POST_PURCHASE"
-msgstr "購入は成功しました！ マイルームの\"マイテーマ\"に移動して選択してください！"
-
-msgid "NAVIGATION_PREVIOUS"
-msgstr "前へ"
+msgid "DETAILS"
+msgstr "詳細"
 
 msgid "NAVIGATION_NEXT"
 msgstr "次へ"
 
-msgid "THEME_SHOP_SAMPLE_PROFILE"
-msgstr "サンプルプロフィール"
+msgid "NAVIGATION_PREVIOUS"
+msgstr "前へ"
+
+msgid "NO_DESCRIPTION_AVAILABLE"
+msgstr "説明なし"
+
+msgid "PREVIEW"
+msgstr "例"
+
+msgid "PRICE"
+msgstr "価格"
+
+msgid "SEE_MORE"
+msgstr "もっと見る"
+
+msgid "SHOP_MENU"
+msgstr "ショップメニュー"
+
+msgid "THEME"
+msgstr "テーマ"
 
 msgid "THEME_SHOP"
 msgstr "テーマショップ"
 
-msgid "DETAILS"
-msgstr "詳細"
+msgid "THEME_SHOP_CHOOSE_CAREFULLY_BEFORE_BUYING"
+msgstr "購入する際は慎重に選択してください"
+
+msgid "THEME_SHOP_CONFIRM_PURCHASE_BELOW"
+msgstr "下記のご購入をご確認ください。"
+
+msgid "THEME_SHOP_LEARN_MORE_HEADER"
+msgstr "テーマショップの詳細"
+
+msgid "THEME_SHOP_LOGIN_REQUIRED"
+msgstr "テーマショップにアクセスするにはログインする必要があります"
+
+msgid "THEME_SHOP_MAINPAGE_EXCHANGE_COST_FORMAT"
+msgstr "%d個のグリーンスターと交換"
+
+msgid "THEME_SHOP_MAINPAGE_FREE_STARTER_THEMES"
+msgstr "無料のテーマ"
+
+msgid "THEME_SHOP_MAINPAGE_HEADER"
+msgstr "テーマショップでは、マイルームの新しいテーマを購入できます。"
+
+msgid "THEME_SHOP_OWNED_THEME_TRANSACTION_FORMAT"
+msgstr "このテーマを%sの%d個のグリーンスターで購入しました。"
+
+msgid "THEME_SHOP_POST_PURCHASE"
+msgstr "購入は成功しました！ マイルームの\"マイテーマ\"に移動して選択してください！"
+
+msgid "THEME_SHOP_PUBLIC_THEME"
+msgstr "すべてのユーザーは無料でこのテーマにアクセスできます。"
+
+msgid "THEME_SHOP_REPORT_ISSUES_HEADER"
+msgstr "このリンクをタップすると、正常に動作していないテーマを報告できます。"
+
+msgid "THEME_SHOP_SAMPLE_PROFILE"
+msgstr "サンプルプロフィール"
+
+msgid "THEME_SHOP_SELECTED_PAYMENT"
+msgstr "選択したお支払方法"
+
+msgid "THEME_SHOP_SELECT_PAYMENT"
+msgstr "お支払い方法を選択"
+
+msgid "THEME_SHOP_STARS_LEFT_AFTER_PAYMENT"
+msgstr "支払い後に残るカラースター"
+
+msgid "THEME_SHOP_STAR_BALANCE_TOO_LOW"
+msgstr "このテーマを購入するグリーンスターが足りません"
+
+msgid "THEME_SHOP_YOU_OWN_THIS_THEME"
+msgstr "あなたはすでにこのテーマを所有しています。"
+
+msgid "USERNAME"
+msgstr "ユーザー名"
+
+msgid "YOU_HAVE"
+msgstr "あなたのカラースター："

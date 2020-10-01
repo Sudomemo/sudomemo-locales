@@ -3,8 +3,8 @@ msgstr ""
 "Language: ja_JP\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "PREV"
-msgstr "前へ"
+msgid "HEADER_NEWS"
+msgstr "ニュース"
 
 msgid "NEXT"
 msgstr "次へ"
@@ -12,5 +12,5 @@ msgstr "次へ"
 msgid "PAGE_FORMAT"
 msgstr "ページ %d"
 
-msgid "HEADER_NEWS"
-msgstr "ニュース"
+msgid "PREV"
+msgstr "前へ"

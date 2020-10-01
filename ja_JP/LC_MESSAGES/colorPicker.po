@@ -3,15 +3,6 @@ msgstr ""
 "Language: ja_JP\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "SET_PEN_COLOR"
-msgstr "ペンの色の設定"
-
-msgid "SET_PAPER_COLOR"
-msgstr "用紙の色の設定"
-
-msgid "SELECT_A_COLOR"
-msgstr "色を選択"
-
 msgid "CURRENT_COLOR"
 msgstr "現在の色:"
 
@@ -20,3 +11,12 @@ msgstr "現在の色:デフォルト"
 
 msgid "RETURN"
 msgstr "戻る"
+
+msgid "SELECT_A_COLOR"
+msgstr "色を選択"
+
+msgid "SET_PAPER_COLOR"
+msgstr "用紙の色の設定"
+
+msgid "SET_PEN_COLOR"
+msgstr "ペンの色の設定"

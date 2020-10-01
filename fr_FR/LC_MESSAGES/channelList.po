@@ -3,23 +3,23 @@ msgstr ""
 "Language: fr_FR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "UPPERTITLE"
-msgstr "Chaînes"
-
-msgid "UPPERSUBBOTTOM"
-msgstr "Sélectionnez une chaîne, s'il-vous-plaît !"
+msgid "FAVORITES"
+msgstr "Favoris"
 
 msgid "NEXT"
 msgstr "Page suivante"
-
-msgid "PREV"
-msgstr "Page précédente"
-
-msgid "FAVORITES"
-msgstr "Favoris"
 
 msgid "PAGE"
 msgstr "Page"
 
 msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d sur %d"
+
+msgid "PREV"
+msgstr "Page précédente"
+
+msgid "UPPERSUBBOTTOM"
+msgstr "Sélectionnez une chaîne, s'il-vous-plaît !"
+
+msgid "UPPERTITLE"
+msgstr "Chaînes"

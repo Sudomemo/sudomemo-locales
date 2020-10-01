@@ -3,26 +3,38 @@ msgstr ""
 "Language: ja_JP\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-# This contains common strings used for the general notification ("mail") system as well
-# Common
-msgid "LOGIN_FIRST_TO_ACCESS_MAIL"
-msgstr "このページを表示するには再度ログインする必要があります"
-
 msgid "CONTINUE"
 msgstr "続ける"
 
 msgid "HEADER_INBOX"
 msgstr "受信トレイ"
 
-# this must be a max of 6 characters
-msgid "UNAUTHED_READ"
-msgstr "読み込む…"
+# This contains common strings used for the general notification ("mail") system as well
+# Common
+msgid "LOGIN_FIRST_TO_ACCESS_MAIL"
+msgstr "このページを表示するには再度ログインする必要があります"
+
+# Not found
+msgid "MAIL_NOT_FOUND"
+msgstr "メッセージは存在しません"
+
+msgid "NEXT"
+msgstr "次へ"
 
 msgid "PREV"
 msgstr "前へ"
 
-msgid "NEXT"
-msgstr "次へ"
+msgid "TITLE_INFO"
+msgstr "情報"
+
+msgid "TITLE_MESSAGE"
+msgstr "メッセージ"
+
+msgid "TITLE_NEWS"
+msgstr "ニュース"
+
+msgid "TITLE_NOTICE"
+msgstr "通知"
 
 # Titles
 msgid "TITLE_SPINOFF"
@@ -31,18 +43,6 @@ msgstr "子作品"
 msgid "TITLE_WARNING"
 msgstr "警告"
 
-msgid "TITLE_NOTICE"
-msgstr "通知"
-
-msgid "TITLE_MESSAGE"
-msgstr "メッセージ"
-
-msgid "TITLE_NEWS"
-msgstr "ニュース"
-
-msgid "TITLE_INFO"
-msgstr "情報"
-
-# Not found
-msgid "MAIL_NOT_FOUND"
-msgstr "メッセージは存在しません"
+# this must be a max of 6 characters
+msgid "UNAUTHED_READ"
+msgstr "読み込む…"

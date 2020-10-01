@@ -3,47 +3,32 @@ msgstr ""
 "Language: fr_FR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "GET_STARTED"
-msgstr "Démarrer"
-
-msgid "WATCH_FLIPNOTES"
-msgstr "@Toutes les Flipnotes"
-
-msgid "CHANNELS"
-msgstr "@Chaînes"
+msgid "ABOUT_SUDOMEMO"
+msgstr "@À propos de Sudomemo"
 
 msgid "CATEGORIES"
 msgstr "Catégories"
 
-msgid "FEATURED"
-msgstr "@Flipnotes en vedette"
-
-msgid "HOT_FLIPNOTES"
-msgstr "@Flipnotes tendance"
-
-msgid "ABOUT_SUDOMEMO"
-msgstr "@À propos de Sudomemo"
-
-msgid "CREATORS_ROOM"
-msgstr "@Salle de créateur"
-
-msgid "NEWS"
-msgstr "@Infos de Sudomemo"
+msgid "CHANNELS"
+msgstr "@Chaînes"
 
 msgid "CHATROOMS"
 msgstr "@Chat (discussion)"
 
-msgid "SEARCH"
-msgstr "@Recherche"
+msgid "CREATORS_ROOM"
+msgstr "@Salle de créateur"
 
-msgid "SEARCH_USER"
-msgstr "Recherche d'utilisateur"
+msgid "FEATURED"
+msgstr "@Flipnotes en vedette"
 
-msgid "SEARCH_FLIPNOTE"
-msgstr "Recherche de Flipnote"
+msgid "GET_STARTED"
+msgstr "Démarrer"
 
-msgid "RELOAD_USER"
-msgstr "Rafraîchir l'utilisateur"
+msgid "HELP"
+msgstr "@Aide"
+
+msgid "HOT_FLIPNOTES"
+msgstr "@Flipnotes tendance"
 
 msgid "LOGIN"
 msgstr "Connexion"
@@ -51,17 +36,32 @@ msgstr "Connexion"
 msgid "LOGOUT"
 msgstr "Déconnexion"
 
+msgid "MAIL"
+msgstr "Mail"
+
+msgid "NEWS"
+msgstr "@Infos de Sudomemo"
+
 msgid "REGISTER"
 msgstr "Inscription"
 
-msgid "THEME_SHOP"
-msgstr "Boutique de thèmes"
+msgid "RELOAD_USER"
+msgstr "Rafraîchir l'utilisateur"
 
-msgid "MAIL"
-msgstr "Mail"
+msgid "SEARCH"
+msgstr "@Recherche"
+
+msgid "SEARCH_FLIPNOTE"
+msgstr "Recherche de Flipnote"
+
+msgid "SEARCH_USER"
+msgstr "Recherche d'utilisateur"
 
 msgid "TEST_TRANSLATION"
 msgstr "Traduction en Anglais"
 
-msgid "HELP"
-msgstr "@Aide"
+msgid "THEME_SHOP"
+msgstr "Boutique de thèmes"
+
+msgid "WATCH_FLIPNOTES"
+msgstr "@Toutes les Flipnotes"

@@ -3,47 +3,47 @@ msgstr ""
 "Language: ja_JP\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "HEADER_PREV"
-msgstr "前へ"
-
 msgid "HEADER_NEXT"
 msgstr "次へ"
 
-msgid "PAGE_FORMAT"
-msgstr "ページ %d"
-
-msgid "SEARCH"
-msgstr "検索"
-
-msgid "USERNAME"
-msgstr "ユーザー名"
-
-msgid "RESULTS"
-msgstr "結果"
-
-msgid "SEARCH_USERNAME"
-msgstr "ユーザー名検索"
-
-msgid "PLEASE_ENTER_USERNAME"
-msgstr "ユーザー名を入力してください"
-
-msgid "RESULTS_FOUND_FORMAT_SINGULAR"
-msgstr "\"%2$s\"で%1$d件見つかりました"
-
-msgid "RESULTS_FOUND_FORMAT_MULTIPLE"
-msgstr "\"%2$s\"で%1$d件見つかりました"
+msgid "HEADER_PREV"
+msgstr "前へ"
 
 msgid "NO_RESULTS_FOUND"
 msgstr "結果が見つかりませんでした"
 
+msgid "PAGE_FORMAT"
+msgstr "ページ %d"
+
+msgid "PLEASE_ENTER_USERNAME"
+msgstr "ユーザー名を入力してください"
+
+msgid "RESULTS"
+msgstr "結果"
+
+msgid "RESULTS_FOUND_FORMAT_MULTIPLE"
+msgstr "\"%2$s\"で%1$d件見つかりました"
+
+msgid "RESULTS_FOUND_FORMAT_SINGULAR"
+msgstr "\"%2$s\"で%1$d件見つかりました"
+
+msgid "SEARCH"
+msgstr "検索"
+
 msgid "SEARCH_SHORT_KEY"
 msgstr "うごメモID"
 
-msgid "SHORT_KEY_NO_RESULTS"
-msgstr "作品は見つかりませんでした"
+msgid "SEARCH_USERNAME"
+msgstr "ユーザー名検索"
 
 msgid "SHORT_KEY_FORMAT_GUIDE"
 msgstr "探しているものが見つかりませんか？ 間違って作品IDを入力した可能性があります。作品IDは6桁で、作品の詳細画面で閲覧できます。"
 
+msgid "SHORT_KEY_NO_RESULTS"
+msgstr "作品は見つかりませんでした"
+
 msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
 msgstr "結果は見つかりませんでしたが、同じIDが存在します。 うごメモIDは大文字と小文字の区別があることに注意してください。"
+
+msgid "USERNAME"
+msgstr "ユーザー名"

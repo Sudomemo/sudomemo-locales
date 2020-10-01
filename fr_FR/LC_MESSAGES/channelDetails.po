@@ -3,41 +3,41 @@ msgstr ""
 "Language: fr_FR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "CHANNEL_NAME"
-msgstr "Nom de la chaîne"
+msgid "CHANNEL_ID"
+msgstr "ID de la chaîne"
 
 msgid "CHANNEL_INFORMATION"
 msgstr "Informations sur la chaîne"
 
-msgid "FLIPNOTES"
-msgstr "Flipnotes"
-
-msgid "CHANNEL_ID"
-msgstr "ID de la chaîne"
-
-msgid "LOGIN_REQUIRED_TO_POST"
-msgstr "Vous devez être identifié pour poster une flipnote."
+msgid "CHANNEL_NAME"
+msgstr "Nom de la chaîne"
 
 msgid "CHANNEL_NOT_SPECIFIED"
 msgstr "Vous devez choisir une chaîne."
 
-msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
-msgstr "L'utilisation de votre compte Sudomemo a été restreinte."
-
-msgid "FLIPNOTE_POST_FAILED"
-msgstr "Erreur de téléchargement de la Flipnote. Veuillez réessayer plus tard."
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "Merci de confirmer votre adresse email avant de poster."
 
 msgid "DUPLICATE_FLIPNOTE_FAILED"
 msgstr "Cette flipnote a déjà été postée sur Sudomemo. Essayez de l'éditer à nouveau."
 
+msgid "FLIPNOTES"
+msgstr "Flipnotes"
+
 msgid "FLIPNOTE_DATA_CORRUPTED"
 msgstr "Les données de la Flipnote ont été corrompues, veuillez réessayer plus tard."
 
+msgid "FLIPNOTE_POST_FAILED"
+msgstr "Erreur de téléchargement de la Flipnote. Veuillez réessayer plus tard."
+
+msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
+msgstr "L'utilisation de votre compte Sudomemo a été restreinte."
+
+msgid "LOGIN_REQUIRED_TO_POST"
+msgstr "Vous devez être identifié pour poster une flipnote."
+
 msgid "NO_BLANK_FLIPNOTES_ALLOWED"
 msgstr "Vous ne pouvez pas poster une Flipnote vierge."
-
-msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Merci de confirmer votre adresse email avant de poster."
 
 msgid "NO_POSTS_WHILE_MUTED"
 msgstr "Vous ne pouvez pas poster tant que vous êtes muet."

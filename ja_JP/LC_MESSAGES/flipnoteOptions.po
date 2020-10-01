@@ -3,11 +3,26 @@ msgstr ""
 "Language: ja_JP\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "CITIZENSHIP_REQUIRED"
+msgstr "この機能を使用するには、スドメモ市民権が必要です。"
+
+msgid "DISABLE_AUDIO_ENHANCEMENT"
+msgstr "オーディオ拡張を無効にする"
+
+msgid "DISABLE_SMOOTHING"
+msgstr "スムージングを無効にする"
+
+msgid "ENABLE_AUDIO_ENHANCEMENT"
+msgstr "オーディオ拡張を有効にする"
+
+msgid "ENABLE_SMOOTHING"
+msgstr "スムージングを有効にする"
+
 msgid "FLIPNOTE_OPTIONS"
 msgstr "作品のオプション"
 
-msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
-msgstr "このページを見るにはログインする必要があります。"
+msgid "FLIPNOTE_URL_IS"
+msgstr "作品URL:"
 
 msgid "HEADER_OPTION"
 msgstr "オプション"
@@ -15,44 +30,29 @@ msgstr "オプション"
 msgid "HEADER_STATUS"
 msgstr "ステータス"
 
-msgid "OPTION_NAME_SMOOTH"
-msgstr "スムージング"
-
-msgid "OPTION_DESC_SMOOTH"
-msgstr "スドメモシアターでは、直線、曲線、エッジが滑らかになり、より自然に見えます。"
-
-msgid "FLIPNOTE_URL_IS"
-msgstr "作品URL:"
-
-msgid "ENABLE_SMOOTHING"
-msgstr "スムージングを有効にする"
-
-msgid "DISABLE_SMOOTHING"
-msgstr "スムージングを無効にする"
-
-msgid "ON"
-msgstr "オン"
+msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
+msgstr "このページを見るにはログインする必要があります。"
 
 msgid "OFF"
 msgstr "オフ"
 
-msgid "CITIZENSHIP_REQUIRED"
-msgstr "この機能を使用するには、スドメモ市民権が必要です。"
+msgid "ON"
+msgstr "オン"
+
+msgid "OPTION_DESC_FORCE_44K_BITRATE"
+msgstr "スドメモは、スドメモシアターの音声をより鮮明できれいにしようとします。"
+
+msgid "OPTION_DESC_SMOOTH"
+msgstr "スドメモシアターでは、直線、曲線、エッジが滑らかになり、より自然に見えます。"
+
+msgid "OPTION_NAME_FORCE_44K_BITRATE"
+msgstr "強化された音声"
+
+msgid "OPTION_NAME_SMOOTH"
+msgstr "スムージング"
 
 msgid "PLUS_REQUIRED"
 msgstr "この機能を使用するには、スドメモPlusに加入する必要があります。"
 
 msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
 msgstr "表示または変更するには、オプションのステータスをタップします。"
-
-msgid "OPTION_NAME_FORCE_44K_BITRATE"
-msgstr "強化された音声"
-
-msgid "OPTION_DESC_FORCE_44K_BITRATE"
-msgstr "スドメモは、スドメモシアターの音声をより鮮明できれいにしようとします。"
-
-msgid "ENABLE_AUDIO_ENHANCEMENT"
-msgstr "オーディオ拡張を有効にする"
-
-msgid "DISABLE_AUDIO_ENHANCEMENT"
-msgstr "オーディオ拡張を無効にする"

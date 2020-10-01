@@ -3,30 +3,31 @@ msgstr ""
 "Language: fr_FR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "HEADER_UPLOAD_TO_YOUTUBE"
-msgstr "Envoyer sur YouTube"
+msgid "AUDIO_ENHANCEMENT"
+msgstr "Amélioration audio"
 
-msgid "YOUTUBE"
-msgstr "YouTube"
+msgid "BTN_START_UPLOAD"
+msgstr "Démarrer l'envoi"
+
+msgid "BTN_UPLOAD_AGAIN"
+msgstr "Envoyer à nouveau"
+
+# ...do so, visit https://flipnot.es/ABC123/yt
+msgid "CHANGE_OPTIONS_ON_THEATRE"
+msgstr "Vous pouvez changer ces options avant l'envoi. Pour le faire, allez sur :"
+
+# If the user's already uploaded it...
+msgid "FLIPNOTE_ALREADY_UPLOADED"
+msgstr "Vous avez déjà envoyé cette Flipnote sur YouTube."
+
+msgid "FLIPNOTE_SMOOTHING"
+msgstr "Lissage de Flipnote"
 
 msgid "HEADER_CONFIRM_OPTIONS"
 msgstr "Confirmer les options"
 
-msgid "LINK_REQUIRED_BEFORE_UPLOAD"
-msgstr "Vous devrez lier votre chaîne YouTube avant de pouvoir envoyer votre Flipnote."
-
-msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
-msgstr "Votre compte YouTube n'est pas vérifié. Certaines fonctionnalités ne fonctionneront pas correctement, comme les miniatures des vidéos et les Flipnotes ayant une durée de plus de 15 minutes."
-
-# To fix this, visit: https://flipnot.es/ytsetup
-msgid "YOUTUBE_ACCOUNT_VERIFICATION_FIX"
-msgstr "Pour réparer cela, allez sur :"
-
-msgid "TITLE_DESC_MISSING"
-msgstr "Votre Flipnote a besoin d'un titre et d'une description avant de pouvoir l'envoyer."
-
-msgid "TITLE_DESC_ADD_FIRST"
-msgstr "Merci d'aller les ajouter avant de continuer."
+msgid "HEADER_UPLOAD_TO_YOUTUBE"
+msgstr "Envoyer sur YouTube"
 
 # A URL is displayed after this:
 msgid "HOW_TO_LINK_FROM_THEATRE"
@@ -35,9 +36,28 @@ msgstr "Pour lier votre chaîne YouTube, visitez cette page :"
 msgid "HOW_TO_REFRESH_FROM_THEATRE"
 msgstr "Pour mettre à jour votre chaîne, visitez cette page :"
 
-# Preview upload details before submitting
-msgid "PREVIEW_TITLE"
-msgstr "Titre"
+msgid "LINK_REQUIRED_BEFORE_UPLOAD"
+msgstr "Vous devrez lier votre chaîne YouTube avant de pouvoir envoyer votre Flipnote."
+
+msgid "NONE"
+msgstr "Aucun"
+
+msgid "OFF"
+msgstr "Non"
+
+msgid "ON"
+msgstr "Oui"
+
+# Extra features provided by Sudomemo Plus (see flipnoteOptions.po)
+msgid "PLUS_FEATURES"
+msgstr "Fonctionnalités Sudomemo Plus"
+
+msgid "PLUS_FEATURES_NOTE"
+msgstr "Changez ces options depuis la page des détails de votre Flipnote."
+
+# Position in queue: 4
+msgid "POSITION_IN_QUEUE"
+msgstr "Position dans la file d'attente : %d"
 
 msgid "PREVIEW_DESC"
 msgstr "Description"
@@ -48,53 +68,15 @@ msgstr "Description supplémentaire"
 msgid "PREVIEW_EXTRA_DESC_EXPLANATION"
 msgstr "Ce texte sera affiché lorsque les spectateurs cliqueront sur 'Voir plus' dans la description de votre vidéo."
 
-msgid "TAGS"
-msgstr "Tags"
+# Preview upload details before submitting
+msgid "PREVIEW_TITLE"
+msgstr "Titre"
 
-msgid "NONE"
-msgstr "Aucun"
-
-msgid "YOUTUBE_LOOP_COUNT"
-msgstr "Nombre de lectures"
-
-msgid "YOUTUBE_LOOP_COUNT_EXPLANATION"
-msgstr "Nombre de fois qu'une Flipnote en boucle se répétera. Si c'est 1, la Flipnote ne se lancera qu'une fois."
-
-msgid "YOUTUBE_VISIBILITY"
-msgstr "Visibilité"
-
-msgid "YOUTUBE_VISIBILITY_PUBLIC"
-msgstr "Publique"
-
-msgid "YOUTUBE_VISIBILITY_UNLISTED"
-msgstr "Non repertoriée"
-
-msgid "YOUTUBE_VISIBILITY_PRIVATE"
-msgstr "Privée"
-
-msgid "SUBMIT"
-msgstr "Publier"
-
-# Upload status
-msgid "UPLOAD_STATUS"
-msgstr "Statut de l'envoi"
-
-msgid "YOUTUBE_PENDING_UPLOAD"
-msgstr "Votre Flipnote est actuellement en attente d'envoi. Revenez dans quelques minutes."
-
-# Position in queue: 4
-msgid "POSITION_IN_QUEUE"
-msgstr "Position dans la file d'attente : %d"
-
-msgid "THEATRE_STATUS_TRACKER"
-msgstr "Regardez votre suivi d'envoi en direct ici :"
+msgid "RECONNECT_NEEDED"
+msgstr "La connexion à votre chaîne YouTube a expiré."
 
 msgid "REVIEW_DETAILS_BEFORE_UPLOAD"
 msgstr "Merci de vérifier ces options avant de démarrer l'envoi."
-
-# ...do so, visit https://flipnot.es/ABC123/yt
-msgid "CHANGE_OPTIONS_ON_THEATRE"
-msgstr "Vous pouvez changer ces options avant l'envoi. Pour le faire, allez sur :"
 
 # ...please visit: https://flipnot.es/ytsetup
 msgid "SET_DEFAULTS_ON_THEATRE"
@@ -103,26 +85,49 @@ msgstr "Pour changer vos options d'envoi par défaut, merci de vous rendre sur :
 msgid "STATUS"
 msgstr "Statut"
 
-msgid "YOUTUBE_STATUS_NEW"
-msgstr "Nouveau"
+msgid "SUBMIT"
+msgstr "Publier"
 
-msgid "YOUTUBE_STATUS_PROCESSING"
-msgstr "En traitement"
+msgid "TAGS"
+msgstr "Tags"
 
-msgid "YOUTUBE_STATUS_SUCCESS"
-msgstr "Terminé !"
+msgid "THEATRE_STATUS_TRACKER"
+msgstr "Regardez votre suivi d'envoi en direct ici :"
 
-msgid "YOUTUBE_STATUS_PAUSED"
-msgstr "En pause"
+msgid "TITLE_DESC_ADD_FIRST"
+msgstr "Merci d'aller les ajouter avant de continuer."
 
-msgid "YOUTUBE_STATUS_ERROR"
-msgstr "Erreur"
+msgid "TITLE_DESC_MISSING"
+msgstr "Votre Flipnote a besoin d'un titre et d'une description avant de pouvoir l'envoyer."
 
-msgid "YOUTUBE_STATUS_UNKNOWN"
-msgstr "Inconnu"
+# Upload status
+msgid "UPLOAD_STATUS"
+msgstr "Statut de l'envoi"
 
-msgid "YOUTUBE_STATUS_WAITING_TO_BE_PROCESSED"
-msgstr "Votre envoi est actuellement en attente de traitement."
+msgid "YOUTUBE"
+msgstr "YouTube"
+
+# To fix this, visit: https://flipnot.es/ytsetup
+msgid "YOUTUBE_ACCOUNT_VERIFICATION_FIX"
+msgstr "Pour réparer cela, allez sur :"
+
+msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
+msgstr "Votre compte YouTube n'est pas vérifié. Certaines fonctionnalités ne fonctionneront pas correctement, comme les miniatures des vidéos et les Flipnotes ayant une durée de plus de 15 minutes."
+
+msgid "YOUTUBE_ESTIMATED_DURATION"
+msgstr "Durée de la vidéo estimée :"
+
+msgid "YOUTUBE_ID"
+msgstr "ID YouTube"
+
+msgid "YOUTUBE_LOOP_COUNT"
+msgstr "Nombre de lectures"
+
+msgid "YOUTUBE_LOOP_COUNT_EXPLANATION"
+msgstr "Nombre de fois qu'une Flipnote en boucle se répétera. Si c'est 1, la Flipnote ne se lancera qu'une fois."
+
+msgid "YOUTUBE_PENDING_UPLOAD"
+msgstr "Votre Flipnote est actuellement en attente d'envoi. Revenez dans quelques minutes."
 
 msgid "YOUTUBE_STATUS_BEING_PROCESSED"
 msgstr "Votre envoi est en cours de traitement."
@@ -130,36 +135,32 @@ msgstr "Votre envoi est en cours de traitement."
 msgid "YOUTUBE_STATUS_COMPLETE"
 msgstr "Votre envoi est terminé !"
 
+msgid "YOUTUBE_STATUS_ERROR"
+msgstr "Erreur"
+
 msgid "YOUTUBE_STATUS_FAILED"
 msgstr "Un problème est survenu. Pour plus de détails, allez sur https://flipnot.es/ytsetup"
 
-msgid "RECONNECT_NEEDED"
-msgstr "La connexion à votre chaîne YouTube a expiré."
+msgid "YOUTUBE_STATUS_NEW"
+msgstr "Nouveau"
 
-msgid "BTN_START_UPLOAD"
-msgstr "Démarrer l'envoi"
+msgid "YOUTUBE_STATUS_PAUSED"
+msgstr "En pause"
 
-msgid "YOUTUBE_ESTIMATED_DURATION"
-msgstr "Durée de la vidéo estimée :"
+msgid "YOUTUBE_STATUS_PAUSED_GLOBAL_QUOTA"
+msgstr "Notre quota d'utilisation global a été dépassé, donc l'envoi peut être significativement retardé."
 
-# Extra features provided by Sudomemo Plus (see flipnoteOptions.po)
-msgid "PLUS_FEATURES"
-msgstr "Fonctionnalités Sudomemo Plus"
+msgid "YOUTUBE_STATUS_PROCESSING"
+msgstr "En traitement"
 
-msgid "PLUS_FEATURES_NOTE"
-msgstr "Changez ces options depuis la page des détails de votre Flipnote."
+msgid "YOUTUBE_STATUS_SUCCESS"
+msgstr "Terminé !"
 
-msgid "FLIPNOTE_SMOOTHING"
-msgstr "Lissage de Flipnote"
+msgid "YOUTUBE_STATUS_UNKNOWN"
+msgstr "Inconnu"
 
-msgid "AUDIO_ENHANCEMENT"
-msgstr "Amélioration audio"
-
-msgid "ON"
-msgstr "Oui"
-
-msgid "OFF"
-msgstr "Non"
+msgid "YOUTUBE_STATUS_WAITING_TO_BE_PROCESSED"
+msgstr "Votre envoi est actuellement en attente de traitement."
 
 msgid "YOUTUBE_TERMS_AGREEMENT_NOTE"
 msgstr "En publiant vos vidéos sur YouTube, vous reconnaissez accepter les conditions d'utilisation de YouTube et son règlement de la communauté."
@@ -168,27 +169,26 @@ msgstr "En publiant vos vidéos sur YouTube, vous reconnaissez accepter les cond
 msgid "YOUTUBE_UPLOAD_LIMIT"
 msgstr "Vous pouvez actuellement envoyer %s vidéos sur YouTube par jour."
 
-msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_LIMIT_NOTE"
-msgstr "Les membres Sudomemo Plus peuvent envoyer %s vidéos par jour."
-
-msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_UNLIMITED_NOTE"
-msgstr "Les membres Sudomemo Plus peuvent envoyer un nombre illimité de vidéos chaque jour."
-
 msgid "YOUTUBE_UPLOAD_LIMIT_CURRENT"
 msgstr "Vous avez envoyé %s vidéos aujourd'hui."
 
 msgid "YOUTUBE_UPLOAD_LIMIT_EXCEEDED"
 msgstr "Vous ne pouvez plus envoyer de vidéos jusqu'à demain."
 
-# If the user's already uploaded it...
-msgid "FLIPNOTE_ALREADY_UPLOADED"
-msgstr "Vous avez déjà envoyé cette Flipnote sur YouTube."
+msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_LIMIT_NOTE"
+msgstr "Les membres Sudomemo Plus peuvent envoyer %s vidéos par jour."
 
-msgid "YOUTUBE_ID"
-msgstr "ID YouTube"
+msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_UNLIMITED_NOTE"
+msgstr "Les membres Sudomemo Plus peuvent envoyer un nombre illimité de vidéos chaque jour."
 
-msgid "BTN_UPLOAD_AGAIN"
-msgstr "Envoyer à nouveau"
+msgid "YOUTUBE_VISIBILITY"
+msgstr "Visibilité"
 
-msgid "YOUTUBE_STATUS_PAUSED_GLOBAL_QUOTA"
-msgstr "Notre quota d'utilisation global a été dépassé, donc l'envoi peut être significativement retardé."
+msgid "YOUTUBE_VISIBILITY_PRIVATE"
+msgstr "Privée"
+
+msgid "YOUTUBE_VISIBILITY_PUBLIC"
+msgstr "Publique"
+
+msgid "YOUTUBE_VISIBILITY_UNLISTED"
+msgstr "Non repertoriée"

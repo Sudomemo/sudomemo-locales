@@ -3,38 +3,8 @@ msgstr ""
 "Language: ja_JP\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-# Content Removed - sent to user when a piece of their content has been moderated away
-msgid "NOTICE"
-msgstr "通知"
-
-# # Intro
-msgid "USER_CONTENT_REMOVED"
-msgstr "スドメモのコンテンツポリシー又は利用規約に違反していると判断したため、あなたの投稿は削除されました。"
-
-# # Content types
-msgid "CONTENT_TYPE_flipnote"
-msgstr "作品"
-
-msgid "CONTENT_TYPE_comment"
-msgstr "コメント"
-
-msgid "CONTENT_TYPE_chat_message"
-msgstr "チャットメッセージ"
-
-# ## We plan on adding user-created themes.
-msgid "CONTENT_TYPE_room_theme"
-msgstr "マイルームのテーマ"
-
-msgid "CONTENT_TYPE_profile_bio"
-msgstr "プロフィール文"
-
-# ## Catch-all
-msgid "CONTENT_TYPE_content"
-msgstr "その他のコンテンツ"
-
-# # continued message...
-msgid "REMOVAL_REASON_HEADER"
-msgstr "コンテンツが削除された理由:"
+msgid "CONTENT_ID"
+msgstr "コンテンツID:"
 
 msgid "CONTENT_POLICY_REVIEW_INTRO"
 msgstr "私たちは、コンテンツポリシーが芸術的な表現、文脈、プレゼンテーションである場合を考慮に入れなければならないことを理解しています。"
@@ -42,14 +12,36 @@ msgstr "私たちは、コンテンツポリシーが芸術的な表現、文脈
 msgid "CONTENT_POLICY_REVIEW_LINK"
 msgstr "こちらでコンテンツポリシーを確認されることをお勧めいたします:"
 
-msgid "HOW_TO_APPEAL"
-msgstr "誤って削除されたと思われる場合、こちらのURLで異議申し立てをすることができます:"
-
 msgid "CONTENT_TYPE"
 msgstr "コンテンツのタイプ:"
 
-msgid "CONTENT_ID"
-msgstr "コンテンツID:"
+msgid "CONTENT_TYPE_chat_message"
+msgstr "チャットメッセージ"
+
+msgid "CONTENT_TYPE_comment"
+msgstr "コメント"
+
+# ## Catch-all
+msgid "CONTENT_TYPE_content"
+msgstr "その他のコンテンツ"
+
+# # Content types
+msgid "CONTENT_TYPE_flipnote"
+msgstr "作品"
+
+msgid "CONTENT_TYPE_profile_bio"
+msgstr "プロフィール文"
+
+# ## We plan on adding user-created themes.
+msgid "CONTENT_TYPE_room_theme"
+msgstr "マイルームのテーマ"
+
+msgid "HOW_TO_APPEAL"
+msgstr "誤って削除されたと思われる場合、こちらのURLで異議申し立てをすることができます:"
+
+# Content Removed - sent to user when a piece of their content has been moderated away
+msgid "NOTICE"
+msgstr "通知"
 
 # # re-download will be made available for certain content types
 msgid "REDOWNLOAD_HEADER"
@@ -57,3 +49,11 @@ msgstr "%sを修正したい場合、%sでダウンロードすることがで�
 
 msgid "REDOWNLOAD_LINK"
 msgstr "こちら"
+
+# # continued message...
+msgid "REMOVAL_REASON_HEADER"
+msgstr "コンテンツが削除された理由:"
+
+# # Intro
+msgid "USER_CONTENT_REMOVED"
+msgstr "スドメモのコンテンツポリシー又は利用規約に違反していると判断したため、あなたの投稿は削除されました。"

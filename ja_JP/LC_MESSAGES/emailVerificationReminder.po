@@ -6,14 +6,11 @@ msgstr ""
 msgid "EMAIL_SUBJECT"
 msgstr "[スドメモ] あなたのメールアドレスを確認する必要があります。"
 
-msgid "VERIFICATION_HEADER"
-msgstr "スドメモ - Eメールを確認"
+msgid "EMAIL_VERIFICATION_REMOVE_ME"
+msgstr "無効なメールアドレスです"
 
 msgid "TEXT_HELLO_FORMAT"
 msgstr "%sさん、こんにちは！"
-
-msgid "TEXT_NEED_TO_VERIFY_EMAIL"
-msgstr "これはスドメモでEメールアドレスを確認する必要があることを思い出させるものです。"
 
 msgid "TEXT_LOGIN_WITH_DSI_TO_VERIFY"
 msgstr "ニンデンドーDSiでスドメモにログインして、新しい確認メールを送信することができます。"
@@ -21,5 +18,8 @@ msgstr "ニンデンドーDSiでスドメモにログインして、新しい確
 msgid "TEXT_NEED_HELP_CONNECTION_INFO_LINK_FORMAT"
 msgstr "スドメモに接続するためのサポートが必要ですか？設定ガイドはここにあります: %s"
 
-msgid "EMAIL_VERIFICATION_REMOVE_ME"
-msgstr "無効なメールアドレスです"
+msgid "TEXT_NEED_TO_VERIFY_EMAIL"
+msgstr "これはスドメモでEメールアドレスを確認する必要があることを思い出させるものです。"
+
+msgid "VERIFICATION_HEADER"
+msgstr "スドメモ - Eメールを確認"

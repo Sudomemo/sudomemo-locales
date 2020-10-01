@@ -3,110 +3,110 @@ msgstr ""
 "Language: ja_JP\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "DISABLE"
+msgstr "無効にする"
+
+msgid "DISABLED"
+msgstr "無効"
+
+msgid "DISABLE_CONFIRMATION_FORMAT"
+msgstr "'%s'のメールを無効にしてもよろしいですか？"
+
+msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
+msgstr "このリンクは期限が切れました。"
+
+msgid "EMAIL_SETTING_DISABLED_FINISH_FORMAT"
+msgstr "'%s'のメールを無効にしました。"
+
+msgid "ENABLE"
+msgstr "有効にする"
+
+msgid "ENABLED"
+msgstr "有効"
+
+msgid "HEADER_CHANGE_EMAIL_SETTINGS"
+msgstr "メール設定の変更"
+
 msgid "HEADER_MAIL_SETTINGS"
 msgstr "メール設定"
 
 msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
 msgstr "メール設定を変更するにはログインする必要があります。"
 
-msgid "MAIL_TYPE"
-msgstr "タイプ"
-
 msgid "MAIL_STATUS"
 msgstr "状態"
 
-msgid "ENABLED"
-msgstr "有効"
-
-msgid "DISABLED"
-msgstr "無効"
-
-msgid "ENABLE"
-msgstr "有効にする"
-
-msgid "DISABLE"
-msgstr "無効にする"
-
-msgid "TAP_TO_ENABLE"
-msgstr "タップで有効にする"
-
-msgid "TAP_TO_DISABLE"
-msgstr "タップで無効にする"
-
-msgid "TYPE_NEWS_NAME"
-msgstr "スドメモニュース"
-
-msgid "TYPE_NEWS_DESC"
-msgstr "スドメモニュースが更新されたときメールを受信する"
-
-msgid "TYPE_PROMO_NAME"
-msgstr "プロモーション"
-
-msgid "TYPE_PROMO_DESC"
-msgstr "新機能、ヒント、コツ、そして今後開催されるイベントについてのメールを受け取る"
-
-msgid "TYPE_FAVE_NOTIF_NAME"
-msgstr "お気に入りに追加された"
-
-msgid "TYPE_FAVE_NOTIF_DESC"
-msgstr "誰かがあなたをお気に入りに追加したときにEメールを受信する"
-
-msgid "TYPE_COMMENT_NOTIF_NAME"
-msgstr "受け取ったコメント"
-
-msgid "TYPE_COMMENT_NOTIF_DESC"
-msgstr "作品にコメントが投稿されたときEメールを受け取る"
-
-msgid "TYPE_STAR_REPORT_NAME"
-msgstr "1日のスターレポート"
-
-msgid "TYPE_STAR_REPORT_DESC"
-msgstr "一日の終わりに、受け取ったスターについてのEメールを受け取る"
-
-msgid "TYPE_SPINOFF_NOTIF_NAME"
-msgstr "子作品を受信"
-
-msgid "TYPE_SPINOFF_NOTIF_DESC"
-msgstr "誰かが作品への子作品を投稿したときにEメールを受信する"
-
-msgid "TYPE_SECURITY_NOTIF_NAME"
-msgstr "アカウントのセキュリティ"
-
-msgid "TYPE_SECURITY_NOTIF_DESC"
-msgstr "メールアドレスまたはパスワードが更新されたときにEメールを受信する"
-
-msgid "TYPE_REPORT_UPDATE_NAME"
-msgstr "フラグ付きのコンテンツの更新"
-
-msgid "TYPE_REPORT_UPDATE_DESC"
-msgstr "フラグを立てたコンテンツが更新されたときメールを受信する"
-
-msgid "TYPE_UNREAD_COMMENTS_NAME"
-msgstr "未読のコメント"
-
-msgid "TYPE_UNREAD_COMMENTS_DESC"
-msgstr "最近受け取った新しいコメントの内容をメールで受け取る"
-
-msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
-msgstr "表示または更新するには、メールタイプの状態をタップします。"
-
-msgid "HEADER_CHANGE_EMAIL_SETTINGS"
-msgstr "メール設定の変更"
-
-msgid "DISABLE_CONFIRMATION_FORMAT"
-msgstr "'%s'のメールを無効にしてもよろしいですか？"
+msgid "MAIL_TYPE"
+msgstr "タイプ"
 
 msgid "REENABLE_INSTRUCTIONS"
 msgstr "再度有効にしたい場合は、マイページの<strong>メール設定</strong>で有効にできます。"
 
-msgid "EMAIL_SETTING_DISABLED_FINISH_FORMAT"
-msgstr "'%s'のメールを無効にしました。"
+msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
+msgstr "表示または更新するには、メールタイプの状態をタップします。"
 
-msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
-msgstr "このリンクは期限が切れました。"
+msgid "TAP_TO_DISABLE"
+msgstr "タップで無効にする"
+
+msgid "TAP_TO_ENABLE"
+msgstr "タップで有効にする"
+
+msgid "TYPE_COMMENT_NOTIF_DESC"
+msgstr "作品にコメントが投稿されたときEメールを受け取る"
+
+msgid "TYPE_COMMENT_NOTIF_NAME"
+msgstr "受け取ったコメント"
+
+msgid "TYPE_FAVE_NOTIF_DESC"
+msgstr "誰かがあなたをお気に入りに追加したときにEメールを受信する"
+
+msgid "TYPE_FAVE_NOTIF_NAME"
+msgstr "お気に入りに追加された"
+
+msgid "TYPE_NEWS_DESC"
+msgstr "スドメモニュースが更新されたときメールを受信する"
+
+msgid "TYPE_NEWS_NAME"
+msgstr "スドメモニュース"
+
+msgid "TYPE_PROMO_DESC"
+msgstr "新機能、ヒント、コツ、そして今後開催されるイベントについてのメールを受け取る"
+
+msgid "TYPE_PROMO_NAME"
+msgstr "プロモーション"
+
+msgid "TYPE_REPORT_UPDATE_DESC"
+msgstr "フラグを立てたコンテンツが更新されたときメールを受信する"
+
+msgid "TYPE_REPORT_UPDATE_NAME"
+msgstr "フラグ付きのコンテンツの更新"
+
+msgid "TYPE_SECURITY_NOTIF_DESC"
+msgstr "メールアドレスまたはパスワードが更新されたときにEメールを受信する"
+
+msgid "TYPE_SECURITY_NOTIF_NAME"
+msgstr "アカウントのセキュリティ"
+
+msgid "TYPE_SERVICE_UPDATE_DESC"
+msgstr "アカウントに関連する、スドメモのステータスに対する重要な更新、またはそれに関連したアベイラビリティ"
 
 msgid "TYPE_SERVICE_UPDATE_NAME"
 msgstr "サービスアップデート"
 
-msgid "TYPE_SERVICE_UPDATE_DESC"
-msgstr "アカウントに関連する、スドメモのステータスに対する重要な更新、またはそれに関連したアベイラビリティ"
+msgid "TYPE_SPINOFF_NOTIF_DESC"
+msgstr "誰かが作品への子作品を投稿したときにEメールを受信する"
+
+msgid "TYPE_SPINOFF_NOTIF_NAME"
+msgstr "子作品を受信"
+
+msgid "TYPE_STAR_REPORT_DESC"
+msgstr "一日の終わりに、受け取ったスターについてのEメールを受け取る"
+
+msgid "TYPE_STAR_REPORT_NAME"
+msgstr "1日のスターレポート"
+
+msgid "TYPE_UNREAD_COMMENTS_DESC"
+msgstr "最近受け取った新しいコメントの内容をメールで受け取る"
+
+msgid "TYPE_UNREAD_COMMENTS_NAME"
+msgstr "未読のコメント"

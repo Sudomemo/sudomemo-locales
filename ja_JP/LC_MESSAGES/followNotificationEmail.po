@@ -15,11 +15,11 @@ msgstr "%sさんがあなたをお気に入りに追加しました"
 msgid "STATS_FLIPNOTES_FORMAT"
 msgstr "作品%s"
 
-msgid "STATS_FOLLOWERS_FORMAT"
-msgstr "フォロワー%s"
-
 msgid "STATS_FLIPNOTES_FORMAT_SINGULAR"
 msgstr "作品%s"
+
+msgid "STATS_FOLLOWERS_FORMAT"
+msgstr "フォロワー%s"
 
 msgid "STATS_FOLLOWERS_FORMAT_SINGULAR"
 msgstr "フォロワー%s"

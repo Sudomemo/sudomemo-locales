@@ -3,6 +3,33 @@ msgstr ""
 "Language: ja_JP\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "CONTENT_ID"
+msgstr "コンテンツID:"
+
+msgid "CONTENT_TYPE"
+msgstr "コンテンツのタイプ:"
+
+msgid "CONTENT_TYPE_chat_message"
+msgstr "チャットメッセージ"
+
+msgid "CONTENT_TYPE_comment"
+msgstr "コメント"
+
+# ## Catch-all
+msgid "CONTENT_TYPE_content"
+msgstr "その他のコンテンツ"
+
+# # Content types
+msgid "CONTENT_TYPE_flipnote"
+msgstr "作品"
+
+msgid "CONTENT_TYPE_profile_bio"
+msgstr "プロフィール文"
+
+# ## We plan on adding user-created themes.
+msgid "CONTENT_TYPE_room_theme"
+msgstr "マイルームのテーマ"
+
 # Content Report Accepted - sent to user who has correctly reported content
 msgid "NOTICE"
 msgstr "通知"
@@ -11,27 +38,6 @@ msgstr "通知"
 msgid "REPORT_ACCEPTED"
 msgstr "送信されたコンテンツレポートを調査したところ、レポートは有効であるが判明しました。"
 
-# # Content types
-msgid "CONTENT_TYPE_flipnote"
-msgstr "作品"
-
-msgid "CONTENT_TYPE_comment"
-msgstr "コメント"
-
-msgid "CONTENT_TYPE_chat_message"
-msgstr "チャットメッセージ"
-
-# ## We plan on adding user-created themes.
-msgid "CONTENT_TYPE_room_theme"
-msgstr "マイルームのテーマ"
-
-msgid "CONTENT_TYPE_profile_bio"
-msgstr "プロフィール文"
-
-# ## Catch-all
-msgid "CONTENT_TYPE_content"
-msgstr "その他のコンテンツ"
-
 # # continued message...
 msgid "REPORT_ACCEPTED_CONTINUED"
 msgstr "そのため、コンテンツは削除されました。"
@@ -39,9 +45,3 @@ msgstr "そのため、コンテンツは削除されました。"
 # this message is followed by a link
 msgid "REPORT_ACCEPTED_INFO"
 msgstr "レポートはスドメモを誰にとっても安全で親しみやすい場所にすることに大変有効です。コンテンツポリシーの詳細については、こちらをご覧ください："
-
-msgid "CONTENT_TYPE"
-msgstr "コンテンツのタイプ:"
-
-msgid "CONTENT_ID"
-msgstr "コンテンツID:"

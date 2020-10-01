@@ -3,95 +3,101 @@ msgstr ""
 "Language: ja_JP\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "TIMESTAMP_FORMAT"
-msgstr "Y年m月d日 H:i:s"
-
-msgid "FLIPNOTE_TITLE_FORMAT"
-msgstr "%sさんの作品"
-
-msgid "HEADER_DETAILS"
-msgstr "作品情報"
-
-msgid "HEADER_COMMENTS"
-msgstr "コメント"
-
-msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
-msgstr "この作品は子作品です。"
-
-msgid "HEADER_ORIGINAL_FLIPNOTE"
-msgstr "親作品はこちら"
-
-msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
-msgstr "一つのメモに対して付けられるイエロースターは10個までです。"
-
-msgid "HEADER_CREATOR"
-msgstr "作者"
-
-msgid "HEADER_STARS"
-msgstr "スター"
-
-msgid "HEADER_VIEWS"
-msgstr "閲覧回数"
-
-msgid "HEADER_SPINOFFS"
-msgstr "子作品"
-
-msgid "HEADER_DOWNLOADS"
-msgstr "ダウンロード数"
-
-msgid "HEADER_TITLE"
-msgstr "タイトル"
-
-msgid "HEADER_POSTED"
-msgstr "投稿された時間"
-
-msgid "HEADER_FLIPNOTE_ID"
-msgstr "うごメモID"
-
-msgid "HEADER_CHANNEL"
-msgstr "チャンネル"
-
-msgid "HEADER_OPTIONS"
-msgstr "設定"
-
-msgid "HEADER_SET_AS_PROFILE_PICTURE"
-msgstr "プロフィール画像を変更する"
-
-msgid "HEADER_REPORT_FLIPNOTE"
-msgstr "規約違反を通報"
-
-msgid "ADMIN_ACTIONS"
-msgstr "管理者の操作"
-
-msgid "PREV"
-msgstr "前へ"
-
-msgid "NEXT"
-msgstr "次へ"
-
-msgid "STAR_DETAILS_UPPERTITLE"
-msgstr "★ スター ★"
-
-msgid "SET_TITLE"
-msgstr "タイトル設定"
-
-msgid "SET_TITLE_INSTRUCTIONS"
-msgstr "作品の新しいタイトルを入力してください。"
+msgid "101_CHARACTER_LIMIT_DESC"
+msgstr "説明は101文字以内に制限されています"
 
 msgid "40_CHARACTER_LIMIT"
 msgstr "タイトルの文字数は40文字に制限されています。"
 
-msgid "LEAVE_BLANK_TO_RESET"
-msgstr "タイトルをデフォルトの状態にするにはフォームを空白にして送信します。"
+msgid "ADMIN_ACTIONS"
+msgstr "管理者の操作"
+
+msgid "ENTER_DESCRIPTION"
+msgstr "説明を入力してください..."
 
 msgid "ENTER_TITLE"
 msgstr "タイトルを入力"
 
+msgid "FLIPNOTE_TITLE_FORMAT"
+msgstr "%sさんの作品"
+
 msgid "HEADER_ADD_DESCRIPTION"
 msgstr "説明を追加"
 
+msgid "HEADER_CHANNEL"
+msgstr "チャンネル"
+
+msgid "HEADER_COMMENTS"
+msgstr "コメント"
+
+msgid "HEADER_CREATOR"
+msgstr "作者"
+
 msgid "HEADER_DESCRIPTION"
 msgstr "説明"
+
+msgid "HEADER_DETAILS"
+msgstr "作品情報"
+
+msgid "HEADER_DOWNLOADS"
+msgstr "ダウンロード数"
+
+msgid "HEADER_FLIPNOTE_ID"
+msgstr "うごメモID"
+
+msgid "HEADER_FLIPNOTE_OPTIONS"
+msgstr "オプション"
+
+msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
+msgstr "一つのメモに対して付けられるイエロースターは10個までです。"
+
+msgid "HEADER_OPTIONS"
+msgstr "設定"
+
+msgid "HEADER_ORIGINAL_FLIPNOTE"
+msgstr "親作品はこちら"
+
+msgid "HEADER_POSTED"
+msgstr "投稿された時間"
+
+msgid "HEADER_REPORT_FLIPNOTE"
+msgstr "規約違反を通報"
+
+msgid "HEADER_SET_AS_PROFILE_PICTURE"
+msgstr "プロフィール画像を変更する"
+
+msgid "HEADER_SONG"
+msgstr "曲"
+
+msgid "HEADER_SPINOFFS"
+msgstr "子作品"
+
+msgid "HEADER_STARS"
+msgstr "スター"
+
+msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
+msgstr "この作品は子作品です。"
+
+msgid "HEADER_TITLE"
+msgstr "タイトル"
+
+msgid "HEADER_UPLOAD_TO_YOUTUBE"
+msgstr "YouTubeにアップロード"
+
+msgid "HEADER_VIEWS"
+msgstr "閲覧回数"
+
+msgid "LEAVE_BLANK_TO_RESET"
+msgstr "タイトルをデフォルトの状態にするにはフォームを空白にして送信します。"
+
+msgid "LEAVE_BLANK_TO_RESET_DESC"
+msgstr "説明を削除するには、フォームを空白にしたまま送信します。"
+
+msgid "NEXT"
+msgstr "次へ"
+
+msgid "PREV"
+msgstr "前へ"
 
 msgid "SET_DESCRIPTION"
 msgstr "説明の設定"
@@ -99,24 +105,18 @@ msgstr "説明の設定"
 msgid "SET_DESCRIPTION_INSTRUCTIONS"
 msgstr "作品の説明を入力してください。"
 
-msgid "101_CHARACTER_LIMIT_DESC"
-msgstr "説明は101文字以内に制限されています"
+msgid "SET_TITLE"
+msgstr "タイトル設定"
 
-msgid "LEAVE_BLANK_TO_RESET_DESC"
-msgstr "説明を削除するには、フォームを空白にしたまま送信します。"
+msgid "SET_TITLE_INSTRUCTIONS"
+msgstr "作品の新しいタイトルを入力してください。"
 
-msgid "ENTER_DESCRIPTION"
-msgstr "説明を入力してください..."
+msgid "STAR_DETAILS_UPPERTITLE"
+msgstr "★ スター ★"
 
-msgid "HEADER_FLIPNOTE_OPTIONS"
-msgstr "オプション"
-
-msgid "HEADER_SONG"
-msgstr "曲"
+msgid "TIMESTAMP_FORMAT"
+msgstr "Y年m月d日 H:i:s"
 
 # This is shown to logged-in users on their own Flipnotes without titles
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "%sさんの作品"
-
-msgid "HEADER_UPLOAD_TO_YOUTUBE"
-msgstr "YouTubeにアップロード"

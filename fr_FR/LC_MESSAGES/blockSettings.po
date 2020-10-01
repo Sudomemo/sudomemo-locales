@@ -3,62 +3,62 @@ msgstr ""
 "Language: fr_FR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "LOGIN_REQUIRED_TO_MANAGE_BLOCKS"
-msgstr "Vous devez être identifié pour gérer vos utilisateurs bloqués."
-
-msgid "NO_USERS_BLOCKED"
-msgstr "Vous n'avez aucun utilisateur bloqué."
-
 msgid "BLOCKED_USERS"
 msgstr "Utilisateurs bloqués"
 
 msgid "BLOCK_USER"
 msgstr "Bloquer un utilisateur"
 
-msgid "COMMENT_BLOCK_IS_MUTUAL"
-msgstr "Une fois cet utilisateur bloqué, vous ne pourrez plus commenter ses Flipnotes et il ne pourra plus commenter les vôtres."
-
-msgid "USER_HAS_BEEN_BLOCKED"
-msgstr "Cet utilisateur a été bloqué."
-
-msgid "IF_YOU_WISH_TO_UNBLOCK"
-msgstr "Si vous souhaitez le débloquer, vous pouvez le faire en visitant votre salle de créateur et en ouvrant le menu des utilisateurs bloqués."
-
-msgid "CONFIRM_BLOCK"
-msgstr "Confirmer le blocage"
-
-msgid "USER_ALREADY_BLOCKED"
-msgstr "Vous avez déjà bloqué cet utilisateur. Vous pouvez le débloquer depuis les paramètres dans votre salle de créateur, mais vous devez attendre 24 heures avant de pouvoir le rebloquer."
-
-msgid "ONE_DAY_WAIT_BEFORE_REBLOCK_FORMAT"
-msgstr "Vous avez récemment débloqué cet utilisateur. Vous ne pouvez pas le rebloquer avant %s"
-
-msgid "UNBLOCK"
-msgstr "Débloquer"
-
-msgid "LOGIN_REQUIRED"
-msgstr "Vous devez être identifié pour effectuer cette action."
-
-msgid "TAP_BACK_TO_RETURN"
-msgstr "Cliquez sur Retour pour retourner à la salle de créateur."
-
-msgid "UNBLOCK_USER"
-msgstr "Débloquer un utilisateur"
-
 msgid "CANNOT_UNBLOCK_NONBLOCKED_USER"
 msgstr "Vous ne pouvez pas débloquer cet utilisateur, car il n'a jamais vraiment été bloqué."
-
-msgid "USER_HAS_BEEN_UNBLOCKED"
-msgstr "Vous avez débloqué cet utilisateur."
 
 msgid "COMMENTING_ENABLED_AFTER_UNBLOCK"
 msgstr "Après avoir débloqué cet utilisateur, il sera capable de commenter vos Flipnotes à nouveau, sauf s'il vous a lui-même bloqué."
 
-msgid "UNBLOCK_WARNING_ONE_DAY_THRESHOLD"
-msgstr "Si vous le débloquez, alors vous devrez attendre 24 heures avant de pouvoir le bloquer de nouveau."
+msgid "COMMENT_BLOCK_IS_MUTUAL"
+msgstr "Une fois cet utilisateur bloqué, vous ne pourrez plus commenter ses Flipnotes et il ne pourra plus commenter les vôtres."
+
+msgid "CONFIRM_BLOCK"
+msgstr "Confirmer le blocage"
 
 msgid "CONFIRM_UNBLOCK"
 msgstr "Confirmer le déblocage"
 
+msgid "IF_YOU_WISH_TO_UNBLOCK"
+msgstr "Si vous souhaitez le débloquer, vous pouvez le faire en visitant votre salle de créateur et en ouvrant le menu des utilisateurs bloqués."
+
+msgid "LOGIN_REQUIRED"
+msgstr "Vous devez être identifié pour effectuer cette action."
+
+msgid "LOGIN_REQUIRED_TO_MANAGE_BLOCKS"
+msgstr "Vous devez être identifié pour gérer vos utilisateurs bloqués."
+
+msgid "NO_USERS_BLOCKED"
+msgstr "Vous n'avez aucun utilisateur bloqué."
+
+msgid "ONE_DAY_WAIT_BEFORE_REBLOCK_FORMAT"
+msgstr "Vous avez récemment débloqué cet utilisateur. Vous ne pouvez pas le rebloquer avant %s"
+
 msgid "RECENTLY_UNBLOCKED_ONE_DAY_THRESHOLD"
 msgstr "Vous avez récemment débloqué cet utilisateur. Vous devez attendre 24 heures depuis le moment où vous l'avez débloqué avant de pouvoir le rebloquer."
+
+msgid "TAP_BACK_TO_RETURN"
+msgstr "Cliquez sur Retour pour retourner à la salle de créateur."
+
+msgid "UNBLOCK"
+msgstr "Débloquer"
+
+msgid "UNBLOCK_USER"
+msgstr "Débloquer un utilisateur"
+
+msgid "UNBLOCK_WARNING_ONE_DAY_THRESHOLD"
+msgstr "Si vous le débloquez, alors vous devrez attendre 24 heures avant de pouvoir le bloquer de nouveau."
+
+msgid "USER_ALREADY_BLOCKED"
+msgstr "Vous avez déjà bloqué cet utilisateur. Vous pouvez le débloquer depuis les paramètres dans votre salle de créateur, mais vous devez attendre 24 heures avant de pouvoir le rebloquer."
+
+msgid "USER_HAS_BEEN_BLOCKED"
+msgstr "Cet utilisateur a été bloqué."
+
+msgid "USER_HAS_BEEN_UNBLOCKED"
+msgstr "Vous avez débloqué cet utilisateur."

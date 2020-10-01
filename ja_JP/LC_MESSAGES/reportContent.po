@@ -3,8 +3,65 @@ msgstr ""
 "Language: ja_JP\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "HEADER_REPORT_CONTENT"
-msgstr "作品を通報"
+msgid "CATEGORY_DESC_drugs"
+msgstr "薬物乱用または薬物への言及"
+
+msgid "CATEGORY_DESC_fraud"
+msgstr "なりすまし、またはその他不正行為"
+
+msgid "CATEGORY_DESC_harassment"
+msgstr "いじめ、差別、嫌がらせ、名誉毀損"
+
+msgid "CATEGORY_DESC_misplaced_rp"
+msgstr "ロールプレイチャンネル以外に投稿されたロールプレイ"
+
+msgid "CATEGORY_DESC_rapid_flashing"
+msgstr "1秒間に4回以上の点滅"
+
+msgid "CATEGORY_DESC_sexual"
+msgstr "性的なテーマおよびコンテンツ"
+
+msgid "CATEGORY_DESC_spam"
+msgstr "スパム（意味のないコンテンツを含む）"
+
+msgid "CATEGORY_DESC_stolen"
+msgstr "子作品機能の誤用（丸コピー）"
+
+msgid "CATEGORY_DESC_swearing"
+msgstr "行き過ぎた暴言、または暴言の頻繁な使用"
+
+msgid "CATEGORY_DESC_violent"
+msgstr "暴力的なグラフィック、過度の暴力、流血、血液そのもの、またはグロテスクな描写"
+
+msgid "CATEGORY_NAME_drugs"
+msgstr "薬物関係"
+
+msgid "CATEGORY_NAME_fraud"
+msgstr "詐欺"
+
+msgid "CATEGORY_NAME_harassment"
+msgstr "嫌がらせ"
+
+msgid "CATEGORY_NAME_misplaced_rp"
+msgstr "RPの置き忘れ"
+
+msgid "CATEGORY_NAME_rapid_flashing"
+msgstr "激しい点滅"
+
+msgid "CATEGORY_NAME_sexual"
+msgstr "性的である"
+
+msgid "CATEGORY_NAME_spam"
+msgstr "スパム"
+
+msgid "CATEGORY_NAME_stolen"
+msgstr "丸コピー"
+
+msgid "CATEGORY_NAME_swearing"
+msgstr "冒涜"
+
+msgid "CATEGORY_NAME_violent"
+msgstr "グラフィック"
 
 msgid "CHAT_MESSAGE"
 msgstr "チャットメッセージ"
@@ -12,44 +69,32 @@ msgstr "チャットメッセージ"
 msgid "COMMENT"
 msgstr "コメント"
 
-msgid "FLIPNOTE"
-msgstr "メモ"
-
-msgid "YOU_ARE_REPORTING_THIS_FORMAT"
-msgstr "この%sを報告しています。"
-
-msgid "USER_HAS_ALREADY_REPORTED_FORMAT"
-msgstr "この%sのレポートは既に送信されています。"
-
-msgid "HEADER_VIOLATION_CATEGORY"
-msgstr "違反カテゴリ:"
-
-msgid "FLIPNOTE_TITLE_FORMAT"
-msgstr "%sさんのメモ"
+msgid "CONFIRM_EMAIL_BEFORE_REPORTING"
+msgstr "報告の前にメールアドレスの確認をしてください。"
 
 msgid "CREATOR_FORMAT"
 msgstr "作者: %s"
 
-msgid "NOTICE_REPORT_OTHER_ISSUES"
-msgstr "このフォームは、ユーザーのコンテンツを報告するためのものです。 ユーザーの行動やその他の問題やリクエストを報告するには、サポートチームにメールを送信してください。"
+msgid "DUPLICATE_COMMENT_FAILED"
+msgstr "このコメントは既にSudomemoに投稿されています。"
 
-msgid "REPORT_INSTRUCTIONS"
-msgstr "このコンテンツがSudomemoの利用規約に違反していると思われる簡単な理由を記入してください。 提出したら、Backをタップして作品に戻ります。"
+msgid "FLIPNOTE"
+msgstr "メモ"
 
-msgid "NO_BLANK_REPORTS"
-msgstr "空白のレポートを投稿することはできません。"
-
-msgid "LIMIT_ONE_REPORT"
-msgstr "注意:このコンテンツは1度だけ報告することができます。 追加の報告は出来ませんので、あなたの情報をコメントに入れてください。"
-
-msgid "REPORT_EXPLANATION_FAILED"
-msgstr "レポートの送信中にエラーが発生しました。"
-
-msgid "RESTRICTED_CANCEL"
-msgstr "何らかの形でSudomemoとの対話が制限されている場合、コンテンツを報告することはできません。"
+msgid "FLIPNOTE_TITLE_FORMAT"
+msgstr "%sさんのメモ"
 
 msgid "HEADER_REASON"
 msgstr "理由:"
+
+msgid "HEADER_REPORT_CONTENT"
+msgstr "作品を通報"
+
+msgid "HEADER_VIOLATION_CATEGORY"
+msgstr "違反カテゴリ:"
+
+msgid "LIMIT_ONE_REPORT"
+msgstr "注意:このコンテンツは1度だけ報告することができます。 追加の報告は出来ませんので、あなたの情報をコメントに入れてください。"
 
 msgid "LOGIN_REQUIRED_TO_CONTINUE"
 msgstr "続けるためにはログインが必要です。"
@@ -57,74 +102,29 @@ msgstr "続けるためにはログインが必要です。"
 msgid "LOGIN_REQUIRED_TO_REPORT_CONTENT"
 msgstr "報告するためにはログインする必要があります。"
 
+msgid "NOTICE_REPORT_OTHER_ISSUES"
+msgstr "このフォームは、ユーザーのコンテンツを報告するためのものです。 ユーザーの行動やその他の問題やリクエストを報告するには、サポートチームにメールを送信してください。"
+
+msgid "NO_BLANK_REPORTS"
+msgstr "空白のレポートを投稿することはできません。"
+
+msgid "REPORT_EXPLANATION_FAILED"
+msgstr "レポートの送信中にエラーが発生しました。"
+
 msgid "REPORT_FAILED_USER_BANNED"
 msgstr "あなたはSudomemoとの対話を制限されています。"
 
-msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "このコメントは既にSudomemoに投稿されています。"
+msgid "REPORT_INSTRUCTIONS"
+msgstr "このコンテンツがSudomemoの利用規約に違反していると思われる簡単な理由を記入してください。 提出したら、Backをタップして作品に戻ります。"
 
-msgid "CONFIRM_EMAIL_BEFORE_REPORTING"
-msgstr "報告の前にメールアドレスの確認をしてください。"
+msgid "RESTRICTED_CANCEL"
+msgstr "何らかの形でSudomemoとの対話が制限されている場合、コンテンツを報告することはできません。"
 
 msgid "THANKS_FOR_REPORTING"
 msgstr "報告を受け取りました。ご報告ありがとうございました。"
 
-msgid "CATEGORY_NAME_stolen"
-msgstr "丸コピー"
+msgid "USER_HAS_ALREADY_REPORTED_FORMAT"
+msgstr "この%sのレポートは既に送信されています。"
 
-msgid "CATEGORY_DESC_stolen"
-msgstr "子作品機能の誤用（丸コピー）"
-
-msgid "CATEGORY_NAME_spam"
-msgstr "スパム"
-
-msgid "CATEGORY_DESC_spam"
-msgstr "スパム（意味のないコンテンツを含む）"
-
-msgid "CATEGORY_NAME_harassment"
-msgstr "嫌がらせ"
-
-msgid "CATEGORY_DESC_harassment"
-msgstr "いじめ、差別、嫌がらせ、名誉毀損"
-
-msgid "CATEGORY_NAME_fraud"
-msgstr "詐欺"
-
-msgid "CATEGORY_DESC_fraud"
-msgstr "なりすまし、またはその他不正行為"
-
-msgid "CATEGORY_NAME_swearing"
-msgstr "冒涜"
-
-msgid "CATEGORY_DESC_swearing"
-msgstr "行き過ぎた暴言、または暴言の頻繁な使用"
-
-msgid "CATEGORY_NAME_sexual"
-msgstr "性的である"
-
-msgid "CATEGORY_DESC_sexual"
-msgstr "性的なテーマおよびコンテンツ"
-
-msgid "CATEGORY_NAME_violent"
-msgstr "グラフィック"
-
-msgid "CATEGORY_DESC_violent"
-msgstr "暴力的なグラフィック、過度の暴力、流血、血液そのもの、またはグロテスクな描写"
-
-msgid "CATEGORY_NAME_misplaced_rp"
-msgstr "RPの置き忘れ"
-
-msgid "CATEGORY_DESC_misplaced_rp"
-msgstr "ロールプレイチャンネル以外に投稿されたロールプレイ"
-
-msgid "CATEGORY_NAME_drugs"
-msgstr "薬物関係"
-
-msgid "CATEGORY_DESC_drugs"
-msgstr "薬物乱用または薬物への言及"
-
-msgid "CATEGORY_NAME_rapid_flashing"
-msgstr "激しい点滅"
-
-msgid "CATEGORY_DESC_rapid_flashing"
-msgstr "1秒間に4回以上の点滅"
+msgid "YOU_ARE_REPORTING_THIS_FORMAT"
+msgstr "この%sを報告しています。"

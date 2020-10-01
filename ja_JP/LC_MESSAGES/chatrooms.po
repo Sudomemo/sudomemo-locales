@@ -3,41 +3,8 @@ msgstr ""
 "Language: ja_JP\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "NO_COMMENTS_YET"
-msgstr "まだメッセージがありません。"
-
-msgid "HEADER_COMMENTS"
-msgstr "コメント"
-
-msgid "PAGE_FORMAT"
-msgstr "%dページ"
-
-msgid "HEADER_NEXT"
-msgstr "次へ"
-
-msgid "HEADER_REFRESH"
-msgstr "再読み込み"
-
-msgid "HEADER_PREV"
-msgstr "前へ"
-
-msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
-msgstr "チャットメッセージを投稿するには、ログインする必要があります。"
-
 msgid "CHAT_REPLY_FAILED"
 msgstr "チャットの返信に失敗しました。 もう一度やり直してください。"
-
-msgid "NO_BLANK_MESSAGES_ALLOWED"
-msgstr "空白のチャットメッセージを投稿することはできません。"
-
-msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "データが破損しています。 もう一度やり直してください。"
-
-msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
-msgstr "あなたはミュートされました。 ミュート中にチャットメッセージを投稿することはできません。"
-
-msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "このコメントは既にスドメモに投稿されています。"
 
 msgid "COMMENT_FAILED_USER_BANNED"
 msgstr "コメントの送信に失敗しました。あなたはスドメモへの投稿を禁止されています。"
@@ -45,5 +12,38 @@ msgstr "コメントの送信に失敗しました。あなたはスドメモへ
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
 msgstr "投稿する前にメールアドレスを確認してください。"
 
+msgid "DUPLICATE_COMMENT_FAILED"
+msgstr "このコメントは既にスドメモに投稿されています。"
+
+msgid "FLIPNOTE_DATA_CORRUPTED"
+msgstr "データが破損しています。 もう一度やり直してください。"
+
+msgid "HEADER_COMMENTS"
+msgstr "コメント"
+
+msgid "HEADER_NEXT"
+msgstr "次へ"
+
+msgid "HEADER_PREV"
+msgstr "前へ"
+
+msgid "HEADER_REFRESH"
+msgstr "再読み込み"
+
+msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
+msgstr "チャットメッセージを投稿するには、ログインする必要があります。"
+
 msgid "MODERATOR"
 msgstr "モデレータ"
+
+msgid "NO_BLANK_MESSAGES_ALLOWED"
+msgstr "空白のチャットメッセージを投稿することはできません。"
+
+msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
+msgstr "あなたはミュートされました。 ミュート中にチャットメッセージを投稿することはできません。"
+
+msgid "NO_COMMENTS_YET"
+msgstr "まだメッセージがありません。"
+
+msgid "PAGE_FORMAT"
+msgstr "%dページ"

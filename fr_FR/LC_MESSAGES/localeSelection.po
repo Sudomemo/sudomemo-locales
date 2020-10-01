@@ -6,17 +6,17 @@ msgstr ""
 msgid "CHANGE_LANGUAGE"
 msgstr "Changer la langue"
 
+msgid "INVALID_LOCALE"
+msgstr "Désolé, mais cette langue n'est pas disponible."
+
 msgid "LANGUAGE_UPDATED_FORMAT"
 msgstr "Votre langue a été réglée sur %s."
+
+msgid "NOT_LOGGED_IN"
+msgstr "Vous devez être connecté avant de changer votre langue."
 
 msgid "POTENTIAL_CONTRIBUTOR_NOTE"
 msgstr "Sudomemo compte sur sa communauté pour fournir des traductions exactes. Si vous voyez quelque chose qui ne s'affiche pas correctement, qui est toujours en anglais, qui est une traduction de mauvaise qualité, ou si vous voudriez ajouter votre propre langue, nous vous invitons à contribuer ! Les nouvelles traductions complètes et vérifiées peuvent vous rapporter des jours supplémentaires de Sudomemo Plus. Vous pouvez le faire ici : "
 
 msgid "RETURN_TO_CREATORS_ROOM"
 msgstr "Retour à la salle de créateur"
-
-msgid "NOT_LOGGED_IN"
-msgstr "Vous devez être connecté avant de changer votre langue."
-
-msgid "INVALID_LOCALE"
-msgstr "Désolé, mais cette langue n'est pas disponible."
