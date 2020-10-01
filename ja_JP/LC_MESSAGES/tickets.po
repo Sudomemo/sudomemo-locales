@@ -3,12 +3,8 @@ msgstr ""
 "Language: ja_JP\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-# Code Redemption
-msgid "REDEEM_CODE"
-msgstr "引き換えコード"
-
-msgid "ENTER_CODE_TO_REDEEM"
-msgstr "引き換えるコードを入力してください。"
+msgid "ACHIEVEMENT"
+msgstr "成果"
 
 msgid "CODE_ALREADY_USED"
 msgstr "入力されたコードは使用済みです。"
@@ -19,87 +15,116 @@ msgstr "入力されたコードは無効です。"
 msgid "CODE_NONEXISTING_OR_EXPIRED"
 msgstr "入力されたコードは存在しないか、期限切れです。"
 
-msgid "LOGIN_REQUIRED_REDEEM_CODE"
-msgstr "コードを引き換えるにはログインする必要があります。"
-
-# Ticket delivery
-msgid "YOU_GOT_A_TICKET"
-msgstr "チケットを手に入れました!"
+msgid "COLOR_STARS"
+msgstr "カラースター"
 
 msgid "CONTINUE"
 msgstr "続ける"
+
+msgid "CREATORS_ROOM_THEME"
+msgstr "マイルームテーマ"
+
+msgid "DONT_HAVE_ANY_TO_USE"
+msgstr "使用できるアイテムがありません…"
+
+msgid "ENTER_CODE_TO_REDEEM"
+msgstr "引き換えるコードを入力してください。"
 
 # Inventory
 msgid "INVENTORY"
 msgstr "チケット一覧"
 
-msgid "USE_ITEM"
-msgstr "使う"
-
 msgid "INVENTORY_IS_EMPTY"
 msgstr "チケットはありません。"
 
-# Ticket redemption
-msgid "TICKET_REDEEM_WIN_FORMAT"
-msgstr "%sを引き換えました!"
+msgid "LOGIN_REQUIRED_REDEEM_CODE"
+msgstr "コードを引き換えるにはログインする必要があります。"
 
-msgid "TICKET_REDEEM_LOSE_FORMAT"
-msgstr "%sを引き換えましたが、"
-
-msgid "TICKET_REDEEM_NO_PRIZES"
-msgstr "残念ですが、何も獲得できませんでした。"
-
-msgid "ACHIEVEMENT"
-msgstr "成果"
-
-msgid "COLOR_STARS"
-msgstr "カラースター"
-
-msgid "CREATORS_ROOM_THEME"
-msgstr "マイルームテーマ"
+# Code Redemption
+msgid "REDEEM_CODE"
+msgstr "引き換えコード"
 
 msgid "SUDOMEMO_CITIZENSHIP"
 msgstr "スドメモ市民権"
 
-msgid "THEME_AVAILABLE_FOR_USE"
-msgstr "このテーマをマイルームで使うことができます!"
-
 msgid "SUDOMEMO_PLUS"
 msgstr "スドメモPlus"
-
-msgid "SUDOMEMO_PLUS_FORMAT"
-msgstr "%s日分のSudomemo Plusを受け取りました!"
 
 msgid "SUDOMEMO_PLUS_BALANCE_FORMAT"
 msgstr "残り日数: %s日"
 
-# Each ticket type will have a name and a description 
-msgid "TICKET_NAME_demo_ticket"
-msgstr "デモチケット"
+msgid "SUDOMEMO_PLUS_FORMAT"
+msgstr "%s日分のSudomemo Plusを受け取りました!"
+
+msgid "THEME_AVAILABLE_FOR_USE"
+msgstr "このテーマをマイルームで使うことができます!"
+
+msgid "TICKET_DESC_birthday_ticket"
+msgstr "お誕生日おめでとう!"
+
+msgid "TICKET_DESC_blue_dog_ticket"
+msgstr "このチケットを購入すると、350ものスター（レアなスターがあるかも？）、限定テーマをゲットすることができ、特別なバッジがプロフィールに表示されます"
+
+msgid "TICKET_DESC_colors_promo_ticket"
+msgstr "スドメモ x Colorsを獲得しました！※2020年6月の週刊トピックです！"
 
 msgid "TICKET_DESC_demo_ticket"
 msgstr "デモチケットの説明です。"
 
-msgid "TICKET_NAME_regular_ticket"
-msgstr "レギュラーチケット"
+msgid "TICKET_DESC_featured_artist_ticket"
+msgstr "スドメモで注目された作者になったことを心からお祝いします！"
 
-msgid "TICKET_DESC_regular_ticket"
-msgstr "スドメモをご利用いただきありがとうございます!"
+msgid "TICKET_DESC_featured_flipnote_ticket"
+msgstr "おめでとうございます！あなたの作品が一つ紹介されました"
 
-msgid "TICKET_NAME_twitter_promo_ticket"
-msgstr "Twitterプロモチケット"
+msgid "TICKET_DESC_ffotd_ticket"
+msgstr "おめでとうございます！新10年間の最初の作品を投稿しました。"
 
-msgid "TICKET_DESC_twitter_promo_ticket"
-msgstr "スドメモのTwitterをフォローしていただきありがとうございます!"
+msgid "TICKET_DESC_folding_reward_ticket"
+msgstr "生活を助けてくれてありがとう！"
 
-msgid "TICKET_NAME_instagram_promo_ticket"
-msgstr "Instagramプロモチケット"
+msgid "TICKET_DESC_golden_neko_ticket"
+msgstr "このチケットでは、なんと1300ものスター（レアなスター付き！）、限定テーマが貰え、特別なバッジがプロフィールに表示されます"
+
+msgid "TICKET_DESC_green_panda_ticket"
+msgstr "このチケットを購入すると、110ものスター、限定テーマがゲットでき、特別なバッジがプロフィールに表示されます"
 
 msgid "TICKET_DESC_instagram_promo_ticket"
 msgstr "スドメモのInstagramをフォローしていただきありがとうございます!"
 
-msgid "TICKET_NAME_weekly_topic_winner_ticket"
-msgstr "今週のお題入選者チケット"
+# Anniversary The last character of this message is the DSi symbol for a heart. Don't remove it.
+msgid "TICKET_DESC_love_anniversary_ticket"
+msgstr "記念おめでとう "
+
+msgid "TICKET_DESC_neighborhood_watch_ticket"
+msgstr "スドメモの快適さを保つのを助けてくれてありがとう！"
+
+msgid "TICKET_DESC_one_month_plus_ticket"
+msgstr "1ヶ月分Sudomemo Plusをご利用いただけるチケットです!"
+
+msgid "TICKET_DESC_one_year_plus_ticket"
+msgstr "1年分Sudomemo Plusをご利用いただけるチケットです!"
+
+msgid "TICKET_DESC_purple_bunny_ticket"
+msgstr "このチケットは600ものスター（レアなスターがあるかも？）、限定テーマが貰え、特別なバッジがプロフィールに表示されます"
+
+msgid "TICKET_DESC_red_bird_ticket"
+msgstr "このチケットは230ものスター、限定テーマをゲットすることができ、特別なバッジがプロフィールに表示されます"
+
+msgid "TICKET_DESC_regular_ticket"
+msgstr "スドメモをご利用いただきありがとうございます!"
+
+msgid "TICKET_DESC_special_someone_ticket"
+msgstr "スペシャルサムワンチケットは、特別な誰かのために贈るものです。三か月間のSudomemo Plus、カラースター、および専用のテーマが交付されます"
+
+msgid "TICKET_DESC_survey_thanks_ticket"
+msgstr "調査にご協力いただき、ありがとうございました！"
+
+msgid "TICKET_DESC_translator_ticket"
+msgstr "スドメモの翻訳にご協力いただきありがとうございました"
+
+msgid "TICKET_DESC_twitter_promo_ticket"
+msgstr "スドメモのTwitterをフォローしていただきありがとうございます!"
 
 msgid "TICKET_DESC_weekly_topic_winner_ticket"
 msgstr "スドメモ今週のお題への入選おめでとう!"
@@ -107,112 +132,87 @@ msgstr "スドメモ今週のお題への入選おめでとう!"
 msgid "TICKET_NAME_birthday_ticket"
 msgstr "バースデーチケット"
 
-msgid "TICKET_DESC_birthday_ticket"
-msgstr "お誕生日おめでとう!"
+msgid "TICKET_NAME_blue_dog_ticket"
+msgstr "ジギースターバーストチケット"
+
+msgid "TICKET_NAME_colors_promo_ticket"
+msgstr "Colors!プロモーションチケット"
+
+# Each ticket type will have a name and a description 
+msgid "TICKET_NAME_demo_ticket"
+msgstr "デモチケット"
+
+msgid "TICKET_NAME_featured_artist_ticket"
+msgstr "注目の作者のチケット"
+
+msgid "TICKET_NAME_featured_flipnote_ticket"
+msgstr "注目の作品チケット"
+
+msgid "TICKET_NAME_ffotd_ticket"
+msgstr "10年間の最初の作品"
+
+msgid "TICKET_NAME_folding_reward_ticket"
+msgstr "Folding@Home得点チケット"
+
+msgid "TICKET_NAME_golden_neko_ticket"
+msgstr "ミツオ・ニャーチケット"
+
+msgid "TICKET_NAME_green_panda_ticket"
+msgstr "レイジーペイズリーチケット"
+
+msgid "TICKET_NAME_instagram_promo_ticket"
+msgstr "Instagramプロモチケット"
 
 msgid "TICKET_NAME_love_anniversary_ticket"
 msgstr "記念日チケット"
 
-# Anniversary The last character of this message is the DSi symbol for a heart. Don't remove it.
-msgid "TICKET_DESC_love_anniversary_ticket"
-msgstr "記念おめでとう "
+msgid "TICKET_NAME_neighborhood_watch_ticket"
+msgstr "近隣ウォッチチケット"
 
 # Sudomemo Plus
 msgid "TICKET_NAME_one_month_plus_ticket"
 msgstr "Plusチケット (1ヶ月)"
 
-msgid "TICKET_DESC_one_month_plus_ticket"
-msgstr "1ヶ月分Sudomemo Plusをご利用いただけるチケットです!"
-
 msgid "TICKET_NAME_one_year_plus_ticket"
 msgstr "Plusチケット (1年)"
-
-msgid "TICKET_DESC_one_year_plus_ticket"
-msgstr "1年分Sudomemo Plusをご利用いただけるチケットです!"
-
-msgid "DONT_HAVE_ANY_TO_USE"
-msgstr "使用できるアイテムがありません…"
-
-msgid "TICKET_NAME_ffotd_ticket"
-msgstr "10年間の最初の作品"
-
-msgid "TICKET_DESC_ffotd_ticket"
-msgstr "おめでとうございます！新10年間の最初の作品を投稿しました。"
-
-msgid "TICKET_NAME_survey_thanks_ticket"
-msgstr "調査チケット"
-
-msgid "TICKET_DESC_survey_thanks_ticket"
-msgstr "調査にご協力いただき、ありがとうございました！"
-
-msgid "TICKET_NAME_special_someone_ticket"
-msgstr "スペシャルサムワンチケット"
-
-msgid "TICKET_DESC_special_someone_ticket"
-msgstr "スペシャルサムワンチケットは、特別な誰かのために贈るものです。三か月間のSudomemo Plus、カラースター、および専用のテーマが交付されます"
-
-msgid "TICKET_NAME_folding_reward_ticket"
-msgstr "Folding@Home得点チケット"
-
-msgid "TICKET_DESC_folding_reward_ticket"
-msgstr "生活を助けてくれてありがとう！"
-
-msgid "TICKET_NAME_green_panda_ticket"
-msgstr "レイジーペイズリーチケット"
-
-msgid "TICKET_DESC_green_panda_ticket"
-msgstr "このチケットを購入すると、110ものスター、限定テーマがゲットでき、特別なバッジがプロフィールに表示されます"
-
-msgid "TICKET_NAME_red_bird_ticket"
-msgstr "ベイリーフリットウィングチケット"
-
-msgid "TICKET_DESC_red_bird_ticket"
-msgstr "このチケットは230ものスター、限定テーマをゲットすることができ、特別なバッジがプロフィールに表示されます"
-
-msgid "TICKET_NAME_blue_dog_ticket"
-msgstr "ジギースターバーストチケット"
-
-msgid "TICKET_DESC_blue_dog_ticket"
-msgstr "このチケットを購入すると、350ものスター（レアなスターがあるかも？）、限定テーマをゲットすることができ、特別なバッジがプロフィールに表示されます"
 
 msgid "TICKET_NAME_purple_bunny_ticket"
 msgstr "ラッセルランブルウッドチケット"
 
-msgid "TICKET_DESC_purple_bunny_ticket"
-msgstr "このチケットは600ものスター（レアなスターがあるかも？）、限定テーマが貰え、特別なバッジがプロフィールに表示されます"
+msgid "TICKET_NAME_red_bird_ticket"
+msgstr "ベイリーフリットウィングチケット"
 
-msgid "TICKET_NAME_golden_neko_ticket"
-msgstr "ミツオ・ニャーチケット"
+msgid "TICKET_NAME_regular_ticket"
+msgstr "レギュラーチケット"
 
-msgid "TICKET_DESC_golden_neko_ticket"
-msgstr "このチケットでは、なんと1300ものスター（レアなスター付き！）、限定テーマが貰え、特別なバッジがプロフィールに表示されます"
+msgid "TICKET_NAME_special_someone_ticket"
+msgstr "スペシャルサムワンチケット"
+
+msgid "TICKET_NAME_survey_thanks_ticket"
+msgstr "調査チケット"
 
 msgid "TICKET_NAME_translator_ticket"
 msgstr "翻訳者チケット"
 
-msgid "TICKET_DESC_translator_ticket"
-msgstr "スドメモの翻訳にご協力いただきありがとうございました"
+msgid "TICKET_NAME_twitter_promo_ticket"
+msgstr "Twitterプロモチケット"
 
-msgid "TICKET_NAME_colors_promo_ticket"
-msgstr "Colors!プロモーションチケット"
+msgid "TICKET_NAME_weekly_topic_winner_ticket"
+msgstr "今週のお題入選者チケット"
 
-msgid "TICKET_DESC_colors_promo_ticket"
-msgstr "スドメモ x Colorsを獲得しました！※2020年6月の週刊トピックです！"
+msgid "TICKET_REDEEM_LOSE_FORMAT"
+msgstr "%sを引き換えましたが、"
 
-msgid "TICKET_NAME_neighborhood_watch_ticket"
-msgstr "近隣ウォッチチケット"
+msgid "TICKET_REDEEM_NO_PRIZES"
+msgstr "残念ですが、何も獲得できませんでした。"
 
-msgid "TICKET_DESC_neighborhood_watch_ticket"
-msgstr "スドメモの快適さを保つのを助けてくれてありがとう！"
+# Ticket redemption
+msgid "TICKET_REDEEM_WIN_FORMAT"
+msgstr "%sを引き換えました!"
 
-msgid "TICKET_NAME_featured_flipnote_ticket"
-msgstr "注目の作品チケット"
+msgid "USE_ITEM"
+msgstr "使う"
 
-msgid "TICKET_DESC_featured_flipnote_ticket"
-msgstr "おめでとうございます！あなたの作品が一つ紹介されました"
-
-msgid "TICKET_NAME_featured_artist_ticket"
-msgstr "注目の作者のチケット"
-
-msgid "TICKET_DESC_featured_artist_ticket"
-msgstr "スドメモで注目された作者になったことを心からお祝いします！"
+# Ticket delivery
+msgid "YOU_GOT_A_TICKET"
+msgstr "チケットを手に入れました!"

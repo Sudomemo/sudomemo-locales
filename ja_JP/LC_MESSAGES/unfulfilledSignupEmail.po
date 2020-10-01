@@ -9,14 +9,14 @@ msgstr "スドメモ登録の確認"
 msgid "SIGNUP_HEADER"
 msgstr "スドメモ登録の確認"
 
-msgid "TEXT_HELLO"
-msgstr "こんにちは!"
-
 msgid "TEXT_EMAIL_PURPOSE"
 msgstr "このメールは、スドメモの登録を確認するためのものです。"
 
-msgid "TEXT_VERIFICATION_LINK_FORMAT"
-msgstr "続行するには<a target=\"_blank\" href=\"%s\">こちら</a>をクリックしてください。"
+msgid "TEXT_HELLO"
+msgstr "こんにちは!"
 
 msgid "TEXT_URL_PLAIN_DISPLAY"
 msgstr "このURLをコピーして貼り付けることもできます："
+
+msgid "TEXT_VERIFICATION_LINK_FORMAT"
+msgstr "続行するには<a target=\"_blank\" href=\"%s\">こちら</a>をクリックしてください。"

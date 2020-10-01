@@ -3,38 +3,35 @@ msgstr ""
 "Language: ja_JP\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "COMMENT_DETAILS"
-msgstr "コメントの詳細"
-
-msgid "MESSAGE_DETAILS"
-msgstr "メッセージの詳細"
-
 msgid "AUTHOR"
 msgstr "作者"
-
-msgid "COMMENT_BY_FORMAT"
-msgstr "%sのコメント"
-
-msgid "CHAT_MESSAGE_FROM_FORMAT"
-msgstr "%sのチャットメッセージ"
-
-msgid "MESSAGE_FROM_FORMAT"
-msgstr "%sのメッセージ"
-
-msgid "FLIPNOTE_BY_FORMAT"
-msgstr "%sの作品"
-
-msgid "COMMENT_ID"
-msgstr "コメントID"
-
-msgid "MESSAGE_ID"
-msgstr "メッセージID"
 
 msgid "CHAT_COMMENT_ID"
 msgstr "チャットコメントID"
 
-msgid "TIMESTAMP"
-msgstr "作成時刻"
+msgid "CHAT_MESSAGE_FROM_FORMAT"
+msgstr "%sのチャットメッセージ"
+
+msgid "COMMENT_BY_FORMAT"
+msgstr "%sのコメント"
+
+msgid "COMMENT_DETAILS"
+msgstr "コメントの詳細"
+
+msgid "COMMENT_ID"
+msgstr "コメントID"
+
+msgid "FLIPNOTE_BY_FORMAT"
+msgstr "%sの作品"
+
+msgid "MESSAGE_DETAILS"
+msgstr "メッセージの詳細"
+
+msgid "MESSAGE_FROM_FORMAT"
+msgstr "%sのメッセージ"
+
+msgid "MESSAGE_ID"
+msgstr "メッセージID"
 
 msgid "POSTED_TO"
 msgstr "投稿者"
@@ -44,3 +41,6 @@ msgstr "プライベートな会話"
 
 msgid "REPORT_CONTENT"
 msgstr "報告内容"
+
+msgid "TIMESTAMP"
+msgstr "作成時刻"

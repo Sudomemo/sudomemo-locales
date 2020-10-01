@@ -3,23 +3,23 @@ msgstr ""
 "Language: ja_JP\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "UPPERTITLE"
-msgstr "チャンネル"
-
-msgid "UPPERSUBBOTTOM"
-msgstr "チャンネルへ作品を投稿する"
+msgid "FAVORITES"
+msgstr "お気に入り"
 
 msgid "NEXT"
 msgstr "次へ"
-
-msgid "PREV"
-msgstr "前へ"
-
-msgid "FAVORITES"
-msgstr "お気に入り"
 
 msgid "PAGE"
 msgstr "ページ"
 
 msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d/%d"
+
+msgid "PREV"
+msgstr "前へ"
+
+msgid "UPPERSUBBOTTOM"
+msgstr "チャンネルへ作品を投稿する"
+
+msgid "UPPERTITLE"
+msgstr "チャンネル"

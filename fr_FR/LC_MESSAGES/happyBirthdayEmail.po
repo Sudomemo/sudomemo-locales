@@ -12,8 +12,8 @@ msgstr "Hey %s !"
 msgid "HAPPY_BIRTHDAY"
 msgstr "Joyeux anniversaire !"
 
-msgid "SPECIAL_SURPRISE_WAITING"
-msgstr "Pour votre anniversaire, il y a une surprise spéciale qui vous attend sur Sudomemo."
-
 msgid "LOGON_ON_DS_TO_VIEW"
 msgstr "Connectez-vous à Sudomemo avec votre Nintendo DSi ou 3DS afin de recevoir votre cadeau d'anniversaire !"
+
+msgid "SPECIAL_SURPRISE_WAITING"
+msgstr "Pour votre anniversaire, il y a une surprise spéciale qui vous attend sur Sudomemo."

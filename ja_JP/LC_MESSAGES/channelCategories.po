@@ -3,29 +3,29 @@ msgstr ""
 "Language: ja_JP\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "UPPERTITLE"
-msgstr "カテゴリ"
-
 msgid "ART"
 msgstr "アート"
-
-msgid "GENRES"
-msgstr "ジャンル"
-
-msgid "TOPICS"
-msgstr "話題"
-
-msgid "ROLEPLAYS"
-msgstr "ロールプレイ"
 
 msgid "FANDOMS"
 msgstr "ファン作品"
 
-msgid "RESOURCES"
-msgstr "素材"
+msgid "GENRES"
+msgstr "ジャンル"
 
 msgid "PERSONAL"
 msgstr "パーソナル"
+
+msgid "RESOURCES"
+msgstr "素材"
+
+msgid "ROLEPLAYS"
+msgstr "ロールプレイ"
+
+msgid "TOPICS"
+msgstr "話題"
+
+msgid "UPPERTITLE"
+msgstr "カテゴリ"
 
 msgid "WEEKLY_TOPICS"
 msgstr "今週のお題"

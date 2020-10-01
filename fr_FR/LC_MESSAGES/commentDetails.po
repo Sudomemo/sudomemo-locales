@@ -3,38 +3,35 @@ msgstr ""
 "Language: fr_FR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "COMMENT_DETAILS"
-msgstr "Détails du commentaire"
-
-msgid "MESSAGE_DETAILS"
-msgstr "Détails du message"
-
 msgid "AUTHOR"
 msgstr "Auteur"
-
-msgid "COMMENT_BY_FORMAT"
-msgstr "Commenté par %s"
-
-msgid "CHAT_MESSAGE_FROM_FORMAT"
-msgstr "Message de chat de %s"
-
-msgid "MESSAGE_FROM_FORMAT"
-msgstr "Message de %s"
-
-msgid "FLIPNOTE_BY_FORMAT"
-msgstr "Flipnote de %s"
-
-msgid "COMMENT_ID"
-msgstr "ID du commentaire"
-
-msgid "MESSAGE_ID"
-msgstr "ID du message"
 
 msgid "CHAT_COMMENT_ID"
 msgstr "ID du commentaire de chat"
 
-msgid "TIMESTAMP"
-msgstr "Heure du message"
+msgid "CHAT_MESSAGE_FROM_FORMAT"
+msgstr "Message de chat de %s"
+
+msgid "COMMENT_BY_FORMAT"
+msgstr "Commenté par %s"
+
+msgid "COMMENT_DETAILS"
+msgstr "Détails du commentaire"
+
+msgid "COMMENT_ID"
+msgstr "ID du commentaire"
+
+msgid "FLIPNOTE_BY_FORMAT"
+msgstr "Flipnote de %s"
+
+msgid "MESSAGE_DETAILS"
+msgstr "Détails du message"
+
+msgid "MESSAGE_FROM_FORMAT"
+msgstr "Message de %s"
+
+msgid "MESSAGE_ID"
+msgstr "ID du message"
 
 msgid "POSTED_TO"
 msgstr "Posté dans"
@@ -44,3 +41,6 @@ msgstr "Conversation privée"
 
 msgid "REPORT_CONTENT"
 msgstr "Signaler le contenu"
+
+msgid "TIMESTAMP"
+msgstr "Heure du message"

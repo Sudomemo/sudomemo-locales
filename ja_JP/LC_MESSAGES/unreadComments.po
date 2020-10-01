@@ -3,20 +3,20 @@ msgstr ""
 "Language: ja_JP\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
-msgstr "このページを表示するには、ログインする必要があります。"
+msgid "FLIPNOTE_ID"
+msgstr "うごメモID"
 
 msgid "HEADER_UNREAD_COMMENTS"
 msgstr "未読のコメント"
+
+msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
+msgstr "このページを表示するには、ログインする必要があります。"
 
 msgid "NO_UNREAD_COMMENTS"
 msgstr "未読のコメントはありません"
 
 msgid "TAP_ON_FLIPNOTE_ID_TO_VISIT_COMMENTS"
 msgstr "うごメモIDをタップしてコメントページにアクセスしてください。"
-
-msgid "FLIPNOTE_ID"
-msgstr "うごメモID"
 
 msgid "UNREAD"
 msgstr "未読"

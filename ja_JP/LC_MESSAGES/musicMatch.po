@@ -3,43 +3,43 @@ msgstr ""
 "Language: ja_JP\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "HEADER_SONG_DETAILS"
-msgstr "曲の詳細"
-
-# Song Name
-msgid "TITLE"
-msgstr "タイトル"
-
 # Song Band/Artist
 msgid "ARTIST"
 msgstr "アーティスト"
 
-# Year song was published
-msgid "RELEASE_YEAR"
-msgstr "リリース済"
-
-msgid "GENRE"
-msgstr "ジャンル"
+msgid "BROWSE"
+msgstr "ブラウズ"
 
 # How many Flipnotes are using this song?
 msgid "FLIPNOTE_COUNT"
 msgstr "作品"
 
-msgid "BROWSE"
-msgstr "ブラウズ"
+msgid "GENRE"
+msgstr "ジャンル"
 
-msgid "SONG_ID"
-msgstr "音楽ID"
-
-msgid "LINK_YOUTUBE_SPOTIFY"
-msgstr "YouTubeとSpotifyとの連携が利用可能です："
-
-msgid "LINK_YOUTUBE"
-msgstr "YouTubeのリンクはここから:"
-
-msgid "LINK_SPOTIFY"
-msgstr "Spotifyのリンクはこちらから入手できます:"
+msgid "HEADER_SONG_DETAILS"
+msgstr "曲の詳細"
 
 # Creator instructions
 msgid "IF_SONG_INCORRECT"
 msgstr "作品に間違った曲が表示されている場合は、スドメモシアターで更新できます。 詳細についてはこちらをご覧ください：https://flipnot.es/musicmatch"
+
+msgid "LINK_SPOTIFY"
+msgstr "Spotifyのリンクはこちらから入手できます:"
+
+msgid "LINK_YOUTUBE"
+msgstr "YouTubeのリンクはここから:"
+
+msgid "LINK_YOUTUBE_SPOTIFY"
+msgstr "YouTubeとSpotifyとの連携が利用可能です："
+
+# Year song was published
+msgid "RELEASE_YEAR"
+msgstr "リリース済"
+
+msgid "SONG_ID"
+msgstr "音楽ID"
+
+# Song Name
+msgid "TITLE"
+msgstr "タイトル"

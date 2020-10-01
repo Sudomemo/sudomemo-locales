@@ -3,59 +3,8 @@ msgstr ""
 "Language: ja_JP\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "SEE_MORE"
-msgstr "もっと見る"
-
-msgid "STARRED_FLIPNOTES"
-msgstr "スターをつけた作品"
-
-msgid "FAVORITE_USERS"
-msgstr "お気に入り"
-
-msgid "FAVORITES_FEED"
-msgstr "お気に入りの作品"
-
-msgid "FAVORITE_CHANNELS"
-msgstr "お気に入りのチャンネル"
-
-msgid "USER_DOWNLOADCOUNT"
-msgstr "ダウンロード"
-
-msgid "USER_VIEWCOUNT"
-msgstr "閲覧回数"
-
-msgid "USER_THEME"
-msgstr "テーマ"
-
-msgid "THEME_SHOP"
-msgstr "テーマショップ"
-
-msgid "POSTED_COMMENTS"
-msgstr "コメント投稿"
-
-msgid "POSTED_CHATCOMMENTS"
-msgstr "チャットメッセージ"
-
-msgid "FEATURE_USABILITY"
-msgstr "すべての機能"
-
-msgid "USABLE"
-msgstr "はい"
-
-msgid "NOT_USABLE"
-msgstr "いいえ"
-
-msgid "SUDOMEMO_THEATRE_URL"
-msgstr "スドメモシアターのURL"
-
-msgid "FLIPNOTE_STUDIO_ID"
-msgstr "うごメモID"
-
-msgid "SETTINGS"
-msgstr "設定"
-
-msgid "ADMIN_ACCT_GOOD_STANDING"
-msgstr "正常"
+msgid "101_CHARACTER_LIMIT_BIO"
+msgstr "プロフィールは101文字以下に制限されています。"
 
 msgid "ADMIN_ACCT_BANNED"
 msgstr "禁止"
@@ -63,20 +12,26 @@ msgstr "禁止"
 msgid "ADMIN_ACCT_BLOCKED"
 msgstr "ブロック"
 
+msgid "ADMIN_ACCT_GOOD_STANDING"
+msgstr "正常"
+
 msgid "ADMIN_ACCT_MUTED"
 msgstr "ミュート"
 
-msgid "ADMIN_USER_DETAILS"
-msgstr "ユーザーの詳細"
+msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
+msgstr "管理者の操作"
 
 msgid "ADMIN_LAST_SEEN"
 msgstr "最後に閲覧"
 
+msgid "ADMIN_USER_DETAILS"
+msgstr "ユーザーの詳細"
+
 msgid "ADMIN_USER_STATUS"
 msgstr "ユーザーのテータス"
 
-msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
-msgstr "管理者の操作"
+msgid "BLOCKED_USERS"
+msgstr "ブロックしたユーザー"
 
 msgid "BLOCK_COMMENTS_HEADER"
 msgstr "コメントをブロックする"
@@ -84,11 +39,53 @@ msgstr "コメントをブロックする"
 msgid "BLOCK_COMMENTS_LINK"
 msgstr "ブロック"
 
-msgid "USABILITY_USABLE"
-msgstr "使用可能"
+msgid "CAN_DRAW_TICKET_SUBTEXT"
+msgstr "レギュラーチケットを引くことができます！商品を獲得できるかも？"
 
-msgid "USABILITY_NOT_USABLE"
-msgstr "使用不可能"
+msgid "CHANGE_ROOM_THEME_LINK"
+msgstr "[テーマを変える]"
+
+msgid "CREATORS_ROOM"
+msgstr "マイルーム"
+
+msgid "CURRENT_BIO"
+msgstr "現在のプロフィール："
+
+msgid "DRAW_REGULAR_TICKET"
+msgstr "チケットを引く"
+
+msgid "ENTER_BIO"
+msgstr "プロフィールを入力してください…"
+
+msgid "EXAMPLE"
+msgstr "サンプル"
+
+msgid "FANS"
+msgstr "ファン"
+
+msgid "FAN_COUNT_FORMAT"
+msgstr "%s人"
+
+msgid "FAVORITES_FEED"
+msgstr "お気に入りの作品"
+
+msgid "FAVORITE_CHANNELS"
+msgstr "お気に入りのチャンネル"
+
+msgid "FAVORITE_USERS"
+msgstr "お気に入り"
+
+msgid "FEATURE_USABILITY"
+msgstr "すべての機能"
+
+msgid "FLIPNOTE_STUDIO_ID"
+msgstr "うごメモID"
+
+msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
+msgstr "%d人以上のユーザーをフォローすることはできません。"
+
+msgid "HEADER_EDIT_BIOGRAPHY"
+msgstr "プロフィールを編集"
 
 msgid "HEADER_FOLLOWERS"
 msgstr "フォロワー"
@@ -96,113 +93,62 @@ msgstr "フォロワー"
 msgid "HEADER_FOLLOWING"
 msgstr "フォロー"
 
-msgid "PREVIOUS"
-msgstr "前へ"
-
-msgid "NEXT"
-msgstr "次へ"
-
-msgid "CHANGE_ROOM_THEME_LINK"
-msgstr "[テーマを変える]"
-
-msgid "SELECT_THEME"
-msgstr "テーマを選択する"
-
-msgid "FANS"
-msgstr "ファン"
-
-msgid "EXAMPLE"
-msgstr "サンプル"
-
-msgid "THEMETEST_SET_THEME"
-msgstr "このテーマを選択する"
-
-msgid "THEMETEST_NOTICE"
-msgstr "お知らせ"
-
-msgid "THEMETEST_OK"
-msgstr "OK"
-
-msgid "THEMETEST_ERROR"
-msgstr "エラー"
-
-msgid "THEMETEST_NOTICE_2"
-msgstr "お知らせ2"
-
-msgid "THEMETEST_ACTIVE_TAB"
-msgstr "アクティブなタブ"
-
-msgid "THEMETEST_INACTIVE_TAB"
-msgstr "非アクティブなタブ"
-
-msgid "PREVIEW"
-msgstr "プレビュー"
-
-msgid "CREATORS_ROOM"
-msgstr "マイルーム"
-
-msgid "THEME_ERROR_THEME_NOT_OWNED"
-msgstr "あなたはそのテーマを所有していません。"
-
-msgid "THEME_SUCCESSFULLY_SET"
-msgstr "テーマの変更が完了しました!"
-
-msgid "BLOCKED_USERS"
-msgstr "ブロックしたユーザー"
-
-msgid "VIEW"
-msgstr "閲覧"
-
-msgid "FAN_COUNT_FORMAT"
-msgstr "%s人"
-
 msgid "HEADER_LANGUAGE"
 msgstr "言語"
 
 msgid "HEADER_MAIL_SETTINGS"
 msgstr "メール設定"
 
-msgid "HEADER_EDIT_BIOGRAPHY"
-msgstr "プロフィールを編集"
-
-msgid "SET_BIO_INSTRUCTIONS"
-msgstr "プロフィールを入力してください。プロフィールはスドメモとスドメモシアターに掲載されます。"
-
-msgid "ENTER_BIO"
-msgstr "プロフィールを入力してください…"
-
-msgid "101_CHARACTER_LIMIT_BIO"
-msgstr "プロフィールは101文字以下に制限されています。"
+msgid "INVENTORY"
+msgstr "チケット一覧"
 
 msgid "LEAVE_BLANK_TO_RESET_BIO"
 msgstr "プロフィールをリセットする場合、送信するときにフォームを空白のままにしてください。"
 
-msgid "CURRENT_BIO"
-msgstr "現在のプロフィール："
+msgid "LOGIN_REQUIRED_ACTION"
+msgstr "この機能を利用するにはログインする必要があります。"
 
-msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
-msgstr "%d人以上のユーザーをフォローすることはできません。"
+msgid "NEXT"
+msgstr "次へ"
+
+msgid "NOT_USABLE"
+msgstr "いいえ"
+
+msgid "PAGE"
+msgstr "ページ"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d / %d"
+
+msgid "POSTED_CHATCOMMENTS"
+msgstr "チャットメッセージ"
+
+msgid "POSTED_COMMENTS"
+msgstr "コメント投稿"
+
+msgid "PREVIEW"
+msgstr "プレビュー"
+
+msgid "PREVIOUS"
+msgstr "前へ"
 
 msgid "RANKING"
 msgstr "ランキング"
 
-msgid "TICKET_SECTION"
-msgstr "チケット"
-
-msgid "DRAW_REGULAR_TICKET"
-msgstr "チケットを引く"
-
-msgid "CAN_DRAW_TICKET_SUBTEXT"
-msgstr "レギュラーチケットを引くことができます！商品を獲得できるかも？"
-
-msgid "INVENTORY"
-msgstr "チケット一覧"
-
-msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
-msgstr "新たにチケットを引けるようになるまで:あと %s 時間 %s 分"
-
 msgid "REDEEM"
 msgstr "交換"
+
+msgid "SEE_MORE"
+msgstr "もっと見る"
+
+msgid "SELECT_THEME"
+msgstr "テーマを選択する"
+
+msgid "SETTINGS"
+msgstr "設定"
+
+msgid "SET_BIO_INSTRUCTIONS"
+msgstr "プロフィールを入力してください。プロフィールはスドメモとスドメモシアターに掲載されます。"
 
 msgid "SPENDABLE_STARS"
 msgstr "あなたのスター"
@@ -210,11 +156,65 @@ msgstr "あなたのスター"
 msgid "SPENDABLE_STARS_HELPTEXT"
 msgstr "作品を評価したり、テーマに使用するスター"
 
-msgid "LOGIN_REQUIRED_ACTION"
-msgstr "この機能を利用するにはログインする必要があります。"
+msgid "STARRED_FLIPNOTES"
+msgstr "スターをつけた作品"
 
-msgid "PAGE"
-msgstr "ページ"
+msgid "SUDOMEMO_THEATRE_URL"
+msgstr "スドメモシアターのURL"
 
-msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d / %d"
+msgid "THEMETEST_ACTIVE_TAB"
+msgstr "アクティブなタブ"
+
+msgid "THEMETEST_ERROR"
+msgstr "エラー"
+
+msgid "THEMETEST_INACTIVE_TAB"
+msgstr "非アクティブなタブ"
+
+msgid "THEMETEST_NOTICE"
+msgstr "お知らせ"
+
+msgid "THEMETEST_NOTICE_2"
+msgstr "お知らせ2"
+
+msgid "THEMETEST_OK"
+msgstr "OK"
+
+msgid "THEMETEST_SET_THEME"
+msgstr "このテーマを選択する"
+
+msgid "THEME_ERROR_THEME_NOT_OWNED"
+msgstr "あなたはそのテーマを所有していません。"
+
+msgid "THEME_SHOP"
+msgstr "テーマショップ"
+
+msgid "THEME_SUCCESSFULLY_SET"
+msgstr "テーマの変更が完了しました!"
+
+msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
+msgstr "新たにチケットを引けるようになるまで:あと %s 時間 %s 分"
+
+msgid "TICKET_SECTION"
+msgstr "チケット"
+
+msgid "USABILITY_NOT_USABLE"
+msgstr "使用不可能"
+
+msgid "USABILITY_USABLE"
+msgstr "使用可能"
+
+msgid "USABLE"
+msgstr "はい"
+
+msgid "USER_DOWNLOADCOUNT"
+msgstr "ダウンロード"
+
+msgid "USER_THEME"
+msgstr "テーマ"
+
+msgid "USER_VIEWCOUNT"
+msgstr "閲覧回数"
+
+msgid "VIEW"
+msgstr "閲覧"

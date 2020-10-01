@@ -3,30 +3,31 @@ msgstr ""
 "Language: ja_JP\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "HEADER_UPLOAD_TO_YOUTUBE"
-msgstr "YouTubeにアップロード"
+msgid "AUDIO_ENHANCEMENT"
+msgstr "音声の強化"
 
-msgid "YOUTUBE"
-msgstr "YouTube"
+msgid "BTN_START_UPLOAD"
+msgstr "アップロードを開始"
+
+msgid "BTN_UPLOAD_AGAIN"
+msgstr "もう一度アップロード"
+
+# ...do so, visit https://flipnot.es/ABC123/yt
+msgid "CHANGE_OPTIONS_ON_THEATRE"
+msgstr "アップロードする前にこれらのオプションを変更できます。 これを行うには:"
+
+# If the user's already uploaded it...
+msgid "FLIPNOTE_ALREADY_UPLOADED"
+msgstr "この作品はすでにYouTubeにアップロードされています。"
+
+msgid "FLIPNOTE_SMOOTHING"
+msgstr "作品のスムージング"
 
 msgid "HEADER_CONFIRM_OPTIONS"
 msgstr "オプションを確認"
 
-msgid "LINK_REQUIRED_BEFORE_UPLOAD"
-msgstr "作品をアップロードするには、YouTubeチャンネルと連携する必要があります。"
-
-msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
-msgstr "YouTubeのアカウントが未確認の状態です。サムネイルの設定や15分を超える作品など、確認が必要な機能はご利用になれません。"
-
-# To fix this, visit: https://flipnot.es/ytsetup
-msgid "YOUTUBE_ACCOUNT_VERIFICATION_FIX"
-msgstr "修正するには、次のURLにアクセスしてください。"
-
-msgid "TITLE_DESC_MISSING"
-msgstr "作品をアップロードするには、タイトルと説明を入力する必要があります。"
-
-msgid "TITLE_DESC_ADD_FIRST"
-msgstr "続行する前にこれらを追加してください。"
+msgid "HEADER_UPLOAD_TO_YOUTUBE"
+msgstr "YouTubeにアップロード"
 
 # A URL is displayed after this:
 msgid "HOW_TO_LINK_FROM_THEATRE"
@@ -35,9 +36,28 @@ msgstr "YouTubeチャンネルと連携するには、このページにアク�
 msgid "HOW_TO_REFRESH_FROM_THEATRE"
 msgstr "チャンネルを更新するには、このページにアクセスしてください:"
 
-# Preview upload details before submitting
-msgid "PREVIEW_TITLE"
-msgstr "タイトル"
+msgid "LINK_REQUIRED_BEFORE_UPLOAD"
+msgstr "作品をアップロードするには、YouTubeチャンネルと連携する必要があります。"
+
+msgid "NONE"
+msgstr "なし"
+
+msgid "OFF"
+msgstr "Off"
+
+msgid "ON"
+msgstr "On"
+
+# Extra features provided by Sudomemo Plus (see flipnoteOptions.po)
+msgid "PLUS_FEATURES"
+msgstr "その他機能"
+
+msgid "PLUS_FEATURES_NOTE"
+msgstr "作品の詳細からこれらのオプションを変更することができます"
+
+# Position in queue: 4
+msgid "POSITION_IN_QUEUE"
+msgstr "進行状態: %d"
 
 msgid "PREVIEW_DESC"
 msgstr "説明"
@@ -48,53 +68,15 @@ msgstr "追加の説明"
 msgid "PREVIEW_EXTRA_DESC_EXPLANATION"
 msgstr "この文章は、視聴者が動画の説明で[もっと見る]をクリックすると表示されます。"
 
-msgid "TAGS"
-msgstr "タグ"
+# Preview upload details before submitting
+msgid "PREVIEW_TITLE"
+msgstr "タイトル"
 
-msgid "NONE"
-msgstr "なし"
-
-msgid "YOUTUBE_LOOP_COUNT"
-msgstr "ループ回数"
-
-msgid "YOUTUBE_LOOP_COUNT_EXPLANATION"
-msgstr "作品をループする回数を指定します。「1」の場合は1回だけ再生されます。"
-
-msgid "YOUTUBE_VISIBILITY"
-msgstr "公開範囲"
-
-msgid "YOUTUBE_VISIBILITY_PUBLIC"
-msgstr "公開"
-
-msgid "YOUTUBE_VISIBILITY_UNLISTED"
-msgstr "限定公開"
-
-msgid "YOUTUBE_VISIBILITY_PRIVATE"
-msgstr "非公開"
-
-msgid "SUBMIT"
-msgstr "送信"
-
-# Upload status
-msgid "UPLOAD_STATUS"
-msgstr "アップロード状態"
-
-msgid "YOUTUBE_PENDING_UPLOAD"
-msgstr "作品がアップロードされるのを待っています。時間を空けてご確認ください。"
-
-# Position in queue: 4
-msgid "POSITION_IN_QUEUE"
-msgstr "進行状態: %d"
-
-msgid "THEATRE_STATUS_TRACKER"
-msgstr "こちらでライブアップロードトラッカーをご覧ください:"
+msgid "RECONNECT_NEEDED"
+msgstr "YouTubeチャンネルへの連携が古くなっています。"
 
 msgid "REVIEW_DETAILS_BEFORE_UPLOAD"
 msgstr "アップロードを開始する前にこれらのオプションを確認してください"
-
-# ...do so, visit https://flipnot.es/ABC123/yt
-msgid "CHANGE_OPTIONS_ON_THEATRE"
-msgstr "アップロードする前にこれらのオプションを変更できます。 これを行うには:"
 
 # ...please visit: https://flipnot.es/ytsetup
 msgid "SET_DEFAULTS_ON_THEATRE"
@@ -103,26 +85,49 @@ msgstr "デフォルトのアップロードオプションを変更するには
 msgid "STATUS"
 msgstr "状態"
 
-msgid "YOUTUBE_STATUS_NEW"
-msgstr "New"
+msgid "SUBMIT"
+msgstr "送信"
 
-msgid "YOUTUBE_STATUS_PROCESSING"
-msgstr "処理"
+msgid "TAGS"
+msgstr "タグ"
 
-msgid "YOUTUBE_STATUS_SUCCESS"
-msgstr "完了!"
+msgid "THEATRE_STATUS_TRACKER"
+msgstr "こちらでライブアップロードトラッカーをご覧ください:"
 
-msgid "YOUTUBE_STATUS_PAUSED"
-msgstr "一時停止"
+msgid "TITLE_DESC_ADD_FIRST"
+msgstr "続行する前にこれらを追加してください。"
 
-msgid "YOUTUBE_STATUS_ERROR"
-msgstr "エラー"
+msgid "TITLE_DESC_MISSING"
+msgstr "作品をアップロードするには、タイトルと説明を入力する必要があります。"
 
-msgid "YOUTUBE_STATUS_UNKNOWN"
-msgstr "不明"
+# Upload status
+msgid "UPLOAD_STATUS"
+msgstr "アップロード状態"
 
-msgid "YOUTUBE_STATUS_WAITING_TO_BE_PROCESSED"
-msgstr "この作品は現在処理待ちです"
+msgid "YOUTUBE"
+msgstr "YouTube"
+
+# To fix this, visit: https://flipnot.es/ytsetup
+msgid "YOUTUBE_ACCOUNT_VERIFICATION_FIX"
+msgstr "修正するには、次のURLにアクセスしてください。"
+
+msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
+msgstr "YouTubeのアカウントが未確認の状態です。サムネイルの設定や15分を超える作品など、確認が必要な機能はご利用になれません。"
+
+msgid "YOUTUBE_ESTIMATED_DURATION"
+msgstr "推定される動画の長さ:"
+
+msgid "YOUTUBE_ID"
+msgstr "YouTube ID"
+
+msgid "YOUTUBE_LOOP_COUNT"
+msgstr "ループ回数"
+
+msgid "YOUTUBE_LOOP_COUNT_EXPLANATION"
+msgstr "作品をループする回数を指定します。「1」の場合は1回だけ再生されます。"
+
+msgid "YOUTUBE_PENDING_UPLOAD"
+msgstr "作品がアップロードされるのを待っています。時間を空けてご確認ください。"
 
 msgid "YOUTUBE_STATUS_BEING_PROCESSED"
 msgstr "この作品は現在処理中です"
@@ -130,36 +135,32 @@ msgstr "この作品は現在処理中です"
 msgid "YOUTUBE_STATUS_COMPLETE"
 msgstr "アップロードが完了しました！"
 
+msgid "YOUTUBE_STATUS_ERROR"
+msgstr "エラー"
+
 msgid "YOUTUBE_STATUS_FAILED"
 msgstr "問題が発生しました。詳細についてはhttps://flipnot.es/ytsetupをご覧ください。"
 
-msgid "RECONNECT_NEEDED"
-msgstr "YouTubeチャンネルへの連携が古くなっています。"
+msgid "YOUTUBE_STATUS_NEW"
+msgstr "New"
 
-msgid "BTN_START_UPLOAD"
-msgstr "アップロードを開始"
+msgid "YOUTUBE_STATUS_PAUSED"
+msgstr "一時停止"
 
-msgid "YOUTUBE_ESTIMATED_DURATION"
-msgstr "推定される動画の長さ:"
+msgid "YOUTUBE_STATUS_PAUSED_GLOBAL_QUOTA"
+msgstr "グローバル利用枠を超えてしまったため、アップロードが大幅に遅れる可能性があります。"
 
-# Extra features provided by Sudomemo Plus (see flipnoteOptions.po)
-msgid "PLUS_FEATURES"
-msgstr "その他機能"
+msgid "YOUTUBE_STATUS_PROCESSING"
+msgstr "処理"
 
-msgid "PLUS_FEATURES_NOTE"
-msgstr "作品の詳細からこれらのオプションを変更することができます"
+msgid "YOUTUBE_STATUS_SUCCESS"
+msgstr "完了!"
 
-msgid "FLIPNOTE_SMOOTHING"
-msgstr "作品のスムージング"
+msgid "YOUTUBE_STATUS_UNKNOWN"
+msgstr "不明"
 
-msgid "AUDIO_ENHANCEMENT"
-msgstr "音声の強化"
-
-msgid "ON"
-msgstr "On"
-
-msgid "OFF"
-msgstr "Off"
+msgid "YOUTUBE_STATUS_WAITING_TO_BE_PROCESSED"
+msgstr "この作品は現在処理待ちです"
 
 msgid "YOUTUBE_TERMS_AGREEMENT_NOTE"
 msgstr "動画をYouTubeに送信すると、YouTubeの利用規約とコミュニティガイドラインに同意したことになります。"
@@ -168,27 +169,26 @@ msgstr "動画をYouTubeに送信すると、YouTubeの利用規約とコミュ�
 msgid "YOUTUBE_UPLOAD_LIMIT"
 msgstr "現在、1日につき%s本の動画をYouTubeにアップロードすることができます。"
 
-msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_LIMIT_NOTE"
-msgstr "スドメモPlusのメンバーは1日につき%s本の動画をアップロードすることができます。"
-
-msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_UNLIMITED_NOTE"
-msgstr "スドメモPlusメンバーは1日にアップロードできる動画の数の制限がありません。"
-
 msgid "YOUTUBE_UPLOAD_LIMIT_CURRENT"
 msgstr "今日までに%s本の動画をアップロードしました。"
 
 msgid "YOUTUBE_UPLOAD_LIMIT_EXCEEDED"
 msgstr "これ以上動画をアップロードできません。明日までお待ちください。"
 
-# If the user's already uploaded it...
-msgid "FLIPNOTE_ALREADY_UPLOADED"
-msgstr "この作品はすでにYouTubeにアップロードされています。"
+msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_LIMIT_NOTE"
+msgstr "スドメモPlusのメンバーは1日につき%s本の動画をアップロードすることができます。"
 
-msgid "YOUTUBE_ID"
-msgstr "YouTube ID"
+msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_UNLIMITED_NOTE"
+msgstr "スドメモPlusメンバーは1日にアップロードできる動画の数の制限がありません。"
 
-msgid "BTN_UPLOAD_AGAIN"
-msgstr "もう一度アップロード"
+msgid "YOUTUBE_VISIBILITY"
+msgstr "公開範囲"
 
-msgid "YOUTUBE_STATUS_PAUSED_GLOBAL_QUOTA"
-msgstr "グローバル利用枠を超えてしまったため、アップロードが大幅に遅れる可能性があります。"
+msgid "YOUTUBE_VISIBILITY_PRIVATE"
+msgstr "非公開"
+
+msgid "YOUTUBE_VISIBILITY_PUBLIC"
+msgstr "公開"
+
+msgid "YOUTUBE_VISIBILITY_UNLISTED"
+msgstr "限定公開"

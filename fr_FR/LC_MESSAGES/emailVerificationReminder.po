@@ -6,14 +6,11 @@ msgstr ""
 msgid "EMAIL_SUBJECT"
 msgstr "[Sudomemo] Vous devez vérifier votre adresse mail"
 
-msgid "VERIFICATION_HEADER"
-msgstr "Sudomemo - Vérification de l'adresse mail"
+msgid "EMAIL_VERIFICATION_REMOVE_ME"
+msgstr "Supprimez-moi, vous avez la mauvaise adresse email"
 
 msgid "TEXT_HELLO_FORMAT"
 msgstr "Bonjour, %s !"
-
-msgid "TEXT_NEED_TO_VERIFY_EMAIL"
-msgstr "Nous vous rappelons que vous devez vérifier votre adresse mail sur Sudomemo."
 
 msgid "TEXT_LOGIN_WITH_DSI_TO_VERIFY"
 msgstr "Vous pouvez recevoir un nouveau mail de vérification en vous connectant à Sudomemo avec votre Nintendo DSi."
@@ -21,5 +18,8 @@ msgstr "Vous pouvez recevoir un nouveau mail de vérification en vous connectant
 msgid "TEXT_NEED_HELP_CONNECTION_INFO_LINK_FORMAT"
 msgstr "Besoin d'aide pour vous connecter à Sudomemo ? Vous pouvez trouver le guide d'installation ici : %s"
 
-msgid "EMAIL_VERIFICATION_REMOVE_ME"
-msgstr "Supprimez-moi, vous avez la mauvaise adresse email"
+msgid "TEXT_NEED_TO_VERIFY_EMAIL"
+msgstr "Nous vous rappelons que vous devez vérifier votre adresse mail sur Sudomemo."
+
+msgid "VERIFICATION_HEADER"
+msgstr "Sudomemo - Vérification de l'adresse mail"

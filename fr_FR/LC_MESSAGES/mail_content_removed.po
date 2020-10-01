@@ -3,38 +3,8 @@ msgstr ""
 "Language: fr_FR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-# Content Removed - sent to user when a piece of their content has been moderated away
-msgid "NOTICE"
-msgstr "Avis"
-
-# # Intro
-msgid "USER_CONTENT_REMOVED"
-msgstr "Quelque chose que vous avez posté a été jugé contraire à la Politique de contenu et aux conditions d'utilisation de Sudomemo, et a été supprimé."
-
-# # Content types
-msgid "CONTENT_TYPE_flipnote"
-msgstr "Flipnote"
-
-msgid "CONTENT_TYPE_comment"
-msgstr "Commentaire"
-
-msgid "CONTENT_TYPE_chat_message"
-msgstr "Message de chat"
-
-# ## We plan on adding user-created themes.
-msgid "CONTENT_TYPE_room_theme"
-msgstr "Thème pour la salle de créateur"
-
-msgid "CONTENT_TYPE_profile_bio"
-msgstr "Texte du profil"
-
-# ## Catch-all
-msgid "CONTENT_TYPE_content"
-msgstr "Autre contenu"
-
-# # continued message...
-msgid "REMOVAL_REASON_HEADER"
-msgstr "Ce contenu a été supprimé pour l'une ou plusieurs des raisons suivantes :"
+msgid "CONTENT_ID"
+msgstr "ID du contenu :"
 
 msgid "CONTENT_POLICY_REVIEW_INTRO"
 msgstr "Nous comprenons que quand les politiques de contenu rencontrent l'expression artistique, le contexte et la présentation doivent être pris en considération."
@@ -42,14 +12,36 @@ msgstr "Nous comprenons que quand les politiques de contenu rencontrent l'expres
 msgid "CONTENT_POLICY_REVIEW_LINK"
 msgstr "Nous aimerions vous encourager à consulter notre Politique de contenu ici :"
 
-msgid "HOW_TO_APPEAL"
-msgstr "Si vous pensez qu'il s'agit d'une erreur, vous pouvez apprendre comment former un recours sur :"
-
 msgid "CONTENT_TYPE"
 msgstr "Type de contenu :"
 
-msgid "CONTENT_ID"
-msgstr "ID du contenu :"
+msgid "CONTENT_TYPE_chat_message"
+msgstr "Message de chat"
+
+msgid "CONTENT_TYPE_comment"
+msgstr "Commentaire"
+
+# ## Catch-all
+msgid "CONTENT_TYPE_content"
+msgstr "Autre contenu"
+
+# # Content types
+msgid "CONTENT_TYPE_flipnote"
+msgstr "Flipnote"
+
+msgid "CONTENT_TYPE_profile_bio"
+msgstr "Texte du profil"
+
+# ## We plan on adding user-created themes.
+msgid "CONTENT_TYPE_room_theme"
+msgstr "Thème pour la salle de créateur"
+
+msgid "HOW_TO_APPEAL"
+msgstr "Si vous pensez qu'il s'agit d'une erreur, vous pouvez apprendre comment former un recours sur :"
+
+# Content Removed - sent to user when a piece of their content has been moderated away
+msgid "NOTICE"
+msgstr "Avis"
 
 # # re-download will be made available for certain content types
 msgid "REDOWNLOAD_HEADER"
@@ -57,3 +49,11 @@ msgstr "Si vous souhaitez revoir votre %s, vous pouvez télécharger le contenu 
 
 msgid "REDOWNLOAD_LINK"
 msgstr "ici"
+
+# # continued message...
+msgid "REMOVAL_REASON_HEADER"
+msgstr "Ce contenu a été supprimé pour l'une ou plusieurs des raisons suivantes :"
+
+# # Intro
+msgid "USER_CONTENT_REMOVED"
+msgstr "Quelque chose que vous avez posté a été jugé contraire à la Politique de contenu et aux conditions d'utilisation de Sudomemo, et a été supprimé."

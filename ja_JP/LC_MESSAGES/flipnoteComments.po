@@ -3,53 +3,53 @@ msgstr ""
 "Language: ja_JP\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "COMMENT_FAILED_USER_BANNED"
+msgstr "あなたはスドメモへの投稿を制限されています。。"
+
+msgid "COMMENT_POST_FAILED"
+msgstr "コメント投稿に失敗しました。 もう一度やり直してください。"
+
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "投稿する前にメールアドレスを確認してください。"
+
+msgid "DUPLICATE_COMMENT_FAILED"
+msgstr "このコメントは既にスドメモに投稿されています。"
+
+msgid "FLIPNOTE_COMMENTS_DISALLOWED"
+msgstr "あなたはこの作品にコメントできません"
+
+msgid "FLIPNOTE_DATA_CORRUPTED"
+msgstr "作品のデータが破損しています。 もう一度やり直してください。"
+
 msgid "HEADER_COMMENTS"
 msgstr "コメント"
 
 msgid "HEADER_DETAILS"
 msgstr "詳細"
 
-msgid "HEADER_PREV"
-msgstr "前へ"
-
 msgid "HEADER_NEXT"
 msgstr "次へ"
+
+msgid "HEADER_PREV"
+msgstr "前へ"
 
 msgid "HEADER_REFRESH"
 msgstr "リロード"
 
-msgid "PAGE_FORMAT"
-msgstr "%dページ"
-
-msgid "NO_COMMENTS_YET"
-msgstr "この作品にはまだコメントがありません。"
-
 msgid "LOGIN_REQUIRED_TO_POST_COMMENT"
 msgstr "コメントを投稿するには、ログインする必要があります。"
 
-msgid "COMMENT_POST_FAILED"
-msgstr "コメント投稿に失敗しました。 もう一度やり直してください。"
+msgid "MODERATOR"
+msgstr "モデレータ"
 
 msgid "NO_BLANK_COMMENTS_ALLOWED"
 msgstr "空白のコメントを投稿することはできません。"
 
-msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "作品のデータが破損しています。 もう一度やり直してください。"
-
-msgid "FLIPNOTE_COMMENTS_DISALLOWED"
-msgstr "あなたはこの作品にコメントできません"
-
 msgid "NO_COMMENTS_WHILE_MUTED"
 msgstr "あなたはミュートされました。 ミュートされている間はコメントを投稿できません。"
 
-msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "このコメントは既にスドメモに投稿されています。"
+msgid "NO_COMMENTS_YET"
+msgstr "この作品にはまだコメントがありません。"
 
-msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "あなたはスドメモへの投稿を制限されています。。"
-
-msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "投稿する前にメールアドレスを確認してください。"
-
-msgid "MODERATOR"
-msgstr "モデレータ"
+msgid "PAGE_FORMAT"
+msgstr "%dページ"

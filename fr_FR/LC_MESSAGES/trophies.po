@@ -3,125 +3,125 @@ msgstr ""
 "Language: fr_FR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "ACHIEVEMENT_EARNED"
+msgstr "Succès déverrouillé !"
+
+msgid "CASE_IS_EMPTY"
+msgstr "La vitrine à trophées est vide."
+
+msgid "CONTINUE"
+msgstr "Continuer"
+
 # Trophy Case
 # # UI Headers, messages, labels
 msgid "TROPHY_CASE"
 msgstr "Vitrine à trophées"
 
-msgid "CASE_IS_EMPTY"
-msgstr "La vitrine à trophées est vide."
+msgid "TROPHY_DESC_colors_promo"
+msgstr "Un des gagnants du thème du partenariat Sudomemo x Colors, Dans la Lumière"
 
-msgid "ACHIEVEMENT_EARNED"
-msgstr "Succès déverrouillé !"
+msgid "TROPHY_DESC_demo_tester"
+msgstr "Participez au programme de Test Démo de mise à jour de Sudomemo en 2017"
 
-msgid "CONTINUE"
-msgstr "Continuer"
+msgid "TROPHY_DESC_early_adopter"
+msgstr "Rejoignez Sudomemo pendant notre premier mois de service"
+
+msgid "TROPHY_DESC_featured_artist"
+msgstr "Soyez reconnu en tant qu'artiste vedette de Sudomemo"
+
+msgid "TROPHY_DESC_featured_flipnote"
+msgstr "Ayez une Flipnote en vedette"
+
+msgid "TROPHY_DESC_ffotd"
+msgstr "Postez la première Flipnote d'une nouvelle décennie"
+
+msgid "TROPHY_DESC_fifth_bday_event"
+msgstr "Présent à la fête du cinquième anniversaire de Sudomemo"
+
+msgid "TROPHY_DESC_folder"
+msgstr "Donnez de la puissance de calcul non utilisée à Folding@Home pour aider à combattre une maladie"
+
+msgid "TROPHY_DESC_legacy_citizen"
+msgstr "Était Citoyen Sudomemo avant que ça ne devienne Sudomemo Plus"
+
+msgid "TROPHY_DESC_meet_bailey_flitwing"
+msgstr "Curieuse du monde en dehors de son nid."
+
+msgid "TROPHY_DESC_meet_lazy_paisley"
+msgstr "Aime sa vie simple. Et la nourriture."
+
+msgid "TROPHY_DESC_meet_mitsuo_meow"
+msgstr "Veut porter chance et bonheur à tout le monde autour d'elle."
+
+msgid "TROPHY_DESC_meet_russell_ramblewood"
+msgstr "Il est flamboyant à l'excès, mais veut toujours entendre parler de votre journée."
+
+msgid "TROPHY_DESC_meet_ziggy_starburst"
+msgstr "Vit sa vie au jour le jour avec un touche de flair en plus."
+
+msgid "TROPHY_DESC_neighborhood_watch"
+msgstr "Signaler correctement du contenu qui viole notre Politique de contenu"
+
+msgid "TROPHY_DESC_one_million_flips_event"
+msgstr "Participez à l'événement Un Million de Flipnotes"
+
+msgid "TROPHY_DESC_translator"
+msgstr "Contribuez aux traductions pour rendre Sudomemo ouvert à tous"
+
+msgid "TROPHY_DESC_weekly_topic_winner"
+msgstr "Soumettez une participation déclarée gagnante du Weekly Topic (thème hebdomadaire) de Sudomemo"
+
+msgid "TROPHY_NAME_colors_promo"
+msgstr "Vainqueur du thème Colors! x Sudomemo"
 
 # # Trophy names and descriptions
 msgid "TROPHY_NAME_demo_tester"
 msgstr "Testeur Démo"
 
-msgid "TROPHY_DESC_demo_tester"
-msgstr "Participez au programme de Test Démo de mise à jour de Sudomemo en 2017"
-
 msgid "TROPHY_NAME_early_adopter"
 msgstr "Adopteur de la première heure"
-
-msgid "TROPHY_DESC_early_adopter"
-msgstr "Rejoignez Sudomemo pendant notre premier mois de service"
 
 msgid "TROPHY_NAME_featured_artist"
 msgstr "Artiste en vedette"
 
-msgid "TROPHY_DESC_featured_artist"
-msgstr "Soyez reconnu en tant qu'artiste vedette de Sudomemo"
-
 msgid "TROPHY_NAME_featured_flipnote"
 msgstr "Flipnote en vedette"
-
-msgid "TROPHY_DESC_featured_flipnote"
-msgstr "Ayez une Flipnote en vedette"
 
 msgid "TROPHY_NAME_ffotd"
 msgstr "Première Flipnote de la décennie"
 
-msgid "TROPHY_DESC_ffotd"
-msgstr "Postez la première Flipnote d'une nouvelle décennie"
-
 msgid "TROPHY_NAME_fifth_bday_event"
 msgstr "Fête du cinquième anniversaire de Sudomemo"
-
-msgid "TROPHY_DESC_fifth_bday_event"
-msgstr "Présent à la fête du cinquième anniversaire de Sudomemo"
-
-msgid "TROPHY_NAME_legacy_citizen"
-msgstr "Citoyen classique"
-
-msgid "TROPHY_DESC_legacy_citizen"
-msgstr "Était Citoyen Sudomemo avant que ça ne devienne Sudomemo Plus"
-
-msgid "TROPHY_NAME_meet_lazy_paisley"
-msgstr "Recontrez Lazy Paisley"
-
-msgid "TROPHY_DESC_meet_lazy_paisley"
-msgstr "Aime sa vie simple. Et la nourriture."
-
-msgid "TROPHY_NAME_meet_bailey_flitwing"
-msgstr "Rencontrez Bailey Flitwing"
-
-msgid "TROPHY_DESC_meet_bailey_flitwing"
-msgstr "Curieuse du monde en dehors de son nid."
-
-msgid "TROPHY_NAME_meet_ziggy_starburst"
-msgstr "Rencontrez Ziggy Starburst"
-
-msgid "TROPHY_DESC_meet_ziggy_starburst"
-msgstr "Vit sa vie au jour le jour avec un touche de flair en plus."
-
-msgid "TROPHY_NAME_meet_russell_ramblewood"
-msgstr "Rencontrez Russell Ramblewood"
-
-msgid "TROPHY_DESC_meet_russell_ramblewood"
-msgstr "Il est flamboyant à l'excès, mais veut toujours entendre parler de votre journée."
-
-msgid "TROPHY_NAME_meet_mitsuo_meow"
-msgstr "Rencontrez Mitsuo Meow"
-
-msgid "TROPHY_DESC_meet_mitsuo_meow"
-msgstr "Veut porter chance et bonheur à tout le monde autour d'elle."
-
-msgid "TROPHY_NAME_neighborhood_watch"
-msgstr "Surveillance de quartier"
-
-msgid "TROPHY_DESC_neighborhood_watch"
-msgstr "Signaler correctement du contenu qui viole notre Politique de contenu"
-
-msgid "TROPHY_NAME_one_million_flips_event"
-msgstr "Événement Un Million de Flipnotes"
-
-msgid "TROPHY_DESC_one_million_flips_event"
-msgstr "Participez à l'événement Un Million de Flipnotes"
-
-msgid "TROPHY_NAME_translator"
-msgstr "Traducteur"
-
-msgid "TROPHY_DESC_translator"
-msgstr "Contribuez aux traductions pour rendre Sudomemo ouvert à tous"
-
-msgid "TROPHY_NAME_weekly_topic_winner"
-msgstr "Vainqueur du Weekly Topic"
-
-msgid "TROPHY_DESC_weekly_topic_winner"
-msgstr "Soumettez une participation déclarée gagnante du Weekly Topic (thème hebdomadaire) de Sudomemo"
 
 msgid "TROPHY_NAME_folder"
 msgstr "Plieur"
 
-msgid "TROPHY_DESC_folder"
-msgstr "Donnez de la puissance de calcul non utilisée à Folding@Home pour aider à combattre une maladie"
+msgid "TROPHY_NAME_legacy_citizen"
+msgstr "Citoyen classique"
 
-msgid "TROPHY_NAME_colors_promo"
-msgstr "Vainqueur du thème Colors! x Sudomemo"
+msgid "TROPHY_NAME_meet_bailey_flitwing"
+msgstr "Rencontrez Bailey Flitwing"
 
-msgid "TROPHY_DESC_colors_promo"
-msgstr "Un des gagnants du thème du partenariat Sudomemo x Colors, Dans la Lumière"
+msgid "TROPHY_NAME_meet_lazy_paisley"
+msgstr "Recontrez Lazy Paisley"
+
+msgid "TROPHY_NAME_meet_mitsuo_meow"
+msgstr "Rencontrez Mitsuo Meow"
+
+msgid "TROPHY_NAME_meet_russell_ramblewood"
+msgstr "Rencontrez Russell Ramblewood"
+
+msgid "TROPHY_NAME_meet_ziggy_starburst"
+msgstr "Rencontrez Ziggy Starburst"
+
+msgid "TROPHY_NAME_neighborhood_watch"
+msgstr "Surveillance de quartier"
+
+msgid "TROPHY_NAME_one_million_flips_event"
+msgstr "Événement Un Million de Flipnotes"
+
+msgid "TROPHY_NAME_translator"
+msgstr "Traducteur"
+
+msgid "TROPHY_NAME_weekly_topic_winner"
+msgstr "Vainqueur du Weekly Topic"

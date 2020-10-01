@@ -3,17 +3,20 @@ msgstr ""
 "Language: ja_JP\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "SET_PROFILE_PICTURE"
-msgstr "プロフィール画像を設定する"
-
-msgid "PROMPT_CHANGE_YOUR_PROFILE_IMAGE"
-msgstr "プロフィール画像を変更しますか？"
+msgid "CANCEL"
+msgstr "キャンセル"
 
 msgid "CONTINUE_SET_AS_PROFILE_PICTURE"
 msgstr "確認"
 
+msgid "CREATORS_ROOM"
+msgstr "マイルーム"
+
 msgid "CURRENT"
 msgstr "現在"
+
+msgid "LOGIN_REQUIRED_TO_CHANGE"
+msgstr "プロフィール画像を変更するにはログインする必要があります。"
 
 msgid "NEW"
 msgstr "設定後"
@@ -21,14 +24,11 @@ msgstr "設定後"
 msgid "PROFILE_PICTURE_SET"
 msgstr "プロフィール画像が正常に設定されました。"
 
+msgid "PROMPT_CHANGE_YOUR_PROFILE_IMAGE"
+msgstr "プロフィール画像を変更しますか？"
+
 msgid "RETURN_TO_FLIPNOTE"
 msgstr "作品一覧へ戻る"
 
-msgid "CREATORS_ROOM"
-msgstr "マイルーム"
-
-msgid "CANCEL"
-msgstr "キャンセル"
-
-msgid "LOGIN_REQUIRED_TO_CHANGE"
-msgstr "プロフィール画像を変更するにはログインする必要があります。"
+msgid "SET_PROFILE_PICTURE"
+msgstr "プロフィール画像を設定する"

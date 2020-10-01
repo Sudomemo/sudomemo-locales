@@ -3,36 +3,133 @@ msgstr ""
 "Language: ja_JP\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-# This file contains most of the translations for Sudomemo Theatre.
-# Meta tags, descriptions, etc
-msgid "SUDOMEMO"
-msgstr "スドメモ"
+msgid "404_GO_BACK"
+msgstr "スドメモシアターに戻る"
 
-msgid "SUDOMEMO_THEATRE"
-msgstr "スドメモシアター"
+# 404 Page
+msgid "404_OOPS_NOT_FOUND"
+msgstr "エラー！ページが見つかりませんでした"
 
-msgid "SUDOMEMO_NEWS"
-msgstr "スドメモニュース"
+msgid "404_WHOOPS_NOT_THERE"
+msgstr "このページには表示できるものがありません。"
 
-msgid "SUDOMEMO_SHOP"
-msgstr "スドメモショップ"
+# Account Settings (Theatre)
+msgid "ACCOUNT_SETTINGS"
+msgstr "アカウント設定"
 
-msgid "SUDOMEMO_SHOP_META_DESCRIPTION"
-msgstr "スドメモショップ：スドメモプラスのチケットやスター、その他の追加コンテンツを購入できます！"
+msgid "ALT_DRAWN_COMMENT_BY_USER"
+msgstr "%sさんのコメント"
 
-msgid "DEFAULT_META_DESCRIPTION"
-msgstr "スドメモ：作ったメモを世界に発信しよう！DSiと3DSに対応。"
+msgid "ALT_USER_PROFILE_PICTURE"
+msgstr "%sさんのプロフィール画像"
 
-msgid "FRONTPAGE_TITLE_TAGLINE"
-msgstr "スドメモ：うごメモはてなを再び！"
+# Front Page
+# # Alt tags, aria labels
+msgid "ALT_WEEKLY_TOPIC_BANNER"
+msgstr "「今週のお題」宣伝バナー"
 
-msgid "VIEWPAGE_COMMENT_TEXTBOX"
-msgstr "コメントを入力"
+# Very common terms and one-word translations
+msgid "ARTIST"
+msgstr "アーティスト"
 
-# # "Username - 3 fans, 25 Flipnotes on Sudomemo"
-# # Not going to bother making plural variants
-msgid "PROFILE_DEFAULT_DESCRIPTION"
-msgstr "%s - %sファン、%s作品 on スドメモ"
+# Back, in the sense of navigation
+msgid "BACK"
+msgstr "戻る"
+
+# Browse Channel
+msgid "BROWSE_CHANNEL_NO_FLIPNOTES_YET"
+msgstr "このチャンネルに投稿された作品はまだありません。"
+
+# Browse Song
+msgid "BROWSE_SONG_NO_FLIPNOTES_YET"
+msgstr "この曲が使われた作品はまだありません。"
+
+# Additional things
+# See Flipnotes with the song <song name> by <band/artist name>
+msgid "BROWSE_SONG_YOU_ARE_BROWSING_SONG"
+msgstr "%s / %sが使われている作品"
+
+msgid "BTN_GET_STARTED"
+msgstr "始める"
+
+msgid "BTN_GO_TO_SETTINGS"
+msgstr "設定に移動"
+
+msgid "BTN_SIGN_IN_WITH_GOOGLE"
+msgstr "Googleアカウントでログイン"
+
+msgid "BTN_STARTING_UPLOAD"
+msgstr "開始しています..."
+
+msgid "BTN_START_UPLOAD"
+msgstr "アップロードを開始"
+
+msgid "BTN_UPLOAD_FAILED"
+msgstr "アップロードに失敗しました..."
+
+msgid "CATEGORY"
+msgstr "カテゴリー"
+
+msgid "CHANNEL"
+msgstr "チャンネル"
+
+msgid "CHANNELS"
+msgstr "チャンネル"
+
+msgid "CHANNEL_CAT_NAME_ART"
+msgstr "アート"
+
+msgid "CHANNEL_CAT_NAME_FANDOMS"
+msgstr "ファン作品"
+
+msgid "CHANNEL_CAT_NAME_GENRES"
+msgstr "ジャンル"
+
+# # categories
+msgid "CHANNEL_CAT_NAME_NONE"
+msgstr "なし"
+
+msgid "CHANNEL_CAT_NAME_PERSONAL"
+msgstr "チャット・企画"
+
+msgid "CHANNEL_CAT_NAME_RESOURCES"
+msgstr "素材"
+
+msgid "CHANNEL_CAT_NAME_ROLEPLAYS"
+msgstr "ロールプレイ"
+
+msgid "CHANNEL_CAT_NAME_TOPICS"
+msgstr "トピック"
+
+msgid "CHANNEL_CAT_NAME_WEEKLY_TOPIC"
+msgstr "今週のお題"
+
+# # Posting permissions
+msgid "CHANNEL_PERM_CLOSED"
+msgstr "閉じる"
+
+msgid "CHANNEL_PERM_OPEN"
+msgstr "開く"
+
+msgid "COMMENTS"
+msgstr "コメント"
+
+msgid "COULD_NOT_SAVE_DETAILS"
+msgstr "詳細を保存できませんでした。"
+
+msgid "CREATOR"
+msgstr "作者"
+
+msgid "CREATORS"
+msgstr "作者"
+
+msgid "CREATORS_ROOM"
+msgstr "マイルーム"
+
+# November 29th, 2019 08:23:07
+# Used for Flipnote Details
+msgid "DATETIME_MONTH_DAY_ORDINAL_HOUR_MINUTE_SECOND_FORMAT"
+msgstr "Y/m/d h:i:s"
 
 # Date-time formats
 # You can adjust the way dates display to match your region better.
@@ -44,48 +141,83 @@ msgstr "%s - %sファン、%s作品 on スドメモ"
 msgid "DATETIME_WEEKDAY_MONTH_DAY_ORDINAL_YEAR_FORMAT"
 msgstr "Y/m/d D"
 
-# November 29th, 2019 08:23:07
-# Used for Flipnote Details
-msgid "DATETIME_MONTH_DAY_ORDINAL_HOUR_MINUTE_SECOND_FORMAT"
-msgstr "Y/m/d h:i:s"
-
-# Very common terms and one-word translations
-msgid "ARTIST"
-msgstr "アーティスト"
-
-# Back, in the sense of navigation
-msgid "BACK"
-msgstr "戻る"
-
-msgid "CATEGORY"
-msgstr "カテゴリー"
-
-msgid "CHANNEL"
-msgstr "チャンネル"
-
-msgid "CHANNELS"
-msgstr "チャンネル"
-
-msgid "COMMENTS"
-msgstr "コメント"
-
-msgid "CREATOR"
-msgstr "作者"
-
-msgid "CREATORS"
-msgstr "作者"
-
-msgid "CREATORS_ROOM"
-msgstr "マイルーム"
-
-msgid "DETAILS"
-msgstr "作品情報"
+msgid "DEFAULT_META_DESCRIPTION"
+msgstr "スドメモ：作ったメモを世界に発信しよう！DSiと3DSに対応。"
 
 msgid "DESCRIPTION"
 msgstr "説明"
 
+msgid "DESCRIPTION_WILL_GO_HERE"
+msgstr "説明文はここに表示されます。"
+
+msgid "DETAILS"
+msgstr "作品情報"
+
 msgid "DOWNLOADS"
 msgstr "ダウンロード"
+
+# Flipnote View Page
+msgid "EDIT_FLIPNOTE"
+msgstr "編集"
+
+# # MusicMatch
+msgid "EDIT_PAGE_ABOUT_MUSICMATCH_1"
+msgstr "スドメモMusicMatchは作品に使用されたBGMを自動で識別します！"
+
+msgid "EDIT_PAGE_ABOUT_MUSICMATCH_2"
+msgstr "MusicMatchは誤った曲や複数の関係のない曲を表示する場合があります。その際は表示される曲名をここで修正することができます。"
+
+msgid "EDIT_PAGE_ABOUT_MUSICMATCH_3"
+msgstr "修正した曲情報は、うごメモから音源を検出するMusicMatchの精度向上にも活用されます。"
+
+msgid "EDIT_PAGE_DESCRIPTION_TOOLTIP"
+msgstr "文字、数字、記号を320文字まで使用できます。"
+
+msgid "EDIT_PAGE_ENTER_A_DESCRIPTION"
+msgstr "説明文を入力"
+
+msgid "EDIT_PAGE_ENTER_A_TITLE"
+msgstr "作品名を入力"
+
+msgid "EDIT_PAGE_FLIPNOTE_PREVIEW_NOTE"
+msgstr "注意：うごメモのプレビューは更新されません。"
+
+msgid "EDIT_PAGE_MUSICMATCH_NONE_CORRECT"
+msgstr "曲名に間違いがあります"
+
+msgid "EDIT_PAGE_MUSICMATCH_NO_BGM"
+msgstr "この作品にはBGMがありません。"
+
+msgid "EDIT_PAGE_MUSICMATCH_PENDING_MAPPING"
+msgstr "MusicMatchの処理をしています。時間をおいて確認してください。"
+
+msgid "EDIT_PAGE_MUSICMATCH_PREVIEW_ON_SPOTIFY"
+msgstr "Spotifyで聴く"
+
+msgid "EDIT_PAGE_MUSICMATCH_PREVIEW_ON_YOUTUBE"
+msgstr "YouTube Musicで聴く"
+
+msgid "EDIT_PAGE_MUSICMATCH_UNMAPPED"
+msgstr "MusicMatchの処理を開始します。時間をおいて確認してください。"
+
+msgid "EDIT_PAGE_MUSICMATCH_UNMATCHED"
+msgstr "この作品に使用された楽曲は見つかりませんでした。"
+
+msgid "EDIT_PAGE_PLUS_AUDIO_ENHANCEMENT"
+msgstr "音質向上"
+
+# Flipnote smoothing
+msgid "EDIT_PAGE_PLUS_SMOOTHING"
+msgstr "画質の最適化"
+
+msgid "EDIT_PAGE_SUDOMEMO_PLUS_REQUIRED"
+msgstr "この機能を利用するにはスドメモプラスを手に入れる必要があります。"
+
+msgid "EDIT_PAGE_TITLE_AND_DESCRIPTION"
+msgstr "作品名と説明文"
+
+msgid "EDIT_PAGE_TITLE_TOOLTIP"
+msgstr "文字、数字、記号を40字まで使用できます。"
 
 msgid "FANS"
 msgstr "この作者のファン"
@@ -93,8 +225,8 @@ msgstr "この作者のファン"
 msgid "FEATURED"
 msgstr "注目順"
 
-msgid "FLIPNOTE_ID"
-msgstr "作品ID"
+msgid "FEATURED_FLIPNOTES"
+msgstr "注目作品"
 
 msgid "FLIPNOTE"
 msgstr "うごメモ"
@@ -102,16 +234,65 @@ msgstr "うごメモ"
 msgid "FLIPNOTES"
 msgstr "作品"
 
-# This is short for Flipnote Studio ID. Leave it as "FSID" except in Japanese, where it should be うごメモID
-msgid "FSID"
-msgstr "うごメモID"
+# # Flipnote by...
+msgid "FLIPNOTE_BY_FORMAT"
+msgstr "%sさんの作品"
+
+msgid "FLIPNOTE_ID"
+msgstr "作品ID"
+
+# # Flipnote sections
+msgid "FLIPNOTE_LIST_RECALCULATING"
+msgstr "現在ランキングの集計中です。しばらく待ってから再度読み込んでください。"
+
+msgid "FLIPNOTE_SETTINGS_UPLOAD_TO_YOUTUBE"
+msgstr "作品はYouTubeチャンネルにアップロードできます。 開始するには、下のボタンをクリックしてください。"
 
 # Japanese translation should also be be うごメモID here
 msgid "FLIPNOTE_STUDIO_ID"
 msgstr "うごメモID"
 
+msgid "FOLLOW"
+msgstr "お気に入りに追加"
+
+msgid "FOLLOWERS"
+msgstr "ファン"
+
+msgid "FOLLOWING"
+msgstr "お気に入り"
+
+# Creator's Room (Profile)
+msgid "FOLLOWS_YOU"
+msgstr "あなたのファンです"
+
+msgid "FOLLOW_BACK"
+msgstr "お気に入りに登録"
+
+# # Right sidebar
+msgid "FRONTPAGE_FLIPNOTE_SPOTLIGHT"
+msgstr "注目作品"
+
+msgid "FRONTPAGE_TITLE_TAGLINE"
+msgstr "スドメモ：うごメモはてなを再び！"
+
+msgid "FRONTPAGE_TRENDING_CREATORS"
+msgstr "作者ランキング"
+
+# This is short for Flipnote Studio ID. Leave it as "FSID" except in Japanese, where it should be うごメモID
+msgid "FSID"
+msgstr "うごメモID"
+
 msgid "GENRE"
 msgstr "ジャンル"
+
+# # はてなID
+msgid "HATENA_ID"
+msgstr "はてなID"
+
+# Upload page specifics
+# Upload to YouTube header
+msgid "HEADER_UPLOAD_TO_YOUTUBE"
+msgstr "YouTubeにアップロード"
 
 msgid "HELP_CENTER"
 msgstr "ヘルプセンター"
@@ -119,11 +300,31 @@ msgstr "ヘルプセンター"
 msgid "HOT"
 msgstr "話題順"
 
+msgid "HOT_FLIPNOTES"
+msgstr "話題作品"
+
 msgid "INFO"
 msgstr "情報"
 
 msgid "LATEST"
 msgstr "新着順"
+
+msgid "LINK_REQUIRED_BEFORE_UPLOAD"
+msgstr "作品をアップロードする前に、YouTubeチャンネルと連携する必要があります。"
+
+# # Ticket types..
+# Login Page
+msgid "LOGIN_FAILED_CHECK_DETAILS"
+msgstr "ログインできませんでした。入力内容を確認してもう一度送信してください"
+
+msgid "LOGIN_PLACEHOLDER_PASSWORD"
+msgstr "パスワード"
+
+msgid "LOGIN_PLACEHOLDER_USERNAME"
+msgstr "E-mailまたはうごメモID"
+
+msgid "LOGIN_SIGNUP_SELECT_DEVICE"
+msgstr "機種を選択してください"
 
 msgid "MODERATOR"
 msgstr "運営"
@@ -134,138 +335,56 @@ msgstr "もっと見る"
 msgid "MUSICMATCH"
 msgstr "MusicMatch"
 
-msgid "NEXT"
-msgstr "次へ"
+msgid "MUSICMATCH_ABOUT"
+msgstr "MusicMatchについて"
 
-msgid "NEWS"
-msgstr "ニュース"
+# # MusicMatch
+# ## Where the Flipnote's audio starts at in the song
+msgid "MUSICMATCH_AUDIO_OFFSET"
+msgstr "%s~"
 
-# Channel permissions: Is posting Flipnotes to a channel allowed or not?
-msgid "PERMISSIONS"
-msgstr "同意する"
+msgid "MUSICMATCH_LISTEN_ON_SPOTIFY"
+msgstr "Spotifyで聴く"
 
-msgid "POPULAR"
-msgstr "人気順"
+msgid "MUSICMATCH_LISTEN_ON_YOUTUBE_MUSIC"
+msgstr "YouTube Musicで聴く"
 
-# Previous, abbreviated "Prev". Should be a maximum of 4 characters.
-msgid "PREV"
-msgstr "前へ"
-
-msgid "RANDOM"
-msgstr "ランダム"
-
-# Referring to a release date/publishing date
-msgid "RELEASED"
-msgstr "新着順"
-
-msgid "RANK"
-msgstr "作者ランキング"
-
-msgid "RECENT"
-msgstr "新着順"
-
-msgid "SAVE"
-msgstr "保存"
-
-msgid "SAVING"
-msgstr "保存中"
-
-msgid "SEARCH"
-msgstr "検索"
-
-msgid "SHARE"
-msgstr "共有"
-
-msgid "SIGN_UP"
-msgstr "新規登録"
-
-msgid "SIGN_IN"
-msgstr "ログイン"
-
-msgid "SIGN_OUT"
-msgstr "ログアウト"
-
-msgid "STARS"
-msgstr "スター数"
-
-msgid "TITLE"
-msgstr "作品名"
-
-# Referring to being the most popular (in terms of ranking)
-msgid "TOP"
-msgstr "トップ"
-
-# Number of times something has been viewed, or played.
-msgid "VIEWS"
-msgstr "えつらん回数"
-
-# For MusicMatch
-msgid "SONG"
-msgstr "BGM"
-
-msgid "SUDOMEMO_PLUS"
-msgstr "スドメモプラス"
-
-# Navbar
-msgid "NAVBAR_TOGGLE_NAVIGATION"
-msgstr "ナビゲーションの切り替え"
-
-msgid "NAVBAR_ITEM_SHOP"
-msgstr "ショップ"
-
-msgid "NAVBAR_ITEM_HELP"
-msgstr "ヘルプ"
-
-msgid "NAVBAR_ITEM_USEFUL_LINKS"
-msgstr "お役立ちリンク"
-
-msgid "NAVBAR_ITEM_DISCORD"
-msgstr "Discord"
-
-msgid "NAVBAR_ITEM_HOW_TO_JOIN"
-msgstr "接続方法"
-
-msgid "NAVBAR_ITEM_CONNECTION_HELP"
-msgstr "接続ヘルプ"
-
-msgid "NAVBAR_ITEM_FAQS"
-msgstr "FAQ"
-
-msgid "TERMS_OF_USE"
-msgstr "利用規約"
-
-msgid "NAVBAR_ITEM_CONTACT_US"
-msgstr "お問い合わせ"
-
-msgid "NAVBAR_ITEM_TWITTER"
-msgstr "Twitter"
-
-msgid "NAVBAR_ITEM_INSTAGRAM"
-msgstr "Instagram"
-
-msgid "NAVBAR_ITEM_FACEBOOK"
-msgstr "Facebook"
-
-msgid "NAVBAR_ITEM_EMAIL"
-msgstr "Eメール"
-
-msgid "NAVBAR_ITEM_OTHER"
-msgstr "その他"
-
-msgid "NAVBAR_ITEM_CREDITS"
-msgstr "クレジット"
+# # Referring to a music label/publishing company
+msgid "MUSIC_LABEL"
+msgstr "レーベル"
 
 msgid "NAVBAR_ITEM_ADMIN"
 msgstr "管理者"
 
-msgid "NAVBAR_ITEM_SUDOMEMO_ADMIN"
-msgstr "Sudomin"
+msgid "NAVBAR_ITEM_CONNECTION_HELP"
+msgstr "接続ヘルプ"
 
-msgid "NAVBAR_ITEM_REPORTED_FLIPNOTES"
-msgstr "規約違反を通報"
+msgid "NAVBAR_ITEM_CONTACT_US"
+msgstr "お問い合わせ"
 
-msgid "NAVBAR_ITEM_SWITCH_TO_USER_ACCOUNT"
-msgstr "アカウントを切り替える"
+msgid "NAVBAR_ITEM_CREDITS"
+msgstr "クレジット"
+
+msgid "NAVBAR_ITEM_DISCORD"
+msgstr "Discord"
+
+msgid "NAVBAR_ITEM_EMAIL"
+msgstr "Eメール"
+
+msgid "NAVBAR_ITEM_FACEBOOK"
+msgstr "Facebook"
+
+msgid "NAVBAR_ITEM_FAQS"
+msgstr "FAQ"
+
+msgid "NAVBAR_ITEM_HELP"
+msgstr "ヘルプ"
+
+msgid "NAVBAR_ITEM_HOW_TO_JOIN"
+msgstr "接続方法"
+
+msgid "NAVBAR_ITEM_INSTAGRAM"
+msgstr "Instagram"
 
 # # Switch to dark mode
 msgid "NAVBAR_ITEM_LIGHTS_OFF"
@@ -275,127 +394,97 @@ msgstr "ダークテーマ"
 msgid "NAVBAR_ITEM_LIGHTS_ON"
 msgstr "ライトテーマ"
 
-# Front Page
-# # Alt tags, aria labels
-msgid "ALT_WEEKLY_TOPIC_BANNER"
-msgstr "「今週のお題」宣伝バナー"
+msgid "NAVBAR_ITEM_OTHER"
+msgstr "その他"
 
-msgid "ALT_USER_PROFILE_PICTURE"
-msgstr "%sさんのプロフィール画像"
+msgid "NAVBAR_ITEM_REPORTED_FLIPNOTES"
+msgstr "規約違反を通報"
 
-msgid "ALT_DRAWN_COMMENT_BY_USER"
-msgstr "%sさんのコメント"
+msgid "NAVBAR_ITEM_SHOP"
+msgstr "ショップ"
 
-# # Welcome to Sudomemo Box
-msgid "WELCOME_BOX_GREET_ADMIN"
-msgstr "ようこそ、%sさん"
+msgid "NAVBAR_ITEM_SUDOMEMO_ADMIN"
+msgstr "Sudomin"
 
-msgid "WELCOME_BOX_YOU_ARE_ADMIN"
-msgstr "管理者権限でログインしています。"
+msgid "NAVBAR_ITEM_SWITCH_TO_USER_ACCOUNT"
+msgstr "アカウントを切り替える"
 
-msgid "WELCOME_BOX_OPEN_SUDOMIN"
-msgstr "Sudominを開く"
+msgid "NAVBAR_ITEM_TWITTER"
+msgstr "Twitter"
 
-# ## Our welcome box can change it's greeting, depending on time of day.
-# ## It is displayed like this:
-# ## Good afternoon, User! Happy Flipnoting!
-msgid "WELCOME_BOX_DEFAULT_GREETING"
-msgstr "こんにちは"
+msgid "NAVBAR_ITEM_USEFUL_LINKS"
+msgstr "お役立ちリンク"
 
-msgid "WELCOME_BOX_MORNING_GREETING"
-msgstr "おはよう"
+# Navbar
+msgid "NAVBAR_TOGGLE_NAVIGATION"
+msgstr "ナビゲーションの切り替え"
 
-msgid "WELCOME_BOX_AFTERNOON_GREETING"
-msgstr "こんにちは"
+msgid "NEWS"
+msgstr "ニュース"
 
-msgid "WELCOME_BOX_EVENING_GREETING"
-msgstr "こんばんは"
+msgid "NEXT"
+msgstr "次へ"
 
-# ## "Happy Flipnoting!" is one of our brand catchphrases. "Flipnoting" refers to the act of creating or watching Flipnotes.
-# ## Please don't translate "Flipnoting", except to Japanese where you could probably modify the word うごメモ.
-msgid "WELCOME_BOX_USERNAME_HAPPY_FLIPNOTING"
-msgstr "、%s！ よきうごメモライフを！"
+msgid "NINTENDO_3DS"
+msgstr "Nintendo 3DS"
 
-msgid "WELCOME_BOX_WELCOME_TO"
-msgstr "ようこそ"
+msgid "NINTENDO_DSI"
+msgstr "Nintendo DSi"
 
-# ## Another one of our taglines 
-msgid "WELCOME_BOX_SHARE_CREATIVITY_TAGLINE"
-msgstr "作ったメモを世界に発信しよう！"
+# Channel permissions: Is posting Flipnotes to a channel allowed or not?
+msgid "PERMISSIONS"
+msgstr "同意する"
 
-msgid "WELCOME_BOX_WHAT_IS_SUDOMEMO"
-msgstr "スドメモはNintendo DSiと3DSで作成したメモ帳のアニメーション、「うごメモ」を投稿して共有できるアニメーションサイトです。"
+msgid "PLUS_LEARN_MORE"
+msgstr "詳しくはこちら"
 
-msgid "WELCOME_BOX_HOW_TO_JOIN"
-msgstr "設定方法はこちら"
-
-# Give, in the same sense as "Donate"
-msgid "WELCOME_BOX_GIVE"
-msgstr "支援"
-
-# # Flipnote sections
-msgid "FLIPNOTE_LIST_RECALCULATING"
-msgstr "現在ランキングの集計中です。しばらく待ってから再度読み込んでください。"
-
-msgid "RECENT_FLIPNOTES"
-msgstr "新着作品"
+msgid "POPULAR"
+msgstr "人気順"
 
 msgid "POPULAR_THIS_MONTH"
 msgstr "今月の人気作品"
 
-msgid "HOT_FLIPNOTES"
-msgstr "話題作品"
+# Previous, abbreviated "Prev". Should be a maximum of 4 characters.
+msgid "PREV"
+msgstr "前へ"
+
+msgid "PRIVACY_POLICY"
+msgstr "個人情報保護方針"
+
+msgid "PROFILE_ABOUT_USERNAME"
+msgstr "%sさんのプロフィール"
+
+# # "Username - 3 fans, 25 Flipnotes on Sudomemo"
+# # Not going to bother making plural variants
+msgid "PROFILE_DEFAULT_DESCRIPTION"
+msgstr "%s - %sファン、%s作品 on スドメモ"
+
+# # Recent comments on their Flipnotes
+msgid "PROFILE_RECENT_COMMENTS"
+msgstr "最近ついたコメント"
+
+# # User's ★ are from:
+msgid "PROFILE_STAR_COUNTRY_HEADER"
+msgstr "★をもらった国"
+
+# # channels that the user posts in most often
+msgid "PROFILE_USER_POSTS_IN"
+msgstr "投稿したチャンネル"
+
+msgid "RANDOM"
+msgstr "ランダム"
 
 msgid "RANDOM_FLIPNOTES"
 msgstr "ランダム"
 
-msgid "FEATURED_FLIPNOTES"
-msgstr "注目作品"
-
-# # Flipnote by...
-msgid "FLIPNOTE_BY_FORMAT"
-msgstr "%sさんの作品"
-
-# # Comments section
-msgid "VIEWPAGE_COMMENT_WRITE_HERE"
-msgstr "ここに入力してください"
-
-msgid "VIEWPAGE_COMMENT_POST_BUTTON"
-msgstr "コメントを送信"
-
-msgid "VIEWPAGE_ADD_MODERATOR_COMMENT"
-msgstr "運営コメントを送信"
-
-msgid "VIEWPAGE_MODERATOR_COMMENT_WARNING"
-msgstr "個人的なコメントは送信しないでください"
-
-# ## This is composed of two parts: SIGN_IN and TO_ADD_A_COMMENT
-# ## SIGN_IN is a link to the login page, and TO_ADD_A_COMMENT is the part that comes after.
-# ## It reads as follows: Sign in to add a comment
-msgid "TO_ADD_A_COMMENT"
-msgstr "コメントを送信"
-
-# ## When the Post Comment button is pressed, it changes to "Posting..." and then "Posted!" when complete.
-msgid "VIEWPAGE_COMMENT_POSTING"
-msgstr "送信中…"
-
-msgid "VIEWPAGE_COMMENT_POSTED"
-msgstr "送信しました！"
-
-# ## This can happen in cases of network failure or if the comment is rejected
-msgid "VIEWPAGE_COMMENT_FAILED"
-msgstr "コメントの送信に失敗しました…"
-
-# # Right sidebar
-msgid "FRONTPAGE_FLIPNOTE_SPOTLIGHT"
-msgstr "注目作品"
-
-msgid "FRONTPAGE_TRENDING_CREATORS"
+msgid "RANK"
 msgstr "作者ランキング"
 
-# Flipnote View Page
-msgid "EDIT_FLIPNOTE"
-msgstr "編集"
+msgid "RECENT"
+msgstr "新着順"
+
+msgid "RECENT_FLIPNOTES"
+msgstr "新着作品"
 
 msgid "REGION"
 msgstr "地域"
@@ -414,34 +503,171 @@ msgstr "日本"
 msgid "REGION_UNKNOWN"
 msgstr "不明"
 
+# Referring to a release date/publishing date
+msgid "RELEASED"
+msgstr "新着順"
+
+msgid "SAVE"
+msgstr "保存"
+
+msgid "SAVING"
+msgstr "保存中"
+
+msgid "SEARCH"
+msgstr "検索"
+
+msgid "SEARCH_PAGE_FORM_PLACEHOLDER"
+msgstr "ユーザー名、うごメモIDまたはチャンネル名"
+
+msgid "SEARCH_PAGE_FUZZY_SEARCH_TIP"
+msgstr "ヒント：例えば「ÄuらtÎn」を探す場合には「Austin」と入力しても見つけることができます"
+
+# # User hasn't posted any Flipnotes yet
+msgid "SEARCH_PAGE_NO_FLIPNOTES_YET"
+msgstr "まだ作品を投稿していません"
+
+msgid "SEARCH_PAGE_NO_RESULTS_FOUND"
+msgstr "見つかりませんでした。"
+
+msgid "SEARCH_PAGE_TOO_MANY_MATCHED"
+msgstr "検索結果が多すぎます。キーワードを増やして試してください。"
+
+# Search page
+msgid "SEARCH_SUDOMEMO"
+msgstr "検索"
+
+msgid "SETTINGS"
+msgstr "設定"
+
+msgid "SHARE"
+msgstr "共有"
+
 msgid "SHARE_ON_FACEBOOK"
 msgstr "Facebookで共有"
-
-msgid "SHARE_ON_TWITTER"
-msgstr "Twitterで共有"
-
-msgid "SHARE_ON_TUMBLR"
-msgstr "Tumblrで共有"
 
 msgid "SHARE_ON_REDDIT"
 msgstr "Redditで共有"
 
-msgid "VIEWPAGE_SPINOFFS"
-msgstr "子作品"
+msgid "SHARE_ON_TUMBLR"
+msgstr "Tumblrで共有"
 
-# # MusicMatch
-# ## Where the Flipnote's audio starts at in the song
-msgid "MUSICMATCH_AUDIO_OFFSET"
-msgstr "%s~"
+msgid "SHARE_ON_TWITTER"
+msgstr "Twitterで共有"
 
-msgid "MUSICMATCH_LISTEN_ON_YOUTUBE_MUSIC"
-msgstr "YouTube Musicで聴く"
+msgid "SIGN_IN"
+msgstr "ログイン"
 
-msgid "MUSICMATCH_LISTEN_ON_SPOTIFY"
-msgstr "Spotifyで聴く"
+msgid "SIGN_OUT"
+msgstr "ログアウト"
 
-msgid "MUSICMATCH_ABOUT"
-msgstr "MusicMatchについて"
+msgid "SIGN_UP"
+msgstr "新規登録"
+
+# For MusicMatch
+msgid "SONG"
+msgstr "BGM"
+
+msgid "STARS"
+msgstr "スター数"
+
+msgid "SUBMIT"
+msgstr "送信"
+
+# This file contains most of the translations for Sudomemo Theatre.
+# Meta tags, descriptions, etc
+msgid "SUDOMEMO"
+msgstr "スドメモ"
+
+msgid "SUDOMEMO_NEWS"
+msgstr "スドメモニュース"
+
+msgid "SUDOMEMO_PLUS"
+msgstr "スドメモプラス"
+
+msgid "SUDOMEMO_SHOP"
+msgstr "スドメモショップ"
+
+msgid "SUDOMEMO_SHOP_ABOUT_TICKETS_1"
+msgstr "チケットはスターとの交換やスドメモプラスの利用など様々な特典があるスドメモのアイテムです！"
+
+msgid "SUDOMEMO_SHOP_ABOUT_TICKETS_2"
+msgstr "手に入れたチケットはマイルームから「引き換え」を押して交換するほか、チケットコードを友達にプレゼントすることもできます！"
+
+msgid "SUDOMEMO_SHOP_ALL_ABOUT_PLUS"
+msgstr "スドメモプラスについて"
+
+msgid "SUDOMEMO_SHOP_LEARN_ABOUT_PLUS"
+msgstr "スドメモプラスでできることについて詳しくはこちらをクリック："
+
+msgid "SUDOMEMO_SHOP_META_DESCRIPTION"
+msgstr "スドメモショップ：スドメモプラスのチケットやスター、その他の追加コンテンツを購入できます！"
+
+msgid "SUDOMEMO_THEATRE"
+msgstr "スドメモシアター"
+
+msgid "TERMS_OF_USE"
+msgstr "利用規約"
+
+# Sudomemo Shop
+msgid "TICKETS"
+msgstr "チケット"
+
+msgid "TITLE"
+msgstr "作品名"
+
+# Referring to being the most popular (in terms of ranking)
+msgid "TOP"
+msgstr "トップ"
+
+# ## This is composed of two parts: SIGN_IN and TO_ADD_A_COMMENT
+# ## SIGN_IN is a link to the login page, and TO_ADD_A_COMMENT is the part that comes after.
+# ## It reads as follows: Sign in to add a comment
+msgid "TO_ADD_A_COMMENT"
+msgstr "コメントを送信"
+
+msgid "TROPHY_CASE"
+msgstr "トロフィーケース"
+
+# This is shown to logged-in users on their own Flipnotes without titles
+msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
+msgstr "%sさんの無題の作品"
+
+msgid "UPLOAD_OPTIONS"
+msgstr "アップロードオプション"
+
+# Upload status
+msgid "UPLOAD_STATUS"
+msgstr "アップロード状態"
+
+msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
+msgstr "連携したYouTubeチャンネルとデフォルトの作品アップロード設定を行います。"
+
+msgid "VIEWPAGE_ADD_MODERATOR_COMMENT"
+msgstr "運営コメントを送信"
+
+# ## This can happen in cases of network failure or if the comment is rejected
+msgid "VIEWPAGE_COMMENT_FAILED"
+msgstr "コメントの送信に失敗しました…"
+
+msgid "VIEWPAGE_COMMENT_POSTED"
+msgstr "送信しました！"
+
+# ## When the Post Comment button is pressed, it changes to "Posting..." and then "Posted!" when complete.
+msgid "VIEWPAGE_COMMENT_POSTING"
+msgstr "送信中…"
+
+msgid "VIEWPAGE_COMMENT_POST_BUTTON"
+msgstr "コメントを送信"
+
+msgid "VIEWPAGE_COMMENT_TEXTBOX"
+msgstr "コメントを入力"
+
+# # Comments section
+msgid "VIEWPAGE_COMMENT_WRITE_HERE"
+msgstr "ここに入力してください"
+
+msgid "VIEWPAGE_MODERATOR_COMMENT_WARNING"
+msgstr "個人的なコメントは送信しないでください"
 
 # # Original Flipnote / Spinoffs
 msgid "VIEWPAGE_ORIGINAL_FLIPNOTE"
@@ -454,276 +680,92 @@ msgstr "親作品が見つかりませんでした。"
 msgid "VIEWPAGE_RELATED_FLIPNOTE_BY"
 msgstr "%sさんの作品"
 
-# Creator's Room (Profile)
-msgid "FOLLOWS_YOU"
-msgstr "あなたのファンです"
+msgid "VIEWPAGE_SPINOFFS"
+msgstr "子作品"
 
-msgid "FOLLOW_BACK"
-msgstr "お気に入りに登録"
+# Number of times something has been viewed, or played.
+msgid "VIEWS"
+msgstr "えつらん回数"
 
-msgid "FOLLOWING"
-msgstr "お気に入り"
+msgid "WELCOME_BOX_AFTERNOON_GREETING"
+msgstr "こんにちは"
 
-msgid "FOLLOW"
-msgstr "お気に入りに追加"
+# ## Our welcome box can change it's greeting, depending on time of day.
+# ## It is displayed like this:
+# ## Good afternoon, User! Happy Flipnoting!
+msgid "WELCOME_BOX_DEFAULT_GREETING"
+msgstr "こんにちは"
 
-msgid "FOLLOWERS"
-msgstr "ファン"
+msgid "WELCOME_BOX_EVENING_GREETING"
+msgstr "こんばんは"
 
-# # はてなID
-msgid "HATENA_ID"
-msgstr "はてなID"
+# Give, in the same sense as "Donate"
+msgid "WELCOME_BOX_GIVE"
+msgstr "支援"
 
-msgid "PROFILE_ABOUT_USERNAME"
-msgstr "%sさんのプロフィール"
+# # Welcome to Sudomemo Box
+msgid "WELCOME_BOX_GREET_ADMIN"
+msgstr "ようこそ、%sさん"
 
-# # User's ★ are from:
-msgid "PROFILE_STAR_COUNTRY_HEADER"
-msgstr "★をもらった国"
+msgid "WELCOME_BOX_HOW_TO_JOIN"
+msgstr "設定方法はこちら"
 
-# # Recent comments on their Flipnotes
-msgid "PROFILE_RECENT_COMMENTS"
-msgstr "最近ついたコメント"
+msgid "WELCOME_BOX_MORNING_GREETING"
+msgstr "おはよう"
 
-# # channels that the user posts in most often
-msgid "PROFILE_USER_POSTS_IN"
-msgstr "投稿したチャンネル"
+msgid "WELCOME_BOX_OPEN_SUDOMIN"
+msgstr "Sudominを開く"
 
-# Search page
-msgid "SEARCH_SUDOMEMO"
-msgstr "検索"
+# ## Another one of our taglines 
+msgid "WELCOME_BOX_SHARE_CREATIVITY_TAGLINE"
+msgstr "作ったメモを世界に発信しよう！"
 
-msgid "SEARCH_PAGE_FORM_PLACEHOLDER"
-msgstr "ユーザー名、うごメモIDまたはチャンネル名"
+# ## "Happy Flipnoting!" is one of our brand catchphrases. "Flipnoting" refers to the act of creating or watching Flipnotes.
+# ## Please don't translate "Flipnoting", except to Japanese where you could probably modify the word うごメモ.
+msgid "WELCOME_BOX_USERNAME_HAPPY_FLIPNOTING"
+msgstr "、%s！ よきうごメモライフを！"
 
-msgid "SEARCH_PAGE_FUZZY_SEARCH_TIP"
-msgstr "ヒント：例えば「ÄuらtÎn」を探す場合には「Austin」と入力しても見つけることができます"
+msgid "WELCOME_BOX_WELCOME_TO"
+msgstr "ようこそ"
 
-msgid "SEARCH_PAGE_NO_RESULTS_FOUND"
-msgstr "見つかりませんでした。"
+msgid "WELCOME_BOX_WHAT_IS_SUDOMEMO"
+msgstr "スドメモはNintendo DSiと3DSで作成したメモ帳のアニメーション、「うごメモ」を投稿して共有できるアニメーションサイトです。"
 
-msgid "SEARCH_PAGE_TOO_MANY_MATCHED"
-msgstr "検索結果が多すぎます。キーワードを増やして試してください。"
-
-# # User hasn't posted any Flipnotes yet
-msgid "SEARCH_PAGE_NO_FLIPNOTES_YET"
-msgstr "まだ作品を投稿していません"
-
-# Edit Flipnote page
-msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
-msgstr "編集中"
-
-msgid "DESCRIPTION_WILL_GO_HERE"
-msgstr "説明文はここに表示されます。"
-
-msgid "COULD_NOT_SAVE_DETAILS"
-msgstr "詳細を保存できませんでした。"
-
-msgid "PLUS_LEARN_MORE"
-msgstr "詳しくはこちら"
-
-msgid "EDIT_PAGE_SUDOMEMO_PLUS_REQUIRED"
-msgstr "この機能を利用するにはスドメモプラスを手に入れる必要があります。"
-
-# Flipnote smoothing
-msgid "EDIT_PAGE_PLUS_SMOOTHING"
-msgstr "画質の最適化"
-
-msgid "EDIT_PAGE_PLUS_AUDIO_ENHANCEMENT"
-msgstr "音質向上"
-
-msgid "EDIT_PAGE_FLIPNOTE_PREVIEW_NOTE"
-msgstr "注意：うごメモのプレビューは更新されません。"
-
-msgid "EDIT_PAGE_TITLE_AND_DESCRIPTION"
-msgstr "作品名と説明文"
-
-msgid "EDIT_PAGE_ENTER_A_TITLE"
-msgstr "作品名を入力"
-
-msgid "EDIT_PAGE_ENTER_A_DESCRIPTION"
-msgstr "説明文を入力"
-
-msgid "EDIT_PAGE_TITLE_TOOLTIP"
-msgstr "文字、数字、記号を40字まで使用できます。"
-
-msgid "EDIT_PAGE_DESCRIPTION_TOOLTIP"
-msgstr "文字、数字、記号を320文字まで使用できます。"
-
-# # MusicMatch
-msgid "EDIT_PAGE_ABOUT_MUSICMATCH_1"
-msgstr "スドメモMusicMatchは作品に使用されたBGMを自動で識別します！"
-
-msgid "EDIT_PAGE_ABOUT_MUSICMATCH_2"
-msgstr "MusicMatchは誤った曲や複数の関係のない曲を表示する場合があります。その際は表示される曲名をここで修正することができます。"
-
-msgid "EDIT_PAGE_ABOUT_MUSICMATCH_3"
-msgstr "修正した曲情報は、うごメモから音源を検出するMusicMatchの精度向上にも活用されます。"
-
-msgid "EDIT_PAGE_MUSICMATCH_NO_BGM"
-msgstr "この作品にはBGMがありません。"
-
-msgid "EDIT_PAGE_MUSICMATCH_UNMATCHED"
-msgstr "この作品に使用された楽曲は見つかりませんでした。"
-
-msgid "EDIT_PAGE_MUSICMATCH_UNMAPPED"
-msgstr "MusicMatchの処理を開始します。時間をおいて確認してください。"
-
-msgid "EDIT_PAGE_MUSICMATCH_PENDING_MAPPING"
-msgstr "MusicMatchの処理をしています。時間をおいて確認してください。"
-
-msgid "EDIT_PAGE_MUSICMATCH_NONE_CORRECT"
-msgstr "曲名に間違いがあります"
-
-msgid "EDIT_PAGE_MUSICMATCH_PREVIEW_ON_YOUTUBE"
-msgstr "YouTube Musicで聴く"
-
-msgid "EDIT_PAGE_MUSICMATCH_PREVIEW_ON_SPOTIFY"
-msgstr "Spotifyで聴く"
-
-# Browse Song
-msgid "BROWSE_SONG_NO_FLIPNOTES_YET"
-msgstr "この曲が使われた作品はまだありません。"
-
-# # Referring to a music label/publishing company
-msgid "MUSIC_LABEL"
-msgstr "レーベル"
-
-# Browse Channel
-msgid "BROWSE_CHANNEL_NO_FLIPNOTES_YET"
-msgstr "このチャンネルに投稿された作品はまだありません。"
-
-# # Posting permissions
-msgid "CHANNEL_PERM_CLOSED"
-msgstr "閉じる"
-
-msgid "CHANNEL_PERM_OPEN"
-msgstr "開く"
-
-# # categories
-msgid "CHANNEL_CAT_NAME_NONE"
-msgstr "なし"
-
-msgid "CHANNEL_CAT_NAME_ART"
-msgstr "アート"
-
-msgid "CHANNEL_CAT_NAME_GENRES"
-msgstr "ジャンル"
-
-msgid "CHANNEL_CAT_NAME_TOPICS"
-msgstr "トピック"
-
-msgid "CHANNEL_CAT_NAME_ROLEPLAYS"
-msgstr "ロールプレイ"
-
-msgid "CHANNEL_CAT_NAME_FANDOMS"
-msgstr "ファン作品"
-
-msgid "CHANNEL_CAT_NAME_RESOURCES"
-msgstr "素材"
-
-msgid "CHANNEL_CAT_NAME_PERSONAL"
-msgstr "チャット・企画"
-
-msgid "CHANNEL_CAT_NAME_WEEKLY_TOPIC"
-msgstr "今週のお題"
-
-# 404 Page
-msgid "404_OOPS_NOT_FOUND"
-msgstr "エラー！ページが見つかりませんでした"
-
-msgid "404_WHOOPS_NOT_THERE"
-msgstr "このページには表示できるものがありません。"
-
-msgid "404_GO_BACK"
-msgstr "スドメモシアターに戻る"
-
-# Sudomemo Shop
-msgid "TICKETS"
-msgstr "チケット"
-
-msgid "SUDOMEMO_SHOP_ABOUT_TICKETS_1"
-msgstr "チケットはスターとの交換やスドメモプラスの利用など様々な特典があるスドメモのアイテムです！"
-
-msgid "SUDOMEMO_SHOP_ABOUT_TICKETS_2"
-msgstr "手に入れたチケットはマイルームから「引き換え」を押して交換するほか、チケットコードを友達にプレゼントすることもできます！"
-
-msgid "SUDOMEMO_SHOP_LEARN_ABOUT_PLUS"
-msgstr "スドメモプラスでできることについて詳しくはこちらをクリック："
-
-msgid "SUDOMEMO_SHOP_ALL_ABOUT_PLUS"
-msgstr "スドメモプラスについて"
-
-# # Ticket types..
-# Login Page
-msgid "LOGIN_FAILED_CHECK_DETAILS"
-msgstr "ログインできませんでした。入力内容を確認してもう一度送信してください"
-
-msgid "LOGIN_PLACEHOLDER_USERNAME"
-msgstr "E-mailまたはうごメモID"
-
-msgid "LOGIN_PLACEHOLDER_PASSWORD"
-msgstr "パスワード"
-
-msgid "LOGIN_SIGNUP_SELECT_DEVICE"
-msgstr "機種を選択してください"
-
-msgid "NINTENDO_DSI"
-msgstr "Nintendo DSi"
-
-msgid "NINTENDO_3DS"
-msgstr "Nintendo 3DS"
-
-# Additional things
-# See Flipnotes with the song <song name> by <band/artist name>
-msgid "BROWSE_SONG_YOU_ARE_BROWSING_SONG"
-msgstr "%s / %sが使われている作品"
-
-msgid "TROPHY_CASE"
-msgstr "トロフィーケース"
-
-# This is shown to logged-in users on their own Flipnotes without titles
-msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
-msgstr "%sさんの無題の作品"
-
-# Account Settings (Theatre)
-msgid "ACCOUNT_SETTINGS"
-msgstr "アカウント設定"
+msgid "WELCOME_BOX_YOU_ARE_ADMIN"
+msgstr "管理者権限でログインしています。"
 
 msgid "YOUTUBE"
 msgstr "YouTube"
 
-msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
-msgstr "連携したYouTubeチャンネルとデフォルトの作品アップロード設定を行います。"
-
-msgid "YOUTUBE_CONNECT_INTRO"
-msgstr "YouTubeチャンネルと連携すると、作品を直接YouTubeに共有できます！"
-
-msgid "YOUTUBE_LINK_PROMPT"
-msgstr "YouTubeチャンネルと連携して作品をYouTubeにアップロードします。"
-
-msgid "YOUTUBE_RECONNECT_PROMPT"
-msgstr "チャンネルとの連携が古くなっています。続行するには、再度連携してください。"
-
-msgid "BTN_SIGN_IN_WITH_GOOGLE"
-msgstr "Googleアカウントでログイン"
-
 msgid "YOUTUBE_ACCOUNT_UNVERIFIED"
 msgstr "未確認のアカウント"
 
-msgid "YOUTUBE_ACCOUNT_VERIFIED"
-msgstr "アカウントが確認されました"
+msgid "YOUTUBE_ACCOUNT_VERIFICATION_FIX_NOW"
+msgstr "いますぐ修正"
 
 msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
 msgstr "YouTubeアカウントが未確認です。 15分を超える作品や、サムネイルなど、特定の機能はご利用になれません。"
 
-msgid "YOUTUBE_ACCOUNT_VERIFICATION_FIX_NOW"
-msgstr "いますぐ修正"
+msgid "YOUTUBE_ACCOUNT_VERIFIED"
+msgstr "アカウントが確認されました"
+
+# Added to the queue at: 2020-07-08 02:46:38
+msgid "YOUTUBE_ADDED_TO_QUEUE_AT"
+msgstr "キューに追加されました:"
+
+msgid "YOUTUBE_CHECK_FEATURES_THUMB"
+msgstr "YouTubeチャンネルが認証されていない可能性があります。 詳細についてはこちらをご覧ください:"
+
+msgid "YOUTUBE_CONNECT_INTRO"
+msgstr "YouTubeチャンネルと連携すると、作品を直接YouTubeに共有できます！"
 
 # YouTube metadata
 # Extra description text: will be placed at the end of your video descriptions. 
 msgid "YOUTUBE_DEFAULT_SETTINGS_EXPLANATION"
 msgstr "これらの設定は、ニンテンドーDSiまたは3DSから作品をアップロードするときに自動的に入力されます。 スドメモシアターからアップロードする場合は、アップロードを開始する前に、これらの設定を変更または確認するように求められます。"
+
+msgid "YOUTUBE_ESTIMATED_DURATION"
+msgstr "推定される動画の長さ:"
 
 msgid "YOUTUBE_EXTRA_DESCRIPTION_TEXT"
 msgstr "追加の説明文"
@@ -731,14 +773,8 @@ msgstr "追加の説明文"
 msgid "YOUTUBE_EXTRA_DESCRIPTION_TEXT_EXPLANATION"
 msgstr "この説明文は、視聴者が動画の説明で[もっと見る]をクリックすると表示されます。"
 
-msgid "YOUTUBE_TAGS"
-msgstr "タグ"
-
-msgid "YOUTUBE_TAGS_HINT"
-msgstr "タグはカンマで区切ります。"
-
-msgid "YOUTUBE_TAGS_EXPLANATION"
-msgstr "タグの後にカンマを入力してください"
+msgid "YOUTUBE_LINK_PROMPT"
+msgstr "YouTubeチャンネルと連携して作品をYouTubeにアップロードします。"
 
 msgid "YOUTUBE_LOOP_COUNT"
 msgstr "ループ回数"
@@ -746,60 +782,18 @@ msgstr "ループ回数"
 msgid "YOUTUBE_LOOP_COUNT_EXPLANATION"
 msgstr "作品が繰り返される回数です。1回だけ再生するには1を選択します。"
 
-msgid "YOUTUBE_VISIBILITY"
-msgstr "公開範囲"
-
-msgid "YOUTUBE_VISIBILITY_PUBLIC"
-msgstr "公開"
-
-msgid "YOUTUBE_VISIBILITY_UNLISTED"
-msgstr "限定公開"
-
-msgid "YOUTUBE_VISIBILITY_PRIVATE"
-msgstr "非公開"
-
-# Upload page specifics
-# Upload to YouTube header
-msgid "HEADER_UPLOAD_TO_YOUTUBE"
-msgstr "YouTubeにアップロード"
-
-msgid "LINK_REQUIRED_BEFORE_UPLOAD"
-msgstr "作品をアップロードする前に、YouTubeチャンネルと連携する必要があります。"
-
-msgid "BTN_GO_TO_SETTINGS"
-msgstr "設定に移動"
-
-msgid "UPLOAD_OPTIONS"
-msgstr "アップロードオプション"
-
-msgid "YOUTUBE_TERMS_AGREEMENT_NOTE"
-msgstr "動画をYouTubeに送信した時点で、YouTubeの利用規約とコミュニティガイドラインに同意したことになります。"
-
-msgid "SUBMIT"
-msgstr "送信"
-
-# Upload status
-msgid "UPLOAD_STATUS"
-msgstr "アップロード状態"
-
 msgid "YOUTUBE_PENDING_UPLOAD"
 msgstr "作品がアップロードされるのを待っています。時間を空けてご確認ください。"
 
-# Added to the queue at: 2020-07-08 02:46:38
-msgid "YOUTUBE_ADDED_TO_QUEUE_AT"
-msgstr "キューに追加されました:"
+# Position in queue: 4 - means there are three uploads ahead of yours
+msgid "YOUTUBE_POSITION_IN_QUEUE"
+msgstr "キュー内の位置:"
 
-msgid "YOUTUBE_STATUS_TRACKER_NEW"
-msgstr "New"
+msgid "YOUTUBE_RECONNECT_PROMPT"
+msgstr "チャンネルとの連携が古くなっています。続行するには、再度連携してください。"
 
-msgid "YOUTUBE_STATUS_TRACKER_PROCESSING"
-msgstr "処理中"
-
-msgid "YOUTUBE_STATUS_TRACKER_DONE"
-msgstr "完了!"
-
-msgid "YOUTUBE_STATUS_WAITING_TO_BE_PROCESSED"
-msgstr "アップロードは現在処理待ちです。"
+msgid "YOUTUBE_REFRESH_ACCOUNT"
+msgstr "アカウントを更新"
 
 msgid "YOUTUBE_STATUS_BEING_PROCESSED"
 msgstr "アップロードは現在処理中です。"
@@ -807,17 +801,20 @@ msgstr "アップロードは現在処理中です。"
 msgid "YOUTUBE_STATUS_COMPLETE"
 msgstr "アップロードが完了しました！"
 
-msgid "YOUTUBE_STATUS_FAILED_GONE"
-msgstr "アップロードが完了する前に作品が削除されました。"
-
 msgid "YOUTUBE_STATUS_FAILED_AUTH"
 msgstr "認証の問題によりアップロードに失敗しました。"
+
+msgid "YOUTUBE_STATUS_FAILED_CLIENT_ERROR"
+msgstr "クライアントエラーが発生したため、アップロードに失敗しました。"
+
+msgid "YOUTUBE_STATUS_FAILED_GONE"
+msgstr "アップロードが完了する前に作品が削除されました。"
 
 msgid "YOUTUBE_STATUS_FAILED_SERVICE_ERROR"
 msgstr "サービスエラーが発生したため、アップロードに失敗しました。"
 
-msgid "YOUTUBE_STATUS_FAILED_CLIENT_ERROR"
-msgstr "クライアントエラーが発生したため、アップロードに失敗しました。"
+msgid "YOUTUBE_STATUS_FAILED_THUMB"
+msgstr "動画は正常にアップロードされましたが、サムネイルのアップロードで問題が発生しました。"
 
 msgid "YOUTUBE_STATUS_FAILED_UNEXPECTED_ERROR"
 msgstr "アップロード中に予期せぬエラーが発生しました。"
@@ -828,30 +825,35 @@ msgstr "原因不明のエラーが発生しました。"
 msgid "YOUTUBE_STATUS_PAUSED_GLOBAL_QUOTA"
 msgstr "グローバル利用枠を超えてしまったため、アップロードが大幅に遅れる可能性があります。"
 
-msgid "YOUTUBE_WATCH_NOW_AT"
-msgstr "今見る:"
+msgid "YOUTUBE_STATUS_TRACKER_DONE"
+msgstr "完了!"
 
-msgid "BTN_START_UPLOAD"
-msgstr "アップロードを開始"
+msgid "YOUTUBE_STATUS_TRACKER_NEW"
+msgstr "New"
 
-msgid "BTN_STARTING_UPLOAD"
-msgstr "開始しています..."
+msgid "YOUTUBE_STATUS_TRACKER_PROCESSING"
+msgstr "処理中"
 
-msgid "BTN_UPLOAD_FAILED"
-msgstr "アップロードに失敗しました..."
+msgid "YOUTUBE_STATUS_WAITING_TO_BE_PROCESSED"
+msgstr "アップロードは現在処理待ちです。"
 
-msgid "FLIPNOTE_SETTINGS_UPLOAD_TO_YOUTUBE"
-msgstr "作品はYouTubeチャンネルにアップロードできます。 開始するには、下のボタンをクリックしてください。"
+msgid "YOUTUBE_TAGS"
+msgstr "タグ"
 
-msgid "BTN_GET_STARTED"
-msgstr "始める"
+msgid "YOUTUBE_TAGS_EXPLANATION"
+msgstr "タグの後にカンマを入力してください"
 
-msgid "YOUTUBE_ESTIMATED_DURATION"
-msgstr "推定される動画の長さ:"
+msgid "YOUTUBE_TAGS_HINT"
+msgstr "タグはカンマで区切ります。"
 
-# Position in queue: 4 - means there are three uploads ahead of yours
-msgid "YOUTUBE_POSITION_IN_QUEUE"
-msgstr "キュー内の位置:"
+msgid "YOUTUBE_TERMS_AGREEMENT_NOTE"
+msgstr "動画をYouTubeに送信した時点で、YouTubeの利用規約とコミュニティガイドラインに同意したことになります。"
+
+msgid "YOUTUBE_UNLINK_ACCOUNT"
+msgstr "アカウントの連携を解除する"
+
+msgid "YOUTUBE_UNLINK_ACCOUNT_CONFIRM"
+msgstr "YouTubeチャンネルとの連携を削除してもよろしいですか？"
 
 msgid "YOUTUBE_UPLOAD_HISTORY"
 msgstr "アップロード履歴"
@@ -863,35 +865,33 @@ msgstr "左側のステータスアイコンをクリックして、動画のラ
 msgid "YOUTUBE_UPLOAD_LIMIT"
 msgstr "現在、1日につき%s本の動画をYouTubeにアップロードすることができます。"
 
-msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_LIMIT_NOTE"
-msgstr "スドメモPlusのメンバーは1日につき%s本の動画をアップロードすることができます。"
-
-msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_UNLIMITED_NOTE"
-msgstr "スドメモPlusメンバーは1日にアップロードできる動画の数の制限がありません。"
-
 msgid "YOUTUBE_UPLOAD_LIMIT_CURRENT"
 msgstr "今日までに%s本の動画をアップロードしました。"
 
 msgid "YOUTUBE_UPLOAD_LIMIT_EXCEEDED"
 msgstr "これ以上動画をアップロードできません。明日までお待ちください。"
 
-msgid "SETTINGS"
-msgstr "設定"
+msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_LIMIT_NOTE"
+msgstr "スドメモPlusのメンバーは1日につき%s本の動画をアップロードすることができます。"
 
-msgid "PRIVACY_POLICY"
-msgstr "個人情報保護方針"
+msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_UNLIMITED_NOTE"
+msgstr "スドメモPlusメンバーは1日にアップロードできる動画の数の制限がありません。"
 
-msgid "YOUTUBE_STATUS_FAILED_THUMB"
-msgstr "動画は正常にアップロードされましたが、サムネイルのアップロードで問題が発生しました。"
+msgid "YOUTUBE_VISIBILITY"
+msgstr "公開範囲"
 
-msgid "YOUTUBE_CHECK_FEATURES_THUMB"
-msgstr "YouTubeチャンネルが認証されていない可能性があります。 詳細についてはこちらをご覧ください:"
+msgid "YOUTUBE_VISIBILITY_PRIVATE"
+msgstr "非公開"
 
-msgid "YOUTUBE_REFRESH_ACCOUNT"
-msgstr "アカウントを更新"
+msgid "YOUTUBE_VISIBILITY_PUBLIC"
+msgstr "公開"
 
-msgid "YOUTUBE_UNLINK_ACCOUNT"
-msgstr "アカウントの連携を解除する"
+msgid "YOUTUBE_VISIBILITY_UNLISTED"
+msgstr "限定公開"
 
-msgid "YOUTUBE_UNLINK_ACCOUNT_CONFIRM"
-msgstr "YouTubeチャンネルとの連携を削除してもよろしいですか？"
+msgid "YOUTUBE_WATCH_NOW_AT"
+msgstr "今見る:"
+
+# Edit Flipnote page
+msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
+msgstr "編集中"

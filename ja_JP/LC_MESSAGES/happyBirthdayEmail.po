@@ -12,8 +12,8 @@ msgstr "こんにちは、%sさん!"
 msgid "HAPPY_BIRTHDAY"
 msgstr "お誕生日おめでとうございます！"
 
-msgid "SPECIAL_SURPRISE_WAITING"
-msgstr "スドメモで特別なバースデーサプライズがあなたを待っています。"
-
 msgid "LOGON_ON_DS_TO_VIEW"
 msgstr "あなたの ニンテンドーDSi または ニンテンドー3DS でスドメモにログインして、誕生日プレゼントを受け取ってください！"
+
+msgid "SPECIAL_SURPRISE_WAITING"
+msgstr "スドメモで特別なバースデーサプライズがあなたを待っています。"

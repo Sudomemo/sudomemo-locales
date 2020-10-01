@@ -3,17 +3,20 @@ msgstr ""
 "Language: ja_JP\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "UPPERTITLE"
-msgstr "チャンネルの作品"
+msgid "BROWSE_BY_ALBUM"
+msgstr "アルバムで閲覧"
 
-msgid "POST_FLIPNOTE"
-msgstr "作品を投稿する"
+msgid "BROWSE_BY_ARTIST"
+msgstr "アーティストで閲覧"
+
+msgid "BROWSE_BY_SONG"
+msgstr "曲で閲覧"
+
+msgid "BROWSE_PLAYLIST"
+msgstr "プレイリストで閲覧"
 
 msgid "NEXT"
 msgstr "次へ"
-
-msgid "PREV"
-msgstr "前へ"
 
 msgid "PAGE"
 msgstr "ページ"
@@ -21,17 +24,14 @@ msgstr "ページ"
 msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d/%d"
 
+msgid "POST_FLIPNOTE"
+msgstr "作品を投稿する"
+
+msgid "PREV"
+msgstr "前へ"
+
 msgid "SPINOFFS"
 msgstr "子作品"
 
-msgid "BROWSE_BY_SONG"
-msgstr "曲で閲覧"
-
-msgid "BROWSE_BY_ARTIST"
-msgstr "アーティストで閲覧"
-
-msgid "BROWSE_BY_ALBUM"
-msgstr "アルバムで閲覧"
-
-msgid "BROWSE_PLAYLIST"
-msgstr "プレイリストで閲覧"
+msgid "UPPERTITLE"
+msgstr "チャンネルの作品"

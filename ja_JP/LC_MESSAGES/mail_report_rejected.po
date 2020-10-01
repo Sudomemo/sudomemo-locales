@@ -3,6 +3,33 @@ msgstr ""
 "Language: ja_JP\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "CONTENT_ID"
+msgstr "コンテンツID:"
+
+msgid "CONTENT_TYPE"
+msgstr "コンテンツのタイプ:"
+
+msgid "CONTENT_TYPE_chat_message"
+msgstr "チャットメッセージ"
+
+msgid "CONTENT_TYPE_comment"
+msgstr "コメント"
+
+# ## Catch-all
+msgid "CONTENT_TYPE_content"
+msgstr "その他のコンテンツ"
+
+# # Content types
+msgid "CONTENT_TYPE_flipnote"
+msgstr "作品"
+
+msgid "CONTENT_TYPE_profile_bio"
+msgstr "プロフィールの内容"
+
+# ## We plan on adding user-created themes.
+msgid "CONTENT_TYPE_room_theme"
+msgstr "マイルームのテーマ"
+
 # Content Report Rejected - sent to user who has reported content after report deemed invalid
 msgid "NOTICE"
 msgstr "通知"
@@ -17,30 +44,3 @@ msgstr "審査した結果、このコンテンツはコンテンツポリシー
 # this message is followed by a link
 msgid "REPORT_REJECTED_INFO"
 msgstr "皆さんの報告が誰にとっても使いやすく、快適なスドメモを形作っています。コンテンツポリシーを確認し、スドメモにおいてどのような行為が受け入れられるのかを知ることをお勧めいたします"
-
-# # Content types
-msgid "CONTENT_TYPE_flipnote"
-msgstr "作品"
-
-msgid "CONTENT_TYPE_comment"
-msgstr "コメント"
-
-msgid "CONTENT_TYPE_chat_message"
-msgstr "チャットメッセージ"
-
-# ## We plan on adding user-created themes.
-msgid "CONTENT_TYPE_room_theme"
-msgstr "マイルームのテーマ"
-
-msgid "CONTENT_TYPE_profile_bio"
-msgstr "プロフィールの内容"
-
-# ## Catch-all
-msgid "CONTENT_TYPE_content"
-msgstr "その他のコンテンツ"
-
-msgid "CONTENT_TYPE"
-msgstr "コンテンツのタイプ:"
-
-msgid "CONTENT_ID"
-msgstr "コンテンツID:"
