@@ -11,3 +11,9 @@ msgstr "こちら"
 
 msgid "YOU_HAVE_NEW_NOTIFICATIONS"
 msgstr "新しい通知があります"
+
+msgid "NOT_REGISTERED_NOTICE"
+msgstr "Having fun? Get started with Sudomemo by tapping %s!"
+
+msgid "NOT_REGISTERED_NOTICE_LINK_TEXT"
+msgstr "here"
