@@ -47,7 +47,7 @@ msgstr "l, F jS, Y"
 # November 29th, 2019 08:23:07
 # Used for Flipnote Details
 msgid "DATETIME_MONTH_DAY_ORDINAL_HOUR_MINUTE_SECOND_FORMAT"
-msgstr "F jS, Y h:i:s"
+msgstr "F jS, Y H:i:s"
 
 # Very common terms and one-word translations
 msgid "ARTIST"
