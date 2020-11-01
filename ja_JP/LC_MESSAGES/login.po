@@ -257,3 +257,7 @@ msgstr "あなたの任天堂DSiシステムで「認証ステータスの確認
 
 msgid "WELCOME_BACK_FORMAT"
 msgstr "ようこそ、 %sさん！"
+
+# A URL will be shown at the end of this.
+msgid "LEGACY_PROXY_WARNING"
+msgstr "It looks like you may still be using the legacy ds.sudomemo.net proxy, which we have ended support for. As such, you should turn off the proxy in your System Settings, or you might have problems using Sudomemo. For more information, visit:"
