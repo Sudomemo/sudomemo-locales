@@ -57,7 +57,7 @@ msgstr "l j F, Y"
 # (English and Dutch are the same in this case.)
 # Once again, will PHP use the Dutch names for the days and the month?
 msgid "DATETIME_MONTH_DAY_ORDINAL_HOUR_MINUTE_SECOND_FORMAT"
-msgstr "h:i:s, j F Y"
+msgstr "H:i:s, j F Y"
 
 # Very common terms and one-word translations
 msgid "ARTIST"
