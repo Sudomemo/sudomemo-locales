@@ -257,3 +257,7 @@ msgstr "Welcome to Sudomemo! Now, let's write a little message to say who you ar
 
 msgid "PLEASE_DISCONNECT_AND_RECONNECT"
 msgstr "An error occured. To try again, disconnect and then reconnect to Sudomemo."
+
+# A URL will be shown at the end of this.
+msgid "LEGACY_PROXY_WARNING"
+msgstr "It looks like you may still be using the legacy ds.sudomemo.net proxy, which we have ended support for. As such, you should turn off the proxy in your System Settings, or you might have problems using Sudomemo. For more information, visit:"
