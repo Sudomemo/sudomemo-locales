@@ -260,4 +260,4 @@ msgstr "Bon retour, %s !"
 
 # A URL will be shown at the end of this.
 msgid "LEGACY_PROXY_WARNING"
-msgstr "Il semblerait que vous utilisiez toujours l'ancien proxy ds.sudomemo.net, qui n'est plus supporté. Dans ce cas, vous devriez désactiver le proxy dans vos paramètres de la console, ou vous pourriez avoir des problèmes en utilisant Sudomemo. Pour plus d'informations, allez sur :"
+msgstr "Il semblerait que vous utilisiez toujours l'ancien proxy ds.sudomemo.net, qui n'est plus pris en charge. Dans ce cas, vous devriez désactiver le proxy dans vos paramètres de la console, ou vous pourriez avoir des problèmes en utilisant Sudomemo. Pour plus d'informations, allez sur :"
