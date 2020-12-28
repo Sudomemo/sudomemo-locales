@@ -37,7 +37,7 @@ msgid "WELCOME_BACK_FORMAT"
 msgstr "Willkommen zurück, %s!"
 
 msgid "RETURNING_USER_NEW_LOGIN_SYSTEM"
-msgstr "Seit deinem vorherigen Besuch haben wir ein neues Login-System implementiert. aber keine Sorge! Dein sämtlicher Inhalt bleibt bestehen!"
+msgstr "Seit deinem vorherigen Besuch haben wir ein neues Login-System implementiert. Aber keine Sorge! Dein sämtlicher Inhalt bleibt bestehen!"
 
 msgid "RETURNING_USER_PLEASE_CREATE_PASSWORD"
 msgstr "Bitte gib ein neues Passwort ein, um loszulegen."
