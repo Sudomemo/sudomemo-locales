@@ -17,7 +17,7 @@ msgid "DISCORD_LINKING_GET_STARTED"
 msgstr "merci d'aller sur %s pour commencer !"
 
 msgid "DISCORD_LINKING_REQUIRED"
-msgstr "vous devrez lier votre compte Sudomemo pour faire cela."
+msgstr "vous devez lier votre compte Sudomemo pour faire cela."
 
 msgid "DISCORD_LINKING_SUCCESS"
 msgstr "votre compte a été lié avec succès !"
