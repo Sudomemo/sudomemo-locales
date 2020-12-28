@@ -76,7 +76,7 @@ msgid "CREATORS"
 msgstr "Ersteller"
 
 msgid "CREATORS_ROOM"
-msgstr "Creator-Raum"
+msgstr "Ersteller-Raum"
 
 msgid "DETAILS"
 msgstr "Details"
@@ -85,7 +85,7 @@ msgid "DESCRIPTION"
 msgstr "Beschreibung"
 
 msgid "DOWNLOADS"
-msgstr "Downloads"
+msgstr "Male heruntergeladen"
 
 msgid "FANS"
 msgstr "Fans"
@@ -335,7 +335,7 @@ msgstr "Unterstützen"
 
 # # Flipnote sections
 msgid "FLIPNOTE_LIST_RECALCULATING"
-msgstr "Die Rankings werden gerade neu berechnet. Lade die Seite etwas später neu."
+msgstr "Die Ränge werden gerade neu berechnet. Lade die Seite etwas später neu."
 
 msgid "RECENT_FLIPNOTES"
 msgstr "Rezente Flipnotes"
@@ -527,7 +527,7 @@ msgstr "Du benötigst Sudomemo Plus, um diese Features zu benutzen."
 
 # Flipnote smoothing
 msgid "EDIT_PAGE_PLUS_SMOOTHING"
-msgstr "Smoothing"
+msgstr "Glätten"
 
 msgid "EDIT_PAGE_PLUS_AUDIO_ENHANCEMENT"
 msgstr "Audio-Korrektur"
@@ -694,7 +694,7 @@ msgid "YOUTUBE"
 msgstr "YouTube"
 
 msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
-msgstr "Konfiguriere deinen verlinkten YouTube-Kanal und Einstellungen zu FLipnote-Uploads."
+msgstr "Konfiguriere deinen verlinkten YouTube-Kanal und Einstellungen zu hochgeladenen Flipnote."
 
 msgid "YOUTUBE_CONNECT_INTRO"
 msgstr "Das Verlinken deines YouTube-Kanals erlaubt es dir, Flipnote direkt auf der YouTube-Plattform zu teilen!"
@@ -761,7 +761,7 @@ msgstr "Privat"
 # Upload page specifics
 # Upload to YouTube header
 msgid "HEADER_UPLOAD_TO_YOUTUBE"
-msgstr "Auf YouTube hochladen"
+msgstr "Zu YouTube hochladen"
 
 msgid "LINK_REQUIRED_BEFORE_UPLOAD"
 msgstr "Du benötigst einen Link zu deinem YouTube-Kanal, um dein Flipnote dort hochzuladen."
@@ -780,10 +780,10 @@ msgstr "Einreichen"
 
 # Upload status
 msgid "UPLOAD_STATUS"
-msgstr "Upload-Status"
+msgstr "Hochlade-Status"
 
 msgid "YOUTUBE_PENDING_UPLOAD"
-msgstr "Dein Flipnote wartet auf den Upload. Komme in ein paar Minuten wieder."
+msgstr "Dein Flipnote wartet auf das Hochladen. Komme in ein paar Minuten wieder."
 
 # Added to the queue at: 2020-07-08 02:46:38
 msgid "YOUTUBE_ADDED_TO_QUEUE_AT"
@@ -841,7 +841,7 @@ msgid "BTN_UPLOAD_FAILED"
 msgstr "Hochladen fehlgeschlagen..."
 
 msgid "FLIPNOTE_SETTINGS_UPLOAD_TO_YOUTUBE"
-msgstr "You can upload your Flipnote to your YouTube channel. Click the button below to get started."
+msgstr "Du kannst dein Flipnote auf deinem YouTube-Kanal hochladen. Klicke die angegebene Schaltfläche, um loszulegen."
 
 msgid "BTN_GET_STARTED"
 msgstr "Loslegen"
