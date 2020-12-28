@@ -43,6 +43,17 @@ Before starting work on a new language or updating an existing one, please check
 
 10. We'll review your Pull Request as soon as possible, make sure to check back regularly in case there is something we ask you to fix.
 
+### Ignore Lists
+
+Sometimes there's strings that shouldn't be translated. Those get added to our ignore list.
+
+For example, youtube.po for ja_JP has some strings that don't get translated. We put the msgid's in this file:
+
+`/ignores/ja_JP/youtube.txt`
+
+This is used for our tool that finds untranslated strings.
+
+
 #### Example Langcode list
 
 Common languages:
