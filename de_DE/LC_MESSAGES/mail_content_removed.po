@@ -23,7 +23,7 @@ msgstr "Chat-Nachricht"
 
 # ## We plan on adding user-created themes.
 msgid "CONTENT_TYPE_room_theme"
-msgstr "Creator-Raum-Theme"
+msgstr "Ersteller-Raum-Thema"
 
 msgid "CONTENT_TYPE_profile_bio"
 msgstr "Biografie"
@@ -40,7 +40,7 @@ msgid "CONTENT_POLICY_REVIEW_INTRO"
 msgstr "Wir verstehen, dass, wenn Richtlinien auf künstlerische Entfaltung treffen, Kontext und Präsentation in Erwägung gezogen werden müssen."
 
 msgid "CONTENT_POLICY_REVIEW_LINK"
-msgstr "Wir würden dich bitten, unsere Inhaltsrichtlinien unter dem folgenden Link einzusehen:"
+msgstr "Wir würden Dich bitten, unsere Inhaltsrichtlinien unter dem folgenden Link einzusehen:"
 
 msgid "HOW_TO_APPEAL"
 msgstr "Wenn du der Meinung bist, dass diese Entscheidung nicht rechtmäßig getroffen wurde, kannst du unter dem folgenden Link Einspruch erheben:"
