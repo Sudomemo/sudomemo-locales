@@ -56,7 +56,7 @@ msgid "BTN_GO_TO_SETTINGS"
 msgstr "Aller aux paramètres"
 
 msgid "BTN_SIGN_IN_WITH_GOOGLE"
-msgstr "Se connecter avec Google"
+msgstr "Connexion à Google"
 
 msgid "BTN_STARTING_UPLOAD"
 msgstr "Démarrage..."
@@ -259,7 +259,7 @@ msgid "FOLLOWERS"
 msgstr "Abonnés"
 
 msgid "FOLLOWING"
-msgstr "Abonné"
+msgstr "Abonnements"
 
 # Creator's Room (Profile)
 msgid "FOLLOWS_YOU"
