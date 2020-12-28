@@ -901,3 +901,22 @@ msgstr "Verified User"
 
 msgid "SHARE_ON_WHATSAPP"
 msgstr "Share via WhatsApp"
+
+# This refers to Discord, which is a chat app.
+msgid "DISCORD"
+msgstr "Discord"
+
+msgid "DISCORD_HOW_TO_LINK"
+msgstr "How to Link"
+
+msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
+msgstr "After you've joined the Sudomemo Discord, copy and paste this into the chat."
+
+# Connected since December 27th, 2020
+msgid "DISCORD_LINKED_ON_DATE"
+msgstr "Connected since %s"
+
+# Do not translate ".sudo unlink"
+msgid "HOW_TO_UNLINK_DISCORD"
+msgstr "To unlink your Discord account, type this command into chat: .sudo unlink"
+
