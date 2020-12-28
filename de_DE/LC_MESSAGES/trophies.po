@@ -12,7 +12,7 @@ msgid "CASE_IS_EMPTY"
 msgstr "Ziemlich leer hier, oder?"
 
 msgid "ACHIEVEMENT_EARNED"
-msgstr "Achievement Get!"
+msgstr "Achievement erhalten!"
 
 msgid "CONTINUE"
 msgstr "Weiter"
@@ -82,7 +82,7 @@ msgid "TROPHY_NAME_meet_russell_ramblewood"
 msgstr "Hat Russell Ramblewood getroffen"
 
 msgid "TROPHY_DESC_meet_russell_ramblewood"
-msgstr "He's flamboyant to a fault, but still wants to hear about your day."
+msgstr "Er mag übermäßig großspurig sein, dennoch will er über deinen Tag hören."
 
 msgid "TROPHY_NAME_meet_mitsuo_meow"
 msgstr "Hat Mitsuo Meow getroffen"
@@ -118,7 +118,7 @@ msgid "TROPHY_NAME_folder"
 msgstr "Falter"
 
 msgid "TROPHY_DESC_folder"
-msgstr "Spendet Rechenleistung an Folding@Home um Krankheiten zu bekämpfen"
+msgstr "Spendet Rechenleistung an Folding@Home, um Krankheiten zu bekämpfen"
 
 msgid "TROPHY_NAME_colors_promo"
 msgstr "Colors! x Sudomemo Thema-Gewinner"
@@ -127,13 +127,13 @@ msgid "TROPHY_DESC_colors_promo"
 msgstr "Einer der Gewinner des Colors! x Sudomemo Themas Into the Light"
 
 msgid "TROPHY_NAME_spookmaster"
-msgstr "Spookmaster"
+msgstr "Spukmeister"
 
 msgid "TROPHY_DESC_spookmaster"
-msgstr "Spookmaster Award for Excellence in Witchcraft and Wizardry."
+msgstr "Spukmeister-Verzeichnung für Excellenz in Hexerei, Zauberei und sonst Derlei"
 
 msgid "TROPHY_NAME_nitro_booster"
 msgstr "Nitro Booster"
 
 msgid "TROPHY_DESC_nitro_booster"
-msgstr "Showed how cool they (or a friend) were by boosting the Sudomemo Discord server."
+msgstr ".Hat die eigene Coolness (oder die eines Freundes) durch das Boosten des Sudomemo Discord-Servers bewiesen"

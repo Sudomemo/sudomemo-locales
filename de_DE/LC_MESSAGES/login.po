@@ -4,260 +4,262 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "BAN_GREETING_FORMAT"
-msgstr "Hello, %s."
+msgstr "Hallo, %s."
 
 msgid "BAN_NOTICE_CONSOLE_BAN"
-msgstr "Your account and console have been suspended from Sudomemo."
+msgstr "Dein Konto und deine Konsole von Sudomemo suspendiert."
 
 msgid "BAN_NOTICE_PLEASE_READ_BAN_LETTER"
-msgstr "Please read the letter we sent you for further information."
+msgstr "Bitte lese den von uns zugestellten Brief für weitere Information."
 
 msgid "BAN_VIEW_MAIL"
-msgstr "View Sudomemo Mail"
+msgstr "Sudomemo-Mail lesen"
 
 msgid "LOGIN_SUCCESSFUL"
-msgstr "Login Successful"
+msgstr "Login erfolgreich!"
 
 msgid "THANKS_FOR_LOGIN_FORMAT"
-msgstr "Thanks for signing in, %s!"
+msgstr "Danke fürs Einloggen, %s!"
 
 msgid "GOTO_CREATORS_ROOM"
-msgstr "Go to your Creator's Room"
+msgstr "Zu deine, Creator-Raum"
 
 msgid "LOGIN"
 msgstr "Login"
 
 msgid "POST_COMMENT_BELOW"
-msgstr "To continue, please post a comment below."
+msgstr "Füge einen Kommentar hierunter ein, um fortzufahren."
 
 msgid "LOGIN_SETUP"
-msgstr "Login Setup"
+msgstr "Login-Setup"
 
 msgid "WELCOME_BACK_FORMAT"
-msgstr "Welcome back, %s!"
+msgstr "Willkommen zurück, %s!"
 
 msgid "RETURNING_USER_NEW_LOGIN_SYSTEM"
-msgstr "Since the last time you visited, we've added a new login system -- but don't worry, all of your content is still here!"
+msgstr "Since the last time you visited, we've added a new login system -- but don't worry, all of your content is still here!
+Seit deinem vorherigen Besuch haben wir ein neues Login-System implementiert. aber keine Sorge! Dein sämtlicher Inhalt bleibt bestehen!"
 
 msgid "RETURNING_USER_PLEASE_CREATE_PASSWORD"
-msgstr "To get started, please create a new password below."
+msgstr "Bitte gib ein neues Passwort ein, um loszulegen."
 
 msgid "NEW_USER_WELCOME_FORMAT"
-msgstr "Welcome to Sudomemo, %s!"
+msgstr "Willkommen auf Sudomemo, %s!"
 
 msgid "NEW_USER_PLEASE_CREATE_PASSWORD"
-msgstr "Please create a new password."
+msgstr "Bitte erstelle ein neues Passwort."
 
 msgid "FORM_HEADER_PASSWORD"
-msgstr "Password:"
+msgstr "Passwort:"
 
 msgid "FORM_PREFILL_PASSWORD"
-msgstr "Enter your password here..."
+msgstr "Passwort hier eingeben..."
 
 msgid "FORM_WARNING_PASSWORD_TOO_SHORT"
-msgstr "Please enter a password that is longer than 8 characters."
+msgstr "Bitte gib ein Passwort mit mehr als 8 Charakteren ein."
 
 msgid "FORM_WARNING_PASSWORD_DISALLOWED_CHARS"
-msgstr "Your password cannot contain any of these characters:"
+msgstr "Dein Passwort darf keines dieser Charaktere enthalten:"
 
 msgid "FORM_LABEL_DONT_FORGET_PASSWORD"
-msgstr "Remember to make a note of your password, and keep it safe!"
+msgstr "Ertelle eine Notiz deines Passworts und bewahre es auf!"
 
 msgid "FORM_HEADER_EMAIL"
 msgstr "Email:"
 
 msgid "FORM_PREFILL_EMAIL"
-msgstr "Enter your email here..."
+msgstr "Email-Addresse hier eingeben..."
 
 msgid "FORM_WARNING_EMAIL_INVALID"
-msgstr "The email address you entered isn't valid."
+msgstr "Ungültige Email-Addresse."
 
 msgid "EMAIL_ADDITION_SUGGESTED"
-msgstr "Email is optional, but highly recommended. If you ever forget your password, we will send a password reset link to your email address."
+msgstr "Email is optional, but highly recommended. If you ever forget your password, we will send a password reset link to your email address.
+Deine Email ist nicht nodwendig, aber sehr empfohlen. Solltest du jemals dein Passwort vergessen, schickem wir dir einen Link zum Zurücksetzen des Passworts an deine Email-Addresse."
 
 msgid "EMAIL_ADDITION_DETAILS"
-msgstr "If you ever forget your password, we will send a password reset link to your email address."
+msgstr "Solltest du jemals dein Passwort vergessen, schickem wir dir einen Link zum Zurücksetzen des Passworts an deine Email-Addresse"
 
 msgid "CONFIRM_INFO_CORRECT"
-msgstr "Please make sure that the information below is correct."
+msgstr "Bitte stelle sicher, dass die angegebe Information stimmt."
 
 msgid "NO_PLAINTEXT_PASSWORD_RECOVERY_IF_LOST"
-msgstr "After this stage, we can't recover your password if you lose it."
+msgstr "Solltest du nach diesem Schritt dein Passwort vergessen, können wir es nicht wiederbeschaffen."
 
 msgid "BUTTON_CHANGE_PASSWORD"
-msgstr "Change password"
+msgstr "Passwort ändern"
 
 msgid "FORM_HEADER_EMAIL_CONFIRM"
 msgstr "Email:"
 
 msgid "BUTTON_CHANGE_EMAIL"
-msgstr "Change email address"
+msgstr "Email-Addresse ändern"
 
 msgid "BUTTON_ADD_AN_EMAIL_ADDRESS"
-msgstr "Add an email address"
+msgstr "Email-Addresse hinzufügen"
 
 msgid "BUTTON_SUBMIT"
-msgstr "Submit"
+msgstr "Einreichen"
 
 msgid "PLEASE_ENTER_PASSWORD_TO_SIGN_IN"
-msgstr "Please enter your password to sign in"
+msgstr "Bitte gib dein Passwort ein, um dich einzuloggen."
 
 msgid "LOGIN_FORM_PREFILL_PASSWORD"
-msgstr "Enter password"
+msgstr "Passwort eingeben"
 
 msgid "INCORRECT_PASSWORD_ATTEMPTS_FORMAT"
-msgstr "Incorrect password attempts: %s"
+msgstr "Fehlgeschlagene Passwort-Versuche: %s"
 
 msgid "REGISTRATION_ERROR_BAD_EMAIL"
-msgstr "The email address you provided is not permitted."
+msgstr "Die angegebene Email-Addresse erhält keinen Zulass."
 
 msgid "REGISTRATION_ERROR_BAD_PASSWORD"
-msgstr "The password you provided is not permitted."
+msgstr "TDas angegebene Passwort erhält keinen Zulass."
 
 msgid "ERROR"
-msgstr "Error"
+msgstr "Fehler"
 
 msgid "REGISTRATION_ERROR_PASSWORD_ALREADY_SET"
-msgstr "Password has already been set."
+msgstr "Das Passwort wurde bereits eingestellt."
 
 msgid "NEW_USER_THANKS_FOR_REGISTRATION"
-msgstr "Welcome to Sudomemo!"
+msgstr "Willkommen auf Sudomemo!"
 
 msgid "RETURNING_USER_THANKS_FOR_REGISTRATION"
-msgstr "Welcome back! Thanks for setting up your login information."
+msgstr "Willkommen zurück! Danke fürs Einrichten deiner Login-Informationen!"
 
 msgid "BUTTON_SIGN_IN_TO_SUDOMEMO"
-msgstr "Sign in to Sudomemo"
+msgstr "Auf Sudomemo anmelden"
 
 msgid "LOGIN_FAILED"
-msgstr "Login failed."
+msgstr "Login fehlgeschlagen."
 
 msgid "LOGIN_FAILED_REOPEN_FLIPNOTE_STUDIO"
-msgstr "Login failed. Close and reopen Flipnote Studio."
+msgstr "Login fehlgeschlagen. Schließe Flipnote Studio und öffne es erneut."
 
 msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE1"
-msgstr "The Flipnote data is corrupted."
+msgstr "Die Flipnote-Daten sind beschädigt."
 
 msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE2"
-msgstr "Try sending it again."
+msgstr "Versuche, es erneut zu senden."
 
 msgid "LOGIN_FAILED_BANNED_LINE1"
-msgstr "You've been restricted from using Sudomemo."
+msgstr "Dein Nutzen von Sudomemo wurde eingeschränkt."
 
 msgid "CONTACT_SUPPORT_EMAIL_FORMAT"
-msgstr "Please contact %s."
+msgstr "Bitte kontaktiere %s."
 
 msgid "CREATORS_ROOM_SHIM_WELCOME"
-msgstr "Welcome!"
+msgstr "Willkommen!"
 
 msgid "CREATORS_ROOM_SHIM_PLEASE_LOGIN"
-msgstr "Welcome to Sudomemo! Please login to continue."
+msgstr "Willkommen auf Sudomemo! Bitte melde dich an, um fortzufahren."
 
 msgid "GUIDE_MAIN_MENU_SHORTCUT"
-msgstr "You can return to the main menu by holding down L (or R if you're left-handed) and pressing the 'Menu' button."
+msgstr "Du kannst zum Hauptmenü zurückkehren, indem du L (bzw. R für Linkshänder) gedrückt hälst und 'Menü' drückst."
 
 msgid "SORRY_NO_LOGIN"
-msgstr "Sorry, but we couldn't log you in!"
+msgstr "Sorry, aber wir konnten dich nicht einloggen!"
 
 msgid "BASIC_AUTH_NOT_ENABLED"
-msgstr "You do not appear to have enabled Basic Authentication in your proxy settings."
+msgstr "Die Grundbestätigung in deinen Proxy-Einstellungen scheint deaktiviert zu sein."
 
 msgid "BASIC_AUTH_FSID_INVALID"
-msgstr "The Flipnote Studio ID you entered under Basic Authentication is invalid:"
+msgstr "Die eingegebene Flipnote Studio ID unter Grundbestätigung iist ungültig:"
 
 msgid "BASIC_AUTH_BAD_LENGTH_FORMAT"
-msgstr "The ID appears to be %s digits in length (should be 16)"
+msgstr "Die ID scheint %s Stellen lang zu sein (sollten 16 sein)."
 
 msgid "BASIC_AUTH_LOWERCASE_LETTERS"
-msgstr "The ID contain lowercase letters - it should be all uppercase."
+msgstr "Die ID enthält kleingeschriebene Buchstaben (sollten alle großgeschrieben sein)."
 
 msgid "BASIC_AUTH_NONHEX_CHARACTERS"
-msgstr "The ID contains characters other than 0-9 and A-F (it should only contain 0-9 and A-F)."
+msgstr "Die ID enthält Charaktere, die nicht 0-9 und A-F sind (sie sollte nur 0-9 und A-F enthalten)."
 
 msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
-msgstr "If you need help connecting, feel free to ask in our Discord! You can join from %s."
+msgstr "Solltest du Holfe benötigen, frage uns auf Discord! Trete unserem Server hier bei: %s"
 
 msgid "BAN_NOTICE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
-msgstr "Please contact us on Discord or via email to %s."
+msgstr "Bitte kontaktiere uns über Discord oder über: %s."
 
 msgid "FORGOT_PASSWORD_LINK"
-msgstr "Forgot your password?"
+msgstr "Passwort vergessen?"
 
 msgid "EMAIL_IS_DUPLICATE"
-msgstr "The email address you entered is already in use."
+msgstr "Diese Email-Addresse ist bereits im Nutzen."
 
 msgid "EMAIL_CONFIRMATION_SENT_FORMAT"
-msgstr "A confirmation email has been sent to %s. Please check for it in a few minutes."
+msgstr "Eine Bestätigungs-Maul wurde an %s geschickt. Bitte schau in den nächsten Minuten nach ihr."
 
 msgid "BUTTON_CHECK_VERIFICATION"
-msgstr "Check Verification Status"
+msgstr "Bestätigungs-Status überprüfen"
 
 msgid "EMAIL_NOT_YET_VERIFIED"
-msgstr "Your email address has not yet been verified."
+msgstr "Deine Email-Addresse wurde bis jetzt noch nicht bestätigt."
 
 msgid "EMAIL_VERIFIED"
-msgstr "Thank you for verifying your email!"
+msgstr "Danke zur Bestätigung deiner Email!"
 
 msgid "EMAIL_REQUIRES_UPDATE"
-msgstr "Your email address needs to be updated."
+msgstr "Deine Email-Addresse muss aktualisiert werden."
 
 msgid "VERIFICATION_NEEDED"
-msgstr "We need you to verify your email address."
+msgstr "Deine Email-Addresse muss bestätigt werden."
 
 msgid "BUTTON_RESEND_VERIFICATION_EMAIL"
-msgstr "Resend Verification Email"
+msgstr "Bestätigungs-Mail erneut senden"
 
 msgid "NOT_RECEIVING_HELP_FORMAT"
-msgstr "Not receiving the email? You can reach out to us on the Sudomemo Discord or via %s."
+msgstr "Mail nicht erhalten? Kontaktiere und über Discord: %s."
 
 msgid "HEADER_VERIFY_EMAIL"
-msgstr "Verify Email"
+msgstr "Email-Addresse bestätigen"
 
 msgid "VERIFICATION_LIMIT_EXCEEDED_FORMAT"
-msgstr "You have exceeded the maximum number of verification emails. Please contact support at %s or via Discord."
+msgstr "Dein Maximum an Bestätigungs-Mails wurde erreicht. Bitte kontaktiere und über Discord oder via Support: %s"
 
 msgid "WEB_HEADER_SUCCESS"
-msgstr "Success!"
+msgstr "Erfolgreich!"
 
 msgid "WEB_TAP_CHECK_VERIFICATION_STATUS"
-msgstr "Go ahead and tap 'Check Verification Status' on your Nintendo DSi System to complete the email verification."
+msgstr "Klicke 'Bestätigungs-Status überprüfen' auf deinem Nintendo DSi-System, um die Bestätigung fertigzustellen."
 
 msgid "HEADER_VERIFICATION_EXPIRED"
-msgstr "Verification Expired"
+msgstr "Bestätigung abgelaufen"
 
 msgid "VERIFICATION_EXPIRED_TEXT"
-msgstr "The verification URL has expired or has already been used."
+msgstr "Die Bestätigungs-URL ist entweder abgelaufen oder wurde bereits benutzt."
 
 msgid "CONTINUE_TO_LOGIN"
-msgstr "Continue to Login"
+msgstr "Zum Login fortfahren"
 
 msgid "HEADER_UPDATE_EMAIL"
-msgstr "Update Email"
+msgstr "Email-Addresse akualisieren"
 
 msgid "THANK_YOU_FOR_UPDATING_EMAIL"
-msgstr "Thank you for updating your email!"
+msgstr "Danke fürs Aktualisieren deiner Email!"
 
 msgid "BUTTON_CONTINUE"
-msgstr "Continue"
+msgstr "Fortfahren"
 
 msgid "BUTTON_EDIT_EMAIL_ADDRESS"
-msgstr "Change Email Address"
+msgstr "Email-Addresse ändern"
 
 msgid "SEARCH_FOR_SENDER_EMAIL_FORMAT"
-msgstr "Haven't received the email? Check your Spam box, and search for %s. If you find that it was marked spam, please ensure you first mark it Not Spam."
+msgstr "Mail nicht erhalten? Überprufe deine Spam-Box und suche %s. Falls dort vorgefunden, stelle sicher sie als Kein Spam zu markieren."
 
 msgid "NEW_USER_INTRO_POST_INTRO_CHANNEL"
-msgstr "When you're ready, go ahead and introduce yourself in our Introduction channel, under the Personal category."
+msgstr "Wenn du bereit bist, stelle dich im 'Vorstellung'-Kanal in der Persönlich-Kategorie vor."
 
 msgid "EMAIL_VERIFICATION_ADDRESS_REMOVED"
-msgstr "Sorry about that! We've marked that email address as incorrect, so you shouldn't receive any further emails from Sudomemo."
+msgstr "Tut uns Leid! Diese Email-Addresse ist von und als falsch gekennzeichnet, also solltest du keine weiteren Emails von Sudomemo erhalten."
 
 msgid "THANKS_FOR_LOGIN_PROMPT_INTRO"
-msgstr "Welcome to Sudomemo! Now, let's write a little message to say who you are! (This will be posted as a Flipnote in our Introductions channel.)"
+msgstr "Willkommen auf Sudomemo! Erzähle uns hier ein wenig über dich! (Dies wird als Flipnote in unserem 'Vorstellung'-Kanal gepostet.)"
 
 msgid "PLEASE_DISCONNECT_AND_RECONNECT"
-msgstr "An error occured. To try again, disconnect and then reconnect to Sudomemo."
+msgstr "Ein Fehler ist vorgetreten. Um es erneut zu versuchen, trenne deine Verbindungund richte sie wieder ein."
 
 # A URL will be shown at the end of this.
 msgid "LEGACY_PROXY_WARNING"
-msgstr "It looks like you may still be using the legacy ds.sudomemo.net proxy, which we have ended support for. As such, you should turn off the proxy in your System Settings, or you might have problems using Sudomemo. For more information, visit:"
+msgstr "Anscheinend benutzt du noch den Legacy-Proxy ds.sudomemo.net, wessen Ünterstützung eingehalten wurde. Daher solltest du den Proxy in den Systemeinstellungen ausschalten, oder Probleme beim Butzen von Sudomemo können auftauchen. Für weitere Information, besuche: "
