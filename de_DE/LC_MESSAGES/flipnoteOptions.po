@@ -16,7 +16,7 @@ msgid "HEADER_STATUS"
 msgstr "Status"
 
 msgid "OPTION_NAME_SMOOTH"
-msgstr "Smoothing"
+msgstr "Glättung"
 
 msgid "OPTION_DESC_SMOOTH"
 msgstr "Linien, Kurven und Kanten werden in Sudomemo Theatre abgerundet, um einen natürlicheren Effekt wiederzugeben."
@@ -25,10 +25,10 @@ msgid "FLIPNOTE_URL_IS"
 msgstr "Flipnote-URL:"
 
 msgid "ENABLE_SMOOTHING"
-msgstr "Smoothing aktivieren"
+msgstr "Glättung aktivieren"
 
 msgid "DISABLE_SMOOTHING"
-msgstr "Smoothing deaktivieren"
+msgstr "Glättung deaktivieren"
 
 msgid "ON"
 msgstr "Aktiviert"

@@ -30,7 +30,7 @@ msgstr "Chat-Nachricht"
 
 # ## We plan on adding user-created themes.
 msgid "CONTENT_TYPE_room_theme"
-msgstr "Creator-Raum-Theme"
+msgstr "Ersteller-Raum-Thema"
 
 msgid "CONTENT_TYPE_profile_bio"
 msgstr "Biografie"

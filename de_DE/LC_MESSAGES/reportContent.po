@@ -64,67 +64,67 @@ msgid "DUPLICATE_COMMENT_FAILED"
 msgstr "Dieser Kommentar wurde schon auf Sudomemo hochgeladen."
 
 msgid "CONFIRM_EMAIL_BEFORE_REPORTING"
-msgstr "Please confirm your email before reporting content."
+msgstr "Bitte bestätige deine Email-Addresse vor dem Melden von Inhalt."
 
 msgid "THANKS_FOR_REPORTING"
 msgstr "Wir haben deine Meldung erhalten. Vielen Dank für deine Kooperation zur Aufrechterhaltung von Sudomemo!"
 
 msgid "CATEGORY_NAME_stolen"
-msgstr "Stolen"
+msgstr "Geklaut"
 
 msgid "CATEGORY_DESC_stolen"
-msgstr "Misuse of spin-off function (stolen)"
+msgstr "Missbrauch der Spin-Off-Funktion (keine Änderungen)"
 
 msgid "CATEGORY_NAME_spam"
 msgstr "Spam"
 
 msgid "CATEGORY_DESC_spam"
-msgstr "Spam (no meaningful content)"
+msgstr "Unerwünschter / sinnloser Inhalt"
 
 msgid "CATEGORY_NAME_harassment"
-msgstr "Harassment"
+msgstr "Belästigung"
 
 msgid "CATEGORY_DESC_harassment"
-msgstr "Bullying, discrimination, harassment or libel"
+msgstr "Mobbing, Diskrimination, Belästigung oder Beleidigung"
 
 msgid "CATEGORY_NAME_fraud"
-msgstr "Fraud"
+msgstr "Betrug"
 
 msgid "CATEGORY_DESC_fraud"
-msgstr "Impersonation or other fraudulent activities"
+msgstr "Impersonation oder sonstiges Schwindeln"
 
 msgid "CATEGORY_NAME_swearing"
-msgstr "Profane"
+msgstr "Profanitäten"
 
 msgid "CATEGORY_DESC_swearing"
-msgstr "Use of very strong language, or frequent use of strong language"
+msgstr "Vulgäre Reseweise oder wiederholtes Nutzen von Kraftausdrücken"
 
 msgid "CATEGORY_NAME_sexual"
-msgstr "Sexual"
+msgstr "Sexuelles"
 
 msgid "CATEGORY_DESC_sexual"
-msgstr "Sexual themes or content"
+msgstr "Sexuelle Handlung oder Inhalt"
 
 msgid "CATEGORY_NAME_violent"
-msgstr "Graphic"
+msgstr "Gewalt"
 
 msgid "CATEGORY_DESC_violent"
-msgstr "Graphic content, excessive violence, gore, blood, or body horror"
+msgstr "Grafischer Inhalt, extreme Gewalt, Blut und körperliche Entstellung"
 
 msgid "CATEGORY_NAME_misplaced_rp"
-msgstr "Misplaced RP"
+msgstr "Unerwünschtes RP"
 
 msgid "CATEGORY_DESC_misplaced_rp"
-msgstr "Roleplay posted to non-roleplay channel"
+msgstr "Rollenspiel außerhalb des 'Rollenspiel'-Kanals"
 
 msgid "CATEGORY_NAME_drugs"
-msgstr "Drugs"
+msgstr "Drogen"
 
 msgid "CATEGORY_DESC_drugs"
-msgstr "Substance abuse or drug references"
+msgstr "Substanzmissbrauch oder Referenzen zu Drogen / zur Drogeneinnahme"
 
 msgid "CATEGORY_NAME_rapid_flashing"
-msgstr "Rapid Flashing"
+msgstr "Flackerndes Bild"
 
 msgid "CATEGORY_DESC_rapid_flashing"
-msgstr "Flashing more than four times in one second"
+msgstr "Schnelles Bildflackern (über 4 Mal pro Sekunde)"
