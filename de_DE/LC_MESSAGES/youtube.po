@@ -43,7 +43,7 @@ msgid "PREVIEW_DESC"
 msgstr "Beschreibung"
 
 msgid "PREVIEW_EXTRA_DESC"
-msgstr "Extra Description"
+msgstr "Zusätzliche Beschreibung"
 
 msgid "PREVIEW_EXTRA_DESC_EXPLANATION"
 msgstr "Dieser Text wird angezeigt, wenn Zuschauer 'Mehr anzeigen' in deiner Videobeschreibung klicken."
@@ -77,10 +77,10 @@ msgstr "Einreichen"
 
 # Upload status
 msgid "UPLOAD_STATUS"
-msgstr "Upload-Status"
+msgstr "Hochlade-Status"
 
 msgid "YOUTUBE_PENDING_UPLOAD"
-msgstr "Dein Flipnote wartet auf den Upload. Komme in ein paar Minuten wieder."
+msgstr "Dein Flipnote wartet auf das Hochladen. Komme in ein paar Minuten wieder."
 
 # Position in queue: 4
 msgid "POSITION_IN_QUEUE"
@@ -150,7 +150,7 @@ msgid "PLUS_FEATURES_NOTE"
 msgstr "Ändere diese Optionen auf der Details-Seite deines Flipnotes."
 
 msgid "FLIPNOTE_SMOOTHING"
-msgstr "Flipnote Smoothing"
+msgstr "Flipnote-Glättung"
 
 msgid "AUDIO_ENHANCEMENT"
 msgstr "Audio-Aufbesserung"

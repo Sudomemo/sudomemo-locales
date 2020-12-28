@@ -25,10 +25,10 @@ msgid "USER_VIEWCOUNT"
 msgstr "Aufrufe insgesamt"
 
 msgid "USER_THEME"
-msgstr "Theme"
+msgstr "Kulisse"
 
 msgid "THEME_SHOP"
-msgstr "Theme-Shop"
+msgstr "Kulissen-Shop"
 
 msgid "POSTED_COMMENTS"
 msgstr "Gepostete Kommentare"
@@ -103,10 +103,10 @@ msgid "NEXT"
 msgstr "Weiter"
 
 msgid "CHANGE_ROOM_THEME_LINK"
-msgstr "[Theme ändern]"
+msgstr "[Kulisse ändern]"
 
 msgid "SELECT_THEME"
-msgstr "Theme auswählen"
+msgstr "Kulisse auswählen"
 
 msgid "FANS"
 msgstr "Fans"
@@ -115,7 +115,7 @@ msgid "EXAMPLE"
 msgstr "Beispiel"
 
 msgid "THEMETEST_SET_THEME"
-msgstr "Theme benutzen"
+msgstr "Kulisse benutzen"
 
 msgid "THEMETEST_NOTICE"
 msgstr "Anmerkung"
@@ -142,10 +142,10 @@ msgid "CREATORS_ROOM"
 msgstr "Creator-Seite"
 
 msgid "THEME_ERROR_THEME_NOT_OWNED"
-msgstr "Du besitzt dieses Theme nicht."
+msgstr "Du besitzt diese Kulisse nicht."
 
 msgid "THEME_SUCCESSFULLY_SET"
-msgstr "Das ausgewählte Theme ist nun in deinem Creator-Raum zu sehen!"
+msgstr "Die ausgewählte Kulisse ist nun in deinem Ersteller-Raum zu sehen!"
 
 msgid "BLOCKED_USERS"
 msgstr "Blockierte Benutzer"
@@ -184,7 +184,7 @@ msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
 msgstr "Du kannst nicht mehr als %d Benutzern folgen."
 
 msgid "RANKING"
-msgstr "Ranking"
+msgstr "Rang"
 
 msgid "TICKET_SECTION"
 msgstr "Tickets"
@@ -208,7 +208,7 @@ msgid "SPENDABLE_STARS"
 msgstr "Deine Sterne"
 
 msgid "SPENDABLE_STARS_HELPTEXT"
-msgstr "Sterne zum Bewerten von Flipnotes / Erwerben von Themes"
+msgstr "Sterne zum Bewerten von Flipnotes / Erwerben von Kulissen"
 
 msgid "LOGIN_REQUIRED_ACTION"
 msgstr "Du musst eingeloggt sein, um diese Aktion auszuführen."

@@ -22,7 +22,7 @@ msgid "THANKS_FOR_LOGIN_FORMAT"
 msgstr "Danke fürs Einloggen, %s!"
 
 msgid "GOTO_CREATORS_ROOM"
-msgstr "Zu deine, Creator-Raum"
+msgstr "Zu deine, Ersteller-Raum"
 
 msgid "LOGIN"
 msgstr "Login"
@@ -100,7 +100,7 @@ msgid "BUTTON_SUBMIT"
 msgstr "Einreichen"
 
 msgid "PLEASE_ENTER_PASSWORD_TO_SIGN_IN"
-msgstr "Bitte gib dein Passwort ein, um dich einzuloggen."
+msgstr "Bitte gib dein Passwort ein, um Dich einzuloggen."
 
 msgid "LOGIN_FORM_PREFILL_PASSWORD"
 msgstr "Passwort eingeben"
@@ -151,13 +151,13 @@ msgid "CREATORS_ROOM_SHIM_WELCOME"
 msgstr "Willkommen!"
 
 msgid "CREATORS_ROOM_SHIM_PLEASE_LOGIN"
-msgstr "Willkommen auf Sudomemo! Bitte melde dich an, um fortzufahren."
+msgstr "Willkommen auf Sudomemo! Bitte melde Dich an, um fortzufahren."
 
 msgid "GUIDE_MAIN_MENU_SHORTCUT"
 msgstr "Du kannst zum Hauptmenü zurückkehren, indem du L (bzw. R für Linkshänder) gedrückt hälst und 'Menü' drückst."
 
 msgid "SORRY_NO_LOGIN"
-msgstr "Sorry, aber wir konnten dich nicht einloggen!"
+msgstr "Sorry, aber wir konnten Dich nicht einloggen!"
 
 msgid "BASIC_AUTH_NOT_ENABLED"
 msgstr "Die Grundbestätigung in deinen Proxy-Einstellungen scheint deaktiviert zu sein."
@@ -247,13 +247,13 @@ msgid "SEARCH_FOR_SENDER_EMAIL_FORMAT"
 msgstr "Mail nicht erhalten? Überprufe deine Spam-Box und suche %s. Falls dort vorgefunden, stelle sicher sie als Kein Spam zu markieren."
 
 msgid "NEW_USER_INTRO_POST_INTRO_CHANNEL"
-msgstr "Wenn du bereit bist, stelle dich im 'Vorstellung'-Kanal in der Persönlich-Kategorie vor."
+msgstr "Wenn du bereit bist, stelle Dich im 'Vorstellung'-Kanal in der Persönlich-Kategorie vor."
 
 msgid "EMAIL_VERIFICATION_ADDRESS_REMOVED"
 msgstr "Tut uns Leid! Diese Email-Addresse ist von und als falsch gekennzeichnet, also solltest du keine weiteren Emails von Sudomemo erhalten."
 
 msgid "THANKS_FOR_LOGIN_PROMPT_INTRO"
-msgstr "Willkommen auf Sudomemo! Erzähle uns hier ein wenig über dich! (Dies wird als Flipnote in unserem 'Vorstellung'-Kanal gepostet.)"
+msgstr "Willkommen auf Sudomemo! Erzähle uns hier ein wenig über Dich! (Dies wird als Flipnote in unserem 'Vorstellung'-Kanal gepostet.)"
 
 msgid "PLEASE_DISCONNECT_AND_RECONNECT"
 msgstr "Ein Fehler ist vorgetreten. Um es erneut zu versuchen, trenne deine Verbindungund richte sie wieder ein."

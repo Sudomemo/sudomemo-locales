@@ -39,10 +39,10 @@ msgid "AVAILABLE_PLUS_FEATURES"
 msgstr "Diese Features sind mit Sudomemo Plus verfügbar. Wir schlagen dir vor, die Liste gelegentlich einzusehen!"
 
 msgid "FOOTNOTE_PLATFORM_FEATURE_PARITY"
-msgstr "Bitte beachte, dass einige Features wie Flipnote-Smoothing und Audio-Korrektur nur über Sudomemo Theatre verfügbar sind."
+msgstr "Bitte beachte, dass einige Features wie Flipnote-Glättung und Audio-Korrektur nur über Sudomemo Theatre verfügbar sind."
 
 msgid "FLIPNOTE_SMOOTHING"
-msgstr "Flipnote-Smoothing"
+msgstr "Flipnote-Glättung"
 
 msgid "FLIPNOTE_AUDIO_ENHANCEMENT"
 msgstr "Flipnote-Audio-Enhancement"
@@ -54,7 +54,7 @@ msgid "DOWNLOAD_YOUR_COMMENTS"
 msgstr "Kommentare als Flipnotes herunterladen"
 
 msgid "THEME_PUBLISHER_ACCESS"
-msgstr "Themes im Theme-Shop hochladen"
+msgstr "Kulissen im Kulissen-Shop hochladen"
 
 msgid "FLIPNOTE_ANALYTICS"
 msgstr "Auf Analytics-Infos für deine Flipnotes zugreifen"
@@ -76,7 +76,7 @@ msgid "PLUS_RUNNING_OUT_MSG_INTRO"
 msgstr "Hallo, %s!"
 
 msgid "PLUS_RUNNING_OUT_MSG_DAYS_REMAINING_FORMAT"
-msgstr "Diese Nachricht wurde gesendet, um dich wissen zu lassen, dass du noch %s Tage Sudomemo Plus zur Verfügung hast."
+msgstr "Diese Nachricht wurde gesendet, um Dich wissen zu lassen, dass du noch %s Tage Sudomemo Plus zur Verfügung hast."
 
 msgid "PLUS_RUNNING_OUT_MSG_HOW_TO_EARN_PLUS"
 msgstr "Vergiss nicht, dass Sudomemo Plus durch Einlösen von Tickets erhalten werden kann, die du durch Käufe oder als Preis zum Gewinn in Wochen-Themen bekommst."
