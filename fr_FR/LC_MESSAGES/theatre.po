@@ -919,3 +919,6 @@ msgstr "Connecté depuis le %s"
 msgid "HOW_TO_UNLINK_DISCORD"
 msgstr "Pour dissocier votre compte Discord, tapez cette commande dans le salon de discussion : .sudo unlink"
 
+
+msgid "BTN_JOIN_DISCORD"
+msgstr "Join Discord"

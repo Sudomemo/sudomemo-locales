@@ -920,3 +920,6 @@ msgstr "Connected since %s"
 msgid "HOW_TO_UNLINK_DISCORD"
 msgstr "To unlink your Discord account, type this command into chat: .sudo unlink"
 
+
+msgid "BTN_JOIN_DISCORD"
+msgstr "Join Discord"
