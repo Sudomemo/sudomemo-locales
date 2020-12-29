@@ -4,10 +4,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "COMMENT_DETAILS"
-msgstr "Detalles de los comentarios"
+msgstr "Detalles del Comentario"
 
 msgid "MESSAGE_DETAILS"
-msgstr "Detalles de los mensajes"
+msgstr "Detalles del Mensaje"
 
 msgid "AUTHOR"
 msgstr "Autor"
@@ -31,7 +31,7 @@ msgid "MESSAGE_ID"
 msgstr "ID del mensaje"
 
 msgid "CHAT_COMMENT_ID"
-msgstr "ID del comentario del chat"
+msgstr "ID del comentario de chat"
 
 msgid "TIMESTAMP"
 msgstr "Timestamp"

@@ -13,7 +13,7 @@ msgid "HEADER_NORMAL"
 msgstr "Recientes"
 
 msgid "HEADER_HOT_FLIPNOTES"
-msgstr "Flipnotes recientes"
+msgstr "Flipnotes populares"
 
 msgid "HEADER_MOST_POPULAR"
 msgstr "Las más populares"
@@ -52,16 +52,16 @@ msgid "POST_FLIPNOTE"
 msgstr "Publicar Flipnote"
 
 msgid "CATEGORY_recent"
-msgstr "Flipnotes Recientes"
+msgstr "@Flipnotes Recientes"
 
 msgid "CATEGORY_hot"
-msgstr "Flipnotes Recientes"
+msgstr "@Flipnotes Recientes"
 
 msgid "CATEGORY_popular"
-msgstr "Las más Populares"
+msgstr "@Las más Populares"
 
 msgid "CATEGORY_featured"
-msgstr "Flipnotes Destacadas"
+msgstr "@Flipnotes Destacadas"
 
 msgid "CATEGORY_random"
 msgstr "@Flipnotes Aleatorias"
