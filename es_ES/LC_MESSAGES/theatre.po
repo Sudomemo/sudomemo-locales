@@ -876,49 +876,50 @@ msgid "YOUTUBE_UPLOAD_LIMIT_EXCEEDED"
 msgstr "No puedes subir más videos hasta mañana."
 
 msgid "SETTINGS"
-msgstr "Settings"
+msgstr "Configuraciones"
 
 msgid "PRIVACY_POLICY"
-msgstr "Privacy Policy"
+msgstr "Política de Privacidad"
 
 msgid "YOUTUBE_STATUS_FAILED_THUMB"
-msgstr "Your video was uploaded successfully, but we had a problem uploading the thumbnail."
+msgstr "Su video se cargó correctamente, pero tuvimos un problema al cargar la miniatura."
 
 msgid "YOUTUBE_CHECK_FEATURES_THUMB"
-msgstr "Your YouTube channel might not be completely verified. For more information, you can check the status of Custom Thumbnails here:"
+msgstr "Es posible que su canal de YouTube no esté completamente verificado. Para obtener más información, puede consultar el estado de las miniaturas personalizadas aquí:"
 
 msgid "YOUTUBE_REFRESH_ACCOUNT"
-msgstr "Refresh account"
+msgstr "Actualizar cuenta"
 
 msgid "YOUTUBE_UNLINK_ACCOUNT"
-msgstr "Unlink account"
+msgstr "Desvincular cuenta"
 
 msgid "YOUTUBE_UNLINK_ACCOUNT_CONFIRM"
-msgstr "Are you sure you want to remove your linked YouTube channel?"
+msgstr ¿Está seguro de que desea eliminar su canal de YouTube vinculado?"
 
 msgid "VERIFIED_USER"
-msgstr "Verified User"
+msgstr "Usuario Verificado"
 
 msgid "SHARE_ON_WHATSAPP"
-msgstr "Share via WhatsApp"
+msgstr "Comparte en WhatsApp"
+
 # This refers to Discord, which is a chat app.
 msgid "DISCORD"
 msgstr "Discord"
 
 msgid "DISCORD_HOW_TO_LINK"
-msgstr "How to Link"
+msgstr "Cómo Vincular"
 
 msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
-msgstr "After you've joined the Sudomemo Discord, copy and paste this into the chat."
+msgstr "Una vez que te hayas unido a Sudomemo Discord, copia y pega esto en el chat."
 
 # Connected since December 27th, 2020
 msgid "DISCORD_LINKED_ON_DATE"
-msgstr "Connected since %s"
+msgstr "Conectado desde %s"
 
 # Do not translate ".sudo unlink"
 msgid "HOW_TO_UNLINK_DISCORD"
-msgstr "To unlink your Discord account, type this command into chat: .sudo unlink"
+msgstr "Para desvincular su cuenta de Discord, escriba este comando en el chat: .sudo unlink"
 
 
 msgid "BTN_JOIN_DISCORD"
-msgstr "Join Discord"
+msgstr "Únete a Discord"
