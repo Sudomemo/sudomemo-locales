@@ -42,10 +42,10 @@ msgid "MUSICMATCH_NO_RESULTS"
 msgstr "Hierfür wurden keine Treffer gefunden, sorry!"
 
 msgid "MUSICMATCH_RESULT_HEADER_GT_MAX"
-msgstr "Top-Resultate für %d:"
+msgstr "Die %d besten Resultate:"
 
 msgid "MUSICMATCH_RESULT_HEADER_LT_MAX"
-msgstr "Resultate für %d:"
+msgstr "%d Resultate:"
 
 # SongName by BandName
 msgid "MUSICMATCH_TITLE_BY_ARTIST"
