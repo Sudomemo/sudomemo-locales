@@ -37,7 +37,7 @@ msgid "HEADER_SPINOFFS"
 msgstr "Spin-Offs"
 
 msgid "HEADER_DOWNLOADS"
-msgstr "Downloads"
+msgstr "Male heruntergeladen"
 
 msgid "HEADER_TITLE"
 msgstr "Titel"
@@ -119,4 +119,4 @@ msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "Unbenanntes Flipnote von %s"
 
 msgid "HEADER_UPLOAD_TO_YOUTUBE"
-msgstr "Upload to YouTube"
+msgstr "Zu YouTube hochladen"

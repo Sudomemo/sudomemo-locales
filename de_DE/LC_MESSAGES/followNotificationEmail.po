@@ -4,13 +4,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "EMAIL_SUBJECT_FORMAT"
-msgstr "[Sudomemo] %s hat dich zu seinen Favoriten hinzugefügt"
+msgstr "[Sudomemo] %s hat Dich zu seinen Favoriten hinzugefügt"
 
 msgid "GREETING_FORMAT"
 msgstr "Hey %s!"
 
 msgid "NEW_FOLLOWER_ADDED_YOU_FORMAT"
-msgstr "%s hat dich soeben zu seinen Favoriten hinzugefügt."
+msgstr "%s hat Dich soeben zu seinen Favoriten hinzugefügt."
 
 msgid "STATS_FLIPNOTES_FORMAT"
 msgstr "%s Flipnotes"
