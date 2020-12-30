@@ -7,7 +7,7 @@ msgid "TIMESTAMP_FORMAT"
 msgstr "M d, Y H:i:s"
 
 msgid "FLIPNOTE_TITLE_FORMAT"
-msgstr "Flipnote de %s"
+msgstr "Flipnote hecho por %s"
 
 msgid "HEADER_DETAILS"
 msgstr "Detalles"
@@ -19,10 +19,10 @@ msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
 msgstr "Esta Flipnote es un Spin-off."
 
 msgid "HEADER_ORIGINAL_FLIPNOTE"
-msgstr "Ver la Flipnote original aquí."
+msgstr "Mira la Flipnote original aquí"
 
 msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
-msgstr "Para prevenir exceso de estrellas, las estrellas amarillas estan limitadas a diez por Flipnote."
+msgstr "Para evitar la mendicidad de estrellas, las estrellas amarillas estan limitadas a diez por Flipnote."
 
 msgid "HEADER_CREATOR"
 msgstr "Creador"
@@ -73,13 +73,13 @@ msgid "STAR_DETAILS_UPPERTITLE"
 msgstr "★ Estrellas ★"
 
 msgid "SET_TITLE"
-msgstr "Ingresar título"
+msgstr "Ingresar Título"
 
 msgid "SET_TITLE_INSTRUCTIONS"
 msgstr "Ingresa el nuevo título para tu Flipnote debajo."
 
 msgid "40_CHARACTER_LIMIT"
-msgstr "Tu título esta limitado a 40 caractéres de longitud."
+msgstr "Su título tiene un límite de 40 caracteres."
 
 msgid "LEAVE_BLANK_TO_RESET"
 msgstr "Para restablecer el título como predeterminado, deja el formulario en blanco a la hora de subirlo."
@@ -88,13 +88,13 @@ msgid "ENTER_TITLE"
 msgstr "Ingresar título..."
 
 msgid "HEADER_ADD_DESCRIPTION"
-msgstr "Añadir descripción"
+msgstr "Añadir Descripción"
 
 msgid "HEADER_DESCRIPTION"
 msgstr "Descripción"
 
 msgid "SET_DESCRIPTION"
-msgstr "Establecer descripción"
+msgstr "Establecer Descripción"
 
 msgid "SET_DESCRIPTION_INSTRUCTIONS"
 msgstr "Introduce una nueva descripción para tu Flipnote debajo."
@@ -106,7 +106,7 @@ msgid "LEAVE_BLANK_TO_RESET_DESC"
 msgstr "Para borrar la descripción, deja el formulario en blanco al momento de enviarlo."
 
 msgid "ENTER_DESCRIPTION"
-msgstr "Introducir descripción..."
+msgstr "Ingresar descripción..."
 
 msgid "HEADER_FLIPNOTE_OPTIONS"
 msgstr "Opciones"
@@ -116,7 +116,7 @@ msgstr "Canción"
 
 # This is shown to logged-in users on their own Flipnotes without titles
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
-msgstr "Flipnote sin titulo creada por %s"
+msgstr "Flipnote sin titulo creado por %s"
 
 msgid "HEADER_UPLOAD_TO_YOUTUBE"
 msgstr "Subir a YouTube"
