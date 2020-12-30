@@ -9,7 +9,7 @@ msgid "SUDOMEMO"
 msgstr "Sudomemo"
 
 msgid "SUDOMEMO_THEATRE"
-msgstr "Sudomemo Theatre"
+msgstr "Teatro Sudomemo"
 
 msgid "SUDOMEMO_NEWS"
 msgstr "Noticias de Sudomemo"
@@ -152,14 +152,14 @@ msgid "PREV"
 msgstr "Ant"
 
 msgid "RANDOM"
-msgstr "Random"
+msgstr "Al Azar"
 
 # Referring to a release date/publishing date
 msgid "RELEASED"
 msgstr "Publicado"
 
 msgid "RANK"
-msgstr "Rank"
+msgstr "Posición"
 
 msgid "RECENT"
 msgstr "Reciente"
@@ -193,7 +193,7 @@ msgstr "Título"
 
 # Referring to being the most popular (in terms of ranking)
 msgid "TOP"
-msgstr "Top"
+msgstr "Más Alto"
 
 # Number of times something has been viewed, or played.
 msgid "VIEWS"
@@ -229,7 +229,7 @@ msgid "NAVBAR_ITEM_CONNECTION_HELP"
 msgstr "Ayuda de Conexión"
 
 msgid "NAVBAR_ITEM_FAQS"
-msgstr "FAQs"
+msgstr "Preguntas frecuentes"
 
 msgid "TERMS_OF_USE"
 msgstr "Términos de Uso"
@@ -247,7 +247,7 @@ msgid "NAVBAR_ITEM_FACEBOOK"
 msgstr "Facebook"
 
 msgid "NAVBAR_ITEM_EMAIL"
-msgstr "Email"
+msgstr "Correo electrónico"
 
 msgid "NAVBAR_ITEM_OTHER"
 msgstr "Otros"
@@ -256,7 +256,7 @@ msgid "NAVBAR_ITEM_CREDITS"
 msgstr "Créditos"
 
 msgid "NAVBAR_ITEM_ADMIN"
-msgstr "Admin"
+msgstr "Administrador"
 
 msgid "NAVBAR_ITEM_SUDOMEMO_ADMIN"
 msgstr "Sudomin"
@@ -640,7 +640,7 @@ msgstr "Volver a Sudomemo Theatre"
 
 # Sudomemo Shop
 msgid "TICKETS"
-msgstr "Tickets"
+msgstr "Boletos"
 
 msgid "SUDOMEMO_SHOP_ABOUT_TICKETS_1"
 msgstr "Los tickets son ítems entretenidos en Sudomemo que puedes usar para ganar Estrellas, Sudomemo Plus, y otras cosas!"
@@ -808,7 +808,7 @@ msgid "YOUTUBE_STATUS_COMPLETE"
 msgstr "¡Carga completada!"
 
 msgid "YOUTUBE_STATUS_FAILED_GONE"
-msgstr "The Flipnote disappeared before the upload could complete."
+msgstr "El Flipnote desapareció antes de que se pudiera completar la carga.
 
 msgid "YOUTUBE_STATUS_FAILED_AUTH"
 msgstr "La carga falló debido a un problema de autenticación."

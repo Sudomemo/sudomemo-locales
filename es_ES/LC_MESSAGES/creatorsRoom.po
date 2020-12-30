@@ -109,7 +109,7 @@ msgid "SELECT_THEME"
 msgstr "Seleccionar tema"
 
 msgid "FANS"
-msgstr "Fans"
+msgstr "Aficionados"
 
 msgid "EXAMPLE"
 msgstr "Ejemplo"
@@ -154,10 +154,10 @@ msgid "VIEW"
 msgstr "Ver"
 
 msgid "FAN_COUNT_FORMAT"
-msgstr "Fans: %s"
+msgstr "Aficionados: %s"
 
 msgid "HEADER_LANGUAGE"
-msgstr "Lenguaje"
+msgstr "Idioma"
 
 msgid "HEADER_MAIL_SETTINGS"
 msgstr "Ajustes de correo"
