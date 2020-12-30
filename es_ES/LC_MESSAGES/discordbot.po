@@ -10,27 +10,27 @@ msgstr ""
 
 # Username was given a Nitro Booster Ticket...
 msgid "BOOST_TICKET_SUCCESS"
-msgstr "%s was given a Nitro Booster Ticket, redeemable for a month of Sudomemo Plus and a special trophy. Hooray!"
+msgstr "%s recibió un boleto de Nitro Booster, canjeable por un mes de Sudomemo Plus y un trofeo especial. ¡Hurra!"
 
 # Account linking
 msgid "DISCORD_LINKING_GET_STARTED"
-msgstr "please visit %s to get started!"
+msgstr "¡visita %s para empezar!"
 
 msgid "DISCORD_LINKING_REQUIRED"
-msgstr "you'll need to link your Sudomemo account to do that."
+msgstr "deberá enlazar su cuenta de Sudomemo para hacer eso."
 
 msgid "DISCORD_LINKING_SUCCESS"
-msgstr "your account was successfully linked!"
+msgstr "¡su cuenta está vinculada!"
 
 msgid "DISCORD_LINKING_UNLINKED"
-msgstr "the link between your Discord and Sudomemo account has been removed."
+msgstr "se ha eliminado el vínculo entre su cuenta de Discord y Sudomemo."
 
 msgid "DISCORD_LINKING_UNLINK_NOT_LINKED_YET"
-msgstr "your Discord account isn't linked to a Sudomemo account."
+msgstr "su cuenta de Discord no está vinculada a una cuenta de Sudomemo."
 
 # "Invalid mode - must be one of: song, artist, genre"
 msgid "MUSICMATCH_INVALID_MODE"
-msgstr "Invalid mode - must be one of %s"
+msgstr "Modo no válido - debe ser uno de %s"
 
 msgid "MUSICMATCH_MOVIE_COUNT_PLURAL"
 msgstr "%d Flipnotes"
@@ -39,72 +39,72 @@ msgid "MUSICMATCH_MOVIE_COUNT_SINGULAR"
 msgstr "%d Flipnote"
 
 msgid "MUSICMATCH_NO_RESULTS"
-msgstr "I didn't find anything for that, sorry!"
+msgstr "No encontré nada para eso, ¡perdón!"
 
 msgid "MUSICMATCH_RESULT_HEADER_GT_MAX"
-msgstr "Top %d results:"
+msgstr "Los %d primeros resultados:"
 
 msgid "MUSICMATCH_RESULT_HEADER_LT_MAX"
-msgstr "%d result(s):"
+msgstr "%d resultado(s):"
 
 # SongName by BandName
 msgid "MUSICMATCH_TITLE_BY_ARTIST"
-msgstr "%s by %s"
+msgstr "%s por %s"
 
 msgid "REJECT_ACCOUNT_ALREADY_LINKED"
-msgstr "you've already linked your Sudomemo account!"
+msgstr "¡ya has vinculado tu cuenta de Sudomemo!"
 
 msgid "REJECT_BOOST_TICKET_COOLDOWN"
-msgstr "you've already given a Nitro Booster ticket in the past thirty days! (%s)"
+msgstr "¡ya has dado un boleto Nitro Booster en los últimos treinta días! (%s)"
 
 msgid "REJECT_FSID_ENOENT"
-msgstr "I did not find a user with that Flipnote Studio ID on Sudomemo."
+msgstr "No encontré un usuario con ese ID de Flipnote Studio en Sudomemo."
 
 msgid "REJECT_GENERIC_ERROR"
-msgstr "I ran into an issue trying to do that. Sorry!"
+msgstr "Me encontré con un problema haciendo eso. ¡Perdón!"
 
 msgid "REJECT_INVALID_FSID"
-msgstr "that is not a valid Flipnote Studio ID!"
+msgstr "¡eso no es un ID de Flipnote Studio válido!"
 
 msgid "REJECT_INVALID_LINK_TOKEN"
-msgstr "that is not a valid link token!"
+msgstr "¡eso no es un token de enlace válido! ¡Por favor, visite %s para comenzar!"
 
 msgid "REJECT_LINK_TOKEN_ENOENT"
-msgstr "the link token you provided is expired or does not exist."
+msgstr "este token de enlace caducó o no existe."
 
 msgid "REJECT_NOT_NITRO_BOOSTER"
-msgstr "you need to be a Sudomemo Nitro Booster to use this!"
+msgstr "¡necesitas ser un Sudomemo Nitro Booster para usar esto!"
 
 msgid "REJECT_USER_ENOENT"
-msgstr "I didn't find that user on Sudomemo."
+msgstr "No encontré a ese usuario en Sudomemo."
 
 # "Usage: example_command <fsid>"
 msgid "USAGE"
-msgstr "Usage"
+msgstr "Uso"
 
 # ONLY TRANSLATE: "usage", "commands"
 msgid "USAGE_INTRO"
 msgstr ""
-"usage: .sudo ...\n"
+"uso: .sudo ...\n"
 "\n"
-"commands:"
+"comandos:"
 
 # ONLY TRANSLATE: "Give Nitro Booster ticket..." and "Flipnote Studio ID"
 msgid "USAGE_give_plus"
 msgstr ""
 "   give_plus <FSID>\n"
-"      Give Nitro Booster ticket (1 month of Sudomemo Plus and a Trophy).\n"
-"      <FSID>: Flipnote Studio ID"
+"      Regalar boleto Nitro Booster (1 mes de Sudomemo Plus y un trofeo).\n"
+"      <FSID>: ID de Flipnote Studio"
 
 msgid "USAGE_link"
 msgstr ""
 "   link\n"
-"      Link your Sudomemo account to Discord"
+"      Vincula tu cuenta de Sudomemo a Discord"
 
 # ONLY TRANSLATE "Search Sudomemo MusicMatch" and "What you're searching for"
 msgid "USAGE_musicmatch"
 msgstr ""
 "   mm, musicmatch <mode> <query>\n"
-"      Search Sudomemo MusicMatch\n"
+"      Buscar Sudomemo MusicMatch\n"
 "      <mode>: song, artist, genre\n"
-"      <query>: What you're searching for"
+"      <query>: Lo que estas buscando"

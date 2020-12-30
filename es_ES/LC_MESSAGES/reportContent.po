@@ -70,61 +70,61 @@ msgid "THANKS_FOR_REPORTING"
 msgstr "Hemos recibido tu reporte. Gracias por ayudar a Sudomemo a ser un mejor lugar!"
 
 msgid "CATEGORY_NAME_stolen"
-msgstr "Stolen"
+msgstr "Robado"
 
 msgid "CATEGORY_DESC_stolen"
-msgstr "Misuse of spin-off function (stolen)"
+msgstr "Mal uso del Spin-Off función (robado)"
 
 msgid "CATEGORY_NAME_spam"
 msgstr "Spam"
 
 msgid "CATEGORY_DESC_spam"
-msgstr "Spam (no meaningful content)"
+msgstr "Spam (sin contenido significativo)"
 
 msgid "CATEGORY_NAME_harassment"
-msgstr "Harassment"
+msgstr "Acoso"
 
 msgid "CATEGORY_DESC_harassment"
-msgstr "Bullying, discrimination, harassment or libel"
+msgstr "Acoso, discriminación, o difamación"
 
 msgid "CATEGORY_NAME_fraud"
-msgstr "Fraud"
+msgstr "Fraude"
 
 msgid "CATEGORY_DESC_fraud"
-msgstr "Impersonation or other fraudulent activities"
+msgstr "Suplantación de identidad u otras actividades fraudulentas"
 
 msgid "CATEGORY_NAME_swearing"
-msgstr "Profane"
+msgstr "Palabrota"
 
 msgid "CATEGORY_DESC_swearing"
-msgstr "Use of very strong language, or frequent use of strong language"
+msgstr "Uso de un lenguaje muy fuerte o uso frecuente de un lenguaje fuerte"
 
 msgid "CATEGORY_NAME_sexual"
-msgstr "Sexual"
+msgstr "Sexualidad"
 
 msgid "CATEGORY_DESC_sexual"
-msgstr "Sexual themes or content"
+msgstr "Temas o contenido sexual"
 
 msgid "CATEGORY_NAME_violent"
-msgstr "Graphic"
+msgstr "Gráfico"
 
 msgid "CATEGORY_DESC_violent"
-msgstr "Graphic content, excessive violence, gore, blood, or body horror"
+msgstr "Contenido gráfico, violencia excesiva, sangre, sangre o horror corporal"
 
 msgid "CATEGORY_NAME_misplaced_rp"
-msgstr "Misplaced RP"
+msgstr "RP Fuera de Lugar"
 
 msgid "CATEGORY_DESC_misplaced_rp"
-msgstr "Roleplay posted to non-roleplay channel"
+msgstr "Juego de roles publicado en un canal que no es de juegos de rol"
 
 msgid "CATEGORY_NAME_drugs"
-msgstr "Drugs"
+msgstr "Drogas"
 
 msgid "CATEGORY_DESC_drugs"
-msgstr "Substance abuse or drug references"
+msgstr "Abuso de sustancias o referencias a drogas"
 
 msgid "CATEGORY_NAME_rapid_flashing"
-msgstr "Rapid Flashing"
+msgstr "Parpadeo Rápido"
 
 msgid "CATEGORY_DESC_rapid_flashing"
-msgstr "Flashing more than four times in one second"
+msgstr "Parpadeando más de cuatro veces en un segundo"

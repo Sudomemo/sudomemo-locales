@@ -4,13 +4,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "SET_PEN_COLOR"
-msgstr "Establecer color del lápiz"
+msgstr "Establecer el color de la pluma"
 
 msgid "SET_PAPER_COLOR"
-msgstr "Establecer color del papel"
+msgstr "Establecer el color del papel"
 
 msgid "SELECT_A_COLOR"
-msgstr "Selecciona un color."
+msgstr "Seleccione un color."
 
 msgid "CURRENT_COLOR"
 msgstr "Color actual:"
