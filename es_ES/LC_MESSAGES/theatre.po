@@ -808,7 +808,7 @@ msgid "YOUTUBE_STATUS_COMPLETE"
 msgstr "¡Carga completada!"
 
 msgid "YOUTUBE_STATUS_FAILED_GONE"
-msgstr "El Flipnote desapareció antes de que se pudiera completar la carga.
+msgstr "El Flipnote desapareció antes de que se pudiera completar la carga."
 
 msgid "YOUTUBE_STATUS_FAILED_AUTH"
 msgstr "La carga falló debido a un problema de autenticación."
