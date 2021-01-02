@@ -4,16 +4,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "AUTHOR"
-msgstr "作者"
+msgstr "投稿者名"
 
 msgid "CHAT_COMMENT_ID"
 msgstr "チャットコメントID"
 
 msgid "CHAT_MESSAGE_FROM_FORMAT"
-msgstr "%sのチャットメッセージ"
+msgstr "%sさんのチャットメッセージ"
 
 msgid "COMMENT_BY_FORMAT"
-msgstr "%sのコメント"
+msgstr "%sさんのコメント"
 
 msgid "COMMENT_DETAILS"
 msgstr "コメントの詳細"
@@ -22,13 +22,13 @@ msgid "COMMENT_ID"
 msgstr "コメントID"
 
 msgid "FLIPNOTE_BY_FORMAT"
-msgstr "%sの作品"
+msgstr "%sさんの作品"
 
 msgid "MESSAGE_DETAILS"
 msgstr "メッセージの詳細"
 
 msgid "MESSAGE_FROM_FORMAT"
-msgstr "%sのメッセージ"
+msgstr "%sさんからのメッセージ"
 
 msgid "MESSAGE_ID"
 msgstr "メッセージID"
@@ -43,4 +43,4 @@ msgid "REPORT_CONTENT"
 msgstr "報告内容"
 
 msgid "TIMESTAMP"
-msgstr "作成時刻"
+msgstr "投稿日時"
