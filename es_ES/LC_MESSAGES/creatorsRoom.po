@@ -187,10 +187,10 @@ msgid "RANKING"
 msgstr "Clasificación"
 
 msgid "TICKET_SECTION"
-msgstr "Tickets"
+msgstr "Boletos"
 
 msgid "DRAW_REGULAR_TICKET"
-msgstr "Obtener Ticket"
+msgstr "Obtener Boleto"
 
 msgid "CAN_DRAW_TICKET_SUBTEXT"
 msgstr "¡Puedes sacar un ticket normal! Puede ganar un premio."
@@ -199,7 +199,7 @@ msgid "INVENTORY"
 msgstr "Inventario"
 
 msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
-msgstr "Podrás conseguir otro ticket en: %s hora(s) %s minuto(s)."
+msgstr "Podrás conseguir otro boleto en: %s hora(s) %s minuto(s)."
 
 msgid "REDEEM"
 msgstr "Canjear"

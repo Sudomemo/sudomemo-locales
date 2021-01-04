@@ -14,23 +14,23 @@ msgstr "%s wurde ein Nitro Booster-Ticket zugestellt! Dieser ist fur 1 Monat Sud
 
 # Account linking
 msgid "DISCORD_LINKING_GET_STARTED"
-msgstr "Bitte besuche %s um loszulegen!"
+msgstr "bitte besuche %s um loszulegen!"
 
 msgid "DISCORD_LINKING_REQUIRED"
-msgstr "Das Verlinken deines Sudomemo-Kontos ist hierfür notwendig."
+msgstr "das Verlinken deines Sudomemo-Kontos ist hierfür notwendig."
 
 msgid "DISCORD_LINKING_SUCCESS"
-msgstr "Dein Konto wurde erfolgreich verlinkt!!"
+msgstr "dein Konto wurde erfolgreich verlinkt!!"
 
 msgid "DISCORD_LINKING_UNLINKED"
-msgstr "Die Verlinkung zwischen deinem Discord- und Sudomemo-Konto wurde getrennt."
+msgstr "die Verlinkung zwischen deinem Discord- und Sudomemo-Konto wurde getrennt."
 
 msgid "DISCORD_LINKING_UNLINK_NOT_LINKED_YET"
-msgstr "Dein Discord-Konto ist nicht mit deinem Suromemo-Konto verlinkt."
+msgstr "dein Discord-Konto ist nicht mit deinem Suromemo-Konto verlinkt."
 
 # "Invalid mode - must be one of: song, artist, genre"
 msgid "MUSICMATCH_INVALID_MODE"
-msgstr "Ungültiger Modus - muss eines der Folgenden sein: %s"
+msgstr "ungültiger Modus - muss eines der Folgenden sein: %s"
 
 msgid "MUSICMATCH_MOVIE_COUNT_PLURAL"
 msgstr "%d Flipnotes"
@@ -39,44 +39,44 @@ msgid "MUSICMATCH_MOVIE_COUNT_SINGULAR"
 msgstr "%d Flipnote"
 
 msgid "MUSICMATCH_NO_RESULTS"
-msgstr "Hierfür wurden keine Treffer gefunden, sorry!"
+msgstr "hierfür wurden keine Treffer gefunden, sorry!"
 
 msgid "MUSICMATCH_RESULT_HEADER_GT_MAX"
-msgstr "Top-Resultate für %d :"
+msgstr "die %d besten Resultate:"
 
 msgid "MUSICMATCH_RESULT_HEADER_LT_MAX"
-msgstr "Resultate für %d :"
+msgstr "%d Resultate:"
 
 # SongName by BandName
 msgid "MUSICMATCH_TITLE_BY_ARTIST"
 msgstr "%s von %s"
 
 msgid "REJECT_ACCOUNT_ALREADY_LINKED"
-msgstr "Du hast dein Sudomemo-Konto bereits verlinkt!"
+msgstr "du hast dein Sudomemo-Konto bereits verlinkt!"
 
 msgid "REJECT_BOOST_TICKET_COOLDOWN"
-msgstr "Du hast bereits ein Nitro Booster-Ticket in den letzten 30 Tagen erhalten! (%s)"
+msgstr "du hast bereits ein Nitro Booster-Ticket in den letzten 30 Tagen erhalten! (%s)"
 
 msgid "REJECT_FSID_ENOENT"
-msgstr "Für diese Flipnote Studio ID wurde kein Benutzer gefunden."
+msgstr "für diese Flipnote Studio ID wurde kein Benutzer gefunden."
 
 msgid "REJECT_GENERIC_ERROR"
-msgstr "Bei dieser Aktion trat ein Problem vor. Sorry!"
+msgstr "bei dieser Aktion trat ein Problem vor. Sorry!"
 
 msgid "REJECT_INVALID_FSID"
-msgstr "Dies ist keine gültige FLipnote Studio ID!"
+msgstr "dies ist keine gültige FLipnote Studio ID!"
 
 msgid "REJECT_INVALID_LINK_TOKEN"
-msgstr "that is not a valid link token! Please visit %s to get started!"
+msgstr "dies ist kein gültiger Link-Token! Bitte besuche %s, um loszulegen!"
 
 msgid "REJECT_LINK_TOKEN_ENOENT"
-msgstr "Der vorgegebene Link Token ist entweder abgelaufen oder existiert nicht."
+msgstr "der vorgegebene Link-Token ist entweder abgelaufen oder existiert nicht."
 
 msgid "REJECT_NOT_NITRO_BOOSTER"
-msgstr "Du musst ein Sudomemo Nitro Booster sein, um dies zu nutzen!"
+msgstr "du musst ein Sudomemo Nitro Booster sein, um dies zu nutzen!"
 
 msgid "REJECT_USER_ENOENT"
-msgstr "Dieser Nutzer konnte nicht auf Sudomemo gefunden werden."
+msgstr "dieser Nutzer konnte nicht auf Sudomemo gefunden werden."
 
 # "Usage: example_command <fsid>"
 msgid "USAGE"
