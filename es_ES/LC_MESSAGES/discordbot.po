@@ -10,7 +10,7 @@ msgstr ""
 
 # Username was given a Nitro Booster Ticket...
 msgid "BOOST_TICKET_SUCCESS"
-msgstr "%s recibió un boleto de Nitro Booster, canjeable por un mes de Sudomemo Plus y un trofeo especial. ¡Hurra!"
+msgstr "%s recibió un ticket de Nitro Booster, canjeable por un mes de Sudomemo Plus y un trofeo especial. ¡Hurra!"
 
 # Account linking
 msgid "DISCORD_LINKING_GET_STARTED"
@@ -55,7 +55,7 @@ msgid "REJECT_ACCOUNT_ALREADY_LINKED"
 msgstr "¡ya has vinculado tu cuenta de Sudomemo!"
 
 msgid "REJECT_BOOST_TICKET_COOLDOWN"
-msgstr "¡ya has dado un boleto Nitro Booster en los últimos treinta días! (%s)"
+msgstr "¡ya has dado un ticket Nitro Booster en los últimos treinta días! (%s)"
 
 msgid "REJECT_FSID_ENOENT"
 msgstr "No encontré un usuario con ese ID de Flipnote Studio en Sudomemo."
@@ -93,7 +93,7 @@ msgstr ""
 msgid "USAGE_give_plus"
 msgstr ""
 "   give_plus <FSID>\n"
-"      Regalar boleto Nitro Booster (1 mes de Sudomemo Plus y un trofeo).\n"
+"      Regalar ticket Nitro Booster (1 mes de Sudomemo Plus y un trofeo).\n"
 "      <FSID>: ID de Flipnote Studio"
 
 msgid "USAGE_link"
