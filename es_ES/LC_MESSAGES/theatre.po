@@ -70,7 +70,7 @@ msgid "COMMENTS"
 msgstr "Comentarios"
 
 msgid "CREATOR"
-msgstr "Creador"
+msgstr "Creador(a)"
 
 msgid "CREATORS"
 msgstr "Creadores"
@@ -278,7 +278,7 @@ msgstr "Prender las Luces"
 # Front Page
 # # Alt tags, aria labels
 msgid "ALT_WEEKLY_TOPIC_BANNER"
-msgstr "Banner anunciando el Tema Semanal"
+msgstr "Banner anunciando el Fondo Semanal"
 
 msgid "ALT_USER_PROFILE_PICTURE"
 msgstr "Foto de perfil de %s"
@@ -611,7 +611,7 @@ msgid "CHANNEL_CAT_NAME_GENRES"
 msgstr "Géneros"
 
 msgid "CHANNEL_CAT_NAME_TOPICS"
-msgstr "Temas"
+msgstr "Fondos"
 
 msgid "CHANNEL_CAT_NAME_ROLEPLAYS"
 msgstr "Roleplay"
@@ -626,7 +626,7 @@ msgid "CHANNEL_CAT_NAME_PERSONAL"
 msgstr "Personal"
 
 msgid "CHANNEL_CAT_NAME_WEEKLY_TOPIC"
-msgstr "Tema Semanal"
+msgstr "Fondo Semanal"
 
 # 404 Page
 msgid "404_OOPS_NOT_FOUND"

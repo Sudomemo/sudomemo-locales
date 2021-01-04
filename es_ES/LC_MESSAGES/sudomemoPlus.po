@@ -17,7 +17,7 @@ msgid "LEGACY_ACTIVATE_PLUS_TEASER"
 msgstr "Sudomemo Plus te da acceso a toda clase de características extra, tales como suavizado y audio mejorado en tus Flipnotes de Sudomemo Theatre, al igual que comentarios con color ¡y otras características!"
 
 msgid "LEGACY_ACTIVATE_EARN_PLUS"
-msgstr "Puedes obtener Sudomemo Plus canjeando tickets que compres en nuestra tienda o ganando en nuestro tema semanal."
+msgstr "Puedes obtener Sudomemo Plus canjeando tickets que compres en nuestra tienda o ganando en nuestro fondo semanal."
 
 msgid "LEGACY_ACTIVATE_GRANDFATHERED_BONUS"
 msgstr "Ya que anteriormente contabas con Citizenship, Has recibido un mes gratis de Sudomemo Plus. Asegúrate de darle una mirada ¡y probar algunas de las nuevas características!"
@@ -33,7 +33,7 @@ msgid "MANAGE_PLUS_REMAINING"
 msgstr "Actualmente tienes %s día(s) de Sudomemo Plus restante(s)."
 
 msgid "MANAGE_PLUS_HOW_TO_EARN_PLUS"
-msgstr "Puedes obtener Sudomemo Plus canjeando tickets que compres en nuestra tienda o ganando en nuestro tema semanal."
+msgstr "Puedes obtener Sudomemo Plus canjeando tickets que compres en nuestra tienda o ganando en nuestro fondo semanal."
 
 msgid "AVAILABLE_PLUS_FEATURES"
 msgstr "Las siguientes características solo están disponibles con Sudomemo Plus. ¡Asegúrate de volver a revisar cada cierto tiempo!"
@@ -54,7 +54,7 @@ msgid "DOWNLOAD_YOUR_COMMENTS"
 msgstr "Descarga tus comentarios como Flipnotes"
 
 msgid "THEME_PUBLISHER_ACCESS"
-msgstr "Publica temas en la Tienda de temas"
+msgstr "Publica fondos en la Tienda de fondos"
 
 msgid "FLIPNOTE_ANALYTICS"
 msgstr "Accede a información analítica para tus Flipnotes"
@@ -79,7 +79,7 @@ msgid "PLUS_RUNNING_OUT_MSG_DAYS_REMAINING_FORMAT"
 msgstr "Éste es un mensaje para hacerte saber que tienes %s día(s) de Sudomemo Plus restante(s)."
 
 msgid "PLUS_RUNNING_OUT_MSG_HOW_TO_EARN_PLUS"
-msgstr "No olvides que Puedes obtener Sudomemo Plus ganando en nuestro tema semanal, o canjeando tickets que compres en nuestra tienda."
+msgstr "No olvides que Puedes obtener Sudomemo Plus ganando en nuestro fondo semanal, o canjeando tickets que compres en nuestra tienda."
 
 msgid "PLUS_RUNNING_OUT_MSG_HAPPY_FLIPNOTING"
 msgstr "¡Anima tu día!"
