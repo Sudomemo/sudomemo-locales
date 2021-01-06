@@ -7,10 +7,10 @@ msgid "CHANNEL_ID"
 msgstr "チャンネルID"
 
 msgid "CHANNEL_INFORMATION"
-msgstr "チャンネルの情報"
+msgstr "チャンネルの説明"
 
 msgid "CHANNEL_NAME"
-msgstr "チャンネルの名前"
+msgstr "チャンネル名"
 
 msgid "CHANNEL_NOT_SPECIFIED"
 msgstr "チャンネルを選択してください。"
@@ -19,19 +19,19 @@ msgid "CONFIRM_EMAIL_BEFORE_POSTING"
 msgstr "投稿する前にメールアドレスを確認してください。"
 
 msgid "DUPLICATE_FLIPNOTE_FAILED"
-msgstr "この作品はすでにSudomemoに投稿されています。 もう一度編集してみてください。"
+msgstr "この作品はすでにスドメモに投稿されています。 もう一度編集してみてください。"
 
 msgid "FLIPNOTES"
-msgstr "メモ"
+msgstr "作品数"
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "データが破損しています。もう一度お試しください。"
+msgstr "データが壊れています。もう一度試してみてください。"
 
 msgid "FLIPNOTE_POST_FAILED"
-msgstr "作品の投稿に失敗しました。もう一度お試しください。"
+msgstr "作品の投稿に失敗しました。もう一度試してみてください。"
 
 msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
-msgstr "Sudomemoとの対話を制限されています。"
+msgstr "スドメモとの対話を制限されています。"
 
 msgid "LOGIN_REQUIRED_TO_POST"
 msgstr "作品を投稿するにはログインする必要があります。"
