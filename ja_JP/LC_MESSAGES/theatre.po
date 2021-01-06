@@ -897,28 +897,28 @@ msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "編集中"
 
 msgid "VERIFIED_USER"
-msgstr "Verified User"
+msgstr "確認済みユーザー"
 
 msgid "SHARE_ON_WHATSAPP"
-msgstr "Share via WhatsApp"
+msgstr "WhatsApp経由で共有"
 # This refers to Discord, which is a chat app.
 msgid "DISCORD"
 msgstr "Discord"
 
 msgid "DISCORD_HOW_TO_LINK"
-msgstr "How to Link"
+msgstr "リンク方法"
 
 msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
-msgstr "After you've joined the Sudomemo Discord, copy and paste this into the chat."
+msgstr "スドメモのDiscordに参加したら、これをコピーしてチャットに送信してください。"
 
 # Connected since December 27th, 2020
 msgid "DISCORD_LINKED_ON_DATE"
-msgstr "Connected since %s"
+msgstr "%sから接続"
 
 # Do not translate ".sudo unlink"
 msgid "HOW_TO_UNLINK_DISCORD"
-msgstr "To unlink your Discord account, type this command into chat: .sudo unlink"
+msgstr "アカウントとリンクを解除したい場合はこのコマンドをチャットに送信してください。: .sudo unlink"
 
 
 msgid "BTN_JOIN_DISCORD"
-msgstr "Join Discord"
+msgstr "Discordに参加する"
