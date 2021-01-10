@@ -4,260 +4,260 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "BAN_GREETING_FORMAT"
-msgstr "Hello, %s."
+msgstr "Γεια, %s."
 
 msgid "BAN_NOTICE_CONSOLE_BAN"
-msgstr "Your account and console have been suspended from Sudomemo."
+msgstr "Ο  λογαριασμος  και  η  κονσολα  σας  εχουν  αποκλειστει απο την χρηση  του Sudomemo."
 
 msgid "BAN_NOTICE_PLEASE_READ_BAN_LETTER"
-msgstr "Please read the letter we sent you for further information."
+msgstr "Παρακαλω  διαβαστε  το  γραμμα  που  σαςεχουμε στειλει  για περισσοτερες πληροφοριες."
 
 msgid "BAN_VIEW_MAIL"
-msgstr "View Sudomemo Mail"
+msgstr "Δειτε  το Sudomemo Mail"
 
 msgid "LOGIN_SUCCESSFUL"
-msgstr "Login Successful"
+msgstr "Επιτυχης  Συνδεση"
 
 msgid "THANKS_FOR_LOGIN_FORMAT"
-msgstr "Thanks for signing in, %s!"
+msgstr "Ευχαριστουμε  που  συνδεθηκατε, %s!"
 
 msgid "GOTO_CREATORS_ROOM"
-msgstr "Go to your Creator's Room"
+msgstr "Πηγαινετε  στο  Δωματιο  Χρηστη"
 
 msgid "LOGIN"
-msgstr "Login"
+msgstr "Συνδεση"
 
 msgid "POST_COMMENT_BELOW"
-msgstr "To continue, please post a comment below."
+msgstr "Για  να  συνεχισετε, παρακαλω  σχολιαστε  εδω."
 
 msgid "LOGIN_SETUP"
-msgstr "Login Setup"
+msgstr "Setup Συνδεσης"
 
 msgid "WELCOME_BACK_FORMAT"
-msgstr "Welcome back, %s!"
+msgstr "Καλως  Ορισατε, %s!"
 
 msgid "RETURNING_USER_NEW_LOGIN_SYSTEM"
-msgstr "Since the last time you visited, we've added a new login system -- but don't worry, all of your content is still here!"
+msgstr "Εχουμε  προσθεσει  νεο  συστημα  συνδεσης  απο  την  τελευταια  φορα  που  μας  επισκεφτηκατε -- αλλα  μην  ανησυχειτε,  ολο  σας  το  υλλικο  παραμενει  εδω!"
 
 msgid "RETURNING_USER_PLEASE_CREATE_PASSWORD"
-msgstr "To get started, please create a new password below."
+msgstr "Για  να  ξεκινησετε,  προσθεστε  νεο  κωδκο  προσβασης  παρακατω."
 
 msgid "NEW_USER_WELCOME_FORMAT"
-msgstr "Welcome to Sudomemo, %s!"
+msgstr "Καλωσορισατε  στο Sudomemo, %s!"
 
 msgid "NEW_USER_PLEASE_CREATE_PASSWORD"
-msgstr "Please create a new password."
+msgstr "Παρακαλω  προσθεστε  νεο  κωδικο  προσβασης."
 
 msgid "FORM_HEADER_PASSWORD"
-msgstr "Password:"
+msgstr "Κωδικος  Προσβασης:"
 
 msgid "FORM_PREFILL_PASSWORD"
-msgstr "Enter your password here..."
+msgstr "Βαλτε  τον  κωδικο  σας  εδω..."
 
 msgid "FORM_WARNING_PASSWORD_TOO_SHORT"
-msgstr "Please enter a password that is longer than 8 characters."
+msgstr "Παρακαλω  προσθεστε  εναν  κωδικο  μεγαλυτερο  απο  8  χαρακτηρες."
 
 msgid "FORM_WARNING_PASSWORD_DISALLOWED_CHARS"
-msgstr "Your password cannot contain any of these characters:"
+msgstr "Ο  κωδικος  σας  δεν  μπορει  να  περιεχει  καποιον  απο  τους  ακολοθους  χαρακτηρες:"
 
 msgid "FORM_LABEL_DONT_FORGET_PASSWORD"
-msgstr "Remember to make a note of your password, and keep it safe!"
+msgstr "Μην  ξεχασετε  να  σημειωσετε  καπου  τον  κωδικο  σας  και  να τον  κρατησετε  ασφαλη!"
 
 msgid "FORM_HEADER_EMAIL"
 msgstr "Email:"
 
 msgid "FORM_PREFILL_EMAIL"
-msgstr "Enter your email here..."
+msgstr "Βαλτε  το  email σας  εδω..."
 
 msgid "FORM_WARNING_EMAIL_INVALID"
-msgstr "The email address you entered isn't valid."
+msgstr "Η  διευθυνση  email που  δωσατε  δεν  ειναι  εγκυρη."
 
 msgid "EMAIL_ADDITION_SUGGESTED"
-msgstr "Email is optional, but highly recommended. If you ever forget your password, we will send a password reset link to your email address."
+msgstr "Το Email δεν  ειναι  υποχρεωτικο, αλλα  σας  το  προτεινουμε. Εαν  ποτε  ξεχασετε  τον  κωδικο  σας  θα  σας  στειλουμε  εναν  κωδικο  επανεκτησης  στην  διευθυνση email σας."
 
 msgid "EMAIL_ADDITION_DETAILS"
-msgstr "If you ever forget your password, we will send a password reset link to your email address."
+msgstr "Εαν  ποτε  ξεχασετε  τον  κωδικο  σας  θα  σας  στειλουμε  εναν  κωδικο  επανεκτησης  στην  διευθυνση email σας."
 
 msgid "CONFIRM_INFO_CORRECT"
-msgstr "Please make sure that the information below is correct."
+msgstr "Παρακαλω  σιγουρευτειτε  οτι  οι  παρακατω  πληροφοριες  ειναι  σωστες."
 
 msgid "NO_PLAINTEXT_PASSWORD_RECOVERY_IF_LOST"
-msgstr "After this stage, we can't recover your password if you lose it."
+msgstr "Μετα  απο  αυτο,  δεν  μπορουμε  να  επαναφερουμε  τον  κωδικο  σας  αν  τον  χασετε."
 
 msgid "BUTTON_CHANGE_PASSWORD"
-msgstr "Change password"
+msgstr "Αλλαγη  κωδικου"
 
 msgid "FORM_HEADER_EMAIL_CONFIRM"
 msgstr "Email:"
 
 msgid "BUTTON_CHANGE_EMAIL"
-msgstr "Change email address"
+msgstr "Αλλαγη διεθυνσης email"
 
 msgid "BUTTON_ADD_AN_EMAIL_ADDRESS"
-msgstr "Add an email address"
+msgstr "Προσθηκη  διευθυνσης email"
 
 msgid "BUTTON_SUBMIT"
-msgstr "Submit"
+msgstr "Αποστολη"
 
 msgid "PLEASE_ENTER_PASSWORD_TO_SIGN_IN"
-msgstr "Please enter your password to sign in"
+msgstr "Παρακαλω  εισαγετε  τον  κωδικο  σας  για  να  συνδεθειτε"
 
 msgid "LOGIN_FORM_PREFILL_PASSWORD"
-msgstr "Enter password"
+msgstr "Εισαγωγη  κωδικου"
 
 msgid "INCORRECT_PASSWORD_ATTEMPTS_FORMAT"
-msgstr "Incorrect password attempts: %s"
+msgstr "Προσπαθειες  λανθασμενου  κωδικου: %s"
 
 msgid "REGISTRATION_ERROR_BAD_EMAIL"
-msgstr "The email address you provided is not permitted."
+msgstr "Η διευθυνση email που  δωσατε  δεν  επιτρεπεται."
 
 msgid "REGISTRATION_ERROR_BAD_PASSWORD"
-msgstr "The password you provided is not permitted."
+msgstr "Ο  κωδικος  που  δωσατε  δεν  επιτρεπεται."
 
 msgid "ERROR"
-msgstr "Error"
+msgstr "Σφαλμα"
 
 msgid "REGISTRATION_ERROR_PASSWORD_ALREADY_SET"
-msgstr "Password has already been set."
+msgstr "Ο  κωδικος  προσβασης  εχει  ηδη  τεθει."
 
 msgid "NEW_USER_THANKS_FOR_REGISTRATION"
-msgstr "Welcome to Sudomemo!"
+msgstr "Καλωσηρθατε  στο Sudomemo!"
 
 msgid "RETURNING_USER_THANKS_FOR_REGISTRATION"
-msgstr "Welcome back! Thanks for setting up your login information."
+msgstr "Καλως  σας  βρηκαμε  ξανα! Σας  ευχαριστουμε  που  δηλωσατε  τις  πληροφοριες  συνδεσης  σας."
 
 msgid "BUTTON_SIGN_IN_TO_SUDOMEMO"
-msgstr "Sign in to Sudomemo"
+msgstr "Συνδεση  στο Sudomemo"
 
 msgid "LOGIN_FAILED"
-msgstr "Login failed."
+msgstr "Αποτυχια  συνδεσης."
 
 msgid "LOGIN_FAILED_REOPEN_FLIPNOTE_STUDIO"
-msgstr "Login failed. Close and reopen Flipnote Studio."
+msgstr "Αποτυχια  συνδεσης. Κλειστε  και  ξανανοιξτε  το Flipnote Studio."
 
 msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE1"
-msgstr "The Flipnote data is corrupted."
+msgstr "Τα  δεδομενα  αυτου  του Flipnote ειναι  κατεστραμμενα."
 
 msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE2"
-msgstr "Try sending it again."
+msgstr "Δοκιμαστε  να  το  ξαναστειλετε."
 
 msgid "LOGIN_FAILED_BANNED_LINE1"
-msgstr "You've been restricted from using Sudomemo."
+msgstr "Η  χρηση  σας  του Sudomemo  εχει  τεθει  σε  περιορισμο."
 
 msgid "CONTACT_SUPPORT_EMAIL_FORMAT"
-msgstr "Please contact %s."
+msgstr "Παρακαλω  επικοινωνηστε  με  τον %s."
 
 msgid "CREATORS_ROOM_SHIM_WELCOME"
-msgstr "Welcome!"
+msgstr "Καλωσηρθατε!"
 
 msgid "CREATORS_ROOM_SHIM_PLEASE_LOGIN"
-msgstr "Welcome to Sudomemo! Please login to continue."
+msgstr "Καλωσηρθατε στο Sudomemo! Παρακαλω  συνδεθειτε  για  να  συνεχισετε."
 
 msgid "GUIDE_MAIN_MENU_SHORTCUT"
-msgstr "You can return to the main menu by holding down L (or R if you're left-handed) and pressing the 'Menu' button."
+msgstr "Μπορειτε  να  επιστρεψετε  στο  αρχικο  μενου  με  το  να  πατησετε  το  L (η  το R εαν  ειστε  αριστεροχειρας) και  πατωντας  το  κουμπι  "Μενου"."
 
 msgid "SORRY_NO_LOGIN"
-msgstr "Sorry, but we couldn't log you in!"
+msgstr "Συγγνωμη  αλλα  δεν  μπορουσαμε  να  σας  συνδεσουμε!"
 
 msgid "BASIC_AUTH_NOT_ENABLED"
-msgstr "You do not appear to have enabled Basic Authentication in your proxy settings."
+msgstr "Φαινεται  οτι  δεν  εχετε  ενεργοποιησει  το Basic Authentication στις  επιλογες proxy."
 
 msgid "BASIC_AUTH_FSID_INVALID"
-msgstr "The Flipnote Studio ID you entered under Basic Authentication is invalid:"
+msgstr "Το Flipnote Studio ID που  βαλατε  εντος  Basic Authentication δεν  ειναι  εγκυρο:"
 
 msgid "BASIC_AUTH_BAD_LENGTH_FORMAT"
-msgstr "The ID appears to be %s digits in length (should be 16)"
+msgstr "Το ID φαινεται  να  ειναι  %s νουμερα (πρεπει  να  ειναι 16)"
 
 msgid "BASIC_AUTH_LOWERCASE_LETTERS"
-msgstr "The ID contain lowercase letters - it should be all uppercase."
+msgstr "Το ID περιεει  μικρα  γραμματα - πρεπει  να  ειναι  ολα  κεφαλαια."
 
 msgid "BASIC_AUTH_NONHEX_CHARACTERS"
-msgstr "The ID contains characters other than 0-9 and A-F (it should only contain 0-9 and A-F)."
+msgstr "Το ID περιεχει  χαρακτηρες  εκτος  0-9 και A-F (πρεπει  να  περιεχει  μονο  0-9 και A-F)."
 
 msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
-msgstr "If you need help connecting, feel free to ask in our Discord! You can join from %s."
+msgstr "Εαν  χρειαζεστε  βοηθει  στη  συνδεση,  ρωτηστε  μας  στο Discord! Μπορειτε  να  συνδεθειτε %s."
 
 msgid "BAN_NOTICE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
-msgstr "Please contact us on Discord or via email to %s."
+msgstr "Παρακαλω μιληστε  μας  στο Discord η  μεσω  email στο %s."
 
 msgid "FORGOT_PASSWORD_LINK"
-msgstr "Forgot your password?"
+msgstr "Ξεχασατε  τον  κωδικο  προσβασης?"
 
 msgid "EMAIL_IS_DUPLICATE"
-msgstr "The email address you entered is already in use."
+msgstr "Η  διευθυνση email που  μας  δωσατε  χρησιμοποιειται  ηδη."
 
 msgid "EMAIL_CONFIRMATION_SENT_FORMAT"
-msgstr "A confirmation email has been sent to %s. Please check for it in a few minutes."
+msgstr "Σας  εχει  σταλει  ενα  μειλ  επιβεβαιωσης  στο %s. Παρακαλω  τσεκαρετε  το  σε  μερικα  λεπτα."
 
 msgid "BUTTON_CHECK_VERIFICATION"
-msgstr "Check Verification Status"
+msgstr "Ελεγχος Καταστασης Επιβεβαιωσης"
 
 msgid "EMAIL_NOT_YET_VERIFIED"
-msgstr "Your email address has not yet been verified."
+msgstr "Το email σας  δεν  εχει  επιβεβαιωθει  ακομα."
 
 msgid "EMAIL_VERIFIED"
-msgstr "Thank you for verifying your email!"
+msgstr "Ευχαριστουμε  που  επιβεβαιωσατε  το email σας!"
 
 msgid "EMAIL_REQUIRES_UPDATE"
-msgstr "Your email address needs to be updated."
+msgstr "Η διευθυνση email σας  πρεπει  να  ενημερωθει"
 
 msgid "VERIFICATION_NEEDED"
-msgstr "We need you to verify your email address."
+msgstr "Πρεπει  να  επιβεβαιωσουμε  την  διευθυνση email σας."
 
 msgid "BUTTON_RESEND_VERIFICATION_EMAIL"
-msgstr "Resend Verification Email"
+msgstr "Επαναποστολη Ιμειλ Επιβεβαιωσης"
 
 msgid "NOT_RECEIVING_HELP_FORMAT"
-msgstr "Not receiving the email? You can reach out to us on the Sudomemo Discord or via %s."
+msgstr "Δεν  λαμβανετε  το email; Μπορειτε  να  μας  βρειτε στο  Sudomemo Discord η μεσω %s."
 
 msgid "HEADER_VERIFY_EMAIL"
-msgstr "Verify Email"
+msgstr "Επιβεβαιωση Email"
 
 msgid "VERIFICATION_LIMIT_EXCEEDED_FORMAT"
-msgstr "You have exceeded the maximum number of verification emails. Please contact support at %s or via Discord."
+msgstr "Εχετε  ξεπερασει  τον  αριθμο email επιβεβαιωσης. Παρακαλουμε  επικοινωνηστε  με την υποστηριξη στο %s η μεσω Discord."
 
 msgid "WEB_HEADER_SUCCESS"
-msgstr "Success!"
+msgstr "Επιτυχια!"
 
 msgid "WEB_TAP_CHECK_VERIFICATION_STATUS"
-msgstr "Go ahead and tap 'Check Verification Status' on your Nintendo DSi System."
+msgstr "Πατηστε  το 'Ελεγχος  Καταστασης  Επιβεβαιωσης' στο Nintendo DSi σας."
 
 msgid "HEADER_VERIFICATION_EXPIRED"
-msgstr "Verification Expired"
+msgstr "Η Επιβεβαιωση  εχει  ληξη"
 
 msgid "VERIFICATION_EXPIRED_TEXT"
-msgstr "The verification URL has expired or has already been used."
+msgstr "Το URL επιβεβαιωσης  εχει  ληξει  η  εχει  ηδη  χρησιμοποιηθει."
 
 msgid "CONTINUE_TO_LOGIN"
-msgstr "Continue to Login"
+msgstr "Συνεχιστε  στην  Συνδεση"
 
 msgid "HEADER_UPDATE_EMAIL"
-msgstr "Update Email"
+msgstr "Ενημερωση Email"
 
 msgid "THANK_YOU_FOR_UPDATING_EMAIL"
-msgstr "Thank you for updating your email!"
+msgstr "Ευχαριστουμε  που  ενημερωσατε  το email σας!"
 
 msgid "BUTTON_CONTINUE"
-msgstr "Continue"
+msgstr "Συνεχιστε"
 
 msgid "BUTTON_EDIT_EMAIL_ADDRESS"
-msgstr "Change Email Address"
+msgstr "Αλλαγη  Διευθυνσης Email"
 
 msgid "SEARCH_FOR_SENDER_EMAIL_FORMAT"
-msgstr "Haven't received the email? Check your Spam box, and search for %s. If you find that it was marked spam, please ensure you first mark it Not Spam."
+msgstr "Δεν  εχετε  λαβει  το email? Τσεκαρετε  το  κουτι  του Spam, και  αναζητειστε %s. Αν  το  δειτε  σημειωμενο  ως spam, σιγουρευτειτε  πρωτα  να  το  σημειωσετε  ως Μη Spam."
 
 msgid "NEW_USER_INTRO_POST_INTRO_CHANNEL"
-msgstr "When you're ready, go ahead and introduce yourself in our Introduction channel, under the Personal category."
+msgstr "Οταν  ειστε  ετοιμοι,  παρουσιασετε  τον  εαυτο  σας στο  Introduction channel, το  οποιο  βρισκεται  στην Προσωπικη κατηγορια."
 
 msgid "EMAIL_VERIFICATION_ADDRESS_REMOVED"
-msgstr "Sorry about that! We've marked that email address as incorrect, so you shouldn't receive any further emails from Sudomemo."
+msgstr "Λυπουμαστε  για  αυτο! Εχουμε  σημειωσει  ως λανθασμενη  τη συγκεκριμενη  διευθυνση email, ετσι  δεν  πρεπει  να  δεχεστε  περεταιρω emails απο  το Sudomemo."
 
 msgid "THANKS_FOR_LOGIN_PROMPT_INTRO"
-msgstr "Welcome to Sudomemo! Now, let's write a little message to say who you are! (This will be posted as a Flipnote in our Introductions channel.)"
+msgstr "Καλωσηρθατε  στο Sudomemo! Γραψτε  τωρα  ενα  μηνυμα  για  να  παρουσιασετε  τον  εαυτο  σας! (Θα  ανεβει  ως Flipnote στο Introductions channel.)"
 
 msgid "PLEASE_DISCONNECT_AND_RECONNECT"
-msgstr "An error occured. To try again, disconnect and then reconnect to Sudomemo."
+msgstr "Συνεβη  σφαλμα. Για να  δοκιμασετε  ξανα,  αποσυνδεθειτε  και ξανασυνδεθειτε  στο Sudomemo."
 
 # A URL will be shown at the end of this.
 msgid "LEGACY_PROXY_WARNING"
-msgstr "It looks like you may still be using the legacy ds.sudomemo.net proxy, which we have ended support for. As such, you should turn off the proxy in your System Settings, or you might have problems using Sudomemo. For more information, visit:"
+msgstr "Φαινεται  οτι  μπορει  να  χρησιμοποιειτε  ακομα  το legacy ds.sudomemo.net proxy, το  οποιο  εχουμε  σταματησει  να  υποστηριζουμε. Επομενως  πρεπει  να  απενεργοποιησετε  το  proxy στο System Settings σας, αλλιως  μπορει  να  εχετε  προβληματα  στην  χρηση  του Sudomemo. Για  περισσοτερες  πληροφοριες, επισκεφτειτε:"
