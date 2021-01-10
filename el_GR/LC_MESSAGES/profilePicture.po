@@ -4,31 +4,31 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "SET_PROFILE_PICTURE"
-msgstr "Set Profile Picture"
+msgstr "Βαλτε  εικονα  προφιλ"
 
 msgid "PROMPT_CHANGE_YOUR_PROFILE_IMAGE"
-msgstr "Change your profile picture?"
+msgstr "Αλλαγη  εικονας  προφιλ;"
 
 msgid "CONTINUE_SET_AS_PROFILE_PICTURE"
-msgstr "Confirm"
+msgstr "Επιβεβαιωση"
 
 msgid "CURRENT"
-msgstr "Current"
+msgstr "Τρεχουσα"
 
 msgid "NEW"
-msgstr "New"
+msgstr "Νεα"
 
 msgid "PROFILE_PICTURE_SET"
-msgstr "Profile picture successfully set!"
+msgstr "Η  εικονα  προφιλ  σας  τεθηκε  με  επιτυχια!"
 
 msgid "RETURN_TO_FLIPNOTE"
-msgstr "Return to Flipnote"
+msgstr "Επιστροφη  στο Flipnote"
 
 msgid "CREATORS_ROOM"
-msgstr "Creator's Room"
+msgstr "Δωματιο  Χρηστη"
 
 msgid "CANCEL"
-msgstr "Cancel"
+msgstr "Ακυρωση"
 
 msgid "LOGIN_REQUIRED_TO_CHANGE"
-msgstr "You must be logged in to change your profile picture."
+msgstr "Πρεπει  να  ειστε  συνδεδεμενοι  για  να  αλλαξετε  την  εικονα  προφιλ  σας."
