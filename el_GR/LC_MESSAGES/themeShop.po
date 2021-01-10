@@ -58,13 +58,13 @@ msgid "CONFIRM"
 msgstr "Επιβεβαιωση"
 
 msgid "CREATORS_ROOM"
-msgstr "Εργαστηρι"
+msgstr "Δωματιο Χρηστη"
 
 msgid "SHOP_MENU"
 msgstr "Μενου Μαγαζιου"
 
 msgid "NO_DESCRIPTION_AVAILABLE"
-msgstr "No description"
+msgstr "Καμια Περιγραφη"
 
 msgid "THEME_SHOP_SELECT_PAYMENT"
 msgstr "Διαλεξτε Πληρωμη"
@@ -106,7 +106,7 @@ msgid "THEME_SHOP_SAMPLE_PROFILE"
 msgstr "Παραδειγμα Προφιλ"
 
 msgid "THEME_SHOP"
-msgstr "Theme Shop"
+msgstr "Καταστημα Θεματων "
 
 msgid "DETAILS"
-msgstr "Details"
+msgstr "Λεπτομεριες"
