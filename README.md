@@ -1,4 +1,4 @@
-![](https://github.com/sudomemo/sudomemo-locales/blob/images/Sudomemo_Locales_Github_Card.png)
+![](https://raw.githubusercontent.com/Sudomemo/sudomemo-locales/master/images/Sudomemo_Locales_Github_Card.png)
 For public contributions to localization efforts on Sudomemo.
 
 Full and verified translations can earn you the special Translator Trophy on Sudomemo!
