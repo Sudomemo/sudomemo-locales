@@ -16,7 +16,7 @@ msgid "HEADER_NEXT"
 msgstr "Επομ"
 
 msgid "HEADER_REFRESH"
-msgstr "Refresh"
+msgstr "Ανανεωση"
 
 msgid "PAGE_FORMAT"
 msgstr "Σελιδα %d"
@@ -25,31 +25,31 @@ msgid "NO_COMMENTS_YET"
 msgstr "Αυτο το Flipnote δεν εχει σχολια ακομα."
 
 msgid "LOGIN_REQUIRED_TO_POST_COMMENT"
-msgstr "You must be logged in to post a comment."
+msgstr "Πρεπει  να  συνδεθειτε  για  να ανεβασετε  ενα  σχολιο."
 
 msgid "COMMENT_POST_FAILED"
-msgstr "Comment post failed. Try again in a moment."
+msgstr "Αποτυχια  αποστολης  σχολιου. Παρακαλω  δοκιμαστε  ξανα  σε  λιγακι."
 
 msgid "NO_BLANK_COMMENTS_ALLOWED"
-msgstr "You cannot post a blank comment."
+msgstr "Δεν  μπορειτε  να  ανεβασετε  κενο  σχολιο."
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "The Flipnote data is corrupted. Try again in a moment."
+msgstr "Τα  δεδομενα  αυτου  του Flipnote ειναι κατεστραμμενα. Παρακαλω  δοκιμαστε  ξανα  σε λιγακι."
 
 msgid "FLIPNOTE_COMMENTS_DISALLOWED"
-msgstr "You may not comment on this Flipnote."
+msgstr "Δεν  μπορειτε  να  αφησετε  σχολιο στο  συγκεκριμενο Flipnote."
 
 msgid "NO_COMMENTS_WHILE_MUTED"
-msgstr "You have been muted. You may not comment."
+msgstr "Εχετε  τεθει  σε mute. Δεν  μπορειτε  να  σχολιασετε."
 
 msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "This comment has already been posted to Sudomemo."
+msgstr "Αυτο  το  σχολιο  εχει  ηδη  δημοσιευθει  στο  Sudomemo."
 
 msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "You've been restricted from using Sudomemo."
+msgstr "Η  χρηση  σας  του Sudomemo  εχει  τεθει  σε  περιορισμο."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Please confirm your email before posting."
+msgstr "Παρακαλω  επιβεβαιωστε  το email σας πριν να ανεβασετε."
 
 msgid "MODERATOR"
-msgstr "Moderator"
+msgstr "Διαχειριστης"
