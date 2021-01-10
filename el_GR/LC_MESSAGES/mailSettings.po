@@ -4,109 +4,109 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "HEADER_MAIL_SETTINGS"
-msgstr "Mail Settings"
+msgstr "Επιλογες Mail"
 
 msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
-msgstr "You must be logged in to edit your mail settings."
+msgstr "Πρεπει  να  ειστε  συνδεδεμενοι  για  να  δειτε  τις  επιλογες  mail σας."
 
 msgid "MAIL_TYPE"
-msgstr "Type"
+msgstr "Πληκτρολογηστε"
 
 msgid "MAIL_STATUS"
-msgstr "Status"
+msgstr "Κατασταση"
 
 msgid "ENABLED"
-msgstr "Enabled"
+msgstr "Ενεργοποιημενο"
 
 msgid "DISABLED"
-msgstr "Disabled"
+msgstr "Απενεργοποιημενο"
 
 msgid "ENABLE"
-msgstr "Enable"
+msgstr "Ενεργοποιηση"
 
 msgid "DISABLE"
-msgstr "Disable"
+msgstr "Απενεργοποιηση"
 
 msgid "TAP_TO_ENABLE"
-msgstr "Tap to enable"
+msgstr "Πατηστε  για  να  ενεργοποιησετε"
 
 msgid "TAP_TO_DISABLE"
-msgstr "Tap to disable"
+msgstr "Πατηστε  για  να  απενεργοποιησετε"
 
 msgid "TYPE_NEWS_NAME"
-msgstr "Sudomemo News"
+msgstr "Νεα  του Sudomemo"
 
 msgid "TYPE_NEWS_DESC"
-msgstr "Receive an email when something new is posted to the Sudomemo News"
+msgstr "Ληψη email οταν  κατι  νεο  ανεβαινει  στα νεα  του Sudomemo"
 
 msgid "TYPE_PROMO_NAME"
 msgstr "Promo"
 
 msgid "TYPE_PROMO_DESC"
-msgstr "Receive emails about new features, tips and tricks, and upcoming events!"
+msgstr "Ληψη emails για ννεα  features, tips και tricks, και  προσεχη  ιβεντ!"
 
 msgid "TYPE_FAVE_NOTIF_NAME"
-msgstr "Added as Favorite"
+msgstr "Προστεθηκε στα Αγαπημενα"
 
 msgid "TYPE_FAVE_NOTIF_DESC"
-msgstr "Receive an email when someone adds you to their Favorites"
+msgstr "Ληψη email οταν  καποιος  σας  προσθετει  στα  Αγαπημενα  του"
 
 msgid "TYPE_COMMENT_NOTIF_NAME"
-msgstr "Comment Received"
+msgstr "Ληψη  Σχολιου"
 
 msgid "TYPE_COMMENT_NOTIF_DESC"
-msgstr "Receive an email when someone comments on your Flipnote"
+msgstr "Ληψη email οταν  καποιος  σας  σχολιαζει  σε Flipnote"
 
 msgid "TYPE_STAR_REPORT_NAME"
-msgstr "Daily Star Report"
+msgstr "Ημερησια  Αναφορα  Αστεριων"
 
 msgid "TYPE_STAR_REPORT_DESC"
-msgstr "Receive an email at the end of the day about any stars you've received"
+msgstr "Στο  τελος  της  μερας  ληψη email για  αστερια  που  δεχθεηκατε"
 
 msgid "TYPE_SPINOFF_NOTIF_NAME"
-msgstr "Spin-off Received"
+msgstr "Spin-off"
 
 msgid "TYPE_SPINOFF_NOTIF_DESC"
-msgstr "Receive an email when someone posts a spin-off to your Flipnote"
+msgstr "Ληψη email οταν  καποιος  ανεβαζει spin-off δικου  σας Flipnote"
 
 msgid "TYPE_SECURITY_NOTIF_NAME"
-msgstr "Account Security"
+msgstr "Ασφαλεια  Λογαριασμου"
 
 msgid "TYPE_SECURITY_NOTIF_DESC"
-msgstr "Receive an email when your email address or password is updated"
+msgstr "Ληψη email οταν  η  διευθυνση email η  ο κωδικος  σας  ενημερωνεται"
 
 msgid "TYPE_REPORT_UPDATE_NAME"
-msgstr "Flagged Content Update"
+msgstr "Ενημερωση Flagged Περιεχομενου"
 
 msgid "TYPE_REPORT_UPDATE_DESC"
-msgstr "Receive an email when we update the status of content that you've flagged"
+msgstr "Ληψη email οταν  ενημερωνουμε  την  κατασταση  περιεχομενου που  εχετε  κανει flag"
 
 msgid "TYPE_UNREAD_COMMENTS_NAME"
-msgstr "Unread Comments"
+msgstr "Μη-Διαβασμενα  Σχολια"
 
 msgid "TYPE_UNREAD_COMMENTS_DESC"
-msgstr "Receive an email summary of any new comments you've received recently"
+msgstr "Ληψη email με  νεα  σχολια  που  δεχθηκατε  προσφατα"
 
 msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
-msgstr "Tap on a mail type's status to view or update it."
+msgstr "Πατηστε πανω  στην  κατασταση  ενος  ειδους mail για  να  το  δειτε  η  να  το  ενημερωσετε."
 
 msgid "HEADER_CHANGE_EMAIL_SETTINGS"
-msgstr "Change Email Settings"
+msgstr "Αλλαγη  Ρυθμισεων Email"
 
 msgid "DISABLE_CONFIRMATION_FORMAT"
-msgstr "Are you sure you want to disable '%s' emails?"
+msgstr "Ειστε  σιγουροι  οτι  θελετε  να  απενεργοποιησετε  τα '%s' email;"
 
 msgid "REENABLE_INSTRUCTIONS"
-msgstr "If you want to turn them back on, you can do so from by selecting <strong>Email Settings</strong> in your Creator's Room."
+msgstr "Εαν  θελησετε  να  τα  ξαναεπανεργοποιησετε, μπορειτε  να  το  κανετε  πατωντας <strong>Επιλογες Email</strong> στο  Δωματιο  Χρηστη  σας."
 
 msgid "EMAIL_SETTING_DISABLED_FINISH_FORMAT"
-msgstr "You've disabled '%s' emails."
+msgstr "Απενεργοποιησατε  τα '%s' email."
 
 msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
-msgstr "The link you followed has expired."
+msgstr "Το  λινκ  που  ακολουθησατε  εχει  ληξει."
 
 msgid "TYPE_SERVICE_UPDATE_NAME"
-msgstr "Service Updates"
+msgstr "Ενημερωσεις Service"
 
 msgid "TYPE_SERVICE_UPDATE_DESC"
-msgstr "Important updates about Sudomemo's status or availability related to your account"
+msgstr "Σημαντικες  ενημερωσεις  για  την  κατασταση  του Sudomemo η  σχετικη  με  τον  λογαριασμο  σας  διαθεσιμοτητα"
