@@ -5,226 +5,226 @@ msgstr ""
 
 # Code Redemption
 msgid "REDEEM_CODE"
-msgstr "Redeem Code"
+msgstr "Εξαργυρωση Κωδικου"
 
 msgid "ENTER_CODE_TO_REDEEM"
-msgstr "Enter the code you'd like to redeem below."
+msgstr "Συμπληρωσετε τον κωδικο που θελετε να εξαργυρωσετε παρακατω."
 
 msgid "CODE_ALREADY_USED"
-msgstr "The code you entered has already been used."
+msgstr "Ο κωδικος που προσθεσατε χρησιμοποιειται ηδη."
 
 msgid "CODE_INVALID"
-msgstr "The code you entered is invalid."
+msgstr "Ο κωδικος που προσθεσατε δεν ειναι εγκυρος."
 
 msgid "CODE_NONEXISTING_OR_EXPIRED"
-msgstr "The code you entered doesn't exist or has expired."
+msgstr "Ο κωδικος που προσθεσατε δεν υπαρχει η εχει ληξει."
 
 msgid "LOGIN_REQUIRED_REDEEM_CODE"
-msgstr "You must be logged in to redeem a code."
+msgstr "Πρεπει να ειστε συνδεδεμενοι για να εξαργυρωσετε καποιο κωδικο."
 
 # Ticket delivery
 msgid "YOU_GOT_A_TICKET"
-msgstr "You got a ticket!"
+msgstr "Μολις πηρατε λαχνο!"
 
 msgid "CONTINUE"
-msgstr "Continue"
+msgstr "Συνεχεια"
 
 # Inventory
 msgid "INVENTORY"
-msgstr "Inventory"
+msgstr "Αποθηκη"
 
 msgid "USE_ITEM"
-msgstr "Use"
+msgstr "Χρηση"
 
 msgid "INVENTORY_IS_EMPTY"
-msgstr "Your inventory is empty."
+msgstr "Η αποθηκη σας ειναι κενη."
 
 # Ticket redemption
 msgid "TICKET_REDEEM_WIN_FORMAT"
-msgstr "You redeemed the %s!"
+msgstr "Εξαργυρωσατε το %s!"
 
 msgid "TICKET_REDEEM_LOSE_FORMAT"
-msgstr "You redeemed the %s, but..."
+msgstr "Εξαργυρωσατε το %s, αλλα..."
 
 msgid "TICKET_REDEEM_NO_PRIZES"
-msgstr "You didn't win anything. Sorry!"
+msgstr "You didn't win anything. Sorry!Δεν κερδισατε κατι. Λυπουμαστε!"
 
 msgid "ACHIEVEMENT"
-msgstr "Achievement"
+msgstr "Κατορθωματα"
 
 msgid "COLOR_STARS"
-msgstr "Color Stars"
+msgstr "Χρωματιστα Αστερια"
 
 msgid "CREATORS_ROOM_THEME"
-msgstr "Creator's Room Theme"
+msgstr "Θεμα Δωματιου Χρηστη"
 
 msgid "SUDOMEMO_CITIZENSHIP"
 msgstr "Sudomemo Citizenship"
 
 msgid "THEME_AVAILABLE_FOR_USE"
-msgstr "You can now use this theme in your Creator's Room!"
+msgstr "Πλεον μπορειτε να χρησιμοποιησετε αυτο το θεμα στο Δωματιο Χρηστη σας!"
 
 msgid "SUDOMEMO_PLUS"
 msgstr "Sudomemo Plus"
 
 msgid "SUDOMEMO_PLUS_FORMAT"
-msgstr "You received %s days worth of Sudomemo Plus!"
+msgstr "Μολις λαβατε %s μερες Sudomemo Plus!"
 
 msgid "SUDOMEMO_PLUS_BALANCE_FORMAT"
-msgstr "Balance: %s days"
+msgstr "Λοιπα: %s days"
 
 # Each ticket type will have a name and a description 
 msgid "TICKET_NAME_demo_ticket"
 msgstr "Demo Ticket"
 
 msgid "TICKET_DESC_demo_ticket"
-msgstr "Obviously, this is the description for the demo ticket."
+msgstr "Προφανως, αυτη ειναι η περιγραφη για το demo ticket."
 
 msgid "TICKET_NAME_regular_ticket"
-msgstr "Regular Ticket"
+msgstr "Απλος Λαχνος"
 
 msgid "TICKET_DESC_regular_ticket"
-msgstr "Thank you for using Sudomemo!"
+msgstr "Ευχαριστουμε για την χρηση του Sudomemo!"
 
 msgid "TICKET_NAME_twitter_promo_ticket"
 msgstr "Twitter Promo Ticket"
 
 msgid "TICKET_DESC_twitter_promo_ticket"
-msgstr "Thanks for following the Sudomemo Twitter!"
+msgstr "Ευχαριστουμε που ακολουθησατε το Sudomemo Twitter!"
 
 msgid "TICKET_NAME_instagram_promo_ticket"
 msgstr "Instagram Promo Ticket"
 
 msgid "TICKET_DESC_instagram_promo_ticket"
-msgstr "Thanks for following the Sudomemo Instagram!"
+msgstr "Ευχαριστουμε που ακολουθησατε το Sudomemo Instagram!"
 
 msgid "TICKET_NAME_weekly_topic_winner_ticket"
-msgstr "Weekly Topic Winner Ticket"
+msgstr "Ticket Νικητη του Weekly Topic"
 
 msgid "TICKET_DESC_weekly_topic_winner_ticket"
-msgstr "Congratulations on winning the Sudomemo Weekly Topic!"
+msgstr "Συγχαρητηρια για την νικη σας στο Sudomemo Weekly Topic!"
 
 msgid "TICKET_NAME_birthday_ticket"
-msgstr "Birthday Ticket"
+msgstr "Λαχνος Γενεθλιων"
 
 msgid "TICKET_DESC_birthday_ticket"
-msgstr "Happy Birthday!"
+msgstr "Να τα εκατοστησετε!"
 
 msgid "TICKET_NAME_love_anniversary_ticket"
-msgstr "Anniversary Ticket"
+msgstr "Λαχνος επετειου"
 
 # The last character of this message is the DSi symbol for a heart. Don't remove it.
 msgid "TICKET_DESC_love_anniversary_ticket"
-msgstr "Happy Anniversary "
+msgstr "Χρονια Πολλα "
 
 # Sudomemo Plus
 msgid "TICKET_NAME_one_month_plus_ticket"
-msgstr "Plus Ticket (One Month)"
+msgstr "Plus Ticket (Ενας μηνας )"
 
 msgid "TICKET_DESC_one_month_plus_ticket"
-msgstr "This ticket will give you one month of Sudomemo Plus!"
+msgstr "Αυτος ο λαχνος θα σας δωσει ενα μηνα Sudomemo Plus!"
 
 msgid "TICKET_NAME_one_year_plus_ticket"
-msgstr "Plus Ticket (One Year)"
+msgstr "Plus Ticket (ενας χρονος)"
 
 msgid "TICKET_DESC_one_year_plus_ticket"
-msgstr "This ticket will give you one year of Sudomemo Plus!"
+msgstr "Αυτος ο λαχνος θα σας δωσει ενα χρονο Sudomemo Plus!"
 
 msgid "DONT_HAVE_ANY_TO_USE"
-msgstr "You don't have any of that item to use."
+msgstr "Δεν εχετε απο αυτο το αντικειμενο προς χρηση."
 
 msgid "TICKET_NAME_ffotd_ticket"
-msgstr "First Flipnote of the Decade"
+msgstr "Πρωτο flipnote της Δεκαετιας"
 
 msgid "TICKET_DESC_ffotd_ticket"
-msgstr "Congratulations! You posted the first Flipnote of the new decade!"
+msgstr "Συγχαρηστηρια! Ανεβασατε το πρωτο Flipnote της νεας δεκαετιας!"
 
 msgid "TICKET_NAME_survey_thanks_ticket"
-msgstr "Survey Ticket"
+msgstr "Λαχνος ερευνας"
 
 msgid "TICKET_DESC_survey_thanks_ticket"
-msgstr "Thanks for filling out our survey!"
+msgstr "Ευχαριστουμε που συμπληρωσατε την ερευνα μας!"
 
 msgid "TICKET_NAME_special_someone_ticket"
-msgstr "Special Someone Ticket"
+msgstr "Λαχνος για καποιον ιδιεταιρο"
 
 msgid "TICKET_DESC_special_someone_ticket"
-msgstr "For that special someone. Three months of Plus, Color Stars, and an exclusive theme."
+msgstr "Για αυτον τον καποιον. Τρεις μηνες Plus, Χρωματιστα αστερια, και ενα συλλεκτικο θεμα."
 
 msgid "TICKET_NAME_folding_reward_ticket"
 msgstr "Folding@Home Reward Ticket"
 
 msgid "TICKET_DESC_folding_reward_ticket"
-msgstr "Thanks for helping save lives!"
+msgstr "Ευχαριστουμε που βοηθατε να σωζωνται ζωες!"
 
 msgid "TICKET_NAME_green_panda_ticket"
 msgstr "Lazy Paisley Ticket"
 
 msgid "TICKET_DESC_green_panda_ticket"
-msgstr "This ticket gives you 110 spendable Sudomemo Stars, an exclusive theme, and a special badge displayed on your profile!"
+msgstr "Αυτος ο λαχνος σας δινει 110 αστερια που μπορειτε να ξοδεψετε, ενα συλλεκτικο θεμα, και ενα ειδικο σημα για το προφιλ σας!"
 
 msgid "TICKET_NAME_red_bird_ticket"
 msgstr "Bailey Flitwing Ticket"
 
 msgid "TICKET_DESC_red_bird_ticket"
-msgstr "This ticket gives you 230 spendable Sudomemo Stars, an exclusive theme, and a special badge displayed on your profile!"
+msgstr "Αυτος ο λαχνος σας δινει 230 αστερια που μπορειτε να ξοδεψετε, ενα συλλεκτικο θεμα, και ενα ειδικο σημα για το προφιλ σας!"
 
 msgid "TICKET_NAME_blue_dog_ticket"
 msgstr "Ziggy Starburst Ticket"
 
 msgid "TICKET_DESC_blue_dog_ticket"
-msgstr "This ticket gives you 350 spendable Sudomemo Stars (maybe even a rare one!), an exclusive theme, and a special badge displayed on your profile!"
+msgstr "Αυτος ο λαχνος σας δινει 350 αστερια που μπορειτε να ξοδεψετε (ισως και καποιο σπανιο!), ενα συλλεκτικο θεμα, και ενα ειδικο σημα για το προφιλ σας"
 
 msgid "TICKET_NAME_purple_bunny_ticket"
 msgstr "Russell Ramblewood Ticket"
 
 msgid "TICKET_DESC_purple_bunny_ticket"
-msgstr "This ticket gives you 600 spendable Sudomemo Stars (very likely some rare ones!), an exclusive theme, and a special badge displayed on your profile!"
+msgstr "Αυτος ο λαχνος σας δινει 600 αστερια που μπορειτε να ξοδεψετε (πολυ πιθανο καποια σπανια!), ενα συλλεκτικο θεμα, και ενα ειδικο σημα για το προφιλ σας"
 
 msgid "TICKET_NAME_golden_neko_ticket"
 msgstr "Mitsuo Meow Ticket"
 
 msgid "TICKET_DESC_golden_neko_ticket"
-msgstr "This ticket gives you 1300 spendable Sudomemo Stars (with multiple rare ones!), an exclusive theme, and a special badge displayed on your profile!"
+msgstr "Αυτος ο λαχνος σας δινει 1300 αστερια που μπορειτε να ξοδεψετε (με πολλα σπανια!), ενα συλλεκτικο θεμα, και ενα ειδικο σημα για το προφιλ σας"
 
 msgid "TICKET_NAME_translator_ticket"
-msgstr "Translator Ticket"
+msgstr "Λαχνος Μεταφραστη"
 
 msgid "TICKET_DESC_translator_ticket"
-msgstr "Thank you for helping localize Sudomemo!"
+msgstr "Σας ευχαριστουμε για την βοηθεια!"
 
 msgid "TICKET_NAME_colors_promo_ticket"
 msgstr "Colors! Promo Ticket"
 
 msgid "TICKET_DESC_colors_promo_ticket"
-msgstr "You won the Sudomemo x Colors! June 2020 Weekly Topic!"
+msgstr "Κερδισατε το Sudomemo x Colors! June 2020 Weekly Topic!"
 
 msgid "TICKET_NAME_neighborhood_watch_ticket"
 msgstr "Neighborhood Watch Ticket"
 
 msgid "TICKET_DESC_neighborhood_watch_ticket"
-msgstr "Thank you helping keep Sudomemo a safe and welcoming place!"
+msgstr "Ευχαριστουμε για την βοηθεια να παραμενει το Sudomemo ενας ασφαλης τοπος!"
 
 msgid "TICKET_NAME_featured_flipnote_ticket"
-msgstr "Featured Flipnote Ticket"
+msgstr "Προωθημενο Flipnote Ticket"
 
 msgid "TICKET_DESC_featured_flipnote_ticket"
-msgstr "Congratulations! One of your Flipnotes was featured."
+msgstr "Συγχαρητηρια! Ενα απο τα Flipnotes σας προωθηθηκε."
 
 msgid "TICKET_NAME_featured_artist_ticket"
-msgstr "Featured Artist Ticket"
+msgstr "Λαχνος Προωθημενου Καλλιτεχνη"
 
 msgid "TICKET_DESC_featured_artist_ticket"
-msgstr "We give our warm congratulations to you for becoming a Sudomemo Featured Artist!"
+msgstr "Τα συγχαρητηρια μας που γινατε Προωθημενος Καλλιτεχνης!"
 
 msgid "TICKET_NAME_spookmaster_ticket"
 msgstr "Spookmaster Ticket"
 
 msgid "TICKET_DESC_spookmaster_ticket"
-msgstr "Thank you so much for playing SudoQuest: Requiem! We hope you enjoyed the game."
+msgstr "Ευχαριστουμε παρα πολυ που παιξατε SudoQuest: Requiem! Ευχομαστε να σας αρεσε το παιχνιδι."
 
 msgid "TICKET_NAME_nitro_booster_ticket"
 msgstr "Nitro Booster Ticket"
 
 msgid "TICKET_DESC_nitro_booster_ticket"
-msgstr "Hey, you! You're awesome! Thanks for boosting the Sudomemo Discord!"
+msgstr "Ει, εσυ! Εισαι γαματος! Ευχαριστουμε για το boosting του Sudomemo Discord!"

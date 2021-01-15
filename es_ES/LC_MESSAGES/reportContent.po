@@ -28,7 +28,7 @@ msgid "FLIPNOTE_TITLE_FORMAT"
 msgstr "Flipnote por %s"
 
 msgid "CREATOR_FORMAT"
-msgstr "Creador: %s"
+msgstr "Creador(a): %s"
 
 msgid "NOTICE_REPORT_OTHER_ISSUES"
 msgstr "Este formulario es para reportar contenido de usuarios exclusivamente. Para reportar el comportamiento de un Usuario, o por otros asuntos y peticiones, por favor manda un Correo electrónico a nuestro soporte técnico:"

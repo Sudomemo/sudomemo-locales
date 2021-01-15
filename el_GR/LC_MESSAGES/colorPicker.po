@@ -4,19 +4,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "SET_PEN_COLOR"
-msgstr "Set Pen Color"
+msgstr "Επιλεξτε χρωμα Πενας"
 
 msgid "SET_PAPER_COLOR"
-msgstr "Set Paper Color"
+msgstr "Επιλεξτε χρωμα Χαρτιου"
 
 msgid "SELECT_A_COLOR"
-msgstr "Select a color."
+msgstr "Επιλεξτε ενα χρωμα."
 
 msgid "CURRENT_COLOR"
-msgstr "Current color:"
+msgstr "Τρεχον χρωμαr:"
 
 msgid "CURRENT_COLOR_DEFAULT"
-msgstr "Current color: default"
+msgstr "Τρεχον χρωμα: προεπιλογη"
 
 msgid "RETURN"
-msgstr "Return"
+msgstr "Επιστροφη"

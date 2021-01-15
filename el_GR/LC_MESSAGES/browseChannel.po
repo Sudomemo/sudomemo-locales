@@ -22,16 +22,16 @@ msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d απο %d"
 
 msgid "SPINOFFS"
-msgstr "Spinoffs"
+msgstr "Spinoff"
 
 msgid "BROWSE_BY_SONG"
-msgstr "Browse by Song"
+msgstr "Χαζεψτε ανα τραγουδι"
 
 msgid "BROWSE_BY_ARTIST"
-msgstr "Browse by Artist"
+msgstr "Χαζεψτε ανα Καλλιτεχνη"
 
 msgid "BROWSE_BY_ALBUM"
-msgstr "Browse by Album"
+msgstr "Χαζεψτε ανα Αλμπουμ"
 
 msgid "BROWSE_PLAYLIST"
-msgstr "Browse Playlist"
+msgstr "Χαζεψτε Πλειλιστ"

@@ -61,10 +61,10 @@ msgid "ADMIN_ACCT_BANNED"
 msgstr "Banned"
 
 msgid "ADMIN_ACCT_BLOCKED"
-msgstr "Blocked"
+msgstr "Αποκλεισμενοι"
 
 msgid "ADMIN_ACCT_MUTED"
-msgstr "Muted"
+msgstr "Mute"
 
 msgid "ADMIN_USER_DETAILS"
 msgstr "Λεπτομεριεs Χρηστη"
@@ -139,7 +139,7 @@ msgid "PREVIEW"
 msgstr "Preview"
 
 msgid "CREATORS_ROOM"
-msgstr "Εργαστηρι"
+msgstr "Δωματιο Χρηστη"
 
 msgid "THEME_ERROR_THEME_NOT_OWNED"
 msgstr "Λυπουμαστε! Δεν εχετε το θεμα αυτο."
@@ -148,73 +148,73 @@ msgid "THEME_SUCCESSFULLY_SET"
 msgstr "Το θεμα σας διοριστηκε με επιτυχια!"
 
 msgid "BLOCKED_USERS"
-msgstr "Blocked users"
+msgstr "Μπλοκαρισμενοι χρηστες"
 
 msgid "VIEW"
-msgstr "View"
+msgstr "Δειτε"
 
 msgid "FAN_COUNT_FORMAT"
-msgstr "Fans: %s"
+msgstr "Θαυμαστες: %s"
 
 msgid "HEADER_LANGUAGE"
-msgstr "Language"
+msgstr "Γλωσσα"
 
 msgid "HEADER_MAIL_SETTINGS"
-msgstr "Mail Settings"
+msgstr "Ρυθμισεις Mail"
 
 msgid "HEADER_EDIT_BIOGRAPHY"
-msgstr "Edit Biography"
+msgstr "Επεξεργαστειτε την Βιογραφια σας"
 
 msgid "SET_BIO_INSTRUCTIONS"
-msgstr "Enter your profile biography below. This will be displayed on Sudomemo and Sudomemo Theatre."
+msgstr "Συμπληρωστε την βιογραφια του προφιλ σας παρακατω. Θα φαινεται στο Sudomemo και το Sudomemo Theatre."
 
 msgid "ENTER_BIO"
-msgstr "Enter Bio..."
+msgstr "Συμπληρωστε Bio..."
 
 msgid "101_CHARACTER_LIMIT_BIO"
-msgstr "Your biography is limited to 101 characters."
+msgstr "Η βιογραφια σας περιοριζεται σε  101 χαρακτηρες."
 
 msgid "LEAVE_BLANK_TO_RESET_BIO"
-msgstr "To clear your biography, leave the form blank when submitting."
+msgstr "Για να καθαρισετε την βιογραφια σας, αφηστε την φορμα κενη ενω την παραδιδετε."
 
 msgid "CURRENT_BIO"
-msgstr "Current Bio:"
+msgstr "Τρεχουσα Bio:"
 
 msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
-msgstr "You can't follow more than %d users."
+msgstr "Δεν μπορειτε να ακολουθησετε πανω απο  %d χρηστες."
 
 msgid "RANKING"
 msgstr "Ranking"
 
 msgid "TICKET_SECTION"
-msgstr "Tickets"
+msgstr "Λαχνοι"
 
 msgid "DRAW_REGULAR_TICKET"
-msgstr "Draw Ticket"
+msgstr "Τραβηξτε λαχνο"
 
 msgid "CAN_DRAW_TICKET_SUBTEXT"
-msgstr "You can draw a regular ticket! You might win a prize."
+msgstr "Μπορειτε να τραβηξετε εναν κανονικο λαχνο! Ισως κερδισετε κατι~"
 
 msgid "INVENTORY"
 msgstr "Inventory"
 
 msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
-msgstr "You can draw another ticket in: %s hour(s) %s minute(s)."
+msgstr "Μπορειτε να ξανατραβηξετε λαχνο σε: %s ωρα(ες) %s λεπτο(α)."
 
 msgid "REDEEM"
-msgstr "Redeem"
+msgstr "Εξαργυρωστε"
 
 msgid "SPENDABLE_STARS"
-msgstr "Your Stars"
+msgstr "Τα Αστερια σας"
 
 msgid "SPENDABLE_STARS_HELPTEXT"
-msgstr "Stars to add to Flipnotes or use for themes"
+msgstr "Αστερια για να δωσετε σε Flipnotes η να ανταλλαξετε για θεματα"
 
 msgid "LOGIN_REQUIRED_ACTION"
-msgstr "You must be logged in to perform this action."
+msgstr "Πρεπει να συνδεθειτε για να πραγματοποιησετε αυτη την ενεργια."
 
 msgid "PAGE"
-msgstr "Page"
+msgstr "Σελιδα"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d of %d"
+msgstr "%d απο %d"
