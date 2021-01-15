@@ -6,43 +6,43 @@ msgstr ""
 # This contains common strings used for the general notification ("mail") system as well
 # Common
 msgid "LOGIN_FIRST_TO_ACCESS_MAIL"
-msgstr "You'll need to log back in before you can view this."
+msgstr "Πρεπει  να  επανασυνδεθειτε  για  να  το  δειτε  αυτο."
 
 msgid "CONTINUE"
-msgstr "Continue"
+msgstr "Συνεχεια"
 
 msgid "HEADER_INBOX"
-msgstr "Inbox"
+msgstr "Εισερχομενα"
 
 # this must be a max of 6 characters
 msgid "UNAUTHED_READ"
-msgstr "Read.."
+msgstr "Διαβαστε.."
 
 msgid "PREV"
-msgstr "Prev"
+msgstr "Προηγ"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "Επομ"
 
 # Titles
 msgid "TITLE_SPINOFF"
 msgstr "Spin-off"
 
 msgid "TITLE_WARNING"
-msgstr "Warning"
+msgstr "Προειδοποιηση"
 
 msgid "TITLE_NOTICE"
-msgstr "Notice"
+msgstr "Ειδοποιηση"
 
 msgid "TITLE_MESSAGE"
-msgstr "Message"
+msgstr "Μηνυμα"
 
 msgid "TITLE_NEWS"
-msgstr "News"
+msgstr "Νεα"
 
 msgid "TITLE_INFO"
-msgstr "Info"
+msgstr "Πληροφοριες"
 
 # Not found
 msgid "MAIL_NOT_FOUND"
-msgstr "This message does not exist."
+msgstr "Αυτο  το  μηνυμα  δεν  υπαρχει."

@@ -4,7 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "GET_STARTED"
-msgstr "Get Started"
+msgstr "Ξεκινηστε"
 
 msgid "WATCH_FLIPNOTES"
 msgstr "Ολα τα Flipnotes"
@@ -22,13 +22,13 @@ msgid "HOT_FLIPNOTES"
 msgstr "Καυτα Flipnotes"
 
 msgid "ABOUT_SUDOMEMO"
-msgstr "Για το Sudomemo"
+msgstr "Σχετικα  με το Sudomemo"
 
 msgid "CREATORS_ROOM"
-msgstr "Εργαστηρι"
+msgstr "Δωματιο  Χρηστη"
 
 msgid "NEWS"
-msgstr "Sudomemo News"
+msgstr "Νεα  του Sudomemo"
 
 msgid "CHATROOMS"
 msgstr "Δωματια Τσατ"
@@ -51,19 +51,19 @@ msgid "LOGIN"
 msgstr "Συνδεση"
 
 msgid "LOGOUT"
-msgstr "Logout"
+msgstr "Αποσυνδεση"
 
 msgid "REGISTER"
-msgstr "Register"
+msgstr "Εγκατασταση"
 
 msgid "THEME_SHOP"
-msgstr "Theme Shop"
+msgstr "Μαγαζι  Θεματων"
 
 msgid "MAIL"
 msgstr "Mail"
 
 msgid "TEST_TRANSLATION"
-msgstr "Greek Translation"
+msgstr "Ελληνικη  Μεταφραση"
 
 msgid "HELP"
-msgstr "Help"
+msgstr "Βοηθεια"

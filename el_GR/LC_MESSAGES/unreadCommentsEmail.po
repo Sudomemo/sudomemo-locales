@@ -4,22 +4,22 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "EMAIL_SUBJECT_FORMAT"
-msgstr "[Sudomemo] %s, you've got new comments on your Flipnotes!"
+msgstr "[Sudomemo] %s, εχετε νεα σχολια στα Flipnotes!"
 
 msgid "TITLE_NEW_COMMENTS"
-msgstr "New Comments"
+msgstr "Νεα Σχολια"
 
 msgid "HELLO_FORMAT"
-msgstr "Hello, %s!"
+msgstr "Γεια, %s!"
 
 msgid "TEXT_YOU_HAVE_X_COMMENTS_FROM_FORMAT"
-msgstr "You have %d new comment(s) on Sudomemo from %s"
+msgstr "Εχετε %d νεο/α σχολιο/α στο Sudomemo απο τον χρηστη %s"
 
 msgid "AND"
-msgstr "and"
+msgstr "και"
 
 msgid "AND_X_OTHERS_FORMAT"
-msgstr "and %s others."
+msgstr "και %s αλλους."
 
 msgid "TEXT_HOW_TO_VIEW_UNREAD_COMMENTS_TAP_ICON_FORMAT"
-msgstr "You can view your unread comments on Sudomemo by tapping %s on your notification bar."
+msgstr "Μπορειτε να δειτε να μη διαβασμενα σχολια σας στο Sudomemo πατωντας %s στο μπαρ με τις ειδοποιησεις."
