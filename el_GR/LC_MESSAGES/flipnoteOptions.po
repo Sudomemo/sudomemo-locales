@@ -4,55 +4,55 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "FLIPNOTE_OPTIONS"
-msgstr "Flipnote Options"
+msgstr "Επιλογες Flipnote"
 
 msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
-msgstr "You must be logged in to view this page."
+msgstr "Για  να  ανοιξετε  αυτη  την  σελιδα  πρεπει  να συνδεθειτε."
 
 msgid "HEADER_OPTION"
-msgstr "Option"
+msgstr "Επιλογη"
 
 msgid "HEADER_STATUS"
-msgstr "Status"
+msgstr "Κατασταση"
 
 msgid "OPTION_NAME_SMOOTH"
 msgstr "Smoothing"
 
 msgid "OPTION_DESC_SMOOTH"
-msgstr "Lines, curves, and edges are smoothed for a more natural look on Sudomemo Theatre."
+msgstr "Για  μια  καλυτερη  οψη  στο  Sudomemo Theatre,  οι γραμμες  λειενονται."
 
 msgid "FLIPNOTE_URL_IS"
 msgstr "Flipnote URL:"
 
 msgid "ENABLE_SMOOTHING"
-msgstr "Enable smoothing"
+msgstr "Ενεργοποιηση smoothing"
 
 msgid "DISABLE_SMOOTHING"
-msgstr "Disable smoothing"
+msgstr "Απενεργοποιηση smoothing"
 
 msgid "ON"
-msgstr "On"
+msgstr "ΝΑΙ"
 
 msgid "OFF"
-msgstr "Off"
+msgstr "ΟΧΙ"
 
 msgid "CITIZENSHIP_REQUIRED"
-msgstr "You'll need Sudomemo Citizenship to use this feature."
+msgstr "Χρειαζεστε Sudomemo Citizenship για να χρησιμοποιησετε αυτο το feature."
 
 msgid "PLUS_REQUIRED"
-msgstr "You'll need Sudomemo Plus to use this feature."
+msgstr "Χρειαζεστε Sudomemo Plus για  να  χρησιμοποιησετε  αυτο  το feature."
 
 msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
-msgstr "Tap on an option's status to view or change it."
+msgstr "Πατηστε πανω στην κατασταση μιας επιλογης για να την δειτε η να την αλλαξετε."
 
 msgid "OPTION_NAME_FORCE_44K_BITRATE"
 msgstr "Enhanced audio"
 
 msgid "OPTION_DESC_FORCE_44K_BITRATE"
-msgstr "Sudomemo will try to make your audio sound crisper and cleaner for Sudomemo Theatre."
+msgstr "Το Sudomemo θα  δοκιμασει  να  κανει  τον  ηχο  σας  πιο  καθαρο  για  το Sudomemo Theatre."
 
 msgid "ENABLE_AUDIO_ENHANCEMENT"
-msgstr "Enable audio enhancement"
+msgstr "Ενεργοποιηση  του audio enhancement"
 
 msgid "DISABLE_AUDIO_ENHANCEMENT"
-msgstr "Disable audio enhancement"
+msgstr "Απενεργοποιηση  του audio enhancement"
