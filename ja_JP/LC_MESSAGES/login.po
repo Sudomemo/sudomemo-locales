@@ -19,19 +19,19 @@ msgid "BAN_VIEW_MAIL"
 msgstr "スドメモのメールを見る"
 
 msgid "BASIC_AUTH_BAD_LENGTH_FORMAT"
-msgstr "IDは%sの長さで記述されます (16でなければなりません)"
+msgstr "IDが%s桁で入力されています (16桁である必要があります)"
 
 msgid "BASIC_AUTH_FSID_INVALID"
-msgstr "basic認証で入力したうごメモIDが無効です："
+msgstr "BASIC認証で入力したうごメモIDが無効です："
 
 msgid "BASIC_AUTH_LOWERCASE_LETTERS"
 msgstr "IDに小文字が含まれています。すべて大文字にする必要があります。"
 
 msgid "BASIC_AUTH_NONHEX_CHARACTERS"
-msgstr "IDに英数字以外の文字が含まれています（0-9とA-Fのみを含める必要があります）。"
+msgstr "IDに英数字以外の文字が含まれています（0~9とA~Fのみで構成されている必要があります）。"
 
 msgid "BASIC_AUTH_NOT_ENABLED"
-msgstr "Proxy設定でbasic認証を有効にしていないようです。"
+msgstr "Proxy設定でBASIC認証が有効にされていません。"
 
 msgid "BUTTON_ADD_AN_EMAIL_ADDRESS"
 msgstr "メールアドレスを追加する"
@@ -43,7 +43,7 @@ msgid "BUTTON_CHANGE_PASSWORD"
 msgstr "パスワードを変更する"
 
 msgid "BUTTON_CHECK_VERIFICATION"
-msgstr "認証されているか確認する"
+msgstr "認証ステータスの確認"
 
 msgid "BUTTON_CONTINUE"
 msgstr "続行"
@@ -64,7 +64,7 @@ msgid "CONFIRM_INFO_CORRECT"
 msgstr "下記の情報が正しいことを確認してください。"
 
 msgid "CONTACT_SUPPORT_EMAIL_FORMAT"
-msgstr "お問い合わせください %sさん。"
+msgstr "%sにお問い合わせください。"
 
 msgid "CONTINUE_TO_LOGIN"
 msgstr "ログインを続行する"
@@ -73,16 +73,16 @@ msgid "CREATORS_ROOM_SHIM_PLEASE_LOGIN"
 msgstr "スドメモへようこそ！ 続行するにはログインしてください。"
 
 msgid "CREATORS_ROOM_SHIM_WELCOME"
-msgstr "ようこそ!"
+msgstr "ようこそ！"
 
 msgid "EMAIL_ADDITION_DETAILS"
 msgstr "パスワードを忘れた場合は、メールにパスワード再設定リンクを送信します。"
 
 msgid "EMAIL_ADDITION_SUGGESTED"
-msgstr "メールアドレスの設定は任意ですが、設定されることを強くお勧めします。 パスワードを忘れた場合、メールアドレスにパスワード再設定のリンクが送信できます。"
+msgstr "メールアドレスの設定は任意ですが、設定することを強くお勧めします。 パスワードを忘れた場合はメールアドレスにパスワード再設定用のリンクが送信されます。"
 
 msgid "EMAIL_CONFIRMATION_SENT_FORMAT"
-msgstr "確認メールが%sに送信されました。 メールを確認してください。"
+msgstr "確認メールが%sに送信されました。メールを確認してください。"
 
 msgid "EMAIL_IS_DUPLICATE"
 msgstr "入力したメールアドレスはすでに使用されています。"
@@ -94,10 +94,10 @@ msgid "EMAIL_REQUIRES_UPDATE"
 msgstr "あなたのメールアドレスを更新する必要があります。"
 
 msgid "EMAIL_VERIFICATION_ADDRESS_REMOVED"
-msgstr "申し訳ございませんが、そのメールアドレスは不正なメールアドレスとしてマークしました。スドメモからこれ以上メールを受信することはありません。"
+msgstr "申し訳ございませんが、そのメールアドレスは不正なメールアドレスとしてマークしました。スドメモからこれ以上メールを受信しないことをお勧めします。"
 
 msgid "EMAIL_VERIFIED"
-msgstr "メールアドレスが認証されました!"
+msgstr "メールアドレスが認証されました！"
 
 msgid "ERROR"
 msgstr "エラー"
@@ -124,10 +124,10 @@ msgid "FORM_PREFILL_PASSWORD"
 msgstr "パスワードを入力してください..."
 
 msgid "FORM_WARNING_EMAIL_INVALID"
-msgstr "入力したメールアドレスは無効です。"
+msgstr "入力されたメールアドレスは無効です。"
 
 msgid "FORM_WARNING_PASSWORD_DISALLOWED_CHARS"
-msgstr "パスワードに次の文字を含めることはできません:"
+msgstr "パスワードに次の文字を含めることはできません："
 
 msgid "FORM_WARNING_PASSWORD_TOO_SHORT"
 msgstr "8文字以上のパスワードを入力してください。"
@@ -148,7 +148,7 @@ msgid "HEADER_VERIFY_EMAIL"
 msgstr "メールアドレスを認証"
 
 msgid "INCORRECT_PASSWORD_ATTEMPTS_FORMAT"
-msgstr "間違えた回数: %s"
+msgstr "間違えた回数：%s"
 
 msgid "LOGIN"
 msgstr "ログイン"
@@ -157,7 +157,7 @@ msgid "LOGIN_FAILED"
 msgstr "ログインに失敗しました。"
 
 msgid "LOGIN_FAILED_BANNED_LINE1"
-msgstr "あなたはSudomemoとの対話を制限されています。"
+msgstr "あなたはスドメモとの対話を制限されています。"
 
 msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE1"
 msgstr "うごメモのデータが破損しています。"
@@ -196,7 +196,7 @@ msgid "NO_PLAINTEXT_PASSWORD_RECOVERY_IF_LOST"
 msgstr "この段階の後、パスワードを紛失した場合、パスワードを回復することはできません。"
 
 msgid "PLEASE_DISCONNECT_AND_RECONNECT"
-msgstr "エラーが発生しました。再試行するにはいったんスドメモを切断し、再接続をする必要があります。"
+msgstr "エラーが発生しました。スドメモから切断し、再度接続してください。"
 
 msgid "PLEASE_ENTER_PASSWORD_TO_SIGN_IN"
 msgstr "ログインするためのパスワードを入力してください"
@@ -205,7 +205,7 @@ msgid "POST_COMMENT_BELOW"
 msgstr "続行するには、下記のコメントを投稿してください。"
 
 msgid "REGISTRATION_ERROR_BAD_EMAIL"
-msgstr "あなたが入力した電子メールアドレスは許可されていないため、使用できません。"
+msgstr "あなたが入力したメールアドレスは許可されていないため、使用できません。"
 
 msgid "REGISTRATION_ERROR_BAD_PASSWORD"
 msgstr "あなたが入力したパスワードは許可されていないため、使用できません。"
@@ -214,7 +214,7 @@ msgid "REGISTRATION_ERROR_PASSWORD_ALREADY_SET"
 msgstr "パスワードはすでに設定されています。"
 
 msgid "RETURNING_USER_NEW_LOGIN_SYSTEM"
-msgstr "前回訪問して以来、新しいログインシステムが追加されましたが、心配する必要はありません。投稿した作品などは消えていません！"
+msgstr "前回接続した後、新しいログインシステムが追加されましたが心配する必要はありません。投稿した作品などは消えていません！"
 
 msgid "RETURNING_USER_PLEASE_CREATE_PASSWORD"
 msgstr "新しいパスワードを作成してください。"
@@ -223,34 +223,34 @@ msgid "RETURNING_USER_THANKS_FOR_REGISTRATION"
 msgstr "お帰りなさい！ ログイン情報を設定していただきありがとうございます。"
 
 msgid "SEARCH_FOR_SENDER_EMAIL_FORMAT"
-msgstr "メールを受信していないませんか？迷惑メールをチェックし、%sを探してみてください。 もし迷惑メールとしてマークされていたら、 メールの受信許可の設定をしてください。"
+msgstr "メールを受信できていませんか？ 迷惑メールフォルダを確認して%sを探してみてください。 もし迷惑メールとして分類されていた場合はメールの受信許可の設定をしてください。"
 
 msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
-msgstr "あなたがスドメモに貢献したい場合は、Discordでお気軽にお問い合わせください！ あなたは%sから参加できます。"
+msgstr "もし接続に助けが必要な場合はスドメモDiscordでお気軽にお問い合わせください！ %sから参加できます"
 
 msgid "SORRY_NO_LOGIN"
 msgstr "申し訳ありませんが、ログインできませんでした。"
 
 msgid "THANKS_FOR_LOGIN_FORMAT"
-msgstr "ログインしていただきありがとうございます！%sさん！"
+msgstr "ログインして頂きありがとうございます！%sさん！"
 
 msgid "THANKS_FOR_LOGIN_PROMPT_INTRO"
-msgstr "スドメモへようこそ！少しだけ自己紹介をしてみましょう！（紹介チャンネルに作品として公開されます）"
+msgstr "スドメモへようこそ！ まず始めに簡単に自己紹介をしましょう！（紹介チャンネルに作品として公開されます）"
 
 msgid "THANK_YOU_FOR_UPDATING_EMAIL"
-msgstr "メールを更新していただきありがとうございます！"
+msgstr "メールを更新して頂きありがとうございます！"
 
 msgid "VERIFICATION_EXPIRED_TEXT"
 msgstr "認証URLの有効期限が切れているか、既に使用されています。"
 
 msgid "VERIFICATION_LIMIT_EXCEEDED_FORMAT"
-msgstr "確認メールの最大数を超えました。 %sのサポートに連絡するかDiscord経由で連絡してください。"
+msgstr "確認メールの最大数を超えました。 %sのサポートに連絡するかDiscordで連絡をしてください。"
 
 msgid "VERIFICATION_NEEDED"
-msgstr "あなたのメールアドレスを認証する必要があります。"
+msgstr "メールアドレスを認証する必要があります。"
 
 msgid "WEB_HEADER_SUCCESS"
-msgstr "成功!"
+msgstr "成功しました！"
 
 msgid "WEB_TAP_CHECK_VERIFICATION_STATUS"
 msgstr "あなたの任天堂DSiシステムで「認証ステータスの確認」をタップしてください。"
@@ -260,4 +260,4 @@ msgstr "ようこそ、 %sさん！"
 
 # A URL will be shown at the end of this.
 msgid "LEGACY_PROXY_WARNING"
-msgstr "It looks like you may still be using the legacy ds.sudomemo.net proxy, which we have ended support for. As such, you should turn off the proxy in your System Settings, or you might have problems using Sudomemo. For more information, visit:"
+msgstr "既にサポート対象外であるds.sudomemo.netの古いProxy設定が使用されている様です。本体設定からProxy設定を更新しない場合、スドメモを使用する際に問題が発生する可能性があります。詳しくはこちらを確認してください："
