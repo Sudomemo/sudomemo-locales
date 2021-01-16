@@ -124,16 +124,19 @@ msgid "TROPHY_NAME_translator"
 msgstr "翻訳者"
 
 msgid "TROPHY_NAME_weekly_topic_winner"
-msgstr "週刊のお題の優勝者"
+msgstr "今週のお題の優勝者"
 
 msgid "TROPHY_NAME_spookmaster"
 msgstr "Spookmaster"
+msgstr "スプークマスター"
 
 msgid "TROPHY_DESC_spookmaster"
 msgstr "Spookmaster Award for Excellence in Witchcraft and Wizardry."
+msgstr ""
 
 msgid "TROPHY_NAME_nitro_booster"
-msgstr "Nitro Booster"
+msgstr "ニトロブースター"
 
 msgid "TROPHY_DESC_nitro_booster"
 msgstr "Showed how cool they (or a friend) were by boosting the Sudomemo Discord server."
+msgstr "スドメモDiscordサーバーをブースト"
