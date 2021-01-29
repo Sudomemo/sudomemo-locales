@@ -920,6 +920,5 @@ msgstr "Conectado desde %s"
 msgid "HOW_TO_UNLINK_DISCORD"
 msgstr "Para desvincular su cuenta de Discord, escriba este comando en el chat: .sudo unlink"
 
-
 msgid "BTN_JOIN_DISCORD"
 msgstr "Únete a Discord"

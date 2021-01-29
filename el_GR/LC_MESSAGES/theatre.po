@@ -901,6 +901,7 @@ msgstr "Επιβεβαιωμενος Χρηστης"
 
 msgid "SHARE_ON_WHATSAPP"
 msgstr "Κοινοποιηση μεσω WhatsApp"
+
 # This refers to Discord, which is a chat app.
 msgid "DISCORD"
 msgstr "Discord"
@@ -918,7 +919,6 @@ msgstr "Συνδεδεμενος απο τις %s"
 # Do not translate ".sudo unlink"
 msgid "HOW_TO_UNLINK_DISCORD"
 msgstr "Για να αποσυνδεσετε τον λογαριασμο σας στο Discord, πληκτρολογειστε αυτη την εντολη στο τσατ: .sudo unlink"
-
 
 msgid "BTN_JOIN_DISCORD"
 msgstr "Μπειτε στο Discord"

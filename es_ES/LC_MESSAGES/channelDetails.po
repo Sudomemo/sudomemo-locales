@@ -30,7 +30,7 @@ msgstr "Ha ocurrido un error al publicar esta Flipnote. Vuelve a intentarlo en u
 msgid "DUPLICATE_FLIPNOTE_FAILED"
 msgstr "Esta Flipnote ya ha sido publicada en Sudomemo. Intente editarlo de nuevo."
 
-msgid "FLIPNOTE_DATA_CORRUPTED"	
+msgid "FLIPNOTE_DATA_CORRUPTED"
 msgstr "Los datos de esta Flipnote estan corruptos. Vuelve a intentarlo en un momento."
 
 msgid "NO_BLANK_FLIPNOTES_ALLOWED"

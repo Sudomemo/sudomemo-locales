@@ -920,6 +920,5 @@ msgstr "%sから接続"
 msgid "HOW_TO_UNLINK_DISCORD"
 msgstr "Discordアカウントとの紐付けを解除したい場合は以下のコマンドをチャットに送信してください: .sudo unlink"
 
-
 msgid "BTN_JOIN_DISCORD"
 msgstr "Discordに参加する"
