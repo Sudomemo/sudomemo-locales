@@ -895,6 +895,7 @@ msgstr "Επιβεβαιωμενος Χρηστης"
 
 msgid "SHARE_ON_WHATSAPP"
 msgstr "Κοινοποιηση μεσω WhatsApp"
+
 # This refers to Discord, which is a chat app.
 msgid "DISCORD"
 msgstr "Discord"
