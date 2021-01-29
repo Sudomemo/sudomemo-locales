@@ -31,7 +31,7 @@ msgid "HEADER_FEATURED_FLIPNOTES"
 msgstr "Προβαλλομενα Flipnotes"
 
 msgid "HEADER_RANDOM_FLIPNOTES"
-msgstr "Random Flipnotes"
+msgstr "Τυχαια Flipnotes"
 
 msgid "HEADER_PAGE"
 msgstr "Σελιδα"
@@ -52,19 +52,19 @@ msgid "POST_FLIPNOTE"
 msgstr "Ανεβαστε Flipnote"
 
 msgid "CATEGORY_recent"
-msgstr "@Προσφατα Flipnotes"
+msgstr "@Prosfata Flipnotes"
 
 msgid "CATEGORY_hot"
-msgstr "@Καυτα Flipnotes"
+msgstr "@Kauta Flipnotes"
 
 msgid "CATEGORY_popular"
-msgstr "@Πιο Δημοφιλη"
+msgstr "@Pio Dhmofilh"
 
 msgid "CATEGORY_featured"
-msgstr "@Προβαλλομενα Flipnotes"
+msgstr "@Profallomena Flipnotes"
 
 msgid "CATEGORY_random"
-msgstr "@Random Flipnotes"
+msgstr "@Tyxaia Flipnotes"
 
 msgid "CATEGORY_feed"
-msgstr "@Feed"
+msgstr "@Arxikh"

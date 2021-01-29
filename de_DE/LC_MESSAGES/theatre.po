@@ -901,6 +901,7 @@ msgstr "Bestätigter Nutzer"
 
 msgid "SHARE_ON_WHATSAPP"
 msgstr "Über WhatsApp teilen"
+
 # This refers to Discord, which is a chat app.
 msgid "DISCORD"
 msgstr "Discord"
@@ -918,7 +919,6 @@ msgstr "Verlinkt seit %s"
 # Do not translate ".sudo unlink"
 msgid "HOW_TO_UNLINK_DISCORD"
 msgstr "Um die Verlinkung deines Discord-Accounts aufzuheben, gib Folgendes in den Chat ein: .sudo unlink"
-
 
 msgid "BTN_JOIN_DISCORD"
 msgstr "Trete Discord bei"

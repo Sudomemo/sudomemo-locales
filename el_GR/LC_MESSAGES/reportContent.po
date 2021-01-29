@@ -52,79 +52,79 @@ msgid "HEADER_REASON"
 msgstr "Λογω:"
 
 msgid "LOGIN_REQUIRED_TO_CONTINUE"
-msgstr "You must log in to continue."
+msgstr "Πρεπει  να  ειστε  συνδεδεμενοι  για  να  συνεχισετε."
 
 msgid "LOGIN_REQUIRED_TO_REPORT_CONTENT"
-msgstr "You must be logged in to submit content reports."
+msgstr "Πρεπει  να  ειστε  συνδεδεμενοι  για  να  πραγματοποιησετε  αναφορες  περιεχομενου."
 
 msgid "REPORT_FAILED_USER_BANNED"
-msgstr "You've been restricted from using Sudomemo."
+msgstr "Η  χρηση  σας  του Sudomemo εχει  τεθει  σε  περιορισμο."
 
 msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "This comment has already been posted to Sudomemo."
+msgstr "Αυτο  το  σχολιο  εχει  ηδη  δημοσιευθει  στο Sudomemo."
 
 msgid "CONFIRM_EMAIL_BEFORE_REPORTING"
-msgstr "Please confirm your email before reporting content."
+msgstr "Παρακαλουμε  επιβεβαιωστε  το email σας  πριν  προβειτε  σε  αναφορα  περιεχομενου."
 
 msgid "THANKS_FOR_REPORTING"
-msgstr "We've received your report. Thanks for helping make Sudomemo a better place!"
+msgstr "Λαβαμε  την  αναφορα  σας. Ευχαριστουμε  που  κανετε  το  Sudomemo καλυτερο!"
 
 msgid "CATEGORY_NAME_stolen"
-msgstr "Stolen"
+msgstr "Κλεμμενο"
 
 msgid "CATEGORY_DESC_stolen"
-msgstr "Misuse of spin-off function (stolen)"
+msgstr "Καταχρηση  της λειτουργιας spin-off (κλεμμενο)"
 
 msgid "CATEGORY_NAME_spam"
 msgstr "Spam"
 
 msgid "CATEGORY_DESC_spam"
-msgstr "Spam (no meaningful content)"
+msgstr "Spam (περιεχομενο  χωρις  νοημα)"
 
 msgid "CATEGORY_NAME_harassment"
 msgstr "Harassment"
 
 msgid "CATEGORY_DESC_harassment"
-msgstr "Bullying, discrimination, harassment or libel"
+msgstr "Εκφοβισμος, διακρισεις, παρενοχληση η δυσφημιση"
 
 msgid "CATEGORY_NAME_fraud"
-msgstr "Fraud"
+msgstr "Απατη"
 
 msgid "CATEGORY_DESC_fraud"
-msgstr "Impersonation or other fraudulent activities"
+msgstr "Πλαστοπροσωπια η αλλες απατηλες δραστηριοτητες"
 
 msgid "CATEGORY_NAME_swearing"
-msgstr "Profane"
+msgstr "Βρισιμο"
 
 msgid "CATEGORY_DESC_swearing"
-msgstr "Use of very strong language, or frequent use of strong language"
+msgstr "Χρηση πολυ δυνατου λεξιλογιου, η συχνη χρηση δυνατου λεξιλογιου"
 
 msgid "CATEGORY_NAME_sexual"
-msgstr "Sexual"
+msgstr "Σεξουαλικο"
 
 msgid "CATEGORY_DESC_sexual"
-msgstr "Sexual themes or content"
+msgstr "Θεματα σεξουαλικου περιεχομενου"
 
 msgid "CATEGORY_NAME_violent"
-msgstr "Graphic"
+msgstr "Γραφικο"
 
 msgid "CATEGORY_DESC_violent"
-msgstr "Graphic content, excessive violence, gore, blood, or body horror"
+msgstr "Γραφικο περιεχομενο, υπερβολικη βια, gore, αιμσ, η body horror"
 
 msgid "CATEGORY_NAME_misplaced_rp"
-msgstr "Misplaced RP"
+msgstr "RP το  οποιο βρισκεται σε λανθασμενη κατηγορια"
 
 msgid "CATEGORY_DESC_misplaced_rp"
-msgstr "Roleplay posted to non-roleplay channel"
+msgstr "Roleplay ανεβασμενο σε καναλι που δεν ειναι για roleplay"
 
 msgid "CATEGORY_NAME_drugs"
-msgstr "Drugs"
+msgstr "Ναρκωτικα"
 
 msgid "CATEGORY_DESC_drugs"
-msgstr "Substance abuse or drug references"
+msgstr "Καταχρηση ουσιως η αναφορα σε ναρκωτικα"
 
 msgid "CATEGORY_NAME_rapid_flashing"
 msgstr "Rapid Flashing"
 
 msgid "CATEGORY_DESC_rapid_flashing"
-msgstr "Flashing more than four times in one second"
+msgstr "Flashing παραπανω απο 4 φορες το δευτερολεπτο"

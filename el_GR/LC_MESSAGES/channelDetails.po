@@ -16,28 +16,31 @@ msgid "CHANNEL_ID"
 msgstr "ID Καναλιου"
 
 msgid "LOGIN_REQUIRED_TO_POST"
-msgstr "You must be logged in to post a Flipnote."
+msgstr "Πρεπει να ειστε συνδεδεμενοι για να ανεβασετε ενα Flipnote."
 
 msgid "CHANNEL_NOT_SPECIFIED"
-msgstr "You must pick a channel."
+msgstr "Πρεπει να διαλεξετε ενα καναλι."
 
 msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
-msgstr "You've been restricted from using Sudomemo."
+msgstr "Σας εχει απαγορευτει η χρηση του Sudomemo."
 
 msgid "FLIPNOTE_POST_FAILED"
-msgstr "Flipnote upload failed. Try again in a moment."
+msgstr "Απετυχε η δημοσιευση του Flipnote. Παρακαλω δοκιμαστε ξανα σε λιγακι."
 
 msgid "DUPLICATE_FLIPNOTE_FAILED"
-msgstr "This Flipnote has already been posted to Sudomemo. Try editing it again."
+msgstr "Αυτο το Flipnote εχει ηδη ανεβει στο Sudomemo. Δοκιμαστε να το ξαναεπεξεργαστειτε."
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "The Flipnote data is corrupted. Try again in a moment."
+msgstr "Τα δεδομενα του Flipnote ειναι κατεστραμμενα. Παρακαλω δοκιμαστε ξανα σε λιγακι."
 
 msgid "NO_BLANK_FLIPNOTES_ALLOWED"
-msgstr "You may not post an empty Flipnote."
+msgstr "Δεν μπορειτε να ανεβασετε ενα αδειο Flipnote."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Please confirm your email before posting."
+msgstr "Παρακαλω επβεβαιωστε πρωτα το email σας πριν να δημοσιευσετε."
 
 msgid "NO_POSTS_WHILE_MUTED"
-msgstr "You may not post while you are muted."
+msgstr "Δεν μπορειτε να δημοσιευσετε ενω εχετε τεθει σε  mute."
+
+msgid "CATEGORY"
+msgstr "Category"
