@@ -19,31 +19,31 @@ msgid "HEADER_PREV"
 msgstr "Προηγουμενο"
 
 msgid "HEADER_REFRESH"
-msgstr "Refresh"
+msgstr "Ανανεωσγ"
 
 msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
-msgstr "You must be logged in to post a chat message."
+msgstr "Πρεπει να ειστε συνδεδεμενοι για να ανεβασετε ενα μηνυμα τσατ."
 
 msgid "CHAT_REPLY_FAILED"
-msgstr "Chat reply failed. Try again in a moment."
+msgstr "Απαντηση απετυχε. Παρακαλω δοκιμαστε ξανα σε λιγακι."
 
 msgid "NO_BLANK_MESSAGES_ALLOWED"
-msgstr "You cannot post a blank chat message."
+msgstr "Δεν μπορειτε να ποσταρετε ενα κενο μηνυμα τσατ."
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "The Flipnote data is corrupted. Try again in a moment."
+msgstr "Τα δεδομενα αυτου του Flipnote ειναι κατεστραμμενα. Παρακαλω δοκιμαστε ξανα σε λιγακι."
 
 msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
-msgstr "You have been muted. You may not chat."
+msgstr "Εχετε τεθει σε mute. Δεν μπορειτε να τσατταρετε."
 
 msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "This comment has already been posted to Sudomemo."
+msgstr "Αυτο το σχολιο εχει ηδη δημοσιευθει στο Sudomemo."
 
 msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "You've been restricted from using Sudomemo."
+msgstr "Σας εχει απαγορευθει η χρηση του Sudomemo."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Please confirm your email before posting."
+msgstr "Παρακαλω επιβεβαιωστε το email σας πριν να δημοσιευσετε."
 
 msgid "MODERATOR"
 msgstr "Moderator"

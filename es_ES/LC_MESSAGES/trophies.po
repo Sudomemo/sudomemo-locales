@@ -94,7 +94,7 @@ msgid "TROPHY_NAME_neighborhood_watch"
 msgstr "Guardia del Vecindario"
 
 msgid "TROPHY_DESC_neighborhood_watch"
-msgstr "Correctamente marca contenido que viola nuestra Politica de Contenido."
+msgstr "Reportar correctamente contenido que viola la Politica de Contenido de Sudomemo."
 
 msgid "TROPHY_NAME_one_million_flips_event"
 msgstr "Evento Un Millon de Flipnotes"
@@ -137,3 +137,9 @@ msgstr "Nitro Booster"
 
 msgid "TROPHY_DESC_nitro_booster"
 msgstr "Mostró lo geniales que eran ellos (o un amigo) al usar Boost en el Sudomemo Discord."
+
+msgid "TROPHY_NAME_7th_birthday_bash"
+msgstr "7th Birthday Bash"
+
+msgid "TROPHY_DESC_7th_birthday_bash"
+msgstr "Attended Sudomemo's 7 Years of Flipnote Fun event"

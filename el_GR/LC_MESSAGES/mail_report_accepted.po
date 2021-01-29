@@ -5,43 +5,43 @@ msgstr ""
 
 # Content Report Accepted - sent to user who has correctly reported content
 msgid "NOTICE"
-msgstr "Notice"
+msgstr "Ειδοποιηση"
 
 # # Intro
 msgid "REPORT_ACCEPTED"
-msgstr "We've reviewed a content report that you submitted and found it to be valid."
+msgstr "Εξετασαμε  μια  αναφορα  περιεχομενου  που  δηλωσατε  και  την  βρηκαμε  εγκυρη."
 
 # # Content types
 msgid "CONTENT_TYPE_flipnote"
 msgstr "Flipnote"
 
 msgid "CONTENT_TYPE_comment"
-msgstr "Comment"
+msgstr "Σχολιο"
 
 msgid "CONTENT_TYPE_chat_message"
-msgstr "Chat message"
+msgstr "Μηνυμα τσατ"
 
 # ## We plan on adding user-created themes.
 msgid "CONTENT_TYPE_room_theme"
-msgstr "Creator's Room theme"
+msgstr "Θεμα  Δωματιου  Χρηστη"
 
 msgid "CONTENT_TYPE_profile_bio"
-msgstr "Profile text"
+msgstr "Κειμενο  Προφιλ"
 
 # ## Catch-all
 msgid "CONTENT_TYPE_content"
-msgstr "Other content"
+msgstr "Αλλο  περιεχομενο"
 
 # # continued message...
 msgid "REPORT_ACCEPTED_CONTINUED"
-msgstr "As such, the content has been removed."
+msgstr "Ετσι  το  περιεχομενο  αφεραιθηκε."
 
 # this message is followed by a link
 msgid "REPORT_ACCEPTED_INFO"
-msgstr "Reports like yours help make Sudomemo a safe and welcoming place for everyone. If you'd like to learn more about our Content Policy, you can do so here:"
+msgstr "Αναφορες  να  την  δικη  σας  βοηθουν  το Sudomemo  να  παραμενει  ασφαλη  για  ολους. Εαν  θελετε  να  μαθετε  περισσοτερα  για  την  Πολιτικη  περιεχομενου  μπορειτε να  το  κανετε  εδω:"
 
 msgid "CONTENT_TYPE"
-msgstr "Content type:"
+msgstr "Ειδος  περιεχομενου:"
 
 msgid "CONTENT_ID"
-msgstr "Content ID:"
+msgstr "ID Περιεχομενου:"

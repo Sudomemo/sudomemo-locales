@@ -73,50 +73,50 @@ msgid "STAR_DETAILS_UPPERTITLE"
 msgstr "★ Αστερια ★"
 
 msgid "SET_TITLE"
-msgstr "Set Title"
+msgstr "Θεστε Τιτλο"
 
 msgid "SET_TITLE_INSTRUCTIONS"
-msgstr "Enter the new title for your Flipnote below."
+msgstr "Δωστε εναν νεο Τιτλο στο Flipnote σας παρακατω."
 
 msgid "40_CHARACTER_LIMIT"
-msgstr "Your title is limited to 40 characters in length."
+msgstr "Ο τιτλος σας περιοριζεται σε 40 χαρακτηρες."
 
 msgid "LEAVE_BLANK_TO_RESET"
-msgstr "To reset the title to default, leave the form blank when submitting."
+msgstr "Για να επαναφερετε τον τιτλο στην Προεπιλογη, αφηστε την φορμα κενη οταν την δηλωνετε."
 
 msgid "ENTER_TITLE"
-msgstr "Enter title..."
+msgstr "Προσθεστε τιτλο..."
 
 msgid "HEADER_ADD_DESCRIPTION"
-msgstr "Add Description"
+msgstr "Προσθεστε Περιγραφη"
 
 msgid "HEADER_DESCRIPTION"
-msgstr "Description"
+msgstr "Περιγραφη"
 
 msgid "SET_DESCRIPTION"
-msgstr "Set Description"
+msgstr "Προσθεστε Περγραφη"
 
 msgid "SET_DESCRIPTION_INSTRUCTIONS"
-msgstr "Enter the new description for your Flipnote below."
+msgstr "Δωστε μια νεα περιγραφη στο Flipnote σας παρακατω."
 
 msgid "101_CHARACTER_LIMIT_DESC"
-msgstr "Your description is limited to 101 characters in length."
+msgstr "Η περιγραφη σας περιοριζεται σε 101 χαρακτηρες."
 
 msgid "LEAVE_BLANK_TO_RESET_DESC"
-msgstr "To remove the description, leave the form blank when submitting."
+msgstr "Για  να αφαιρεσετε την περιγραφη, αφηστε την φορμα κενη οταν την δηλωνετε."
 
 msgid "ENTER_DESCRIPTION"
-msgstr "Enter description..."
+msgstr "Συμπληρωστε περιγραφη..."
 
 msgid "HEADER_FLIPNOTE_OPTIONS"
-msgstr "Options"
+msgstr "Επιλογες"
 
 msgid "HEADER_SONG"
-msgstr "Song"
+msgstr "Τραγουδι"
 
 # This is shown to logged-in users on their own Flipnotes without titles
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
-msgstr "Untitled Flipnote by %s"
+msgstr "Χωρις Τιτλο Flipnote του χρηστη %s"
 
 msgid "HEADER_UPLOAD_TO_YOUTUBE"
-msgstr "Upload to YouTube"
+msgstr "Ανεβαστε στο YouTube"

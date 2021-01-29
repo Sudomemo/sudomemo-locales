@@ -56,13 +56,13 @@ msgid "COLOR_STARS"
 msgstr "Estrellas de Colores"
 
 msgid "CREATORS_ROOM_THEME"
-msgstr "Tema de la Sala del Creador"
+msgstr "Fondo de la Sala del Creador"
 
 msgid "SUDOMEMO_CITIZENSHIP"
 msgstr "Ciudadano de Sudomemo"
 
 msgid "THEME_AVAILABLE_FOR_USE"
-msgstr "¡Ahora puedes usar este tema en la Sala del Creador!"
+msgstr "¡Ahora puedes usar este fondo en la Sala del Creador!"
 
 msgid "SUDOMEMO_PLUS"
 msgstr "Sudomemo Plus"
@@ -149,7 +149,7 @@ msgid "TICKET_NAME_special_someone_ticket"
 msgstr "Ticket para alguien especial"
 
 msgid "TICKET_DESC_special_someone_ticket"
-msgstr "Para ese alguien especial. Tres meses de Plus, Estrellas de Color, y un tema exclusivo."
+msgstr "Para ese alguien especial. Tres meses de Plus, Estrellas de Color, y un fondo exclusivo."
 
 msgid "TICKET_NAME_folding_reward_ticket"
 msgstr "Ticket de Recompensa Folding@Home"
@@ -161,31 +161,31 @@ msgid "TICKET_NAME_green_panda_ticket"
 msgstr "Ticket de Lazy Paisley"
 
 msgid "TICKET_DESC_green_panda_ticket"
-msgstr "¡Este ticket te brinda 110 estrellas Sudomemo gastables, un tema exclusivo, y una insignia especial mostrada en tu perfil!"
+msgstr "¡Este ticket te brinda 110 estrellas Sudomemo gastables, un fondo exclusivo, y una insignia especial mostrada en tu perfil!"
 
 msgid "TICKET_NAME_red_bird_ticket"
 msgstr "Ticket de Bailey Flitwing"
 
 msgid "TICKET_DESC_red_bird_ticket"
-msgstr "¡Este ticket te brinda 230 estrellas Sudomemo gastables ,un tema exclusivo, y una insignia especial mostrada en tu perfil!"
+msgstr "¡Este ticket te brinda 230 estrellas Sudomemo gastables ,un fondo exclusivo, y una insignia especial mostrada en tu perfil!"
 
 msgid "TICKET_NAME_blue_dog_ticket"
 msgstr "Ticket de Ziggy Starburst"
 
 msgid "TICKET_DESC_blue_dog_ticket"
-msgstr "¡Este ticket te brinda 350 estrellas Sudomemo gastables (¡Incluso hasta una estrella rara!), un tema exclusivo, y una insignia especial mostrada en tu perfil!"
+msgstr "¡Este ticket te brinda 350 estrellas Sudomemo gastables (¡Incluso hasta una estrella rara!), un fondo exclusivo, y una insignia especial mostrada en tu perfil!"
 
 msgid "TICKET_NAME_purple_bunny_ticket"
 msgstr "Ticket de Russell Ramblewood"
 
 msgid "TICKET_DESC_purple_bunny_ticket"
-msgstr "¡Este ticket te brinda 350 estrellas Sudomemo gastables (¡Probablemente hasta algunas estrellas raras!), un tema exclusivo, y una insignia especial mostrada en tu perfil!"
+msgstr "¡Este ticket te brinda 350 estrellas Sudomemo gastables (¡Probablemente hasta algunas estrellas raras!), un fondo exclusivo, y una insignia especial mostrada en tu perfil!"
 
 msgid "TICKET_NAME_golden_neko_ticket"
 msgstr "Ticket de Mitsuo Meow"
 
 msgid "TICKET_DESC_golden_neko_ticket"
-msgstr "¡Este ticket te brinda 350 estrellas Sudomemo gastables (¡Con multiples estrellas raras!), un tema exclusivo, y una insignia especial mostrada en tu perfil!"
+msgstr "¡Este ticket te brinda 350 estrellas Sudomemo gastables (¡Con multiples estrellas raras!), un fondo exclusivo, y una insignia especial mostrada en tu perfil!"
 
 msgid "TICKET_NAME_translator_ticket"
 msgstr "Ticket de Traductor"
@@ -197,7 +197,7 @@ msgid "TICKET_NAME_colors_promo_ticket"
 msgstr "Ticket de Promoción Colors!"
 
 msgid "TICKET_DESC_colors_promo_ticket"
-msgstr "¡Ganaste la tematica semanal Sudomemo x Colors! Junio 2020!"
+msgstr "¡Ganaste la fondotica semanal Sudomemo x Colors! Junio 2020!"
 
 msgid "TICKET_NAME_neighborhood_watch_ticket"
 msgstr "Ticket de Guardia del Vecindario"
@@ -218,13 +218,19 @@ msgid "TICKET_DESC_featured_artist_ticket"
 msgstr "¡Te damos nuestras cálidas felicitaciones por convertirte en un Artista destacado de Sudomemo!"
 
 msgid "TICKET_NAME_spookmaster_ticket"
-msgstr "Boleto de Spookmaster"
+msgstr "Ticket de Spookmaster"
 
 msgid "TICKET_DESC_spookmaster_ticket"
-msgstr "Thank you so much for playing SudoQuest: Requiem! We hope you enjoyed the game."
+msgstr "¡Muchas gracias por jugar SudoQuest: Requiem! ¡Esperamos que hayas disfrutado el juego!"
 
 msgid "TICKET_NAME_nitro_booster_ticket"
-msgstr "Boleto de Nitro Booster"
+msgstr "Ticket de Nitro Booster"
 
 msgid "TICKET_DESC_nitro_booster_ticket"
 msgstr "¡Eres increíble! ¡Gracias por usar Boost en el Sudomemo Discord!"
+
+msgid "TICKET_NAME_7th_birthday_bash_ticket"
+msgstr "7th Birthday Bash Ticket"
+
+msgid "TICKET_DESC_7th_birthday_bash_ticket"
+msgstr "Thanks for attending our Birthday Bash!"

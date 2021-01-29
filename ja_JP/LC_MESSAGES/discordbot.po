@@ -10,101 +10,101 @@ msgstr ""
 
 # Username was given a Nitro Booster Ticket...
 msgid "BOOST_TICKET_SUCCESS"
-msgstr "%s was given a Nitro Booster Ticket, redeemable for a month of Sudomemo Plus and a special trophy. Hooray!"
+msgstr "%sには1ヵ月間のスドメモプラス利用権と特別なトロフィーを交換できるニトロブースターチケットがプレゼントされました。やったぁ！"
 
 # Account linking
 msgid "DISCORD_LINKING_GET_STARTED"
-msgstr "please visit %s to get started!"
+msgstr "%s を確認してください！"
 
 msgid "DISCORD_LINKING_REQUIRED"
-msgstr "you'll need to link your Sudomemo account to do that."
+msgstr "スドメモアカウントを紐付けする必要があります。"
 
 msgid "DISCORD_LINKING_SUCCESS"
-msgstr "your account was successfully linked!"
+msgstr "アカウントの紐付けに成功しました！"
 
 msgid "DISCORD_LINKING_UNLINKED"
-msgstr "the link between your Discord and Sudomemo account has been removed."
+msgstr "あなたのDiscordアカウントとスドメモアカウントの紐付けは既に解除されています。"
 
 msgid "DISCORD_LINKING_UNLINK_NOT_LINKED_YET"
-msgstr "your Discord account isn't linked to a Sudomemo account."
+msgstr "あなたのDiscordアカウントはスドメモアカウントに紐付けされていません。"
 
 # "Invalid mode - must be one of: song, artist, genre"
 msgid "MUSICMATCH_INVALID_MODE"
-msgstr "Invalid mode - must be one of %s"
+msgstr "無効なmodeです。%sのうちどれか1つを選択してください"
 
 msgid "MUSICMATCH_MOVIE_COUNT_PLURAL"
-msgstr "%d Flipnotes"
+msgstr "%d作品"
 
 msgid "MUSICMATCH_MOVIE_COUNT_SINGULAR"
-msgstr "%d Flipnote"
+msgstr "%d作品"
 
 msgid "MUSICMATCH_NO_RESULTS"
-msgstr "I didn't find anything for that, sorry!"
+msgstr "該当するものは見つかりませんでした。すみません！"
 
 msgid "MUSICMATCH_RESULT_HEADER_GT_MAX"
-msgstr "Top %d results:"
+msgstr "検索上位%d件："
 
 msgid "MUSICMATCH_RESULT_HEADER_LT_MAX"
-msgstr "%d result(s):"
+msgstr "検索結果 %d件："
 
 # SongName by BandName
 msgid "MUSICMATCH_TITLE_BY_ARTIST"
-msgstr "%s by %s"
+msgstr "%s / %s"
 
 msgid "REJECT_ACCOUNT_ALREADY_LINKED"
-msgstr "you've already linked your Sudomemo account!"
+msgstr "既にスドメモアカウントと紐付けされています！"
 
 msgid "REJECT_BOOST_TICKET_COOLDOWN"
-msgstr "you've already given a Nitro Booster ticket in the past thirty days! (%s)"
+msgstr "既に過去30日以内にニトロブースターチケットが配布されています！（%s）"
 
 msgid "REJECT_FSID_ENOENT"
-msgstr "I did not find a user with that Flipnote Studio ID on Sudomemo."
+msgstr "このうごメモIDに該当するユーザーはスドメモ上では見つかりませんでした。"
 
 msgid "REJECT_GENERIC_ERROR"
-msgstr "I ran into an issue trying to do that. Sorry!"
+msgstr "検索を試みましたが問題が発生しました。すみません！"
 
 msgid "REJECT_INVALID_FSID"
-msgstr "that is not a valid Flipnote Studio ID!"
+msgstr "無効なうごメモIDです！"
 
 msgid "REJECT_INVALID_LINK_TOKEN"
-msgstr "that is not a valid link token! Please visit %s to get started!"
+msgstr "無効な紐付けトークンです！ %s を確認してください！"
 
 msgid "REJECT_LINK_TOKEN_ENOENT"
-msgstr "the link token you provided is expired or does not exist."
+msgstr "入力されたトークンは有効期限切れ、または存在しません。"
 
 msgid "REJECT_NOT_NITRO_BOOSTER"
-msgstr "you need to be a Sudomemo Nitro Booster to use this!"
+msgstr "使用するにはスドメモニトロブースターになる必要があります！"
 
 msgid "REJECT_USER_ENOENT"
-msgstr "I didn't find that user on Sudomemo."
+msgstr "このユーザーはスドメモでは見つかりませんでした。"
 
 # "Usage: example_command <fsid>"
 msgid "USAGE"
-msgstr "Usage"
+msgstr "使い方"
 
 # ONLY TRANSLATE: "usage", "commands"
 msgid "USAGE_INTRO"
 msgstr ""
-"usage: .sudo ...\n"
+"使い方: .sudo ...\n"
 "\n"
-"commands:"
+"コマンド:"
 
 # ONLY TRANSLATE: "Give Nitro Booster ticket..." and "Flipnote Studio ID"
 msgid "USAGE_give_plus"
 msgstr ""
 "   give_plus <FSID>\n"
-"      Give Nitro Booster ticket (1 month of Sudomemo Plus and a Trophy).\n"
-"      <FSID>: Flipnote Studio ID"
+"      ニトロブースターチケット (1ヵ月間のスドメモプラスとトロフィー)をプレゼント。\n"
+"      <FSID>: うごメモID"
 
 msgid "USAGE_link"
 msgstr ""
 "   link\n"
-"      Link your Sudomemo account to Discord"
+"      スドメモアカウントとDiscordアカウントを紐付けする"
 
 # ONLY TRANSLATE "Search Sudomemo MusicMatch" and "What you're searching for"
 msgid "USAGE_musicmatch"
 msgstr ""
 "   mm, musicmatch <mode> <query>\n"
-"      Search Sudomemo MusicMatch\n"
+"      スドメモMusicMatchで探す\n"
 "      <mode>: song, artist, genre\n"
-"      <query>: What you're searching for"
+"      <query>: 検索対象名"

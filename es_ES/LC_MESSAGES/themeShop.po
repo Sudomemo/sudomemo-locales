@@ -4,22 +4,22 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "THEME_SHOP_LOGIN_REQUIRED"
-msgstr "Debes haber iniciado sesión para accesar a la Tienda de Temas"
+msgstr "Debes haber iniciado sesión para accesar a la Tienda de Fondos"
 
 msgid "THEME_SHOP_MAINPAGE_HEADER"
-msgstr "¡Aquí en la Tienda de Temas puedes comprar nuevos temas para tu Sala del Creador!"
+msgstr "¡Aquí en la Tienda de Fondos puedes comprar nuevos fondos para tu Sala del Creador!"
 
 msgid "THEME_SHOP_LEARN_MORE_HEADER"
-msgstr "Aprende más acerca de la Tienda de Temas"
+msgstr "Aprende más acerca de la Tienda de Fondos"
 
 msgid "THEME_SHOP_REPORT_ISSUES_HEADER"
-msgstr "Presiona este link para reportar un tema que no esté funcionando correctamente."
+msgstr "Presiona este link para reportar un fondo que no esté funcionando correctamente."
 
 msgid "THEME_SHOP_MAINPAGE_EXCHANGE_COST_FORMAT"
 msgstr "Intercambia por %d Estrellas Verdes"
 
 msgid "THEME_SHOP_MAINPAGE_FREE_STARTER_THEMES"
-msgstr "Temas de Inicio Gratis"
+msgstr "Fondos de Inicio Gratis"
 
 msgid "CONGRATULATIONS"
 msgstr "¡Felicidades!"
@@ -34,13 +34,13 @@ msgid "BUY"
 msgstr "Comprar"
 
 msgid "THEME"
-msgstr "Tema"
+msgstr "Fondo"
 
 msgid "PRICE"
 msgstr "Precio"
 
 msgid "CREATOR"
-msgstr "Creador"
+msgstr "Creador(a)"
 
 msgid "DESCRIPTION"
 msgstr "Descripción"
@@ -73,19 +73,19 @@ msgid "THEME_SHOP_SELECTED_PAYMENT"
 msgstr "Pago seleccionado"
 
 msgid "THEME_SHOP_STAR_BALANCE_TOO_LOW"
-msgstr "Lo siento, no tienes suficientes Estrellas Verdes para comprar este tema."
+msgstr "Lo siento, no tienes suficientes Estrellas Verdes para comprar este fondo."
 
 msgid "THEME_SHOP_CHOOSE_CAREFULLY_BEFORE_BUYING"
 msgstr "¡Todas las compras son permanentes, por favor elige con cuidado antes de comprar!"
 
 msgid "THEME_SHOP_YOU_OWN_THIS_THEME"
-msgstr "Ya tienes este tema."
+msgstr "Ya tienes este fondo."
 
 msgid "THEME_SHOP_PUBLIC_THEME"
-msgstr "Todos los usuarios tienen acceso a este tema de forma gratuita."
+msgstr "Todos los usuarios tienen acceso a este fondo de forma gratuita."
 
 msgid "THEME_SHOP_OWNED_THEME_TRANSACTION_FORMAT"
-msgstr "Compraste este tema el %s por %d Estrellas Verdes."
+msgstr "Compraste este fondo el %s por %d Estrellas Verdes."
 
 msgid "THEME_SHOP_CONFIRM_PURCHASE_BELOW"
 msgstr "Por favor confirma tu compra debajo."
@@ -94,7 +94,7 @@ msgid "THEME_SHOP_STARS_LEFT_AFTER_PAYMENT"
 msgstr "Estrellas de Color restantes después del pago:"
 
 msgid "THEME_SHOP_POST_PURCHASE"
-msgstr "¡Tu compra ha sido exitosa! Ve a la sección \"Mis Temas\" en tu Sala del Creador para seleccionarlo."
+msgstr "¡Tu compra ha sido exitosa! Ve a la sección \"Mis Fondos\" en tu Sala del Creador para seleccionarlo."
 
 msgid "NAVIGATION_PREVIOUS"
 msgstr "Anterior"
@@ -106,7 +106,7 @@ msgid "THEME_SHOP_SAMPLE_PROFILE"
 msgstr "Perfil de muestra"
 
 msgid "THEME_SHOP"
-msgstr "Tienda de Temas"
+msgstr "Tienda de Fondos"
 
 msgid "DETAILS"
 msgstr "Detalles"

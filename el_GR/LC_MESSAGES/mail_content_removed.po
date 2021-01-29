@@ -5,55 +5,55 @@ msgstr ""
 
 # Content Removed - sent to user when a piece of their content has been moderated away
 msgid "NOTICE"
-msgstr "Notice"
+msgstr "Ειδοποιηση"
 
 # # Intro
 msgid "USER_CONTENT_REMOVED"
-msgstr "Something you posted was found to be in violation of Sudomemo's Content Policy and Terms of Use, and has been removed."
+msgstr "Κατι  το  οποιο  ανεβασατε  φαινεται  οτι παραβιαζει την Πολιτικη  Περιεχομενου και  τους  Ορους  Χρησης του Sudomemo, και  εχει  αφεραιθει."
 
 # # Content types
 msgid "CONTENT_TYPE_flipnote"
 msgstr "Flipnote"
 
 msgid "CONTENT_TYPE_comment"
-msgstr "Comment"
+msgstr "Σχολιο"
 
 msgid "CONTENT_TYPE_chat_message"
-msgstr "Chat message"
+msgstr "Μηνυμα τσατ"
 
 # ## We plan on adding user-created themes.
 msgid "CONTENT_TYPE_room_theme"
-msgstr "Creator's Room theme"
+msgstr "Θεμα  Δωματιου  Χρηστη"
 
 msgid "CONTENT_TYPE_profile_bio"
-msgstr "Profile text"
+msgstr "Κειμενο  Προφιλ"
 
 # ## Catch-all
 msgid "CONTENT_TYPE_content"
-msgstr "Other content"
+msgstr "Αλλο"
 
 # # continued message...
 msgid "REMOVAL_REASON_HEADER"
-msgstr "This content has been removed due to one or more of the following reasons:"
+msgstr "Το ακολουθο  περιεχομενο  εχει  αφεραιθει  για  εναν  η παραπανω  απο  τους  παρακατω  λογους:"
 
 msgid "CONTENT_POLICY_REVIEW_INTRO"
-msgstr "We understand that when content policies meet artistic expression, context and presentation must be taken into consideration."
+msgstr "Κατανοουμε  οτι  οταν  οι  πολιτικες  περιεχομενου  συναντουν  την  καλλιτεχνικη  εκφραση, το  κοντεξτ  και  η παρουσιαση  πρεπει  να  λαμβανονται  υποψη."
 
 msgid "CONTENT_POLICY_REVIEW_LINK"
-msgstr "We'd like to encourage you to review our Content Policy here:"
+msgstr "Θα θελαμε  να  σας  ωθησουμε  να  ξαναδιαβασετε  την  Πολιτικη  Περιεχομενου  μας  εδω:"
 
 msgid "HOW_TO_APPEAL"
-msgstr "If you believe this to be in error, you can learn how to submit an appeal at:"
+msgstr "Εαν  πιστευετε  οτι  εγινε  λαθος, μπορειτε  να  μαθετε  πως  να  κανετε  εφεση  εδω:"
 
 msgid "CONTENT_TYPE"
-msgstr "Content type:"
+msgstr "Ειδος  περιεχομενου:"
 
 msgid "CONTENT_ID"
-msgstr "Content ID:"
+msgstr "ID Περιεχομενου:"
 
 # # re-download will be made available for certain content types
 msgid "REDOWNLOAD_HEADER"
-msgstr "If you would like to revise your %s, you may download it %s"
+msgstr "Εαν  θελετε  να  επανεξετασετε  το %s, μπορειτε  να  το  κατεβασετε %s"
 
 msgid "REDOWNLOAD_LINK"
-msgstr "here"
+msgstr "εδω"
