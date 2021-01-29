@@ -4,42 +4,42 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "HEADER_SONG_DETAILS"
-msgstr "Song Details"
+msgstr "Λεπτομερειες Τραγουδιου"
 
 # Song Name
 msgid "TITLE"
-msgstr "Title"
+msgstr "Τιτλος"
 
 # Song Band/Artist
 msgid "ARTIST"
-msgstr "Artist"
+msgstr "Καλλιτεχνης"
 
 # Year song was published
 msgid "RELEASE_YEAR"
-msgstr "Released"
+msgstr "Κυκλοφορια"
 
 msgid "GENRE"
-msgstr "Genre"
+msgstr "Ειδος"
 
 # How many Flipnotes are using this song?
 msgid "FLIPNOTE_COUNT"
 msgstr "Flipnotes"
 
 msgid "BROWSE"
-msgstr "Browse"
+msgstr "Χαζεψτε"
 
 msgid "SONG_ID"
-msgstr "Song ID"
+msgstr "ID Τραγουδιου"
 
 msgid "LINK_YOUTUBE_SPOTIFY"
-msgstr "YouTube and Spotify links are available:"
+msgstr "Διαθεσιμα λινκ για YouTube και Spotify:"
 
 msgid "LINK_YOUTUBE"
-msgstr "A YouTube link is available here:"
+msgstr "Διαθεσιμο  λινκ  για YouTube:"
 
 msgid "LINK_SPOTIFY"
-msgstr "A Spotify link is available here:"
+msgstr "Διαθεσιμο λινκ για Spotify:"
 
 # Creator instructions
 msgid "IF_SONG_INCORRECT"
-msgstr "If an incorrect song is shown on your Flipnote, you can update it on Sudomemo Theatre. To learn more, visit: https://flipnot.es/musicmatch"
+msgstr "Εαν  φανει  λαθος  τραγουδι  στο Flipnote, μπορειτε  να  κανετε  ενημερωση  στο Sudomemo Theatre. Για  να  μαθετε  περισσοτερα,  επισκεφτειτε: https://flipnot.es/musicmatch"

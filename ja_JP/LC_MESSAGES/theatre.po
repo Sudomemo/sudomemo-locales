@@ -853,7 +853,7 @@ msgid "YOUTUBE_UNLINK_ACCOUNT"
 msgstr "アカウントの連携を解除する"
 
 msgid "YOUTUBE_UNLINK_ACCOUNT_CONFIRM"
-msgstr "YouTubeチャンネルとの連携を削除してもよろしいですか？"
+msgstr "YouTubeチャンネルとの連携を解除してもよろしいですか？"
 
 msgid "YOUTUBE_UPLOAD_HISTORY"
 msgstr "アップロード履歴"
@@ -863,19 +863,19 @@ msgstr "左側のステータスアイコンをクリックして、動画のラ
 
 # We may need to limit uploads per day depending on our API quota usage rate
 msgid "YOUTUBE_UPLOAD_LIMIT"
-msgstr "現在、1日につき%s本の動画をYouTubeにアップロードすることができます。"
+msgstr "現在、1日あたり%s本まで動画をYouTubeにアップロードすることができます。"
 
 msgid "YOUTUBE_UPLOAD_LIMIT_CURRENT"
-msgstr "今日までに%s本の動画をアップロードしました。"
+msgstr "今日までに%s本動画をアップロードしました。"
 
 msgid "YOUTUBE_UPLOAD_LIMIT_EXCEEDED"
 msgstr "これ以上動画をアップロードできません。明日までお待ちください。"
 
 msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_LIMIT_NOTE"
-msgstr "スドメモPlusのメンバーは1日につき%s本の動画をアップロードすることができます。"
+msgstr "スドメモPlusユーザーは1日に%s本まで動画をアップロードすることができます。"
 
 msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_UNLIMITED_NOTE"
-msgstr "スドメモPlusメンバーは1日にアップロードできる動画の数の制限がありません。"
+msgstr "スドメモPlusユーザーは1日にアップロードできる動画の本数に制限はありません。"
 
 msgid "YOUTUBE_VISIBILITY"
 msgstr "公開範囲"
@@ -890,35 +890,35 @@ msgid "YOUTUBE_VISIBILITY_UNLISTED"
 msgstr "限定公開"
 
 msgid "YOUTUBE_WATCH_NOW_AT"
-msgstr "今見る:"
+msgstr "今すぐ見る:"
 
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "編集中"
 
 msgid "VERIFIED_USER"
-msgstr "Verified User"
+msgstr "確認済みユーザー"
 
 msgid "SHARE_ON_WHATSAPP"
-msgstr "Share via WhatsApp"
+msgstr "WhatsApp経由で共有"
+
 # This refers to Discord, which is a chat app.
 msgid "DISCORD"
 msgstr "Discord"
 
 msgid "DISCORD_HOW_TO_LINK"
-msgstr "How to Link"
+msgstr "紐付け方法"
 
 msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
-msgstr "After you've joined the Sudomemo Discord, copy and paste this into the chat."
+msgstr "スドメモのDiscordに参加したら、以下のコマンドをコピーしてチャットに送信してください。"
 
 # Connected since December 27th, 2020
 msgid "DISCORD_LINKED_ON_DATE"
-msgstr "Connected since %s"
+msgstr "%sから接続"
 
 # Do not translate ".sudo unlink"
 msgid "HOW_TO_UNLINK_DISCORD"
-msgstr "To unlink your Discord account, type this command into chat: .sudo unlink"
-
+msgstr "Discordアカウントとの紐付けを解除したい場合は以下のコマンドをチャットに送信してください: .sudo unlink"
 
 msgid "BTN_JOIN_DISCORD"
-msgstr "Join Discord"
+msgstr "Discordに参加する"

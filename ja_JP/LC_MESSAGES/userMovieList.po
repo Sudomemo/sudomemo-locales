@@ -4,10 +4,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "FAVORITES_FEED_FORMAT"
-msgstr "%sのお気に入り"
+msgstr "%sさんのお気に入り作者"
 
 msgid "FLIPNOTES_BY_FORMAT"
-msgstr "%sのメモ"
+msgstr "%sさんが投稿した作品"
 
 msgid "NEXT"
 msgstr "次へ"
@@ -22,7 +22,7 @@ msgid "PREV"
 msgstr "前へ"
 
 msgid "STARRED_BY_FORMAT"
-msgstr "%sがスターをつけました"
+msgstr "%sさんが★をつけた作品"
 
 msgid "UPPERTITLE"
-msgstr "閲覧する"
+msgstr "見る"

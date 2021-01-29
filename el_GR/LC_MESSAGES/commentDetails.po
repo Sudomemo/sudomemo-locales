@@ -4,43 +4,43 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "COMMENT_DETAILS"
-msgstr "Comment Details"
+msgstr "Λεπτομεριες Σχολιου"
 
 msgid "MESSAGE_DETAILS"
-msgstr "Message Details"
+msgstr "Λεπτομεριες μηνυματος"
 
 msgid "AUTHOR"
-msgstr "Author"
+msgstr "Συγγραφεας"
 
 msgid "COMMENT_BY_FORMAT"
-msgstr "Comment by %s"
+msgstr "Σχολιο του χρηστη %s"
 
 msgid "CHAT_MESSAGE_FROM_FORMAT"
-msgstr "Chat Message from %s"
+msgstr "Μηνυμα τσατ του χρηστη %s"
 
 msgid "MESSAGE_FROM_FORMAT"
-msgstr "Message from %s"
+msgstr "Μηνυμα απο τον χρηστη %s"
 
 msgid "FLIPNOTE_BY_FORMAT"
-msgstr "Flipnote by %s"
+msgstr "Flipnote του χρηστη %s"
 
 msgid "COMMENT_ID"
-msgstr "Comment ID"
+msgstr "ID Σχολιου"
 
 msgid "MESSAGE_ID"
-msgstr "Message ID"
+msgstr "ID Μηνυματος"
 
 msgid "CHAT_COMMENT_ID"
-msgstr "Chat Comment ID"
+msgstr "ID Μηνυματος Τσατ"
 
 msgid "TIMESTAMP"
-msgstr "Timestamp"
+msgstr "Σημανση Χρονου"
 
 msgid "POSTED_TO"
-msgstr "Posted to"
+msgstr "Δημοσιευμενο στο"
 
 msgid "PRIVATE_CONVERSATION"
-msgstr "Private Conversation"
+msgstr "Ιδιωτικη Συνομιλια"
 
 msgid "REPORT_CONTENT"
-msgstr "Report Content"
+msgstr "Αναφορα Περιεχομενου"
