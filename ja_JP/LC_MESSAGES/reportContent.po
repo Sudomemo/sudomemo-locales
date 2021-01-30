@@ -13,7 +13,7 @@ msgid "CATEGORY_DESC_harassment"
 msgstr "いじめ、差別、嫌がらせ、名誉毀損"
 
 msgid "CATEGORY_DESC_misplaced_rp"
-msgstr "ロールプレイチャンネル以外に投稿されたロールプレイ"
+msgstr "ロールプレイチャンネル以外に投稿されたロールプレイ作品"
 
 msgid "CATEGORY_DESC_rapid_flashing"
 msgstr "1秒間に4回以上の点滅"
@@ -43,7 +43,7 @@ msgid "CATEGORY_NAME_harassment"
 msgstr "嫌がらせ"
 
 msgid "CATEGORY_NAME_misplaced_rp"
-msgstr "RPの置き忘れ"
+msgstr "場違いなロールプレイ作品"
 
 msgid "CATEGORY_NAME_rapid_flashing"
 msgstr "激しい点滅"
