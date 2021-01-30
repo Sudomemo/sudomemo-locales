@@ -36,7 +36,7 @@ msgstr "通知"
 
 # # Intro
 msgid "REPORT_ACCEPTED"
-msgstr "送信されたコンテンツレポートを確認し、レポートは有効であると判断しました。"
+msgstr "送信されたコンテンツレポートを確認し、レポートは有効であると判断されました。"
 
 # # continued message...
 msgid "REPORT_ACCEPTED_CONTINUED"
