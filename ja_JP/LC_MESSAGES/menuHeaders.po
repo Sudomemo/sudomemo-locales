@@ -4,10 +4,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "ABOUT_SUDOMEMO"
-msgstr "スドメモ情報"
+msgstr "スドメモについて"
 
 msgid "CATEGORIES"
-msgstr "カテゴリ"
+msgstr "カテゴリー"
 
 msgid "CHANNELS"
 msgstr "チャンネル"
@@ -22,7 +22,7 @@ msgid "FEATURED"
 msgstr "おすすめ作品"
 
 msgid "GET_STARTED"
-msgstr "行きましょう!"
+msgstr "始めよう!"
 
 msgid "HELP"
 msgstr "ヘルプ"
