@@ -13,7 +13,7 @@ msgid "BAN_NOTICE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
 msgstr "Discordまたは%sのメールでご連絡ください。"
 
 msgid "BAN_NOTICE_PLEASE_READ_BAN_LETTER"
-msgstr "詳細については、お送りしたメッセージをご覧ください。"
+msgstr "詳細については、送信されたメッセージをご確認ください。"
 
 msgid "BAN_VIEW_MAIL"
 msgstr "スドメモのメールを見る"
