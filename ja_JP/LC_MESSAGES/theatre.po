@@ -952,3 +952,6 @@ msgstr "No email address on file -- contact Sudomemo Support"
 msgid "PASSWORD_RESET_SENT"
 msgstr "A password reset has been sent to the email address on file."
 
+
+msgid "FORGOT_YOUR_PASSWORD"
+msgstr "Forgot your password?"
