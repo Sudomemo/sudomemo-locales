@@ -853,7 +853,7 @@ msgid "YOUTUBE_UNLINK_ACCOUNT"
 msgstr "アカウントの連携を解除する"
 
 msgid "YOUTUBE_UNLINK_ACCOUNT_CONFIRM"
-msgstr "YouTubeチャンネルとの連携を削除してもよろしいですか？"
+msgstr "YouTubeチャンネルとの連携を解除してもよろしいですか？"
 
 msgid "YOUTUBE_UPLOAD_HISTORY"
 msgstr "アップロード履歴"
@@ -863,19 +863,19 @@ msgstr "左側のステータスアイコンをクリックして、動画のラ
 
 # We may need to limit uploads per day depending on our API quota usage rate
 msgid "YOUTUBE_UPLOAD_LIMIT"
-msgstr "現在、1日につき%s本の動画をYouTubeにアップロードすることができます。"
+msgstr "現在、1日あたり%s本まで動画をYouTubeにアップロードすることができます。"
 
 msgid "YOUTUBE_UPLOAD_LIMIT_CURRENT"
-msgstr "今日までに%s本の動画をアップロードしました。"
+msgstr "今日までに%s本動画をアップロードしました。"
 
 msgid "YOUTUBE_UPLOAD_LIMIT_EXCEEDED"
 msgstr "これ以上動画をアップロードできません。明日までお待ちください。"
 
 msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_LIMIT_NOTE"
-msgstr "スドメモPlusのメンバーは1日につき%s本の動画をアップロードすることができます。"
+msgstr "スドメモPlusユーザーは1日に%s本まで動画をアップロードすることができます。"
 
 msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_UNLIMITED_NOTE"
-msgstr "スドメモPlusメンバーは1日にアップロードできる動画の数の制限がありません。"
+msgstr "スドメモPlusユーザーは1日にアップロードできる動画の本数に制限はありません。"
 
 msgid "YOUTUBE_VISIBILITY"
 msgstr "公開範囲"
@@ -890,7 +890,7 @@ msgid "YOUTUBE_VISIBILITY_UNLISTED"
 msgstr "限定公開"
 
 msgid "YOUTUBE_WATCH_NOW_AT"
-msgstr "今見る:"
+msgstr "今すぐ見る:"
 
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
@@ -901,15 +901,16 @@ msgstr "確認済みユーザー"
 
 msgid "SHARE_ON_WHATSAPP"
 msgstr "WhatsApp経由で共有"
+
 # This refers to Discord, which is a chat app.
 msgid "DISCORD"
 msgstr "Discord"
 
 msgid "DISCORD_HOW_TO_LINK"
-msgstr "リンク方法"
+msgstr "紐付け方法"
 
 msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
-msgstr "スドメモのDiscordに参加したら、これをコピーしてチャットに送信してください。"
+msgstr "スドメモのDiscordに参加したら、以下のコマンドをコピーしてチャットに送信してください。"
 
 # Connected since December 27th, 2020
 msgid "DISCORD_LINKED_ON_DATE"
@@ -917,8 +918,40 @@ msgstr "%sから接続"
 
 # Do not translate ".sudo unlink"
 msgid "HOW_TO_UNLINK_DISCORD"
-msgstr "アカウントとリンクを解除したい場合はこのコマンドをチャットに送信してください。: .sudo unlink"
-
+msgstr "Discordアカウントとの紐付けを解除したい場合は以下のコマンドをチャットに送信してください: .sudo unlink"
 
 msgid "BTN_JOIN_DISCORD"
 msgstr "Discordに参加する"
+
+msgid "PASS_CHANGE_PASSWORD"
+msgstr "Change Password"
+
+msgid "PASS_CHANGE_CONFIRM_PASSWORD"
+msgstr "Confirm Password"
+
+msgid "PASS_CHANGE_COMPLETE"
+msgstr "Your password has been updated."
+
+msgid "PASS_CHANGE_CONTINUE_TO_LOGIN"
+msgstr "Continue to login"
+
+msgid "HEADER_CHANGE_PASSWORD"
+msgstr "Change Password"
+
+msgid "PASS_CHANGE_URL_EXPIRED"
+msgstr "The URL you visited has expired."
+
+
+
+msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
+msgstr "No user found with that Flipnote Studio ID or email"
+
+msgid "NO_EMAIL_ON_FILE"
+msgstr "No email address on file -- contact Sudomemo Support"
+
+msgid "PASSWORD_RESET_SENT"
+msgstr "A password reset has been sent to the email address on file."
+
+
+msgid "FORGOT_YOUR_PASSWORD"
+msgstr "Forgot your password?"

@@ -41,3 +41,6 @@ msgstr "Bitte bestätige deine Email-Addresse vor dem Hochladen."
 
 msgid "NO_POSTS_WHILE_MUTED"
 msgstr "Du kannst nichts hochladen, solange du stummgeschalten bist."
+
+msgid "CATEGORY"
+msgstr "Kategorie"

@@ -922,6 +922,7 @@ msgstr "Verified User"
 
 msgid "SHARE_ON_WHATSAPP"
 msgstr "Share via WhatsApp"
+
 # This refers to Discord, which is a chat app.
 msgid "DISCORD"
 msgstr "Discord"
@@ -940,6 +941,38 @@ msgstr "Connected since %s"
 msgid "HOW_TO_UNLINK_DISCORD"
 msgstr "To unlink your Discord account, type this command into chat: .sudo unlink"
 
-
 msgid "BTN_JOIN_DISCORD"
 msgstr "Join Discord"
+
+msgid "PASS_CHANGE_PASSWORD"
+msgstr "Change Password"
+
+msgid "PASS_CHANGE_CONFIRM_PASSWORD"
+msgstr "Confirm Password"
+
+msgid "PASS_CHANGE_COMPLETE"
+msgstr "Your password has been updated."
+
+msgid "PASS_CHANGE_CONTINUE_TO_LOGIN"
+msgstr "Continue to login"
+
+msgid "HEADER_CHANGE_PASSWORD"
+msgstr "Change Password"
+
+msgid "PASS_CHANGE_URL_EXPIRED"
+msgstr "The URL you visited has expired."
+
+
+
+msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
+msgstr "No user found with that Flipnote Studio ID or email"
+
+msgid "NO_EMAIL_ON_FILE"
+msgstr "No email address on file -- contact Sudomemo Support"
+
+msgid "PASSWORD_RESET_SENT"
+msgstr "A password reset has been sent to the email address on file."
+
+
+msgid "FORGOT_YOUR_PASSWORD"
+msgstr "Forgot your password?"

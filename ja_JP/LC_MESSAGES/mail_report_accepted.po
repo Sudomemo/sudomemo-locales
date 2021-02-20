@@ -36,7 +36,7 @@ msgstr "通知"
 
 # # Intro
 msgid "REPORT_ACCEPTED"
-msgstr "送信されたコンテンツレポートを調査したところ、レポートは有効であるが判明しました。"
+msgstr "送信されたコンテンツレポートを確認し、レポートは有効であると判断されました。"
 
 # # continued message...
 msgid "REPORT_ACCEPTED_CONTINUED"
@@ -44,4 +44,4 @@ msgstr "そのため、コンテンツは削除されました。"
 
 # this message is followed by a link
 msgid "REPORT_ACCEPTED_INFO"
-msgstr "レポートはスドメモを誰にとっても安全で親しみやすい場所にすることに大変有効です。コンテンツポリシーの詳細については、こちらをご覧ください："
+msgstr "レポートはスドメモを誰にとっても安全で親しみやすい場所にするために大変有効です。コンテンツポリシーの詳細については、こちらをご覧ください："
