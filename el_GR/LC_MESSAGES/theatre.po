@@ -924,34 +924,34 @@ msgid "BTN_JOIN_DISCORD"
 msgstr "Μπειτε στο Discord"
 
 msgid "PASS_CHANGE_PASSWORD"
-msgstr "Change Password"
+msgstr "Αλλαγη Κωδικου"
 
 msgid "PASS_CHANGE_CONFIRM_PASSWORD"
-msgstr "Confirm Password"
+msgstr "Επιβεβαιωση Κωδικου"
 
 msgid "PASS_CHANGE_COMPLETE"
-msgstr "Your password has been updated."
+msgstr "Ο κωδικος σας ενημερωθηκε."
 
 msgid "PASS_CHANGE_CONTINUE_TO_LOGIN"
-msgstr "Continue to login"
+msgstr "Συνεχεια στην συνδεση"
 
 msgid "HEADER_CHANGE_PASSWORD"
-msgstr "Change Password"
+msgstr "Αλλαγη Κωδικου"
 
 msgid "PASS_CHANGE_URL_EXPIRED"
-msgstr "The URL you visited has expired."
+msgstr "Το URL που επισκευτηκατε εχει ληξει."
 
 
 
 msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
-msgstr "No user found with that Flipnote Studio ID or email"
+msgstr "Δεν βρεθηκε χρηστης με αυτο το Flipnote Studio ID η email"
 
 msgid "NO_EMAIL_ON_FILE"
-msgstr "No email address on file -- contact Sudomemo Support"
+msgstr "Δεν υπαρχει διευθυνση email στο αρχειο μας -- επικοινωνηστε με την Υποστηριξη Sudomemo"
 
 msgid "PASSWORD_RESET_SENT"
-msgstr "A password reset has been sent to the email address on file."
+msgstr "Εχει σταλει αλλαγη κωδικου στην διευθυνση email που διαθετουμε στο αρχειο μας."
 
 
 msgid "FORGOT_YOUR_PASSWORD"
-msgstr "Forgot your password?"
+msgstr "Ξεχασατε τον κωδικο σας;"
