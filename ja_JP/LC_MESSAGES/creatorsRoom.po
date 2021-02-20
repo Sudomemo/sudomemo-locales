@@ -40,7 +40,7 @@ msgid "BLOCK_COMMENTS_LINK"
 msgstr "ブロック"
 
 msgid "CAN_DRAW_TICKET_SUBTEXT"
-msgstr "レギュラーチケットを引くことができます！商品を獲得できるかも？"
+msgstr "レギュラーチケットを引くことができます！アイテムを獲得できるかも？"
 
 msgid "CHANGE_ROOM_THEME_LINK"
 msgstr "[テーマを変える]"
@@ -103,7 +103,7 @@ msgid "INVENTORY"
 msgstr "チケット一覧"
 
 msgid "LEAVE_BLANK_TO_RESET_BIO"
-msgstr "プロフィールをリセットする場合、送信するときにフォームを空白のままにしてください。"
+msgstr "プロフィールをリセットする場合はフォームを空白のまま送信してください。"
 
 msgid "LOGIN_REQUIRED_ACTION"
 msgstr "この機能を利用するにはログインする必要があります。"
@@ -175,7 +175,7 @@ msgid "THEMETEST_NOTICE"
 msgstr "お知らせ"
 
 msgid "THEMETEST_NOTICE_2"
-msgstr "お知らせ2"
+msgstr "お知らせ#2"
 
 msgid "THEMETEST_OK"
 msgstr "OK"
@@ -184,7 +184,7 @@ msgid "THEMETEST_SET_THEME"
 msgstr "このテーマを選択する"
 
 msgid "THEME_ERROR_THEME_NOT_OWNED"
-msgstr "あなたはそのテーマを所有していません。"
+msgstr "このテーマは所有していません。"
 
 msgid "THEME_SHOP"
 msgstr "テーマショップ"
