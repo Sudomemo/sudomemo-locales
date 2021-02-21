@@ -108,3 +108,7 @@ msgstr ""
 "      Αναζητηστε το Sudomemo MusicMatch\n"
 "      <mode>: song, artist, genre\n"
 "      <query>: Για τι πραγμα ψαχνετε;"
+
+# displayed as "💡 Link your Sudomemo account with `.sudo link`"
+msgid "UNLINKED_COMMAND_TIP"
+msgstr "Link your Sudomemo account with"
