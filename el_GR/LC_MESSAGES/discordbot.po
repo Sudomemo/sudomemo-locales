@@ -14,19 +14,19 @@ msgstr "Δωθηκε στον χρηστη %s ενα Nitro Booster Ticket, αν�
 
 # Account linking
 msgid "DISCORD_LINKING_GET_STARTED"
-msgstr "παρακαλω επισκεφτειτε %s για να ξεκινησετε!"
+msgstr "Παρακαλω επισκεφτειτε %s για να ξεκινησετε!"
 
 msgid "DISCORD_LINKING_REQUIRED"
-msgstr "θα χρειαστειτε να συνδεσετε τον λογαριασμο σας στο  Sudomemo για να το κανετε αυτο."
+msgstr "Θα χρειαστειτε να συνδεσετε τον λογαριασμο σας στο  Sudomemo για να το κανετε αυτο."
 
 msgid "DISCORD_LINKING_SUCCESS"
-msgstr "ο λογαριασμος σας συνδεθηκε με επιτυχια!"
+msgstr "Ο λογαριασμος σας συνδεθηκε με επιτυχια!"
 
 msgid "DISCORD_LINKING_UNLINKED"
-msgstr "ο συνδεσμος μεταξυ του λογαριασμου σας στο Discord και το Sudomemo αφαιρεθηκε."
+msgstr "Ο συνδεσμος μεταξυ του λογαριασμου σας στο Discord και το Sudomemo αφαιρεθηκε."
 
 msgid "DISCORD_LINKING_UNLINK_NOT_LINKED_YET"
-msgstr "ο λογαριασμος σας στο Discord δεν ειναι συνδεδεμενος με καποιον λογαριασμο στο Sudomemo."
+msgstr "Ο λογαριασμος σας στο Discord δεν ειναι συνδεδεμενος με καποιον λογαριασμο στο Sudomemo."
 
 # "Invalid mode - must be one of: song, artist, genre"
 msgid "MUSICMATCH_INVALID_MODE"
@@ -52,10 +52,10 @@ msgid "MUSICMATCH_TITLE_BY_ARTIST"
 msgstr "%s απο %s"
 
 msgid "REJECT_ACCOUNT_ALREADY_LINKED"
-msgstr "εχετε ηδη συνδεσει τον λογαριασμο σας στο Sudomemo!"
+msgstr "Εχετε ηδη συνδεσει τον λογαριασμο σας στο Sudomemo!"
 
 msgid "REJECT_BOOST_TICKET_COOLDOWN"
-msgstr "σας εχει ηδη δοθει ενα  Nitro Booster ticket εντος των τελευταιων 30 ημερων! (%s)"
+msgstr "You've already given a Nitro Booster ticket this month! (%s)"
 
 msgid "REJECT_FSID_ENOENT"
 msgstr "Δεν βρηκα χρηστη με αυτο το  Flipnote Studio ID στο Sudomemo."
@@ -64,16 +64,16 @@ msgid "REJECT_GENERIC_ERROR"
 msgstr "Βρηκα εμποδιο προσπαθωντας να το κανω αυτο. Συγγνωμη"
 
 msgid "REJECT_INVALID_FSID"
-msgstr "αυτο το Flipnote Studio ID δεν ειναι εγκυρο!"
+msgstr "Αυτο το Flipnote Studio ID δεν ειναι εγκυρο!"
 
 msgid "REJECT_INVALID_LINK_TOKEN"
-msgstr "αυτο το link token δεν ειναι εγκυρο! Παρακαλω επισκευτειτε το %s για να ξεκινησετε!"
+msgstr "Αυτο το link token δεν ειναι εγκυρο! Παρακαλω επισκευτειτε το %s για να ξεκινησετε!"
 
 msgid "REJECT_LINK_TOKEN_ENOENT"
-msgstr "το παραχωρημενο link token εχει ληξει η δεν υπαρχει."
+msgstr "Το παραχωρημενο link token εχει ληξει η δεν υπαρχει."
 
 msgid "REJECT_NOT_NITRO_BOOSTER"
-msgstr "πρεπει να ειστε Sudomemo Nitro Booster για να το χρησιμοποιησετε αυτο!"
+msgstr "Πρεπει να ειστε Sudomemo Nitro Booster για να το χρησιμοποιησετε αυτο!"
 
 msgid "REJECT_USER_ENOENT"
 msgstr "Δεν βρηκα αυτον τον χρηστη στο Sudomemo."
@@ -108,3 +108,7 @@ msgstr ""
 "      Αναζητηστε το Sudomemo MusicMatch\n"
 "      <mode>: song, artist, genre\n"
 "      <query>: Για τι πραγμα ψαχνετε;"
+
+# displayed as "💡 Link your Sudomemo account with `.sudo link`"
+msgid "UNLINKED_COMMAND_TIP"
+msgstr "Link your Sudomemo account with"
