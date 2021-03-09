@@ -14,19 +14,19 @@ msgstr "%s a reçu un ticket de Nitro Booster, utilisable pour obtenir un mois d
 
 # Account linking
 msgid "DISCORD_LINKING_GET_STARTED"
-msgstr "merci d'aller sur %s pour commencer !"
+msgstr "Merci d'aller sur %s pour commencer !"
 
 msgid "DISCORD_LINKING_REQUIRED"
-msgstr "vous devez lier votre compte Sudomemo pour faire cela."
+msgstr "Vous devez lier votre compte Sudomemo pour faire cela."
 
 msgid "DISCORD_LINKING_SUCCESS"
-msgstr "votre compte a été lié avec succès !"
+msgstr "Votre compte a été lié avec succès !"
 
 msgid "DISCORD_LINKING_UNLINKED"
-msgstr "le lien entre vos comptes Discord et Sudomemo a été supprimé."
+msgstr "Le lien entre vos comptes Discord et Sudomemo a été supprimé."
 
 msgid "DISCORD_LINKING_UNLINK_NOT_LINKED_YET"
-msgstr "votre compte Discord n'est pas lié à un compte Sudomemo."
+msgstr "Votre compte Discord n'est pas lié à un compte Sudomemo."
 
 # "Invalid mode - must be one of: song, artist, genre"
 msgid "MUSICMATCH_INVALID_MODE"
@@ -52,10 +52,10 @@ msgid "MUSICMATCH_TITLE_BY_ARTIST"
 msgstr "%s par %s"
 
 msgid "REJECT_ACCOUNT_ALREADY_LINKED"
-msgstr "vous avez déjà lié votre compte Sudomemo !"
+msgstr "Vous avez déjà lié votre compte Sudomemo !"
 
 msgid "REJECT_BOOST_TICKET_COOLDOWN"
-msgstr "vous avez déjà donné un ticket de Nitro Booster au cours des trente derniers jours ! (%s)"
+msgstr "You've already given a Nitro Booster ticket this month! (%s)"
 
 msgid "REJECT_FSID_ENOENT"
 msgstr "Je n'ai pas trouvé d'utilisateur avec cet ID Flipnote Studio sur Sudomemo."
@@ -64,16 +64,16 @@ msgid "REJECT_GENERIC_ERROR"
 msgstr "J'ai rencontré un problème en essayant de faire cela. Désolé !"
 
 msgid "REJECT_INVALID_FSID"
-msgstr "ce n'est pas un ID Flipnote Studio valide !"
+msgstr "Ce n'est pas un ID Flipnote Studio valide !"
 
 msgid "REJECT_INVALID_LINK_TOKEN"
-msgstr "ce n'est pas un jeton de lien valide ! Merci d'aller sur %s pour commencer !"
+msgstr "Ce n'est pas un jeton de lien valide ! Merci d'aller sur %s pour commencer !"
 
 msgid "REJECT_LINK_TOKEN_ENOENT"
-msgstr "le jeton de lien que vous avez fourni a expiré ou n'existe pas."
+msgstr "Le jeton de lien que vous avez fourni a expiré ou n'existe pas."
 
 msgid "REJECT_NOT_NITRO_BOOSTER"
-msgstr "vous devez être un Nitro Booster de Sudomemo pour utiliser cela !"
+msgstr "Vous devez être un Nitro Booster de Sudomemo pour utiliser cela !"
 
 msgid "REJECT_USER_ENOENT"
 msgstr "Je n'ai pas trouvé cet utilisateur sur Sudomemo."
@@ -108,3 +108,7 @@ msgstr ""
 "      Rechercher sur Sudomemo MusicMatch\n"
 "      <mode>: song, artist, genre\n"
 "      <query>: Ce que vous recherchez"
+
+# displayed as "💡 Link your Sudomemo account with `.sudo link`"
+msgid "UNLINKED_COMMAND_TIP"
+msgstr "Liez votre compte Sudomemo avec"
