@@ -9,7 +9,7 @@ msgid "TROPHY_CASE"
 msgstr "Vitrina de Trofeos"
 
 msgid "CASE_IS_EMPTY"
-msgstr "La Vitrina de Trofeos está vacia."
+msgstr "La Vitrina de Trofeos está vacía."
 
 msgid "ACHIEVEMENT_EARNED"
 msgstr "¡Logro Obtenido!"
@@ -22,10 +22,10 @@ msgid "TROPHY_NAME_demo_tester"
 msgstr "Probador Demo"
 
 msgid "TROPHY_DESC_demo_tester"
-msgstr "Participa en el Programa de Pruebas Demo de Sudomemo 2017"
+msgstr "Participó en el Programa de Pruebas Demo de Sudomemo 2017"
 
 msgid "TROPHY_NAME_early_adopter"
-msgstr "Miembro Fundador"
+msgstr "Miembro Veterano"
 
 msgid "TROPHY_DESC_early_adopter"
 msgstr "Unirse a Sudomemo durante nuestro primer mes de servicio."
@@ -49,22 +49,22 @@ msgid "TROPHY_DESC_ffotd"
 msgstr "Publica la primer Flipnote de ésta decada."
 
 msgid "TROPHY_NAME_fifth_bday_event"
-msgstr "Fiesta de Cumpleaños número 5 de Sudomemo."
+msgstr "Fiesta de Aniversario de sudomemo número 5."
 
 msgid "TROPHY_DESC_fifth_bday_event"
-msgstr "Atendiste la Fiesta de Cumpleaños número 5 de Sudomemo"
+msgstr "Atendiste al aniversario número 5 de Sudomemo"
 
 msgid "TROPHY_NAME_legacy_citizen"
-msgstr "Ciudadano legado"
+msgstr "Ciudadano con legado"
 
 msgid "TROPHY_DESC_legacy_citizen"
-msgstr "Tuviste Ciudadania de Sudomemo antes de convertirse en Plus."
+msgstr "Tuvo Ciudadania de Sudomemo antes de convertirse en Plus."
 
 msgid "TROPHY_NAME_meet_lazy_paisley"
 msgstr "Conoce a Lazy Paisley"
 
 msgid "TROPHY_DESC_meet_lazy_paisley"
-msgstr "Disfruta su simple vida. Y comida."
+msgstr "Disfruta su simple vida. Y la comida."
 
 msgid "TROPHY_NAME_meet_bailey_flitwing"
 msgstr "Conoce a Bailey Flitwing"
@@ -82,7 +82,7 @@ msgid "TROPHY_NAME_meet_russell_ramblewood"
 msgstr "Conoce a Russell Ramblewood"
 
 msgid "TROPHY_DESC_meet_russell_ramblewood"
-msgstr "El es extravagante a mas no poder, pero aun así quiere saber sobre tu día."
+msgstr "Él es extravagante a mas no poder, pero aun así quiere saber sobre tu día."
 
 msgid "TROPHY_NAME_meet_mitsuo_meow"
 msgstr "Conoce a Mitsuo Meow"
@@ -100,7 +100,7 @@ msgid "TROPHY_NAME_one_million_flips_event"
 msgstr "Evento Un Millon de Flipnotes"
 
 msgid "TROPHY_DESC_one_million_flips_event"
-msgstr "Atiende al Evento Un Millon de Flipnotes."
+msgstr "Atendió al Evento Un Millon de Flipnotes."
 
 msgid "TROPHY_NAME_translator"
 msgstr "Traductor"
@@ -115,7 +115,7 @@ msgid "TROPHY_DESC_weekly_topic_winner"
 msgstr "Envía una entrada ganadora a la Tematica Semanal de Sudomemo."
 
 msgid "TROPHY_NAME_folder"
-msgstr "Carpeta"
+msgstr "Donación"
 
 msgid "TROPHY_DESC_folder"
 msgstr "Dona tiempo libre computacional a Folding@Home para ayudar a combatir enfermedades."
@@ -127,7 +127,7 @@ msgid "TROPHY_DESC_colors_promo"
 msgstr "Uno de los ganadores de la temática en conjunto de Sudomemo x Colors, Into the Light."
 
 msgid "TROPHY_NAME_spookmaster"
-msgstr "Spookmaster"
+msgstr "Maestro del Susto"
 
 msgid "TROPHY_DESC_spookmaster"
 msgstr "Premio Spookmaster a la excelencia en Brujería y Hechicería."
@@ -136,7 +136,7 @@ msgid "TROPHY_NAME_nitro_booster"
 msgstr "Nitro Booster"
 
 msgid "TROPHY_DESC_nitro_booster"
-msgstr "Mostró lo geniales que eran ellos (o un amigo) al usar Boost en el Sudomemo Discord."
+msgstr "Mostró lo geniales que eran ellos (o un amigo) al usar Boost en el Discord de Sudomemo."
 
 msgid "TROPHY_NAME_7th_birthday_bash"
 msgstr "7mo Birthday Bash"
