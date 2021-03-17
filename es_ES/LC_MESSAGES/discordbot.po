@@ -14,13 +14,13 @@ msgstr "%s recibió un ticket de Nitro Booster, canjeable por un mes de Sudomemo
 
 # Account linking
 msgid "DISCORD_LINKING_GET_STARTED"
-msgstr "¡visita %s para empezar!"
+msgstr "¡Visita %s para empezar!"
 
 msgid "DISCORD_LINKING_REQUIRED"
 msgstr "Deberá enlazar su cuenta de Sudomemo para hacer eso."
 
 msgid "DISCORD_LINKING_SUCCESS"
-msgstr "¡su cuenta está vinculada!"
+msgstr "¡Su cuenta está vinculada!"
 
 msgid "DISCORD_LINKING_UNLINKED"
 msgstr "Se ha eliminado el vínculo entre su cuenta de Discord y Sudomemo."
@@ -52,7 +52,7 @@ msgid "MUSICMATCH_TITLE_BY_ARTIST"
 msgstr "%s por %s"
 
 msgid "REJECT_ACCOUNT_ALREADY_LINKED"
-msgstr "¡ya has vinculado tu cuenta de Sudomemo!"
+msgstr "¡Ya has vinculado tu cuenta de Sudomemo!"
 
 msgid "REJECT_BOOST_TICKET_COOLDOWN"
 msgstr "You've already given a Nitro Booster ticket this month! (%s)"
@@ -64,16 +64,16 @@ msgid "REJECT_GENERIC_ERROR"
 msgstr "Me encontré con un problema haciendo eso. ¡Perdón!"
 
 msgid "REJECT_INVALID_FSID"
-msgstr "¡eso no es un ID de Flipnote Studio válido!"
+msgstr "¡Eso no es un ID de Flipnote Studio válido!"
 
 msgid "REJECT_INVALID_LINK_TOKEN"
-msgstr "¡eso no es un token de enlace válido! ¡Por favor, visite %s para comenzar!"
+msgstr "¡Eso no es un token de enlace válido! ¡Por favor, visite %s para comenzar!"
 
 msgid "REJECT_LINK_TOKEN_ENOENT"
 msgstr "Este token de enlace caducó o no existe."
 
 msgid "REJECT_NOT_NITRO_BOOSTER"
-msgstr "¡necesitas ser un Sudomemo Nitro Booster para usar esto!"
+msgstr "¡Necesitas ser un Sudomemo Nitro Booster para usar esto!"
 
 msgid "REJECT_USER_ENOENT"
 msgstr "No encontré a ese usuario en Sudomemo."
@@ -111,4 +111,4 @@ msgstr ""
 
 # displayed as "💡 Link your Sudomemo account with `.sudo link`"
 msgid "UNLINKED_COMMAND_TIP"
-msgstr "Link your Sudomemo account with"
+msgstr "Vincula tu cuenta de Sudomemo con"

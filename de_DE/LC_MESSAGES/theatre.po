@@ -955,3 +955,6 @@ msgstr "Eine Passwort-Zurücksetzung wurde an die registrierte Email-Addresse ge
 
 msgid "FORGOT_YOUR_PASSWORD"
 msgstr "Passwort vergessen?"
+
+msgid "SUDOMEMO_USER"
+msgstr "Sudomemo User"

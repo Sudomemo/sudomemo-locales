@@ -13,13 +13,13 @@ msgid "AUTHOR"
 msgstr "Συγγραφεας"
 
 msgid "COMMENT_BY_FORMAT"
-msgstr "Σχολιο του χρηστη %s"
+msgstr "Σχολιο απο %s"
 
 msgid "CHAT_MESSAGE_FROM_FORMAT"
-msgstr "Μηνυμα τσατ του χρηστη %s"
+msgstr "Μηνυμα τσατ απο %s"
 
 msgid "MESSAGE_FROM_FORMAT"
-msgstr "Μηνυμα απο τον χρηστη %s"
+msgstr "Μηνυμα απο %s"
 
 msgid "FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote του χρηστη %s"
@@ -44,3 +44,16 @@ msgstr "Ιδιωτικη Συνομιλια"
 
 msgid "REPORT_CONTENT"
 msgstr "Αναφορα Περιεχομενου"
+
+msgid "COMMENT_HIDDEN_UNKNOWN"
+msgstr "Comment hidden due to request"
+
+msgid "COMMENT_HIDDEN_SELF"
+msgstr "Comment hidden by author"
+
+msgid "COMMENT_HIDDEN_RECIPIENT"
+msgstr "Comment hidden by Flipnote author"
+
+msgid "COMMENT_HIDDEN_MODERATOR"
+msgstr "Comment hidden by moderator"
+
