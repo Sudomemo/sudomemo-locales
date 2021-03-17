@@ -8,10 +8,10 @@ msgstr "Inbox"
 
 # this must be a max of 6 characters
 msgid "UNAUTHED_READ"
-msgstr "Read.."
+msgstr "Leggi.."
 
 msgid "PREV"
-msgstr "Prev"
+msgstr "Prec"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "Successivo"
