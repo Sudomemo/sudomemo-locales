@@ -4,19 +4,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "SET_PEN_COLOR"
-msgstr "Set Pen Color"
+msgstr "Imposta il colore della Penna"
 
 msgid "SET_PAPER_COLOR"
-msgstr "Set Paper Color"
+msgstr "Imposta il colore dello Sfondo"
 
 msgid "SELECT_A_COLOR"
-msgstr "Select a color."
+msgstr "Seleziona un colore."
 
 msgid "CURRENT_COLOR"
-msgstr "Current color:"
+msgstr "Colore attuale:"
 
 msgid "CURRENT_COLOR_DEFAULT"
-msgstr "Current color: default"
+msgstr "Colore attuale: predefinito"
 
 msgid "RETURN"
-msgstr "Return"
+msgstr "Ritorna"
