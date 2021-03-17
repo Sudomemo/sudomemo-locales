@@ -19,10 +19,10 @@ msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
 msgstr "Αυτο το Flipnote ειναι spin-off."
 
 msgid "HEADER_ORIGINAL_FLIPNOTE"
-msgstr "Δειτε το Flipnote πηγη εδω"
+msgstr "Δειτε το αρχικο Flipnote εδω"
 
 msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
-msgstr "Για την αποτροπη του star-begging, τα κιτρινα αστερια περιοριζονται σε 10 ανα Flipnote."
+msgstr "Για την αποτροπη της παρακλησης αστεριων, τα κιτρινα αστερια περιοριζονται σε 10 ανα Flipnote."
 
 msgid "HEADER_CREATOR"
 msgstr "Δημιουργοs"
@@ -55,13 +55,13 @@ msgid "HEADER_OPTIONS"
 msgstr "Ιδιοτητες"
 
 msgid "HEADER_SET_AS_PROFILE_PICTURE"
-msgstr "Βαλτε εικονα προφιλ"
+msgstr "Χρηση ως εικονα προφιλ"
 
 msgid "HEADER_REPORT_FLIPNOTE"
 msgstr "Αναφορα Flipnote"
 
 msgid "ADMIN_ACTIONS"
-msgstr "Ενεργειεs Admin"
+msgstr "Ενεργειεs διαχειριστη"
 
 msgid "PREV"
 msgstr "Προηγ"
@@ -82,7 +82,7 @@ msgid "40_CHARACTER_LIMIT"
 msgstr "Ο τιτλος σας περιοριζεται σε 40 χαρακτηρες."
 
 msgid "LEAVE_BLANK_TO_RESET"
-msgstr "Για να επαναφερετε τον τιτλο στην Προεπιλογη, αφηστε την φορμα κενη οταν την δηλωνετε."
+msgstr "Για να επαναφερετε τον τιτλο στην προεπιλογη, αφηστε την φορμα κενη οταν την δηλωνετε."
 
 msgid "ENTER_TITLE"
 msgstr "Προσθεστε τιτλο..."
@@ -103,10 +103,10 @@ msgid "101_CHARACTER_LIMIT_DESC"
 msgstr "Η περιγραφη σας περιοριζεται σε 101 χαρακτηρες."
 
 msgid "LEAVE_BLANK_TO_RESET_DESC"
-msgstr "Για  να αφαιρεσετε την περιγραφη, αφηστε την φορμα κενη οταν την δηλωνετε."
+msgstr "Για να αφαιρεσετε την περιγραφη, αφηστε την φορμα κενη οταν την δηλωνετε."
 
 msgid "ENTER_DESCRIPTION"
-msgstr "Συμπληρωστε περιγραφη..."
+msgstr "Εισάγετε περιγραφη..."
 
 msgid "HEADER_FLIPNOTE_OPTIONS"
 msgstr "Επιλογες"
@@ -116,7 +116,7 @@ msgstr "Τραγουδι"
 
 # This is shown to logged-in users on their own Flipnotes without titles
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
-msgstr "Χωρις Τιτλο Flipnote του χρηστη %s"
+msgstr "Ατιτλο Flipnote απο %s"
 
 msgid "HEADER_UPLOAD_TO_YOUTUBE"
 msgstr "Ανεβαστε στο YouTube"
