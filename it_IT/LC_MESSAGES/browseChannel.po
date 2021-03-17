@@ -7,10 +7,10 @@ msgid "UPPERTITLE"
 msgstr "Esplora canali"
 
 msgid "POST_FLIPNOTE"
-msgstr "Pubblica"
+msgstr "Pubblica Flipnote"
 
 msgid "NEXT"
-msgstr "Avanti"
+msgstr "Successivo"
 
 msgid "PREV"
 msgstr "Precedente"
@@ -25,13 +25,13 @@ msgid "SPINOFFS"
 msgstr "Spinoff"
 
 msgid "BROWSE_BY_SONG"
-msgstr "Browse by Song"
+msgstr "Cerca per Canzone"
 
 msgid "BROWSE_BY_ARTIST"
-msgstr "Browse by Artist"
+msgstr "Cerca per Artista"
 
 msgid "BROWSE_BY_ALBUM"
-msgstr "Browse by Album"
+msgstr "Cerca per Album"
 
 msgid "BROWSE_PLAYLIST"
-msgstr "Browse Playlist"
+msgstr "Cerca Playlist"
