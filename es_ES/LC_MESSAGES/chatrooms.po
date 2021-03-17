@@ -4,7 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "NO_COMMENTS_YET"
-msgstr "Ningún comentario ha sido publicado aún."
+msgstr "No hay comentarios."
 
 msgid "HEADER_COMMENTS"
 msgstr "Comentarios"
@@ -25,22 +25,22 @@ msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
 msgstr "Debes iniciar sesión para publicar un comentario."
 
 msgid "CHAT_REPLY_FAILED"
-msgstr "Ha ocurrido un error al publicar el comentario. Prueba de nuevo en un momento."
+msgstr "Ha ocurrido un error al publicar el comentario. Intenta de nuevo en unos momentos."
 
 msgid "NO_BLANK_MESSAGES_ALLOWED"
 msgstr "¡No puedes publicar un comentario vacio!"
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "Los datos de esta Flipnote estan corruptos. Prueba de nuevo en un momento."
+msgstr "Los datos de esta Flipnote estan dañados. Intenta de nuevo en un momento."
 
 msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
-msgstr "Usted ha sido muteado. No podrá publicar comentarios mientras esté muteado."
+msgstr "Has sido silenciado. No podrás publicar comentarios."
 
 msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "Este comentario ya ha sido publicado en Sudomemo."
+msgstr "Este comentario ya ha sido publicado."
 
 msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "Tu interacción al publicar un comentario ha sido restringida de Sudomemo."
+msgstr "Has sido restringido de publicar comentarios."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
 msgstr "Por favor, confirma tu correo antes de publicar."
