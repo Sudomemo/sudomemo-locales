@@ -4,10 +4,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "TEXT_CHANGE_SETTINGS_PROMPT"
-msgstr "Θελετε να επεξεργαστειτε τα email που λαμβανετε απο το Sudomemo;"
+msgstr "Θελετε να ρυθμισετε τα email που λαμβανετε απο το Sudomemo;"
 
 msgid "TEXT_HOW_TO_CHANGE_SETTINGS_DSI"
 msgstr "Μπορειτε ευκολα να τα ενημερωσετε πηγαινοντας στο Δωματιο Χρηστη σας και επιλεγοντας <strong>Ρυθμισεις Μειλ</strong>."
 
 msgid "TEXT_WEB_SETTINGS_CHANGE_FORMAT"
-msgstr "Η μπορειτε να τα επενεργοποιησετε πατωντας <a target=\"_blank\" href=\"%s\"><strong>εδω</strong></a>."
+msgstr "Η, μπορειτε να τα επενεργοποιησετε πατωντας <a target=\"_blank\" href=\"%s\"><strong>εδω</strong></a>."

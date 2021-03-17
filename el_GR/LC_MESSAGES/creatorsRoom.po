@@ -7,7 +7,7 @@ msgid "SEE_MORE"
 msgstr "Δειτε περισσοτερα..."
 
 msgid "STARRED_FLIPNOTES"
-msgstr "Flipnotes που εχου δωθει αστερια"
+msgstr "Flipnotes με αστερια"
 
 msgid "FAVORITE_USERS"
 msgstr "Αγαπημενοι Χρηστεs"
@@ -37,16 +37,16 @@ msgid "POSTED_CHATCOMMENTS"
 msgstr "Μηνυματα Τσατ"
 
 msgid "FEATURE_USABILITY"
-msgstr "Χρηση Feature"
+msgstr "Χρηστικοτητα Λειτουργιων"
 
 msgid "USABLE"
-msgstr "Διαθεσιμη"
+msgstr "Χρηστικη"
 
 msgid "NOT_USABLE"
-msgstr "Μη Διαθεσιμη"
+msgstr "Μη Χρηστικη"
 
 msgid "SUDOMEMO_THEATRE_URL"
-msgstr "Λινκ για το Sudomemo Theatre"
+msgstr "Συνδεσμος Sudomemo Theatre"
 
 msgid "FLIPNOTE_STUDIO_ID"
 msgstr "Flipnote Studio ID"
@@ -55,43 +55,43 @@ msgid "SETTINGS"
 msgstr "Ρυθμισειs"
 
 msgid "ADMIN_ACCT_GOOD_STANDING"
-msgstr "Μια χαρουλα"
+msgstr "Σε καλη κατασταση"
 
 msgid "ADMIN_ACCT_BANNED"
-msgstr "Banned"
+msgstr "Απαγορευμενοι"
 
 msgid "ADMIN_ACCT_BLOCKED"
 msgstr "Αποκλεισμενοι"
 
 msgid "ADMIN_ACCT_MUTED"
-msgstr "Mute"
+msgstr "Σε σιγαση"
 
 msgid "ADMIN_USER_DETAILS"
-msgstr "Λεπτομεριεs Χρηστη"
+msgstr "Λεπτομερειεs Χρηστη"
 
 msgid "ADMIN_LAST_SEEN"
-msgstr "Ιδομενος Τελευταια"
+msgstr "Τελευταια Εμφανιση"
 
 msgid "ADMIN_USER_STATUS"
-msgstr "Status Χρηστη"
+msgstr "Κατασταση Χρηστη"
 
 msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
-msgstr "Ενεργεια Admin"
+msgstr "Ενεργειες Διαχειριστη"
 
 msgid "BLOCK_COMMENTS_HEADER"
-msgstr "Block Σχολιων"
+msgstr "Αποκλεισμος Σχολιων"
 
 msgid "BLOCK_COMMENTS_LINK"
-msgstr "Block"
+msgstr "Αποκλεισμος"
 
 msgid "USABILITY_USABLE"
-msgstr "Διαθεσιμη"
+msgstr "Χρηστικη"
 
 msgid "USABILITY_NOT_USABLE"
-msgstr "Μη Διαθεσιμη"
+msgstr "Μη Χρηστικη"
 
 msgid "HEADER_FOLLOWERS"
-msgstr "Θαυμαστεs"
+msgstr "Ακολουθοι"
 
 msgid "HEADER_FOLLOWING"
 msgstr "Ακολουθει"
@@ -115,13 +115,13 @@ msgid "EXAMPLE"
 msgstr "Παραδειγμα"
 
 msgid "THEMETEST_SET_THEME"
-msgstr "Βαλτε Θεμα"
+msgstr "Επιλογη Θεματος"
 
 msgid "THEMETEST_NOTICE"
 msgstr "Ειδοποιηση"
 
 msgid "THEMETEST_OK"
-msgstr "Οκεικ"
+msgstr "Οκ"
 
 msgid "THEMETEST_ERROR"
 msgstr "Σφαλμα"
@@ -130,28 +130,28 @@ msgid "THEMETEST_NOTICE_2"
 msgstr "Ειδοποιηση #2"
 
 msgid "THEMETEST_ACTIVE_TAB"
-msgstr "Ενεργο tab"
+msgstr "Ενεργη καρτελα"
 
 msgid "THEMETEST_INACTIVE_TAB"
-msgstr "Ανενεργο tab"
+msgstr "Ανενεργη καρτελα"
 
 msgid "PREVIEW"
-msgstr "Preview"
+msgstr "Προεπισκοπηση"
 
 msgid "CREATORS_ROOM"
-msgstr "Δωματιο Χρηστη"
+msgstr "Δωματιο Δημιουργου"
 
 msgid "THEME_ERROR_THEME_NOT_OWNED"
-msgstr "Λυπουμαστε! Δεν εχετε το θεμα αυτο."
+msgstr "Λυπουμαστε! Δεν εχετε το αυτο το θεμα."
 
 msgid "THEME_SUCCESSFULLY_SET"
-msgstr "Το θεμα σας διοριστηκε με επιτυχια!"
+msgstr "Το θεμα σας επιλεχθηκε με επιτυχια!"
 
 msgid "BLOCKED_USERS"
 msgstr "Μπλοκαρισμενοι χρηστες"
 
 msgid "VIEW"
-msgstr "Δειτε"
+msgstr "Προβολη"
 
 msgid "FAN_COUNT_FORMAT"
 msgstr "Θαυμαστες: %s"
@@ -163,22 +163,22 @@ msgid "HEADER_MAIL_SETTINGS"
 msgstr "Ρυθμισεις Mail"
 
 msgid "HEADER_EDIT_BIOGRAPHY"
-msgstr "Επεξεργαστειτε την Βιογραφια σας"
+msgstr "Επεξεργασια Βιογραφιας"
 
 msgid "SET_BIO_INSTRUCTIONS"
 msgstr "Συμπληρωστε την βιογραφια του προφιλ σας παρακατω. Θα φαινεται στο Sudomemo και το Sudomemo Theatre."
 
 msgid "ENTER_BIO"
-msgstr "Συμπληρωστε Bio..."
+msgstr "Συμπληρωστε Βιογραφια..."
 
 msgid "101_CHARACTER_LIMIT_BIO"
-msgstr "Η βιογραφια σας περιοριζεται σε  101 χαρακτηρες."
+msgstr "Η βιογραφια σας περιοριζεται σε 101 χαρακτηρες."
 
 msgid "LEAVE_BLANK_TO_RESET_BIO"
 msgstr "Για να καθαρισετε την βιογραφια σας, αφηστε την φορμα κενη ενω την παραδιδετε."
 
 msgid "CURRENT_BIO"
-msgstr "Τρεχουσα Bio:"
+msgstr "Τρεχουσα Βιογραφια:"
 
 msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
 msgstr "Δεν μπορειτε να ακολουθησετε πανω απο  %d χρηστες."
@@ -193,16 +193,16 @@ msgid "DRAW_REGULAR_TICKET"
 msgstr "Τραβηξτε λαχνο"
 
 msgid "CAN_DRAW_TICKET_SUBTEXT"
-msgstr "Μπορειτε να τραβηξετε εναν κανονικο λαχνο! Ισως κερδισετε κατι~"
+msgstr "Μπορειτε να τραβηξετε εναν κανονικο λαχνο! Ισως κερδισετε κατι."
 
 msgid "INVENTORY"
-msgstr "Inventory"
+msgstr "Αποθεμα"
 
 msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
-msgstr "Μπορειτε να ξανατραβηξετε λαχνο σε: %s ωρα(ες) %s λεπτο(α)."
+msgstr "Μπορειτε να ξανατραβηξετε λαχνο σε: %s ωρα,-ες %s λεπτο,-α."
 
 msgid "REDEEM"
-msgstr "Εξαργυρωστε"
+msgstr "Εξαργυρωση"
 
 msgid "SPENDABLE_STARS"
 msgstr "Τα Αστερια σας"
