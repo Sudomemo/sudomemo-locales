@@ -34,7 +34,7 @@ msgid "LOGIN_SETUP"
 msgstr "Configurazione Login"
 
 msgid "WELCOME_BACK_FORMAT"
-msgstr "Bentornato/a, %s!"
+msgstr "Bentornato, %s!"
 
 msgid "RETURNING_USER_NEW_LOGIN_SYSTEM"
 msgstr "Dall'ultima volta che hai acceduto, abbiamo aggiunto un nuovo sistema di login -- ma non preoccuparti, tutti i tuoi dati ci sono ancora!"
@@ -43,7 +43,7 @@ msgid "RETURNING_USER_PLEASE_CREATE_PASSWORD"
 msgstr "Per cominciare, crea una nuova password qui sotto."
 
 msgid "NEW_USER_WELCOME_FORMAT"
-msgstr "Benvenuto/a su Sudomemo, %s!"
+msgstr "Benvenuto su Sudomemo, %s!"
 
 msgid "NEW_USER_PLEASE_CREATE_PASSWORD"
 msgstr "Crea una nuova password."
@@ -121,10 +121,10 @@ msgid "REGISTRATION_ERROR_PASSWORD_ALREADY_SET"
 msgstr "La password è già stata impostata."
 
 msgid "NEW_USER_THANKS_FOR_REGISTRATION"
-msgstr "Benvenuto/a su Sudomemo!"
+msgstr "Benvenuto su Sudomemo!"
 
 msgid "RETURNING_USER_THANKS_FOR_REGISTRATION"
-msgstr "Bentornato/a! Grazie per avere impostato le tue informazioni di accesso."
+msgstr "Bentornato! Grazie per avere impostato le tue informazioni di accesso."
 
 msgid "BUTTON_SIGN_IN_TO_SUDOMEMO"
 msgstr "Accedi a Sudomemo"
@@ -148,13 +148,13 @@ msgid "CONTACT_SUPPORT_EMAIL_FORMAT"
 msgstr "Per favore contatta %s."
 
 msgid "CREATORS_ROOM_SHIM_WELCOME"
-msgstr "Benvenuto/a!"
+msgstr "Benvenuto!"
 
 msgid "CREATORS_ROOM_SHIM_PLEASE_LOGIN"
-msgstr "Benvenuto/a su Sudomemo! Accedi per continuare."
+msgstr "Benvenuto su Sudomemo! Accedi per continuare."
 
 msgid "GUIDE_MAIN_MENU_SHORTCUT"
-msgstr "Puoi ritornare al menu principale tenendo premuto L (o R se sei mancino) e premendo il pulsante "Menu"."
+msgstr "Puoi ritornare al menu principale tenendo premuto L (o R se sei mancino) e premendo il pulsante \"Menu\"."
 
 msgid "SORRY_NO_LOGIN"
 msgstr "Scusa, ma non riusciamo a farti accedere!"
@@ -244,7 +244,7 @@ msgid "BUTTON_EDIT_EMAIL_ADDRESS"
 msgstr "Cambia indirizzo email"
 
 msgid "SEARCH_FOR_SENDER_EMAIL_FORMAT"
-msgstr "Non hai ricevuto l'email? Controlla la casella Spam, e cerca %s. Se è stata contrassegnata come Spam, assicurati di renderla "Non Spam"."
+msgstr "Non hai ricevuto l'email? Controlla la casella Spam, e cerca %s. Se è stata contrassegnata come Spam, assicurati di renderla \"Non Spam\"."
 
 msgid "NEW_USER_INTRO_POST_INTRO_CHANNEL"
 msgstr "Quando sei pronto, vai avanti e presentati nel nostro canale di Introduzioni, sotto la categoria Personale."
@@ -253,7 +253,7 @@ msgid "EMAIL_VERIFICATION_ADDRESS_REMOVED"
 msgstr "Scusaci! Abbiamo segnato l'indirizzo email come incorretto, quindi non dovresti più ricevere ulteriori email da Sudomemo."
 
 msgid "THANKS_FOR_LOGIN_PROMPT_INTRO"
-msgstr "Benvenuto/a su Sudomemo! Ora, scrivi un piccolo messaggio per dire chi sei! (Questo sarà postato come Flipnote nel nostro canale di Introduzioni.)"
+msgstr "Benvenuto su Sudomemo! Ora, scrivi un piccolo messaggio per dire chi sei! (Questo sarà postato come Flipnote nel nostro canale di Introduzioni.)"
 
 msgid "PLEASE_DISCONNECT_AND_RECONNECT"
 msgstr "E' stato riscontrato un errore. Per riprovare, disconnettiti e riconnettiti a Sudomemo."
