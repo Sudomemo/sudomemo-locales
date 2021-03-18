@@ -4,46 +4,46 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "NO_COMMENTS_YET"
-msgstr "No messages have been sent here."
+msgstr "Non sono stati inviati messaggi qui."
 
 msgid "HEADER_COMMENTS"
-msgstr "Comments"
+msgstr "Commenti"
 
 msgid "PAGE_FORMAT"
-msgstr "Page %d"
+msgstr "Pagina %d"
 
 msgid "HEADER_NEXT"
-msgstr "Next"
+msgstr "Successivo"
 
 msgid "HEADER_PREV"
-msgstr "Prev"
+msgstr "Precedente"
 
 msgid "HEADER_REFRESH"
-msgstr "Refresh"
+msgstr "Ricarica"
 
 msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
-msgstr "You must be logged in to post a chat message."
+msgstr "Devi effettuare l'accesso per inviare un messaggio in chat."
 
 msgid "CHAT_REPLY_FAILED"
-msgstr "Chat reply failed. Try again in a moment."
+msgstr "Invio della risposta fallito. Riprova tra un momento."
 
 msgid "NO_BLANK_MESSAGES_ALLOWED"
-msgstr "You cannot post a blank chat message."
+msgstr "Non puoi inviare un messaggio vuoto."
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "The Flipnote data is corrupted. Try again in a moment."
+msgstr "I dati del Flipnote sono danneggiati. Riprova tra un momento."
 
 msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
-msgstr "You have been muted. You may not chat."
+msgstr "Sei stato silenziato. Non puoi chattare."
 
 msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "This comment has already been posted to Sudomemo."
+msgstr "Questo commento è stato già postato su Sudomemo."
 
 msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "You have been restricted from interacting with Sudomemo."
+msgstr "Non puoi interagire con Sudomemo perchè sei stato bannato."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Please confirm your email before posting."
+msgstr "Per favore, conferma la tua email prima di postare."
 
 msgid "MODERATOR"
-msgstr "Moderator"
+msgstr "Moderatore"

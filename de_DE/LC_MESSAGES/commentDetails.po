@@ -44,3 +44,16 @@ msgstr "Private Konversation"
 
 msgid "REPORT_CONTENT"
 msgstr "Melden"
+
+msgid "COMMENT_HIDDEN_UNKNOWN"
+msgstr "Kommentar auf Nachfrage versteckt"
+
+msgid "COMMENT_HIDDEN_SELF"
+msgstr "Kommentar durch Absender versteckt"
+
+msgid "COMMENT_HIDDEN_RECIPIENT"
+msgstr "Kommentar durch Flipnote-Ersteller versteckt"
+
+msgid "COMMENT_HIDDEN_MODERATOR"
+msgstr "Kommentar durch Moderator versteckt"
+
