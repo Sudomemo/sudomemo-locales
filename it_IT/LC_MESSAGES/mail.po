@@ -6,36 +6,36 @@ msgstr ""
 # This contains common strings used for the general notification ("mail") system as well
 # Common
 msgid "LOGIN_FIRST_TO_ACCESS_MAIL"
-msgstr "You'll need to log back in before you can view this."
+msgstr "Devi accedere prima di poter visualizzare."
 
 msgid "CONTINUE"
-msgstr "Continue"
+msgstr "Continua"
 
 msgid "HEADER_INBOX"
 msgstr "Inbox"
 
 # this must be a max of 6 characters
 msgid "UNAUTHED_READ"
-msgstr "Read.."
+msgstr "Leggi."
 
 msgid "PREV"
-msgstr "Prev"
+msgstr "Prec"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "Successivo"
 
 # Titles
 msgid "TITLE_SPINOFF"
 msgstr "Spin-off"
 
 msgid "TITLE_WARNING"
-msgstr "Warning"
+msgstr "Attenzione"
 
 msgid "TITLE_NOTICE"
-msgstr "Notice"
+msgstr "Avviso"
 
 msgid "TITLE_MESSAGE"
-msgstr "Message"
+msgstr "Messaggio"
 
 msgid "TITLE_NEWS"
 msgstr "News"
@@ -45,4 +45,4 @@ msgstr "Info"
 
 # Not found
 msgid "MAIL_NOT_FOUND"
-msgstr "This message does not exist."
+msgstr "Questo messaggio non esiste."
