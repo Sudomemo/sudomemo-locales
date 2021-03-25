@@ -4,7 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "TIMESTAMP_FORMAT"
-msgstr "M d, Y H:i:s"
+msgstr "d M, Y H:i:s"
 
 msgid "FLIPNOTE_TITLE_FORMAT"
 msgstr "Flipnote di %s"
@@ -34,10 +34,10 @@ msgid "HEADER_VIEWS"
 msgstr "Visualizzazioni"
 
 msgid "HEADER_SPINOFFS"
-msgstr "Spin-offs"
+msgstr "Spin-off"
 
 msgid "HEADER_DOWNLOADS"
-msgstr "Downloads"
+msgstr "Download"
 
 msgid "HEADER_TITLE"
 msgstr "Titolo"
