@@ -4,10 +4,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "GET_STARTED"
-msgstr "Get Started"
+msgstr "Inizia"
 
 msgid "WATCH_FLIPNOTES"
-msgstr "guarda i Flipnote"
+msgstr "Guarda i Flipnote"
 
 msgid "CHANNELS"
 msgstr "Canali"
@@ -19,10 +19,10 @@ msgid "FEATURED"
 msgstr "In primo piano"
 
 msgid "HOT_FLIPNOTES"
-msgstr "Flipnote caldi"
+msgstr "Flipnote popolari"
 
 msgid "ABOUT_SUDOMEMO"
-msgstr "null"
+msgstr "Info su SUdomemo"
 
 msgid "CREATORS_ROOM"
 msgstr "Profilo"
@@ -37,10 +37,10 @@ msgid "SEARCH"
 msgstr "Ricerca"
 
 msgid "SEARCH_USER"
-msgstr "Cerca i Profili"
+msgstr "Cerca utente"
 
 msgid "SEARCH_FLIPNOTE"
-msgstr "Cerca i flipnote"
+msgstr "Cerca Flipnote"
 
 msgid "RELOAD_USER"
 msgstr "Aggiorna profilo"
@@ -55,13 +55,13 @@ msgid "REGISTER"
 msgstr "Registrati"
 
 msgid "THEME_SHOP"
-msgstr "Negozio Tema"
+msgstr "Negozio Temi"
 
 msgid "MAIL"
-msgstr "Poste"
+msgstr "Posta"
 
 msgid "TEST_TRANSLATION"
-msgstr "Traduzione italiano"
+msgstr "Traduzione italiana"
 
 msgid "HELP"
-msgstr "aiuto"
+msgstr "Aiuto"
