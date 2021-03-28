@@ -5,55 +5,55 @@ msgstr ""
 
 # Content Removed - sent to user when a piece of their content has been moderated away
 msgid "NOTICE"
-msgstr "Notice"
+msgstr "Avviso"
 
 # # Intro
 msgid "USER_CONTENT_REMOVED"
-msgstr "Something you posted was found to be in violation of Sudomemo's Content Policy and Terms of Use, and has been removed."
+msgstr "Un contenuto che hai postato riscontra una violazione alla Policy sul Contenuto e ai Termini di Utilizzo di Sudomemo, quindi è stato rimosso."
 
 # # Content types
 msgid "CONTENT_TYPE_flipnote"
 msgstr "Flipnote"
 
 msgid "CONTENT_TYPE_comment"
-msgstr "Comment"
+msgstr "Commento"
 
 msgid "CONTENT_TYPE_chat_message"
-msgstr "Chat message"
+msgstr "Messaggio chat"
 
 # ## We plan on adding user-created themes.
 msgid "CONTENT_TYPE_room_theme"
-msgstr "Creator's Room theme"
+msgstr "Tema Stanza Creatore"
 
 msgid "CONTENT_TYPE_profile_bio"
-msgstr "Profile text"
+msgstr "Biografia Profilo"
 
 # ## Catch-all
 msgid "CONTENT_TYPE_content"
-msgstr "Other content"
+msgstr "Altro contenuto"
 
 # # continued message...
 msgid "REMOVAL_REASON_HEADER"
-msgstr "This content has been removed due to one or more of the following reasons:"
+msgstr "Questo contenuto è stato rimosso a causa di uno più dei seguenti motivi:"
 
 msgid "CONTENT_POLICY_REVIEW_INTRO"
-msgstr "We understand that when content policies meet artistic expression, context and presentation must be taken into consideration."
+msgstr "Comprendiamo che quando le regole sul contenuto incontrano l'espressione artistica, il contesto e la presentazione devono essere presi in considerazione."
 
 msgid "CONTENT_POLICY_REVIEW_LINK"
-msgstr "We'd like to encourage you to review our Content Policy here:"
+msgstr "Vorremmo invitarti a rivedere la nostra Policy sul Contenuto qui:"
 
 msgid "HOW_TO_APPEAL"
-msgstr "If you believe this to be in error, you can learn how to submit an appeal at:"
+msgstr "Se credi che ci sia stato un errore, informati su come fare ricorso su:"
 
 msgid "CONTENT_TYPE"
-msgstr "Content type:"
+msgstr "Tipo del contenuto:"
 
 msgid "CONTENT_ID"
-msgstr "Content ID:"
+msgstr "ID contenuto:"
 
 # # re-download will be made available for certain content types
 msgid "REDOWNLOAD_HEADER"
-msgstr "If you would like to revise your %s, you may download it %s"
+msgstr "Se vuoi rivedere il tuo %s, scaricalo %s"
 
 msgid "REDOWNLOAD_LINK"
-msgstr "here"
+msgstr "qui"
