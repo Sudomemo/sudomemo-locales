@@ -924,37 +924,37 @@ msgid "BTN_JOIN_DISCORD"
 msgstr "Únete a Discord"
 
 msgid "PASS_CHANGE_PASSWORD"
-msgstr "Change Password"
+msgstr "Cambiar la contraseña"
 
 msgid "PASS_CHANGE_CONFIRM_PASSWORD"
-msgstr "Confirm Password"
+msgstr "Confirmar la contraseña"
 
 msgid "PASS_CHANGE_COMPLETE"
-msgstr "Your password has been updated."
+msgstr "Su contraseña ha sido actualizada"
 
 msgid "PASS_CHANGE_CONTINUE_TO_LOGIN"
-msgstr "Continue to login"
+msgstr "Continuar con el inicio de sesión"
 
 msgid "HEADER_CHANGE_PASSWORD"
-msgstr "Change Password"
+msgstr "Cambiar la contraseña"
 
 msgid "PASS_CHANGE_URL_EXPIRED"
-msgstr "The URL you visited has expired."
+msgstr "La URL que has visitado ha expirado."
 
 
 
 msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
-msgstr "No user found with that Flipnote Studio ID or email"
+msgstr "No se encontró ningún usuario con ese ID de Flipnote Studio o correo electrónico"
 
 msgid "NO_EMAIL_ON_FILE"
-msgstr "No email address on file -- contact Sudomemo Support"
+msgstr "No hay una dirección de correo electrónico registrada -- contáctenos por Sudomemo Support"
 
 msgid "PASSWORD_RESET_SENT"
-msgstr "A password reset has been sent to the email address on file."
+msgstr "Se ha enviado un correo electrónico de cambio de contraseña a la dirección de correo electrónico."
 
 
 msgid "FORGOT_YOUR_PASSWORD"
-msgstr "Forgot your password?"
+msgstr "¿Olvidó su contraseña?"
 
 msgid "SUDOMEMO_USER"
-msgstr "Sudomemo User"
+msgstr "Usuario de Sudomemo"
