@@ -4,7 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "HEADER_UPLOAD_TO_YOUTUBE"
-msgstr "Prześlij na YouTube"
+msgstr "Prześlij do YouTube"
 
 msgid "YOUTUBE"
 msgstr "YouTube"
@@ -162,7 +162,7 @@ msgid "OFF"
 msgstr "Off"
 
 msgid "YOUTUBE_TERMS_AGREEMENT_NOTE"
-msgstr "Przesyłając filmy na YouTube, zgadzasz się z Warunkami Korzystania i Wytycznych dla społeczności."
+msgstr "Przesyłając filmy do YouTube, zgadzasz się z Warunkami Korzystania i Wytycznych dla społeczności."
 
 # We may need to limit uploads per day depending on our API quota usage rate
 msgid "YOUTUBE_UPLOAD_LIMIT"
@@ -178,11 +178,11 @@ msgid "YOUTUBE_UPLOAD_LIMIT_CURRENT"
 msgstr "Dotąd przesłałeś %s filmów."
 
 msgid "YOUTUBE_UPLOAD_LIMIT_EXCEEDED"
-msgstr "Do jutra nie możesz przesyłac więcej filmów."
+msgstr "Do jutra nie możesz przesyłać więcej filmów."
 
 # If the user's already uploaded it...
 msgid "FLIPNOTE_ALREADY_UPLOADED"
-msgstr "Już przesłałeś/aś ten Flipnote na YouTube."
+msgstr "Już przesłałeś/aś ten Flipnote do YouTube."
 
 msgid "YOUTUBE_ID"
 msgstr "ID YouTube"
