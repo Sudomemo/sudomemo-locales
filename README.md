@@ -11,7 +11,7 @@ Translation Roundups are events where we work to get everything that's not trans
 
 Some things that are different during Roundups:
 
-- We will only be accepting complete translations, and they need to submitted in a **single Pull Request**. We suggest working on a single branch on your fork, but if you've created multiple branches, make sure to merge them into a single branch before submitting your PR.
+- We will only be accepting complete translations, and they need to be submitted in a **single Pull Request**. We suggest working on a single branch on your fork, but if you've created multiple branches, make sure to merge them into a single branch before submitting your PR.
 - A list of untranslated strings for your language can be found in the Issues list. If there are things that should not be translated, please list the `msgid`s in the details of your Pull Request so that we can add it to our ignore list.
 - Further details, including "claiming" a language for translation, can be found by reviewing the instructions for the Roundup.
 
@@ -72,7 +72,7 @@ Common languages:
 
 [A full list is available here](http://www.lingoes.net/en/translator/langcode.htm)
 
-If you have any question about which langcode to use, feel free to reach out to us on Discord (via SudoModMail) or on Twitter (`@sudomemo`).
+If you have any questions about which langcode to use, feel free to reach out to us on Discord (via SudoModMail) or on Twitter (`@sudomemo`).
 
 ## Thank You
 
