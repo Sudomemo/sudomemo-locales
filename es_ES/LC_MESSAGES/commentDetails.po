@@ -46,14 +46,13 @@ msgid "REPORT_CONTENT"
 msgstr "Reportar contenido"
 
 msgid "COMMENT_HIDDEN_UNKNOWN"
-msgstr "Comment hidden due to request"
+msgstr "Comentario oculto por petición"
 
 msgid "COMMENT_HIDDEN_SELF"
-msgstr "Comment hidden by author"
+msgstr "Comentario encubierto por el autor"
 
 msgid "COMMENT_HIDDEN_RECIPIENT"
-msgstr "Comment hidden by Flipnote author"
+msgstr "Comentario encubierto por el autor del Flipnote"
 
 msgid "COMMENT_HIDDEN_MODERATOR"
-msgstr "Comment hidden by moderator"
-
+msgstr "Comentario encubierto por un moderador"
