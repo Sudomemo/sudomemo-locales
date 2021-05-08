@@ -64,7 +64,7 @@ msgid "REJECT_GENERIC_ERROR"
 msgstr "Bei dieser Aktion trat ein Problem vor. Sorry!"
 
 msgid "REJECT_INVALID_FSID"
-msgstr "Dies ist keine gültige FLipnote Studio ID!"
+msgstr "Dies ist keine gültige Flipnote Studio ID!"
 
 msgid "REJECT_INVALID_LINK_TOKEN"
 msgstr "Dies ist kein gültiger Link-Token! Bitte besuche %s, um loszulegen!"
