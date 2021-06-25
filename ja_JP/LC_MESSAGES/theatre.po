@@ -924,37 +924,37 @@ msgid "BTN_JOIN_DISCORD"
 msgstr "Discordに参加する"
 
 msgid "PASS_CHANGE_PASSWORD"
-msgstr "Change Password"
+msgstr "パスワードを変更"
 
 msgid "PASS_CHANGE_CONFIRM_PASSWORD"
-msgstr "Confirm Password"
+msgstr "パスワードを確認"
 
 msgid "PASS_CHANGE_COMPLETE"
-msgstr "Your password has been updated."
+msgstr "パスワードが更新されました"
 
 msgid "PASS_CHANGE_CONTINUE_TO_LOGIN"
-msgstr "Continue to login"
+msgstr "ログインを続行"
 
 msgid "HEADER_CHANGE_PASSWORD"
-msgstr "Change Password"
+msgstr "パスワードを変更"
 
 msgid "PASS_CHANGE_URL_EXPIRED"
-msgstr "The URL you visited has expired."
+msgstr "リンクの有効期限が切れています"
 
 
 
 msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
-msgstr "No user found with that Flipnote Studio ID or email"
+msgstr "そのうごメモIDまたはメールアドレスで登録されているユーザーは見つかりませんでした"
 
 msgid "NO_EMAIL_ON_FILE"
-msgstr "No email address on file -- contact Sudomemo Support"
+msgstr "メールアドレスが見つかりません。スドメモのサポートにお問い合わせください"
 
 msgid "PASSWORD_RESET_SENT"
-msgstr "A password reset has been sent to the email address on file."
+msgstr "登録されているメールアドレスにパスワードのリセットの案内メールが送信されました"
 
 
 msgid "FORGOT_YOUR_PASSWORD"
-msgstr "Forgot your password?"
+msgstr "パスワードを忘れましたか？"
 
 msgid "SUDOMEMO_USER"
 msgstr "Sudomemo User"
