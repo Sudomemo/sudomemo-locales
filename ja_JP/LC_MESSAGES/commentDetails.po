@@ -46,14 +46,14 @@ msgid "TIMESTAMP"
 msgstr "投稿日時"
 
 msgid "COMMENT_HIDDEN_UNKNOWN"
-msgstr "Comment hidden due to request"
+msgstr "要請により非表示にされたコメント"
 
 msgid "COMMENT_HIDDEN_SELF"
-msgstr "Comment hidden by author"
+msgstr "作者により非表示にされたコメント"
 
 msgid "COMMENT_HIDDEN_RECIPIENT"
-msgstr "Comment hidden by Flipnote author"
+msgstr "作品作成者により非表示にされたコメント"
 
 msgid "COMMENT_HIDDEN_MODERATOR"
-msgstr "Comment hidden by moderator"
+msgstr "モデレーターによって非表示にされたコメント"
 
