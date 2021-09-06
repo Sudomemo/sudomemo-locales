@@ -16,7 +16,7 @@ msgstr "Posteingang"
 
 # this must be a max of 6 characters
 msgid "UNAUTHED_READ"
-msgstr "Lesen"
+msgstr "Login"
 
 msgid "PREV"
 msgstr "Zurück"
