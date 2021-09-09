@@ -4,46 +4,46 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "NO_COMMENTS_YET"
-msgstr "No messages have been sent here."
+msgstr "Nici un mesaj nu a fost trimis aici."
 
 msgid "HEADER_COMMENTS"
-msgstr "Comments"
+msgstr "Commentarii"
 
 msgid "PAGE_FORMAT"
-msgstr "Page %d"
+msgstr "Pagina %d"
 
 msgid "HEADER_NEXT"
-msgstr "Next"
+msgstr "Urm."
 
 msgid "HEADER_PREV"
-msgstr "Prev"
+msgstr "Ante."
 
 msgid "HEADER_REFRESH"
-msgstr "Refresh"
+msgstr "Reincarcati"
 
 msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
-msgstr "You must be logged in to post a chat message."
+msgstr "Trebuie sa fiti logat pentru a posta un mesaj in conversatie."
 
 msgid "CHAT_REPLY_FAILED"
-msgstr "Chat reply failed. Try again in a moment."
+msgstr "Raspuns esuat. Incercati din nou intr-un moment."
 
 msgid "NO_BLANK_MESSAGES_ALLOWED"
-msgstr "You cannot post a blank chat message."
+msgstr "Nu puteti posta un mesaj gol."
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "The Flipnote data is corrupted. Try again in a moment."
+msgstr "Datele Filpnote-ului sunt corupte. Incercati din nou intr-un moment."
 
 msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
-msgstr "You have been muted. You may not chat."
+msgstr "Ati fost pus pe mut. Nu puteti conversa."
 
 msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "This comment has already been posted to Sudomemo."
+msgstr "Acest comentariu a fost deja postat pe Sudomemo."
 
 msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "You have been restricted from interacting with Sudomemo."
+msgstr "Ati fost restrictionat din a interactiona cu Sudomemo."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Please confirm your email before posting."
+msgstr "Va rugam sa va confirmati emailul inainte de a posta."
 
 msgid "MODERATOR"
 msgstr "Moderator"
