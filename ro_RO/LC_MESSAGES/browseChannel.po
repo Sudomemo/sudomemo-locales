@@ -4,34 +4,34 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "UPPERTITLE"
-msgstr "Browse Channel"
+msgstr "Navigati Canal"
 
 msgid "POST_FLIPNOTE"
-msgstr "Post Flipnote"
+msgstr "Postati Flipnote"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "Urm."
 
 msgid "PREV"
-msgstr "Previous"
+msgstr "Inapoi"
 
 msgid "PAGE"
-msgstr "Page"
+msgstr "Pagina"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d of %d"
+msgstr "%d din %d"
 
 msgid "SPINOFFS"
-msgstr "Spinoffs"
+msgstr "Spinoff-uri"
 
 msgid "BROWSE_BY_SONG"
-msgstr "Browse by Song"
+msgstr "Cautati dupa Cantec"
 
 msgid "BROWSE_BY_ARTIST"
-msgstr "Browse by Artist"
+msgstr "Cautati dupa Artist"
 
 msgid "BROWSE_BY_ALBUM"
-msgstr "Browse by Album"
+msgstr "Cautati dupa Album"
 
 msgid "BROWSE_PLAYLIST"
-msgstr "Browse Playlist"
+msgstr "Cautati Playlist"
