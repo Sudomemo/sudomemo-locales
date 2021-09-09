@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Language: en_US\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "CHANGE_LANGUAGE"
+msgstr "Change Language"
+
+msgid "LANGUAGE_UPDATED_FORMAT"
+msgstr "Your language has been updated to %s."
+
+msgid "POTENTIAL_CONTRIBUTOR_NOTE"
+msgstr "Sudomemo relies on its community to provide accurate translations. If you see something that does not display correctly, is still in English, is a low-quality translation, or if you would like to add your own language, we invite you to contribute! Full and verified new translations can earn you extra days of Sudomemo Plus. You can do so here: "
+
+msgid "RETURN_TO_CREATORS_ROOM"
+msgstr "Return to Creator's Room"
+
+msgid "NOT_LOGGED_IN"
+msgstr "You must log in before changing your language."
+
+msgid "INVALID_LOCALE"
+msgstr "Sorry, but that language is not available."
