@@ -4,43 +4,43 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CHANNEL_NAME"
-msgstr "Channel Name"
+msgstr "Nume Canal"
 
 msgid "CHANNEL_INFORMATION"
-msgstr "Channel Information"
+msgstr "Informatii Canal"
 
 msgid "FLIPNOTES"
-msgstr "Flipnotes"
+msgstr "Flipnote-uri"
 
 msgid "CHANNEL_ID"
-msgstr "Channel ID"
+msgstr "ID Canal"
 
 msgid "LOGIN_REQUIRED_TO_POST"
-msgstr "You must be logged in to post a Flipnote."
+msgstr "Trebuie sa fiti logat pentru a posta Flipnote-uri."
 
 msgid "CHANNEL_NOT_SPECIFIED"
-msgstr "You must pick a channel."
+msgstr "Trebuie sa alegeti un Canal."
 
 msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
-msgstr "You've been restricted from using Sudomemo."
+msgstr "Ati fost restrictionat din a folosi Sudomemo."
 
 msgid "FLIPNOTE_POST_FAILED"
-msgstr "Flipnote upload failed. Try again in a moment."
+msgstr "Incarcarea Flipnote-ului a esuat. Incercati din nou intr-un moment."
 
 msgid "DUPLICATE_FLIPNOTE_FAILED"
-msgstr "This Flipnote has already been posted to Sudomemo. Try editing it again."
+msgstr "Acest Flipnote a fost deja postat pe Sudomemo. Incercati sa-l ediati din nou."
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "The Flipnote data is corrupted. Try again in a moment."
+msgstr "Datele Flipnote-ului sunt corupte. Incercati din nou intr-un moment."
 
 msgid "NO_BLANK_FLIPNOTES_ALLOWED"
-msgstr "You may not post an empty Flipnote."
+msgstr "nu puteti posta un Flipnote gol."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Please confirm your email before posting."
+msgstr "Va rugam sa va confirmati emailul inainte de a posta."
 
 msgid "NO_POSTS_WHILE_MUTED"
-msgstr "You may not post while you are muted."
+msgstr "Nu puteti posta cat timp sunteti pe mut."
 
 msgid "CATEGORY"
-msgstr "Category"
+msgstr "Categorie"
