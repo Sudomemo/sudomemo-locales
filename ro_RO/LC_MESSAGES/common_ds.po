@@ -4,16 +4,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "NOT_LOGGED_IN_NOTICE"
-msgstr "You aren't logged in to Sudomemo - tap %s to continue!"
+msgstr "Nu sunteti logat in Sudomemo - apsati %s pentru a continua!"
 
 msgid "NOT_LOGGED_IN_NOTICE_LINK_TEXT"
-msgstr "here"
+msgstr "aici"
 
 msgid "YOU_HAVE_NEW_NOTIFICATIONS"
-msgstr "You have new notifications"
+msgstr "Aveti notificari noi"
 
 msgid "NOT_REGISTERED_NOTICE"
-msgstr "Having fun? Get started with Sudomemo by tapping %s!"
+msgstr "Va distrati? Atingeti pentru a afla ce puteti face pe Sudomemo %s!"
 
 msgid "NOT_REGISTERED_NOTICE_LINK_TEXT"
-msgstr "here"
+msgstr "aici"
