@@ -7,64 +7,64 @@ msgid "SUDOMEMO"
 msgstr "Sudomemo"
 
 msgid "HEADER_FLIPNOTES"
-msgstr "Flipnotes"
+msgstr "Flipnote-uri"
 
 msgid "HEADER_NORMAL"
 msgstr "Recent"
 
 msgid "HEADER_HOT_FLIPNOTES"
-msgstr "Hot Flipnotes"
+msgstr "Flipnote-uri fierbinti"
 
 msgid "HEADER_MOST_POPULAR"
-msgstr "Most Popular"
+msgstr "Cele mai Populare"
 
 msgid "HEADER_NO_SPINOFFS"
-msgstr "No Spinoffs"
+msgstr "Fara Spinoff-uri"
 
 msgid "HEADER_ROLEPLAYS"
-msgstr "Roleplays"
+msgstr "Jocuri de Rol"
 
 msgid "HEADER_BROWSE_FLIPNOTES"
-msgstr "Browse Flipnotes"
+msgstr "Navigati Flipnote-uri"
 
 msgid "HEADER_FEATURED_FLIPNOTES"
-msgstr "Featured Flipnotes"
+msgstr "Flipnote-uri Recomandate"
 
 msgid "HEADER_RANDOM_FLIPNOTES"
-msgstr "Random Flipnotes"
+msgstr "Flipnote-uri la intamplare"
 
 msgid "HEADER_PAGE"
-msgstr "Page"
+msgstr "Pagina"
 
 msgid "PAGE"
-msgstr "Page"
+msgstr "Pagina"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d of %d"
+msgstr "%d din %d"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "Urm"
 
 msgid "PREV"
-msgstr "Previous"
+msgstr "Ante"
 
 msgid "POST_FLIPNOTE"
-msgstr "Post Flipnote"
+msgstr "Postati Flipnote"
 
 msgid "CATEGORY_recent"
 msgstr "@Recent Flipnotes"
 
 msgid "CATEGORY_hot"
-msgstr "@Hot Flipnotes"
+msgstr "@Firerbinti"
 
 msgid "CATEGORY_popular"
-msgstr "@Most Popular"
+msgstr "@Cele mai Populare"
 
 msgid "CATEGORY_featured"
-msgstr "@Featured Flipnotes"
+msgstr "@Recomandate"
 
 msgid "CATEGORY_random"
-msgstr "@Random Flipnotes"
+msgstr "@La intamplare"
 
 msgid "CATEGORY_feed"
-msgstr "@Feed"
+msgstr "@Flux"
