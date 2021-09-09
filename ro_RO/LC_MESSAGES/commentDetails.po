@@ -4,56 +4,56 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "COMMENT_DETAILS"
-msgstr "Comment Details"
+msgstr "Detalii Comentariu"
 
 msgid "MESSAGE_DETAILS"
-msgstr "Message Details"
+msgstr "Detalii Mesaj"
 
 msgid "AUTHOR"
-msgstr "Author"
+msgstr "Autor"
 
 msgid "COMMENT_BY_FORMAT"
-msgstr "Comment by %s"
+msgstr "Comentariu de %s"
 
 msgid "CHAT_MESSAGE_FROM_FORMAT"
-msgstr "Chat Message from %s"
+msgstr "Mesaj Conversatie de la %s"
 
 msgid "MESSAGE_FROM_FORMAT"
-msgstr "Message from %s"
+msgstr "Mesaj de la %s"
 
 msgid "FLIPNOTE_BY_FORMAT"
-msgstr "Flipnote by %s"
+msgstr "Flipnote de %s"
 
 msgid "COMMENT_ID"
-msgstr "Comment ID"
+msgstr "ID Comentariu"
 
 msgid "MESSAGE_ID"
-msgstr "Message ID"
+msgstr "ID Mesaj"
 
 msgid "CHAT_COMMENT_ID"
-msgstr "Chat Comment ID"
+msgstr "ID Comentariu Conversatie"
 
 msgid "TIMESTAMP"
 msgstr "Timestamp"
 
 msgid "POSTED_TO"
-msgstr "Posted to"
+msgstr "Posted catre"
 
 msgid "PRIVATE_CONVERSATION"
-msgstr "Private Conversation"
+msgstr "Conversatie Privata"
 
 msgid "REPORT_CONTENT"
-msgstr "Report Content"
+msgstr "Raportati Continut"
 
 msgid "COMMENT_HIDDEN_UNKNOWN"
-msgstr "Comment hidden due to request"
+msgstr "Comentariu ascuns datorita unei cereri"
 
 msgid "COMMENT_HIDDEN_SELF"
-msgstr "Comment hidden by author"
+msgstr "Comentariu ascuns de Autor"
 
 msgid "COMMENT_HIDDEN_RECIPIENT"
-msgstr "Comment hidden by Flipnote author"
+msgstr "Comentariu ascuns de Autorul Flipnote-ului"
 
 msgid "COMMENT_HIDDEN_MODERATOR"
-msgstr "Comment hidden by moderator"
+msgstr "Comentariu ascuns de Moderator"
 
