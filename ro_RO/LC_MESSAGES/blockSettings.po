@@ -4,10 +4,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "LOGIN_REQUIRED_TO_MANAGE_BLOCKS"
-msgstr "Trebuie sa fiti logat pentru a administra utilizatori blocati."
+msgstr "Trebuie sa fiti conectat pentru a administra utilizatori blocati."
 
 msgid "NO_USERS_BLOCKED"
-msgstr "Nu aveti nici un utilizator blocat."
+msgstr "Nu aveti niciun utilizator blocat."
 
 msgid "BLOCKED_USERS"
 msgstr "Utilizatori Blocati"
@@ -37,7 +37,7 @@ msgid "UNBLOCK"
 msgstr "Deblocati"
 
 msgid "LOGIN_REQUIRED"
-msgstr "Trebuie sa fiti logat pentru a performa aceasta actiune."
+msgstr "Trebuie sa fiti conectat pentru a performa aceasta actiune."
 
 msgid "TAP_BACK_TO_RETURN"
 msgstr "Apasati Inapoi pentru a va intoarce in Camera Creatorului."
