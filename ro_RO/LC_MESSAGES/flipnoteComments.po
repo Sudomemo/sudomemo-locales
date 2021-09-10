@@ -25,7 +25,7 @@ msgid "NO_COMMENTS_YET"
 msgstr "Acets Flipnote nu are niciun comentariu inca."
 
 msgid "LOGIN_REQUIRED_TO_POST_COMMENT"
-msgstr "Trebuie sa fiti logat pentru a posta un comentariu."
+msgstr "Trebuie sa fiti conectat pentru a posta un comentariu."
 
 msgid "COMMENT_POST_FAILED"
 msgstr "Postarea comentariului a esuat. Incercati din nou."
