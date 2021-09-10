@@ -4,7 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "NOT_LOGGED_IN_NOTICE"
-msgstr "Nu sunteti logat in Sudomemo - apsati %s pentru a continua!"
+msgstr "Nu sunteti conectat in Sudomemo - apsati %s pentru a continua!"
 
 msgid "NOT_LOGGED_IN_NOTICE_LINK_TEXT"
 msgstr "aici"
