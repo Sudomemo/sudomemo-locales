@@ -5,43 +5,43 @@ msgstr ""
 
 # Content Report Accepted - sent to user who has correctly reported content
 msgid "NOTICE"
-msgstr "Notice"
+msgstr "Instiintare"
 
 # # Intro
 msgid "REPORT_ACCEPTED"
-msgstr "We've reviewed a content report that you submitted and found it to be valid."
+msgstr "Am revizuit o raportare de continut pe care l-ati trimis si am vazut ca este valida."
 
 # # Content types
 msgid "CONTENT_TYPE_flipnote"
 msgstr "Flipnote"
 
 msgid "CONTENT_TYPE_comment"
-msgstr "Comment"
+msgstr "Comentariu"
 
 msgid "CONTENT_TYPE_chat_message"
-msgstr "Chat message"
+msgstr "Mesaj Conversatie"
 
 # ## We plan on adding user-created themes.
 msgid "CONTENT_TYPE_room_theme"
-msgstr "Creator's Room theme"
+msgstr "Tema Camera Creatorului"
 
 msgid "CONTENT_TYPE_profile_bio"
-msgstr "Profile text"
+msgstr "Text de pe Profil"
 
 # ## Catch-all
 msgid "CONTENT_TYPE_content"
-msgstr "Other content"
+msgstr "Alt Continut"
 
 # # continued message...
 msgid "REPORT_ACCEPTED_CONTINUED"
-msgstr "As such, the content has been removed."
+msgstr "De aceea, continutul a fost sters."
 
 # this message is followed by a link
 msgid "REPORT_ACCEPTED_INFO"
-msgstr "Reports like yours help make Sudomemo a safe and welcoming place for everyone. If you'd like to learn more about our Content Policy, you can do so here:"
+msgstr "Raportarile ca al dvs. fac Sudomemo un loc sigur si binevenitor pentru toata lumea. Daca vreti sa aflati mai multe despre Politele de Continut, puteti sa o faceti aici:"
 
 msgid "CONTENT_TYPE"
-msgstr "Content type:"
+msgstr "Tip de Continut:"
 
 msgid "CONTENT_ID"
-msgstr "Content ID:"
+msgstr "ID Continut:"
