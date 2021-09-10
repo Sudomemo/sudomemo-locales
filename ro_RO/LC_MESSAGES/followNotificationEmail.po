@@ -4,25 +4,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "EMAIL_SUBJECT_FORMAT"
-msgstr "[Sudomemo] %s added you to their Favorites"
+msgstr "[Sudomemo] %s v-a adaugat la Favorite"
 
 msgid "GREETING_FORMAT"
-msgstr "Hey %s!"
+msgstr "Hei %s!"
 
 msgid "NEW_FOLLOWER_ADDED_YOU_FORMAT"
-msgstr "%s just added you to their Favorites."
+msgstr "%s tocmai v-a adaugat la Favorite."
 
 msgid "STATS_FLIPNOTES_FORMAT"
-msgstr "%s Flipnotes"
+msgstr "%s Flipnote-uri"
 
 msgid "STATS_FOLLOWERS_FORMAT"
-msgstr "%s Followers"
+msgstr "%s Urmaritori"
 
 msgid "STATS_FLIPNOTES_FORMAT_SINGULAR"
-msgstr "%s Flipnote"
+msgstr "%s Flipnnote"
 
 msgid "STATS_FOLLOWERS_FORMAT_SINGULAR"
-msgstr "%s Follower"
+msgstr "%s Urmaritor"
 
 msgid "VIEW_PROFILE"
-msgstr "View Profile"
+msgstr "Vedeti Profil"
