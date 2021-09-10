@@ -4,22 +4,22 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "EMAIL_SUBJECT"
-msgstr "[Sudomemo] Action required: Verify your email address"
+msgstr "[Sudomemo] Actiune necesara: Verificati-va adresa de email"
 
 msgid "VERIFICATION_HEADER"
-msgstr "Sudomemo - Verify Email"
+msgstr "Sudomemo - Verificati emailul"
 
 msgid "TEXT_HELLO_FORMAT"
-msgstr "Hello, %s!"
+msgstr "Buna, %s!"
 
 msgid "TEXT_NEED_TO_VERIFY_EMAIL"
-msgstr "This is a reminder that you need to verify your email address on Sudomemo."
+msgstr "Acesta este un reminder ca trebuie sa va verificati adresa de email pe Sudomemo."
 
 msgid "TEXT_LOGIN_WITH_DSI_TO_VERIFY"
-msgstr "You can have a new verification email sent to you by logging into Sudomemo with your Nintendo DSi System."
+msgstr "Puteti avea un email de verificare trimis daca va logati pe Sudomemo cu Sistemul dvs. Nintendo DSi."
 
 msgid "TEXT_NEED_HELP_CONNECTION_INFO_LINK_FORMAT"
-msgstr "Need help connecting to Sudomemo? The setup guide can be found here: %s"
+msgstr "Aveti nevoie de ajutor pentru a va conecta pe Sudomemo? Ghidul de setare se afla aici: %s"
 
 msgid "EMAIL_VERIFICATION_REMOVE_ME"
-msgstr "Remove me, you have the wrong email address"
+msgstr "Stergeti-ma, adresa de email este incorecta"
