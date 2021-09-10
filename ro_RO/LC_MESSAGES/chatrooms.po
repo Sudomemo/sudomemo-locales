@@ -22,7 +22,7 @@ msgid "HEADER_REFRESH"
 msgstr "Reincarcati"
 
 msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
-msgstr "Trebuie sa fiti logat pentru a posta un mesaj in conversatie."
+msgstr "Trebuie sa fiti conectat pentru a posta un mesaj in conversatie."
 
 msgid "CHAT_REPLY_FAILED"
 msgstr "Raspuns esuat. Incercati din nou intr-un moment."
