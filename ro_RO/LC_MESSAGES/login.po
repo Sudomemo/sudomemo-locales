@@ -4,106 +4,106 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "BAN_GREETING_FORMAT"
-msgstr "Hello, %s."
+msgstr "Buna, %s."
 
 msgid "BAN_NOTICE_CONSOLE_BAN"
-msgstr "Your account and console have been suspended from Sudomemo."
+msgstr "Contul si consola dvs. au fost suspendate de pe Sudomemo."
 
 msgid "BAN_NOTICE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
-msgstr "Please contact us on Discord or via email to %s."
+msgstr "va rugam sa ne contactati pe Discord sau prin email la %s."
 
 msgid "BAN_NOTICE_PLEASE_READ_BAN_LETTER"
-msgstr "Please read the letter we sent you for further information."
+msgstr "Va rugam sa cititi scrisoarea pe care v-am trimis-o pentru mai multe informatii."
 
 msgid "BAN_VIEW_MAIL"
-msgstr "View Sudomemo Mail"
+msgstr "Vedeti Sudomemo Mail"
 
 msgid "BASIC_AUTH_BAD_LENGTH_FORMAT"
-msgstr "The ID appears to be %s digits in length (should be 16)"
+msgstr "ID-ul pare sa aiba %s caractere (trebuie sa aiba 16)"
 
 msgid "BASIC_AUTH_FSID_INVALID"
-msgstr "The Flipnote Studio ID you entered under Basic Authentication is invalid:"
+msgstr "ID-ul Flipnote Studio introdus sub Basic Authentication nu este valid:"
 
 msgid "BASIC_AUTH_LOWERCASE_LETTERS"
-msgstr "The ID contain lowercase letters - it should be all uppercase."
+msgstr "ID-ul contine litere mici - toate trebuie sa fie litere mari."
 
 msgid "BASIC_AUTH_NONHEX_CHARACTERS"
-msgstr "The ID contains characters other than 0-9 and A-F (it should only contain 0-9 and A-F)."
+msgstr "ID-ul contine caractere diferite de 0-9 si A-F (trebuie sa contina caractere 0-9 si A-F)."
 
 msgid "BASIC_AUTH_NOT_ENABLED"
-msgstr "You do not appear to have enabled Basic Authentication in your proxy settings."
+msgstr "Se pare ca nu ati pornit Basic Authentication in setarile dvs. proxy."
 
 msgid "BUTTON_ADD_AN_EMAIL_ADDRESS"
-msgstr "Add an email address"
+msgstr "Adaugati o adresa de email"
 
 msgid "BUTTON_CHANGE_EMAIL"
-msgstr "Change email address"
+msgstr "Schimbati adresa de email"
 
 msgid "BUTTON_CHANGE_PASSWORD"
-msgstr "Change password"
+msgstr "Schimbati parola"
 
 msgid "BUTTON_CHECK_VERIFICATION"
-msgstr "Check Verification Status"
+msgstr "Verificati Statutul de Verificare"
 
 msgid "BUTTON_CONTINUE"
-msgstr "Continue"
+msgstr "Continuati"
 
 msgid "BUTTON_EDIT_EMAIL_ADDRESS"
-msgstr "Change Email Address"
+msgstr "Schimbati Adresa de Email"
 
 msgid "BUTTON_RESEND_VERIFICATION_EMAIL"
-msgstr "Resend Verification Email"
+msgstr "Retrimiteti Emailul de Verificare"
 
 msgid "BUTTON_SIGN_IN_TO_SUDOMEMO"
 msgstr "Sign in to Sudomemo"
 
 msgid "BUTTON_SUBMIT"
-msgstr "Submit"
+msgstr "Trimiteti"
 
 msgid "CONFIRM_INFO_CORRECT"
-msgstr "Please make sure that the information below is correct."
+msgstr "Va rugam sa va asigurati ca informatiile de mai jos sunt corecte."
 
 msgid "CONTACT_SUPPORT_EMAIL_FORMAT"
-msgstr "Please contact %s."
+msgstr "Va rugam contactati %s."
 
 msgid "CONTINUE_TO_LOGIN"
-msgstr "Continue to Login"
+msgstr "Continuati in Conectare"
 
 msgid "CREATORS_ROOM_SHIM_PLEASE_LOGIN"
-msgstr "Welcome to Sudomemo! Please login to continue."
+msgstr "Bine ati venit in Sudomemo! Va rugam sa va conectati pentru a continua."
 
 msgid "CREATORS_ROOM_SHIM_WELCOME"
-msgstr "Welcome!"
+msgstr "Bine ati venit!"
 
 msgid "EMAIL_ADDITION_DETAILS"
-msgstr "If you ever forget your password, we will send a password reset link to your email address."
+msgstr "Daca va uitati vreodata parola, vav vom trimite un email de resetare la adresa dvs. de email."
 
 msgid "EMAIL_ADDITION_SUGGESTED"
-msgstr "Email is optional, but highly recommended. If you ever forget your password, we will send a password reset link to your email address."
+msgstr "Emailul este optionqal, dar foarte recomandat. Daca uitati vreodata parola dvs., va vom trimite un link de resetare al parolei."
 
 msgid "EMAIL_CONFIRMATION_SENT_FORMAT"
-msgstr "A confirmation email has been sent to %s. Please check for it in a few minutes."
+msgstr "Un email de confirmare a fost trimis la %s. Va rugam sa verificati emailul dvs.."
 
 msgid "EMAIL_IS_DUPLICATE"
-msgstr "The email address you entered is already in use."
+msgstr "Aceasta adresa de email este deja folosita."
 
 msgid "EMAIL_NOT_YET_VERIFIED"
-msgstr "Your email address has not yet been verified."
+msgstr "Adresa dvs. de email nu este inca verificata."
 
 msgid "EMAIL_REQUIRES_UPDATE"
-msgstr "Your email address needs to be updated."
+msgstr "Adresa dvs. de email trebuie actualizata."
 
 msgid "EMAIL_VERIFICATION_ADDRESS_REMOVED"
-msgstr "Sorry about that! We've marked that email address as incorrect, so you shouldn't receive any further emails from Sudomemo."
+msgstr "Ne pare rau pentru asta! Am marcat adresa dvs. ca incorecta, deci nu veti primi nici un email de la Sudomemo."
 
 msgid "EMAIL_VERIFIED"
-msgstr "Thank you for verifying your email!"
+msgstr "Va multumim pentru ca v-ati verificat emailul!"
 
 msgid "ERROR"
-msgstr "Error"
+msgstr "Eroare"
 
 msgid "FORGOT_PASSWORD_LINK"
-msgstr "Forgot your password?"
+msgstr "Ati uitat parola?"
 
 msgid "FORM_HEADER_EMAIL"
 msgstr "Email:"
@@ -112,152 +112,152 @@ msgid "FORM_HEADER_EMAIL_CONFIRM"
 msgstr "Email:"
 
 msgid "FORM_HEADER_PASSWORD"
-msgstr "Password:"
+msgstr "Parola:"
 
 msgid "FORM_LABEL_DONT_FORGET_PASSWORD"
-msgstr "Remember to make a note of your password, and keep it safe!"
+msgstr "Nu uitati sa va notati parola dvs., si sa o tineti in siguranta!"
 
 msgid "FORM_PREFILL_EMAIL"
-msgstr "Enter your email here..."
+msgstr "Introduceti emailul aici..."
 
 msgid "FORM_PREFILL_PASSWORD"
-msgstr "Enter your password here..."
+msgstr "Introduceti parola aici..."
 
 msgid "FORM_WARNING_EMAIL_INVALID"
-msgstr "The email address you entered isn't valid."
+msgstr "Adresa de email introdusa nu este valida"
 
 msgid "FORM_WARNING_PASSWORD_DISALLOWED_CHARS"
-msgstr "Your password cannot contain any of these characters:"
+msgstr "Parola dvs. nu poate sa contina aceste caractere:"
 
 msgid "FORM_WARNING_PASSWORD_TOO_SHORT"
-msgstr "Please enter a password that is longer than 8 characters."
+msgstr "Va rugam sa introduceti o parola cu 8 sau mai multe caractere."
 
 msgid "GOTO_CREATORS_ROOM"
-msgstr "Go to your Creator's Room"
+msgstr "Mergeti la Camera Creatorului"
 
 msgid "GUIDE_MAIN_MENU_SHORTCUT"
-msgstr "You can return to the main menu by holding down L (or R if you're left-handed) and pressing the 'Menu' button."
+msgstr "Puteti sa apasati L pentru a va intoarce la meniul principal (sau R daca sunteti stangaci) si daca apasati butonul 'Meniu'."
 
 msgid "HEADER_UPDATE_EMAIL"
-msgstr "Update Email"
+msgstr "Actualizati Email"
 
 msgid "HEADER_VERIFICATION_EXPIRED"
-msgstr "Verification Expired"
+msgstr "Verificare Esuata"
 
 msgid "HEADER_VERIFY_EMAIL"
-msgstr "Verify Email"
+msgstr "Verificati Email"
 
 msgid "INCORRECT_PASSWORD_ATTEMPTS_FORMAT"
-msgstr "Incorrect password attempts: %s"
+msgstr "Numar de parole esuate: %s"
 
 msgid "LOGIN"
-msgstr "Login"
+msgstr "Conectati-va"
 
 msgid "LOGIN_FAILED"
-msgstr "Login failed."
+msgstr "Conectare esuata."
 
 msgid "LOGIN_FAILED_BANNED_LINE1"
-msgstr "You've been restricted from using Sudomemo."
+msgstr "Ati fost restrictionat din a folosi Sudomemo."
 
 msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE1"
-msgstr "The Flipnote data is corrupted."
+msgstr "Datele acestui Flipnote sunt corupte."
 
 msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE2"
-msgstr "Try sending it again."
+msgstr "Incercati sa-l trimiteti din nou."
 
 msgid "LOGIN_FAILED_REOPEN_FLIPNOTE_STUDIO"
-msgstr "Login failed. Close and reopen Flipnote Studio."
+msgstr "Conectare esuata. Inchideti si redeschideti Flipnote Studio."
 
 msgid "LOGIN_FORM_PREFILL_PASSWORD"
-msgstr "Enter password"
+msgstr "Introduceti Parola"
 
 msgid "LOGIN_SETUP"
-msgstr "Login Setup"
+msgstr "Setare Conectare"
 
 msgid "LOGIN_SUCCESSFUL"
-msgstr "Login Successful"
+msgstr "Conectare reusita"
 
 msgid "NEW_USER_INTRO_POST_INTRO_CHANNEL"
-msgstr "When you're ready, go ahead and introduce yourself in our Introduction channel, under the Personal category."
+msgstr "Cand sunteti gata, mergeti si prezentati-va in canalul nostru de Prezentare, sub categoria Personala."
 
 msgid "NEW_USER_PLEASE_CREATE_PASSWORD"
-msgstr "Please create a new password."
+msgstr "Va rugam creati o parola noua."
 
 msgid "NEW_USER_THANKS_FOR_REGISTRATION"
-msgstr "Welcome to Sudomemo!"
+msgstr "Bine ati venit pe Sudomemo!"
 
 msgid "NEW_USER_WELCOME_FORMAT"
-msgstr "Welcome to Sudomemo, %s!"
+msgstr "Bine ati venit pe Sudomemo, %s!"
 
 msgid "NOT_RECEIVING_HELP_FORMAT"
-msgstr "Not receiving the email? You can reach out to us on the Sudomemo Discord or via %s."
+msgstr "Nu ati primit un email? Ne puteti gasi pe serverul de Discord Sudomemo sau prin %s."
 
 msgid "NO_PLAINTEXT_PASSWORD_RECOVERY_IF_LOST"
-msgstr "After this stage, we can't recover your password if you lose it."
+msgstr "Dupa aceasta etapa, nu mai putem sa va recuperam parola."
 
 msgid "PLEASE_DISCONNECT_AND_RECONNECT"
-msgstr "An error occured. To try again, disconnect and then reconnect to Sudomemo."
+msgstr "A aparut o eroare. Pentru a incerca din nou, deconectati-va si reconectati-va pe Sudomemo."
 
 msgid "PLEASE_ENTER_PASSWORD_TO_SIGN_IN"
-msgstr "Please enter your password to sign in"
+msgstr "Va rugam sa introduceti parola pentru a va alatura"
 
 msgid "POST_COMMENT_BELOW"
-msgstr "To continue, please post a comment below."
+msgstr "Pentru a continua, va rugam sa postati un comentariu mai jos."
 
 msgid "REGISTRATION_ERROR_BAD_EMAIL"
-msgstr "The email address you provided is not permitted."
+msgstr "Adresa de email trimisa nu este permisa."
 
 msgid "REGISTRATION_ERROR_BAD_PASSWORD"
-msgstr "The password you provided is not permitted."
+msgstr "Parola trimisa nu este permisa ."
 
 msgid "REGISTRATION_ERROR_PASSWORD_ALREADY_SET"
-msgstr "Password has already been set."
+msgstr "Parola a fost deja setata."
 
 msgid "RETURNING_USER_NEW_LOGIN_SYSTEM"
-msgstr "Since the last time you visited, we've added a new login system -- but don't worry, all of your content is still here!"
+msgstr "De la ultima voastra vizita, am adaugat un nou sistem de conectare -- dar nu va faceti griji, tot continutul dvs. este tot aici!"
 
 msgid "RETURNING_USER_PLEASE_CREATE_PASSWORD"
-msgstr "To get started, please create a new password below."
+msgstr "Pentru a incepe, va rugam creati o parola mai jos."
 
 msgid "RETURNING_USER_THANKS_FOR_REGISTRATION"
-msgstr "Welcome back! Thanks for setting up your login information."
+msgstr "Bine ati revenit! Va multumim pentru informatiile de conectare."
 
 msgid "SEARCH_FOR_SENDER_EMAIL_FORMAT"
-msgstr "Haven't received the email? Check your Spam box, and search for %s. If you find that it was marked spam, please ensure you first mark it Not Spam."
+msgstr "Nu ati primit un email inca? Vizitati cutia de Spam, si cautati %s. Daca vedeti ca a fost marcat ca spam, asigurati-va ca il marcati Nu este Spam mai intai."
 
 msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
-msgstr "If you need help connecting, feel free to ask in our Discord! You can join from %s."
+msgstr "Daca aveti nevoie de ajutor la conectare, intrebati in serverul nostru de Discord! Puteti sa va alaturati la %s."
 
 msgid "SORRY_NO_LOGIN"
-msgstr "Sorry, but we couldn't log you in!"
+msgstr "Ne pare rau, dar nu v-am putut conecta!"
 
 msgid "THANKS_FOR_LOGIN_FORMAT"
-msgstr "Thanks for signing in, %s!"
+msgstr "Va multumim ca v-ati conectat, %s!"
 
 msgid "THANKS_FOR_LOGIN_PROMPT_INTRO"
-msgstr "Welcome to Sudomemo! Now, let's write a little message to say who you are! (This will be posted as a Flipnote in our Introductions channel.)"
+msgstr "Bine ati venit pe Sudomemo! Acum, scrieti un mesaj despre cine sunteti! (Acesta va fi trimis ca un Flipnote in canalul nostru de Prezentare.)"
 
 msgid "THANK_YOU_FOR_UPDATING_EMAIL"
-msgstr "Thank you for updating your email!"
+msgstr "Va multumim pentru incarcarea emailului dvs.!"
 
 msgid "VERIFICATION_EXPIRED_TEXT"
-msgstr "The verification URL has expired or has already been used."
+msgstr "Adresa de verificare a expirat ssau a fost deja folosita."
 
 msgid "VERIFICATION_LIMIT_EXCEEDED_FORMAT"
-msgstr "You have exceeded the maximum number of verification emails. Please contact support at %s or via Discord."
+msgstr "Ati trecut de numarul maxim de emailuri de verificare. Va rugam sa cereti ajutor la %s sau prin Discord."
 
 msgid "VERIFICATION_NEEDED"
-msgstr "We need you to verify your email address."
+msgstr "Trebuie sa va verificam adresa de email."
 
 msgid "WEB_HEADER_SUCCESS"
-msgstr "Success!"
+msgstr "Succes!"
 
 msgid "WEB_TAP_CHECK_VERIFICATION_STATUS"
-msgstr "Go ahead and tap 'Check Verification Status' on your Nintendo DSi System to complete the email verification."
+msgstr "Apasati 'Verificati Statutul de Verificare' pe Sistemul dvs. Nintendo DSi pentru a completa verificarea emailului."
 
 msgid "WELCOME_BACK_FORMAT"
-msgstr "Welcome back, %s!"
+msgstr "Bine ati revenit, %s!"
 
 # A URL will be shown at the end of this.
 msgid "LEGACY_PROXY_WARNING"
-msgstr "It looks like you may still be using the legacy ds.sudomemo.net proxy, which we have ended support for. As such, you should turn off the proxy in your System Settings, or you might have problems using Sudomemo. For more information, visit:"
+msgstr "Se pare ca inca folositi proxy-ul legacy ds.sudomemo.net , pentru care am terminat suportul. Asa ca, opriti acest proxy in Setarile de Sistem, altfel puteti avea probleme folosind Sudomemo. Pentru mai multe informatii, visitati:"
