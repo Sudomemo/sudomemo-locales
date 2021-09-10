@@ -16,7 +16,7 @@ msgid "CHANNEL_ID"
 msgstr "ID Canal"
 
 msgid "LOGIN_REQUIRED_TO_POST"
-msgstr "Trebuie sa fiti logat pentru a posta Flipnote-uri."
+msgstr "Trebuie sa fiti conectat pentru a posta Flipnote-uri."
 
 msgid "CHANNEL_NOT_SPECIFIED"
 msgstr "Trebuie sa alegeti un Canal."
@@ -25,7 +25,7 @@ msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
 msgstr "Ati fost restrictionat din a folosi Sudomemo."
 
 msgid "FLIPNOTE_POST_FAILED"
-msgstr "Incarcarea Flipnote-ului a esuat. Incercati din nou intr-un moment."
+msgstr "Incarcarea Flipnote-ului a esuat. Incercati din nou."
 
 msgid "DUPLICATE_FLIPNOTE_FAILED"
 msgstr "Acest Flipnote a fost deja postat pe Sudomemo. Incercati sa-l ediati din nou."
