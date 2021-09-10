@@ -5,42 +5,42 @@ msgstr ""
 
 # Content Report Rejected - sent to user who has reported content after report deemed invalid
 msgid "NOTICE"
-msgstr "Notice"
+msgstr "Instiintare"
 
 # # Intro
 msgid "REPORT_REJECTED"
-msgstr "We've reviewed a content report that you submitted."
+msgstr "Am revizuit un raportaj de continut pe care l-ati trimis."
 
 msgid "REPORT_REJECTED_CONTINUED"
-msgstr "Our investigation found that this content wasn't in violation of our Content Policy, so it hasn't been removed."
+msgstr "Investigatia noastra a aratat ca acest continut nu violeaza Politicile de Continut, deci nu a fost sters."
 
 # this message is followed by a link
 msgid "REPORT_REJECTED_INFO"
-msgstr "Reports like yours help make Sudomemo a safe and welcoming place for everyone. We'd recommend reviewing our Content Policy to better understand what kinds of content are acceptable on Sudomemo:"
+msgstr "Raportaje ca al dvs. fac Sudomemo un loc sigur si binevenitor pentru toata lumea. Va recomandam sa cititi Politele de Continut pentru a intelege mai bine ce tipuri de continut sunt accepatbile pe Sudomemo:"
 
 # # Content types
 msgid "CONTENT_TYPE_flipnote"
 msgstr "Flipnote"
 
 msgid "CONTENT_TYPE_comment"
-msgstr "Comment"
+msgstr "Comentarii"
 
 msgid "CONTENT_TYPE_chat_message"
-msgstr "Chat message"
+msgstr "Mesaj Conversatie"
 
 # ## We plan on adding user-created themes.
 msgid "CONTENT_TYPE_room_theme"
-msgstr "Creator's Room theme"
+msgstr "Tema Camera Creatorului"
 
 msgid "CONTENT_TYPE_profile_bio"
-msgstr "Profile text"
+msgstr "Text de pe Profil"
 
 # ## Catch-all
 msgid "CONTENT_TYPE_content"
-msgstr "Other content"
+msgstr "Alt Continut"
 
 msgid "CONTENT_TYPE"
-msgstr "Content type:"
+msgstr "Tip de continut:"
 
 msgid "CONTENT_ID"
-msgstr "Content ID:"
+msgstr "ID Continut:"
