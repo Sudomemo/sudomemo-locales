@@ -4,19 +4,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CHANGE_LANGUAGE"
-msgstr "Change Language"
+msgstr "Schimbati Limba"
 
 msgid "LANGUAGE_UPDATED_FORMAT"
-msgstr "Your language has been updated to %s."
+msgstr "Limba dvs. a fost schimbata in %s."
 
 msgid "POTENTIAL_CONTRIBUTOR_NOTE"
-msgstr "Sudomemo relies on its community to provide accurate translations. If you see something that does not display correctly, is still in English, is a low-quality translation, or if you would like to add your own language, we invite you to contribute! Full and verified new translations can earn you extra days of Sudomemo Plus. You can do so here: "
+msgstr "Sudomemo se bazeaza pe comunitatea sa pentru a oferi traduceri exacte. Daca vedeti ceva care nu se afiseaza, este inca in Engleza, este o traducere de calitate joasa, sau daca vreti sa va adaugati limba, va invitam sa participati! Traduceri noi integrale si verificate va pot oferi zile in plus de Sudomemo Plus. Puteti face asta aici: "
 
 msgid "RETURN_TO_CREATORS_ROOM"
-msgstr "Return to Creator's Room"
+msgstr "Intoarceti-va la Camera Creatorului"
 
 msgid "NOT_LOGGED_IN"
-msgstr "You must log in before changing your language."
+msgstr "Trebuie sa va conectati pentru a va schimba limba."
 
 msgid "INVALID_LOCALE"
-msgstr "Sorry, but that language is not available."
+msgstr "Ne pare rau, dar aceasta limba nu este disponibila!"
