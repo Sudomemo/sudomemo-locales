@@ -5,39 +5,39 @@ msgstr ""
 
 # Content Removed - sent to user when a piece of their content has been restored
 msgid "NOTICE"
-msgstr "Notice"
+msgstr "Instiintare"
 
 # # Intro
 msgid "USER_CONTENT_RESTORED"
-msgstr "Something you posted that was previously removed has been restored after further review."
+msgstr "Ceva ce ati postat si a fost sters a fost restaurat dupa revizuire."
 
 # # Content types
 msgid "CONTENT_TYPE_flipnote"
 msgstr "Flipnote"
 
 msgid "CONTENT_TYPE_comment"
-msgstr "Comment"
+msgstr "Comentariu"
 
 msgid "CONTENT_TYPE_chat_message"
-msgstr "Chat message"
+msgstr "Mesaj Conversatie"
 
 # ## We plan on adding user-created themes.
 msgid "CONTENT_TYPE_room_theme"
-msgstr "Creator's Room theme"
+msgstr "Tema Camera Creatorului"
 
 msgid "CONTENT_TYPE_profile_bio"
-msgstr "Profile text"
+msgstr "Text de pe Profil"
 
 # ## Catch-all
 msgid "CONTENT_TYPE_content"
-msgstr "Other content"
+msgstr "Alt Continut"
 
 # # continued message...
 msgid "CONTENT_RESTORED_CONTINUED"
-msgstr "The content has been restored to public view, and there's nothing more that you need to do."
+msgstr "Acest continut a fost restaurat la vederea publicului, si nu a ramas nimic altceva ce treuie sa faceti."
 
 msgid "CONTENT_TYPE"
-msgstr "Content type:"
+msgstr "Tip de Continut:"
 
 msgid "CONTENT_ID"
-msgstr "Content ID:"
+msgstr "ID Continut:"
