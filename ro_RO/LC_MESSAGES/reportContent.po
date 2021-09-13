@@ -4,127 +4,127 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "HEADER_REPORT_CONTENT"
-msgstr "Report Content"
+msgstr "Raportati continut"
 
 msgid "CHAT_MESSAGE"
-msgstr "chatroom message"
+msgstr "mesaj din conversatie"
 
 msgid "COMMENT"
-msgstr "comment"
+msgstr "comentariu"
 
 msgid "FLIPNOTE"
 msgstr "Flipnote"
 
 msgid "YOU_ARE_REPORTING_THIS_FORMAT"
-msgstr "You are reporting this %s:"
+msgstr "Raportati acest %s:"
 
 msgid "USER_HAS_ALREADY_REPORTED_FORMAT"
-msgstr "You have already submitted a report for this %s."
+msgstr "Ati trimis deja un raport pentru acest %s."
 
 msgid "HEADER_VIOLATION_CATEGORY"
-msgstr "Violation Category:"
+msgstr "Categoria de Violare:"
 
 msgid "FLIPNOTE_TITLE_FORMAT"
-msgstr "Flipnote by %s"
+msgstr "Flipnote dupa %s"
 
 msgid "CREATOR_FORMAT"
 msgstr "Creator: %s"
 
 msgid "NOTICE_REPORT_OTHER_ISSUES"
-msgstr "This form is for reporting user content only. To report a user's behaviour, or for other issues and requests, please email our support team:"
+msgstr "Acest formular este numai pentru raportarea continutului de utilizator. pentru a raporta comportamentul unui utilizator, sau pentru alte probleme sau cereri, va rugam sa trimiteti un email la echipa noastra de suport:"
 
 msgid "REPORT_INSTRUCTIONS"
-msgstr "Please write a short description of why you believe this content is in violation of the Sudomemo Terms of Use. Once you submit it, tap Back to return to the Flipnote."
+msgstr "Va rugam sa scrieti o descriere scurta despre de ce credeti ca acest continut violeaza Termenii de Utilizare Sudomemo. Odata ce l-ati trimis, apasati Inapoi pentru a va intoarce la Flipnote."
 
 msgid "NO_BLANK_REPORTS"
-msgstr "You cannot post a blank report."
+msgstr "Nu puteti posta un raport gol."
 
 msgid "LIMIT_ONE_REPORT"
-msgstr "Please note: You may only report this content one time. Additional reports will not be registered, so please put your information in a single comment."
+msgstr "Va rugam sa tineti minte: Puteti raporta acest continut numai o data. Rapoartele in plus nu vor fi luate in considerare, deci va rugam sa scrieti tot ce aveti de zis intr-un singur raport."
 
 msgid "REPORT_EXPLANATION_FAILED"
-msgstr "An error occurred while this report was being submitted."
+msgstr "A aparut o eroare in timp ce acest raport a fost trimis."
 
 msgid "RESTRICTED_CANCEL"
-msgstr "You may not report content if you have been restricted from interacting with Sudomemo in any way."
+msgstr "Nu puteti raporta continut daca ati fost restrictionat din a interactiona cu Sudomemo sub nici o forma."
 
 msgid "HEADER_REASON"
-msgstr "Reason:"
+msgstr "Motiv:"
 
 msgid "LOGIN_REQUIRED_TO_CONTINUE"
-msgstr "You must log in to continue."
+msgstr "Trebuie sa va conectati pentru a continua."
 
 msgid "LOGIN_REQUIRED_TO_REPORT_CONTENT"
-msgstr "You must be logged in to submit content reports."
+msgstr "Trebuie sa fiti conectat pentru a trimite raporturi de continut"
 
 msgid "REPORT_FAILED_USER_BANNED"
-msgstr "Report failed: you are restricted from Sudomemo."
+msgstr "Raport esuat: sunteti restrictionat pe Sudomemo."
 
 msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "This comment has already been posted to Sudomemo."
+msgstr "Acest comentariu a fost deja postat pe Sudomemo."
 
 msgid "CONFIRM_EMAIL_BEFORE_REPORTING"
-msgstr "Please confirm your email before reporting content."
+msgstr "Va rugam sa va confirmati emailul dvs. inainte de a raporta continut."
 
 msgid "THANKS_FOR_REPORTING"
-msgstr "We've received your report. Thanks for helping make Sudomemo a better place!"
+msgstr "Am primit raportul dvs. Va multumim ca ati ajutat ca Sudomemo sa fie un loc mai bun!"
 
 msgid "CATEGORY_NAME_stolen"
-msgstr "Stolen"
+msgstr "Furat"
 
 msgid "CATEGORY_DESC_stolen"
-msgstr "Misuse of spin-off function (stolen)"
+msgstr "Utilizare eronata a functiei spin-off (furat)"
 
 msgid "CATEGORY_NAME_spam"
 msgstr "Spam"
 
 msgid "CATEGORY_DESC_spam"
-msgstr "Spam (no meaningful content)"
+msgstr "Spam (continut fara sens)"
 
 msgid "CATEGORY_NAME_harassment"
-msgstr "Harassment"
+msgstr "Agresare"
 
 msgid "CATEGORY_DESC_harassment"
-msgstr "Bullying, discrimination, harassment or libel"
+msgstr "Bullying, discriminare, agresare sau calomnie"
 
 msgid "CATEGORY_NAME_fraud"
-msgstr "Fraud"
+msgstr "Frauda"
 
 msgid "CATEGORY_DESC_fraud"
-msgstr "Impersonation or other fraudulent activities"
+msgstr "Impersonare sau alte activitati fraudulente"
 
 msgid "CATEGORY_NAME_swearing"
-msgstr "Profane"
+msgstr "Profan"
 
 msgid "CATEGORY_DESC_swearing"
-msgstr "Use of very strong language, or frequent use of strong language"
+msgstr "Folosirea unui limbaj puternic, sau folosirea deasa al unui limbaj puternic"
 
 msgid "CATEGORY_NAME_sexual"
 msgstr "Sexual"
 
 msgid "CATEGORY_DESC_sexual"
-msgstr "Sexual themes or content"
+msgstr "Teme sau continut sexual"
 
 msgid "CATEGORY_NAME_violent"
-msgstr "Graphic"
+msgstr "Grafic"
 
 msgid "CATEGORY_DESC_violent"
-msgstr "Graphic content, excessive violence, gore, blood, or body horror"
+msgstr "Continut grafic, violenta in exces, gore, sange, sau horror corporal"
 
 msgid "CATEGORY_NAME_misplaced_rp"
-msgstr "Misplaced RP"
+msgstr "Joc de Rol in locuri nepotrivite"
 
 msgid "CATEGORY_DESC_misplaced_rp"
-msgstr "Roleplay posted to non-roleplay channel"
+msgstr "Jocuri de Rol postate in afara canalelor de Jocuri de Rol"
 
 msgid "CATEGORY_NAME_drugs"
-msgstr "Drugs"
+msgstr "Droguri"
 
 msgid "CATEGORY_DESC_drugs"
-msgstr "Substance abuse or drug references"
+msgstr "Abuz de substante sau sugestia drogurilor"
 
 msgid "CATEGORY_NAME_rapid_flashing"
-msgstr "Rapid Flashing"
+msgstr "Lumini rapide"
 
 msgid "CATEGORY_DESC_rapid_flashing"
-msgstr "Flashing more than four times in one second"
+msgstr "Lumini ce se schimba de mai mult de 4 ori pe secunda"
