@@ -1,112 +1,112 @@
 msgid ""
 msgstr ""
-"Language: en_US\n"
+"Language: ro_RO\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "HEADER_MAIL_SETTINGS"
-msgstr "Mail Settings"
+msgstr "Setari Mail"
 
 msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
-msgstr "You must be logged in to edit your mail settings."
+msgstr "Trebuie sa fiti conectat pentru a schimba setarile de mail."
 
 msgid "MAIL_TYPE"
-msgstr "Type"
+msgstr "Tip"
 
 msgid "MAIL_STATUS"
-msgstr "Status"
+msgstr "Statut"
 
 msgid "ENABLED"
-msgstr "Enabled"
+msgstr "Pornit"
 
 msgid "DISABLED"
-msgstr "Disabled"
+msgstr "Oprit"
 
 msgid "ENABLE"
-msgstr "Enable"
+msgstr "Porniti"
 
 msgid "DISABLE"
-msgstr "Disable"
+msgstr "Opriti"
 
 msgid "TAP_TO_ENABLE"
-msgstr "Tap to enable"
+msgstr "Apasati pentru a porni"
 
 msgid "TAP_TO_DISABLE"
-msgstr "Tap to disable"
+msgstr "Apasati pentru a opri"
 
 msgid "TYPE_NEWS_NAME"
-msgstr "Sudomemo News"
+msgstr "Stiri Sudomemo"
 
 msgid "TYPE_NEWS_DESC"
-msgstr "Receive an email when something new is posted to the Sudomemo News"
+msgstr "Primiti un email cand ceva nou este postat pe Stirile Sudomemo"
 
 msgid "TYPE_PROMO_NAME"
 msgstr "Promo"
 
 msgid "TYPE_PROMO_DESC"
-msgstr "Receive emails about new features, tips and tricks, and upcoming events!"
+msgstr "Primiti emailuri despre calitati noi, sfaturi si trucuri, si evenimente viitoare!"
 
 msgid "TYPE_FAVE_NOTIF_NAME"
-msgstr "Added as Favorite"
+msgstr "Adaugat ca favorit"
 
 msgid "TYPE_FAVE_NOTIF_DESC"
-msgstr "Receive an email when someone adds you to their Favorites"
+msgstr "Primiti un email cand cineva va adauga la favorite"
 
 msgid "TYPE_COMMENT_NOTIF_NAME"
-msgstr "Comment Received"
+msgstr "Comentariu Primit"
 
 msgid "TYPE_COMMENT_NOTIF_DESC"
-msgstr "Receive an email when someone comments on your Flipnote"
+msgstr "Primiti un email cand cineva comenteaza pe Flipnote-ul dvs."
 
 msgid "TYPE_STAR_REPORT_NAME"
-msgstr "Daily Star Report"
+msgstr "Reportajul Zilnic de Stele"
 
 msgid "TYPE_STAR_REPORT_DESC"
-msgstr "Receive an email at the end of the day about any stars you've received"
+msgstr "Primiti un email la sfarsitul zilei despre stelele primite in acea zi"
 
 msgid "TYPE_SPINOFF_NOTIF_NAME"
-msgstr "Spin-off Received"
+msgstr "Spin-off Primit"
 
 msgid "TYPE_SPINOFF_NOTIF_DESC"
-msgstr "Receive an email when someone posts a spin-off to your Flipnote"
+msgstr "Primiti un email cand cineva posteaza un spin-off la Flipnote-ul dvs."
 
 msgid "TYPE_SECURITY_NOTIF_NAME"
-msgstr "Account Security"
+msgstr "Securitatea contului"
 
 msgid "TYPE_SECURITY_NOTIF_DESC"
-msgstr "Receive an email when your email address or password is updated"
+msgstr "Primiti un email cand parola sau adresa de email ale dvs. sunt actualizate"
 
 msgid "TYPE_REPORT_UPDATE_NAME"
-msgstr "Flagged Content Update"
+msgstr "Actualizare Continut Semnalizat"
 
 msgid "TYPE_REPORT_UPDATE_DESC"
-msgstr "Receive an email when we update the status of content that you've flagged"
+msgstr "Primiti un email cand actualizam statutul unui continut pe care l-ati semnalizat"
 
 msgid "TYPE_UNREAD_COMMENTS_NAME"
-msgstr "Unread Comments"
+msgstr "Necititi comentariile"
 
 msgid "TYPE_UNREAD_COMMENTS_DESC"
-msgstr "Receive an email summary of any new comments you've received recently"
+msgstr "Primiti un email cu un sumar al comentariilor pe care le-ati primit recent"
 
 msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
 msgstr "Tap on a mail type's status to view or update it."
 
 msgid "HEADER_CHANGE_EMAIL_SETTINGS"
-msgstr "Change Email Settings"
+msgstr "Setari de Schimbare Email"
 
 msgid "DISABLE_CONFIRMATION_FORMAT"
-msgstr "Are you sure you want to disable '%s' emails?"
+msgstr "Sunteti sigur ca vreti sa dezactivati '%s' emailuri?"
 
 msgid "REENABLE_INSTRUCTIONS"
-msgstr "If you want to turn them back on, you can do so from by selecting <strong>Email Settings</strong> in your Creator's Room."
+msgstr "Daca vreti sa le reactivati, puteti face asta daca selectati <strong>Setari Email</strong> in Camera Creatorului."
 
 msgid "EMAIL_SETTING_DISABLED_FINISH_FORMAT"
-msgstr "You've disabled '%s' emails."
+msgstr "Ati dezactivat '%s' emailuri."
 
 msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
-msgstr "The link you followed has expired."
+msgstr "Linkul pe care ati apasat a expirat."
 
 msgid "TYPE_SERVICE_UPDATE_NAME"
-msgstr "Service Updates"
+msgstr "Actualizari Serviciu"
 
 msgid "TYPE_SERVICE_UPDATE_DESC"
-msgstr "Important updates about Sudomemo's status or availability related to your account"
+msgstr "Actualizari importante despre statutul Sudomemo sau valabilitati legate de contul dvs."

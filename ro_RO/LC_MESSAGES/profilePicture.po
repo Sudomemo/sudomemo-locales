@@ -1,34 +1,34 @@
 msgid ""
 msgstr ""
-"Language: en_US\n"
+"Language: ro_RO\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "SET_PROFILE_PICTURE"
-msgstr "Set Profile Picture"
+msgstr "Setati Poza de Profil"
 
 msgid "PROMPT_CHANGE_YOUR_PROFILE_IMAGE"
-msgstr "Change your profile picture?"
+msgstr "Schimbati poza de profil?"
 
 msgid "CONTINUE_SET_AS_PROFILE_PICTURE"
-msgstr "Confirm"
+msgstr "Confirmati"
 
 msgid "CURRENT"
-msgstr "Current"
+msgstr "Actuala"
 
 msgid "NEW"
-msgstr "New"
+msgstr "Noua"
 
 msgid "PROFILE_PICTURE_SET"
-msgstr "Profile picture successfully set!"
+msgstr "Poza de Profil a fost setata cu succes!"
 
 msgid "RETURN_TO_FLIPNOTE"
-msgstr "Return to Flipnote"
+msgstr "Intoarceti-va la Flipnote"
 
 msgid "CREATORS_ROOM"
-msgstr "Creator's Room"
+msgstr "Camera Creatorului"
 
 msgid "CANCEL"
-msgstr "Cancel"
+msgstr "Anulati"
 
 msgid "LOGIN_REQUIRED_TO_CHANGE"
-msgstr "You must be logged in to change your profile picture."
+msgstr "Trebbuie sa fiti conectat pentru a va schimba poza de profil."
