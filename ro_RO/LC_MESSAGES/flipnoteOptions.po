@@ -1,58 +1,58 @@
 msgid ""
 msgstr ""
-"Language: en_US\n"
+"Language: ro_RO\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "FLIPNOTE_OPTIONS"
-msgstr "Flipnote Options"
+msgstr "Optiuni Flipnote"
 
 msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
-msgstr "You must be logged in to view this page."
+msgstr "Trebuie sa fiti conectat pentru a vedea aceasta pagina."
 
 msgid "HEADER_OPTION"
-msgstr "Option"
+msgstr "Optiuni"
 
 msgid "HEADER_STATUS"
-msgstr "Status"
+msgstr "Statut"
 
 msgid "OPTION_NAME_SMOOTH"
-msgstr "Smoothing"
+msgstr "Netezire"
 
 msgid "OPTION_DESC_SMOOTH"
-msgstr "Lines, curves, and edges are smoothed for a more natural look on Sudomemo Theatre."
+msgstr "Liniile, curbele, si colturile sunt netezite pentru a arata mai natural pe Teatrul Sudomemo."
 
 msgid "FLIPNOTE_URL_IS"
 msgstr "Flipnote URL:"
 
 msgid "ENABLE_SMOOTHING"
-msgstr "Enable smoothing"
+msgstr "Porniti netezire"
 
 msgid "DISABLE_SMOOTHING"
-msgstr "Disable smoothing"
+msgstr "Opriti neterie"
 
 msgid "ON"
-msgstr "On"
+msgstr "Pornit"
 
 msgid "OFF"
-msgstr "Off"
+msgstr "Oprit"
 
 msgid "CITIZENSHIP_REQUIRED"
-msgstr "You'll need Sudomemo Citizenship to use this feature."
+msgstr "Va trebuie Cetatenie Sudomemo pentru a folosi aceasta."
 
 msgid "PLUS_REQUIRED"
-msgstr "You'll need Sudomemo Plus to use this feature."
+msgstr "Va trebuie Sudomemo Plus pentru a folosi aceasta."
 
 msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
-msgstr "Tap on an option's status to view or change it."
+msgstr "Apasati pe statutul unei optiuni pentru a o schimba."
 
 msgid "OPTION_NAME_FORCE_44K_BITRATE"
-msgstr "Enhanced audio"
+msgstr "Audio Imbunatatit"
 
 msgid "OPTION_DESC_FORCE_44K_BITRATE"
-msgstr "Sudomemo will try to make your audio sound crisper and cleaner for Sudomemo Theatre."
+msgstr "Sudomemo va incerca sa faca sunteul mai bun pe Teatrul Sudomemo."
 
 msgid "ENABLE_AUDIO_ENHANCEMENT"
-msgstr "Enable audio enhancement"
+msgstr "Porniti Imbunatatirea Audio"
 
 msgid "DISABLE_AUDIO_ENHANCEMENT"
-msgstr "Disable audio enhancement"
+msgstr "Opriti Imbunatatirea Audio"
