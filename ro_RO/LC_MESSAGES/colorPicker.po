@@ -1,22 +1,22 @@
 msgid ""
 msgstr ""
-"Language: en_US\n"
+"Language: ro_RO\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "SET_PEN_COLOR"
-msgstr "Set Pen Color"
+msgstr "Setati Culoarea Creionului"
 
 msgid "SET_PAPER_COLOR"
-msgstr "Set Paper Color"
+msgstr "Setati Culoarea Hartiei"
 
 msgid "SELECT_A_COLOR"
-msgstr "Select a color."
+msgstr "Selectati o culoare."
 
 msgid "CURRENT_COLOR"
-msgstr "Current color:"
+msgstr "Culoarea curenta:"
 
 msgid "CURRENT_COLOR_DEFAULT"
-msgstr "Current color: default"
+msgstr "Culoarea curenta: implicita"
 
 msgid "RETURN"
-msgstr "Return"
+msgstr "Inapoi"

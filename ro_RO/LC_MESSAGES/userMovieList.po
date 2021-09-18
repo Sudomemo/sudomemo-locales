@@ -4,25 +4,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "UPPERTITLE"
-msgstr "Browse"
+msgstr "Navigati"
 
 msgid "NEXT"
-msgstr "Next page"
+msgstr "Pagina urmatoare"
 
 msgid "PREV"
-msgstr "Previous page"
+msgstr "Pagina anterioara"
 
 msgid "PAGE"
-msgstr "Page"
+msgstr "Pagina"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d of %d"
+msgstr "%d din %d"
 
 msgid "FLIPNOTES_BY_FORMAT"
-msgstr "Flipnotes by %s"
+msgstr "Flipnote-uri de %s"
 
 msgid "STARRED_BY_FORMAT"
-msgstr "Starred by %s"
+msgstr "Stelat de %s"
 
 msgid "FAVORITES_FEED_FORMAT"
-msgstr "%s's Favorites Feed"
+msgstr "Fluxul de Favorite al lui %s"

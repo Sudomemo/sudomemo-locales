@@ -1,25 +1,25 @@
 msgid ""
 msgstr ""
-"Language: en_US\n"
+"Language: ro_RO\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "UPPERTITLE"
-msgstr "Channels"
+msgstr "Canale"
 
 msgid "UPPERSUBBOTTOM"
-msgstr "Please select a channel!"
+msgstr "Va rugam selectati un canal!"
 
 msgid "NEXT"
-msgstr "Next page"
+msgstr "Pagina urm."
 
 msgid "PREV"
-msgstr "Previous page"
+msgstr "Pagina ante."
 
 msgid "FAVORITES"
-msgstr "Favorites"
+msgstr "Favorite"
 
 msgid "PAGE"
-msgstr "Page"
+msgstr "Pagina"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d of %d"
+msgstr "%d din %d"

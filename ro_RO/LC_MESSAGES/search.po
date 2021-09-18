@@ -1,49 +1,49 @@
 msgid ""
 msgstr ""
-"Language: en_US\n"
+"Language: ro_RO\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "HEADER_PREV"
-msgstr "Prev"
+msgstr "Ante."
 
 msgid "HEADER_NEXT"
-msgstr "Next"
+msgstr "Urm."
 
 msgid "PAGE_FORMAT"
-msgstr "Page %d"
+msgstr "Pagina %d"
 
 msgid "SEARCH"
-msgstr "Search"
+msgstr "Cautati"
 
 msgid "USERNAME"
-msgstr "Username"
+msgstr "nume Utilizator"
 
 msgid "RESULTS"
-msgstr "Results"
+msgstr "Rezultate"
 
 msgid "SEARCH_USERNAME"
-msgstr "Search Username"
+msgstr "Cautati Nume Utilizator"
 
 msgid "PLEASE_ENTER_USERNAME"
-msgstr "Please enter a username..."
+msgstr "Scrieti nume utilizator..."
 
 msgid "RESULTS_FOUND_FORMAT_SINGULAR"
-msgstr "%1$d result found for \"%2$s\""
+msgstr "%1$d rezultate gasite pentru \"%2$s\""
 
 msgid "RESULTS_FOUND_FORMAT_MULTIPLE"
-msgstr "%1$d results found for \"%2$s\""
+msgstr "%1$d rezultate gasite pentru \"%2$s\""
 
 msgid "NO_RESULTS_FOUND"
-msgstr "No results found"
+msgstr "Nici un rezultat nu a fost gasit"
 
 msgid "SEARCH_SHORT_KEY"
-msgstr "Flipnote ID"
+msgstr "ID Flipnote"
 
 msgid "SHORT_KEY_NO_RESULTS"
-msgstr "No Flipnote found"
+msgstr "Nici un Flipnote nu a fost gasit"
 
 msgid "SHORT_KEY_FORMAT_GUIDE"
-msgstr "Not finding what you're looking for? You may have entered the Flipnote ID incorrectly. Flipnote IDs are six digits long and can be found in the details section for the Flipnote."
+msgstr "Nu ati gasit ceea ce cautati? Se poate sa fi introdus ID-ul Flipnote gresit. ID-urile Flipnote au 6 caractere si poate fi gasit in sectiunea de detalii al Flipnote-ului."
 
 msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
-msgstr "No result was found, but a similar ID exists. Please note that Flipnote IDs are case-sensitive, and usually all-capital letters and numbers."
+msgstr "Nu a fost gasit niciun rezultat, dar un ID similar exista. Tineti minte ca ID-urile Flipnote sunt caz sensibile, si sunt de obicei numai litere mari si numere."
