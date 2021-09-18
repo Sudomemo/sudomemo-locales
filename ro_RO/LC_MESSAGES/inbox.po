@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Language: en_US\n"
+"Language: ro_RO\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "HEADER_INBOX"
@@ -8,10 +8,10 @@ msgstr "Inbox"
 
 # this must be a max of 6 characters
 msgid "UNAUTHED_READ"
-msgstr "Read.."
+msgstr "Cititi..."
 
 msgid "PREV"
-msgstr "Prev"
+msgstr "Ante."
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "Urm."

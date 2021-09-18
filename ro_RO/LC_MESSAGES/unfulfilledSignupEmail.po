@@ -1,22 +1,22 @@
 msgid ""
 msgstr ""
-"Language: en_US\n"
+"Language: ro_RO\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "EMAIL_SUBJECT"
-msgstr "Sudomemo Signup Confirmation"
+msgstr "Confirmare Inscriere pe Sudomemo"
 
 msgid "SIGNUP_HEADER"
-msgstr "Sudomemo Signup Confirmation"
+msgstr "Confirmare Inscriere pe Sudomemo"
 
 msgid "TEXT_HELLO"
-msgstr "Hello!"
+msgstr "Buna!"
 
 msgid "TEXT_EMAIL_PURPOSE"
-msgstr "This email is to confirm your signup for Sudomemo."
+msgstr "Acest email este pentru inscrierea dvs. pe Sudomemo."
 
 msgid "TEXT_VERIFICATION_LINK_FORMAT"
-msgstr "Click <a target=\"_blank\" href=\"%s\">here</a> to continue!"
+msgstr "Apasati <a target=\"_blank\" href=\"%s\">aici</a> pentru a continua!"
 
 msgid "TEXT_URL_PLAIN_DISPLAY"
-msgstr "You may also copy and paste this URL into a new window:"
+msgstr "Puteti de asemenea sa copiati si sa inserati acest link intr-o nou fereastra:"

@@ -1,64 +1,64 @@
 msgid ""
 msgstr ""
-"Language: en_US\n"
+"Language: ro_RO\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "LOGIN_REQUIRED_TO_MANAGE_BLOCKS"
-msgstr "You need to be logged in to manage blocked users."
+msgstr "Trebuie sa fiti conectat pentru a administra utilizatori blocati."
 
 msgid "NO_USERS_BLOCKED"
-msgstr "You have no blocked users."
+msgstr "Nu aveti niciun utilizator blocat."
 
 msgid "BLOCKED_USERS"
-msgstr "Blocked Users"
+msgstr "Utilizatori Blocati"
 
 msgid "BLOCK_USER"
-msgstr "Block User"
+msgstr "Blocati utilizator"
 
 msgid "COMMENT_BLOCK_IS_MUTUAL"
-msgstr "Once you have blocked this user, you will no longer be able to comment on each other's Flipnotes."
+msgstr "Odata ce ati blocat acest utilizator, nu mai puteti comenta pe Flipnote-urile unui celuilalt."
 
 msgid "USER_HAS_BEEN_BLOCKED"
-msgstr "This user has been blocked."
+msgstr "Acest utilizator a fost blocat."
 
 msgid "IF_YOU_WISH_TO_UNBLOCK"
-msgstr "If you should ever wish to unblock them, you may unblock them by visiting your Creator's Room and opening the Blocked Users menu."
+msgstr "Daca doriti vreodata sa-i deblocati, puteti sa-i deblocati prin accesarea meniului Utilizatori Blocati in Camera Creatorului."
 
 msgid "CONFIRM_BLOCK"
-msgstr "Confirm Block"
+msgstr "Confirmati Blocarea"
 
 msgid "USER_ALREADY_BLOCKED"
-msgstr "You have already blocked this user. You may unblock them from the Settings menu in your Creator's Room, but you must wait 24 hours before you can block them again."
+msgstr "Ati blocat deja acest utilizator. il puteti debloca din meniul Setari din Camera Creatorului, dar trebuie sa asteptati 24 de ore inainte de a-l bloca din nou."
 
 msgid "ONE_DAY_WAIT_BEFORE_REBLOCK_FORMAT"
-msgstr "You have recently unblocked this user. You cannot block them again until %s"
+msgstr "Ati deblocat acest utilizator recent. Nu puteti sa-i blocati timp de %s"
 
 msgid "UNBLOCK"
-msgstr "Unblock"
+msgstr "Deblocati"
 
 msgid "LOGIN_REQUIRED"
-msgstr "You must be logged in to perform this action."
+msgstr "Trebuie sa fiti conectat pentru a performa aceasta actiune."
 
 msgid "TAP_BACK_TO_RETURN"
-msgstr "Tap Back to return to your Creator's Room."
+msgstr "Apasati Inapoi pentru a va intoarce in Camera Creatorului."
 
 msgid "UNBLOCK_USER"
-msgstr "Unblock User"
+msgstr "Deblocati Utilizator"
 
 msgid "CANNOT_UNBLOCK_NONBLOCKED_USER"
-msgstr "You cannot unblock this user, as you haven't actually blocked them in the first place."
+msgstr "Nu puteti debloca acest utilizator, deoarece nu dvs. i-ati blocat."
 
 msgid "USER_HAS_BEEN_UNBLOCKED"
-msgstr "You have unblocked this user."
+msgstr "Ati deblocat acest utilizator."
 
 msgid "COMMENTING_ENABLED_AFTER_UNBLOCK"
-msgstr "After you have unblocked this user, they will be able to comment on your Flipnotes again, unless they have you blocked as well."
+msgstr "Dupa ce ati deblocat acest utilizator, ei vor putea vedea pe Flipnote-urile dvs. din nou, doar daca nu v-au blocat si ei."
 
 msgid "UNBLOCK_WARNING_ONE_DAY_THRESHOLD"
-msgstr "If you unblock them, you must wait 24 hours before you are able to block them again."
+msgstr "Daca ii deblocati, va trebui sa asteptati 24 de ore inainte de a-i putea bloca din nou."
 
 msgid "CONFIRM_UNBLOCK"
-msgstr "Confirm Unblock"
+msgstr "Confirmati Deblocarea"
 
 msgid "RECENTLY_UNBLOCKED_ONE_DAY_THRESHOLD"
-msgstr "You have recently unblocked this user. You must wait 24 hours from the time you unblocked them before you are able to block them again."
+msgstr "Ati deblocat acest utilizator recent. Va trebui sa asteptati 24 de ore de la momentul la care l-ati deblocat inaite de a putea sa-l blocati din nou."
