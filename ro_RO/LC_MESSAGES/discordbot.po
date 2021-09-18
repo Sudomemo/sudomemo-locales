@@ -10,7 +10,7 @@ msgstr ""
 
 # Username was given a Nitro Booster Ticket...
 msgid "BOOST_TICKET_SUCCESS"
-msgstr "%s a primit un Nitro Booster Ticket, revendicabil timp de o luna si un trofeu special. Ura!"
+msgstr "%s a primit un Bilet Stimulator Nitro, revendicabil timp de o luna si un trofeu special. Ura!"
 
 # Account linking
 msgid "DISCORD_LINKING_GET_STARTED"
@@ -55,7 +55,7 @@ msgid "REJECT_ACCOUNT_ALREADY_LINKED"
 msgstr "v-ati conectat deja contul Sudomemo!"
 
 msgid "REJECT_BOOST_TICKET_COOLDOWN"
-msgstr "Deja ati primit Nitro Booster Ticket luna aceasta! (%s)"
+msgstr "Deja ati primit un Bilet Stimulator Discord luna aceasta! (%s)"
 
 msgid "REJECT_FSID_ENOENT"
 msgstr "Nu am gasit acest Flipnote Studio ID pe Sudomemo."
@@ -73,7 +73,7 @@ msgid "REJECT_LINK_TOKEN_ENOENT"
 msgstr "Link token-ul introdus de dvs. nu este valid sau nu exista."
 
 msgid "REJECT_NOT_NITRO_BOOSTER"
-msgstr "Trebuie sa fiti un Sudomemo Nitro Booster pentru aceasta!"
+msgstr "Trebuie sa fiti un Stimulator Nitro Sudomemo pentru aceasta!"
 
 msgid "REJECT_USER_ENOENT"
 msgstr "Nu am gasit acest utilizator pe Sudomemo."
@@ -93,7 +93,7 @@ msgstr ""
 msgid "USAGE_give_plus"
 msgstr ""
 "   give_plus <FSID>\n"
-"      Oferiti Nitro Booster ticket (1 month of Sudomemo Plus and a Trophy).\n"
+"      Oferiti Bilet Stimulator Discord (1 month of Sudomemo Plus and a Trophy).\n"
 "      <FSID>: Flipnote Studio ID"
 
 msgid "USAGE_link"
