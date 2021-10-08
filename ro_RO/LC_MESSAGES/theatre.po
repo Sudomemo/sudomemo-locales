@@ -145,14 +145,14 @@ msgid "PERMISSIONS"
 msgstr "Permisiuni"
 
 msgid "POPULAR"
-msgstr "Popular"
+msgstr "Populare"
 
 # Previous, abbreviated "Prev". Should be a maximum of 4 characters.
 msgid "PREV"
 msgstr "Ante."
 
 msgid "RANDOM"
-msgstr "La îintâmplare"
+msgstr "La întâmplare"
 
 # Referring to a release date/publishing date
 msgid "RELEASED"
@@ -229,7 +229,7 @@ msgid "NAVBAR_ITEM_CONNECTION_HELP"
 msgstr "Ajutor Conectare"
 
 msgid "NAVBAR_ITEM_FAQS"
-msgstr "FAQ-uri"
+msgstr "FAQ"
 
 msgid "TERMS_OF_USE"
 msgstr "Termenii de Utilizare"
@@ -462,7 +462,7 @@ msgid "FOLLOW_BACK"
 msgstr "Urmăriți Înapoi"
 
 msgid "FOLLOWING"
-msgstr "Urmăriți"
+msgstr "Îi Urmăriți"
 
 msgid "FOLLOW"
 msgstr "Urmăriți"
@@ -507,7 +507,7 @@ msgstr "Căutarea dvs. a dat prea multe rezultate - Încercați ceva mai sprecif
 
 # # User hasn't posted any Flipnotes yet
 msgid "SEARCH_PAGE_NO_FLIPNOTES_YET"
-msgstr "Niciun Flipnote încă..."
+msgstr "Nici un Flipnote încă..."
 
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
