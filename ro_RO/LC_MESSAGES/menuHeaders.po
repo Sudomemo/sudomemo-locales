@@ -7,7 +7,7 @@ msgid "GET_STARTED"
 msgstr "Incepeti"
 
 msgid "WATCH_FLIPNOTES"
-msgstr "Toate Flipnote-urile"
+msgstr "@Toate Flipnote-urile"
 
 msgid "CHANNELS"
 msgstr "Canale"
@@ -16,25 +16,25 @@ msgid "CATEGORIES"
 msgstr "Categorii"
 
 msgid "FEATURED"
-msgstr "Recomandate"
+msgstr "@Recomandate"
 
 msgid "HOT_FLIPNOTES"
-msgstr "Flipnote-uri fierbinti"
+msgstr "@Flipnote-uri fierbinti"
 
 msgid "ABOUT_SUDOMEMO"
 msgstr "Despre Sudomemo"
 
 msgid "CREATORS_ROOM"
-msgstr "Camera Creatorului"
+msgstr "@Camera Creatorului"
 
 msgid "NEWS"
-msgstr "Stirile Sudomemo"
+msgstr "@Stirile Sudomemo"
 
 msgid "CHATROOMS"
-msgstr "Camere de Conversatie"
+msgstr "@Camere de Conversatie"
 
 msgid "SEARCH"
-msgstr "Cautati"
+msgstr "@Cautati"
 
 msgid "SEARCH_USER"
 msgstr "Cautare Utilizator"
