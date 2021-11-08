@@ -462,7 +462,7 @@ msgid "FOLLOW_BACK"
 msgstr "Urmăriți Înapoi"
 
 msgid "FOLLOWING"
-msgstr "Îi Urmăriți"
+msgstr "Urmăriți"
 
 msgid "FOLLOW"
 msgstr "Urmăriți"
@@ -479,7 +479,7 @@ msgstr "Despre %s"
 
 # # User's ★ are from:
 msgid "PROFILE_STAR_COUNTRY_HEADER"
-msgstr "Stelele lui %s sunt de la:"
+msgstr "Stelele lui %s sunt din:"
 
 # # Recent comments on their Flipnotes
 msgid "PROFILE_RECENT_COMMENTS"
@@ -764,7 +764,7 @@ msgid "HEADER_UPLOAD_TO_YOUTUBE"
 msgstr "Încărcați pe YouTube"
 
 msgid "LINK_REQUIRED_BEFORE_UPLOAD"
-msgstr "atrebuie să vă asociați canalul de YouTube pentru a înainte de a încărca."
+msgstr "Trebuie să vă asociați canalul de YouTube pentru a înainte de a încărca."
 
 msgid "BTN_GO_TO_SETTINGS"
 msgstr "Mergeți în Setări"
