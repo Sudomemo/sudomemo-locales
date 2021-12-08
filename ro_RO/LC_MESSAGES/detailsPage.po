@@ -7,7 +7,7 @@ msgid "TIMESTAMP_FORMAT"
 msgstr "M d, Y H:i:s"
 
 msgid "FLIPNOTE_TITLE_FORMAT"
-msgstr "Flipnote dupa %s"
+msgstr "Flipnote de %s"
 
 msgid "HEADER_DETAILS"
 msgstr "Detalii"
