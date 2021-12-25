@@ -124,7 +124,7 @@ msgid "THEMETEST_OK"
 msgstr "Ok"
 
 msgid "THEMETEST_ERROR"
-msgstr "Eraore"
+msgstr "Eroare"
 
 msgid "THEMETEST_NOTICE_2"
 msgstr "Notita #2"
@@ -172,22 +172,22 @@ msgid "ENTER_BIO"
 msgstr "Introduceti Biografie..."
 
 msgid "101_CHARACTER_LIMIT_BIO"
-msgstr "Your biography is limited to 101 characters."
+msgstr "Biografia dvs. este limitata la 101 caractere."
 
 msgid "LEAVE_BLANK_TO_RESET_BIO"
-msgstr "To clear your biography, leave the form blank when submitting."
+msgstr "Pentru a va sterge biografia, lasati casuta goala cand o trimiteti."
 
 msgid "CURRENT_BIO"
-msgstr "Current Bio:"
+msgstr "Bio Actual:"
 
 msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
-msgstr "You can't follow more than %d users."
+msgstr "Nu puteti urmari mai mult de %d utilizatori."
 
 msgid "RANKING"
-msgstr "Ranking"
+msgstr "Clasament"
 
 msgid "TICKET_SECTION"
-msgstr "Tickets"
+msgstr "Bilete"
 
 msgid "DRAW_REGULAR_TICKET"
 msgstr "Trageti un Bilet"
