@@ -106,10 +106,10 @@ msgstr "今週のお題"
 
 # # Posting permissions
 msgid "CHANNEL_PERM_CLOSED"
-msgstr "閉じる"
+msgstr "非公開"
 
 msgid "CHANNEL_PERM_OPEN"
-msgstr "開く"
+msgstr "公開"
 
 msgid "COMMENTS"
 msgstr "コメント"
@@ -433,7 +433,7 @@ msgstr "Nintendo DSi"
 
 # Channel permissions: Is posting Flipnotes to a channel allowed or not?
 msgid "PERMISSIONS"
-msgstr "同意する"
+msgstr "公開設定"
 
 msgid "PLUS_LEARN_MORE"
 msgstr "詳しくはこちら"
