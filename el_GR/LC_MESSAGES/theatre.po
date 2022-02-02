@@ -941,8 +941,6 @@ msgstr "Αλλαγη Κωδικου"
 msgid "PASS_CHANGE_URL_EXPIRED"
 msgstr "Το URL που επισκευτηκατε εχει ληξει."
 
-
-
 msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
 msgstr "Δεν βρεθηκε χρηστης με αυτο το Flipnote Studio ID η email"
 
@@ -952,9 +950,56 @@ msgstr "Δεν υπαρχει διευθυνση email στο αρχειο μα�
 msgid "PASSWORD_RESET_SENT"
 msgstr "Εχει σταλει αλλαγη κωδικου στην διευθυνση email που διαθετουμε στο αρχειο μας."
 
-
 msgid "FORGOT_YOUR_PASSWORD"
 msgstr "Ξεχασατε τον κωδικο σας;"
 
 msgid "SUDOMEMO_USER"
 msgstr "Χρηστης Sudomemo"
+
+msgid "FLIPNOTE_ARCHIVE_BUTTON_TOGGLE"
+msgstr "Show link to archived Flipnote Hatena content from my profile"
+
+msgid "FLIPNOTE_ARCHIVE_SETTINGS"
+msgstr "Archive Settings"
+
+msgid "FLIPNOTE_ARCHIVE_PROFILE_AVAILABLE"
+msgstr "Your Flipnote Hatena profile is available through our Flipnote Archive Preview Program! You can view your old Flipnotes by visiting your profile on Sudomemo Theatre."
+
+msgid "FLIPNOTE_ARCHIVE_PROFILE_SETTING_INFORMATION"
+msgstr "While logged in, your archive link will always be shown on your page. You can choose whether or not to make this visible to other users below."
+
+msgid "FLIPNOTE_ARCHIVE_PROFILE_NOT_AVAILABLE"
+msgstr "An archived Flipnote Hatena profile is not available for this account."
+
+msgid "FLIPNOTE_HATENA_PROFILE"
+msgstr "Flipnote Hatena Profile"
+
+msgid "ARCHIVE_PROFILE"
+msgstr "Archive Profile"
+
+msgid "ARCHIVE_PROFILE_DESC"
+msgstr "This is an archive of a Flipnote Hatena profile."
+
+msgid "ARCHIVE_FLIPNOTE"
+msgstr "Archive Flipnote"
+
+msgid "ARCHIVE_FLIPNOTE_DESC"
+msgstr "This Flipnote was originally posted on Flipnote Hatena."
+
+msgid "VIEW_ON_SUDOMEMO"
+msgstr "View on Sudomemo"
+
+msgid "ARCHIVE"
+msgstr "Archive"
+
+msgid "ARCHIVED"
+msgstr "Archived"
+
+msgid "USERS_FLIPNOTE_FROM_FLIPNOTE_HATENA"
+msgstr "%s's Flipnote from Flipnote Hatena"
+
+msgid "USERS_PROFILE_FROM_FLIPNOTE_HATENA"
+msgstr "%s's profile from Flipnote Hatena"
+
+msgid "LEARN_MORE"
+msgstr "Learn more"
