@@ -16,20 +16,22 @@ msgstr "Künstler"
 
 # Year song was published
 msgid "RELEASE_YEAR"
-msgstr "Erschienen"
+msgstr "Erscheinungsjahr"
 
 msgid "GENRE"
 msgstr "Genre"
 
 # How many Flipnotes are using this song?
 msgid "FLIPNOTE_COUNT"
-msgstr "Flipnotes"
+msgstr "Flipnotes mit diesem Lied"
 
 msgid "BROWSE"
-msgstr "Durchsuchen"
+msgstr "Flipnotes Durchsuchen"
 
 msgid "SONG_ID"
 msgstr "Song-ID"
+
+
 
 msgid "LINK_YOUTUBE_SPOTIFY"
 msgstr "YouTube-Link und Spotify-Link sind verfügbar:"
