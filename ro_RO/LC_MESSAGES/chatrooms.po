@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Language: ro_RO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "NO_COMMENTS_YET"
+msgstr "Nici un mesaj nu a fost trimis aici."
+
+msgid "HEADER_COMMENTS"
+msgstr "Commentarii"
+
+msgid "PAGE_FORMAT"
+msgstr "Pagina %d"
+
+msgid "HEADER_NEXT"
+msgstr "Urm."
+
+msgid "HEADER_PREV"
+msgstr "Ante."
+
+msgid "HEADER_REFRESH"
+msgstr "Reincarcati"
+
+msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
+msgstr "Trebuie sa fiti conectat pentru a posta un mesaj in conversatie."
+
+msgid "CHAT_REPLY_FAILED"
+msgstr "Raspuns esuat. Incercati din nou intr-un moment."
+
+msgid "NO_BLANK_MESSAGES_ALLOWED"
+msgstr "Nu puteti posta un mesaj gol."
+
+msgid "FLIPNOTE_DATA_CORRUPTED"
+msgstr "Datele Filpnote-ului sunt corupte. Incercati din nou intr-un moment."
+
+msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
+msgstr "Ati fost pus pe mut. Nu puteti conversa."
+
+msgid "DUPLICATE_COMMENT_FAILED"
+msgstr "Acest comentariu a fost deja postat pe Sudomemo."
+
+msgid "COMMENT_FAILED_USER_BANNED"
+msgstr "Ati fost restrictionat din a interactiona cu Sudomemo."
+
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "Va rugam sa va confirmati emailul inainte de a posta."
+
+msgid "MODERATOR"
+msgstr "Moderator"

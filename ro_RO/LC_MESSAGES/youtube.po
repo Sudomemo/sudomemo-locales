@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Language: ro_RO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "HEADER_UPLOAD_TO_YOUTUBE"
+msgstr "Incarcati pe YouTube"
+
+msgid "YOUTUBE"
+msgstr "YouTube"
+
+msgid "HEADER_CONFIRM_OPTIONS"
+msgstr "Confirmati Optiuni"
+
+msgid "LINK_REQUIRED_BEFORE_UPLOAD"
+msgstr "Trebuie sa va asociati contul de YouTube pentru a incarca Flipnote-ul."
+
+msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
+msgstr "Contul dvs. de YouTube nu este verificat. Anumite caracteristici nu vor functiona corect, precum thumbnail-uri si Flipnote-urile mai lungi de 15 minute."
+
+# To fix this, visit: https://flipnot.es/ytsetup
+msgid "YOUTUBE_ACCOUNT_VERIFICATION_FIX"
+msgstr "Pentru a repara asta, visitati:"
+
+msgid "TITLE_DESC_MISSING"
+msgstr "Flipnote-ul dvs. trebuie sa aiba un titlu si o descriere inainte de a-l incarca."
+
+msgid "TITLE_DESC_ADD_FIRST"
+msgstr "Va rugam sa mergeti inapoi si adaugati acestea inainte de a continua."
+
+# A URL is displayed after this:
+msgid "HOW_TO_LINK_FROM_THEATRE"
+msgstr "Pentru a va asocia canalul de YouTube, visitati aceasta pagina:"
+
+msgid "HOW_TO_REFRESH_FROM_THEATRE"
+msgstr "Pentru a va actualiza canalul, visitti aceasta pagina:"
+
+# Preview upload details before submitting
+msgid "PREVIEW_TITLE"
+msgstr "Titlu"
+
+msgid "PREVIEW_DESC"
+msgstr "Descriere"
+
+msgid "PREVIEW_EXTRA_DESC"
+msgstr "Extra Descriere"
+
+msgid "PREVIEW_EXTRA_DESC_EXPLANATION"
+msgstr "Acest text va fi afisat cand vizionatorii vor apasa 'Aratati mai multe' in descrierea videoclipului dvs."
+
+msgid "TAGS"
+msgstr "Tag-uri"
+
+msgid "NONE"
+msgstr "Nicunul"
+
+msgid "YOUTUBE_LOOP_COUNT"
+msgstr "Numarul de rulari"
+
+msgid "YOUTUBE_LOOP_COUNT_EXPLANATION"
+msgstr "Numarul de ori un Flipnote pe loop se va repeta. Daca doar o data, acest Flipnote va rula doar o data."
+
+msgid "YOUTUBE_VISIBILITY"
+msgstr "Visibilitate"
+
+msgid "YOUTUBE_VISIBILITY_PUBLIC"
+msgstr "Public"
+
+msgid "YOUTUBE_VISIBILITY_UNLISTED"
+msgstr "Nelistat"
+
+msgid "YOUTUBE_VISIBILITY_PRIVATE"
+msgstr "Privat"
+
+msgid "SUBMIT"
+msgstr "Trimiteti"
+
+# Upload status
+msgid "UPLOAD_STATUS"
+msgstr "Statut de Incarcare"
+
+msgid "YOUTUBE_PENDING_UPLOAD"
+msgstr "Flipnote-ul dvs. asteapta sa fie incarcat. Verificati din nou in cateva minute."
+
+# Position in queue: 4
+msgid "POSITION_IN_QUEUE"
+msgstr "Positie la coada: %d"
+
+msgid "THEATRE_STATUS_TRACKER"
+msgstr "Vedeti Urmaritorul de Incarcari in direct aici:"
+
+msgid "REVIEW_DETAILS_BEFORE_UPLOAD"
+msgstr "Va rugam sa vedeti aceste detalii inainte de a continua."
+
+# ...do so, visit https://flipnot.es/ABC123/yt
+msgid "CHANGE_OPTIONS_ON_THEATRE"
+msgstr "Puteti schimba aceste optiuni inainte de a incarca. Pentru asta, visitati:"
+
+# ...please visit: https://flipnot.es/ytsetup
+msgid "SET_DEFAULTS_ON_THEATRE"
+msgstr "Pentru a va schimba opiunile de incarcare implicite, va rugam sa vizitati:"
+
+msgid "STATUS"
+msgstr "Statut"
+
+msgid "YOUTUBE_STATUS_NEW"
+msgstr "Nou"
+
+msgid "YOUTUBE_STATUS_PROCESSING"
+msgstr "Se proceseaza"
+
+msgid "YOUTUBE_STATUS_SUCCESS"
+msgstr "Terminat!"
+
+msgid "YOUTUBE_STATUS_PAUSED"
+msgstr "Pauza"
+
+msgid "YOUTUBE_STATUS_ERROR"
+msgstr "Eroare"
+
+msgid "YOUTUBE_STATUS_UNKNOWN"
+msgstr "Necunoscut"
+
+msgid "YOUTUBE_STATUS_WAITING_TO_BE_PROCESSED"
+msgstr "Incarcarea dvs. asteapta sa fie procesata."
+
+msgid "YOUTUBE_STATUS_BEING_PROCESSED"
+msgstr "Incarcarea dvs. se proceseaza."
+
+msgid "YOUTUBE_STATUS_COMPLETE"
+msgstr "Incarcarea dvs. este completa!"
+
+msgid "YOUTUBE_STATUS_FAILED"
+msgstr "A aparut o problema. pentru mai multe detalii, visitati https://flipnot.es/ytsetup"
+
+msgid "RECONNECT_NEEDED"
+msgstr "Conexiunea catre canalul dvs. de YouTube a expirat."
+
+msgid "BTN_START_UPLOAD"
+msgstr "Incepeti Incarcarea"
+
+msgid "YOUTUBE_ESTIMATED_DURATION"
+msgstr "Durata Estimata a Videoclipului:"
+
+# Extra features provided by Sudomemo Plus (see flipnoteOptions.po)
+msgid "PLUS_FEATURES"
+msgstr "Carcteristici Plus"
+
+msgid "PLUS_FEATURES_NOTE"
+msgstr "Schimbati aceste optiuni din pagina de detalii ale Flipnote-ului."
+
+msgid "FLIPNOTE_SMOOTHING"
+msgstr "Netezire Flipnote"
+
+msgid "AUDIO_ENHANCEMENT"
+msgstr "Imbunatatire Audio"
+
+msgid "ON"
+msgstr "Pornita"
+
+msgid "OFF"
+msgstr "Oprita"
+
+msgid "YOUTUBE_TERMS_AGREEMENT_NOTE"
+msgstr "Prin trimiterea videoclipurilor dvs. pe YouTube, sunteti de accord si luati la cunostiinta Termenii de Servicii si Ghidarile Comunitatii ai YouTube."
+
+# We may need to limit uploads per day depending on our API quota usage rate
+msgid "YOUTUBE_UPLOAD_LIMIT"
+msgstr "Puteti incarca %s videoclipuri pe YouTube pe zi."
+
+msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_LIMIT_NOTE"
+msgstr "Membrii Sudomemo Plus pot incarca %s videoclipuri pe zi."
+
+msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_UNLIMITED_NOTE"
+msgstr "Membrii Sudomemo Plus pot incarca un numar nelimitat de videoclipuri pe zi."
+
+msgid "YOUTUBE_UPLOAD_LIMIT_CURRENT"
+msgstr "Ati incarcat %s videoclipuri astazi."
+
+msgid "YOUTUBE_UPLOAD_LIMIT_EXCEEDED"
+msgstr "Nu puteti sa mai incarcati videoclipuri pana maine."
+
+# If the user's already uploaded it...
+msgid "FLIPNOTE_ALREADY_UPLOADED"
+msgstr "Ati incarcat deja acest Flipnote pe YouTube."
+
+msgid "YOUTUBE_ID"
+msgstr "YouTube ID"
+
+msgid "BTN_UPLOAD_AGAIN"
+msgstr "Incarcati din nou"
+
+msgid "YOUTUBE_STATUS_PAUSED_GLOBAL_QUOTA"
+msgstr "limita noastra globala de utilizare a fost depasita, deci incarcarile pot fi intarziate semnificativ."

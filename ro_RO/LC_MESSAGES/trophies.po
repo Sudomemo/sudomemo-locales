@@ -1,0 +1,151 @@
+msgid ""
+msgstr ""
+"Language: ro_RO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+# Trophy Case
+# # UI Headers, messages, labels
+msgid "TROPHY_CASE"
+msgstr "Valiza cu Trofee"
+
+msgid "CASE_IS_EMPTY"
+msgstr "Valiza cu Trofee este goala."
+
+msgid "ACHIEVEMENT_EARNED"
+msgstr "Ati obtinut o Realizare!"
+
+msgid "CONTINUE"
+msgstr "Continuati"
+
+# # Trophy names and descriptions
+msgid "TROPHY_NAME_demo_tester"
+msgstr "Tester Demo"
+
+msgid "TROPHY_DESC_demo_tester"
+msgstr "Participatin Programul de testare Actualizare Sudomemo din 2017"
+
+msgid "TROPHY_NAME_early_adopter"
+msgstr "Early Adopter"
+
+msgid "TROPHY_DESC_early_adopter"
+msgstr "Alaturati-va Sudomemo in prima luna de serviciu"
+
+msgid "TROPHY_NAME_featured_artist"
+msgstr "Artist Recomandat"
+
+msgid "TROPHY_DESC_featured_artist"
+msgstr "Deveniti recunoscut ca Artist Recomandat Sudomemo"
+
+msgid "TROPHY_NAME_featured_flipnote"
+msgstr "Flipnote Recomandat"
+
+msgid "TROPHY_DESC_featured_flipnote"
+msgstr "Aveti un Flipnote recomandat"
+
+msgid "TROPHY_NAME_ffotd"
+msgstr "Primul Flipnote al Deceniului"
+
+msgid "TROPHY_DESC_ffotd"
+msgstr "Postati primul Flipnote al unui deceniu"
+
+msgid "TROPHY_NAME_fifth_bday_event"
+msgstr "Petrecerea de a Cincea Aniversare Sudomemo"
+
+msgid "TROPHY_DESC_fifth_bday_event"
+msgstr "Faceti parte din a Cincea Aniversare Sudomemo"
+
+msgid "TROPHY_NAME_legacy_citizen"
+msgstr "Cetatean Mostenire"
+
+msgid "TROPHY_DESC_legacy_citizen"
+msgstr "Aveti Cetatenie Sudomemo inainte de a deveni Plus"
+
+msgid "TROPHY_NAME_meet_lazy_paisley"
+msgstr "Intailniti-l pe Lazy Paisley"
+
+msgid "TROPHY_DESC_meet_lazy_paisley"
+msgstr "Bucurati-va de viata sa simpla. Si mancare."
+
+msgid "TROPHY_NAME_meet_bailey_flitwing"
+msgstr "Intalniti-o pe Bailey Flitwing"
+
+msgid "TROPHY_DESC_meet_bailey_flitwing"
+msgstr "Curioasa despre lumea din afara cuibului sau."
+
+msgid "TROPHY_NAME_meet_ziggy_starburst"
+msgstr "Intalniti-l pe Ziggy Starburst"
+
+msgid "TROPHY_DESC_meet_ziggy_starburst"
+msgstr "Isitraieste viata zi de zi cu putin fler."
+
+msgid "TROPHY_NAME_meet_russell_ramblewood"
+msgstr "Intalniti-l pe Russell Rumblewood"
+
+msgid "TROPHY_DESC_meet_russell_ramblewood"
+msgstr "Este uimitor peste masura, dar tot vrea sa stie despre ziua dvs."
+
+msgid "TROPHY_NAME_meet_mitsuo_meow"
+msgstr "Intalniti-o pe Mitsuo Meow"
+
+msgid "TROPHY_DESC_meet_mitsuo_meow"
+msgstr "Vrea sa aduca noroc si fericire tuturor din jurul ei."
+
+msgid "TROPHY_NAME_neighborhood_watch"
+msgstr "Neighborhood Watch"
+
+msgid "TROPHY_DESC_neighborhood_watch"
+msgstr "Raportati corect continut ce violeaza Politele de Continut"
+
+msgid "TROPHY_NAME_one_million_flips_event"
+msgstr "Evenimentul de 1 Milion de Flipnote-uri"
+
+msgid "TROPHY_DESC_one_million_flips_event"
+msgstr "Luati parte la Evenimentul de 1 Milion de Flipnote-uri"
+
+msgid "TROPHY_NAME_translator"
+msgstr "Traducator"
+
+msgid "TROPHY_DESC_translator"
+msgstr "Contribuiti traduceri pentru a fi deschisi pentru toti"
+
+msgid "TROPHY_NAME_weekly_topic_winner"
+msgstr "Castigator al Subiectului Saptamanal"
+
+msgid "TROPHY_DESC_weekly_topic_winner"
+msgstr "Trimteti o intrare castigatoare de la Subiectul Saptamanal"
+
+msgid "TROPHY_NAME_folder"
+msgstr "Fisier"
+
+msgid "TROPHY_DESC_folder"
+msgstr "Donati timp catre Folding@Home pentru a ajuta sa lupte impotriva bolilor"
+
+msgid "TROPHY_NAME_colors_promo"
+msgstr "Castigatorul Subiectului Colors! x Sudomemo"
+
+msgid "TROPHY_DESC_colors_promo"
+msgstr "Unul dintre castigatorii subiectului Sudomemo x Colors, In Lumina"
+
+msgid "TROPHY_NAME_spookmaster"
+msgstr "Spookmaster"
+
+msgid "TROPHY_DESC_spookmaster"
+msgstr "Premiu Spookmaster pentru Excelenta in Vrajitorie."
+
+msgid "TROPHY_NAME_nitro_booster"
+msgstr "Stimulator Nitro"
+
+msgid "TROPHY_DESC_nitro_booster"
+msgstr "Arata cat de grozavi ei (sau un prieten) sunt pentru ca au stimulat serverul de Discord Sudomemo."
+
+msgid "TROPHY_NAME_7th_birthday_bash"
+msgstr "Aniversarea de 7 Ani"
+
+msgid "TROPHY_DESC_7th_birthday_bash"
+msgstr "Luati parte la Distractia Flipnote de 7 Ani Sudomemo"
+
+msgid "TROPHY_NAME_8th_birthday_bash"
+msgstr "Aniversarea de 8 Ani"
+
+msgid "TROPHY_DESC_8th_birthday_bash"
+msgstr "Participă la aniversarea de 8 ani de Distracție Flipnote"

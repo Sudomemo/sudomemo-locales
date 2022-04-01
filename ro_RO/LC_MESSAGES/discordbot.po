@@ -1,0 +1,114 @@
+# IMPORTANT NOTE ABOUT TRANSLATING THIS FILE
+# Pay close attention to "Only translate" as this includes the usage statements for our public Discord bot.
+# Spaces at the beginning must be kept intact. There are three spaces before each command entry
+# and six spaces before each command usage note.
+# \n represents a newline (aka a line break). Leave these alone as well.
+msgid ""
+msgstr ""
+"Language: ro_RO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+# Username was given a Nitro Booster Ticket...
+msgid "BOOST_TICKET_SUCCESS"
+msgstr "%s a primit un Bilet Stimulator Nitro, revendicabil timp de o luna si un trofeu special. Ura!"
+
+# Account linking
+msgid "DISCORD_LINKING_GET_STARTED"
+msgstr "Va rugam vizitati %s pentru a incepe!"
+
+msgid "DISCORD_LINKING_REQUIRED"
+msgstr "Trebuie sa va conectati cu contul de Sudomemo pentru a face asta."
+
+msgid "DISCORD_LINKING_SUCCESS"
+msgstr "Contul dvs. a fost conectat cu succes!"
+
+msgid "DISCORD_LINKING_UNLINKED"
+msgstr "Conexiunea dintre conturile dvs. de Discord si Sudomemo a fost stearsa."
+
+msgid "DISCORD_LINKING_UNLINK_NOT_LINKED_YET"
+msgstr "Contul dvs. de Discord nu este conectat la un cont Sudomemo."
+
+# "Invalid mode - must be one of: song, artist, genre"
+msgid "MUSICMATCH_INVALID_MODE"
+msgstr "Mod invalid - trebuie sa fie unul dintre %s"
+
+msgid "MUSICMATCH_MOVIE_COUNT_PLURAL"
+msgstr "%d (de) Flipnote-uri"
+
+msgid "MUSICMATCH_MOVIE_COUNT_SINGULAR"
+msgstr "%d (de) Flipnote-uri"
+
+msgid "MUSICMATCH_NO_RESULTS"
+msgstr "Nu am gasit nimic pentru asta, scuze!"
+
+msgid "MUSICMATCH_RESULT_HEADER_GT_MAX"
+msgstr "Topul rezultatelor %d :"
+
+msgid "MUSICMATCH_RESULT_HEADER_LT_MAX"
+msgstr "%d (de) rezultat(e):"
+
+# SongName by BandName
+msgid "MUSICMATCH_TITLE_BY_ARTIST"
+msgstr "%s dupa %s"
+
+msgid "REJECT_ACCOUNT_ALREADY_LINKED"
+msgstr "v-ati conectat deja contul Sudomemo!"
+
+msgid "REJECT_BOOST_TICKET_COOLDOWN"
+msgstr "Deja ati primit un Bilet Stimulator Discord luna aceasta! (%s)"
+
+msgid "REJECT_FSID_ENOENT"
+msgstr "Nu am gasit acest Flipnote Studio ID pe Sudomemo."
+
+msgid "REJECT_GENERIC_ERROR"
+msgstr "A aparut o eroare. Scuze!"
+
+msgid "REJECT_INVALID_FSID"
+msgstr "Acesta nu este un Flipnote Studio ID valid!"
+
+msgid "REJECT_INVALID_LINK_TOKEN"
+msgstr "Acest link token este nevalid! Va rugam vizitati %s pentru a incepe!"
+
+msgid "REJECT_LINK_TOKEN_ENOENT"
+msgstr "Link token-ul introdus de dvs. nu este valid sau nu exista."
+
+msgid "REJECT_NOT_NITRO_BOOSTER"
+msgstr "Trebuie sa fiti un Stimulator Nitro Sudomemo pentru aceasta!"
+
+msgid "REJECT_USER_ENOENT"
+msgstr "Nu am gasit acest utilizator pe Sudomemo."
+
+# "Usage: example_command <fsid>"
+msgid "USAGE"
+msgstr "Utilizare"
+
+# ONLY TRANSLATE: "usage", "commands"
+msgid "USAGE_INTRO"
+msgstr ""
+"utilizare: .sudo ...\n"
+"\n"
+"comenzi:"
+
+# ONLY TRANSLATE: "Give Nitro Booster ticket..." and "Flipnote Studio ID"
+msgid "USAGE_give_plus"
+msgstr ""
+"   give_plus <FSID>\n"
+"      Oferiti Bilet Stimulator Discord (1 month of Sudomemo Plus and a Trophy).\n"
+"      <FSID>: Flipnote Studio ID"
+
+msgid "USAGE_link"
+msgstr ""
+"   link\n"
+"      Conectati-va contul de Sudomemo cu Discord"
+
+# ONLY TRANSLATE "Search Sudomemo MusicMatch" and "What you're searching for"
+msgid "USAGE_musicmatch"
+msgstr ""
+"   mm, musicmatch <mode> <query>\n"
+"      Cautati Potrivire de Muzica Sudomemo \n"
+"      <mode>: song, artist, genre\n"
+"      <query>: Ce cautati"
+
+# displayed as "💡 Link your Sudomemo account with `.sudo link`"
+msgid "UNLINKED_COMMAND_TIP"
+msgstr "Conectati-va contul de Sudomemo cu"

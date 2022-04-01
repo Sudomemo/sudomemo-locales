@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Language: ro_RO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "SUDOMEMO"
+msgstr "Sudomemo"
+
+msgid "HEADER_FLIPNOTES"
+msgstr "Flipnote-uri"
+
+msgid "HEADER_NORMAL"
+msgstr "Recent"
+
+msgid "HEADER_HOT_FLIPNOTES"
+msgstr "Flipnote-uri fierbinti"
+
+msgid "HEADER_MOST_POPULAR"
+msgstr "Cele mai Populare"
+
+msgid "HEADER_NO_SPINOFFS"
+msgstr "Fara Spinoff-uri"
+
+msgid "HEADER_ROLEPLAYS"
+msgstr "Jocuri de Rol"
+
+msgid "HEADER_BROWSE_FLIPNOTES"
+msgstr "Navigati Flipnote-uri"
+
+msgid "HEADER_FEATURED_FLIPNOTES"
+msgstr "Flipnote-uri Recomandate"
+
+msgid "HEADER_RANDOM_FLIPNOTES"
+msgstr "Flipnote-uri la intamplare"
+
+msgid "HEADER_PAGE"
+msgstr "Pagina"
+
+msgid "PAGE"
+msgstr "Pagina"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d din %d"
+
+msgid "NEXT"
+msgstr "Urm."
+
+msgid "PREV"
+msgstr "Ante."
+
+msgid "POST_FLIPNOTE"
+msgstr "Postati Flipnote"
+
+msgid "CATEGORY_recent"
+msgstr "@Flipnote-uri la întâmplare"
+
+msgid "CATEGORY_hot"
+msgstr "@Firerbinti"
+
+msgid "CATEGORY_popular"
+msgstr "@Cele mai Populare"
+
+msgid "CATEGORY_featured"
+msgstr "@Recomandate"
+
+msgid "CATEGORY_random"
+msgstr "@La intamplare"
+
+msgid "CATEGORY_feed"
+msgstr "@Flux"
