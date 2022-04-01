@@ -19,7 +19,7 @@ msgid "RELEASE_YEAR"
 msgstr "Erscheinungsjahr"
 
 msgid "GENRE"
-msgstr "Genre"
+msgstr "Musikrichtung"
 
 # How many Flipnotes are using this song?
 msgid "FLIPNOTE_COUNT"
