@@ -37,37 +37,37 @@ msgid "TYPE_NEWS_NAME"
 msgstr "Sudomemo News"
 
 msgid "TYPE_NEWS_DESC"
-msgstr "Erhalte Emails über neue Beiträge auf Sudomemo News"
+msgstr "Erhalte E-Mails über neue Beiträge auf Sudomemo News"
 
 msgid "TYPE_PROMO_NAME"
-msgstr "Promo"
+msgstr "Prämie"
 
 msgid "TYPE_PROMO_DESC"
-msgstr "Erhalte Emails über neue Features, Tipps und Tricks sowie zukünftige Events!"
+msgstr "Erhalte E-Mails über neue Features, Tipps und Tricks sowie zukünftige Events!"
 
 msgid "TYPE_FAVE_NOTIF_NAME"
 msgstr "Zu Favoriten hinzugefügt"
 
 msgid "TYPE_FAVE_NOTIF_DESC"
-msgstr "Erhalte eine Email, wenn jemand Dich zu seinen Favoriten hinzufügt"
+msgstr "Erhalte eine E-Mail, wenn jemand dich zu seinen Favoriten hinzufügt"
 
 msgid "TYPE_COMMENT_NOTIF_NAME"
 msgstr "Kommentar erhalten"
 
 msgid "TYPE_COMMENT_NOTIF_DESC"
-msgstr "Erhalte eine Email, wenn jemand unter deinem Flipnote einen Kommentar postet"
+msgstr "Erhalte eine E-Mail, wenn jemand unter deinem Flipnote einen Kommentar postet"
 
 msgid "TYPE_STAR_REPORT_NAME"
 msgstr "Täglicher Sternebericht"
 
 msgid "TYPE_STAR_REPORT_DESC"
-msgstr "Erhalte täglich eine Email mit einer Zusammenfassung über die am Tag erhaltenen Sterne"
+msgstr "Erhalte täglich eine E-Mail mit einer Zusammenfassung über die am Tag erhaltenen Sterne"
 
 msgid "TYPE_SPINOFF_NOTIF_NAME"
 msgstr "Spin-Off erhalten"
 
 msgid "TYPE_SPINOFF_NOTIF_DESC"
-msgstr "Erhalte eine Email, wenn ein Spin-off deiner Flipnotes hochgeladen wird"
+msgstr "Erhalte eine E-Mail, wenn ein Spin-off deiner Flipnotes hochgeladen wird"
 
 msgid "TYPE_SECURITY_NOTIF_NAME"
 msgstr "Konto-Sicherheit"
@@ -79,28 +79,28 @@ msgid "TYPE_REPORT_UPDATE_NAME"
 msgstr "Updates über gemeldete Inhalte"
 
 msgid "TYPE_REPORT_UPDATE_DESC"
-msgstr "Erhalte eine Email, wenn wir den Status der von dir gemeldeten Inhalte aktualisieren"
+msgstr "Erhalte eine E-Mail, wenn wir den Status der von dir gemeldeten Inhalte aktualisieren"
 
 msgid "TYPE_UNREAD_COMMENTS_NAME"
 msgstr "Ungelesene Kommentare"
 
 msgid "TYPE_UNREAD_COMMENTS_DESC"
-msgstr "Erhalte eine zusammenfassende Email der neulich erhaltenen Kommentare"
+msgstr "Erhalte eine zusammenfassende E-Mail der neulich erhaltenen Kommentare"
 
 msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
 msgstr "Tippe auf den Status eines Mail-Typs, um ihn zu verwalten."
 
 msgid "HEADER_CHANGE_EMAIL_SETTINGS"
-msgstr "Email-Einstellungen ändern"
+msgstr "E-Mail-Einstellungen ändern"
 
 msgid "DISABLE_CONFIRMATION_FORMAT"
-msgstr "Willst du wirklich die Emails für '%s' deaktivieren?"
+msgstr "Willst du wirklich die E-Mails für '%s' deaktivieren?"
 
 msgid "REENABLE_INSTRUCTIONS"
 msgstr "Willst du sie wieder aktivieren, wähle die Option <strong>Mail-Einstellungen</strong> auf deiner Creator-Seite."
 
 msgid "EMAIL_SETTING_DISABLED_FINISH_FORMAT"
-msgstr "Du hast die Emails für '%s' deaktiviert."
+msgstr "Du hast die E-Mails für '%s' deaktiviert."
 
 msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
 msgstr "Der eingegebene Link ist abgelaufen."
