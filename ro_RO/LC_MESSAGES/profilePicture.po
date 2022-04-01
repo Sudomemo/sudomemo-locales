@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Language: ro_RO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "SET_PROFILE_PICTURE"
+msgstr "Setati Poza de Profil"
+
+msgid "PROMPT_CHANGE_YOUR_PROFILE_IMAGE"
+msgstr "Schimbati poza de profil?"
+
+msgid "CONTINUE_SET_AS_PROFILE_PICTURE"
+msgstr "Confirmati"
+
+msgid "CURRENT"
+msgstr "Actuala"
+
+msgid "NEW"
+msgstr "Noua"
+
+msgid "PROFILE_PICTURE_SET"
+msgstr "Poza de Profil a fost setata cu succes!"
+
+msgid "RETURN_TO_FLIPNOTE"
+msgstr "Intoarceti-va la Flipnote"
+
+msgid "CREATORS_ROOM"
+msgstr "Camera Creatorului"
+
+msgid "CANCEL"
+msgstr "Anulati"
+
+msgid "LOGIN_REQUIRED_TO_CHANGE"
+msgstr "Trebbuie sa fiti conectat pentru a va schimba poza de profil."

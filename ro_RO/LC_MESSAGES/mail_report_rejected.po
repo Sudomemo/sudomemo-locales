@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Language: ro_RO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+# Content Report Rejected - sent to user who has reported content after report deemed invalid
+msgid "NOTICE"
+msgstr "Instiintare"
+
+# # Intro
+msgid "REPORT_REJECTED"
+msgstr "Am revizuit un raportaj de continut pe care l-ati trimis."
+
+msgid "REPORT_REJECTED_CONTINUED"
+msgstr "Investigatia noastra a aratat ca acest continut nu violeaza Politicile de Continut, deci nu a fost sters."
+
+# this message is followed by a link
+msgid "REPORT_REJECTED_INFO"
+msgstr "Raportaje ca al dvs. fac Sudomemo un loc sigur si binevenitor pentru toata lumea. Va recomandam sa cititi Politele de Continut pentru a intelege mai bine ce tipuri de continut sunt accepatbile pe Sudomemo:"
+
+# # Content types
+msgid "CONTENT_TYPE_flipnote"
+msgstr "Flipnote"
+
+msgid "CONTENT_TYPE_comment"
+msgstr "Comentarii"
+
+msgid "CONTENT_TYPE_chat_message"
+msgstr "Mesaj Conversatie"
+
+# ## We plan on adding user-created themes.
+msgid "CONTENT_TYPE_room_theme"
+msgstr "Tema Camera Creatorului"
+
+msgid "CONTENT_TYPE_profile_bio"
+msgstr "Text de pe Profil"
+
+# ## Catch-all
+msgid "CONTENT_TYPE_content"
+msgstr "Alt Continut"
+
+msgid "CONTENT_TYPE"
+msgstr "Tip de continut:"
+
+msgid "CONTENT_ID"
+msgstr "ID Continut:"

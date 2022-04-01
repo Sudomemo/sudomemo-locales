@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Language: ro_RO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "EMAIL_SUBJECT_FORMAT"
+msgstr "[Sudomemo] La Multi Ani, %s!"
+
+msgid "GREETING_FORMAT"
+msgstr "Hei %s!"
+
+msgid "HAPPY_BIRTHDAY"
+msgstr "La multi ani!"
+
+msgid "SPECIAL_SURPRISE_WAITING"
+msgstr "Exista un cadou special care va asteapta Sudomemo."
+
+msgid "LOGON_ON_DS_TO_VIEW"
+msgstr "Conectati-va cu contul dvs. de Sudomemo pe Nintendo DSi si Nintendo 3DS pentru a revendica cadoul!"

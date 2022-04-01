@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Language: ro_RO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "HEADER_COMMENTS"
+msgstr "Comentarii"
+
+msgid "HEADER_DETAILS"
+msgstr "Detalii"
+
+msgid "HEADER_PREV"
+msgstr "Ante."
+
+msgid "HEADER_NEXT"
+msgstr "Urm."
+
+msgid "HEADER_REFRESH"
+msgstr "Reincarcati"
+
+msgid "PAGE_FORMAT"
+msgstr "Pagina %d"
+
+msgid "NO_COMMENTS_YET"
+msgstr "Acets Flipnote nu are niciun comentariu inca."
+
+msgid "LOGIN_REQUIRED_TO_POST_COMMENT"
+msgstr "Trebuie sa fiti conectat pentru a posta un comentariu."
+
+msgid "COMMENT_POST_FAILED"
+msgstr "Postarea comentariului a esuat. Incercati din nou."
+
+msgid "NO_BLANK_COMMENTS_ALLOWED"
+msgstr "Nu puteti posta un comentariu gol."
+
+msgid "FLIPNOTE_DATA_CORRUPTED"
+msgstr "Datele acestui Flipnote sunt corupte. Incercati din nou."
+
+msgid "FLIPNOTE_COMMENTS_DISALLOWED"
+msgstr "Nu puteti comenta pe acest Flipnote."
+
+msgid "NO_COMMENTS_WHILE_MUTED"
+msgstr "Ati fost dat pe mut. Nu puteti comenta."
+
+msgid "DUPLICATE_COMMENT_FAILED"
+msgstr "Acest comentariu a fost postat deja pe acest Flipnote."
+
+msgid "COMMENT_FAILED_USER_BANNED"
+msgstr "Ati fost restrictionat din a folosi Sudomemo."
+
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "Va rugam confirmati-va emailul inainte de a posta."
+
+msgid "MODERATOR"
+msgstr "Moderator"
+
+msgid "SUDOMEMO_USER"
+msgstr "Utilizator Sudomemo"
