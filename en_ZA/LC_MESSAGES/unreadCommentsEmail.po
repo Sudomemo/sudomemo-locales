@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Language: en_ZA\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "EMAIL_SUBJECT_FORMAT"
+msgstr "[Sudomemo] %s, wook at teh new coments on ur fwipy wipy notes! o//w//o"
+
+msgid "TITLE_NEW_COMMENTS"
+msgstr "nUWU coments"
+
+msgid "HELLO_FORMAT"
+msgstr "Hewo, %s! *purrs and nuzzles u* rawr"
+
+msgid "TEXT_YOU_HAVE_X_COMMENTS_FROM_FORMAT"
+msgstr "u got %d new coment(s) (WOW THAS A LOT!!!!!!) on Sudomemo from %s"
+
+msgid "AND"
+msgstr "and"
+
+msgid "AND_X_OTHERS_FORMAT"
+msgstr "and %s moar!! WOW THAS SO MANY IM SO PWOWD!!"
+
+msgid "TEXT_HOW_TO_VIEW_UNREAD_COMMENTS_TAP_ICON_FORMAT"
+msgstr "u can see teh new epic coments by taping %s in ur notifs!! awoooo~"

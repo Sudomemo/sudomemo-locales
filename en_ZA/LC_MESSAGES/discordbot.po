@@ -1,0 +1,114 @@
+# IMPORTANT NOTE ABOUT TRANSLATING THIS FILE
+# Pay close attention to "Only translate" as this includes the usage statements for our public Discord bot.
+# Spaces at the beginning must be kept intact. There are three spaces before each command entry
+# and six spaces before each command usage note.
+# \n represents a newline (aka a line break). Leave these alone as well.
+msgid ""
+msgstr ""
+"Language: en_ZA\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+# Username was given a Nitro Booster Ticket...
+msgid "BOOST_TICKET_SUCCESS"
+msgstr "%s was given a nitwowo boosta ticket! wis can get u a whole month of Sudomemo pwus and a twophy!!!!"
+
+# Account linking
+msgid "DISCORD_LINKING_GET_STARTED"
+msgstr "please go to %s to get stawted!"
+
+msgid "DISCORD_LINKING_REQUIRED"
+msgstr "you need to add yoww Sudomemo account to do that siwwie"
+
+msgid "DISCORD_LINKING_SUCCESS"
+msgstr "yayyy!! your account was linked good!"
+
+msgid "DISCORD_LINKING_UNLINKED"
+msgstr "uh oh. the link for your discoword account gone >:("
+
+msgid "DISCORD_LINKING_UNLINK_NOT_LINKED_YET"
+msgstr "yoww account isnt linked to discowod!."
+
+# "Invalid mode - must be one of: song, artist, genre"
+msgid "MUSICMATCH_INVALID_MODE"
+msgstr "inwalid mode - must be one of %s"
+
+msgid "MUSICMATCH_MOVIE_COUNT_PLURAL"
+msgstr "%d Fwipnyotes"
+
+msgid "MUSICMATCH_MOVIE_COUNT_SINGULAR"
+msgstr "%d Fwipnyote"
+
+msgid "MUSICMATCH_NO_RESULTS"
+msgstr "thewe awe no Fwipnyotes with that song!"
+
+msgid "MUSICMATCH_RESULT_HEADER_GT_MAX"
+msgstr "Top %d results:"
+
+msgid "MUSICMATCH_RESULT_HEADER_LT_MAX"
+msgstr "%d result(s):"
+
+# SongName by BandName
+msgid "MUSICMATCH_TITLE_BY_ARTIST"
+msgstr "%s by %s"
+
+msgid "REJECT_ACCOUNT_ALREADY_LINKED"
+msgstr "yoww account is alweady winked!!!"
+
+msgid "REJECT_BOOST_TICKET_COOLDOWN"
+msgstr "u've already given a nitwowo boosta ticket this month!! (%s)"
+
+msgid "REJECT_FSID_ENOENT"
+msgstr "no one wivv that fwipynote id exists :o"
+
+msgid "REJECT_GENERIC_ERROR"
+msgstr "i couldnt do that!! sowwy :("
+
+msgid "REJECT_INVALID_FSID"
+msgstr "that fwipynote id is invalid!!"
+
+msgid "REJECT_INVALID_LINK_TOKEN"
+msgstr "that link token is not valid!! pwease visit %s to get it done!"
+
+msgid "REJECT_LINK_TOKEN_ENOENT"
+msgstr "The link token you provided is expired or does not exist."
+
+msgid "REJECT_NOT_NITRO_BOOSTER"
+msgstr "You need to be a Sudomemo Nitro Booster to use this!"
+
+msgid "REJECT_USER_ENOENT"
+msgstr "I didn't find that user on Sudomemo."
+
+# "Usage: example_command <fsid>"
+msgid "USAGE"
+msgstr "Usage"
+
+# ONLY TRANSLATE: "usage", "commands"
+msgid "USAGE_INTRO"
+msgstr ""
+"usage: .sudo ...\n"
+"\n"
+"commands:"
+
+# ONLY TRANSLATE: "Give Nitro Booster ticket..." and "Flipnote Studio ID"
+msgid "USAGE_give_plus"
+msgstr ""
+"   give_plus <FSID>\n"
+"      give nitwowo boosta ticket (1 wholeeee month of Sudomemo Pwus and a Trophy!).\n"
+"      <FSID>: Fwipynote Studio ID"
+
+msgid "USAGE_link"
+msgstr ""
+"   link\n"
+"      Link your Sudomemo account to Discowod"
+
+# ONLY TRANSLATE "Search Sudomemo MusicMatch" and "What you're searching for"
+msgid "USAGE_musicmatch"
+msgstr ""
+"   mm, musicmatch <mode> <query>\n"
+"      Search Sudomemo MusicMatch\n"
+"      <mode>: song, artist, genre\n"
+"      <query>: What you're searching for"
+
+# displayed as "💡 Link your Sudomemo account with `.sudo link`"
+msgid "UNLINKED_COMMAND_TIP"
+msgstr "Link your Sudomemo account with"

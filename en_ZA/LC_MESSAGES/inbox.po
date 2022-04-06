@@ -1,0 +1,17 @@
+msgid ""
+msgstr ""
+"Language: en_ZA\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "HEADER_INBOX"
+msgstr "Inbox"
+
+# this must be a max of 6 characters
+msgid "UNAUTHED_READ"
+msgstr "Read.."
+
+msgid "PREV"
+msgstr "oops"
+
+msgid "NEXT"
+msgstr "next"

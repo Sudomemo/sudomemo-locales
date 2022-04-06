@@ -1,0 +1,122 @@
+msgid ""
+msgstr ""
+"Language: en_ZA\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "TIMESTAMP_FORMAT"
+msgstr "M d, Y H:i:s"
+
+msgid "FLIPNOTE_TITLE_FORMAT"
+msgstr "fwipnyote by %s"
+
+msgid "HEADER_DETAILS"
+msgstr "Rawr xD"
+
+msgid "HEADER_COMMENTS"
+msgstr "AAAAA"
+
+msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
+msgstr "This flipmeme is a spinaroo"
+
+msgid "HEADER_ORIGINAL_FLIPNOTE"
+msgstr "View the source flipmeme here"
+
+msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
+msgstr "to pwevent staw-begging, yewwow staws awe wimited to ten pew fwipnyote"
+
+msgid "HEADER_CREATOR"
+msgstr "creator ouo"
+
+msgid "HEADER_STARS"
+msgstr "OwO whats this"
+
+msgid "HEADER_VIEWS"
+msgstr "clicks!"
+
+msgid "HEADER_SPINOFFS"
+msgstr "spinaroos!"
+
+msgid "HEADER_DOWNLOADS"
+msgstr "savwes!"
+
+msgid "HEADER_TITLE"
+msgstr "art name"
+
+msgid "HEADER_POSTED"
+msgstr "locked in"
+
+msgid "HEADER_FLIPNOTE_ID"
+msgstr "Flipmeme ID"
+
+msgid "HEADER_CHANNEL"
+msgstr "channyew!!"
+
+msgid "HEADER_OPTIONS"
+msgstr "Settings"
+
+msgid "HEADER_SET_AS_PROFILE_PICTURE"
+msgstr "Set as Pwofile Pictowe"
+
+msgid "HEADER_REPORT_FLIPNOTE"
+msgstr "Weport Flipnote :o"
+
+msgid "ADMIN_ACTIONS"
+msgstr "Admin actions"
+
+msgid "PREV"
+msgstr "oops"
+
+msgid "NEXT"
+msgstr "yeet"
+
+msgid "STAR_DETAILS_UPPERTITLE"
+msgstr "★ OwO ★"
+
+msgid "SET_TITLE"
+msgstr "give name"
+
+msgid "SET_TITLE_INSTRUCTIONS"
+msgstr "put name here pls."
+
+msgid "40_CHARACTER_LIMIT"
+msgstr "it can be... 40 LETTERS!"
+
+msgid "LEAVE_BLANK_TO_RESET"
+msgstr "take away title? leave blank."
+
+msgid "ENTER_TITLE"
+msgstr "ya right here..."
+
+msgid "HEADER_ADD_DESCRIPTION"
+msgstr "add MORE INFO pls"
+
+msgid "HEADER_DESCRIPTION"
+msgstr "Description"
+
+msgid "SET_DESCRIPTION"
+msgstr "Set Description"
+
+msgid "SET_DESCRIPTION_INSTRUCTIONS"
+msgstr "description goes here i think."
+
+msgid "101_CHARACTER_LIMIT_DESC"
+msgstr "it can be...101 LETTERS!"
+
+msgid "LEAVE_BLANK_TO_RESET_DESC"
+msgstr "take away description? ;<; leave blank"
+
+msgid "ENTER_DESCRIPTION"
+msgstr "put it in here..."
+
+msgid "HEADER_FLIPNOTE_OPTIONS"
+msgstr "fiddle"
+
+msgid "HEADER_SONG"
+msgstr "Song"
+
+# This is shown to logged-in users on their own Flipnotes without titles
+msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
+msgstr "Untitled Flipnote by %s"
+
+msgid "HEADER_UPLOAD_TO_YOUTUBE"
+msgstr "Upload to YouTube"
