@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Language: en_US\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "UPPERTITLE"
+msgstr "Browse"
+
+msgid "NEXT"
+msgstr "Next page"
+
+msgid "PREV"
+msgstr "Previous page"
+
+msgid "PAGE"
+msgstr "Page"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d of %d"
+
+msgid "FLIPNOTES_BY_FORMAT"
+msgstr "Flipnotes by %s"
+
+msgid "STARRED_BY_FORMAT"
+msgstr "Starred by %s"
+
+msgid "FAVORITES_FEED_FORMAT"
+msgstr "%s's Favorites Feed"
