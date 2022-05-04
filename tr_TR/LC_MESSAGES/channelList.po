@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Language: en_US\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "UPPERTITLE"
+msgstr "Channels"
+
+msgid "UPPERSUBBOTTOM"
+msgstr "Please select a channel!"
+
+msgid "NEXT"
+msgstr "Next page"
+
+msgid "PREV"
+msgstr "Previous page"
+
+msgid "FAVORITES"
+msgstr "Favorites"
+
+msgid "PAGE"
+msgstr "Page"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d of %d"
