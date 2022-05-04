@@ -10,7 +10,7 @@ msgid "BAN_NOTICE_CONSOLE_BAN"
 msgstr "Dein Konto und deine Konsole von Sudomemo suspendiert."
 
 msgid "BAN_NOTICE_PLEASE_READ_BAN_LETTER"
-msgstr "Bitte lese den von uns zugestellten Brief für weitere Information."
+msgstr "Bitte lese den von uns zugestellten Brief für weitere Informationen."
 
 msgid "BAN_VIEW_MAIL"
 msgstr "Sudomemo-Mail lesen"
@@ -22,7 +22,7 @@ msgid "THANKS_FOR_LOGIN_FORMAT"
 msgstr "Danke fürs Einloggen, %s!"
 
 msgid "GOTO_CREATORS_ROOM"
-msgstr "Zu deine, Ersteller-Raum"
+msgstr "Gehe zu deinem Ersteller-Raum %s"
 
 msgid "LOGIN"
 msgstr "Login"
