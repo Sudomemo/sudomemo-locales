@@ -4,61 +4,61 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "LOGIN_REQUIRED_TO_MANAGE_BLOCKS"
-msgstr "You need to be logged in to manage blocked users."
+msgstr "É preciso teres feito login na tua conta para bloquear utilizadores."
 
 msgid "NO_USERS_BLOCKED"
-msgstr "You have no blocked users."
+msgstr "Tu não tens utilizadores bloqueados."
 
 msgid "BLOCKED_USERS"
-msgstr "Blocked Users"
+msgstr "Utilizadores Bloqueados"
 
 msgid "BLOCK_USER"
-msgstr "Block User"
+msgstr "Bloquear Utilizador"
 
 msgid "COMMENT_BLOCK_IS_MUTUAL"
-msgstr "Once you have blocked this user, you will no longer be able to comment on each other's Flipnotes."
+msgstr "Assim que bloqueares este utilizador, tu e o outro utilizador não poderão comentar nos Flipnotes de um e do outro."
 
 msgid "USER_HAS_BEEN_BLOCKED"
-msgstr "This user has been blocked."
+msgstr "Este utilizador foi bloqueado."
 
 msgid "IF_YOU_WISH_TO_UNBLOCK"
-msgstr "If you should ever wish to unblock them, you may unblock them by visiting your Creator's Room and opening the Blocked Users menu."
+msgstr "Se quiseres desbloquear este utilizador, podes desbloquear-lo ao visitar a tua Sala de Criador e abrir o menu de Utilizadores Bloqueados."
 
 msgid "CONFIRM_BLOCK"
-msgstr "Confirm Block"
+msgstr "Confirmar Bloquear"
 
 msgid "USER_ALREADY_BLOCKED"
-msgstr "You have already blocked this user. You may unblock them from the Settings menu in your Creator's Room, but you must wait 24 hours before you can block them again."
+msgstr "Já bloqueaste este utilizador. Podes desbloquear este utilizador no menu de Defenições na tua Sala de Criador, mas tens de esperar pelo menos 24h para o bloquear outra vez."
 
 msgid "ONE_DAY_WAIT_BEFORE_REBLOCK_FORMAT"
-msgstr "You have recently unblocked this user. You cannot block them again until %s"
+msgstr "Tu bloqueaste este utilizador recentemente. Não o podes bloquear outra vez até %s passarem"
 
 msgid "UNBLOCK"
-msgstr "Unblock"
+msgstr "Desbloquear"
 
 msgid "LOGIN_REQUIRED"
-msgstr "You must be logged in to perform this action."
+msgstr "Tens de ter feito login na tua conta para fazer esta acção."
 
 msgid "TAP_BACK_TO_RETURN"
-msgstr "Tap Back to return to your Creator's Room."
+msgstr "Toque no Voltar para voltar para a tua Sala de Criador."
 
 msgid "UNBLOCK_USER"
-msgstr "Unblock User"
+msgstr "Desbloquear Utilizador"
 
 msgid "CANNOT_UNBLOCK_NONBLOCKED_USER"
-msgstr "You cannot unblock this user, as you haven't actually blocked them in the first place."
+msgstr "Não podes desbloquear este utilizador, pois ainda não o bloqueaste em primeiro lugar."
 
 msgid "USER_HAS_BEEN_UNBLOCKED"
-msgstr "You have unblocked this user."
+msgstr "Tu desbloqueaste este utilizador."
 
 msgid "COMMENTING_ENABLED_AFTER_UNBLOCK"
-msgstr "After you have unblocked this user, they will be able to comment on your Flipnotes again, unless they have you blocked as well."
+msgstr "Após desbloqueares este utilizador, vocês podes comentar nos vossos Flipnotes uma vez mais, se eles não te bloquearam também."
 
 msgid "UNBLOCK_WARNING_ONE_DAY_THRESHOLD"
-msgstr "If you unblock them, you must wait 24 hours before you are able to block them again."
+msgstr "Se o desbloqueares, tens de esperar cerca de 24 horas antes de o voltar a bloquear."
 
 msgid "CONFIRM_UNBLOCK"
-msgstr "Confirm Unblock"
+msgstr "Confirmar Desbloquear"
 
 msgid "RECENTLY_UNBLOCKED_ONE_DAY_THRESHOLD"
-msgstr "You have recently unblocked this user. You must wait 24 hours from the time you unblocked them before you are able to block them again."
+msgstr "Tu desbloqueaste este utilizador recentemente. Deves esperar cerca de 24 horas da altura que o desbloqueaste para o bloquear outra vez."
