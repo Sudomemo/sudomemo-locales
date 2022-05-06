@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Language: en_US\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "COMMENT_DETAILS"
+msgstr "Comment Details"
+
+msgid "MESSAGE_DETAILS"
+msgstr "Message Details"
+
+msgid "AUTHOR"
+msgstr "Author"
+
+msgid "COMMENT_BY_FORMAT"
+msgstr "Comment by %s"
+
+msgid "CHAT_MESSAGE_FROM_FORMAT"
+msgstr "Chat Message from %s"
+
+msgid "MESSAGE_FROM_FORMAT"
+msgstr "Message from %s"
+
+msgid "FLIPNOTE_BY_FORMAT"
+msgstr "Flipnote by %s"
+
+msgid "COMMENT_ID"
+msgstr "Comment ID"
+
+msgid "MESSAGE_ID"
+msgstr "Message ID"
+
+msgid "CHAT_COMMENT_ID"
+msgstr "Chat Comment ID"
+
+msgid "TIMESTAMP"
+msgstr "Timestamp"
+
+msgid "POSTED_TO"
+msgstr "Posted to"
+
+msgid "PRIVATE_CONVERSATION"
+msgstr "Private Conversation"
+
+msgid "REPORT_CONTENT"
+msgstr "Report Content"
+
+msgid "COMMENT_HIDDEN_UNKNOWN"
+msgstr "Comment hidden due to request"
+
+msgid "COMMENT_HIDDEN_SELF"
+msgstr "Comment hidden by author"
+
+msgid "COMMENT_HIDDEN_RECIPIENT"
+msgstr "Comment hidden by Flipnote author"
+
+msgid "COMMENT_HIDDEN_MODERATOR"
+msgstr "Comment hidden by moderator"
