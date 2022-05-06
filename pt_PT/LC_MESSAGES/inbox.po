@@ -1,17 +1,17 @@
 msgid ""
 msgstr ""
-"Language: en_US\n"
+"Language: pt_PT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "HEADER_INBOX"
-msgstr "Inbox"
+msgstr "Caixa de Entrada"
 
 # this must be a max of 6 characters
 msgid "UNAUTHED_READ"
-msgstr "Read.."
+msgstr "Lidos.."
 
 msgid "PREV"
-msgstr "Prev"
+msgstr "Anterior"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "P"
