@@ -4,55 +4,55 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "COMMENT_DETAILS"
-msgstr "Comment Details"
+msgstr "Detalhes do Comentário"
 
 msgid "MESSAGE_DETAILS"
-msgstr "Message Details"
+msgstr "Detalhes da Mensagem"
 
 msgid "AUTHOR"
-msgstr "Author"
+msgstr "Autor"
 
 msgid "COMMENT_BY_FORMAT"
-msgstr "Comment by %s"
+msgstr "Comentário de %s"
 
 msgid "CHAT_MESSAGE_FROM_FORMAT"
-msgstr "Chat Message from %s"
+msgstr "Mensagem de Chat de %s"
 
 msgid "MESSAGE_FROM_FORMAT"
-msgstr "Message from %s"
+msgstr "Mensagem de %s"
 
 msgid "FLIPNOTE_BY_FORMAT"
-msgstr "Flipnote by %s"
+msgstr "Flipnote de %s"
 
 msgid "COMMENT_ID"
-msgstr "Comment ID"
+msgstr "ID do Comentário"
 
 msgid "MESSAGE_ID"
-msgstr "Message ID"
+msgstr "ID da Mensagem"
 
 msgid "CHAT_COMMENT_ID"
-msgstr "Chat Comment ID"
+msgstr "ID do Comentário de Chat"
 
 msgid "TIMESTAMP"
-msgstr "Timestamp"
+msgstr "Carimbo data/hora"
 
 msgid "POSTED_TO"
-msgstr "Posted to"
+msgstr "Postado a"
 
 msgid "PRIVATE_CONVERSATION"
-msgstr "Private Conversation"
+msgstr "Conversa Privada"
 
 msgid "REPORT_CONTENT"
-msgstr "Report Content"
+msgstr "Reportar Conteúdo"
 
 msgid "COMMENT_HIDDEN_UNKNOWN"
-msgstr "Comment hidden due to request"
+msgstr "Comentário oculto devido a pedido"
 
 msgid "COMMENT_HIDDEN_SELF"
-msgstr "Comment hidden by author"
+msgstr "Comentário oculto pelo autor"
 
 msgid "COMMENT_HIDDEN_RECIPIENT"
-msgstr "Comment hidden by Flipnote author"
+msgstr "Comentário oculto pelo autor do Flipnote"
 
 msgid "COMMENT_HIDDEN_MODERATOR"
-msgstr "Comment hidden by moderator"
+msgstr "Comentário oculto pelo moderador"
