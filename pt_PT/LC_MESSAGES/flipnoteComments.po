@@ -1,58 +1,58 @@
 msgid ""
 msgstr ""
-"Language: en_US\n"
+"Language: pt_PT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "HEADER_COMMENTS"
-msgstr "Comments"
+msgstr "Comentários"
 
 msgid "HEADER_DETAILS"
-msgstr "Details"
+msgstr "Detalhes"
 
 msgid "HEADER_PREV"
-msgstr "Prev"
+msgstr "Anterior"
 
 msgid "HEADER_NEXT"
-msgstr "Next"
+msgstr "Próximo"
 
 msgid "HEADER_REFRESH"
-msgstr "Refresh"
+msgstr "Actualizar"
 
 msgid "PAGE_FORMAT"
-msgstr "Page %d"
+msgstr "Página %d"
 
 msgid "NO_COMMENTS_YET"
-msgstr "This Flipnote doesn't have any comments yet."
+msgstr "Este Flipnote ainda não tem nenhum comentário."
 
 msgid "LOGIN_REQUIRED_TO_POST_COMMENT"
-msgstr "You must be logged in to post a comment."
+msgstr "Tens de ter feito login para postar um comentário."
 
 msgid "COMMENT_POST_FAILED"
-msgstr "Comment post failed. Try again in a moment."
+msgstr "Post do comentário falhou. Tente outra vez dentro de momentos."
 
 msgid "NO_BLANK_COMMENTS_ALLOWED"
-msgstr "You cannot post a blank comment."
+msgstr "Não podes postar um comentário em branco."
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "The Flipnote data is corrupted. Try again in a moment."
+msgstr "Os dados do Flipnote estão corrompidos. Tente outra vez dentro de momentos."
 
 msgid "FLIPNOTE_COMMENTS_DISALLOWED"
-msgstr "You may not comment on this Flipnote."
+msgstr "Não podes comentar neste Flipnote."
 
 msgid "NO_COMMENTS_WHILE_MUTED"
-msgstr "You've been muted. You may not comment."
+msgstr "Foste silenciado. Não podes comentar."
 
 msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "This comment has already been posted to Sudomemo."
+msgstr "Este comentário já foi postado no Sudomemo."
 
 msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "You've been restricted from using Sudomemo."
+msgstr "Foste restrito de usar o Sudomemo."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Please confirm your email before posting."
+msgstr "Por favor confirma o teu email antes de postar."
 
 msgid "MODERATOR"
-msgstr "Moderator"
+msgstr "Moderador"
 
 msgid "SUDOMEMO_USER"
-msgstr "Sudomemo User"
+msgstr "Utilizador do Sudomemo"
