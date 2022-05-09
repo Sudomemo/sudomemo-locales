@@ -957,49 +957,49 @@ msgid "SUDOMEMO_USER"
 msgstr "Sudomemo User"
 
 msgid "FLIPNOTE_ARCHIVE_BUTTON_TOGGLE"
-msgstr "Show link to archived Flipnote Hatena content from my profile"
+msgstr "プロフィールからアーカイブされたうごメモはてなのコンテンツへのリンクを表示する。"
 
 msgid "FLIPNOTE_ARCHIVE_SETTINGS"
-msgstr "Archive Settings"
+msgstr "アーカイブの設定"
 
 msgid "FLIPNOTE_ARCHIVE_PROFILE_AVAILABLE"
-msgstr "Your Flipnote Hatena profile is available through our Flipnote Archive Preview Program! You can view your old Flipnotes by visiting your profile on Sudomemo Theatre."
+msgstr "うごメモはてなのプロフィールは、うごメモアーカイブ・プレビュー・プログラムにて公開されます。Sudomemo Theatreのプロフィールにアクセスして、昔の自分のうごメモを見ることができます。"
 
 msgid "FLIPNOTE_ARCHIVE_PROFILE_SETTING_INFORMATION"
-msgstr "While logged in, your archive link will always be shown on your page. You can choose whether or not to make this visible to other users below."
+msgstr "ログインしている間、あなたのページには常にアーカイブのリンクが表示されます。このリンクを他のユーザーにも表示するかどうかは、以下で選択できます。"
 
 msgid "FLIPNOTE_ARCHIVE_PROFILE_NOT_AVAILABLE"
-msgstr "An archived Flipnote Hatena profile is not available for this account."
+msgstr "うごメモはてなのプロフィールのアーカイブは、このアカウントでは利用できません。"
 
 msgid "FLIPNOTE_HATENA_PROFILE"
-msgstr "Flipnote Hatena Profile"
+msgstr "うごメモはてなのプロフィール"
 
 msgid "ARCHIVE_PROFILE"
-msgstr "Archive Profile"
+msgstr "プロフィールのアーカイブ"
 
 msgid "ARCHIVE_PROFILE_DESC"
-msgstr "This is an archive of a Flipnote Hatena profile."
+msgstr "うごメモはてなのプロフィールのアーカイブです。"
 
 msgid "ARCHIVE_FLIPNOTE"
-msgstr "Archive Flipnote"
+msgstr "うごメモのアーカイブ"
 
 msgid "ARCHIVE_FLIPNOTE_DESC"
-msgstr "This Flipnote was originally posted on Flipnote Hatena."
+msgstr "このうごメモは、うごメモはてなに投稿されたものです。"
 
 msgid "VIEW_ON_SUDOMEMO"
-msgstr "View on Sudomemo"
+msgstr "Sudomemoで見る"
 
 msgid "ARCHIVE"
-msgstr "Archive"
+msgstr "アーカイブ"
 
 msgid "ARCHIVED"
-msgstr "Archived"
+msgstr "アーカイブ"
 
 msgid "USERS_FLIPNOTE_FROM_FLIPNOTE_HATENA"
-msgstr "%s's Flipnote from Flipnote Hatena"
+msgstr "うごメモはてなの%sさんのうごメモ"
 
 msgid "USERS_PROFILE_FROM_FLIPNOTE_HATENA"
-msgstr "%s's profile from Flipnote Hatena"
+msgstr "うごメモはてなの%sさんのうごメモ"
 
 msgid "LEARN_MORE"
-msgstr "Learn more"
+msgstr "詳細"
