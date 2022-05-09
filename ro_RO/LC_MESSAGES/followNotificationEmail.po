@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"Language: ro_RO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "EMAIL_SUBJECT_FORMAT"
+msgstr "[Sudomemo] %s v-a adaugat la Favorite"
+
+msgid "GREETING_FORMAT"
+msgstr "Hei %s!"
+
+msgid "NEW_FOLLOWER_ADDED_YOU_FORMAT"
+msgstr "%s tocmai v-a adaugat la Favorite."
+
+msgid "STATS_FLIPNOTES_FORMAT"
+msgstr "%s Flipnote-uri"
+
+msgid "STATS_FOLLOWERS_FORMAT"
+msgstr "%s Urmaritori"
+
+msgid "STATS_FLIPNOTES_FORMAT_SINGULAR"
+msgstr "%s Flipnnote"
+
+msgid "STATS_FOLLOWERS_FORMAT_SINGULAR"
+msgstr "%s Urmaritor"
+
+msgid "VIEW_PROFILE"
+msgstr "Vedeti Profil"

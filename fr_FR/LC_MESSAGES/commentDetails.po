@@ -46,14 +46,13 @@ msgid "TIMESTAMP"
 msgstr "Heure du message"
 
 msgid "COMMENT_HIDDEN_UNKNOWN"
-msgstr "Comment hidden due to request"
+msgstr "Commentaire masqué suite à une demande"
 
 msgid "COMMENT_HIDDEN_SELF"
-msgstr "Comment hidden by author"
+msgstr "Commentaire masqué par l'auteur"
 
 msgid "COMMENT_HIDDEN_RECIPIENT"
-msgstr "Comment hidden by Flipnote author"
+msgstr "Commentaire masqué par l'auteur de la Flipnote"
 
 msgid "COMMENT_HIDDEN_MODERATOR"
-msgstr "Comment hidden by moderator"
-
+msgstr "Commentaire masqué par un modérateur"

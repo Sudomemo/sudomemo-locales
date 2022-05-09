@@ -4,109 +4,109 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "HEADER_MAIL_SETTINGS"
-msgstr "Mail Settings"
+msgstr "Impostazioni Mail"
 
 msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
-msgstr "You must be logged in to edit your mail settings."
+msgstr "Devi accedere per modificare le tue impostazioni mail."
 
 msgid "MAIL_TYPE"
-msgstr "Type"
+msgstr "Tipo"
 
 msgid "MAIL_STATUS"
-msgstr "Status"
+msgstr "Stato"
 
 msgid "ENABLED"
-msgstr "Enabled"
+msgstr "Attivato"
 
 msgid "DISABLED"
-msgstr "Disabled"
+msgstr "Disattivato"
 
 msgid "ENABLE"
-msgstr "Enable"
+msgstr "Attiva"
 
 msgid "DISABLE"
-msgstr "Disable"
+msgstr "Disattiva"
 
 msgid "TAP_TO_ENABLE"
-msgstr "Tap to enable"
+msgstr "Tocca per attivare"
 
 msgid "TAP_TO_DISABLE"
-msgstr "Tap to disable"
+msgstr "Tocca per disattivare"
 
 msgid "TYPE_NEWS_NAME"
-msgstr "Sudomemo News"
+msgstr "Notizie Sudomemo"
 
 msgid "TYPE_NEWS_DESC"
-msgstr "Receive an email when something new is posted to the Sudomemo News"
+msgstr "Ricevi un'email quando qualcosa di nuovo viene postato in Sudomemo News"
 
 msgid "TYPE_PROMO_NAME"
-msgstr "Promo"
+msgstr "Promozione"
 
 msgid "TYPE_PROMO_DESC"
-msgstr "Receive emails about new features, tips and tricks, and upcoming events!"
+msgstr "Ricevi email riguardo nuove funzioni, consigli, trucchi e prossimi eventi!"
 
 msgid "TYPE_FAVE_NOTIF_NAME"
-msgstr "Added as Favorite"
+msgstr "Aggiunto come Preferito"
 
 msgid "TYPE_FAVE_NOTIF_DESC"
-msgstr "Receive an email when someone adds you to their Favorites"
+msgstr "Ricevi un'email quando qualcuno ti aggiunge ai suoi Preferiti"
 
 msgid "TYPE_COMMENT_NOTIF_NAME"
-msgstr "Comment Received"
+msgstr "Commento ricevuto"
 
 msgid "TYPE_COMMENT_NOTIF_DESC"
-msgstr "Receive an email when someone comments on your Flipnote"
+msgstr "Ricevi un'email quando qualcuno commenta un tuo Flipnote"
 
 msgid "TYPE_STAR_REPORT_NAME"
-msgstr "Daily Star Report"
+msgstr "Report delle Stelle giornaliero"
 
 msgid "TYPE_STAR_REPORT_DESC"
-msgstr "Receive an email at the end of the day about any stars you've received"
+msgstr "Ricevi un'email alla fine della giornata riguardo a quante Stelle hai ricevuto"
 
 msgid "TYPE_SPINOFF_NOTIF_NAME"
-msgstr "Spin-off Received"
+msgstr "Spin-off ricevuto"
 
 msgid "TYPE_SPINOFF_NOTIF_DESC"
-msgstr "Receive an email when someone posts a spin-off to your Flipnote"
+msgstr "Ricevi un'email quando qualcuno posta uno spin-off ad un tuo Flipnote"
 
 msgid "TYPE_SECURITY_NOTIF_NAME"
-msgstr "Account Security"
+msgstr "Sicurezza Account"
 
 msgid "TYPE_SECURITY_NOTIF_DESC"
-msgstr "Receive an email when your email address or password is updated"
+msgstr "Ricevi un'email quando il tuo indirizzo email o la password sono aggiornati"
 
 msgid "TYPE_REPORT_UPDATE_NAME"
-msgstr "Flagged Content Update"
+msgstr "Aggiornamenti contenuto contrassegnato"
 
 msgid "TYPE_REPORT_UPDATE_DESC"
-msgstr "Receive an email when we update the status of content that you've flagged"
+msgstr "Ricevi un'email quando aggiorniamo lo stato di un contenuto che hai contrassegnato"
 
 msgid "TYPE_UNREAD_COMMENTS_NAME"
-msgstr "Unread Comments"
+msgstr "Commenti non letti"
 
 msgid "TYPE_UNREAD_COMMENTS_DESC"
-msgstr "Receive an email summary of any new comments you've received recently"
+msgstr "Ricevi un'email di riepilogo sui nuovi commenti che hai ricevuto di recente"
 
 msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
-msgstr "Tap on a mail type's status to view or update it."
+msgstr "Tocca sul tipo di stato delle mail per vederlo o aggiornarlo."
 
 msgid "HEADER_CHANGE_EMAIL_SETTINGS"
-msgstr "Change Email Settings"
+msgstr "Cambia Impostazioni Email"
 
 msgid "DISABLE_CONFIRMATION_FORMAT"
-msgstr "Are you sure you want to disable '%s' emails?"
+msgstr "Sei sicuro di voler disattivare '%s' email?"
 
 msgid "REENABLE_INSTRUCTIONS"
-msgstr "If you want to turn them back on, you can do so from by selecting <strong>Email Settings</strong> in your Creator's Room."
+msgstr "Se vuoi riattivarle, puoi farlo selezionando <strong>Impostazioni Email</strong> nella tua Stanza Creatore."
 
 msgid "EMAIL_SETTING_DISABLED_FINISH_FORMAT"
-msgstr "You've disabled '%s' emails."
+msgstr "Hai disattivato '%s' email."
 
 msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
-msgstr "The link you followed has expired."
+msgstr "Il link che hai seguito è scaduto."
 
 msgid "TYPE_SERVICE_UPDATE_NAME"
-msgstr "Service Updates"
+msgstr "Aggiornamenti Servizio"
 
 msgid "TYPE_SERVICE_UPDATE_DESC"
-msgstr "Important updates about Sudomemo's status or availability related to your account"
+msgstr "Aggiornamenti importanti riguardo lo stato e disponibilità di Sudomemo relativi al tuo account"

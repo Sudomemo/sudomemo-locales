@@ -1,0 +1,13 @@
+msgid ""
+msgstr ""
+"Language: ro_RO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "TEXT_CHANGE_SETTINGS_PROMPT"
+msgstr "Vreti sa ajustati emailurile trimise de Sudomemo?"
+
+msgid "TEXT_HOW_TO_CHANGE_SETTINGS_DSI"
+msgstr "Puteti cu usurinta sa le actualizati daca vizitati Camera Creatorului dvs. pe Sudomemo si selctati <strong>Setari de Email</strong>."
+
+msgid "TEXT_WEB_SETTINGS_CHANGE_FORMAT"
+msgstr "Sau, puteti sa opriti aceste tipuri de emailuri daca apasati <a target=\"_blank\" href=\"%s\"><strong>aici</strong></a>."

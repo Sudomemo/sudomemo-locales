@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Language: ro_RO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+# Sudomemo Plus Legacy Citizenship Activation
+msgid "SUDOMEMO_PLUS_LEGACY_HEADER"
+msgstr "Bine ati venit la Sudomemo Plus!"
+
+msgid "GREETING_LEGACY_ACTIVATE_FORMAT"
+msgstr "Buna, %s!"
+
+msgid "LEGACY_ACTIVATE_CITIZENSHIP_CHANGE"
+msgstr "Cetatenia Sudomemo a disparut, a fost inlocuita de Sudomemo Plus!"
+
+msgid "LEGACY_ACTIVATE_PLUS_TEASER"
+msgstr "Sudomemo Plus va ofera acces la tot felul de lucruri in plus, precum netezire si imbunatatirea Flipnote-urilor dvs. pe Teatrul Sudomemo, precum comentarii colorate si alte lucruri interesante!"
+
+msgid "LEGACY_ACTIVATE_EARN_PLUS"
+msgstr "Sudomemo Plus poate fi obtinut prin revendicarea biletelor cumparate de pe Magazin sau daca introduceti numarul castigator de pe Subiectul Saptamanal."
+
+msgid "LEGACY_ACTIVATE_GRANDFATHERED_BONUS"
+msgstr "Deoarece ati avut Cetatenie Sudomemo inainte, vi s-a oferit o luna de Sudomemo Plus. Uitati-va in jur si incercati lucruri noi amizante!"
+
+msgid "CONTINUE"
+msgstr "Continuati"
+
+# My Sudomemo Plus
+msgid "MANAGE_PLUS_HEADER"
+msgstr "Sudomemo Plus al meu"
+
+msgid "MANAGE_PLUS_REMAINING"
+msgstr "Mai aveti %s zi(le) de Sudomemo Plus ramase."
+
+msgid "MANAGE_PLUS_HOW_TO_EARN_PLUS"
+msgstr "Sudomemo Plus poate fi obtinut prin revendicarea biletelor cumparate de pe Magazin sau daca introduceti numarul castigator de pe Subiectul Saptamanal."
+
+msgid "AVAILABLE_PLUS_FEATURES"
+msgstr "Urmatoarele optiuni sunt valabile prin Sudomemo Plus. Aveti grija sa verificati aceasta din cand in cand!"
+
+msgid "FOOTNOTE_PLATFORM_FEATURE_PARITY"
+msgstr "Tineti minte ca anumite optiuni, precum Netezirea Flipnote si imbunatatirea audio, pot fi vazute doar pe Teatrul Sudomemo."
+
+msgid "FLIPNOTE_SMOOTHING"
+msgstr "Netezirea Flipnote"
+
+msgid "FLIPNOTE_AUDIO_ENHANCEMENT"
+msgstr "Imbunatatirea Audio Flipnote"
+
+msgid "COLORFUL_COMMENTS"
+msgstr "Scrieti comentarii colorate"
+
+msgid "DOWNLOAD_YOUR_COMMENTS"
+msgstr "Descarcati comentariile dvs. ca Flipnote-uri"
+
+msgid "THEME_PUBLISHER_ACCESS"
+msgstr "Publicati Teme pe Magazinul de Teme"
+
+msgid "FLIPNOTE_ANALYTICS"
+msgstr "Accesati informatii analitice pentru Flipnote-urile dvs."
+
+msgid "SUDOMEMO_GAME_ACCESS"
+msgstr "Jucati jocuri speciale pe Sudomemo!"
+
+msgid "NO_THEATRE_ADS"
+msgstr "Fara reclame pe Teatrul Sudomemo "
+
+msgid "INCREASED_FOLLOW_LIMIT"
+msgstr "Creste limita de urmaritori - pana la %s Creatori"
+
+# Sudomemo Plus Running Low Message
+msgid "PLUS_RUNNING_OUT_MSG_TITLE"
+msgstr "Sudomemo Plus al meu"
+
+msgid "PLUS_RUNNING_OUT_MSG_INTRO"
+msgstr "Buna, %s!"
+
+msgid "PLUS_RUNNING_OUT_MSG_DAYS_REMAINING_FORMAT"
+msgstr "Acest mesaj va informeaza ca mai aveti %s zile de Sudomemo Plus ramase."
+
+msgid "PLUS_RUNNING_OUT_MSG_HOW_TO_EARN_PLUS"
+msgstr "Nu uitati ca puteti obtine Sudomemo Plus daca intoduceti intrarile castigatoare de pe Subiectul Saptamanal, sau daca revendicati bilete de pe Magazin."
+
+msgid "PLUS_RUNNING_OUT_MSG_HAPPY_FLIPNOTING"
+msgstr "Flipnoting Fericit!"
