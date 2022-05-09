@@ -55,7 +55,7 @@ msgid "REJECT_ACCOUNT_ALREADY_LINKED"
 msgstr "既にスドメモアカウントと紐付けされています！"
 
 msgid "REJECT_BOOST_TICKET_COOLDOWN"
-msgstr "You've already given a Nitro Booster ticket this month! (%s)"
+msgstr "今月はすでにニトロブースターチケットをプレゼントしています! (%s)"
 
 msgid "REJECT_FSID_ENOENT"
 msgstr "このうごメモIDに該当するユーザーはスドメモ上では見つかりませんでした。"
@@ -106,7 +106,7 @@ msgid "USAGE_musicmatch"
 msgstr ""
 "   mm, musicmatch <mode> <query>\n"
 "      スドメモMusicMatchで探す\n"
-"      <mode>: song, artist, genre\n"
+"      <mode>: 曲・アーティスト・ジャンル\n"
 "      <query>: 検索対象名"
 
 # displayed as "💡 Link your Sudomemo account with `.sudo link`"
