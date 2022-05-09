@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Language: ro_RO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "UPPERTITLE"
+msgstr "Navigati Canal"
+
+msgid "POST_FLIPNOTE"
+msgstr "Postati Flipnote"
+
+msgid "NEXT"
+msgstr "Urm."
+
+msgid "PREV"
+msgstr "Ante."
+
+msgid "PAGE"
+msgstr "Pagina"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d din %d"
+
+msgid "SPINOFFS"
+msgstr "Spinoff-uri"
+
+msgid "BROWSE_BY_SONG"
+msgstr "Cautati dupa Cantec"
+
+msgid "BROWSE_BY_ARTIST"
+msgstr "Cautati dupa Artist"
+
+msgid "BROWSE_BY_ALBUM"
+msgstr "Cautati dupa Album"
+
+msgid "BROWSE_PLAYLIST"
+msgstr "Cautati Playlist-uri"

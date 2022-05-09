@@ -4,46 +4,46 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "HEADER_PREV"
-msgstr "Prev"
+msgstr "Prec"
 
 msgid "HEADER_NEXT"
-msgstr "Next"
+msgstr "Successivo"
 
 msgid "PAGE_FORMAT"
-msgstr "Page %d"
+msgstr "Pagina %d"
 
 msgid "SEARCH"
-msgstr "Search"
+msgstr "Cerca"
 
 msgid "USERNAME"
-msgstr "Username"
+msgstr "Nome utente"
 
 msgid "RESULTS"
-msgstr "Results"
+msgstr "Risultati"
 
 msgid "SEARCH_USERNAME"
-msgstr "Search Username"
+msgstr "Cerca nome utente"
 
 msgid "PLEASE_ENTER_USERNAME"
-msgstr "Please enter a username..."
+msgstr "Inserisci un nome utente..."
 
 msgid "RESULTS_FOUND_FORMAT_SINGULAR"
-msgstr "%1$d result found for \"%2$s\""
+msgstr "%1$d risultato trovato per \"%2$s\""
 
 msgid "RESULTS_FOUND_FORMAT_MULTIPLE"
-msgstr "%1$d results found for \"%2$s\""
+msgstr "%1$d risultati trovati per \"%2$s\""
 
 msgid "NO_RESULTS_FOUND"
-msgstr "No results found"
+msgstr "Nessun risultato trovato"
 
 msgid "SEARCH_SHORT_KEY"
-msgstr "Flipnote ID"
+msgstr "ID Flipnote"
 
 msgid "SHORT_KEY_NO_RESULTS"
-msgstr "No Flipnote found"
+msgstr "Nessun Flipnote trovato"
 
 msgid "SHORT_KEY_FORMAT_GUIDE"
-msgstr "Not finding what you're looking for? You may have entered the Flipnote ID incorrectly. Flipnote IDs are six digits long and can be found in the details section for the Flipnote."
+msgstr "Non trovi quello che cerchi? Potresti aver inserito l'ID Flipnote non correttamente. Gli ID Flipnote sono lunghi sei cifre e si trovano nella sezione dettagli dei Flipnote."
 
 msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
-msgstr "No result was found, but a similar ID exists. Please note that Flipnote IDs are case-sensitive, and usually all-capital letters and numbers."
+msgstr "Nessun risultato trovato, ma esiste un ID simile. Tieni presente che gli ID Flipnote sono case-sensitive, e solitamente hanno tutte le lettere maiuscole e numeri."

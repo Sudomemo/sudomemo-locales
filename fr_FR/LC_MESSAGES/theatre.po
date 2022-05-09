@@ -941,8 +941,6 @@ msgstr "Changer de mot de passe"
 msgid "PASS_CHANGE_URL_EXPIRED"
 msgstr "L'URL que vous avez visitée a expiré."
 
-
-
 msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
 msgstr "Aucun utilisateur trouvé avec cet ID Flipnote Studio ou cet e-mail"
 
@@ -952,9 +950,56 @@ msgstr "Pas d'adresse email enregistrée -- contactez le support de Sudomemo"
 msgid "PASSWORD_RESET_SENT"
 msgstr "Une réinitialisation de mot de passe a été envoyée à l'adresse email enregistrée."
 
-
 msgid "FORGOT_YOUR_PASSWORD"
 msgstr "Mot de passe oublié ?"
 
 msgid "SUDOMEMO_USER"
-msgstr "Sudomemo User"
+msgstr "Util. Sudomemo"
+
+msgid "FLIPNOTE_ARCHIVE_BUTTON_TOGGLE"
+msgstr "Afficher le lien vers le contenu Flipnote Hatena archivé depuis mon profil"
+
+msgid "FLIPNOTE_ARCHIVE_SETTINGS"
+msgstr "Paramètres d'archive"
+
+msgid "FLIPNOTE_ARCHIVE_PROFILE_AVAILABLE"
+msgstr "Votre profil Flipnote Hatena est disponible grâce à notre programme d'aperçu des archives Flipnote ! Vous pouvez voir vos anciennes Flipnotes en visitant votre profil sur Sudomemo Theatre."
+
+msgid "FLIPNOTE_ARCHIVE_PROFILE_SETTING_INFORMATION"
+msgstr "En étant connecté, votre lien d'archive sera toujours affiché sur votre page. Vous pouvez choisir ci-dessous de le rendre visible ou non aux autres utilisateurs."
+
+msgid "FLIPNOTE_ARCHIVE_PROFILE_NOT_AVAILABLE"
+msgstr "Il n'y a pas de profil Flipnote Hatena archivé disponible pour ce compte."
+
+msgid "FLIPNOTE_HATENA_PROFILE"
+msgstr "Profil Flipnote Hatena"
+
+msgid "ARCHIVE_PROFILE"
+msgstr "Profil d'archive"
+
+msgid "ARCHIVE_PROFILE_DESC"
+msgstr "C'est une archive d'un profil Flipnote Hatena."
+
+msgid "ARCHIVE_FLIPNOTE"
+msgstr "Flipnote d'archive"
+
+msgid "ARCHIVE_FLIPNOTE_DESC"
+msgstr "Cette Flipnote a été publiée à l'origine sur Flipnote Hatena."
+
+msgid "VIEW_ON_SUDOMEMO"
+msgstr "Voir sur Sudomemo"
+
+msgid "ARCHIVE"
+msgstr "Archive"
+
+msgid "ARCHIVED"
+msgstr "Archivé"
+
+msgid "USERS_FLIPNOTE_FROM_FLIPNOTE_HATENA"
+msgstr "Flipnote de %s de Flipnote Hatena"
+
+msgid "USERS_PROFILE_FROM_FLIPNOTE_HATENA"
+msgstr "Profil de %s de Flipnote Hatena"
+
+msgid "LEARN_MORE"
+msgstr "En savoir plus"

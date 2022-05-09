@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Language: ro_RO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "EMAIL_SUBJECT_FORMAT"
+msgstr "Reportajul Zilnic de Stele al [Sudomemo] %s"
+
+msgid "STRING_SUDOMEMO"
+msgstr "Sudomemo"
+
+msgid "STRING_DAILY_STAR_REPORT"
+msgstr "Reportajul Zilnic de Stele"
+
+msgid "TEXT_STAR_REPORT_GREETING_FORMAT"
+msgstr "Buna, %s! Acesta este Reportajul Zilnic de Stele al dvs. de la Sudomemo."
+
+msgid "TEXT_FLIPNOTE_BY_FORMAT"
+msgstr "Flipnote de %s"
+
+msgid "TEXT_TOTAL_STARS_RECEIVED_TODAY"
+msgstr "Totalul de Stele primite azi"
+
+msgid "TEXT_HOW_TO_VIEW_STAR_ADDERS_DSI"
+msgstr "Folosindu-va Sistemul dvs. Nintedo DSi, puteti vedea cine a adaugat stele daca apasati <strong>Stele</strong> in pagina dvs. de detalii Flipnote pe Sudomemo."

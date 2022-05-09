@@ -16,7 +16,7 @@ msgstr "Posteingang"
 
 # this must be a max of 6 characters
 msgid "UNAUTHED_READ"
-msgstr "Lesen"
+msgstr "Login"
 
 msgid "PREV"
 msgstr "Zurück"
@@ -45,4 +45,4 @@ msgstr "Info"
 
 # Not found
 msgid "MAIL_NOT_FOUND"
-msgstr "Diese Nachricht existiert nicht."
+msgstr "Wir können diese Nachricht nicht finden..."
