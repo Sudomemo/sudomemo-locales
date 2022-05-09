@@ -957,37 +957,37 @@ msgid "SUDOMEMO_USER"
 msgstr "Utilizator Sudomemo"
 
 msgid "FLIPNOTE_ARCHIVE_BUTTON_TOGGLE"
-msgstr "Show link to archived Flipnote Hatena content from my profile"
+msgstr "Afișează link pentru conținutul arhivat de pe Flipnote Hatena de pe profilul meu"
 
 msgid "FLIPNOTE_ARCHIVE_SETTINGS"
-msgstr "Archive Settings"
+msgstr "Setări pentru arhivă"
 
 msgid "FLIPNOTE_ARCHIVE_PROFILE_AVAILABLE"
-msgstr "Your Flipnote Hatena profile is available through our Flipnote Archive Preview Program! You can view your old Flipnotes by visiting your profile on Sudomemo Theatre."
+msgstr "Profilul dvs. de Flipnote Hatena este disponibil pe Programul de Previzualizare Flipnote Archive! Puteți viziona vechile voastre Flipnote-uri dacă vizitați profilul dvs. pe Teatrul Sudomemo."
 
 msgid "FLIPNOTE_ARCHIVE_PROFILE_SETTING_INFORMATION"
-msgstr "While logged in, your archive link will always be shown on your page. You can choose whether or not to make this visible to other users below."
+msgstr "Cât timp sunteți conectat, linkul de arhivă va fi mereu afișat pe profilul dvs. Puteți alege dacă vreți să-l faceți vizibil sau nu pentru alți utilizatori."
 
 msgid "FLIPNOTE_ARCHIVE_PROFILE_NOT_AVAILABLE"
-msgstr "An archived Flipnote Hatena profile is not available for this account."
+msgstr "Un profil Flipnote Hatena arhivat nu este disponibil pentru acest cont."
 
 msgid "FLIPNOTE_HATENA_PROFILE"
-msgstr "Flipnote Hatena Profile"
+msgstr "Profil Flipnote Hatena"
 
 msgid "ARCHIVE_PROFILE"
-msgstr "Archive Profile"
+msgstr "Arhivați profil"
 
 msgid "ARCHIVE_PROFILE_DESC"
-msgstr "This is an archive of a Flipnote Hatena profile."
+msgstr "Aceasta este o arhivă a unui profil de Flipnote Hatena."
 
 msgid "ARCHIVE_FLIPNOTE"
-msgstr "Archive Flipnote"
+msgstr "Arhivați Flipnote"
 
 msgid "ARCHIVE_FLIPNOTE_DESC"
-msgstr "This Flipnote was originally posted on Flipnote Hatena."
+msgstr "Acest Flipnote a fost postat inițial pe Flipnote Hatena."
 
 msgid "VIEW_ON_SUDOMEMO"
-msgstr "View on Sudomemo"
+msgstr "Vizualizați pe Sudomemo"
 
 msgid "ARCHIVE"
 msgstr "Arhivă"
