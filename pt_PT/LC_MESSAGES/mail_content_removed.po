@@ -1,59 +1,59 @@
 msgid ""
 msgstr ""
-"Language: en_US\n"
+"Language: pt_PT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
 # Content Removed - sent to user when a piece of their content has been moderated away
 msgid "NOTICE"
-msgstr "Notice"
+msgstr "Aviso"
 
 # # Intro
 msgid "USER_CONTENT_REMOVED"
-msgstr "Something you posted was found to be in violation of Sudomemo's Content Policy and Terms of Use, and has been removed."
+msgstr "Algo que postaste foi indentificado como uma violação da Política de Conteúdo do Sudomemo e Termos de Uso, por isso, foi removido."
 
 # # Content types
 msgid "CONTENT_TYPE_flipnote"
 msgstr "Flipnote"
 
 msgid "CONTENT_TYPE_comment"
-msgstr "Comment"
+msgstr "Comentário"
 
 msgid "CONTENT_TYPE_chat_message"
-msgstr "Chat message"
+msgstr "Mensagem de Chat"
 
 # ## We plan on adding user-created themes.
 msgid "CONTENT_TYPE_room_theme"
-msgstr "Creator's Room theme"
+msgstr "Tema da Sala de Criador"
 
 msgid "CONTENT_TYPE_profile_bio"
-msgstr "Profile text"
+msgstr "Texto do Perfil"
 
 # ## Catch-all
 msgid "CONTENT_TYPE_content"
-msgstr "Other content"
+msgstr "Outro conteúdo"
 
 # # continued message...
 msgid "REMOVAL_REASON_HEADER"
-msgstr "This content has been removed due to one or more of the following reasons:"
+msgstr "Este conteúdo foi removido devido a uma ou mais razões, das quais:"
 
 msgid "CONTENT_POLICY_REVIEW_INTRO"
-msgstr "We understand that when content policies meet artistic expression, context and presentation must be taken into consideration."
+msgstr "Nós percebemos que quando as políticas de conteúdo e expressão artística se encontram, contexto e apresentação devem ser postas em consederação ao postar tal conteúdo."
 
 msgid "CONTENT_POLICY_REVIEW_LINK"
-msgstr "We'd like to encourage you to review our Content Policy here:"
+msgstr "Nós encorajamos a que reveja a Política de Conteúdo do Sudomemo aqui:"
 
 msgid "HOW_TO_APPEAL"
-msgstr "If you believe this to be in error, you can learn how to submit an appeal at:"
+msgstr "Se achas que isto foi um erro, podes aprender como apresentar um formulário de recurso aqui:"
 
 msgid "CONTENT_TYPE"
-msgstr "Content type:"
+msgstr "Tipo de Conteúdo:"
 
 msgid "CONTENT_ID"
-msgstr "Content ID:"
+msgstr "ID de Conteúdo:"
 
 # # re-download will be made available for certain content types
 msgid "REDOWNLOAD_HEADER"
-msgstr "If you would like to revise your %s, you may download it %s"
+msgstr "Se desejas rever o(s) teu(s) %s, podes transferi-los %s"
 
 msgid "REDOWNLOAD_LINK"
-msgstr "here"
+msgstr "aqui"
