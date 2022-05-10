@@ -55,7 +55,7 @@ msgid "REJECT_ACCOUNT_ALREADY_LINKED"
 msgstr "既にスドメモアカウントと紐付けされています！"
 
 msgid "REJECT_BOOST_TICKET_COOLDOWN"
-msgstr "You've already given a Nitro Booster ticket this month! (%s)"
+msgstr "すでに今月のニトロブースターチケットをもらっています！(%s)"
 
 msgid "REJECT_FSID_ENOENT"
 msgstr "このうごメモIDに該当するユーザーはスドメモ上では見つかりませんでした。"
