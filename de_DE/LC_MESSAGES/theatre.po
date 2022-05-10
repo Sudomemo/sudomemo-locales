@@ -969,7 +969,7 @@ msgid "FLIPNOTE_ARCHIVE_PROFILE_SETTING_INFORMATION"
 msgstr "While logged in, your archive link will always be shown on your page. You can choose whether or not to make this visible to other users below.Während du eingeloggt bist, ist dein Archivlink auf deiner Seite sichtbar für andere Nutzer. Weiter unten kannst du diese Option aus-/einschalten."
 
 msgid "FLIPNOTE_ARCHIVE_PROFILE_NOT_AVAILABLE"
-msgstr ".Ein archiviertes Flipnote Hatena-Konto gibt es nicht für diesen Nutzer."
+msgstr "Ein archiviertes Flipnote Hatena-Konto gibt es nicht für diesen Nutzer."
 
 msgid "FLIPNOTE_HATENA_PROFILE"
 msgstr "Flipnote Hatena-Profil"
