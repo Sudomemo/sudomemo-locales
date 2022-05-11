@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Language: ro_RO\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "CHANNEL_NAME"
+msgstr "Nume Canal"
+
+msgid "CHANNEL_INFORMATION"
+msgstr "Informatii Canal"
+
+msgid "FLIPNOTES"
+msgstr "Flipnote-uri"
+
+msgid "CHANNEL_ID"
+msgstr "ID Canal"
+
+msgid "LOGIN_REQUIRED_TO_POST"
+msgstr "Trebuie sa fiti conectat pentru a posta Flipnote-uri."
+
+msgid "CHANNEL_NOT_SPECIFIED"
+msgstr "Trebuie sa alegeti un Canal."
+
+msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
+msgstr "Ati fost restrictionat din a folosi Sudomemo."
+
+msgid "FLIPNOTE_POST_FAILED"
+msgstr "Incarcarea Flipnote-ului a esuat. Incercati din nou."
+
+msgid "DUPLICATE_FLIPNOTE_FAILED"
+msgstr "Acest Flipnote a fost deja postat pe Sudomemo. Incercati sa-l ediati din nou."
+
+msgid "FLIPNOTE_DATA_CORRUPTED"
+msgstr "Datele Flipnote-ului sunt corupte. Incercati din nou intr-un moment."
+
+msgid "NO_BLANK_FLIPNOTES_ALLOWED"
+msgstr "nu puteti posta un Flipnote gol."
+
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "Va rugam sa va confirmati emailul inainte de a posta."
+
+msgid "NO_POSTS_WHILE_MUTED"
+msgstr "Nu puteti posta cat timp sunteti pe mut."
+
+msgid "CATEGORY"
+msgstr "Categorie"

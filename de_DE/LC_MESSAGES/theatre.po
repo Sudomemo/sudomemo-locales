@@ -138,11 +138,11 @@ msgid "NEXT"
 msgstr "Weiter"
 
 msgid "NEWS"
-msgstr "News"
+msgstr "Neuigkeiten"
 
 # Channel permissions: Is posting Flipnotes to a channel allowed or not?
 msgid "PERMISSIONS"
-msgstr "Zulassungen"
+msgstr "Berechtigungen"
 
 msgid "POPULAR"
 msgstr "Beliebt"
@@ -162,13 +162,13 @@ msgid "RANK"
 msgstr "Rang"
 
 msgid "RECENT"
-msgstr "Rezent"
+msgstr "Neu"
 
 msgid "SAVE"
 msgstr "Speichern"
 
 msgid "SAVING"
-msgstr "Speichern"
+msgstr "Wird gespeichert"
 
 msgid "SEARCH"
 msgstr "Suche"
@@ -232,7 +232,7 @@ msgid "NAVBAR_ITEM_FAQS"
 msgstr "FAQs"
 
 msgid "TERMS_OF_USE"
-msgstr "Nutzungsrechtlinien"
+msgstr "Nutzungsrichtlinien"
 
 msgid "NAVBAR_ITEM_CONTACT_US"
 msgstr "Wende Dich an Uns!"
@@ -253,10 +253,10 @@ msgid "NAVBAR_ITEM_OTHER"
 msgstr "Sonstiges"
 
 msgid "NAVBAR_ITEM_CREDITS"
-msgstr "Credits"
+msgstr "Mitwirkende"
 
 msgid "NAVBAR_ITEM_ADMIN"
-msgstr "Admin"
+msgstr "Administrator"
 
 msgid "NAVBAR_ITEM_SUDOMEMO_ADMIN"
 msgstr "Sudomin"
@@ -265,7 +265,7 @@ msgid "NAVBAR_ITEM_REPORTED_FLIPNOTES"
 msgstr "Gemeldete Flipnotes"
 
 msgid "NAVBAR_ITEM_SWITCH_TO_USER_ACCOUNT"
-msgstr "Zum Benutzer-Konto wechseln"
+msgstr "Zum Benutzerkonto wechseln"
 
 # # Switch to dark mode
 msgid "NAVBAR_ITEM_LIGHTS_OFF"
@@ -338,10 +338,10 @@ msgid "FLIPNOTE_LIST_RECALCULATING"
 msgstr "Die Ränge werden gerade neu berechnet. Lade die Seite etwas später neu."
 
 msgid "RECENT_FLIPNOTES"
-msgstr "Rezente Flipnotes"
+msgstr "Neue Flipnotes"
 
 msgid "POPULAR_THIS_MONTH"
-msgstr "Angesagt diesen Monat"
+msgstr "Diesen Monat Beliebt"
 
 msgid "HOT_FLIPNOTES"
 msgstr "Heiße Flipnotes"
@@ -350,7 +350,7 @@ msgid "RANDOM_FLIPNOTES"
 msgstr "Zufällige Flipnotes"
 
 msgid "FEATURED_FLIPNOTES"
-msgstr "Vorgeschlagen Flipnotes"
+msgstr "Vorgeschlagene Flipnotes"
 
 # # Flipnote by...
 msgid "FLIPNOTE_BY_FORMAT"
@@ -941,8 +941,6 @@ msgstr "Passwort ändern"
 msgid "PASS_CHANGE_URL_EXPIRED"
 msgstr "Die besuchte URL ist abgelaufen."
 
-
-
 msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
 msgstr "Keinen Benutzer mit angegebener Flipnote-Studio-ID oder Email-Addresse gefunden"
 
@@ -952,9 +950,56 @@ msgstr "Keine Email-Addresse registriert -- kontaktiere Sudomemo Support"
 msgid "PASSWORD_RESET_SENT"
 msgstr "Eine Passwort-Zurücksetzung wurde an die registrierte Email-Addresse gesendet."
 
-
 msgid "FORGOT_YOUR_PASSWORD"
 msgstr "Passwort vergessen?"
 
 msgid "SUDOMEMO_USER"
 msgstr "Sudomemo-Nutzer"
+
+msgid "FLIPNOTE_ARCHIVE_BUTTON_TOGGLE"
+msgstr "Show link to archived Flipnote Hatena content from my profile Link zu archiviertem Inhalt meines Profils v. Flipnote Hatena"
+
+msgid "FLIPNOTE_ARCHIVE_SETTINGS"
+msgstr "Archiv-Einstellungen"
+
+msgid "FLIPNOTE_ARCHIVE_PROFILE_AVAILABLE"
+msgstr "Dein Flipnote Hatena-Profil ist nun zugänglich durch unser Flipnote-Archiv-Vorschau-Programm! Du kannst deine alten Flipnotes auf Sudomemo Theatre anschauen."
+
+msgid "FLIPNOTE_ARCHIVE_PROFILE_SETTING_INFORMATION"
+msgstr "While logged in, your archive link will always be shown on your page. You can choose whether or not to make this visible to other users below.Während du eingeloggt bist, ist dein Archivlink auf deiner Seite sichtbar für andere Nutzer. Weiter unten kannst du diese Option aus-/einschalten."
+
+msgid "FLIPNOTE_ARCHIVE_PROFILE_NOT_AVAILABLE"
+msgstr "Ein archiviertes Flipnote Hatena-Konto gibt es nicht für diesen Nutzer."
+
+msgid "FLIPNOTE_HATENA_PROFILE"
+msgstr "Flipnote Hatena-Profil"
+
+msgid "ARCHIVE_PROFILE"
+msgstr "Archiv-Profil"
+
+msgid "ARCHIVE_PROFILE_DESC"
+msgstr "Dies ist ein Archiv eines Flipnote Hatena-Kontos."
+
+msgid "ARCHIVE_FLIPNOTE"
+msgstr "Archiv-Flipnote"
+
+msgid "ARCHIVE_FLIPNOTE_DESC"
+msgstr "Dieses Flipnote wurde ursprünglich auf Flipnote Hatena hochgeladen."
+
+msgid "VIEW_ON_SUDOMEMO"
+msgstr "Auf Sudomemo sehen"
+
+msgid "ARCHIVE"
+msgstr "Archiv"
+
+msgid "ARCHIVED"
+msgstr "Archiviert"
+
+msgid "USERS_FLIPNOTE_FROM_FLIPNOTE_HATENA"
+msgstr "Flipnote v. %s von Flipnote Hatena"
+
+msgid "USERS_PROFILE_FROM_FLIPNOTE_HATENA"
+msgstr "Profil v. %s von Flipnote Hatena"
+
+msgid "LEARN_MORE"
+msgstr "Mehr erfahren"

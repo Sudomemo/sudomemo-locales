@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Language: en_US\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "NO_COMMENTS_YET"
+msgstr "No messages have been sent here."
+
+msgid "HEADER_COMMENTS"
+msgstr "Comments"
+
+msgid "PAGE_FORMAT"
+msgstr "Page %d"
+
+msgid "HEADER_NEXT"
+msgstr "Next"
+
+msgid "HEADER_PREV"
+msgstr "Prev"
+
+msgid "HEADER_REFRESH"
+msgstr "Refresh"
+
+msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
+msgstr "You must be logged in to post a chat message."
+
+msgid "CHAT_REPLY_FAILED"
+msgstr "Chat reply failed. Try again in a moment."
+
+msgid "NO_BLANK_MESSAGES_ALLOWED"
+msgstr "You cannot post a blank chat message."
+
+msgid "FLIPNOTE_DATA_CORRUPTED"
+msgstr "The Flipnote data is corrupted. Try again in a moment."
+
+msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
+msgstr "You have been muted. You may not chat."
+
+msgid "DUPLICATE_COMMENT_FAILED"
+msgstr "This comment has already been posted to Sudomemo."
+
+msgid "COMMENT_FAILED_USER_BANNED"
+msgstr "You have been restricted from interacting with Sudomemo."
+
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "Please confirm your email before posting."
+
+msgid "MODERATOR"
+msgstr "Moderator"
