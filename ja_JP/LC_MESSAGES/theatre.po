@@ -954,52 +954,52 @@ msgid "FORGOT_YOUR_PASSWORD"
 msgstr "パスワードを忘れましたか？"
 
 msgid "SUDOMEMO_USER"
-msgstr "Sudomemo User"
+msgstr "スドメモユーザー"
 
 msgid "FLIPNOTE_ARCHIVE_BUTTON_TOGGLE"
-msgstr "Show link to archived Flipnote Hatena content from my profile"
+msgstr "プロフィールにアーカイブされたうごメモはてなのプロフィールへのリンクを表示する"
 
 msgid "FLIPNOTE_ARCHIVE_SETTINGS"
-msgstr "Archive Settings"
+msgstr "アーカイブ設定"
 
 msgid "FLIPNOTE_ARCHIVE_PROFILE_AVAILABLE"
-msgstr "Your Flipnote Hatena profile is available through our Flipnote Archive Preview Program! You can view your old Flipnotes by visiting your profile on Sudomemo Theatre."
+msgstr "あなたのうごメモはてなのプロフィールがうごメモアーカイブプレビュープログラムで閲覧可能になりました！うごメモシアターで昔のうごメモを確認できます。"
 
 msgid "FLIPNOTE_ARCHIVE_PROFILE_SETTING_INFORMATION"
-msgstr "While logged in, your archive link will always be shown on your page. You can choose whether or not to make this visible to other users below."
+msgstr "ログイン中は、あなたのページにはいつもアーカイブへのリンクが表示されます。これを他のユーザーに表示するかは下で選択できます。"
 
 msgid "FLIPNOTE_ARCHIVE_PROFILE_NOT_AVAILABLE"
-msgstr "An archived Flipnote Hatena profile is not available for this account."
+msgstr "このアカウントにはアーカイブされたうごメモはてなプロフィールが存在しません。"
 
 msgid "FLIPNOTE_HATENA_PROFILE"
-msgstr "Flipnote Hatena Profile"
+msgstr "うごメモはてなでのプロフィール"
 
 msgid "ARCHIVE_PROFILE"
-msgstr "Archive Profile"
+msgstr "アーカイブされたプロフィール"
 
 msgid "ARCHIVE_PROFILE_DESC"
-msgstr "This is an archive of a Flipnote Hatena profile."
+msgstr "うごメモはてなのプロフィールのアーカイブです。"
 
 msgid "ARCHIVE_FLIPNOTE"
-msgstr "Archive Flipnote"
+msgstr "アーカイブされたうごメモ"
 
 msgid "ARCHIVE_FLIPNOTE_DESC"
-msgstr "This Flipnote was originally posted on Flipnote Hatena."
+msgstr "このうごメモはうごメモはてなで投稿されました。"
 
 msgid "VIEW_ON_SUDOMEMO"
-msgstr "View on Sudomemo"
+msgstr "スドメモでみる"
 
 msgid "ARCHIVE"
-msgstr "Archive"
+msgstr "アーカイブする"
 
 msgid "ARCHIVED"
-msgstr "Archived"
+msgstr "アーカイブ済み"
 
 msgid "USERS_FLIPNOTE_FROM_FLIPNOTE_HATENA"
-msgstr "%s's Flipnote from Flipnote Hatena"
+msgstr "うごメモはてなでの%sのうごメモ"
 
 msgid "USERS_PROFILE_FROM_FLIPNOTE_HATENA"
-msgstr "%s's profile from Flipnote Hatena"
+msgstr "うごメモはてなでの%sのプロフィール"
 
 msgid "LEARN_MORE"
-msgstr "Learn more"
+msgstr "詳しく知る"

@@ -47,3 +47,21 @@ msgstr "Non trovi quello che cerchi? Potresti aver inserito l'ID Flipnote non co
 
 msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
 msgstr "Nessun risultato trovato, ma esiste un ID simile. Tieni presente che gli ID Flipnote sono case-sensitive, e solitamente hanno tutte le lettere maiuscole e numeri."
+
+msgid "SEARCH_MUSICMATCH"
+msgstr "MusicMatch"
+
+msgid "SEARCH_MUSIC_BY_SONG"
+msgstr "By Song"
+
+msgid "SEARCH_MUSIC_BY_ARTIST"
+msgstr "By Artist"
+
+msgid "SEARCH_MUSIC_BY_GENRE"
+msgstr "By Genre"
+
+msgid "PAGE"
+msgstr "Page"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d of %d"

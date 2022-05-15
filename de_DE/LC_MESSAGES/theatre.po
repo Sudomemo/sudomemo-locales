@@ -957,49 +957,49 @@ msgid "SUDOMEMO_USER"
 msgstr "Sudomemo-Nutzer"
 
 msgid "FLIPNOTE_ARCHIVE_BUTTON_TOGGLE"
-msgstr "Show link to archived Flipnote Hatena content from my profile"
+msgstr "Show link to archived Flipnote Hatena content from my profile Link zu archiviertem Inhalt meines Profils v. Flipnote Hatena"
 
 msgid "FLIPNOTE_ARCHIVE_SETTINGS"
-msgstr "Archive Settings"
+msgstr "Archiv-Einstellungen"
 
 msgid "FLIPNOTE_ARCHIVE_PROFILE_AVAILABLE"
-msgstr "Your Flipnote Hatena profile is available through our Flipnote Archive Preview Program! You can view your old Flipnotes by visiting your profile on Sudomemo Theatre."
+msgstr "Dein Flipnote Hatena-Profil ist nun zugänglich durch unser Flipnote-Archiv-Vorschau-Programm! Du kannst deine alten Flipnotes auf Sudomemo Theatre anschauen."
 
 msgid "FLIPNOTE_ARCHIVE_PROFILE_SETTING_INFORMATION"
-msgstr "While logged in, your archive link will always be shown on your page. You can choose whether or not to make this visible to other users below."
+msgstr "While logged in, your archive link will always be shown on your page. You can choose whether or not to make this visible to other users below.Während du eingeloggt bist, ist dein Archivlink auf deiner Seite sichtbar für andere Nutzer. Weiter unten kannst du diese Option aus-/einschalten."
 
 msgid "FLIPNOTE_ARCHIVE_PROFILE_NOT_AVAILABLE"
-msgstr "An archived Flipnote Hatena profile is not available for this account."
+msgstr "Ein archiviertes Flipnote Hatena-Konto gibt es nicht für diesen Nutzer."
 
 msgid "FLIPNOTE_HATENA_PROFILE"
-msgstr "Flipnote Hatena Profile"
+msgstr "Flipnote Hatena-Profil"
 
 msgid "ARCHIVE_PROFILE"
-msgstr "Archive Profile"
+msgstr "Archiv-Profil"
 
 msgid "ARCHIVE_PROFILE_DESC"
-msgstr "This is an archive of a Flipnote Hatena profile."
+msgstr "Dies ist ein Archiv eines Flipnote Hatena-Kontos."
 
 msgid "ARCHIVE_FLIPNOTE"
-msgstr "Archive Flipnote"
+msgstr "Archiv-Flipnote"
 
 msgid "ARCHIVE_FLIPNOTE_DESC"
-msgstr "This Flipnote was originally posted on Flipnote Hatena."
+msgstr "Dieses Flipnote wurde ursprünglich auf Flipnote Hatena hochgeladen."
 
 msgid "VIEW_ON_SUDOMEMO"
-msgstr "View on Sudomemo"
+msgstr "Auf Sudomemo sehen"
 
 msgid "ARCHIVE"
-msgstr "Archive"
+msgstr "Archiv"
 
 msgid "ARCHIVED"
-msgstr "Archived"
+msgstr "Archiviert"
 
 msgid "USERS_FLIPNOTE_FROM_FLIPNOTE_HATENA"
-msgstr "%s's Flipnote from Flipnote Hatena"
+msgstr "Flipnote v. %s von Flipnote Hatena"
 
 msgid "USERS_PROFILE_FROM_FLIPNOTE_HATENA"
-msgstr "%s's profile from Flipnote Hatena"
+msgstr "Profil v. %s von Flipnote Hatena"
 
 msgid "LEARN_MORE"
-msgstr "Learn more"
+msgstr "Mehr erfahren"
