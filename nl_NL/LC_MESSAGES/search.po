@@ -47,3 +47,21 @@ msgstr "Vindt je niet waar je naar zoekt? Het kan zijn dat je de Flipnote-ID ver
 
 msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
 msgstr "Er is geen resultaat gevonden, maar een soortgelijke ID bestaat. Houd er rekening mee dat Flipnote-ID's hoofdlettergevoelig zijn, en meestal alleen hoofdletters en nummers bevatten."
+
+msgid "SEARCH_MUSICMATCH"
+msgstr "MusicMatch"
+
+msgid "SEARCH_MUSIC_BY_SONG"
+msgstr "By Song"
+
+msgid "SEARCH_MUSIC_BY_ARTIST"
+msgstr "By Artist"
+
+msgid "SEARCH_MUSIC_BY_GENRE"
+msgstr "By Genre"
+
+msgid "PAGE"
+msgstr "Page"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d of %d"
