@@ -1,151 +1,151 @@
 msgid ""
 msgstr ""
-"Language: en_US\n"
+"Language: pt_PT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
 # Trophy Case
 # # UI Headers, messages, labels
 msgid "TROPHY_CASE"
-msgstr "Trophy Case"
+msgstr "Caixa de Troféus"
 
 msgid "CASE_IS_EMPTY"
-msgstr "The Trophy Case is empty."
+msgstr "A tua Caixa de Troféus está vazia."
 
 msgid "ACHIEVEMENT_EARNED"
-msgstr "Achievement Get!"
+msgstr "Conquista Recebida!"
 
 msgid "CONTINUE"
-msgstr "Continue"
+msgstr "Continuar"
 
 # # Trophy names and descriptions
 msgid "TROPHY_NAME_demo_tester"
-msgstr "Demo Tester"
+msgstr "Testador da Demo"
 
 msgid "TROPHY_DESC_demo_tester"
-msgstr "Participate in the 2017 Sudomemo Update Demo Testing program"
+msgstr "Participar no programa de Testes do Sudomemo Update Demo de 2017"
 
 msgid "TROPHY_NAME_early_adopter"
-msgstr "Early Adopter"
+msgstr "Primeiro Adoptante"
 
 msgid "TROPHY_DESC_early_adopter"
-msgstr "Join Sudomemo during our first month of service"
+msgstr "Juntaste-te ao Sudomemo durante o nosso primeiro mês de serviço"
 
 msgid "TROPHY_NAME_featured_artist"
-msgstr "Featured Artist"
+msgstr "Artista Destacado"
 
 msgid "TROPHY_DESC_featured_artist"
-msgstr "Get recognized as a Sudomemo Featured Artist"
+msgstr "Se reconhecido como um Artista Destacado no Sudomemo"
 
 msgid "TROPHY_NAME_featured_flipnote"
-msgstr "Featured Flipnote"
+msgstr "Flipnote Destacado"
 
 msgid "TROPHY_DESC_featured_flipnote"
-msgstr "Have a Flipnote featured"
+msgstr "Tem um Flipnote destacado"
 
 msgid "TROPHY_NAME_ffotd"
-msgstr "First Flipnote of the Decade"
+msgstr "Primeiro Flipnote da Década"
 
 msgid "TROPHY_DESC_ffotd"
-msgstr "Post the first Flipnote of a new decade"
+msgstr "Postar o primeiro Flipnote de uma nova década"
 
 msgid "TROPHY_NAME_fifth_bday_event"
-msgstr "Sudomemo's Fifth Birthday Party"
+msgstr "Festa do Quinto Aniversário do Sudomemo"
 
 msgid "TROPHY_DESC_fifth_bday_event"
-msgstr "Attended Sudomemo's fifth birthday party"
+msgstr "Participaste na festa do quinto aniversário do Sudomemo"
 
 msgid "TROPHY_NAME_legacy_citizen"
-msgstr "Legacy Citizen"
+msgstr "Cidadão de Legado"
 
 msgid "TROPHY_DESC_legacy_citizen"
-msgstr "Had Sudomemo Citizenship before it became Plus"
+msgstr "Ter Cidanania do Sudomemo antes de se tornar o Plus"
 
 msgid "TROPHY_NAME_meet_lazy_paisley"
-msgstr "Meet Lazy Paisley"
+msgstr "Conhecer o Lazy Paisley"
 
 msgid "TROPHY_DESC_meet_lazy_paisley"
-msgstr "Enjoys his simple life. And food."
+msgstr "Desfruta da vida simples dele. E comida."
 
 msgid "TROPHY_NAME_meet_bailey_flitwing"
-msgstr "Meet Bailey Flitwing"
+msgstr "Conhecer a Bailey Flitwing"
 
 msgid "TROPHY_DESC_meet_bailey_flitwing"
-msgstr "Curious about the world outside her nest."
+msgstr "Curiosa sobre o mundo fora do ninho dela."
 
 msgid "TROPHY_NAME_meet_ziggy_starburst"
-msgstr "Meet Ziggy Starburst"
+msgstr "Conhecer o Ziggy Starburst"
 
 msgid "TROPHY_DESC_meet_ziggy_starburst"
-msgstr "Living his life day by day with a touch of added flair."
+msgstr "A viver a vida dele, dia a dia, com um toque extra de talento."
 
 msgid "TROPHY_NAME_meet_russell_ramblewood"
-msgstr "Meet Russell Ramblewood"
+msgstr "Conhecer o Russell Ramblewood"
 
 msgid "TROPHY_DESC_meet_russell_ramblewood"
-msgstr "He's flamboyant to a fault, but still wants to hear about your day."
+msgstr "Ele e extravagante por defeito, mas ele ainda quer saber do teu dia."
 
 msgid "TROPHY_NAME_meet_mitsuo_meow"
-msgstr "Meet Mitsuo Meow"
+msgstr "Conhecer a Mitsuo Meow"
 
 msgid "TROPHY_DESC_meet_mitsuo_meow"
-msgstr "Wants to bring good luck and happiness to everyone around her."
+msgstr "Ela quer trazer boa sorte e felicidade para todos à volta dela."
 
 msgid "TROPHY_NAME_neighborhood_watch"
-msgstr "Neighborhood Watch"
+msgstr "Mini Moderador"
 
 msgid "TROPHY_DESC_neighborhood_watch"
-msgstr "Correctly flag content that violates our Content Policy"
+msgstr "Reportar conteúdo que viola a nossa Política de Conteúdo correctamente"
 
 msgid "TROPHY_NAME_one_million_flips_event"
-msgstr "One Million Flipnotes Event"
+msgstr "Evento Um Milhão de Flipnotes"
 
 msgid "TROPHY_DESC_one_million_flips_event"
-msgstr "Attend the One-Million Flipnotes event"
+msgstr "Participar no evento Um Milhão de Flipnotes"
 
 msgid "TROPHY_NAME_translator"
-msgstr "Translator"
+msgstr "Tradutor"
 
 msgid "TROPHY_DESC_translator"
-msgstr "Contribute translations to make Sudomemo open to everyone"
+msgstr "Contribuir traduções para fazer o Sudomemo aberto a todos"
 
 msgid "TROPHY_NAME_weekly_topic_winner"
-msgstr "Weekly Topic Winner"
+msgstr "Vencedor do Tópico Semanal"
 
 msgid "TROPHY_DESC_weekly_topic_winner"
-msgstr "Submit a winning entry to Sudomemo's Weekly Topic"
+msgstr "Submeter um post vencedor no Tópico Semanal do Sudomemo"
 
 msgid "TROPHY_NAME_folder"
 msgstr "Folder"
 
 msgid "TROPHY_DESC_folder"
-msgstr "Donate spare compute time to Folding@Home to help fight disease"
+msgstr "Doar tempo de computação para o programa Folding@Home para ajudar a combater doênças"
 
 msgid "TROPHY_NAME_colors_promo"
-msgstr "Colors! x Sudomemo Topic Winner"
+msgstr "Vencedor do Tópico Colors! x Sudomemo"
 
 msgid "TROPHY_DESC_colors_promo"
-msgstr "One of the winners of the Sudomemo x Colors joint topic, Into The Light"
+msgstr "Um dos vencedores do tópico em conjunto do Sudomemo x Colors, Para a Luz"
 
 msgid "TROPHY_NAME_spookmaster"
-msgstr "Spookmaster"
+msgstr "Mestre dos Sustos"
 
 msgid "TROPHY_DESC_spookmaster"
-msgstr "Spookmaster Award for Excellence in Witchcraft and Wizardry."
+msgstr "Troféu Mestre dos Sustos, para a excelência em Bruxaria e Feitiçaria."
 
 msgid "TROPHY_NAME_nitro_booster"
 msgstr "Nitro Booster"
 
 msgid "TROPHY_DESC_nitro_booster"
-msgstr "Showed how cool they (or a friend) were by boosting the Sudomemo Discord server."
+msgstr "Mostraste o quão fixe fostes (ou um amigo) ao fazer um Boost ao Servidor Discord do Sudomemo."
 
 msgid "TROPHY_NAME_7th_birthday_bash"
-msgstr "7th Birthday Bash"
+msgstr "7º Birthday Bash"
 
 msgid "TROPHY_DESC_7th_birthday_bash"
-msgstr "Attended Sudomemo's 7 Years of Flipnote Fun event"
+msgstr "Participaste no evento 7 anos a Divertiste com Flipnotes do Sudomemo"
 
 msgid "TROPHY_NAME_8th_birthday_bash"
-msgstr "8th Birthday Bash"
+msgstr "8º Birthday Bash"
 
 msgid "TROPHY_DESC_8th_birthday_bash"
-msgstr "Attended Sudomemo's 8 Years of Flipnote Fun event"
+msgstr "Participaste no evento 8 anos a Divertiste com Flipnotes do Sudomemo"
