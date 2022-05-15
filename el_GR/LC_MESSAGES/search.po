@@ -47,3 +47,21 @@ msgstr "Δεν  βρισκετε  αυτο  που  ψαχνετε; Μπορει
 
 msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
 msgstr "Δεν  βρεθηκε  αποτελεσμα, αλλα υπαρχει  ενα  παρομοιο ID. Παρακαλουμε  λαβετε  υποψη  οτι  τα Flipnote IDs ειναι case-sensitive, και  συνηθως  εχουν  ολα  τα γραμματα  και  αριθμους  κεφαλαια."
+
+msgid "SEARCH_MUSICMATCH"
+msgstr "MusicMatch"
+
+msgid "SEARCH_MUSIC_BY_SONG"
+msgstr "By Song"
+
+msgid "SEARCH_MUSIC_BY_ARTIST"
+msgstr "By Artist"
+
+msgid "SEARCH_MUSIC_BY_GENRE"
+msgstr "By Genre"
+
+msgid "PAGE"
+msgstr "Page"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d of %d"

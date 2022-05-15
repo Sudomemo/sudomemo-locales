@@ -47,3 +47,21 @@ msgstr "結果は見つかりませんでしたが、同じIDが存在します�
 
 msgid "USERNAME"
 msgstr "ユーザー名"
+
+msgid "SEARCH_MUSICMATCH"
+msgstr "MusicMatch"
+
+msgid "SEARCH_MUSIC_BY_SONG"
+msgstr "By Song"
+
+msgid "SEARCH_MUSIC_BY_ARTIST"
+msgstr "By Artist"
+
+msgid "SEARCH_MUSIC_BY_GENRE"
+msgstr "By Genre"
+
+msgid "PAGE"
+msgstr "Page"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d of %d"

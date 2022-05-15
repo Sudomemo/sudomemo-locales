@@ -47,3 +47,21 @@ msgstr "¿No encuentras lo que estás buscando? Debes de haber puesto mal el ID.
 
 msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
 msgstr "No se han encontrado resultados, pero si una ID similar. Por favor, comprueba si el ID tiene letras mayúsculas o minúsculas y números, suelen ser casi todas con mayúsculas y con números."
+
+msgid "SEARCH_MUSICMATCH"
+msgstr "MusicMatch"
+
+msgid "SEARCH_MUSIC_BY_SONG"
+msgstr "By Song"
+
+msgid "SEARCH_MUSIC_BY_ARTIST"
+msgstr "By Artist"
+
+msgid "SEARCH_MUSIC_BY_GENRE"
+msgstr "By Genre"
+
+msgid "PAGE"
+msgstr "Page"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d of %d"

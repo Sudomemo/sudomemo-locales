@@ -16,7 +16,7 @@ msgid "SEARCH"
 msgstr "Suchen"
 
 msgid "USERNAME"
-msgstr "Benutzername"
+msgstr "Nutzername"
 
 msgid "RESULTS"
 msgstr "Ergebnisse"
@@ -47,3 +47,21 @@ msgstr "Du findest nicht, wonach du suchst? Du hast womöglich die falsche Flipn
 
 msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
 msgstr "Es wurden keine Suchergebnisse gefunden, aber es existiert eine ähnliche Flipnote-ID. Bitte beachte, dass Flipnote-IDs Groß- und Kleinschreibung beachten und gewöhnlicherweise nur aus Großbuchstaben und Ziffern bestehen."
+
+msgid "SEARCH_MUSICMATCH"
+msgstr "MusicMatch"
+
+msgid "SEARCH_MUSIC_BY_SONG"
+msgstr "By Song"
+
+msgid "SEARCH_MUSIC_BY_ARTIST"
+msgstr "By Artist"
+
+msgid "SEARCH_MUSIC_BY_GENRE"
+msgstr "By Genre"
+
+msgid "PAGE"
+msgstr "Page"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d of %d"
