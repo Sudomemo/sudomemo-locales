@@ -49,7 +49,7 @@ msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
 msgstr "Nu a fost gasit niciun rezultat, dar un ID similar exista. Tineti minte ca ID-urile Flipnote sunt caz sensibile, si sunt de obicei numai litere mari si numere."
 
 msgid "SEARCH_MUSICMATCH"
-msgstr "@Potrivire Muzica"
+msgstr "@MusicMatch"
 
 msgid "SEARCH_MUSIC_BY_SONG"
 msgstr "@Dupa Cantec"
