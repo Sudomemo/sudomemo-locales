@@ -1,28 +1,28 @@
 msgid ""
 msgstr ""
-"Language: en_US\n"
+"Language: pt_PT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "UPPERTITLE"
-msgstr "Browse"
+msgstr "Procurar"
 
 msgid "NEXT"
-msgstr "Next page"
+msgstr "Pŕoxima página"
 
 msgid "PREV"
-msgstr "Previous page"
+msgstr "Página anterior"
 
 msgid "PAGE"
-msgstr "Page"
+msgstr "Página"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d of %d"
+msgstr "%d de %d"
 
 msgid "FLIPNOTES_BY_FORMAT"
-msgstr "Flipnotes by %s"
+msgstr "Flipnotes de %s"
 
 msgid "STARRED_BY_FORMAT"
-msgstr "Starred by %s"
+msgstr "Estrelados de %s"
 
 msgid "FAVORITES_FEED_FORMAT"
-msgstr "%s's Favorites Feed"
+msgstr "%s's Feed de Favoritos"

@@ -1,112 +1,112 @@
 msgid ""
 msgstr ""
-"Language: en_US\n"
+"Language: pt_PT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "THEME_SHOP_LOGIN_REQUIRED"
-msgstr "You must be logged in to access the Theme Shop"
+msgstr "Tens de ter feito login para entrar na Loja de Temas"
 
 msgid "THEME_SHOP_MAINPAGE_HEADER"
-msgstr "Here at the Theme Shop you can purchase new themes for your Creator's Room!"
+msgstr "Aqui na Loja de Temas podes comprar novos temas para a tua Sala de Criador!"
 
 msgid "THEME_SHOP_LEARN_MORE_HEADER"
-msgstr "Learn more about the Theme Shop"
+msgstr "Aprende mais sobre a Loja de Temas"
 
 msgid "THEME_SHOP_REPORT_ISSUES_HEADER"
-msgstr "Tap this link to report a theme that isn't working properly."
+msgstr "Toque neste link para reportar um tema que não está a funcionar correctamente."
 
 msgid "THEME_SHOP_MAINPAGE_EXCHANGE_COST_FORMAT"
-msgstr "Exchange for %d Green Stars"
+msgstr "Trocar por %d Estrelas Verdes"
 
 msgid "THEME_SHOP_MAINPAGE_FREE_STARTER_THEMES"
-msgstr "Free Starter Themes"
+msgstr "Temas Iniciais Gratuitos"
 
 msgid "CONGRATULATIONS"
-msgstr "Congratulations!"
+msgstr "Parabéns!"
 
 msgid "SEE_MORE"
-msgstr "See more"
+msgstr "Ver mais"
 
 msgid "PREVIEW"
-msgstr "Preview"
+msgstr "Pre-visualizar"
 
 msgid "BUY"
-msgstr "Buy"
+msgstr "Comprar"
 
 msgid "THEME"
-msgstr "Theme"
+msgstr "Tema"
 
 msgid "PRICE"
-msgstr "Price"
+msgstr "Preço"
 
 msgid "CREATOR"
-msgstr "Creator"
+msgstr "Criador"
 
 msgid "DESCRIPTION"
-msgstr "Description"
+msgstr "Descrição"
 
 msgid "YOU_HAVE"
-msgstr "Your Color Stars:"
+msgstr "As Tuas Estrelas Coloridas:"
 
 msgid "USERNAME"
-msgstr "Username"
+msgstr "Nome de Utilizador"
 
 msgid "CANCEL"
-msgstr "Cancel"
+msgstr "Cancelar"
 
 msgid "CONFIRM"
-msgstr "Confirm"
+msgstr "Confirmar"
 
 msgid "CREATORS_ROOM"
-msgstr "Creator's Room"
+msgstr "Sala de Criador"
 
 msgid "SHOP_MENU"
-msgstr "Shop Menu"
+msgstr "Menu da Loja"
 
 msgid "NO_DESCRIPTION_AVAILABLE"
-msgstr "No description"
+msgstr "Sem descrição"
 
 msgid "THEME_SHOP_SELECT_PAYMENT"
-msgstr "Select Payment"
+msgstr "Escolher Pagamento"
 
 msgid "THEME_SHOP_SELECTED_PAYMENT"
-msgstr "Selected Payment"
+msgstr "Pagamento Escolhido"
 
 msgid "THEME_SHOP_STAR_BALANCE_TOO_LOW"
-msgstr "Sorry, you don't have enough Green Stars for this theme."
+msgstr "Desculpa, mas tu não tens Estrelas Verdes suficientes para comprar este tema."
 
 msgid "THEME_SHOP_CHOOSE_CAREFULLY_BEFORE_BUYING"
-msgstr "All purchases are permanent, please choose carefully before buying!"
+msgstr "Todas as compras são permanentes, por favor escolha com cuidado antes de comprar!"
 
 msgid "THEME_SHOP_YOU_OWN_THIS_THEME"
-msgstr "You already own this theme."
+msgstr "Tu já adquiriste este tema."
 
 msgid "THEME_SHOP_PUBLIC_THEME"
-msgstr "All users have access to this theme for free."
+msgstr "Todos os utilizadores tem acesso a este tema."
 
 msgid "THEME_SHOP_OWNED_THEME_TRANSACTION_FORMAT"
-msgstr "You purchased this theme on %s for %d Green Stars."
+msgstr "Compraste este tema no dia %s por %d Estrelas Verdes."
 
 msgid "THEME_SHOP_CONFIRM_PURCHASE_BELOW"
-msgstr "Please confirm your purchase below."
+msgstr "Por favor confirma a tua compra aqui."
 
 msgid "THEME_SHOP_STARS_LEFT_AFTER_PAYMENT"
-msgstr "Color Stars left after payment:"
+msgstr "Estrelas Coloridas após pagamento:"
 
 msgid "THEME_SHOP_POST_PURCHASE"
-msgstr "Your purchase was successful! Go to the \"My Themes\" section in your Creator's Room to select it!"
+msgstr "A tua compra foi completa com sucesso! Vá à secção \"Os Meus Temas\" na tua Sala de Criador para o aplicar!"
 
 msgid "NAVIGATION_PREVIOUS"
-msgstr "Prev"
+msgstr "Anterior"
 
 msgid "NAVIGATION_NEXT"
-msgstr "Next"
+msgstr "Próximo"
 
 msgid "THEME_SHOP_SAMPLE_PROFILE"
-msgstr "Sample Profile"
+msgstr "Perfil de Amostra"
 
 msgid "THEME_SHOP"
-msgstr "Theme Shop"
+msgstr "Loja de Temas"
 
 msgid "DETAILS"
-msgstr "Details"
+msgstr "Detalhes"

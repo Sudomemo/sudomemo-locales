@@ -1,16 +1,16 @@
 msgid ""
 msgstr ""
-"Language: en_US\n"
+"Language: pt_PT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "PREV"
-msgstr "Prev"
+msgstr "Anterior"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "Próximo"
 
 msgid "PAGE_FORMAT"
-msgstr "Page %d"
+msgstr "Página %d"
 
 msgid "HEADER_NEWS"
-msgstr "News"
+msgstr "Notícias"

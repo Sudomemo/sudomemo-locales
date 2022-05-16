@@ -1,25 +1,25 @@
 msgid ""
 msgstr ""
-"Language: en_US\n"
+"Language: pt_PT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "UPPERTITLE"
-msgstr "Channels"
+msgstr "Canais"
 
 msgid "UPPERSUBBOTTOM"
-msgstr "Please select a channel!"
+msgstr "Por favor selecciona um canal!"
 
 msgid "NEXT"
-msgstr "Next page"
+msgstr "Próxima Página"
 
 msgid "PREV"
-msgstr "Previous page"
+msgstr "Página Anterior"
 
 msgid "FAVORITES"
-msgstr "Favorites"
+msgstr "Favoritos"
 
 msgid "PAGE"
-msgstr "Page"
+msgstr "Página"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d of %d"
+msgstr "%d de %d"
