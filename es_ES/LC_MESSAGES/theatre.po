@@ -957,49 +957,49 @@ msgid "SUDOMEMO_USER"
 msgstr "Usuario de Sudomemo"
 
 msgid "FLIPNOTE_ARCHIVE_BUTTON_TOGGLE"
-msgstr "Show link to archived Flipnote Hatena content from my profile"
+msgstr "Mostrar el enlace al contenido archivado de Flipnote Hatena desde mi perfil"
 
 msgid "FLIPNOTE_ARCHIVE_SETTINGS"
-msgstr "Archive Settings"
+msgstr "Configuración de su Archivo"
 
 msgid "FLIPNOTE_ARCHIVE_PROFILE_AVAILABLE"
-msgstr "Your Flipnote Hatena profile is available through our Flipnote Archive Preview Program! You can view your old Flipnotes by visiting your profile on Sudomemo Theatre."
+msgstr "¡Tu perfil de Flipnote Hatena está disponible a través de nuestra Vista previa del archivo de Flipnote Hatena! Puedes ver tus antiguas Flipnotes visitando tu perfil en Sudomemo Theatre."
 
 msgid "FLIPNOTE_ARCHIVE_PROFILE_SETTING_INFORMATION"
-msgstr "While logged in, your archive link will always be shown on your page. You can choose whether or not to make this visible to other users below."
+msgstr "Mientras esté conectado, su enlace de archivo siempre se mostrará en su página. Puede elegir si desea que esto sea visible o no para otros usuarios aquí."
 
 msgid "FLIPNOTE_ARCHIVE_PROFILE_NOT_AVAILABLE"
-msgstr "An archived Flipnote Hatena profile is not available for this account."
+msgstr "No se encontró un perfil archivado de Flipnote Hatena para esta cuenta."
 
 msgid "FLIPNOTE_HATENA_PROFILE"
-msgstr "Flipnote Hatena Profile"
+msgstr "Perfil de Flipnote Hatena"
 
 msgid "ARCHIVE_PROFILE"
-msgstr "Archive Profile"
+msgstr "Perfil del Archivo"
 
 msgid "ARCHIVE_PROFILE_DESC"
-msgstr "This is an archive of a Flipnote Hatena profile."
+msgstr "Este es un archivo de un perfil de Flipnote Hatena."
 
 msgid "ARCHIVE_FLIPNOTE"
-msgstr "Archive Flipnote"
+msgstr "Flipnote del Archivo"
 
 msgid "ARCHIVE_FLIPNOTE_DESC"
-msgstr "This Flipnote was originally posted on Flipnote Hatena."
+msgstr "Esta Flipnote se publicó originalmente en Flipnote Hatena."
 
 msgid "VIEW_ON_SUDOMEMO"
-msgstr "View on Sudomemo"
+msgstr "Ver en Sudomemo"
 
 msgid "ARCHIVE"
-msgstr "Archive"
+msgstr "Archivo"
 
 msgid "ARCHIVED"
-msgstr "Archived"
+msgstr "Archivado"
 
 msgid "USERS_FLIPNOTE_FROM_FLIPNOTE_HATENA"
-msgstr "%s's Flipnote from Flipnote Hatena"
+msgstr "Flipnote de %s de Flipnote Hatena"
 
 msgid "USERS_PROFILE_FROM_FLIPNOTE_HATENA"
-msgstr "%s's profile from Flipnote Hatena"
+msgstr "Perfil de %s de Flipnote Hatena"
 
 msgid "LEARN_MORE"
-msgstr "Learn more"
+msgstr "Aprende más"
