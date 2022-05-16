@@ -47,3 +47,21 @@ msgstr "Não estás a encontrar o que procuras? Se calhar introduziste o ID do F
 
 msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
 msgstr "Nenhum resultado foi encontrado, mas um ID semelhante existe. Por favor tome nota que os ID dos Flipnotes diferenciam letras maiúsculas e minúsculas, e costumam ter só letras maiúsculas e números."
+
+msgid "SEARCH_MUSICMATCH"
+msgstr "MusicMatch"
+
+msgid "SEARCH_MUSIC_BY_SONG"
+msgstr "Por Música"
+
+msgid "SEARCH_MUSIC_BY_ARTIST"
+msgstr "Por Artista"
+
+msgid "SEARCH_MUSIC_BY_GENRE"
+msgstr "Por Género"
+
+msgid "PAGE"
+msgstr "Página"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d de %d"
