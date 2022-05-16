@@ -1,49 +1,67 @@
 msgid ""
 msgstr ""
-"Language: en_US\n"
+"Language: pt_PT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "HEADER_PREV"
-msgstr "Prev"
+msgstr "Anterior"
 
 msgid "HEADER_NEXT"
-msgstr "Next"
+msgstr "Próximo"
 
 msgid "PAGE_FORMAT"
-msgstr "Page %d"
+msgstr "Página %d"
 
 msgid "SEARCH"
-msgstr "Search"
+msgstr "Procurar"
 
 msgid "USERNAME"
-msgstr "Username"
+msgstr "Nome de Utilizador"
 
 msgid "RESULTS"
-msgstr "Results"
+msgstr "Resultados"
 
 msgid "SEARCH_USERNAME"
-msgstr "Search Username"
+msgstr "Procurar Nome de Utilizador"
 
 msgid "PLEASE_ENTER_USERNAME"
-msgstr "Please enter a username..."
+msgstr "Por favor insira um nome de utilizaor..."
 
 msgid "RESULTS_FOUND_FORMAT_SINGULAR"
-msgstr "%1$d result found for \"%2$s\""
+msgstr "%1$d resultado encontrado por \"%2$s\""
 
 msgid "RESULTS_FOUND_FORMAT_MULTIPLE"
-msgstr "%1$d results found for \"%2$s\""
+msgstr "%1$d resultados encontrador por \"%2$s\""
 
 msgid "NO_RESULTS_FOUND"
-msgstr "No results found"
+msgstr "Nenhums resultados encontrados"
 
 msgid "SEARCH_SHORT_KEY"
-msgstr "Flipnote ID"
+msgstr "ID do Flipnote"
 
 msgid "SHORT_KEY_NO_RESULTS"
-msgstr "No Flipnote found"
+msgstr "Nenhum Flipnote encontrado"
 
 msgid "SHORT_KEY_FORMAT_GUIDE"
-msgstr "Not finding what you're looking for? You may have entered the Flipnote ID incorrectly. Flipnote IDs are six digits long and can be found in the details section for the Flipnote."
+msgstr "Não estás a encontrar o que procuras? Se calhar introduziste o ID do Flipnote incorrectamente. Os ID do Flipnotes tem 6 dígitos e podem ser encontrados na secção de detalhes do Flipnote."
 
 msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
-msgstr "No result was found, but a similar ID exists. Please note that Flipnote IDs are case-sensitive, and usually all-capital letters and numbers."
+msgstr "Nenhum resultado foi encontrado, mas um ID semelhante existe. Por favor tome nota que os ID dos Flipnotes diferenciam letras maiúsculas e minúsculas, e costumam ter só letras maiúsculas e números."
+
+msgid "SEARCH_MUSICMATCH"
+msgstr "MusicMatch"
+
+msgid "SEARCH_MUSIC_BY_SONG"
+msgstr "Por Música"
+
+msgid "SEARCH_MUSIC_BY_ARTIST"
+msgstr "Por Artista"
+
+msgid "SEARCH_MUSIC_BY_GENRE"
+msgstr "Por Género"
+
+msgid "PAGE"
+msgstr "Página"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d de %d"

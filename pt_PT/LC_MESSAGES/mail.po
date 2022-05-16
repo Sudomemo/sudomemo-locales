@@ -1,48 +1,48 @@
 msgid ""
 msgstr ""
-"Language: en_US\n"
+"Language: pt_PT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
 # This contains common strings used for the general notification ("mail") system as well
 # Common
 msgid "LOGIN_FIRST_TO_ACCESS_MAIL"
-msgstr "You'll need to log back in before you can view this."
+msgstr "Precisas de voltar a fazer login para ver o conteúdo deste mail."
 
 msgid "CONTINUE"
-msgstr "Continue"
+msgstr "Continuar"
 
 msgid "HEADER_INBOX"
-msgstr "Inbox"
+msgstr "Caixa de Entrada"
 
 # this must be a max of 6 characters
 msgid "UNAUTHED_READ"
-msgstr "Read.."
+msgstr "Lido.."
 
 msgid "PREV"
-msgstr "Prev"
+msgstr "Anterior"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "Próximo"
 
 # Titles
 msgid "TITLE_SPINOFF"
 msgstr "Spin-off"
 
 msgid "TITLE_WARNING"
-msgstr "Warning"
+msgstr "Aviso urgente"
 
 msgid "TITLE_NOTICE"
-msgstr "Notice"
+msgstr "Aviso"
 
 msgid "TITLE_MESSAGE"
-msgstr "Message"
+msgstr "Mensagem"
 
 msgid "TITLE_NEWS"
-msgstr "News"
+msgstr "Notícias"
 
 msgid "TITLE_INFO"
-msgstr "Info"
+msgstr "Informação"
 
 # Not found
 msgid "MAIL_NOT_FOUND"
-msgstr "This message does not exist."
+msgstr "Esta mensagem não existe."

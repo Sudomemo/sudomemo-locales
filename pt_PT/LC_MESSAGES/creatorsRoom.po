@@ -1,220 +1,220 @@
 msgid ""
 msgstr ""
-"Language: en_US\n"
+"Language: pt_PT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "SEE_MORE"
-msgstr "See more..."
+msgstr "Ver mais..."
 
 msgid "STARRED_FLIPNOTES"
-msgstr "Starred Flipnotes"
+msgstr "Flipnotes com Estrela"
 
 msgid "FAVORITE_USERS"
-msgstr "Favorite Users"
+msgstr "Utilizadores Favoritos"
 
 msgid "FAVORITES_FEED"
-msgstr "Favorites Feed"
+msgstr "Feed de Favoritos"
 
 msgid "FAVORITE_CHANNELS"
-msgstr "Favorite Channels"
+msgstr "Canais Favoritos"
 
 msgid "USER_DOWNLOADCOUNT"
 msgstr "Downloads"
 
 msgid "USER_VIEWCOUNT"
-msgstr "Views"
+msgstr "Visualizações"
 
 msgid "USER_THEME"
-msgstr "Theme"
+msgstr "Tema"
 
 msgid "THEME_SHOP"
-msgstr "Theme Shop"
+msgstr "Loja de Temas"
 
 msgid "POSTED_COMMENTS"
-msgstr "Posted Comments"
+msgstr "Comentários Postados"
 
 msgid "POSTED_CHATCOMMENTS"
-msgstr "Chatroom Messages"
+msgstr "Mensagens de Sala de Chat"
 
 msgid "FEATURE_USABILITY"
-msgstr "Feature Usability"
+msgstr "Usabilidade de Funções"
 
 msgid "USABLE"
-msgstr "Usable"
+msgstr "Usável"
 
 msgid "NOT_USABLE"
-msgstr "Not Usable"
+msgstr "Não Usável"
 
 msgid "SUDOMEMO_THEATRE_URL"
-msgstr "Sudomemo Theatre Link"
+msgstr "Link do Teatro Sudomemo"
 
 msgid "FLIPNOTE_STUDIO_ID"
-msgstr "Flipnote Studio ID"
+msgstr "ID do Flipnote Studio"
 
 msgid "SETTINGS"
-msgstr "Settings"
+msgstr "Definições"
 
 msgid "ADMIN_ACCT_GOOD_STANDING"
-msgstr "In good standing"
+msgstr "Estás OK! Não te preocupes."
 
 msgid "ADMIN_ACCT_BANNED"
-msgstr "Banned"
+msgstr "Banido"
 
 msgid "ADMIN_ACCT_BLOCKED"
-msgstr "Blocked"
+msgstr "Bloqueado"
 
 msgid "ADMIN_ACCT_MUTED"
-msgstr "Muted"
+msgstr "Silenciado"
 
 msgid "ADMIN_USER_DETAILS"
-msgstr "User Details"
+msgstr "Detalhes do Utilizador"
 
 msgid "ADMIN_LAST_SEEN"
-msgstr "Last seen"
+msgstr "Última vez visto"
 
 msgid "ADMIN_USER_STATUS"
-msgstr "User Status"
+msgstr "Estado do Utilizador"
 
 msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
-msgstr "Admin Actions"
+msgstr "Acções de Administrador"
 
 msgid "BLOCK_COMMENTS_HEADER"
-msgstr "Block Comments"
+msgstr "Bloquear Comentárioss"
 
 msgid "BLOCK_COMMENTS_LINK"
-msgstr "Block"
+msgstr "Bloquear"
 
 msgid "USABILITY_USABLE"
-msgstr "Usable"
+msgstr "Usável"
 
 msgid "USABILITY_NOT_USABLE"
-msgstr "Not Usable"
+msgstr "Não Usável"
 
 msgid "HEADER_FOLLOWERS"
-msgstr "Followers"
+msgstr "Seguidores"
 
 msgid "HEADER_FOLLOWING"
-msgstr "Following"
+msgstr "A Seguir"
 
 msgid "PREVIOUS"
-msgstr "Previous"
+msgstr "Anterior"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "Pŕoximo"
 
 msgid "CHANGE_ROOM_THEME_LINK"
-msgstr "[change theme]"
+msgstr "[mudar tema]"
 
 msgid "SELECT_THEME"
-msgstr "Select Theme"
+msgstr "Seleccionar Tema"
 
 msgid "FANS"
 msgstr "Fans"
 
 msgid "EXAMPLE"
-msgstr "Example"
+msgstr "Exemplo"
 
 msgid "THEMETEST_SET_THEME"
-msgstr "Set Theme"
+msgstr "Definir Tema"
 
 msgid "THEMETEST_NOTICE"
-msgstr "Notice"
+msgstr "Anúncio"
 
 msgid "THEMETEST_OK"
-msgstr "Okay"
+msgstr "OK"
 
 msgid "THEMETEST_ERROR"
-msgstr "Error"
+msgstr "Erro"
 
 msgid "THEMETEST_NOTICE_2"
-msgstr "Notice #2"
+msgstr "Anúncio Nº2"
 
 msgid "THEMETEST_ACTIVE_TAB"
-msgstr "Active tab"
+msgstr "Separador Activo"
 
 msgid "THEMETEST_INACTIVE_TAB"
-msgstr "Inactive tab"
+msgstr "Separador Inactivo"
 
 msgid "PREVIEW"
-msgstr "Preview"
+msgstr "Antevisão"
 
 msgid "CREATORS_ROOM"
-msgstr "Creator's Room"
+msgstr "Sala de Criador"
 
 msgid "THEME_ERROR_THEME_NOT_OWNED"
-msgstr "Sorry! You do not own that theme."
+msgstr "Desculpa! Tu não adquiriste este tema."
 
 msgid "THEME_SUCCESSFULLY_SET"
-msgstr "Theme successfully set!"
+msgstr "Tema definido com successo!"
 
 msgid "BLOCKED_USERS"
-msgstr "Blocked users"
+msgstr "Utilizadores Bloqueados"
 
 msgid "VIEW"
-msgstr "View"
+msgstr "Ver"
 
 msgid "FAN_COUNT_FORMAT"
 msgstr "Fans: %s"
 
 msgid "HEADER_LANGUAGE"
-msgstr "Language"
+msgstr "Idioma/Língua"
 
 msgid "HEADER_MAIL_SETTINGS"
-msgstr "Mail Settings"
+msgstr "Definições de Correio"
 
 msgid "HEADER_EDIT_BIOGRAPHY"
-msgstr "Edit Biography"
+msgstr "Editar Biografia"
 
 msgid "SET_BIO_INSTRUCTIONS"
-msgstr "Enter your profile biography below. This will be displayed on Sudomemo and Sudomemo Theatre."
+msgstr "Escreve uma biografia curta no teu perfil aqui. Isto estará visível no Sudomemo e no Teatro Sudomemo."
 
 msgid "ENTER_BIO"
-msgstr "Enter Bio..."
+msgstr "Escrever Biografia..."
 
 msgid "101_CHARACTER_LIMIT_BIO"
-msgstr "Your biography is limited to 101 characters."
+msgstr "A tua biografia tem um limite de 101 caracteres."
 
 msgid "LEAVE_BLANK_TO_RESET_BIO"
-msgstr "To clear your biography, leave the form blank when submitting."
+msgstr "Para limpar a tua biografia, deixa a caixa de diálogo em branco quando guardares."
 
 msgid "CURRENT_BIO"
-msgstr "Current Bio:"
+msgstr "Biografia Actual:"
 
 msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
-msgstr "You can't follow more than %d users."
+msgstr "Não podes seguir mais que %d utilizadores."
 
 msgid "RANKING"
 msgstr "Ranking"
 
 msgid "TICKET_SECTION"
-msgstr "Tickets"
+msgstr "Bilhetes"
 
 msgid "DRAW_REGULAR_TICKET"
-msgstr "Draw Ticket"
+msgstr "Sortear Bilhete"
 
 msgid "CAN_DRAW_TICKET_SUBTEXT"
-msgstr "You can draw a regular ticket! You might win a prize."
+msgstr "Podes sortear um bilhete normal! És capaz de ganhar um prémio."
 
 msgid "INVENTORY"
-msgstr "Inventory"
+msgstr "Inventário"
 
 msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
-msgstr "You can draw another ticket in: %s hour(s) %s minute(s)."
+msgstr "Podes sortear outro bilhete dentro de: %s hora(s) %s minuto(s)."
 
 msgid "REDEEM"
-msgstr "Redeem"
+msgstr "Trocar"
 
 msgid "SPENDABLE_STARS"
-msgstr "Your Stars"
+msgstr "As tuas Estrelas"
 
 msgid "SPENDABLE_STARS_HELPTEXT"
-msgstr "Stars to add to Flipnotes or use for themes"
+msgstr "Estrelas para por em Flipnotes ou trocar por temas"
 
 msgid "LOGIN_REQUIRED_ACTION"
-msgstr "You must be logged in to perform this action."
+msgstr "Tens de ter feito login para fazer esta acção."
 
 msgid "PAGE"
-msgstr "Page"
+msgstr "Página"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d of %d"
+msgstr "%d de %d"
