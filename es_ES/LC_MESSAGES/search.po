@@ -52,16 +52,16 @@ msgid "SEARCH_MUSICMATCH"
 msgstr "MusicMatch"
 
 msgid "SEARCH_MUSIC_BY_SONG"
-msgstr "By Song"
+msgstr "Por Canción"
 
 msgid "SEARCH_MUSIC_BY_ARTIST"
-msgstr "By Artist"
+msgstr "Por Artista"
 
 msgid "SEARCH_MUSIC_BY_GENRE"
-msgstr "By Genre"
+msgstr "Por Género"
 
 msgid "PAGE"
-msgstr "Page"
+msgstr "Página"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d of %d"
+msgstr "%d de %d"

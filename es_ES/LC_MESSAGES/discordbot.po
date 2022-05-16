@@ -55,7 +55,7 @@ msgid "REJECT_ACCOUNT_ALREADY_LINKED"
 msgstr "¡Ya has vinculado tu cuenta de Sudomemo!"
 
 msgid "REJECT_BOOST_TICKET_COOLDOWN"
-msgstr "You've already given a Nitro Booster ticket this month! (%s)"
+msgstr "¡Ya has regalado un ticket Nitro Booster este mes! (%s)"
 
 msgid "REJECT_FSID_ENOENT"
 msgstr "No encontré un usuario con ese ID de Flipnote Studio en Sudomemo."
