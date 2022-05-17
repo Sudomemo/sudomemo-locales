@@ -49,16 +49,16 @@ msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
 msgstr "No se han encontrado resultados, pero si una ID similar. Por favor, comprueba si el ID tiene letras mayúsculas o minúsculas y números, suelen ser casi todas con mayúsculas y con números."
 
 msgid "SEARCH_MUSICMATCH"
-msgstr "MusicMatch"
+msgstr "@MusicMatch"
 
 msgid "SEARCH_MUSIC_BY_SONG"
-msgstr "Por Canción"
+msgstr "@Por Canción"
 
 msgid "SEARCH_MUSIC_BY_ARTIST"
-msgstr "Por Artista"
+msgstr "@Por Artista"
 
 msgid "SEARCH_MUSIC_BY_GENRE"
-msgstr "Por Género"
+msgstr "@Por Género"
 
 msgid "PAGE"
 msgstr "Página"
