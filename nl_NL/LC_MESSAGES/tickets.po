@@ -58,6 +58,7 @@ msgstr "Kleursterren"
 msgid "CREATORS_ROOM_THEME"
 msgstr "Thema Makersruimte"
 
+#not used anymore due to sudomemo plus and could probaly just be the same as english as its an service
 msgid "SUDOMEMO_CITIZENSHIP"
 msgstr "Sudomemo Citizenship"
 
@@ -152,35 +153,40 @@ msgid "TICKET_DESC_special_someone_ticket"
 msgstr "Voor die speciale persoon. Drie maanden Plus, Kleursterren, en een exclusief thema."
 
 msgid "TICKET_NAME_folding_reward_ticket"
-msgstr "Folding@Home Reward Ticket"
+msgstr "Folding@Home Prijs Ticket"
 
 msgid "TICKET_DESC_folding_reward_ticket"
 msgstr "Bedankt dat je helpt met het redden van levens!"
 
+#litterly the name of a ticket weird if its translated
 msgid "TICKET_NAME_green_panda_ticket"
 msgstr "Lazy Paisley-Ticket"
 
 msgid "TICKET_DESC_green_panda_ticket"
 msgstr "Deze Ticket geeft je 110 uitgeefbare Sudomemosterren, een exclusief thema, en een speciale badge op je profiel!"
 
+#litterly the name of a ticket weird if its translated
 msgid "TICKET_NAME_red_bird_ticket"
 msgstr "Bailey Flitwing-Ticket"
 
 msgid "TICKET_DESC_red_bird_ticket"
 msgstr "Deze ticket geeft je 230 uitgeefbare Sudomemosterren, een exclusief thema, en een speciale badge op je profiel!"
 
+#litterly the name of a ticket weird if its translated
 msgid "TICKET_NAME_blue_dog_ticket"
 msgstr "Ziggy Starburst-Ticket"
 
 msgid "TICKET_DESC_blue_dog_ticket"
 msgstr "Deze ticket geeft je 350 uitgeefbare Sudomemosterren (misschien wel een zeldzame!), een exclusief thema, en een speciale badge op je profiel!"
 
+#litterly the name of a ticket weird if its translated
 msgid "TICKET_NAME_purple_bunny_ticket"
 msgstr "Russell Ramblewood-Ticket"
 
 msgid "TICKET_DESC_purple_bunny_ticket"
 msgstr "Deze ticket geeft je 600 uitgeefbare Sudomemosterren (waarvan waarschijnlijk een paar zeldzaam!), een exclusief thema, en een speciale badge op je profiel!"
 
+#litterly the name of a ticket weird if its translated
 msgid "TICKET_NAME_golden_neko_ticket"
 msgstr "Mitsuo Meow-Ticket"
 
@@ -197,7 +203,7 @@ msgid "TICKET_NAME_colors_promo_ticket"
 msgstr "Colors! Promoticket"
 
 msgid "TICKET_DESC_colors_promo_ticket"
-msgstr "You won the Sudomemo x Colors! June 2020 Weekly Topic!"
+msgstr "Je hebt de sudomemo x Colors, Juni 2020 Weekelijke Topic gewonnnen!"
 
 msgid "TICKET_NAME_neighborhood_watch_ticket"
 msgstr "Buurtwachtticket"
@@ -206,37 +212,38 @@ msgid "TICKET_DESC_neighborhood_watch_ticket"
 msgstr "Bedankt dat je helpt Sudomemo een veilige en gastvrije plek te houden!"
 
 msgid "TICKET_NAME_featured_flipnote_ticket"
-msgstr "Featured Flipnote Ticket"
+msgstr "uitgelichte Flipnote Ticket"
 
 msgid "TICKET_DESC_featured_flipnote_ticket"
-msgstr "Congratulations! One of your Flipnotes was featured."
+msgstr "gefeliciteerd! je flipnote is uitgelicht!"
 
 msgid "TICKET_NAME_featured_artist_ticket"
-msgstr "Featured Artist Ticket"
+msgstr "Uitgelichte artiest ticket"
 
 msgid "TICKET_DESC_featured_artist_ticket"
-msgstr "We give our warm congratulations to you for becoming a Sudomemo Featured Artist!"
+msgstr "We geven je een warme felicitatie aan jou omdat je een uitgelichte artiest bent geworden!"
 
 msgid "TICKET_NAME_spookmaster_ticket"
 msgstr "Spookmaster Ticket"
 
+#game title not translated due to it being the name of a game which almost never gets translated
 msgid "TICKET_DESC_spookmaster_ticket"
-msgstr "Thank you so much for playing SudoQuest: Requiem! We hope you enjoyed the game."
+msgstr "We bedanken je om SudoQuest: Requiem! te spelen we hopen dat je de game leuk vond!"
 
 msgid "TICKET_NAME_nitro_booster_ticket"
 msgstr "Nitro Booster Ticket"
 
 msgid "TICKET_DESC_nitro_booster_ticket"
-msgstr "Hey, you! You're awesome! Thanks for boosting the Sudomemo Discord!"
+msgstr "He jij! Je bent geweldig! Bedankt voor het boosten van de sudomemo discord!"
 
 msgid "TICKET_NAME_7th_birthday_bash_ticket"
-msgstr "7th Birthday Bash Ticket"
+msgstr "7de Birthday Bash Ticket"
 
 msgid "TICKET_DESC_7th_birthday_bash_ticket"
-msgstr "Thanks for attending our Birthday Bash!"
+msgstr "Bedankt voor het meedoen met de 7de birthday bash!"
 
 msgid "TICKET_NAME_8th_birthday_bash_ticket"
-msgstr "8th Birthday Bash Ticket"
+msgstr "8ste Birthday Bash Ticket"
 
 msgid "TICKET_DESC_8th_birthday_bash_ticket"
-msgstr "Thanks for attending our Birthday Bash!"
+msgstr "bedankt voor het meedoen met de 8ste birthday bash!"

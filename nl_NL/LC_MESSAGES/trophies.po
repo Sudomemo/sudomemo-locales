@@ -13,7 +13,7 @@ msgstr "The Prijzenkast is leeg."
 
 # I chose to keep this untranslated, as it's a reference / catchphrase
 msgid "ACHIEVEMENT_EARNED"
-msgstr "Achievement Get!"
+msgstr "Je hebt een achievment gekregen!"
 
 msgid "CONTINUE"
 msgstr "Doorgaan"
@@ -139,16 +139,16 @@ msgid "TROPHY_NAME_nitro_booster"
 msgstr "Nitro Booster"
 
 msgid "TROPHY_DESC_nitro_booster"
-msgstr "Showed how cool they (or a friend) were by boosting the Sudomemo Discord server."
+msgstr "Laat zien hoe cool (of een vriend) was door de sudomemo discord te boosten!"
 
 msgid "TROPHY_NAME_7th_birthday_bash"
-msgstr "7th Birthday Bash"
+msgstr "7de Birthday Bash"
 
 msgid "TROPHY_DESC_7th_birthday_bash"
-msgstr "Attended Sudomemo's 7 Years of Flipnote Fun event"
+msgstr "deed mee met de 7de birthday bash!"
 
 msgid "TROPHY_NAME_8th_birthday_bash"
-msgstr "8th Birthday Bash"
+msgstr "8ste Birthday Bash"
 
 msgid "TROPHY_DESC_8th_birthday_bash"
-msgstr "Attended Sudomemo's 8 Years of Flipnote Fun event"
+msgstr "deed mee met de 8ste birthday bash!"

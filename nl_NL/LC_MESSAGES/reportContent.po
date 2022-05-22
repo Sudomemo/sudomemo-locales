@@ -70,61 +70,61 @@ msgid "THANKS_FOR_REPORTING"
 msgstr "We hebben jouw rapportage ontvangen. Bedankt voor het helpen met Sudomemo een betere plek te maken!"
 
 msgid "CATEGORY_NAME_stolen"
-msgstr "Stolen"
+msgstr "Gestolen"
 
 msgid "CATEGORY_DESC_stolen"
-msgstr "Misuse of spin-off function (stolen)"
+msgstr "Misbruik van spinoff functie (gestolen)"
 
 msgid "CATEGORY_NAME_spam"
 msgstr "Spam"
 
 msgid "CATEGORY_DESC_spam"
-msgstr "Spam (no meaningful content)"
+msgstr "Spam (Geen betekenisvolle content)"
 
 msgid "CATEGORY_NAME_harassment"
-msgstr "Harassment"
+msgstr "Intimitatie"
 
 msgid "CATEGORY_DESC_harassment"
-msgstr "Bullying, discrimination, harassment or libel"
+msgstr "Pesten, discriminatie, Intimidatie of smaad"
 
 msgid "CATEGORY_NAME_fraud"
-msgstr "Fraud"
+msgstr "Bedrog"
 
 msgid "CATEGORY_DESC_fraud"
-msgstr "Impersonation or other fraudulent activities"
+msgstr "Impersonatie of ander Bedrogen content"
 
 msgid "CATEGORY_NAME_swearing"
-msgstr "Profane"
+msgstr "ontheiligen"
 
 msgid "CATEGORY_DESC_swearing"
-msgstr "Use of very strong language, or frequent use of strong language"
+msgstr "Gebruik van heel erg sterke taal of meerdere keren gebruik van sterke taal"
 
 msgid "CATEGORY_NAME_sexual"
-msgstr "Sexual"
+msgstr "Sexueel"
 
 msgid "CATEGORY_DESC_sexual"
-msgstr "Sexual themes or content"
+msgstr "Sexuele themas of content"
 
 msgid "CATEGORY_NAME_violent"
-msgstr "Graphic"
+msgstr "Grafisch"
 
 msgid "CATEGORY_DESC_violent"
-msgstr "Graphic content, excessive violence, gore, blood, or body horror"
+msgstr "Grafische content, uitgebreide geweld, gore, bloed, of lichamelijke horror"
 
 msgid "CATEGORY_NAME_misplaced_rp"
-msgstr "Misplaced RP"
+msgstr "Misgeplaatste RP"
 
 msgid "CATEGORY_DESC_misplaced_rp"
-msgstr "Roleplay posted to non-roleplay channel"
+msgstr "Roleplay gepost op een geen roleplay kanaal"
 
 msgid "CATEGORY_NAME_drugs"
 msgstr "Drugs"
 
 msgid "CATEGORY_DESC_drugs"
-msgstr "Substance abuse or drug references"
+msgstr "Middelenmisbruik of drugsreferenties"
 
 msgid "CATEGORY_NAME_rapid_flashing"
-msgstr "Rapid Flashing"
+msgstr "snel knipperend"
 
 msgid "CATEGORY_DESC_rapid_flashing"
-msgstr "Flashing more than four times in one second"
+msgstr "Knippert meer dan vier keer in één seconde"
