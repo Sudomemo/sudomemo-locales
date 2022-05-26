@@ -13,7 +13,7 @@ msgid "HEADER_CONFIRM_OPTIONS"
 msgstr "Bevestig opties"
 
 msgid "LINK_REQUIRED_BEFORE_UPLOAD"
-msgstr "Je moet je youtube account eerst linken voordat je Flipnotes naar youtube kunt uploaden"
+msgstr "Je moet je Youtube account eerst linken voordat je Flipnotes naar Youtube kunt uploaden."
 
 msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
 msgstr "Je youtube account is nog niet geverifieerd om verschillende functies te gebruiken moet je je youtube account eerst verifieren"
@@ -172,17 +172,17 @@ msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_LIMIT_NOTE"
 msgstr "Sudomemo Plus Gebruiken kunnen %s videos per dag uploaden."
 
 msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_UNLIMITED_NOTE"
-msgstr "Sudomemo plus gebruiken kunnen oneindig veel videos uploaden per dag"
+msgstr "Sudomemo Plgebruiken kunnen oneindig veel videos uploaden per dag"
 
 msgid "YOUTUBE_UPLOAD_LIMIT_CURRENT"
-msgstr "Je hebt al %s videos geupload vandaag"
+msgstr "Je hebt al %s videos geupload vandaag.
 
 msgid "YOUTUBE_UPLOAD_LIMIT_EXCEEDED"
-msgstr "Je kan niet meer videos uploaden vandaag"
+msgstr "Je kan niet meer videos uploaden vandaag."
 
 # If the user's already uploaded it...
 msgid "FLIPNOTE_ALREADY_UPLOADED"
-msgstr "Je hebt deze flipnote al naar youtube geupload"
+msgstr "Je hebt deze Flipnote al naar Youtube geupload"
 
 msgid "YOUTUBE_ID"
 msgstr "YouTube ID"
@@ -191,4 +191,4 @@ msgid "BTN_UPLOAD_AGAIN"
 msgstr "Upload Opnieuw"
 
 msgid "YOUTUBE_STATUS_PAUSED_GLOBAL_QUOTA"
-msgstr "Ons algemene upload quota is overschreden uploads kunnen langer duren. sorry!"
+msgstr "Ons algemene upload quota is overschreden, uploads kunnen langer duren!"
