@@ -94,7 +94,7 @@ msgid "CATEGORY_DESC_fraud"
 msgstr "Impersonatie of ander Bedrogen content"
 
 msgid "CATEGORY_NAME_swearing"
-msgstr "ontheiligen"
+msgstr "Ontheiligen"
 
 msgid "CATEGORY_DESC_swearing"
 msgstr "Gebruik van heel erg sterke taal of meerdere keren gebruik van sterke taal"
@@ -124,7 +124,7 @@ msgid "CATEGORY_DESC_drugs"
 msgstr "Middelenmisbruik of drugsreferenties"
 
 msgid "CATEGORY_NAME_rapid_flashing"
-msgstr "snel knipperend"
+msgstr "Snel knipperend"
 
 msgid "CATEGORY_DESC_rapid_flashing"
 msgstr "Knippert meer dan vier keer in één seconde"
