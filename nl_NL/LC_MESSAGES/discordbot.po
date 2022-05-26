@@ -17,10 +17,10 @@ msgid "DISCORD_LINKING_GET_STARTED"
 msgstr "Bekijk %s om te beginnen!"
 
 msgid "DISCORD_LINKING_REQUIRED"
-msgstr "Je moet je sudomemo account koppelen om dit te doen"
+msgstr "Je moet je sudomemo account koppelen om dit te doen!"
 
 msgid "DISCORD_LINKING_SUCCESS"
-msgstr "Je account is succsessvol gekoppeld"
+msgstr "Je account is succsessvol gekoppeld!"
 
 msgid "DISCORD_LINKING_UNLINKED"
 msgstr "De koppeling van je account en discord is verwijderd."
@@ -111,4 +111,4 @@ msgstr ""
 
 # displayed as "💡 Link your Sudomemo account with `.sudo link`"
 msgid "UNLINKED_COMMAND_TIP"
-msgstr "Koppel jouw sudomemo account met"
+msgstr "Koppel jouw Sudomemo account met"
