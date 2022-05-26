@@ -10,23 +10,23 @@ msgid "YOUTUBE"
 msgstr "YouTube"
 
 msgid "HEADER_CONFIRM_OPTIONS"
-msgstr "Bevestig opties"
+msgstr "Bevestig Opties"
 
 msgid "LINK_REQUIRED_BEFORE_UPLOAD"
 msgstr "Je moet je Youtube account eerst linken voordat je Flipnotes naar Youtube kunt uploaden."
 
 msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
-msgstr "Je youtube account is nog niet geverifieerd om verschillende functies te gebruiken moet je je youtube account eerst verifieren"
+msgstr "Je youtube account is nog niet geverifieerd om verschillende functies te gebruiken moet je je youtube account eerst verifieren."
 
-# Om dit op te lossen ga naar: https://flipnot.es/ytsetup
+# To fix this, visit: https://flipnot.es/ytsetup
 msgid "YOUTUBE_ACCOUNT_VERIFICATION_FIX"
 msgstr "Om dit op te lossen ga naar:"
 
 msgid "TITLE_DESC_MISSING"
-msgstr "Je flipnote heeft eerst een titel en beschrijving nodig voordat je het naar youtube kunt uploaden"
+msgstr "Je flipnote heeft eerst een titel en beschrijving nodig voordat je het naar youtube kunt uploaden."
 
 msgid "TITLE_DESC_ADD_FIRST"
-msgstr "Ga terug en verbeter dit eerst voordat je doorgaat"
+msgstr "Ga terug en verbeter dit eerst voordat je doorgaat."
 
 # A URL is displayed after this:
 msgid "HOW_TO_LINK_FROM_THEATRE"
@@ -64,13 +64,13 @@ msgid "YOUTUBE_VISIBILITY"
 msgstr "Zichtbaarheid"
 
 msgid "YOUTUBE_VISIBILITY_PUBLIC"
-msgstr "openbaar"
+msgstr "Openbaar"
 
 msgid "YOUTUBE_VISIBILITY_UNLISTED"
 msgstr "Verborgen"
 
 msgid "YOUTUBE_VISIBILITY_PRIVATE"
-msgstr "privé"
+msgstr "Privé"
 
 msgid "SUBMIT"
 msgstr "Verstuur"
@@ -80,21 +80,21 @@ msgid "UPLOAD_STATUS"
 msgstr "Upload Status"
 
 msgid "YOUTUBE_PENDING_UPLOAD"
-msgstr "Je flipnote is op dit moment aan het wachten om geupload te worden. kijk over een paar minuutjes opnieuw"
+msgstr "Je Flipnote is op dit moment aan het wachten om geupload te worden. Kijk over een paar minuutjes opnieuw"
 
 # Position in queue: 4
 msgid "POSITION_IN_QUEUE"
 msgstr "Positie in wachtrij: %d"
 
 msgid "THEATRE_STATUS_TRACKER"
-msgstr "Bekijk je live upload tracker hier"
+msgstr "Bekijk je live upload tracker hier:"
 
 msgid "REVIEW_DETAILS_BEFORE_UPLOAD"
-msgstr "Bekijk deze opties voordat je je flipnote gaat uploaden"
+msgstr "Bekijk deze opties voordat je gaat uploaden."
 
 # ...do so, visit https://flipnot.es/ABC123/yt
 msgid "CHANGE_OPTIONS_ON_THEATRE"
-msgstr "Je kunt deze opties wijzigen voordat je je flipnote upload om dat te doen ga naar:"
+msgstr "Je kunt deze opties wijzigen voordat je je flipnote upload. om dat te doen ga naar:"
 
 # ...please visit: https://flipnot.es/ytsetup
 msgid "SET_DEFAULTS_ON_THEATRE"
@@ -125,16 +125,16 @@ msgid "YOUTUBE_STATUS_WAITING_TO_BE_PROCESSED"
 msgstr "Je upload wacht momenteel om te worden verwerkt."
 
 msgid "YOUTUBE_STATUS_BEING_PROCESSED"
-msgstr "Je upload word op dit moment verwerkt!"
+msgstr "Je upload word op dit moment verwerkt."
 
 msgid "YOUTUBE_STATUS_COMPLETE"
-msgstr "Your upload is Klaar!"
+msgstr "Je upload is klaar!"
 
 msgid "YOUTUBE_STATUS_FAILED"
-msgstr "Een error trad op. voor meer informatie, ga naar https://flipnot.es/ytsetup"
+msgstr "Een error trad op. Voor meer informatie, ga naar https://flipnot.es/ytsetup"
 
 msgid "RECONNECT_NEEDED"
-msgstr "Je koppeling met je youtube kanaal is veroudert"
+msgstr "Je koppeling met je youtube kanaal is veroudert."
 
 msgid "BTN_START_UPLOAD"
 msgstr "Start Upload"
@@ -166,13 +166,13 @@ msgstr "Door je video's te uploaden op YouTube, ga je ermee akkoord dat je akkoo
 
 # We may need to limit uploads per day depending on our API quota usage rate
 msgid "YOUTUBE_UPLOAD_LIMIT"
-msgstr "Je kunt alleen %s videos op youtube uploaden per dag"
+msgstr "Je kunt alleen %s videos op youtube uploaden per dag."
 
 msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_LIMIT_NOTE"
 msgstr "Sudomemo Plus Gebruiken kunnen %s videos per dag uploaden."
 
 msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_UNLIMITED_NOTE"
-msgstr "Sudomemo Plgebruiken kunnen oneindig veel videos uploaden per dag"
+msgstr "Sudomemo Plus gebruiken kunnen oneindig veel videos uploaden per dag."
 
 msgid "YOUTUBE_UPLOAD_LIMIT_CURRENT"
 msgstr "Je hebt al %s videos geupload vandaag.
