@@ -4,10 +4,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "NOT_LOGGED_IN_NOTICE"
-msgstr "Je bent niet ingelogd op Sudomemo - Druk op %s om door te gaan"
+msgstr "Je bent niet ingelogd op Sudomemo - Druk op %s om door te gaan!"
 
 msgid "NOT_LOGGED_IN_NOTICE_LINK_TEXT"
-msgstr "Hier"
+msgstr "hier"
 
 msgid "YOU_HAVE_NEW_NOTIFICATIONS"
 msgstr "Je hebt nieuwe notificaties"
@@ -16,4 +16,4 @@ msgid "NOT_REGISTERED_NOTICE"
 msgstr "Heb je lol? Begin met sudomemo door op %s te drukken!"
 
 msgid "NOT_REGISTERED_NOTICE_LINK_TEXT"
-msgstr "Hier"
+msgstr "hier"
