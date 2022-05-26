@@ -23,10 +23,10 @@ msgid "DISCORD_LINKING_SUCCESS"
 msgstr "Je account is succsessvol gekoppeld"
 
 msgid "DISCORD_LINKING_UNLINKED"
-msgstr "De koppeling van je account en discord is verwijderd"
+msgstr "De koppeling van je account en discord is verwijderd."
 
 msgid "DISCORD_LINKING_UNLINK_NOT_LINKED_YET"
-msgstr "Je discord account is niet gekoppeld aan een sudomemo account"
+msgstr "Je discord account is niet gekoppeld aan een sudomemo account."
 
 # "Invalid mode - must be one of: song, artist, genre"
 msgid "MUSICMATCH_INVALID_MODE"
@@ -52,13 +52,13 @@ msgid "MUSICMATCH_TITLE_BY_ARTIST"
 msgstr "%s door %s"
 
 msgid "REJECT_ACCOUNT_ALREADY_LINKED"
-msgstr "Je hebt je sudomemo account al gekoppeld"
+msgstr "Je hebt je sudomemo account al gekoppeld!"
 
 msgid "REJECT_BOOST_TICKET_COOLDOWN"
-msgstr "Je hebt al een nitro booster ticket weggegeven deze maand (%s)"
+msgstr "Je hebt al een nitro booster ticket weggegeven deze maand! (%s)"
 
 msgid "REJECT_FSID_ENOENT"
-msgstr "Ik heb geen gebruiker gevonden met die FSID"
+msgstr "Ik heb geen gebruiker gevonden met die FSID."
 
 msgid "REJECT_GENERIC_ERROR"
 msgstr "Ik ben problemen tegengekomen. Sorry!"
@@ -67,16 +67,16 @@ msgid "REJECT_INVALID_FSID"
 msgstr "Dat is geen geldige FSID!"
 
 msgid "REJECT_INVALID_LINK_TOKEN"
-msgstr "Dat is niet een geldige koppel token klik hier %s om te starten"
+msgstr "Dat is geen geldige Koppel Token! Klik Hier %s om te starten!"
 
 msgid "REJECT_LINK_TOKEN_ENOENT"
-msgstr "De link die je hebt gegeven is niet geldig of is verlopen"
+msgstr "De link die je hebt gegeven is niet geldig of is verlopen."
 
 msgid "REJECT_NOT_NITRO_BOOSTER"
 msgstr "Je moet een sudomemo nitro booster zijn om dit te doen!"
 
 msgid "REJECT_USER_ENOENT"
-msgstr "Ik heb die gebruiker niet op sudomemo gevonden"
+msgstr "Ik heb die gebruiker niet op sudomemo gevonden."
 
 # "Usage: example_command <fsid>"
 msgid "USAGE"
@@ -93,13 +93,13 @@ msgstr ""
 msgid "USAGE_give_plus"
 msgstr ""
 "   give_plus <FSID>\n"
-"      Geef een (1 month of Sudomemo Plus and a Trophy) aan\n"
-"      <FSID>: Flipnote Studio ID."
+"      Geef een (1 month of Sudomemo Plus and a Trophy) aan. \n"
+"      <FSID>: Flipnote Studio ID"
 
 msgid "USAGE_link"
 msgstr ""
 "   link\n"
-"      koppel jouw sudomemo account aan discord"
+"      Koppel jouw Sudomemo account aan Discord"
 
 # ONLY TRANSLATE "Search Sudomemo MusicMatch" and "What you're searching for"
 msgid "USAGE_musicmatch"
