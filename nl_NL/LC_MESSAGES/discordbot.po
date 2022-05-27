@@ -10,20 +10,20 @@ msgstr ""
 
 # Username was given a Nitro Booster Ticket...
 msgid "BOOST_TICKET_SUCCESS"
-msgstr "%s Kreeg een nitro boost ticket voor een maand van sudomemo! Hoera!"
+msgstr "%s Kreeg een Nitro Boost Ticket voor een maand van Sudomemo Plus! Hoera!"
 
 # Account linking
 msgid "DISCORD_LINKING_GET_STARTED"
 msgstr "Bekijk %s om te beginnen!"
 
 msgid "DISCORD_LINKING_REQUIRED"
-msgstr "Je moet je sudomemo account koppelen om dit te doen!"
+msgstr "Je moet je Sudomemo account koppelen om dit te doen."
 
 msgid "DISCORD_LINKING_SUCCESS"
 msgstr "Je account is succsessvol gekoppeld!"
 
 msgid "DISCORD_LINKING_UNLINKED"
-msgstr "De koppeling van je account en discord is verwijderd."
+msgstr "De koppeling van je Sudomemo account en Discord is verwijderd."
 
 msgid "DISCORD_LINKING_UNLINK_NOT_LINKED_YET"
 msgstr "Je discord account is niet gekoppeld aan een sudomemo account."
@@ -52,19 +52,19 @@ msgid "MUSICMATCH_TITLE_BY_ARTIST"
 msgstr "%s door %s"
 
 msgid "REJECT_ACCOUNT_ALREADY_LINKED"
-msgstr "Je hebt je sudomemo account al gekoppeld!"
+msgstr "Je hebt je Sudomemo account al gekoppeld!"
 
 msgid "REJECT_BOOST_TICKET_COOLDOWN"
-msgstr "Je hebt al een nitro booster ticket weggegeven deze maand! (%s)"
+msgstr "Je hebt al een Nitro Booster Ticket weggegeven deze maand! (%s)"
 
 msgid "REJECT_FSID_ENOENT"
-msgstr "Ik heb geen gebruiker gevonden met die FSID."
+msgstr "Ik heb geen gebruiker gevonden met die Flipnote Studio ID op Sudomemo"
 
 msgid "REJECT_GENERIC_ERROR"
 msgstr "Ik ben problemen tegengekomen. Sorry!"
 
 msgid "REJECT_INVALID_FSID"
-msgstr "Dat is geen geldige FSID!"
+msgstr "Dat is geen geldige Flipnote Studio ID"
 
 msgid "REJECT_INVALID_LINK_TOKEN"
 msgstr "Dat is geen geldige Koppel Token! Klik Hier %s om te starten!"
@@ -73,10 +73,10 @@ msgid "REJECT_LINK_TOKEN_ENOENT"
 msgstr "De link die je hebt gegeven is niet geldig of is verlopen."
 
 msgid "REJECT_NOT_NITRO_BOOSTER"
-msgstr "Je moet een sudomemo nitro booster zijn om dit te doen!"
+msgstr "Je moet een Sudomemo Nitro Booster zijn om dit te doen!"
 
 msgid "REJECT_USER_ENOENT"
-msgstr "Ik heb die gebruiker niet op sudomemo gevonden."
+msgstr "Ik heb die gebruiker niet op Sudomemo gevonden."
 
 # "Usage: example_command <fsid>"
 msgid "USAGE"
@@ -85,15 +85,15 @@ msgstr "Gebruik"
 # ONLY TRANSLATE: "usage", "commands"
 msgid "USAGE_INTRO"
 msgstr ""
-"Gebruik: .sudo ...\n"
+"gebruik: .sudo ...\n"
 "\n"
-"commando's:"
+"commandos:"
 
 # ONLY TRANSLATE: "Give Nitro Booster ticket..." and "Flipnote Studio ID"
 msgid "USAGE_give_plus"
 msgstr ""
 "   give_plus <FSID>\n"
-"      Geef een (1 month of Sudomemo Plus and a Trophy) aan. \n"
+"      Geef een (1 month of Sudomemo Plus and a Trophy) aan.\n"
 "      <FSID>: Flipnote Studio ID"
 
 msgid "USAGE_link"
