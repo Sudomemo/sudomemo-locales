@@ -253,11 +253,11 @@ msgid "EMAIL_VERIFICATION_ADDRESS_REMOVED"
 msgstr "Sorry daarvoor! We hebben gemarkeerd dat je e-mailadres niet klopt, dus je hoort vanaf nu geen e-mails meer van Sudomemo te ontvangen."
 
 msgid "THANKS_FOR_LOGIN_PROMPT_INTRO"
-msgstr "Welkom op Sudomemo! Nu, Laten we een klein berichtje achter om te zeggen wie je bent! (Dit zal worden gepost als een flipnote in de "introduction" kanaal.)"
+msgstr "Welkom op Sudomemo! Nu, Laten we een klein berichtje achter om te zeggen wie je bent! (Dit zal worden gepost als een Flipnote in de "Introduction" kanaal.)"
 
 msgid "PLEASE_DISCONNECT_AND_RECONNECT"
 msgstr "Een probleem is opgetreden Verbindt opnieuw met Sudomemo."
 
 # A URL will be shown at the end of this.
 msgid "LEGACY_PROXY_WARNING"
-msgstr "Het lijkt erop dat je nog steeds onze oude proxy (ds.sudomemo.net) gebruikt. We raden je aan om de proxy te verwijderen en gewoon te verbinden met de dns. Voor meer informatie kijk op: %d"
+msgstr "Het lijkt erop dat je nog steeds onze oude proxy (ds.sudomemo.net) gebruikt. Je moet om Sudomemo blijven te gebruiken de proxy verwijderen en gewoon te verbinden met de DNS. Voor meer informatie kijk op: %d"
