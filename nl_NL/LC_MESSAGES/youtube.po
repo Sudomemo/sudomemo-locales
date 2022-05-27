@@ -16,24 +16,24 @@ msgid "LINK_REQUIRED_BEFORE_UPLOAD"
 msgstr "Je moet je Youtube account eerst linken voordat je Flipnotes naar Youtube kunt uploaden."
 
 msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
-msgstr "Je youtube account is nog niet geverifieerd om verschillende functies te gebruiken moet je je youtube account eerst verifieren."
+msgstr "Je Youtube account is nog niet geverifieerd. om verschillende functies te gebruiken moet je je youtube account eerst verifieren."
 
 # To fix this, visit: https://flipnot.es/ytsetup
 msgid "YOUTUBE_ACCOUNT_VERIFICATION_FIX"
-msgstr "Om dit op te lossen ga naar:"
+msgstr "Om dit op te lossen, ga naar:"
 
 msgid "TITLE_DESC_MISSING"
-msgstr "Je flipnote heeft eerst een titel en beschrijving nodig voordat je het naar youtube kunt uploaden."
+msgstr "Je Flipnote heeft eerst een titel en beschrijving nodig voordat je het naar Youtube kunt uploaden."
 
 msgid "TITLE_DESC_ADD_FIRST"
 msgstr "Ga terug en verbeter dit eerst voordat je doorgaat."
 
 # A URL is displayed after this:
 msgid "HOW_TO_LINK_FROM_THEATRE"
-msgstr "Om je youtube kanaal te koppen ga naar deze pagina:"
+msgstr "Om je Youtube kanaal te koppelen, ga naar deze pagina:"
 
 msgid "HOW_TO_REFRESH_FROM_THEATRE"
-msgstr "Om je kanaal te updaten ga naar deze pagina:"
+msgstr "Om je kanaal te updaten, ga naar deze pagina:"
 
 # Preview upload details before submitting
 msgid "PREVIEW_TITLE"
@@ -80,7 +80,7 @@ msgid "UPLOAD_STATUS"
 msgstr "Upload Status"
 
 msgid "YOUTUBE_PENDING_UPLOAD"
-msgstr "Je Flipnote is op dit moment aan het wachten om geupload te worden. Kijk over een paar minuutjes opnieuw"
+msgstr "Je Flipnote is op dit moment aan het wachten om geupload te worden. Kijk over een paar minuutjes opnieuw."
 
 # Position in queue: 4
 msgid "POSITION_IN_QUEUE"
@@ -94,7 +94,7 @@ msgstr "Bekijk deze opties voordat je gaat uploaden."
 
 # ...do so, visit https://flipnot.es/ABC123/yt
 msgid "CHANGE_OPTIONS_ON_THEATRE"
-msgstr "Je kunt deze opties wijzigen voordat je je flipnote upload. om dat te doen ga naar:"
+msgstr "Je kunt deze opties wijzigen voordat je je Flipnote upload. Om dat te doen ga naar:"
 
 # ...please visit: https://flipnot.es/ytsetup
 msgid "SET_DEFAULTS_ON_THEATRE"
@@ -104,7 +104,7 @@ msgid "STATUS"
 msgstr "Status"
 
 msgid "YOUTUBE_STATUS_NEW"
-msgstr "Nieuw!"
+msgstr "Nieuw"
 
 msgid "YOUTUBE_STATUS_PROCESSING"
 msgstr "Bezig"
@@ -113,7 +113,7 @@ msgid "YOUTUBE_STATUS_SUCCESS"
 msgstr "Klaar!"
 
 msgid "YOUTUBE_STATUS_PAUSED"
-msgstr "gepauzeerd"
+msgstr "Gepauzeerd"
 
 msgid "YOUTUBE_STATUS_ERROR"
 msgstr "Error"
@@ -153,7 +153,7 @@ msgid "FLIPNOTE_SMOOTHING"
 msgstr "Flipnote Vezachting"
 
 msgid "AUDIO_ENHANCEMENT"
-msgstr "Audio verbetering"
+msgstr "Audio Verbetering"
 
 msgid "ON"
 msgstr "Aan"
@@ -166,7 +166,7 @@ msgstr "Door je video's te uploaden op YouTube, ga je ermee akkoord dat je akkoo
 
 # We may need to limit uploads per day depending on our API quota usage rate
 msgid "YOUTUBE_UPLOAD_LIMIT"
-msgstr "Je kunt alleen %s videos op youtube uploaden per dag."
+msgstr "Je kunt alleen %s videos op Youtube uploaden per dag."
 
 msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_LIMIT_NOTE"
 msgstr "Sudomemo Plus Gebruiken kunnen %s videos per dag uploaden."
@@ -175,14 +175,14 @@ msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_UNLIMITED_NOTE"
 msgstr "Sudomemo Plus gebruiken kunnen oneindig veel videos uploaden per dag."
 
 msgid "YOUTUBE_UPLOAD_LIMIT_CURRENT"
-msgstr "Je hebt al %s videos geupload vandaag.
+msgstr "Je hebt al %s videos geupload vandaag."
 
 msgid "YOUTUBE_UPLOAD_LIMIT_EXCEEDED"
 msgstr "Je kan niet meer videos uploaden vandaag."
 
 # If the user's already uploaded it...
 msgid "FLIPNOTE_ALREADY_UPLOADED"
-msgstr "Je hebt deze Flipnote al naar Youtube geupload"
+msgstr "Je hebt deze Flipnote al naar Youtube geupload."
 
 msgid "YOUTUBE_ID"
 msgstr "YouTube ID"
@@ -191,4 +191,4 @@ msgid "BTN_UPLOAD_AGAIN"
 msgstr "Upload Opnieuw"
 
 msgid "YOUTUBE_STATUS_PAUSED_GLOBAL_QUOTA"
-msgstr "Ons algemene upload quota is overschreden, uploads kunnen langer duren!"
+msgstr "Ons algemene upload quota is overschreden, uploads kunnen langer duren."
