@@ -240,3 +240,8 @@ msgstr "Bilhete do 8º Birthday Bash"
 
 msgid "TICKET_DESC_8th_birthday_bash_ticket"
 msgstr "Obrigado por participares no nosso Birthday Bash!"
+msgid "TICKET_NAME_archive_supporter_ticket"
+msgstr "Archive Supporter Ticket"
+
+msgid "TICKET_DESC_archive_supporter_ticket"
+msgstr "Thank you for helping preserve Flipnote history!"
