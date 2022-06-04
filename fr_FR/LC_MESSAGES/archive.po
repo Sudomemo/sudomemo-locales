@@ -71,6 +71,9 @@ msgstr "Vitesse de défilement"
 msgid "HATENA_ID"
 msgstr "ID Hatena"
 
+msgid "HATENA_USER"
+msgstr "Hatena User"
+
 msgid "HISTORY"
 msgstr "Histoire"
 
@@ -195,6 +198,9 @@ msgstr "Sudomemo"
 
 msgid "TOTAL_FLIPNOTES"
 msgstr "Flipnotes totales"
+
+msgid "USER"
+msgstr "User"
 
 msgid "USERS"
 msgstr "Utilisateurs"
