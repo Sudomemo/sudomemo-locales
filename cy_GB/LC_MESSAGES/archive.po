@@ -71,6 +71,9 @@ msgstr "Frame Speed"
 msgid "HATENA_ID"
 msgstr "Hatena ID"
 
+msgid "HATENA_USER"
+msgstr "Hatena User"
+
 msgid "HISTORY"
 msgstr "History"
 
@@ -195,6 +198,9 @@ msgstr "Sudomemo"
 
 msgid "TOTAL_FLIPNOTES"
 msgstr "Total Flipnotes"
+
+msgid "USER"
+msgstr "User"
 
 msgid "USERS"
 msgstr "Users"
