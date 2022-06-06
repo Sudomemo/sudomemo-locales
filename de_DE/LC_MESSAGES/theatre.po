@@ -1004,14 +1004,5 @@ msgstr "Profil v. %s von Flipnote Hatena"
 msgid "LEARN_MORE"
 msgstr "Mehr erfahren"
 
-msgid "HATENA_ID_VERIFICATION"
-msgstr "Hatena ID Verification"
-
-msgid "HATENA_ID_VERIFICATION_INTRO"
-msgstr "This tool allows you to verify ownership of a Hatena ID when working with Sudomemo Support."
-
-msgid "HATENA_ID_VERIFICATION_INTRO_2"
-msgstr "You will be prompted to log in to your Hatena Account, after which you will receive a Support Token."
-
 msgid "CONTINUE"
 msgstr "Continue"

@@ -261,18 +261,3 @@ msgstr "ようこそ、 %sさん！"
 # A URL will be shown at the end of this.
 msgid "LEGACY_PROXY_WARNING"
 msgstr "既にサポート対象外であるds.sudomemo.netの古いProxy設定が使用されている様です。本体設定からProxy設定を更新しない場合、スドメモを使用する際に問題が発生する可能性があります。詳しくはこちらを確認してください："
-
-msgid "SUPPORT_TOKEN"
-msgstr "Support Token"
-
-msgid "SUPPORT_TOKEN_INFO"
-msgstr "Here is your Support Token, which you were asked for when you contacted Sudomemo Support."
-
-msgid "DO_NOT_SHARE_TOKEN"
-msgstr "Don't share this token with anyone. If someone reaches out to you claiming to be Sudomemo Support and asks you for this token, don't give it to them."
-
-msgid "YOU_ARE_REQUESTING_SUPPORT_TOKEN"
-msgstr "You are now requesting a Support Token, which is used to verify your identity when you contact Sudomemo Support."
-
-msgid "LOGIN_FIRST_BEFORE_SUPPORT_TOKEN"
-msgstr "It looks like you already have an account. Please log in first before requesting a Support Token."
