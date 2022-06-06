@@ -28,7 +28,7 @@ msgid "LOGIN"
 msgstr "Login"
 
 msgid "POST_COMMENT_BELOW"
-msgstr "Füge einen Kommentar hierunter ein, um fortzufahren."
+msgstr "To continue, please submit a drawn comment (it can be blank)."
 
 msgid "LOGIN_SETUP"
 msgstr "Login-Setup"
@@ -261,3 +261,18 @@ msgstr "Ein Fehler ist vorgetreten. Um es erneut zu versuchen, trenne deine Verb
 # A URL will be shown at the end of this.
 msgid "LEGACY_PROXY_WARNING"
 msgstr "Anscheinend benutzt du noch den Legacy-Proxy ds.sudomemo.net, wessen Ünterstützung eingehalten wurde. Daher solltest du den Proxy in den Systemeinstellungen ausschalten, oder Probleme beim Butzen von Sudomemo können auftauchen. Für weitere Information, besuche: "
+
+msgid "SUPPORT_TOKEN"
+msgstr "Support Token"
+
+msgid "SUPPORT_TOKEN_INFO"
+msgstr "Here is your Support Token, which you were asked for when you contacted Sudomemo Support."
+
+msgid "DO_NOT_SHARE_TOKEN"
+msgstr "Don't share this token with anyone. If someone reaches out to you claiming to be Sudomemo Support and asks you for this token, don't give it to them."
+
+msgid "YOU_ARE_REQUESTING_SUPPORT_TOKEN"
+msgstr "You are now requesting a Support Token, which is used to verify your identity when you contact Sudomemo Support."
+
+msgid "LOGIN_FIRST_BEFORE_SUPPORT_TOKEN"
+msgstr "It looks like you already have an account. Please log in first before requesting a Support Token."
