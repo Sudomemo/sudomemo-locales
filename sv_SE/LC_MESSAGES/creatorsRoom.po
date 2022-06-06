@@ -218,3 +218,9 @@ msgstr "Sida"
 
 msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d av %d"
+
+msgid "HEADER_SUPPORT_TOKEN"
+msgstr "Support Token"
+
+msgid "REQUEST"
+msgstr "Request"
