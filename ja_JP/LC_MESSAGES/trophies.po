@@ -7,7 +7,7 @@ msgid "ACHIEVEMENT_EARNED"
 msgstr "実績解除！"
 
 msgid "CASE_IS_EMPTY"
-msgstr "トロフィーはありません"
+msgstr "実績はありません"
 
 msgid "CONTINUE"
 msgstr "続ける"
@@ -15,7 +15,7 @@ msgstr "続ける"
 # Trophy Case
 # # UI Headers, messages, labels
 msgid "TROPHY_CASE"
-msgstr "トロフィーケース"
+msgstr "実績一覧"
 
 msgid "TROPHY_DESC_colors_promo"
 msgstr "スドメモ×Colors!の合同のお題「Into The Light」で入賞する"
@@ -145,13 +145,13 @@ msgid "TROPHY_DESC_7th_birthday_bash"
 msgstr "スドメモの7周年ファンイベントに参加する"
 
 msgid "TROPHY_NAME_8th_birthday_bash"
-msgstr "8th Birthday Bash"
+msgstr "８周年を祝う"
 
 msgid "TROPHY_DESC_8th_birthday_bash"
-msgstr "Attended Sudomemo's 8 Years of Flipnote Fun event"
+msgstr "スドメモの「８周年記念のお楽しみ会」に参加"
 
 msgid "TROPHY_NAME_archive_supporter"
-msgstr "Archive Supporter"
+msgstr "アーカイブのサポーター"
 
 msgid "TROPHY_DESC_archive_supporter"
-msgstr "Contributor to the Flipnote Archive Ko-Fi to help preserve Flipnote history!"
+msgstr "うごメモアーカイブのKo-Fiに貢献者として参加し、うごメモの歴史の保存に貢献する"
