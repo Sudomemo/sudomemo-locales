@@ -4,7 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "ACHIEVEMENT"
-msgstr "成果"
+msgstr "実績"
 
 msgid "CODE_ALREADY_USED"
 msgstr "入力されたコードは使用済みです。"
@@ -54,7 +54,7 @@ msgid "SUDOMEMO_PLUS_BALANCE_FORMAT"
 msgstr "残り日数: %s日"
 
 msgid "SUDOMEMO_PLUS_FORMAT"
-msgstr "%s日分のSudomemo Plusを受け取りました!"
+msgstr "%s日分のスドメモ市民権を得ました!"
 
 msgid "THEME_AVAILABLE_FOR_USE"
 msgstr "このテーマをマイルームで使うことができます!"
@@ -115,10 +115,10 @@ msgid "TICKET_DESC_regular_ticket"
 msgstr "スドメモをご利用いただきありがとうございます!"
 
 msgid "TICKET_DESC_special_someone_ticket"
-msgstr "スペシャルサムワンチケットは、特別な誰かのために贈るものです。三か月間のSudomemo Plus、カラースター、および専用のテーマが交付されます"
+msgstr "スペシャルサムワンチケットは、特別な誰かのために贈るものです。三か月間のスドメモ市民権、カラースター、および専用のテーマが交付されます"
 
 msgid "TICKET_DESC_survey_thanks_ticket"
-msgstr "調査にご協力いただき、ありがとうございました！"
+msgstr "アンケートにご協力いただき、ありがとうございました！"
 
 msgid "TICKET_DESC_translator_ticket"
 msgstr "スドメモの翻訳にご協力いただきありがとうございました"
@@ -127,7 +127,7 @@ msgid "TICKET_DESC_twitter_promo_ticket"
 msgstr "スドメモのTwitterをフォローしていただきありがとうございます!"
 
 msgid "TICKET_DESC_weekly_topic_winner_ticket"
-msgstr "スドメモ今週のお題への入選おめでとう!"
+msgstr "今週のお題への入選、おめでとうございます!"
 
 msgid "TICKET_NAME_birthday_ticket"
 msgstr "バースデーチケット"
@@ -171,10 +171,10 @@ msgstr "近隣ウォッチチケット"
 
 # Sudomemo Plus
 msgid "TICKET_NAME_one_month_plus_ticket"
-msgstr "Plusチケット (1ヶ月)"
+msgstr "スドメモ市民権 (1ヶ月)"
 
 msgid "TICKET_NAME_one_year_plus_ticket"
-msgstr "Plusチケット (1年)"
+msgstr "スドメモ市民権 (1年)"
 
 msgid "TICKET_NAME_purple_bunny_ticket"
 msgstr "ラッセルランブルウッドチケット"
@@ -204,7 +204,7 @@ msgid "TICKET_REDEEM_LOSE_FORMAT"
 msgstr "%sを引き換えましたが、"
 
 msgid "TICKET_REDEEM_NO_PRIZES"
-msgstr "残念ですが、何も獲得できませんでした。"
+msgstr "申し訳ございませんが、引き換えることはできませんでした。"
 
 # Ticket redemption
 msgid "TICKET_REDEEM_WIN_FORMAT"
@@ -221,7 +221,7 @@ msgid "TICKET_NAME_spookmaster_ticket"
 msgstr "スプークマスターチケット"
 
 msgid "TICKET_DESC_spookmaster_ticket"
-msgstr "スドクエスト:レクイエムをプレイしていただき、ありがとうございます!ゲームを楽しんでいただけたでしょうか?"
+msgstr "スドクエスト:プレイしていただき、ありがとうございます!ゲームを楽しんでいただけたでしょうか?"
 
 msgid "TICKET_NAME_nitro_booster_ticket"
 msgstr "ニトロブースター チケット"
@@ -242,7 +242,7 @@ msgid "TICKET_DESC_8th_birthday_bash_ticket"
 msgstr "誕生日パーティーに参加してくれてありがとう！"
 
 msgid "TICKET_NAME_archive_supporter_ticket"
-msgstr "Archive Supporter Ticket"
+msgstr "アーカイブ支援チケット"
 
 msgid "TICKET_DESC_archive_supporter_ticket"
-msgstr "Thank you for helping preserve Flipnote history!"
+msgstr "うごメモの歴史をネットの海に沈めないことに対するご協力に感謝いたします。。"
