@@ -28,7 +28,7 @@ msgid "LOGIN"
 msgstr "Zaloguj się"
 
 msgid "POST_COMMENT_BELOW"
-msgstr "Żeby kontynuować, wyślij komentarz poniżej."
+msgstr "To continue, please submit a drawn comment (it can be blank)."
 
 msgid "LOGIN_SETUP"
 msgstr "Ustawienia logowania"

@@ -218,3 +218,9 @@ msgstr "Página"
 
 msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d de %d"
+
+msgid "HEADER_SUPPORT_TOKEN"
+msgstr "Support Token"
+
+msgid "REQUEST"
+msgstr "Request"

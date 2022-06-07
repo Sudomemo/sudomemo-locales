@@ -218,3 +218,9 @@ msgstr "Strona"
 
 msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d z %d"
+
+msgid "HEADER_SUPPORT_TOKEN"
+msgstr "Support Token"
+
+msgid "REQUEST"
+msgstr "Request"
