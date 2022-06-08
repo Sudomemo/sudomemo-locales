@@ -154,7 +154,7 @@ msgid "VIEW"
 msgstr "Ver"
 
 msgid "FAN_COUNT_FORMAT"
-msgstr "Fans: %s"
+msgstr "Fãs: %s"
 
 msgid "HEADER_LANGUAGE"
 msgstr "Idioma/Língua"
@@ -220,7 +220,7 @@ msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d de %d"
 
 msgid "HEADER_SUPPORT_TOKEN"
-msgstr "Support Token"
+msgstr "Token de Suporte"
 
 msgid "REQUEST"
-msgstr "Request"
+msgstr "Pedido"
