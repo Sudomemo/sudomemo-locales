@@ -1,0 +1,222 @@
+# in general, many of these strings already exist in theatre.po so you can reference that file
+msgid ""
+msgstr ""
+"Language: en_ZA\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "ACTIVE_FROM"
+msgstr "Active from"
+
+msgid "ALSO_KNOWN_AS"
+msgstr "Also known as"
+
+msgid "CONTACT"
+msgstr "Contact"
+
+msgid "CREATED"
+msgstr "Created"
+
+msgid "CREATORS"
+msgstr "Creators"
+
+msgid "CREDITS"
+msgstr "Credits"
+
+msgid "DURATION"
+msgstr "Duration"
+
+msgid "DURATION_FORMAT"
+msgstr "%s seconds"
+
+msgid "FLIPNOTES"
+msgstr "Flipnotes"
+
+msgid "FLIPNOTE_ARCHIVE"
+msgstr "Flipnote Archive"
+
+msgid "FLIPNOTE_ARCHIVE_CREDITS"
+msgstr "Flipnote Archive Credits"
+
+msgid "FLIPNOTE_BY_FORMAT"
+msgstr "Flipnote by %s"
+
+msgid "FLIPNOTE_MAY_BE_DUPLICATE"
+msgstr "Possible duplicate of another Flipnote."
+
+msgid "FLIPNOTE_STUDIO_ID"
+msgstr "Flipnote Studio ID"
+
+msgid "FLIPNOTE_WITHHELD_PRIVACY"
+msgstr "This Flipnote is withheld due to privacy concerns."
+
+# the two %s are replaced with html tags to form a link.
+msgid "FLIPNOTE_WITHHELD_READ_MORE"
+msgstr "For more information, please read our %sFAQ%s."
+
+msgid "FOOTER_DONATION_ASK"
+msgstr "This site is expensive to run, so please consider making a %sdonation!%s"
+
+msgid "FOOTER_SUDOMEMO_SHILL_FORMAT"
+msgstr "Hosted by %sSudomemo%s, a fan-run Flipnote sharing service for Flipnote Studio on the Nintendo DSi and 3DS"
+
+msgid "FOOTER_THIRDPARTY_COPYRIGHT"
+msgstr "Flipnote Studio is © Nintendo. Flipnote Hatena is © Hatena Co., Ltd."
+
+msgid "FOOTER_THIRDPARTY_DISCLAIMER"
+msgstr "The Flipnote Archive is not affilated with or endorsed by Nintendo or Hatena."
+
+msgid "FRAME_SPEED"
+msgstr "Frame Speed"
+
+msgid "HATENA_ID"
+msgstr "Hatena ID"
+
+msgid "HATENA_USER"
+msgstr "Hatena User"
+
+msgid "HISTORY"
+msgstr "History"
+
+msgid "HOMEPAGE_CREATOR_STAT"
+msgstr "1.2 million"
+
+msgid "HOMEPAGE_DATA_HEADER"
+msgstr "Total Data"
+
+msgid "HOMEPAGE_FLIPNOTE_STAT"
+msgstr "44 million"
+
+msgid "HOMEPAGE_FROG_DIALOG"
+msgstr "Keep on Flipnoting!"
+
+# again, wrapped in links
+msgid "HOMEPAGE_INTRO_FORMAT"
+msgstr "A comprehensive archive of %sFlipnote Studio%s animations posted to %sFlipnote Hatena%s before its closure in May 2013."
+
+msgid "HTTP_ERROR_404_TEXT"
+msgstr "The page you were looking for could not be found."
+
+# Error 404
+msgid "HTTP_ERROR_FORMAT"
+msgstr "Error %s"
+
+# May 17th, 1996
+msgid "MONTH_DAY_YEAR_FORMAT"
+msgstr "F jS, Y"
+
+# May 1996
+msgid "MONTH_YEAR_FORMAT"
+msgstr "F Y"
+
+msgid "NAVBAR_DONATE"
+msgstr "Donate"
+
+msgid "NAVBAR_FAQS"
+msgstr "FAQs"
+
+msgid "NAVBAR_HISTORY"
+msgstr "History"
+
+msgid "NAVBAR_HOME"
+msgstr "Home"
+
+msgid "NAVBAR_TAGS"
+msgstr "Tags"
+
+msgid "NEXT"
+msgstr "Next"
+
+msgid "NUMBER_OF_SONGS_FORMAT"
+msgstr "%d songs"
+
+msgid "ORIGINAL_FLIPNOTE"
+msgstr "Original Flipnote"
+
+msgid "ORIGINAL_NOT_FOUND"
+msgstr "The original couldn't be found"
+
+msgid "PRESS"
+msgstr "Press"
+
+msgid "PRESS_INQUIRIES"
+msgstr "Press Inquiries"
+
+msgid "PREV"
+msgstr "Prev"
+
+msgid "REGION_AMERICAS"
+msgstr "Americas"
+
+msgid "REGION_EUROPE_AND_OCEANIA"
+msgstr "Europe & Oceania"
+
+msgid "REGION_JAPAN"
+msgstr "Japan"
+
+msgid "SEARCH"
+msgstr "Search"
+
+msgid "SEARCH_THE_FLIPNOTE_ARCHIVE"
+msgstr "Search the Flipnote Archive"
+
+msgid "SEE_MORE_ARROW"
+msgstr "See more →"
+
+msgid "SHARE"
+msgstr "Share"
+
+msgid "SONGS"
+msgstr "Songs"
+
+msgid "SONG_ALBUM"
+msgstr "Album"
+
+msgid "SONG_ARTISTS"
+msgstr "Song Artists"
+
+msgid "SONG_GENRE"
+msgstr "Genre"
+
+msgid "SONG_LABEL"
+msgstr "Label"
+
+# Referring to the year a song was released
+msgid "SONG_RELEASED"
+msgstr "Released"
+
+msgid "SPINOFFS"
+msgstr "Spin-offs"
+
+msgid "SPINOFF_COUNT_FORMAT"
+msgstr "%s spin-offs"
+
+msgid "SPOTIFY"
+msgstr "Spotify"
+
+msgid "SUDOMEMO"
+msgstr "Sudomemo"
+
+msgid "TOTAL_FLIPNOTES"
+msgstr "Total Flipnotes"
+
+msgid "USER"
+msgstr "User"
+
+msgid "USERS"
+msgstr "Users"
+
+# Austin's Flipnote from Flipnote Hatena, May 17th, 2010
+msgid "USERS_ARCHIVED_FLIPNOTE_FORMAT"
+msgstr "%s's Flipnote from Flipnote Hatena, %s"
+
+msgid "USERS_ARCHIVED_PROFILE_FORMAT"
+msgstr "%s's archived Flipnote Hatena profile"
+
+msgid "USERS_PROFILE_IMAGE_FORMAT"
+msgstr "%s's Hatena profile image"
+
+msgid "VIEWS"
+msgstr "Views"
+
+msgid "YOUTUBE_MUSIC"
+msgstr "YouTube Music"

@@ -202,7 +202,7 @@ msgid "PLEASE_ENTER_PASSWORD_TO_SIGN_IN"
 msgstr "Please enter your password to sign in"
 
 msgid "POST_COMMENT_BELOW"
-msgstr "To continue, please post a comment below."
+msgstr "To continue, please submit a drawn comment (it can be blank)."
 
 msgid "REGISTRATION_ERROR_BAD_EMAIL"
 msgstr "The email address you provided is not permitted."

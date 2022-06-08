@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Language: en_US\n"
+"Language: tr_TR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
 # Code Redemption
@@ -240,3 +240,9 @@ msgstr "8th Birthday Bash Ticket"
 
 msgid "TICKET_DESC_8th_birthday_bash_ticket"
 msgstr "Thanks for attending our Birthday Bash!"
+
+msgid "TICKET_NAME_archive_supporter_ticket"
+msgstr "Archive Supporter Ticket"
+
+msgid "TICKET_DESC_archive_supporter_ticket"
+msgstr "Thank you for helping preserve Flipnote history!"

@@ -202,7 +202,7 @@ msgid "PLEASE_ENTER_PASSWORD_TO_SIGN_IN"
 msgstr "ログインするためのパスワードを入力してください"
 
 msgid "POST_COMMENT_BELOW"
-msgstr "続行するには、下記のコメントを投稿してください。"
+msgstr "To continue, please submit a drawn comment (it can be blank)."
 
 msgid "REGISTRATION_ERROR_BAD_EMAIL"
 msgstr "あなたが入力したメールアドレスは許可されていないため、使用できません。"

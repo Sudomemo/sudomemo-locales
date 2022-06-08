@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Language: en_US\n"
+"Language: tr_TR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
 # This file contains most of the translations for Sudomemo Theatre.
@@ -1003,3 +1003,6 @@ msgstr "%s's profile from Flipnote Hatena"
 
 msgid "LEARN_MORE"
 msgstr "Learn more"
+
+msgid "CONTINUE"
+msgstr "Continue"
