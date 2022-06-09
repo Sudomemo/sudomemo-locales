@@ -199,13 +199,13 @@ msgid "PLEASE_DISCONNECT_AND_RECONNECT"
 msgstr "Une erreur est survenue. Pour réessayer, déconnectez-vous puis reconnectez-vous à Sudomemo."
 
 msgid "PLEASE_ENTER_PASSWORD_TO_SIGN_IN"
-msgstr "Entrez votre mot de passe pour vous connecter, s'il-vous-plaît."
+msgstr "Veuillez entrer votre mot de passe pour vous connecter."
 
 msgid "POST_COMMENT_BELOW"
-msgstr "To continue, please submit a drawn comment (it can be blank)."
+msgstr "Pour continuer, veuillez envoyer un dessin en commentaire ci-dessous (il peut être vierge)."
 
 msgid "REGISTRATION_ERROR_BAD_EMAIL"
-msgstr "L'adresse email que vous avez entré n'est pas valide."
+msgstr "L'adresse email que vous avez entrée n'est pas valide."
 
 msgid "REGISTRATION_ERROR_BAD_PASSWORD"
 msgstr "Le mot de passe que vous avez entré n'est pas valide."
