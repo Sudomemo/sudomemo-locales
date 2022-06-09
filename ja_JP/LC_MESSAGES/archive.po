@@ -57,13 +57,13 @@ msgid "FOOTER_DONATION_ASK"
 msgstr "このサイトは運営費が高いので、ぜひ%s寄付%sをご検討ください。"
 
 msgid "FOOTER_SUDOMEMO_SHILL_FORMAT"
-msgstr "ニンテンドーDSi、3DSのうごメモ共有サービス%s「スドメモ」%s(ファンによる運営)がホストしています"
+msgstr "ニンテンドーDSi/3DSのうごくメモ帳の作品共有サービス、%sスドメモ%sによって運営"
 
 msgid "FOOTER_THIRDPARTY_COPYRIGHT"
 msgstr "うごくメモ帳 © Nintendo. うごメモはてな © Hatena Co., Ltd."
 
 msgid "FOOTER_THIRDPARTY_DISCLAIMER"
-msgstr "うごメモアーカイブは、任天堂やはてなとの提携や推奨はしておりません。"
+msgstr "うごメモアーカイブは任天堂株式会社や株式会社はてなに承認されていません。"
 
 msgid "FRAME_SPEED"
 msgstr "再生スピード"
@@ -78,20 +78,20 @@ msgid "HISTORY"
 msgstr "うごメモの歩み"
 
 msgid "HOMEPAGE_CREATOR_STAT"
-msgstr "1.2 million"
+msgstr "120万"
 
 msgid "HOMEPAGE_DATA_HEADER"
-msgstr "Total Data"
+msgstr "合計データ"
 
 msgid "HOMEPAGE_FLIPNOTE_STAT"
-msgstr "44 million"
+msgstr "4400万"
 
 msgid "HOMEPAGE_FROG_DIALOG"
-msgstr "Keep on Flipnoting!"
+msgstr "これからも、楽しいうごメモライフを！"
 
 # again, wrapped in links
 msgid "HOMEPAGE_INTRO_FORMAT"
-msgstr "A comprehensive archive of %sFlipnote Studio%s animations posted to %sFlipnote Hatena%s before its closure in May 2013."
+msgstr "2013年5月にサービス終了されるまで、%sうごくメモ帳%sを使って作られ、%sうごメモはてな%sに掲載されたアニメーションのアーカイブ。"
 
 msgid "HTTP_ERROR_404_TEXT"
 msgstr "お探しのページは見つかりませんでした。"
@@ -121,7 +121,7 @@ msgid "NAVBAR_HOME"
 msgstr "トップ"
 
 msgid "NAVBAR_TAGS"
-msgstr "Tags"
+msgstr "タグ"
 
 msgid "NEXT"
 msgstr "NEXT"
@@ -207,13 +207,13 @@ msgstr "作者"
 
 # Austin's Flipnote from Flipnote Hatena, May 17th, 2010
 msgid "USERS_ARCHIVED_FLIPNOTE_FORMAT"
-msgstr "%s's Flipnote from Flipnote Hatena, %s"
+msgstr "%sさんのうごメモはてなのうごメモ (%s)"
 
 msgid "USERS_ARCHIVED_PROFILE_FORMAT"
-msgstr "%s's archived Flipnote Hatena profile"
+msgstr "%sさんのうごメモはてなプロフィール"
 
 msgid "USERS_PROFILE_IMAGE_FORMAT"
-msgstr "%s's Hatena profile image"
+msgstr "%sのはてなプロフィール画像"
 
 msgid "VIEWS"
 msgstr "えつらん回数"
