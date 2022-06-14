@@ -4,10 +4,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "NO_COMMENTS_YET"
-msgstr "Nowo mesages wur sented hewe 3:"
+msgstr "No mesages wur sented here :("
 
 msgid "HEADER_COMMENTS"
-msgstr "pawments"
+msgstr "coments"
 
 msgid "PAGE_FORMAT"
 msgstr "page %d"
@@ -19,31 +19,31 @@ msgid "HEADER_PREV"
 msgstr "yoonk"
 
 msgid "HEADER_REFRESH"
-msgstr "wefwesh"
+msgstr "refresh"
 
 msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
-msgstr "u gotta log in to chat, cutie!! uwu"
+msgstr "u gotta log in to chat, goofy!!"
 
 msgid "CHAT_REPLY_FAILED"
-msgstr "oopsie woopsie, chat repwy faiwed :( twy agen later!!!"
+msgstr "oopsie woopsie, chat reply fail :( try agen later!!!"
 
 msgid "NO_BLANK_MESSAGES_ALLOWED"
-msgstr "NO BWANK MESAGES AWOWWED!!!! omg u cant jus say nothing!!!"
+msgstr "NO BLANK MESAGES ALLOWED!!!! omg u cant jus say nothing!!!"
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "oopsie woopsie youw fwipnote was cowwupted....."
+msgstr "oopsie woopsie ur flipmeme was corrupted....."
 
 msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
 msgstr "You have been muted. You may not chat."
 
 msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "This coment wuz alwedy powosted!!!"
+msgstr "This coment wuz alredy posted!!!"
 
 msgid "COMMENT_FAILED_USER_BANNED"
 msgstr "You have been restricted from interacting with Sudomemo."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Please confirm yoww emaiw befow pOwOsting!!"
+msgstr "Pls confurm ur email befo posting!!"
 
 msgid "MODERATOR"
-msgstr "meowderator"
+msgstr "modareter"
