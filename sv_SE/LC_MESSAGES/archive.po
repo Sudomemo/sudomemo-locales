@@ -130,7 +130,7 @@ msgid "NUMBER_OF_SONGS_FORMAT"
 msgstr "%d låtar"
 
 msgid "ORIGINAL_FLIPNOTE"
-msgstr "Original Flipnote"
+msgstr "Original verk"
 
 msgid "ORIGINAL_NOT_FOUND"
 msgstr "Originalet kunde inte hittas"
@@ -197,7 +197,7 @@ msgid "SUDOMEMO"
 msgstr "Sudomemo"
 
 msgid "TOTAL_FLIPNOTES"
-msgstr "Totalt Flipnotes"
+msgstr "Totalt verk"
 
 msgid "USER"
 msgstr "Användare"
