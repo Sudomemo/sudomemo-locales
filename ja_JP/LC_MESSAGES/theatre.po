@@ -996,13 +996,13 @@ msgid "ARCHIVED"
 msgstr "アーカイブ済み"
 
 msgid "USERS_FLIPNOTE_FROM_FLIPNOTE_HATENA"
-msgstr "うごメモはてなでの%sのうごメモ"
+msgstr "%sさんがうごメモはてなに投稿した作品"
 
 msgid "USERS_PROFILE_FROM_FLIPNOTE_HATENA"
-msgstr "うごメモはてなでの%sのプロフィール"
+msgstr "%sのプロフィール"
 
 msgid "LEARN_MORE"
-msgstr "詳しく知る"
+msgstr "詳細"
 
 msgid "CONTINUE"
 msgstr "進む"
