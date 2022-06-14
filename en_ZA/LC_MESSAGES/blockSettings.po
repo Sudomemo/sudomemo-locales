@@ -4,61 +4,61 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "LOGIN_REQUIRED_TO_MANAGE_BLOCKS"
-msgstr "Pwease wog in to view youw BWOKED WIST!!!."
+msgstr "you gotta log in to view ur BLOKED LIST!!!."
 
 msgid "NO_USERS_BLOCKED"
-msgstr "U never bwocked anywun!!! :3"
+msgstr "U neverever blocked anywun!!! :)"
 
 msgid "BLOCKED_USERS"
-msgstr "Bwocked UwUsers"
+msgstr "List of Pro Trollers"
 
 msgid "BLOCK_USER"
-msgstr "Bwock UwUser"
+msgstr "Cya goofy goober"
 
 msgid "COMMENT_BLOCK_IS_MUTUAL"
-msgstr "one u bwock this user,,, u cant coment on their fwippy wippy notes any mor...."
+msgstr "one u block this goofy goober,,, u cant coment on their flippy-wippy notes any mor...."
 
 msgid "USER_HAS_BEEN_BLOCKED"
-msgstr "Dis UwUser wuz BWOCKED!!!!"
+msgstr "Dis goober wuz BLOCKED!!!!"
 
 msgid "IF_YOU_WISH_TO_UNBLOCK"
-msgstr "if u ever wana unbwock them, you may unbwock dem by goign to Cweator's Woom and open teh Bwocked UwUsers menuwu."
+msgstr "if u ever wana unblock them, u may unblock dem by goign to Creator's Room and open teh Blocked Trollers list."
 
 msgid "CONFIRM_BLOCK"
-msgstr "Confirm Bwock?"
+msgstr "Do a lil blok?"
 
 msgid "USER_ALREADY_BLOCKED"
-msgstr "u alwedy bwocked dem!!! u can unbwock dem from teh Setings menuwu in ur Cweator's Woom, but u gota wait 24 hours to bwock dem agen. umu"
+msgstr "u alredy blocked dem!!! u can unblock dem from teh Setings menu in ur Creator's Room, but u gota wait 24 hours to block dem agen."
 
 msgid "ONE_DAY_WAIT_BEFORE_REBLOCK_FORMAT"
-msgstr "u resently unbwocked dis uwuser... u cant bwock dem agen until %s"
+msgstr "u resently unblocked dis goober... u cant block dem agen until %s"
 
 msgid "UNBLOCK"
-msgstr "unbwock"
+msgstr "unblock"
 
 msgid "LOGIN_REQUIRED"
-msgstr "hey!! *pokes u* u gotta wog in to do dat!!."
+msgstr "hey!! *pokes u* u gotta log in to do dat!!."
 
 msgid "TAP_BACK_TO_RETURN"
-msgstr "Tap Back to weturrn to ur Cweator's Woom."
+msgstr "Tap Back to skedaddle to ur Creator's Room."
 
 msgid "UNBLOCK_USER"
-msgstr "Unbwock UwUser"
+msgstr "Unblok goober"
 
 msgid "CANNOT_UNBLOCK_NONBLOCKED_USER"
-msgstr "u cant unbwock this user!! how u gona do that if u never bwocked them?? *facepaw*"
+msgstr "u cant unblok this user!! how u gona do that if u never blocked dem?? *facepalm*"
 
 msgid "USER_HAS_BEEN_UNBLOCKED"
-msgstr "u unbwocked dis uwuser! nwn"
+msgstr "u unblocked dis user! yay!"
 
 msgid "COMMENTING_ENABLED_AFTER_UNBLOCK"
-msgstr "After u unbwock dis uwuser, u can coment on their fwippy wippy notes!!! unless they bwocked u back, in wich case u cant."
+msgstr "After u unblock dis user, u can coment on their flippy-wippy nots!!! unless they blocked u back, in wich case u cant. :("
 
 msgid "UNBLOCK_WARNING_ONE_DAY_THRESHOLD"
-msgstr "If you unbwock dem, u gota wait 24 hours to bwock dem agen. umu"
+msgstr "If you unblock dem, u gota wait 24 hours to block dem agen."
 
 msgid "CONFIRM_UNBLOCK"
-msgstr "Confirm Unbwock"
+msgstr "Do an unblock"
 
 msgid "RECENTLY_UNBLOCKED_ONE_DAY_THRESHOLD"
-msgstr "u recently unbwocked this uwuser. u gota wait 24 hours since the time u bwocked dem to bwock dem agen. uwu"
+msgstr "u recently unbloked this user. u gota wait 24 hours since the time u blocked dem to block dem agen."
