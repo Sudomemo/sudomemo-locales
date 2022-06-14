@@ -4,10 +4,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "SET_PEN_COLOR"
-msgstr "Set Pen Color"
+msgstr "get ur pen color"
 
 msgid "SET_PAPER_COLOR"
-msgstr "Set Paper Color"
+msgstr "get ur paper color"
 
 msgid "SELECT_A_COLOR"
 msgstr "Select a color."
@@ -19,4 +19,4 @@ msgid "CURRENT_COLOR_DEFAULT"
 msgstr "Current color: default"
 
 msgid "RETURN"
-msgstr "Return"
+msgstr "skedaddle"
