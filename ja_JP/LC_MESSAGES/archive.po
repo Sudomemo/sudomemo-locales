@@ -66,7 +66,7 @@ msgid "FOOTER_THIRDPARTY_DISCLAIMER"
 msgstr "うごメモアーカイブは任天堂株式会社や株式会社はてなに承認されていません。"
 
 msgid "FRAME_SPEED"
-msgstr "フレーム速度"
+msgstr "速度"
 
 msgid "HATENA_ID"
 msgstr "はてなID"
@@ -102,17 +102,17 @@ msgstr "Error %s"
 
 # May 17th, 1996
 msgid "MONTH_DAY_YEAR_FORMAT"
-msgstr "F jS, Y"
+msgstr "Y-m-d"
 
 # May 1996
 msgid "MONTH_YEAR_FORMAT"
-msgstr "F Y"
+msgstr "Y-m"
 
 msgid "NAVBAR_DONATE"
 msgstr "寄付"
 
 msgid "NAVBAR_FAQS"
-msgstr "FAQ"
+msgstr "よくある質問"
 
 msgid "NAVBAR_HISTORY"
 msgstr "歴史"
@@ -207,7 +207,7 @@ msgstr "利用者"
 
 # Austin's Flipnote from Flipnote Hatena, May 17th, 2010
 msgid "USERS_ARCHIVED_FLIPNOTE_FORMAT"
-msgstr "%sさんのうごメモはてなのうごメモ (%s)"
+msgstr "%sさんがうごメモはてなに投稿した作品 (%s)"
 
 msgid "USERS_ARCHIVED_PROFILE_FORMAT"
 msgstr "%sさんのうごメモはてなプロフィール"
