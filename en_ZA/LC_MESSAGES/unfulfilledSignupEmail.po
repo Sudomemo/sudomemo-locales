@@ -4,13 +4,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "EMAIL_SUBJECT"
-msgstr "sudomemo signup conFURmation owo"
+msgstr "sudomemo signup confermation"
 
 msgid "SIGNUP_HEADER"
-msgstr "sudomemo signup conFURmation owo"
+msgstr "sudomemo signup confermation"
 
 msgid "TEXT_HELLO"
-msgstr "Hewo!! *hugs you*"
+msgstr "Haiii!! *hugs you*"
 
 msgid "TEXT_EMAIL_PURPOSE"
 msgstr "This email is to confirm your signup for Sudomemo."
@@ -19,4 +19,4 @@ msgid "TEXT_VERIFICATION_LINK_FORMAT"
 msgstr "Click <a target=\"_blank\" href=\"%s\">here</a> to continue!"
 
 msgid "TEXT_URL_PLAIN_DISPLAY"
-msgstr "u can also copy and paste this URL into a new windowo:"
+msgstr "u can also copy and paste this URL into a new window:"

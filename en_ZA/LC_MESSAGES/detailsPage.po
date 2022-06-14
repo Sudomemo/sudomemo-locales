@@ -7,10 +7,10 @@ msgid "TIMESTAMP_FORMAT"
 msgstr "M d, Y H:i:s"
 
 msgid "FLIPNOTE_TITLE_FORMAT"
-msgstr "fwipnyote by %s"
+msgstr "flippynote by %s"
 
 msgid "HEADER_DETAILS"
-msgstr "Rawr xD"
+msgstr "Derails"
 
 msgid "HEADER_COMMENTS"
 msgstr "AAAAA"
@@ -22,13 +22,13 @@ msgid "HEADER_ORIGINAL_FLIPNOTE"
 msgstr "View the source flipmeme here"
 
 msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
-msgstr "to pwevent staw-begging, yewwow staws awe wimited to ten pew fwipnyote"
+msgstr "to prevent star-begging, yello stars r limited to ten per flipnot"
 
 msgid "HEADER_CREATOR"
-msgstr "creator ouo"
+msgstr "creator"
 
 msgid "HEADER_STARS"
-msgstr "OwO whats this"
+msgstr "look at dat!"
 
 msgid "HEADER_VIEWS"
 msgstr "clicks!"
@@ -37,7 +37,7 @@ msgid "HEADER_SPINOFFS"
 msgstr "spinaroos!"
 
 msgid "HEADER_DOWNLOADS"
-msgstr "savwes!"
+msgstr "savies!"
 
 msgid "HEADER_TITLE"
 msgstr "art name"
@@ -49,7 +49,7 @@ msgid "HEADER_FLIPNOTE_ID"
 msgstr "Flipmeme ID"
 
 msgid "HEADER_CHANNEL"
-msgstr "channyew!!"
+msgstr "channel!!"
 
 msgid "HEADER_OPTIONS"
 msgstr "Settings"
@@ -70,7 +70,7 @@ msgid "NEXT"
 msgstr "yeet"
 
 msgid "STAR_DETAILS_UPPERTITLE"
-msgstr "★ OwO ★"
+msgstr "★ @o@ ★"
 
 msgid "SET_TITLE"
 msgstr "give name"

@@ -4,40 +4,40 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CHANNEL_NAME"
-msgstr "Nyannel Name"
+msgstr "Channel Name"
 
 msgid "CHANNEL_INFORMATION"
-msgstr "Nyannel Information"
+msgstr "Channel Information"
 
 msgid "FLIPNOTES"
-msgstr "Fwipnyotes"
+msgstr "Flipnyotes"
 
 msgid "CHANNEL_ID"
-msgstr "Nyannel ID"
+msgstr "Channel ID"
 
 msgid "LOGIN_REQUIRED_TO_POST"
-msgstr "pwease wog in to powost a fwippynote!! uwu.."
+msgstr "pls log in to post a flipmeme silly!!"
 
 msgid "CHANNEL_NOT_SPECIFIED"
-msgstr "pwease picc a chanel,,,"
+msgstr "pls picc a chanel,,,"
 
 msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
 msgstr "You've been restricted from using Sudomemo."
 
 msgid "FLIPNOTE_POST_FAILED"
-msgstr "oopsie woopsie your fwipynote powost faiwed... twy agen in a mowoment"
+msgstr "oopsie daisy ur flipynote post faild... try agen in a sec"
 
 msgid "DUPLICATE_FLIPNOTE_FAILED"
-msgstr "dis fwipnote was alwedy posted to sudomemo!!! twy editing it mor.."
+msgstr "dis flipnote was alredy posted to sudomeme!!! try editing it mor.."
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "oh no,, ur fwipnote is cowupted... QmQ twy agen in a moment..."
+msgstr "oh no,, ur flipnote is corupted... :( twy agen in a moment..."
 
 msgid "NO_BLANK_FLIPNOTES_ALLOWED"
-msgstr "NO BWANK FWIPNOTS AWWOWED!!!!!!!!!!!! OMG!!!! grrr"
+msgstr "NO BLANK FLIPNOTS ALLOWED!!!!!!!!!!!!"
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Pwease confurm ur email befowe powosting~ ."
+msgstr "Pls confurm ur email befowe posting~."
 
 msgid "NO_POSTS_WHILE_MUTED"
 msgstr "You may not post while you are muted."

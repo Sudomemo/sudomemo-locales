@@ -4,22 +4,22 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "EMAIL_SUBJECT_FORMAT"
-msgstr "[Sudomemo] %s's daiwy staw wepowt :3"
+msgstr "[Sudomemo] %s's daily star report :)"
 
 msgid "STRING_SUDOMEMO"
 msgstr "Sudomemo"
 
 msgid "STRING_DAILY_STAR_REPORT"
-msgstr "daiwy staw wepowt :3"
+msgstr "daily star report :)"
 
 msgid "TEXT_STAR_REPORT_GREETING_FORMAT"
-msgstr "Hewo, %s! *nuzzles you* hehe~ dis is youw daiwy staw wepowt fwum Sudomemo!."
+msgstr "Heyo, %s! *pokes you* dis is ur daily star report frum Sudomemo!."
 
 msgid "TEXT_FLIPNOTE_BY_FORMAT"
 msgstr "fwipnote by %s~"
 
 msgid "TEXT_TOTAL_STARS_RECEIVED_TODAY"
-msgstr "towotal staws wecieved tuwuday"
+msgstr "total stars recieved tuday"
 
 msgid "TEXT_HOW_TO_VIEW_STAR_ADDERS_DSI"
-msgstr "UwUsing yow Nyantendo DSi system, u can see who giv u staw by taping <strong>Stars</strong> in ur Fwipnote's detaiws page on Sudomemo."
+msgstr "Using ur Nintendo DSi system, u can see who giv u stars by taping <strong>Stars</strong> in ur Flipnote's details page on Sudomemo."
