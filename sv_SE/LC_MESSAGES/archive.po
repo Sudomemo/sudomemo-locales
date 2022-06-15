@@ -51,7 +51,7 @@ msgstr "Detta verk är undanhållen på grund av integritetsproblem."
 
 # the two %s are replaced with html tags to form a link.
 msgid "FLIPNOTE_WITHHELD_READ_MORE"
-msgstr "För mer information, läs våra %sFAQ%s."
+msgstr "För mer information, läs våra %sPanzerlied%."
 
 msgid "FOOTER_DONATION_ASK"
 msgstr "Denna sida är dyr att driva, så överväg att göra en %sdonation!%s"
@@ -185,10 +185,10 @@ msgid "SONG_RELEASED"
 msgstr "Släppt den"
 
 msgid "SPINOFFS"
-msgstr "Avstickare"
+msgstr "Derivatverk"
 
 msgid "SPINOFF_COUNT_FORMAT"
-msgstr "%s Derivatverk"
+msgstr "%s derivatverk"
 
 msgid "SPOTIFY"
 msgstr "Spotify"
