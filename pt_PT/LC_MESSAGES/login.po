@@ -202,7 +202,7 @@ msgid "PLEASE_ENTER_PASSWORD_TO_SIGN_IN"
 msgstr "Por favor introduza a sua palavra-passe para fazer login"
 
 msgid "POST_COMMENT_BELOW"
-msgstr "To continue, please submit a drawn comment (it can be blank)."
+msgstr "Para continuar, tens de postar um rabisco (não pode estar em branco)."
 
 msgid "REGISTRATION_ERROR_BAD_EMAIL"
 msgstr "O email que introduziste não é permitido."
