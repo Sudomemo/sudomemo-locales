@@ -5,96 +5,96 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "ACTIVE_FROM"
-msgstr "Active from"
+msgstr "活動開始"
 
 msgid "ALSO_KNOWN_AS"
-msgstr "Also known as"
+msgstr "別名"
 
 msgid "CONTACT"
-msgstr "Contact"
+msgstr "連絡先"
 
 msgid "CREATED"
-msgstr "Created"
+msgstr "作成日時"
 
 msgid "CREATORS"
-msgstr "Creators"
+msgstr "作者"
 
 msgid "CREDITS"
-msgstr "Credits"
+msgstr "クレジット"
 
 msgid "DURATION"
-msgstr "Duration"
+msgstr "再生時間"
 
 msgid "DURATION_FORMAT"
-msgstr "%s seconds"
+msgstr "%s秒"
 
 msgid "FLIPNOTES"
-msgstr "Flipnotes"
+msgstr "作品"
 
 msgid "FLIPNOTE_ARCHIVE"
-msgstr "Flipnote Archive"
+msgstr "うごメモアーカイブ"
 
 msgid "FLIPNOTE_ARCHIVE_CREDITS"
-msgstr "Flipnote Archive Credits"
+msgstr "うごメモアーカイブ　クレジット"
 
 msgid "FLIPNOTE_BY_FORMAT"
-msgstr "Flipnote by %s"
+msgstr "%sさんの作品"
 
 msgid "FLIPNOTE_MAY_BE_DUPLICATE"
-msgstr "Possible duplicate of another Flipnote."
+msgstr "他の作品と重複している可能性あり"
 
 msgid "FLIPNOTE_STUDIO_ID"
-msgstr "Flipnote Studio ID"
+msgstr "うごメモID"
 
 msgid "FLIPNOTE_WITHHELD_PRIVACY"
-msgstr "This Flipnote is withheld due to privacy concerns."
+msgstr "この作品はプライバシー上の問題で差し控えられました。"
 
 # the two %s are replaced with html tags to form a link.
 msgid "FLIPNOTE_WITHHELD_READ_MORE"
-msgstr "For more information, please read our %sFAQ%s."
+msgstr "詳細情報のためには、%sよくある質問%sをご覧ください。"
 
 msgid "FOOTER_DONATION_ASK"
-msgstr "This site is expensive to run, so please consider making a %sdonation!%s"
+msgstr "このサイトの運営費は相当かかります。ぜひ、%s寄付%sをご検討ください！"
 
 msgid "FOOTER_SUDOMEMO_SHILL_FORMAT"
-msgstr "Hosted by %sSudomemo%s, a fan-run Flipnote sharing service for Flipnote Studio on the Nintendo DSi and 3DS"
+msgstr "ニンテンドーDSi/3DSのうごくメモ帳の作品共有サービス、%sスドメモ%sによって運営"
 
 msgid "FOOTER_THIRDPARTY_COPYRIGHT"
-msgstr "Flipnote Studio is © Nintendo. Flipnote Hatena is © Hatena Co., Ltd."
+msgstr "うごくメモ帳 © Nintendo  うごメモはてな © Hatena Co., Ltd."
 
 msgid "FOOTER_THIRDPARTY_DISCLAIMER"
-msgstr "The Flipnote Archive is not affilated with or endorsed by Nintendo or Hatena."
+msgstr "うごメモアーカイブは任天堂株式会社や株式会社はてなに承認されていません。"
 
 msgid "FRAME_SPEED"
-msgstr "Frame Speed"
+msgstr "速度"
 
 msgid "HATENA_ID"
-msgstr "Hatena ID"
+msgstr "はてなID"
 
 msgid "HATENA_USER"
-msgstr "Hatena User"
+msgstr "はてな利用者"
 
 msgid "HISTORY"
-msgstr "History"
+msgstr "うごメモの歩み"
 
 msgid "HOMEPAGE_CREATOR_STAT"
-msgstr "1.2 million"
+msgstr "120万"
 
 msgid "HOMEPAGE_DATA_HEADER"
-msgstr "Total Data"
+msgstr "合計データ"
 
 msgid "HOMEPAGE_FLIPNOTE_STAT"
-msgstr "44 million"
+msgstr "4400万"
 
 msgid "HOMEPAGE_FROG_DIALOG"
-msgstr "Keep on Flipnoting!"
+msgstr "これからも、楽しいうごメモライフを！"
 
 # again, wrapped in links
 msgid "HOMEPAGE_INTRO_FORMAT"
-msgstr "A comprehensive archive of %sFlipnote Studio%s animations posted to %sFlipnote Hatena%s before its closure in May 2013."
+msgstr "2013年5月にサービス終了されるまで、%sうごくメモ帳%sを使って作られ、%sうごメモはてな%sに掲載されたアニメーションのアーカイブ。"
 
 msgid "HTTP_ERROR_404_TEXT"
-msgstr "The page you were looking for could not be found."
+msgstr "お探しのページは見つかりませんでした。"
 
 # Error 404
 msgid "HTTP_ERROR_FORMAT"
@@ -102,121 +102,121 @@ msgstr "Error %s"
 
 # May 17th, 1996
 msgid "MONTH_DAY_YEAR_FORMAT"
-msgstr "F jS, Y"
+msgstr "Y-m-d"
 
 # May 1996
 msgid "MONTH_YEAR_FORMAT"
-msgstr "F Y"
+msgstr "Y-m"
 
 msgid "NAVBAR_DONATE"
-msgstr "Donate"
+msgstr "寄付"
 
 msgid "NAVBAR_FAQS"
-msgstr "FAQs"
+msgstr "よくある質問"
 
 msgid "NAVBAR_HISTORY"
-msgstr "History"
+msgstr "歴史"
 
 msgid "NAVBAR_HOME"
-msgstr "Home"
+msgstr "ホーム"
 
 msgid "NAVBAR_TAGS"
-msgstr "Tags"
+msgstr "タグ"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "次へ"
 
 msgid "NUMBER_OF_SONGS_FORMAT"
-msgstr "%d songs"
+msgstr "%d曲"
 
 msgid "ORIGINAL_FLIPNOTE"
-msgstr "Original Flipnote"
+msgstr "親作品"
 
 msgid "ORIGINAL_NOT_FOUND"
-msgstr "The original couldn't be found"
+msgstr "親作品が見つかりませんでした。"
 
 msgid "PRESS"
-msgstr "Press"
+msgstr "報道"
 
 msgid "PRESS_INQUIRIES"
-msgstr "Press Inquiries"
+msgstr "報道の問い合わせ"
 
 msgid "PREV"
-msgstr "Prev"
+msgstr "前へ"
 
 msgid "REGION_AMERICAS"
-msgstr "Americas"
+msgstr "アメリカ"
 
 msgid "REGION_EUROPE_AND_OCEANIA"
-msgstr "Europe & Oceania"
+msgstr "欧州・オセアニア"
 
 msgid "REGION_JAPAN"
-msgstr "Japan"
+msgstr "日本"
 
 msgid "SEARCH"
-msgstr "Search"
+msgstr "検索"
 
 msgid "SEARCH_THE_FLIPNOTE_ARCHIVE"
-msgstr "Search the Flipnote Archive"
+msgstr "うごメモアーカイブを検索"
 
 msgid "SEE_MORE_ARROW"
-msgstr "See more →"
+msgstr "もっと見る →"
 
 msgid "SHARE"
-msgstr "Share"
+msgstr "共有"
 
 msgid "SONGS"
-msgstr "Songs"
+msgstr "楽曲"
 
 msgid "SONG_ALBUM"
-msgstr "Album"
+msgstr "アルバム"
 
 msgid "SONG_ARTISTS"
-msgstr "Song Artists"
+msgstr "楽曲アーティスト"
 
 msgid "SONG_GENRE"
-msgstr "Genre"
+msgstr "ジャンル"
 
 msgid "SONG_LABEL"
-msgstr "Label"
+msgstr "レーベル"
 
 # Referring to the year a song was released
 msgid "SONG_RELEASED"
-msgstr "Released"
+msgstr "発売年"
 
 msgid "SPINOFFS"
-msgstr "Spin-offs"
+msgstr "子作品"
 
 msgid "SPINOFF_COUNT_FORMAT"
-msgstr "%s spin-offs"
+msgstr "子作品%s作品"
 
 msgid "SPOTIFY"
 msgstr "Spotify"
 
 msgid "SUDOMEMO"
-msgstr "Sudomemo"
+msgstr "スドメモ"
 
 msgid "TOTAL_FLIPNOTES"
-msgstr "Total Flipnotes"
+msgstr "合計作品"
 
 msgid "USER"
-msgstr "User"
+msgstr "利用者"
 
 msgid "USERS"
-msgstr "Users"
+msgstr "利用者"
 
 # Austin's Flipnote from Flipnote Hatena, May 17th, 2010
 msgid "USERS_ARCHIVED_FLIPNOTE_FORMAT"
-msgstr "%s's Flipnote from Flipnote Hatena, %s"
+msgstr "%sさんがうごメモはてなに投稿した作品 (%s)"
 
 msgid "USERS_ARCHIVED_PROFILE_FORMAT"
-msgstr "%s's archived Flipnote Hatena profile"
+msgstr "%sさんのプロフィール"
 
 msgid "USERS_PROFILE_IMAGE_FORMAT"
-msgstr "%s's Hatena profile image"
+msgstr "%sのはてなプロフィール画像"
 
 msgid "VIEWS"
-msgstr "Views"
+msgstr "えつらん回数"
 
 msgid "YOUTUBE_MUSIC"
 msgstr "YouTube Music"
