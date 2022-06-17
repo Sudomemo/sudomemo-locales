@@ -30,28 +30,28 @@ msgid "MANAGE_PLUS_HEADER"
 msgstr "My Sudomemo Plus"
 
 msgid "MANAGE_PLUS_REMAINING"
-msgstr "You currently have %s day(s) of Sudomemo Plus remaining."
+msgstr "U got %s day(s) of Sudomeemo Plus lef."
 
 msgid "MANAGE_PLUS_HOW_TO_EARN_PLUS"
-msgstr "Sudomemo Plus can be earned by redeeming tickets purchased from our Shop or by entering a winning entry to our Weekly Topic."
+msgstr "U can get Sydomemo Plus by gettin tickets buyed from the Shop or by entering a win entry to the Weekly Topic."
 
 msgid "AVAILABLE_PLUS_FEATURES"
-msgstr "The following features are available through Sudomemo Plus. Make sure to check back here every once in a while!"
+msgstr "Da stuff u can do wit Sudomeme Plus is pretty epic. Check bac here sumtime if we add sumthin! :)"
 
 msgid "FOOTNOTE_PLATFORM_FEATURE_PARITY"
-msgstr "Please note that some features, such as Flipnote Smoothing and audio enhancement, can only be seen on Sudomemo Theatre."
+msgstr "Pls note sum features, like teh Flipnote smooOOthing and audio enhancement, only are see Sudomemo Theatre."
 
 msgid "FLIPNOTE_SMOOTHING"
-msgstr "Flipnote Smoothing"
+msgstr "smooOOoothing"
 
 msgid "FLIPNOTE_AUDIO_ENHANCEMENT"
 msgstr "Flipnote Audio Enhancement"
 
 msgid "COLORFUL_COMMENTS"
-msgstr "Write colorful comments"
+msgstr "funni colors on coments"
 
 msgid "DOWNLOAD_YOUR_COMMENTS"
-msgstr "Download your comments as Flipnotes"
+msgstr "Download ur coments as Flippy-notes"
 
 msgid "THEME_PUBLISHER_ACCESS"
 msgstr "Publish themes to the Theme Shop"
@@ -63,23 +63,23 @@ msgid "SUDOMEMO_GAME_ACCESS"
 msgstr "Play special games right on Sudomemo!"
 
 msgid "NO_THEATRE_ADS"
-msgstr "No advertisements on Sudomemo Theatre"
+msgstr "No stinky ads on Sudomeme Theatre"
 
 msgid "INCREASED_FOLLOW_LIMIT"
-msgstr "Increased follow limit - up to %s Creators"
+msgstr "increse follow limit, follow more people :) !!! (up to %s Creators)"
 
 # Sudomemo Plus Running Low Message
 msgid "PLUS_RUNNING_OUT_MSG_TITLE"
 msgstr "My Sudomemo Plus"
 
 msgid "PLUS_RUNNING_OUT_MSG_INTRO"
-msgstr "Hello, %s!"
+msgstr "Heyyy, %s!"
 
 msgid "PLUS_RUNNING_OUT_MSG_DAYS_REMAINING_FORMAT"
-msgstr "This message is to let you know that you have %s days of Sudomemo Plus remaining."
+msgstr "here to let u kno u got %s days of Sudomeme Plus lef."
 
 msgid "PLUS_RUNNING_OUT_MSG_HOW_TO_EARN_PLUS"
-msgstr "Don't forget that you can earn Sudomemo Plus by entering winning entries to the Weekly Topic, or by redeeming tickets purchased from our Shop."
+msgstr "dont forget u can get Sydomemo Plus by gettin tickets buyed from the Shop or by entering a win entry to the Weekly Topic. :)"
 
 msgid "PLUS_RUNNING_OUT_MSG_HAPPY_FLIPNOTING"
-msgstr "Happy Flipnoting!"
+msgstr "Happy Flipnoting :)!"
