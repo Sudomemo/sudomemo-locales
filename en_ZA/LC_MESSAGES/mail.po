@@ -9,7 +9,7 @@ msgid "LOGIN_FIRST_TO_ACCESS_MAIL"
 msgstr "You'll need to log back in before you can view this."
 
 msgid "CONTINUE"
-msgstr "Continue"
+msgstr "skedaddle"
 
 msgid "HEADER_INBOX"
 msgstr "Inbox"
@@ -19,14 +19,14 @@ msgid "UNAUTHED_READ"
 msgstr "Read.."
 
 msgid "PREV"
-msgstr "Prev"
+msgstr "yeet"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "oops"
 
 # Titles
 msgid "TITLE_SPINOFF"
-msgstr "Spin-off"
+msgstr "Spinnaroo"
 
 msgid "TITLE_WARNING"
 msgstr "Warning"
@@ -45,4 +45,4 @@ msgstr "Info"
 
 # Not found
 msgid "MAIL_NOT_FOUND"
-msgstr "This message does not exist."
+msgstr "tis mesage dus not exist. :("
