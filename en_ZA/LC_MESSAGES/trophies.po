@@ -6,16 +6,16 @@ msgstr ""
 # Trophy Case
 # # UI Headers, messages, labels
 msgid "TROPHY_CASE"
-msgstr "Trophy Case"
+msgstr "Trophey Case"
 
 msgid "CASE_IS_EMPTY"
-msgstr "The Trophy Case is empty."
+msgstr "Teh Trophey Case has notin. :("
 
 msgid "ACHIEVEMENT_EARNED"
-msgstr "Achievement Get!"
+msgstr "Gotta Achievement! :)"
 
 msgid "CONTINUE"
-msgstr "Continue"
+msgstr "Skedaddle"
 
 # # Trophy names and descriptions
 msgid "TROPHY_NAME_demo_tester"
