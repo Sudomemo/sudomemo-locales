@@ -23,7 +23,7 @@ msgstr "Genre"
 
 # How many Flipnotes are using this song?
 msgid "FLIPNOTE_COUNT"
-msgstr "Flipnotes"
+msgstr "Flipparoo"
 
 msgid "BROWSE"
 msgstr "Browse"
@@ -32,14 +32,14 @@ msgid "SONG_ID"
 msgstr "Song ID"
 
 msgid "LINK_YOUTUBE_SPOTIFY"
-msgstr "YouTube and Spotify links are available:"
+msgstr "Epic YouTube n' Spotify links exist:"
 
 msgid "LINK_YOUTUBE"
-msgstr "A YouTube link is available here:"
+msgstr "A YouTube link exists here:"
 
 msgid "LINK_SPOTIFY"
-msgstr "A Spotify link is available here:"
+msgstr "A Spotify link exists here:"
 
 # Creator instructions
 msgid "IF_SONG_INCORRECT"
-msgstr "If an incorrect song is shown on your Flipnote, you can update it on Sudomemo Theatre. To learn more, visit: https://flipnot.es/musicmatch"
+msgstr "If a wrong song is shown on ur Flippy-wippy note, u can make it right on Sudomeme Theatre. :D  To learn more, visit: https://flipnot.es/musicmatch"
