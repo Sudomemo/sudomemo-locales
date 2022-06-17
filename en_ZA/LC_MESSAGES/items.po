@@ -4,10 +4,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "YOU_GOT_AN_ITEM"
-msgstr "You got an item!"
+msgstr "U gotta cool thingy~ :D"
 
 msgid "CONTINUE"
-msgstr "Continue"
+msgstr "Skedaddle"
 
 msgid "ITEM_NAME_banana"
 msgstr "Banana"
@@ -16,7 +16,7 @@ msgid "ITEM_DESC_banana"
 msgstr "Not to be confused with a plantain."
 
 msgid "ITEM_USE_banana"
-msgstr "You peel the banana."
+msgstr "U peel da banana."
 
 msgid "ITEM_NAME_peeled_banana"
 msgstr "Peeled Banana"
@@ -25,4 +25,4 @@ msgid "ITEM_DESC_peeled_banana"
 msgstr "Not to be confused with a plan-... Why'd you peel it like that?"
 
 msgid "ITEM_USE_peeled_banana"
-msgstr "You eat the banana."
+msgstr "U consum deh banana."

@@ -10,7 +10,7 @@ msgstr ""
 
 # Username was given a Nitro Booster Ticket...
 msgid "BOOST_TICKET_SUCCESS"
-msgstr "%s was given a Nitro Booster Ticket, redeemable for a month of Sudomemo Plus and a special trophy. Hooray!"
+msgstr "%s gotta Nitro Booster Ticket, it gotta month of Sudomemo Plus and epic trophy. Awooga!"
 
 # Account linking
 msgid "DISCORD_LINKING_GET_STARTED"
@@ -20,7 +20,7 @@ msgid "DISCORD_LINKING_REQUIRED"
 msgstr "You'll need to link your Sudomemo account to do that."
 
 msgid "DISCORD_LINKING_SUCCESS"
-msgstr "Your account was successfully linked!"
+msgstr "Ur account got linked all good! Yay! :D"
 
 msgid "DISCORD_LINKING_UNLINKED"
 msgstr "The link between your Discord and Sudomemo account has been removed."
@@ -52,10 +52,10 @@ msgid "MUSICMATCH_TITLE_BY_ARTIST"
 msgstr "%s by %s"
 
 msgid "REJECT_ACCOUNT_ALREADY_LINKED"
-msgstr "You've already linked your Sudomemo account!"
+msgstr "you alredy linked ur Sudomemo account silly!"
 
 msgid "REJECT_BOOST_TICKET_COOLDOWN"
-msgstr "You've already given a Nitro Booster ticket this month! (%s)"
+msgstr "you alredy been gived a Nitro Booster ticket this month silly! (%s)"
 
 msgid "REJECT_FSID_ENOENT"
 msgstr "I did not find a user with that Flipnote Studio ID on Sudomemo."
