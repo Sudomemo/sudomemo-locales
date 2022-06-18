@@ -4,28 +4,28 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "DO_NOT_SHARE_TOKEN"
-msgstr "Don't share this token with anyone. If someone reaches out to you claiming to be Sudomemo Support and asks you for this token, don't give it to them."
+msgstr "Nu impartasiti acest jeton cu nimeni. Daca cineva ajunge la dvs. spunand ca este Sudomemo Support si va intreaba de acest jeton, nu i-l dati."
 
 msgid "GET_SUPPORT_TOKEN"
-msgstr "Get Support Token"
+msgstr "Obtineti Jeton de Suport"
 
 msgid "HATENA_ID_VERIFICATION"
-msgstr "Hatena ID Verification"
+msgstr "Verificare ID Hatena"
 
 msgid "HATENA_ID_VERIFICATION_INTRO"
-msgstr "This tool allows you to verify ownership of a Hatena ID when working with Sudomemo Support."
+msgstr "Aceasta unealta va permite sa vetificati detinerea unui ID Hatena cand lucrati cu Sudomemo Support."
 
 msgid "HATENA_ID_VERIFICATION_INTRO_2"
-msgstr "You will be prompted to log in to your Hatena Account, after which you will receive a Support Token."
+msgstr "O sa fiti nevoit(a) sa va conectati la Contul dvs. Hatena, dupa care veti primi un Jeton de Suport."
 
 msgid "LOGIN_FIRST_BEFORE_SUPPORT_TOKEN"
-msgstr "It looks like you already have an account. Please log in first before requesting a Support Token."
+msgstr "Se pare ca deja aveti un cont. Va rugam sa va conectati inainte de a cere un Jeton de Suport."
 
 msgid "SUPPORT_TOKEN"
-msgstr "Support Token"
+msgstr "Jeton de Suport"
 
 msgid "SUPPORT_TOKEN_INFO"
-msgstr "Here is your Support Token, which you were asked for when you contacted Sudomemo Support."
+msgstr "Aici este Jetonul dvs. de Suport, de care ati fost intrebat cand ati contactat Sudomemo Support."
 
 msgid "YOU_ARE_REQUESTING_SUPPORT_TOKEN"
-msgstr "You are now requesting a Support Token, which is used to verify your identity when you contact Sudomemo Support."
+msgstr "Acum cereti un Jeton de Suport, ce este folosit pentru a va confirma identitatea cand contactati Sudomemo Support."
