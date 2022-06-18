@@ -5,16 +5,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "ACTIVE_FROM"
-msgstr "活動開始"
+msgstr "活動期間"
 
 msgid "ALSO_KNOWN_AS"
-msgstr "別名"
+msgstr "このユーザーが使用していた別の名前"
 
 msgid "CONTACT"
 msgstr "連絡先"
 
 msgid "CREATED"
-msgstr "作成日時"
+msgstr "投稿日時"
 
 msgid "CREATORS"
 msgstr "作者"
@@ -35,29 +35,29 @@ msgid "FLIPNOTE_ARCHIVE"
 msgstr "うごメモアーカイブ"
 
 msgid "FLIPNOTE_ARCHIVE_CREDITS"
-msgstr "うごメモアーカイブ　クレジット"
+msgstr "うごメモアーカイブの開発者"
 
 msgid "FLIPNOTE_BY_FORMAT"
 msgstr "%sさんの作品"
 
 msgid "FLIPNOTE_MAY_BE_DUPLICATE"
-msgstr "他の作品と重複している可能性あり"
+msgstr "他の作品と重複している可能性があります"
 
 msgid "FLIPNOTE_STUDIO_ID"
 msgstr "うごメモID"
 
 msgid "FLIPNOTE_WITHHELD_PRIVACY"
-msgstr "この作品はプライバシー上の問題で差し控えられました。"
+msgstr "この作品はプライバシーの問題により非表示となっております。"
 
 # the two %s are replaced with html tags to form a link.
 msgid "FLIPNOTE_WITHHELD_READ_MORE"
-msgstr "詳細情報のためには、%sよくある質問%sをご覧ください。"
+msgstr "詳細は%sよくある質問%sをご覧ください。"
 
 msgid "FOOTER_DONATION_ASK"
-msgstr "このサイトの運営費は相当かかります。ぜひ、%s寄付%sをご検討ください！"
+msgstr "当サイトは莫大な維持費により維持されています。よろしければ%s寄付%sをご検討いただけますと幸いです。"
 
 msgid "FOOTER_SUDOMEMO_SHILL_FORMAT"
-msgstr "ニンテンドーDSi/3DSのうごくメモ帳の作品共有サービス、%sスドメモ%sによって運営"
+msgstr "当サイトはニンテンドーDSi/3DSのソフト『うごくメモ帳』で作成された作品の共有サービスである、%sスドメモ%sによって運営されています。"
 
 msgid "FOOTER_THIRDPARTY_COPYRIGHT"
 msgstr "うごくメモ帳 © Nintendo  うごメモはてな © Hatena Co., Ltd."
@@ -87,11 +87,11 @@ msgid "HOMEPAGE_FLIPNOTE_STAT"
 msgstr "4400万"
 
 msgid "HOMEPAGE_FROG_DIALOG"
-msgstr "これからも、楽しいうごメモライフを！"
+msgstr "楽しいうごメモライフを、今後も"
 
 # again, wrapped in links
 msgid "HOMEPAGE_INTRO_FORMAT"
-msgstr "2013年5月にサービス終了されるまで、%sうごくメモ帳%sを使って作られ、%sうごメモはてな%sに掲載されたアニメーションのアーカイブ。"
+msgstr "2013年5月にサービス終了した、%sうごくメモ帳%sで作成された作品を共有するサイトである、%sうごメモはてな%sに投稿された作品のアーカイブサイトです。"
 
 msgid "HTTP_ERROR_404_TEXT"
 msgstr "お探しのページは見つかりませんでした。"
@@ -136,10 +136,10 @@ msgid "ORIGINAL_NOT_FOUND"
 msgstr "親作品が見つかりませんでした。"
 
 msgid "PRESS"
-msgstr "報道"
+msgstr "報道について"
 
 msgid "PRESS_INQUIRIES"
-msgstr "報道の問い合わせ"
+msgstr "報道についての問い合わせ"
 
 msgid "PREV"
 msgstr "前へ"
@@ -197,7 +197,7 @@ msgid "SUDOMEMO"
 msgstr "スドメモ"
 
 msgid "TOTAL_FLIPNOTES"
-msgstr "合計作品"
+msgstr "総作品数"
 
 msgid "USER"
 msgstr "利用者"
@@ -216,7 +216,7 @@ msgid "USERS_PROFILE_IMAGE_FORMAT"
 msgstr "%sのはてなプロフィール画像"
 
 msgid "VIEWS"
-msgstr "えつらん回数"
+msgstr "視聴回数"
 
 msgid "YOUTUBE_MUSIC"
 msgstr "YouTube Music"
