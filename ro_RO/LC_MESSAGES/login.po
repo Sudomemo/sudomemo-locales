@@ -202,7 +202,7 @@ msgid "PLEASE_ENTER_PASSWORD_TO_SIGN_IN"
 msgstr "Va rugam sa introduceti parola pentru a va alatura"
 
 msgid "POST_COMMENT_BELOW"
-msgstr "To continue, please submit a drawn comment (it can be blank)."
+msgstr "Pentru a continua, va rugam sa trimiteti un comentariu desenat (poate fi gol)."
 
 msgid "REGISTRATION_ERROR_BAD_EMAIL"
 msgstr "Adresa de email trimisa nu este permisa."
@@ -260,4 +260,4 @@ msgstr "Bine ati revenit, %s!"
 
 # A URL will be shown at the end of this.
 msgid "LEGACY_PROXY_WARNING"
-msgstr "Se pare ca inca folositi proxy-ul legacy ds.sudomemo.net , pentru care am terminat suportul. Asa ca, opriti acest proxy in Setarile de Sistem, altfel puteti avea probleme folosind Sudomemo. Pentru mai multe informatii, visitati:"
+msgstr "Se pare ca inca folositi proxy-ul vechi ds.sudomemo.net , pentru care am terminat suportul. Asa ca, opriti acest proxy in Setarile de Sistem, altfel puteti avea probleme cand folositi Sudomemo. Pentru mai multe informatii, visitati:"
