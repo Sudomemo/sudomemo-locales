@@ -7,7 +7,7 @@ msgid "TEXT_CHANGE_SETTINGS_PROMPT"
 msgstr "Sudomemo'dan aldığın e-postaların ayarını değiştirmek ister misin?"
 
 msgid "TEXT_HOW_TO_CHANGE_SETTINGS_DSI"
-msgstr "Yaratıcı Odan'a girip <strong>E-posta ayarları</strong>'na tıklayarak bu ayarları kolayca değiştirebilirsin."
+msgstr "Kreatör Odası'na girip <strong>E-posta ayarları</strong>'na tıklayarak bu ayarları kolayca değiştirebilirsin."
 
 msgid "TEXT_WEB_SETTINGS_CHANGE_FORMAT"
 msgstr "Ya da bu tarz e-postaları <a target=\"_blank\" href=\"%s\"><strong>buraya</strong></a>.'a tıklayarak engelleyebilirsin."
