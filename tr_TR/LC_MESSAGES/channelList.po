@@ -4,22 +4,22 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "UPPERTITLE"
-msgstr "Channels"
+msgstr "Kanallar"
 
 msgid "UPPERSUBBOTTOM"
-msgstr "Please select a channel!"
+msgstr "Lütfen bir kanal seç!"
 
 msgid "NEXT"
-msgstr "Next page"
+msgstr "Sonraki sayfa"
 
 msgid "PREV"
-msgstr "Previous page"
+msgstr "Önceki sayfa"
 
 msgid "FAVORITES"
-msgstr "Favorites"
+msgstr "Favoriler"
 
 msgid "PAGE"
-msgstr "Page"
+msgstr "Sayfa"
 
 msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d of %d"
