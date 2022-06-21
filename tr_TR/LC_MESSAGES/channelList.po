@@ -22,4 +22,4 @@ msgid "PAGE"
 msgstr "Sayfa"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d of %d"
+msgstr "Sayfa %d / %d"
