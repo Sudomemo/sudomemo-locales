@@ -4,223 +4,223 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "SEE_MORE"
-msgstr "See more..."
+msgstr "Daha fazla gör..."
 
 msgid "STARRED_FLIPNOTES"
-msgstr "Starred Flipnotes"
+msgstr "Öne çıkan Flipnote'lar"
 
 msgid "FAVORITE_USERS"
-msgstr "Favorite Users"
+msgstr "Favori Kullanıcılar"
 
 msgid "FAVORITES_FEED"
-msgstr "Favorites Feed"
+msgstr "Favori Feed"
 
 msgid "FAVORITE_CHANNELS"
-msgstr "Favorite Channels"
+msgstr "Favori Kanallar"
 
 msgid "USER_DOWNLOADCOUNT"
-msgstr "Downloads"
+msgstr "İndirenler"
 
 msgid "USER_VIEWCOUNT"
-msgstr "Views"
+msgstr "Görüntülenme"
 
 msgid "USER_THEME"
-msgstr "Theme"
+msgstr "Tema"
 
 msgid "THEME_SHOP"
-msgstr "Theme Shop"
+msgstr "Tema Mağazası"
 
 msgid "POSTED_COMMENTS"
-msgstr "Posted Comments"
+msgstr "Paylaşılan Yorumlar"
 
 msgid "POSTED_CHATCOMMENTS"
-msgstr "Chatroom Messages"
+msgstr "Sohbet odalarında mesajlar"
 
 msgid "FEATURE_USABILITY"
 msgstr "Feature Usability"
 
 msgid "USABLE"
-msgstr "Usable"
+msgstr "Kullanılabilir"
 
 msgid "NOT_USABLE"
-msgstr "Not Usable"
+msgstr "Kullanılamaz"
 
 msgid "SUDOMEMO_THEATRE_URL"
-msgstr "Sudomemo Theatre Link"
+msgstr "Sudomemo Tiyatrosu Linki"
 
 msgid "FLIPNOTE_STUDIO_ID"
-msgstr "Flipnote Studio ID"
+msgstr "Flipnote Studio ID'si"
 
 msgid "SETTINGS"
-msgstr "Settings"
+msgstr "Ayarlar"
 
 msgid "ADMIN_ACCT_GOOD_STANDING"
-msgstr "In good standing"
+msgstr "İyi durumda"
 
 msgid "ADMIN_ACCT_BANNED"
-msgstr "Banned"
+msgstr "Hesap Kilitlendi"
 
 msgid "ADMIN_ACCT_BLOCKED"
-msgstr "Blocked"
+msgstr "Engellendi"
 
 msgid "ADMIN_ACCT_MUTED"
-msgstr "Muted"
+msgstr "Sessize Alındı"
 
 msgid "ADMIN_USER_DETAILS"
-msgstr "User Details"
+msgstr "Kullanıcı Ayrıntıları"
 
 msgid "ADMIN_LAST_SEEN"
-msgstr "Last seen"
+msgstr "Son görülme"
 
 msgid "ADMIN_USER_STATUS"
-msgstr "User Status"
+msgstr "Kullanıcının Durumu"
 
 msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
-msgstr "Admin Actions"
+msgstr "İdari önlemler"
 
 msgid "BLOCK_COMMENTS_HEADER"
-msgstr "Block Comments"
+msgstr "Yorumları Engelle"
 
 msgid "BLOCK_COMMENTS_LINK"
-msgstr "Block"
+msgstr "Engelle"
 
 msgid "USABILITY_USABLE"
-msgstr "Usable"
+msgstr "Kullanılabilir"
 
 msgid "USABILITY_NOT_USABLE"
-msgstr "Not Usable"
+msgstr "Kullanılamaz"
 
 msgid "HEADER_FOLLOWERS"
-msgstr "Followers"
+msgstr "Takipçiler"
 
 msgid "HEADER_FOLLOWING"
-msgstr "Following"
+msgstr "Takip edilen"
 
 msgid "PREVIOUS"
-msgstr "Previous"
+msgstr "Önceki"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "Sonraki"
 
 msgid "CHANGE_ROOM_THEME_LINK"
-msgstr "[change theme]"
+msgstr "[temayı değiştir]"
 
 msgid "SELECT_THEME"
-msgstr "Select Theme"
+msgstr "Bir tema seç"
 
 msgid "FANS"
-msgstr "Fans"
+msgstr "Hayranlar"
 
 msgid "EXAMPLE"
-msgstr "Example"
+msgstr "Örnek"
 
 msgid "THEMETEST_SET_THEME"
-msgstr "Set Theme"
+msgstr "Bu temayı uygula"
 
 msgid "THEMETEST_NOTICE"
 msgstr "Notice"
 
 msgid "THEMETEST_OK"
-msgstr "Okay"
+msgstr "Tamam"
 
 msgid "THEMETEST_ERROR"
-msgstr "Error"
+msgstr "Hata"
 
 msgid "THEMETEST_NOTICE_2"
 msgstr "Notice #2"
 
 msgid "THEMETEST_ACTIVE_TAB"
-msgstr "Active tab"
+msgstr "Etkin sekme"
 
 msgid "THEMETEST_INACTIVE_TAB"
-msgstr "Inactive tab"
+msgstr "Etkin olmayan sekme"
 
 msgid "PREVIEW"
-msgstr "Preview"
+msgstr "Önizleme"
 
 msgid "CREATORS_ROOM"
-msgstr "Creator's Room"
+msgstr "Kreatör Odası"
 
 msgid "THEME_ERROR_THEME_NOT_OWNED"
-msgstr "Sorry! You do not own that theme."
+msgstr "Üzgünüz! Bu tema sende yoktur."
 
 msgid "THEME_SUCCESSFULLY_SET"
-msgstr "Theme successfully set!"
+msgstr "Theme başarıyla değiştirildi!"
 
 msgid "BLOCKED_USERS"
-msgstr "Blocked users"
+msgstr "Engellenen kullanıcılar"
 
 msgid "VIEW"
-msgstr "View"
+msgstr "Göster"
 
 msgid "FAN_COUNT_FORMAT"
-msgstr "Fans: %s"
+msgstr "Hayranlar: %s"
 
 msgid "HEADER_LANGUAGE"
-msgstr "Language"
+msgstr "Dil"
 
 msgid "HEADER_MAIL_SETTINGS"
-msgstr "Mail Settings"
+msgstr "Posta ayarları"
 
 msgid "HEADER_EDIT_BIOGRAPHY"
-msgstr "Edit Biography"
+msgstr "Biyografini değiştir"
 
 msgid "SET_BIO_INSTRUCTIONS"
-msgstr "Enter your profile biography below. This will be displayed on Sudomemo and Sudomemo Theatre."
+msgstr "Profil biyografini aşağıya yaz. Bu senin Sudomemo Tiyatro'nda görülecektir."
 
 msgid "ENTER_BIO"
-msgstr "Enter Bio..."
+msgstr "Biyografini yaz..."
 
 msgid "101_CHARACTER_LIMIT_BIO"
-msgstr "Your biography is limited to 101 characters."
+msgstr "Biyografin en fazla 101 harf içerebilir."
 
 msgid "LEAVE_BLANK_TO_RESET_BIO"
-msgstr "To clear your biography, leave the form blank when submitting."
+msgstr "Biografini silmek için kaydetmeden önce bu formu boş bırak."
 
 msgid "CURRENT_BIO"
-msgstr "Current Bio:"
+msgstr "Şu anki biyografin:"
 
 msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
-msgstr "You can't follow more than %d users."
+msgstr "%d'den fazla kullanıcıyı takip edemezsin."
 
 msgid "RANKING"
-msgstr "Ranking"
+msgstr "Sıralama"
 
 msgid "TICKET_SECTION"
-msgstr "Tickets"
+msgstr "Biletler"
 
 msgid "DRAW_REGULAR_TICKET"
-msgstr "Draw Ticket"
+msgstr "Bilet al"
 
 msgid "CAN_DRAW_TICKET_SUBTEXT"
-msgstr "You can draw a regular ticket! You might win a prize."
+msgstr "Sıradan bir bilet alabilirsin! Belki bir ödül kazanırsın."
 
 msgid "INVENTORY"
-msgstr "Inventory"
+msgstr "Envanter"
 
 msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
-msgstr "You can draw another ticket in: %s hour(s) %s minute(s)."
+msgstr "Bir dahaki biletini %s saat ve %s dakika sonra alabilirsin."
 
 msgid "REDEEM"
-msgstr "Redeem"
+msgstr "Bileti bozdur"
 
 msgid "SPENDABLE_STARS"
-msgstr "Your Stars"
+msgstr "Yıldızların"
 
 msgid "SPENDABLE_STARS_HELPTEXT"
-msgstr "Stars to add to Flipnotes or use for themes"
+msgstr "Flipnote'lara eklemek için veya temalar için kullanabileceğin yıldızlar"
 
 msgid "LOGIN_REQUIRED_ACTION"
-msgstr "You must be logged in to perform this action."
+msgstr "Bunu yapmak için oturum açman gerek."
 
 msgid "PAGE"
-msgstr "Page"
+msgstr "Sayfa"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d of %d"
+msgstr "Sayfa %d / %d"
 
 msgid "HEADER_SUPPORT_TOKEN"
-msgstr "Support Token"
+msgstr "Destek al"
 
 msgid "REQUEST"
-msgstr "Request"
+msgstr "İstek"
