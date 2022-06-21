@@ -40,7 +40,7 @@ msgid "DUPLICATE_COMMENT_FAILED"
 msgstr "Bu yorum Sudomemo'ya zaten gönderildi."
 
 msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "Sudomemo ile iletişime geçmekten kısıtlanmış olabilirsin."
+msgstr "Sudomemo ile iletişime geçmen yasaklanmış olabilir."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
 msgstr "Lütfen bir şey paylaşmadan önce e-posta adresini doğrula."
