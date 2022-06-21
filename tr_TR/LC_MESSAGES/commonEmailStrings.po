@@ -4,10 +4,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "TEXT_CHANGE_SETTINGS_PROMPT"
-msgstr "Want to adjust the emails you get from Sudomemo?"
+msgstr "Sudomemo'dan aldığın e-postaların ayarını değiştirmek ister misin?"
 
 msgid "TEXT_HOW_TO_CHANGE_SETTINGS_DSI"
-msgstr "You can easily update them by visiting your Creator's Room on Sudomemo and selecting <strong>Mail Settings</strong>."
+msgstr "Yaratıcı Odan'a girip <strong>Mail Settings</strong>'e tıklayarak bu ayarları kolayca değiştirebilirsin."
 
 msgid "TEXT_WEB_SETTINGS_CHANGE_FORMAT"
-msgstr "Or, you can turn off these kinds of emails by clicking <a target=\"_blank\" href=\"%s\"><strong>here</strong></a>."
+msgstr "Ya da bu tarz e-postaları engelleyebilirsin. <a target=\"_blank\" href=\"%s\"><strong>here</strong></a>."
