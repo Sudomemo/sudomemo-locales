@@ -4,55 +4,55 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "COMMENT_DETAILS"
-msgstr "Comment Details"
+msgstr "Yorum ayrıntıları"
 
 msgid "MESSAGE_DETAILS"
-msgstr "Message Details"
+msgstr "Mesaj ayrıntıları"
 
 msgid "AUTHOR"
-msgstr "Author"
+msgstr "Yazar"
 
 msgid "COMMENT_BY_FORMAT"
-msgstr "Comment by %s"
+msgstr "%s'nin yorumu"
 
 msgid "CHAT_MESSAGE_FROM_FORMAT"
-msgstr "Chat Message from %s"
+msgstr "%s'den sohbet mesajı"
 
 msgid "MESSAGE_FROM_FORMAT"
-msgstr "Message from %s"
+msgstr "%s'den mesaj"
 
 msgid "FLIPNOTE_BY_FORMAT"
-msgstr "Flipnote by %s"
+msgstr "%s'nin Flipnote'u"
 
 msgid "COMMENT_ID"
-msgstr "Comment ID"
+msgstr "Yorum ID'si"
 
 msgid "MESSAGE_ID"
-msgstr "Message ID"
+msgstr "Mesaj ID'si"
 
 msgid "CHAT_COMMENT_ID"
-msgstr "Chat Comment ID"
+msgstr "Sohbet yorumunun ID'si"
 
 msgid "TIMESTAMP"
-msgstr "Timestamp"
+msgstr "Zaman damgası"
 
 msgid "POSTED_TO"
-msgstr "Posted to"
+msgstr "Paylaşılan yer:"
 
 msgid "PRIVATE_CONVERSATION"
-msgstr "Private Conversation"
+msgstr "Özel Sohbet"
 
 msgid "REPORT_CONTENT"
-msgstr "Report Content"
+msgstr "İçeriği şikayet et"
 
 msgid "COMMENT_HIDDEN_UNKNOWN"
-msgstr "Comment hidden due to request"
+msgstr "Bu yorum, bir istek nedeniyle gizlenmiştir."
 
 msgid "COMMENT_HIDDEN_SELF"
-msgstr "Comment hidden by author"
+msgstr "Bu yorum yazarı tarafından gizlenmiştir."
 
 msgid "COMMENT_HIDDEN_RECIPIENT"
-msgstr "Comment hidden by Flipnote author"
+msgstr "Bu yorum, bu Flipnote'u paylaşan kişi tarafından gizlenmiştir."
 
 msgid "COMMENT_HIDDEN_MODERATOR"
 msgstr "Comment hidden by moderator"
