@@ -4,22 +4,22 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "EMAIL_SUBJECT_FORMAT"
-msgstr "[Sudomemo] %s's Daily Star Report"
+msgstr "[Sudomemo] %s'in Günlük Yıldız Raporu"
 
 msgid "STRING_SUDOMEMO"
 msgstr "Sudomemo"
 
 msgid "STRING_DAILY_STAR_REPORT"
-msgstr "Daily Star Report"
+msgstr "Günlük Yıldız Raporu"
 
 msgid "TEXT_STAR_REPORT_GREETING_FORMAT"
-msgstr "Hello, %s! This is your Daily Star Report from Sudomemo."
+msgstr "Selam, %s! Bu senin Sudomemo'dan günlük yıldız raporun."
 
 msgid "TEXT_FLIPNOTE_BY_FORMAT"
-msgstr "Flipnote by %s"
+msgstr "%s'in Flipnote'u"
 
 msgid "TEXT_TOTAL_STARS_RECEIVED_TODAY"
-msgstr "Total Stars received today"
+msgstr "Bugün alınan yıldızların toplam sayısı"
 
 msgid "TEXT_HOW_TO_VIEW_STAR_ADDERS_DSI"
-msgstr "Using your Nintendo DSi System, you can see who added Stars by tapping <strong>Stars</strong> in your Flipnote's details page on Sudomemo."
+msgstr "Nintendo DSi sistemini kullanırken, kimin yıldız eklediğini, Sudomemo'da Flipnote'unun ayrıntılarında <strong>Yıldızlar</strong>'a tıklayarak görebilirsin."
