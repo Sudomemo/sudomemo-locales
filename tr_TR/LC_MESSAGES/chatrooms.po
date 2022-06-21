@@ -4,46 +4,46 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "NO_COMMENTS_YET"
-msgstr "No messages have been sent here."
+msgstr "Burada her hangi bir mesaj gönderilmemiştir."
 
 msgid "HEADER_COMMENTS"
-msgstr "Comments"
+msgstr "Yorumlar"
 
 msgid "PAGE_FORMAT"
-msgstr "Page %d"
+msgstr "%d. sayfa"
 
 msgid "HEADER_NEXT"
-msgstr "Next"
+msgstr "Sonraki"
 
 msgid "HEADER_PREV"
-msgstr "Prev"
+msgstr "Önceki"
 
 msgid "HEADER_REFRESH"
-msgstr "Refresh"
+msgstr "Yenile"
 
 msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
-msgstr "You must be logged in to post a chat message."
+msgstr "Bir mesaj göndermek için oturumun açık olmalı."
 
 msgid "CHAT_REPLY_FAILED"
-msgstr "Chat reply failed. Try again in a moment."
+msgstr "Mesaj gönderilemedi. Lütfen sonra tekrar dene."
 
 msgid "NO_BLANK_MESSAGES_ALLOWED"
-msgstr "You cannot post a blank chat message."
+msgstr "Boş bir mesaj gönderemezsin."
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "The Flipnote data is corrupted. Try again in a moment."
+msgstr "Bu Flipnote'un verileri bozuk. Lütfen az sonra tekrar dene."
 
 msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
-msgstr "You have been muted. You may not chat."
+msgstr "Sessize alındın. Mesaj gönderemezsin."
 
 msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "This comment has already been posted to Sudomemo."
+msgstr "Bu yorum Sudomemo'ya zaten gönderildi."
 
 msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "You have been restricted from interacting with Sudomemo."
+msgstr "Sudomemo ile iletişime geçmekten kısıtlanmış olabilirsin."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Please confirm your email before posting."
+msgstr "Lütfen bir şey paylaşmadan önce e-posta adresini doğrula."
 
 msgid "MODERATOR"
-msgstr "Moderator"
+msgstr "Moderatör"
