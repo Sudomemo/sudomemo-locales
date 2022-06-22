@@ -4,55 +4,55 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "HEADER_COMMENTS"
-msgstr "Comments"
+msgstr "Yorumlar"
 
 msgid "HEADER_DETAILS"
-msgstr "Details"
+msgstr "Ayrıntılar"
 
 msgid "HEADER_PREV"
-msgstr "Prev"
+msgstr "Önceki"
 
 msgid "HEADER_NEXT"
-msgstr "Next"
+msgstr "Sonraki"
 
 msgid "HEADER_REFRESH"
-msgstr "Refresh"
+msgstr "Yenile"
 
 msgid "PAGE_FORMAT"
-msgstr "Page %d"
+msgstr "%d. sayfa"
 
 msgid "NO_COMMENTS_YET"
-msgstr "This Flipnote doesn't have any comments yet."
+msgstr "Bu Flipnote'ta daha henüz bir yorum yok."
 
 msgid "LOGIN_REQUIRED_TO_POST_COMMENT"
-msgstr "You must be logged in to post a comment."
+msgstr "Yorum yazmak için oturumun açık olmalı."
 
 msgid "COMMENT_POST_FAILED"
-msgstr "Comment post failed. Try again in a moment."
+msgstr "Yorum gönderilemedi. Lütfen az sonra tekrar dene."
 
 msgid "NO_BLANK_COMMENTS_ALLOWED"
-msgstr "You cannot post a blank comment."
+msgstr "Boş bir yorum göndermezsin."
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "The Flipnote data is corrupted. Try again in a moment."
+msgstr "Bu Flipnote'un verileri bozuk. Lütfen az sonra tekrar dene."
 
 msgid "FLIPNOTE_COMMENTS_DISALLOWED"
-msgstr "You may not comment on this Flipnote."
+msgstr "Bu Flipnote'a yorum yazamazsın."
 
 msgid "NO_COMMENTS_WHILE_MUTED"
-msgstr "You've been muted. You may not comment."
+msgstr "Sessize alındın. Yorum yazamazsın."
 
 msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "This comment has already been posted to Sudomemo."
+msgstr "Bu yorum Sudomemo'ya zaten gönderildi."
 
 msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "You've been restricted from using Sudomemo."
+msgstr "Sudomemo hesabın kilitlendi."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Please confirm your email before posting."
+msgstr "Paylaşmadan önce lütfen e-posta adresini doğrula."
 
 msgid "MODERATOR"
-msgstr "Moderator"
+msgstr "Moderatör"
 
 msgid "SUDOMEMO_USER"
-msgstr "Sudomemo User"
+msgstr "Sudomemo Kullanıcısı"
