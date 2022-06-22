@@ -4,31 +4,31 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "INVENTORY"
-msgstr "Inventory"
+msgstr "Envanter"
 
 msgid "TICKETS"
-msgstr "Tickets"
+msgstr "Biletler"
 
 msgid "ITEMS"
-msgstr "Items"
+msgstr "Nesneler"
 
 msgid "PETS"
-msgstr "Pets"
+msgstr "Evcil hayvanlar"
 
 msgid "DECOR"
-msgstr "Decor"
+msgstr "Dekorasyonlar"
 
 msgid "PREV"
-msgstr "Prev"
+msgstr "Önceki"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "Sonraki"
 
 msgid "USE_ITEM"
-msgstr "Use item"
+msgstr "Bu nesneyi kullan"
 
 msgid "USE"
-msgstr "Use"
+msgstr "Kullan"
 
 msgid "REDEEM"
-msgstr "Redeem"
+msgstr "Bilet bozdur"
