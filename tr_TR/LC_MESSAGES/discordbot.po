@@ -10,61 +10,61 @@ msgstr ""
 
 # Username was given a Nitro Booster Ticket...
 msgid "BOOST_TICKET_SUCCESS"
-msgstr "%s was given a Nitro Booster Ticket, redeemable for a month of Sudomemo Plus and a special trophy. Hooray!"
+msgstr "%s kullanıcsına bir Nitro Booster Bileti verilmiştir. Bu bilet, bir aylık Sudomemo Plus ve özel bir kupa için kullanılabilir. Yaşasın!"
 
 # Account linking
 msgid "DISCORD_LINKING_GET_STARTED"
-msgstr "Please visit %s to get started!"
+msgstr "Başlamak için lütfen %s sayfasına gir."
 
 msgid "DISCORD_LINKING_REQUIRED"
-msgstr "You'll need to link your Sudomemo account to do that."
+msgstr "Bunu yapabilmek için Sudomemo hesabını bağlaman gerek."
 
 msgid "DISCORD_LINKING_SUCCESS"
-msgstr "Your account was successfully linked!"
+msgstr "Hesabın başarıyla bağlandı!"
 
 msgid "DISCORD_LINKING_UNLINKED"
-msgstr "The link between your Discord and Sudomemo account has been removed."
+msgstr "Discord'un, Sudomemo hesabın ile arasındaki bağlantı kesildi."
 
 msgid "DISCORD_LINKING_UNLINK_NOT_LINKED_YET"
-msgstr "Your Discord account isn't linked to a Sudomemo account."
+msgstr "Discord hesabın herhangi bir Sudomemo hesabına bağlı değil."
 
 # "Invalid mode - must be one of: song, artist, genre"
 msgid "MUSICMATCH_INVALID_MODE"
-msgstr "Invalid mode - must be one of %s"
+msgstr "Geçersiz mod - %s'den birisi olması lazım."
 
 msgid "MUSICMATCH_MOVIE_COUNT_PLURAL"
-msgstr "%d Flipnotes"
+msgstr "%d Flipnote'ları"
 
 msgid "MUSICMATCH_MOVIE_COUNT_SINGULAR"
-msgstr "%d Flipnote"
+msgstr "%d Flipnote'u"
 
 msgid "MUSICMATCH_NO_RESULTS"
-msgstr "I didn't find anything for that, sorry!"
+msgstr "Üzgünğm, bu şarkı için herhangi bir şey bulamadım!"
 
 msgid "MUSICMATCH_RESULT_HEADER_GT_MAX"
-msgstr "Top %d results:"
+msgstr "İlk %d sonuç:"
 
 msgid "MUSICMATCH_RESULT_HEADER_LT_MAX"
-msgstr "%d result(s):"
+msgstr "%d sonuç:"
 
 # SongName by BandName
 msgid "MUSICMATCH_TITLE_BY_ARTIST"
-msgstr "%s by %s"
+msgstr "Şarkı: %s Şarkıcı: %s"
 
 msgid "REJECT_ACCOUNT_ALREADY_LINKED"
-msgstr "You've already linked your Sudomemo account!"
+msgstr "Sudomemo hesabını zaten bağladın!"
 
 msgid "REJECT_BOOST_TICKET_COOLDOWN"
-msgstr "You've already given a Nitro Booster ticket this month! (%s)"
+msgstr "Bu ay Nitro Booster biletini zaten aldın! (%s)"
 
 msgid "REJECT_FSID_ENOENT"
-msgstr "I did not find a user with that Flipnote Studio ID on Sudomemo."
+msgstr "Sudomemo'da bu Flipnote Studio ID ile bir kullanıcı bulamadım."
 
 msgid "REJECT_GENERIC_ERROR"
-msgstr "I ran into an issue trying to do that. Sorry!"
+msgstr "Bunu yapmaya çalışırken bir hataya rastladım. Üzgünüm!"
 
 msgid "REJECT_INVALID_FSID"
-msgstr "That is not a valid Flipnote Studio ID!"
+msgstr "Bu geçerli bir Flipnote Studio ID'si değil!"
 
 msgid "REJECT_INVALID_LINK_TOKEN"
 msgstr "That is not a valid link token! Please visit %s to get started!"
@@ -73,42 +73,42 @@ msgid "REJECT_LINK_TOKEN_ENOENT"
 msgstr "The link token you provided is expired or does not exist."
 
 msgid "REJECT_NOT_NITRO_BOOSTER"
-msgstr "You need to be a Sudomemo Nitro Booster to use this!"
+msgstr "Bunu kullanabilmek için Sudomemo Nitro Booster'ı olman gerekiyor!"
 
 msgid "REJECT_USER_ENOENT"
-msgstr "I didn't find that user on Sudomemo."
+msgstr "Bu kullanıcıyı Sudomemo'da bulamadım."
 
 # "Usage: example_command <fsid>"
 msgid "USAGE"
-msgstr "Usage"
+msgstr "Kullanım şekli"
 
 # ONLY TRANSLATE: "usage", "commands"
 msgid "USAGE_INTRO"
 msgstr ""
-"usage: .sudo ...\n"
+"Kullanım şekli: .sudo ...\n"
 "\n"
-"commands:"
+"Komutlar:"
 
 # ONLY TRANSLATE: "Give Nitro Booster ticket..." and "Flipnote Studio ID"
 msgid "USAGE_give_plus"
 msgstr ""
 "   give_plus <FSID>\n"
-"      Give Nitro Booster ticket (1 month of Sudomemo Plus and a Trophy).\n"
-"      <FSID>: Flipnote Studio ID"
+"      Bir Nitro Booster Bileti'ni ver (bir aylık Sudomemo Plus ve bir kupa).\n"
+"      <FSID>: Flipnote Studio ID'si"
 
 msgid "USAGE_link"
 msgstr ""
 "   link\n"
-"      Link your Sudomemo account to Discord"
+"      Sudomemo hesabını Discord'a bağla"
 
 # ONLY TRANSLATE "Search Sudomemo MusicMatch" and "What you're searching for"
 msgid "USAGE_musicmatch"
-msgstr ""
+msgstr 
 "   mm, musicmatch <mode> <query>\n"
-"      Search Sudomemo MusicMatch\n"
+"      Sudomemo MusicMatch'i ara\n"
 "      <mode>: song, artist, genre\n"
-"      <query>: What you're searching for"
+"      <query>: Senin aradığın"
 
 # displayed as "💡 Link your Sudomemo account with `.sudo link`"
 msgid "UNLINKED_COMMAND_TIP"
-msgstr "Link your Sudomemo account with"
+msgstr "Sudomemo hesabını bununla bağla:"
