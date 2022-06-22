@@ -4,260 +4,260 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "BAN_GREETING_FORMAT"
-msgstr "Hello, %s."
+msgstr "Kolay gelsin, %s."
 
 msgid "BAN_NOTICE_CONSOLE_BAN"
-msgstr "Your account and console have been suspended from Sudomemo."
+msgstr "Hesabın ve konsolun console Sudomemo'da kilitlenmiştir."
 
 msgid "BAN_NOTICE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
-msgstr "Please contact us on Discord or via email to %s."
+msgstr "Lütfen Discord'da veya %s adresine e-posta göndererek bizimle iletişime geç."
 
 msgid "BAN_NOTICE_PLEASE_READ_BAN_LETTER"
-msgstr "Please read the letter we sent you for further information."
+msgstr "Daha fazla bilgi için lütfen sana gönderdiğimiz yazıyı oku."
 
 msgid "BAN_VIEW_MAIL"
-msgstr "View Sudomemo Mail"
+msgstr "Sudomemo mesajını göster"
 
 msgid "BASIC_AUTH_BAD_LENGTH_FORMAT"
-msgstr "The ID appears to be %s digits in length (should be 16)"
+msgstr "Bu ID görünüşe göre %s haneli. (16 olması gerek)"
 
 msgid "BASIC_AUTH_FSID_INVALID"
-msgstr "The Flipnote Studio ID you entered under Basic Authentication is invalid:"
+msgstr "Basit doğrulamada girdiğin Flipnote Studio ID'si maalesef geçersiz:"
 
 msgid "BASIC_AUTH_LOWERCASE_LETTERS"
-msgstr "The ID contain lowercase letters - it should be all uppercase."
+msgstr "Bu ID küçük harf içermektedir (aslında hepsinin büyük olması gerek)."
 
 msgid "BASIC_AUTH_NONHEX_CHARACTERS"
-msgstr "The ID contains characters other than 0-9 and A-F (it should only contain 0-9 and A-F)."
+msgstr "Bu ID, 0-9 ve A-F'den başka sembol(ler) içermektedir (aslında sadece 0-9 ve A-F içermesi lazım)."
 
 msgid "BASIC_AUTH_NOT_ENABLED"
-msgstr "You do not appear to have enabled Basic Authentication in your proxy settings."
+msgstr "Proxy ayarlarında basit doğrulamaya izin vermemişsin."
 
 msgid "BUTTON_ADD_AN_EMAIL_ADDRESS"
-msgstr "Add an email address"
+msgstr "E-posta adresi ekle"
 
 msgid "BUTTON_CHANGE_EMAIL"
-msgstr "Change email address"
+msgstr "E-posta adresini değiştir"
 
 msgid "BUTTON_CHANGE_PASSWORD"
-msgstr "Change password"
+msgstr "Şifreyi değiştir"
 
 msgid "BUTTON_CHECK_VERIFICATION"
-msgstr "Check Verification Status"
+msgstr "Doğrulama durumunu incele"
 
 msgid "BUTTON_CONTINUE"
-msgstr "Continue"
+msgstr "Devam et"
 
 msgid "BUTTON_EDIT_EMAIL_ADDRESS"
-msgstr "Change Email Address"
+msgstr "E-posta adresini değiştir"
 
 msgid "BUTTON_RESEND_VERIFICATION_EMAIL"
-msgstr "Resend Verification Email"
+msgstr "Doğrulama e-postasını tekrar gönder"
 
 msgid "BUTTON_SIGN_IN_TO_SUDOMEMO"
-msgstr "Sign in to Sudomemo"
+msgstr "Sudomemo'da oturum aç"
 
 msgid "BUTTON_SUBMIT"
-msgstr "Submit"
+msgstr "Gönder"
 
 msgid "CONFIRM_INFO_CORRECT"
-msgstr "Please make sure that the information below is correct."
+msgstr "Lütfen aşağıda verdiğin bilgilerin doğru olduğundan emin ol."
 
 msgid "CONTACT_SUPPORT_EMAIL_FORMAT"
-msgstr "Please contact %s."
+msgstr "Lütfen %s ile iletişime geç."
 
 msgid "CONTINUE_TO_LOGIN"
-msgstr "Continue to Login"
+msgstr "Oturum açmaya devam et"
 
 msgid "CREATORS_ROOM_SHIM_PLEASE_LOGIN"
-msgstr "Welcome to Sudomemo! Please login to continue."
+msgstr "Sudomemo'ya hoş geldin! Lütfen devam etmek için oturum aç."
 
 msgid "CREATORS_ROOM_SHIM_WELCOME"
-msgstr "Welcome!"
+msgstr "Hoş geldin!"
 
 msgid "EMAIL_ADDITION_DETAILS"
-msgstr "If you ever forget your password, we will send a password reset link to your email address."
+msgstr "Eğer şifreni unutursan e-posta adresine şifre sıfırlama linkini göndereceğiz."
 
 msgid "EMAIL_ADDITION_SUGGESTED"
-msgstr "Email is optional, but highly recommended. If you ever forget your password, we will send a password reset link to your email address."
+msgstr "E-posta isteğe göre eklenebilir ama bunu şiddetle tavsiye ederiz. Çünkü eğer şifreni unutursan e-postana bir şifre sıfırlama linkini gönderebiliriz."
 
 msgid "EMAIL_CONFIRMATION_SENT_FORMAT"
-msgstr "A confirmation email has been sent to %s. Please check for it in a few minutes."
+msgstr "%s adresine doğrulama e-postası gönderildi. Lütfen bunu birkaç dakika sonra incele."
 
 msgid "EMAIL_IS_DUPLICATE"
-msgstr "The email address you entered is already in use."
+msgstr "Girdiğin e-posta adresi zaten kullanılıyor."
 
 msgid "EMAIL_NOT_YET_VERIFIED"
-msgstr "Your email address has not yet been verified."
+msgstr "E-posta adresin daha henüz doğrulanmadı."
 
 msgid "EMAIL_REQUIRES_UPDATE"
-msgstr "Your email address needs to be updated."
+msgstr "E-posta adresini değiştirmen gerek."
 
 msgid "EMAIL_VERIFICATION_ADDRESS_REMOVED"
-msgstr "Sorry about that! We've marked that email address as incorrect, so you shouldn't receive any further emails from Sudomemo."
+msgstr "Özür dileriz! Bu e-posta adresini yanlış olarak işaretledik ve bu yüzden Sudomemo'dan e-posta almayacaksın."
 
 msgid "EMAIL_VERIFIED"
-msgstr "Thank you for verifying your email!"
+msgstr "E-posta adresini doğruladığın için teşekkür ederiz!"
 
 msgid "ERROR"
-msgstr "Error"
+msgstr "Hata"
 
 msgid "FORGOT_PASSWORD_LINK"
-msgstr "Forgot your password?"
+msgstr "Şifreni mi unuttun?"
 
 msgid "FORM_HEADER_EMAIL"
-msgstr "Email:"
+msgstr "E-posta:"
 
 msgid "FORM_HEADER_EMAIL_CONFIRM"
-msgstr "Email:"
+msgstr "E-posta:"
 
 msgid "FORM_HEADER_PASSWORD"
-msgstr "Password:"
+msgstr "Şifre:"
 
 msgid "FORM_LABEL_DONT_FORGET_PASSWORD"
-msgstr "Remember to make a note of your password, and keep it safe!"
+msgstr "Şifreni bir yere yazmayı ve güvenli tutmayı unutma!"
 
 msgid "FORM_PREFILL_EMAIL"
-msgstr "Enter your email here..."
+msgstr "E-posta adresini buraya yaz..."
 
 msgid "FORM_PREFILL_PASSWORD"
-msgstr "Enter your password here..."
+msgstr "Şifreni buraya yaz..."
 
 msgid "FORM_WARNING_EMAIL_INVALID"
-msgstr "The email address you entered isn't valid."
+msgstr "Girdiğin e-posta adresi geçerli değildir."
 
 msgid "FORM_WARNING_PASSWORD_DISALLOWED_CHARS"
-msgstr "Your password cannot contain any of these characters:"
+msgstr "Şifren bunlardan birisini içeremez:"
 
 msgid "FORM_WARNING_PASSWORD_TOO_SHORT"
-msgstr "Please enter a password that is longer than 8 characters."
+msgstr "Lütfen en az sekiz karakterli bir şifre belirle."
 
 msgid "GOTO_CREATORS_ROOM"
-msgstr "Go to your Creator's Room"
+msgstr "Kreatör Oda'na git"
 
 msgid "GUIDE_MAIN_MENU_SHORTCUT"
-msgstr "You can return to the main menu by holding down L (or R if you're left-handed) and pressing the 'Menu' button."
+msgstr "L tuşunu (solaksan R tuşunu) basılı tutarak ve Menü tuşuna tıklayarak ana sayfaya dönebilirsin."
 
 msgid "HEADER_UPDATE_EMAIL"
-msgstr "Update Email"
+msgstr "E-posta adresini güncelle"
 
 msgid "HEADER_VERIFICATION_EXPIRED"
-msgstr "Verification Expired"
+msgstr "Doğrulama süresi sona ermiştir"
 
 msgid "HEADER_VERIFY_EMAIL"
-msgstr "Verify Email"
+msgstr "E-posta adresini doğrula"
 
 msgid "INCORRECT_PASSWORD_ATTEMPTS_FORMAT"
-msgstr "Incorrect password attempts: %s"
+msgstr "Hatalı şifre giriş deneme sayısı: %s"
 
 msgid "LOGIN"
-msgstr "Login"
+msgstr "Oturum aç"
 
 msgid "LOGIN_FAILED"
-msgstr "Login failed."
+msgstr "Oturum açılamadı."
 
 msgid "LOGIN_FAILED_BANNED_LINE1"
-msgstr "You've been restricted from using Sudomemo."
+msgstr "Sudomemo kullanımın kilitlenmiştir."
 
 msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE1"
-msgstr "The Flipnote data is corrupted."
+msgstr "Bu Flipnote'un verisi bozuk."
 
 msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE2"
-msgstr "Try sending it again."
+msgstr "Tekrar göndermeyi dene."
 
 msgid "LOGIN_FAILED_REOPEN_FLIPNOTE_STUDIO"
-msgstr "Login failed. Close and reopen Flipnote Studio."
+msgstr "Oturum açılamadı. Flipnote Studio'yu kapat ve tekrar aç."
 
 msgid "LOGIN_FORM_PREFILL_PASSWORD"
-msgstr "Enter password"
+msgstr "Şifre gir"
 
 msgid "LOGIN_SETUP"
-msgstr "Login Setup"
+msgstr "Giriş kurulumu"
 
 msgid "LOGIN_SUCCESSFUL"
-msgstr "Login Successful"
+msgstr "Oturum başarıyla açıldı"
 
 msgid "NEW_USER_INTRO_POST_INTRO_CHANNEL"
-msgstr "When you're ready, go ahead and introduce yourself in our Introduction channel, under the Personal category."
+msgstr "Eğer hazırsan git ve kendini, Kendini tanıt kanalının Kişisel kategorisinde tanıt."
 
 msgid "NEW_USER_PLEASE_CREATE_PASSWORD"
-msgstr "Please create a new password."
+msgstr "Lütfen yeni bir şifre oluştur."
 
 msgid "NEW_USER_THANKS_FOR_REGISTRATION"
-msgstr "Welcome to Sudomemo!"
+msgstr "Sudomemo'ya hoş geldin!"
 
 msgid "NEW_USER_WELCOME_FORMAT"
-msgstr "Welcome to Sudomemo, %s!"
+msgstr "Sudomemo'ya hoş geldin, %s!"
 
 msgid "NOT_RECEIVING_HELP_FORMAT"
-msgstr "Not receiving the email? You can reach out to us on the Sudomemo Discord or via %s."
+msgstr "E-postayı alamadın mı? Sudomemo'ya Discord'da veya %s adresiyle iletişime geçebilirsin."
 
 msgid "NO_PLAINTEXT_PASSWORD_RECOVERY_IF_LOST"
-msgstr "After this stage, we can't recover your password if you lose it."
+msgstr "Eğer şifreni unutursan sana bu aşamadan sonra yardım edemeyeceğiz."
 
 msgid "PLEASE_DISCONNECT_AND_RECONNECT"
-msgstr "An error occured. To try again, disconnect and then reconnect to Sudomemo."
+msgstr "Bir hata oluştu. Tekrar denemek için, Sudomemo'dan çık ve tekrar bağlan."
 
 msgid "PLEASE_ENTER_PASSWORD_TO_SIGN_IN"
-msgstr "Please enter your password to sign in"
+msgstr "Oturum açmak için lütfen şifreni gir."
 
 msgid "POST_COMMENT_BELOW"
-msgstr "To continue, please submit a drawn comment (it can be blank)."
+msgstr "Devam etmek için lütfen çizilmiş bir yorum gönder (boş da olabilir)."
 
 msgid "REGISTRATION_ERROR_BAD_EMAIL"
-msgstr "The email address you provided is not permitted."
+msgstr "Bu e-posta adresini kullanmana izin verilmemektedir."
 
 msgid "REGISTRATION_ERROR_BAD_PASSWORD"
-msgstr "The password you provided is not permitted."
+msgstr "Bu şifreyi kullanmana izin verilmemektedir."
 
 msgid "REGISTRATION_ERROR_PASSWORD_ALREADY_SET"
-msgstr "Password has already been set."
+msgstr "Şifre zaten oluşturuldu."
 
 msgid "RETURNING_USER_NEW_LOGIN_SYSTEM"
-msgstr "Since the last time you visited, we've added a new login system -- but don't worry, all of your content is still here!"
+msgstr "En son gelişinden sonra, buraya yeni bir oturum açma sistemi ekledik -- ama merak etme, tüm içeriklerin hâlâ burada!"
 
 msgid "RETURNING_USER_PLEASE_CREATE_PASSWORD"
-msgstr "To get started, please create a new password below."
+msgstr "Başlamak için lütfen şifreni değiştir."
 
 msgid "RETURNING_USER_THANKS_FOR_REGISTRATION"
-msgstr "Welcome back! Thanks for setting up your login information."
+msgstr "Tekrar hoş geldin! Giriş bilgilerini ayarladığın için teşekkür ederiz."
 
 msgid "SEARCH_FOR_SENDER_EMAIL_FORMAT"
-msgstr "Haven't received the email? Check your Spam box, and search for %s. If you find that it was marked spam, please ensure you first mark it Not Spam."
+msgstr "E-postayı alamadın mı? Spam kısmına bak ve arama kısmına %s yaz. Eğer spam olarak işaretlendiyse, lütfen ilk önce bu işareti kaldır."
 
 msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
-msgstr "If you need help connecting, feel free to ask in our Discord! You can join from %s."
+msgstr "Bağlanmakta yardıma ihtiyacın varsa bizden Discord'da yardım isteyebilirsin! Sunucumuza buradan katılabilirsin: %s"
 
 msgid "SORRY_NO_LOGIN"
-msgstr "Sorry, but we couldn't log you in!"
+msgstr "Üzgünüz, ama oturum açılamadı!"
 
 msgid "THANKS_FOR_LOGIN_FORMAT"
-msgstr "Thanks for signing in, %s!"
+msgstr "Oturum açtığın için teşekkür ederiz, %s!"
 
 msgid "THANKS_FOR_LOGIN_PROMPT_INTRO"
-msgstr "Welcome to Sudomemo! Now, let's write a little message to say who you are! (This will be posted as a Flipnote in our Introductions channel.)"
+msgstr "Sudomemo'ya hoş geldin! Hadi bakalım, şimdi de küçük bir mesajla kendini tanıt! (Bu bir Flipnote olarak Introductions kanalımızda paylaşılacaktır.)"
 
 msgid "THANK_YOU_FOR_UPDATING_EMAIL"
-msgstr "Thank you for updating your email!"
+msgstr "E-postanı güncellediğin için teşekkür ederiz!"
 
 msgid "VERIFICATION_EXPIRED_TEXT"
-msgstr "The verification URL has expired or has already been used."
+msgstr "Doğrulama linkinin süresi ya sona erdi ya da zaten kullanıldı."
 
 msgid "VERIFICATION_LIMIT_EXCEEDED_FORMAT"
-msgstr "You have exceeded the maximum number of verification emails. Please contact support at %s or via Discord."
+msgstr "Alabileceğin doğrulama e-postası sayısının limitine ulaştın. Lütfen bizimle %s ile veya Discord'da iletişime geç."
 
 msgid "VERIFICATION_NEEDED"
-msgstr "We need you to verify your email address."
+msgstr "E-posta adresini doğrulaman gerek."
 
 msgid "WEB_HEADER_SUCCESS"
-msgstr "Success!"
+msgstr "Başardın!"
 
 msgid "WEB_TAP_CHECK_VERIFICATION_STATUS"
-msgstr "Go ahead and tap 'Check Verification Status' on your Nintendo DSi System to complete the email verification."
+msgstr "E-posta adresinin doğrulanmasını tamamlamak için devam et ve Nintendo DSi sisteminde 'Doğrulama statüsünü incele'ye tıkla."
 
 msgid "WELCOME_BACK_FORMAT"
-msgstr "Welcome back, %s!"
+msgstr "Tekrar hoş geldin, %s!"
 
 # A URL will be shown at the end of this.
 msgid "LEGACY_PROXY_WARNING"
-msgstr "It looks like you may still be using the legacy ds.sudomemo.net proxy, which we have ended support for. As such, you should turn off the proxy in your System Settings, or you might have problems using Sudomemo. For more information, visit:"
+msgstr "Görünüşe höre hâlâ ds.sudomemo.net proxysini kullanıyorsun. Fakat biz proxy'yi artık desteklemiyoruz. Bu yüzden sistem ayarlarında bu proxy'yi devre dışı bırak, or you might have problems using Sudomemo. Daha fazla bilgi için bu sayfayı ziyaret et:"
