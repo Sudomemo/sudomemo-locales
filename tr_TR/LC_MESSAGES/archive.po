@@ -5,7 +5,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "ACTIVE_FROM"
-msgstr "itibaren aktif"
+msgstr "Katılım tarihi:"
 
 msgid "ALSO_KNOWN_AS"
 msgstr "Ayrıca şöyle bilinir"
@@ -14,13 +14,13 @@ msgid "CONTACT"
 msgstr "İletişim"
 
 msgid "CREATED"
-msgstr "oluşturuldu"
+msgstr "Oluşturuldu"
 
 msgid "CREATORS"
-msgstr "yaratıcılar"
+msgstr "Kreatörler"
 
 msgid "CREDITS"
-msgstr "Kredi"
+msgstr "Katkıda bulunanlar"
 
 msgid "DURATION"
 msgstr "Süre"
@@ -29,22 +29,22 @@ msgid "DURATION_FORMAT"
 msgstr "%s saniye"
 
 msgid "FLIPNOTES"
-msgstr "Flipnotlar"
+msgstr "Flipnote'lar"
 
 msgid "FLIPNOTE_ARCHIVE"
-msgstr "Flipnot Arşivi"
+msgstr "Flipnote Arşivi"
 
 msgid "FLIPNOTE_ARCHIVE_CREDITS"
-msgstr "Flipnote Arşiv Kredisi"
+msgstr "Flipnote Arşivi'ne katkıda bulunanlar"
 
 msgid "FLIPNOTE_BY_FORMAT"
-msgstr "Flipnote tarafından %s"
+msgstr "%s'nin Flipnote'u"
 
 msgid "FLIPNOTE_MAY_BE_DUPLICATE"
-msgstr "Başka bir Flipnote'un olası kopyası."
+msgstr "Bu, muhtemelen başka bir Flipnote'un kopyasıdır."
 
 msgid "FLIPNOTE_STUDIO_ID"
-msgstr "Flipnote Stüdyo Kimliği"
+msgstr "Flipnote Studio ID'si"
 
 msgid "FLIPNOTE_WITHHELD_PRIVACY"
 msgstr "Bu Flipnote, gizlilik endişeleri nedeniyle saklanmaktadır."
@@ -54,22 +54,22 @@ msgid "FLIPNOTE_WITHHELD_READ_MORE"
 msgstr "Daha fazla bilgi için, lütfen okuyunuz %sSSS%s."
 
 msgid "FOOTER_DONATION_ASK"
-msgstr "Bu siteyi çalıştırmak pahalıdır, bu yüzden lütfen bir %sbağış!%s"
+msgstr "Bu siteyi çalıştımanın maliyeti çok yüksektir, bu yüzden bir %sbağışta%s bulunmanızı rica ederiz."
 
 msgid "FOOTER_SUDOMEMO_SHILL_FORMAT"
-msgstr "Tarafından barındırılan %sSudomemo%s, Nintendo DSi ve 3DS'de Flipnote Studio için hayranlar tarafından işletilen bir Flipnote paylaşım hizmeti"
+msgstr "Bu arşiv, Nintendo DSi ve 3DS'teki Flipnote Studio için, Hatena hayranlarının işlettiği bir Flipnote paylaşım hizmeti olan %sSudomemo%s tarafından barındırılmaktadır."
 
 msgid "FOOTER_THIRDPARTY_COPYRIGHT"
-msgstr "Flipnote Stüdyosu dır-dir © Nintendo. Flipnote Hatena (şimdiki değeri) © Hatena Co., Ltd."
+msgstr "Flipnote Studio © Nintendo'ya aittir. Flipnote Hatena © Hatena Co., Ltd.'ye aittir."
 
 msgid "FOOTER_THIRDPARTY_DISCLAIMER"
-msgstr "Flipnote Arşivi, Nintendo veya Hatena ile ilişkili değildir veya Nintendo veya Hatena tarafından desteklenmemektedir."
+msgstr "Bu Flipnote Arşivi, Nintendo veya Hatena ile ilişkili değildir veya Nintendo veya Hatena tarafından desteklenmemektedir."
 
 msgid "FRAME_SPEED"
-msgstr "Çerçeve Hızı"
+msgstr "Flipnote Hızı"
 
 msgid "HATENA_ID"
-msgstr "Hatena kimliği"
+msgstr "Hatena ID'si"
 
 msgid "HATENA_USER"
 msgstr "Hatena Kullanıcısı"
@@ -87,11 +87,11 @@ msgid "HOMEPAGE_FLIPNOTE_STAT"
 msgstr "44 milyon"
 
 msgid "HOMEPAGE_FROG_DIALOG"
-msgstr "Flipnotlamaya devam edin!"
+msgstr "Flipnote'lamaya devam edin!"
 
 # again, wrapped in links
 msgid "HOMEPAGE_INTRO_FORMAT"
-msgstr "Kapsamlı bir arşiv %sFlipnote Stüdyosu%s yayınlanan animasyonlar %sFlipnote Hatena%s Mayıs 2013'te kapanmadan önce."
+msgstr "Flipnote Archive, %sFlipnote Studio'da%s hazırlanıp %sFlipnote Hatena'da%s, Mayıs 2013'te kapatılmadan önce, yayınlanan Flipnote'ların geniş kapsamlı arşividir."
 
 msgid "HTTP_ERROR_404_TEXT"
 msgstr "Aradığınız sayfa bulunamadı."
@@ -109,7 +109,7 @@ msgid "MONTH_YEAR_FORMAT"
 msgstr "F Y"
 
 msgid "NAVBAR_DONATE"
-msgstr "Bağış yapmak"
+msgstr "Bağış yap"
 
 msgid "NAVBAR_FAQS"
 msgstr "SSS"
@@ -118,7 +118,7 @@ msgid "NAVBAR_HISTORY"
 msgstr "Tarih"
 
 msgid "NAVBAR_HOME"
-msgstr "Ev"
+msgstr "Ana sayfa"
 
 msgid "NAVBAR_TAGS"
 msgstr "Etiketler"
@@ -127,25 +127,25 @@ msgid "NEXT"
 msgstr "Sonraki"
 
 msgid "NUMBER_OF_SONGS_FORMAT"
-msgstr "%d şarkılar"
+msgstr "%d şarkı"
 
 msgid "ORIGINAL_FLIPNOTE"
-msgstr "Orijinal Flipnot"
+msgstr "Orijinal Flipnote"
 
 msgid "ORIGINAL_NOT_FOUND"
-msgstr "Orijinal bulunamadı"
+msgstr "Orijinali bulunamadı"
 
 msgid "PRESS"
-msgstr "Basmak"
+msgstr "Bas"
 
 msgid "PRESS_INQUIRIES"
-msgstr "Basın soruşturması"
+msgstr "Basın talepleri"
 
 msgid "PREV"
 msgstr "Önceki"
 
 msgid "REGION_AMERICAS"
-msgstr "Amerika"
+msgstr "Kuzey ve Güney Amerika"
 
 msgid "REGION_EUROPE_AND_OCEANIA"
 msgstr "Avrupa ve Okyanusya"
@@ -154,25 +154,25 @@ msgid "REGION_JAPAN"
 msgstr "Japonya"
 
 msgid "SEARCH"
-msgstr "Arama"
+msgstr "Ara"
 
 msgid "SEARCH_THE_FLIPNOTE_ARCHIVE"
-msgstr "Flipnote Arşivinde Arayın"
+msgstr "Flipnote Arşivi'nde ara"
 
 msgid "SEE_MORE_ARROW"
 msgstr "Daha fazla gör →"
 
 msgid "SHARE"
-msgstr "Paylaşmak"
+msgstr "Paylaş"
 
 msgid "SONGS"
-msgstr "şarkılar"
+msgstr "Şarkılar"
 
 msgid "SONG_ALBUM"
 msgstr "Albüm"
 
 msgid "SONG_ARTISTS"
-msgstr "Şarkı Sanatçıları"
+msgstr "Şarkıcılar"
 
 msgid "SONG_GENRE"
 msgstr "Tür"
@@ -182,13 +182,13 @@ msgstr "Etiket"
 
 # Referring to the year a song was released
 msgid "SONG_RELEASED"
-msgstr "Piyasaya sürülmüş"
+msgstr "Piyasaya sürülme tarihi"
 
 msgid "SPINOFFS"
 msgstr "Spin-off'lar"
 
 msgid "SPINOFF_COUNT_FORMAT"
-msgstr "%s yan ürünler"
+msgstr "%s spin-off"
 
 msgid "SPOTIFY"
 msgstr "Spotify"
@@ -197,26 +197,26 @@ msgid "SUDOMEMO"
 msgstr "Sudomemo"
 
 msgid "TOTAL_FLIPNOTES"
-msgstr "Toplam Flipnotes"
+msgstr "Toplam Flipnote sayısı"
 
 msgid "USER"
-msgstr "kullanıcı"
+msgstr "Kullanıcı"
 
 msgid "USERS"
 msgstr "Kullanıcılar"
 
 # Austin's Flipnote from Flipnote Hatena, May 17th, 2010
 msgid "USERS_ARCHIVED_FLIPNOTE_FORMAT"
-msgstr "%s's Flipnote Hatena'dan Flipnote, %s"
+msgstr "%s'in Flipnote Hatena'dan Flipnote'u, %s"
 
 msgid "USERS_ARCHIVED_PROFILE_FORMAT"
-msgstr "%s's arşivlenmiş Flipnote Hatena profili"
+msgstr "%s'in arşivlenmiş Flipnote Hatena profili"
 
 msgid "USERS_PROFILE_IMAGE_FORMAT"
-msgstr "%s's Hatena profil resmi"
+msgstr "%s'in Hatena profil resmi"
 
 msgid "VIEWS"
 msgstr "Görüntüleme"
 
 msgid "YOUTUBE_MUSIC"
-msgstr "Youtube müzik"
+msgstr "YouTube Müzik"
