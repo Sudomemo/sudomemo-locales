@@ -6,43 +6,43 @@ msgstr ""
 # This contains common strings used for the general notification ("mail") system as well
 # Common
 msgid "LOGIN_FIRST_TO_ACCESS_MAIL"
-msgstr "You'll need to log back in before you can view this."
+msgstr "Bunu görebilmek için tekrar oturum açman gerek."
 
 msgid "CONTINUE"
-msgstr "Continue"
+msgstr "Devam et"
 
 msgid "HEADER_INBOX"
-msgstr "Inbox"
+msgstr "Posta"
 
 # this must be a max of 6 characters
 msgid "UNAUTHED_READ"
-msgstr "Read.."
+msgstr "Okundu.."
 
 msgid "PREV"
-msgstr "Prev"
+msgstr "Önceki"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "Sonraki"
 
 # Titles
 msgid "TITLE_SPINOFF"
 msgstr "Spin-off"
 
 msgid "TITLE_WARNING"
-msgstr "Warning"
+msgstr "Uyarı"
 
 msgid "TITLE_NOTICE"
-msgstr "Notice"
+msgstr "Bildirim"
 
 msgid "TITLE_MESSAGE"
-msgstr "Message"
+msgstr "Mesaj"
 
 msgid "TITLE_NEWS"
-msgstr "News"
+msgstr "Haberler"
 
 msgid "TITLE_INFO"
-msgstr "Info"
+msgstr "Bilgi"
 
 # Not found
 msgid "MAIL_NOT_FOUND"
-msgstr "This message does not exist."
+msgstr "Bu mesaj mevcut değil."
