@@ -4,14 +4,14 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "HEADER_INBOX"
-msgstr "Inbox"
+msgstr "Gelen Kutusu"
 
 # this must be a max of 6 characters
 msgid "UNAUTHED_READ"
-msgstr "Read.."
+msgstr "Okundu.."
 
 msgid "PREV"
-msgstr "Prev"
+msgstr "Önceki"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "Sonraki"
