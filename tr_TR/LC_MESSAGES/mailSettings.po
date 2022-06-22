@@ -4,109 +4,109 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "HEADER_MAIL_SETTINGS"
-msgstr "Mail Settings"
+msgstr "Posta ayarları"
 
 msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
-msgstr "You must be logged in to edit your mail settings."
+msgstr "Posta ayarlarını düzenlemek için ilk önce oturumu açman gerek."
 
 msgid "MAIL_TYPE"
-msgstr "Type"
+msgstr "Tür"
 
 msgid "MAIL_STATUS"
-msgstr "Status"
+msgstr "Durum"
 
 msgid "ENABLED"
-msgstr "Enabled"
+msgstr "Aktif"
 
 msgid "DISABLED"
-msgstr "Disabled"
+msgstr "Devre dışı"
 
 msgid "ENABLE"
-msgstr "Enable"
+msgstr "İzin ver"
 
 msgid "DISABLE"
-msgstr "Disable"
+msgstr "Devre dışı bırak"
 
 msgid "TAP_TO_ENABLE"
-msgstr "Tap to enable"
+msgstr "Aktifleştirmek için tıkla"
 
 msgid "TAP_TO_DISABLE"
-msgstr "Tap to disable"
+msgstr "Devre dışı bırakmak için tıkla"
 
 msgid "TYPE_NEWS_NAME"
-msgstr "Sudomemo News"
+msgstr "Sudomemo Haberleri"
 
 msgid "TYPE_NEWS_DESC"
-msgstr "Receive an email when something new is posted to the Sudomemo News"
+msgstr "Sudomemo Haberleri'nde yeni bir şey paylaşıldığında e-posta al"
 
 msgid "TYPE_PROMO_NAME"
-msgstr "Promo"
+msgstr "Tanıtım"
 
 msgid "TYPE_PROMO_DESC"
-msgstr "Receive emails about new features, tips and tricks, and upcoming events!"
+msgstr "Yeni özellikler, ipuçları ve yaklaşan etkinlikler hakkında e-posta al!"
 
 msgid "TYPE_FAVE_NOTIF_NAME"
-msgstr "Added as Favorite"
+msgstr "Favori olarak eklendi"
 
 msgid "TYPE_FAVE_NOTIF_DESC"
-msgstr "Receive an email when someone adds you to their Favorites"
+msgstr "Birisi seni favori olarak eklediğinde e-posta al"
 
 msgid "TYPE_COMMENT_NOTIF_NAME"
-msgstr "Comment Received"
+msgstr "Yorum alındı"
 
 msgid "TYPE_COMMENT_NOTIF_DESC"
-msgstr "Receive an email when someone comments on your Flipnote"
+msgstr "Birisi bir Flipnote'una yorum yazdığında e-posta al"
 
 msgid "TYPE_STAR_REPORT_NAME"
-msgstr "Daily Star Report"
+msgstr "Günlük Yıldız Raporu"
 
 msgid "TYPE_STAR_REPORT_DESC"
-msgstr "Receive an email at the end of the day about any stars you've received"
+msgstr "Gün sonunda, aldığın yıldızlar ile ilgili e-posta al"
 
 msgid "TYPE_SPINOFF_NOTIF_NAME"
-msgstr "Spin-off Received"
+msgstr "Spin-off alındı"
 
 msgid "TYPE_SPINOFF_NOTIF_DESC"
-msgstr "Receive an email when someone posts a spin-off to your Flipnote"
+msgstr "Birisi Flipnote'unun bir spin-off'unu paylaştığında e-posta al"
 
 msgid "TYPE_SECURITY_NOTIF_NAME"
-msgstr "Account Security"
+msgstr "Hesap güvenliği"
 
 msgid "TYPE_SECURITY_NOTIF_DESC"
-msgstr "Receive an email when your email address or password is updated"
+msgstr "E-posta adresin veya şifren değiştiğinde bir e-posta al"
 
 msgid "TYPE_REPORT_UPDATE_NAME"
-msgstr "Flagged Content Update"
+msgstr "Şikayet ettiğin içeriğe dair bildiri"
 
 msgid "TYPE_REPORT_UPDATE_DESC"
-msgstr "Receive an email when we update the status of content that you've flagged"
+msgstr "Şikayet ettiğin içerik ile ilgili gelişimler hakkında e-posta al"
 
 msgid "TYPE_UNREAD_COMMENTS_NAME"
-msgstr "Unread Comments"
+msgstr "Okunmamış yorumlar"
 
 msgid "TYPE_UNREAD_COMMENTS_DESC"
-msgstr "Receive an email summary of any new comments you've received recently"
+msgstr "Son zamanlarda aldığın yorumlar hakkında bir e-posta al"
 
 msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
-msgstr "Tap on a mail type's status to view or update it."
+msgstr "Bir e-posta türünün durumunu görüntülemek veya değiştirmek için ona tıkla."
 
 msgid "HEADER_CHANGE_EMAIL_SETTINGS"
-msgstr "Change Email Settings"
+msgstr "E-posta adresini değiştir"
 
 msgid "DISABLE_CONFIRMATION_FORMAT"
-msgstr "Are you sure you want to disable '%s' emails?"
+msgstr "'%s'den gelen e-postaları devre dışı bırakmak istediğinden emin misin?"
 
 msgid "REENABLE_INSTRUCTIONS"
-msgstr "If you want to turn them back on, you can do so from by selecting <strong>Email Settings</strong> in your Creator's Room."
+msgstr "Eğer tekrar etkinleştirmek istiyorsan, Kreatör Oda'nda <strong>E-posta ayarlarına</strong> tıkla."
 
 msgid "EMAIL_SETTING_DISABLED_FINISH_FORMAT"
-msgstr "You've disabled '%s' emails."
+msgstr "'%s'den gelen e-postaları devre dışı bıraktın."
 
 msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
-msgstr "The link you followed has expired."
+msgstr "Tıkladığın linkin süresi doldu."
 
 msgid "TYPE_SERVICE_UPDATE_NAME"
-msgstr "Service Updates"
+msgstr "Hizmet güncellemeleri"
 
 msgid "TYPE_SERVICE_UPDATE_DESC"
-msgstr "Important updates about Sudomemo's status or availability related to your account"
+msgstr "Sudomemo'nun durumuna ve hesabının erişilebilirliğine dair önemli güncellemeler"
