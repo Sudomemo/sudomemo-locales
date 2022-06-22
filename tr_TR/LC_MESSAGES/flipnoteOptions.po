@@ -4,55 +4,55 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "FLIPNOTE_OPTIONS"
-msgstr "Flipnote Options"
+msgstr "Flipnote Ayarları"
 
 msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
-msgstr "You must be logged in to view this page."
+msgstr "Bu sayfayı görüntülemek için oturumun açık olmalı."
 
 msgid "HEADER_OPTION"
-msgstr "Option"
+msgstr "Seçenek"
 
 msgid "HEADER_STATUS"
-msgstr "Status"
+msgstr "Durum"
 
 msgid "OPTION_NAME_SMOOTH"
-msgstr "Smoothing"
+msgstr "Pürüzsüzleştir"
 
 msgid "OPTION_DESC_SMOOTH"
-msgstr "Lines, curves, and edges are smoothed for a more natural look on Sudomemo Theatre."
+msgstr "Çizgiler, kıvrımlar ve köşeler, Sudomemo Tiyatrosu'nda daha doğal bir görüntüsü olması için pürüzsüzleştirilmiştir."
 
 msgid "FLIPNOTE_URL_IS"
-msgstr "Flipnote URL:"
+msgstr "Flipnote URL'i:"
 
 msgid "ENABLE_SMOOTHING"
-msgstr "Enable smoothing"
+msgstr "Pürüzsüzleştirmeye izin ver"
 
 msgid "DISABLE_SMOOTHING"
-msgstr "Disable smoothing"
+msgstr "Pürüzsüzleştirmeyi devre dışı bırak"
 
 msgid "ON"
-msgstr "On"
+msgstr "Açık"
 
 msgid "OFF"
-msgstr "Off"
+msgstr "Kapalı"
 
 msgid "CITIZENSHIP_REQUIRED"
-msgstr "You'll need Sudomemo Citizenship to use this feature."
+msgstr "Bu özelliği kullanabilmen için Sudomemo Vatandaşlığı gerekli."
 
 msgid "PLUS_REQUIRED"
-msgstr "You'll need Sudomemo Plus to use this feature."
+msgstr "Bu özelliği kullanabilmen için Sudomemo Plus gerekli."
 
 msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
-msgstr "Tap on an option's status to view or change it."
+msgstr "Bir ayarın yönetmek için statüsüne tıkla."
 
 msgid "OPTION_NAME_FORCE_44K_BITRATE"
-msgstr "Enhanced audio"
+msgstr "Sesi düzelt"
 
 msgid "OPTION_DESC_FORCE_44K_BITRATE"
-msgstr "Sudomemo will try to make your audio sound crisper and cleaner for Sudomemo Theatre."
+msgstr "Sudomemo, Flipnote Tiyatrosu için sesini daha düzgün ve belirgin hale getirecektir."
 
 msgid "ENABLE_AUDIO_ENHANCEMENT"
-msgstr "Enable audio enhancement"
+msgstr "Ses düzeltimine izin ver"
 
 msgid "DISABLE_AUDIO_ENHANCEMENT"
-msgstr "Disable audio enhancement"
+msgstr "Ses düzeltimini devre dışı bırak"
