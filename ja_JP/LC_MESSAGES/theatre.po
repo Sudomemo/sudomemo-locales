@@ -517,7 +517,7 @@ msgid "SEARCH"
 msgstr "検索"
 
 msgid "SEARCH_PAGE_FORM_PLACEHOLDER"
-msgstr "ユーザー名、うごメモIDまたはチャンネル名"
+msgstr "Username, FSID, song, artist, or channel"
 
 msgid "SEARCH_PAGE_FUZZY_SEARCH_TIP"
 msgstr "ヒント：例えば「ÄuらtÎn」を探す場合には「Austin」と入力しても見つけることができます"

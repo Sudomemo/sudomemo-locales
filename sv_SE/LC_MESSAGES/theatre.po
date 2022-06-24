@@ -494,7 +494,7 @@ msgid "SEARCH_SUDOMEMO"
 msgstr "Sök Sudomemo"
 
 msgid "SEARCH_PAGE_FORM_PLACEHOLDER"
-msgstr "Användarnamn, FSID, eller kanal"
+msgstr "Username, FSID, song, artist, or channel"
 
 msgid "SEARCH_PAGE_FUZZY_SEARCH_TIP"
 msgstr "Tips: Du kan ange till exepel 'Austin' och hitta resultat som 'ÄuらtÎn'"

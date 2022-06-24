@@ -494,7 +494,7 @@ msgid "SEARCH_SUDOMEMO"
 msgstr "Sudomemo durchsuchen"
 
 msgid "SEARCH_PAGE_FORM_PLACEHOLDER"
-msgstr "Benutzername, FSID oder Kanal"
+msgstr "Username, FSID, song, artist, or channel"
 
 msgid "SEARCH_PAGE_FUZZY_SEARCH_TIP"
 msgstr "Tipp: Mit der Suchanfrage für z.B 'Austin' erhälst du ebenfalls Resultate wie 'ÄuらtÎn'."
