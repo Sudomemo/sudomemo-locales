@@ -517,7 +517,7 @@ msgid "SEARCH"
 msgstr "Rechercher"
 
 msgid "SEARCH_PAGE_FORM_PLACEHOLDER"
-msgstr "Username, FSID, song, artist, or channel"
+msgstr "Nom d'utilisateur, FSID, chanson, artiste, ou chaîne"
 
 msgid "SEARCH_PAGE_FUZZY_SEARCH_TIP"
 msgstr "Astuce : vous pouvez entrer des choses comme 'Austin' et trouver des résultats comme 'ÄuらtÎn'"
@@ -1007,14 +1007,14 @@ msgstr "En savoir plus"
 msgid "CONTINUE"
 msgstr "Continue"
 msgid "SEE_MORE"
-msgstr "See more"
+msgstr "Voir plus"
 
 msgid "USERS"
-msgstr "Users"
+msgstr "Utilisateurs"
 
 msgid "SONGS"
-msgstr "Songs"
+msgstr "Chansons"
 
 msgid "SONG_ARTISTS"
-msgstr "Song Artists"
+msgstr "Interprètes"
 
