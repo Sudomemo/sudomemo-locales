@@ -4,25 +4,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "YOU_GOT_AN_ITEM"
-msgstr "You got an item!"
+msgstr "アイテムをゲットしました！"
 
 msgid "CONTINUE"
-msgstr "Continue"
+msgstr "次へ"
 
 msgid "ITEM_NAME_banana"
-msgstr "Banana"
+msgstr "バナナ"
 
 msgid "ITEM_DESC_banana"
-msgstr "Not to be confused with a plantain."
+msgstr "プランテンと間違えやすいので注意。"
 
 msgid "ITEM_USE_banana"
-msgstr "You peel the banana."
+msgstr "バナナをむきました。"
 
 msgid "ITEM_NAME_peeled_banana"
-msgstr "Peeled Banana"
+msgstr "むかれたバナナ"
 
 msgid "ITEM_DESC_peeled_banana"
-msgstr "Not to be confused with a plan-... Why'd you peel it like that?"
+msgstr "プランテンと間違えやす... なんでそうむいたの？"
 
 msgid "ITEM_USE_peeled_banana"
-msgstr "You eat the banana."
+msgstr "バナナを食べました。"
