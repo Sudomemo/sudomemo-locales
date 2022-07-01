@@ -4,31 +4,31 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "INVENTORY"
-msgstr "Inventory"
+msgstr "インベントリー"
 
 msgid "TICKETS"
-msgstr "Tickets"
+msgstr "チケット"
 
 msgid "ITEMS"
-msgstr "Items"
+msgstr "アイテム"
 
 msgid "PETS"
-msgstr "Pets"
+msgstr "ペット"
 
 msgid "DECOR"
-msgstr "Decor"
+msgstr "デコ"
 
 msgid "PREV"
-msgstr "Prev"
+msgstr "前へ"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "次へ"
 
 msgid "USE_ITEM"
-msgstr "Use item"
+msgstr "アイテムを使う"
 
 msgid "USE"
-msgstr "Use"
+msgstr "使う"
 
 msgid "REDEEM"
-msgstr "Redeem"
+msgstr "受け取る"
