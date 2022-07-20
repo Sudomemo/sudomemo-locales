@@ -18,7 +18,7 @@ msgid "SUDOMEMO_SHOP"
 msgstr "Sudomemo Shop"
 
 msgid "SUDOMEMO_SHOP_META_DESCRIPTION"
-msgstr "Sudomemo Shop: Sudomemo-Artikel, Tickets für Sudomemo Plus sowie Sterne und anderen spaßigen Produkten!"
+msgstr "Sudomemo Shop: Sudomemo-Artikel, Tickets für Sudomemo Plus sowie Sterne und andere spaßige Produkte!"
 
 msgid "DEFAULT_META_DESCRIPTION"
 msgstr "Sudomemo: Teile deine Flipnotes mit der Welt! Für Nintendo DSi und Nintendo 3DS."
@@ -108,7 +108,7 @@ msgstr "FSID"
 
 # Japanese translation should also be be うごメモID here
 msgid "FLIPNOTE_STUDIO_ID"
-msgstr "Flipnote-Studio-ID"
+msgstr "Flipnote Studio ID"
 
 msgid "GENRE"
 msgstr "Genre"
@@ -405,7 +405,7 @@ msgid "REGION_AMERICAS"
 msgstr "Amerika"
 
 msgid "REGION_EUROPE_AND_OCEANIA"
-msgstr "Europa and Ozeanien"
+msgstr "Europa und Ozeanien"
 
 msgid "REGION_JAPAN"
 msgstr "Japan"
@@ -415,16 +415,16 @@ msgid "REGION_UNKNOWN"
 msgstr "Unbekannt"
 
 msgid "SHARE_ON_FACEBOOK"
-msgstr "Über Facebook teilen"
+msgstr "Auf Facebook teilen"
 
 msgid "SHARE_ON_TWITTER"
-msgstr "Über Twitter teilen"
+msgstr "Auf Twitter teilen"
 
 msgid "SHARE_ON_TUMBLR"
-msgstr "Über Tumblr teilen"
+msgstr "Auf Tumblr teilen"
 
 msgid "SHARE_ON_REDDIT"
-msgstr "Übrr Reddit teilen"
+msgstr "Auf Reddit teilen"
 
 msgid "VIEWPAGE_SPINOFFS"
 msgstr "Spin-Offs"
@@ -483,7 +483,7 @@ msgstr "%s's ★e stammen aus:"
 
 # # Recent comments on their Flipnotes
 msgid "PROFILE_RECENT_COMMENTS"
-msgstr "Rezente Kommentare"
+msgstr "Neue Kommentare"
 
 # # channels that the user posts in most often
 msgid "PROFILE_USER_POSTS_IN"
@@ -494,10 +494,10 @@ msgid "SEARCH_SUDOMEMO"
 msgstr "Sudomemo durchsuchen"
 
 msgid "SEARCH_PAGE_FORM_PLACEHOLDER"
-msgstr "Username, FSID, song, artist, or channel"
+msgstr "Benutzername, FSID, Song, Song-Künstler, oder Kanal"
 
 msgid "SEARCH_PAGE_FUZZY_SEARCH_TIP"
-msgstr "Tipp: Mit der Suchanfrage für z.B 'Austin' erhälst du ebenfalls Resultate wie 'ÄuらtÎn'."
+msgstr "Tipp: Mit der Suchanfrage für z.B 'Austin' erhältst du ebenfalls Resultate wie 'ÄuらtÎn'."
 
 msgid "SEARCH_PAGE_NO_RESULTS_FOUND"
 msgstr "Keine Resultate gefunden."
@@ -561,7 +561,7 @@ msgid "EDIT_PAGE_ABOUT_MUSICMATCH_3"
 msgstr "Bei der Aktualisierung des Songs lernt MusicMatch dazu, um zukünftig genauere Resultate zum Flipnote-Audio erzielen zu können."
 
 msgid "EDIT_PAGE_MUSICMATCH_NO_BGM"
-msgstr "Dein Flipnote enthält kein Hintergrundaudio."
+msgstr "Dein Flipnote enthält kein Hintergrund-Audio."
 
 msgid "EDIT_PAGE_MUSICMATCH_UNMATCHED"
 msgstr "MusicMatch konnte keinen mit deinem Flipnote übereinstimmenden Song finden."
@@ -623,7 +623,7 @@ msgid "CHANNEL_CAT_NAME_RESOURCES"
 msgstr "Ressourcen"
 
 msgid "CHANNEL_CAT_NAME_PERSONAL"
-msgstr "Persönliches"
+msgstr "Persönlich"
 
 msgid "CHANNEL_CAT_NAME_WEEKLY_TOPIC"
 msgstr "Wochen-Thema"
@@ -643,7 +643,7 @@ msgid "TICKETS"
 msgstr "Tickets"
 
 msgid "SUDOMEMO_SHOP_ABOUT_TICKETS_1"
-msgstr "Tickets sind tolle Sudomemo-Items, welche du eintauschen kannst gegen Sterne, Sudomemo Plus und mehr!"
+msgstr "Tickets sind tolle Sudomemo-Items, welche du gegen Sterne, Sudomemo Plus und mehr eintauschen kannst!"
 
 msgid "SUDOMEMO_SHOP_ABOUT_TICKETS_2"
 msgstr "Wenn du ein Ticket hast, kannst du es in deinem Ersteller-Raum einlösen, indem du \"Einlösen\" antippst. Du kannst es andernfalls an einen Freund weiterverschenken!"
@@ -660,7 +660,7 @@ msgid "LOGIN_FAILED_CHECK_DETAILS"
 msgstr "Anmeldung fehlgeschlagen. Überprüfe deine Eingaben und versuche es erneut."
 
 msgid "LOGIN_PLACEHOLDER_USERNAME"
-msgstr "Email der Flipnote-Studio-ID"
+msgstr "Email der Flipnote Studio ID"
 
 msgid "LOGIN_PLACEHOLDER_PASSWORD"
 msgstr "Passwort"
@@ -694,13 +694,13 @@ msgid "YOUTUBE"
 msgstr "YouTube"
 
 msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
-msgstr "Konfiguriere deinen verlinkten YouTube-Kanal und Einstellungen zu hochgeladenen Flipnote."
+msgstr "Konfiguriere deinen verbundenen YouTube-Kanal und Einstellungen zu hochgeladenen Flipnote."
 
 msgid "YOUTUBE_CONNECT_INTRO"
-msgstr "Das Verlinken deines YouTube-Kanals erlaubt es dir, Flipnote direkt auf der YouTube-Plattform zu teilen!"
+msgstr "Das Verbinden deines YouTube-Kanals erlaubt es dir, Flipnotes direkt auf der YouTube-Plattform zu teilen!"
 
 msgid "YOUTUBE_LINK_PROMPT"
-msgstr "Verlinke deinen YouTube-Kanal, um dort Flupnotes hochzuladen."
+msgstr "Verbinde deinen YouTube-Kanal, um dort Flipnotes hochzuladen."
 
 msgid "YOUTUBE_RECONNECT_PROMPT"
 msgstr "Die Verbindung zu deinem Kanal ist veraltet. Zum Fortfahren erneut verbinden."
@@ -715,7 +715,7 @@ msgid "YOUTUBE_ACCOUNT_VERIFIED"
 msgstr "Bestätigtes Konto"
 
 msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
-msgstr "Dein YouTube-Konto ist nicht bestätigt. Einige Features werden nicht komplett funktionieren, wie Video-Thumbnails oder das Posten von Flipnotes mit einer Lànge von über 15 Minuten."
+msgstr "Dein YouTube-Konto ist nicht bestätigt. Einige Features werden nicht komplett funktionieren, wie Video-Thumbnails oder das Posten von Flipnotes mit einer Länge von über 15 Minuten."
 
 msgid "YOUTUBE_ACCOUNT_VERIFICATION_FIX_NOW"
 msgstr "Jetzt korrigieren"
@@ -723,7 +723,7 @@ msgstr "Jetzt korrigieren"
 # YouTube metadata
 # Extra description text: will be placed at the end of your video descriptions. 
 msgid "YOUTUBE_DEFAULT_SETTINGS_EXPLANATION"
-msgstr "Diese Einstellungen werden automatisch eingefüllt, wenn du ein Flipnote von deinem Nintendo DSi oder 3DS hochlädst. Lädst du von Sudomemo Theatre aus hoch, wirst du zur Bestätigung oder Änderung jener Einstellungen zugewiesen, bevor das Hochladen stattfindet."
+msgstr "Diese Einstellungen werden automatisch eingefüllt, wenn du ein Flipnote von deinem Nintendo DSi oder 3DS hochlädst. Lädst du von Sudomemo Theatre aus hoch, wirst du zur Bestätigung oder Änderung jener Einstellungen angewiesen, bevor das Hochladen stattfindet."
 
 msgid "YOUTUBE_EXTRA_DESCRIPTION_TEXT"
 msgstr "Zusätzliche Beschreibung"
@@ -744,7 +744,7 @@ msgid "YOUTUBE_LOOP_COUNT"
 msgstr "Wiederholungen"
 
 msgid "YOUTUBE_LOOP_COUNT_EXPLANATION"
-msgstr "Anzahl der Wiederholungen des Flipnotes im Video. Wähle 1, um das Flipnote nur 1-Mal anzuspielen."
+msgstr "Anzahl der Wiederholungen des Flipnotes im Video. Wähle 1, um das Flipnote nur 1-Mal abzuspielen."
 
 msgid "YOUTUBE_VISIBILITY"
 msgstr "Sichtbarkeit"
@@ -764,16 +764,16 @@ msgid "HEADER_UPLOAD_TO_YOUTUBE"
 msgstr "Zu YouTube hochladen"
 
 msgid "LINK_REQUIRED_BEFORE_UPLOAD"
-msgstr "Du benötigst einen Link zu deinem YouTube-Kanal, um dein Flipnote dort hochzuladen."
+msgstr "Du benötigst eine Verbindung zu deinem YouTube-Kanal, um dein Flipnote dort hochzuladen."
 
 msgid "BTN_GO_TO_SETTINGS"
 msgstr "Zu Einstellungen"
 
 msgid "UPLOAD_OPTIONS"
-msgstr "Hochlad-Optionen"
+msgstr "Hochlade-Optionen"
 
 msgid "YOUTUBE_TERMS_AGREEMENT_NOTE"
-msgstr "Indem du deine Videos auf Youtube hochlädst, stimmst du den Nutzungsbedingungen und Community-Rechtlinien von YouTube zu."
+msgstr "Indem du deine Videos auf Youtube hochlädst, stimmst du den Nutzungsbedingungen und Community-Richtlinien von YouTube zu."
 
 msgid "SUBMIT"
 msgstr "Einreichen"
@@ -787,13 +787,13 @@ msgstr "Dein Flipnote wartet auf das Hochladen. Komme in ein paar Minuten wieder
 
 # Added to the queue at: 2020-07-08 02:46:38
 msgid "YOUTUBE_ADDED_TO_QUEUE_AT"
-msgstr "zur Warteschleife hinzugefügt am:"
+msgstr "zur Warteschlange hinzugefügt am:"
 
 msgid "YOUTUBE_STATUS_TRACKER_NEW"
 msgstr "Neu"
 
 msgid "YOUTUBE_STATUS_TRACKER_PROCESSING"
-msgstr "Verarbeiten"
+msgstr "Wird verarbeitet"
 
 msgid "YOUTUBE_STATUS_TRACKER_DONE"
 msgstr "Fertig!"
@@ -802,7 +802,7 @@ msgid "YOUTUBE_STATUS_WAITING_TO_BE_PROCESSED"
 msgstr "Dein Flipnote wartet auf die Verarbeitung."
 
 msgid "YOUTUBE_STATUS_BEING_PROCESSED"
-msgstr "Dein FLipnote wird gerade verarbeitet."
+msgstr "Dein Flipnote wird gerade verarbeitet."
 
 msgid "YOUTUBE_STATUS_COMPLETE"
 msgstr "Hochladen abgeschlossen!"
@@ -811,22 +811,22 @@ msgid "YOUTUBE_STATUS_FAILED_GONE"
 msgstr "Dein Flipnote wurde vor dem Fertigstellen des Hochladens entfernt."
 
 msgid "YOUTUBE_STATUS_FAILED_AUTH"
-msgstr "Das Hochladen ist aufgrund eines Bestätigungsfehlers fehlgeschlagen."
+msgstr "Das Hochladen ist aufgrund eines Authentifizierungsfehlers fehlgeschlagen."
 
 msgid "YOUTUBE_STATUS_FAILED_SERVICE_ERROR"
 msgstr "Das Hochladen ist aufgrund eines Dienstfehlers fehlgeschlagen."
 
 msgid "YOUTUBE_STATUS_FAILED_CLIENT_ERROR"
-msgstr "Das Hochladen ist aufgrund eines Klientenfehlers fehlgeschlagen."
+msgstr "Das Hochladen ist aufgrund eines Client-Fehlers fehlgeschlagen."
 
 msgid "YOUTUBE_STATUS_FAILED_UNEXPECTED_ERROR"
-msgstr "Ein unbekannter Fehler trat beim Hochladen hervor."
+msgstr "Ein unbekannter Fehler trat beim Hochladen auf."
 
 msgid "YOUTUBE_STATUS_FAILED_UNKNOWN"
 msgstr "Das Hochladen ist aus einem unbekanntem Grund fehlgeschlagen."
 
 msgid "YOUTUBE_STATUS_PAUSED_GLOBAL_QUOTA"
-msgstr "Unsere globale Nutzerquote wurde übersteigt. Das Hochladen könnte daher nun weitaus länger dauern."
+msgstr "Unsere globale Nutzerquote wurde überschritten. Das Hochladen könnte daher nun weitaus länger dauern."
 
 msgid "YOUTUBE_WATCH_NOW_AT"
 msgstr "Jetzt anschauen:"
@@ -857,7 +857,7 @@ msgid "YOUTUBE_UPLOAD_HISTORY"
 msgstr "Hochlade-Verlauf"
 
 msgid "YOUTUBE_UPLOAD_HISTORY_CLICK_ICON_TO_TRACK"
-msgstr "Klicke das Status-Symbol links, um den zeitechten Upload Tracker deines Videos einzusehen!"
+msgstr "Klicke das Status-Symbol links, um den Live-Upload-Tracker deines Videos einzusehen!"
 
 # We may need to limit uploads per day depending on our API quota usage rate
 msgid "YOUTUBE_UPLOAD_LIMIT"
@@ -870,55 +870,55 @@ msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_UNLIMITED_NOTE"
 msgstr "Sudomemo Plus-Mitglieder können unbegrenzt viele Videos am Tag hochladen."
 
 msgid "YOUTUBE_UPLOAD_LIMIT_CURRENT"
-msgstr "Bis jetzt hast du heute %s Videos hochgeladen."
+msgstr "Du hast heute %s Videos hochgeladen."
 
 msgid "YOUTUBE_UPLOAD_LIMIT_EXCEEDED"
 msgstr "Bis morgen kannst du keine weiteren Videos hochladen."
 
 msgid "SETTINGS"
-msgstr "Einstelungen"
+msgstr "Einstellungen"
 
 msgid "PRIVACY_POLICY"
-msgstr "Datenschutzrechtlinien"
+msgstr "Datenschutzrichtlinien"
 
 msgid "YOUTUBE_STATUS_FAILED_THUMB"
 msgstr "Dein Video wurde erfolgreich hochgeladen, jedoch gab es ein Problem beim Hochladen des Thumbnails."
 
 msgid "YOUTUBE_CHECK_FEATURES_THUMB"
-msgstr "Dein YouTube-Kanal scheint nich vollständig bestätigt zu sein. Für weitere Information, prüfe den Status von Individualisierten Thumbnails hier:"
+msgstr "Dein YouTube-Kanal scheint nicht vollständig bestätigt zu sein. Für weitere Information, prüfe den Status von Individualisierten Thumbnails hier:"
 
 msgid "YOUTUBE_REFRESH_ACCOUNT"
 msgstr "Konto aktualisieren"
 
 msgid "YOUTUBE_UNLINK_ACCOUNT"
-msgstr "Verlinkung aufheben"
+msgstr "Verbindung aufheben"
 
 msgid "YOUTUBE_UNLINK_ACCOUNT_CONFIRM"
-msgstr "Bist du sicher, dass du die Verlinkung aufheben möchtest?"
+msgstr "Bist du sicher, dass du die Verbindung aufheben möchtest?"
 
 msgid "VERIFIED_USER"
 msgstr "Bestätigter Nutzer"
 
 msgid "SHARE_ON_WHATSAPP"
-msgstr "Über WhatsApp teilen"
+msgstr "Auf WhatsApp teilen"
 
 # This refers to Discord, which is a chat app.
 msgid "DISCORD"
 msgstr "Discord"
 
 msgid "DISCORD_HOW_TO_LINK"
-msgstr "Wie man verlinkt?"
+msgstr "Wie verbinden?"
 
 msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
 msgstr "Nachdem du dem Sudomemo Discord-Server beigetreten bist, kopiere dies und schicke es in den Chat."
 
 # Connected since December 27th, 2020
 msgid "DISCORD_LINKED_ON_DATE"
-msgstr "Verlinkt seit %s"
+msgstr "Verbunden seit %s"
 
 # Do not translate ".sudo unlink"
 msgid "HOW_TO_UNLINK_DISCORD"
-msgstr "Um die Verlinkung deines Discord-Accounts aufzuheben, gib Folgendes in den Chat ein: .sudo unlink"
+msgstr "Um die Verbindung deines Discord-Accounts aufzuheben, gib Folgendes in den Chat ein: .sudo unlink"
 
 msgid "BTN_JOIN_DISCORD"
 msgstr "Trete Discord bei"
@@ -942,13 +942,13 @@ msgid "PASS_CHANGE_URL_EXPIRED"
 msgstr "Die besuchte URL ist abgelaufen."
 
 msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
-msgstr "Keinen Benutzer mit angegebener Flipnote-Studio-ID oder Email-Addresse gefunden"
+msgstr "Keinen Benutzer mit angegebener Flipnote Studio-ID oder Email-Adresse gefunden"
 
 msgid "NO_EMAIL_ON_FILE"
-msgstr "Keine Email-Addresse registriert -- kontaktiere Sudomemo Support"
+msgstr "Keine Email-Adresse registriert -- kontaktiere Sudomemo Support"
 
 msgid "PASSWORD_RESET_SENT"
-msgstr "Eine Passwort-Zurücksetzung wurde an die registrierte Email-Addresse gesendet."
+msgstr "Eine Passwort-Zurücksetzung wurde an die registrierte Email-Adresse gesendet."
 
 msgid "FORGOT_YOUR_PASSWORD"
 msgstr "Passwort vergessen?"
@@ -957,7 +957,7 @@ msgid "SUDOMEMO_USER"
 msgstr "Sudomemo-Nutzer"
 
 msgid "FLIPNOTE_ARCHIVE_BUTTON_TOGGLE"
-msgstr "Show link to archived Flipnote Hatena content from my profile Link zu archiviertem Inhalt meines Profils v. Flipnote Hatena"
+msgstr "Link zu archiviertem Inhalt meines Profils von Flipnote Hatena anzeigen"
 
 msgid "FLIPNOTE_ARCHIVE_SETTINGS"
 msgstr "Archiv-Einstellungen"
@@ -966,7 +966,7 @@ msgid "FLIPNOTE_ARCHIVE_PROFILE_AVAILABLE"
 msgstr "Dein Flipnote Hatena-Profil ist nun zugänglich durch unser Flipnote-Archiv-Vorschau-Programm! Du kannst deine alten Flipnotes auf Sudomemo Theatre anschauen."
 
 msgid "FLIPNOTE_ARCHIVE_PROFILE_SETTING_INFORMATION"
-msgstr "While logged in, your archive link will always be shown on your page. You can choose whether or not to make this visible to other users below.Während du eingeloggt bist, ist dein Archivlink auf deiner Seite sichtbar für andere Nutzer. Weiter unten kannst du diese Option aus-/einschalten."
+msgstr "Während du eingeloggt bist, ist dein Archivlink auf deiner Seite sichtbar für andere Nutzer. Weiter unten kannst du diese Option aus-/einschalten."
 
 msgid "FLIPNOTE_ARCHIVE_PROFILE_NOT_AVAILABLE"
 msgstr "Ein archiviertes Flipnote Hatena-Konto gibt es nicht für diesen Nutzer."
@@ -1005,16 +1005,16 @@ msgid "LEARN_MORE"
 msgstr "Mehr erfahren"
 
 msgid "CONTINUE"
-msgstr "Continue"
+msgstr "Weiter"
 msgid "SEE_MORE"
-msgstr "See more"
+msgstr "Mehr sehen"
 
 msgid "USERS"
-msgstr "Users"
+msgstr "Nutzer"
 
 msgid "SONGS"
 msgstr "Songs"
 
 msgid "SONG_ARTISTS"
-msgstr "Song Artists"
+msgstr "Song-Künstler"
 

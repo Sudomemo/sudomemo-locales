@@ -52,7 +52,7 @@ msgid "USER_HAS_BEEN_UNBLOCKED"
 msgstr "Dieser Benutzer wurde entblockt."
 
 msgid "COMMENTING_ENABLED_AFTER_UNBLOCK"
-msgstr "Nachdem dieser Beutzer entblockt wurde, kann er wieder auf deinen Flipnotes kommentieren, wenn er Dich nicht ebenfalls blockiert hat."
+msgstr "Nachdem dieser Benutzer entblockt wurde, kann er wieder auf deinen Flipnotes kommentieren, wenn er Dich nicht ebenfalls blockiert hat."
 
 msgid "UNBLOCK_WARNING_ONE_DAY_THRESHOLD"
 msgstr "Hast du einen Benutzer entblockt, musst du 24 Stunden warten, bis du ihn wieder blockieren kannst."

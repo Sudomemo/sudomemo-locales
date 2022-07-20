@@ -34,7 +34,7 @@ msgstr "Sonstiges"
 
 # # continued message...
 msgid "REMOVAL_REASON_HEADER"
-msgstr "Dieser Inhalt wurde wegen mindestens eine der folgenden Gründe entfernt:"
+msgstr "Dieser Inhalt wurde wegen mindestens einem der folgenden Gründe entfernt:"
 
 msgid "CONTENT_POLICY_REVIEW_INTRO"
 msgstr "Wir verstehen, dass, wenn Richtlinien auf künstlerische Entfaltung treffen, Kontext und Präsentation in Erwägung gezogen werden müssen."

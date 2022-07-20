@@ -13,16 +13,16 @@ msgid "PAGE_FORMAT"
 msgstr "Seite %d"
 
 msgid "SEARCH"
-msgstr "Suchen"
+msgstr "Suche"
 
 msgid "USERNAME"
-msgstr "Nutzername"
+msgstr "Benutzername"
 
 msgid "RESULTS"
 msgstr "Ergebnisse"
 
 msgid "SEARCH_USERNAME"
-msgstr "Benutzername suchen"
+msgstr "Benutzername"
 
 msgid "PLEASE_ENTER_USERNAME"
 msgstr "Bitte gib einen Benutzernamen ein"
@@ -40,7 +40,7 @@ msgid "SEARCH_SHORT_KEY"
 msgstr "Flipnote-ID"
 
 msgid "SHORT_KEY_NO_RESULTS"
-msgstr "Keine Ergebnisse gefunden"
+msgstr "Keine Flipnotes gefunden"
 
 msgid "SHORT_KEY_FORMAT_GUIDE"
 msgstr "Du findest nicht, wonach du suchst? Du hast womöglich die falsche Flipnote-ID eingegeben. Flipnote-IDs betragen eine Länge von 6 Zeichen und können in den Details von Flipnotes gefunden werden."
@@ -52,16 +52,16 @@ msgid "SEARCH_MUSICMATCH"
 msgstr "MusicMatch"
 
 msgid "SEARCH_MUSIC_BY_SONG"
-msgstr "By Song"
+msgstr "Nach Song"
 
 msgid "SEARCH_MUSIC_BY_ARTIST"
-msgstr "By Artist"
+msgstr "Nach Künstler"
 
 msgid "SEARCH_MUSIC_BY_GENRE"
-msgstr "By Genre"
+msgstr "Nach Musikrichtung"
 
 msgid "PAGE"
-msgstr "Page"
+msgstr "Seite"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d of %d"
+msgstr "%d von %d"

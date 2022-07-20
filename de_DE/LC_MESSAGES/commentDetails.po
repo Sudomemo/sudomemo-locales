@@ -4,25 +4,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "COMMENT_DETAILS"
-msgstr "Details"
+msgstr "Kommentardetails"
 
 msgid "MESSAGE_DETAILS"
-msgstr "Details"
+msgstr "Nachrichtendetails"
 
 msgid "AUTHOR"
 msgstr "Autor"
 
 msgid "COMMENT_BY_FORMAT"
-msgstr "Gepostet von %s"
+msgstr "Kommentar von %s"
 
 msgid "CHAT_MESSAGE_FROM_FORMAT"
-msgstr "Gepostet von %s"
+msgstr "Chatnachricht von %s"
 
 msgid "MESSAGE_FROM_FORMAT"
-msgstr "Geschrieben von %s"
+msgstr "Nachricht von %s"
 
 msgid "FLIPNOTE_BY_FORMAT"
-msgstr "Hochgeladen von %s"
+msgstr "Flipnote von %s"
 
 msgid "COMMENT_ID"
 msgstr "Kommentar-ID"
@@ -46,10 +46,10 @@ msgid "REPORT_CONTENT"
 msgstr "Melden"
 
 msgid "COMMENT_HIDDEN_UNKNOWN"
-msgstr "Kommentar auf Nachfrage versteckt"
+msgstr "Kommentar auf Anfrage versteckt"
 
 msgid "COMMENT_HIDDEN_SELF"
-msgstr "Kommentar durch Absender versteckt"
+msgstr "Kommentar durch Autor versteckt"
 
 msgid "COMMENT_HIDDEN_RECIPIENT"
 msgstr "Kommentar durch Flipnote-Ersteller versteckt"

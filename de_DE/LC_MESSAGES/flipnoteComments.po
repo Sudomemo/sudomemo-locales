@@ -46,10 +46,10 @@ msgid "DUPLICATE_COMMENT_FAILED"
 msgstr "Dieser Kommentar wurde schon in Sudomemo gepostet."
 
 msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "Dein Kommentar konnte nicht gepostet werden, da du von Sudomemo gebannt wurdest."
+msgstr "Dein Kommentar konnte nicht gepostet werden, da dein Konto von Sudomemo suspendiert wurde."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Bitte bestätige deine Email-Addresse vor dem Hochladen."
+msgstr "Bitte bestätige deine Email-Adresse vor dem Hochladen."
 
 msgid "MODERATOR"
 msgstr "Moderator"

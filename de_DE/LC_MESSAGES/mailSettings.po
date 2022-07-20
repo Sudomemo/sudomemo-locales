@@ -97,7 +97,7 @@ msgid "DISABLE_CONFIRMATION_FORMAT"
 msgstr "Willst du wirklich die E-Mails für '%s' deaktivieren?"
 
 msgid "REENABLE_INSTRUCTIONS"
-msgstr "Willst du sie wieder aktivieren, wähle die Option <strong>Mail-Einstellungen</strong> auf deiner Creator-Seite."
+msgstr "Willst du sie wieder aktivieren, wähle die Option <strong>Mail-Einstellungen</strong> in deinem Ersteller-Raum."
 
 msgid "EMAIL_SETTING_DISABLED_FINISH_FORMAT"
 msgstr "Du hast die E-Mails für '%s' deaktiviert."
@@ -109,4 +109,4 @@ msgid "TYPE_SERVICE_UPDATE_NAME"
 msgstr "Service-Neuigkeiten"
 
 msgid "TYPE_SERVICE_UPDATE_DESC"
-msgstr "Wichtige Neuigkeiten bezüglich Sudomemo's Erreichbarkeit, die deinen Account betreffen"
+msgstr "Wichtige Neuigkeiten bezüglich Sudomemo's Status oder Erreichbarkeit, die deinen Account betreffen"

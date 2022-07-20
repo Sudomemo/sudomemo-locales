@@ -34,19 +34,19 @@ msgid "NOTICE_REPORT_OTHER_ISSUES"
 msgstr "Dieses Formular dient ausschließlich dem Melden des Inhaltes. Um das Verhalten des Benutzers sowie sonstige Probleme zu melden, schicke bitte eine Email an unseren Support-Dienst:"
 
 msgid "REPORT_INSTRUCTIONS"
-msgstr "Bitte gib deine zusammengefasste Meinung daruber, wie der gemeldete Inhalt gegen die Nutzungsrichtlinien Sudomemos verstößt. Tippe nach dem Einreichen auf Zurück."
+msgstr "Bitte gib deine zusammengefasste Meinung darüber, wie der gemeldete Inhalt gegen die Nutzungsrichtlinien Sudomemos verstößt. Tippe nach dem Einreichen auf Zurück."
 
 msgid "NO_BLANK_REPORTS"
 msgstr "Du kannst keine leere Meldung einreichen."
 
 msgid "LIMIT_ONE_REPORT"
-msgstr "Bitte beachte, dass du diesen Inhalt nur 1-mal melden kannst. Weitere von dir eingereichte Meldungen zu diesem Inhalt werden nicht regristriert. Fasse daher bitte alles in einem Kommentar zusammen."
+msgstr "Bitte beachte, dass du diesen Inhalt nur 1-mal melden kannst. Weitere von dir eingereichte Meldungen zu diesem Inhalt werden nicht registriert. Fasse daher bitte alles in einem Kommentar zusammen."
 
 msgid "REPORT_EXPLANATION_FAILED"
 msgstr "Ein Fehler beim Einreichen der Meldung ist aufgetreten."
 
 msgid "RESTRICTED_CANCEL"
-msgstr "Du kannst diesen Inhalt nicht melden, da du von Sudomemo gebannt wurdest."
+msgstr "Du kannst diesen Inhalt nicht melden, da dein Konto von Sudomemo suspendiert wurde."
 
 msgid "HEADER_REASON"
 msgstr "Grund:"
@@ -64,7 +64,7 @@ msgid "DUPLICATE_COMMENT_FAILED"
 msgstr "Dieser Kommentar wurde schon auf Sudomemo hochgeladen."
 
 msgid "CONFIRM_EMAIL_BEFORE_REPORTING"
-msgstr "Bitte bestätige deine Email-Addresse vor dem Melden von Inhalt."
+msgstr "Bitte bestätige deine Email-Adresse vor dem Melden von Inhalt."
 
 msgid "THANKS_FOR_REPORTING"
 msgstr "Wir haben deine Meldung erhalten. Vielen Dank für deine Kooperation zur Aufrechterhaltung von Sudomemo!"
@@ -85,19 +85,19 @@ msgid "CATEGORY_NAME_harassment"
 msgstr "Belästigung"
 
 msgid "CATEGORY_DESC_harassment"
-msgstr "Mobbing, Diskrimination, Belästigung oder Beleidigung"
+msgstr "Mobbing, Diskriminierung, Belästigung oder Verleumdung"
 
 msgid "CATEGORY_NAME_fraud"
 msgstr "Betrug"
 
 msgid "CATEGORY_DESC_fraud"
-msgstr "Impersonation oder sonstiges Schwindeln"
+msgstr "Identitätsbetrug oder sonstige betrügerische Aktivitäten"
 
 msgid "CATEGORY_NAME_swearing"
-msgstr "Profanitäten"
+msgstr "Obszönitäten"
 
 msgid "CATEGORY_DESC_swearing"
-msgstr "Vulgäre Reseweise oder wiederholtes Nutzen von Kraftausdrücken"
+msgstr "Vulgäre Redeweise oder wiederholtes Nutzen von Kraftausdrücken"
 
 msgid "CATEGORY_NAME_sexual"
 msgstr "Sexuelles"

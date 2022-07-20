@@ -10,7 +10,7 @@ msgstr ""
 
 # Username was given a Nitro Booster Ticket...
 msgid "BOOST_TICKET_SUCCESS"
-msgstr "%s wurde ein Nitro Booster-Ticket zugestellt! Dieses ist fur 1 Monat Sudomemo Plus und eine spezielle Trophäe einlösbar! Hurra!"
+msgstr "%s wurde ein Nitro Booster-Ticket zugestellt! Dieses ist für 1 Monat Sudomemo Plus und eine spezielle Trophäe einlösbar! Hurra!"
 
 # Account linking
 msgid "DISCORD_LINKING_GET_STARTED"
@@ -20,13 +20,13 @@ msgid "DISCORD_LINKING_REQUIRED"
 msgstr "Das Verbinden deines Sudomemo-Kontos ist hierfür notwendig."
 
 msgid "DISCORD_LINKING_SUCCESS"
-msgstr "Dein Konto wurde erfolgreich verbunden!!"
+msgstr "Dein Konto wurde erfolgreich verbunden!"
 
 msgid "DISCORD_LINKING_UNLINKED"
 msgstr "Die Verbindung zwischen deinem Discord- und Sudomemo-Konto wurde getrennt."
 
 msgid "DISCORD_LINKING_UNLINK_NOT_LINKED_YET"
-msgstr "Dein Discord-Konto ist nicht mit deinem Suromemo-Konto verlinkt."
+msgstr "Dein Discord-Konto ist nicht mit deinem Sudomemo-Konto verlinkt."
 
 # "Invalid mode - must be one of: song, artist, genre"
 msgid "MUSICMATCH_INVALID_MODE"
@@ -39,7 +39,7 @@ msgid "MUSICMATCH_MOVIE_COUNT_SINGULAR"
 msgstr "%d Flipnote"
 
 msgid "MUSICMATCH_NO_RESULTS"
-msgstr "Hierfür wurden keine Treffer gefunden, Tut uns leid!"
+msgstr "Hierfür wurden keine Treffer gefunden. Tut uns leid!"
 
 msgid "MUSICMATCH_RESULT_HEADER_GT_MAX"
 msgstr "Die %d besten Suchergebnisse:"
@@ -52,7 +52,7 @@ msgid "MUSICMATCH_TITLE_BY_ARTIST"
 msgstr "%s von %s"
 
 msgid "REJECT_ACCOUNT_ALREADY_LINKED"
-msgstr "Du hast dein Sudomemo-Konto bereits verlinkt!"
+msgstr "Du hast dein Sudomemo-Konto bereits verbunden!"
 
 msgid "REJECT_BOOST_TICKET_COOLDOWN"
 msgstr "Du hast bereits ein Nitro Booster-Ticket in den letzten 30 Tagen erhalten! (%s)"
@@ -67,10 +67,10 @@ msgid "REJECT_INVALID_FSID"
 msgstr "Dies ist keine gültige Flipnote Studio ID!"
 
 msgid "REJECT_INVALID_LINK_TOKEN"
-msgstr "Dies ist kein gültiges Link-Token! Bitte besuche %s, um loszulegen!"
+msgstr "Dies ist kein gültiger Verbindungs-Token! Bitte besuche %s, um loszulegen!"
 
 msgid "REJECT_LINK_TOKEN_ENOENT"
-msgstr "Das vorgegebene Link-Token ist entweder abgelaufen oder existiert nicht."
+msgstr "Der vorgegebene Verbindungs-Token ist entweder abgelaufen oder existiert nicht."
 
 msgid "REJECT_NOT_NITRO_BOOSTER"
 msgstr "Du musst ein Sudomemo Nitro Booster sein, um dies zu nutzen!"
@@ -94,12 +94,12 @@ msgid "USAGE_give_plus"
 msgstr ""
 "   give_plus <FSID>\n"
 "      Vergebe Nitro Booster-Ticket (1 Monat Sudomemo Plus und eine Trophäe).\n"
-"      <FSID>: Flipnote Studio-ID"
+"      <FSID>: Flipnote Studio ID"
 
 msgid "USAGE_link"
 msgstr ""
 "   link\n"
-"      Verlinken von Sudomemo- und Discord-Konto"
+"      Verbinden von Sudomemo- und Discord-Konto"
 
 # ONLY TRANSLATE "Search Sudomemo MusicMatch" and "What you're searching for"
 msgid "USAGE_musicmatch"
