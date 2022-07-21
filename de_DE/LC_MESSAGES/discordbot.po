@@ -26,7 +26,7 @@ msgid "DISCORD_LINKING_UNLINKED"
 msgstr "Die Verbindung zwischen deinem Discord- und Sudomemo-Konto wurde getrennt."
 
 msgid "DISCORD_LINKING_UNLINK_NOT_LINKED_YET"
-msgstr "Dein Discord-Konto ist nicht mit deinem Sudomemo-Konto verlinkt."
+msgstr "Dein Discord-Konto ist nicht mit deinem Sudomemo-Konto verbunden."
 
 # "Invalid mode - must be one of: song, artist, genre"
 msgid "MUSICMATCH_INVALID_MODE"
