@@ -1,10 +1,10 @@
 msgid ""
 msgstr ""
-"Language: en_US\n"
+"Language: de_DE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "INVENTORY"
-msgstr "Inventory"
+msgstr "Inventar"
 
 msgid "TICKETS"
 msgstr "Tickets"
@@ -13,22 +13,22 @@ msgid "ITEMS"
 msgstr "Items"
 
 msgid "PETS"
-msgstr "Pets"
+msgstr "Haustiere"
 
 msgid "DECOR"
-msgstr "Decor"
+msgstr "Dekor"
 
 msgid "PREV"
-msgstr "Prev"
+msgstr "Zurück"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "Weiter"
 
 msgid "USE_ITEM"
-msgstr "Use item"
+msgstr "Item verwenden"
 
 msgid "USE"
-msgstr "Use"
+msgstr "Verwenden"
 
 msgid "REDEEM"
-msgstr "Redeem"
+msgstr "Einlösen"

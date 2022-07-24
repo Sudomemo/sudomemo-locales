@@ -34,16 +34,16 @@ msgid "FLIPNOTE_DATA_CORRUPTED"
 msgstr "Die Flipnote-Datei ist beschädigt! Versuche es später erneut."
 
 msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
-msgstr "Du wurdest stummgeschalten! Du kannst keine Chat-Nachrichten versenden, wenn du stummgeschalten wurdest."
+msgstr "Du wurdest stummgeschaltet! Du kannst keine Chat-Nachrichten versenden, während du stummgeschaltet bist."
 
 msgid "DUPLICATE_COMMENT_FAILED"
 msgstr "Dieser Kommentar wurde schon auf Sudomemo versendet."
 
 msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "Dein Kommentar konnte nicht gepostet werden, da du von Sudomemo gebannt wurdest."
+msgstr "Dein Kommentar konnte nicht gepostet werden, da dein Konto von Sudomemo suspendiert wurde."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Bitte bestätige deine Email-Addresse vor dem Hochladen."
+msgstr "Bitte bestätige deine Email-Adresse vor dem Hochladen."
 
 msgid "MODERATOR"
 msgstr "Moderator"

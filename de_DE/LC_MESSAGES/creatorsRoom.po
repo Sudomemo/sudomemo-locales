@@ -64,7 +64,7 @@ msgid "ADMIN_ACCT_BLOCKED"
 msgstr "Blockiert"
 
 msgid "ADMIN_ACCT_MUTED"
-msgstr "Stummgeschalten"
+msgstr "Stummgeschaltet"
 
 msgid "ADMIN_USER_DETAILS"
 msgstr "Details"
@@ -220,7 +220,7 @@ msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d von %d"
 
 msgid "HEADER_SUPPORT_TOKEN"
-msgstr "Support Token"
+msgstr "Support-Token"
 
 msgid "REQUEST"
-msgstr "Request"
+msgstr "Anfordern"

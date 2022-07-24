@@ -13,10 +13,10 @@ msgid "HEADER_CONFIRM_OPTIONS"
 msgstr "Optionen bestätigen"
 
 msgid "LINK_REQUIRED_BEFORE_UPLOAD"
-msgstr "Du benötigst einen Link zu deinem YouTube-Kanal, um dein Flipnote dort hochzuladen."
+msgstr "Du benötigst eine Verbindung zu deinem YouTube-Kanal, um dein Flipnote dort hochzuladen."
 
 msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
-msgstr "Dein YouTube-Konto ist nicht bestätigt. Einige Features werden nicht komplett funktionieren, wie Video-Thumbnails oder das Posten von Flipnotes mit einer Lànge von über 15 Minuten. "
+msgstr "Dein YouTube-Konto ist nicht bestätigt. Einige Features werden nicht komplett funktionieren, wie Video-Thumbnails oder das Posten von Flipnotes mit einer Länge von über 15 Minuten. "
 
 # To fix this, visit: https://flipnot.es/ytsetup
 msgid "YOUTUBE_ACCOUNT_VERIFICATION_FIX"
@@ -30,7 +30,7 @@ msgstr "Bitte gehe zurück und füge diese noch hinzu."
 
 # A URL is displayed after this:
 msgid "HOW_TO_LINK_FROM_THEATRE"
-msgstr "Um deinen YouTube-Kanal zu verlinken, besuche:"
+msgstr "Um deinen YouTube-Kanal zu verbinden, besuche:"
 
 msgid "HOW_TO_REFRESH_FROM_THEATRE"
 msgstr "Um deinen Kanal zu aktualisieren, besuche:"
@@ -58,7 +58,7 @@ msgid "YOUTUBE_LOOP_COUNT"
 msgstr "Wiederholungen"
 
 msgid "YOUTUBE_LOOP_COUNT_EXPLANATION"
-msgstr "Anzahl der Wiederholungen des Flipnotes im Video. Wähle 1, um das Flipnote nur 1-Mal anzuspielen."
+msgstr "Anzahl der Wiederholungen des Flipnotes im Video. Wähle 1, um das Flipnote nur 1-Mal abzuspielen."
 
 msgid "YOUTUBE_VISIBILITY"
 msgstr "Sichtbarkeit"
@@ -87,7 +87,7 @@ msgid "POSITION_IN_QUEUE"
 msgstr "Position in Warteschlange: %d"
 
 msgid "THEATRE_STATUS_TRACKER"
-msgstr "Hier zum zeitechten Upload Tracker:"
+msgstr "Hier zum Live-Upload-Tracker:"
 
 msgid "REVIEW_DETAILS_BEFORE_UPLOAD"
 msgstr "Bitte überprüfe diese Einstellungen vor dem Hochladen."
@@ -98,7 +98,7 @@ msgstr "Du kannst diese Optionen vor dem Hochladen ändern. Besuche dafür:"
 
 # ...please visit: https://flipnot.es/ytsetup
 msgid "SET_DEFAULTS_ON_THEATRE"
-msgstr "Um deine Grundoptionen zum Hochladen zu ändern, besuche:"
+msgstr "Um deine Voreinstellungen zum Hochladen zu ändern, besuche:"
 
 msgid "STATUS"
 msgstr "Status"
@@ -107,7 +107,7 @@ msgid "YOUTUBE_STATUS_NEW"
 msgstr "Neu"
 
 msgid "YOUTUBE_STATUS_PROCESSING"
-msgstr "Verarbeiten"
+msgstr "Wird verarbeitet"
 
 msgid "YOUTUBE_STATUS_SUCCESS"
 msgstr "Fertig!"
@@ -131,7 +131,7 @@ msgid "YOUTUBE_STATUS_COMPLETE"
 msgstr "Hochladen abgeschlossen!"
 
 msgid "YOUTUBE_STATUS_FAILED"
-msgstr "Ein Fehler ist vorgetreten. Für weitere Details, besuche: https://flipnot.es/ytsetup"
+msgstr "Ein Fehler ist aufgetreten. Für weitere Details, besuche: https://flipnot.es/ytsetup"
 
 msgid "RECONNECT_NEEDED"
 msgstr "Die Verbindung zu deinem Kanal ist veraltet."
@@ -162,7 +162,7 @@ msgid "OFF"
 msgstr "Aus"
 
 msgid "YOUTUBE_TERMS_AGREEMENT_NOTE"
-msgstr "Indem du deine Videos auf Youtube hochlädst, stimmst du den Nutzungsbedingungen und Community-Rechtlinien von YouTube zu.."
+msgstr "Indem du deine Videos auf YouTube hochlädst, stimmst du den Nutzungsbedingungen und Community-Richtlinien von YouTube zu."
 
 # We may need to limit uploads per day depending on our API quota usage rate
 msgid "YOUTUBE_UPLOAD_LIMIT"
@@ -175,14 +175,14 @@ msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_UNLIMITED_NOTE"
 msgstr "Sudomemo Plus-Mitglieder können unbegrenzt viele Videos am Tag hochladen."
 
 msgid "YOUTUBE_UPLOAD_LIMIT_CURRENT"
-msgstr "Bis jetzt hast du heute %s Videos hochgeladen."
+msgstr "Du hast heute %s Videos hochgeladen."
 
 msgid "YOUTUBE_UPLOAD_LIMIT_EXCEEDED"
 msgstr "Bis morgen kannst du keine weiteren Videos hochladen."
 
 # If the user's already uploaded it...
 msgid "FLIPNOTE_ALREADY_UPLOADED"
-msgstr "Du hast dieses Flipnote bereits auf YouTbe hochgeladen."
+msgstr "Du hast dieses Flipnote bereits auf YouTube hochgeladen."
 
 msgid "YOUTUBE_ID"
 msgstr "YouTube ID"
@@ -191,4 +191,4 @@ msgid "BTN_UPLOAD_AGAIN"
 msgstr "Erneut hochladen"
 
 msgid "YOUTUBE_STATUS_PAUSED_GLOBAL_QUOTA"
-msgstr "Unsere globale Nutzerquote wurde übersteigt. Das Hochladen könnte daher nun weitaus länger dauern."
+msgstr "Unsere globale Nutzerquote wurde überschritten. Das Hochladen könnte daher nun weitaus länger dauern."
