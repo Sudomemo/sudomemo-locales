@@ -4,10 +4,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "SET_PEN_COLOR"
-msgstr "Farbe ändern"
+msgstr "Stiftfarbe ändern"
 
 msgid "SET_PAPER_COLOR"
-msgstr "Hintergrundfarbe ändern"
+msgstr "Papierfarbe ändern"
 
 msgid "SELECT_A_COLOR"
 msgstr "Wähle eine Farbe."
