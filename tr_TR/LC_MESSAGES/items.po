@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"Language: en_US\n"
+"Language: tr_TR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "YOU_GOT_AN_ITEM"
@@ -26,3 +26,12 @@ msgstr "Not to be confused with a plan-... Why'd you peel it like that?"
 
 msgid "ITEM_USE_peeled_banana"
 msgstr "You eat the banana."
+
+msgid "ITEM_NAME_beach_ball"
+msgstr "Beach Ball"
+
+msgid "ITEM_DESC_beach_ball"
+msgstr "A great accessory for a swimming excursion."
+
+msgid "ITEM_USE_beach_ball"
+msgstr "You toss the ball around a bit."
