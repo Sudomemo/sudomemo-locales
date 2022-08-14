@@ -3,56 +3,56 @@ msgstr ""
 "Language: el_GR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "COMMENT_FAILED_USER_BANNED"
+msgstr "Η  χρηση  σας  του Sudomemo  εχει  τεθει  σε  περιορισμο."
+
+msgid "COMMENT_POST_FAILED"
+msgstr "Αποτυχια  αποστολης  σχολιου. Παρακαλω  δοκιμαστε  ξανα  σε  λιγακι."
+
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "Παρακαλω  επιβεβαιωστε  το email σας πριν να ανεβασετε."
+
+msgid "DUPLICATE_COMMENT_FAILED"
+msgstr "Αυτο  το  σχολιο  εχει  ηδη  δημοσιευθει  στο  Sudomemo."
+
+msgid "FLIPNOTE_COMMENTS_DISALLOWED"
+msgstr "Δεν  μπορειτε  να  αφησετε  σχολιο στο  συγκεκριμενο Flipnote."
+
+msgid "FLIPNOTE_DATA_CORRUPTED"
+msgstr "Τα  δεδομενα  αυτου  του Flipnote ειναι κατεστραμμενα. Παρακαλω  δοκιμαστε  ξανα  σε λιγακι."
+
 msgid "HEADER_COMMENTS"
 msgstr "Σχολια"
 
 msgid "HEADER_DETAILS"
 msgstr "Λεπτομεριεs"
 
-msgid "HEADER_PREV"
-msgstr "Προηγ"
-
 msgid "HEADER_NEXT"
 msgstr "Επομ"
+
+msgid "HEADER_PREV"
+msgstr "Προηγ"
 
 msgid "HEADER_REFRESH"
 msgstr "Ανανεωση"
 
-msgid "PAGE_FORMAT"
-msgstr "Σελιδα %d"
-
-msgid "NO_COMMENTS_YET"
-msgstr "Αυτο το Flipnote δεν εχει σχολια ακομα."
-
 msgid "LOGIN_REQUIRED_TO_POST_COMMENT"
 msgstr "Πρεπει  να  συνδεθειτε  για  να ανεβασετε  ενα  σχολιο."
 
-msgid "COMMENT_POST_FAILED"
-msgstr "Αποτυχια  αποστολης  σχολιου. Παρακαλω  δοκιμαστε  ξανα  σε  λιγακι."
+msgid "MODERATOR"
+msgstr "Διαχειριστης"
 
 msgid "NO_BLANK_COMMENTS_ALLOWED"
 msgstr "Δεν  μπορειτε  να  ανεβασετε  κενο  σχολιο."
 
-msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "Τα  δεδομενα  αυτου  του Flipnote ειναι κατεστραμμενα. Παρακαλω  δοκιμαστε  ξανα  σε λιγακι."
-
-msgid "FLIPNOTE_COMMENTS_DISALLOWED"
-msgstr "Δεν  μπορειτε  να  αφησετε  σχολιο στο  συγκεκριμενο Flipnote."
-
 msgid "NO_COMMENTS_WHILE_MUTED"
 msgstr "Εχετε  τεθει  σε mute. Δεν  μπορειτε  να  σχολιασετε."
 
-msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "Αυτο  το  σχολιο  εχει  ηδη  δημοσιευθει  στο  Sudomemo."
+msgid "NO_COMMENTS_YET"
+msgstr "Αυτο το Flipnote δεν εχει σχολια ακομα."
 
-msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "Η  χρηση  σας  του Sudomemo  εχει  τεθει  σε  περιορισμο."
-
-msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Παρακαλω  επιβεβαιωστε  το email σας πριν να ανεβασετε."
-
-msgid "MODERATOR"
-msgstr "Διαχειριστης"
+msgid "PAGE_FORMAT"
+msgstr "Σελιδα %d"
 
 msgid "SUDOMEMO_USER"
 msgstr "Χρηστης Sudomemo"

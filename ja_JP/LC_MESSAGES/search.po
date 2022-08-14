@@ -12,6 +12,12 @@ msgstr "前へ"
 msgid "NO_RESULTS_FOUND"
 msgstr "結果が見つかりませんでした"
 
+msgid "PAGE"
+msgstr "ページ"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d / %d"
+
 msgid "PAGE_FORMAT"
 msgstr "ページ %d"
 
@@ -30,6 +36,18 @@ msgstr "\"%2$s\"で%1$d件見つかりました"
 msgid "SEARCH"
 msgstr "検索"
 
+msgid "SEARCH_MUSICMATCH"
+msgstr "MusicMatch"
+
+msgid "SEARCH_MUSIC_BY_ARTIST"
+msgstr "アーティストで探す"
+
+msgid "SEARCH_MUSIC_BY_GENRE"
+msgstr "ジャンルで探す"
+
+msgid "SEARCH_MUSIC_BY_SONG"
+msgstr "楽曲で探す"
+
 msgid "SEARCH_SHORT_KEY"
 msgstr "作品ID"
 
@@ -47,21 +65,3 @@ msgstr "結果は見つかりませんでしたが、同じIDが存在します�
 
 msgid "USERNAME"
 msgstr "ユーザー名"
-
-msgid "SEARCH_MUSICMATCH"
-msgstr "MusicMatch"
-
-msgid "SEARCH_MUSIC_BY_SONG"
-msgstr "楽曲で探す"
-
-msgid "SEARCH_MUSIC_BY_ARTIST"
-msgstr "アーティストで探す"
-
-msgid "SEARCH_MUSIC_BY_GENRE"
-msgstr "ジャンルで探す"
-
-msgid "PAGE"
-msgstr "ページ"
-
-msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d / %d"

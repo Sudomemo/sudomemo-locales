@@ -3,17 +3,20 @@ msgstr ""
 "Language: tr_TR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "UPPERTITLE"
-msgstr "Kanala Gözat"
+msgid "BROWSE_BY_ALBUM"
+msgstr "Albüme göre göz atın"
 
-msgid "POST_FLIPNOTE"
-msgstr "Flipnote Gönder"
+msgid "BROWSE_BY_ARTIST"
+msgstr "Sanatçıya göre göz atın"
+
+msgid "BROWSE_BY_SONG"
+msgstr "Şarkıya göre göz atın"
+
+msgid "BROWSE_PLAYLIST"
+msgstr "Oynatma Listesine Gözat"
 
 msgid "NEXT"
 msgstr "Sonraki"
-
-msgid "PREV"
-msgstr "Öncesi"
 
 msgid "PAGE"
 msgstr "Sayfa"
@@ -21,20 +24,17 @@ msgstr "Sayfa"
 msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d ile ilgili %d"
 
-msgid "SPINOFFS"
-msgstr "yan ürünler"
+msgid "POST_FLIPNOTE"
+msgstr "Flipnote Gönder"
 
-msgid "BROWSE_BY_SONG"
-msgstr "Şarkıya göre göz atın"
-
-msgid "BROWSE_BY_ARTIST"
-msgstr "Sanatçıya göre göz atın"
-
-msgid "BROWSE_BY_ALBUM"
-msgstr "Albüme göre göz atın"
-
-msgid "BROWSE_PLAYLIST"
-msgstr "Oynatma Listesine Gözat"
+msgid "PREV"
+msgstr "Öncesi"
 
 msgid "SONG_DETAILS"
 msgstr "Song Details"
+
+msgid "SPINOFFS"
+msgstr "yan ürünler"
+
+msgid "UPPERTITLE"
+msgstr "Kanala Gözat"

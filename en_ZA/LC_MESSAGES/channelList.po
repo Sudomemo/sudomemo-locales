@@ -3,23 +3,23 @@ msgstr ""
 "Language: en_ZA\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "UPPERTITLE"
-msgstr "Teh Good Stuff"
-
-msgid "UPPERSUBBOTTOM"
-msgstr "pls c channel!"
+msgid "FAVORITES"
+msgstr "favorites"
 
 msgid "NEXT"
 msgstr "yaint"
-
-msgid "PREV"
-msgstr "oops"
-
-msgid "FAVORITES"
-msgstr "favorites"
 
 msgid "PAGE"
 msgstr "IGN"
 
 msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d outta %d"
+
+msgid "PREV"
+msgstr "oops"
+
+msgid "UPPERSUBBOTTOM"
+msgstr "pls c channel!"
+
+msgid "UPPERTITLE"
+msgstr "Teh Good Stuff"

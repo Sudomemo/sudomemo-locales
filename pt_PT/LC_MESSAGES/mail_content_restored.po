@@ -3,34 +3,8 @@ msgstr ""
 "Language: pt_PT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-# Content Removed - sent to user when a piece of their content has been restored
-msgid "NOTICE"
-msgstr "Aviso"
-
-# # Intro
-msgid "USER_CONTENT_RESTORED"
-msgstr "Algo que postaste que foi removido anteriormente, foi restaurado aṕos a revisão to tal conteúdo."
-
-# # Content types
-msgid "CONTENT_TYPE_flipnote"
-msgstr "Flipnote"
-
-msgid "CONTENT_TYPE_comment"
-msgstr "Comentário"
-
-msgid "CONTENT_TYPE_chat_message"
-msgstr "Mensagem de Chat"
-
-# ## We plan on adding user-created themes.
-msgid "CONTENT_TYPE_room_theme"
-msgstr "Tema da Sala de Criador"
-
-msgid "CONTENT_TYPE_profile_bio"
-msgstr "Texto do Perfil"
-
-# ## Catch-all
-msgid "CONTENT_TYPE_content"
-msgstr "Outro Conteúdo"
+msgid "CONTENT_ID"
+msgstr "ID de Conteúdo:"
 
 # # continued message...
 msgid "CONTENT_RESTORED_CONTINUED"
@@ -39,5 +13,31 @@ msgstr "O conteúdo foi restaurado ao público, já não precisas de fazer mais 
 msgid "CONTENT_TYPE"
 msgstr "Tipo de Conteúdo:"
 
-msgid "CONTENT_ID"
-msgstr "ID de Conteúdo:"
+msgid "CONTENT_TYPE_chat_message"
+msgstr "Mensagem de Chat"
+
+msgid "CONTENT_TYPE_comment"
+msgstr "Comentário"
+
+# ## Catch-all
+msgid "CONTENT_TYPE_content"
+msgstr "Outro Conteúdo"
+
+# # Content types
+msgid "CONTENT_TYPE_flipnote"
+msgstr "Flipnote"
+
+msgid "CONTENT_TYPE_profile_bio"
+msgstr "Texto do Perfil"
+
+# ## We plan on adding user-created themes.
+msgid "CONTENT_TYPE_room_theme"
+msgstr "Tema da Sala de Criador"
+
+# Content Removed - sent to user when a piece of their content has been restored
+msgid "NOTICE"
+msgstr "Aviso"
+
+# # Intro
+msgid "USER_CONTENT_RESTORED"
+msgstr "Algo que postaste que foi removido anteriormente, foi restaurado aṕos a revisão to tal conteúdo."

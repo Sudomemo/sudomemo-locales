@@ -3,30 +3,31 @@ msgstr ""
 "Language: pl_PL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "HEADER_UPLOAD_TO_YOUTUBE"
-msgstr "Prześlij do YouTube"
+msgid "AUDIO_ENHANCEMENT"
+msgstr "Ulepszenie Audio"
 
-msgid "YOUTUBE"
-msgstr "YouTube"
+msgid "BTN_START_UPLOAD"
+msgstr "Rozpocznij przesyłanie"
+
+msgid "BTN_UPLOAD_AGAIN"
+msgstr "Prześlij ponownie"
+
+# ...do so, visit https://flipnot.es/ABC123/yt
+msgid "CHANGE_OPTIONS_ON_THEATRE"
+msgstr "Przed przesłaniem możesz zmienić te opcje. Aby to zrobić, odwiedź stronę:"
+
+# If the user's already uploaded it...
+msgid "FLIPNOTE_ALREADY_UPLOADED"
+msgstr "Już przesłałeś/aś ten Flipnote do YouTube."
+
+msgid "FLIPNOTE_SMOOTHING"
+msgstr "Wygładzanie Flipnota"
 
 msgid "HEADER_CONFIRM_OPTIONS"
 msgstr "Potwierdź opcje"
 
-msgid "LINK_REQUIRED_BEFORE_UPLOAD"
-msgstr "Musisz połączyć twój kanał YouTube, zanim będziesz mógł przesłać swój Flipnote."
-
-msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
-msgstr "Twoje konto YouTube nie jest zweryfikowane. Niektóre funkcje nie będą działać poprawnie, takie jak miniatury filmów czy Flipnoty trwające więcej niż 15 minut."
-
-# To fix this, visit: https://flipnot.es/ytsetup
-msgid "YOUTUBE_ACCOUNT_VERIFICATION_FIX"
-msgstr "Aby to naprawić, odwiedź stronę:"
-
-msgid "TITLE_DESC_MISSING"
-msgstr "Twój Flipnote potrzebuje tytułu i opisu, zanim będziesz mógł go przesłać."
-
-msgid "TITLE_DESC_ADD_FIRST"
-msgstr "Proszę wróć i dodaj je przed kontynuowaniem."
+msgid "HEADER_UPLOAD_TO_YOUTUBE"
+msgstr "Prześlij do YouTube"
 
 # A URL is displayed after this:
 msgid "HOW_TO_LINK_FROM_THEATRE"
@@ -35,9 +36,28 @@ msgstr "Aby połączyć swój kanał YouTube, odwiedź tą stronę:"
 msgid "HOW_TO_REFRESH_FROM_THEATRE"
 msgstr "Aby zaktualizować twój kanał, odwiedź tą stronę:"
 
-# Preview upload details before submitting
-msgid "PREVIEW_TITLE"
-msgstr "Tytuł"
+msgid "LINK_REQUIRED_BEFORE_UPLOAD"
+msgstr "Musisz połączyć twój kanał YouTube, zanim będziesz mógł przesłać swój Flipnote."
+
+msgid "NONE"
+msgstr "Żadne"
+
+msgid "OFF"
+msgstr "Off"
+
+msgid "ON"
+msgstr "On"
+
+# Extra features provided by Sudomemo Plus (see flipnoteOptions.po)
+msgid "PLUS_FEATURES"
+msgstr "Funkcje Plus"
+
+msgid "PLUS_FEATURES_NOTE"
+msgstr "Zmień te opcje ze strony ze szczegółami twojego Flipnota."
+
+# Position in queue: 4
+msgid "POSITION_IN_QUEUE"
+msgstr "Pozycja w kolejce: %d"
 
 msgid "PREVIEW_DESC"
 msgstr "Opis"
@@ -48,53 +68,15 @@ msgstr "Dodatkowy opis"
 msgid "PREVIEW_EXTRA_DESC_EXPLANATION"
 msgstr "Ten tekst będzie się wyświetlać, gdy widzowie klikną na 'Zobacz więcej' w opisie twojego filmu."
 
-msgid "TAGS"
-msgstr "Tagi"
+# Preview upload details before submitting
+msgid "PREVIEW_TITLE"
+msgstr "Tytuł"
 
-msgid "NONE"
-msgstr "Żadne"
-
-msgid "YOUTUBE_LOOP_COUNT"
-msgstr "Liczba odtworzeń"
-
-msgid "YOUTUBE_LOOP_COUNT_EXPLANATION"
-msgstr "Liczba odtworzeń, jaką powtórzy zapętlowany Flipnote. Jeżeli jeden raz, Flipnote zostanie odtworzony tylko raz."
-
-msgid "YOUTUBE_VISIBILITY"
-msgstr "Widoczność"
-
-msgid "YOUTUBE_VISIBILITY_PUBLIC"
-msgstr "Publiczny"
-
-msgid "YOUTUBE_VISIBILITY_UNLISTED"
-msgstr "Niepubliczny"
-
-msgid "YOUTUBE_VISIBILITY_PRIVATE"
-msgstr "Prywatny"
-
-msgid "SUBMIT"
-msgstr "Prześlij"
-
-# Upload status
-msgid "UPLOAD_STATUS"
-msgstr "Status przesyłania"
-
-msgid "YOUTUBE_PENDING_UPLOAD"
-msgstr "Twój Flipnote czeka, aż zostanie przesłany. Sprawdź ponownie za kilka minut."
-
-# Position in queue: 4
-msgid "POSITION_IN_QUEUE"
-msgstr "Pozycja w kolejce: %d"
-
-msgid "THEATRE_STATUS_TRACKER"
-msgstr "Obejrzyj swój Upload Tracker na żywo tutaj:"
+msgid "RECONNECT_NEEDED"
+msgstr "Twoje połączenie z kanałem YouTube jest przestarzałe."
 
 msgid "REVIEW_DETAILS_BEFORE_UPLOAD"
 msgstr "Proszę zapoznaj się z tymi opcjami, zanim rozpoczniesz przesyłanie."
-
-# ...do so, visit https://flipnot.es/ABC123/yt
-msgid "CHANGE_OPTIONS_ON_THEATRE"
-msgstr "Przed przesłaniem możesz zmienić te opcje. Aby to zrobić, odwiedź stronę:"
 
 # ...please visit: https://flipnot.es/ytsetup
 msgid "SET_DEFAULTS_ON_THEATRE"
@@ -103,26 +85,49 @@ msgstr "Aby zmienić twoje domyślne opcje przesyłania, proszę odwiedź stron�
 msgid "STATUS"
 msgstr "Status"
 
-msgid "YOUTUBE_STATUS_NEW"
-msgstr "Nowe"
+msgid "SUBMIT"
+msgstr "Prześlij"
 
-msgid "YOUTUBE_STATUS_PROCESSING"
-msgstr "Przetwarzanie"
+msgid "TAGS"
+msgstr "Tagi"
 
-msgid "YOUTUBE_STATUS_SUCCESS"
-msgstr "Skończone!"
+msgid "THEATRE_STATUS_TRACKER"
+msgstr "Obejrzyj swój Upload Tracker na żywo tutaj:"
 
-msgid "YOUTUBE_STATUS_PAUSED"
-msgstr "Zapauzowane"
+msgid "TITLE_DESC_ADD_FIRST"
+msgstr "Proszę wróć i dodaj je przed kontynuowaniem."
 
-msgid "YOUTUBE_STATUS_ERROR"
-msgstr "Błąd"
+msgid "TITLE_DESC_MISSING"
+msgstr "Twój Flipnote potrzebuje tytułu i opisu, zanim będziesz mógł go przesłać."
 
-msgid "YOUTUBE_STATUS_UNKNOWN"
-msgstr "Nieznane"
+# Upload status
+msgid "UPLOAD_STATUS"
+msgstr "Status przesyłania"
 
-msgid "YOUTUBE_STATUS_WAITING_TO_BE_PROCESSED"
-msgstr "Twoje przesłanie czeka aktualnie na przetworzenie."
+msgid "YOUTUBE"
+msgstr "YouTube"
+
+# To fix this, visit: https://flipnot.es/ytsetup
+msgid "YOUTUBE_ACCOUNT_VERIFICATION_FIX"
+msgstr "Aby to naprawić, odwiedź stronę:"
+
+msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
+msgstr "Twoje konto YouTube nie jest zweryfikowane. Niektóre funkcje nie będą działać poprawnie, takie jak miniatury filmów czy Flipnoty trwające więcej niż 15 minut."
+
+msgid "YOUTUBE_ESTIMATED_DURATION"
+msgstr "Przewidywany czas trwania filmu:"
+
+msgid "YOUTUBE_ID"
+msgstr "ID YouTube"
+
+msgid "YOUTUBE_LOOP_COUNT"
+msgstr "Liczba odtworzeń"
+
+msgid "YOUTUBE_LOOP_COUNT_EXPLANATION"
+msgstr "Liczba odtworzeń, jaką powtórzy zapętlowany Flipnote. Jeżeli jeden raz, Flipnote zostanie odtworzony tylko raz."
+
+msgid "YOUTUBE_PENDING_UPLOAD"
+msgstr "Twój Flipnote czeka, aż zostanie przesłany. Sprawdź ponownie za kilka minut."
 
 msgid "YOUTUBE_STATUS_BEING_PROCESSED"
 msgstr "Twoje przesłanie jest aktualnie przetwarzane."
@@ -130,36 +135,32 @@ msgstr "Twoje przesłanie jest aktualnie przetwarzane."
 msgid "YOUTUBE_STATUS_COMPLETE"
 msgstr "Twoje przesłanie jest gotowe!"
 
+msgid "YOUTUBE_STATUS_ERROR"
+msgstr "Błąd"
+
 msgid "YOUTUBE_STATUS_FAILED"
 msgstr "Wystąpił błąd. Aby uzyskać więcej informacji, odwiedź stronę https://flipnot.es/ytsetup"
 
-msgid "RECONNECT_NEEDED"
-msgstr "Twoje połączenie z kanałem YouTube jest przestarzałe."
+msgid "YOUTUBE_STATUS_NEW"
+msgstr "Nowe"
 
-msgid "BTN_START_UPLOAD"
-msgstr "Rozpocznij przesyłanie"
+msgid "YOUTUBE_STATUS_PAUSED"
+msgstr "Zapauzowane"
 
-msgid "YOUTUBE_ESTIMATED_DURATION"
-msgstr "Przewidywany czas trwania filmu:"
+msgid "YOUTUBE_STATUS_PAUSED_GLOBAL_QUOTA"
+msgstr "Nasz limit globalny został przekroczony, więc przesłanie może zostać znacznie opóźnione."
 
-# Extra features provided by Sudomemo Plus (see flipnoteOptions.po)
-msgid "PLUS_FEATURES"
-msgstr "Funkcje Plus"
+msgid "YOUTUBE_STATUS_PROCESSING"
+msgstr "Przetwarzanie"
 
-msgid "PLUS_FEATURES_NOTE"
-msgstr "Zmień te opcje ze strony ze szczegółami twojego Flipnota."
+msgid "YOUTUBE_STATUS_SUCCESS"
+msgstr "Skończone!"
 
-msgid "FLIPNOTE_SMOOTHING"
-msgstr "Wygładzanie Flipnota"
+msgid "YOUTUBE_STATUS_UNKNOWN"
+msgstr "Nieznane"
 
-msgid "AUDIO_ENHANCEMENT"
-msgstr "Ulepszenie Audio"
-
-msgid "ON"
-msgstr "On"
-
-msgid "OFF"
-msgstr "Off"
+msgid "YOUTUBE_STATUS_WAITING_TO_BE_PROCESSED"
+msgstr "Twoje przesłanie czeka aktualnie na przetworzenie."
 
 msgid "YOUTUBE_TERMS_AGREEMENT_NOTE"
 msgstr "Przesyłając filmy do YouTube, zgadzasz się z Warunkami Korzystania i Wytycznych dla społeczności."
@@ -168,27 +169,26 @@ msgstr "Przesyłając filmy do YouTube, zgadzasz się z Warunkami Korzystania i 
 msgid "YOUTUBE_UPLOAD_LIMIT"
 msgstr "Aktualnie możesz przesyłać dziennie %s filmów na YouTube."
 
-msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_LIMIT_NOTE"
-msgstr "Użytkownicy Sudomemo Plus mogą przesyłać dziennie %s filmów."
-
-msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_UNLIMITED_NOTE"
-msgstr "Użytkownicy Sudomemo Plus mogą przesyłać nieskończoną liczbę filmów dziennie."
-
 msgid "YOUTUBE_UPLOAD_LIMIT_CURRENT"
 msgstr "Dotąd przesłałeś %s filmów."
 
 msgid "YOUTUBE_UPLOAD_LIMIT_EXCEEDED"
 msgstr "Do jutra nie możesz przesyłać więcej filmów."
 
-# If the user's already uploaded it...
-msgid "FLIPNOTE_ALREADY_UPLOADED"
-msgstr "Już przesłałeś/aś ten Flipnote do YouTube."
+msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_LIMIT_NOTE"
+msgstr "Użytkownicy Sudomemo Plus mogą przesyłać dziennie %s filmów."
 
-msgid "YOUTUBE_ID"
-msgstr "ID YouTube"
+msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_UNLIMITED_NOTE"
+msgstr "Użytkownicy Sudomemo Plus mogą przesyłać nieskończoną liczbę filmów dziennie."
 
-msgid "BTN_UPLOAD_AGAIN"
-msgstr "Prześlij ponownie"
+msgid "YOUTUBE_VISIBILITY"
+msgstr "Widoczność"
 
-msgid "YOUTUBE_STATUS_PAUSED_GLOBAL_QUOTA"
-msgstr "Nasz limit globalny został przekroczony, więc przesłanie może zostać znacznie opóźnione."
+msgid "YOUTUBE_VISIBILITY_PRIVATE"
+msgstr "Prywatny"
+
+msgid "YOUTUBE_VISIBILITY_PUBLIC"
+msgstr "Publiczny"
+
+msgid "YOUTUBE_VISIBILITY_UNLISTED"
+msgstr "Niepubliczny"

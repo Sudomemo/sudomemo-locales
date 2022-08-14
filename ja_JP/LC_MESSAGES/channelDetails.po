@@ -3,6 +3,9 @@ msgstr ""
 "Language: ja_JP\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "CATEGORY"
+msgstr "カテゴリー"
+
 msgid "CHANNEL_ID"
 msgstr "チャンネルID"
 
@@ -41,6 +44,3 @@ msgstr "何も描かれていない作品を投稿することはできません
 
 msgid "NO_POSTS_WHILE_MUTED"
 msgstr "ミュートされている間は投稿できません。"
-
-msgid "CATEGORY"
-msgstr "カテゴリー"

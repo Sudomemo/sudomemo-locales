@@ -3,8 +3,65 @@ msgstr ""
 "Language: pt_PT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "HEADER_REPORT_CONTENT"
-msgstr "Reportar Conteúdo"
+msgid "CATEGORY_DESC_drugs"
+msgstr "Referências a drogas ou abuso de substâncias"
+
+msgid "CATEGORY_DESC_fraud"
+msgstr "Imitação ou outras actividades fraudulentas"
+
+msgid "CATEGORY_DESC_harassment"
+msgstr "Bullying, discriminação, assédio or difamação"
+
+msgid "CATEGORY_DESC_misplaced_rp"
+msgstr "Roleplay postado num canal que não se pode fazer roleplay"
+
+msgid "CATEGORY_DESC_rapid_flashing"
+msgstr "Conteúdo que contem cenas que podem desencadear pessoas com Epilepsia"
+
+msgid "CATEGORY_DESC_sexual"
+msgstr "Temas ou conteúdo sexual"
+
+msgid "CATEGORY_DESC_spam"
+msgstr "Spam (nenhum conteúdo significativo/conteúdo sem nexo)"
+
+msgid "CATEGORY_DESC_stolen"
+msgstr "Mal-uso da função spin-off (roubado)"
+
+msgid "CATEGORY_DESC_swearing"
+msgstr "Uso de linguagem severa, ou uso frequente de linguagem forte"
+
+msgid "CATEGORY_DESC_violent"
+msgstr "Conteúdo violento excessívos, violencia gráfica, sangue, horror corporal, etc..."
+
+msgid "CATEGORY_NAME_drugs"
+msgstr "Drogas"
+
+msgid "CATEGORY_NAME_fraud"
+msgstr "Fraude"
+
+msgid "CATEGORY_NAME_harassment"
+msgstr "Assédio"
+
+msgid "CATEGORY_NAME_misplaced_rp"
+msgstr "RP extraviado"
+
+msgid "CATEGORY_NAME_rapid_flashing"
+msgstr "Piscar rápido (Epilepsia)"
+
+msgid "CATEGORY_NAME_sexual"
+msgstr "Sexual"
+
+msgid "CATEGORY_NAME_spam"
+msgstr "Spam"
+
+msgid "CATEGORY_NAME_stolen"
+msgstr "Roubado"
+
+msgid "CATEGORY_NAME_swearing"
+msgstr "Profanidade"
+
+msgid "CATEGORY_NAME_violent"
+msgstr "Violencia"
 
 msgid "CHAT_MESSAGE"
 msgstr "Menasagem de Chat"
@@ -12,44 +69,32 @@ msgstr "Menasagem de Chat"
 msgid "COMMENT"
 msgstr "Comentário"
 
-msgid "FLIPNOTE"
-msgstr "Flipnote"
-
-msgid "YOU_ARE_REPORTING_THIS_FORMAT"
-msgstr "Vais reportar este conteúdo: %s"
-
-msgid "USER_HAS_ALREADY_REPORTED_FORMAT"
-msgstr "Já submeteste um relatório para este conteúdo: %s"
-
-msgid "HEADER_VIOLATION_CATEGORY"
-msgstr "Categoria de Violação:"
-
-msgid "FLIPNOTE_TITLE_FORMAT"
-msgstr "Flipnote de %s"
+msgid "CONFIRM_EMAIL_BEFORE_REPORTING"
+msgstr "Por favor confirme o seu email antes de enviar relatórios de conteúdo."
 
 msgid "CREATOR_FORMAT"
 msgstr "Criador: %s"
 
-msgid "NOTICE_REPORT_OTHER_ISSUES"
-msgstr "Este formulário é apenas para relatórios de utilizador. Para reportar o comportamento de um utilizador, ou outros assuntos e pedidos, por favor mande um email à nossa equipa de suporte:"
+msgid "DUPLICATE_COMMENT_FAILED"
+msgstr "Este comentário já foi postado no Sudomemo."
 
-msgid "REPORT_INSTRUCTIONS"
-msgstr "Por favor escreva uma descripção curta do que acreditas que este conteúdo é uma violação dos Termos de Utilização do Sudomemo. Uma vez enviado, toque no botão Voltar para voltar para o Flipnote."
+msgid "FLIPNOTE"
+msgstr "Flipnote"
 
-msgid "NO_BLANK_REPORTS"
-msgstr "Não podes mandar um relatório em branco."
-
-msgid "LIMIT_ONE_REPORT"
-msgstr "Por favor tomem nota: Só podes reportar este tipo de conteúdo uma vez. Relatórios adicionais não iram contar para o registo, por isso certefiquem-se que ponham toda a informação num único comentário."
-
-msgid "REPORT_EXPLANATION_FAILED"
-msgstr "Occureu um erro enquanto o relatório estava a ser enviado."
-
-msgid "RESTRICTED_CANCEL"
-msgstr "Não podes enviar um relatório se estiveres restrito de interagir com o Sudomemo."
+msgid "FLIPNOTE_TITLE_FORMAT"
+msgstr "Flipnote de %s"
 
 msgid "HEADER_REASON"
 msgstr "Razão:"
+
+msgid "HEADER_REPORT_CONTENT"
+msgstr "Reportar Conteúdo"
+
+msgid "HEADER_VIOLATION_CATEGORY"
+msgstr "Categoria de Violação:"
+
+msgid "LIMIT_ONE_REPORT"
+msgstr "Por favor tomem nota: Só podes reportar este tipo de conteúdo uma vez. Relatórios adicionais não iram contar para o registo, por isso certefiquem-se que ponham toda a informação num único comentário."
 
 msgid "LOGIN_REQUIRED_TO_CONTINUE"
 msgstr "You must log in to continue."
@@ -57,74 +102,29 @@ msgstr "You must log in to continue."
 msgid "LOGIN_REQUIRED_TO_REPORT_CONTENT"
 msgstr "Tens de ter feito login para enviar relatórios de conteúdo."
 
+msgid "NOTICE_REPORT_OTHER_ISSUES"
+msgstr "Este formulário é apenas para relatórios de utilizador. Para reportar o comportamento de um utilizador, ou outros assuntos e pedidos, por favor mande um email à nossa equipa de suporte:"
+
+msgid "NO_BLANK_REPORTS"
+msgstr "Não podes mandar um relatório em branco."
+
+msgid "REPORT_EXPLANATION_FAILED"
+msgstr "Occureu um erro enquanto o relatório estava a ser enviado."
+
 msgid "REPORT_FAILED_USER_BANNED"
 msgstr "Envio de relatório falhou: Estás restrito de interagir no Sudomemo."
 
-msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "Este comentário já foi postado no Sudomemo."
+msgid "REPORT_INSTRUCTIONS"
+msgstr "Por favor escreva uma descripção curta do que acreditas que este conteúdo é uma violação dos Termos de Utilização do Sudomemo. Uma vez enviado, toque no botão Voltar para voltar para o Flipnote."
 
-msgid "CONFIRM_EMAIL_BEFORE_REPORTING"
-msgstr "Por favor confirme o seu email antes de enviar relatórios de conteúdo."
+msgid "RESTRICTED_CANCEL"
+msgstr "Não podes enviar um relatório se estiveres restrito de interagir com o Sudomemo."
 
 msgid "THANKS_FOR_REPORTING"
 msgstr "Recebemos o teu relatório. Obrigado por ajudar o Sudomemo a ser um lugar melhor!"
 
-msgid "CATEGORY_NAME_stolen"
-msgstr "Roubado"
+msgid "USER_HAS_ALREADY_REPORTED_FORMAT"
+msgstr "Já submeteste um relatório para este conteúdo: %s"
 
-msgid "CATEGORY_DESC_stolen"
-msgstr "Mal-uso da função spin-off (roubado)"
-
-msgid "CATEGORY_NAME_spam"
-msgstr "Spam"
-
-msgid "CATEGORY_DESC_spam"
-msgstr "Spam (nenhum conteúdo significativo/conteúdo sem nexo)"
-
-msgid "CATEGORY_NAME_harassment"
-msgstr "Assédio"
-
-msgid "CATEGORY_DESC_harassment"
-msgstr "Bullying, discriminação, assédio or difamação"
-
-msgid "CATEGORY_NAME_fraud"
-msgstr "Fraude"
-
-msgid "CATEGORY_DESC_fraud"
-msgstr "Imitação ou outras actividades fraudulentas"
-
-msgid "CATEGORY_NAME_swearing"
-msgstr "Profanidade"
-
-msgid "CATEGORY_DESC_swearing"
-msgstr "Uso de linguagem severa, ou uso frequente de linguagem forte"
-
-msgid "CATEGORY_NAME_sexual"
-msgstr "Sexual"
-
-msgid "CATEGORY_DESC_sexual"
-msgstr "Temas ou conteúdo sexual"
-
-msgid "CATEGORY_NAME_violent"
-msgstr "Violencia"
-
-msgid "CATEGORY_DESC_violent"
-msgstr "Conteúdo violento excessívos, violencia gráfica, sangue, horror corporal, etc..."
-
-msgid "CATEGORY_NAME_misplaced_rp"
-msgstr "RP extraviado"
-
-msgid "CATEGORY_DESC_misplaced_rp"
-msgstr "Roleplay postado num canal que não se pode fazer roleplay"
-
-msgid "CATEGORY_NAME_drugs"
-msgstr "Drogas"
-
-msgid "CATEGORY_DESC_drugs"
-msgstr "Referências a drogas ou abuso de substâncias"
-
-msgid "CATEGORY_NAME_rapid_flashing"
-msgstr "Piscar rápido (Epilepsia)"
-
-msgid "CATEGORY_DESC_rapid_flashing"
-msgstr "Conteúdo que contem cenas que podem desencadear pessoas com Epilepsia"
+msgid "YOU_ARE_REPORTING_THIS_FORMAT"
+msgstr "Vais reportar este conteúdo: %s"

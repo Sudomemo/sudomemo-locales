@@ -3,38 +3,47 @@ msgstr ""
 "Language: es_ES\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "COMMENT_DETAILS"
-msgstr "Detalles del Comentario"
-
-msgid "MESSAGE_DETAILS"
-msgstr "Detalles del Mensaje"
-
 msgid "AUTHOR"
 msgstr "Autor"
-
-msgid "COMMENT_BY_FORMAT"
-msgstr "Comentario de %s"
-
-msgid "CHAT_MESSAGE_FROM_FORMAT"
-msgstr "Mensaje de chat de %s"
-
-msgid "MESSAGE_FROM_FORMAT"
-msgstr "Mensaje de %s"
-
-msgid "FLIPNOTE_BY_FORMAT"
-msgstr "Flipnote de %s"
-
-msgid "COMMENT_ID"
-msgstr "ID del comentario"
-
-msgid "MESSAGE_ID"
-msgstr "ID del mensaje"
 
 msgid "CHAT_COMMENT_ID"
 msgstr "ID del comentario de chat"
 
-msgid "TIMESTAMP"
-msgstr "Marca de tiempo"
+msgid "CHAT_MESSAGE_FROM_FORMAT"
+msgstr "Mensaje de chat de %s"
+
+msgid "COMMENT_BY_FORMAT"
+msgstr "Comentario de %s"
+
+msgid "COMMENT_DETAILS"
+msgstr "Detalles del Comentario"
+
+msgid "COMMENT_HIDDEN_MODERATOR"
+msgstr "Comentario encubierto por un moderador"
+
+msgid "COMMENT_HIDDEN_RECIPIENT"
+msgstr "Comentario encubierto por el autor del Flipnote"
+
+msgid "COMMENT_HIDDEN_SELF"
+msgstr "Comentario encubierto por el autor"
+
+msgid "COMMENT_HIDDEN_UNKNOWN"
+msgstr "Comentario oculto por petición"
+
+msgid "COMMENT_ID"
+msgstr "ID del comentario"
+
+msgid "FLIPNOTE_BY_FORMAT"
+msgstr "Flipnote de %s"
+
+msgid "MESSAGE_DETAILS"
+msgstr "Detalles del Mensaje"
+
+msgid "MESSAGE_FROM_FORMAT"
+msgstr "Mensaje de %s"
+
+msgid "MESSAGE_ID"
+msgstr "ID del mensaje"
 
 msgid "POSTED_TO"
 msgstr "Publicado a"
@@ -45,14 +54,5 @@ msgstr "Conversación Privada"
 msgid "REPORT_CONTENT"
 msgstr "Reportar contenido"
 
-msgid "COMMENT_HIDDEN_UNKNOWN"
-msgstr "Comentario oculto por petición"
-
-msgid "COMMENT_HIDDEN_SELF"
-msgstr "Comentario encubierto por el autor"
-
-msgid "COMMENT_HIDDEN_RECIPIENT"
-msgstr "Comentario encubierto por el autor del Flipnote"
-
-msgid "COMMENT_HIDDEN_MODERATOR"
-msgstr "Comentario encubierto por un moderador"
+msgid "TIMESTAMP"
+msgstr "Marca de tiempo"

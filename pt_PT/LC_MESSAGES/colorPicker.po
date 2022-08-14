@@ -3,15 +3,6 @@ msgstr ""
 "Language: pt_PT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "SET_PEN_COLOR"
-msgstr "Definir Cor da Caneta"
-
-msgid "SET_PAPER_COLOR"
-msgstr "Definir Cor do Papel"
-
-msgid "SELECT_A_COLOR"
-msgstr "Selecciona uma cor."
-
 msgid "CURRENT_COLOR"
 msgstr "Cor actual:"
 
@@ -20,3 +11,12 @@ msgstr "Cor actual: defeito"
 
 msgid "RETURN"
 msgstr "Voltar"
+
+msgid "SELECT_A_COLOR"
+msgstr "Selecciona uma cor."
+
+msgid "SET_PAPER_COLOR"
+msgstr "Definir Cor do Papel"
+
+msgid "SET_PEN_COLOR"
+msgstr "Definir Cor da Caneta"

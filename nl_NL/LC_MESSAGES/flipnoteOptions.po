@@ -3,11 +3,26 @@ msgstr ""
 "Language: nl_NL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "CITIZENSHIP_REQUIRED"
+msgstr "Je hebt Sudomemo Citizenship nodig om dit te gebruiken."
+
+msgid "DISABLE_AUDIO_ENHANCEMENT"
+msgstr "Schakel geluidsverbetering uit"
+
+msgid "DISABLE_SMOOTHING"
+msgstr "Verzachting uitschakelen"
+
+msgid "ENABLE_AUDIO_ENHANCEMENT"
+msgstr "Schakel geluidsverbetering in"
+
+msgid "ENABLE_SMOOTHING"
+msgstr "Verzachting inschakelen"
+
 msgid "FLIPNOTE_OPTIONS"
 msgstr "Flipnoteopties"
 
-msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
-msgstr "Je moet ingelogd zijn om deze pagina te weergeven."
+msgid "FLIPNOTE_URL_IS"
+msgstr "Flipnote-URL:"
 
 msgid "HEADER_OPTION"
 msgstr "Optie"
@@ -15,44 +30,29 @@ msgstr "Optie"
 msgid "HEADER_STATUS"
 msgstr "Status"
 
-msgid "OPTION_NAME_SMOOTH"
-msgstr "Verzachting"
-
-msgid "OPTION_DESC_SMOOTH"
-msgstr "Lijnen, bogen, en randen worden verzacht voor een meer natuurlijke uitstraling op Sudomemo Theatre."
-
-msgid "FLIPNOTE_URL_IS"
-msgstr "Flipnote-URL:"
-
-msgid "ENABLE_SMOOTHING"
-msgstr "Verzachting inschakelen"
-
-msgid "DISABLE_SMOOTHING"
-msgstr "Verzachting uitschakelen"
-
-msgid "ON"
-msgstr "Aan"
+msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
+msgstr "Je moet ingelogd zijn om deze pagina te weergeven."
 
 msgid "OFF"
 msgstr "Uit"
 
-msgid "CITIZENSHIP_REQUIRED"
-msgstr "Je hebt Sudomemo Citizenship nodig om dit te gebruiken."
+msgid "ON"
+msgstr "Aan"
+
+msgid "OPTION_DESC_FORCE_44K_BITRATE"
+msgstr "Sudomemo zal proberen om jouw geluid scherper en schoner te maken voor Sudomemo Theatre."
+
+msgid "OPTION_DESC_SMOOTH"
+msgstr "Lijnen, bogen, en randen worden verzacht voor een meer natuurlijke uitstraling op Sudomemo Theatre."
+
+msgid "OPTION_NAME_FORCE_44K_BITRATE"
+msgstr "Verbeterd geluid"
+
+msgid "OPTION_NAME_SMOOTH"
+msgstr "Verzachting"
 
 msgid "PLUS_REQUIRED"
 msgstr "Je hebt Sudomemo Plus nodig om dit te gebruiken."
 
 msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
 msgstr "Tik op de status van een optie om deze weer te geven of te veranderen."
-
-msgid "OPTION_NAME_FORCE_44K_BITRATE"
-msgstr "Verbeterd geluid"
-
-msgid "OPTION_DESC_FORCE_44K_BITRATE"
-msgstr "Sudomemo zal proberen om jouw geluid scherper en schoner te maken voor Sudomemo Theatre."
-
-msgid "ENABLE_AUDIO_ENHANCEMENT"
-msgstr "Schakel geluidsverbetering in"
-
-msgid "DISABLE_AUDIO_ENHANCEMENT"
-msgstr "Schakel geluidsverbetering uit"

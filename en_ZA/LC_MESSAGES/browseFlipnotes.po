@@ -3,56 +3,11 @@ msgstr ""
 "Language: en_ZA\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "SUDOMEMO"
-msgstr "Sudomeme"
+msgid "CATEGORY_featured"
+msgstr "@chosen ones"
 
-msgid "HEADER_FLIPNOTES"
-msgstr "Flipmemes"
-
-msgid "HEADER_NORMAL"
-msgstr "AYYY!"
-
-msgid "HEADER_HOT_FLIPNOTES"
-msgstr "Spicy Flips"
-
-msgid "HEADER_MOST_POPULAR"
-msgstr "TEH MP!!"
-
-msgid "HEADER_NO_SPINOFFS"
-msgstr "Pure"
-
-msgid "HEADER_ROLEPLAYS"
-msgstr "look at dat!"
-
-msgid "HEADER_BROWSE_FLIPNOTES"
-msgstr "meme repostoty"
-
-msgid "HEADER_FEATURED_FLIPNOTES"
-msgstr "the chosen ones"
-
-msgid "HEADER_RANDOM_FLIPNOTES"
-msgstr "Rando Schmando"
-
-msgid "HEADER_PAGE"
-msgstr "rank"
-
-msgid "PAGE"
-msgstr "Page"
-
-msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d outta %d"
-
-msgid "NEXT"
-msgstr "yeet"
-
-msgid "PREV"
-msgstr "oops"
-
-msgid "POST_FLIPNOTE"
-msgstr "Post Flipmemes"
-
-msgid "CATEGORY_recent"
-msgstr "@Dank Flipmemes"
+msgid "CATEGORY_feed"
+msgstr "@Feed"
 
 msgid "CATEGORY_hot"
 msgstr "@Spicy Flipmemes"
@@ -60,11 +15,59 @@ msgstr "@Spicy Flipmemes"
 msgid "CATEGORY_popular"
 msgstr "@THE MP!!"
 
-msgid "CATEGORY_featured"
-msgstr "@chosen ones"
-
 msgid "CATEGORY_random"
 msgstr "@Rando Schmando"
 
-msgid "CATEGORY_feed"
-msgstr "@Feed"
+msgid "CATEGORY_recent"
+msgstr "@Dank Flipmemes"
+
+msgid "HEADER_BROWSE_FLIPNOTES"
+msgstr "meme repostoty"
+
+msgid "HEADER_FEATURED_FLIPNOTES"
+msgstr "the chosen ones"
+
+msgid "HEADER_FLIPNOTES"
+msgstr "Flipmemes"
+
+msgid "HEADER_HOT_FLIPNOTES"
+msgstr "Spicy Flips"
+
+msgid "HEADER_MOST_POPULAR"
+msgstr "TEH MP!!"
+
+msgid "HEADER_NORMAL"
+msgstr "AYYY!"
+
+msgid "HEADER_NO_SPINOFFS"
+msgstr "Pure"
+
+msgid "HEADER_PAGE"
+msgstr "rank"
+
+msgid "HEADER_RANDOM_FLIPNOTES"
+msgstr "Rando Schmando"
+
+msgid "HEADER_ROLEPLAYS"
+msgstr "look at dat!"
+
+msgid "HEADER_WATCH_HISTORY"
+msgstr "Watch History"
+
+msgid "NEXT"
+msgstr "yeet"
+
+msgid "PAGE"
+msgstr "Page"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d outta %d"
+
+msgid "POST_FLIPNOTE"
+msgstr "Post Flipmemes"
+
+msgid "PREV"
+msgstr "oops"
+
+msgid "SUDOMEMO"
+msgstr "Sudomeme"

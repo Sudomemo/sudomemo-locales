@@ -3,17 +3,20 @@ msgstr ""
 "Language: el_GR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "UPPERTITLE"
-msgstr "Χαζεψτε το Καναλι"
+msgid "BROWSE_BY_ALBUM"
+msgstr "Χαζεψτε ανα Αλμπουμ"
 
-msgid "POST_FLIPNOTE"
-msgstr "Ανεβαστε Flipnote"
+msgid "BROWSE_BY_ARTIST"
+msgstr "Χαζεψτε ανα Καλλιτεχνη"
+
+msgid "BROWSE_BY_SONG"
+msgstr "Χαζεψτε ανα τραγουδι"
+
+msgid "BROWSE_PLAYLIST"
+msgstr "Χαζεψτε λιστα"
 
 msgid "NEXT"
 msgstr "Επομενο"
-
-msgid "PREV"
-msgstr "Προηγουμενο"
 
 msgid "PAGE"
 msgstr "Σελιδα"
@@ -21,20 +24,17 @@ msgstr "Σελιδα"
 msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d απο %d"
 
-msgid "SPINOFFS"
-msgstr "Spinoff"
+msgid "POST_FLIPNOTE"
+msgstr "Ανεβαστε Flipnote"
 
-msgid "BROWSE_BY_SONG"
-msgstr "Χαζεψτε ανα τραγουδι"
-
-msgid "BROWSE_BY_ARTIST"
-msgstr "Χαζεψτε ανα Καλλιτεχνη"
-
-msgid "BROWSE_BY_ALBUM"
-msgstr "Χαζεψτε ανα Αλμπουμ"
-
-msgid "BROWSE_PLAYLIST"
-msgstr "Χαζεψτε λιστα"
+msgid "PREV"
+msgstr "Προηγουμενο"
 
 msgid "SONG_DETAILS"
 msgstr "Song Details"
+
+msgid "SPINOFFS"
+msgstr "Spinoff"
+
+msgid "UPPERTITLE"
+msgstr "Χαζεψτε το Καναλι"

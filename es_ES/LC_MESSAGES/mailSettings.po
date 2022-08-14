@@ -3,110 +3,110 @@ msgstr ""
 "Language: es_ES\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "DISABLE"
+msgstr "Desabilitar"
+
+msgid "DISABLED"
+msgstr "Desabilitado"
+
+msgid "DISABLE_CONFIRMATION_FORMAT"
+msgstr "¿Estas seguro de que quieres desabilitar los Correos de '%s'?"
+
+msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
+msgstr "El link que has seguido ha caducado."
+
+msgid "EMAIL_SETTING_DISABLED_FINISH_FORMAT"
+msgstr "Has desabilitado los Correos de '%s'."
+
+msgid "ENABLE"
+msgstr "Habilitar"
+
+msgid "ENABLED"
+msgstr "Habilitado"
+
+msgid "HEADER_CHANGE_EMAIL_SETTINGS"
+msgstr "Cambiar los ajustes de Correo"
+
 msgid "HEADER_MAIL_SETTINGS"
 msgstr "Ajustes de Correo"
 
 msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
 msgstr "Debes haber iniciado sesión para editar tus Ajustes de Correo."
 
-msgid "MAIL_TYPE"
-msgstr "Tipo"
-
 msgid "MAIL_STATUS"
 msgstr "Estatus"
 
-msgid "ENABLED"
-msgstr "Habilitado"
-
-msgid "DISABLED"
-msgstr "Desabilitado"
-
-msgid "ENABLE"
-msgstr "Habilitar"
-
-msgid "DISABLE"
-msgstr "Desabilitar"
-
-msgid "TAP_TO_ENABLE"
-msgstr "Presiona para habilitar"
-
-msgid "TAP_TO_DISABLE"
-msgstr "Presiona para desabilitar"
-
-msgid "TYPE_NEWS_NAME"
-msgstr "Noticias de Sudomemo"
-
-msgid "TYPE_NEWS_DESC"
-msgstr "Recibe un Correo electrónico cuando algo nuevo sea publicado en las Noticas de Sudomemo"
-
-msgid "TYPE_PROMO_NAME"
-msgstr "Promoción"
-
-msgid "TYPE_PROMO_DESC"
-msgstr "¡Reciba Correos electrónicos de nuevas funciones, consejos y eventos por venir!"
-
-msgid "TYPE_FAVE_NOTIF_NAME"
-msgstr "Añadido como Favorito"
-
-msgid "TYPE_FAVE_NOTIF_DESC"
-msgstr "Reciba un Correo electrónico cuando alguien te añada a sus Favoritos"
-
-msgid "TYPE_COMMENT_NOTIF_NAME"
-msgstr "Comentario recibido"
-
-msgid "TYPE_COMMENT_NOTIF_DESC"
-msgstr "Reciba un Correo electrónico cuando alguien comente en una de tus Flipnotes"
-
-msgid "TYPE_STAR_REPORT_NAME"
-msgstr "Reporte Diario de Estrellas"
-
-msgid "TYPE_STAR_REPORT_DESC"
-msgstr "Recibe un Correo electrónico al final del día acerca de las estrellas recibidas"
-
-msgid "TYPE_SPINOFF_NOTIF_NAME"
-msgstr "Spin-off Recibida"
-
-msgid "TYPE_SPINOFF_NOTIF_DESC"
-msgstr "Recibe un Correo electrónico cuando alguien suba una spin-off de alguna de tus Flipnotes "
-
-msgid "TYPE_SECURITY_NOTIF_NAME"
-msgstr "Seguridad de la cuenta"
-
-msgid "TYPE_SECURITY_NOTIF_DESC"
-msgstr "Recibe un Correo electrónico cuando tu dirección de Correo electrónico o contraseña sea actualizada"
-
-msgid "TYPE_REPORT_UPDATE_NAME"
-msgstr "Actualización de contenido reportado"
-
-msgid "TYPE_REPORT_UPDATE_DESC"
-msgstr "Recibe un Correo electrónico cuando actualizemos el estado de contenido que hayas reportado"
-
-msgid "TYPE_UNREAD_COMMENTS_NAME"
-msgstr "Comentarios sin leer"
-
-msgid "TYPE_UNREAD_COMMENTS_DESC"
-msgstr "Recibe un resumen por correo de todos los comentarios nuevos que hayas recibido recientemente"
-
-msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
-msgstr "Presiona el estado de un tipo de Correo para verlo o actualizarlo"
-
-msgid "HEADER_CHANGE_EMAIL_SETTINGS"
-msgstr "Cambiar los ajustes de Correo"
-
-msgid "DISABLE_CONFIRMATION_FORMAT"
-msgstr "¿Estas seguro de que quieres desabilitar los Correos de '%s'?"
+msgid "MAIL_TYPE"
+msgstr "Tipo"
 
 msgid "REENABLE_INSTRUCTIONS"
 msgstr "Si quieres volver a habilitarlos puedes hacerlo seleccionando <strong>Ajustes de Correo</strong> en tu Sala del Creador."
 
-msgid "EMAIL_SETTING_DISABLED_FINISH_FORMAT"
-msgstr "Has desabilitado los Correos de '%s'."
+msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
+msgstr "Presiona el estado de un tipo de Correo para verlo o actualizarlo"
 
-msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
-msgstr "El link que has seguido ha caducado."
+msgid "TAP_TO_DISABLE"
+msgstr "Presiona para desabilitar"
+
+msgid "TAP_TO_ENABLE"
+msgstr "Presiona para habilitar"
+
+msgid "TYPE_COMMENT_NOTIF_DESC"
+msgstr "Reciba un Correo electrónico cuando alguien comente en una de tus Flipnotes"
+
+msgid "TYPE_COMMENT_NOTIF_NAME"
+msgstr "Comentario recibido"
+
+msgid "TYPE_FAVE_NOTIF_DESC"
+msgstr "Reciba un Correo electrónico cuando alguien te añada a sus Favoritos"
+
+msgid "TYPE_FAVE_NOTIF_NAME"
+msgstr "Añadido como Favorito"
+
+msgid "TYPE_NEWS_DESC"
+msgstr "Recibe un Correo electrónico cuando algo nuevo sea publicado en las Noticas de Sudomemo"
+
+msgid "TYPE_NEWS_NAME"
+msgstr "Noticias de Sudomemo"
+
+msgid "TYPE_PROMO_DESC"
+msgstr "¡Reciba Correos electrónicos de nuevas funciones, consejos y eventos por venir!"
+
+msgid "TYPE_PROMO_NAME"
+msgstr "Promoción"
+
+msgid "TYPE_REPORT_UPDATE_DESC"
+msgstr "Recibe un Correo electrónico cuando actualizemos el estado de contenido que hayas reportado"
+
+msgid "TYPE_REPORT_UPDATE_NAME"
+msgstr "Actualización de contenido reportado"
+
+msgid "TYPE_SECURITY_NOTIF_DESC"
+msgstr "Recibe un Correo electrónico cuando tu dirección de Correo electrónico o contraseña sea actualizada"
+
+msgid "TYPE_SECURITY_NOTIF_NAME"
+msgstr "Seguridad de la cuenta"
+
+msgid "TYPE_SERVICE_UPDATE_DESC"
+msgstr "Actualizaciones importantes acerca del estado de Sudomemo o disponibilidad relacionada a tu cuenta."
 
 msgid "TYPE_SERVICE_UPDATE_NAME"
 msgstr "Actualizaciones de Servicio"
 
-msgid "TYPE_SERVICE_UPDATE_DESC"
-msgstr "Actualizaciones importantes acerca del estado de Sudomemo o disponibilidad relacionada a tu cuenta."
+msgid "TYPE_SPINOFF_NOTIF_DESC"
+msgstr "Recibe un Correo electrónico cuando alguien suba una spin-off de alguna de tus Flipnotes "
+
+msgid "TYPE_SPINOFF_NOTIF_NAME"
+msgstr "Spin-off Recibida"
+
+msgid "TYPE_STAR_REPORT_DESC"
+msgstr "Recibe un Correo electrónico al final del día acerca de las estrellas recibidas"
+
+msgid "TYPE_STAR_REPORT_NAME"
+msgstr "Reporte Diario de Estrellas"
+
+msgid "TYPE_UNREAD_COMMENTS_DESC"
+msgstr "Recibe un resumen por correo de todos los comentarios nuevos que hayas recibido recientemente"
+
+msgid "TYPE_UNREAD_COMMENTS_NAME"
+msgstr "Comentarios sin leer"

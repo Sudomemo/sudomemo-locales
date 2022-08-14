@@ -3,14 +3,23 @@ msgstr ""
 "Language: cy_GB\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "NO_COMMENTS_YET"
-msgstr "Ni anfonwyd unrhyw negeseuon yma."
+msgid "CHAT_REPLY_FAILED"
+msgstr "Methodd yr ateb sgwrsio. Ceisiwch eto mewn eiliad."
+
+msgid "COMMENT_FAILED_USER_BANNED"
+msgstr "Rydych chi wedi cael eich cyfyngu rhag defnyddio Sudomemo."
+
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "Cadarnhewch eich e-bost cyn ei bostio."
+
+msgid "DUPLICATE_COMMENT_FAILED"
+msgstr "Mae'r sylw hwn eisoes wedi'i bostio i Sudomemo."
+
+msgid "FLIPNOTE_DATA_CORRUPTED"
+msgstr "Mae'r data Flipnote wedi'i lygru. Ceisiwch eto mewn eiliad."
 
 msgid "HEADER_COMMENTS"
 msgstr "Sylwadau"
-
-msgid "PAGE_FORMAT"
-msgstr "Tudalen %d"
 
 msgid "HEADER_NEXT"
 msgstr "Nesaf"
@@ -24,26 +33,17 @@ msgstr "Adnewyddu"
 msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
 msgstr "Rhaid i chi fewngofnodi i bostio neges sgwrsio."
 
-msgid "CHAT_REPLY_FAILED"
-msgstr "Methodd yr ateb sgwrsio. Ceisiwch eto mewn eiliad."
+msgid "MODERATOR"
+msgstr "Safonwr"
 
 msgid "NO_BLANK_MESSAGES_ALLOWED"
 msgstr "Ni allwch bostio neges sgwrsio wag."
 
-msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "Mae'r data Flipnote wedi'i lygru. Ceisiwch eto mewn eiliad."
-
 msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
 msgstr "Fe'ch ataliwyd rhag anfon negeseuon. Efallai na fyddwch chi'n sgwrsio."
 
-msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "Mae'r sylw hwn eisoes wedi'i bostio i Sudomemo."
+msgid "NO_COMMENTS_YET"
+msgstr "Ni anfonwyd unrhyw negeseuon yma."
 
-msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "Rydych chi wedi cael eich cyfyngu rhag defnyddio Sudomemo."
-
-msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Cadarnhewch eich e-bost cyn ei bostio."
-
-msgid "MODERATOR"
-msgstr "Safonwr"
+msgid "PAGE_FORMAT"
+msgstr "Tudalen %d"

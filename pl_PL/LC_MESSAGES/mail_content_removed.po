@@ -3,38 +3,8 @@ msgstr ""
 "Language: pl_PL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-# Content Removed - sent to user when a piece of their content has been moderated away
-msgid "NOTICE"
-msgstr "Uwaga"
-
-# # Intro
-msgid "USER_CONTENT_REMOVED"
-msgstr "Coś, co opublikowałeś/aś, zostało uznane za niezgodne z zasadami i warunkami korzystania z Sudomemo i zostało usunięte."
-
-# # Content types
-msgid "CONTENT_TYPE_flipnote"
-msgstr "Flipnote"
-
-msgid "CONTENT_TYPE_comment"
-msgstr "Komentarz"
-
-msgid "CONTENT_TYPE_chat_message"
-msgstr "Wiadomość na czacie"
-
-# ## We plan on adding user-created themes.
-msgid "CONTENT_TYPE_room_theme"
-msgstr "Motyw Pokoju Twórcy"
-
-msgid "CONTENT_TYPE_profile_bio"
-msgstr "Tekst na profilu"
-
-# ## Catch-all
-msgid "CONTENT_TYPE_content"
-msgstr "Inna zawartość"
-
-# # continued message...
-msgid "REMOVAL_REASON_HEADER"
-msgstr "Zawartość została usunięta z jednego z poniższych powodów:"
+msgid "CONTENT_ID"
+msgstr "ID zawartości:"
 
 msgid "CONTENT_POLICY_REVIEW_INTRO"
 msgstr "Rozumiemy, że podczas przeglądu twórczości trzeba wziąć pod uwagę kontekst i prezentację."
@@ -42,14 +12,36 @@ msgstr "Rozumiemy, że podczas przeglądu twórczości trzeba wziąć pod uwagę
 msgid "CONTENT_POLICY_REVIEW_LINK"
 msgstr "Chcielibyśmy, byś przeczytał/a nasze zasady dot. twórczości:"
 
-msgid "HOW_TO_APPEAL"
-msgstr "Jeśli uważasz, że twoja zawartość została błędnie usunięta, możesz przesłać prośbę o jej przywrócenie:"
-
 msgid "CONTENT_TYPE"
 msgstr "Rodzaj zawartości:"
 
-msgid "CONTENT_ID"
-msgstr "ID zawartości:"
+msgid "CONTENT_TYPE_chat_message"
+msgstr "Wiadomość na czacie"
+
+msgid "CONTENT_TYPE_comment"
+msgstr "Komentarz"
+
+# ## Catch-all
+msgid "CONTENT_TYPE_content"
+msgstr "Inna zawartość"
+
+# # Content types
+msgid "CONTENT_TYPE_flipnote"
+msgstr "Flipnote"
+
+msgid "CONTENT_TYPE_profile_bio"
+msgstr "Tekst na profilu"
+
+# ## We plan on adding user-created themes.
+msgid "CONTENT_TYPE_room_theme"
+msgstr "Motyw Pokoju Twórcy"
+
+msgid "HOW_TO_APPEAL"
+msgstr "Jeśli uważasz, że twoja zawartość została błędnie usunięta, możesz przesłać prośbę o jej przywrócenie:"
+
+# Content Removed - sent to user when a piece of their content has been moderated away
+msgid "NOTICE"
+msgstr "Uwaga"
 
 # # re-download will be made available for certain content types
 msgid "REDOWNLOAD_HEADER"
@@ -57,3 +49,11 @@ msgstr "Jeżeli chcesz ponownie przejrzeć swoją zawartość (%s), możesz pobr
 
 msgid "REDOWNLOAD_LINK"
 msgstr "tutaj"
+
+# # continued message...
+msgid "REMOVAL_REASON_HEADER"
+msgstr "Zawartość została usunięta z jednego z poniższych powodów:"
+
+# # Intro
+msgid "USER_CONTENT_REMOVED"
+msgstr "Coś, co opublikowałeś/aś, zostało uznane za niezgodne z zasadami i warunkami korzystania z Sudomemo i zostało usunięte."

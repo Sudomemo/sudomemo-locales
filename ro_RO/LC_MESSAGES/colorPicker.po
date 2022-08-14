@@ -3,15 +3,6 @@ msgstr ""
 "Language: ro_RO\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "SET_PEN_COLOR"
-msgstr "Setati Culoarea Creionului"
-
-msgid "SET_PAPER_COLOR"
-msgstr "Setati Culoarea Hartiei"
-
-msgid "SELECT_A_COLOR"
-msgstr "Selectati o culoare."
-
 msgid "CURRENT_COLOR"
 msgstr "Culoarea curenta:"
 
@@ -20,3 +11,12 @@ msgstr "Culoarea curenta: implicita"
 
 msgid "RETURN"
 msgstr "Inapoi"
+
+msgid "SELECT_A_COLOR"
+msgstr "Selectati o culoare."
+
+msgid "SET_PAPER_COLOR"
+msgstr "Setati Culoarea Hartiei"
+
+msgid "SET_PEN_COLOR"
+msgstr "Setati Culoarea Creionului"

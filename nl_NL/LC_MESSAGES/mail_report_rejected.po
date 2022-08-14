@@ -3,6 +3,33 @@ msgstr ""
 "Language: nl_NL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "CONTENT_ID"
+msgstr "Content-ID:"
+
+msgid "CONTENT_TYPE"
+msgstr "Inhoudstype:"
+
+msgid "CONTENT_TYPE_chat_message"
+msgstr "Chatbericht"
+
+msgid "CONTENT_TYPE_comment"
+msgstr "Reactie"
+
+# ## Catch-all
+msgid "CONTENT_TYPE_content"
+msgstr "Andere inhoud"
+
+# # Content types
+msgid "CONTENT_TYPE_flipnote"
+msgstr "Flipnote"
+
+msgid "CONTENT_TYPE_profile_bio"
+msgstr "Profieltekst"
+
+# ## We plan on adding user-created themes.
+msgid "CONTENT_TYPE_room_theme"
+msgstr "Thema Makersruimte"
+
 # Content Report Rejected - sent to user who has reported content after report deemed invalid
 msgid "NOTICE"
 msgstr "Opmerking"
@@ -17,30 +44,3 @@ msgstr "We hebben inhoud die je gerapporteerd hebt beoordeeld, en de inhoud sche
 # this message is followed by a link
 msgid "REPORT_REJECTED_INFO"
 msgstr "Rapportages als die van jou maken van Sudomemo een veilige en gastvrije omgeving voor iedereen. We raden je aan ons inhoudsbeleid te lezen on beter te begrijpen wat voor soort inhoud geschikt is voor Sudomemo."
-
-# # Content types
-msgid "CONTENT_TYPE_flipnote"
-msgstr "Flipnote"
-
-msgid "CONTENT_TYPE_comment"
-msgstr "Reactie"
-
-msgid "CONTENT_TYPE_chat_message"
-msgstr "Chatbericht"
-
-# ## We plan on adding user-created themes.
-msgid "CONTENT_TYPE_room_theme"
-msgstr "Thema Makersruimte"
-
-msgid "CONTENT_TYPE_profile_bio"
-msgstr "Profieltekst"
-
-# ## Catch-all
-msgid "CONTENT_TYPE_content"
-msgstr "Andere inhoud"
-
-msgid "CONTENT_TYPE"
-msgstr "Inhoudstype:"
-
-msgid "CONTENT_ID"
-msgstr "Content-ID:"

@@ -3,17 +3,20 @@ msgstr ""
 "Language: cy_GB\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "SET_PROFILE_PICTURE"
-msgstr "Llun Proffil Gosod"
-
-msgid "PROMPT_CHANGE_YOUR_PROFILE_IMAGE"
-msgstr "Newidiwch eich llun proffil?"
+msgid "CANCEL"
+msgstr "Canslo"
 
 msgid "CONTINUE_SET_AS_PROFILE_PICTURE"
 msgstr "Cadarnhewch"
 
+msgid "CREATORS_ROOM"
+msgstr "Ystafell Crewr"
+
 msgid "CURRENT"
 msgstr "Cyfredol"
+
+msgid "LOGIN_REQUIRED_TO_CHANGE"
+msgstr "Rhaid i chi fewngofnodi i newid eich llun proffil."
 
 msgid "NEW"
 msgstr "Newydd"
@@ -21,14 +24,11 @@ msgstr "Newydd"
 msgid "PROFILE_PICTURE_SET"
 msgstr "Newid proffil llun yn llwyddiannus!"
 
+msgid "PROMPT_CHANGE_YOUR_PROFILE_IMAGE"
+msgstr "Newidiwch eich llun proffil?"
+
 msgid "RETURN_TO_FLIPNOTE"
 msgstr "Dychwelyd i Flipnote"
 
-msgid "CREATORS_ROOM"
-msgstr "Ystafell Crewr"
-
-msgid "CANCEL"
-msgstr "Canslo"
-
-msgid "LOGIN_REQUIRED_TO_CHANGE"
-msgstr "Rhaid i chi fewngofnodi i newid eich llun proffil."
+msgid "SET_PROFILE_PICTURE"
+msgstr "Llun Proffil Gosod"

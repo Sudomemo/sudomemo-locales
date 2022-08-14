@@ -3,155 +3,155 @@ msgstr ""
 "Language: pl_PL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "ACHIEVEMENT_EARNED"
+msgstr "Zdobyto osiągnięcie!"
+
+msgid "CASE_IS_EMPTY"
+msgstr "Nie masz żadnych trofeów."
+
+msgid "CONTINUE"
+msgstr "Kontynuuj"
+
 # Trophy Case
 # # UI Headers, messages, labels
 msgid "TROPHY_CASE"
 msgstr "Trofea"
 
-msgid "CASE_IS_EMPTY"
-msgstr "Nie masz żadnych trofeów."
+msgid "TROPHY_DESC_7th_birthday_bash"
+msgstr "Attended Sudomemo's 7 Years of Flipnote Fun event"
 
-msgid "ACHIEVEMENT_EARNED"
-msgstr "Zdobyto osiągnięcie!"
+msgid "TROPHY_DESC_8th_birthday_bash"
+msgstr "Attended Sudomemo's 8 Years of Flipnote Fun event"
 
-msgid "CONTINUE"
-msgstr "Kontynuuj"
+msgid "TROPHY_DESC_archive_supporter"
+msgstr "Contributor to the Flipnote Archive Ko-Fi to help preserve Flipnote history!"
+
+msgid "TROPHY_DESC_colors_promo"
+msgstr "Jeden ze zwycięzców Tematu Tygodnia Colors! x Sudomemo, 'Into The Light'"
+
+msgid "TROPHY_DESC_demo_tester"
+msgstr "Weź udział w programie testowania aktualizacji Sudomemo z 2017"
+
+msgid "TROPHY_DESC_early_adopter"
+msgstr "Dołącz do Sudomemo podczas pierwszego miesiąca jego istnienia"
+
+msgid "TROPHY_DESC_featured_artist"
+msgstr "Zostań wybrany jako wyróżniony twórca na Sudomemo"
+
+msgid "TROPHY_DESC_featured_flipnote"
+msgstr "Jeden z twoich Flipnotes został wyróżniony"
+
+msgid "TROPHY_DESC_ffotd"
+msgstr "Opublikuj pierwszy Flipnote nowej dekady"
+
+msgid "TROPHY_DESC_fifth_bday_event"
+msgstr "Był/a na imprezie urodzinowej z okazji piątych urodzin Sudomemo"
+
+msgid "TROPHY_DESC_folder"
+msgstr "Wykorzystaj moc swojego komputera z Folding@Home by pomóc w walce z chorobami"
+
+msgid "TROPHY_DESC_legacy_citizen"
+msgstr "Miał/a Sudomemo Citizenship zanim zmieniło się na Sudomemo PLus"
+
+msgid "TROPHY_DESC_meet_bailey_flitwing"
+msgstr "Ciekawa świata poza jej gniazdem."
+
+msgid "TROPHY_DESC_meet_lazy_paisley"
+msgstr "Lubi swoje proste życie. I jedzenie."
+
+msgid "TROPHY_DESC_meet_mitsuo_meow"
+msgstr "Chce przynieść szczęście i pomyślność dla wszystkich dookoła niej."
+
+msgid "TROPHY_DESC_meet_russell_ramblewood"
+msgstr "Pozornie może się wydawać dość niemiły, ale zawsze przejmuje się jak minął twój dzień."
+
+msgid "TROPHY_DESC_meet_ziggy_starburst"
+msgstr "Żyje skromnie, lecz z klasą."
+
+msgid "TROPHY_DESC_neighborhood_watch"
+msgstr "Prawidłowo zgłoś naruszenie zasad dot. twórczości Sudomemo"
+
+msgid "TROPHY_DESC_nitro_booster"
+msgstr "Showed how cool they (or a friend) were by boosting the Sudomemo Discord server."
+
+msgid "TROPHY_DESC_one_million_flips_event"
+msgstr "Był/a na imprezie z okazji miliona Flipnotes"
+
+msgid "TROPHY_DESC_spookmaster"
+msgstr "Spookmaster Award for Excellence in Witchcraft and Wizardry."
+
+msgid "TROPHY_DESC_translator"
+msgstr "Pomóż w tłumaczeniu Sudomemo"
+
+msgid "TROPHY_DESC_weekly_topic_winner"
+msgstr "Twój Flipnote wygrał Temat Tygodnia"
+
+msgid "TROPHY_NAME_7th_birthday_bash"
+msgstr "7th Birthday Bash"
+
+msgid "TROPHY_NAME_8th_birthday_bash"
+msgstr "8th Birthday Bash"
+
+msgid "TROPHY_NAME_archive_supporter"
+msgstr "Archive Supporter"
+
+msgid "TROPHY_NAME_colors_promo"
+msgstr "Zwycięzca Tematu Tygodnia Colors! x Sudomemo"
 
 # # Trophy names and descriptions
 msgid "TROPHY_NAME_demo_tester"
 msgstr "Tester Demo"
 
-msgid "TROPHY_DESC_demo_tester"
-msgstr "Weź udział w programie testowania aktualizacji Sudomemo z 2017"
-
 msgid "TROPHY_NAME_early_adopter"
 msgstr "Wczesny użytkownik"
-
-msgid "TROPHY_DESC_early_adopter"
-msgstr "Dołącz do Sudomemo podczas pierwszego miesiąca jego istnienia"
 
 msgid "TROPHY_NAME_featured_artist"
 msgstr "Wyróżniony twórca"
 
-msgid "TROPHY_DESC_featured_artist"
-msgstr "Zostań wybrany jako wyróżniony twórca na Sudomemo"
-
 msgid "TROPHY_NAME_featured_flipnote"
 msgstr "Wyróżniony Flipnote"
-
-msgid "TROPHY_DESC_featured_flipnote"
-msgstr "Jeden z twoich Flipnotes został wyróżniony"
 
 msgid "TROPHY_NAME_ffotd"
 msgstr "Pierwszy Flipnote dekady"
 
-msgid "TROPHY_DESC_ffotd"
-msgstr "Opublikuj pierwszy Flipnote nowej dekady"
-
 msgid "TROPHY_NAME_fifth_bday_event"
 msgstr "Piąte urodziny Sudomemo"
-
-msgid "TROPHY_DESC_fifth_bday_event"
-msgstr "Był/a na imprezie urodzinowej z okazji piątych urodzin Sudomemo"
-
-msgid "TROPHY_NAME_legacy_citizen"
-msgstr "Były Citizen"
-
-msgid "TROPHY_DESC_legacy_citizen"
-msgstr "Miał/a Sudomemo Citizenship zanim zmieniło się na Sudomemo PLus"
-
-msgid "TROPHY_NAME_meet_lazy_paisley"
-msgstr "Spotkaj Lazy Paisley"
-
-msgid "TROPHY_DESC_meet_lazy_paisley"
-msgstr "Lubi swoje proste życie. I jedzenie."
-
-msgid "TROPHY_NAME_meet_bailey_flitwing"
-msgstr "Spotkaj Bailey Flitwing"
-
-msgid "TROPHY_DESC_meet_bailey_flitwing"
-msgstr "Ciekawa świata poza jej gniazdem."
-
-msgid "TROPHY_NAME_meet_ziggy_starburst"
-msgstr "Spotkaj Ziggy Starburst"
-
-msgid "TROPHY_DESC_meet_ziggy_starburst"
-msgstr "Żyje skromnie, lecz z klasą."
-
-msgid "TROPHY_NAME_meet_russell_ramblewood"
-msgstr "Spotkaj Russell Ramblewood"
-
-msgid "TROPHY_DESC_meet_russell_ramblewood"
-msgstr "Pozornie może się wydawać dość niemiły, ale zawsze przejmuje się jak minął twój dzień."
-
-msgid "TROPHY_NAME_meet_mitsuo_meow"
-msgstr "Spotkaj Mitsuo Meow"
-
-msgid "TROPHY_DESC_meet_mitsuo_meow"
-msgstr "Chce przynieść szczęście i pomyślność dla wszystkich dookoła niej."
-
-msgid "TROPHY_NAME_neighborhood_watch"
-msgstr "Czujny patrolowiec"
-
-msgid "TROPHY_DESC_neighborhood_watch"
-msgstr "Prawidłowo zgłoś naruszenie zasad dot. twórczości Sudomemo"
-
-msgid "TROPHY_NAME_one_million_flips_event"
-msgstr "Impreza z okazji miliona Flipnotes"
-
-msgid "TROPHY_DESC_one_million_flips_event"
-msgstr "Był/a na imprezie z okazji miliona Flipnotes"
-
-msgid "TROPHY_NAME_translator"
-msgstr "Tłumacz"
-
-msgid "TROPHY_DESC_translator"
-msgstr "Pomóż w tłumaczeniu Sudomemo"
-
-msgid "TROPHY_NAME_weekly_topic_winner"
-msgstr "Zwycięzca Tematu Tygodnia"
-
-msgid "TROPHY_DESC_weekly_topic_winner"
-msgstr "Twój Flipnote wygrał Temat Tygodnia"
 
 msgid "TROPHY_NAME_folder"
 msgstr "Folder"
 
-msgid "TROPHY_DESC_folder"
-msgstr "Wykorzystaj moc swojego komputera z Folding@Home by pomóc w walce z chorobami"
+msgid "TROPHY_NAME_legacy_citizen"
+msgstr "Były Citizen"
 
-msgid "TROPHY_NAME_colors_promo"
-msgstr "Zwycięzca Tematu Tygodnia Colors! x Sudomemo"
+msgid "TROPHY_NAME_meet_bailey_flitwing"
+msgstr "Spotkaj Bailey Flitwing"
 
-msgid "TROPHY_DESC_colors_promo"
-msgstr "Jeden ze zwycięzców Tematu Tygodnia Colors! x Sudomemo, 'Into The Light'"
+msgid "TROPHY_NAME_meet_lazy_paisley"
+msgstr "Spotkaj Lazy Paisley"
 
-msgid "TROPHY_NAME_spookmaster"
-msgstr "Spookmaster"
+msgid "TROPHY_NAME_meet_mitsuo_meow"
+msgstr "Spotkaj Mitsuo Meow"
 
-msgid "TROPHY_DESC_spookmaster"
-msgstr "Spookmaster Award for Excellence in Witchcraft and Wizardry."
+msgid "TROPHY_NAME_meet_russell_ramblewood"
+msgstr "Spotkaj Russell Ramblewood"
+
+msgid "TROPHY_NAME_meet_ziggy_starburst"
+msgstr "Spotkaj Ziggy Starburst"
+
+msgid "TROPHY_NAME_neighborhood_watch"
+msgstr "Czujny patrolowiec"
 
 msgid "TROPHY_NAME_nitro_booster"
 msgstr "Nitro Booster"
 
-msgid "TROPHY_DESC_nitro_booster"
-msgstr "Showed how cool they (or a friend) were by boosting the Sudomemo Discord server."
+msgid "TROPHY_NAME_one_million_flips_event"
+msgstr "Impreza z okazji miliona Flipnotes"
 
-msgid "TROPHY_NAME_7th_birthday_bash"
-msgstr "7th Birthday Bash"
+msgid "TROPHY_NAME_spookmaster"
+msgstr "Spookmaster"
 
-msgid "TROPHY_DESC_7th_birthday_bash"
-msgstr "Attended Sudomemo's 7 Years of Flipnote Fun event"
+msgid "TROPHY_NAME_translator"
+msgstr "Tłumacz"
 
-msgid "TROPHY_NAME_8th_birthday_bash"
-msgstr "8th Birthday Bash"
-
-msgid "TROPHY_DESC_8th_birthday_bash"
-msgstr "Attended Sudomemo's 8 Years of Flipnote Fun event"
-
-msgid "TROPHY_NAME_archive_supporter"
-msgstr "Archive Supporter"
-
-msgid "TROPHY_DESC_archive_supporter"
-msgstr "Contributor to the Flipnote Archive Ko-Fi to help preserve Flipnote history!"
+msgid "TROPHY_NAME_weekly_topic_winner"
+msgstr "Zwycięzca Tematu Tygodnia"

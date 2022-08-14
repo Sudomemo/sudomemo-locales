@@ -3,14 +3,14 @@ msgstr ""
 "Language: es_ES\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "UPPERTITLE"
-msgstr "Buscar"
+msgid "FAVORITES_FEED_FORMAT"
+msgstr "Contenido favorito de %s"
+
+msgid "FLIPNOTES_BY_FORMAT"
+msgstr "Flipnotes por %s"
 
 msgid "NEXT"
 msgstr "Siguiente página"
-
-msgid "PREV"
-msgstr "Página anterior"
 
 msgid "PAGE"
 msgstr "Página"
@@ -18,11 +18,11 @@ msgstr "Página"
 msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d de %d"
 
-msgid "FLIPNOTES_BY_FORMAT"
-msgstr "Flipnotes por %s"
+msgid "PREV"
+msgstr "Página anterior"
 
 msgid "STARRED_BY_FORMAT"
 msgstr "Calificado por %s"
 
-msgid "FAVORITES_FEED_FORMAT"
-msgstr "Contenido favorito de %s"
+msgid "UPPERTITLE"
+msgstr "Buscar"

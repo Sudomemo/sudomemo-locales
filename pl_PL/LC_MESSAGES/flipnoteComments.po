@@ -3,56 +3,56 @@ msgstr ""
 "Language: pl_PL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "COMMENT_FAILED_USER_BANNED"
+msgstr "Twoja możliwość interakcji z Sudomemo została zawieszona."
+
+msgid "COMMENT_POST_FAILED"
+msgstr "Wysłanie komentarza nie powiodło się. Spróbuj ponownie później."
+
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "Potwierdź swój e-mail przed wysłaniem."
+
+msgid "DUPLICATE_COMMENT_FAILED"
+msgstr "Ten komentarz został już wysłany na Sudomemo."
+
+msgid "FLIPNOTE_COMMENTS_DISALLOWED"
+msgstr "Nie możesz komentować na tym Flipnote."
+
+msgid "FLIPNOTE_DATA_CORRUPTED"
+msgstr "Dane tego Flipnote są uszkodzone. Spróbuj ponownie później."
+
 msgid "HEADER_COMMENTS"
 msgstr "Komentarze"
 
 msgid "HEADER_DETAILS"
 msgstr "Informacje"
 
-msgid "HEADER_PREV"
-msgstr "Poprzednia"
-
 msgid "HEADER_NEXT"
 msgstr "Następna"
+
+msgid "HEADER_PREV"
+msgstr "Poprzednia"
 
 msgid "HEADER_REFRESH"
 msgstr "Odśwież"
 
-msgid "PAGE_FORMAT"
-msgstr "Strona %d"
-
-msgid "NO_COMMENTS_YET"
-msgstr "Ten Flipnote nie ma jeszcze żadnych komentarzy."
-
 msgid "LOGIN_REQUIRED_TO_POST_COMMENT"
 msgstr "Musisz się zalogować by wysłać komentarz."
 
-msgid "COMMENT_POST_FAILED"
-msgstr "Wysłanie komentarza nie powiodło się. Spróbuj ponownie później."
+msgid "MODERATOR"
+msgstr "Moderator"
 
 msgid "NO_BLANK_COMMENTS_ALLOWED"
 msgstr "Nie możesz wysłać pustego komentarza."
 
-msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "Dane tego Flipnote są uszkodzone. Spróbuj ponownie później."
-
-msgid "FLIPNOTE_COMMENTS_DISALLOWED"
-msgstr "Nie możesz komentować na tym Flipnote."
-
 msgid "NO_COMMENTS_WHILE_MUTED"
 msgstr "Zostałeś wyciszony. Nie możesz komentować."
 
-msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "Ten komentarz został już wysłany na Sudomemo."
+msgid "NO_COMMENTS_YET"
+msgstr "Ten Flipnote nie ma jeszcze żadnych komentarzy."
 
-msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "Twoja możliwość interakcji z Sudomemo została zawieszona."
-
-msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Potwierdź swój e-mail przed wysłaniem."
-
-msgid "MODERATOR"
-msgstr "Moderator"
+msgid "PAGE_FORMAT"
+msgstr "Strona %d"
 
 msgid "SUDOMEMO_USER"
 msgstr "Sudomemo User"

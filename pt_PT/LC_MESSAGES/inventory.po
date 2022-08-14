@@ -3,32 +3,32 @@ msgstr ""
 "Language: pt_PT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "DECOR"
+msgstr "Decor"
+
 msgid "INVENTORY"
 msgstr "Inventory"
-
-msgid "TICKETS"
-msgstr "Tickets"
 
 msgid "ITEMS"
 msgstr "Items"
 
+msgid "NEXT"
+msgstr "Next"
+
 msgid "PETS"
 msgstr "Pets"
-
-msgid "DECOR"
-msgstr "Decor"
 
 msgid "PREV"
 msgstr "Prev"
 
-msgid "NEXT"
-msgstr "Next"
+msgid "REDEEM"
+msgstr "Redeem"
 
-msgid "USE_ITEM"
-msgstr "Use item"
+msgid "TICKETS"
+msgstr "Tickets"
 
 msgid "USE"
 msgstr "Use"
 
-msgid "REDEEM"
-msgstr "Redeem"
+msgid "USE_ITEM"
+msgstr "Use item"

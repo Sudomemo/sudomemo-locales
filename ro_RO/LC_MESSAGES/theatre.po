@@ -3,36 +3,157 @@ msgstr ""
 "Language: ro_RO\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-# This file contains most of the translations for Sudomemo Theatre.
-# Meta tags, descriptions, etc
-msgid "SUDOMEMO"
-msgstr "Sudomemo"
+msgid "404_GO_BACK"
+msgstr "Înapoi la Teatrul Sudomemo"
 
-msgid "SUDOMEMO_THEATRE"
-msgstr "Teatrul Sudomemo"
+# 404 Page
+msgid "404_OOPS_NOT_FOUND"
+msgstr "Ups - Această pagină nu a putut fi găsită"
 
-msgid "SUDOMEMO_NEWS"
-msgstr "Știrile Sudomemo"
+msgid "404_WHOOPS_NOT_THERE"
+msgstr "Ups! Orice ați fi căutat, nu era acolo."
 
-msgid "SUDOMEMO_SHOP"
-msgstr "Magazin Sudomemo"
+# Account Settings (Theatre)
+msgid "ACCOUNT_SETTINGS"
+msgstr "Setări de cont"
 
-msgid "SUDOMEMO_SHOP_META_DESCRIPTION"
-msgstr "Magazin Sudomemo: marfă Sudomemo, bilete pentru Plus și stele, și alte lucruri distractive!"
+msgid "ALT_DRAWN_COMMENT_BY_USER"
+msgstr "Conținut desenat de %s"
 
-msgid "DEFAULT_META_DESCRIPTION"
-msgstr "Sudomemo: Împarte lumii Flipnote-urile tale! Pentru Nintendo DSi și 3DS."
+msgid "ALT_USER_PROFILE_PICTURE"
+msgstr "Poza de profil al lui %s"
 
-msgid "FRONTPAGE_TITLE_TAGLINE"
-msgstr "Sudomemo: Flipnote Hatena s-a întors!"
+# Front Page
+# # Alt tags, aria labels
+msgid "ALT_WEEKLY_TOPIC_BANNER"
+msgstr "Banner ce face reclamă la Subiectul Săptămânal"
 
-msgid "VIEWPAGE_COMMENT_TEXTBOX"
-msgstr "Cutie text comentarii"
+msgid "ARCHIVE"
+msgstr "Arhivă"
 
-# # "Username - 3 fans, 25 Flipnotes on Sudomemo"
-# # Not going to bother making plural variants
-msgid "PROFILE_DEFAULT_DESCRIPTION"
-msgstr "%s - %s fani, %s Flipnote-uri pe Sudomemo"
+msgid "ARCHIVED"
+msgstr "Arhivat"
+
+msgid "ARCHIVE_FLIPNOTE"
+msgstr "Arhivați Flipnote"
+
+msgid "ARCHIVE_FLIPNOTE_DESC"
+msgstr "Acest Flipnote a fost postat inițial pe Flipnote Hatena."
+
+msgid "ARCHIVE_PROFILE"
+msgstr "Arhivați profil"
+
+msgid "ARCHIVE_PROFILE_DESC"
+msgstr "Aceasta este o arhivă a unui profil de Flipnote Hatena."
+
+# Very common terms and one-word translations
+msgid "ARTIST"
+msgstr "Artist"
+
+# Back, in the sense of navigation
+msgid "BACK"
+msgstr "Înapoi"
+
+# Browse Channel
+msgid "BROWSE_CHANNEL_NO_FLIPNOTES_YET"
+msgstr "Nu există niciun Flipnote pe acest canal încă."
+
+# Browse Song
+msgid "BROWSE_SONG_NO_FLIPNOTES_YET"
+msgstr "Nu există niciun Flipnote cu acest cântec încă."
+
+# Additional things
+# See Flipnotes with the song <song name> by <band/artist name>
+msgid "BROWSE_SONG_YOU_ARE_BROWSING_SONG"
+msgstr "Vedeți Flipnote-uri cu cântecul %s de %s"
+
+msgid "BTN_GET_STARTED"
+msgstr "Începeți"
+
+msgid "BTN_GO_TO_SETTINGS"
+msgstr "Mergeți în Setări"
+
+msgid "BTN_JOIN_DISCORD"
+msgstr "Alăturați-vă pe Discord"
+
+msgid "BTN_SIGN_IN_WITH_GOOGLE"
+msgstr "Conectați-vă cu Google"
+
+msgid "BTN_STARTING_UPLOAD"
+msgstr "Se începe..."
+
+msgid "BTN_START_UPLOAD"
+msgstr "Începeți încărcarea"
+
+msgid "BTN_UPLOAD_FAILED"
+msgstr "Încărcare eșuată..."
+
+msgid "CATEGORY"
+msgstr "Categorie"
+
+msgid "CHANNEL"
+msgstr "Canal"
+
+msgid "CHANNELS"
+msgstr "Canale"
+
+msgid "CHANNEL_CAT_NAME_ART"
+msgstr "Artă"
+
+msgid "CHANNEL_CAT_NAME_FANDOMS"
+msgstr "Fandom-uri"
+
+msgid "CHANNEL_CAT_NAME_GENRES"
+msgstr "Genuri"
+
+# # categories
+msgid "CHANNEL_CAT_NAME_NONE"
+msgstr "Niciunul"
+
+msgid "CHANNEL_CAT_NAME_PERSONAL"
+msgstr "Personal"
+
+msgid "CHANNEL_CAT_NAME_RESOURCES"
+msgstr "Resurse"
+
+msgid "CHANNEL_CAT_NAME_ROLEPLAYS"
+msgstr "Jocuri de Rol"
+
+msgid "CHANNEL_CAT_NAME_TOPICS"
+msgstr "Subiecte"
+
+msgid "CHANNEL_CAT_NAME_WEEKLY_TOPIC"
+msgstr "Subiectul Săptămânal"
+
+# # Posting permissions
+msgid "CHANNEL_PERM_CLOSED"
+msgstr "Închis"
+
+msgid "CHANNEL_PERM_OPEN"
+msgstr "Deschis"
+
+msgid "COMMENTS"
+msgstr "Comentarii"
+
+msgid "CONTINUE"
+msgstr "Continuati"
+
+msgid "COULD_NOT_SAVE_DETAILS"
+msgstr "Nu s-au putut salva detaliile"
+
+msgid "CREATOR"
+msgstr "Creator"
+
+msgid "CREATORS"
+msgstr "Creatori"
+
+msgid "CREATORS_ROOM"
+msgstr "Camera Creatorului"
+
+# November 29th, 2019 08:23:07
+# Used for Flipnote Details
+msgid "DATETIME_MONTH_DAY_ORDINAL_HOUR_MINUTE_SECOND_FORMAT"
+msgstr "F jS, Y H:i:s"
 
 # Date-time formats
 # You can adjust the way dates display to match your region better.
@@ -44,48 +165,94 @@ msgstr "%s - %s fani, %s Flipnote-uri pe Sudomemo"
 msgid "DATETIME_WEEKDAY_MONTH_DAY_ORDINAL_YEAR_FORMAT"
 msgstr "l, F jS, Y"
 
-# November 29th, 2019 08:23:07
-# Used for Flipnote Details
-msgid "DATETIME_MONTH_DAY_ORDINAL_HOUR_MINUTE_SECOND_FORMAT"
-msgstr "F jS, Y H:i:s"
-
-# Very common terms and one-word translations
-msgid "ARTIST"
-msgstr "Artist"
-
-# Back, in the sense of navigation
-msgid "BACK"
-msgstr "Înapoi"
-
-msgid "CATEGORY"
-msgstr "Categorie"
-
-msgid "CHANNEL"
-msgstr "Canal"
-
-msgid "CHANNELS"
-msgstr "Canale"
-
-msgid "COMMENTS"
-msgstr "Comentarii"
-
-msgid "CREATOR"
-msgstr "Creator"
-
-msgid "CREATORS"
-msgstr "Creatori"
-
-msgid "CREATORS_ROOM"
-msgstr "Camera Creatorului"
-
-msgid "DETAILS"
-msgstr "Detalii"
+msgid "DEFAULT_META_DESCRIPTION"
+msgstr "Sudomemo: Împarte lumii Flipnote-urile tale! Pentru Nintendo DSi și 3DS."
 
 msgid "DESCRIPTION"
 msgstr "Descriere"
 
+msgid "DESCRIPTION_WILL_GO_HERE"
+msgstr "Descrierea dvs. va merge aici."
+
+msgid "DETAILS"
+msgstr "Detalii"
+
+# This refers to Discord, which is a chat app.
+msgid "DISCORD"
+msgstr "Discord"
+
+msgid "DISCORD_HOW_TO_LINK"
+msgstr "Cum să asociați"
+
+# Connected since December 27th, 2020
+msgid "DISCORD_LINKED_ON_DATE"
+msgstr "Conectat de pe %s"
+
 msgid "DOWNLOADS"
 msgstr "Descărcări"
+
+# Flipnote View Page
+msgid "EDIT_FLIPNOTE"
+msgstr "Editați Flipnote"
+
+# # MusicMatch
+msgid "EDIT_PAGE_ABOUT_MUSICMATCH_1"
+msgstr "Potrivrea de Muzică Sudomemo ascultă Flipnote-urile dvs. pentru a găsi cântecul din ele!"
+
+msgid "EDIT_PAGE_ABOUT_MUSICMATCH_2"
+msgstr "Potrivirea de Muzică va găsi uneori mai multe cântece potențiale, sau unul greșit. Dacă se întâmplă asta, puteți să actualizați cântecul aici."
+
+msgid "EDIT_PAGE_ABOUT_MUSICMATCH_3"
+msgstr "Dacă actualizați cântecul, Potrivirea de Muzică va învăța din acea informație pentru a detecta mai bine cântecele din Flipnote audio pe viitor."
+
+msgid "EDIT_PAGE_DESCRIPTION_TOOLTIP"
+msgstr "Litere, numere, și simboluri, maxim 320 de caractere."
+
+msgid "EDIT_PAGE_ENTER_A_DESCRIPTION"
+msgstr "Introduceți o Descriere"
+
+msgid "EDIT_PAGE_ENTER_A_TITLE"
+msgstr "Introduceți un Titlu"
+
+msgid "EDIT_PAGE_FLIPNOTE_PREVIEW_NOTE"
+msgstr "Notă: Previzualizarea Flipnote nu se actualizează."
+
+msgid "EDIT_PAGE_MUSICMATCH_NONE_CORRECT"
+msgstr "Niciuna dintre acestea nu sunt corecte"
+
+msgid "EDIT_PAGE_MUSICMATCH_NO_BGM"
+msgstr "Flipnote-ul dvs. nu are un cântec pe fundal"
+
+msgid "EDIT_PAGE_MUSICMATCH_PENDING_MAPPING"
+msgstr "Potrivrea de Muzică vă procesează Flipnote-ul. Încercați din nou mai târziu."
+
+msgid "EDIT_PAGE_MUSICMATCH_PREVIEW_ON_SPOTIFY"
+msgstr "Vedeți pe Spotify"
+
+msgid "EDIT_PAGE_MUSICMATCH_PREVIEW_ON_YOUTUBE"
+msgstr "Vedeți pe YouTube Music"
+
+msgid "EDIT_PAGE_MUSICMATCH_UNMAPPED"
+msgstr "Potrivirea de Muzică nu a ajuns la Flipnote-ul dvs. încă. Încercați din nou mai târziu."
+
+msgid "EDIT_PAGE_MUSICMATCH_UNMATCHED"
+msgstr "Potrivirea de Muzică nu a găsit niciun cântec care să se potrivească cu Flipnote-ul dvs."
+
+msgid "EDIT_PAGE_PLUS_AUDIO_ENHANCEMENT"
+msgstr "Îmbunătățire audio"
+
+# Flipnote smoothing
+msgid "EDIT_PAGE_PLUS_SMOOTHING"
+msgstr "Netezire"
+
+msgid "EDIT_PAGE_SUDOMEMO_PLUS_REQUIRED"
+msgstr "Vă trebuie Sudomemo Plus pentru a folosi aceste caracteristici."
+
+msgid "EDIT_PAGE_TITLE_AND_DESCRIPTION"
+msgstr "Titlu și Descriere"
+
+msgid "EDIT_PAGE_TITLE_TOOLTIP"
+msgstr "Litere, numere, și simboluri, maxim 40 de caractere."
 
 msgid "FANS"
 msgstr "Fani"
@@ -93,8 +260,8 @@ msgstr "Fani"
 msgid "FEATURED"
 msgstr "Recomandate"
 
-msgid "FLIPNOTE_ID"
-msgstr "ID Flipnote"
+msgid "FEATURED_FLIPNOTES"
+msgstr "Flipnote-uri populare"
 
 msgid "FLIPNOTE"
 msgstr "Flipnote"
@@ -102,16 +269,89 @@ msgstr "Flipnote"
 msgid "FLIPNOTES"
 msgstr "Flipnote-uri"
 
-# This is short for Flipnote Studio ID. Leave it as "FSID" except in Japanese, where it should be うごメモID
-msgid "FSID"
-msgstr "FSID"
+msgid "FLIPNOTE_ARCHIVE_BUTTON_TOGGLE"
+msgstr "Afișează link pentru conținutul arhivat de pe Flipnote Hatena de pe profilul meu"
+
+msgid "FLIPNOTE_ARCHIVE_PROFILE_AVAILABLE"
+msgstr "Profilul dvs. de Flipnote Hatena este disponibil pe Programul de Previzualizare Flipnote Archive! Puteți viziona vechile voastre Flipnote-uri dacă vizitați profilul dvs. pe Teatrul Sudomemo."
+
+msgid "FLIPNOTE_ARCHIVE_PROFILE_NOT_AVAILABLE"
+msgstr "Un profil Flipnote Hatena arhivat nu este disponibil pentru acest cont."
+
+msgid "FLIPNOTE_ARCHIVE_PROFILE_SETTING_INFORMATION"
+msgstr "Cât timp sunteți conectat, linkul de arhivă va fi mereu afișat pe profilul dvs. Puteți alege dacă vreți să-l faceți vizibil sau nu pentru alți utilizatori."
+
+msgid "FLIPNOTE_ARCHIVE_SETTINGS"
+msgstr "Setări pentru arhivă"
+
+# # Flipnote by...
+msgid "FLIPNOTE_BY_FORMAT"
+msgstr "Flipnote de %s"
+
+msgid "FLIPNOTE_HATENA_PROFILE"
+msgstr "Profil Flipnote Hatena"
+
+msgid "FLIPNOTE_ID"
+msgstr "ID Flipnote"
+
+# # Flipnote sections
+msgid "FLIPNOTE_LIST_RECALCULATING"
+msgstr "Clasarea este recalculată momentan. Reîncărcați pagina în câteva momente."
+
+msgid "FLIPNOTE_SETTINGS_UPLOAD_TO_YOUTUBE"
+msgstr "Puteți să încărcați Flipnote-urile dvs. pe YouTube. Apăsați butonul de mai jos pentru a începe."
 
 # Japanese translation should also be be うごメモID here
 msgid "FLIPNOTE_STUDIO_ID"
 msgstr "ID Flipnote Studio"
 
+msgid "FOLLOW"
+msgstr "Urmăriți"
+
+msgid "FOLLOWERS"
+msgstr "Urmăritori"
+
+msgid "FOLLOWING"
+msgstr "Urmăriți"
+
+# Creator's Room (Profile)
+msgid "FOLLOWS_YOU"
+msgstr "Vă Urmărește"
+
+msgid "FOLLOW_BACK"
+msgstr "Urmăriți Înapoi"
+
+msgid "FORGOT_YOUR_PASSWORD"
+msgstr "Ați uitat parola?"
+
+# # Right sidebar
+msgid "FRONTPAGE_FLIPNOTE_SPOTLIGHT"
+msgstr "Flipnote în lumina reflectoarelor"
+
+msgid "FRONTPAGE_TITLE_TAGLINE"
+msgstr "Sudomemo: Flipnote Hatena s-a întors!"
+
+msgid "FRONTPAGE_TRENDING_CREATORS"
+msgstr "Creatori în Trending"
+
+# This is short for Flipnote Studio ID. Leave it as "FSID" except in Japanese, where it should be うごメモID
+msgid "FSID"
+msgstr "FSID"
+
 msgid "GENRE"
 msgstr "Gen"
+
+# # はてなID
+msgid "HATENA_ID"
+msgstr "ID Hatena"
+
+msgid "HEADER_CHANGE_PASSWORD"
+msgstr "Schimbați Parola"
+
+# Upload page specifics
+# Upload to YouTube header
+msgid "HEADER_UPLOAD_TO_YOUTUBE"
+msgstr "Încărcați pe YouTube"
 
 msgid "HELP_CENTER"
 msgstr "Centru de Ajutor"
@@ -119,11 +359,38 @@ msgstr "Centru de Ajutor"
 msgid "HOT"
 msgstr "Fierbinți"
 
+msgid "HOT_FLIPNOTES"
+msgstr "Flipnote-uri Fierbinți"
+
+# Do not translate ".sudo unlink"
+msgid "HOW_TO_UNLINK_DISCORD"
+msgstr "Pentru a vă deconecta contul Discord, scrieți această comandă în conversație: .sudo unlink"
+
 msgid "INFO"
 msgstr "Info"
 
 msgid "LATEST"
 msgstr "Cele mai recente"
+
+msgid "LEARN_MORE"
+msgstr "Aflați mai multe"
+
+msgid "LINK_REQUIRED_BEFORE_UPLOAD"
+msgstr "Trebuie să vă asociați canalul de YouTube pentru a înainte de a încărca."
+
+# # Ticket types..
+# Login Page
+msgid "LOGIN_FAILED_CHECK_DETAILS"
+msgstr "Nu v-am putut conecta. Verificați detaliile intoduse și încercați din nou."
+
+msgid "LOGIN_PLACEHOLDER_PASSWORD"
+msgstr "Parolă"
+
+msgid "LOGIN_PLACEHOLDER_USERNAME"
+msgstr "Email sau Flipnote Studio ID"
+
+msgid "LOGIN_SIGNUP_SELECT_DEVICE"
+msgstr "Alegeți dispozitivul"
 
 msgid "MODERATOR"
 msgstr "Moderator"
@@ -134,138 +401,56 @@ msgstr "Mai multe"
 msgid "MUSICMATCH"
 msgstr "MusicMatch"
 
-msgid "NEXT"
-msgstr "Urm."
+msgid "MUSICMATCH_ABOUT"
+msgstr "Despre Potrivirea de Muzică"
 
-msgid "NEWS"
-msgstr "Știri"
+# # MusicMatch
+# ## Where the Flipnote's audio starts at in the song
+msgid "MUSICMATCH_AUDIO_OFFSET"
+msgstr "Începe de la %s"
 
-# Channel permissions: Is posting Flipnotes to a channel allowed or not?
-msgid "PERMISSIONS"
-msgstr "Permisiuni"
+msgid "MUSICMATCH_LISTEN_ON_SPOTIFY"
+msgstr "Ascultați pe Spotify"
 
-msgid "POPULAR"
-msgstr "Populare"
+msgid "MUSICMATCH_LISTEN_ON_YOUTUBE_MUSIC"
+msgstr "Ascultați pe YouTube Music"
 
-# Previous, abbreviated "Prev". Should be a maximum of 4 characters.
-msgid "PREV"
-msgstr "Ante."
-
-msgid "RANDOM"
-msgstr "La întâmplare"
-
-# Referring to a release date/publishing date
-msgid "RELEASED"
-msgstr "Lansat"
-
-msgid "RANK"
-msgstr "Rang"
-
-msgid "RECENT"
-msgstr "Recent"
-
-msgid "SAVE"
-msgstr "Salvați"
-
-msgid "SAVING"
-msgstr "Se salvează"
-
-msgid "SEARCH"
-msgstr "Căutați"
-
-msgid "SHARE"
-msgstr "Trimiteți"
-
-msgid "SIGN_UP"
-msgstr "Înscrieți-vă"
-
-msgid "SIGN_IN"
-msgstr "Conectați-vă"
-
-msgid "SIGN_OUT"
-msgstr "Deconectați-vă"
-
-msgid "STARS"
-msgstr "Stele"
-
-msgid "TITLE"
-msgstr "Titlu"
-
-# Referring to being the most popular (in terms of ranking)
-msgid "TOP"
-msgstr "Top"
-
-# Number of times something has been viewed, or played.
-msgid "VIEWS"
-msgstr "Vizionări"
-
-# For MusicMatch
-msgid "SONG"
-msgstr "Cântec"
-
-msgid "SUDOMEMO_PLUS"
-msgstr "Sudomemo Plus"
-
-# Navbar
-msgid "NAVBAR_TOGGLE_NAVIGATION"
-msgstr "Comutare Navigare"
-
-msgid "NAVBAR_ITEM_SHOP"
-msgstr "Magazin"
-
-msgid "NAVBAR_ITEM_HELP"
-msgstr "Ajutor"
-
-msgid "NAVBAR_ITEM_USEFUL_LINKS"
-msgstr "Linkuri Utile"
-
-msgid "NAVBAR_ITEM_DISCORD"
-msgstr "Discord"
-
-msgid "NAVBAR_ITEM_HOW_TO_JOIN"
-msgstr "Cum să vă alăturați"
-
-msgid "NAVBAR_ITEM_CONNECTION_HELP"
-msgstr "Ajutor Conectare"
-
-msgid "NAVBAR_ITEM_FAQS"
-msgstr "FAQ"
-
-msgid "TERMS_OF_USE"
-msgstr "Termenii de Utilizare"
-
-msgid "NAVBAR_ITEM_CONTACT_US"
-msgstr "Contactați-ne"
-
-msgid "NAVBAR_ITEM_TWITTER"
-msgstr "Twitter"
-
-msgid "NAVBAR_ITEM_INSTAGRAM"
-msgstr "Instagram"
-
-msgid "NAVBAR_ITEM_FACEBOOK"
-msgstr "Facebook"
-
-msgid "NAVBAR_ITEM_EMAIL"
-msgstr "Email"
-
-msgid "NAVBAR_ITEM_OTHER"
-msgstr "Altele"
-
-msgid "NAVBAR_ITEM_CREDITS"
-msgstr "Mulțumiri"
+# # Referring to a music label/publishing company
+msgid "MUSIC_LABEL"
+msgstr "Publicator"
 
 msgid "NAVBAR_ITEM_ADMIN"
 msgstr "Admin"
 
-msgid "NAVBAR_ITEM_SUDOMEMO_ADMIN"
-msgstr "Sudomin"
+msgid "NAVBAR_ITEM_CONNECTION_HELP"
+msgstr "Ajutor Conectare"
 
-msgid "NAVBAR_ITEM_REPORTED_FLIPNOTES"
-msgstr "Raportați Flipnote-uri"
+msgid "NAVBAR_ITEM_CONTACT_US"
+msgstr "Contactați-ne"
 
-msgid "NAVBAR_ITEM_SWITCH_TO_USER_ACCOUNT"
-msgstr "Schimbați în Cont de Utilizator"
+msgid "NAVBAR_ITEM_CREDITS"
+msgstr "Mulțumiri"
+
+msgid "NAVBAR_ITEM_DISCORD"
+msgstr "Discord"
+
+msgid "NAVBAR_ITEM_EMAIL"
+msgstr "Email"
+
+msgid "NAVBAR_ITEM_FACEBOOK"
+msgstr "Facebook"
+
+msgid "NAVBAR_ITEM_FAQS"
+msgstr "FAQ"
+
+msgid "NAVBAR_ITEM_HELP"
+msgstr "Ajutor"
+
+msgid "NAVBAR_ITEM_HOW_TO_JOIN"
+msgstr "Cum să vă alăturați"
+
+msgid "NAVBAR_ITEM_INSTAGRAM"
+msgstr "Instagram"
 
 # # Switch to dark mode
 msgid "NAVBAR_ITEM_LIGHTS_OFF"
@@ -275,127 +460,121 @@ msgstr "Luminile oprite"
 msgid "NAVBAR_ITEM_LIGHTS_ON"
 msgstr "Luminile pornite"
 
-# Front Page
-# # Alt tags, aria labels
-msgid "ALT_WEEKLY_TOPIC_BANNER"
-msgstr "Banner ce face reclamă la Subiectul Săptămânal"
+msgid "NAVBAR_ITEM_OTHER"
+msgstr "Altele"
 
-msgid "ALT_USER_PROFILE_PICTURE"
-msgstr "Poza de profil al lui %s"
+msgid "NAVBAR_ITEM_REPORTED_FLIPNOTES"
+msgstr "Raportați Flipnote-uri"
 
-msgid "ALT_DRAWN_COMMENT_BY_USER"
-msgstr "Conținut desenat de %s"
+msgid "NAVBAR_ITEM_SHOP"
+msgstr "Magazin"
 
-# # Welcome to Sudomemo Box
-msgid "WELCOME_BOX_GREET_ADMIN"
-msgstr "Bine ați revenit, %s"
+msgid "NAVBAR_ITEM_SUDOMEMO_ADMIN"
+msgstr "Sudomin"
 
-msgid "WELCOME_BOX_YOU_ARE_ADMIN"
-msgstr "Sunteți conectat ca Administrator."
+msgid "NAVBAR_ITEM_SWITCH_TO_USER_ACCOUNT"
+msgstr "Schimbați în Cont de Utilizator"
 
-msgid "WELCOME_BOX_OPEN_SUDOMIN"
-msgstr "Deschideți Sudomin"
+msgid "NAVBAR_ITEM_TWITTER"
+msgstr "Twitter"
 
-# ## Our welcome box can change it's greeting, depending on time of day.
-# ## It is displayed like this:
-# ## Good afternoon, User! Happy Flipnoting!
-msgid "WELCOME_BOX_DEFAULT_GREETING"
-msgstr "Bună"
+msgid "NAVBAR_ITEM_USEFUL_LINKS"
+msgstr "Linkuri Utile"
 
-msgid "WELCOME_BOX_MORNING_GREETING"
-msgstr "Bună dimineața"
+# Navbar
+msgid "NAVBAR_TOGGLE_NAVIGATION"
+msgstr "Comutare Navigare"
 
-msgid "WELCOME_BOX_AFTERNOON_GREETING"
-msgstr "Bună ziua"
+msgid "NEWS"
+msgstr "Știri"
 
-msgid "WELCOME_BOX_EVENING_GREETING"
-msgstr "Bună seara"
+msgid "NEXT"
+msgstr "Urm."
 
-# ## "Happy Flipnoting!" is one of our brand catchphrases. "Flipnoting" refers to the act of creating or watching Flipnotes.
-# ## Please don't translate "Flipnoting", except to Japanese where you could probably modify the word うごメモ.
-msgid "WELCOME_BOX_USERNAME_HAPPY_FLIPNOTING"
-msgstr ", %s! Flipnoting Fericit!"
+msgid "NINTENDO_3DS"
+msgstr "Nintendo 3DS"
 
-msgid "WELCOME_BOX_WELCOME_TO"
-msgstr "Bine ați venit la"
+msgid "NINTENDO_DSI"
+msgstr "Nintendo DSi"
 
-# ## Another one of our taglines 
-msgid "WELCOME_BOX_SHARE_CREATIVITY_TAGLINE"
-msgstr "Împărțiți creația dvs. cu toată lumea!"
+msgid "NO_EMAIL_ON_FILE"
+msgstr "Nici o adresă de email pe fișier -- contactați Sudomemo Support"
 
-msgid "WELCOME_BOX_WHAT_IS_SUDOMEMO"
-msgstr "Sudomemo este locul în care puteți trimite animații - numite Flipnote-uri - create și postate de pe Flipnote Studio de pe Nintendo DSi și 3DS."
+msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
+msgstr "Niciun utilizator nu a fost găsit cu acest FSID sau email"
 
-msgid "WELCOME_BOX_HOW_TO_JOIN"
-msgstr "Aflați cum să vă Alăturați!"
+msgid "PASSWORD_RESET_SENT"
+msgstr "O resetare de parolă a fost trimisă la adresa de email de pe fișier."
 
-# Give, in the same sense as "Donate"
-msgid "WELCOME_BOX_GIVE"
-msgstr "Dați"
+msgid "PASS_CHANGE_COMPLETE"
+msgstr "Parola dvs. a fost actualizată."
 
-# # Flipnote sections
-msgid "FLIPNOTE_LIST_RECALCULATING"
-msgstr "Clasarea este recalculată momentan. Reîncărcați pagina în câteva momente."
+msgid "PASS_CHANGE_CONFIRM_PASSWORD"
+msgstr "Confirmați Parola"
 
-msgid "RECENT_FLIPNOTES"
-msgstr "Flipnote-uri recente"
+msgid "PASS_CHANGE_CONTINUE_TO_LOGIN"
+msgstr "Continuați la conectare"
+
+msgid "PASS_CHANGE_PASSWORD"
+msgstr "Schimbați Parola"
+
+msgid "PASS_CHANGE_URL_EXPIRED"
+msgstr "Linkul pe care l-ați vizitat a expirat."
+
+# Channel permissions: Is posting Flipnotes to a channel allowed or not?
+msgid "PERMISSIONS"
+msgstr "Permisiuni"
+
+msgid "PLUS_LEARN_MORE"
+msgstr "Aflați mai multe..."
+
+msgid "POPULAR"
+msgstr "Populare"
 
 msgid "POPULAR_THIS_MONTH"
 msgstr "Populare Această Lună"
 
-msgid "HOT_FLIPNOTES"
-msgstr "Flipnote-uri Fierbinți"
+# Previous, abbreviated "Prev". Should be a maximum of 4 characters.
+msgid "PREV"
+msgstr "Ante."
+
+msgid "PRIVACY_POLICY"
+msgstr "Politica de Confidențialitate"
+
+msgid "PROFILE_ABOUT_USERNAME"
+msgstr "Despre %s"
+
+# # "Username - 3 fans, 25 Flipnotes on Sudomemo"
+# # Not going to bother making plural variants
+msgid "PROFILE_DEFAULT_DESCRIPTION"
+msgstr "%s - %s fani, %s Flipnote-uri pe Sudomemo"
+
+# # Recent comments on their Flipnotes
+msgid "PROFILE_RECENT_COMMENTS"
+msgstr "Comentarii Recente"
+
+# # User's ★ are from:
+msgid "PROFILE_STAR_COUNTRY_HEADER"
+msgstr "Stelele lui %s sunt din:"
+
+# # channels that the user posts in most often
+msgid "PROFILE_USER_POSTS_IN"
+msgstr "%s postează în..."
+
+msgid "RANDOM"
+msgstr "La întâmplare"
 
 msgid "RANDOM_FLIPNOTES"
 msgstr "Flipnote-uri la întâmplare"
 
-msgid "FEATURED_FLIPNOTES"
-msgstr "Flipnote-uri populare"
+msgid "RANK"
+msgstr "Rang"
 
-# # Flipnote by...
-msgid "FLIPNOTE_BY_FORMAT"
-msgstr "Flipnote de %s"
+msgid "RECENT"
+msgstr "Recent"
 
-# # Comments section
-msgid "VIEWPAGE_COMMENT_WRITE_HERE"
-msgstr "Scrieți aici"
-
-msgid "VIEWPAGE_COMMENT_POST_BUTTON"
-msgstr "Postați Comentariu"
-
-msgid "VIEWPAGE_ADD_MODERATOR_COMMENT"
-msgstr "Adăugați Comentariu de Moderator"
-
-msgid "VIEWPAGE_MODERATOR_COMMENT_WARNING"
-msgstr "Nu folosiți aceasta pentru comentarii personale."
-
-# ## This is composed of two parts: SIGN_IN and TO_ADD_A_COMMENT
-# ## SIGN_IN is a link to the login page, and TO_ADD_A_COMMENT is the part that comes after.
-# ## It reads as follows: Sign in to add a comment
-msgid "TO_ADD_A_COMMENT"
-msgstr "a adăuga un comentariu"
-
-# ## When the Post Comment button is pressed, it changes to "Posting..." and then "Posted!" when complete.
-msgid "VIEWPAGE_COMMENT_POSTING"
-msgstr "Se postează..."
-
-msgid "VIEWPAGE_COMMENT_POSTED"
-msgstr "Postat!"
-
-# ## This can happen in cases of network failure or if the comment is rejected
-msgid "VIEWPAGE_COMMENT_FAILED"
-msgstr "Comentariu eșuat..."
-
-# # Right sidebar
-msgid "FRONTPAGE_FLIPNOTE_SPOTLIGHT"
-msgstr "Flipnote în lumina reflectoarelor"
-
-msgid "FRONTPAGE_TRENDING_CREATORS"
-msgstr "Creatori în Trending"
-
-# Flipnote View Page
-msgid "EDIT_FLIPNOTE"
-msgstr "Editați Flipnote"
+msgid "RECENT_FLIPNOTES"
+msgstr "Flipnote-uri recente"
 
 msgid "REGION"
 msgstr "Regiune"
@@ -414,34 +593,201 @@ msgstr "Japonia"
 msgid "REGION_UNKNOWN"
 msgstr "Necunoscută"
 
+# Referring to a release date/publishing date
+msgid "RELEASED"
+msgstr "Lansat"
+
+msgid "SAVE"
+msgstr "Salvați"
+
+msgid "SAVING"
+msgstr "Se salvează"
+
+msgid "SEARCH"
+msgstr "Căutați"
+
+msgid "SEARCH_PAGE_FORM_PLACEHOLDER"
+msgstr "Username, FSID, song, artist, or channel"
+
+msgid "SEARCH_PAGE_FUZZY_SEARCH_TIP"
+msgstr "Pont: Puteți scrie ceva precum 'Austin' și să găsiți rezultate de genul 'ÄuらtÎn'"
+
+# # User hasn't posted any Flipnotes yet
+msgid "SEARCH_PAGE_NO_FLIPNOTES_YET"
+msgstr "Nici un Flipnote încă..."
+
+msgid "SEARCH_PAGE_NO_RESULTS_FOUND"
+msgstr "Nu a fost găsit niciun rezultat."
+
+msgid "SEARCH_PAGE_TOO_MANY_MATCHED"
+msgstr "Căutarea dvs. a dat prea multe rezultate - Încercați ceva mai sprecific."
+
+# Search page
+msgid "SEARCH_SUDOMEMO"
+msgstr "Căutați Sudomemo"
+
+msgid "SEE_MORE"
+msgstr "See more"
+
+msgid "SETTINGS"
+msgstr "Setări"
+
+msgid "SHARE"
+msgstr "Trimiteți"
+
 msgid "SHARE_ON_FACEBOOK"
 msgstr "Trimiteți pe Facebook"
-
-msgid "SHARE_ON_TWITTER"
-msgstr "Trimiteți pe Twitter"
-
-msgid "SHARE_ON_TUMBLR"
-msgstr "Trimiteți pe Tumblr"
 
 msgid "SHARE_ON_REDDIT"
 msgstr "Trimiteți pe Reddit"
 
-msgid "VIEWPAGE_SPINOFFS"
-msgstr "Spin-off-uri"
+msgid "SHARE_ON_TUMBLR"
+msgstr "Trimiteți pe Tumblr"
 
-# # MusicMatch
-# ## Where the Flipnote's audio starts at in the song
-msgid "MUSICMATCH_AUDIO_OFFSET"
-msgstr "Începe de la %s"
+msgid "SHARE_ON_TWITTER"
+msgstr "Trimiteți pe Twitter"
 
-msgid "MUSICMATCH_LISTEN_ON_YOUTUBE_MUSIC"
-msgstr "Ascultați pe YouTube Music"
+msgid "SHARE_ON_WHATSAPP"
+msgstr "Trimiteți pe WhatsApp"
 
-msgid "MUSICMATCH_LISTEN_ON_SPOTIFY"
-msgstr "Ascultați pe Spotify"
+msgid "SIGN_IN"
+msgstr "Conectați-vă"
 
-msgid "MUSICMATCH_ABOUT"
-msgstr "Despre Potrivirea de Muzică"
+msgid "SIGN_OUT"
+msgstr "Deconectați-vă"
+
+msgid "SIGN_UP"
+msgstr "Înscrieți-vă"
+
+# For MusicMatch
+msgid "SONG"
+msgstr "Cântec"
+
+msgid "SONGS"
+msgstr "Songs"
+
+msgid "SONG_ARTISTS"
+msgstr "Song Artists"
+
+msgid "STARS"
+msgstr "Stele"
+
+msgid "SUBMIT"
+msgstr "Trimiteți"
+
+# This file contains most of the translations for Sudomemo Theatre.
+# Meta tags, descriptions, etc
+msgid "SUDOMEMO"
+msgstr "Sudomemo"
+
+msgid "SUDOMEMO_NEWS"
+msgstr "Știrile Sudomemo"
+
+msgid "SUDOMEMO_PLUS"
+msgstr "Sudomemo Plus"
+
+msgid "SUDOMEMO_SHOP"
+msgstr "Magazin Sudomemo"
+
+msgid "SUDOMEMO_SHOP_ABOUT_TICKETS_1"
+msgstr "Biletele sunt lucruri amuzante de pe Sudomemo pe care le revendicați pentru Stele, Sudomemo Plus, și alte lucruri!"
+
+msgid "SUDOMEMO_SHOP_ABOUT_TICKETS_2"
+msgstr "Odată ce aveți un bilet, puteți să-l revendicați în Camera Creatorului dacă apăsați pe \"Redevendicați\" - sau, puteți să oferiți codul unui bilet unui prieten!"
+
+msgid "SUDOMEMO_SHOP_ALL_ABOUT_PLUS"
+msgstr "Totul Despre Sudomemo Plus"
+
+msgid "SUDOMEMO_SHOP_LEARN_ABOUT_PLUS"
+msgstr "Aflați ce puteți să faceți cu Sudomemo Plus:"
+
+msgid "SUDOMEMO_SHOP_META_DESCRIPTION"
+msgstr "Magazin Sudomemo: marfă Sudomemo, bilete pentru Plus și stele, și alte lucruri distractive!"
+
+msgid "SUDOMEMO_THEATRE"
+msgstr "Teatrul Sudomemo"
+
+msgid "SUDOMEMO_USER"
+msgstr "Utilizator Sudomemo"
+
+msgid "TERMS_OF_USE"
+msgstr "Termenii de Utilizare"
+
+# Sudomemo Shop
+msgid "TICKETS"
+msgstr "Bilete"
+
+msgid "TITLE"
+msgstr "Titlu"
+
+# Referring to being the most popular (in terms of ranking)
+msgid "TOP"
+msgstr "Top"
+
+# ## This is composed of two parts: SIGN_IN and TO_ADD_A_COMMENT
+# ## SIGN_IN is a link to the login page, and TO_ADD_A_COMMENT is the part that comes after.
+# ## It reads as follows: Sign in to add a comment
+msgid "TO_ADD_A_COMMENT"
+msgstr "a adăuga un comentariu"
+
+msgid "TROPHY_CASE"
+msgstr "Cutia de Trofee"
+
+# This is shown to logged-in users on their own Flipnotes without titles
+msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
+msgstr "Flipnote fără titlu de %s"
+
+msgid "UPLOAD_OPTIONS"
+msgstr "Opțiuni de Încărcare"
+
+# Upload status
+msgid "UPLOAD_STATUS"
+msgstr "Statut Încărcare"
+
+msgid "USERS"
+msgstr "Users"
+
+msgid "USERS_FLIPNOTE_FROM_FLIPNOTE_HATENA"
+msgstr "Flipnote-ul lui %s din Flipnote Hatena"
+
+msgid "USERS_PROFILE_FROM_FLIPNOTE_HATENA"
+msgstr "Profilul lui %s din Flipnote Hatena"
+
+msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
+msgstr "După ce v-ați alăturat Sudomemo Discord, copiați și inserați aceasta în conversație."
+
+msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
+msgstr "Configurați-vă canalul de YouTube și setările implicite de încărcare Flipnote."
+
+msgid "VERIFIED_USER"
+msgstr "Utilizator Verificat"
+
+msgid "VIEWPAGE_ADD_MODERATOR_COMMENT"
+msgstr "Adăugați Comentariu de Moderator"
+
+# ## This can happen in cases of network failure or if the comment is rejected
+msgid "VIEWPAGE_COMMENT_FAILED"
+msgstr "Comentariu eșuat..."
+
+msgid "VIEWPAGE_COMMENT_POSTED"
+msgstr "Postat!"
+
+# ## When the Post Comment button is pressed, it changes to "Posting..." and then "Posted!" when complete.
+msgid "VIEWPAGE_COMMENT_POSTING"
+msgstr "Se postează..."
+
+msgid "VIEWPAGE_COMMENT_POST_BUTTON"
+msgstr "Postați Comentariu"
+
+msgid "VIEWPAGE_COMMENT_TEXTBOX"
+msgstr "Cutie text comentarii"
+
+# # Comments section
+msgid "VIEWPAGE_COMMENT_WRITE_HERE"
+msgstr "Scrieți aici"
+
+msgid "VIEWPAGE_MODERATOR_COMMENT_WARNING"
+msgstr "Nu folosiți aceasta pentru comentarii personale."
 
 # # Original Flipnote / Spinoffs
 msgid "VIEWPAGE_ORIGINAL_FLIPNOTE"
@@ -454,276 +800,95 @@ msgstr "Flipnote-ul original nu este pe Sudomemo."
 msgid "VIEWPAGE_RELATED_FLIPNOTE_BY"
 msgstr "de %s"
 
-# Creator's Room (Profile)
-msgid "FOLLOWS_YOU"
-msgstr "Vă Urmărește"
+msgid "VIEWPAGE_SPINOFFS"
+msgstr "Spin-off-uri"
 
-msgid "FOLLOW_BACK"
-msgstr "Urmăriți Înapoi"
+# Number of times something has been viewed, or played.
+msgid "VIEWS"
+msgstr "Vizionări"
 
-msgid "FOLLOWING"
-msgstr "Urmăriți"
+msgid "VIEW_ON_SUDOMEMO"
+msgstr "Vizualizați pe Sudomemo"
 
-msgid "FOLLOW"
-msgstr "Urmăriți"
+msgid "WELCOME_BOX_AFTERNOON_GREETING"
+msgstr "Bună ziua"
 
-msgid "FOLLOWERS"
-msgstr "Urmăritori"
+# ## Our welcome box can change it's greeting, depending on time of day.
+# ## It is displayed like this:
+# ## Good afternoon, User! Happy Flipnoting!
+msgid "WELCOME_BOX_DEFAULT_GREETING"
+msgstr "Bună"
 
-# # はてなID
-msgid "HATENA_ID"
-msgstr "ID Hatena"
+msgid "WELCOME_BOX_EVENING_GREETING"
+msgstr "Bună seara"
 
-msgid "PROFILE_ABOUT_USERNAME"
-msgstr "Despre %s"
+# Give, in the same sense as "Donate"
+msgid "WELCOME_BOX_GIVE"
+msgstr "Dați"
 
-# # User's ★ are from:
-msgid "PROFILE_STAR_COUNTRY_HEADER"
-msgstr "Stelele lui %s sunt din:"
+# # Welcome to Sudomemo Box
+msgid "WELCOME_BOX_GREET_ADMIN"
+msgstr "Bine ați revenit, %s"
 
-# # Recent comments on their Flipnotes
-msgid "PROFILE_RECENT_COMMENTS"
-msgstr "Comentarii Recente"
+msgid "WELCOME_BOX_HOW_TO_JOIN"
+msgstr "Aflați cum să vă Alăturați!"
 
-# # channels that the user posts in most often
-msgid "PROFILE_USER_POSTS_IN"
-msgstr "%s postează în..."
+msgid "WELCOME_BOX_MORNING_GREETING"
+msgstr "Bună dimineața"
 
-# Search page
-msgid "SEARCH_SUDOMEMO"
-msgstr "Căutați Sudomemo"
+msgid "WELCOME_BOX_OPEN_SUDOMIN"
+msgstr "Deschideți Sudomin"
 
-msgid "SEARCH_PAGE_FORM_PLACEHOLDER"
-msgstr "Username, FSID, song, artist, or channel"
+# ## Another one of our taglines 
+msgid "WELCOME_BOX_SHARE_CREATIVITY_TAGLINE"
+msgstr "Împărțiți creația dvs. cu toată lumea!"
 
-msgid "SEARCH_PAGE_FUZZY_SEARCH_TIP"
-msgstr "Pont: Puteți scrie ceva precum 'Austin' și să găsiți rezultate de genul 'ÄuらtÎn'"
+# ## "Happy Flipnoting!" is one of our brand catchphrases. "Flipnoting" refers to the act of creating or watching Flipnotes.
+# ## Please don't translate "Flipnoting", except to Japanese where you could probably modify the word うごメモ.
+msgid "WELCOME_BOX_USERNAME_HAPPY_FLIPNOTING"
+msgstr ", %s! Flipnoting Fericit!"
 
-msgid "SEARCH_PAGE_NO_RESULTS_FOUND"
-msgstr "Nu a fost găsit niciun rezultat."
+msgid "WELCOME_BOX_WELCOME_TO"
+msgstr "Bine ați venit la"
 
-msgid "SEARCH_PAGE_TOO_MANY_MATCHED"
-msgstr "Căutarea dvs. a dat prea multe rezultate - Încercați ceva mai sprecific."
+msgid "WELCOME_BOX_WHAT_IS_SUDOMEMO"
+msgstr "Sudomemo este locul în care puteți trimite animații - numite Flipnote-uri - create și postate de pe Flipnote Studio de pe Nintendo DSi și 3DS."
 
-# # User hasn't posted any Flipnotes yet
-msgid "SEARCH_PAGE_NO_FLIPNOTES_YET"
-msgstr "Nici un Flipnote încă..."
-
-# Edit Flipnote page
-msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
-msgstr "Acum editați acest Flipnote:"
-
-msgid "DESCRIPTION_WILL_GO_HERE"
-msgstr "Descrierea dvs. va merge aici."
-
-msgid "COULD_NOT_SAVE_DETAILS"
-msgstr "Nu s-au putut salva detaliile"
-
-msgid "PLUS_LEARN_MORE"
-msgstr "Aflați mai multe..."
-
-msgid "EDIT_PAGE_SUDOMEMO_PLUS_REQUIRED"
-msgstr "Vă trebuie Sudomemo Plus pentru a folosi aceste caracteristici."
-
-# Flipnote smoothing
-msgid "EDIT_PAGE_PLUS_SMOOTHING"
-msgstr "Netezire"
-
-msgid "EDIT_PAGE_PLUS_AUDIO_ENHANCEMENT"
-msgstr "Îmbunătățire audio"
-
-msgid "EDIT_PAGE_FLIPNOTE_PREVIEW_NOTE"
-msgstr "Notă: Previzualizarea Flipnote nu se actualizează."
-
-msgid "EDIT_PAGE_TITLE_AND_DESCRIPTION"
-msgstr "Titlu și Descriere"
-
-msgid "EDIT_PAGE_ENTER_A_TITLE"
-msgstr "Introduceți un Titlu"
-
-msgid "EDIT_PAGE_ENTER_A_DESCRIPTION"
-msgstr "Introduceți o Descriere"
-
-msgid "EDIT_PAGE_TITLE_TOOLTIP"
-msgstr "Litere, numere, și simboluri, maxim 40 de caractere."
-
-msgid "EDIT_PAGE_DESCRIPTION_TOOLTIP"
-msgstr "Litere, numere, și simboluri, maxim 320 de caractere."
-
-# # MusicMatch
-msgid "EDIT_PAGE_ABOUT_MUSICMATCH_1"
-msgstr "Potrivrea de Muzică Sudomemo ascultă Flipnote-urile dvs. pentru a găsi cântecul din ele!"
-
-msgid "EDIT_PAGE_ABOUT_MUSICMATCH_2"
-msgstr "Potrivirea de Muzică va găsi uneori mai multe cântece potențiale, sau unul greșit. Dacă se întâmplă asta, puteți să actualizați cântecul aici."
-
-msgid "EDIT_PAGE_ABOUT_MUSICMATCH_3"
-msgstr "Dacă actualizați cântecul, Potrivirea de Muzică va învăța din acea informație pentru a detecta mai bine cântecele din Flipnote audio pe viitor."
-
-msgid "EDIT_PAGE_MUSICMATCH_NO_BGM"
-msgstr "Flipnote-ul dvs. nu are un cântec pe fundal"
-
-msgid "EDIT_PAGE_MUSICMATCH_UNMATCHED"
-msgstr "Potrivirea de Muzică nu a găsit niciun cântec care să se potrivească cu Flipnote-ul dvs."
-
-msgid "EDIT_PAGE_MUSICMATCH_UNMAPPED"
-msgstr "Potrivirea de Muzică nu a ajuns la Flipnote-ul dvs. încă. Încercați din nou mai târziu."
-
-msgid "EDIT_PAGE_MUSICMATCH_PENDING_MAPPING"
-msgstr "Potrivrea de Muzică vă procesează Flipnote-ul. Încercați din nou mai târziu."
-
-msgid "EDIT_PAGE_MUSICMATCH_NONE_CORRECT"
-msgstr "Niciuna dintre acestea nu sunt corecte"
-
-msgid "EDIT_PAGE_MUSICMATCH_PREVIEW_ON_YOUTUBE"
-msgstr "Vedeți pe YouTube Music"
-
-msgid "EDIT_PAGE_MUSICMATCH_PREVIEW_ON_SPOTIFY"
-msgstr "Vedeți pe Spotify"
-
-# Browse Song
-msgid "BROWSE_SONG_NO_FLIPNOTES_YET"
-msgstr "Nu există niciun Flipnote cu acest cântec încă."
-
-# # Referring to a music label/publishing company
-msgid "MUSIC_LABEL"
-msgstr "Publicator"
-
-# Browse Channel
-msgid "BROWSE_CHANNEL_NO_FLIPNOTES_YET"
-msgstr "Nu există niciun Flipnote pe acest canal încă."
-
-# # Posting permissions
-msgid "CHANNEL_PERM_CLOSED"
-msgstr "Închis"
-
-msgid "CHANNEL_PERM_OPEN"
-msgstr "Deschis"
-
-# # categories
-msgid "CHANNEL_CAT_NAME_NONE"
-msgstr "Niciunul"
-
-msgid "CHANNEL_CAT_NAME_ART"
-msgstr "Artă"
-
-msgid "CHANNEL_CAT_NAME_GENRES"
-msgstr "Genuri"
-
-msgid "CHANNEL_CAT_NAME_TOPICS"
-msgstr "Subiecte"
-
-msgid "CHANNEL_CAT_NAME_ROLEPLAYS"
-msgstr "Jocuri de Rol"
-
-msgid "CHANNEL_CAT_NAME_FANDOMS"
-msgstr "Fandom-uri"
-
-msgid "CHANNEL_CAT_NAME_RESOURCES"
-msgstr "Resurse"
-
-msgid "CHANNEL_CAT_NAME_PERSONAL"
-msgstr "Personal"
-
-msgid "CHANNEL_CAT_NAME_WEEKLY_TOPIC"
-msgstr "Subiectul Săptămânal"
-
-# 404 Page
-msgid "404_OOPS_NOT_FOUND"
-msgstr "Ups - Această pagină nu a putut fi găsită"
-
-msgid "404_WHOOPS_NOT_THERE"
-msgstr "Ups! Orice ați fi căutat, nu era acolo."
-
-msgid "404_GO_BACK"
-msgstr "Înapoi la Teatrul Sudomemo"
-
-# Sudomemo Shop
-msgid "TICKETS"
-msgstr "Bilete"
-
-msgid "SUDOMEMO_SHOP_ABOUT_TICKETS_1"
-msgstr "Biletele sunt lucruri amuzante de pe Sudomemo pe care le revendicați pentru Stele, Sudomemo Plus, și alte lucruri!"
-
-msgid "SUDOMEMO_SHOP_ABOUT_TICKETS_2"
-msgstr "Odată ce aveți un bilet, puteți să-l revendicați în Camera Creatorului dacă apăsați pe \"Redevendicați\" - sau, puteți să oferiți codul unui bilet unui prieten!"
-
-msgid "SUDOMEMO_SHOP_LEARN_ABOUT_PLUS"
-msgstr "Aflați ce puteți să faceți cu Sudomemo Plus:"
-
-msgid "SUDOMEMO_SHOP_ALL_ABOUT_PLUS"
-msgstr "Totul Despre Sudomemo Plus"
-
-# # Ticket types..
-# Login Page
-msgid "LOGIN_FAILED_CHECK_DETAILS"
-msgstr "Nu v-am putut conecta. Verificați detaliile intoduse și încercați din nou."
-
-msgid "LOGIN_PLACEHOLDER_USERNAME"
-msgstr "Email sau Flipnote Studio ID"
-
-msgid "LOGIN_PLACEHOLDER_PASSWORD"
-msgstr "Parolă"
-
-msgid "LOGIN_SIGNUP_SELECT_DEVICE"
-msgstr "Alegeți dispozitivul"
-
-msgid "NINTENDO_DSI"
-msgstr "Nintendo DSi"
-
-msgid "NINTENDO_3DS"
-msgstr "Nintendo 3DS"
-
-# Additional things
-# See Flipnotes with the song <song name> by <band/artist name>
-msgid "BROWSE_SONG_YOU_ARE_BROWSING_SONG"
-msgstr "Vedeți Flipnote-uri cu cântecul %s de %s"
-
-msgid "TROPHY_CASE"
-msgstr "Cutia de Trofee"
-
-# This is shown to logged-in users on their own Flipnotes without titles
-msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
-msgstr "Flipnote fără titlu de %s"
-
-# Account Settings (Theatre)
-msgid "ACCOUNT_SETTINGS"
-msgstr "Setări de cont"
+msgid "WELCOME_BOX_YOU_ARE_ADMIN"
+msgstr "Sunteți conectat ca Administrator."
 
 msgid "YOUTUBE"
 msgstr "YouTube"
 
-msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
-msgstr "Configurați-vă canalul de YouTube și setările implicite de încărcare Flipnote."
-
-msgid "YOUTUBE_CONNECT_INTRO"
-msgstr "Conectându-vă canalul de YouTube vă lasă să încărcați Flipnote-uri direct pe YouTube!"
-
-msgid "YOUTUBE_LINK_PROMPT"
-msgstr "Conectați-vă canalul de YouTube pentru a încărca Flipnote-uri pe YouTube."
-
-msgid "YOUTUBE_RECONNECT_PROMPT"
-msgstr "Conexiunea cu canalul dvs. a expirat. Vă rugăm să-l reconectați pentru a continua."
-
-msgid "BTN_SIGN_IN_WITH_GOOGLE"
-msgstr "Conectați-vă cu Google"
-
 msgid "YOUTUBE_ACCOUNT_UNVERIFIED"
 msgstr "Cont neverificat"
 
-msgid "YOUTUBE_ACCOUNT_VERIFIED"
-msgstr "Cont verificat"
+msgid "YOUTUBE_ACCOUNT_VERIFICATION_FIX_NOW"
+msgstr "Reparați acum"
 
 msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
 msgstr "Contul dvs. de YouTube nu este verificat. anumite funcții nu vor funcționa corect, precum thumbnail-urile și Flipnote-urile mai lungi de 15 minute."
 
-msgid "YOUTUBE_ACCOUNT_VERIFICATION_FIX_NOW"
-msgstr "Reparați acum"
+msgid "YOUTUBE_ACCOUNT_VERIFIED"
+msgstr "Cont verificat"
+
+# Added to the queue at: 2020-07-08 02:46:38
+msgid "YOUTUBE_ADDED_TO_QUEUE_AT"
+msgstr "Adăugat la coadă la:"
+
+msgid "YOUTUBE_CHECK_FEATURES_THUMB"
+msgstr "Contul dvs. YouTube poate să nu fie complet verificat. Pentru mai multe, puteți verfica statutul Thumbnail-urilor Personalizate aici:"
+
+msgid "YOUTUBE_CONNECT_INTRO"
+msgstr "Conectându-vă canalul de YouTube vă lasă să încărcați Flipnote-uri direct pe YouTube!"
 
 # YouTube metadata
 # Extra description text: will be placed at the end of your video descriptions. 
 msgid "YOUTUBE_DEFAULT_SETTINGS_EXPLANATION"
 msgstr "Aceste setări vor fi pornite automat când încărcați un Flipnote de pe Nintendo DSi sau 3DS. Dacă încărcați de pe Teatrul Sudomemo, va trebui să schimbați aceste setări înainte de a începe încărcarea."
+
+msgid "YOUTUBE_ESTIMATED_DURATION"
+msgstr "Durată estimată a videoclipului:"
 
 msgid "YOUTUBE_EXTRA_DESCRIPTION_TEXT"
 msgstr "Text Extra Descriere"
@@ -731,14 +896,8 @@ msgstr "Text Extra Descriere"
 msgid "YOUTUBE_EXTRA_DESCRIPTION_TEXT_EXPLANATION"
 msgstr "Acesty text se va afișa când vizionatorii dvs. vor apăsa pe 'Arătați mai multe' în descrierea videoclipului dvs."
 
-msgid "YOUTUBE_TAGS"
-msgstr "Tag-uri"
-
-msgid "YOUTUBE_TAGS_HINT"
-msgstr "Tag-uri, separate de virgulă."
-
-msgid "YOUTUBE_TAGS_EXPLANATION"
-msgstr "Scrieți o virgulă după fiecare tag"
+msgid "YOUTUBE_LINK_PROMPT"
+msgstr "Conectați-vă canalul de YouTube pentru a încărca Flipnote-uri pe YouTube."
 
 msgid "YOUTUBE_LOOP_COUNT"
 msgstr "Număr de jucări"
@@ -746,60 +905,18 @@ msgstr "Număr de jucări"
 msgid "YOUTUBE_LOOP_COUNT_EXPLANATION"
 msgstr "Numărul de ori un Flipnote dat pe loop se va repeta. Selectați 1 pentru a reda numai o dată."
 
-msgid "YOUTUBE_VISIBILITY"
-msgstr "Visibilitate"
-
-msgid "YOUTUBE_VISIBILITY_PUBLIC"
-msgstr "Public"
-
-msgid "YOUTUBE_VISIBILITY_UNLISTED"
-msgstr "Nelistat"
-
-msgid "YOUTUBE_VISIBILITY_PRIVATE"
-msgstr "Privat"
-
-# Upload page specifics
-# Upload to YouTube header
-msgid "HEADER_UPLOAD_TO_YOUTUBE"
-msgstr "Încărcați pe YouTube"
-
-msgid "LINK_REQUIRED_BEFORE_UPLOAD"
-msgstr "Trebuie să vă asociați canalul de YouTube pentru a înainte de a încărca."
-
-msgid "BTN_GO_TO_SETTINGS"
-msgstr "Mergeți în Setări"
-
-msgid "UPLOAD_OPTIONS"
-msgstr "Opțiuni de Încărcare"
-
-msgid "YOUTUBE_TERMS_AGREEMENT_NOTE"
-msgstr "Prin trimiterea videoclipurilor pe YouTube, luați la cunoștiință că sunteți de accord cu Termenii de Servicii YouTube și Instrucțiunile Comunității."
-
-msgid "SUBMIT"
-msgstr "Trimiteți"
-
-# Upload status
-msgid "UPLOAD_STATUS"
-msgstr "Statut Încărcare"
-
 msgid "YOUTUBE_PENDING_UPLOAD"
 msgstr "Flipnote-ul dvs. așteaptă să fie încărcat. Verificați din nou în câteva minute."
 
-# Added to the queue at: 2020-07-08 02:46:38
-msgid "YOUTUBE_ADDED_TO_QUEUE_AT"
-msgstr "Adăugat la coadă la:"
+# Position in queue: 4 - means there are three uploads ahead of yours
+msgid "YOUTUBE_POSITION_IN_QUEUE"
+msgstr "Posiție la coadă:"
 
-msgid "YOUTUBE_STATUS_TRACKER_NEW"
-msgstr "Nou"
+msgid "YOUTUBE_RECONNECT_PROMPT"
+msgstr "Conexiunea cu canalul dvs. a expirat. Vă rugăm să-l reconectați pentru a continua."
 
-msgid "YOUTUBE_STATUS_TRACKER_PROCESSING"
-msgstr "Se procesează"
-
-msgid "YOUTUBE_STATUS_TRACKER_DONE"
-msgstr "Gata!"
-
-msgid "YOUTUBE_STATUS_WAITING_TO_BE_PROCESSED"
-msgstr "Încărcarea dvs. așteaptă să fie procesată."
+msgid "YOUTUBE_REFRESH_ACCOUNT"
+msgstr "Reîncărcați cont"
 
 msgid "YOUTUBE_STATUS_BEING_PROCESSED"
 msgstr "Încărcarea dvs. se procesează."
@@ -807,17 +924,20 @@ msgstr "Încărcarea dvs. se procesează."
 msgid "YOUTUBE_STATUS_COMPLETE"
 msgstr "Încărcarea dvs. este terminată!"
 
-msgid "YOUTUBE_STATUS_FAILED_GONE"
-msgstr "Flipnote-ul a dispărut înainte ca încărcarea să fie terminată."
-
 msgid "YOUTUBE_STATUS_FAILED_AUTH"
 msgstr "Încărcarea a eșuat datorită unei probleme de autentificare."
+
+msgid "YOUTUBE_STATUS_FAILED_CLIENT_ERROR"
+msgstr "Încărcarea a eșuat datorită unei erori de client."
+
+msgid "YOUTUBE_STATUS_FAILED_GONE"
+msgstr "Flipnote-ul a dispărut înainte ca încărcarea să fie terminată."
 
 msgid "YOUTUBE_STATUS_FAILED_SERVICE_ERROR"
 msgstr "Încărcarea a eșuat datorită unei erori de serviciu."
 
-msgid "YOUTUBE_STATUS_FAILED_CLIENT_ERROR"
-msgstr "Încărcarea a eșuat datorită unei erori de client."
+msgid "YOUTUBE_STATUS_FAILED_THUMB"
+msgstr "Videoclipul dvs. a fost încărcat, dar am avut o problemă cu încărcarea thumbnail-ului."
 
 msgid "YOUTUBE_STATUS_FAILED_UNEXPECTED_ERROR"
 msgstr "A apărut o eroare neașteptată în timpul încărcării."
@@ -828,30 +948,35 @@ msgstr "Încărcarea a eșuat dintr-un motiv necunoscut."
 msgid "YOUTUBE_STATUS_PAUSED_GLOBAL_QUOTA"
 msgstr "Limita noastră de utilizări globale a fost trecută, deci încărcarea poate fi întârziată semnificativ."
 
-msgid "YOUTUBE_WATCH_NOW_AT"
-msgstr "Vizionați acum:"
+msgid "YOUTUBE_STATUS_TRACKER_DONE"
+msgstr "Gata!"
 
-msgid "BTN_START_UPLOAD"
-msgstr "Începeți încărcarea"
+msgid "YOUTUBE_STATUS_TRACKER_NEW"
+msgstr "Nou"
 
-msgid "BTN_STARTING_UPLOAD"
-msgstr "Se începe..."
+msgid "YOUTUBE_STATUS_TRACKER_PROCESSING"
+msgstr "Se procesează"
 
-msgid "BTN_UPLOAD_FAILED"
-msgstr "Încărcare eșuată..."
+msgid "YOUTUBE_STATUS_WAITING_TO_BE_PROCESSED"
+msgstr "Încărcarea dvs. așteaptă să fie procesată."
 
-msgid "FLIPNOTE_SETTINGS_UPLOAD_TO_YOUTUBE"
-msgstr "Puteți să încărcați Flipnote-urile dvs. pe YouTube. Apăsați butonul de mai jos pentru a începe."
+msgid "YOUTUBE_TAGS"
+msgstr "Tag-uri"
 
-msgid "BTN_GET_STARTED"
-msgstr "Începeți"
+msgid "YOUTUBE_TAGS_EXPLANATION"
+msgstr "Scrieți o virgulă după fiecare tag"
 
-msgid "YOUTUBE_ESTIMATED_DURATION"
-msgstr "Durată estimată a videoclipului:"
+msgid "YOUTUBE_TAGS_HINT"
+msgstr "Tag-uri, separate de virgulă."
 
-# Position in queue: 4 - means there are three uploads ahead of yours
-msgid "YOUTUBE_POSITION_IN_QUEUE"
-msgstr "Posiție la coadă:"
+msgid "YOUTUBE_TERMS_AGREEMENT_NOTE"
+msgstr "Prin trimiterea videoclipurilor pe YouTube, luați la cunoștiință că sunteți de accord cu Termenii de Servicii YouTube și Instrucțiunile Comunității."
+
+msgid "YOUTUBE_UNLINK_ACCOUNT"
+msgstr "Deconectați cont"
+
+msgid "YOUTUBE_UNLINK_ACCOUNT_CONFIRM"
+msgstr "Sunteți sigur că vreți să vă deconectați contul de YouTube?"
 
 msgid "YOUTUBE_UPLOAD_HISTORY"
 msgstr "Istoric de încărcare"
@@ -863,158 +988,33 @@ msgstr "Apăsați butonul de statut pentru a vedea în direct Urmăritorul de Î
 msgid "YOUTUBE_UPLOAD_LIMIT"
 msgstr "Moemntan puteți încărca %s videoclipuri pe YouTube pe zi."
 
-msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_LIMIT_NOTE"
-msgstr "Membrii Sudomemo Plus pot încărca %s videoclipuri pe zi."
-
-msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_UNLIMITED_NOTE"
-msgstr "Membrii Sudomemo Plus pot încărca un număr nelimitat de videoclipuri."
-
 msgid "YOUTUBE_UPLOAD_LIMIT_CURRENT"
 msgstr "Ați încărcat %s videoclipuri astăzi."
 
 msgid "YOUTUBE_UPLOAD_LIMIT_EXCEEDED"
 msgstr "Nu puteți încărca videoclipuri până mâine."
 
-msgid "SETTINGS"
-msgstr "Setări"
+msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_LIMIT_NOTE"
+msgstr "Membrii Sudomemo Plus pot încărca %s videoclipuri pe zi."
 
-msgid "PRIVACY_POLICY"
-msgstr "Politica de Confidențialitate"
+msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_UNLIMITED_NOTE"
+msgstr "Membrii Sudomemo Plus pot încărca un număr nelimitat de videoclipuri."
 
-msgid "YOUTUBE_STATUS_FAILED_THUMB"
-msgstr "Videoclipul dvs. a fost încărcat, dar am avut o problemă cu încărcarea thumbnail-ului."
+msgid "YOUTUBE_VISIBILITY"
+msgstr "Visibilitate"
 
-msgid "YOUTUBE_CHECK_FEATURES_THUMB"
-msgstr "Contul dvs. YouTube poate să nu fie complet verificat. Pentru mai multe, puteți verfica statutul Thumbnail-urilor Personalizate aici:"
+msgid "YOUTUBE_VISIBILITY_PRIVATE"
+msgstr "Privat"
 
-msgid "YOUTUBE_REFRESH_ACCOUNT"
-msgstr "Reîncărcați cont"
+msgid "YOUTUBE_VISIBILITY_PUBLIC"
+msgstr "Public"
 
-msgid "YOUTUBE_UNLINK_ACCOUNT"
-msgstr "Deconectați cont"
+msgid "YOUTUBE_VISIBILITY_UNLISTED"
+msgstr "Nelistat"
 
-msgid "YOUTUBE_UNLINK_ACCOUNT_CONFIRM"
-msgstr "Sunteți sigur că vreți să vă deconectați contul de YouTube?"
+msgid "YOUTUBE_WATCH_NOW_AT"
+msgstr "Vizionați acum:"
 
-msgid "VERIFIED_USER"
-msgstr "Utilizator Verificat"
-
-msgid "SHARE_ON_WHATSAPP"
-msgstr "Trimiteți pe WhatsApp"
-
-# This refers to Discord, which is a chat app.
-msgid "DISCORD"
-msgstr "Discord"
-
-msgid "DISCORD_HOW_TO_LINK"
-msgstr "Cum să asociați"
-
-msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
-msgstr "După ce v-ați alăturat Sudomemo Discord, copiați și inserați aceasta în conversație."
-
-# Connected since December 27th, 2020
-msgid "DISCORD_LINKED_ON_DATE"
-msgstr "Conectat de pe %s"
-
-# Do not translate ".sudo unlink"
-msgid "HOW_TO_UNLINK_DISCORD"
-msgstr "Pentru a vă deconecta contul Discord, scrieți această comandă în conversație: .sudo unlink"
-
-msgid "BTN_JOIN_DISCORD"
-msgstr "Alăturați-vă pe Discord"
-
-msgid "PASS_CHANGE_PASSWORD"
-msgstr "Schimbați Parola"
-
-msgid "PASS_CHANGE_CONFIRM_PASSWORD"
-msgstr "Confirmați Parola"
-
-msgid "PASS_CHANGE_COMPLETE"
-msgstr "Parola dvs. a fost actualizată."
-
-msgid "PASS_CHANGE_CONTINUE_TO_LOGIN"
-msgstr "Continuați la conectare"
-
-msgid "HEADER_CHANGE_PASSWORD"
-msgstr "Schimbați Parola"
-
-msgid "PASS_CHANGE_URL_EXPIRED"
-msgstr "Linkul pe care l-ați vizitat a expirat."
-
-msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
-msgstr "Niciun utilizator nu a fost găsit cu acest FSID sau email"
-
-msgid "NO_EMAIL_ON_FILE"
-msgstr "Nici o adresă de email pe fișier -- contactați Sudomemo Support"
-
-msgid "PASSWORD_RESET_SENT"
-msgstr "O resetare de parolă a fost trimisă la adresa de email de pe fișier."
-
-msgid "FORGOT_YOUR_PASSWORD"
-msgstr "Ați uitat parola?"
-
-msgid "SUDOMEMO_USER"
-msgstr "Utilizator Sudomemo"
-
-msgid "FLIPNOTE_ARCHIVE_BUTTON_TOGGLE"
-msgstr "Afișează link pentru conținutul arhivat de pe Flipnote Hatena de pe profilul meu"
-
-msgid "FLIPNOTE_ARCHIVE_SETTINGS"
-msgstr "Setări pentru arhivă"
-
-msgid "FLIPNOTE_ARCHIVE_PROFILE_AVAILABLE"
-msgstr "Profilul dvs. de Flipnote Hatena este disponibil pe Programul de Previzualizare Flipnote Archive! Puteți viziona vechile voastre Flipnote-uri dacă vizitați profilul dvs. pe Teatrul Sudomemo."
-
-msgid "FLIPNOTE_ARCHIVE_PROFILE_SETTING_INFORMATION"
-msgstr "Cât timp sunteți conectat, linkul de arhivă va fi mereu afișat pe profilul dvs. Puteți alege dacă vreți să-l faceți vizibil sau nu pentru alți utilizatori."
-
-msgid "FLIPNOTE_ARCHIVE_PROFILE_NOT_AVAILABLE"
-msgstr "Un profil Flipnote Hatena arhivat nu este disponibil pentru acest cont."
-
-msgid "FLIPNOTE_HATENA_PROFILE"
-msgstr "Profil Flipnote Hatena"
-
-msgid "ARCHIVE_PROFILE"
-msgstr "Arhivați profil"
-
-msgid "ARCHIVE_PROFILE_DESC"
-msgstr "Aceasta este o arhivă a unui profil de Flipnote Hatena."
-
-msgid "ARCHIVE_FLIPNOTE"
-msgstr "Arhivați Flipnote"
-
-msgid "ARCHIVE_FLIPNOTE_DESC"
-msgstr "Acest Flipnote a fost postat inițial pe Flipnote Hatena."
-
-msgid "VIEW_ON_SUDOMEMO"
-msgstr "Vizualizați pe Sudomemo"
-
-msgid "ARCHIVE"
-msgstr "Arhivă"
-
-msgid "ARCHIVED"
-msgstr "Arhivat"
-
-msgid "USERS_FLIPNOTE_FROM_FLIPNOTE_HATENA"
-msgstr "Flipnote-ul lui %s din Flipnote Hatena"
-
-msgid "USERS_PROFILE_FROM_FLIPNOTE_HATENA"
-msgstr "Profilul lui %s din Flipnote Hatena"
-
-msgid "LEARN_MORE"
-msgstr "Aflați mai multe"
-
-msgid "CONTINUE"
-msgstr "Continuati"
-
-msgid "SEE_MORE"
-msgstr "See more"
-
-msgid "USERS"
-msgstr "Users"
-
-msgid "SONGS"
-msgstr "Songs"
-
-msgid "SONG_ARTISTS"
-msgstr "Song Artists"
+# Edit Flipnote page
+msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
+msgstr "Acum editați acest Flipnote:"

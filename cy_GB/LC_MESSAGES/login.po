@@ -9,164 +9,20 @@ msgstr "Helo, %s."
 msgid "BAN_NOTICE_CONSOLE_BAN"
 msgstr "Mae eich cyfrif a'ch consol wedi eu gohirio o Sudomemo."
 
+msgid "BAN_NOTICE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
+msgstr "Cysylltwch â ni ar Discord neu drwy e-bost i %s."
+
 msgid "BAN_NOTICE_PLEASE_READ_BAN_LETTER"
 msgstr "Darllenwch y llythyr a anfonwyd atoch am ragor o wybodaeth."
 
 msgid "BAN_VIEW_MAIL"
 msgstr "Gweld Bost Sudomemo"
 
-msgid "LOGIN_SUCCESSFUL"
-msgstr "Mewngofnodi Llwyddiannus"
-
-msgid "THANKS_FOR_LOGIN_FORMAT"
-msgstr "Diolch am lofnodi i mewn, %s!"
-
-msgid "GOTO_CREATORS_ROOM"
-msgstr "Ewch i Ystafell eich Crewr"
-
-msgid "LOGIN"
-msgstr "Mewngofnodi"
-
-msgid "POST_COMMENT_BELOW"
-msgstr "To continue, please submit a drawn comment (it can be blank)."
-
-msgid "LOGIN_SETUP"
-msgstr "Gosod Login"
-
-msgid "WELCOME_BACK_FORMAT"
-msgstr "Croeso, %s!"
-
-msgid "RETURNING_USER_NEW_LOGIN_SYSTEM"
-msgstr "Ers y tro diwethaf i chi ymweld, rydym wedi ychwanegu system fewngofnodi newydd - ond peidiwch â phoeni, mae'ch holl gynnwys yn dal i fod yma!"
-
-msgid "RETURNING_USER_PLEASE_CREATE_PASSWORD"
-msgstr "I ddechrau, crewch gyfrinair newydd isod."
-
-msgid "NEW_USER_WELCOME_FORMAT"
-msgstr "Croeso i Sudomemo, %s!"
-
-msgid "NEW_USER_PLEASE_CREATE_PASSWORD"
-msgstr "Creu cyfrinair newydd."
-
-msgid "FORM_HEADER_PASSWORD"
-msgstr "Cyfrinair:"
-
-msgid "FORM_PREFILL_PASSWORD"
-msgstr "Rhowch eich cyfrinair yma..."
-
-msgid "FORM_WARNING_PASSWORD_TOO_SHORT"
-msgstr "Rhowch gyfrinair sy'n hirach nag 8 nod."
-
-msgid "FORM_WARNING_PASSWORD_DISALLOWED_CHARS"
-msgstr "Ni all eich cyfrinair gynnwys unrhyw un o'r cymeriadau hyn:"
-
-msgid "FORM_LABEL_DONT_FORGET_PASSWORD"
-msgstr "Cofiwch wneud nodyn o'ch cyfrinair, a'i gadw'n ddiogel!"
-
-msgid "FORM_HEADER_EMAIL"
-msgstr "E-Bost:"
-
-msgid "FORM_PREFILL_EMAIL"
-msgstr "Rhowch eich e-bost yma..."
-
-msgid "FORM_WARNING_EMAIL_INVALID"
-msgstr "Nid yw'r cyfeiriad e-bost a roesoch yn ddilys."
-
-msgid "EMAIL_ADDITION_SUGGESTED"
-msgstr "Mae e-bost yn ddewisol, ond argymhellir yn gryf. Os ydych chi erioed wedi anghofio'ch cyfrinair, byddwn yn anfon dolen ailosod cyfrinair i'ch cyfeiriad e-bost."
-
-msgid "EMAIL_ADDITION_DETAILS"
-msgstr "Os ydych chi erioed wedi anghofio'ch cyfrinair, byddwn yn anfon dolen ailosod cyfrinair i'ch cyfeiriad e-bost."
-
-msgid "CONFIRM_INFO_CORRECT"
-msgstr "Gwnewch yn siŵr bod y wybodaeth isod yn gywir."
-
-msgid "NO_PLAINTEXT_PASSWORD_RECOVERY_IF_LOST"
-msgstr "Ar ôl y cam hwn, ni allwn adfer eich cyfrinair os byddwch yn ei golli."
-
-msgid "BUTTON_CHANGE_PASSWORD"
-msgstr "Newid cyfrinair"
-
-msgid "FORM_HEADER_EMAIL_CONFIRM"
-msgstr "E-Bost:"
-
-msgid "BUTTON_CHANGE_EMAIL"
-msgstr "Newid cyfeiriad e-bost"
-
-msgid "BUTTON_ADD_AN_EMAIL_ADDRESS"
-msgstr "Ychwanegwch gyfeiriad e-bost"
-
-msgid "BUTTON_SUBMIT"
-msgstr "Cyflwyno"
-
-msgid "PLEASE_ENTER_PASSWORD_TO_SIGN_IN"
-msgstr "Rhowch eich cyfrinair i fewngofnodi"
-
-msgid "LOGIN_FORM_PREFILL_PASSWORD"
-msgstr "Rhowch cyfrinair"
-
-msgid "INCORRECT_PASSWORD_ATTEMPTS_FORMAT"
-msgstr "Ymdrechion cyfrinair anghywir: %s"
-
-msgid "REGISTRATION_ERROR_BAD_EMAIL"
-msgstr "Ni chaniateir y cyfeiriad e-bost a ddarparwyd gennych."
-
-msgid "REGISTRATION_ERROR_BAD_PASSWORD"
-msgstr "Ni chaniateir y cyfrinair a ddarparwyd gennych."
-
-msgid "ERROR"
-msgstr "Gwall"
-
-msgid "REGISTRATION_ERROR_PASSWORD_ALREADY_SET"
-msgstr "Mae cyfrinair eisoes wedi'i osod."
-
-msgid "NEW_USER_THANKS_FOR_REGISTRATION"
-msgstr "Croeso i Sudomemo!"
-
-msgid "RETURNING_USER_THANKS_FOR_REGISTRATION"
-msgstr "Croeso nol! Diolch am sefydlu eich gwybodaeth mewngofnodi."
-
-msgid "BUTTON_SIGN_IN_TO_SUDOMEMO"
-msgstr "Cofrestrwch i mewn i Sudomemo"
-
-msgid "LOGIN_FAILED"
-msgstr "Methodd logio i mewn."
-
-msgid "LOGIN_FAILED_REOPEN_FLIPNOTE_STUDIO"
-msgstr "Doedd dim modd mewngofnodi. Caewch ac ailagor Stiwdio Flipnote."
-
-msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE1"
-msgstr "Mae'r data Flipnote wedi'i lygru."
-
-msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE2"
-msgstr "Ceisiwch ei anfon eto."
-
-msgid "LOGIN_FAILED_BANNED_LINE1"
-msgstr "Rydych chi wedi cael eich cyfyngu rhag defnyddio Sudomemo."
-
-msgid "CONTACT_SUPPORT_EMAIL_FORMAT"
-msgstr "Cysylltwch â %s."
-
-msgid "CREATORS_ROOM_SHIM_WELCOME"
-msgstr "Croeso!"
-
-msgid "CREATORS_ROOM_SHIM_PLEASE_LOGIN"
-msgstr "Croeso i Sudomemo! Mewngofnodwch i barhau."
-
-msgid "GUIDE_MAIN_MENU_SHORTCUT"
-msgstr "Gallwch ddychwelyd i'r brif ddewislen trwy ddal i lawr L (neu R os ydych chi'n llaw chwith) a gwasgu'r botwm 'Menu'."
-
-msgid "SORRY_NO_LOGIN"
-msgstr "Mae'n ddrwg gennym, ond ni allem eich mewngofnodi!"
-
-msgid "BASIC_AUTH_NOT_ENABLED"
-msgstr "Nid yw'n ymddangos eich bod wedi galluogi Dilysu Sylfaenol yn eich gosodiadau dirprwy."
+msgid "BASIC_AUTH_BAD_LENGTH_FORMAT"
+msgstr "Ymddengys bod yr ID yn %s o hyd (dylai fod yn 16)"
 
 msgid "BASIC_AUTH_FSID_INVALID"
 msgstr "Mae'r ID Flipnote a gofnodwyd gennych o dan Dilysu Sylfaenol yn annilys:"
-
-msgid "BASIC_AUTH_BAD_LENGTH_FORMAT"
-msgstr "Ymddengys bod yr ID yn %s o hyd (dylai fod yn 16)"
 
 msgid "BASIC_AUTH_LOWERCASE_LETTERS"
 msgstr "Mae'r ID yn cynnwys llythyrau llythrennau bach - dylai fod yn llythyrau uchelfannau."
@@ -174,68 +30,20 @@ msgstr "Mae'r ID yn cynnwys llythyrau llythrennau bach - dylai fod yn llythyrau 
 msgid "BASIC_AUTH_NONHEX_CHARACTERS"
 msgstr "Mae'r ID yn cynnwys cymeriadau heblaw 0-9 ac A-F (dylai gynnwys dim ond 0-9 ac A-F)."
 
-msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
-msgstr "Os oes angen help arnoch i fynd ymlaen i Sudomemo, mae croeso i chi ofyn yn ein Gweinydd Discord! Gallwch ymuno o %s."
+msgid "BASIC_AUTH_NOT_ENABLED"
+msgstr "Nid yw'n ymddangos eich bod wedi galluogi Dilysu Sylfaenol yn eich gosodiadau dirprwy."
 
-msgid "BAN_NOTICE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
-msgstr "Cysylltwch â ni ar Discord neu drwy e-bost i %s."
+msgid "BUTTON_ADD_AN_EMAIL_ADDRESS"
+msgstr "Ychwanegwch gyfeiriad e-bost"
 
-msgid "FORGOT_PASSWORD_LINK"
-msgstr "Wedi anghofio eich cyfrinair?"
+msgid "BUTTON_CHANGE_EMAIL"
+msgstr "Newid cyfeiriad e-bost"
 
-msgid "EMAIL_IS_DUPLICATE"
-msgstr "Mae'r cyfeiriad e-bost a gofnodwyd gennych eisoes yn cael ei ddefnyddio."
-
-msgid "EMAIL_CONFIRMATION_SENT_FORMAT"
-msgstr "Anfonwyd e-bost cadarnhau at %s. Gwiriwch amdano mewn ychydig funudau."
+msgid "BUTTON_CHANGE_PASSWORD"
+msgstr "Newid cyfrinair"
 
 msgid "BUTTON_CHECK_VERIFICATION"
 msgstr "Statws Gwirio Gwirio"
-
-msgid "EMAIL_NOT_YET_VERIFIED"
-msgstr "Nid yw eich cyfeiriad e-bost wedi'i ddilysu eto."
-
-msgid "EMAIL_VERIFIED"
-msgstr "Diolch i chi am ddilysu eich e-bost!"
-
-msgid "EMAIL_REQUIRES_UPDATE"
-msgstr "Mae angen diweddaru eich cyfeiriad e-bost."
-
-msgid "VERIFICATION_NEEDED"
-msgstr "Mae angen i chi ddilysu eich cyfeiriad e-bost."
-
-msgid "BUTTON_RESEND_VERIFICATION_EMAIL"
-msgstr "Ail-anfon E-bost Gwirio"
-
-msgid "NOT_RECEIVING_HELP_FORMAT"
-msgstr "Ddim yn derbyn yr e-bost? Gallwch estyn allan i ni ar y Discord Sudomemo neu drwy %s."
-
-msgid "HEADER_VERIFY_EMAIL"
-msgstr "Dilysu E-bost"
-
-msgid "VERIFICATION_LIMIT_EXCEEDED_FORMAT"
-msgstr "Rydych wedi rhagori ar yr uchafswm o e-byst dilysu. Cysylltwch â chefnogaeth yn %s neu drwy Discord."
-
-msgid "WEB_HEADER_SUCCESS"
-msgstr "Llwyddiant!"
-
-msgid "WEB_TAP_CHECK_VERIFICATION_STATUS"
-msgstr "Ewch ymlaen a thapio 'Gwirio Statws Dilysu' ar eich System Nintendo DSi."
-
-msgid "HEADER_VERIFICATION_EXPIRED"
-msgstr "Daeth y dilysu i ben"
-
-msgid "VERIFICATION_EXPIRED_TEXT"
-msgstr "Mae'r URL dilysu wedi dod i ben neu wedi'i ddefnyddio eisoes."
-
-msgid "CONTINUE_TO_LOGIN"
-msgstr "Parhau i Fewngofnodi"
-
-msgid "HEADER_UPDATE_EMAIL"
-msgstr "Diweddaru E-bost"
-
-msgid "THANK_YOU_FOR_UPDATING_EMAIL"
-msgstr "Diolch am ddiweddaru eich e-bost!"
 
 msgid "BUTTON_CONTINUE"
 msgstr "Parhau"
@@ -243,21 +51,213 @@ msgstr "Parhau"
 msgid "BUTTON_EDIT_EMAIL_ADDRESS"
 msgstr "Newid Cyfeiriad E-bost"
 
-msgid "SEARCH_FOR_SENDER_EMAIL_FORMAT"
-msgstr "Heb dderbyn yr e-bost? Edrychwch ar eich blwch Sbam, a chwiliwch am %s. Os ydych wedi canfod ei fod wedi'i farcio â sbam, gwnewch yn siŵr eich bod yn ei farcio gyntaf."
+msgid "BUTTON_RESEND_VERIFICATION_EMAIL"
+msgstr "Ail-anfon E-bost Gwirio"
 
-msgid "NEW_USER_INTRO_POST_INTRO_CHANNEL"
-msgstr "Pan fyddwch chi'n barod, ewch ymlaen a chyflwyno'ch hun yn eich sianel Cyflwyniad, o dan y categori Personol."
+msgid "BUTTON_SIGN_IN_TO_SUDOMEMO"
+msgstr "Cofrestrwch i mewn i Sudomemo"
+
+msgid "BUTTON_SUBMIT"
+msgstr "Cyflwyno"
+
+msgid "CONFIRM_INFO_CORRECT"
+msgstr "Gwnewch yn siŵr bod y wybodaeth isod yn gywir."
+
+msgid "CONTACT_SUPPORT_EMAIL_FORMAT"
+msgstr "Cysylltwch â %s."
+
+msgid "CONTINUE_TO_LOGIN"
+msgstr "Parhau i Fewngofnodi"
+
+msgid "CREATORS_ROOM_SHIM_PLEASE_LOGIN"
+msgstr "Croeso i Sudomemo! Mewngofnodwch i barhau."
+
+msgid "CREATORS_ROOM_SHIM_WELCOME"
+msgstr "Croeso!"
+
+msgid "EMAIL_ADDITION_DETAILS"
+msgstr "Os ydych chi erioed wedi anghofio'ch cyfrinair, byddwn yn anfon dolen ailosod cyfrinair i'ch cyfeiriad e-bost."
+
+msgid "EMAIL_ADDITION_SUGGESTED"
+msgstr "Mae e-bost yn ddewisol, ond argymhellir yn gryf. Os ydych chi erioed wedi anghofio'ch cyfrinair, byddwn yn anfon dolen ailosod cyfrinair i'ch cyfeiriad e-bost."
+
+msgid "EMAIL_CONFIRMATION_SENT_FORMAT"
+msgstr "Anfonwyd e-bost cadarnhau at %s. Gwiriwch amdano mewn ychydig funudau."
+
+msgid "EMAIL_IS_DUPLICATE"
+msgstr "Mae'r cyfeiriad e-bost a gofnodwyd gennych eisoes yn cael ei ddefnyddio."
+
+msgid "EMAIL_NOT_YET_VERIFIED"
+msgstr "Nid yw eich cyfeiriad e-bost wedi'i ddilysu eto."
+
+msgid "EMAIL_REQUIRES_UPDATE"
+msgstr "Mae angen diweddaru eich cyfeiriad e-bost."
 
 msgid "EMAIL_VERIFICATION_ADDRESS_REMOVED"
 msgstr "Sorry about that! We've marked that email address as incorrect, so you shouldn't receive any further emails from Sudomemo."
 
-msgid "THANKS_FOR_LOGIN_PROMPT_INTRO"
-msgstr "Welcome to Sudomemo! Now, let's write a little message to say who you are! (This will be posted as a Flipnote in our Introductions channel.)"
+msgid "EMAIL_VERIFIED"
+msgstr "Diolch i chi am ddilysu eich e-bost!"
 
-msgid "PLEASE_DISCONNECT_AND_RECONNECT"
-msgstr "An error occured. To try again, disconnect and then reconnect to Sudomemo."
+msgid "ERROR"
+msgstr "Gwall"
+
+msgid "FORGOT_PASSWORD_LINK"
+msgstr "Wedi anghofio eich cyfrinair?"
+
+msgid "FORM_HEADER_EMAIL"
+msgstr "E-Bost:"
+
+msgid "FORM_HEADER_EMAIL_CONFIRM"
+msgstr "E-Bost:"
+
+msgid "FORM_HEADER_PASSWORD"
+msgstr "Cyfrinair:"
+
+msgid "FORM_LABEL_DONT_FORGET_PASSWORD"
+msgstr "Cofiwch wneud nodyn o'ch cyfrinair, a'i gadw'n ddiogel!"
+
+msgid "FORM_PREFILL_EMAIL"
+msgstr "Rhowch eich e-bost yma..."
+
+msgid "FORM_PREFILL_PASSWORD"
+msgstr "Rhowch eich cyfrinair yma..."
+
+msgid "FORM_WARNING_EMAIL_INVALID"
+msgstr "Nid yw'r cyfeiriad e-bost a roesoch yn ddilys."
+
+msgid "FORM_WARNING_PASSWORD_DISALLOWED_CHARS"
+msgstr "Ni all eich cyfrinair gynnwys unrhyw un o'r cymeriadau hyn:"
+
+msgid "FORM_WARNING_PASSWORD_TOO_SHORT"
+msgstr "Rhowch gyfrinair sy'n hirach nag 8 nod."
+
+msgid "GOTO_CREATORS_ROOM"
+msgstr "Ewch i Ystafell eich Crewr"
+
+msgid "GUIDE_MAIN_MENU_SHORTCUT"
+msgstr "Gallwch ddychwelyd i'r brif ddewislen trwy ddal i lawr L (neu R os ydych chi'n llaw chwith) a gwasgu'r botwm 'Menu'."
+
+msgid "HEADER_UPDATE_EMAIL"
+msgstr "Diweddaru E-bost"
+
+msgid "HEADER_VERIFICATION_EXPIRED"
+msgstr "Daeth y dilysu i ben"
+
+msgid "HEADER_VERIFY_EMAIL"
+msgstr "Dilysu E-bost"
+
+msgid "INCORRECT_PASSWORD_ATTEMPTS_FORMAT"
+msgstr "Ymdrechion cyfrinair anghywir: %s"
 
 # A URL will be shown at the end of this.
 msgid "LEGACY_PROXY_WARNING"
 msgstr "It looks like you may still be using the legacy ds.sudomemo.net proxy, which we have ended support for. As such, you should turn off the proxy in your System Settings, or you might have problems using Sudomemo. For more information, visit:"
+
+msgid "LOGIN"
+msgstr "Mewngofnodi"
+
+msgid "LOGIN_FAILED"
+msgstr "Methodd logio i mewn."
+
+msgid "LOGIN_FAILED_BANNED_LINE1"
+msgstr "Rydych chi wedi cael eich cyfyngu rhag defnyddio Sudomemo."
+
+msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE1"
+msgstr "Mae'r data Flipnote wedi'i lygru."
+
+msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE2"
+msgstr "Ceisiwch ei anfon eto."
+
+msgid "LOGIN_FAILED_REOPEN_FLIPNOTE_STUDIO"
+msgstr "Doedd dim modd mewngofnodi. Caewch ac ailagor Stiwdio Flipnote."
+
+msgid "LOGIN_FORM_PREFILL_PASSWORD"
+msgstr "Rhowch cyfrinair"
+
+msgid "LOGIN_SETUP"
+msgstr "Gosod Login"
+
+msgid "LOGIN_SUCCESSFUL"
+msgstr "Mewngofnodi Llwyddiannus"
+
+msgid "NEW_USER_INTRO_POST_INTRO_CHANNEL"
+msgstr "Pan fyddwch chi'n barod, ewch ymlaen a chyflwyno'ch hun yn eich sianel Cyflwyniad, o dan y categori Personol."
+
+msgid "NEW_USER_PLEASE_CREATE_PASSWORD"
+msgstr "Creu cyfrinair newydd."
+
+msgid "NEW_USER_THANKS_FOR_REGISTRATION"
+msgstr "Croeso i Sudomemo!"
+
+msgid "NEW_USER_WELCOME_FORMAT"
+msgstr "Croeso i Sudomemo, %s!"
+
+msgid "NOT_RECEIVING_HELP_FORMAT"
+msgstr "Ddim yn derbyn yr e-bost? Gallwch estyn allan i ni ar y Discord Sudomemo neu drwy %s."
+
+msgid "NO_PLAINTEXT_PASSWORD_RECOVERY_IF_LOST"
+msgstr "Ar ôl y cam hwn, ni allwn adfer eich cyfrinair os byddwch yn ei golli."
+
+msgid "PLEASE_DISCONNECT_AND_RECONNECT"
+msgstr "An error occured. To try again, disconnect and then reconnect to Sudomemo."
+
+msgid "PLEASE_ENTER_PASSWORD_TO_SIGN_IN"
+msgstr "Rhowch eich cyfrinair i fewngofnodi"
+
+msgid "POST_COMMENT_BELOW"
+msgstr "To continue, please submit a drawn comment (it can be blank)."
+
+msgid "REGISTRATION_ERROR_BAD_EMAIL"
+msgstr "Ni chaniateir y cyfeiriad e-bost a ddarparwyd gennych."
+
+msgid "REGISTRATION_ERROR_BAD_PASSWORD"
+msgstr "Ni chaniateir y cyfrinair a ddarparwyd gennych."
+
+msgid "REGISTRATION_ERROR_PASSWORD_ALREADY_SET"
+msgstr "Mae cyfrinair eisoes wedi'i osod."
+
+msgid "RETURNING_USER_NEW_LOGIN_SYSTEM"
+msgstr "Ers y tro diwethaf i chi ymweld, rydym wedi ychwanegu system fewngofnodi newydd - ond peidiwch â phoeni, mae'ch holl gynnwys yn dal i fod yma!"
+
+msgid "RETURNING_USER_PLEASE_CREATE_PASSWORD"
+msgstr "I ddechrau, crewch gyfrinair newydd isod."
+
+msgid "RETURNING_USER_THANKS_FOR_REGISTRATION"
+msgstr "Croeso nol! Diolch am sefydlu eich gwybodaeth mewngofnodi."
+
+msgid "SEARCH_FOR_SENDER_EMAIL_FORMAT"
+msgstr "Heb dderbyn yr e-bost? Edrychwch ar eich blwch Sbam, a chwiliwch am %s. Os ydych wedi canfod ei fod wedi'i farcio â sbam, gwnewch yn siŵr eich bod yn ei farcio gyntaf."
+
+msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
+msgstr "Os oes angen help arnoch i fynd ymlaen i Sudomemo, mae croeso i chi ofyn yn ein Gweinydd Discord! Gallwch ymuno o %s."
+
+msgid "SORRY_NO_LOGIN"
+msgstr "Mae'n ddrwg gennym, ond ni allem eich mewngofnodi!"
+
+msgid "THANKS_FOR_LOGIN_FORMAT"
+msgstr "Diolch am lofnodi i mewn, %s!"
+
+msgid "THANKS_FOR_LOGIN_PROMPT_INTRO"
+msgstr "Welcome to Sudomemo! Now, let's write a little message to say who you are! (This will be posted as a Flipnote in our Introductions channel.)"
+
+msgid "THANK_YOU_FOR_UPDATING_EMAIL"
+msgstr "Diolch am ddiweddaru eich e-bost!"
+
+msgid "VERIFICATION_EXPIRED_TEXT"
+msgstr "Mae'r URL dilysu wedi dod i ben neu wedi'i ddefnyddio eisoes."
+
+msgid "VERIFICATION_LIMIT_EXCEEDED_FORMAT"
+msgstr "Rydych wedi rhagori ar yr uchafswm o e-byst dilysu. Cysylltwch â chefnogaeth yn %s neu drwy Discord."
+
+msgid "VERIFICATION_NEEDED"
+msgstr "Mae angen i chi ddilysu eich cyfeiriad e-bost."
+
+msgid "WEB_HEADER_SUCCESS"
+msgstr "Llwyddiant!"
+
+msgid "WEB_TAP_CHECK_VERIFICATION_STATUS"
+msgstr "Ewch ymlaen a thapio 'Gwirio Statws Dilysu' ar eich System Nintendo DSi."
+
+msgid "WELCOME_BACK_FORMAT"
+msgstr "Croeso, %s!"

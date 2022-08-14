@@ -3,56 +3,11 @@ msgstr ""
 "Language: it_IT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "SUDOMEMO"
-msgstr "Sudomemo"
-
-msgid "HEADER_FLIPNOTES"
-msgstr "Flipnote"
-
-msgid "HEADER_NORMAL"
-msgstr "Recenti"
-
-msgid "HEADER_HOT_FLIPNOTES"
-msgstr "Di Tendenza"
-
-msgid "HEADER_MOST_POPULAR"
-msgstr "Più Popolari"
-
-msgid "HEADER_NO_SPINOFFS"
-msgstr "No Spinoff"
-
-msgid "HEADER_ROLEPLAYS"
-msgstr "Doppiaggi"
-
-msgid "HEADER_BROWSE_FLIPNOTES"
-msgstr "Cerca Flipnote"
-
-msgid "HEADER_FEATURED_FLIPNOTES"
+msgid "CATEGORY_featured"
 msgstr "In Primo Piano"
 
-msgid "HEADER_RANDOM_FLIPNOTES"
-msgstr "Flipnote Casuali"
-
-msgid "HEADER_PAGE"
-msgstr "Pagina"
-
-msgid "PAGE"
-msgstr "Pagina"
-
-msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d di %d"
-
-msgid "NEXT"
-msgstr "Successiva"
-
-msgid "PREV"
-msgstr "Precedente"
-
-msgid "POST_FLIPNOTE"
-msgstr "Pubblica Flipnote"
-
-msgid "CATEGORY_recent"
-msgstr "Recenti"
+msgid "CATEGORY_feed"
+msgstr "Feed"
 
 msgid "CATEGORY_hot"
 msgstr "Di Tendenza"
@@ -60,11 +15,59 @@ msgstr "Di Tendenza"
 msgid "CATEGORY_popular"
 msgstr "Più Popolari"
 
-msgid "CATEGORY_featured"
-msgstr "In Primo Piano"
-
 msgid "CATEGORY_random"
 msgstr "Flipnote Casuali"
 
-msgid "CATEGORY_feed"
-msgstr "Feed"
+msgid "CATEGORY_recent"
+msgstr "Recenti"
+
+msgid "HEADER_BROWSE_FLIPNOTES"
+msgstr "Cerca Flipnote"
+
+msgid "HEADER_FEATURED_FLIPNOTES"
+msgstr "In Primo Piano"
+
+msgid "HEADER_FLIPNOTES"
+msgstr "Flipnote"
+
+msgid "HEADER_HOT_FLIPNOTES"
+msgstr "Di Tendenza"
+
+msgid "HEADER_MOST_POPULAR"
+msgstr "Più Popolari"
+
+msgid "HEADER_NORMAL"
+msgstr "Recenti"
+
+msgid "HEADER_NO_SPINOFFS"
+msgstr "No Spinoff"
+
+msgid "HEADER_PAGE"
+msgstr "Pagina"
+
+msgid "HEADER_RANDOM_FLIPNOTES"
+msgstr "Flipnote Casuali"
+
+msgid "HEADER_ROLEPLAYS"
+msgstr "Doppiaggi"
+
+msgid "HEADER_WATCH_HISTORY"
+msgstr "Watch History"
+
+msgid "NEXT"
+msgstr "Successiva"
+
+msgid "PAGE"
+msgstr "Pagina"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d di %d"
+
+msgid "POST_FLIPNOTE"
+msgstr "Pubblica Flipnote"
+
+msgid "PREV"
+msgstr "Precedente"
+
+msgid "SUDOMEMO"
+msgstr "Sudomemo"

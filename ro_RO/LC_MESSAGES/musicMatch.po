@@ -3,43 +3,43 @@ msgstr ""
 "Language: ro_RO\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "HEADER_SONG_DETAILS"
-msgstr "Detalii Cantec"
-
-# Song Name
-msgid "TITLE"
-msgstr "Titlu"
-
 # Song Band/Artist
 msgid "ARTIST"
 msgstr "Artist"
 
-# Year song was published
-msgid "RELEASE_YEAR"
-msgstr "Publicat"
-
-msgid "GENRE"
-msgstr "Gen"
+msgid "BROWSE"
+msgstr "Cautati"
 
 # How many Flipnotes are using this song?
 msgid "FLIPNOTE_COUNT"
 msgstr "Flipnote-uri"
 
-msgid "BROWSE"
-msgstr "Cautati"
+msgid "GENRE"
+msgstr "Gen"
 
-msgid "SONG_ID"
-msgstr "ID Cantec"
-
-msgid "LINK_YOUTUBE_SPOTIFY"
-msgstr "Linkuri de YouTube si Spotify sunt disponibile:"
-
-msgid "LINK_YOUTUBE"
-msgstr "Un link YouTube este disponibil aici:"
-
-msgid "LINK_SPOTIFY"
-msgstr "Un link de Spotify este disponibil aici:"
+msgid "HEADER_SONG_DETAILS"
+msgstr "Detalii Cantec"
 
 # Creator instructions
 msgid "IF_SONG_INCORRECT"
 msgstr "Daca un cantec gresit este afisat pe Flipnote-ul dvs., puteti sa-l schimbati la Teatrul Sudomemo. Pentru mai multe, visitati: https://flipnot.es/musicmatch"
+
+msgid "LINK_SPOTIFY"
+msgstr "Un link de Spotify este disponibil aici:"
+
+msgid "LINK_YOUTUBE"
+msgstr "Un link YouTube este disponibil aici:"
+
+msgid "LINK_YOUTUBE_SPOTIFY"
+msgstr "Linkuri de YouTube si Spotify sunt disponibile:"
+
+# Year song was published
+msgid "RELEASE_YEAR"
+msgstr "Publicat"
+
+msgid "SONG_ID"
+msgstr "ID Cantec"
+
+# Song Name
+msgid "TITLE"
+msgstr "Titlu"

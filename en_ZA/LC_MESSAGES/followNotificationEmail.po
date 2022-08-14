@@ -15,11 +15,11 @@ msgstr "%s started followin u on Sudomemo @o@."
 msgid "STATS_FLIPNOTES_FORMAT"
 msgstr "%s Flips"
 
-msgid "STATS_FOLLOWERS_FORMAT"
-msgstr "%s fans"
-
 msgid "STATS_FLIPNOTES_FORMAT_SINGULAR"
 msgstr "%s flip"
+
+msgid "STATS_FOLLOWERS_FORMAT"
+msgstr "%s fans"
 
 msgid "STATS_FOLLOWERS_FORMAT_SINGULAR"
 msgstr "%s fan"

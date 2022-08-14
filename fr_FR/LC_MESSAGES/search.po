@@ -12,6 +12,12 @@ msgstr "Précédent"
 msgid "NO_RESULTS_FOUND"
 msgstr "Aucun résultat trouvé"
 
+msgid "PAGE"
+msgstr "Page"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d sur %d"
+
 msgid "PAGE_FORMAT"
 msgstr "Page %d"
 
@@ -30,6 +36,18 @@ msgstr "%1$d résultat trouvé pour \"%2$s\""
 msgid "SEARCH"
 msgstr "Rechercher"
 
+msgid "SEARCH_MUSICMATCH"
+msgstr "@MusicMatch"
+
+msgid "SEARCH_MUSIC_BY_ARTIST"
+msgstr "@Par artiste"
+
+msgid "SEARCH_MUSIC_BY_GENRE"
+msgstr "@Par genre"
+
+msgid "SEARCH_MUSIC_BY_SONG"
+msgstr "@Par chanson"
+
 msgid "SEARCH_SHORT_KEY"
 msgstr "@ID Flipnote"
 
@@ -47,21 +65,3 @@ msgstr "Aucun résultat n'a été trouvé, mais un ID similaire existe. Prenez e
 
 msgid "USERNAME"
 msgstr "Nom d'utilisateur"
-
-msgid "SEARCH_MUSICMATCH"
-msgstr "@MusicMatch"
-
-msgid "SEARCH_MUSIC_BY_SONG"
-msgstr "@Par chanson"
-
-msgid "SEARCH_MUSIC_BY_ARTIST"
-msgstr "@Par artiste"
-
-msgid "SEARCH_MUSIC_BY_GENRE"
-msgstr "@Par genre"
-
-msgid "PAGE"
-msgstr "Page"
-
-msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d sur %d"

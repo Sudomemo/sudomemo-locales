@@ -3,56 +3,56 @@ msgstr ""
 "Language: de_DE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "COMMENT_FAILED_USER_BANNED"
+msgstr "Dein Kommentar konnte nicht gepostet werden, da dein Konto von Sudomemo suspendiert wurde."
+
+msgid "COMMENT_POST_FAILED"
+msgstr "Posten des Kommentars fehlgeschlagen! Versuche es später erneut."
+
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "Bitte bestätige deine Email-Adresse vor dem Hochladen."
+
+msgid "DUPLICATE_COMMENT_FAILED"
+msgstr "Dieser Kommentar wurde schon in Sudomemo gepostet."
+
+msgid "FLIPNOTE_COMMENTS_DISALLOWED"
+msgstr "Du darfst keinen Kommentar an dieses Flipnote posten."
+
+msgid "FLIPNOTE_DATA_CORRUPTED"
+msgstr "Die Flipnote-Datei ist beschädigt! Versuche es später erneut."
+
 msgid "HEADER_COMMENTS"
 msgstr "Kommentare"
 
 msgid "HEADER_DETAILS"
 msgstr "Details"
 
-msgid "HEADER_PREV"
-msgstr "Zurück"
-
 msgid "HEADER_NEXT"
 msgstr "Weiter"
+
+msgid "HEADER_PREV"
+msgstr "Zurück"
 
 msgid "HEADER_REFRESH"
 msgstr "Neu laden"
 
-msgid "PAGE_FORMAT"
-msgstr "Seite %d"
-
-msgid "NO_COMMENTS_YET"
-msgstr "Sei der Erste, der einen Kommentar postet!"
-
 msgid "LOGIN_REQUIRED_TO_POST_COMMENT"
 msgstr "Du musst eingeloggt sein, um einen Kommentar zu posten."
 
-msgid "COMMENT_POST_FAILED"
-msgstr "Posten des Kommentars fehlgeschlagen! Versuche es später erneut."
+msgid "MODERATOR"
+msgstr "Moderator"
 
 msgid "NO_BLANK_COMMENTS_ALLOWED"
 msgstr "Du kannst keinen leeren Kommentar posten."
 
-msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "Die Flipnote-Datei ist beschädigt! Versuche es später erneut."
-
-msgid "FLIPNOTE_COMMENTS_DISALLOWED"
-msgstr "Du darfst keinen Kommentar an dieses Flipnote posten."
-
 msgid "NO_COMMENTS_WHILE_MUTED"
 msgstr "Du wurdest stummgeschaltet! Du kannst keine Kommentare versenden, wenn du stummgeschaltet wurdest."
 
-msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "Dieser Kommentar wurde schon in Sudomemo gepostet."
+msgid "NO_COMMENTS_YET"
+msgstr "Sei der Erste, der einen Kommentar postet!"
 
-msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "Dein Kommentar konnte nicht gepostet werden, da dein Konto von Sudomemo suspendiert wurde."
-
-msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Bitte bestätige deine Email-Adresse vor dem Hochladen."
-
-msgid "MODERATOR"
-msgstr "Moderator"
+msgid "PAGE_FORMAT"
+msgstr "Seite %d"
 
 msgid "SUDOMEMO_USER"
 msgstr "Sudomemo-Nutzer"

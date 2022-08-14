@@ -3,8 +3,8 @@ msgstr ""
 "Language: el_GR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "PREV"
-msgstr "Προηγ"
+msgid "HEADER_NEWS"
+msgstr "Νεα"
 
 msgid "NEXT"
 msgstr "Επομ"
@@ -12,5 +12,5 @@ msgstr "Επομ"
 msgid "PAGE_FORMAT"
 msgstr "Σελιδα %d"
 
-msgid "HEADER_NEWS"
-msgstr "Νεα"
+msgid "PREV"
+msgstr "Προηγ"

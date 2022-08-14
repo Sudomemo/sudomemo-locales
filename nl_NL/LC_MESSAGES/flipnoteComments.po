@@ -3,56 +3,56 @@ msgstr ""
 "Language: nl_NL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "COMMENT_FAILED_USER_BANNED"
+msgstr "Je toegang tot Sudomemo is vergrendeld."
+
+msgid "COMMENT_POST_FAILED"
+msgstr "Reactie plaatsen mislukt. Probeer het binnenkort nog eens."
+
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "Bevestig alsjeblieft je e-mailadres voor je iets plaatst."
+
+msgid "DUPLICATE_COMMENT_FAILED"
+msgstr "Deze reactie is al eens geplaatst op Sudomemo."
+
+msgid "FLIPNOTE_COMMENTS_DISALLOWED"
+msgstr "Je mag geen reacties plaatsen op deze Flipnote."
+
+msgid "FLIPNOTE_DATA_CORRUPTED"
+msgstr "Deze Flipnote is beschadigd. Probeer het binnenkort nog eens."
+
 msgid "HEADER_COMMENTS"
 msgstr "Reacties"
 
 msgid "HEADER_DETAILS"
 msgstr "Details"
 
-msgid "HEADER_PREV"
-msgstr "Vorige"
-
 msgid "HEADER_NEXT"
 msgstr "Volgende"
+
+msgid "HEADER_PREV"
+msgstr "Vorige"
 
 msgid "HEADER_REFRESH"
 msgstr "Herlaad"
 
-msgid "PAGE_FORMAT"
-msgstr "Pagina %d"
-
-msgid "NO_COMMENTS_YET"
-msgstr "Deze Flipnote heeft nog geen reacties."
-
 msgid "LOGIN_REQUIRED_TO_POST_COMMENT"
 msgstr "Je moet ingelogd zijn om reacties te kunnen plaatsen."
 
-msgid "COMMENT_POST_FAILED"
-msgstr "Reactie plaatsen mislukt. Probeer het binnenkort nog eens."
+msgid "MODERATOR"
+msgstr "Moderator"
 
 msgid "NO_BLANK_COMMENTS_ALLOWED"
 msgstr "Je kan geen lege reacties plaatsen."
 
-msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "Deze Flipnote is beschadigd. Probeer het binnenkort nog eens."
-
-msgid "FLIPNOTE_COMMENTS_DISALLOWED"
-msgstr "Je mag geen reacties plaatsen op deze Flipnote."
-
 msgid "NO_COMMENTS_WHILE_MUTED"
 msgstr "Je bent op stil gezet. Je mag geen reacties plaatsen."
 
-msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "Deze reactie is al eens geplaatst op Sudomemo."
+msgid "NO_COMMENTS_YET"
+msgstr "Deze Flipnote heeft nog geen reacties."
 
-msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "Je toegang tot Sudomemo is vergrendeld."
-
-msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Bevestig alsjeblieft je e-mailadres voor je iets plaatst."
-
-msgid "MODERATOR"
-msgstr "Moderator"
+msgid "PAGE_FORMAT"
+msgstr "Pagina %d"
 
 msgid "SUDOMEMO_USER"
 msgstr "Sudomemo User"

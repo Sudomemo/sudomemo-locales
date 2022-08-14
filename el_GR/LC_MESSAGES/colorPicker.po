@@ -3,15 +3,6 @@ msgstr ""
 "Language: el_GR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "SET_PEN_COLOR"
-msgstr "Επιλεξτε χρωμα Πενας"
-
-msgid "SET_PAPER_COLOR"
-msgstr "Επιλεξτε χρωμα Χαρτιου"
-
-msgid "SELECT_A_COLOR"
-msgstr "Επιλεξτε ενα χρωμα."
-
 msgid "CURRENT_COLOR"
 msgstr "Τρεχον χρωμα:"
 
@@ -20,3 +11,12 @@ msgstr "Τρεχον χρωμα: προεπιλογη"
 
 msgid "RETURN"
 msgstr "Επιστροφη"
+
+msgid "SELECT_A_COLOR"
+msgstr "Επιλεξτε ενα χρωμα."
+
+msgid "SET_PAPER_COLOR"
+msgstr "Επιλεξτε χρωμα Χαρτιου"
+
+msgid "SET_PEN_COLOR"
+msgstr "Επιλεξτε χρωμα Πενας"

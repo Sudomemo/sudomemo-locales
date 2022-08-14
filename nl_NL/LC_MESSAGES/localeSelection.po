@@ -6,17 +6,17 @@ msgstr ""
 msgid "CHANGE_LANGUAGE"
 msgstr "Verander Taal"
 
+msgid "INVALID_LOCALE"
+msgstr "Sorry, maar die taal is niet beschikbaar."
+
 msgid "LANGUAGE_UPDATED_FORMAT"
 msgstr "Je taal is veranderd naar %s."
+
+msgid "NOT_LOGGED_IN"
+msgstr "Je moet inloggen voor je je taal verandert."
 
 msgid "POTENTIAL_CONTRIBUTOR_NOTE"
 msgstr "Sudomemo steunt op zijn gemeenschap om accurate vertalingen te leveren. Als iets niet goed weergegeven, nog Engels, of een lage kwaliteit vertaling is, of als je je eigen taal wil toevoegen, nodigen we je uit om een bijdrage te leveren! Volledige en geverifiëerde nieuwe vertalingen kunnen leiden tot extra dagen Sudomemo Plus. Hier kan je dat doen: "
 
 msgid "RETURN_TO_CREATORS_ROOM"
 msgstr "Terug naar Makersruimte"
-
-msgid "NOT_LOGGED_IN"
-msgstr "Je moet inloggen voor je je taal verandert."
-
-msgid "INVALID_LOCALE"
-msgstr "Sorry, maar die taal is niet beschikbaar."

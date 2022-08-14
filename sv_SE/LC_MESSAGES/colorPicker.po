@@ -3,15 +3,6 @@ msgstr ""
 "Language: sv_SE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "SET_PEN_COLOR"
-msgstr "Sätt pennfärg"
-
-msgid "SET_PAPER_COLOR"
-msgstr "Sätt papersfärg"
-
-msgid "SELECT_A_COLOR"
-msgstr "Välj färg"
-
 msgid "CURRENT_COLOR"
 msgstr "Nuvarande färg:"
 
@@ -20,3 +11,12 @@ msgstr "Nuvarande färg: standard"
 
 msgid "RETURN"
 msgstr "Återvänd"
+
+msgid "SELECT_A_COLOR"
+msgstr "Välj färg"
+
+msgid "SET_PAPER_COLOR"
+msgstr "Sätt papersfärg"
+
+msgid "SET_PEN_COLOR"
+msgstr "Sätt pennfärg"

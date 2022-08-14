@@ -3,8 +3,65 @@ msgstr ""
 "Language: it_IT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "HEADER_REPORT_CONTENT"
-msgstr "Segnala Contenuto"
+msgid "CATEGORY_DESC_drugs"
+msgstr "Riferimenti all'abuso di sostanze o droghe"
+
+msgid "CATEGORY_DESC_fraud"
+msgstr "Impersonificazione o altre attività fraudolente"
+
+msgid "CATEGORY_DESC_harassment"
+msgstr "Bullismo, discriminazione, molestie o diffamazione"
+
+msgid "CATEGORY_DESC_misplaced_rp"
+msgstr "Doppiaggi postati su un canale non inerente"
+
+msgid "CATEGORY_DESC_rapid_flashing"
+msgstr "Presenza di luci lampeggianti per più di 4 volte al secondo"
+
+msgid "CATEGORY_DESC_sexual"
+msgstr "Argomenti o contenuti sessuali"
+
+msgid "CATEGORY_DESC_spam"
+msgstr "Spam (nessun contenuto significativo)"
+
+msgid "CATEGORY_DESC_stolen"
+msgstr "Abuso della funzione spin-off (rubato)"
+
+msgid "CATEGORY_DESC_swearing"
+msgstr "Uso di un linguaggio molto forte, o frequente uso di linguaggio forte"
+
+msgid "CATEGORY_DESC_violent"
+msgstr "Contenuto grafico con eccessiva violenza, splatter, sangue o squartamenti"
+
+msgid "CATEGORY_NAME_drugs"
+msgstr "Droghe"
+
+msgid "CATEGORY_NAME_fraud"
+msgstr "Frode"
+
+msgid "CATEGORY_NAME_harassment"
+msgstr "Molestie"
+
+msgid "CATEGORY_NAME_misplaced_rp"
+msgstr "Doppiaggi fuori luogo"
+
+msgid "CATEGORY_NAME_rapid_flashing"
+msgstr "Luci lampeggianti rapide"
+
+msgid "CATEGORY_NAME_sexual"
+msgstr "Sessuale"
+
+msgid "CATEGORY_NAME_spam"
+msgstr "Spam"
+
+msgid "CATEGORY_NAME_stolen"
+msgstr "Rubato"
+
+msgid "CATEGORY_NAME_swearing"
+msgstr "Profanazione"
+
+msgid "CATEGORY_NAME_violent"
+msgstr "Violenza"
 
 msgid "CHAT_MESSAGE"
 msgstr "Messaggio chat"
@@ -12,44 +69,32 @@ msgstr "Messaggio chat"
 msgid "COMMENT"
 msgstr "Commento"
 
-msgid "FLIPNOTE"
-msgstr "Flipnote"
-
-msgid "YOU_ARE_REPORTING_THIS_FORMAT"
-msgstr "Stai segnalando questo %s:"
-
-msgid "USER_HAS_ALREADY_REPORTED_FORMAT"
-msgstr "Hai già inviato una segnalazione per questo %s."
-
-msgid "HEADER_VIOLATION_CATEGORY"
-msgstr "Categoria della violazione:"
-
-msgid "FLIPNOTE_TITLE_FORMAT"
-msgstr "Flipnote di %s"
+msgid "CONFIRM_EMAIL_BEFORE_REPORTING"
+msgstr "Conferma la tua email prima di segnalare contenuti."
 
 msgid "CREATOR_FORMAT"
 msgstr "Creatore: %s"
 
-msgid "NOTICE_REPORT_OTHER_ISSUES"
-msgstr "Questo form serve per segnalare soltanto contenuti di un utente. Per segnalare un utente, o per altri problemi o richieste, manda un'email al nostro team di supporto:"
+msgid "DUPLICATE_COMMENT_FAILED"
+msgstr "Questo commento è già stato pubblicato su Sudomemo."
 
-msgid "REPORT_INSTRUCTIONS"
-msgstr "Scrivi una breve descrizione del motivo per cui pensi che questo contenuto violi i Termini di Utilizzo di Sudomemo. Dopo che l'hai inviata, tocca Indietro per tornare al Flipnote."
+msgid "FLIPNOTE"
+msgstr "Flipnote"
 
-msgid "NO_BLANK_REPORTS"
-msgstr "Non puoi mandare una segnalazione vuota."
-
-msgid "LIMIT_ONE_REPORT"
-msgstr "Nota bene: Puoi segnalare questo contenuto una volta. Ulteriori segnalazioni non saranno registrate, quindi metti la tua segnalazione in un commento singolo."
-
-msgid "REPORT_EXPLANATION_FAILED"
-msgstr "E' stato riscontrato un errore durante l'invio della segnalazione."
-
-msgid "RESTRICTED_CANCEL"
-msgstr "Non puoi segnalare contenuti se sei stato bannato in qualsiasi modo da Sudomemo."
+msgid "FLIPNOTE_TITLE_FORMAT"
+msgstr "Flipnote di %s"
 
 msgid "HEADER_REASON"
 msgstr "Motivo:"
+
+msgid "HEADER_REPORT_CONTENT"
+msgstr "Segnala Contenuto"
+
+msgid "HEADER_VIOLATION_CATEGORY"
+msgstr "Categoria della violazione:"
+
+msgid "LIMIT_ONE_REPORT"
+msgstr "Nota bene: Puoi segnalare questo contenuto una volta. Ulteriori segnalazioni non saranno registrate, quindi metti la tua segnalazione in un commento singolo."
 
 msgid "LOGIN_REQUIRED_TO_CONTINUE"
 msgstr "Accedi per continuare."
@@ -57,74 +102,29 @@ msgstr "Accedi per continuare."
 msgid "LOGIN_REQUIRED_TO_REPORT_CONTENT"
 msgstr "Devi accedere per inviare segnalazioni."
 
+msgid "NOTICE_REPORT_OTHER_ISSUES"
+msgstr "Questo form serve per segnalare soltanto contenuti di un utente. Per segnalare un utente, o per altri problemi o richieste, manda un'email al nostro team di supporto:"
+
+msgid "NO_BLANK_REPORTS"
+msgstr "Non puoi mandare una segnalazione vuota."
+
+msgid "REPORT_EXPLANATION_FAILED"
+msgstr "E' stato riscontrato un errore durante l'invio della segnalazione."
+
 msgid "REPORT_FAILED_USER_BANNED"
 msgstr "Segnalazione fallita: sei bannato da Sudomemo."
 
-msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "Questo commento è già stato pubblicato su Sudomemo."
+msgid "REPORT_INSTRUCTIONS"
+msgstr "Scrivi una breve descrizione del motivo per cui pensi che questo contenuto violi i Termini di Utilizzo di Sudomemo. Dopo che l'hai inviata, tocca Indietro per tornare al Flipnote."
 
-msgid "CONFIRM_EMAIL_BEFORE_REPORTING"
-msgstr "Conferma la tua email prima di segnalare contenuti."
+msgid "RESTRICTED_CANCEL"
+msgstr "Non puoi segnalare contenuti se sei stato bannato in qualsiasi modo da Sudomemo."
 
 msgid "THANKS_FOR_REPORTING"
 msgstr "Abbiamo ricevuto la tua segnalazione. Grazie per averci aiutato a rendere Sudomemo un posto migliore!"
 
-msgid "CATEGORY_NAME_stolen"
-msgstr "Rubato"
+msgid "USER_HAS_ALREADY_REPORTED_FORMAT"
+msgstr "Hai già inviato una segnalazione per questo %s."
 
-msgid "CATEGORY_DESC_stolen"
-msgstr "Abuso della funzione spin-off (rubato)"
-
-msgid "CATEGORY_NAME_spam"
-msgstr "Spam"
-
-msgid "CATEGORY_DESC_spam"
-msgstr "Spam (nessun contenuto significativo)"
-
-msgid "CATEGORY_NAME_harassment"
-msgstr "Molestie"
-
-msgid "CATEGORY_DESC_harassment"
-msgstr "Bullismo, discriminazione, molestie o diffamazione"
-
-msgid "CATEGORY_NAME_fraud"
-msgstr "Frode"
-
-msgid "CATEGORY_DESC_fraud"
-msgstr "Impersonificazione o altre attività fraudolente"
-
-msgid "CATEGORY_NAME_swearing"
-msgstr "Profanazione"
-
-msgid "CATEGORY_DESC_swearing"
-msgstr "Uso di un linguaggio molto forte, o frequente uso di linguaggio forte"
-
-msgid "CATEGORY_NAME_sexual"
-msgstr "Sessuale"
-
-msgid "CATEGORY_DESC_sexual"
-msgstr "Argomenti o contenuti sessuali"
-
-msgid "CATEGORY_NAME_violent"
-msgstr "Violenza"
-
-msgid "CATEGORY_DESC_violent"
-msgstr "Contenuto grafico con eccessiva violenza, splatter, sangue o squartamenti"
-
-msgid "CATEGORY_NAME_misplaced_rp"
-msgstr "Doppiaggi fuori luogo"
-
-msgid "CATEGORY_DESC_misplaced_rp"
-msgstr "Doppiaggi postati su un canale non inerente"
-
-msgid "CATEGORY_NAME_drugs"
-msgstr "Droghe"
-
-msgid "CATEGORY_DESC_drugs"
-msgstr "Riferimenti all'abuso di sostanze o droghe"
-
-msgid "CATEGORY_NAME_rapid_flashing"
-msgstr "Luci lampeggianti rapide"
-
-msgid "CATEGORY_DESC_rapid_flashing"
-msgstr "Presenza di luci lampeggianti per più di 4 volte al secondo"
+msgid "YOU_ARE_REPORTING_THIS_FORMAT"
+msgstr "Stai segnalando questo %s:"

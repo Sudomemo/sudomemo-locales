@@ -3,43 +3,43 @@ msgstr ""
 "Language: el_GR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "HEADER_SONG_DETAILS"
-msgstr "Λεπτομερειες Τραγουδιου"
-
-# Song Name
-msgid "TITLE"
-msgstr "Τιτλος"
-
 # Song Band/Artist
 msgid "ARTIST"
 msgstr "Καλλιτεχνης"
 
-# Year song was published
-msgid "RELEASE_YEAR"
-msgstr "Κυκλοφορια"
-
-msgid "GENRE"
-msgstr "Ειδος"
+msgid "BROWSE"
+msgstr "Χαζεψτε"
 
 # How many Flipnotes are using this song?
 msgid "FLIPNOTE_COUNT"
 msgstr "Flipnotes"
 
-msgid "BROWSE"
-msgstr "Χαζεψτε"
+msgid "GENRE"
+msgstr "Ειδος"
 
-msgid "SONG_ID"
-msgstr "ID Τραγουδιου"
-
-msgid "LINK_YOUTUBE_SPOTIFY"
-msgstr "Διαθεσιμα λινκ για YouTube και Spotify:"
-
-msgid "LINK_YOUTUBE"
-msgstr "Διαθεσιμο  λινκ  για YouTube:"
-
-msgid "LINK_SPOTIFY"
-msgstr "Διαθεσιμο λινκ για Spotify:"
+msgid "HEADER_SONG_DETAILS"
+msgstr "Λεπτομερειες Τραγουδιου"
 
 # Creator instructions
 msgid "IF_SONG_INCORRECT"
 msgstr "Εαν  φανει  λαθος  τραγουδι  στο Flipnote, μπορειτε  να  κανετε  ενημερωση  στο Sudomemo Theatre. Για  να  μαθετε  περισσοτερα,  επισκεφτειτε: https://flipnot.es/musicmatch"
+
+msgid "LINK_SPOTIFY"
+msgstr "Διαθεσιμο λινκ για Spotify:"
+
+msgid "LINK_YOUTUBE"
+msgstr "Διαθεσιμο  λινκ  για YouTube:"
+
+msgid "LINK_YOUTUBE_SPOTIFY"
+msgstr "Διαθεσιμα λινκ για YouTube και Spotify:"
+
+# Year song was published
+msgid "RELEASE_YEAR"
+msgstr "Κυκλοφορια"
+
+msgid "SONG_ID"
+msgstr "ID Τραγουδιου"
+
+# Song Name
+msgid "TITLE"
+msgstr "Τιτλος"

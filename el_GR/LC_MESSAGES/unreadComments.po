@@ -3,20 +3,20 @@ msgstr ""
 "Language: el_GR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
-msgstr "Για να δειτε αυτη τη σελιδα, πρεπει να συνδεθειτε."
+msgid "FLIPNOTE_ID"
+msgstr "Flipnote ID"
 
 msgid "HEADER_UNREAD_COMMENTS"
 msgstr "Μη Διαβασμενα Σχολια"
+
+msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
+msgstr "Για να δειτε αυτη τη σελιδα, πρεπει να συνδεθειτε."
 
 msgid "NO_UNREAD_COMMENTS"
 msgstr "Δεν εχετε μη διαβασμενα σχολια."
 
 msgid "TAP_ON_FLIPNOTE_ID_TO_VISIT_COMMENTS"
 msgstr "Πατηστε πανω σε ενα Flipnote ID για να επισκεφτειτε την σελιδα σχολιων."
-
-msgid "FLIPNOTE_ID"
-msgstr "Flipnote ID"
 
 msgid "UNREAD"
 msgstr "Μη Διαβασμενα"

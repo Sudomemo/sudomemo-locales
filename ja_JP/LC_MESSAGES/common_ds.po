@@ -9,11 +9,11 @@ msgstr "スドメモにログインしていません - ログインするには
 msgid "NOT_LOGGED_IN_NOTICE_LINK_TEXT"
 msgstr "こちら"
 
-msgid "YOU_HAVE_NEW_NOTIFICATIONS"
-msgstr "新しい通知があります"
-
 msgid "NOT_REGISTERED_NOTICE"
 msgstr "さらに楽しむには？　%sを押してスドメモを始めましょう！"
 
 msgid "NOT_REGISTERED_NOTICE_LINK_TEXT"
 msgstr "こちら"
+
+msgid "YOU_HAVE_NEW_NOTIFICATIONS"
+msgstr "新しい通知があります"

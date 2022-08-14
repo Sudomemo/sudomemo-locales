@@ -3,44 +3,44 @@ msgstr ""
 "Language: pt_PT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "CHANNEL_NAME"
-msgstr "Nome do Canal"
-
-msgid "CHANNEL_INFORMATION"
-msgstr "Informação do Canal"
-
-msgid "FLIPNOTES"
-msgstr "Flipnotes"
+msgid "CATEGORY"
+msgstr "Categoria"
 
 msgid "CHANNEL_ID"
 msgstr "ID do Canal"
 
-msgid "LOGIN_REQUIRED_TO_POST"
-msgstr "Tens de ter feito login para postar um Flipnote."
+msgid "CHANNEL_INFORMATION"
+msgstr "Informação do Canal"
+
+msgid "CHANNEL_NAME"
+msgstr "Nome do Canal"
 
 msgid "CHANNEL_NOT_SPECIFIED"
 msgstr "Tens de escolher um canal."
 
-msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
-msgstr "Estás restrito de usar o Sudomemo."
-
-msgid "FLIPNOTE_POST_FAILED"
-msgstr "Upload do Flipnote falhou. Tente outra vez dentro de momentos."
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "Por favor confirma o teu email antes de postar."
 
 msgid "DUPLICATE_FLIPNOTE_FAILED"
 msgstr "Este Flipnote já foi postado no Sudomemo. Tenta editar-lo outra vez."
 
+msgid "FLIPNOTES"
+msgstr "Flipnotes"
+
 msgid "FLIPNOTE_DATA_CORRUPTED"
 msgstr "Os dados do Flipnote estão corrompidos. Tenta outravez dentro de momentos."
+
+msgid "FLIPNOTE_POST_FAILED"
+msgstr "Upload do Flipnote falhou. Tente outra vez dentro de momentos."
+
+msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
+msgstr "Estás restrito de usar o Sudomemo."
+
+msgid "LOGIN_REQUIRED_TO_POST"
+msgstr "Tens de ter feito login para postar um Flipnote."
 
 msgid "NO_BLANK_FLIPNOTES_ALLOWED"
 msgstr "Não podes postar Flipnote em branco."
 
-msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Por favor confirma o teu email antes de postar."
-
 msgid "NO_POSTS_WHILE_MUTED"
 msgstr "Não podes postar enquanto tiveres silenciado."
-
-msgid "CATEGORY"
-msgstr "Categoria"

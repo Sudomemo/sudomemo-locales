@@ -3,8 +3,8 @@ msgstr ""
 "Language: cy_GB\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "PREV"
-msgstr "Blae"
+msgid "HEADER_NEWS"
+msgstr "Newyddion"
 
 msgid "NEXT"
 msgstr "Nesaf"
@@ -12,5 +12,5 @@ msgstr "Nesaf"
 msgid "PAGE_FORMAT"
 msgstr "Tudalen %d"
 
-msgid "HEADER_NEWS"
-msgstr "Newyddion"
+msgid "PREV"
+msgstr "Blae"

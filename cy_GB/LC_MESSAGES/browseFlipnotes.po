@@ -3,56 +3,11 @@ msgstr ""
 "Language: cy_GB\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "SUDOMEMO"
-msgstr "Sudomemo"
+msgid "CATEGORY_featured"
+msgstr "@Flipnotes Wedi'u Cynnwys"
 
-msgid "HEADER_FLIPNOTES"
-msgstr "Flipnotes"
-
-msgid "HEADER_NORMAL"
-msgstr "Diweddar"
-
-msgid "HEADER_HOT_FLIPNOTES"
-msgstr "Flipnotes Poeth"
-
-msgid "HEADER_MOST_POPULAR"
-msgstr "Mwyaf Poblogaidd"
-
-msgid "HEADER_NO_SPINOFFS"
-msgstr "Dim Spinoffs"
-
-msgid "HEADER_ROLEPLAYS"
-msgstr "Chwarae rôl"
-
-msgid "HEADER_BROWSE_FLIPNOTES"
-msgstr "Pori Flipnotes"
-
-msgid "HEADER_FEATURED_FLIPNOTES"
-msgstr "Flipnotes Wedi'u Cynnwys"
-
-msgid "HEADER_RANDOM_FLIPNOTES"
-msgstr "Flipnotes Ar Hap"
-
-msgid "HEADER_PAGE"
-msgstr "Tudalen"
-
-msgid "PAGE"
-msgstr "Tudalen"
-
-msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d o %d"
-
-msgid "NEXT"
-msgstr "Nesaf"
-
-msgid "PREV"
-msgstr "Blaenorol"
-
-msgid "POST_FLIPNOTE"
-msgstr "Llwythwch Flipnote i Fyny"
-
-msgid "CATEGORY_recent"
-msgstr "@Flipnotes Diweddar"
+msgid "CATEGORY_feed"
+msgstr "@Feed"
 
 msgid "CATEGORY_hot"
 msgstr "@Flipnotes Poeth"
@@ -60,11 +15,59 @@ msgstr "@Flipnotes Poeth"
 msgid "CATEGORY_popular"
 msgstr "@Mwyaf Poblogaidd"
 
-msgid "CATEGORY_featured"
-msgstr "@Flipnotes Wedi'u Cynnwys"
-
 msgid "CATEGORY_random"
 msgstr "@Flipnotes Ar Hap"
 
-msgid "CATEGORY_feed"
-msgstr "@Feed"
+msgid "CATEGORY_recent"
+msgstr "@Flipnotes Diweddar"
+
+msgid "HEADER_BROWSE_FLIPNOTES"
+msgstr "Pori Flipnotes"
+
+msgid "HEADER_FEATURED_FLIPNOTES"
+msgstr "Flipnotes Wedi'u Cynnwys"
+
+msgid "HEADER_FLIPNOTES"
+msgstr "Flipnotes"
+
+msgid "HEADER_HOT_FLIPNOTES"
+msgstr "Flipnotes Poeth"
+
+msgid "HEADER_MOST_POPULAR"
+msgstr "Mwyaf Poblogaidd"
+
+msgid "HEADER_NORMAL"
+msgstr "Diweddar"
+
+msgid "HEADER_NO_SPINOFFS"
+msgstr "Dim Spinoffs"
+
+msgid "HEADER_PAGE"
+msgstr "Tudalen"
+
+msgid "HEADER_RANDOM_FLIPNOTES"
+msgstr "Flipnotes Ar Hap"
+
+msgid "HEADER_ROLEPLAYS"
+msgstr "Chwarae rôl"
+
+msgid "HEADER_WATCH_HISTORY"
+msgstr "Watch History"
+
+msgid "NEXT"
+msgstr "Nesaf"
+
+msgid "PAGE"
+msgstr "Tudalen"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d o %d"
+
+msgid "POST_FLIPNOTE"
+msgstr "Llwythwch Flipnote i Fyny"
+
+msgid "PREV"
+msgstr "Blaenorol"
+
+msgid "SUDOMEMO"
+msgstr "Sudomemo"

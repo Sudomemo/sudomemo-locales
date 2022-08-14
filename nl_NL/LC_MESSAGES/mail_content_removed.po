@@ -3,38 +3,8 @@ msgstr ""
 "Language: nl_NL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-# Content Removed - sent to user when a piece of their content has been moderated away
-msgid "NOTICE"
-msgstr "Opmerking"
-
-# # Intro
-msgid "USER_CONTENT_REMOVED"
-msgstr "Iets dat je hebt geplaatst ging tegen Sudomemo's Inhoudsbeleid en Gebruikerstermen in, en is verwijderd."
-
-# # Content types
-msgid "CONTENT_TYPE_flipnote"
-msgstr "Flipnote"
-
-msgid "CONTENT_TYPE_comment"
-msgstr "Reactie"
-
-msgid "CONTENT_TYPE_chat_message"
-msgstr "Chatbericht"
-
-# ## We plan on adding user-created themes.
-msgid "CONTENT_TYPE_room_theme"
-msgstr "Thema Makersruimte"
-
-msgid "CONTENT_TYPE_profile_bio"
-msgstr "Profieltekst"
-
-# ## Catch-all
-msgid "CONTENT_TYPE_content"
-msgstr "Andere inhoud"
-
-# # continued message...
-msgid "REMOVAL_REASON_HEADER"
-msgstr "Deze inhoud is verwijderd wegens een of meer van de volgende redenen:"
+msgid "CONTENT_ID"
+msgstr "Content-ID:"
 
 msgid "CONTENT_POLICY_REVIEW_INTRO"
 msgstr "We begrijpen dat context en presentatie in acht genomen moet worden wanneer inhoudsbeleid en artistieke expressie bij elkaar komen."
@@ -42,14 +12,36 @@ msgstr "We begrijpen dat context en presentatie in acht genomen moet worden wann
 msgid "CONTENT_POLICY_REVIEW_LINK"
 msgstr "We'd like to encourage you to review our Content Policy here:"
 
-msgid "HOW_TO_APPEAL"
-msgstr "Als je gelooft dat dit een fout is, kan je leren om beroep te doen op:"
-
 msgid "CONTENT_TYPE"
 msgstr "Inhoudstype:"
 
-msgid "CONTENT_ID"
-msgstr "Content-ID:"
+msgid "CONTENT_TYPE_chat_message"
+msgstr "Chatbericht"
+
+msgid "CONTENT_TYPE_comment"
+msgstr "Reactie"
+
+# ## Catch-all
+msgid "CONTENT_TYPE_content"
+msgstr "Andere inhoud"
+
+# # Content types
+msgid "CONTENT_TYPE_flipnote"
+msgstr "Flipnote"
+
+msgid "CONTENT_TYPE_profile_bio"
+msgstr "Profieltekst"
+
+# ## We plan on adding user-created themes.
+msgid "CONTENT_TYPE_room_theme"
+msgstr "Thema Makersruimte"
+
+msgid "HOW_TO_APPEAL"
+msgstr "Als je gelooft dat dit een fout is, kan je leren om beroep te doen op:"
+
+# Content Removed - sent to user when a piece of their content has been moderated away
+msgid "NOTICE"
+msgstr "Opmerking"
 
 # # re-download will be made available for certain content types
 msgid "REDOWNLOAD_HEADER"
@@ -57,3 +49,11 @@ msgstr "Als je %s wilt herinzien, kan je het downloaden als %s"
 
 msgid "REDOWNLOAD_LINK"
 msgstr "hier"
+
+# # continued message...
+msgid "REMOVAL_REASON_HEADER"
+msgstr "Deze inhoud is verwijderd wegens een of meer van de volgende redenen:"
+
+# # Intro
+msgid "USER_CONTENT_REMOVED"
+msgstr "Iets dat je hebt geplaatst ging tegen Sudomemo's Inhoudsbeleid en Gebruikerstermen in, en is verwijderd."

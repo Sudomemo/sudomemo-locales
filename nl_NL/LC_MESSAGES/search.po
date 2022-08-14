@@ -3,56 +3,41 @@ msgstr ""
 "Language: nl_NL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "HEADER_PREV"
-msgstr "Vorige"
-
 msgid "HEADER_NEXT"
 msgstr "Volgende"
 
-msgid "PAGE_FORMAT"
-msgstr "Pagina %d"
-
-msgid "SEARCH"
-msgstr "Zoeken"
-
-msgid "USERNAME"
-msgstr "Gebruikersnaam"
-
-msgid "RESULTS"
-msgstr "Resultaten"
-
-msgid "SEARCH_USERNAME"
-msgstr "Zoek Gebruikersnaam"
-
-msgid "PLEASE_ENTER_USERNAME"
-msgstr "Voer een gebruikersnaam in..."
-
-msgid "RESULTS_FOUND_FORMAT_SINGULAR"
-msgstr "%1$d resultaat gevonden voor \"%2$s\""
-
-msgid "RESULTS_FOUND_FORMAT_MULTIPLE"
-msgstr "%1$d resultaten gevonden voor \"%2$s\""
+msgid "HEADER_PREV"
+msgstr "Vorige"
 
 msgid "NO_RESULTS_FOUND"
 msgstr "Geen resultaten gevonden"
 
-msgid "SEARCH_SHORT_KEY"
-msgstr "Flipnote-ID"
+msgid "PAGE"
+msgstr "Page"
 
-msgid "SHORT_KEY_NO_RESULTS"
-msgstr "Geen Flipnote gevonden"
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d of %d"
 
-msgid "SHORT_KEY_FORMAT_GUIDE"
-msgstr "Vindt je niet waar je naar zoekt? Het kan zijn dat je de Flipnote-ID verkeerd hebt ingevuld. Flipnote-ID's zijn zes nummers lang en kunnen gevonden worden in het 'Details'-gedeelte van de Flipnote."
+msgid "PAGE_FORMAT"
+msgstr "Pagina %d"
 
-msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
-msgstr "Er is geen resultaat gevonden, maar een soortgelijke ID bestaat. Houd er rekening mee dat Flipnote-ID's hoofdlettergevoelig zijn, en meestal alleen hoofdletters en nummers bevatten."
+msgid "PLEASE_ENTER_USERNAME"
+msgstr "Voer een gebruikersnaam in..."
+
+msgid "RESULTS"
+msgstr "Resultaten"
+
+msgid "RESULTS_FOUND_FORMAT_MULTIPLE"
+msgstr "%1$d resultaten gevonden voor \"%2$s\""
+
+msgid "RESULTS_FOUND_FORMAT_SINGULAR"
+msgstr "%1$d resultaat gevonden voor \"%2$s\""
+
+msgid "SEARCH"
+msgstr "Zoeken"
 
 msgid "SEARCH_MUSICMATCH"
 msgstr "MusicMatch"
-
-msgid "SEARCH_MUSIC_BY_SONG"
-msgstr "By Song"
 
 msgid "SEARCH_MUSIC_BY_ARTIST"
 msgstr "By Artist"
@@ -60,8 +45,23 @@ msgstr "By Artist"
 msgid "SEARCH_MUSIC_BY_GENRE"
 msgstr "By Genre"
 
-msgid "PAGE"
-msgstr "Page"
+msgid "SEARCH_MUSIC_BY_SONG"
+msgstr "By Song"
 
-msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d of %d"
+msgid "SEARCH_SHORT_KEY"
+msgstr "Flipnote-ID"
+
+msgid "SEARCH_USERNAME"
+msgstr "Zoek Gebruikersnaam"
+
+msgid "SHORT_KEY_FORMAT_GUIDE"
+msgstr "Vindt je niet waar je naar zoekt? Het kan zijn dat je de Flipnote-ID verkeerd hebt ingevuld. Flipnote-ID's zijn zes nummers lang en kunnen gevonden worden in het 'Details'-gedeelte van de Flipnote."
+
+msgid "SHORT_KEY_NO_RESULTS"
+msgstr "Geen Flipnote gevonden"
+
+msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
+msgstr "Er is geen resultaat gevonden, maar een soortgelijke ID bestaat. Houd er rekening mee dat Flipnote-ID's hoofdlettergevoelig zijn, en meestal alleen hoofdletters en nummers bevatten."
+
+msgid "USERNAME"
+msgstr "Gebruikersnaam"

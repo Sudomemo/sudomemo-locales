@@ -3,23 +3,23 @@ msgstr ""
 "Language: pl_PL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "EMAIL_SUBJECT_FORMAT"
-msgstr "[Sudomemo] %s, dostałeś nowe komentarze na twoich Flipnotes!"
-
-msgid "TITLE_NEW_COMMENTS"
-msgstr "Nowe komentarze"
-
-msgid "HELLO_FORMAT"
-msgstr "Witaj, %s!"
-
-msgid "TEXT_YOU_HAVE_X_COMMENTS_FROM_FORMAT"
-msgstr "Otrzymałeś %d nowe komentarze na Sudomemo od %s"
-
 msgid "AND"
 msgstr "i"
 
 msgid "AND_X_OTHERS_FORMAT"
 msgstr "i %s innych."
 
+msgid "EMAIL_SUBJECT_FORMAT"
+msgstr "[Sudomemo] %s, dostałeś nowe komentarze na twoich Flipnotes!"
+
+msgid "HELLO_FORMAT"
+msgstr "Witaj, %s!"
+
 msgid "TEXT_HOW_TO_VIEW_UNREAD_COMMENTS_TAP_ICON_FORMAT"
 msgstr "Możesz je przeczytać wciskając %s na twoim pasku powiadomień."
+
+msgid "TEXT_YOU_HAVE_X_COMMENTS_FROM_FORMAT"
+msgstr "Otrzymałeś %d nowe komentarze na Sudomemo od %s"
+
+msgid "TITLE_NEW_COMMENTS"
+msgstr "Nowe komentarze"

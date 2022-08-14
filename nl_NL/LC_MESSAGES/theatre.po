@@ -3,38 +3,161 @@ msgstr ""
 "Language: nl_NL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-# This file contains most of the translations for Sudomemo Theatre.
-# Meta tags, descriptions, etc
-msgid "SUDOMEMO"
-msgstr "Sudomemo"
+msgid "404_GO_BACK"
+msgstr "Terug naar Sudomemo Theatre"
 
-msgid "SUDOMEMO_THEATRE"
-msgstr "Sudomemo Theatre"
+# 404 Page
+msgid "404_OOPS_NOT_FOUND"
+msgstr "Oeps - Die pagina kon niet gevonden worden"
 
-msgid "SUDOMEMO_NEWS"
-msgstr "Sudomemo Nieuws"
+msgid "404_WHOOPS_NOT_THERE"
+msgstr "Whoops! Waar je ook naar zocht, het was niet hier."
 
-msgid "SUDOMEMO_SHOP"
-msgstr "Sudomemo Shop"
+# Account Settings (Theatre)
+msgid "ACCOUNT_SETTINGS"
+msgstr "Account Settings"
 
-msgid "SUDOMEMO_SHOP_META_DESCRIPTION"
-msgstr "Sudomemo Shop: Sudomemo merch, tickets voor Plus en Sterren, en andere leuke dingen!"
+msgid "ALT_DRAWN_COMMENT_BY_USER"
+msgstr "Getekende reactie door %s"
 
-# I think this should just stay English, because it's like a catch phrase, and because of the fact how these meta things work a Dutch translation will almost never be used.
-msgid "DEFAULT_META_DESCRIPTION"
-msgstr "Sudomemo: Share your Flipnotes with the world! For Nintendo DSi and 3DS."
+msgid "ALT_USER_PROFILE_PICTURE"
+msgstr "%s's profielfoto"
 
-# I feel, once again, like this is a catch phrase and should be left in English.
-msgid "FRONTPAGE_TITLE_TAGLINE"
-msgstr "Sudomemo: Flipnote Hatena is back!"
+# Front Page
+# # Alt tags, aria labels
+msgid "ALT_WEEKLY_TOPIC_BANNER"
+msgstr "Banner reclame voor het Weeklijkse Onderwerp"
 
-msgid "VIEWPAGE_COMMENT_TEXTBOX"
-msgstr "Reactietekstdoos"
+msgid "ARCHIVE"
+msgstr "Archive"
 
-# # "Username - 3 fans, 25 Flipnotes on Sudomemo"
-# # Not going to bother making plural variants
-msgid "PROFILE_DEFAULT_DESCRIPTION"
-msgstr "%s - %s fans, %s Flipnotes op Sudomemo"
+msgid "ARCHIVED"
+msgstr "Archived"
+
+msgid "ARCHIVE_FLIPNOTE"
+msgstr "Archive Flipnote"
+
+msgid "ARCHIVE_FLIPNOTE_DESC"
+msgstr "This Flipnote was originally posted on Flipnote Hatena."
+
+msgid "ARCHIVE_PROFILE"
+msgstr "Archive Profile"
+
+msgid "ARCHIVE_PROFILE_DESC"
+msgstr "This is an archive of a Flipnote Hatena profile."
+
+# Very common terms and one-word translations
+msgid "ARTIST"
+msgstr "Auteur"
+
+# Back, in the sense of navigation
+msgid "BACK"
+msgstr "Terug"
+
+# Browse Channel
+msgid "BROWSE_CHANNEL_NO_FLIPNOTES_YET"
+msgstr "Er zijn nog geen Flipnotes geplaatst in dit kanaal."
+
+# Browse Song
+msgid "BROWSE_SONG_NO_FLIPNOTES_YET"
+msgstr "Er zijn nog geen Flipnotes geplaatst met dit nummer."
+
+# Additional things
+# See Flipnotes with the song <song name> by <band/artist name>
+msgid "BROWSE_SONG_YOU_ARE_BROWSING_SONG"
+msgstr "Bekijk Flipnotes met het nummer %s door %s"
+
+msgid "BTN_GET_STARTED"
+msgstr "Get Started"
+
+msgid "BTN_GO_TO_SETTINGS"
+msgstr "Go to Settings"
+
+msgid "BTN_JOIN_DISCORD"
+msgstr "Join Discord"
+
+msgid "BTN_SIGN_IN_WITH_GOOGLE"
+msgstr "Sign in with Google"
+
+msgid "BTN_STARTING_UPLOAD"
+msgstr "Starting..."
+
+msgid "BTN_START_UPLOAD"
+msgstr "Start Upload"
+
+msgid "BTN_UPLOAD_FAILED"
+msgstr "Upload failed..."
+
+msgid "CATEGORY"
+msgstr "Categorie"
+
+msgid "CHANNEL"
+msgstr "Kanaal"
+
+msgid "CHANNELS"
+msgstr "Kanalen"
+
+msgid "CHANNEL_CAT_NAME_ART"
+msgstr "Kunst"
+
+msgid "CHANNEL_CAT_NAME_FANDOMS"
+msgstr "Fandoms"
+
+msgid "CHANNEL_CAT_NAME_GENRES"
+msgstr "Genres"
+
+# # categories
+msgid "CHANNEL_CAT_NAME_NONE"
+msgstr "Geen"
+
+msgid "CHANNEL_CAT_NAME_PERSONAL"
+msgstr "Persoonlijk"
+
+msgid "CHANNEL_CAT_NAME_RESOURCES"
+msgstr "(Hulp)middelen"
+
+msgid "CHANNEL_CAT_NAME_ROLEPLAYS"
+msgstr "Rollenspelen"
+
+msgid "CHANNEL_CAT_NAME_TOPICS"
+msgstr "Onderwerpen"
+
+msgid "CHANNEL_CAT_NAME_WEEKLY_TOPIC"
+msgstr "Weeklijkse Onderwerp"
+
+# # Posting permissions
+msgid "CHANNEL_PERM_CLOSED"
+msgstr "Gesloten"
+
+msgid "CHANNEL_PERM_OPEN"
+msgstr "Open"
+
+msgid "COMMENTS"
+msgstr "Commentaar"
+
+msgid "CONTINUE"
+msgstr "Continue"
+
+msgid "COULD_NOT_SAVE_DETAILS"
+msgstr "Kon details niet opslaan"
+
+msgid "CREATOR"
+msgstr "Maker"
+
+msgid "CREATORS"
+msgstr "Makers"
+
+msgid "CREATORS_ROOM"
+msgstr "Makersruimte"
+
+# November 29th, 2019 08:23:07
+# Used for Flipnote Details
+# Now in Dutch:
+#   08:23:07, 29 November 2019
+# (English and Dutch are the same in this case.)
+# Once again, will PHP use the Dutch names for the days and the month?
+msgid "DATETIME_MONTH_DAY_ORDINAL_HOUR_MINUTE_SECOND_FORMAT"
+msgstr "H:i:s, j F Y"
 
 # Date-time formats
 # You can adjust the way dates display to match your region better.
@@ -50,52 +173,95 @@ msgstr "%s - %s fans, %s Flipnotes op Sudomemo"
 msgid "DATETIME_WEEKDAY_MONTH_DAY_ORDINAL_YEAR_FORMAT"
 msgstr "l j F, Y"
 
-# November 29th, 2019 08:23:07
-# Used for Flipnote Details
-# Now in Dutch:
-#   08:23:07, 29 November 2019
-# (English and Dutch are the same in this case.)
-# Once again, will PHP use the Dutch names for the days and the month?
-msgid "DATETIME_MONTH_DAY_ORDINAL_HOUR_MINUTE_SECOND_FORMAT"
-msgstr "H:i:s, j F Y"
-
-# Very common terms and one-word translations
-msgid "ARTIST"
-msgstr "Auteur"
-
-# Back, in the sense of navigation
-msgid "BACK"
-msgstr "Terug"
-
-msgid "CATEGORY"
-msgstr "Categorie"
-
-msgid "CHANNEL"
-msgstr "Kanaal"
-
-msgid "CHANNELS"
-msgstr "Kanalen"
-
-msgid "COMMENTS"
-msgstr "Commentaar"
-
-msgid "CREATOR"
-msgstr "Maker"
-
-msgid "CREATORS"
-msgstr "Makers"
-
-msgid "CREATORS_ROOM"
-msgstr "Makersruimte"
-
-msgid "DETAILS"
-msgstr "Details"
+# I think this should just stay English, because it's like a catch phrase, and because of the fact how these meta things work a Dutch translation will almost never be used.
+msgid "DEFAULT_META_DESCRIPTION"
+msgstr "Sudomemo: Share your Flipnotes with the world! For Nintendo DSi and 3DS."
 
 msgid "DESCRIPTION"
 msgstr "Beschrijving"
 
+msgid "DESCRIPTION_WILL_GO_HERE"
+msgstr "Jouw beschrijving komt hier."
+
+msgid "DETAILS"
+msgstr "Details"
+
+# This refers to Discord, which is a chat app.
+msgid "DISCORD"
+msgstr "Discord"
+
+msgid "DISCORD_HOW_TO_LINK"
+msgstr "How to Link"
+
+# Connected since December 27th, 2020
+msgid "DISCORD_LINKED_ON_DATE"
+msgstr "Connected since %s"
+
 msgid "DOWNLOADS"
 msgstr "Downloads"
+
+# Flipnote View Page
+msgid "EDIT_FLIPNOTE"
+msgstr "Bewerk Flipnote"
+
+# # MusicMatch
+msgid "EDIT_PAGE_ABOUT_MUSICMATCH_1"
+msgstr "Sudomemo's MusicMatch luistert naar jouw Flipnote om te vinden welke muziek het gebruikt!"
+
+msgid "EDIT_PAGE_ABOUT_MUSICMATCH_2"
+msgstr "MusicMatch zal soms meer dan één mogelijk liedje vinden, of de verkeerde kiezen. Als dit gebeurt, kan je het weergeven nummer hier veranderen."
+
+msgid "EDIT_PAGE_ABOUT_MUSICMATCH_3"
+msgstr "Als je het nummer bijwerkt, zal MusicMatch leren van die informatie om in de toekomst beter nummers van Flipnote geluid te herkennen."
+
+msgid "EDIT_PAGE_DESCRIPTION_TOOLTIP"
+msgstr "Letters, nummers, en symbolen, maximaal 320 karakters."
+
+msgid "EDIT_PAGE_ENTER_A_DESCRIPTION"
+msgstr "Voer een beschrijving in"
+
+msgid "EDIT_PAGE_ENTER_A_TITLE"
+msgstr "Voer een titel in"
+
+msgid "EDIT_PAGE_FLIPNOTE_PREVIEW_NOTE"
+msgstr "Info: Flipnotevoorbeeld wordt niet bijgewerkt."
+
+msgid "EDIT_PAGE_MUSICMATCH_NONE_CORRECT"
+msgstr "Geen van deze klopt"
+
+msgid "EDIT_PAGE_MUSICMATCH_NO_BGM"
+msgstr "Jouw Flipnote heeft geen achtergrondmuziek."
+
+msgid "EDIT_PAGE_MUSICMATCH_PENDING_MAPPING"
+msgstr "MusicMatch is op dit moment jouw Flipnote aan het verwerken. Kom later nog eens terug."
+
+msgid "EDIT_PAGE_MUSICMATCH_PREVIEW_ON_SPOTIFY"
+msgstr "Luister op Spotify"
+
+msgid "EDIT_PAGE_MUSICMATCH_PREVIEW_ON_YOUTUBE"
+msgstr "Luister op Youtube Music"
+
+msgid "EDIT_PAGE_MUSICMATCH_UNMAPPED"
+msgstr "MusicMatch is not niet aan jouw Flipnote toegekomen. Kom later nog eens terug."
+
+msgid "EDIT_PAGE_MUSICMATCH_UNMATCHED"
+msgstr "MusicMatch kon geen nummers vinden die overeen kwamen met jouw Flipnote."
+
+msgid "EDIT_PAGE_PLUS_AUDIO_ENHANCEMENT"
+msgstr "Geluidsverbetering"
+
+# Flipnote smoothing
+msgid "EDIT_PAGE_PLUS_SMOOTHING"
+msgstr "Vergladding"
+
+msgid "EDIT_PAGE_SUDOMEMO_PLUS_REQUIRED"
+msgstr "Je hebt Sudomemo Plus nodig om deze functionaliteit te gebruiken."
+
+msgid "EDIT_PAGE_TITLE_AND_DESCRIPTION"
+msgstr "Titel en Beschrijving"
+
+msgid "EDIT_PAGE_TITLE_TOOLTIP"
+msgstr "Letters, nummers, en symbolen, maximaal 40 karakters."
 
 msgid "FANS"
 msgstr "Fans"
@@ -103,8 +269,8 @@ msgstr "Fans"
 msgid "FEATURED"
 msgstr "Uitgelicht"
 
-msgid "FLIPNOTE_ID"
-msgstr "Flipnote-ID"
+msgid "FEATURED_FLIPNOTES"
+msgstr "Uitgelichte Flipnotes"
 
 msgid "FLIPNOTE"
 msgstr "Flipnote"
@@ -112,16 +278,91 @@ msgstr "Flipnote"
 msgid "FLIPNOTES"
 msgstr "Flipnotes"
 
-# This is short for Flipnote Studio ID. Leave it as "FSID" except in Japanese, where it should be うごメモID
-msgid "FSID"
-msgstr "FSID"
+msgid "FLIPNOTE_ARCHIVE_BUTTON_TOGGLE"
+msgstr "Show link to archived Flipnote Hatena content from my profile"
+
+msgid "FLIPNOTE_ARCHIVE_PROFILE_AVAILABLE"
+msgstr "Your Flipnote Hatena profile is available through our Flipnote Archive Preview Program! You can view your old Flipnotes by visiting your profile on Sudomemo Theatre."
+
+msgid "FLIPNOTE_ARCHIVE_PROFILE_NOT_AVAILABLE"
+msgstr "An archived Flipnote Hatena profile is not available for this account."
+
+msgid "FLIPNOTE_ARCHIVE_PROFILE_SETTING_INFORMATION"
+msgstr "While logged in, your archive link will always be shown on your page. You can choose whether or not to make this visible to other users below."
+
+msgid "FLIPNOTE_ARCHIVE_SETTINGS"
+msgstr "Archive Settings"
+
+# # Flipnote by...
+msgid "FLIPNOTE_BY_FORMAT"
+msgstr "Flipnote door %s"
+
+msgid "FLIPNOTE_HATENA_PROFILE"
+msgstr "Flipnote Hatena Profile"
+
+msgid "FLIPNOTE_ID"
+msgstr "Flipnote-ID"
+
+# # Flipnote sections
+msgid "FLIPNOTE_LIST_RECALCULATING"
+msgstr "De rangen worden op dit moment herberekend. Probeer binnenkort de pagina te herladen."
+
+msgid "FLIPNOTE_SETTINGS_UPLOAD_TO_YOUTUBE"
+msgstr "You can upload your Flipnote to your YouTube channel. Click the button below to get started."
 
 # Japanese translation should also be be うごメモID here
 msgid "FLIPNOTE_STUDIO_ID"
 msgstr "Flipnote Studio-ID"
 
+msgid "FOLLOW"
+msgstr "Volg"
+
+msgid "FOLLOWERS"
+msgstr "Volgers"
+
+msgid "FOLLOWING"
+msgstr "Volgend"
+
+# Creator's Room (Profile)
+msgid "FOLLOWS_YOU"
+msgstr "Volgt Jou"
+
+msgid "FOLLOW_BACK"
+msgstr "Volg Terug"
+
+msgid "FORGOT_YOUR_PASSWORD"
+msgstr "Forgot your password?"
+
+# # Right sidebar
+# This is a hard one, as the only translation possible for this will be the same as "Featured Flipnotes". Luckily, over the last couple of years, English is used more and more in combination with Dutch, so leaving this in English will be the best way to clarify what exactly is meant.
+msgid "FRONTPAGE_FLIPNOTE_SPOTLIGHT"
+msgstr "Flipnote Spotlight"
+
+# I feel, once again, like this is a catch phrase and should be left in English.
+msgid "FRONTPAGE_TITLE_TAGLINE"
+msgstr "Sudomemo: Flipnote Hatena is back!"
+
+msgid "FRONTPAGE_TRENDING_CREATORS"
+msgstr "Populaire Makers"
+
+# This is short for Flipnote Studio ID. Leave it as "FSID" except in Japanese, where it should be うごメモID
+msgid "FSID"
+msgstr "FSID"
+
 msgid "GENRE"
 msgstr "Genre"
+
+# # はてなID
+msgid "HATENA_ID"
+msgstr "Hatena-ID"
+
+msgid "HEADER_CHANGE_PASSWORD"
+msgstr "Change Password"
+
+# Upload page specifics
+# Upload to YouTube header
+msgid "HEADER_UPLOAD_TO_YOUTUBE"
+msgstr "Upload to YouTube"
 
 msgid "HELP_CENTER"
 msgstr "Help Center"
@@ -129,11 +370,38 @@ msgstr "Help Center"
 msgid "HOT"
 msgstr "Populair"
 
+msgid "HOT_FLIPNOTES"
+msgstr "Populaire Flipnotes"
+
+# Do not translate ".sudo unlink"
+msgid "HOW_TO_UNLINK_DISCORD"
+msgstr "To unlink your Discord account, type this command into chat: .sudo unlink"
+
 msgid "INFO"
 msgstr "Info"
 
 msgid "LATEST"
 msgstr "Nieuwste"
+
+msgid "LEARN_MORE"
+msgstr "Learn more"
+
+msgid "LINK_REQUIRED_BEFORE_UPLOAD"
+msgstr "You'll need to link your YouTube channel before you can upload your Flipnote."
+
+# # Ticket types..
+# Login Page
+msgid "LOGIN_FAILED_CHECK_DETAILS"
+msgstr "We konden je niet inloggen. Controlleer de details die je in hebt gevoerd en probeer het opnieuw."
+
+msgid "LOGIN_PLACEHOLDER_PASSWORD"
+msgstr "Wachtwoord"
+
+msgid "LOGIN_PLACEHOLDER_USERNAME"
+msgstr "E-mail of Flipnote Studio ID"
+
+msgid "LOGIN_SIGNUP_SELECT_DEVICE"
+msgstr "Selecteer je apparaat"
 
 msgid "MODERATOR"
 msgstr "Moderator"
@@ -145,144 +413,56 @@ msgstr "Meer"
 msgid "MUSICMATCH"
 msgstr "MusicMatch"
 
-# Left in English
-# For reason see "PREV"
-msgid "NEXT"
-msgstr "Next"
+msgid "MUSICMATCH_ABOUT"
+msgstr "Over MusicMatch"
 
-msgid "NEWS"
-msgstr "Nieuws"
+# # MusicMatch
+# ## Where the Flipnote's audio starts at in the song
+msgid "MUSICMATCH_AUDIO_OFFSET"
+msgstr "Begint om %s"
 
-# Channel permissions: Is posting Flipnotes to a channel allowed or not?
-msgid "PERMISSIONS"
-msgstr "Rechten"
+msgid "MUSICMATCH_LISTEN_ON_SPOTIFY"
+msgstr "Luister op Spotify"
 
-msgid "POPULAR"
-msgstr "Populair"
+msgid "MUSICMATCH_LISTEN_ON_YOUTUBE_MUSIC"
+msgstr "Luister op YouTube Music"
 
-# Previous, abbreviated "Prev". Should be a maximum of 4 characters.
-# I couldn't get this shorter than 5 characters.. (vorig) So I left it in English and changed "Next" back to English as well.
-msgid "PREV"
-msgstr "Prev"
-
-# This can be either "willekeurig" or "willekeurige", using the first one if "random" is the only word, and the second one if for example "random Flipnote" is said.
-msgid "RANDOM"
-msgstr "Willekeurig"
-
-# Referring to a release date/publishing date
-msgid "RELEASED"
-msgstr "Publicatie"
-
-msgid "RANK"
-msgstr "Rang"
-
-msgid "RECENT"
-msgstr "Recent"
-
-msgid "SAVE"
-msgstr "Opslaan"
-
-msgid "SAVING"
-msgstr "Aan het opslaan"
-
-msgid "SEARCH"
-msgstr "Zoeken"
-
-msgid "SHARE"
-msgstr "Deel"
-
-msgid "SIGN_UP"
-msgstr "Aanmelden"
-
-msgid "SIGN_IN"
-msgstr "Log In"
-
-msgid "SIGN_OUT"
-msgstr "Log Uit"
-
-msgid "STARS"
-msgstr "Sterren"
-
-msgid "TITLE"
-msgstr "Titel"
-
-# Referring to being the most popular (in terms of ranking)
-msgid "TOP"
-msgstr "Beste"
-
-# Number of times something has been viewed, or played.
-msgid "VIEWS"
-msgstr "Weergaven"
-
-# For MusicMatch
-msgid "SONG"
-msgstr "Nummer"
-
-# Trademark, not translating
-msgid "SUDOMEMO_PLUS"
-msgstr "Sudomemo Plus"
-
-# Navbar
-msgid "NAVBAR_TOGGLE_NAVIGATION"
-msgstr "Toggle navigation"
-
-msgid "NAVBAR_ITEM_SHOP"
-msgstr "Winkel"
-
-msgid "NAVBAR_ITEM_HELP"
-msgstr "Hulp"
-
-msgid "NAVBAR_ITEM_USEFUL_LINKS"
-msgstr "Handige Links"
-
-msgid "NAVBAR_ITEM_DISCORD"
-msgstr "Discord"
-
-msgid "NAVBAR_ITEM_HOW_TO_JOIN"
-msgstr "Hoe deel te nemen"
-
-msgid "NAVBAR_ITEM_CONNECTION_HELP"
-msgstr "Verbindingshulp"
-
-msgid "NAVBAR_ITEM_FAQS"
-msgstr "Veelgestelde Vragen"
-
-msgid "TERMS_OF_USE"
-msgstr "Gebruiksvoorwaarden"
-
-msgid "NAVBAR_ITEM_CONTACT_US"
-msgstr "Neem contact op"
-
-msgid "NAVBAR_ITEM_TWITTER"
-msgstr "Twitter"
-
-msgid "NAVBAR_ITEM_INSTAGRAM"
-msgstr "Instagram"
-
-msgid "NAVBAR_ITEM_FACEBOOK"
-msgstr "Facebook"
-
-msgid "NAVBAR_ITEM_EMAIL"
-msgstr "E-mail"
-
-msgid "NAVBAR_ITEM_OTHER"
-msgstr "Anders"
-
-msgid "NAVBAR_ITEM_CREDITS"
-msgstr "Credits"
+# # Referring to a music label/publishing company
+msgid "MUSIC_LABEL"
+msgstr "Label"
 
 msgid "NAVBAR_ITEM_ADMIN"
 msgstr "Administrator"
 
-# I guess some made-up name for Sudo admin, so I'm not translating it
-msgid "NAVBAR_ITEM_SUDOMEMO_ADMIN"
-msgstr "Sudomin"
+msgid "NAVBAR_ITEM_CONNECTION_HELP"
+msgstr "Verbindingshulp"
 
-msgid "NAVBAR_ITEM_REPORTED_FLIPNOTES"
-msgstr "Gerapporteerde Flipnotes"
+msgid "NAVBAR_ITEM_CONTACT_US"
+msgstr "Neem contact op"
 
-msgid "NAVBAR_ITEM_SWITCH_TO_USER_ACCOUNT"
-msgstr "Schakel over naar gebruikersaccount"
+msgid "NAVBAR_ITEM_CREDITS"
+msgstr "Credits"
+
+msgid "NAVBAR_ITEM_DISCORD"
+msgstr "Discord"
+
+msgid "NAVBAR_ITEM_EMAIL"
+msgstr "E-mail"
+
+msgid "NAVBAR_ITEM_FACEBOOK"
+msgstr "Facebook"
+
+msgid "NAVBAR_ITEM_FAQS"
+msgstr "Veelgestelde Vragen"
+
+msgid "NAVBAR_ITEM_HELP"
+msgstr "Hulp"
+
+msgid "NAVBAR_ITEM_HOW_TO_JOIN"
+msgstr "Hoe deel te nemen"
+
+msgid "NAVBAR_ITEM_INSTAGRAM"
+msgstr "Instagram"
 
 # # Switch to dark mode
 msgid "NAVBAR_ITEM_LIGHTS_OFF"
@@ -292,128 +472,126 @@ msgstr "Licht uit"
 msgid "NAVBAR_ITEM_LIGHTS_ON"
 msgstr "Licht aan"
 
-# Front Page
-# # Alt tags, aria labels
-msgid "ALT_WEEKLY_TOPIC_BANNER"
-msgstr "Banner reclame voor het Weeklijkse Onderwerp"
+msgid "NAVBAR_ITEM_OTHER"
+msgstr "Anders"
 
-msgid "ALT_USER_PROFILE_PICTURE"
-msgstr "%s's profielfoto"
+msgid "NAVBAR_ITEM_REPORTED_FLIPNOTES"
+msgstr "Gerapporteerde Flipnotes"
 
-msgid "ALT_DRAWN_COMMENT_BY_USER"
-msgstr "Getekende reactie door %s"
+msgid "NAVBAR_ITEM_SHOP"
+msgstr "Winkel"
 
-# # Welcome to Sudomemo Box
-msgid "WELCOME_BOX_GREET_ADMIN"
-msgstr "Welkom terug, %s"
+# I guess some made-up name for Sudo admin, so I'm not translating it
+msgid "NAVBAR_ITEM_SUDOMEMO_ADMIN"
+msgstr "Sudomin"
 
-msgid "WELCOME_BOX_YOU_ARE_ADMIN"
-msgstr "Je bent ingelogd als een Administrator."
+msgid "NAVBAR_ITEM_SWITCH_TO_USER_ACCOUNT"
+msgstr "Schakel over naar gebruikersaccount"
 
-msgid "WELCOME_BOX_OPEN_SUDOMIN"
-msgstr "Open Sudomin"
+msgid "NAVBAR_ITEM_TWITTER"
+msgstr "Twitter"
 
-# ## Our welcome box can change it's greeting, depending on time of day.
-# ## It is displayed like this:
-# ## Good afternoon, User! Happy Flipnoting!
-msgid "WELCOME_BOX_DEFAULT_GREETING"
-msgstr "Hallo"
+msgid "NAVBAR_ITEM_USEFUL_LINKS"
+msgstr "Handige Links"
 
-msgid "WELCOME_BOX_MORNING_GREETING"
-msgstr "Goedemorgen"
+# Navbar
+msgid "NAVBAR_TOGGLE_NAVIGATION"
+msgstr "Toggle navigation"
 
-msgid "WELCOME_BOX_AFTERNOON_GREETING"
-msgstr "Goedemiddag"
+msgid "NEWS"
+msgstr "Nieuws"
 
-msgid "WELCOME_BOX_EVENING_GREETING"
-msgstr "Goedenavond"
+# Left in English
+# For reason see "PREV"
+msgid "NEXT"
+msgstr "Next"
 
-# ## "Happy Flipnoting!" is one of our brand catchphrases. "Flipnoting" refers to the act of creating or watching Flipnotes.
-# ## Please don't translate "Flipnoting", except to Japanese where you could probably modify the word うごメモ.
-msgid "WELCOME_BOX_USERNAME_HAPPY_FLIPNOTING"
-msgstr ", %s! Happy Flipnoting!"
+msgid "NINTENDO_3DS"
+msgstr "Nintendo 3DS"
 
-msgid "WELCOME_BOX_WELCOME_TO"
-msgstr "Welkom bij"
+msgid "NINTENDO_DSI"
+msgstr "Nintendo DSi"
 
-# ## Another one of our taglines 
-msgid "WELCOME_BOX_SHARE_CREATIVITY_TAGLINE"
-msgstr "Share your creativity with the world!"
+msgid "NO_EMAIL_ON_FILE"
+msgstr "No email address on file -- contact Sudomemo Support"
 
-msgid "WELCOME_BOX_WHAT_IS_SUDOMEMO"
-msgstr "Sudomemo is een animatiesite waar mensen flipboekanimaties kunnen delen - genaamd Flipnotes - gemaakt en geplaatst vanaf de Nintendo DSi en 3DS."
+msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
+msgstr "No user found with that Flipnote Studio ID or email"
 
-msgid "WELCOME_BOX_HOW_TO_JOIN"
-msgstr "Leer hoe je mee kan doen!"
+msgid "PASSWORD_RESET_SENT"
+msgstr "A password reset has been sent to the email address on file."
 
-# Give, in the same sense as "Donate"
-msgid "WELCOME_BOX_GIVE"
-msgstr "Geef"
+msgid "PASS_CHANGE_COMPLETE"
+msgstr "Your password has been updated."
 
-# # Flipnote sections
-msgid "FLIPNOTE_LIST_RECALCULATING"
-msgstr "De rangen worden op dit moment herberekend. Probeer binnenkort de pagina te herladen."
+msgid "PASS_CHANGE_CONFIRM_PASSWORD"
+msgstr "Confirm Password"
 
-msgid "RECENT_FLIPNOTES"
-msgstr "Recente Flipnotes"
+msgid "PASS_CHANGE_CONTINUE_TO_LOGIN"
+msgstr "Continue to login"
+
+msgid "PASS_CHANGE_PASSWORD"
+msgstr "Change Password"
+
+msgid "PASS_CHANGE_URL_EXPIRED"
+msgstr "The URL you visited has expired."
+
+# Channel permissions: Is posting Flipnotes to a channel allowed or not?
+msgid "PERMISSIONS"
+msgstr "Rechten"
+
+msgid "PLUS_LEARN_MORE"
+msgstr "Meer informatie..."
+
+msgid "POPULAR"
+msgstr "Populair"
 
 msgid "POPULAR_THIS_MONTH"
 msgstr "Populair Deze Maand"
 
-msgid "HOT_FLIPNOTES"
-msgstr "Populaire Flipnotes"
+# Previous, abbreviated "Prev". Should be a maximum of 4 characters.
+# I couldn't get this shorter than 5 characters.. (vorig) So I left it in English and changed "Next" back to English as well.
+msgid "PREV"
+msgstr "Prev"
+
+msgid "PRIVACY_POLICY"
+msgstr "Privacy Policy"
+
+msgid "PROFILE_ABOUT_USERNAME"
+msgstr "Over %s"
+
+# # "Username - 3 fans, 25 Flipnotes on Sudomemo"
+# # Not going to bother making plural variants
+msgid "PROFILE_DEFAULT_DESCRIPTION"
+msgstr "%s - %s fans, %s Flipnotes op Sudomemo"
+
+# # Recent comments on their Flipnotes
+msgid "PROFILE_RECENT_COMMENTS"
+msgstr "Recente reacties"
+
+# # User's ★ are from:
+msgid "PROFILE_STAR_COUNTRY_HEADER"
+msgstr "%s's ★ zijn van:"
+
+# # channels that the user posts in most often
+msgid "PROFILE_USER_POSTS_IN"
+msgstr "%s plaatst in..."
+
+# This can be either "willekeurig" or "willekeurige", using the first one if "random" is the only word, and the second one if for example "random Flipnote" is said.
+msgid "RANDOM"
+msgstr "Willekeurig"
 
 msgid "RANDOM_FLIPNOTES"
 msgstr "Willekeurige Flipnotes"
 
-msgid "FEATURED_FLIPNOTES"
-msgstr "Uitgelichte Flipnotes"
+msgid "RANK"
+msgstr "Rang"
 
-# # Flipnote by...
-msgid "FLIPNOTE_BY_FORMAT"
-msgstr "Flipnote door %s"
+msgid "RECENT"
+msgstr "Recent"
 
-# # Comments section
-msgid "VIEWPAGE_COMMENT_WRITE_HERE"
-msgstr "Schrijf hier"
-
-msgid "VIEWPAGE_COMMENT_POST_BUTTON"
-msgstr "Plaats Reactie"
-
-msgid "VIEWPAGE_ADD_MODERATOR_COMMENT"
-msgstr "Voeg Moderatorreactie Toe"
-
-msgid "VIEWPAGE_MODERATOR_COMMENT_WARNING"
-msgstr "Gebruik dit niet voor persoonlijke reacties."
-
-# ## This is composed of two parts: SIGN_IN and TO_ADD_A_COMMENT
-# ## SIGN_IN is a link to the login page, and TO_ADD_A_COMMENT is the part that comes after.
-# ## It reads as follows: Sign in to add a comment
-msgid "TO_ADD_A_COMMENT"
-msgstr "om commentaar te plaatsen"
-
-# ## When the Post Comment button is pressed, it changes to "Posting..." and then "Posted!" when complete.
-msgid "VIEWPAGE_COMMENT_POSTING"
-msgstr "Plaatsen..."
-
-msgid "VIEWPAGE_COMMENT_POSTED"
-msgstr "Geplaatst!"
-
-# ## This can happen in cases of network failure or if the comment is rejected
-msgid "VIEWPAGE_COMMENT_FAILED"
-msgstr "Reactie mislukt..."
-
-# # Right sidebar
-# This is a hard one, as the only translation possible for this will be the same as "Featured Flipnotes". Luckily, over the last couple of years, English is used more and more in combination with Dutch, so leaving this in English will be the best way to clarify what exactly is meant.
-msgid "FRONTPAGE_FLIPNOTE_SPOTLIGHT"
-msgstr "Flipnote Spotlight"
-
-msgid "FRONTPAGE_TRENDING_CREATORS"
-msgstr "Populaire Makers"
-
-# Flipnote View Page
-msgid "EDIT_FLIPNOTE"
-msgstr "Bewerk Flipnote"
+msgid "RECENT_FLIPNOTES"
+msgstr "Recente Flipnotes"
 
 msgid "REGION"
 msgstr "Regio"
@@ -432,34 +610,205 @@ msgstr "Japan"
 msgid "REGION_UNKNOWN"
 msgstr "Onbekend"
 
+# Referring to a release date/publishing date
+msgid "RELEASED"
+msgstr "Publicatie"
+
+msgid "SAVE"
+msgstr "Opslaan"
+
+msgid "SAVING"
+msgstr "Aan het opslaan"
+
+msgid "SEARCH"
+msgstr "Zoeken"
+
+msgid "SEARCH_PAGE_FORM_PLACEHOLDER"
+msgstr "Username, FSID, song, artist, or channel"
+
+msgid "SEARCH_PAGE_FUZZY_SEARCH_TIP"
+msgstr "Tip: Je kan op dingen zoeken zoals 'Austin' en resultaten krijgen zoals 'ÄuらtÎn'"
+
+# # User hasn't posted any Flipnotes yet
+msgid "SEARCH_PAGE_NO_FLIPNOTES_YET"
+msgstr "Nog geen Flipnotes..."
+
+msgid "SEARCH_PAGE_NO_RESULTS_FOUND"
+msgstr "Geen resultaten gevonden."
+
+# Made this into "Your query resulted into too many results" instead of "creators"
+msgid "SEARCH_PAGE_TOO_MANY_MATCHED"
+msgstr "Je zoekopdracht heeft te veel resultaten opgeleverd - probeer iets specifiekers."
+
+# Search page
+# Made this "Search through Sudomemo" in Dutch, to clarify that you will be searching through Sudomemo instead of searching for Sudomemo.
+msgid "SEARCH_SUDOMEMO"
+msgstr "Zoek door Sudomemo"
+
+msgid "SEE_MORE"
+msgstr "See more"
+
+msgid "SETTINGS"
+msgstr "Settings"
+
+msgid "SHARE"
+msgstr "Deel"
+
 msgid "SHARE_ON_FACEBOOK"
 msgstr "Deel op Facebook"
-
-msgid "SHARE_ON_TWITTER"
-msgstr "Deel via Twitter"
-
-msgid "SHARE_ON_TUMBLR"
-msgstr "Deel op Tumblr"
 
 msgid "SHARE_ON_REDDIT"
 msgstr "Deel via Reddit"
 
-msgid "VIEWPAGE_SPINOFFS"
-msgstr "Spin-offs"
+msgid "SHARE_ON_TUMBLR"
+msgstr "Deel op Tumblr"
 
-# # MusicMatch
-# ## Where the Flipnote's audio starts at in the song
-msgid "MUSICMATCH_AUDIO_OFFSET"
-msgstr "Begint om %s"
+msgid "SHARE_ON_TWITTER"
+msgstr "Deel via Twitter"
 
-msgid "MUSICMATCH_LISTEN_ON_YOUTUBE_MUSIC"
-msgstr "Luister op YouTube Music"
+msgid "SHARE_ON_WHATSAPP"
+msgstr "Share via WhatsApp"
 
-msgid "MUSICMATCH_LISTEN_ON_SPOTIFY"
-msgstr "Luister op Spotify"
+msgid "SIGN_IN"
+msgstr "Log In"
 
-msgid "MUSICMATCH_ABOUT"
-msgstr "Over MusicMatch"
+msgid "SIGN_OUT"
+msgstr "Log Uit"
+
+msgid "SIGN_UP"
+msgstr "Aanmelden"
+
+# For MusicMatch
+msgid "SONG"
+msgstr "Nummer"
+
+msgid "SONGS"
+msgstr "Songs"
+
+msgid "SONG_ARTISTS"
+msgstr "Song Artists"
+
+msgid "STARS"
+msgstr "Sterren"
+
+msgid "SUBMIT"
+msgstr "Submit"
+
+# This file contains most of the translations for Sudomemo Theatre.
+# Meta tags, descriptions, etc
+msgid "SUDOMEMO"
+msgstr "Sudomemo"
+
+msgid "SUDOMEMO_NEWS"
+msgstr "Sudomemo Nieuws"
+
+# Trademark, not translating
+msgid "SUDOMEMO_PLUS"
+msgstr "Sudomemo Plus"
+
+msgid "SUDOMEMO_SHOP"
+msgstr "Sudomemo Shop"
+
+msgid "SUDOMEMO_SHOP_ABOUT_TICKETS_1"
+msgstr "Tickets zijn leuke items op Sudomemo die je kan inwisselen voor Sterren, Sudomemo Plus, en andere dingen!"
+
+msgid "SUDOMEMO_SHOP_ABOUT_TICKETS_2"
+msgstr "Wanneer je een ticket hebt, kan je het verzilveren in je Maker's Ruimte door op \"Wissel in\" te tikken - of, je kan een ticket code geven als een cadeau aan een vriend!"
+
+msgid "SUDOMEMO_SHOP_ALL_ABOUT_PLUS"
+msgstr "Alles over Sudomemo Plus"
+
+msgid "SUDOMEMO_SHOP_LEARN_ABOUT_PLUS"
+msgstr "Leer over wat je allemaal kan doen met Sudomemo Plus:"
+
+msgid "SUDOMEMO_SHOP_META_DESCRIPTION"
+msgstr "Sudomemo Shop: Sudomemo merch, tickets voor Plus en Sterren, en andere leuke dingen!"
+
+msgid "SUDOMEMO_THEATRE"
+msgstr "Sudomemo Theatre"
+
+msgid "SUDOMEMO_USER"
+msgstr "Sudomemo User"
+
+msgid "TERMS_OF_USE"
+msgstr "Gebruiksvoorwaarden"
+
+# Sudomemo Shop
+msgid "TICKETS"
+msgstr "Tickets"
+
+msgid "TITLE"
+msgstr "Titel"
+
+# Referring to being the most popular (in terms of ranking)
+msgid "TOP"
+msgstr "Beste"
+
+# ## This is composed of two parts: SIGN_IN and TO_ADD_A_COMMENT
+# ## SIGN_IN is a link to the login page, and TO_ADD_A_COMMENT is the part that comes after.
+# ## It reads as follows: Sign in to add a comment
+msgid "TO_ADD_A_COMMENT"
+msgstr "om commentaar te plaatsen"
+
+# The funny thing is, that this string will probably never even be showed in Dutch xD
+msgid "TROPHY_CASE"
+msgstr "Trophy Case"
+
+# This is shown to logged-in users on their own Flipnotes without titles
+msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
+msgstr "Untitled Flipnote by %s"
+
+msgid "UPLOAD_OPTIONS"
+msgstr "Upload Options"
+
+# Upload status
+msgid "UPLOAD_STATUS"
+msgstr "Upload Status"
+
+msgid "USERS"
+msgstr "Users"
+
+msgid "USERS_FLIPNOTE_FROM_FLIPNOTE_HATENA"
+msgstr "%s's Flipnote from Flipnote Hatena"
+
+msgid "USERS_PROFILE_FROM_FLIPNOTE_HATENA"
+msgstr "%s's profile from Flipnote Hatena"
+
+msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
+msgstr "After you've joined the Sudomemo Discord, copy and paste this into the chat."
+
+msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
+msgstr "Configure your linked YouTube channel and default Flipnote upload settings."
+
+msgid "VERIFIED_USER"
+msgstr "Verified User"
+
+msgid "VIEWPAGE_ADD_MODERATOR_COMMENT"
+msgstr "Voeg Moderatorreactie Toe"
+
+# ## This can happen in cases of network failure or if the comment is rejected
+msgid "VIEWPAGE_COMMENT_FAILED"
+msgstr "Reactie mislukt..."
+
+msgid "VIEWPAGE_COMMENT_POSTED"
+msgstr "Geplaatst!"
+
+# ## When the Post Comment button is pressed, it changes to "Posting..." and then "Posted!" when complete.
+msgid "VIEWPAGE_COMMENT_POSTING"
+msgstr "Plaatsen..."
+
+msgid "VIEWPAGE_COMMENT_POST_BUTTON"
+msgstr "Plaats Reactie"
+
+msgid "VIEWPAGE_COMMENT_TEXTBOX"
+msgstr "Reactietekstdoos"
+
+# # Comments section
+msgid "VIEWPAGE_COMMENT_WRITE_HERE"
+msgstr "Schrijf hier"
+
+msgid "VIEWPAGE_MODERATOR_COMMENT_WARNING"
+msgstr "Gebruik dit niet voor persoonlijke reacties."
 
 # # Original Flipnote / Spinoffs
 msgid "VIEWPAGE_ORIGINAL_FLIPNOTE"
@@ -472,279 +821,95 @@ msgstr "De originele Flipnote is niet op Sudomemo."
 msgid "VIEWPAGE_RELATED_FLIPNOTE_BY"
 msgstr "door %s"
 
-# Creator's Room (Profile)
-msgid "FOLLOWS_YOU"
-msgstr "Volgt Jou"
+msgid "VIEWPAGE_SPINOFFS"
+msgstr "Spin-offs"
 
-msgid "FOLLOW_BACK"
-msgstr "Volg Terug"
+# Number of times something has been viewed, or played.
+msgid "VIEWS"
+msgstr "Weergaven"
 
-msgid "FOLLOWING"
-msgstr "Volgend"
+msgid "VIEW_ON_SUDOMEMO"
+msgstr "View on Sudomemo"
 
-msgid "FOLLOW"
-msgstr "Volg"
+msgid "WELCOME_BOX_AFTERNOON_GREETING"
+msgstr "Goedemiddag"
 
-msgid "FOLLOWERS"
-msgstr "Volgers"
+# ## Our welcome box can change it's greeting, depending on time of day.
+# ## It is displayed like this:
+# ## Good afternoon, User! Happy Flipnoting!
+msgid "WELCOME_BOX_DEFAULT_GREETING"
+msgstr "Hallo"
 
-# # はてなID
-msgid "HATENA_ID"
-msgstr "Hatena-ID"
+msgid "WELCOME_BOX_EVENING_GREETING"
+msgstr "Goedenavond"
 
-msgid "PROFILE_ABOUT_USERNAME"
-msgstr "Over %s"
+# Give, in the same sense as "Donate"
+msgid "WELCOME_BOX_GIVE"
+msgstr "Geef"
 
-# # User's ★ are from:
-msgid "PROFILE_STAR_COUNTRY_HEADER"
-msgstr "%s's ★ zijn van:"
+# # Welcome to Sudomemo Box
+msgid "WELCOME_BOX_GREET_ADMIN"
+msgstr "Welkom terug, %s"
 
-# # Recent comments on their Flipnotes
-msgid "PROFILE_RECENT_COMMENTS"
-msgstr "Recente reacties"
+msgid "WELCOME_BOX_HOW_TO_JOIN"
+msgstr "Leer hoe je mee kan doen!"
 
-# # channels that the user posts in most often
-msgid "PROFILE_USER_POSTS_IN"
-msgstr "%s plaatst in..."
+msgid "WELCOME_BOX_MORNING_GREETING"
+msgstr "Goedemorgen"
 
-# Search page
-# Made this "Search through Sudomemo" in Dutch, to clarify that you will be searching through Sudomemo instead of searching for Sudomemo.
-msgid "SEARCH_SUDOMEMO"
-msgstr "Zoek door Sudomemo"
+msgid "WELCOME_BOX_OPEN_SUDOMIN"
+msgstr "Open Sudomin"
 
-msgid "SEARCH_PAGE_FORM_PLACEHOLDER"
-msgstr "Username, FSID, song, artist, or channel"
+# ## Another one of our taglines 
+msgid "WELCOME_BOX_SHARE_CREATIVITY_TAGLINE"
+msgstr "Share your creativity with the world!"
 
-msgid "SEARCH_PAGE_FUZZY_SEARCH_TIP"
-msgstr "Tip: Je kan op dingen zoeken zoals 'Austin' en resultaten krijgen zoals 'ÄuらtÎn'"
+# ## "Happy Flipnoting!" is one of our brand catchphrases. "Flipnoting" refers to the act of creating or watching Flipnotes.
+# ## Please don't translate "Flipnoting", except to Japanese where you could probably modify the word うごメモ.
+msgid "WELCOME_BOX_USERNAME_HAPPY_FLIPNOTING"
+msgstr ", %s! Happy Flipnoting!"
 
-msgid "SEARCH_PAGE_NO_RESULTS_FOUND"
-msgstr "Geen resultaten gevonden."
+msgid "WELCOME_BOX_WELCOME_TO"
+msgstr "Welkom bij"
 
-# Made this into "Your query resulted into too many results" instead of "creators"
-msgid "SEARCH_PAGE_TOO_MANY_MATCHED"
-msgstr "Je zoekopdracht heeft te veel resultaten opgeleverd - probeer iets specifiekers."
+msgid "WELCOME_BOX_WHAT_IS_SUDOMEMO"
+msgstr "Sudomemo is een animatiesite waar mensen flipboekanimaties kunnen delen - genaamd Flipnotes - gemaakt en geplaatst vanaf de Nintendo DSi en 3DS."
 
-# # User hasn't posted any Flipnotes yet
-msgid "SEARCH_PAGE_NO_FLIPNOTES_YET"
-msgstr "Nog geen Flipnotes..."
-
-# Edit Flipnote page
-msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
-msgstr "Je bent deze Flipnote aan het bewerken:"
-
-msgid "DESCRIPTION_WILL_GO_HERE"
-msgstr "Jouw beschrijving komt hier."
-
-msgid "COULD_NOT_SAVE_DETAILS"
-msgstr "Kon details niet opslaan"
-
-msgid "PLUS_LEARN_MORE"
-msgstr "Meer informatie..."
-
-msgid "EDIT_PAGE_SUDOMEMO_PLUS_REQUIRED"
-msgstr "Je hebt Sudomemo Plus nodig om deze functionaliteit te gebruiken."
-
-# Flipnote smoothing
-msgid "EDIT_PAGE_PLUS_SMOOTHING"
-msgstr "Vergladding"
-
-msgid "EDIT_PAGE_PLUS_AUDIO_ENHANCEMENT"
-msgstr "Geluidsverbetering"
-
-msgid "EDIT_PAGE_FLIPNOTE_PREVIEW_NOTE"
-msgstr "Info: Flipnotevoorbeeld wordt niet bijgewerkt."
-
-msgid "EDIT_PAGE_TITLE_AND_DESCRIPTION"
-msgstr "Titel en Beschrijving"
-
-msgid "EDIT_PAGE_ENTER_A_TITLE"
-msgstr "Voer een titel in"
-
-msgid "EDIT_PAGE_ENTER_A_DESCRIPTION"
-msgstr "Voer een beschrijving in"
-
-msgid "EDIT_PAGE_TITLE_TOOLTIP"
-msgstr "Letters, nummers, en symbolen, maximaal 40 karakters."
-
-msgid "EDIT_PAGE_DESCRIPTION_TOOLTIP"
-msgstr "Letters, nummers, en symbolen, maximaal 320 karakters."
-
-# # MusicMatch
-msgid "EDIT_PAGE_ABOUT_MUSICMATCH_1"
-msgstr "Sudomemo's MusicMatch luistert naar jouw Flipnote om te vinden welke muziek het gebruikt!"
-
-msgid "EDIT_PAGE_ABOUT_MUSICMATCH_2"
-msgstr "MusicMatch zal soms meer dan één mogelijk liedje vinden, of de verkeerde kiezen. Als dit gebeurt, kan je het weergeven nummer hier veranderen."
-
-msgid "EDIT_PAGE_ABOUT_MUSICMATCH_3"
-msgstr "Als je het nummer bijwerkt, zal MusicMatch leren van die informatie om in de toekomst beter nummers van Flipnote geluid te herkennen."
-
-msgid "EDIT_PAGE_MUSICMATCH_NO_BGM"
-msgstr "Jouw Flipnote heeft geen achtergrondmuziek."
-
-msgid "EDIT_PAGE_MUSICMATCH_UNMATCHED"
-msgstr "MusicMatch kon geen nummers vinden die overeen kwamen met jouw Flipnote."
-
-msgid "EDIT_PAGE_MUSICMATCH_UNMAPPED"
-msgstr "MusicMatch is not niet aan jouw Flipnote toegekomen. Kom later nog eens terug."
-
-msgid "EDIT_PAGE_MUSICMATCH_PENDING_MAPPING"
-msgstr "MusicMatch is op dit moment jouw Flipnote aan het verwerken. Kom later nog eens terug."
-
-msgid "EDIT_PAGE_MUSICMATCH_NONE_CORRECT"
-msgstr "Geen van deze klopt"
-
-msgid "EDIT_PAGE_MUSICMATCH_PREVIEW_ON_YOUTUBE"
-msgstr "Luister op Youtube Music"
-
-msgid "EDIT_PAGE_MUSICMATCH_PREVIEW_ON_SPOTIFY"
-msgstr "Luister op Spotify"
-
-# Browse Song
-msgid "BROWSE_SONG_NO_FLIPNOTES_YET"
-msgstr "Er zijn nog geen Flipnotes geplaatst met dit nummer."
-
-# # Referring to a music label/publishing company
-msgid "MUSIC_LABEL"
-msgstr "Label"
-
-# Browse Channel
-msgid "BROWSE_CHANNEL_NO_FLIPNOTES_YET"
-msgstr "Er zijn nog geen Flipnotes geplaatst in dit kanaal."
-
-# # Posting permissions
-msgid "CHANNEL_PERM_CLOSED"
-msgstr "Gesloten"
-
-msgid "CHANNEL_PERM_OPEN"
-msgstr "Open"
-
-# # categories
-msgid "CHANNEL_CAT_NAME_NONE"
-msgstr "Geen"
-
-msgid "CHANNEL_CAT_NAME_ART"
-msgstr "Kunst"
-
-msgid "CHANNEL_CAT_NAME_GENRES"
-msgstr "Genres"
-
-msgid "CHANNEL_CAT_NAME_TOPICS"
-msgstr "Onderwerpen"
-
-msgid "CHANNEL_CAT_NAME_ROLEPLAYS"
-msgstr "Rollenspelen"
-
-msgid "CHANNEL_CAT_NAME_FANDOMS"
-msgstr "Fandoms"
-
-msgid "CHANNEL_CAT_NAME_RESOURCES"
-msgstr "(Hulp)middelen"
-
-msgid "CHANNEL_CAT_NAME_PERSONAL"
-msgstr "Persoonlijk"
-
-msgid "CHANNEL_CAT_NAME_WEEKLY_TOPIC"
-msgstr "Weeklijkse Onderwerp"
-
-# 404 Page
-msgid "404_OOPS_NOT_FOUND"
-msgstr "Oeps - Die pagina kon niet gevonden worden"
-
-msgid "404_WHOOPS_NOT_THERE"
-msgstr "Whoops! Waar je ook naar zocht, het was niet hier."
-
-msgid "404_GO_BACK"
-msgstr "Terug naar Sudomemo Theatre"
-
-# Sudomemo Shop
-msgid "TICKETS"
-msgstr "Tickets"
-
-msgid "SUDOMEMO_SHOP_ABOUT_TICKETS_1"
-msgstr "Tickets zijn leuke items op Sudomemo die je kan inwisselen voor Sterren, Sudomemo Plus, en andere dingen!"
-
-msgid "SUDOMEMO_SHOP_ABOUT_TICKETS_2"
-msgstr "Wanneer je een ticket hebt, kan je het verzilveren in je Maker's Ruimte door op \"Wissel in\" te tikken - of, je kan een ticket code geven als een cadeau aan een vriend!"
-
-msgid "SUDOMEMO_SHOP_LEARN_ABOUT_PLUS"
-msgstr "Leer over wat je allemaal kan doen met Sudomemo Plus:"
-
-msgid "SUDOMEMO_SHOP_ALL_ABOUT_PLUS"
-msgstr "Alles over Sudomemo Plus"
-
-# # Ticket types..
-# Login Page
-msgid "LOGIN_FAILED_CHECK_DETAILS"
-msgstr "We konden je niet inloggen. Controlleer de details die je in hebt gevoerd en probeer het opnieuw."
-
-msgid "LOGIN_PLACEHOLDER_USERNAME"
-msgstr "E-mail of Flipnote Studio ID"
-
-msgid "LOGIN_PLACEHOLDER_PASSWORD"
-msgstr "Wachtwoord"
-
-msgid "LOGIN_SIGNUP_SELECT_DEVICE"
-msgstr "Selecteer je apparaat"
-
-msgid "NINTENDO_DSI"
-msgstr "Nintendo DSi"
-
-msgid "NINTENDO_3DS"
-msgstr "Nintendo 3DS"
-
-# Additional things
-# See Flipnotes with the song <song name> by <band/artist name>
-msgid "BROWSE_SONG_YOU_ARE_BROWSING_SONG"
-msgstr "Bekijk Flipnotes met het nummer %s door %s"
-
-# The funny thing is, that this string will probably never even be showed in Dutch xD
-msgid "TROPHY_CASE"
-msgstr "Trophy Case"
-
-# This is shown to logged-in users on their own Flipnotes without titles
-msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
-msgstr "Untitled Flipnote by %s"
-
-# Account Settings (Theatre)
-msgid "ACCOUNT_SETTINGS"
-msgstr "Account Settings"
+msgid "WELCOME_BOX_YOU_ARE_ADMIN"
+msgstr "Je bent ingelogd als een Administrator."
 
 msgid "YOUTUBE"
 msgstr "YouTube"
 
-msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
-msgstr "Configure your linked YouTube channel and default Flipnote upload settings."
-
-msgid "YOUTUBE_CONNECT_INTRO"
-msgstr "Connecting your YouTube channel lets you share your Flipnotes directly to YouTube!"
-
-msgid "YOUTUBE_LINK_PROMPT"
-msgstr "Link your YouTube channel to upload your Flipnotes to YouTube."
-
-msgid "YOUTUBE_RECONNECT_PROMPT"
-msgstr "The connection to your channel is out of date. Please reconnect it to continue."
-
-msgid "BTN_SIGN_IN_WITH_GOOGLE"
-msgstr "Sign in with Google"
-
 msgid "YOUTUBE_ACCOUNT_UNVERIFIED"
 msgstr "Account unverified"
 
-msgid "YOUTUBE_ACCOUNT_VERIFIED"
-msgstr "Account verified"
+msgid "YOUTUBE_ACCOUNT_VERIFICATION_FIX_NOW"
+msgstr "Fix now"
 
 msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
 msgstr "Your YouTube account is unverified. Certain features will not function correctly, such as video thumbnails and Flipnotes longer than 15 minutes."
 
-msgid "YOUTUBE_ACCOUNT_VERIFICATION_FIX_NOW"
-msgstr "Fix now"
+msgid "YOUTUBE_ACCOUNT_VERIFIED"
+msgstr "Account verified"
+
+# Added to the queue at: 2020-07-08 02:46:38
+msgid "YOUTUBE_ADDED_TO_QUEUE_AT"
+msgstr "Added to the queue at:"
+
+msgid "YOUTUBE_CHECK_FEATURES_THUMB"
+msgstr "Your YouTube channel might not be completely verified. For more information, you can check the status of Custom Thumbnails here:"
+
+msgid "YOUTUBE_CONNECT_INTRO"
+msgstr "Connecting your YouTube channel lets you share your Flipnotes directly to YouTube!"
 
 # YouTube metadata
 # Extra description text: will be placed at the end of your video descriptions. 
 msgid "YOUTUBE_DEFAULT_SETTINGS_EXPLANATION"
 msgstr "These settings will be filled in automatically when you upload a Flipnote from your Nintendo DSi or 3DS. If you're uploading from Sudomemo Theatre, you'll be prompted to change or confirm these settings before starting the upload."
+
+msgid "YOUTUBE_ESTIMATED_DURATION"
+msgstr "Estimated video duration:"
 
 msgid "YOUTUBE_EXTRA_DESCRIPTION_TEXT"
 msgstr "Extra Description Text"
@@ -752,14 +917,8 @@ msgstr "Extra Description Text"
 msgid "YOUTUBE_EXTRA_DESCRIPTION_TEXT_EXPLANATION"
 msgstr "This text will display when viewers click on 'Show more' in your video's description."
 
-msgid "YOUTUBE_TAGS"
-msgstr "Tags"
-
-msgid "YOUTUBE_TAGS_HINT"
-msgstr "Tags, separated by comma."
-
-msgid "YOUTUBE_TAGS_EXPLANATION"
-msgstr "Enter a comma after each tag"
+msgid "YOUTUBE_LINK_PROMPT"
+msgstr "Link your YouTube channel to upload your Flipnotes to YouTube."
 
 msgid "YOUTUBE_LOOP_COUNT"
 msgstr "Number of plays"
@@ -767,60 +926,18 @@ msgstr "Number of plays"
 msgid "YOUTUBE_LOOP_COUNT_EXPLANATION"
 msgstr "Number of times a looped Flipnote will repeat. Select 1 to only play once."
 
-msgid "YOUTUBE_VISIBILITY"
-msgstr "Visibility"
-
-msgid "YOUTUBE_VISIBILITY_PUBLIC"
-msgstr "Public"
-
-msgid "YOUTUBE_VISIBILITY_UNLISTED"
-msgstr "Unlisted"
-
-msgid "YOUTUBE_VISIBILITY_PRIVATE"
-msgstr "Private"
-
-# Upload page specifics
-# Upload to YouTube header
-msgid "HEADER_UPLOAD_TO_YOUTUBE"
-msgstr "Upload to YouTube"
-
-msgid "LINK_REQUIRED_BEFORE_UPLOAD"
-msgstr "You'll need to link your YouTube channel before you can upload your Flipnote."
-
-msgid "BTN_GO_TO_SETTINGS"
-msgstr "Go to Settings"
-
-msgid "UPLOAD_OPTIONS"
-msgstr "Upload Options"
-
-msgid "YOUTUBE_TERMS_AGREEMENT_NOTE"
-msgstr "By submitting your videos to YouTube, you acknowledge that you agree to YouTube's Terms of Service and Community Guidelines."
-
-msgid "SUBMIT"
-msgstr "Submit"
-
-# Upload status
-msgid "UPLOAD_STATUS"
-msgstr "Upload Status"
-
 msgid "YOUTUBE_PENDING_UPLOAD"
 msgstr "Your Flipnote is currently waiting to be uploaded. Check back in a few minutes."
 
-# Added to the queue at: 2020-07-08 02:46:38
-msgid "YOUTUBE_ADDED_TO_QUEUE_AT"
-msgstr "Added to the queue at:"
+# Position in queue: 4 - means there are three uploads ahead of yours
+msgid "YOUTUBE_POSITION_IN_QUEUE"
+msgstr "Position in queue:"
 
-msgid "YOUTUBE_STATUS_TRACKER_NEW"
-msgstr "New"
+msgid "YOUTUBE_RECONNECT_PROMPT"
+msgstr "The connection to your channel is out of date. Please reconnect it to continue."
 
-msgid "YOUTUBE_STATUS_TRACKER_PROCESSING"
-msgstr "Processing"
-
-msgid "YOUTUBE_STATUS_TRACKER_DONE"
-msgstr "Done!"
-
-msgid "YOUTUBE_STATUS_WAITING_TO_BE_PROCESSED"
-msgstr "Your upload is currently waiting to be processed."
+msgid "YOUTUBE_REFRESH_ACCOUNT"
+msgstr "Refresh account"
 
 msgid "YOUTUBE_STATUS_BEING_PROCESSED"
 msgstr "Your upload is currently being processed."
@@ -828,17 +945,20 @@ msgstr "Your upload is currently being processed."
 msgid "YOUTUBE_STATUS_COMPLETE"
 msgstr "Your upload is complete!"
 
-msgid "YOUTUBE_STATUS_FAILED_GONE"
-msgstr "The Flipnote disappeared before the upload could complete."
-
 msgid "YOUTUBE_STATUS_FAILED_AUTH"
 msgstr "The upload failed due to an authentication problem."
+
+msgid "YOUTUBE_STATUS_FAILED_CLIENT_ERROR"
+msgstr "The upload failed due to a client error."
+
+msgid "YOUTUBE_STATUS_FAILED_GONE"
+msgstr "The Flipnote disappeared before the upload could complete."
 
 msgid "YOUTUBE_STATUS_FAILED_SERVICE_ERROR"
 msgstr "The upload failed due to a service error."
 
-msgid "YOUTUBE_STATUS_FAILED_CLIENT_ERROR"
-msgstr "The upload failed due to a client error."
+msgid "YOUTUBE_STATUS_FAILED_THUMB"
+msgstr "Your video was uploaded successfully, but we had a problem uploading the thumbnail."
 
 msgid "YOUTUBE_STATUS_FAILED_UNEXPECTED_ERROR"
 msgstr "An unexpected error occurred during upload."
@@ -849,30 +969,35 @@ msgstr "The upload failed for an unknown reason."
 msgid "YOUTUBE_STATUS_PAUSED_GLOBAL_QUOTA"
 msgstr "Our global usage quota has been exceeded, so the upload may be significantly delayed."
 
-msgid "YOUTUBE_WATCH_NOW_AT"
-msgstr "Watch now:"
+msgid "YOUTUBE_STATUS_TRACKER_DONE"
+msgstr "Done!"
 
-msgid "BTN_START_UPLOAD"
-msgstr "Start Upload"
+msgid "YOUTUBE_STATUS_TRACKER_NEW"
+msgstr "New"
 
-msgid "BTN_STARTING_UPLOAD"
-msgstr "Starting..."
+msgid "YOUTUBE_STATUS_TRACKER_PROCESSING"
+msgstr "Processing"
 
-msgid "BTN_UPLOAD_FAILED"
-msgstr "Upload failed..."
+msgid "YOUTUBE_STATUS_WAITING_TO_BE_PROCESSED"
+msgstr "Your upload is currently waiting to be processed."
 
-msgid "FLIPNOTE_SETTINGS_UPLOAD_TO_YOUTUBE"
-msgstr "You can upload your Flipnote to your YouTube channel. Click the button below to get started."
+msgid "YOUTUBE_TAGS"
+msgstr "Tags"
 
-msgid "BTN_GET_STARTED"
-msgstr "Get Started"
+msgid "YOUTUBE_TAGS_EXPLANATION"
+msgstr "Enter a comma after each tag"
 
-msgid "YOUTUBE_ESTIMATED_DURATION"
-msgstr "Estimated video duration:"
+msgid "YOUTUBE_TAGS_HINT"
+msgstr "Tags, separated by comma."
 
-# Position in queue: 4 - means there are three uploads ahead of yours
-msgid "YOUTUBE_POSITION_IN_QUEUE"
-msgstr "Position in queue:"
+msgid "YOUTUBE_TERMS_AGREEMENT_NOTE"
+msgstr "By submitting your videos to YouTube, you acknowledge that you agree to YouTube's Terms of Service and Community Guidelines."
+
+msgid "YOUTUBE_UNLINK_ACCOUNT"
+msgstr "Unlink account"
+
+msgid "YOUTUBE_UNLINK_ACCOUNT_CONFIRM"
+msgstr "Are you sure you want to remove your linked YouTube channel?"
 
 msgid "YOUTUBE_UPLOAD_HISTORY"
 msgstr "Upload History"
@@ -884,158 +1009,33 @@ msgstr "Click the status icon on the left to visit your video's live Upload Trac
 msgid "YOUTUBE_UPLOAD_LIMIT"
 msgstr "You can currently upload %s videos to YouTube per day."
 
-msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_LIMIT_NOTE"
-msgstr "Sudomemo Plus members can upload %s videos per day."
-
-msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_UNLIMITED_NOTE"
-msgstr "Sudomemo Plus members can upload an unlimited number of videos each day."
-
 msgid "YOUTUBE_UPLOAD_LIMIT_CURRENT"
 msgstr "You have uploaded %s videos so far today."
 
 msgid "YOUTUBE_UPLOAD_LIMIT_EXCEEDED"
 msgstr "You can't upload any more videos until tomorrow."
 
-msgid "SETTINGS"
-msgstr "Settings"
+msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_LIMIT_NOTE"
+msgstr "Sudomemo Plus members can upload %s videos per day."
 
-msgid "PRIVACY_POLICY"
-msgstr "Privacy Policy"
+msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_UNLIMITED_NOTE"
+msgstr "Sudomemo Plus members can upload an unlimited number of videos each day."
 
-msgid "YOUTUBE_STATUS_FAILED_THUMB"
-msgstr "Your video was uploaded successfully, but we had a problem uploading the thumbnail."
+msgid "YOUTUBE_VISIBILITY"
+msgstr "Visibility"
 
-msgid "YOUTUBE_CHECK_FEATURES_THUMB"
-msgstr "Your YouTube channel might not be completely verified. For more information, you can check the status of Custom Thumbnails here:"
+msgid "YOUTUBE_VISIBILITY_PRIVATE"
+msgstr "Private"
 
-msgid "YOUTUBE_REFRESH_ACCOUNT"
-msgstr "Refresh account"
+msgid "YOUTUBE_VISIBILITY_PUBLIC"
+msgstr "Public"
 
-msgid "YOUTUBE_UNLINK_ACCOUNT"
-msgstr "Unlink account"
+msgid "YOUTUBE_VISIBILITY_UNLISTED"
+msgstr "Unlisted"
 
-msgid "YOUTUBE_UNLINK_ACCOUNT_CONFIRM"
-msgstr "Are you sure you want to remove your linked YouTube channel?"
+msgid "YOUTUBE_WATCH_NOW_AT"
+msgstr "Watch now:"
 
-msgid "VERIFIED_USER"
-msgstr "Verified User"
-
-msgid "SHARE_ON_WHATSAPP"
-msgstr "Share via WhatsApp"
-
-# This refers to Discord, which is a chat app.
-msgid "DISCORD"
-msgstr "Discord"
-
-msgid "DISCORD_HOW_TO_LINK"
-msgstr "How to Link"
-
-msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
-msgstr "After you've joined the Sudomemo Discord, copy and paste this into the chat."
-
-# Connected since December 27th, 2020
-msgid "DISCORD_LINKED_ON_DATE"
-msgstr "Connected since %s"
-
-# Do not translate ".sudo unlink"
-msgid "HOW_TO_UNLINK_DISCORD"
-msgstr "To unlink your Discord account, type this command into chat: .sudo unlink"
-
-msgid "BTN_JOIN_DISCORD"
-msgstr "Join Discord"
-
-msgid "PASS_CHANGE_PASSWORD"
-msgstr "Change Password"
-
-msgid "PASS_CHANGE_CONFIRM_PASSWORD"
-msgstr "Confirm Password"
-
-msgid "PASS_CHANGE_COMPLETE"
-msgstr "Your password has been updated."
-
-msgid "PASS_CHANGE_CONTINUE_TO_LOGIN"
-msgstr "Continue to login"
-
-msgid "HEADER_CHANGE_PASSWORD"
-msgstr "Change Password"
-
-msgid "PASS_CHANGE_URL_EXPIRED"
-msgstr "The URL you visited has expired."
-
-msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
-msgstr "No user found with that Flipnote Studio ID or email"
-
-msgid "NO_EMAIL_ON_FILE"
-msgstr "No email address on file -- contact Sudomemo Support"
-
-msgid "PASSWORD_RESET_SENT"
-msgstr "A password reset has been sent to the email address on file."
-
-msgid "FORGOT_YOUR_PASSWORD"
-msgstr "Forgot your password?"
-
-msgid "SUDOMEMO_USER"
-msgstr "Sudomemo User"
-
-msgid "FLIPNOTE_ARCHIVE_BUTTON_TOGGLE"
-msgstr "Show link to archived Flipnote Hatena content from my profile"
-
-msgid "FLIPNOTE_ARCHIVE_SETTINGS"
-msgstr "Archive Settings"
-
-msgid "FLIPNOTE_ARCHIVE_PROFILE_AVAILABLE"
-msgstr "Your Flipnote Hatena profile is available through our Flipnote Archive Preview Program! You can view your old Flipnotes by visiting your profile on Sudomemo Theatre."
-
-msgid "FLIPNOTE_ARCHIVE_PROFILE_SETTING_INFORMATION"
-msgstr "While logged in, your archive link will always be shown on your page. You can choose whether or not to make this visible to other users below."
-
-msgid "FLIPNOTE_ARCHIVE_PROFILE_NOT_AVAILABLE"
-msgstr "An archived Flipnote Hatena profile is not available for this account."
-
-msgid "FLIPNOTE_HATENA_PROFILE"
-msgstr "Flipnote Hatena Profile"
-
-msgid "ARCHIVE_PROFILE"
-msgstr "Archive Profile"
-
-msgid "ARCHIVE_PROFILE_DESC"
-msgstr "This is an archive of a Flipnote Hatena profile."
-
-msgid "ARCHIVE_FLIPNOTE"
-msgstr "Archive Flipnote"
-
-msgid "ARCHIVE_FLIPNOTE_DESC"
-msgstr "This Flipnote was originally posted on Flipnote Hatena."
-
-msgid "VIEW_ON_SUDOMEMO"
-msgstr "View on Sudomemo"
-
-msgid "ARCHIVE"
-msgstr "Archive"
-
-msgid "ARCHIVED"
-msgstr "Archived"
-
-msgid "USERS_FLIPNOTE_FROM_FLIPNOTE_HATENA"
-msgstr "%s's Flipnote from Flipnote Hatena"
-
-msgid "USERS_PROFILE_FROM_FLIPNOTE_HATENA"
-msgstr "%s's profile from Flipnote Hatena"
-
-msgid "LEARN_MORE"
-msgstr "Learn more"
-
-msgid "CONTINUE"
-msgstr "Continue"
-
-msgid "SEE_MORE"
-msgstr "See more"
-
-msgid "USERS"
-msgstr "Users"
-
-msgid "SONGS"
-msgstr "Songs"
-
-msgid "SONG_ARTISTS"
-msgstr "Song Artists"
+# Edit Flipnote page
+msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
+msgstr "Je bent deze Flipnote aan het bewerken:"

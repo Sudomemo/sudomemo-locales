@@ -3,14 +3,14 @@ msgstr ""
 "Language: en_ZA\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "UPPERTITLE"
-msgstr "ahhh xD"
+msgid "FAVORITES_FEED_FORMAT"
+msgstr "%s's favs! :D"
+
+msgid "FLIPNOTES_BY_FORMAT"
+msgstr "Flipmeme by %s"
 
 msgid "NEXT"
 msgstr "weee"
-
-msgid "PREV"
-msgstr "oops"
 
 msgid "PAGE"
 msgstr "Page"
@@ -18,11 +18,11 @@ msgstr "Page"
 msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d outta %d"
 
-msgid "FLIPNOTES_BY_FORMAT"
-msgstr "Flipmeme by %s"
+msgid "PREV"
+msgstr "oops"
 
 msgid "STARRED_BY_FORMAT"
 msgstr "stars by %s"
 
-msgid "FAVORITES_FEED_FORMAT"
-msgstr "%s's favs! :D"
+msgid "UPPERTITLE"
+msgstr "ahhh xD"

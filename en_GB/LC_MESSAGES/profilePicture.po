@@ -3,17 +3,20 @@ msgstr ""
 "Language: en_GB\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "SET_PROFILE_PICTURE"
-msgstr "Set Profile Picture"
-
-msgid "PROMPT_CHANGE_YOUR_PROFILE_IMAGE"
-msgstr "Change your profile picture?"
+msgid "CANCEL"
+msgstr "Cancel"
 
 msgid "CONTINUE_SET_AS_PROFILE_PICTURE"
 msgstr "Confirm"
 
+msgid "CREATORS_ROOM"
+msgstr "Creator's Room"
+
 msgid "CURRENT"
 msgstr "Current"
+
+msgid "LOGIN_REQUIRED_TO_CHANGE"
+msgstr "You must be logged in to change your profile picture."
 
 msgid "NEW"
 msgstr "New"
@@ -21,14 +24,11 @@ msgstr "New"
 msgid "PROFILE_PICTURE_SET"
 msgstr "Profile picture successfully set!"
 
+msgid "PROMPT_CHANGE_YOUR_PROFILE_IMAGE"
+msgstr "Change your profile picture?"
+
 msgid "RETURN_TO_FLIPNOTE"
 msgstr "Return to Flipnote"
 
-msgid "CREATORS_ROOM"
-msgstr "Creator's Room"
-
-msgid "CANCEL"
-msgstr "Cancel"
-
-msgid "LOGIN_REQUIRED_TO_CHANGE"
-msgstr "You must be logged in to change your profile picture."
+msgid "SET_PROFILE_PICTURE"
+msgstr "Set Profile Picture"

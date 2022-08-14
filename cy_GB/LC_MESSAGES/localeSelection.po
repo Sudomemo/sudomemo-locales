@@ -6,17 +6,17 @@ msgstr ""
 msgid "CHANGE_LANGUAGE"
 msgstr "Newid Iaith"
 
+msgid "INVALID_LOCALE"
+msgstr "Mae'n ddrwg gennym, ond nid yw'r iaith honno ar gael."
+
 msgid "LANGUAGE_UPDATED_FORMAT"
 msgstr "Diweddarwyd eich iaith i %s."
+
+msgid "NOT_LOGGED_IN"
+msgstr "Rhaid i chi fewngofnodi cyn newid eich iaith."
 
 msgid "POTENTIAL_CONTRIBUTOR_NOTE"
 msgstr "Mae Sudomemo yn dibynnu ar ei gymuned i ddarparu cyfieithiadau cywir. Os ydych chi'n gweld rhywbeth nad yw'n cael ei arddangos yn gywir, yn Saesneg o hyd, mae'n gyfieithiad o ansawdd isel, neu os hoffech ychwanegu eich iaith eich hun, rydym yn eich gwahodd i gyfrannu! Gall cyfieithiadau newydd a gwiriedig ennill dinasyddiaeth i chi. Gallwch wneud hynny yma: "
 
 msgid "RETURN_TO_CREATORS_ROOM"
 msgstr "Dychwelyd i Ystafell y Crewr"
-
-msgid "NOT_LOGGED_IN"
-msgstr "Rhaid i chi fewngofnodi cyn newid eich iaith."
-
-msgid "INVALID_LOCALE"
-msgstr "Mae'n ddrwg gennym, ond nid yw'r iaith honno ar gael."

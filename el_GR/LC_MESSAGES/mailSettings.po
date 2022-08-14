@@ -3,110 +3,110 @@ msgstr ""
 "Language: el_GR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "DISABLE"
+msgstr "Απενεργοποιηση"
+
+msgid "DISABLED"
+msgstr "Απενεργοποιημενο"
+
+msgid "DISABLE_CONFIRMATION_FORMAT"
+msgstr "Ειστε  σιγουροι  οτι  θελετε  να  απενεργοποιησετε  τα '%s' email;"
+
+msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
+msgstr "Το  λινκ  που  ακολουθησατε  εχει  ληξει."
+
+msgid "EMAIL_SETTING_DISABLED_FINISH_FORMAT"
+msgstr "Απενεργοποιησατε  τα '%s' email."
+
+msgid "ENABLE"
+msgstr "Ενεργοποιηση"
+
+msgid "ENABLED"
+msgstr "Ενεργοποιημενο"
+
+msgid "HEADER_CHANGE_EMAIL_SETTINGS"
+msgstr "Αλλαγη  Ρυθμισεων Email"
+
 msgid "HEADER_MAIL_SETTINGS"
 msgstr "Επιλογες Mail"
 
 msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
 msgstr "Πρεπει  να  ειστε  συνδεδεμενοι  για  να  δειτε  τις  επιλογες  mail σας."
 
-msgid "MAIL_TYPE"
-msgstr "Πληκτρολογηστε"
-
 msgid "MAIL_STATUS"
 msgstr "Κατασταση"
 
-msgid "ENABLED"
-msgstr "Ενεργοποιημενο"
-
-msgid "DISABLED"
-msgstr "Απενεργοποιημενο"
-
-msgid "ENABLE"
-msgstr "Ενεργοποιηση"
-
-msgid "DISABLE"
-msgstr "Απενεργοποιηση"
-
-msgid "TAP_TO_ENABLE"
-msgstr "Πατηστε  για  να  ενεργοποιησετε"
-
-msgid "TAP_TO_DISABLE"
-msgstr "Πατηστε  για  να  απενεργοποιησετε"
-
-msgid "TYPE_NEWS_NAME"
-msgstr "Νεα  του Sudomemo"
-
-msgid "TYPE_NEWS_DESC"
-msgstr "Ληψη email οταν  κατι  νεο  ανεβαινει  στα νεα  του Sudomemo"
-
-msgid "TYPE_PROMO_NAME"
-msgstr "Promo"
-
-msgid "TYPE_PROMO_DESC"
-msgstr "Ληψη emails για ννεα  features, tips και tricks, και  προσεχη  ιβεντ!"
-
-msgid "TYPE_FAVE_NOTIF_NAME"
-msgstr "Προστεθηκε στα Αγαπημενα"
-
-msgid "TYPE_FAVE_NOTIF_DESC"
-msgstr "Ληψη email οταν  καποιος  σας  προσθετει  στα  Αγαπημενα  του"
-
-msgid "TYPE_COMMENT_NOTIF_NAME"
-msgstr "Ληψη  Σχολιου"
-
-msgid "TYPE_COMMENT_NOTIF_DESC"
-msgstr "Ληψη email οταν  καποιος  σας  σχολιαζει  σε Flipnote"
-
-msgid "TYPE_STAR_REPORT_NAME"
-msgstr "Ημερησια  Αναφορα  Αστεριων"
-
-msgid "TYPE_STAR_REPORT_DESC"
-msgstr "Στο  τελος  της  μερας  ληψη email για  αστερια  που  δεχθεηκατε"
-
-msgid "TYPE_SPINOFF_NOTIF_NAME"
-msgstr "Spin-off"
-
-msgid "TYPE_SPINOFF_NOTIF_DESC"
-msgstr "Ληψη email οταν  καποιος  ανεβαζει spin-off δικου  σας Flipnote"
-
-msgid "TYPE_SECURITY_NOTIF_NAME"
-msgstr "Ασφαλεια  Λογαριασμου"
-
-msgid "TYPE_SECURITY_NOTIF_DESC"
-msgstr "Ληψη email οταν  η  διευθυνση email η  ο κωδικος  σας  ενημερωνεται"
-
-msgid "TYPE_REPORT_UPDATE_NAME"
-msgstr "Ενημερωση Flagged Περιεχομενου"
-
-msgid "TYPE_REPORT_UPDATE_DESC"
-msgstr "Ληψη email οταν  ενημερωνουμε  την  κατασταση  περιεχομενου που  εχετε  κανει flag"
-
-msgid "TYPE_UNREAD_COMMENTS_NAME"
-msgstr "Μη-Διαβασμενα  Σχολια"
-
-msgid "TYPE_UNREAD_COMMENTS_DESC"
-msgstr "Ληψη email με  νεα  σχολια  που  δεχθηκατε  προσφατα"
-
-msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
-msgstr "Πατηστε πανω  στην  κατασταση  ενος  ειδους mail για  να  το  δειτε  η  να  το  ενημερωσετε."
-
-msgid "HEADER_CHANGE_EMAIL_SETTINGS"
-msgstr "Αλλαγη  Ρυθμισεων Email"
-
-msgid "DISABLE_CONFIRMATION_FORMAT"
-msgstr "Ειστε  σιγουροι  οτι  θελετε  να  απενεργοποιησετε  τα '%s' email;"
+msgid "MAIL_TYPE"
+msgstr "Πληκτρολογηστε"
 
 msgid "REENABLE_INSTRUCTIONS"
 msgstr "Εαν  θελησετε  να  τα  ξαναεπανεργοποιησετε, μπορειτε  να  το  κανετε  πατωντας <strong>Επιλογες Email</strong> στο  Δωματιο  Χρηστη  σας."
 
-msgid "EMAIL_SETTING_DISABLED_FINISH_FORMAT"
-msgstr "Απενεργοποιησατε  τα '%s' email."
+msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
+msgstr "Πατηστε πανω  στην  κατασταση  ενος  ειδους mail για  να  το  δειτε  η  να  το  ενημερωσετε."
 
-msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
-msgstr "Το  λινκ  που  ακολουθησατε  εχει  ληξει."
+msgid "TAP_TO_DISABLE"
+msgstr "Πατηστε  για  να  απενεργοποιησετε"
+
+msgid "TAP_TO_ENABLE"
+msgstr "Πατηστε  για  να  ενεργοποιησετε"
+
+msgid "TYPE_COMMENT_NOTIF_DESC"
+msgstr "Ληψη email οταν  καποιος  σας  σχολιαζει  σε Flipnote"
+
+msgid "TYPE_COMMENT_NOTIF_NAME"
+msgstr "Ληψη  Σχολιου"
+
+msgid "TYPE_FAVE_NOTIF_DESC"
+msgstr "Ληψη email οταν  καποιος  σας  προσθετει  στα  Αγαπημενα  του"
+
+msgid "TYPE_FAVE_NOTIF_NAME"
+msgstr "Προστεθηκε στα Αγαπημενα"
+
+msgid "TYPE_NEWS_DESC"
+msgstr "Ληψη email οταν  κατι  νεο  ανεβαινει  στα νεα  του Sudomemo"
+
+msgid "TYPE_NEWS_NAME"
+msgstr "Νεα  του Sudomemo"
+
+msgid "TYPE_PROMO_DESC"
+msgstr "Ληψη emails για ννεα  features, tips και tricks, και  προσεχη  ιβεντ!"
+
+msgid "TYPE_PROMO_NAME"
+msgstr "Promo"
+
+msgid "TYPE_REPORT_UPDATE_DESC"
+msgstr "Ληψη email οταν  ενημερωνουμε  την  κατασταση  περιεχομενου που  εχετε  κανει flag"
+
+msgid "TYPE_REPORT_UPDATE_NAME"
+msgstr "Ενημερωση Flagged Περιεχομενου"
+
+msgid "TYPE_SECURITY_NOTIF_DESC"
+msgstr "Ληψη email οταν  η  διευθυνση email η  ο κωδικος  σας  ενημερωνεται"
+
+msgid "TYPE_SECURITY_NOTIF_NAME"
+msgstr "Ασφαλεια  Λογαριασμου"
+
+msgid "TYPE_SERVICE_UPDATE_DESC"
+msgstr "Σημαντικες  ενημερωσεις  για  την  κατασταση  του Sudomemo η  σχετικη  με  τον  λογαριασμο  σας  διαθεσιμοτητα"
 
 msgid "TYPE_SERVICE_UPDATE_NAME"
 msgstr "Ενημερωσεις Service"
 
-msgid "TYPE_SERVICE_UPDATE_DESC"
-msgstr "Σημαντικες  ενημερωσεις  για  την  κατασταση  του Sudomemo η  σχετικη  με  τον  λογαριασμο  σας  διαθεσιμοτητα"
+msgid "TYPE_SPINOFF_NOTIF_DESC"
+msgstr "Ληψη email οταν  καποιος  ανεβαζει spin-off δικου  σας Flipnote"
+
+msgid "TYPE_SPINOFF_NOTIF_NAME"
+msgstr "Spin-off"
+
+msgid "TYPE_STAR_REPORT_DESC"
+msgstr "Στο  τελος  της  μερας  ληψη email για  αστερια  που  δεχθεηκατε"
+
+msgid "TYPE_STAR_REPORT_NAME"
+msgstr "Ημερησια  Αναφορα  Αστεριων"
+
+msgid "TYPE_UNREAD_COMMENTS_DESC"
+msgstr "Ληψη email με  νεα  σχολια  που  δεχθηκατε  προσφατα"
+
+msgid "TYPE_UNREAD_COMMENTS_NAME"
+msgstr "Μη-Διαβασμενα  Σχολια"

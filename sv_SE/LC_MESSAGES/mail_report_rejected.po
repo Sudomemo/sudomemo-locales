@@ -3,6 +3,33 @@ msgstr ""
 "Language: sv_SE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "CONTENT_ID"
+msgstr "InnehållsID:"
+
+msgid "CONTENT_TYPE"
+msgstr "Innehållstyp:"
+
+msgid "CONTENT_TYPE_chat_message"
+msgstr "Chattmeddelande"
+
+msgid "CONTENT_TYPE_comment"
+msgstr "Kommentar"
+
+# ## Catch-all
+msgid "CONTENT_TYPE_content"
+msgstr "Annat innehål"
+
+# # Content types
+msgid "CONTENT_TYPE_flipnote"
+msgstr "Flipnote"
+
+msgid "CONTENT_TYPE_profile_bio"
+msgstr "Profiltext"
+
+# ## We plan on adding user-created themes.
+msgid "CONTENT_TYPE_room_theme"
+msgstr "Creator's Roomtema"
+
 # Content Report Rejected - sent to user who has reported content after report deemed invalid
 msgid "NOTICE"
 msgstr "Notering"
@@ -17,30 +44,3 @@ msgstr "Vi bestlutade efter en undersökning att detta innehåll inte är mot v�
 # this message is followed by a link
 msgid "REPORT_REJECTED_INFO"
 msgstr "Rapporter som din hjälper Sudomemo vara en säker och välkomnande plats för alla. Vi rekommenderar att du granskar vår innehållspolicy för att bättre förstå vilka typer av innehåll som är acceptabelt på Sudomemo:"
-
-# # Content types
-msgid "CONTENT_TYPE_flipnote"
-msgstr "Flipnote"
-
-msgid "CONTENT_TYPE_comment"
-msgstr "Kommentar"
-
-msgid "CONTENT_TYPE_chat_message"
-msgstr "Chattmeddelande"
-
-# ## We plan on adding user-created themes.
-msgid "CONTENT_TYPE_room_theme"
-msgstr "Creator's Roomtema"
-
-msgid "CONTENT_TYPE_profile_bio"
-msgstr "Profiltext"
-
-# ## Catch-all
-msgid "CONTENT_TYPE_content"
-msgstr "Annat innehål"
-
-msgid "CONTENT_TYPE"
-msgstr "Innehållstyp:"
-
-msgid "CONTENT_ID"
-msgstr "InnehållsID:"

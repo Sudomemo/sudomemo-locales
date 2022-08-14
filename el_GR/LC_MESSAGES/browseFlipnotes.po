@@ -3,56 +3,11 @@ msgstr ""
 "Language: el_GR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "SUDOMEMO"
-msgstr "Sudomemo"
+msgid "CATEGORY_featured"
+msgstr "@Profallomena Flipnotes"
 
-msgid "HEADER_FLIPNOTES"
-msgstr "Flipnotes"
-
-msgid "HEADER_NORMAL"
-msgstr "Προσφατα"
-
-msgid "HEADER_HOT_FLIPNOTES"
-msgstr "Καυτα Flipnotes"
-
-msgid "HEADER_MOST_POPULAR"
-msgstr "Τα Πιο Δημοφιλη"
-
-msgid "HEADER_NO_SPINOFFS"
-msgstr "Ανευ Spinoffs"
-
-msgid "HEADER_ROLEPLAYS"
-msgstr "Roleplays"
-
-msgid "HEADER_BROWSE_FLIPNOTES"
-msgstr "Χαζεψτε Flipnotes"
-
-msgid "HEADER_FEATURED_FLIPNOTES"
-msgstr "Προβαλλομενα Flipnotes"
-
-msgid "HEADER_RANDOM_FLIPNOTES"
-msgstr "Τυχαια Flipnotes"
-
-msgid "HEADER_PAGE"
-msgstr "Σελιδα"
-
-msgid "PAGE"
-msgstr "Σελιδα"
-
-msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d απο %d"
-
-msgid "NEXT"
-msgstr "Επομενο"
-
-msgid "PREV"
-msgstr "Προηγουμενο"
-
-msgid "POST_FLIPNOTE"
-msgstr "Ανεβαστε Flipnote"
-
-msgid "CATEGORY_recent"
-msgstr "@Prosfata Flipnotes"
+msgid "CATEGORY_feed"
+msgstr "@Arxikh"
 
 msgid "CATEGORY_hot"
 msgstr "@Kauta Flipnotes"
@@ -60,11 +15,59 @@ msgstr "@Kauta Flipnotes"
 msgid "CATEGORY_popular"
 msgstr "@Pio Dhmofilh"
 
-msgid "CATEGORY_featured"
-msgstr "@Profallomena Flipnotes"
-
 msgid "CATEGORY_random"
 msgstr "@Tyxaia Flipnotes"
 
-msgid "CATEGORY_feed"
-msgstr "@Arxikh"
+msgid "CATEGORY_recent"
+msgstr "@Prosfata Flipnotes"
+
+msgid "HEADER_BROWSE_FLIPNOTES"
+msgstr "Χαζεψτε Flipnotes"
+
+msgid "HEADER_FEATURED_FLIPNOTES"
+msgstr "Προβαλλομενα Flipnotes"
+
+msgid "HEADER_FLIPNOTES"
+msgstr "Flipnotes"
+
+msgid "HEADER_HOT_FLIPNOTES"
+msgstr "Καυτα Flipnotes"
+
+msgid "HEADER_MOST_POPULAR"
+msgstr "Τα Πιο Δημοφιλη"
+
+msgid "HEADER_NORMAL"
+msgstr "Προσφατα"
+
+msgid "HEADER_NO_SPINOFFS"
+msgstr "Ανευ Spinoffs"
+
+msgid "HEADER_PAGE"
+msgstr "Σελιδα"
+
+msgid "HEADER_RANDOM_FLIPNOTES"
+msgstr "Τυχαια Flipnotes"
+
+msgid "HEADER_ROLEPLAYS"
+msgstr "Roleplays"
+
+msgid "HEADER_WATCH_HISTORY"
+msgstr "Watch History"
+
+msgid "NEXT"
+msgstr "Επομενο"
+
+msgid "PAGE"
+msgstr "Σελιδα"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d απο %d"
+
+msgid "POST_FLIPNOTE"
+msgstr "Ανεβαστε Flipnote"
+
+msgid "PREV"
+msgstr "Προηγουμενο"
+
+msgid "SUDOMEMO"
+msgstr "Sudomemo"

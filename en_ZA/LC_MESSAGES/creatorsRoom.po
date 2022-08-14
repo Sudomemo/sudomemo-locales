@@ -3,59 +3,8 @@ msgstr ""
 "Language: en_ZA\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "SEE_MORE"
-msgstr "look at dat!"
-
-msgid "STARRED_FLIPNOTES"
-msgstr "starred flippy-wippies"
-
-msgid "FAVORITE_USERS"
-msgstr "best frens!"
-
-msgid "FAVORITES_FEED"
-msgstr "favorites feed"
-
-msgid "FAVORITE_CHANNELS"
-msgstr "favorite channels"
-
-msgid "USER_DOWNLOADCOUNT"
-msgstr "ur downloads"
-
-msgid "USER_VIEWCOUNT"
-msgstr "OwO views"
-
-msgid "USER_THEME"
-msgstr "meme xD"
-
-msgid "THEME_SHOP"
-msgstr "meme trade"
-
-msgid "POSTED_COMMENTS"
-msgstr "posted comments!!"
-
-msgid "POSTED_CHATCOMMENTS"
-msgstr "talkaro messages aa"
-
-msgid "FEATURE_USABILITY"
-msgstr "feature usability"
-
-msgid "USABLE"
-msgstr "can use :)"
-
-msgid "NOT_USABLE"
-msgstr "no use :("
-
-msgid "SUDOMEMO_THEATRE_URL"
-msgstr "sudomemo theatre link"
-
-msgid "FLIPNOTE_STUDIO_ID"
-msgstr "flipnyote studio id"
-
-msgid "SETTINGS"
-msgstr "fix stuff"
-
-msgid "ADMIN_ACCT_GOOD_STANDING"
-msgstr "In good standing"
+msgid "101_CHARACTER_LIMIT_BIO"
+msgstr "u can only put 101 characters WUPS."
 
 msgid "ADMIN_ACCT_BANNED"
 msgstr "Banned"
@@ -63,20 +12,26 @@ msgstr "Banned"
 msgid "ADMIN_ACCT_BLOCKED"
 msgstr "Blocked"
 
+msgid "ADMIN_ACCT_GOOD_STANDING"
+msgstr "In good standing"
+
 msgid "ADMIN_ACCT_MUTED"
 msgstr "Muted"
 
-msgid "ADMIN_USER_DETAILS"
-msgstr "User Details"
+msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
+msgstr "Admin Actions"
 
 msgid "ADMIN_LAST_SEEN"
 msgstr "Last seen"
 
+msgid "ADMIN_USER_DETAILS"
+msgstr "User Details"
+
 msgid "ADMIN_USER_STATUS"
 msgstr "User Status"
 
-msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
-msgstr "Admin Actions"
+msgid "BLOCKED_USERS"
+msgstr "aaahh"
 
 msgid "BLOCK_COMMENTS_HEADER"
 msgstr "Block Comments"
@@ -84,11 +39,53 @@ msgstr "Block Comments"
 msgid "BLOCK_COMMENTS_LINK"
 msgstr "Block"
 
-msgid "USABILITY_USABLE"
-msgstr "Usable"
+msgid "CAN_DRAW_TICKET_SUBTEXT"
+msgstr "U can getta a regular ticket! U can win thingies!"
 
-msgid "USABILITY_NOT_USABLE"
-msgstr "Not Usable"
+msgid "CHANGE_ROOM_THEME_LINK"
+msgstr "[switcharoo!!]"
+
+msgid "CREATORS_ROOM"
+msgstr "my home!!"
+
+msgid "CURRENT_BIO"
+msgstr "dis you:"
+
+msgid "DRAW_REGULAR_TICKET"
+msgstr "Draw Ticket"
+
+msgid "ENTER_BIO"
+msgstr "yAA right here..."
+
+msgid "EXAMPLE"
+msgstr "example"
+
+msgid "FANS"
+msgstr "hearts"
+
+msgid "FAN_COUNT_FORMAT"
+msgstr "favs! %s"
+
+msgid "FAVORITES_FEED"
+msgstr "favorites feed"
+
+msgid "FAVORITE_CHANNELS"
+msgstr "favorite channels"
+
+msgid "FAVORITE_USERS"
+msgstr "best frens!"
+
+msgid "FEATURE_USABILITY"
+msgstr "feature usability"
+
+msgid "FLIPNOTE_STUDIO_ID"
+msgstr "flipnyote studio id"
+
+msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
+msgstr "ur followin TOO MANY PPL!! (max %d)"
+
+msgid "HEADER_EDIT_BIOGRAPHY"
+msgstr "who are u"
 
 msgid "HEADER_FOLLOWERS"
 msgstr "frens!"
@@ -96,122 +93,29 @@ msgstr "frens!"
 msgid "HEADER_FOLLOWING"
 msgstr "ur frens!"
 
-msgid "PREVIOUS"
-msgstr "oops"
-
-msgid "NEXT"
-msgstr "yeet"
-
-msgid "CHANGE_ROOM_THEME_LINK"
-msgstr "[switcharoo!!]"
-
-msgid "SELECT_THEME"
-msgstr "choose your fighter"
-
-msgid "FANS"
-msgstr "hearts"
-
-msgid "EXAMPLE"
-msgstr "example"
-
-msgid "THEMETEST_SET_THEME"
-msgstr "LOCK IT IN"
-
-msgid "THEMETEST_NOTICE"
-msgstr "NOTICE!!"
-
-msgid "THEMETEST_OK"
-msgstr "k"
-
-msgid "THEMETEST_ERROR"
-msgstr "oops"
-
-msgid "THEMETEST_NOTICE_2"
-msgstr "notice!"
-
-msgid "THEMETEST_ACTIVE_TAB"
-msgstr ":)"
-
-msgid "THEMETEST_INACTIVE_TAB"
-msgstr ":("
-
-msgid "PREVIEW"
-msgstr "Preview"
-
-msgid "CREATORS_ROOM"
-msgstr "my home!!"
-
-msgid "THEME_ERROR_THEME_NOT_OWNED"
-msgstr "sry u do nyot own that theme"
-
-msgid "THEME_SUCCESSFULLY_SET"
-msgstr "Theme LOCKED IN"
-
-msgid "BLOCKED_USERS"
-msgstr "aaahh"
-
-msgid "VIEW"
-msgstr "views"
-
-msgid "FAN_COUNT_FORMAT"
-msgstr "favs! %s"
-
 msgid "HEADER_LANGUAGE"
 msgstr "lango"
 
 msgid "HEADER_MAIL_SETTINGS"
 msgstr "we mail u?"
 
-msgid "HEADER_EDIT_BIOGRAPHY"
-msgstr "who are u"
-
-msgid "SET_BIO_INSTRUCTIONS"
-msgstr "tell me more about urself pls."
-
-msgid "ENTER_BIO"
-msgstr "yAA right here..."
-
-msgid "101_CHARACTER_LIMIT_BIO"
-msgstr "u can only put 101 characters WUPS."
-
-msgid "LEAVE_BLANK_TO_RESET_BIO"
-msgstr "to wipe your Bio just dont put anything yaya."
-
-msgid "CURRENT_BIO"
-msgstr "dis you:"
-
-msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
-msgstr "ur followin TOO MANY PPL!! (max %d)"
-
-msgid "RANKING"
-msgstr "Ranking"
-
-msgid "TICKET_SECTION"
-msgstr "Tickets"
-
-msgid "DRAW_REGULAR_TICKET"
-msgstr "Draw Ticket"
-
-msgid "CAN_DRAW_TICKET_SUBTEXT"
-msgstr "U can getta a regular ticket! U can win thingies!"
+msgid "HEADER_SUPPORT_TOKEN"
+msgstr "Support Token"
 
 msgid "INVENTORY"
 msgstr "pocket"
 
-msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
-msgstr "U get anoda ticket in: %s hour(s) %s minute(s)."
-
-msgid "REDEEM"
-msgstr "Redeem"
-
-msgid "SPENDABLE_STARS"
-msgstr "Ur Stars"
-
-msgid "SPENDABLE_STARS_HELPTEXT"
-msgstr "Stars to add to Flipnotes or use for themes"
+msgid "LEAVE_BLANK_TO_RESET_BIO"
+msgstr "to wipe your Bio just dont put anything yaya."
 
 msgid "LOGIN_REQUIRED_ACTION"
 msgstr "U gotta log in to do dat silly."
+
+msgid "NEXT"
+msgstr "yeet"
+
+msgid "NOT_USABLE"
+msgstr "no use :("
 
 msgid "PAGE"
 msgstr "Page"
@@ -219,8 +123,107 @@ msgstr "Page"
 msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d of %d"
 
-msgid "HEADER_SUPPORT_TOKEN"
-msgstr "Support Token"
+msgid "POSTED_CHATCOMMENTS"
+msgstr "talkaro messages aa"
+
+msgid "POSTED_COMMENTS"
+msgstr "posted comments!!"
+
+msgid "PREVIEW"
+msgstr "Preview"
+
+msgid "PREVIOUS"
+msgstr "oops"
+
+msgid "RANKING"
+msgstr "Ranking"
+
+msgid "REDEEM"
+msgstr "Redeem"
 
 msgid "REQUEST"
 msgstr "Request"
+
+msgid "SEE_MORE"
+msgstr "look at dat!"
+
+msgid "SELECT_THEME"
+msgstr "choose your fighter"
+
+msgid "SETTINGS"
+msgstr "fix stuff"
+
+msgid "SET_BIO_INSTRUCTIONS"
+msgstr "tell me more about urself pls."
+
+msgid "SPENDABLE_STARS"
+msgstr "Ur Stars"
+
+msgid "SPENDABLE_STARS_HELPTEXT"
+msgstr "Stars to add to Flipnotes or use for themes"
+
+msgid "STARRED_FLIPNOTES"
+msgstr "starred flippy-wippies"
+
+msgid "SUDOMEMO_THEATRE_URL"
+msgstr "sudomemo theatre link"
+
+msgid "THEMETEST_ACTIVE_TAB"
+msgstr ":)"
+
+msgid "THEMETEST_ERROR"
+msgstr "oops"
+
+msgid "THEMETEST_INACTIVE_TAB"
+msgstr ":("
+
+msgid "THEMETEST_NOTICE"
+msgstr "NOTICE!!"
+
+msgid "THEMETEST_NOTICE_2"
+msgstr "notice!"
+
+msgid "THEMETEST_OK"
+msgstr "k"
+
+msgid "THEMETEST_SET_THEME"
+msgstr "LOCK IT IN"
+
+msgid "THEME_ERROR_THEME_NOT_OWNED"
+msgstr "sry u do nyot own that theme"
+
+msgid "THEME_SHOP"
+msgstr "meme trade"
+
+msgid "THEME_SUCCESSFULLY_SET"
+msgstr "Theme LOCKED IN"
+
+msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
+msgstr "U get anoda ticket in: %s hour(s) %s minute(s)."
+
+msgid "TICKET_SECTION"
+msgstr "Tickets"
+
+msgid "USABILITY_NOT_USABLE"
+msgstr "Not Usable"
+
+msgid "USABILITY_USABLE"
+msgstr "Usable"
+
+msgid "USABLE"
+msgstr "can use :)"
+
+msgid "USER_DOWNLOADCOUNT"
+msgstr "ur downloads"
+
+msgid "USER_THEME"
+msgstr "meme xD"
+
+msgid "USER_VIEWCOUNT"
+msgstr "OwO views"
+
+msgid "VIEW"
+msgstr "views"
+
+msgid "WATCH_HISTORY"
+msgstr "Watch History"

@@ -3,20 +3,20 @@ msgstr ""
 "Language: pl_PL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "LOGIN_REQUIRED_TO_CHANGE"
-msgstr "Musisz się zalogować by zmienić zdjęcie profilowe."
-
-msgid "SET_PROFILE_PICTURE"
-msgstr "Ustaw zdjęcie profilowe"
-
-msgid "PROMPT_CHANGE_YOUR_PROFILE_IMAGE"
-msgstr "Zmienić zdjęcie profilowe?"
+msgid "CANCEL"
+msgstr "Anuluj"
 
 msgid "CONTINUE_SET_AS_PROFILE_PICTURE"
 msgstr "Potwierdź"
 
+msgid "CREATORS_ROOM"
+msgstr "Pokój Twórcy"
+
 msgid "CURRENT"
 msgstr "Aktualne"
+
+msgid "LOGIN_REQUIRED_TO_CHANGE"
+msgstr "Musisz się zalogować by zmienić zdjęcie profilowe."
 
 msgid "NEW"
 msgstr "Nowe"
@@ -24,11 +24,11 @@ msgstr "Nowe"
 msgid "PROFILE_PICTURE_SET"
 msgstr "Zdjęcie profilowe ustawione pomyślnie!"
 
+msgid "PROMPT_CHANGE_YOUR_PROFILE_IMAGE"
+msgstr "Zmienić zdjęcie profilowe?"
+
 msgid "RETURN_TO_FLIPNOTE"
 msgstr "Wróć do Flipnote"
 
-msgid "CREATORS_ROOM"
-msgstr "Pokój Twórcy"
-
-msgid "CANCEL"
-msgstr "Anuluj"
+msgid "SET_PROFILE_PICTURE"
+msgstr "Ustaw zdjęcie profilowe"

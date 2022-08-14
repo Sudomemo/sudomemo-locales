@@ -3,95 +3,101 @@ msgstr ""
 "Language: el_GR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "TIMESTAMP_FORMAT"
-msgstr "D m, Y H:i:s"
-
-msgid "FLIPNOTE_TITLE_FORMAT"
-msgstr "Flipnote του %s"
-
-msgid "HEADER_DETAILS"
-msgstr "Λεπτομεριεs"
-
-msgid "HEADER_COMMENTS"
-msgstr "Σχολια"
-
-msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
-msgstr "Αυτο το Flipnote ειναι spin-off."
-
-msgid "HEADER_ORIGINAL_FLIPNOTE"
-msgstr "Δειτε το αρχικο Flipnote εδω"
-
-msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
-msgstr "Για την αποτροπη της παρακλησης αστεριων, τα κιτρινα αστερια περιοριζονται σε 10 ανα Flipnote."
-
-msgid "HEADER_CREATOR"
-msgstr "Δημιουργοs"
-
-msgid "HEADER_STARS"
-msgstr "Αστερια"
-
-msgid "HEADER_VIEWS"
-msgstr "Προβολεs"
-
-msgid "HEADER_SPINOFFS"
-msgstr "Spin-offs"
-
-msgid "HEADER_DOWNLOADS"
-msgstr "Ληψειs"
-
-msgid "HEADER_TITLE"
-msgstr "Τιτλοs"
-
-msgid "HEADER_POSTED"
-msgstr "Ποσταρισμενο"
-
-msgid "HEADER_FLIPNOTE_ID"
-msgstr "Flipnote ID"
-
-msgid "HEADER_CHANNEL"
-msgstr "Καναλι"
-
-msgid "HEADER_OPTIONS"
-msgstr "Ιδιοτητες"
-
-msgid "HEADER_SET_AS_PROFILE_PICTURE"
-msgstr "Χρηση ως εικονα προφιλ"
-
-msgid "HEADER_REPORT_FLIPNOTE"
-msgstr "Αναφορα Flipnote"
-
-msgid "ADMIN_ACTIONS"
-msgstr "Ενεργειεs διαχειριστη"
-
-msgid "PREV"
-msgstr "Προηγ"
-
-msgid "NEXT"
-msgstr "Επομ"
-
-msgid "STAR_DETAILS_UPPERTITLE"
-msgstr "★ Αστερια ★"
-
-msgid "SET_TITLE"
-msgstr "Θεστε Τιτλο"
-
-msgid "SET_TITLE_INSTRUCTIONS"
-msgstr "Δωστε εναν νεο Τιτλο στο Flipnote σας παρακατω."
+msgid "101_CHARACTER_LIMIT_DESC"
+msgstr "Η περιγραφη σας περιοριζεται σε 101 χαρακτηρες."
 
 msgid "40_CHARACTER_LIMIT"
 msgstr "Ο τιτλος σας περιοριζεται σε 40 χαρακτηρες."
 
-msgid "LEAVE_BLANK_TO_RESET"
-msgstr "Για να επαναφερετε τον τιτλο στην προεπιλογη, αφηστε την φορμα κενη οταν την δηλωνετε."
+msgid "ADMIN_ACTIONS"
+msgstr "Ενεργειεs διαχειριστη"
+
+msgid "ENTER_DESCRIPTION"
+msgstr "Εισάγετε περιγραφη..."
 
 msgid "ENTER_TITLE"
 msgstr "Προσθεστε τιτλο..."
 
+msgid "FLIPNOTE_TITLE_FORMAT"
+msgstr "Flipnote του %s"
+
 msgid "HEADER_ADD_DESCRIPTION"
 msgstr "Προσθεστε Περιγραφη"
 
+msgid "HEADER_CHANNEL"
+msgstr "Καναλι"
+
+msgid "HEADER_COMMENTS"
+msgstr "Σχολια"
+
+msgid "HEADER_CREATOR"
+msgstr "Δημιουργοs"
+
 msgid "HEADER_DESCRIPTION"
 msgstr "Περιγραφη"
+
+msgid "HEADER_DETAILS"
+msgstr "Λεπτομεριεs"
+
+msgid "HEADER_DOWNLOADS"
+msgstr "Ληψειs"
+
+msgid "HEADER_FLIPNOTE_ID"
+msgstr "Flipnote ID"
+
+msgid "HEADER_FLIPNOTE_OPTIONS"
+msgstr "Επιλογες"
+
+msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
+msgstr "Για την αποτροπη της παρακλησης αστεριων, τα κιτρινα αστερια περιοριζονται σε 10 ανα Flipnote."
+
+msgid "HEADER_OPTIONS"
+msgstr "Ιδιοτητες"
+
+msgid "HEADER_ORIGINAL_FLIPNOTE"
+msgstr "Δειτε το αρχικο Flipnote εδω"
+
+msgid "HEADER_POSTED"
+msgstr "Ποσταρισμενο"
+
+msgid "HEADER_REPORT_FLIPNOTE"
+msgstr "Αναφορα Flipnote"
+
+msgid "HEADER_SET_AS_PROFILE_PICTURE"
+msgstr "Χρηση ως εικονα προφιλ"
+
+msgid "HEADER_SONG"
+msgstr "Τραγουδι"
+
+msgid "HEADER_SPINOFFS"
+msgstr "Spin-offs"
+
+msgid "HEADER_STARS"
+msgstr "Αστερια"
+
+msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
+msgstr "Αυτο το Flipnote ειναι spin-off."
+
+msgid "HEADER_TITLE"
+msgstr "Τιτλοs"
+
+msgid "HEADER_UPLOAD_TO_YOUTUBE"
+msgstr "Ανεβαστε στο YouTube"
+
+msgid "HEADER_VIEWS"
+msgstr "Προβολεs"
+
+msgid "LEAVE_BLANK_TO_RESET"
+msgstr "Για να επαναφερετε τον τιτλο στην προεπιλογη, αφηστε την φορμα κενη οταν την δηλωνετε."
+
+msgid "LEAVE_BLANK_TO_RESET_DESC"
+msgstr "Για να αφαιρεσετε την περιγραφη, αφηστε την φορμα κενη οταν την δηλωνετε."
+
+msgid "NEXT"
+msgstr "Επομ"
+
+msgid "PREV"
+msgstr "Προηγ"
 
 msgid "SET_DESCRIPTION"
 msgstr "Προσθεστε Περγραφη"
@@ -99,24 +105,18 @@ msgstr "Προσθεστε Περγραφη"
 msgid "SET_DESCRIPTION_INSTRUCTIONS"
 msgstr "Δωστε μια νεα περιγραφη στο Flipnote σας παρακατω."
 
-msgid "101_CHARACTER_LIMIT_DESC"
-msgstr "Η περιγραφη σας περιοριζεται σε 101 χαρακτηρες."
+msgid "SET_TITLE"
+msgstr "Θεστε Τιτλο"
 
-msgid "LEAVE_BLANK_TO_RESET_DESC"
-msgstr "Για να αφαιρεσετε την περιγραφη, αφηστε την φορμα κενη οταν την δηλωνετε."
+msgid "SET_TITLE_INSTRUCTIONS"
+msgstr "Δωστε εναν νεο Τιτλο στο Flipnote σας παρακατω."
 
-msgid "ENTER_DESCRIPTION"
-msgstr "Εισάγετε περιγραφη..."
+msgid "STAR_DETAILS_UPPERTITLE"
+msgstr "★ Αστερια ★"
 
-msgid "HEADER_FLIPNOTE_OPTIONS"
-msgstr "Επιλογες"
-
-msgid "HEADER_SONG"
-msgstr "Τραγουδι"
+msgid "TIMESTAMP_FORMAT"
+msgstr "D m, Y H:i:s"
 
 # This is shown to logged-in users on their own Flipnotes without titles
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "Ατιτλο Flipnote απο %s"
-
-msgid "HEADER_UPLOAD_TO_YOUTUBE"
-msgstr "Ανεβαστε στο YouTube"

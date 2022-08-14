@@ -9,164 +9,20 @@ msgstr "Hallo, %s."
 msgid "BAN_NOTICE_CONSOLE_BAN"
 msgstr "Dein Konto und deine Konsole wurden von Sudomemo suspendiert."
 
+msgid "BAN_NOTICE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
+msgstr "Bitte kontaktiere uns auf Discord oder per E-Mail an %s."
+
 msgid "BAN_NOTICE_PLEASE_READ_BAN_LETTER"
 msgstr "Bitte lese den von uns zugestellten Brief für weitere Informationen."
 
 msgid "BAN_VIEW_MAIL"
 msgstr "Sudomemo-Mail lesen"
 
-msgid "LOGIN_SUCCESSFUL"
-msgstr "Login erfolgreich!"
-
-msgid "THANKS_FOR_LOGIN_FORMAT"
-msgstr "Danke fürs Einloggen, %s!"
-
-msgid "GOTO_CREATORS_ROOM"
-msgstr "Gehe zu deinem Ersteller-Raum"
-
-msgid "LOGIN"
-msgstr "Login"
-
-msgid "POST_COMMENT_BELOW"
-msgstr "Bitte reiche einen gezeichneten Kommentar ein (er kann leer sein)."
-
-msgid "LOGIN_SETUP"
-msgstr "Login-Setup"
-
-msgid "WELCOME_BACK_FORMAT"
-msgstr "Willkommen zurück, %s!"
-
-msgid "RETURNING_USER_NEW_LOGIN_SYSTEM"
-msgstr "Seit deinem letzten Besuch haben wir ein neues Anmeldesystem implementiert. Aber keine Sorge! Dein sämtlicher Inhalt bleibt bestehen!"
-
-msgid "RETURNING_USER_PLEASE_CREATE_PASSWORD"
-msgstr "Bitte gib ein neues Passwort ein, um loszulegen."
-
-msgid "NEW_USER_WELCOME_FORMAT"
-msgstr "Willkommen auf Sudomemo, %s!"
-
-msgid "NEW_USER_PLEASE_CREATE_PASSWORD"
-msgstr "Bitte erstelle ein neues Passwort."
-
-msgid "FORM_HEADER_PASSWORD"
-msgstr "Passwort:"
-
-msgid "FORM_PREFILL_PASSWORD"
-msgstr "Passwort hier eingeben..."
-
-msgid "FORM_WARNING_PASSWORD_TOO_SHORT"
-msgstr "Bitte gib ein Passwort mit mehr als 8 Charakteren ein."
-
-msgid "FORM_WARNING_PASSWORD_DISALLOWED_CHARS"
-msgstr "Dein Passwort darf keines dieser Charaktere enthalten:"
-
-msgid "FORM_LABEL_DONT_FORGET_PASSWORD"
-msgstr "Erstelle eine Notiz deines Passworts und bewahre sie gut auf!"
-
-msgid "FORM_HEADER_EMAIL"
-msgstr "Email:"
-
-msgid "FORM_PREFILL_EMAIL"
-msgstr "Email-Adresse hier eingeben..."
-
-msgid "FORM_WARNING_EMAIL_INVALID"
-msgstr "Ungültige Email-Adresse."
-
-msgid "EMAIL_ADDITION_SUGGESTED"
-msgstr "Deine Email ist nicht notwendig, aber sehr empfohlen. Solltest du jemals dein Passwort vergessen, schickem wir dir einen Link zum Zurücksetzen des Passworts an deine Email-Adresse."
-
-msgid "EMAIL_ADDITION_DETAILS"
-msgstr "Solltest du jemals dein Passwort vergessen, schicken wir dir einen Link zum Zurücksetzen des Passworts an deine Email-Adresse."
-
-msgid "CONFIRM_INFO_CORRECT"
-msgstr "Bitte stelle sicher, dass die angegebenen Informationen stimmen."
-
-msgid "NO_PLAINTEXT_PASSWORD_RECOVERY_IF_LOST"
-msgstr "Solltest du nach diesem Schritt dein Passwort vergessen, können wir es nicht wiederbeschaffen."
-
-msgid "BUTTON_CHANGE_PASSWORD"
-msgstr "Passwort ändern"
-
-msgid "FORM_HEADER_EMAIL_CONFIRM"
-msgstr "Email:"
-
-msgid "BUTTON_CHANGE_EMAIL"
-msgstr "Email-Adresse ändern"
-
-msgid "BUTTON_ADD_AN_EMAIL_ADDRESS"
-msgstr "Email-Adresse hinzufügen"
-
-msgid "BUTTON_SUBMIT"
-msgstr "Einreichen"
-
-msgid "PLEASE_ENTER_PASSWORD_TO_SIGN_IN"
-msgstr "Bitte gib dein Passwort ein, um Dich anzumelden."
-
-msgid "LOGIN_FORM_PREFILL_PASSWORD"
-msgstr "Passwort eingeben"
-
-msgid "INCORRECT_PASSWORD_ATTEMPTS_FORMAT"
-msgstr "Fehlgeschlagene Passwort-Versuche: %s"
-
-msgid "REGISTRATION_ERROR_BAD_EMAIL"
-msgstr "Die angegebene Email-Adresse ist nicht erlaubt."
-
-msgid "REGISTRATION_ERROR_BAD_PASSWORD"
-msgstr "Das angegebene Passwort ist nicht erlaubt."
-
-msgid "ERROR"
-msgstr "Fehler"
-
-msgid "REGISTRATION_ERROR_PASSWORD_ALREADY_SET"
-msgstr "Das Passwort wurde bereits gesetzt."
-
-msgid "NEW_USER_THANKS_FOR_REGISTRATION"
-msgstr "Willkommen auf Sudomemo!"
-
-msgid "RETURNING_USER_THANKS_FOR_REGISTRATION"
-msgstr "Willkommen zurück! Danke fürs Einrichten deiner Anmeldeinformationen!"
-
-msgid "BUTTON_SIGN_IN_TO_SUDOMEMO"
-msgstr "Auf Sudomemo anmelden"
-
-msgid "LOGIN_FAILED"
-msgstr "Anmeldung fehlgeschlagen."
-
-msgid "LOGIN_FAILED_REOPEN_FLIPNOTE_STUDIO"
-msgstr "Anmeldung fehlgeschlagen. Schließe Flipnote Studio und öffne es erneut."
-
-msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE1"
-msgstr "Die Flipnote-Daten sind beschädigt."
-
-msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE2"
-msgstr "Versuche, es erneut zu senden."
-
-msgid "LOGIN_FAILED_BANNED_LINE1"
-msgstr "Deine Nutzung von Sudomemo wurde eingeschränkt."
-
-msgid "CONTACT_SUPPORT_EMAIL_FORMAT"
-msgstr "Bitte kontaktiere %s."
-
-msgid "CREATORS_ROOM_SHIM_WELCOME"
-msgstr "Willkommen!"
-
-msgid "CREATORS_ROOM_SHIM_PLEASE_LOGIN"
-msgstr "Willkommen auf Sudomemo! Bitte melde Dich an, um fortzufahren."
-
-msgid "GUIDE_MAIN_MENU_SHORTCUT"
-msgstr "Du kannst zum Hauptmenü zurückkehren, indem du L (bzw. R für Linkshänder) gedrückt hältst und 'Menü' drückst."
-
-msgid "SORRY_NO_LOGIN"
-msgstr "Sorry, aber wir konnten Dich nicht anmelden!"
-
-msgid "BASIC_AUTH_NOT_ENABLED"
-msgstr "Die Grund-Authentifizierung in deinen Proxy-Einstellungen scheint deaktiviert zu sein."
+msgid "BASIC_AUTH_BAD_LENGTH_FORMAT"
+msgstr "Die ID scheint %s Stellen lang zu sein (sollten 16 sein)."
 
 msgid "BASIC_AUTH_FSID_INVALID"
 msgstr "Die eingegebene Flipnote Studio ID unter Grund-Authentifizierung ist ungültig:"
-
-msgid "BASIC_AUTH_BAD_LENGTH_FORMAT"
-msgstr "Die ID scheint %s Stellen lang zu sein (sollten 16 sein)."
 
 msgid "BASIC_AUTH_LOWERCASE_LETTERS"
 msgstr "Die ID enthält kleingeschriebene Buchstaben (sollten alle großgeschrieben sein)."
@@ -174,68 +30,20 @@ msgstr "Die ID enthält kleingeschriebene Buchstaben (sollten alle großgeschrie
 msgid "BASIC_AUTH_NONHEX_CHARACTERS"
 msgstr "Die ID enthält Charaktere, die nicht 0-9 und A-F sind (sie sollte nur 0-9 und A-F enthalten)."
 
-msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
-msgstr "Solltest du Hilfe benötigen, frage uns auf Discord! Trete unserem Server hier bei: %s"
+msgid "BASIC_AUTH_NOT_ENABLED"
+msgstr "Die Grund-Authentifizierung in deinen Proxy-Einstellungen scheint deaktiviert zu sein."
 
-msgid "BAN_NOTICE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
-msgstr "Bitte kontaktiere uns auf Discord oder per E-Mail an %s."
+msgid "BUTTON_ADD_AN_EMAIL_ADDRESS"
+msgstr "Email-Adresse hinzufügen"
 
-msgid "FORGOT_PASSWORD_LINK"
-msgstr "Passwort vergessen?"
+msgid "BUTTON_CHANGE_EMAIL"
+msgstr "Email-Adresse ändern"
 
-msgid "EMAIL_IS_DUPLICATE"
-msgstr "Die angegebene Email-Adresse wird bereits verwendet."
-
-msgid "EMAIL_CONFIRMATION_SENT_FORMAT"
-msgstr "Eine Bestätigungs-Mail wurde an %s geschickt. Bitte schau in den nächsten Minuten nach ihr."
+msgid "BUTTON_CHANGE_PASSWORD"
+msgstr "Passwort ändern"
 
 msgid "BUTTON_CHECK_VERIFICATION"
 msgstr "Bestätigungs-Status überprüfen"
-
-msgid "EMAIL_NOT_YET_VERIFIED"
-msgstr "Deine Email-Adresse wurde noch nicht bestätigt."
-
-msgid "EMAIL_VERIFIED"
-msgstr "Danke zur Bestätigung deiner Email!"
-
-msgid "EMAIL_REQUIRES_UPDATE"
-msgstr "Deine Email-Adresse muss aktualisiert werden."
-
-msgid "VERIFICATION_NEEDED"
-msgstr "Deine Email-Adresse muss bestätigt werden."
-
-msgid "BUTTON_RESEND_VERIFICATION_EMAIL"
-msgstr "Bestätigungs-Mail erneut senden"
-
-msgid "NOT_RECEIVING_HELP_FORMAT"
-msgstr "Mail nicht erhalten? Kontaktiere uns über Discord oder über: %s."
-
-msgid "HEADER_VERIFY_EMAIL"
-msgstr "Email-Adresse bestätigen"
-
-msgid "VERIFICATION_LIMIT_EXCEEDED_FORMAT"
-msgstr "Dein Maximum an Bestätigungs-Mails wurde erreicht. Bitte kontaktiere unseren Support über Discord oder über: %s"
-
-msgid "WEB_HEADER_SUCCESS"
-msgstr "Erfolgreich!"
-
-msgid "WEB_TAP_CHECK_VERIFICATION_STATUS"
-msgstr "Klicke 'Bestätigungs-Status überprüfen' auf deinem Nintendo DSi-System, um die Bestätigung fertigzustellen."
-
-msgid "HEADER_VERIFICATION_EXPIRED"
-msgstr "Bestätigung abgelaufen"
-
-msgid "VERIFICATION_EXPIRED_TEXT"
-msgstr "Die Bestätigungs-URL ist entweder abgelaufen oder wurde bereits benutzt."
-
-msgid "CONTINUE_TO_LOGIN"
-msgstr "Zur Anmeldung fortfahren"
-
-msgid "HEADER_UPDATE_EMAIL"
-msgstr "Email-Adresse aktualisieren"
-
-msgid "THANK_YOU_FOR_UPDATING_EMAIL"
-msgstr "Danke fürs Aktualisieren deiner Email!"
 
 msgid "BUTTON_CONTINUE"
 msgstr "Fortfahren"
@@ -243,21 +51,213 @@ msgstr "Fortfahren"
 msgid "BUTTON_EDIT_EMAIL_ADDRESS"
 msgstr "Email-Adresse ändern"
 
-msgid "SEARCH_FOR_SENDER_EMAIL_FORMAT"
-msgstr "Mail nicht erhalten? Überprüfe deinen Spam-Ordner und suche nach %s. Falls dort vorgefunden, stelle sicher sie als Kein Spam zu markieren."
+msgid "BUTTON_RESEND_VERIFICATION_EMAIL"
+msgstr "Bestätigungs-Mail erneut senden"
 
-msgid "NEW_USER_INTRO_POST_INTRO_CHANNEL"
-msgstr "Wenn du bereit bist, stelle Dich im 'Vorstellung'-Kanal in der Persönlich-Kategorie vor."
+msgid "BUTTON_SIGN_IN_TO_SUDOMEMO"
+msgstr "Auf Sudomemo anmelden"
+
+msgid "BUTTON_SUBMIT"
+msgstr "Einreichen"
+
+msgid "CONFIRM_INFO_CORRECT"
+msgstr "Bitte stelle sicher, dass die angegebenen Informationen stimmen."
+
+msgid "CONTACT_SUPPORT_EMAIL_FORMAT"
+msgstr "Bitte kontaktiere %s."
+
+msgid "CONTINUE_TO_LOGIN"
+msgstr "Zur Anmeldung fortfahren"
+
+msgid "CREATORS_ROOM_SHIM_PLEASE_LOGIN"
+msgstr "Willkommen auf Sudomemo! Bitte melde Dich an, um fortzufahren."
+
+msgid "CREATORS_ROOM_SHIM_WELCOME"
+msgstr "Willkommen!"
+
+msgid "EMAIL_ADDITION_DETAILS"
+msgstr "Solltest du jemals dein Passwort vergessen, schicken wir dir einen Link zum Zurücksetzen des Passworts an deine Email-Adresse."
+
+msgid "EMAIL_ADDITION_SUGGESTED"
+msgstr "Deine Email ist nicht notwendig, aber sehr empfohlen. Solltest du jemals dein Passwort vergessen, schickem wir dir einen Link zum Zurücksetzen des Passworts an deine Email-Adresse."
+
+msgid "EMAIL_CONFIRMATION_SENT_FORMAT"
+msgstr "Eine Bestätigungs-Mail wurde an %s geschickt. Bitte schau in den nächsten Minuten nach ihr."
+
+msgid "EMAIL_IS_DUPLICATE"
+msgstr "Die angegebene Email-Adresse wird bereits verwendet."
+
+msgid "EMAIL_NOT_YET_VERIFIED"
+msgstr "Deine Email-Adresse wurde noch nicht bestätigt."
+
+msgid "EMAIL_REQUIRES_UPDATE"
+msgstr "Deine Email-Adresse muss aktualisiert werden."
 
 msgid "EMAIL_VERIFICATION_ADDRESS_REMOVED"
 msgstr "Tut uns Leid! Diese Email-Adresse wurde nun von uns als falsch gekennzeichnet, also solltest du keine weiteren Emails von Sudomemo erhalten."
 
-msgid "THANKS_FOR_LOGIN_PROMPT_INTRO"
-msgstr "Willkommen auf Sudomemo! Erzähle uns hier ein wenig über Dich! (Dies wird als Flipnote in unserem 'Vorstellung'-Kanal gepostet.)"
+msgid "EMAIL_VERIFIED"
+msgstr "Danke zur Bestätigung deiner Email!"
 
-msgid "PLEASE_DISCONNECT_AND_RECONNECT"
-msgstr "Ein Fehler ist aufgetreten. Um es erneut zu versuchen, trenne deine Verbindung und richte sie wieder ein."
+msgid "ERROR"
+msgstr "Fehler"
+
+msgid "FORGOT_PASSWORD_LINK"
+msgstr "Passwort vergessen?"
+
+msgid "FORM_HEADER_EMAIL"
+msgstr "Email:"
+
+msgid "FORM_HEADER_EMAIL_CONFIRM"
+msgstr "Email:"
+
+msgid "FORM_HEADER_PASSWORD"
+msgstr "Passwort:"
+
+msgid "FORM_LABEL_DONT_FORGET_PASSWORD"
+msgstr "Erstelle eine Notiz deines Passworts und bewahre sie gut auf!"
+
+msgid "FORM_PREFILL_EMAIL"
+msgstr "Email-Adresse hier eingeben..."
+
+msgid "FORM_PREFILL_PASSWORD"
+msgstr "Passwort hier eingeben..."
+
+msgid "FORM_WARNING_EMAIL_INVALID"
+msgstr "Ungültige Email-Adresse."
+
+msgid "FORM_WARNING_PASSWORD_DISALLOWED_CHARS"
+msgstr "Dein Passwort darf keines dieser Charaktere enthalten:"
+
+msgid "FORM_WARNING_PASSWORD_TOO_SHORT"
+msgstr "Bitte gib ein Passwort mit mehr als 8 Charakteren ein."
+
+msgid "GOTO_CREATORS_ROOM"
+msgstr "Gehe zu deinem Ersteller-Raum"
+
+msgid "GUIDE_MAIN_MENU_SHORTCUT"
+msgstr "Du kannst zum Hauptmenü zurückkehren, indem du L (bzw. R für Linkshänder) gedrückt hältst und 'Menü' drückst."
+
+msgid "HEADER_UPDATE_EMAIL"
+msgstr "Email-Adresse aktualisieren"
+
+msgid "HEADER_VERIFICATION_EXPIRED"
+msgstr "Bestätigung abgelaufen"
+
+msgid "HEADER_VERIFY_EMAIL"
+msgstr "Email-Adresse bestätigen"
+
+msgid "INCORRECT_PASSWORD_ATTEMPTS_FORMAT"
+msgstr "Fehlgeschlagene Passwort-Versuche: %s"
 
 # A URL will be shown at the end of this.
 msgid "LEGACY_PROXY_WARNING"
 msgstr "Anscheinend benutzt du noch den Legacy-Proxy ds.sudomemo.net, dessen Unterstützung eingestellt wurde. Daher solltest du den Proxy in den Systemeinstellungen ausschalten, oder Probleme beim Nutzen von Sudomemo können auftauchen. Für weitere Informationen, besuche: "
+
+msgid "LOGIN"
+msgstr "Login"
+
+msgid "LOGIN_FAILED"
+msgstr "Anmeldung fehlgeschlagen."
+
+msgid "LOGIN_FAILED_BANNED_LINE1"
+msgstr "Deine Nutzung von Sudomemo wurde eingeschränkt."
+
+msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE1"
+msgstr "Die Flipnote-Daten sind beschädigt."
+
+msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE2"
+msgstr "Versuche, es erneut zu senden."
+
+msgid "LOGIN_FAILED_REOPEN_FLIPNOTE_STUDIO"
+msgstr "Anmeldung fehlgeschlagen. Schließe Flipnote Studio und öffne es erneut."
+
+msgid "LOGIN_FORM_PREFILL_PASSWORD"
+msgstr "Passwort eingeben"
+
+msgid "LOGIN_SETUP"
+msgstr "Login-Setup"
+
+msgid "LOGIN_SUCCESSFUL"
+msgstr "Login erfolgreich!"
+
+msgid "NEW_USER_INTRO_POST_INTRO_CHANNEL"
+msgstr "Wenn du bereit bist, stelle Dich im 'Vorstellung'-Kanal in der Persönlich-Kategorie vor."
+
+msgid "NEW_USER_PLEASE_CREATE_PASSWORD"
+msgstr "Bitte erstelle ein neues Passwort."
+
+msgid "NEW_USER_THANKS_FOR_REGISTRATION"
+msgstr "Willkommen auf Sudomemo!"
+
+msgid "NEW_USER_WELCOME_FORMAT"
+msgstr "Willkommen auf Sudomemo, %s!"
+
+msgid "NOT_RECEIVING_HELP_FORMAT"
+msgstr "Mail nicht erhalten? Kontaktiere uns über Discord oder über: %s."
+
+msgid "NO_PLAINTEXT_PASSWORD_RECOVERY_IF_LOST"
+msgstr "Solltest du nach diesem Schritt dein Passwort vergessen, können wir es nicht wiederbeschaffen."
+
+msgid "PLEASE_DISCONNECT_AND_RECONNECT"
+msgstr "Ein Fehler ist aufgetreten. Um es erneut zu versuchen, trenne deine Verbindung und richte sie wieder ein."
+
+msgid "PLEASE_ENTER_PASSWORD_TO_SIGN_IN"
+msgstr "Bitte gib dein Passwort ein, um Dich anzumelden."
+
+msgid "POST_COMMENT_BELOW"
+msgstr "Bitte reiche einen gezeichneten Kommentar ein (er kann leer sein)."
+
+msgid "REGISTRATION_ERROR_BAD_EMAIL"
+msgstr "Die angegebene Email-Adresse ist nicht erlaubt."
+
+msgid "REGISTRATION_ERROR_BAD_PASSWORD"
+msgstr "Das angegebene Passwort ist nicht erlaubt."
+
+msgid "REGISTRATION_ERROR_PASSWORD_ALREADY_SET"
+msgstr "Das Passwort wurde bereits gesetzt."
+
+msgid "RETURNING_USER_NEW_LOGIN_SYSTEM"
+msgstr "Seit deinem letzten Besuch haben wir ein neues Anmeldesystem implementiert. Aber keine Sorge! Dein sämtlicher Inhalt bleibt bestehen!"
+
+msgid "RETURNING_USER_PLEASE_CREATE_PASSWORD"
+msgstr "Bitte gib ein neues Passwort ein, um loszulegen."
+
+msgid "RETURNING_USER_THANKS_FOR_REGISTRATION"
+msgstr "Willkommen zurück! Danke fürs Einrichten deiner Anmeldeinformationen!"
+
+msgid "SEARCH_FOR_SENDER_EMAIL_FORMAT"
+msgstr "Mail nicht erhalten? Überprüfe deinen Spam-Ordner und suche nach %s. Falls dort vorgefunden, stelle sicher sie als Kein Spam zu markieren."
+
+msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
+msgstr "Solltest du Hilfe benötigen, frage uns auf Discord! Trete unserem Server hier bei: %s"
+
+msgid "SORRY_NO_LOGIN"
+msgstr "Sorry, aber wir konnten Dich nicht anmelden!"
+
+msgid "THANKS_FOR_LOGIN_FORMAT"
+msgstr "Danke fürs Einloggen, %s!"
+
+msgid "THANKS_FOR_LOGIN_PROMPT_INTRO"
+msgstr "Willkommen auf Sudomemo! Erzähle uns hier ein wenig über Dich! (Dies wird als Flipnote in unserem 'Vorstellung'-Kanal gepostet.)"
+
+msgid "THANK_YOU_FOR_UPDATING_EMAIL"
+msgstr "Danke fürs Aktualisieren deiner Email!"
+
+msgid "VERIFICATION_EXPIRED_TEXT"
+msgstr "Die Bestätigungs-URL ist entweder abgelaufen oder wurde bereits benutzt."
+
+msgid "VERIFICATION_LIMIT_EXCEEDED_FORMAT"
+msgstr "Dein Maximum an Bestätigungs-Mails wurde erreicht. Bitte kontaktiere unseren Support über Discord oder über: %s"
+
+msgid "VERIFICATION_NEEDED"
+msgstr "Deine Email-Adresse muss bestätigt werden."
+
+msgid "WEB_HEADER_SUCCESS"
+msgstr "Erfolgreich!"
+
+msgid "WEB_TAP_CHECK_VERIFICATION_STATUS"
+msgstr "Klicke 'Bestätigungs-Status überprüfen' auf deinem Nintendo DSi-System, um die Bestätigung fertigzustellen."
+
+msgid "WELCOME_BACK_FORMAT"
+msgstr "Willkommen zurück, %s!"

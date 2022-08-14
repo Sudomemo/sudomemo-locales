@@ -3,17 +3,20 @@ msgstr ""
 "Language: de_DE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "UPPERTITLE"
-msgstr "Kanal durchsuchen"
+msgid "BROWSE_BY_ALBUM"
+msgstr "Nach Album filtern"
 
-msgid "POST_FLIPNOTE"
-msgstr "Flipnote posten"
+msgid "BROWSE_BY_ARTIST"
+msgstr "Nach Künstler filtern"
+
+msgid "BROWSE_BY_SONG"
+msgstr "Nach Song filtern"
+
+msgid "BROWSE_PLAYLIST"
+msgstr "Playlist öffnen"
 
 msgid "NEXT"
 msgstr "Weiter"
-
-msgid "PREV"
-msgstr "Zurück"
 
 msgid "PAGE"
 msgstr "Seite"
@@ -21,20 +24,17 @@ msgstr "Seite"
 msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d von %d"
 
-msgid "SPINOFFS"
-msgstr "Spin-Offs"
+msgid "POST_FLIPNOTE"
+msgstr "Flipnote posten"
 
-msgid "BROWSE_BY_SONG"
-msgstr "Nach Song filtern"
-
-msgid "BROWSE_BY_ARTIST"
-msgstr "Nach Künstler filtern"
-
-msgid "BROWSE_BY_ALBUM"
-msgstr "Nach Album filtern"
-
-msgid "BROWSE_PLAYLIST"
-msgstr "Playlist öffnen"
+msgid "PREV"
+msgstr "Zurück"
 
 msgid "SONG_DETAILS"
 msgstr "Song-Details"
+
+msgid "SPINOFFS"
+msgstr "Spin-Offs"
+
+msgid "UPPERTITLE"
+msgstr "Kanal durchsuchen"

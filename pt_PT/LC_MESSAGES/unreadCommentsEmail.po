@@ -3,23 +3,23 @@ msgstr ""
 "Language: pt_PT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "EMAIL_SUBJECT_FORMAT"
-msgstr "[Sudomemo] %s, tens novos comentários nos teus Flipnotes!"
-
-msgid "TITLE_NEW_COMMENTS"
-msgstr "Novos Comentários"
-
-msgid "HELLO_FORMAT"
-msgstr "Olá, %s!"
-
-msgid "TEXT_YOU_HAVE_X_COMMENTS_FROM_FORMAT"
-msgstr "Tu tens %d novos comentário(s) no Sudomemo de %s"
-
 msgid "AND"
 msgstr "e"
 
 msgid "AND_X_OTHERS_FORMAT"
 msgstr "e %s outros."
 
+msgid "EMAIL_SUBJECT_FORMAT"
+msgstr "[Sudomemo] %s, tens novos comentários nos teus Flipnotes!"
+
+msgid "HELLO_FORMAT"
+msgstr "Olá, %s!"
+
 msgid "TEXT_HOW_TO_VIEW_UNREAD_COMMENTS_TAP_ICON_FORMAT"
 msgstr "Podes ver os teus comentários não lidos no Sudomemo ao tocar no %s na tua barra de notificações."
+
+msgid "TEXT_YOU_HAVE_X_COMMENTS_FROM_FORMAT"
+msgstr "Tu tens %d novos comentário(s) no Sudomemo de %s"
+
+msgid "TITLE_NEW_COMMENTS"
+msgstr "Novos Comentários"

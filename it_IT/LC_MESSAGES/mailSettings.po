@@ -3,110 +3,110 @@ msgstr ""
 "Language: it_IT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "DISABLE"
+msgstr "Disattiva"
+
+msgid "DISABLED"
+msgstr "Disattivato"
+
+msgid "DISABLE_CONFIRMATION_FORMAT"
+msgstr "Sei sicuro di voler disattivare '%s' email?"
+
+msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
+msgstr "Il link che hai seguito è scaduto."
+
+msgid "EMAIL_SETTING_DISABLED_FINISH_FORMAT"
+msgstr "Hai disattivato '%s' email."
+
+msgid "ENABLE"
+msgstr "Attiva"
+
+msgid "ENABLED"
+msgstr "Attivato"
+
+msgid "HEADER_CHANGE_EMAIL_SETTINGS"
+msgstr "Cambia Impostazioni Email"
+
 msgid "HEADER_MAIL_SETTINGS"
 msgstr "Impostazioni Mail"
 
 msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
 msgstr "Devi accedere per modificare le tue impostazioni mail."
 
-msgid "MAIL_TYPE"
-msgstr "Tipo"
-
 msgid "MAIL_STATUS"
 msgstr "Stato"
 
-msgid "ENABLED"
-msgstr "Attivato"
-
-msgid "DISABLED"
-msgstr "Disattivato"
-
-msgid "ENABLE"
-msgstr "Attiva"
-
-msgid "DISABLE"
-msgstr "Disattiva"
-
-msgid "TAP_TO_ENABLE"
-msgstr "Tocca per attivare"
-
-msgid "TAP_TO_DISABLE"
-msgstr "Tocca per disattivare"
-
-msgid "TYPE_NEWS_NAME"
-msgstr "Notizie Sudomemo"
-
-msgid "TYPE_NEWS_DESC"
-msgstr "Ricevi un'email quando qualcosa di nuovo viene postato in Sudomemo News"
-
-msgid "TYPE_PROMO_NAME"
-msgstr "Promozione"
-
-msgid "TYPE_PROMO_DESC"
-msgstr "Ricevi email riguardo nuove funzioni, consigli, trucchi e prossimi eventi!"
-
-msgid "TYPE_FAVE_NOTIF_NAME"
-msgstr "Aggiunto come Preferito"
-
-msgid "TYPE_FAVE_NOTIF_DESC"
-msgstr "Ricevi un'email quando qualcuno ti aggiunge ai suoi Preferiti"
-
-msgid "TYPE_COMMENT_NOTIF_NAME"
-msgstr "Commento ricevuto"
-
-msgid "TYPE_COMMENT_NOTIF_DESC"
-msgstr "Ricevi un'email quando qualcuno commenta un tuo Flipnote"
-
-msgid "TYPE_STAR_REPORT_NAME"
-msgstr "Report delle Stelle giornaliero"
-
-msgid "TYPE_STAR_REPORT_DESC"
-msgstr "Ricevi un'email alla fine della giornata riguardo a quante Stelle hai ricevuto"
-
-msgid "TYPE_SPINOFF_NOTIF_NAME"
-msgstr "Spin-off ricevuto"
-
-msgid "TYPE_SPINOFF_NOTIF_DESC"
-msgstr "Ricevi un'email quando qualcuno posta uno spin-off ad un tuo Flipnote"
-
-msgid "TYPE_SECURITY_NOTIF_NAME"
-msgstr "Sicurezza Account"
-
-msgid "TYPE_SECURITY_NOTIF_DESC"
-msgstr "Ricevi un'email quando il tuo indirizzo email o la password sono aggiornati"
-
-msgid "TYPE_REPORT_UPDATE_NAME"
-msgstr "Aggiornamenti contenuto contrassegnato"
-
-msgid "TYPE_REPORT_UPDATE_DESC"
-msgstr "Ricevi un'email quando aggiorniamo lo stato di un contenuto che hai contrassegnato"
-
-msgid "TYPE_UNREAD_COMMENTS_NAME"
-msgstr "Commenti non letti"
-
-msgid "TYPE_UNREAD_COMMENTS_DESC"
-msgstr "Ricevi un'email di riepilogo sui nuovi commenti che hai ricevuto di recente"
-
-msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
-msgstr "Tocca sul tipo di stato delle mail per vederlo o aggiornarlo."
-
-msgid "HEADER_CHANGE_EMAIL_SETTINGS"
-msgstr "Cambia Impostazioni Email"
-
-msgid "DISABLE_CONFIRMATION_FORMAT"
-msgstr "Sei sicuro di voler disattivare '%s' email?"
+msgid "MAIL_TYPE"
+msgstr "Tipo"
 
 msgid "REENABLE_INSTRUCTIONS"
 msgstr "Se vuoi riattivarle, puoi farlo selezionando <strong>Impostazioni Email</strong> nella tua Stanza Creatore."
 
-msgid "EMAIL_SETTING_DISABLED_FINISH_FORMAT"
-msgstr "Hai disattivato '%s' email."
+msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
+msgstr "Tocca sul tipo di stato delle mail per vederlo o aggiornarlo."
 
-msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
-msgstr "Il link che hai seguito è scaduto."
+msgid "TAP_TO_DISABLE"
+msgstr "Tocca per disattivare"
+
+msgid "TAP_TO_ENABLE"
+msgstr "Tocca per attivare"
+
+msgid "TYPE_COMMENT_NOTIF_DESC"
+msgstr "Ricevi un'email quando qualcuno commenta un tuo Flipnote"
+
+msgid "TYPE_COMMENT_NOTIF_NAME"
+msgstr "Commento ricevuto"
+
+msgid "TYPE_FAVE_NOTIF_DESC"
+msgstr "Ricevi un'email quando qualcuno ti aggiunge ai suoi Preferiti"
+
+msgid "TYPE_FAVE_NOTIF_NAME"
+msgstr "Aggiunto come Preferito"
+
+msgid "TYPE_NEWS_DESC"
+msgstr "Ricevi un'email quando qualcosa di nuovo viene postato in Sudomemo News"
+
+msgid "TYPE_NEWS_NAME"
+msgstr "Notizie Sudomemo"
+
+msgid "TYPE_PROMO_DESC"
+msgstr "Ricevi email riguardo nuove funzioni, consigli, trucchi e prossimi eventi!"
+
+msgid "TYPE_PROMO_NAME"
+msgstr "Promozione"
+
+msgid "TYPE_REPORT_UPDATE_DESC"
+msgstr "Ricevi un'email quando aggiorniamo lo stato di un contenuto che hai contrassegnato"
+
+msgid "TYPE_REPORT_UPDATE_NAME"
+msgstr "Aggiornamenti contenuto contrassegnato"
+
+msgid "TYPE_SECURITY_NOTIF_DESC"
+msgstr "Ricevi un'email quando il tuo indirizzo email o la password sono aggiornati"
+
+msgid "TYPE_SECURITY_NOTIF_NAME"
+msgstr "Sicurezza Account"
+
+msgid "TYPE_SERVICE_UPDATE_DESC"
+msgstr "Aggiornamenti importanti riguardo lo stato e disponibilità di Sudomemo relativi al tuo account"
 
 msgid "TYPE_SERVICE_UPDATE_NAME"
 msgstr "Aggiornamenti Servizio"
 
-msgid "TYPE_SERVICE_UPDATE_DESC"
-msgstr "Aggiornamenti importanti riguardo lo stato e disponibilità di Sudomemo relativi al tuo account"
+msgid "TYPE_SPINOFF_NOTIF_DESC"
+msgstr "Ricevi un'email quando qualcuno posta uno spin-off ad un tuo Flipnote"
+
+msgid "TYPE_SPINOFF_NOTIF_NAME"
+msgstr "Spin-off ricevuto"
+
+msgid "TYPE_STAR_REPORT_DESC"
+msgstr "Ricevi un'email alla fine della giornata riguardo a quante Stelle hai ricevuto"
+
+msgid "TYPE_STAR_REPORT_NAME"
+msgstr "Report delle Stelle giornaliero"
+
+msgid "TYPE_UNREAD_COMMENTS_DESC"
+msgstr "Ricevi un'email di riepilogo sui nuovi commenti che hai ricevuto di recente"
+
+msgid "TYPE_UNREAD_COMMENTS_NAME"
+msgstr "Commenti non letti"

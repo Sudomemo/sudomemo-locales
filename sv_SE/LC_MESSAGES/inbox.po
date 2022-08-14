@@ -6,12 +6,12 @@ msgstr ""
 msgid "HEADER_INBOX"
 msgstr "Inkorg"
 
-# this must be a max of 6 characters
-msgid "UNAUTHED_READ"
-msgstr "Läs..."
+msgid "NEXT"
+msgstr "Nästa"
 
 msgid "PREV"
 msgstr "Före"
 
-msgid "NEXT"
-msgstr "Nästa"
+# this must be a max of 6 characters
+msgid "UNAUTHED_READ"
+msgstr "Läs..."

@@ -3,56 +3,56 @@ msgstr ""
 "Language: cy_GB\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "COMMENT_FAILED_USER_BANNED"
+msgstr "Rydych chi wedi cael eich cyfyngu rhag defnyddio Sudomemo."
+
+msgid "COMMENT_POST_FAILED"
+msgstr "Methodd y sylw post. Ceisiwch eto mewn eiliad."
+
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "Cadarnhewch eich e-bost cyn ei bostio."
+
+msgid "DUPLICATE_COMMENT_FAILED"
+msgstr "Mae'r sylw hwn eisoes wedi'i bostio i Sudomemo."
+
+msgid "FLIPNOTE_COMMENTS_DISALLOWED"
+msgstr "Ni chewch wneud sylwadau ar y Flipnote hwn."
+
+msgid "FLIPNOTE_DATA_CORRUPTED"
+msgstr "Mae'r data Flipnote wedi'i lygru. Ceisiwch eto mewn eiliad."
+
 msgid "HEADER_COMMENTS"
 msgstr "Sylwadau"
 
 msgid "HEADER_DETAILS"
 msgstr "Manylion"
 
-msgid "HEADER_PREV"
-msgstr "Blae"
-
 msgid "HEADER_NEXT"
 msgstr "Nesaf"
+
+msgid "HEADER_PREV"
+msgstr "Blae"
 
 msgid "HEADER_REFRESH"
 msgstr "Adnewyddu"
 
-msgid "PAGE_FORMAT"
-msgstr "Tudalen %d"
-
-msgid "NO_COMMENTS_YET"
-msgstr "Nid oes gan y Flipnote unrhyw sylwadau eto."
-
 msgid "LOGIN_REQUIRED_TO_POST_COMMENT"
 msgstr "Rhaid i chi fod wedi mewngofnodi i bostio sylw."
 
-msgid "COMMENT_POST_FAILED"
-msgstr "Methodd y sylw post. Ceisiwch eto mewn eiliad."
+msgid "MODERATOR"
+msgstr "Cymedrolwr"
 
 msgid "NO_BLANK_COMMENTS_ALLOWED"
 msgstr "Ni allwch bostio sylw gwag."
 
-msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "Mae'r data Flipnote wedi'i lygru. Ceisiwch eto mewn eiliad."
-
-msgid "FLIPNOTE_COMMENTS_DISALLOWED"
-msgstr "Ni chewch wneud sylwadau ar y Flipnote hwn."
-
 msgid "NO_COMMENTS_WHILE_MUTED"
 msgstr "Rydych wedi cael eich atal rhag gwneud sylwadau. Ni allwch wneud sylw."
 
-msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "Mae'r sylw hwn eisoes wedi'i bostio i Sudomemo."
+msgid "NO_COMMENTS_YET"
+msgstr "Nid oes gan y Flipnote unrhyw sylwadau eto."
 
-msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "Rydych chi wedi cael eich cyfyngu rhag defnyddio Sudomemo."
-
-msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Cadarnhewch eich e-bost cyn ei bostio."
-
-msgid "MODERATOR"
-msgstr "Cymedrolwr"
+msgid "PAGE_FORMAT"
+msgstr "Tudalen %d"
 
 msgid "SUDOMEMO_USER"
 msgstr "Sudomemo User"

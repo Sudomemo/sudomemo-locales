@@ -3,30 +3,31 @@ msgstr ""
 "Language: el_GR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "HEADER_UPLOAD_TO_YOUTUBE"
-msgstr "Ανεβασμα στο YouTube"
+msgid "AUDIO_ENHANCEMENT"
+msgstr "Audio Enhancement"
 
-msgid "YOUTUBE"
-msgstr "YouTube"
+msgid "BTN_START_UPLOAD"
+msgstr "Ξεκινηστε την δημοσιευση"
+
+msgid "BTN_UPLOAD_AGAIN"
+msgstr "Ανεβαστε Ξανα"
+
+# ...do so, visit https://flipnot.es/ABC123/yt
+msgid "CHANGE_OPTIONS_ON_THEATRE"
+msgstr "Μπορειτε να αλλαξετε αυες τις επιλογες πριν τη δημοσιευση. Για να το κανετε, επισκεφτειτε:"
+
+# If the user's already uploaded it...
+msgid "FLIPNOTE_ALREADY_UPLOADED"
+msgstr "Εχετε ηδη ανεβασει αυτο το Flipnote στο YouTube."
+
+msgid "FLIPNOTE_SMOOTHING"
+msgstr "Flipnote Smoothing"
 
 msgid "HEADER_CONFIRM_OPTIONS"
 msgstr "Επιβεβαιωση Επιλογων"
 
-msgid "LINK_REQUIRED_BEFORE_UPLOAD"
-msgstr "Πρεπει να συνδεσεε το καναλι σας στο YouTube πριν ανεβασετε το Flipnote."
-
-msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
-msgstr "Ο λογαριασμος σας στο YouTube δεν ειναι επιβεβαιωμενος. Καποιες δυνατοτητες δεν θα φανουν σωστα, οπως τα thumbnails και Flipnotes μεγαλυτερα των 15 λεπτων."
-
-# To fix this, visit: https://flipnot.es/ytsetup
-msgid "YOUTUBE_ACCOUNT_VERIFICATION_FIX"
-msgstr "Για να το διορθωσετε, επισκευτειτε:"
-
-msgid "TITLE_DESC_MISSING"
-msgstr "Το Flipnote πρεπει να εχει τιτλο και περιγραφη πριν το ανεβασετε."
-
-msgid "TITLE_DESC_ADD_FIRST"
-msgstr "Παρακαλω πηγαιντε πισω και διορθωστε τα πριν συνεχισετε."
+msgid "HEADER_UPLOAD_TO_YOUTUBE"
+msgstr "Ανεβασμα στο YouTube"
 
 # A URL is displayed after this:
 msgid "HOW_TO_LINK_FROM_THEATRE"
@@ -35,9 +36,28 @@ msgstr "Για να συνδεσετε το καναλι σας στο YouTube, 
 msgid "HOW_TO_REFRESH_FROM_THEATRE"
 msgstr "Για να ανανεωσετε το καναλι σας, επισκεφτειτε αυτη τη σελιδα:"
 
-# Preview upload details before submitting
-msgid "PREVIEW_TITLE"
-msgstr "Τιτλος"
+msgid "LINK_REQUIRED_BEFORE_UPLOAD"
+msgstr "Πρεπει να συνδεσεε το καναλι σας στο YouTube πριν ανεβασετε το Flipnote."
+
+msgid "NONE"
+msgstr "Κανενα"
+
+msgid "OFF"
+msgstr "Οχι"
+
+msgid "ON"
+msgstr "Ναι"
+
+# Extra features provided by Sudomemo Plus (see flipnoteOptions.po)
+msgid "PLUS_FEATURES"
+msgstr "Plus Features"
+
+msgid "PLUS_FEATURES_NOTE"
+msgstr "Αλλαξτε αυτες τις επιλογες απο την σελιδα λεπτομεριων του Flipnote."
+
+# Position in queue: 4
+msgid "POSITION_IN_QUEUE"
+msgstr "Θεση στην σειρα: %d"
 
 msgid "PREVIEW_DESC"
 msgstr "Περιγραφη"
@@ -48,53 +68,15 @@ msgstr "Επιπλεον Περιγραφη"
 msgid "PREVIEW_EXTRA_DESC_EXPLANATION"
 msgstr "Το κειμενο αυτο θα φανει οταν πατηθει το -Δειτε Περισσοτερα- στην περιγραφη του βιντεο σας."
 
-msgid "TAGS"
-msgstr "Tags"
+# Preview upload details before submitting
+msgid "PREVIEW_TITLE"
+msgstr "Τιτλος"
 
-msgid "NONE"
-msgstr "Κανενα"
-
-msgid "YOUTUBE_LOOP_COUNT"
-msgstr "αριθμος plays"
-
-msgid "YOUTUBE_LOOP_COUNT_EXPLANATION"
-msgstr "Αριθμος επαναληψης ενος Flipnote. Ενα 1, το Flipnote θα παιξει μονο μια φορα."
-
-msgid "YOUTUBE_VISIBILITY"
-msgstr "Ορατοτητα"
-
-msgid "YOUTUBE_VISIBILITY_PUBLIC"
-msgstr "Δημοσιο"
-
-msgid "YOUTUBE_VISIBILITY_UNLISTED"
-msgstr "Unlisted"
-
-msgid "YOUTUBE_VISIBILITY_PRIVATE"
-msgstr "Ιδιωτικο"
-
-msgid "SUBMIT"
-msgstr "Αποστολη"
-
-# Upload status
-msgid "UPLOAD_STATUS"
-msgstr "Κατασταση δημοσιευσης"
-
-msgid "YOUTUBE_PENDING_UPLOAD"
-msgstr "Το Flipnote σας ειναι στην αναμονη για δημοσιευση. Επιστρεψτε σε λιγα λεπτα."
-
-# Position in queue: 4
-msgid "POSITION_IN_QUEUE"
-msgstr "Θεση στην σειρα: %d"
-
-msgid "THEATRE_STATUS_TRACKER"
-msgstr "Παρακολουθηστε το ζωντανο Upload Tracker εδω:"
+msgid "RECONNECT_NEEDED"
+msgstr "Η συνδεση στο καναλι σας στο  YouTube εχει ληξει."
 
 msgid "REVIEW_DETAILS_BEFORE_UPLOAD"
 msgstr "Παρακαλουμε επανεξεταστε αυτες τις επιλογες πριν ξεκινησετε τη δημοσιευση σας."
-
-# ...do so, visit https://flipnot.es/ABC123/yt
-msgid "CHANGE_OPTIONS_ON_THEATRE"
-msgstr "Μπορειτε να αλλαξετε αυες τις επιλογες πριν τη δημοσιευση. Για να το κανετε, επισκεφτειτε:"
 
 # ...please visit: https://flipnot.es/ytsetup
 msgid "SET_DEFAULTS_ON_THEATRE"
@@ -103,26 +85,49 @@ msgstr "Για να αλλαξετε τις προεπιλογες σας, πα�
 msgid "STATUS"
 msgstr "Κατασταση"
 
-msgid "YOUTUBE_STATUS_NEW"
-msgstr "Νεο"
+msgid "SUBMIT"
+msgstr "Αποστολη"
 
-msgid "YOUTUBE_STATUS_PROCESSING"
-msgstr "Επεξεργαζεται"
+msgid "TAGS"
+msgstr "Tags"
 
-msgid "YOUTUBE_STATUS_SUCCESS"
-msgstr "Ετοιμο!"
+msgid "THEATRE_STATUS_TRACKER"
+msgstr "Παρακολουθηστε το ζωντανο Upload Tracker εδω:"
 
-msgid "YOUTUBE_STATUS_PAUSED"
-msgstr "Σε παυση"
+msgid "TITLE_DESC_ADD_FIRST"
+msgstr "Παρακαλω πηγαιντε πισω και διορθωστε τα πριν συνεχισετε."
 
-msgid "YOUTUBE_STATUS_ERROR"
-msgstr "Σφαλμα"
+msgid "TITLE_DESC_MISSING"
+msgstr "Το Flipnote πρεπει να εχει τιτλο και περιγραφη πριν το ανεβασετε."
 
-msgid "YOUTUBE_STATUS_UNKNOWN"
-msgstr "Αγνωστο"
+# Upload status
+msgid "UPLOAD_STATUS"
+msgstr "Κατασταση δημοσιευσης"
 
-msgid "YOUTUBE_STATUS_WAITING_TO_BE_PROCESSED"
-msgstr "Η δημοσιευση σας βρισκεται στην αναμονη για επεξεργασια."
+msgid "YOUTUBE"
+msgstr "YouTube"
+
+# To fix this, visit: https://flipnot.es/ytsetup
+msgid "YOUTUBE_ACCOUNT_VERIFICATION_FIX"
+msgstr "Για να το διορθωσετε, επισκευτειτε:"
+
+msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
+msgstr "Ο λογαριασμος σας στο YouTube δεν ειναι επιβεβαιωμενος. Καποιες δυνατοτητες δεν θα φανουν σωστα, οπως τα thumbnails και Flipnotes μεγαλυτερα των 15 λεπτων."
+
+msgid "YOUTUBE_ESTIMATED_DURATION"
+msgstr "Πιθανο μηκος βιντεο:"
+
+msgid "YOUTUBE_ID"
+msgstr "YouTube ID"
+
+msgid "YOUTUBE_LOOP_COUNT"
+msgstr "αριθμος plays"
+
+msgid "YOUTUBE_LOOP_COUNT_EXPLANATION"
+msgstr "Αριθμος επαναληψης ενος Flipnote. Ενα 1, το Flipnote θα παιξει μονο μια φορα."
+
+msgid "YOUTUBE_PENDING_UPLOAD"
+msgstr "Το Flipnote σας ειναι στην αναμονη για δημοσιευση. Επιστρεψτε σε λιγα λεπτα."
 
 msgid "YOUTUBE_STATUS_BEING_PROCESSED"
 msgstr "Η δημοσιευση σας βρισκεται στο σταδιο της επεξεργασιας."
@@ -130,36 +135,32 @@ msgstr "Η δημοσιευση σας βρισκεται στο σταδιο τ
 msgid "YOUTUBE_STATUS_COMPLETE"
 msgstr "Η δημοσιευση ολοκληρωθηκε!"
 
+msgid "YOUTUBE_STATUS_ERROR"
+msgstr "Σφαλμα"
+
 msgid "YOUTUBE_STATUS_FAILED"
 msgstr "Παρουσιαστηκε προβλημα. Για περισσοτερες λεπτομεριες, επισκεφτειτε https://flipnot.es/ytsetup"
 
-msgid "RECONNECT_NEEDED"
-msgstr "Η συνδεση στο καναλι σας στο  YouTube εχει ληξει."
+msgid "YOUTUBE_STATUS_NEW"
+msgstr "Νεο"
 
-msgid "BTN_START_UPLOAD"
-msgstr "Ξεκινηστε την δημοσιευση"
+msgid "YOUTUBE_STATUS_PAUSED"
+msgstr "Σε παυση"
 
-msgid "YOUTUBE_ESTIMATED_DURATION"
-msgstr "Πιθανο μηκος βιντεο:"
+msgid "YOUTUBE_STATUS_PAUSED_GLOBAL_QUOTA"
+msgstr "Το quota χρησης μας εχει ξεπεραστει, επομενως ενδεχεται να υπαρχουν μεγαλες καθυστερησεις στην δημοσιευση."
 
-# Extra features provided by Sudomemo Plus (see flipnoteOptions.po)
-msgid "PLUS_FEATURES"
-msgstr "Plus Features"
+msgid "YOUTUBE_STATUS_PROCESSING"
+msgstr "Επεξεργαζεται"
 
-msgid "PLUS_FEATURES_NOTE"
-msgstr "Αλλαξτε αυτες τις επιλογες απο την σελιδα λεπτομεριων του Flipnote."
+msgid "YOUTUBE_STATUS_SUCCESS"
+msgstr "Ετοιμο!"
 
-msgid "FLIPNOTE_SMOOTHING"
-msgstr "Flipnote Smoothing"
+msgid "YOUTUBE_STATUS_UNKNOWN"
+msgstr "Αγνωστο"
 
-msgid "AUDIO_ENHANCEMENT"
-msgstr "Audio Enhancement"
-
-msgid "ON"
-msgstr "Ναι"
-
-msgid "OFF"
-msgstr "Οχι"
+msgid "YOUTUBE_STATUS_WAITING_TO_BE_PROCESSED"
+msgstr "Η δημοσιευση σας βρισκεται στην αναμονη για επεξεργασια."
 
 msgid "YOUTUBE_TERMS_AGREEMENT_NOTE"
 msgstr "Ανεβαζοντας τα βιντεο σας στο YouTube, επιβεβαιωνετε οτι συμφωνειτε στους ορους χρησης του YouTube."
@@ -168,27 +169,26 @@ msgstr "Ανεβαζοντας τα βιντεο σας στο YouTube, επιβ
 msgid "YOUTUBE_UPLOAD_LIMIT"
 msgstr "Μπορειτε να ανεβασετε %s βιντεο YouTube ημερησιως."
 
-msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_LIMIT_NOTE"
-msgstr "Μελη του Sudomemo Plus μπορουν να ανεβασουν %s βιντεο ημερησιως."
-
-msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_UNLIMITED_NOTE"
-msgstr "Μελη του Sudomemo Plus μπορουν να ανεβασουν οσα βιντεο επιθυμουν ημερησιως."
-
 msgid "YOUTUBE_UPLOAD_LIMIT_CURRENT"
 msgstr "Εχετε ανεβασει %s βιντεο σημερα μεχρι στιγμης."
 
 msgid "YOUTUBE_UPLOAD_LIMIT_EXCEEDED"
 msgstr "Δεν μπορειτε να ανεβασετε αλλα βιντεο μεχρι αυριο."
 
-# If the user's already uploaded it...
-msgid "FLIPNOTE_ALREADY_UPLOADED"
-msgstr "Εχετε ηδη ανεβασει αυτο το Flipnote στο YouTube."
+msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_LIMIT_NOTE"
+msgstr "Μελη του Sudomemo Plus μπορουν να ανεβασουν %s βιντεο ημερησιως."
 
-msgid "YOUTUBE_ID"
-msgstr "YouTube ID"
+msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_UNLIMITED_NOTE"
+msgstr "Μελη του Sudomemo Plus μπορουν να ανεβασουν οσα βιντεο επιθυμουν ημερησιως."
 
-msgid "BTN_UPLOAD_AGAIN"
-msgstr "Ανεβαστε Ξανα"
+msgid "YOUTUBE_VISIBILITY"
+msgstr "Ορατοτητα"
 
-msgid "YOUTUBE_STATUS_PAUSED_GLOBAL_QUOTA"
-msgstr "Το quota χρησης μας εχει ξεπεραστει, επομενως ενδεχεται να υπαρχουν μεγαλες καθυστερησεις στην δημοσιευση."
+msgid "YOUTUBE_VISIBILITY_PRIVATE"
+msgstr "Ιδιωτικο"
+
+msgid "YOUTUBE_VISIBILITY_PUBLIC"
+msgstr "Δημοσιο"
+
+msgid "YOUTUBE_VISIBILITY_UNLISTED"
+msgstr "Unlisted"

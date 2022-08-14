@@ -3,29 +3,29 @@ msgstr ""
 "Language: cy_GB\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "UPPERTITLE"
-msgstr "Categoriau"
-
 msgid "ART"
 msgstr "Celf"
-
-msgid "GENRES"
-msgstr "Genres"
-
-msgid "TOPICS"
-msgstr "Pynciau"
-
-msgid "ROLEPLAYS"
-msgstr "Chwarae rôl"
 
 msgid "FANDOMS"
 msgstr "Fandomau"
 
-msgid "RESOURCES"
-msgstr "Adnoddau"
+msgid "GENRES"
+msgstr "Genres"
 
 msgid "PERSONAL"
 msgstr "Personol"
+
+msgid "RESOURCES"
+msgstr "Adnoddau"
+
+msgid "ROLEPLAYS"
+msgstr "Chwarae rôl"
+
+msgid "TOPICS"
+msgstr "Pynciau"
+
+msgid "UPPERTITLE"
+msgstr "Categoriau"
 
 msgid "WEEKLY_TOPICS"
 msgstr "Pynciau Wythnosol"

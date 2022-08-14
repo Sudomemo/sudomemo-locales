@@ -6,17 +6,17 @@ msgstr ""
 msgid "CHANGE_LANGUAGE"
 msgstr "fiddle lango!!"
 
+msgid "INVALID_LOCALE"
+msgstr "Sorry, but that language is not available."
+
 msgid "LANGUAGE_UPDATED_FORMAT"
 msgstr "oohh heyyy nice to see :)"
+
+msgid "NOT_LOGGED_IN"
+msgstr "pls log in to change ur lango..."
 
 msgid "POTENTIAL_CONTRIBUTOR_NOTE"
 msgstr "see something say the wrong thing? we need YOU! just...go here and stuff: "
 
 msgid "RETURN_TO_CREATORS_ROOM"
 msgstr "go 2 creator room ^^"
-
-msgid "NOT_LOGGED_IN"
-msgstr "pls log in to change ur lango..."
-
-msgid "INVALID_LOCALE"
-msgstr "Sorry, but that language is not available."

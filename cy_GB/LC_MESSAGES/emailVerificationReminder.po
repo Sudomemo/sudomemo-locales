@@ -6,14 +6,11 @@ msgstr ""
 msgid "EMAIL_SUBJECT"
 msgstr "[Sudomemo] Mae angen i chi ddilysu eich cyfeiriad e-bost"
 
-msgid "VERIFICATION_HEADER"
-msgstr "Sudomemo - Dilysu E-bost"
+msgid "EMAIL_VERIFICATION_REMOVE_ME"
+msgstr "Remove me, you have the wrong email address"
 
 msgid "TEXT_HELLO_FORMAT"
 msgstr "Helo, %s!"
-
-msgid "TEXT_NEED_TO_VERIFY_EMAIL"
-msgstr "Mae hwn yn eich atgoffa bod angen i chi ddilysu eich cyfeiriad e-bost ar Sudomemo."
 
 msgid "TEXT_LOGIN_WITH_DSI_TO_VERIFY"
 msgstr "Gallwch anfon e-bost gwirio newydd atoch drwy fewngofnodi i Sudomemo gyda'ch System Nintendo DSi."
@@ -21,5 +18,8 @@ msgstr "Gallwch anfon e-bost gwirio newydd atoch drwy fewngofnodi i Sudomemo gyd
 msgid "TEXT_NEED_HELP_CONNECTION_INFO_LINK_FORMAT"
 msgstr "Angen help i Mewngofnodi â Sudomemo? Gellir dod o hyd i'r canllaw gosod yma: %s"
 
-msgid "EMAIL_VERIFICATION_REMOVE_ME"
-msgstr "Remove me, you have the wrong email address"
+msgid "TEXT_NEED_TO_VERIFY_EMAIL"
+msgstr "Mae hwn yn eich atgoffa bod angen i chi ddilysu eich cyfeiriad e-bost ar Sudomemo."
+
+msgid "VERIFICATION_HEADER"
+msgstr "Sudomemo - Dilysu E-bost"

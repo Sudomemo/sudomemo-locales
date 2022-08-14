@@ -3,14 +3,23 @@ msgstr ""
 "Language: el_GR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "NO_COMMENTS_YET"
-msgstr "Δεν εχουν σταλει μηνυματα εδω."
+msgid "CHAT_REPLY_FAILED"
+msgstr "Η απαντηση απετυχε. Παρακαλω δοκιμαστε ξανα σε λιγακι."
+
+msgid "COMMENT_FAILED_USER_BANNED"
+msgstr "Εχετε περιοριστει απο την αλληλεπιδραση με το Sudomemo."
+
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "Παρακαλω επιβεβαιωστε το email σας πριν να δημοσιευσετε."
+
+msgid "DUPLICATE_COMMENT_FAILED"
+msgstr "Αυτο το σχολιο εχει ηδη δημοσιευθει στο Sudomemo."
+
+msgid "FLIPNOTE_DATA_CORRUPTED"
+msgstr "Τα δεδομενα του Flipnote ειναι κατεστραμμενα. Παρακαλω δοκιμαστε ξανα σε λιγακι."
 
 msgid "HEADER_COMMENTS"
 msgstr "Σχολια"
-
-msgid "PAGE_FORMAT"
-msgstr "Σελιδα %s"
 
 msgid "HEADER_NEXT"
 msgstr "Επομενο"
@@ -24,26 +33,17 @@ msgstr "Ανανεωση"
 msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
 msgstr "Πρεπει να ειστε συνδεδεμενοι για να ανεβασετε ενα μηνυμα τσατ."
 
-msgid "CHAT_REPLY_FAILED"
-msgstr "Η απαντηση απετυχε. Παρακαλω δοκιμαστε ξανα σε λιγακι."
+msgid "MODERATOR"
+msgstr "Συντονιστης"
 
 msgid "NO_BLANK_MESSAGES_ALLOWED"
 msgstr "Δεν μπορειτε να στειλετε ενα κενο μηνυμα τσατ."
 
-msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "Τα δεδομενα του Flipnote ειναι κατεστραμμενα. Παρακαλω δοκιμαστε ξανα σε λιγακι."
-
 msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
 msgstr "Εχετε τεθει σε σιγαση. Δεν μπορειτε να μιλησετε."
 
-msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "Αυτο το σχολιο εχει ηδη δημοσιευθει στο Sudomemo."
+msgid "NO_COMMENTS_YET"
+msgstr "Δεν εχουν σταλει μηνυματα εδω."
 
-msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "Εχετε περιοριστει απο την αλληλεπιδραση με το Sudomemo."
-
-msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Παρακαλω επιβεβαιωστε το email σας πριν να δημοσιευσετε."
-
-msgid "MODERATOR"
-msgstr "Συντονιστης"
+msgid "PAGE_FORMAT"
+msgstr "Σελιδα %s"

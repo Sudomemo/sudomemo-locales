@@ -3,29 +3,29 @@ msgstr ""
 "Language: pl_PL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "UPPERTITLE"
-msgstr "Kategorie"
-
 msgid "ART"
 msgstr "Sztuka"
-
-msgid "GENRES"
-msgstr "Rodzaje"
-
-msgid "TOPICS"
-msgstr "Tematy"
-
-msgid "ROLEPLAYS"
-msgstr "Roleplay"
 
 msgid "FANDOMS"
 msgstr "Fandom"
 
-msgid "RESOURCES"
-msgstr "Zasoby"
+msgid "GENRES"
+msgstr "Rodzaje"
 
 msgid "PERSONAL"
 msgstr "Osobiste"
+
+msgid "RESOURCES"
+msgstr "Zasoby"
+
+msgid "ROLEPLAYS"
+msgstr "Roleplay"
+
+msgid "TOPICS"
+msgstr "Tematy"
+
+msgid "UPPERTITLE"
+msgstr "Kategorie"
 
 msgid "WEEKLY_TOPICS"
 msgstr "Tematy Tygodnia"

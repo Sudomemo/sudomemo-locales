@@ -3,6 +3,9 @@ msgstr ""
 "Language: fr_FR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "CATEGORY"
+msgstr "Catégorie"
+
 msgid "CHANNEL_ID"
 msgstr "ID de la chaîne"
 
@@ -41,6 +44,3 @@ msgstr "Vous ne pouvez pas poster une Flipnote vierge."
 
 msgid "NO_POSTS_WHILE_MUTED"
 msgstr "Vous ne pouvez pas poster tant que vous êtes muet."
-
-msgid "CATEGORY"
-msgstr "Catégorie"

@@ -3,43 +3,43 @@ msgstr ""
 "Language: sv_SE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "HEADER_SONG_DETAILS"
-msgstr "Låtdetaljer"
-
-# Song Name
-msgid "TITLE"
-msgstr "Titel"
-
 # Song Band/Artist
 msgid "ARTIST"
 msgstr "Artist"
 
-# Year song was published
-msgid "RELEASE_YEAR"
-msgstr "Släpptes"
-
-msgid "GENRE"
-msgstr "Genre"
+msgid "BROWSE"
+msgstr "Bläddra"
 
 # How many Flipnotes are using this song?
 msgid "FLIPNOTE_COUNT"
 msgstr "Flipnotes"
 
-msgid "BROWSE"
-msgstr "Bläddra"
+msgid "GENRE"
+msgstr "Genre"
 
-msgid "SONG_ID"
-msgstr "LåtID"
-
-msgid "LINK_YOUTUBE_SPOTIFY"
-msgstr "YouTube och Spotify länkar är tillgängliga:"
-
-msgid "LINK_YOUTUBE"
-msgstr "En YouTube länk är tillgänglig:"
-
-msgid "LINK_SPOTIFY"
-msgstr "En Spotify länk är tillgänglig:"
+msgid "HEADER_SONG_DETAILS"
+msgstr "Låtdetaljer"
 
 # Creator instructions
 msgid "IF_SONG_INCORRECT"
 msgstr "Om en låt visas felaktigt på din Flipnote kan du ändra det i Sudomemo Threatre. Lär dig mer här: https://flipnot.es/musicmatch"
+
+msgid "LINK_SPOTIFY"
+msgstr "En Spotify länk är tillgänglig:"
+
+msgid "LINK_YOUTUBE"
+msgstr "En YouTube länk är tillgänglig:"
+
+msgid "LINK_YOUTUBE_SPOTIFY"
+msgstr "YouTube och Spotify länkar är tillgängliga:"
+
+# Year song was published
+msgid "RELEASE_YEAR"
+msgstr "Släpptes"
+
+msgid "SONG_ID"
+msgstr "LåtID"
+
+# Song Name
+msgid "TITLE"
+msgstr "Titel"

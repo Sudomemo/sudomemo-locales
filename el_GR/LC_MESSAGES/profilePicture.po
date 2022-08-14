@@ -3,17 +3,20 @@ msgstr ""
 "Language: el_GR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "SET_PROFILE_PICTURE"
-msgstr "Βαλτε  εικονα  προφιλ"
-
-msgid "PROMPT_CHANGE_YOUR_PROFILE_IMAGE"
-msgstr "Αλλαγη  εικονας  προφιλ;"
+msgid "CANCEL"
+msgstr "Ακυρωση"
 
 msgid "CONTINUE_SET_AS_PROFILE_PICTURE"
 msgstr "Επιβεβαιωση"
 
+msgid "CREATORS_ROOM"
+msgstr "Δωματιο  Χρηστη"
+
 msgid "CURRENT"
 msgstr "Τρεχουσα"
+
+msgid "LOGIN_REQUIRED_TO_CHANGE"
+msgstr "Πρεπει  να  ειστε  συνδεδεμενοι  για  να  αλλαξετε  την  εικονα  προφιλ  σας."
 
 msgid "NEW"
 msgstr "Νεα"
@@ -21,14 +24,11 @@ msgstr "Νεα"
 msgid "PROFILE_PICTURE_SET"
 msgstr "Η  εικονα  προφιλ  σας  τεθηκε  με  επιτυχια!"
 
+msgid "PROMPT_CHANGE_YOUR_PROFILE_IMAGE"
+msgstr "Αλλαγη  εικονας  προφιλ;"
+
 msgid "RETURN_TO_FLIPNOTE"
 msgstr "Επιστροφη  στο Flipnote"
 
-msgid "CREATORS_ROOM"
-msgstr "Δωματιο  Χρηστη"
-
-msgid "CANCEL"
-msgstr "Ακυρωση"
-
-msgid "LOGIN_REQUIRED_TO_CHANGE"
-msgstr "Πρεπει  να  ειστε  συνδεδεμενοι  για  να  αλλαξετε  την  εικονα  προφιλ  σας."
+msgid "SET_PROFILE_PICTURE"
+msgstr "Βαλτε  εικονα  προφιλ"

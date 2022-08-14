@@ -3,8 +3,8 @@ msgstr ""
 "Language: nl_NL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "PREV"
-msgstr "Vorige"
+msgid "HEADER_NEWS"
+msgstr "Nieuws"
 
 msgid "NEXT"
 msgstr "Volgende"
@@ -12,5 +12,5 @@ msgstr "Volgende"
 msgid "PAGE_FORMAT"
 msgstr "Pagina %d"
 
-msgid "HEADER_NEWS"
-msgstr "Nieuws"
+msgid "PREV"
+msgstr "Vorige"

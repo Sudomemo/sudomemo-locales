@@ -3,44 +3,44 @@ msgstr ""
 "Language: de_DE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "CHANNEL_NAME"
-msgstr "Kanalname"
-
-msgid "CHANNEL_INFORMATION"
-msgstr "Kanalinfo"
-
-msgid "FLIPNOTES"
-msgstr "Flipnotes"
+msgid "CATEGORY"
+msgstr "Kategorie"
 
 msgid "CHANNEL_ID"
 msgstr "Kanal-ID"
 
-msgid "LOGIN_REQUIRED_TO_POST"
-msgstr "Du musst angemeldet sein, um ein Flipnote hochzuladen."
+msgid "CHANNEL_INFORMATION"
+msgstr "Kanalinfo"
+
+msgid "CHANNEL_NAME"
+msgstr "Kanalname"
 
 msgid "CHANNEL_NOT_SPECIFIED"
 msgstr "Du musst einen Kanal auswählen."
 
-msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
-msgstr "Dein Flipnote konnte nicht hochgeladen werden, da dein Konto von Sudomemo suspendiert wurde."
-
-msgid "FLIPNOTE_POST_FAILED"
-msgstr "Dein Flipnote konnte nicht hochgeladen werden! Versuche es später erneut."
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "Bitte bestätige deine Email-Adresse vor dem Hochladen."
 
 msgid "DUPLICATE_FLIPNOTE_FAILED"
 msgstr "Dieses Flipnote existiert schon auf Sudomemo! Bearbeite es, und versuche es später erneut."
 
+msgid "FLIPNOTES"
+msgstr "Flipnotes"
+
 msgid "FLIPNOTE_DATA_CORRUPTED"
 msgstr "Die Flipnote-Datei ist beschädigt! Versuche es später erneut."
+
+msgid "FLIPNOTE_POST_FAILED"
+msgstr "Dein Flipnote konnte nicht hochgeladen werden! Versuche es später erneut."
+
+msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
+msgstr "Dein Flipnote konnte nicht hochgeladen werden, da dein Konto von Sudomemo suspendiert wurde."
+
+msgid "LOGIN_REQUIRED_TO_POST"
+msgstr "Du musst angemeldet sein, um ein Flipnote hochzuladen."
 
 msgid "NO_BLANK_FLIPNOTES_ALLOWED"
 msgstr "Du kannst keine leeren Flipnotes posten."
 
-msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Bitte bestätige deine Email-Adresse vor dem Hochladen."
-
 msgid "NO_POSTS_WHILE_MUTED"
 msgstr "Du kannst nichts hochladen, solange du stummgeschaltet bist."
-
-msgid "CATEGORY"
-msgstr "Kategorie"

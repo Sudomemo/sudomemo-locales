@@ -3,34 +3,8 @@ msgstr ""
 "Language: it_IT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-# Content Removed - sent to user when a piece of their content has been restored
-msgid "NOTICE"
-msgstr "Avviso"
-
-# # Intro
-msgid "USER_CONTENT_RESTORED"
-msgstr "Un contenuto che hai postato, che è stato precedentemente rimosso, è stato ripristinato dopo una revisione."
-
-# # Content types
-msgid "CONTENT_TYPE_flipnote"
-msgstr "Flipnote"
-
-msgid "CONTENT_TYPE_comment"
-msgstr "Commento"
-
-msgid "CONTENT_TYPE_chat_message"
-msgstr "Messaggio chat"
-
-# ## We plan on adding user-created themes.
-msgid "CONTENT_TYPE_room_theme"
-msgstr "Tema Stanza Creatore"
-
-msgid "CONTENT_TYPE_profile_bio"
-msgstr "Biografia Profilo"
-
-# ## Catch-all
-msgid "CONTENT_TYPE_content"
-msgstr "Altro contenuto"
+msgid "CONTENT_ID"
+msgstr "ID Contenuto:"
 
 # # continued message...
 msgid "CONTENT_RESTORED_CONTINUED"
@@ -39,5 +13,31 @@ msgstr "Il contenuto è stato ripristinato come pubblico, e non c'è nient'altro
 msgid "CONTENT_TYPE"
 msgstr "Tipo del contenuto:"
 
-msgid "CONTENT_ID"
-msgstr "ID Contenuto:"
+msgid "CONTENT_TYPE_chat_message"
+msgstr "Messaggio chat"
+
+msgid "CONTENT_TYPE_comment"
+msgstr "Commento"
+
+# ## Catch-all
+msgid "CONTENT_TYPE_content"
+msgstr "Altro contenuto"
+
+# # Content types
+msgid "CONTENT_TYPE_flipnote"
+msgstr "Flipnote"
+
+msgid "CONTENT_TYPE_profile_bio"
+msgstr "Biografia Profilo"
+
+# ## We plan on adding user-created themes.
+msgid "CONTENT_TYPE_room_theme"
+msgstr "Tema Stanza Creatore"
+
+# Content Removed - sent to user when a piece of their content has been restored
+msgid "NOTICE"
+msgstr "Avviso"
+
+# # Intro
+msgid "USER_CONTENT_RESTORED"
+msgstr "Un contenuto che hai postato, che è stato precedentemente rimosso, è stato ripristinato dopo una revisione."

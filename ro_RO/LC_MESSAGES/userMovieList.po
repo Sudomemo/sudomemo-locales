@@ -3,14 +3,14 @@ msgstr ""
 "Language: ro_RO\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "UPPERTITLE"
-msgstr "Navigati"
+msgid "FAVORITES_FEED_FORMAT"
+msgstr "Fluxul de Favorite al lui %s"
+
+msgid "FLIPNOTES_BY_FORMAT"
+msgstr "Flipnote-uri de %s"
 
 msgid "NEXT"
 msgstr "Pagina urmatoare"
-
-msgid "PREV"
-msgstr "Pagina anterioara"
 
 msgid "PAGE"
 msgstr "Pagina"
@@ -18,11 +18,11 @@ msgstr "Pagina"
 msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d din %d"
 
-msgid "FLIPNOTES_BY_FORMAT"
-msgstr "Flipnote-uri de %s"
+msgid "PREV"
+msgstr "Pagina anterioara"
 
 msgid "STARRED_BY_FORMAT"
 msgstr "Stelat de %s"
 
-msgid "FAVORITES_FEED_FORMAT"
-msgstr "Fluxul de Favorite al lui %s"
+msgid "UPPERTITLE"
+msgstr "Navigati"

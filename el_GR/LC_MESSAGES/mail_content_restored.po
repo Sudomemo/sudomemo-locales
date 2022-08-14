@@ -3,34 +3,8 @@ msgstr ""
 "Language: el_GR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-# Content Removed - sent to user when a piece of their content has been restored
-msgid "NOTICE"
-msgstr "Ειδοποιηση"
-
-# # Intro
-msgid "USER_CONTENT_RESTORED"
-msgstr "Κατι  που  ανεβασατε  και  αφεραιθηκε, μμετα  απο  επανεξεταση,  επανηλθε."
-
-# # Content types
-msgid "CONTENT_TYPE_flipnote"
-msgstr "Flipnote"
-
-msgid "CONTENT_TYPE_comment"
-msgstr "Σχολιο"
-
-msgid "CONTENT_TYPE_chat_message"
-msgstr "Μηνυμα Τσατ"
-
-# ## We plan on adding user-created themes.
-msgid "CONTENT_TYPE_room_theme"
-msgstr "Θεμα  Δωματιου  Χρηστη"
-
-msgid "CONTENT_TYPE_profile_bio"
-msgstr "Κειμενο  Προφιλ"
-
-# ## Catch-all
-msgid "CONTENT_TYPE_content"
-msgstr "Αλλο  περιεχομενο"
+msgid "CONTENT_ID"
+msgstr "ID Περιεχομενου:"
 
 # # continued message...
 msgid "CONTENT_RESTORED_CONTINUED"
@@ -39,5 +13,31 @@ msgstr "Το  περιεχομενο  επανηλθε  δημοσια, δεν  
 msgid "CONTENT_TYPE"
 msgstr "Ειδος  περιεχομενου:"
 
-msgid "CONTENT_ID"
-msgstr "ID Περιεχομενου:"
+msgid "CONTENT_TYPE_chat_message"
+msgstr "Μηνυμα Τσατ"
+
+msgid "CONTENT_TYPE_comment"
+msgstr "Σχολιο"
+
+# ## Catch-all
+msgid "CONTENT_TYPE_content"
+msgstr "Αλλο  περιεχομενο"
+
+# # Content types
+msgid "CONTENT_TYPE_flipnote"
+msgstr "Flipnote"
+
+msgid "CONTENT_TYPE_profile_bio"
+msgstr "Κειμενο  Προφιλ"
+
+# ## We plan on adding user-created themes.
+msgid "CONTENT_TYPE_room_theme"
+msgstr "Θεμα  Δωματιου  Χρηστη"
+
+# Content Removed - sent to user when a piece of their content has been restored
+msgid "NOTICE"
+msgstr "Ειδοποιηση"
+
+# # Intro
+msgid "USER_CONTENT_RESTORED"
+msgstr "Κατι  που  ανεβασατε  και  αφεραιθηκε, μμετα  απο  επανεξεταση,  επανηλθε."

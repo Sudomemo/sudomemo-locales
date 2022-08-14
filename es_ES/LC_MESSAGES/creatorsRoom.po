@@ -3,59 +3,8 @@ msgstr ""
 "Language: es_ES\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "SEE_MORE"
-msgstr "Ver más..."
-
-msgid "STARRED_FLIPNOTES"
-msgstr "Flipnotes Calificadas"
-
-msgid "FAVORITE_USERS"
-msgstr "Usuarios Favoritos"
-
-msgid "FAVORITES_FEED"
-msgstr "Flipnotes de tus Usuarios Favoritos"
-
-msgid "FAVORITE_CHANNELS"
-msgstr "Canales Favoritos"
-
-msgid "USER_DOWNLOADCOUNT"
-msgstr "Descargas"
-
-msgid "USER_VIEWCOUNT"
-msgstr "Vistas"
-
-msgid "USER_THEME"
-msgstr "Fondo"
-
-msgid "THEME_SHOP"
-msgstr "Tienda de Fondos"
-
-msgid "POSTED_COMMENTS"
-msgstr "Comentarios publicados"
-
-msgid "POSTED_CHATCOMMENTS"
-msgstr "Mensajes de salas de chat"
-
-msgid "FEATURE_USABILITY"
-msgstr "Usabilidad de las funciones"
-
-msgid "USABLE"
-msgstr "Usable"
-
-msgid "NOT_USABLE"
-msgstr "No Utilizable"
-
-msgid "SUDOMEMO_THEATRE_URL"
-msgstr "Link de Sudomemo Theatre"
-
-msgid "FLIPNOTE_STUDIO_ID"
-msgstr "ID de Flipnote Studio"
-
-msgid "SETTINGS"
-msgstr "Configuración"
-
-msgid "ADMIN_ACCT_GOOD_STANDING"
-msgstr "En buen estado"
+msgid "101_CHARACTER_LIMIT_BIO"
+msgstr "Tu biografía está limitada a 101 caractéres."
 
 msgid "ADMIN_ACCT_BANNED"
 msgstr "Baneado"
@@ -63,20 +12,26 @@ msgstr "Baneado"
 msgid "ADMIN_ACCT_BLOCKED"
 msgstr "Bloqueado"
 
+msgid "ADMIN_ACCT_GOOD_STANDING"
+msgstr "En buen estado"
+
 msgid "ADMIN_ACCT_MUTED"
 msgstr "Silenciado"
 
-msgid "ADMIN_USER_DETAILS"
-msgstr "Detalles de usuario"
+msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
+msgstr "Acciones de administrador"
 
 msgid "ADMIN_LAST_SEEN"
 msgstr "Última vez visto"
 
+msgid "ADMIN_USER_DETAILS"
+msgstr "Detalles de usuario"
+
 msgid "ADMIN_USER_STATUS"
 msgstr "Estado de Usuario"
 
-msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
-msgstr "Acciones de administrador"
+msgid "BLOCKED_USERS"
+msgstr "Usuarios bloqueados"
 
 msgid "BLOCK_COMMENTS_HEADER"
 msgstr "Bloquear comentarios"
@@ -84,11 +39,53 @@ msgstr "Bloquear comentarios"
 msgid "BLOCK_COMMENTS_LINK"
 msgstr "Bloquear"
 
-msgid "USABILITY_USABLE"
-msgstr "Usable"
+msgid "CAN_DRAW_TICKET_SUBTEXT"
+msgstr "¡Puedes sacar un ticket normal! Puede ganar un premio."
 
-msgid "USABILITY_NOT_USABLE"
-msgstr "No Usable"
+msgid "CHANGE_ROOM_THEME_LINK"
+msgstr "[Cambiar fondo]"
+
+msgid "CREATORS_ROOM"
+msgstr "Sala del Creador"
+
+msgid "CURRENT_BIO"
+msgstr "Biografía actual:"
+
+msgid "DRAW_REGULAR_TICKET"
+msgstr "Obtener Ticket"
+
+msgid "ENTER_BIO"
+msgstr "Ingresar biografía..."
+
+msgid "EXAMPLE"
+msgstr "Ejemplo"
+
+msgid "FANS"
+msgstr "Aficionados"
+
+msgid "FAN_COUNT_FORMAT"
+msgstr "Aficionados: %s"
+
+msgid "FAVORITES_FEED"
+msgstr "Flipnotes de tus Usuarios Favoritos"
+
+msgid "FAVORITE_CHANNELS"
+msgstr "Canales Favoritos"
+
+msgid "FAVORITE_USERS"
+msgstr "Usuarios Favoritos"
+
+msgid "FEATURE_USABILITY"
+msgstr "Usabilidad de las funciones"
+
+msgid "FLIPNOTE_STUDIO_ID"
+msgstr "ID de Flipnote Studio"
+
+msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
+msgstr "No puedes seguir a más de %d usuarios."
+
+msgid "HEADER_EDIT_BIOGRAPHY"
+msgstr "Modificar biografía"
 
 msgid "HEADER_FOLLOWERS"
 msgstr "Seguidores"
@@ -96,122 +93,29 @@ msgstr "Seguidores"
 msgid "HEADER_FOLLOWING"
 msgstr "Siguiendo"
 
-msgid "PREVIOUS"
-msgstr "Anterior"
-
-msgid "NEXT"
-msgstr "Siguiente"
-
-msgid "CHANGE_ROOM_THEME_LINK"
-msgstr "[Cambiar fondo]"
-
-msgid "SELECT_THEME"
-msgstr "Seleccionar fondo"
-
-msgid "FANS"
-msgstr "Aficionados"
-
-msgid "EXAMPLE"
-msgstr "Ejemplo"
-
-msgid "THEMETEST_SET_THEME"
-msgstr "Establecer fondo"
-
-msgid "THEMETEST_NOTICE"
-msgstr "Noticia"
-
-msgid "THEMETEST_OK"
-msgstr "Okay"
-
-msgid "THEMETEST_ERROR"
-msgstr "Error"
-
-msgid "THEMETEST_NOTICE_2"
-msgstr "Noticia #2"
-
-msgid "THEMETEST_ACTIVE_TAB"
-msgstr "Pestaña activa"
-
-msgid "THEMETEST_INACTIVE_TAB"
-msgstr "Pestaña inactiva"
-
-msgid "PREVIEW"
-msgstr "Vista Previa"
-
-msgid "CREATORS_ROOM"
-msgstr "Sala del Creador"
-
-msgid "THEME_ERROR_THEME_NOT_OWNED"
-msgstr "¡Caracoles! No tienes ese fondo."
-
-msgid "THEME_SUCCESSFULLY_SET"
-msgstr "¡Fondo exitosamente establecido!"
-
-msgid "BLOCKED_USERS"
-msgstr "Usuarios bloqueados"
-
-msgid "VIEW"
-msgstr "Ver"
-
-msgid "FAN_COUNT_FORMAT"
-msgstr "Aficionados: %s"
-
 msgid "HEADER_LANGUAGE"
 msgstr "Idioma"
 
 msgid "HEADER_MAIL_SETTINGS"
 msgstr "Ajustes de correo"
 
-msgid "HEADER_EDIT_BIOGRAPHY"
-msgstr "Modificar biografía"
-
-msgid "SET_BIO_INSTRUCTIONS"
-msgstr "Introduce una biografía para tu perfil debajo. Está aparecerá en Sudomemo y Sudomemo Theatre."
-
-msgid "ENTER_BIO"
-msgstr "Ingresar biografía..."
-
-msgid "101_CHARACTER_LIMIT_BIO"
-msgstr "Tu biografía está limitada a 101 caractéres."
-
-msgid "LEAVE_BLANK_TO_RESET_BIO"
-msgstr "Para borrar tu biografía, deja el formulario en blanco al momento de enviarlo."
-
-msgid "CURRENT_BIO"
-msgstr "Biografía actual:"
-
-msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
-msgstr "No puedes seguir a más de %d usuarios."
-
-msgid "RANKING"
-msgstr "Clasificación"
-
-msgid "TICKET_SECTION"
-msgstr "Tickets"
-
-msgid "DRAW_REGULAR_TICKET"
-msgstr "Obtener Ticket"
-
-msgid "CAN_DRAW_TICKET_SUBTEXT"
-msgstr "¡Puedes sacar un ticket normal! Puede ganar un premio."
+msgid "HEADER_SUPPORT_TOKEN"
+msgstr "Support Token"
 
 msgid "INVENTORY"
 msgstr "Inventario"
 
-msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
-msgstr "Podrás conseguir otro ticket en: %s hora(s) %s minuto(s)."
-
-msgid "REDEEM"
-msgstr "Canjear"
-
-msgid "SPENDABLE_STARS"
-msgstr "Tus Estrellas"
-
-msgid "SPENDABLE_STARS_HELPTEXT"
-msgstr "Estrellas para añadir a Flipnotes o para gastar en fondos"
+msgid "LEAVE_BLANK_TO_RESET_BIO"
+msgstr "Para borrar tu biografía, deja el formulario en blanco al momento de enviarlo."
 
 msgid "LOGIN_REQUIRED_ACTION"
 msgstr "Debes iniciar sesión para realizar esta acción."
+
+msgid "NEXT"
+msgstr "Siguiente"
+
+msgid "NOT_USABLE"
+msgstr "No Utilizable"
 
 msgid "PAGE"
 msgstr "Página"
@@ -219,8 +123,107 @@ msgstr "Página"
 msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d de %d"
 
-msgid "HEADER_SUPPORT_TOKEN"
-msgstr "Support Token"
+msgid "POSTED_CHATCOMMENTS"
+msgstr "Mensajes de salas de chat"
+
+msgid "POSTED_COMMENTS"
+msgstr "Comentarios publicados"
+
+msgid "PREVIEW"
+msgstr "Vista Previa"
+
+msgid "PREVIOUS"
+msgstr "Anterior"
+
+msgid "RANKING"
+msgstr "Clasificación"
+
+msgid "REDEEM"
+msgstr "Canjear"
 
 msgid "REQUEST"
 msgstr "Request"
+
+msgid "SEE_MORE"
+msgstr "Ver más..."
+
+msgid "SELECT_THEME"
+msgstr "Seleccionar fondo"
+
+msgid "SETTINGS"
+msgstr "Configuración"
+
+msgid "SET_BIO_INSTRUCTIONS"
+msgstr "Introduce una biografía para tu perfil debajo. Está aparecerá en Sudomemo y Sudomemo Theatre."
+
+msgid "SPENDABLE_STARS"
+msgstr "Tus Estrellas"
+
+msgid "SPENDABLE_STARS_HELPTEXT"
+msgstr "Estrellas para añadir a Flipnotes o para gastar en fondos"
+
+msgid "STARRED_FLIPNOTES"
+msgstr "Flipnotes Calificadas"
+
+msgid "SUDOMEMO_THEATRE_URL"
+msgstr "Link de Sudomemo Theatre"
+
+msgid "THEMETEST_ACTIVE_TAB"
+msgstr "Pestaña activa"
+
+msgid "THEMETEST_ERROR"
+msgstr "Error"
+
+msgid "THEMETEST_INACTIVE_TAB"
+msgstr "Pestaña inactiva"
+
+msgid "THEMETEST_NOTICE"
+msgstr "Noticia"
+
+msgid "THEMETEST_NOTICE_2"
+msgstr "Noticia #2"
+
+msgid "THEMETEST_OK"
+msgstr "Okay"
+
+msgid "THEMETEST_SET_THEME"
+msgstr "Establecer fondo"
+
+msgid "THEME_ERROR_THEME_NOT_OWNED"
+msgstr "¡Caracoles! No tienes ese fondo."
+
+msgid "THEME_SHOP"
+msgstr "Tienda de Fondos"
+
+msgid "THEME_SUCCESSFULLY_SET"
+msgstr "¡Fondo exitosamente establecido!"
+
+msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
+msgstr "Podrás conseguir otro ticket en: %s hora(s) %s minuto(s)."
+
+msgid "TICKET_SECTION"
+msgstr "Tickets"
+
+msgid "USABILITY_NOT_USABLE"
+msgstr "No Usable"
+
+msgid "USABILITY_USABLE"
+msgstr "Usable"
+
+msgid "USABLE"
+msgstr "Usable"
+
+msgid "USER_DOWNLOADCOUNT"
+msgstr "Descargas"
+
+msgid "USER_THEME"
+msgstr "Fondo"
+
+msgid "USER_VIEWCOUNT"
+msgstr "Vistas"
+
+msgid "VIEW"
+msgstr "Ver"
+
+msgid "WATCH_HISTORY"
+msgstr "Watch History"

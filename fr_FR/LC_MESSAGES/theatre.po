@@ -28,6 +28,24 @@ msgstr "Photo de profil de %s"
 msgid "ALT_WEEKLY_TOPIC_BANNER"
 msgstr "Bannière annonçant le Weekly Topic"
 
+msgid "ARCHIVE"
+msgstr "Archive"
+
+msgid "ARCHIVED"
+msgstr "Archivé"
+
+msgid "ARCHIVE_FLIPNOTE"
+msgstr "Flipnote d'archive"
+
+msgid "ARCHIVE_FLIPNOTE_DESC"
+msgstr "Cette Flipnote a été publiée à l'origine sur Flipnote Hatena."
+
+msgid "ARCHIVE_PROFILE"
+msgstr "Profil d'archive"
+
+msgid "ARCHIVE_PROFILE_DESC"
+msgstr "C'est une archive d'un profil Flipnote Hatena."
+
 # Very common terms and one-word translations
 msgid "ARTIST"
 msgstr "Artiste"
@@ -54,6 +72,9 @@ msgstr "Commencer"
 
 msgid "BTN_GO_TO_SETTINGS"
 msgstr "Aller aux paramètres"
+
+msgid "BTN_JOIN_DISCORD"
+msgstr "Rejoindre Discord"
 
 msgid "BTN_SIGN_IN_WITH_GOOGLE"
 msgstr "Connexion à Google"
@@ -114,6 +135,9 @@ msgstr "Ouvert"
 msgid "COMMENTS"
 msgstr "Commentaires"
 
+msgid "CONTINUE"
+msgstr "Continue"
+
 msgid "COULD_NOT_SAVE_DETAILS"
 msgstr "Impossible de sauvegarder les détails"
 
@@ -152,6 +176,17 @@ msgstr "Votre description ira ici."
 
 msgid "DETAILS"
 msgstr "Détails"
+
+# This refers to Discord, which is a chat app.
+msgid "DISCORD"
+msgstr "Discord"
+
+msgid "DISCORD_HOW_TO_LINK"
+msgstr "Comment lier"
+
+# Connected since December 27th, 2020
+msgid "DISCORD_LINKED_ON_DATE"
+msgstr "Connecté depuis le %s"
 
 msgid "DOWNLOADS"
 msgstr "Sauvegardes"
@@ -234,9 +269,27 @@ msgstr "Flipnote"
 msgid "FLIPNOTES"
 msgstr "Flipnotes"
 
+msgid "FLIPNOTE_ARCHIVE_BUTTON_TOGGLE"
+msgstr "Afficher le lien vers le contenu Flipnote Hatena archivé depuis mon profil"
+
+msgid "FLIPNOTE_ARCHIVE_PROFILE_AVAILABLE"
+msgstr "Votre profil Flipnote Hatena est disponible grâce à notre programme d'aperçu des archives Flipnote ! Vous pouvez voir vos anciennes Flipnotes en visitant votre profil sur Sudomemo Theatre."
+
+msgid "FLIPNOTE_ARCHIVE_PROFILE_NOT_AVAILABLE"
+msgstr "Il n'y a pas de profil Flipnote Hatena archivé disponible pour ce compte."
+
+msgid "FLIPNOTE_ARCHIVE_PROFILE_SETTING_INFORMATION"
+msgstr "En étant connecté, votre lien d'archive sera toujours affiché sur votre page. Vous pouvez choisir ci-dessous de le rendre visible ou non aux autres utilisateurs."
+
+msgid "FLIPNOTE_ARCHIVE_SETTINGS"
+msgstr "Paramètres d'archive"
+
 # # Flipnote by...
 msgid "FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote de %s"
+
+msgid "FLIPNOTE_HATENA_PROFILE"
+msgstr "Profil Flipnote Hatena"
 
 msgid "FLIPNOTE_ID"
 msgstr "ID Flipnote"
@@ -268,6 +321,9 @@ msgstr "Vous suit"
 msgid "FOLLOW_BACK"
 msgstr "Suivre en retour"
 
+msgid "FORGOT_YOUR_PASSWORD"
+msgstr "Mot de passe oublié ?"
+
 # # Right sidebar
 msgid "FRONTPAGE_FLIPNOTE_SPOTLIGHT"
 msgstr "Flipnote en lumière"
@@ -289,6 +345,9 @@ msgstr "Genre"
 msgid "HATENA_ID"
 msgstr "ID Hatena"
 
+msgid "HEADER_CHANGE_PASSWORD"
+msgstr "Changer de mot de passe"
+
 # Upload page specifics
 # Upload to YouTube header
 msgid "HEADER_UPLOAD_TO_YOUTUBE"
@@ -303,11 +362,18 @@ msgstr "Tendance"
 msgid "HOT_FLIPNOTES"
 msgstr "Flipnotes tendance"
 
+# Do not translate ".sudo unlink"
+msgid "HOW_TO_UNLINK_DISCORD"
+msgstr "Pour dissocier votre compte Discord, tapez cette commande dans le salon de discussion : .sudo unlink"
+
 msgid "INFO"
 msgstr "Infos"
 
 msgid "LATEST"
 msgstr "Nouveau"
+
+msgid "LEARN_MORE"
+msgstr "En savoir plus"
 
 msgid "LINK_REQUIRED_BEFORE_UPLOAD"
 msgstr "Vous devrez lier votre chaîne YouTube avant de pouvoir envoyer votre Flipnote."
@@ -431,6 +497,30 @@ msgstr "Nintendo 3DS"
 msgid "NINTENDO_DSI"
 msgstr "Nintendo DSi"
 
+msgid "NO_EMAIL_ON_FILE"
+msgstr "Pas d'adresse email enregistrée -- contactez le support de Sudomemo"
+
+msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
+msgstr "Aucun utilisateur trouvé avec cet ID Flipnote Studio ou cet e-mail"
+
+msgid "PASSWORD_RESET_SENT"
+msgstr "Une réinitialisation de mot de passe a été envoyée à l'adresse email enregistrée."
+
+msgid "PASS_CHANGE_COMPLETE"
+msgstr "Votre mot de passe a été mis à jour."
+
+msgid "PASS_CHANGE_CONFIRM_PASSWORD"
+msgstr "Confirmer le mot de passe"
+
+msgid "PASS_CHANGE_CONTINUE_TO_LOGIN"
+msgstr "Continuer à se connecter"
+
+msgid "PASS_CHANGE_PASSWORD"
+msgstr "Changer de mot de passe"
+
+msgid "PASS_CHANGE_URL_EXPIRED"
+msgstr "L'URL que vous avez visitée a expiré."
+
 # Channel permissions: Is posting Flipnotes to a channel allowed or not?
 msgid "PERMISSIONS"
 msgstr "Permissions"
@@ -536,6 +626,9 @@ msgstr "Votre recherche correspond à trop de créateurs - essayez quelque chose
 msgid "SEARCH_SUDOMEMO"
 msgstr "Recherche Sudomemo"
 
+msgid "SEE_MORE"
+msgstr "Voir plus"
+
 msgid "SETTINGS"
 msgstr "Paramètres"
 
@@ -554,6 +647,9 @@ msgstr "Partager sur Tumblr"
 msgid "SHARE_ON_TWITTER"
 msgstr "Partager sur Twitter"
 
+msgid "SHARE_ON_WHATSAPP"
+msgstr "Partager via WhatsApp"
+
 msgid "SIGN_IN"
 msgstr "Se connecter"
 
@@ -566,6 +662,12 @@ msgstr "S'inscrire"
 # For MusicMatch
 msgid "SONG"
 msgstr "Chanson"
+
+msgid "SONGS"
+msgstr "Chansons"
+
+msgid "SONG_ARTISTS"
+msgstr "Interprètes"
 
 msgid "STARS"
 msgstr "Étoiles"
@@ -605,6 +707,9 @@ msgstr "Boutique Sudomemo : marchandise de Sudomemo, des tickets pour Sudomemo P
 msgid "SUDOMEMO_THEATRE"
 msgstr "Sudomemo Theatre"
 
+msgid "SUDOMEMO_USER"
+msgstr "Util. Sudomemo"
+
 msgid "TERMS_OF_USE"
 msgstr "Conditions d'utilisation"
 
@@ -639,8 +744,23 @@ msgstr "Options d'envoi"
 msgid "UPLOAD_STATUS"
 msgstr "Statut de l'envoi"
 
+msgid "USERS"
+msgstr "Utilisateurs"
+
+msgid "USERS_FLIPNOTE_FROM_FLIPNOTE_HATENA"
+msgstr "Flipnote de %s de Flipnote Hatena"
+
+msgid "USERS_PROFILE_FROM_FLIPNOTE_HATENA"
+msgstr "Profil de %s de Flipnote Hatena"
+
+msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
+msgstr "Après avoir rejoint le Discord de Sudomemo, copiez-collez ceci dans le salon de discussion."
+
 msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
 msgstr "Configurez votre chaîne YouTube liée et vos paramètres d'envoi de Flipnote par défaut."
+
+msgid "VERIFIED_USER"
+msgstr "Utilisateur verifié"
 
 msgid "VIEWPAGE_ADD_MODERATOR_COMMENT"
 msgstr "Ajouter un commentaire de modérateur"
@@ -686,6 +806,9 @@ msgstr "Dérivées"
 # Number of times something has been viewed, or played.
 msgid "VIEWS"
 msgstr "Vues"
+
+msgid "VIEW_ON_SUDOMEMO"
+msgstr "Voir sur Sudomemo"
 
 msgid "WELCOME_BOX_AFTERNOON_GREETING"
 msgstr "Bonjour"
@@ -895,126 +1018,3 @@ msgstr "Visionner maintenant :"
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "Vous éditez cette Flipnote :"
-
-msgid "VERIFIED_USER"
-msgstr "Utilisateur verifié"
-
-msgid "SHARE_ON_WHATSAPP"
-msgstr "Partager via WhatsApp"
-
-# This refers to Discord, which is a chat app.
-msgid "DISCORD"
-msgstr "Discord"
-
-msgid "DISCORD_HOW_TO_LINK"
-msgstr "Comment lier"
-
-msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
-msgstr "Après avoir rejoint le Discord de Sudomemo, copiez-collez ceci dans le salon de discussion."
-
-# Connected since December 27th, 2020
-msgid "DISCORD_LINKED_ON_DATE"
-msgstr "Connecté depuis le %s"
-
-# Do not translate ".sudo unlink"
-msgid "HOW_TO_UNLINK_DISCORD"
-msgstr "Pour dissocier votre compte Discord, tapez cette commande dans le salon de discussion : .sudo unlink"
-
-msgid "BTN_JOIN_DISCORD"
-msgstr "Rejoindre Discord"
-
-msgid "PASS_CHANGE_PASSWORD"
-msgstr "Changer de mot de passe"
-
-msgid "PASS_CHANGE_CONFIRM_PASSWORD"
-msgstr "Confirmer le mot de passe"
-
-msgid "PASS_CHANGE_COMPLETE"
-msgstr "Votre mot de passe a été mis à jour."
-
-msgid "PASS_CHANGE_CONTINUE_TO_LOGIN"
-msgstr "Continuer à se connecter"
-
-msgid "HEADER_CHANGE_PASSWORD"
-msgstr "Changer de mot de passe"
-
-msgid "PASS_CHANGE_URL_EXPIRED"
-msgstr "L'URL que vous avez visitée a expiré."
-
-msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
-msgstr "Aucun utilisateur trouvé avec cet ID Flipnote Studio ou cet e-mail"
-
-msgid "NO_EMAIL_ON_FILE"
-msgstr "Pas d'adresse email enregistrée -- contactez le support de Sudomemo"
-
-msgid "PASSWORD_RESET_SENT"
-msgstr "Une réinitialisation de mot de passe a été envoyée à l'adresse email enregistrée."
-
-msgid "FORGOT_YOUR_PASSWORD"
-msgstr "Mot de passe oublié ?"
-
-msgid "SUDOMEMO_USER"
-msgstr "Util. Sudomemo"
-
-msgid "FLIPNOTE_ARCHIVE_BUTTON_TOGGLE"
-msgstr "Afficher le lien vers le contenu Flipnote Hatena archivé depuis mon profil"
-
-msgid "FLIPNOTE_ARCHIVE_SETTINGS"
-msgstr "Paramètres d'archive"
-
-msgid "FLIPNOTE_ARCHIVE_PROFILE_AVAILABLE"
-msgstr "Votre profil Flipnote Hatena est disponible grâce à notre programme d'aperçu des archives Flipnote ! Vous pouvez voir vos anciennes Flipnotes en visitant votre profil sur Sudomemo Theatre."
-
-msgid "FLIPNOTE_ARCHIVE_PROFILE_SETTING_INFORMATION"
-msgstr "En étant connecté, votre lien d'archive sera toujours affiché sur votre page. Vous pouvez choisir ci-dessous de le rendre visible ou non aux autres utilisateurs."
-
-msgid "FLIPNOTE_ARCHIVE_PROFILE_NOT_AVAILABLE"
-msgstr "Il n'y a pas de profil Flipnote Hatena archivé disponible pour ce compte."
-
-msgid "FLIPNOTE_HATENA_PROFILE"
-msgstr "Profil Flipnote Hatena"
-
-msgid "ARCHIVE_PROFILE"
-msgstr "Profil d'archive"
-
-msgid "ARCHIVE_PROFILE_DESC"
-msgstr "C'est une archive d'un profil Flipnote Hatena."
-
-msgid "ARCHIVE_FLIPNOTE"
-msgstr "Flipnote d'archive"
-
-msgid "ARCHIVE_FLIPNOTE_DESC"
-msgstr "Cette Flipnote a été publiée à l'origine sur Flipnote Hatena."
-
-msgid "VIEW_ON_SUDOMEMO"
-msgstr "Voir sur Sudomemo"
-
-msgid "ARCHIVE"
-msgstr "Archive"
-
-msgid "ARCHIVED"
-msgstr "Archivé"
-
-msgid "USERS_FLIPNOTE_FROM_FLIPNOTE_HATENA"
-msgstr "Flipnote de %s de Flipnote Hatena"
-
-msgid "USERS_PROFILE_FROM_FLIPNOTE_HATENA"
-msgstr "Profil de %s de Flipnote Hatena"
-
-msgid "LEARN_MORE"
-msgstr "En savoir plus"
-
-msgid "CONTINUE"
-msgstr "Continue"
-
-msgid "SEE_MORE"
-msgstr "Voir plus"
-
-msgid "USERS"
-msgstr "Utilisateurs"
-
-msgid "SONGS"
-msgstr "Chansons"
-
-msgid "SONG_ARTISTS"
-msgstr "Interprètes"

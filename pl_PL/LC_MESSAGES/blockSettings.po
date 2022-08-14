@@ -3,62 +3,62 @@ msgstr ""
 "Language: pl_PL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "LOGIN_REQUIRED_TO_MANAGE_BLOCKS"
-msgstr "Musisz się zalogować by zarządzać blokadami."
-
-msgid "NO_USERS_BLOCKED"
-msgstr "Nie masz zablokowanych użytkowników."
-
 msgid "BLOCKED_USERS"
 msgstr "Zablokowani użytkownicy"
 
 msgid "BLOCK_USER"
 msgstr "Blokuj użytkownika"
 
-msgid "COMMENT_BLOCK_IS_MUTUAL"
-msgstr "Po zablokowaniu tego użytkownika, nie będziecie mogli komentować na wzajemnych Flipnotes."
-
-msgid "USER_HAS_BEEN_BLOCKED"
-msgstr "Ten użytkownik został zablokowany."
-
-msgid "IF_YOU_WISH_TO_UNBLOCK"
-msgstr "Jeżeli chcesz go odblokować, możesz to zrobić wchodząc do twojego Pokoju Twórcy i otwierając menu Zablokowani użytkownicy."
-
-msgid "CONFIRM_BLOCK"
-msgstr "Potwierdź blokadę"
-
-msgid "USER_ALREADY_BLOCKED"
-msgstr "Zablokowałeś już tego użytkownika. Możesz go odblokować przez menu ustawień w twoim Pokoju Twórcy, ale wtedy będziesz musiał czekać 24 godziny zanim będziesz mógł zablokować go ponownie."
-
-msgid "ONE_DAY_WAIT_BEFORE_REBLOCK_FORMAT"
-msgstr "Niedawno odblokowałeś tego użytkownika. Możesz go odblokować za %s"
-
-msgid "UNBLOCK"
-msgstr "Odblokuj"
-
-msgid "LOGIN_REQUIRED"
-msgstr "Musisz się zalogować by wykonać tę operację."
-
-msgid "TAP_BACK_TO_RETURN"
-msgstr "Wciśnij Wróć by powrócić do twojego Pokoju Twórcy."
-
-msgid "UNBLOCK_USER"
-msgstr "Odblokuj użytkownika"
-
 msgid "CANNOT_UNBLOCK_NONBLOCKED_USER"
 msgstr "Nie możesz odblokować tego użytkownika, ponieważ jeszcze go nie zablokowałeś."
-
-msgid "USER_HAS_BEEN_UNBLOCKED"
-msgstr "Odblokowałeś tego użytkownika."
 
 msgid "COMMENTING_ENABLED_AFTER_UNBLOCK"
 msgstr "Po zablokowaniu tego użytkownika, będą znowu mogli komentować twoje Flipnotes, chyba że on również cię zablokował."
 
-msgid "UNBLOCK_WARNING_ONE_DAY_THRESHOLD"
-msgstr "Jeżeli go odblokujesz, będziesz musiał czekać 24 godziny zanim możliwe będzie jego ponowne zablokowanie."
+msgid "COMMENT_BLOCK_IS_MUTUAL"
+msgstr "Po zablokowaniu tego użytkownika, nie będziecie mogli komentować na wzajemnych Flipnotes."
+
+msgid "CONFIRM_BLOCK"
+msgstr "Potwierdź blokadę"
 
 msgid "CONFIRM_UNBLOCK"
 msgstr "Potwierdź odblokowanie"
 
+msgid "IF_YOU_WISH_TO_UNBLOCK"
+msgstr "Jeżeli chcesz go odblokować, możesz to zrobić wchodząc do twojego Pokoju Twórcy i otwierając menu Zablokowani użytkownicy."
+
+msgid "LOGIN_REQUIRED"
+msgstr "Musisz się zalogować by wykonać tę operację."
+
+msgid "LOGIN_REQUIRED_TO_MANAGE_BLOCKS"
+msgstr "Musisz się zalogować by zarządzać blokadami."
+
+msgid "NO_USERS_BLOCKED"
+msgstr "Nie masz zablokowanych użytkowników."
+
+msgid "ONE_DAY_WAIT_BEFORE_REBLOCK_FORMAT"
+msgstr "Niedawno odblokowałeś tego użytkownika. Możesz go odblokować za %s"
+
 msgid "RECENTLY_UNBLOCKED_ONE_DAY_THRESHOLD"
 msgstr "Niedawno odblokowałeś tego użytkownika. Musisz poczekać 24 godziny zanim możliwe będzie jego ponowne zablokowanie."
+
+msgid "TAP_BACK_TO_RETURN"
+msgstr "Wciśnij Wróć by powrócić do twojego Pokoju Twórcy."
+
+msgid "UNBLOCK"
+msgstr "Odblokuj"
+
+msgid "UNBLOCK_USER"
+msgstr "Odblokuj użytkownika"
+
+msgid "UNBLOCK_WARNING_ONE_DAY_THRESHOLD"
+msgstr "Jeżeli go odblokujesz, będziesz musiał czekać 24 godziny zanim możliwe będzie jego ponowne zablokowanie."
+
+msgid "USER_ALREADY_BLOCKED"
+msgstr "Zablokowałeś już tego użytkownika. Możesz go odblokować przez menu ustawień w twoim Pokoju Twórcy, ale wtedy będziesz musiał czekać 24 godziny zanim będziesz mógł zablokować go ponownie."
+
+msgid "USER_HAS_BEEN_BLOCKED"
+msgstr "Ten użytkownik został zablokowany."
+
+msgid "USER_HAS_BEEN_UNBLOCKED"
+msgstr "Odblokowałeś tego użytkownika."

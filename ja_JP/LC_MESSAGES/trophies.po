@@ -17,6 +17,15 @@ msgstr "続ける"
 msgid "TROPHY_CASE"
 msgstr "トロフィーケース"
 
+msgid "TROPHY_DESC_7th_birthday_bash"
+msgstr "スドメモの7周年ファンイベントに参加する"
+
+msgid "TROPHY_DESC_8th_birthday_bash"
+msgstr "スドメモの8周年ファンイベントに参加する"
+
+msgid "TROPHY_DESC_archive_supporter"
+msgstr "うごメモの歴史を保存する、うごメモアーカイブKo-Fiに寄付する"
+
 msgid "TROPHY_DESC_colors_promo"
 msgstr "スドメモ×Colors!の合同のお題「Into The Light」で入賞する"
 
@@ -62,14 +71,29 @@ msgstr "日々の生活にちょっとした工夫を加えて生きている。
 msgid "TROPHY_DESC_neighborhood_watch"
 msgstr "ポリシーに違反するコンテンツを適切に報告する"
 
+msgid "TROPHY_DESC_nitro_booster"
+msgstr "スドメモDiscordサーバーのブーストによって、そのイカした振る舞いを見せる"
+
 msgid "TROPHY_DESC_one_million_flips_event"
 msgstr "100万の作品イベントに参加する"
+
+msgid "TROPHY_DESC_spookmaster"
+msgstr "Witchcraft and Wizardryで優秀な結果を残す"
 
 msgid "TROPHY_DESC_translator"
 msgstr "スドメモをだれでも利用しやすくするための翻訳に協力する"
 
 msgid "TROPHY_DESC_weekly_topic_winner"
 msgstr "スドメモの今週のお題に入賞する"
+
+msgid "TROPHY_NAME_7th_birthday_bash"
+msgstr "7周年記念パーティー"
+
+msgid "TROPHY_NAME_8th_birthday_bash"
+msgstr "8周年記念パーティー"
+
+msgid "TROPHY_NAME_archive_supporter"
+msgstr "アーカイブサポーター"
 
 msgid "TROPHY_NAME_colors_promo"
 msgstr "Colors!×スドメモのお題の入賞者"
@@ -117,41 +141,17 @@ msgstr "ジギー・スターバーストに会う"
 msgid "TROPHY_NAME_neighborhood_watch"
 msgstr "自警団"
 
+msgid "TROPHY_NAME_nitro_booster"
+msgstr "ニトロブースター"
+
 msgid "TROPHY_NAME_one_million_flips_event"
 msgstr "100万の作品イベント"
+
+msgid "TROPHY_NAME_spookmaster"
+msgstr "スプークマスター"
 
 msgid "TROPHY_NAME_translator"
 msgstr "翻訳者"
 
 msgid "TROPHY_NAME_weekly_topic_winner"
 msgstr "今週のお題入賞者"
-
-msgid "TROPHY_NAME_spookmaster"
-msgstr "スプークマスター"
-
-msgid "TROPHY_DESC_spookmaster"
-msgstr "Witchcraft and Wizardryで優秀な結果を残す"
-
-msgid "TROPHY_NAME_nitro_booster"
-msgstr "ニトロブースター"
-
-msgid "TROPHY_DESC_nitro_booster"
-msgstr "スドメモDiscordサーバーのブーストによって、そのイカした振る舞いを見せる"
-
-msgid "TROPHY_NAME_7th_birthday_bash"
-msgstr "7周年記念パーティー"
-
-msgid "TROPHY_DESC_7th_birthday_bash"
-msgstr "スドメモの7周年ファンイベントに参加する"
-
-msgid "TROPHY_NAME_8th_birthday_bash"
-msgstr "8周年記念パーティー"
-
-msgid "TROPHY_DESC_8th_birthday_bash"
-msgstr "スドメモの8周年ファンイベントに参加する"
-
-msgid "TROPHY_NAME_archive_supporter"
-msgstr "アーカイブサポーター"
-
-msgid "TROPHY_DESC_archive_supporter"
-msgstr "うごメモの歴史を保存する、うごメモアーカイブKo-Fiに寄付する"

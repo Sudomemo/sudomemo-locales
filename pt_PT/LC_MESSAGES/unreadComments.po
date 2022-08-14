@@ -3,20 +3,20 @@ msgstr ""
 "Language: pt_PT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
-msgstr "Tens de ter feito login para aceder a esta página."
+msgid "FLIPNOTE_ID"
+msgstr "ID do Flipnote"
 
 msgid "HEADER_UNREAD_COMMENTS"
 msgstr "Comentários Não Lidos"
+
+msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
+msgstr "Tens de ter feito login para aceder a esta página."
 
 msgid "NO_UNREAD_COMMENTS"
 msgstr "Não tens comentários por ler."
 
 msgid "TAP_ON_FLIPNOTE_ID_TO_VISIT_COMMENTS"
 msgstr "Toque no ID do Flipnote para visitar a página de comentários."
-
-msgid "FLIPNOTE_ID"
-msgstr "ID do Flipnote"
 
 msgid "UNREAD"
 msgstr "Não Lidos"

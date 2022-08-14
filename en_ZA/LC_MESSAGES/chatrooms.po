@@ -3,14 +3,23 @@ msgstr ""
 "Language: en_ZA\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "NO_COMMENTS_YET"
-msgstr "No mesages wur sented here :("
+msgid "CHAT_REPLY_FAILED"
+msgstr "oopsie woopsie, chat reply fail :( try agen later!!!"
+
+msgid "COMMENT_FAILED_USER_BANNED"
+msgstr "You have been restricted from interacting with Sudomemo."
+
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "Pls confurm ur email befo posting!!"
+
+msgid "DUPLICATE_COMMENT_FAILED"
+msgstr "This coment wuz alredy posted!!!"
+
+msgid "FLIPNOTE_DATA_CORRUPTED"
+msgstr "oopsie woopsie ur flipmeme was corrupted....."
 
 msgid "HEADER_COMMENTS"
 msgstr "coments"
-
-msgid "PAGE_FORMAT"
-msgstr "page %d"
 
 msgid "HEADER_NEXT"
 msgstr "yEet"
@@ -24,26 +33,17 @@ msgstr "refresh"
 msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
 msgstr "u gotta log in to chat, goofy!!"
 
-msgid "CHAT_REPLY_FAILED"
-msgstr "oopsie woopsie, chat reply fail :( try agen later!!!"
+msgid "MODERATOR"
+msgstr "modareter"
 
 msgid "NO_BLANK_MESSAGES_ALLOWED"
 msgstr "NO BLANK MESAGES ALLOWED SILLY!!!"
 
-msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "oopsie woopsie ur flipmeme was corrupted....."
-
 msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
 msgstr "You have been muted. You may not chat."
 
-msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "This coment wuz alredy posted!!!"
+msgid "NO_COMMENTS_YET"
+msgstr "No mesages wur sented here :("
 
-msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "You have been restricted from interacting with Sudomemo."
-
-msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Pls confurm ur email befo posting!!"
-
-msgid "MODERATOR"
-msgstr "modareter"
+msgid "PAGE_FORMAT"
+msgstr "page %d"

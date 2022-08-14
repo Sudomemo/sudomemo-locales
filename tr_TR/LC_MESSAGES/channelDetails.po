@@ -3,44 +3,44 @@ msgstr ""
 "Language: tr_TR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "CHANNEL_NAME"
-msgstr "Channel Name"
-
-msgid "CHANNEL_INFORMATION"
-msgstr "Channel Information"
-
-msgid "FLIPNOTES"
-msgstr "Flipnotes"
+msgid "CATEGORY"
+msgstr "Category"
 
 msgid "CHANNEL_ID"
 msgstr "Channel ID"
 
-msgid "LOGIN_REQUIRED_TO_POST"
-msgstr "You must be logged in to post a Flipnote."
+msgid "CHANNEL_INFORMATION"
+msgstr "Channel Information"
+
+msgid "CHANNEL_NAME"
+msgstr "Channel Name"
 
 msgid "CHANNEL_NOT_SPECIFIED"
 msgstr "You must pick a channel."
 
-msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
-msgstr "You've been restricted from using Sudomemo."
-
-msgid "FLIPNOTE_POST_FAILED"
-msgstr "Flipnote upload failed. Try again in a moment."
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "Please confirm your email before posting."
 
 msgid "DUPLICATE_FLIPNOTE_FAILED"
 msgstr "This Flipnote has already been posted to Sudomemo. Try editing it again."
 
+msgid "FLIPNOTES"
+msgstr "Flipnotes"
+
 msgid "FLIPNOTE_DATA_CORRUPTED"
 msgstr "The Flipnote data is corrupted. Try again in a moment."
+
+msgid "FLIPNOTE_POST_FAILED"
+msgstr "Flipnote upload failed. Try again in a moment."
+
+msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
+msgstr "You've been restricted from using Sudomemo."
+
+msgid "LOGIN_REQUIRED_TO_POST"
+msgstr "You must be logged in to post a Flipnote."
 
 msgid "NO_BLANK_FLIPNOTES_ALLOWED"
 msgstr "You may not post an empty Flipnote."
 
-msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Please confirm your email before posting."
-
 msgid "NO_POSTS_WHILE_MUTED"
 msgstr "You may not post while you are muted."
-
-msgid "CATEGORY"
-msgstr "Category"

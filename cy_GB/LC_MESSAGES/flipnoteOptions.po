@@ -3,11 +3,26 @@ msgstr ""
 "Language: cy_GB\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "CITIZENSHIP_REQUIRED"
+msgstr "Bydd angen Dinasyddiaeth Sudomemo arnoch i ddefnyddio'r nodwedd hon."
+
+msgid "DISABLE_AUDIO_ENHANCEMENT"
+msgstr "Analluogi gwella sain"
+
+msgid "DISABLE_SMOOTHING"
+msgstr "Analluogi llyfnu"
+
+msgid "ENABLE_AUDIO_ENHANCEMENT"
+msgstr "Galluogi gwella sain"
+
+msgid "ENABLE_SMOOTHING"
+msgstr "Galluogi llyfnu"
+
 msgid "FLIPNOTE_OPTIONS"
 msgstr "Opsiynau Flipnote"
 
-msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
-msgstr "Rhaid i chi fewngofnodi i weld y dudalen hon."
+msgid "FLIPNOTE_URL_IS"
+msgstr "Flipnote URL:"
 
 msgid "HEADER_OPTION"
 msgstr "Opsiwn"
@@ -15,44 +30,29 @@ msgstr "Opsiwn"
 msgid "HEADER_STATUS"
 msgstr "Statws"
 
-msgid "OPTION_NAME_SMOOTH"
-msgstr "Llyfnhau"
-
-msgid "OPTION_DESC_SMOOTH"
-msgstr "Mae llinellau, cromliniau ac ymylon yn cael eu llyfnhau er mwyn edrych yn fwy naturiol ar Theatr Sudomemo."
-
-msgid "FLIPNOTE_URL_IS"
-msgstr "Flipnote URL:"
-
-msgid "ENABLE_SMOOTHING"
-msgstr "Galluogi llyfnu"
-
-msgid "DISABLE_SMOOTHING"
-msgstr "Analluogi llyfnu"
-
-msgid "ON"
-msgstr "Ymlaen"
+msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
+msgstr "Rhaid i chi fewngofnodi i weld y dudalen hon."
 
 msgid "OFF"
 msgstr "I ffwrdd"
 
-msgid "CITIZENSHIP_REQUIRED"
-msgstr "Bydd angen Dinasyddiaeth Sudomemo arnoch i ddefnyddio'r nodwedd hon."
+msgid "ON"
+msgstr "Ymlaen"
+
+msgid "OPTION_DESC_FORCE_44K_BITRATE"
+msgstr "Bydd Sudomemo yn ceisio gwneud eich sain yn grisper ac yn lanach ar gyfer Sudomemo Theatre."
+
+msgid "OPTION_DESC_SMOOTH"
+msgstr "Mae llinellau, cromliniau ac ymylon yn cael eu llyfnhau er mwyn edrych yn fwy naturiol ar Theatr Sudomemo."
+
+msgid "OPTION_NAME_FORCE_44K_BITRATE"
+msgstr "Gwell sain"
+
+msgid "OPTION_NAME_SMOOTH"
+msgstr "Llyfnhau"
 
 msgid "PLUS_REQUIRED"
 msgstr "You'll need Sudomemo Plus to use this feature."
 
 msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
 msgstr "Tap ar statws opsiwn i'w weld neu ei newid."
-
-msgid "OPTION_NAME_FORCE_44K_BITRATE"
-msgstr "Gwell sain"
-
-msgid "OPTION_DESC_FORCE_44K_BITRATE"
-msgstr "Bydd Sudomemo yn ceisio gwneud eich sain yn grisper ac yn lanach ar gyfer Sudomemo Theatre."
-
-msgid "ENABLE_AUDIO_ENHANCEMENT"
-msgstr "Galluogi gwella sain"
-
-msgid "DISABLE_AUDIO_ENHANCEMENT"
-msgstr "Analluogi gwella sain"

@@ -3,59 +3,8 @@ msgstr ""
 "Language: en_GB\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "SEE_MORE"
-msgstr "See more..."
-
-msgid "STARRED_FLIPNOTES"
-msgstr "Starred Flipnotes"
-
-msgid "FAVORITE_USERS"
-msgstr "Favourite Users"
-
-msgid "FAVORITES_FEED"
-msgstr "Favourites Feed"
-
-msgid "FAVORITE_CHANNELS"
-msgstr "Favourite Channels"
-
-msgid "USER_DOWNLOADCOUNT"
-msgstr "Downloads"
-
-msgid "USER_VIEWCOUNT"
-msgstr "Views"
-
-msgid "USER_THEME"
-msgstr "Theme"
-
-msgid "THEME_SHOP"
-msgstr "Theme Shop"
-
-msgid "POSTED_COMMENTS"
-msgstr "Posted Comments"
-
-msgid "POSTED_CHATCOMMENTS"
-msgstr "Chatroom Messages"
-
-msgid "FEATURE_USABILITY"
-msgstr "Feature Usability"
-
-msgid "USABLE"
-msgstr "Usable"
-
-msgid "NOT_USABLE"
-msgstr "Not Usable"
-
-msgid "SUDOMEMO_THEATRE_URL"
-msgstr "Sudomemo Theatre Link"
-
-msgid "FLIPNOTE_STUDIO_ID"
-msgstr "Flipnote Studio ID"
-
-msgid "SETTINGS"
-msgstr "Settings"
-
-msgid "ADMIN_ACCT_GOOD_STANDING"
-msgstr "In good standing"
+msgid "101_CHARACTER_LIMIT_BIO"
+msgstr "Your biography is limited to 101 characters."
 
 msgid "ADMIN_ACCT_BANNED"
 msgstr "Banned"
@@ -63,20 +12,26 @@ msgstr "Banned"
 msgid "ADMIN_ACCT_BLOCKED"
 msgstr "Blocked"
 
+msgid "ADMIN_ACCT_GOOD_STANDING"
+msgstr "In good standing"
+
 msgid "ADMIN_ACCT_MUTED"
 msgstr "Muted"
 
-msgid "ADMIN_USER_DETAILS"
-msgstr "User Details"
+msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
+msgstr "Admin Actions"
 
 msgid "ADMIN_LAST_SEEN"
 msgstr "Last seen"
 
+msgid "ADMIN_USER_DETAILS"
+msgstr "User Details"
+
 msgid "ADMIN_USER_STATUS"
 msgstr "User Status"
 
-msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
-msgstr "Admin Actions"
+msgid "BLOCKED_USERS"
+msgstr "Blocked users"
 
 msgid "BLOCK_COMMENTS_HEADER"
 msgstr "Block Comments"
@@ -84,11 +39,53 @@ msgstr "Block Comments"
 msgid "BLOCK_COMMENTS_LINK"
 msgstr "Block"
 
-msgid "USABILITY_USABLE"
-msgstr "Usable"
+msgid "CAN_DRAW_TICKET_SUBTEXT"
+msgstr "You can draw a regular ticket! You might win a prize."
 
-msgid "USABILITY_NOT_USABLE"
-msgstr "Not Usable"
+msgid "CHANGE_ROOM_THEME_LINK"
+msgstr "[change theme]"
+
+msgid "CREATORS_ROOM"
+msgstr "Creator's Room"
+
+msgid "CURRENT_BIO"
+msgstr "Current Bio:"
+
+msgid "DRAW_REGULAR_TICKET"
+msgstr "Draw Ticket"
+
+msgid "ENTER_BIO"
+msgstr "Enter Bio..."
+
+msgid "EXAMPLE"
+msgstr "Example"
+
+msgid "FANS"
+msgstr "Fans"
+
+msgid "FAN_COUNT_FORMAT"
+msgstr "Fans: %s"
+
+msgid "FAVORITES_FEED"
+msgstr "Favourites Feed"
+
+msgid "FAVORITE_CHANNELS"
+msgstr "Favourite Channels"
+
+msgid "FAVORITE_USERS"
+msgstr "Favourite Users"
+
+msgid "FEATURE_USABILITY"
+msgstr "Feature Usability"
+
+msgid "FLIPNOTE_STUDIO_ID"
+msgstr "Flipnote Studio ID"
+
+msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
+msgstr "You can't follow more than %d users."
+
+msgid "HEADER_EDIT_BIOGRAPHY"
+msgstr "Edit Biography"
 
 msgid "HEADER_FOLLOWERS"
 msgstr "Followers"
@@ -96,122 +93,29 @@ msgstr "Followers"
 msgid "HEADER_FOLLOWING"
 msgstr "Following"
 
-msgid "PREVIOUS"
-msgstr "Previous"
-
-msgid "NEXT"
-msgstr "Next"
-
-msgid "CHANGE_ROOM_THEME_LINK"
-msgstr "[change theme]"
-
-msgid "SELECT_THEME"
-msgstr "Select Theme"
-
-msgid "FANS"
-msgstr "Fans"
-
-msgid "EXAMPLE"
-msgstr "Example"
-
-msgid "THEMETEST_SET_THEME"
-msgstr "Set Theme"
-
-msgid "THEMETEST_NOTICE"
-msgstr "Notice"
-
-msgid "THEMETEST_OK"
-msgstr "Okay"
-
-msgid "THEMETEST_ERROR"
-msgstr "Error"
-
-msgid "THEMETEST_NOTICE_2"
-msgstr "Notice #2"
-
-msgid "THEMETEST_ACTIVE_TAB"
-msgstr "Active tab"
-
-msgid "THEMETEST_INACTIVE_TAB"
-msgstr "Inactive tab"
-
-msgid "PREVIEW"
-msgstr "Preview"
-
-msgid "CREATORS_ROOM"
-msgstr "Creator's Room"
-
-msgid "THEME_ERROR_THEME_NOT_OWNED"
-msgstr "Sorry! You do not own that theme."
-
-msgid "THEME_SUCCESSFULLY_SET"
-msgstr "Theme successfully set!"
-
-msgid "BLOCKED_USERS"
-msgstr "Blocked users"
-
-msgid "VIEW"
-msgstr "View"
-
-msgid "FAN_COUNT_FORMAT"
-msgstr "Fans: %s"
-
 msgid "HEADER_LANGUAGE"
 msgstr "Language"
 
 msgid "HEADER_MAIL_SETTINGS"
 msgstr "Mail Settings"
 
-msgid "HEADER_EDIT_BIOGRAPHY"
-msgstr "Edit Biography"
-
-msgid "SET_BIO_INSTRUCTIONS"
-msgstr "Enter your profile biography below. This will be displayed on Sudomemo and Sudomemo Theatre."
-
-msgid "ENTER_BIO"
-msgstr "Enter Bio..."
-
-msgid "101_CHARACTER_LIMIT_BIO"
-msgstr "Your biography is limited to 101 characters."
-
-msgid "LEAVE_BLANK_TO_RESET_BIO"
-msgstr "To clear your biography, leave the form blank when submitting."
-
-msgid "CURRENT_BIO"
-msgstr "Current Bio:"
-
-msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
-msgstr "You can't follow more than %d users."
-
-msgid "RANKING"
-msgstr "Ranking"
-
-msgid "TICKET_SECTION"
-msgstr "Tickets"
-
-msgid "DRAW_REGULAR_TICKET"
-msgstr "Draw Ticket"
-
-msgid "CAN_DRAW_TICKET_SUBTEXT"
-msgstr "You can draw a regular ticket! You might win a prize."
+msgid "HEADER_SUPPORT_TOKEN"
+msgstr "Support Token"
 
 msgid "INVENTORY"
 msgstr "Inventory"
 
-msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
-msgstr "You can draw another ticket in: %s hour(s) %s minute(s)."
-
-msgid "REDEEM"
-msgstr "Redeem"
-
-msgid "SPENDABLE_STARS"
-msgstr "Your Stars"
-
-msgid "SPENDABLE_STARS_HELPTEXT"
-msgstr "Stars to add to Flipnotes or use for themes"
+msgid "LEAVE_BLANK_TO_RESET_BIO"
+msgstr "To clear your biography, leave the form blank when submitting."
 
 msgid "LOGIN_REQUIRED_ACTION"
 msgstr "You must be logged in to perform this action."
+
+msgid "NEXT"
+msgstr "Next"
+
+msgid "NOT_USABLE"
+msgstr "Not Usable"
 
 msgid "PAGE"
 msgstr "Page"
@@ -219,8 +123,107 @@ msgstr "Page"
 msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d of %d"
 
-msgid "HEADER_SUPPORT_TOKEN"
-msgstr "Support Token"
+msgid "POSTED_CHATCOMMENTS"
+msgstr "Chatroom Messages"
+
+msgid "POSTED_COMMENTS"
+msgstr "Posted Comments"
+
+msgid "PREVIEW"
+msgstr "Preview"
+
+msgid "PREVIOUS"
+msgstr "Previous"
+
+msgid "RANKING"
+msgstr "Ranking"
+
+msgid "REDEEM"
+msgstr "Redeem"
 
 msgid "REQUEST"
 msgstr "Request"
+
+msgid "SEE_MORE"
+msgstr "See more..."
+
+msgid "SELECT_THEME"
+msgstr "Select Theme"
+
+msgid "SETTINGS"
+msgstr "Settings"
+
+msgid "SET_BIO_INSTRUCTIONS"
+msgstr "Enter your profile biography below. This will be displayed on Sudomemo and Sudomemo Theatre."
+
+msgid "SPENDABLE_STARS"
+msgstr "Your Stars"
+
+msgid "SPENDABLE_STARS_HELPTEXT"
+msgstr "Stars to add to Flipnotes or use for themes"
+
+msgid "STARRED_FLIPNOTES"
+msgstr "Starred Flipnotes"
+
+msgid "SUDOMEMO_THEATRE_URL"
+msgstr "Sudomemo Theatre Link"
+
+msgid "THEMETEST_ACTIVE_TAB"
+msgstr "Active tab"
+
+msgid "THEMETEST_ERROR"
+msgstr "Error"
+
+msgid "THEMETEST_INACTIVE_TAB"
+msgstr "Inactive tab"
+
+msgid "THEMETEST_NOTICE"
+msgstr "Notice"
+
+msgid "THEMETEST_NOTICE_2"
+msgstr "Notice #2"
+
+msgid "THEMETEST_OK"
+msgstr "Okay"
+
+msgid "THEMETEST_SET_THEME"
+msgstr "Set Theme"
+
+msgid "THEME_ERROR_THEME_NOT_OWNED"
+msgstr "Sorry! You do not own that theme."
+
+msgid "THEME_SHOP"
+msgstr "Theme Shop"
+
+msgid "THEME_SUCCESSFULLY_SET"
+msgstr "Theme successfully set!"
+
+msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
+msgstr "You can draw another ticket in: %s hour(s) %s minute(s)."
+
+msgid "TICKET_SECTION"
+msgstr "Tickets"
+
+msgid "USABILITY_NOT_USABLE"
+msgstr "Not Usable"
+
+msgid "USABILITY_USABLE"
+msgstr "Usable"
+
+msgid "USABLE"
+msgstr "Usable"
+
+msgid "USER_DOWNLOADCOUNT"
+msgstr "Downloads"
+
+msgid "USER_THEME"
+msgstr "Theme"
+
+msgid "USER_VIEWCOUNT"
+msgstr "Views"
+
+msgid "VIEW"
+msgstr "View"
+
+msgid "WATCH_HISTORY"
+msgstr "Watch History"

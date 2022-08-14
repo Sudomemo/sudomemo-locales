@@ -18,6 +18,18 @@ msgstr "Commenté par %s"
 msgid "COMMENT_DETAILS"
 msgstr "Détails du commentaire"
 
+msgid "COMMENT_HIDDEN_MODERATOR"
+msgstr "Commentaire masqué par un modérateur"
+
+msgid "COMMENT_HIDDEN_RECIPIENT"
+msgstr "Commentaire masqué par l'auteur de la Flipnote"
+
+msgid "COMMENT_HIDDEN_SELF"
+msgstr "Commentaire masqué par l'auteur"
+
+msgid "COMMENT_HIDDEN_UNKNOWN"
+msgstr "Commentaire masqué suite à une demande"
+
 msgid "COMMENT_ID"
 msgstr "ID du commentaire"
 
@@ -44,15 +56,3 @@ msgstr "Signaler le contenu"
 
 msgid "TIMESTAMP"
 msgstr "Heure du message"
-
-msgid "COMMENT_HIDDEN_UNKNOWN"
-msgstr "Commentaire masqué suite à une demande"
-
-msgid "COMMENT_HIDDEN_SELF"
-msgstr "Commentaire masqué par l'auteur"
-
-msgid "COMMENT_HIDDEN_RECIPIENT"
-msgstr "Commentaire masqué par l'auteur de la Flipnote"
-
-msgid "COMMENT_HIDDEN_MODERATOR"
-msgstr "Commentaire masqué par un modérateur"

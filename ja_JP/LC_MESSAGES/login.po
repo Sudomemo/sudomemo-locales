@@ -150,6 +150,10 @@ msgstr "メールアドレスを認証"
 msgid "INCORRECT_PASSWORD_ATTEMPTS_FORMAT"
 msgstr "間違えた回数：%s"
 
+# A URL will be shown at the end of this.
+msgid "LEGACY_PROXY_WARNING"
+msgstr "既にサポート対象外であるds.sudomemo.netの古いProxy設定が使用されている様です。本体設定からProxy設定を更新しない場合、スドメモを使用する際に問題が発生する可能性があります。詳しくはこちらを確認してください："
+
 msgid "LOGIN"
 msgstr "ログイン"
 
@@ -257,7 +261,3 @@ msgstr "あなたの任天堂DSiシステムで「認証ステータスの確認
 
 msgid "WELCOME_BACK_FORMAT"
 msgstr "ようこそ、 %sさん！"
-
-# A URL will be shown at the end of this.
-msgid "LEGACY_PROXY_WARNING"
-msgstr "既にサポート対象外であるds.sudomemo.netの古いProxy設定が使用されている様です。本体設定からProxy設定を更新しない場合、スドメモを使用する際に問題が発生する可能性があります。詳しくはこちらを確認してください："

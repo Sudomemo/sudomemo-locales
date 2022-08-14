@@ -3,62 +3,62 @@ msgstr ""
 "Language: en_ZA\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "LOGIN_REQUIRED_TO_MANAGE_BLOCKS"
-msgstr "you gotta log in to view ur BLOKED LIST!!!."
-
-msgid "NO_USERS_BLOCKED"
-msgstr "U neverever blocked anywun!!! :)"
-
 msgid "BLOCKED_USERS"
 msgstr "List of Pro Trollers"
 
 msgid "BLOCK_USER"
 msgstr "Blok this goober"
 
-msgid "COMMENT_BLOCK_IS_MUTUAL"
-msgstr "one u block this goofy goober,,, u cant coment on their flippy-wippy notes any mor...."
-
-msgid "USER_HAS_BEEN_BLOCKED"
-msgstr "Dis goober wuz BLOCKED!!!!"
-
-msgid "IF_YOU_WISH_TO_UNBLOCK"
-msgstr "if u ever wana unblock them, u may unblock dem by goign to Creator's Room and open teh Blocked Trollers list."
-
-msgid "CONFIRM_BLOCK"
-msgstr "Do a lil blok?"
-
-msgid "USER_ALREADY_BLOCKED"
-msgstr "u alredy blocked dem!!! u can unblock dem from teh Setings menu in ur Creator's Room, but u gota wait 24 hours to block dem agen."
-
-msgid "ONE_DAY_WAIT_BEFORE_REBLOCK_FORMAT"
-msgstr "u resently unblocked dis goober... u cant block dem agen until %s"
-
-msgid "UNBLOCK"
-msgstr "unblock"
-
-msgid "LOGIN_REQUIRED"
-msgstr "hey!! *pokes u* u gotta log in to do dat!!."
-
-msgid "TAP_BACK_TO_RETURN"
-msgstr "Tap Back to skedaddle to ur Creator's Room."
-
-msgid "UNBLOCK_USER"
-msgstr "Unblok goober"
-
 msgid "CANNOT_UNBLOCK_NONBLOCKED_USER"
 msgstr "u cant unblok this user!! how u gona do that if u never blocked dem?? *facepalm*"
-
-msgid "USER_HAS_BEEN_UNBLOCKED"
-msgstr "u unblocked dis user! yay!"
 
 msgid "COMMENTING_ENABLED_AFTER_UNBLOCK"
 msgstr "After u unblock dis user, u can coment on their flippy-wippy nots!!! unless they blocked u back, in wich case u cant. :("
 
-msgid "UNBLOCK_WARNING_ONE_DAY_THRESHOLD"
-msgstr "If you unblock dem, u gota wait 24 hours to block dem agen."
+msgid "COMMENT_BLOCK_IS_MUTUAL"
+msgstr "one u block this goofy goober,,, u cant coment on their flippy-wippy notes any mor...."
+
+msgid "CONFIRM_BLOCK"
+msgstr "Do a lil blok?"
 
 msgid "CONFIRM_UNBLOCK"
 msgstr "Do an unblock"
 
+msgid "IF_YOU_WISH_TO_UNBLOCK"
+msgstr "if u ever wana unblock them, u may unblock dem by goign to Creator's Room and open teh Blocked Trollers list."
+
+msgid "LOGIN_REQUIRED"
+msgstr "hey!! *pokes u* u gotta log in to do dat!!."
+
+msgid "LOGIN_REQUIRED_TO_MANAGE_BLOCKS"
+msgstr "you gotta log in to view ur BLOKED LIST!!!."
+
+msgid "NO_USERS_BLOCKED"
+msgstr "U neverever blocked anywun!!! :)"
+
+msgid "ONE_DAY_WAIT_BEFORE_REBLOCK_FORMAT"
+msgstr "u resently unblocked dis goober... u cant block dem agen until %s"
+
 msgid "RECENTLY_UNBLOCKED_ONE_DAY_THRESHOLD"
 msgstr "u recently unbloked this user. u gota wait 24 hours since the time u blocked dem to block dem agen."
+
+msgid "TAP_BACK_TO_RETURN"
+msgstr "Tap Back to skedaddle to ur Creator's Room."
+
+msgid "UNBLOCK"
+msgstr "unblock"
+
+msgid "UNBLOCK_USER"
+msgstr "Unblok goober"
+
+msgid "UNBLOCK_WARNING_ONE_DAY_THRESHOLD"
+msgstr "If you unblock dem, u gota wait 24 hours to block dem agen."
+
+msgid "USER_ALREADY_BLOCKED"
+msgstr "u alredy blocked dem!!! u can unblock dem from teh Setings menu in ur Creator's Room, but u gota wait 24 hours to block dem agen."
+
+msgid "USER_HAS_BEEN_BLOCKED"
+msgstr "Dis goober wuz BLOCKED!!!!"
+
+msgid "USER_HAS_BEEN_UNBLOCKED"
+msgstr "u unblocked dis user! yay!"

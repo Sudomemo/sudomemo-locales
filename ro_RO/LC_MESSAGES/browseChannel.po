@@ -3,17 +3,20 @@ msgstr ""
 "Language: ro_RO\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "UPPERTITLE"
-msgstr "Navigati Canal"
+msgid "BROWSE_BY_ALBUM"
+msgstr "Cautati dupa Album"
 
-msgid "POST_FLIPNOTE"
-msgstr "Postati Flipnote"
+msgid "BROWSE_BY_ARTIST"
+msgstr "Cautati dupa Artist"
+
+msgid "BROWSE_BY_SONG"
+msgstr "Cautati dupa Cantec"
+
+msgid "BROWSE_PLAYLIST"
+msgstr "Cautati Playlist-uri"
 
 msgid "NEXT"
 msgstr "Urm."
-
-msgid "PREV"
-msgstr "Ante."
 
 msgid "PAGE"
 msgstr "Pagina"
@@ -21,20 +24,17 @@ msgstr "Pagina"
 msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d din %d"
 
-msgid "SPINOFFS"
-msgstr "Spinoff-uri"
+msgid "POST_FLIPNOTE"
+msgstr "Postati Flipnote"
 
-msgid "BROWSE_BY_SONG"
-msgstr "Cautati dupa Cantec"
-
-msgid "BROWSE_BY_ARTIST"
-msgstr "Cautati dupa Artist"
-
-msgid "BROWSE_BY_ALBUM"
-msgstr "Cautati dupa Album"
-
-msgid "BROWSE_PLAYLIST"
-msgstr "Cautati Playlist-uri"
+msgid "PREV"
+msgstr "Ante."
 
 msgid "SONG_DETAILS"
 msgstr "Detalii Cantec"
+
+msgid "SPINOFFS"
+msgstr "Spinoff-uri"
+
+msgid "UPPERTITLE"
+msgstr "Navigati Canal"

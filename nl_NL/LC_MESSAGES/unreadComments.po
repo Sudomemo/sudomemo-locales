@@ -3,20 +3,20 @@ msgstr ""
 "Language: nl_NL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
-msgstr "Je moet ingelogd zijn om deze pagina te kunnen bekijken."
+msgid "FLIPNOTE_ID"
+msgstr "Flipnote-ID"
 
 msgid "HEADER_UNREAD_COMMENTS"
 msgstr "Ongelezen Reacties"
+
+msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
+msgstr "Je moet ingelogd zijn om deze pagina te kunnen bekijken."
 
 msgid "NO_UNREAD_COMMENTS"
 msgstr "Je hebt geen ongelezen reacties."
 
 msgid "TAP_ON_FLIPNOTE_ID_TO_VISIT_COMMENTS"
 msgstr "Druk op een Flipnote-ID om de reactiepagina te bezoeken."
-
-msgid "FLIPNOTE_ID"
-msgstr "Flipnote-ID"
 
 msgid "UNREAD"
 msgstr "Ongelezen"

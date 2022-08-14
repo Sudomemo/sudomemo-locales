@@ -3,6 +3,33 @@ msgstr ""
 "Language: ro_RO\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "CONTENT_ID"
+msgstr "ID Continut:"
+
+msgid "CONTENT_TYPE"
+msgstr "Tip de Continut:"
+
+msgid "CONTENT_TYPE_chat_message"
+msgstr "Mesaj Conversatie"
+
+msgid "CONTENT_TYPE_comment"
+msgstr "Comentariu"
+
+# ## Catch-all
+msgid "CONTENT_TYPE_content"
+msgstr "Alt Continut"
+
+# # Content types
+msgid "CONTENT_TYPE_flipnote"
+msgstr "Flipnote"
+
+msgid "CONTENT_TYPE_profile_bio"
+msgstr "Text de pe Profil"
+
+# ## We plan on adding user-created themes.
+msgid "CONTENT_TYPE_room_theme"
+msgstr "Tema Camera Creatorului"
+
 # Content Report Accepted - sent to user who has correctly reported content
 msgid "NOTICE"
 msgstr "Instiintare"
@@ -11,27 +38,6 @@ msgstr "Instiintare"
 msgid "REPORT_ACCEPTED"
 msgstr "Am revizuit o raportare de continut pe care l-ati trimis si am vazut ca este valida."
 
-# # Content types
-msgid "CONTENT_TYPE_flipnote"
-msgstr "Flipnote"
-
-msgid "CONTENT_TYPE_comment"
-msgstr "Comentariu"
-
-msgid "CONTENT_TYPE_chat_message"
-msgstr "Mesaj Conversatie"
-
-# ## We plan on adding user-created themes.
-msgid "CONTENT_TYPE_room_theme"
-msgstr "Tema Camera Creatorului"
-
-msgid "CONTENT_TYPE_profile_bio"
-msgstr "Text de pe Profil"
-
-# ## Catch-all
-msgid "CONTENT_TYPE_content"
-msgstr "Alt Continut"
-
 # # continued message...
 msgid "REPORT_ACCEPTED_CONTINUED"
 msgstr "De aceea, continutul a fost sters."
@@ -39,9 +45,3 @@ msgstr "De aceea, continutul a fost sters."
 # this message is followed by a link
 msgid "REPORT_ACCEPTED_INFO"
 msgstr "Raportarile ca al dvs. fac Sudomemo un loc sigur si binevenitor pentru toata lumea. Daca vreti sa aflati mai multe despre Politele de Continut, puteti sa o faceti aici:"
-
-msgid "CONTENT_TYPE"
-msgstr "Tip de Continut:"
-
-msgid "CONTENT_ID"
-msgstr "ID Continut:"

@@ -3,38 +3,8 @@ msgstr ""
 "Language: el_GR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-# Content Removed - sent to user when a piece of their content has been moderated away
-msgid "NOTICE"
-msgstr "Ειδοποιηση"
-
-# # Intro
-msgid "USER_CONTENT_REMOVED"
-msgstr "Κατι  το  οποιο  ανεβασατε  φαινεται  οτι παραβιαζει την Πολιτικη  Περιεχομενου και  τους  Ορους  Χρησης του Sudomemo, και  εχει  αφεραιθει."
-
-# # Content types
-msgid "CONTENT_TYPE_flipnote"
-msgstr "Flipnote"
-
-msgid "CONTENT_TYPE_comment"
-msgstr "Σχολιο"
-
-msgid "CONTENT_TYPE_chat_message"
-msgstr "Μηνυμα τσατ"
-
-# ## We plan on adding user-created themes.
-msgid "CONTENT_TYPE_room_theme"
-msgstr "Θεμα  Δωματιου  Χρηστη"
-
-msgid "CONTENT_TYPE_profile_bio"
-msgstr "Κειμενο  Προφιλ"
-
-# ## Catch-all
-msgid "CONTENT_TYPE_content"
-msgstr "Αλλο"
-
-# # continued message...
-msgid "REMOVAL_REASON_HEADER"
-msgstr "Το ακολουθο  περιεχομενο  εχει  αφεραιθει  για  εναν  η παραπανω  απο  τους  παρακατω  λογους:"
+msgid "CONTENT_ID"
+msgstr "ID Περιεχομενου:"
 
 msgid "CONTENT_POLICY_REVIEW_INTRO"
 msgstr "Κατανοουμε  οτι  οταν  οι  πολιτικες  περιεχομενου  συναντουν  την  καλλιτεχνικη  εκφραση, το  κοντεξτ  και  η παρουσιαση  πρεπει  να  λαμβανονται  υποψη."
@@ -42,14 +12,36 @@ msgstr "Κατανοουμε  οτι  οταν  οι  πολιτικες  περ
 msgid "CONTENT_POLICY_REVIEW_LINK"
 msgstr "Θα θελαμε  να  σας  ωθησουμε  να  ξαναδιαβασετε  την  Πολιτικη  Περιεχομενου  μας  εδω:"
 
-msgid "HOW_TO_APPEAL"
-msgstr "Εαν  πιστευετε  οτι  εγινε  λαθος, μπορειτε  να  μαθετε  πως  να  κανετε  εφεση  εδω:"
-
 msgid "CONTENT_TYPE"
 msgstr "Ειδος  περιεχομενου:"
 
-msgid "CONTENT_ID"
-msgstr "ID Περιεχομενου:"
+msgid "CONTENT_TYPE_chat_message"
+msgstr "Μηνυμα τσατ"
+
+msgid "CONTENT_TYPE_comment"
+msgstr "Σχολιο"
+
+# ## Catch-all
+msgid "CONTENT_TYPE_content"
+msgstr "Αλλο"
+
+# # Content types
+msgid "CONTENT_TYPE_flipnote"
+msgstr "Flipnote"
+
+msgid "CONTENT_TYPE_profile_bio"
+msgstr "Κειμενο  Προφιλ"
+
+# ## We plan on adding user-created themes.
+msgid "CONTENT_TYPE_room_theme"
+msgstr "Θεμα  Δωματιου  Χρηστη"
+
+msgid "HOW_TO_APPEAL"
+msgstr "Εαν  πιστευετε  οτι  εγινε  λαθος, μπορειτε  να  μαθετε  πως  να  κανετε  εφεση  εδω:"
+
+# Content Removed - sent to user when a piece of their content has been moderated away
+msgid "NOTICE"
+msgstr "Ειδοποιηση"
 
 # # re-download will be made available for certain content types
 msgid "REDOWNLOAD_HEADER"
@@ -57,3 +49,11 @@ msgstr "Εαν  θελετε  να  επανεξετασετε  το %s, μπο�
 
 msgid "REDOWNLOAD_LINK"
 msgstr "εδω"
+
+# # continued message...
+msgid "REMOVAL_REASON_HEADER"
+msgstr "Το ακολουθο  περιεχομενο  εχει  αφεραιθει  για  εναν  η παραπανω  απο  τους  παρακατω  λογους:"
+
+# # Intro
+msgid "USER_CONTENT_REMOVED"
+msgstr "Κατι  το  οποιο  ανεβασατε  φαινεται  οτι παραβιαζει την Πολιτικη  Περιεχομενου και  τους  Ορους  Χρησης του Sudomemo, και  εχει  αφεραιθει."

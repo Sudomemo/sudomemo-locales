@@ -18,6 +18,18 @@ msgstr "%sさんのコメント"
 msgid "COMMENT_DETAILS"
 msgstr "コメントの詳細"
 
+msgid "COMMENT_HIDDEN_MODERATOR"
+msgstr "モデレーターによって非表示にされたコメント"
+
+msgid "COMMENT_HIDDEN_RECIPIENT"
+msgstr "作品作成者により非表示にされたコメント"
+
+msgid "COMMENT_HIDDEN_SELF"
+msgstr "作者により非表示にされたコメント"
+
+msgid "COMMENT_HIDDEN_UNKNOWN"
+msgstr "要請により非表示にされたコメント"
+
 msgid "COMMENT_ID"
 msgstr "コメントID"
 
@@ -44,15 +56,3 @@ msgstr "報告内容"
 
 msgid "TIMESTAMP"
 msgstr "投稿日時"
-
-msgid "COMMENT_HIDDEN_UNKNOWN"
-msgstr "要請により非表示にされたコメント"
-
-msgid "COMMENT_HIDDEN_SELF"
-msgstr "作者により非表示にされたコメント"
-
-msgid "COMMENT_HIDDEN_RECIPIENT"
-msgstr "作品作成者により非表示にされたコメント"
-
-msgid "COMMENT_HIDDEN_MODERATOR"
-msgstr "モデレーターによって非表示にされたコメント"

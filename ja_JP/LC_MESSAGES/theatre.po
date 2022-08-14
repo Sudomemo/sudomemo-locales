@@ -28,6 +28,24 @@ msgstr "%sさんのプロフィール画像"
 msgid "ALT_WEEKLY_TOPIC_BANNER"
 msgstr "「今週のお題」宣伝バナー"
 
+msgid "ARCHIVE"
+msgstr "アーカイブする"
+
+msgid "ARCHIVED"
+msgstr "アーカイブ済み"
+
+msgid "ARCHIVE_FLIPNOTE"
+msgstr "アーカイブされたうごメモ"
+
+msgid "ARCHIVE_FLIPNOTE_DESC"
+msgstr "このうごメモはうごメモはてなで投稿されました。"
+
+msgid "ARCHIVE_PROFILE"
+msgstr "アーカイブされたプロフィール"
+
+msgid "ARCHIVE_PROFILE_DESC"
+msgstr "うごメモはてなのプロフィールのアーカイブです。"
+
 # Very common terms and one-word translations
 msgid "ARTIST"
 msgstr "アーティスト"
@@ -54,6 +72,9 @@ msgstr "始める"
 
 msgid "BTN_GO_TO_SETTINGS"
 msgstr "設定に移動"
+
+msgid "BTN_JOIN_DISCORD"
+msgstr "Discordに参加する"
 
 msgid "BTN_SIGN_IN_WITH_GOOGLE"
 msgstr "Googleアカウントでログイン"
@@ -114,6 +135,9 @@ msgstr "公開"
 msgid "COMMENTS"
 msgstr "コメント"
 
+msgid "CONTINUE"
+msgstr "進む"
+
 msgid "COULD_NOT_SAVE_DETAILS"
 msgstr "詳細を保存できませんでした。"
 
@@ -152,6 +176,17 @@ msgstr "説明文はここに表示されます。"
 
 msgid "DETAILS"
 msgstr "作品情報"
+
+# This refers to Discord, which is a chat app.
+msgid "DISCORD"
+msgstr "Discord"
+
+msgid "DISCORD_HOW_TO_LINK"
+msgstr "紐付け方法"
+
+# Connected since December 27th, 2020
+msgid "DISCORD_LINKED_ON_DATE"
+msgstr "%sから接続"
 
 msgid "DOWNLOADS"
 msgstr "ダウンロード"
@@ -234,9 +269,27 @@ msgstr "うごメモ"
 msgid "FLIPNOTES"
 msgstr "作品"
 
+msgid "FLIPNOTE_ARCHIVE_BUTTON_TOGGLE"
+msgstr "プロフィールにアーカイブされたうごメモはてなのプロフィールへのリンクを表示する"
+
+msgid "FLIPNOTE_ARCHIVE_PROFILE_AVAILABLE"
+msgstr "あなたのうごメモはてなのプロフィールがうごメモアーカイブプレビュープログラムで閲覧可能になりました！うごメモシアターで昔のうごメモを確認できます。"
+
+msgid "FLIPNOTE_ARCHIVE_PROFILE_NOT_AVAILABLE"
+msgstr "このアカウントにはアーカイブされたうごメモはてなプロフィールが存在しません。"
+
+msgid "FLIPNOTE_ARCHIVE_PROFILE_SETTING_INFORMATION"
+msgstr "ログイン中は、あなたのページにはいつもアーカイブへのリンクが表示されます。これを他のユーザーに表示するかは下で選択できます。"
+
+msgid "FLIPNOTE_ARCHIVE_SETTINGS"
+msgstr "アーカイブ設定"
+
 # # Flipnote by...
 msgid "FLIPNOTE_BY_FORMAT"
 msgstr "%sさんの作品"
+
+msgid "FLIPNOTE_HATENA_PROFILE"
+msgstr "うごメモはてなでのプロフィール"
 
 msgid "FLIPNOTE_ID"
 msgstr "作品ID"
@@ -268,6 +321,9 @@ msgstr "あなたのファンです"
 msgid "FOLLOW_BACK"
 msgstr "お気に入りに登録"
 
+msgid "FORGOT_YOUR_PASSWORD"
+msgstr "パスワードを忘れましたか？"
+
 # # Right sidebar
 msgid "FRONTPAGE_FLIPNOTE_SPOTLIGHT"
 msgstr "注目作品"
@@ -289,6 +345,9 @@ msgstr "ジャンル"
 msgid "HATENA_ID"
 msgstr "はてなID"
 
+msgid "HEADER_CHANGE_PASSWORD"
+msgstr "パスワードを変更"
+
 # Upload page specifics
 # Upload to YouTube header
 msgid "HEADER_UPLOAD_TO_YOUTUBE"
@@ -303,11 +362,18 @@ msgstr "話題順"
 msgid "HOT_FLIPNOTES"
 msgstr "話題作品"
 
+# Do not translate ".sudo unlink"
+msgid "HOW_TO_UNLINK_DISCORD"
+msgstr "Discordアカウントとの紐付けを解除したい場合は以下のコマンドをチャットに送信してください: .sudo unlink"
+
 msgid "INFO"
 msgstr "情報"
 
 msgid "LATEST"
 msgstr "新着順"
+
+msgid "LEARN_MORE"
+msgstr "詳しく知る"
 
 msgid "LINK_REQUIRED_BEFORE_UPLOAD"
 msgstr "作品をアップロードする前に、YouTubeチャンネルと連携する必要があります。"
@@ -431,6 +497,30 @@ msgstr "Nintendo 3DS"
 msgid "NINTENDO_DSI"
 msgstr "Nintendo DSi"
 
+msgid "NO_EMAIL_ON_FILE"
+msgstr "メールアドレスが見つかりません。スドメモのサポートにお問い合わせください"
+
+msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
+msgstr "そのうごメモIDまたはメールアドレスで登録されているユーザーは見つかりませんでした"
+
+msgid "PASSWORD_RESET_SENT"
+msgstr "登録されているメールアドレスにパスワードのリセットの案内メールが送信されました"
+
+msgid "PASS_CHANGE_COMPLETE"
+msgstr "パスワードが更新されました"
+
+msgid "PASS_CHANGE_CONFIRM_PASSWORD"
+msgstr "パスワードを確認"
+
+msgid "PASS_CHANGE_CONTINUE_TO_LOGIN"
+msgstr "ログインを続行"
+
+msgid "PASS_CHANGE_PASSWORD"
+msgstr "パスワードを変更"
+
+msgid "PASS_CHANGE_URL_EXPIRED"
+msgstr "リンクの有効期限が切れています"
+
 # Channel permissions: Is posting Flipnotes to a channel allowed or not?
 msgid "PERMISSIONS"
 msgstr "公開設定"
@@ -536,6 +626,9 @@ msgstr "検索結果が多すぎます。キーワードを増やして試して
 msgid "SEARCH_SUDOMEMO"
 msgstr "検索"
 
+msgid "SEE_MORE"
+msgstr "もっと見る"
+
 msgid "SETTINGS"
 msgstr "設定"
 
@@ -554,6 +647,9 @@ msgstr "Tumblrで共有"
 msgid "SHARE_ON_TWITTER"
 msgstr "Twitterで共有"
 
+msgid "SHARE_ON_WHATSAPP"
+msgstr "WhatsApp経由で共有"
+
 msgid "SIGN_IN"
 msgstr "ログイン"
 
@@ -566,6 +662,12 @@ msgstr "新規登録"
 # For MusicMatch
 msgid "SONG"
 msgstr "BGM"
+
+msgid "SONGS"
+msgstr "曲"
+
+msgid "SONG_ARTISTS"
+msgstr "アーティスト"
 
 msgid "STARS"
 msgstr "スター数"
@@ -605,6 +707,9 @@ msgstr "スドメモショップ：スドメモプラスのチケットやスタ
 msgid "SUDOMEMO_THEATRE"
 msgstr "スドメモシアター"
 
+msgid "SUDOMEMO_USER"
+msgstr "スドメモユーザー"
+
 msgid "TERMS_OF_USE"
 msgstr "利用規約"
 
@@ -639,8 +744,23 @@ msgstr "アップロードオプション"
 msgid "UPLOAD_STATUS"
 msgstr "アップロード状態"
 
+msgid "USERS"
+msgstr "ユーザー"
+
+msgid "USERS_FLIPNOTE_FROM_FLIPNOTE_HATENA"
+msgstr "うごメモはてなでの%sのうごメモ"
+
+msgid "USERS_PROFILE_FROM_FLIPNOTE_HATENA"
+msgstr "うごメモはてなでの%sのプロフィール"
+
+msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
+msgstr "スドメモのDiscordに参加したら、以下のコマンドをコピーしてチャットに送信してください。"
+
 msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
 msgstr "連携したYouTubeチャンネルとデフォルトの作品アップロード設定を行います。"
+
+msgid "VERIFIED_USER"
+msgstr "確認済みユーザー"
 
 msgid "VIEWPAGE_ADD_MODERATOR_COMMENT"
 msgstr "運営コメントを送信"
@@ -686,6 +806,9 @@ msgstr "子作品"
 # Number of times something has been viewed, or played.
 msgid "VIEWS"
 msgstr "えつらん回数"
+
+msgid "VIEW_ON_SUDOMEMO"
+msgstr "スドメモでみる"
 
 msgid "WELCOME_BOX_AFTERNOON_GREETING"
 msgstr "こんにちは"
@@ -895,126 +1018,3 @@ msgstr "今すぐ見る:"
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "編集中"
-
-msgid "VERIFIED_USER"
-msgstr "確認済みユーザー"
-
-msgid "SHARE_ON_WHATSAPP"
-msgstr "WhatsApp経由で共有"
-
-# This refers to Discord, which is a chat app.
-msgid "DISCORD"
-msgstr "Discord"
-
-msgid "DISCORD_HOW_TO_LINK"
-msgstr "紐付け方法"
-
-msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
-msgstr "スドメモのDiscordに参加したら、以下のコマンドをコピーしてチャットに送信してください。"
-
-# Connected since December 27th, 2020
-msgid "DISCORD_LINKED_ON_DATE"
-msgstr "%sから接続"
-
-# Do not translate ".sudo unlink"
-msgid "HOW_TO_UNLINK_DISCORD"
-msgstr "Discordアカウントとの紐付けを解除したい場合は以下のコマンドをチャットに送信してください: .sudo unlink"
-
-msgid "BTN_JOIN_DISCORD"
-msgstr "Discordに参加する"
-
-msgid "PASS_CHANGE_PASSWORD"
-msgstr "パスワードを変更"
-
-msgid "PASS_CHANGE_CONFIRM_PASSWORD"
-msgstr "パスワードを確認"
-
-msgid "PASS_CHANGE_COMPLETE"
-msgstr "パスワードが更新されました"
-
-msgid "PASS_CHANGE_CONTINUE_TO_LOGIN"
-msgstr "ログインを続行"
-
-msgid "HEADER_CHANGE_PASSWORD"
-msgstr "パスワードを変更"
-
-msgid "PASS_CHANGE_URL_EXPIRED"
-msgstr "リンクの有効期限が切れています"
-
-msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
-msgstr "そのうごメモIDまたはメールアドレスで登録されているユーザーは見つかりませんでした"
-
-msgid "NO_EMAIL_ON_FILE"
-msgstr "メールアドレスが見つかりません。スドメモのサポートにお問い合わせください"
-
-msgid "PASSWORD_RESET_SENT"
-msgstr "登録されているメールアドレスにパスワードのリセットの案内メールが送信されました"
-
-msgid "FORGOT_YOUR_PASSWORD"
-msgstr "パスワードを忘れましたか？"
-
-msgid "SUDOMEMO_USER"
-msgstr "スドメモユーザー"
-
-msgid "FLIPNOTE_ARCHIVE_BUTTON_TOGGLE"
-msgstr "プロフィールにアーカイブされたうごメモはてなのプロフィールへのリンクを表示する"
-
-msgid "FLIPNOTE_ARCHIVE_SETTINGS"
-msgstr "アーカイブ設定"
-
-msgid "FLIPNOTE_ARCHIVE_PROFILE_AVAILABLE"
-msgstr "あなたのうごメモはてなのプロフィールがうごメモアーカイブプレビュープログラムで閲覧可能になりました！うごメモシアターで昔のうごメモを確認できます。"
-
-msgid "FLIPNOTE_ARCHIVE_PROFILE_SETTING_INFORMATION"
-msgstr "ログイン中は、あなたのページにはいつもアーカイブへのリンクが表示されます。これを他のユーザーに表示するかは下で選択できます。"
-
-msgid "FLIPNOTE_ARCHIVE_PROFILE_NOT_AVAILABLE"
-msgstr "このアカウントにはアーカイブされたうごメモはてなプロフィールが存在しません。"
-
-msgid "FLIPNOTE_HATENA_PROFILE"
-msgstr "うごメモはてなでのプロフィール"
-
-msgid "ARCHIVE_PROFILE"
-msgstr "アーカイブされたプロフィール"
-
-msgid "ARCHIVE_PROFILE_DESC"
-msgstr "うごメモはてなのプロフィールのアーカイブです。"
-
-msgid "ARCHIVE_FLIPNOTE"
-msgstr "アーカイブされたうごメモ"
-
-msgid "ARCHIVE_FLIPNOTE_DESC"
-msgstr "このうごメモはうごメモはてなで投稿されました。"
-
-msgid "VIEW_ON_SUDOMEMO"
-msgstr "スドメモでみる"
-
-msgid "ARCHIVE"
-msgstr "アーカイブする"
-
-msgid "ARCHIVED"
-msgstr "アーカイブ済み"
-
-msgid "USERS_FLIPNOTE_FROM_FLIPNOTE_HATENA"
-msgstr "うごメモはてなでの%sのうごメモ"
-
-msgid "USERS_PROFILE_FROM_FLIPNOTE_HATENA"
-msgstr "うごメモはてなでの%sのプロフィール"
-
-msgid "LEARN_MORE"
-msgstr "詳しく知る"
-
-msgid "CONTINUE"
-msgstr "進む"
-
-msgid "SEE_MORE"
-msgstr "もっと見る"
-
-msgid "USERS"
-msgstr "ユーザー"
-
-msgid "SONGS"
-msgstr "曲"
-
-msgid "SONG_ARTISTS"
-msgstr "アーティスト"

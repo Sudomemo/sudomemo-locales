@@ -150,6 +150,10 @@ msgstr "Verificati Email"
 msgid "INCORRECT_PASSWORD_ATTEMPTS_FORMAT"
 msgstr "Numar de parole esuate: %s"
 
+# A URL will be shown at the end of this.
+msgid "LEGACY_PROXY_WARNING"
+msgstr "Se pare ca inca folositi proxy-ul vechi ds.sudomemo.net , pentru care am terminat suportul. Asa ca, opriti acest proxy in Setarile de Sistem, altfel puteti avea probleme cand folositi Sudomemo. Pentru mai multe informatii, visitati:"
+
 msgid "LOGIN"
 msgstr "Conectati-va"
 
@@ -257,7 +261,3 @@ msgstr "Apasati 'Verificati Statutul de Verificare' pe Sistemul dvs. Nintendo DS
 
 msgid "WELCOME_BACK_FORMAT"
 msgstr "Bine ati revenit, %s!"
-
-# A URL will be shown at the end of this.
-msgid "LEGACY_PROXY_WARNING"
-msgstr "Se pare ca inca folositi proxy-ul vechi ds.sudomemo.net , pentru care am terminat suportul. Asa ca, opriti acest proxy in Setarile de Sistem, altfel puteti avea probleme cand folositi Sudomemo. Pentru mai multe informatii, visitati:"

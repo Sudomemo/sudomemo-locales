@@ -3,44 +3,44 @@ msgstr ""
 "Language: nl_NL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "CHANNEL_NAME"
-msgstr "Kanaalnaam"
-
-msgid "CHANNEL_INFORMATION"
-msgstr "Kanaalinformatie"
-
-msgid "FLIPNOTES"
-msgstr "Flipnotes"
+msgid "CATEGORY"
+msgstr "Category"
 
 msgid "CHANNEL_ID"
 msgstr "Kanaal-ID"
 
-msgid "LOGIN_REQUIRED_TO_POST"
-msgstr "Je moet ingelogd zijn om een Flipnote te kunnen plaatsen."
+msgid "CHANNEL_INFORMATION"
+msgstr "Kanaalinformatie"
+
+msgid "CHANNEL_NAME"
+msgstr "Kanaalnaam"
 
 msgid "CHANNEL_NOT_SPECIFIED"
 msgstr "Je moet een Kanaal kiezen."
 
-msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
-msgstr "Je toegang tot Sudomemo is vergrendeld."
-
-msgid "FLIPNOTE_POST_FAILED"
-msgstr "Uploaden van Flipnote mislukt. Probeer het binnenkort nog eens."
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "Bevestig alsjeblieft je e-mailadres voor je iets plaatst."
 
 msgid "DUPLICATE_FLIPNOTE_FAILED"
 msgstr "Deze Flipnote is al geplaatst op Sudomemo. Probeer het eerst te bewerken."
 
+msgid "FLIPNOTES"
+msgstr "Flipnotes"
+
 msgid "FLIPNOTE_DATA_CORRUPTED"
 msgstr "Deze Flipnote is beschadigd. Probeer het binnenkort nog eens."
+
+msgid "FLIPNOTE_POST_FAILED"
+msgstr "Uploaden van Flipnote mislukt. Probeer het binnenkort nog eens."
+
+msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
+msgstr "Je toegang tot Sudomemo is vergrendeld."
+
+msgid "LOGIN_REQUIRED_TO_POST"
+msgstr "Je moet ingelogd zijn om een Flipnote te kunnen plaatsen."
 
 msgid "NO_BLANK_FLIPNOTES_ALLOWED"
 msgstr "Je mag geen lege Flipnote plaatsen."
 
-msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Bevestig alsjeblieft je e-mailadres voor je iets plaatst."
-
 msgid "NO_POSTS_WHILE_MUTED"
 msgstr "Je mag niet plaatsen terwijl je op stil gezet bent."
-
-msgid "CATEGORY"
-msgstr "Category"

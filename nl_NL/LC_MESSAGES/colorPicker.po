@@ -3,15 +3,6 @@ msgstr ""
 "Language: nl_NL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "SET_PEN_COLOR"
-msgstr "Stel Penkleur in"
-
-msgid "SET_PAPER_COLOR"
-msgstr "Stel Papierkleur in"
-
-msgid "SELECT_A_COLOR"
-msgstr "Selecteer een kleur."
-
 msgid "CURRENT_COLOR"
 msgstr "Huidige kleur:"
 
@@ -20,3 +11,12 @@ msgstr "Huidige kleur: standaard"
 
 msgid "RETURN"
 msgstr "Terug"
+
+msgid "SELECT_A_COLOR"
+msgstr "Selecteer een kleur."
+
+msgid "SET_PAPER_COLOR"
+msgstr "Stel Papierkleur in"
+
+msgid "SET_PEN_COLOR"
+msgstr "Stel Penkleur in"

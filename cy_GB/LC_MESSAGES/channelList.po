@@ -3,23 +3,23 @@ msgstr ""
 "Language: cy_GB\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "UPPERTITLE"
-msgstr "Sianelau"
-
-msgid "UPPERSUBBOTTOM"
-msgstr "Please select a channel!"
+msgid "FAVORITES"
+msgstr "Ffefrynnau"
 
 msgid "NEXT"
 msgstr "Tudalen Nesaf"
-
-msgid "PREV"
-msgstr "Tudalen Flaenorol"
-
-msgid "FAVORITES"
-msgstr "Ffefrynnau"
 
 msgid "PAGE"
 msgstr "Tudaloen"
 
 msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d o %d"
+
+msgid "PREV"
+msgstr "Tudalen Flaenorol"
+
+msgid "UPPERSUBBOTTOM"
+msgstr "Please select a channel!"
+
+msgid "UPPERTITLE"
+msgstr "Sianelau"

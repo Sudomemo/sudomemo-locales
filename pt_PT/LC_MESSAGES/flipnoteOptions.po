@@ -3,11 +3,26 @@ msgstr ""
 "Language: pt_PT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "CITIZENSHIP_REQUIRED"
+msgstr "Precisas de uma Cidanania Sudomemo para usar esta função."
+
+msgid "DISABLE_AUDIO_ENHANCEMENT"
+msgstr "Desactivar melhoramento do áudio"
+
+msgid "DISABLE_SMOOTHING"
+msgstr "Desactivar afinação"
+
+msgid "ENABLE_AUDIO_ENHANCEMENT"
+msgstr "Activar melhoramento do áudio"
+
+msgid "ENABLE_SMOOTHING"
+msgstr "Activar afinação"
+
 msgid "FLIPNOTE_OPTIONS"
 msgstr "Opções do Flipnote"
 
-msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
-msgstr "Tens de ter feito login para ver esta página."
+msgid "FLIPNOTE_URL_IS"
+msgstr "URL do Flipnote:"
 
 msgid "HEADER_OPTION"
 msgstr "Opções"
@@ -15,44 +30,29 @@ msgstr "Opções"
 msgid "HEADER_STATUS"
 msgstr "Estado"
 
-msgid "OPTION_NAME_SMOOTH"
-msgstr "Afinar"
-
-msgid "OPTION_DESC_SMOOTH"
-msgstr "Linhas, curvas, e arestas são afinadas para ter um look mais natural no Teatro Sudomemo."
-
-msgid "FLIPNOTE_URL_IS"
-msgstr "URL do Flipnote:"
-
-msgid "ENABLE_SMOOTHING"
-msgstr "Activar afinação"
-
-msgid "DISABLE_SMOOTHING"
-msgstr "Desactivar afinação"
-
-msgid "ON"
-msgstr "Ligado"
+msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
+msgstr "Tens de ter feito login para ver esta página."
 
 msgid "OFF"
 msgstr "Desligado"
 
-msgid "CITIZENSHIP_REQUIRED"
-msgstr "Precisas de uma Cidanania Sudomemo para usar esta função."
+msgid "ON"
+msgstr "Ligado"
+
+msgid "OPTION_DESC_FORCE_44K_BITRATE"
+msgstr "O Sudomemo irá tentar melhorar o Áudio do teu Flipnote para reprodução no Teatro Theatre."
+
+msgid "OPTION_DESC_SMOOTH"
+msgstr "Linhas, curvas, e arestas são afinadas para ter um look mais natural no Teatro Sudomemo."
+
+msgid "OPTION_NAME_FORCE_44K_BITRATE"
+msgstr "Áudio melhorado"
+
+msgid "OPTION_NAME_SMOOTH"
+msgstr "Afinar"
 
 msgid "PLUS_REQUIRED"
 msgstr "Precias do Sudomemo Plus para usar esta função."
 
 msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
 msgstr "Toque num estado de uma opção para a ver ou alterar."
-
-msgid "OPTION_NAME_FORCE_44K_BITRATE"
-msgstr "Áudio melhorado"
-
-msgid "OPTION_DESC_FORCE_44K_BITRATE"
-msgstr "O Sudomemo irá tentar melhorar o Áudio do teu Flipnote para reprodução no Teatro Theatre."
-
-msgid "ENABLE_AUDIO_ENHANCEMENT"
-msgstr "Activar melhoramento do áudio"
-
-msgid "DISABLE_AUDIO_ENHANCEMENT"
-msgstr "Desactivar melhoramento do áudio"

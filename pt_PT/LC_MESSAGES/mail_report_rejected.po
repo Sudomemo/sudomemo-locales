@@ -3,6 +3,33 @@ msgstr ""
 "Language: pt_PT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "CONTENT_ID"
+msgstr "ID de Conteúdo:"
+
+msgid "CONTENT_TYPE"
+msgstr "Tipo de Conteúdo:"
+
+msgid "CONTENT_TYPE_chat_message"
+msgstr "Mensagem de Chat"
+
+msgid "CONTENT_TYPE_comment"
+msgstr "Comentário"
+
+# ## Catch-all
+msgid "CONTENT_TYPE_content"
+msgstr "Outro Conteúdo"
+
+# # Content types
+msgid "CONTENT_TYPE_flipnote"
+msgstr "Flipnote"
+
+msgid "CONTENT_TYPE_profile_bio"
+msgstr "Texto de Perfil"
+
+# ## We plan on adding user-created themes.
+msgid "CONTENT_TYPE_room_theme"
+msgstr "Tema da Sala de Criador"
+
 # Content Report Rejected - sent to user who has reported content after report deemed invalid
 msgid "NOTICE"
 msgstr "Aviso"
@@ -17,30 +44,3 @@ msgstr "A nossa investigação determinou que este tipo de conteúdo não é uma
 # this message is followed by a link
 msgid "REPORT_REJECTED_INFO"
 msgstr "Relatórios como os teus, ajudam a fazer o Sudomemo um lugar seguro para todos. Nós recomendamos que revejas a nossa Política de Conteúdo para perceberes melhor que tipos de conte+udo é aceitável no Sudomemo:"
-
-# # Content types
-msgid "CONTENT_TYPE_flipnote"
-msgstr "Flipnote"
-
-msgid "CONTENT_TYPE_comment"
-msgstr "Comentário"
-
-msgid "CONTENT_TYPE_chat_message"
-msgstr "Mensagem de Chat"
-
-# ## We plan on adding user-created themes.
-msgid "CONTENT_TYPE_room_theme"
-msgstr "Tema da Sala de Criador"
-
-msgid "CONTENT_TYPE_profile_bio"
-msgstr "Texto de Perfil"
-
-# ## Catch-all
-msgid "CONTENT_TYPE_content"
-msgstr "Outro Conteúdo"
-
-msgid "CONTENT_TYPE"
-msgstr "Tipo de Conteúdo:"
-
-msgid "CONTENT_ID"
-msgstr "ID de Conteúdo:"

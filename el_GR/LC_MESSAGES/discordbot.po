@@ -78,6 +78,10 @@ msgstr "Πρέπει να είστε Sudomemo Nitro Booster για να το χ�
 msgid "REJECT_USER_ENOENT"
 msgstr "Δεν βρήκα αυτόν τον χρήστη στο Sudomemo."
 
+# displayed as "💡 Link your Sudomemo account with `.sudo link`"
+msgid "UNLINKED_COMMAND_TIP"
+msgstr "Συνδέστε τον λογαριασμό σας στο Sudomemo με"
+
 # "Usage: example_command <fsid>"
 msgid "USAGE"
 msgstr "Χρήση"
@@ -108,7 +112,3 @@ msgstr ""
 "      Αναζητήστε στο Sudomemo MusicMatch\n"
 "      <mode>: song, artist, genre\n"
 "      <query>: Τι ψάχνετε;"
-
-# displayed as "💡 Link your Sudomemo account with `.sudo link`"
-msgid "UNLINKED_COMMAND_TIP"
-msgstr "Συνδέστε τον λογαριασμό σας στο Sudomemo με"

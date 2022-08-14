@@ -3,59 +3,8 @@ msgstr ""
 "Language: sv_SE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "SEE_MORE"
-msgstr "Visa mer..."
-
-msgid "STARRED_FLIPNOTES"
-msgstr "Starred Flipnotes"
-
-msgid "FAVORITE_USERS"
-msgstr "Favoritanvändare"
-
-msgid "FAVORITES_FEED"
-msgstr "Favoriter flöde"
-
-msgid "FAVORITE_CHANNELS"
-msgstr "Favoritkanaler"
-
-msgid "USER_DOWNLOADCOUNT"
-msgstr "Nerladdningar"
-
-msgid "USER_VIEWCOUNT"
-msgstr "Visningar"
-
-msgid "USER_THEME"
-msgstr "Tema"
-
-msgid "THEME_SHOP"
-msgstr "Temabutik"
-
-msgid "POSTED_COMMENTS"
-msgstr "Publicerade Kommentarer"
-
-msgid "POSTED_CHATCOMMENTS"
-msgstr "Chatmeddelanden"
-
-msgid "FEATURE_USABILITY"
-msgstr "Funktionsanvändbarhet"
-
-msgid "USABLE"
-msgstr "Användbar"
-
-msgid "NOT_USABLE"
-msgstr "Inte Användbar"
-
-msgid "SUDOMEMO_THEATRE_URL"
-msgstr "Sudomemo Theatre Länk"
-
-msgid "FLIPNOTE_STUDIO_ID"
-msgstr "Flipnote Studio ID"
-
-msgid "SETTINGS"
-msgstr "Inställningar"
-
-msgid "ADMIN_ACCT_GOOD_STANDING"
-msgstr "I god ställning"
+msgid "101_CHARACTER_LIMIT_BIO"
+msgstr "Din biografi är begränsad till 101 tecken."
 
 msgid "ADMIN_ACCT_BANNED"
 msgstr "Förbjuden"
@@ -63,20 +12,26 @@ msgstr "Förbjuden"
 msgid "ADMIN_ACCT_BLOCKED"
 msgstr "Blockerad"
 
+msgid "ADMIN_ACCT_GOOD_STANDING"
+msgstr "I god ställning"
+
 msgid "ADMIN_ACCT_MUTED"
 msgstr "Dämpad"
 
-msgid "ADMIN_USER_DETAILS"
-msgstr "Användar Detailer"
+msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
+msgstr "Adminåtgärder"
 
 msgid "ADMIN_LAST_SEEN"
 msgstr "Senast sedd"
 
+msgid "ADMIN_USER_DETAILS"
+msgstr "Användar Detailer"
+
 msgid "ADMIN_USER_STATUS"
 msgstr "Användaratatus"
 
-msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
-msgstr "Adminåtgärder"
+msgid "BLOCKED_USERS"
+msgstr "Blockerade användare"
 
 msgid "BLOCK_COMMENTS_HEADER"
 msgstr "Blockera Kommentarer"
@@ -84,11 +39,53 @@ msgstr "Blockera Kommentarer"
 msgid "BLOCK_COMMENTS_LINK"
 msgstr "Blockera"
 
-msgid "USABILITY_USABLE"
-msgstr "Användbar"
+msgid "CAN_DRAW_TICKET_SUBTEXT"
+msgstr "Du kan dra en vanlig biljett! Du kanske vinner ett pris."
 
-msgid "USABILITY_NOT_USABLE"
-msgstr "Inte användbar"
+msgid "CHANGE_ROOM_THEME_LINK"
+msgstr "[byt tema]"
+
+msgid "CREATORS_ROOM"
+msgstr "Creator's Room"
+
+msgid "CURRENT_BIO"
+msgstr "Nuvarande bio:"
+
+msgid "DRAW_REGULAR_TICKET"
+msgstr "Dra biljett"
+
+msgid "ENTER_BIO"
+msgstr "Lägg till bio..."
+
+msgid "EXAMPLE"
+msgstr "Exempel"
+
+msgid "FANS"
+msgstr "Fans"
+
+msgid "FAN_COUNT_FORMAT"
+msgstr "Fans: %s"
+
+msgid "FAVORITES_FEED"
+msgstr "Favoriter flöde"
+
+msgid "FAVORITE_CHANNELS"
+msgstr "Favoritkanaler"
+
+msgid "FAVORITE_USERS"
+msgstr "Favoritanvändare"
+
+msgid "FEATURE_USABILITY"
+msgstr "Funktionsanvändbarhet"
+
+msgid "FLIPNOTE_STUDIO_ID"
+msgstr "Flipnote Studio ID"
+
+msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
+msgstr "Du kan inte följa mer än %d användare."
+
+msgid "HEADER_EDIT_BIOGRAPHY"
+msgstr "Ändrabiografi"
 
 msgid "HEADER_FOLLOWERS"
 msgstr "Följare"
@@ -96,122 +93,29 @@ msgstr "Följare"
 msgid "HEADER_FOLLOWING"
 msgstr "Följer"
 
-msgid "PREVIOUS"
-msgstr "Föregående"
-
-msgid "NEXT"
-msgstr "Nästa"
-
-msgid "CHANGE_ROOM_THEME_LINK"
-msgstr "[byt tema]"
-
-msgid "SELECT_THEME"
-msgstr "Välj Tema"
-
-msgid "FANS"
-msgstr "Fans"
-
-msgid "EXAMPLE"
-msgstr "Exempel"
-
-msgid "THEMETEST_SET_THEME"
-msgstr "Lägg till Tema"
-
-msgid "THEMETEST_NOTICE"
-msgstr "Notis"
-
-msgid "THEMETEST_OK"
-msgstr "Okej"
-
-msgid "THEMETEST_ERROR"
-msgstr "Fel"
-
-msgid "THEMETEST_NOTICE_2"
-msgstr "Notis #2"
-
-msgid "THEMETEST_ACTIVE_TAB"
-msgstr "Aktiv flik"
-
-msgid "THEMETEST_INACTIVE_TAB"
-msgstr "Inaktiv flik"
-
-msgid "PREVIEW"
-msgstr "Förhandsvisning"
-
-msgid "CREATORS_ROOM"
-msgstr "Creator's Room"
-
-msgid "THEME_ERROR_THEME_NOT_OWNED"
-msgstr "Tyvärr! Du äger inte detta tema."
-
-msgid "THEME_SUCCESSFULLY_SET"
-msgstr "Tema har lagts till!"
-
-msgid "BLOCKED_USERS"
-msgstr "Blockerade användare"
-
-msgid "VIEW"
-msgstr "Visa"
-
-msgid "FAN_COUNT_FORMAT"
-msgstr "Fans: %s"
-
 msgid "HEADER_LANGUAGE"
 msgstr "Språk"
 
 msgid "HEADER_MAIL_SETTINGS"
 msgstr "Mailinställningar"
 
-msgid "HEADER_EDIT_BIOGRAPHY"
-msgstr "Ändrabiografi"
-
-msgid "SET_BIO_INSTRUCTIONS"
-msgstr "Lägg till din profilbiografi nedan. Detta kommer visas på Sudomemo och Sudomemo Theatre"
-
-msgid "ENTER_BIO"
-msgstr "Lägg till bio..."
-
-msgid "101_CHARACTER_LIMIT_BIO"
-msgstr "Din biografi är begränsad till 101 tecken."
-
-msgid "LEAVE_BLANK_TO_RESET_BIO"
-msgstr "För att rensa din biografi, lämna formulären tom när du sparar."
-
-msgid "CURRENT_BIO"
-msgstr "Nuvarande bio:"
-
-msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
-msgstr "Du kan inte följa mer än %d användare."
-
-msgid "RANKING"
-msgstr "Ranking"
-
-msgid "TICKET_SECTION"
-msgstr "Biljetter"
-
-msgid "DRAW_REGULAR_TICKET"
-msgstr "Dra biljett"
-
-msgid "CAN_DRAW_TICKET_SUBTEXT"
-msgstr "Du kan dra en vanlig biljett! Du kanske vinner ett pris."
+msgid "HEADER_SUPPORT_TOKEN"
+msgstr "Support Token"
 
 msgid "INVENTORY"
 msgstr "Förråd"
 
-msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
-msgstr "Du kan dra en annan biljett om: %s timme(ar) %s minut(er)."
-
-msgid "REDEEM"
-msgstr "Dra"
-
-msgid "SPENDABLE_STARS"
-msgstr "Dina Stars"
-
-msgid "SPENDABLE_STARS_HELPTEXT"
-msgstr "Stars att använda för att lägga till på Flipnotes eller köpa teman"
+msgid "LEAVE_BLANK_TO_RESET_BIO"
+msgstr "För att rensa din biografi, lämna formulären tom när du sparar."
 
 msgid "LOGIN_REQUIRED_ACTION"
 msgstr "Du måste logga in för att utföra den här åtgärden."
+
+msgid "NEXT"
+msgstr "Nästa"
+
+msgid "NOT_USABLE"
+msgstr "Inte Användbar"
 
 msgid "PAGE"
 msgstr "Sida"
@@ -219,8 +123,107 @@ msgstr "Sida"
 msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d av %d"
 
-msgid "HEADER_SUPPORT_TOKEN"
-msgstr "Support Token"
+msgid "POSTED_CHATCOMMENTS"
+msgstr "Chatmeddelanden"
+
+msgid "POSTED_COMMENTS"
+msgstr "Publicerade Kommentarer"
+
+msgid "PREVIEW"
+msgstr "Förhandsvisning"
+
+msgid "PREVIOUS"
+msgstr "Föregående"
+
+msgid "RANKING"
+msgstr "Ranking"
+
+msgid "REDEEM"
+msgstr "Dra"
 
 msgid "REQUEST"
 msgstr "Request"
+
+msgid "SEE_MORE"
+msgstr "Visa mer..."
+
+msgid "SELECT_THEME"
+msgstr "Välj Tema"
+
+msgid "SETTINGS"
+msgstr "Inställningar"
+
+msgid "SET_BIO_INSTRUCTIONS"
+msgstr "Lägg till din profilbiografi nedan. Detta kommer visas på Sudomemo och Sudomemo Theatre"
+
+msgid "SPENDABLE_STARS"
+msgstr "Dina Stars"
+
+msgid "SPENDABLE_STARS_HELPTEXT"
+msgstr "Stars att använda för att lägga till på Flipnotes eller köpa teman"
+
+msgid "STARRED_FLIPNOTES"
+msgstr "Starred Flipnotes"
+
+msgid "SUDOMEMO_THEATRE_URL"
+msgstr "Sudomemo Theatre Länk"
+
+msgid "THEMETEST_ACTIVE_TAB"
+msgstr "Aktiv flik"
+
+msgid "THEMETEST_ERROR"
+msgstr "Fel"
+
+msgid "THEMETEST_INACTIVE_TAB"
+msgstr "Inaktiv flik"
+
+msgid "THEMETEST_NOTICE"
+msgstr "Notis"
+
+msgid "THEMETEST_NOTICE_2"
+msgstr "Notis #2"
+
+msgid "THEMETEST_OK"
+msgstr "Okej"
+
+msgid "THEMETEST_SET_THEME"
+msgstr "Lägg till Tema"
+
+msgid "THEME_ERROR_THEME_NOT_OWNED"
+msgstr "Tyvärr! Du äger inte detta tema."
+
+msgid "THEME_SHOP"
+msgstr "Temabutik"
+
+msgid "THEME_SUCCESSFULLY_SET"
+msgstr "Tema har lagts till!"
+
+msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
+msgstr "Du kan dra en annan biljett om: %s timme(ar) %s minut(er)."
+
+msgid "TICKET_SECTION"
+msgstr "Biljetter"
+
+msgid "USABILITY_NOT_USABLE"
+msgstr "Inte användbar"
+
+msgid "USABILITY_USABLE"
+msgstr "Användbar"
+
+msgid "USABLE"
+msgstr "Användbar"
+
+msgid "USER_DOWNLOADCOUNT"
+msgstr "Nerladdningar"
+
+msgid "USER_THEME"
+msgstr "Tema"
+
+msgid "USER_VIEWCOUNT"
+msgstr "Visningar"
+
+msgid "VIEW"
+msgstr "Visa"
+
+msgid "WATCH_HISTORY"
+msgstr "Watch History"

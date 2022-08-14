@@ -6,17 +6,17 @@ msgstr ""
 msgid "CHANGE_LANGUAGE"
 msgstr "Schimbati Limba"
 
+msgid "INVALID_LOCALE"
+msgstr "Ne pare rau, dar aceasta limba nu este disponibila!"
+
 msgid "LANGUAGE_UPDATED_FORMAT"
 msgstr "Limba dvs. a fost schimbata in %s."
+
+msgid "NOT_LOGGED_IN"
+msgstr "Trebuie sa va conectati pentru a va schimba limba."
 
 msgid "POTENTIAL_CONTRIBUTOR_NOTE"
 msgstr "Sudomemo se bazeaza pe comunitatea sa pentru a oferi traduceri exacte. Daca vedeti ceva care nu se afiseaza, este inca in Engleza, este o traducere de calitate joasa, sau daca vreti sa va adaugati limba, va invitam sa participati! Traduceri noi integrale si verificate va pot oferi zile in plus de Sudomemo Plus. Puteti face asta aici: "
 
 msgid "RETURN_TO_CREATORS_ROOM"
 msgstr "Intoarceti-va la Camera Creatorului"
-
-msgid "NOT_LOGGED_IN"
-msgstr "Trebuie sa va conectati pentru a va schimba limba."
-
-msgid "INVALID_LOCALE"
-msgstr "Ne pare rau, dar aceasta limba nu este disponibila!"

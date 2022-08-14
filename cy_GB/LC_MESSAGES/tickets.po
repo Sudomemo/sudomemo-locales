@@ -3,12 +3,8 @@ msgstr ""
 "Language: cy_GB\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-# Code Redemption
-msgid "REDEEM_CODE"
-msgstr "Wneud iawn am côd"
-
-msgid "ENTER_CODE_TO_REDEEM"
-msgstr "Nodwch y côd yr hoffech chi ei adbrynu isod."
+msgid "ACHIEVEMENT"
+msgstr "Achievement"
 
 msgid "CODE_ALREADY_USED"
 msgstr "Mae'r côd a nodwyd gennych eisoes wedi'i ddefnyddio."
@@ -19,29 +15,220 @@ msgstr "Mae'r côd a rhoddoch yn annilys."
 msgid "CODE_NONEXISTING_OR_EXPIRED"
 msgstr "Nid yw'r côd fewnosodwyd yn bodoli neu wedi dod i ben."
 
-msgid "LOGIN_REQUIRED_REDEEM_CODE"
-msgstr "Rhaid i chi fod mewngofnodi i wneud iawn côd."
-
-# Ticket delivery
-msgid "YOU_GOT_A_TICKET"
-msgstr "Mae gennych chi tocyn!"
+msgid "COLOR_STARS"
+msgstr "Seren Lliw"
 
 msgid "CONTINUE"
 msgstr "Parhau"
+
+msgid "CREATORS_ROOM_THEME"
+msgstr "Thema Ystafell Crewr"
+
+msgid "DONT_HAVE_ANY_TO_USE"
+msgstr "Does dim yr eitem honno i'w defnyddio gyda chi."
+
+msgid "ENTER_CODE_TO_REDEEM"
+msgstr "Nodwch y côd yr hoffech chi ei adbrynu isod."
 
 # InventoryYour inventory is empty
 msgid "INVENTORY"
 msgstr "Rhestr Eiddo"
 
-msgid "USE_ITEM"
-msgstr "Defnyddio"
-
 msgid "INVENTORY_IS_EMPTY"
 msgstr "Mae eich rhestr eiddo yn wag."
 
-# Ticket redemption
-msgid "TICKET_REDEEM_WIN_FORMAT"
-msgstr "Rydych chi wedi prynu'r %s!"
+msgid "LOGIN_REQUIRED_REDEEM_CODE"
+msgstr "Rhaid i chi fod mewngofnodi i wneud iawn côd."
+
+# Code Redemption
+msgid "REDEEM_CODE"
+msgstr "Wneud iawn am côd"
+
+msgid "SUDOMEMO_CITIZENSHIP"
+msgstr "Sudomemo Citizenship"
+
+msgid "SUDOMEMO_PLUS"
+msgstr "Sudomemo Plus"
+
+msgid "SUDOMEMO_PLUS_BALANCE_FORMAT"
+msgstr "Balans: %s dyddiau"
+
+msgid "SUDOMEMO_PLUS_FORMAT"
+msgstr "Cawsoch werth %s diwrnod o Sudomemo Plus!"
+
+msgid "THEME_AVAILABLE_FOR_USE"
+msgstr "Nawr gallwch ddefnyddio'r thema hon yn Ystafell eich Creawdwr!"
+
+msgid "TICKET_DESC_7th_birthday_bash_ticket"
+msgstr "Thanks for attending our Birthday Bash!"
+
+msgid "TICKET_DESC_8th_birthday_bash_ticket"
+msgstr "Thanks for attending our Birthday Bash!"
+
+msgid "TICKET_DESC_archive_supporter_ticket"
+msgstr "Thank you for helping preserve Flipnote history!"
+
+msgid "TICKET_DESC_birthday_ticket"
+msgstr "Penblwydd hapus!"
+
+msgid "TICKET_DESC_blue_dog_ticket"
+msgstr "This ticket gives you 350 spendable Sudomemo Stars (maybe even a rare one!), an exclusive theme, and a special badge displayed on your profile!"
+
+msgid "TICKET_DESC_colors_promo_ticket"
+msgstr "You won the Sudomemo x Colors! June 2020 Weekly Topic!"
+
+msgid "TICKET_DESC_demo_ticket"
+msgstr "Yn amlwg, dyma'r disgrifiad ar gyfer y tocyn demo."
+
+msgid "TICKET_DESC_featured_artist_ticket"
+msgstr "We give our warm congratulations to you for becoming a Sudomemo Featured Artist!"
+
+msgid "TICKET_DESC_featured_flipnote_ticket"
+msgstr "Congratulations! One of your Flipnotes was featured."
+
+msgid "TICKET_DESC_ffotd_ticket"
+msgstr "Congratulations! You posted the first Flipnote of the new decade!"
+
+msgid "TICKET_DESC_folding_reward_ticket"
+msgstr "Thanks for helping save lives!"
+
+msgid "TICKET_DESC_golden_neko_ticket"
+msgstr "This ticket gives you 1300 spendable Sudomemo Stars (with multiple rare ones!), an exclusive theme, and a special badge displayed on your profile!"
+
+msgid "TICKET_DESC_green_panda_ticket"
+msgstr "This ticket gives you 110 spendable Sudomemo Stars, an exclusive theme, and a special badge displayed on your profile!"
+
+msgid "TICKET_DESC_instagram_promo_ticket"
+msgstr "Diolch am ddilyn yr Instagram Sudomemo!"
+
+# The last character of this message is the DSi symbol for a heart. Don't remove it. [NOTE: Birthday and anniversary are the same word in Welsh].
+msgid "TICKET_DESC_love_anniversary_ticket"
+msgstr "Penblwydd Hapus "
+
+msgid "TICKET_DESC_neighborhood_watch_ticket"
+msgstr "Thank you helping keep Sudomemo a safe and welcoming place!"
+
+msgid "TICKET_DESC_nitro_booster_ticket"
+msgstr "Hey, you! You're awesome! Thanks for boosting the Sudomemo Discord!"
+
+msgid "TICKET_DESC_one_month_plus_ticket"
+msgstr "Bydd y tocyn hwn yn rhoi mis o Sudomemo Plus i chi!"
+
+msgid "TICKET_DESC_one_year_plus_ticket"
+msgstr "Bydd y tocyn hwn yn rhoi blwyddyn o Sudomemo Plus i chi!"
+
+msgid "TICKET_DESC_purple_bunny_ticket"
+msgstr "This ticket gives you 600 spendable Sudomemo Stars (very likely some rare ones!), an exclusive theme, and a special badge displayed on your profile!"
+
+msgid "TICKET_DESC_red_bird_ticket"
+msgstr "This ticket gives you 230 spendable Sudomemo Stars, an exclusive theme, and a special badge displayed on your profile!"
+
+msgid "TICKET_DESC_regular_ticket"
+msgstr "Diolch am defnyddio Sudomemo!"
+
+msgid "TICKET_DESC_special_someone_ticket"
+msgstr "For that special someone. Three months of Plus, Color Stars, and an exclusive theme."
+
+msgid "TICKET_DESC_spookmaster_ticket"
+msgstr "Thank you so much for playing SudoQuest: Requiem! We hope you enjoyed the game."
+
+msgid "TICKET_DESC_survey_thanks_ticket"
+msgstr "Thanks for filling out our survey!"
+
+msgid "TICKET_DESC_translator_ticket"
+msgstr "Thank you for helping localize Sudomemo!"
+
+msgid "TICKET_DESC_twitter_promo_ticket"
+msgstr "Diolch am ddilyn y Sudomemo Twitter!"
+
+msgid "TICKET_DESC_weekly_topic_winner_ticket"
+msgstr "Llongyfarchiadau ar ennill Pwnc Wythnosol Sudomemo!"
+
+msgid "TICKET_NAME_7th_birthday_bash_ticket"
+msgstr "7th Birthday Bash Ticket"
+
+msgid "TICKET_NAME_8th_birthday_bash_ticket"
+msgstr "8th Birthday Bash Ticket"
+
+msgid "TICKET_NAME_archive_supporter_ticket"
+msgstr "Archive Supporter Ticket"
+
+msgid "TICKET_NAME_birthday_ticket"
+msgstr "Tocyn Pen-blwydd"
+
+msgid "TICKET_NAME_blue_dog_ticket"
+msgstr "Ziggy Starburst Ticket"
+
+msgid "TICKET_NAME_colors_promo_ticket"
+msgstr "Colors! Promo Ticket"
+
+# Each ticket type will have a name and a description 
+msgid "TICKET_NAME_demo_ticket"
+msgstr "Tocyn Demo"
+
+msgid "TICKET_NAME_featured_artist_ticket"
+msgstr "Featured Artist Ticket"
+
+msgid "TICKET_NAME_featured_flipnote_ticket"
+msgstr "Featured Flipnote Ticket"
+
+msgid "TICKET_NAME_ffotd_ticket"
+msgstr "First Flipnote of the Decade"
+
+msgid "TICKET_NAME_folding_reward_ticket"
+msgstr "Folding@Home Reward Ticket"
+
+msgid "TICKET_NAME_golden_neko_ticket"
+msgstr "Mitsuo Meow Ticket"
+
+msgid "TICKET_NAME_green_panda_ticket"
+msgstr "Lazy Paisley Ticket"
+
+msgid "TICKET_NAME_instagram_promo_ticket"
+msgstr "Tocyn Promo Instagram"
+
+msgid "TICKET_NAME_love_anniversary_ticket"
+msgstr "Anniversary Ticket"
+
+msgid "TICKET_NAME_neighborhood_watch_ticket"
+msgstr "Neighborhood Watch Ticket"
+
+msgid "TICKET_NAME_nitro_booster_ticket"
+msgstr "Nitro Booster Ticket"
+
+# Sudomemo Plus
+msgid "TICKET_NAME_one_month_plus_ticket"
+msgstr "Tocyn 'Plus' (Un Mis)"
+
+msgid "TICKET_NAME_one_year_plus_ticket"
+msgstr "Tocyn 'Plus' (Un Blwydden)"
+
+msgid "TICKET_NAME_purple_bunny_ticket"
+msgstr "Russell Ramblewood Ticket"
+
+msgid "TICKET_NAME_red_bird_ticket"
+msgstr "Bailey Flitwing Ticket"
+
+msgid "TICKET_NAME_regular_ticket"
+msgstr "Tocyn Rheolaidd"
+
+msgid "TICKET_NAME_special_someone_ticket"
+msgstr "Special Someone Ticket"
+
+msgid "TICKET_NAME_spookmaster_ticket"
+msgstr "Spookmaster Ticket"
+
+msgid "TICKET_NAME_survey_thanks_ticket"
+msgstr "Survey Ticket"
+
+msgid "TICKET_NAME_translator_ticket"
+msgstr "Translator Ticket"
+
+msgid "TICKET_NAME_twitter_promo_ticket"
+msgstr "Tocyn Promo Trydar"
+
+msgid "TICKET_NAME_weekly_topic_winner_ticket"
+msgstr "Tocyn Enillydd Pwnc Wythnosol"
 
 msgid "TICKET_REDEEM_LOSE_FORMAT"
 msgstr "Fe wnaethoch chi brynu'r %s, ond ..."
@@ -49,200 +236,13 @@ msgstr "Fe wnaethoch chi brynu'r %s, ond ..."
 msgid "TICKET_REDEEM_NO_PRIZES"
 msgstr "Wnaethoch chi ddim ennill dim byd. Sori!"
 
-msgid "ACHIEVEMENT"
-msgstr "Achievement"
-
-msgid "COLOR_STARS"
-msgstr "Seren Lliw"
-
-msgid "CREATORS_ROOM_THEME"
-msgstr "Thema Ystafell Crewr"
-
-msgid "SUDOMEMO_CITIZENSHIP"
-msgstr "Sudomemo Citizenship"
-
-msgid "THEME_AVAILABLE_FOR_USE"
-msgstr "Nawr gallwch ddefnyddio'r thema hon yn Ystafell eich Creawdwr!"
-
-msgid "SUDOMEMO_PLUS"
-msgstr "Sudomemo Plus"
-
-msgid "SUDOMEMO_PLUS_FORMAT"
-msgstr "Cawsoch werth %s diwrnod o Sudomemo Plus!"
-
-msgid "SUDOMEMO_PLUS_BALANCE_FORMAT"
-msgstr "Balans: %s dyddiau"
-
-# Each ticket type will have a name and a description 
-msgid "TICKET_NAME_demo_ticket"
-msgstr "Tocyn Demo"
-
-msgid "TICKET_DESC_demo_ticket"
-msgstr "Yn amlwg, dyma'r disgrifiad ar gyfer y tocyn demo."
-
-msgid "TICKET_NAME_regular_ticket"
-msgstr "Tocyn Rheolaidd"
-
-msgid "TICKET_DESC_regular_ticket"
-msgstr "Diolch am defnyddio Sudomemo!"
-
-msgid "TICKET_NAME_twitter_promo_ticket"
-msgstr "Tocyn Promo Trydar"
-
-msgid "TICKET_DESC_twitter_promo_ticket"
-msgstr "Diolch am ddilyn y Sudomemo Twitter!"
-
-msgid "TICKET_NAME_instagram_promo_ticket"
-msgstr "Tocyn Promo Instagram"
-
-msgid "TICKET_DESC_instagram_promo_ticket"
-msgstr "Diolch am ddilyn yr Instagram Sudomemo!"
-
-msgid "TICKET_NAME_weekly_topic_winner_ticket"
-msgstr "Tocyn Enillydd Pwnc Wythnosol"
-
-msgid "TICKET_DESC_weekly_topic_winner_ticket"
-msgstr "Llongyfarchiadau ar ennill Pwnc Wythnosol Sudomemo!"
-
-msgid "TICKET_NAME_birthday_ticket"
-msgstr "Tocyn Pen-blwydd"
-
-msgid "TICKET_DESC_birthday_ticket"
-msgstr "Penblwydd hapus!"
-
-msgid "TICKET_NAME_love_anniversary_ticket"
-msgstr "Anniversary Ticket"
-
-# The last character of this message is the DSi symbol for a heart. Don't remove it. [NOTE: Birthday and anniversary are the same word in Welsh].
-msgid "TICKET_DESC_love_anniversary_ticket"
-msgstr "Penblwydd Hapus "
-
-# Sudomemo Plus
-msgid "TICKET_NAME_one_month_plus_ticket"
-msgstr "Tocyn 'Plus' (Un Mis)"
-
-msgid "TICKET_DESC_one_month_plus_ticket"
-msgstr "Bydd y tocyn hwn yn rhoi mis o Sudomemo Plus i chi!"
-
-msgid "TICKET_NAME_one_year_plus_ticket"
-msgstr "Tocyn 'Plus' (Un Blwydden)"
-
-msgid "TICKET_DESC_one_year_plus_ticket"
-msgstr "Bydd y tocyn hwn yn rhoi blwyddyn o Sudomemo Plus i chi!"
-
-msgid "DONT_HAVE_ANY_TO_USE"
-msgstr "Does dim yr eitem honno i'w defnyddio gyda chi."
-
-msgid "TICKET_NAME_ffotd_ticket"
-msgstr "First Flipnote of the Decade"
-
-msgid "TICKET_DESC_ffotd_ticket"
-msgstr "Congratulations! You posted the first Flipnote of the new decade!"
-
-msgid "TICKET_NAME_survey_thanks_ticket"
-msgstr "Survey Ticket"
-
-msgid "TICKET_DESC_survey_thanks_ticket"
-msgstr "Thanks for filling out our survey!"
-
-msgid "TICKET_NAME_special_someone_ticket"
-msgstr "Special Someone Ticket"
-
-msgid "TICKET_DESC_special_someone_ticket"
-msgstr "For that special someone. Three months of Plus, Color Stars, and an exclusive theme."
-
-msgid "TICKET_NAME_folding_reward_ticket"
-msgstr "Folding@Home Reward Ticket"
-
-msgid "TICKET_DESC_folding_reward_ticket"
-msgstr "Thanks for helping save lives!"
-
-msgid "TICKET_NAME_green_panda_ticket"
-msgstr "Lazy Paisley Ticket"
-
-msgid "TICKET_DESC_green_panda_ticket"
-msgstr "This ticket gives you 110 spendable Sudomemo Stars, an exclusive theme, and a special badge displayed on your profile!"
-
-msgid "TICKET_NAME_red_bird_ticket"
-msgstr "Bailey Flitwing Ticket"
-
-msgid "TICKET_DESC_red_bird_ticket"
-msgstr "This ticket gives you 230 spendable Sudomemo Stars, an exclusive theme, and a special badge displayed on your profile!"
-
-msgid "TICKET_NAME_blue_dog_ticket"
-msgstr "Ziggy Starburst Ticket"
-
-msgid "TICKET_DESC_blue_dog_ticket"
-msgstr "This ticket gives you 350 spendable Sudomemo Stars (maybe even a rare one!), an exclusive theme, and a special badge displayed on your profile!"
-
-msgid "TICKET_NAME_purple_bunny_ticket"
-msgstr "Russell Ramblewood Ticket"
-
-msgid "TICKET_DESC_purple_bunny_ticket"
-msgstr "This ticket gives you 600 spendable Sudomemo Stars (very likely some rare ones!), an exclusive theme, and a special badge displayed on your profile!"
-
-msgid "TICKET_NAME_golden_neko_ticket"
-msgstr "Mitsuo Meow Ticket"
-
-msgid "TICKET_DESC_golden_neko_ticket"
-msgstr "This ticket gives you 1300 spendable Sudomemo Stars (with multiple rare ones!), an exclusive theme, and a special badge displayed on your profile!"
-
-msgid "TICKET_NAME_translator_ticket"
-msgstr "Translator Ticket"
-
-msgid "TICKET_DESC_translator_ticket"
-msgstr "Thank you for helping localize Sudomemo!"
-
-msgid "TICKET_NAME_colors_promo_ticket"
-msgstr "Colors! Promo Ticket"
-
-msgid "TICKET_DESC_colors_promo_ticket"
-msgstr "You won the Sudomemo x Colors! June 2020 Weekly Topic!"
-
-msgid "TICKET_NAME_neighborhood_watch_ticket"
-msgstr "Neighborhood Watch Ticket"
-
-msgid "TICKET_DESC_neighborhood_watch_ticket"
-msgstr "Thank you helping keep Sudomemo a safe and welcoming place!"
-
-msgid "TICKET_NAME_featured_flipnote_ticket"
-msgstr "Featured Flipnote Ticket"
-
-msgid "TICKET_DESC_featured_flipnote_ticket"
-msgstr "Congratulations! One of your Flipnotes was featured."
-
-msgid "TICKET_NAME_featured_artist_ticket"
-msgstr "Featured Artist Ticket"
-
-msgid "TICKET_DESC_featured_artist_ticket"
-msgstr "We give our warm congratulations to you for becoming a Sudomemo Featured Artist!"
-
-msgid "TICKET_NAME_spookmaster_ticket"
-msgstr "Spookmaster Ticket"
-
-msgid "TICKET_DESC_spookmaster_ticket"
-msgstr "Thank you so much for playing SudoQuest: Requiem! We hope you enjoyed the game."
-
-msgid "TICKET_NAME_nitro_booster_ticket"
-msgstr "Nitro Booster Ticket"
-
-msgid "TICKET_DESC_nitro_booster_ticket"
-msgstr "Hey, you! You're awesome! Thanks for boosting the Sudomemo Discord!"
-
-msgid "TICKET_NAME_7th_birthday_bash_ticket"
-msgstr "7th Birthday Bash Ticket"
-
-msgid "TICKET_DESC_7th_birthday_bash_ticket"
-msgstr "Thanks for attending our Birthday Bash!"
-
-msgid "TICKET_NAME_8th_birthday_bash_ticket"
-msgstr "8th Birthday Bash Ticket"
-
-msgid "TICKET_DESC_8th_birthday_bash_ticket"
-msgstr "Thanks for attending our Birthday Bash!"
-
-msgid "TICKET_NAME_archive_supporter_ticket"
-msgstr "Archive Supporter Ticket"
-
-msgid "TICKET_DESC_archive_supporter_ticket"
-msgstr "Thank you for helping preserve Flipnote history!"
+# Ticket redemption
+msgid "TICKET_REDEEM_WIN_FORMAT"
+msgstr "Rydych chi wedi prynu'r %s!"
+
+msgid "USE_ITEM"
+msgstr "Defnyddio"
+
+# Ticket delivery
+msgid "YOU_GOT_A_TICKET"
+msgstr "Mae gennych chi tocyn!"

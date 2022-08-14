@@ -3,95 +3,101 @@ msgstr ""
 "Language: en_ZA\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "TIMESTAMP_FORMAT"
-msgstr "M d, Y H:i:s"
-
-msgid "FLIPNOTE_TITLE_FORMAT"
-msgstr "flippynote by %s"
-
-msgid "HEADER_DETAILS"
-msgstr "Derails"
-
-msgid "HEADER_COMMENTS"
-msgstr "AAAAA"
-
-msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
-msgstr "This flipmeme is a spinaroo"
-
-msgid "HEADER_ORIGINAL_FLIPNOTE"
-msgstr "View the source flipmeme here"
-
-msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
-msgstr "to prevent star-begging, yello stars r limited to ten per flipnot"
-
-msgid "HEADER_CREATOR"
-msgstr "creator"
-
-msgid "HEADER_STARS"
-msgstr "look at dat!"
-
-msgid "HEADER_VIEWS"
-msgstr "clicks!"
-
-msgid "HEADER_SPINOFFS"
-msgstr "spinaroos!"
-
-msgid "HEADER_DOWNLOADS"
-msgstr "savies!"
-
-msgid "HEADER_TITLE"
-msgstr "art name"
-
-msgid "HEADER_POSTED"
-msgstr "locked in"
-
-msgid "HEADER_FLIPNOTE_ID"
-msgstr "Flipmeme ID"
-
-msgid "HEADER_CHANNEL"
-msgstr "channel!!"
-
-msgid "HEADER_OPTIONS"
-msgstr "Settings"
-
-msgid "HEADER_SET_AS_PROFILE_PICTURE"
-msgstr "Set as Profile Picture"
-
-msgid "HEADER_REPORT_FLIPNOTE"
-msgstr "Report Flipnote"
-
-msgid "ADMIN_ACTIONS"
-msgstr "Admin actions"
-
-msgid "PREV"
-msgstr "oops"
-
-msgid "NEXT"
-msgstr "yeet"
-
-msgid "STAR_DETAILS_UPPERTITLE"
-msgstr "★ @o@ ★"
-
-msgid "SET_TITLE"
-msgstr "give name"
-
-msgid "SET_TITLE_INSTRUCTIONS"
-msgstr "put name here pls."
+msgid "101_CHARACTER_LIMIT_DESC"
+msgstr "it can be...101 LETTERS!"
 
 msgid "40_CHARACTER_LIMIT"
 msgstr "it can be... 40 LETTERS!"
 
-msgid "LEAVE_BLANK_TO_RESET"
-msgstr "take away title? leave blank."
+msgid "ADMIN_ACTIONS"
+msgstr "Admin actions"
+
+msgid "ENTER_DESCRIPTION"
+msgstr "put it in here..."
 
 msgid "ENTER_TITLE"
 msgstr "ya right here..."
 
+msgid "FLIPNOTE_TITLE_FORMAT"
+msgstr "flippynote by %s"
+
 msgid "HEADER_ADD_DESCRIPTION"
 msgstr "add MORE INFO pls"
 
+msgid "HEADER_CHANNEL"
+msgstr "channel!!"
+
+msgid "HEADER_COMMENTS"
+msgstr "AAAAA"
+
+msgid "HEADER_CREATOR"
+msgstr "creator"
+
 msgid "HEADER_DESCRIPTION"
 msgstr "Description"
+
+msgid "HEADER_DETAILS"
+msgstr "Derails"
+
+msgid "HEADER_DOWNLOADS"
+msgstr "savies!"
+
+msgid "HEADER_FLIPNOTE_ID"
+msgstr "Flipmeme ID"
+
+msgid "HEADER_FLIPNOTE_OPTIONS"
+msgstr "fiddle"
+
+msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
+msgstr "to prevent star-begging, yello stars r limited to ten per flipnot"
+
+msgid "HEADER_OPTIONS"
+msgstr "Settings"
+
+msgid "HEADER_ORIGINAL_FLIPNOTE"
+msgstr "View the source flipmeme here"
+
+msgid "HEADER_POSTED"
+msgstr "locked in"
+
+msgid "HEADER_REPORT_FLIPNOTE"
+msgstr "Report Flipnote"
+
+msgid "HEADER_SET_AS_PROFILE_PICTURE"
+msgstr "Set as Profile Picture"
+
+msgid "HEADER_SONG"
+msgstr "Song"
+
+msgid "HEADER_SPINOFFS"
+msgstr "spinaroos!"
+
+msgid "HEADER_STARS"
+msgstr "look at dat!"
+
+msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
+msgstr "This flipmeme is a spinaroo"
+
+msgid "HEADER_TITLE"
+msgstr "art name"
+
+msgid "HEADER_UPLOAD_TO_YOUTUBE"
+msgstr "Upload to YouTube"
+
+msgid "HEADER_VIEWS"
+msgstr "clicks!"
+
+msgid "LEAVE_BLANK_TO_RESET"
+msgstr "take away title? leave blank."
+
+msgid "LEAVE_BLANK_TO_RESET_DESC"
+msgstr "take away description? ;<; leave blank"
+
+msgid "NEXT"
+msgstr "yeet"
+
+msgid "PREV"
+msgstr "oops"
 
 msgid "SET_DESCRIPTION"
 msgstr "Set Description"
@@ -99,24 +105,18 @@ msgstr "Set Description"
 msgid "SET_DESCRIPTION_INSTRUCTIONS"
 msgstr "description goes here i think."
 
-msgid "101_CHARACTER_LIMIT_DESC"
-msgstr "it can be...101 LETTERS!"
+msgid "SET_TITLE"
+msgstr "give name"
 
-msgid "LEAVE_BLANK_TO_RESET_DESC"
-msgstr "take away description? ;<; leave blank"
+msgid "SET_TITLE_INSTRUCTIONS"
+msgstr "put name here pls."
 
-msgid "ENTER_DESCRIPTION"
-msgstr "put it in here..."
+msgid "STAR_DETAILS_UPPERTITLE"
+msgstr "★ @o@ ★"
 
-msgid "HEADER_FLIPNOTE_OPTIONS"
-msgstr "fiddle"
-
-msgid "HEADER_SONG"
-msgstr "Song"
+msgid "TIMESTAMP_FORMAT"
+msgstr "M d, Y H:i:s"
 
 # This is shown to logged-in users on their own Flipnotes without titles
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "Untitled Flipnote by %s"
-
-msgid "HEADER_UPLOAD_TO_YOUTUBE"
-msgstr "Upload to YouTube"

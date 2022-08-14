@@ -3,95 +3,101 @@ msgstr ""
 "Language: de_DE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "TIMESTAMP_FORMAT"
-msgstr "j. M y, H:i:s"
-
-msgid "FLIPNOTE_TITLE_FORMAT"
-msgstr "Flipnote v. %s"
-
-msgid "HEADER_DETAILS"
-msgstr "Details"
-
-msgid "HEADER_COMMENTS"
-msgstr "Kommentare"
-
-msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
-msgstr "Dieses Flipnote ist ein Spin-Off."
-
-msgid "HEADER_ORIGINAL_FLIPNOTE"
-msgstr "Rufe das Original-Flipnote hier auf!"
-
-msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
-msgstr "Um Sternebettlerei vorzubeugen, haben wir die Anzahl maximal verleihbarer gelber Sterne auf 10 begrenzt."
-
-msgid "HEADER_CREATOR"
-msgstr "Ersteller"
-
-msgid "HEADER_STARS"
-msgstr "Sterne"
-
-msgid "HEADER_VIEWS"
-msgstr "Aufrufe"
-
-msgid "HEADER_SPINOFFS"
-msgstr "Spin-Offs"
-
-msgid "HEADER_DOWNLOADS"
-msgstr "Male heruntergeladen"
-
-msgid "HEADER_TITLE"
-msgstr "Titel"
-
-msgid "HEADER_POSTED"
-msgstr "Hochgeladen"
-
-msgid "HEADER_FLIPNOTE_ID"
-msgstr "Flipnote-ID"
-
-msgid "HEADER_CHANNEL"
-msgstr "Kanal"
-
-msgid "HEADER_OPTIONS"
-msgstr "Optionen"
-
-msgid "HEADER_SET_AS_PROFILE_PICTURE"
-msgstr "Als Profilbild festlegen"
-
-msgid "HEADER_REPORT_FLIPNOTE"
-msgstr "Melden"
-
-msgid "ADMIN_ACTIONS"
-msgstr "Administrator-Aktionen"
-
-msgid "PREV"
-msgstr "Zurück"
-
-msgid "NEXT"
-msgstr "Weiter"
-
-msgid "STAR_DETAILS_UPPERTITLE"
-msgstr "Sterne"
-
-msgid "SET_TITLE"
-msgstr "Titel ändern"
-
-msgid "SET_TITLE_INSTRUCTIONS"
-msgstr "Bitte gebe den gewünschten Titel deines Flipnotes unten ein."
+msgid "101_CHARACTER_LIMIT_DESC"
+msgstr "Die Länge deiner Beschreibung ist auf 101 Zeichen begrenzt."
 
 msgid "40_CHARACTER_LIMIT"
 msgstr "Die Länge deines Titels ist auf 40 Zeichen begrenzt."
 
-msgid "LEAVE_BLANK_TO_RESET"
-msgstr "Wenn du den Titel zurücksetzen möchtest, lasse das untere Feld einfach leer."
+msgid "ADMIN_ACTIONS"
+msgstr "Administrator-Aktionen"
+
+msgid "ENTER_DESCRIPTION"
+msgstr "Beschreibung eingeben"
 
 msgid "ENTER_TITLE"
 msgstr "Titel eingeben"
 
+msgid "FLIPNOTE_TITLE_FORMAT"
+msgstr "Flipnote v. %s"
+
 msgid "HEADER_ADD_DESCRIPTION"
 msgstr "Beschreibung hinzufügen"
 
+msgid "HEADER_CHANNEL"
+msgstr "Kanal"
+
+msgid "HEADER_COMMENTS"
+msgstr "Kommentare"
+
+msgid "HEADER_CREATOR"
+msgstr "Ersteller"
+
 msgid "HEADER_DESCRIPTION"
 msgstr "Beschreibung"
+
+msgid "HEADER_DETAILS"
+msgstr "Details"
+
+msgid "HEADER_DOWNLOADS"
+msgstr "Male heruntergeladen"
+
+msgid "HEADER_FLIPNOTE_ID"
+msgstr "Flipnote-ID"
+
+msgid "HEADER_FLIPNOTE_OPTIONS"
+msgstr "Optionen"
+
+msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
+msgstr "Um Sternebettlerei vorzubeugen, haben wir die Anzahl maximal verleihbarer gelber Sterne auf 10 begrenzt."
+
+msgid "HEADER_OPTIONS"
+msgstr "Optionen"
+
+msgid "HEADER_ORIGINAL_FLIPNOTE"
+msgstr "Rufe das Original-Flipnote hier auf!"
+
+msgid "HEADER_POSTED"
+msgstr "Hochgeladen"
+
+msgid "HEADER_REPORT_FLIPNOTE"
+msgstr "Melden"
+
+msgid "HEADER_SET_AS_PROFILE_PICTURE"
+msgstr "Als Profilbild festlegen"
+
+msgid "HEADER_SONG"
+msgstr "Song"
+
+msgid "HEADER_SPINOFFS"
+msgstr "Spin-Offs"
+
+msgid "HEADER_STARS"
+msgstr "Sterne"
+
+msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
+msgstr "Dieses Flipnote ist ein Spin-Off."
+
+msgid "HEADER_TITLE"
+msgstr "Titel"
+
+msgid "HEADER_UPLOAD_TO_YOUTUBE"
+msgstr "Zu YouTube hochladen"
+
+msgid "HEADER_VIEWS"
+msgstr "Aufrufe"
+
+msgid "LEAVE_BLANK_TO_RESET"
+msgstr "Wenn du den Titel zurücksetzen möchtest, lasse das untere Feld einfach leer."
+
+msgid "LEAVE_BLANK_TO_RESET_DESC"
+msgstr "Wenn du die Beschreibung zurücksetzen möchtest, lasse das untere Feld einfach leer."
+
+msgid "NEXT"
+msgstr "Weiter"
+
+msgid "PREV"
+msgstr "Zurück"
 
 msgid "SET_DESCRIPTION"
 msgstr "Beschreibung festlegen"
@@ -99,24 +105,18 @@ msgstr "Beschreibung festlegen"
 msgid "SET_DESCRIPTION_INSTRUCTIONS"
 msgstr "Die neue Beschreibung deines Flipnotes hier unten eingeben."
 
-msgid "101_CHARACTER_LIMIT_DESC"
-msgstr "Die Länge deiner Beschreibung ist auf 101 Zeichen begrenzt."
+msgid "SET_TITLE"
+msgstr "Titel ändern"
 
-msgid "LEAVE_BLANK_TO_RESET_DESC"
-msgstr "Wenn du die Beschreibung zurücksetzen möchtest, lasse das untere Feld einfach leer."
+msgid "SET_TITLE_INSTRUCTIONS"
+msgstr "Bitte gebe den gewünschten Titel deines Flipnotes unten ein."
 
-msgid "ENTER_DESCRIPTION"
-msgstr "Beschreibung eingeben"
+msgid "STAR_DETAILS_UPPERTITLE"
+msgstr "Sterne"
 
-msgid "HEADER_FLIPNOTE_OPTIONS"
-msgstr "Optionen"
-
-msgid "HEADER_SONG"
-msgstr "Song"
+msgid "TIMESTAMP_FORMAT"
+msgstr "j. M y, H:i:s"
 
 # This is shown to logged-in users on their own Flipnotes without titles
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "Unbenanntes Flipnote von %s"
-
-msgid "HEADER_UPLOAD_TO_YOUTUBE"
-msgstr "Zu YouTube hochladen"

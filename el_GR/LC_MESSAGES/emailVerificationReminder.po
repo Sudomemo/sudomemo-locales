@@ -6,14 +6,11 @@ msgstr ""
 msgid "EMAIL_SUBJECT"
 msgstr "[Sudomemo] Πρεπει  να  επιβεβαιωσετε  το email σας"
 
-msgid "VERIFICATION_HEADER"
-msgstr "Sudomemo - Επιβεβαιωστε Email"
+msgid "EMAIL_VERIFICATION_REMOVE_ME"
+msgstr "Αφαιρεστε  με, εχετε  την  λαθος  διευθυνση email"
 
 msgid "TEXT_HELLO_FORMAT"
 msgstr "Γεια  σας, %s!"
-
-msgid "TEXT_NEED_TO_VERIFY_EMAIL"
-msgstr "Αυτη  ειναι  μια  υπενθυμιση  οτι  πρεπει  να  επιβεβαιωσετε  το email σας  στο Sudomemo."
 
 msgid "TEXT_LOGIN_WITH_DSI_TO_VERIFY"
 msgstr "Μπορει  να σας  σταλει email επιβεβαιωσης  με  το  να  συνδεθειτε στο Sudomemo με  το  Nintendo DSi σας."
@@ -21,5 +18,8 @@ msgstr "Μπορει  να σας  σταλει email επιβεβαιωσης  
 msgid "TEXT_NEED_HELP_CONNECTION_INFO_LINK_FORMAT"
 msgstr "Χρειαζεστε  βοηθεια  συνδεσης  στο Sudomemo? Μπορειτε  να  βρειτε  τον οοδηγο  εγκαταστασης  εδω: %s"
 
-msgid "EMAIL_VERIFICATION_REMOVE_ME"
-msgstr "Αφαιρεστε  με, εχετε  την  λαθος  διευθυνση email"
+msgid "TEXT_NEED_TO_VERIFY_EMAIL"
+msgstr "Αυτη  ειναι  μια  υπενθυμιση  οτι  πρεπει  να  επιβεβαιωσετε  το email σας  στο Sudomemo."
+
+msgid "VERIFICATION_HEADER"
+msgstr "Sudomemo - Επιβεβαιωστε Email"

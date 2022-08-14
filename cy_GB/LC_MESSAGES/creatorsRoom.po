@@ -3,59 +3,8 @@ msgstr ""
 "Language: cy_GB\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "SEE_MORE"
-msgstr "Mwy..."
-
-msgid "STARRED_FLIPNOTES"
-msgstr "Flipnotes Serennog"
-
-msgid "FAVORITE_USERS"
-msgstr "Hoff Ddefnyddwyr"
-
-msgid "FAVORITES_FEED"
-msgstr "Ffefrynnau Feed"
-
-msgid "FAVORITE_CHANNELS"
-msgstr "Sianelau Hoff"
-
-msgid "USER_DOWNLOADCOUNT"
-msgstr "Lawrlwythiadau"
-
-msgid "USER_VIEWCOUNT"
-msgstr "Golygfeydd"
-
-msgid "USER_THEME"
-msgstr "Thema"
-
-msgid "THEME_SHOP"
-msgstr "Siop Thema"
-
-msgid "POSTED_COMMENTS"
-msgstr "Sylwadau a Bostiwyd"
-
-msgid "POSTED_CHATCOMMENTS"
-msgstr "Negeseuon Ystafell Sgwrsio"
-
-msgid "FEATURE_USABILITY"
-msgstr "Defnyddioldeb Nodwedd"
-
-msgid "USABLE"
-msgstr "Defnyddiadwy"
-
-msgid "NOT_USABLE"
-msgstr "Ddim yn Ddefnyddiol"
-
-msgid "SUDOMEMO_THEATRE_URL"
-msgstr "Cyswllt Theatr Sudomemo"
-
-msgid "FLIPNOTE_STUDIO_ID"
-msgstr "Flipnote Stwdio ID"
-
-msgid "SETTINGS"
-msgstr "Lleoliadau"
-
-msgid "ADMIN_ACCT_GOOD_STANDING"
-msgstr "Mewn sefyllfa dda"
+msgid "101_CHARACTER_LIMIT_BIO"
+msgstr "Mae eich bywgraffiad wedi'i gyfyngu i 101 o gymeriadau."
 
 msgid "ADMIN_ACCT_BANNED"
 msgstr "Wedi'i Wahardd"
@@ -63,20 +12,26 @@ msgstr "Wedi'i Wahardd"
 msgid "ADMIN_ACCT_BLOCKED"
 msgstr "Wedi'i Rwystro"
 
+msgid "ADMIN_ACCT_GOOD_STANDING"
+msgstr "Mewn sefyllfa dda"
+
 msgid "ADMIN_ACCT_MUTED"
 msgstr "Tawel"
 
-msgid "ADMIN_USER_DETAILS"
-msgstr "Manylion Defnyddwyr"
+msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
+msgstr "Camau Gweinyddol"
 
 msgid "ADMIN_LAST_SEEN"
 msgstr "Wedi'i weld ddiwethaf"
 
+msgid "ADMIN_USER_DETAILS"
+msgstr "Manylion Defnyddwyr"
+
 msgid "ADMIN_USER_STATUS"
 msgstr "Statws Defnyddiwr"
 
-msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
-msgstr "Camau Gweinyddol"
+msgid "BLOCKED_USERS"
+msgstr "Defnyddwyr wedi'u blocio"
 
 msgid "BLOCK_COMMENTS_HEADER"
 msgstr "Sylwadau Bloc"
@@ -84,11 +39,53 @@ msgstr "Sylwadau Bloc"
 msgid "BLOCK_COMMENTS_LINK"
 msgstr "Bloc"
 
-msgid "USABILITY_USABLE"
-msgstr "Defnyddiadwy"
+msgid "CAN_DRAW_TICKET_SUBTEXT"
+msgstr "Gallwch dynnu tocyn rheolaidd! Efallai y byddwch yn ennill gwobr."
 
-msgid "USABILITY_NOT_USABLE"
-msgstr "Ddim yn Ddefnyddiol"
+msgid "CHANGE_ROOM_THEME_LINK"
+msgstr "[newid thema]"
+
+msgid "CREATORS_ROOM"
+msgstr "Ystafell Crewr"
+
+msgid "CURRENT_BIO"
+msgstr "Bio Presennol:"
+
+msgid "DRAW_REGULAR_TICKET"
+msgstr "Tynnwch Docyn"
+
+msgid "ENTER_BIO"
+msgstr "Rhowch eich bio..."
+
+msgid "EXAMPLE"
+msgstr "Enghraifft"
+
+msgid "FANS"
+msgstr "Cefnogwyr"
+
+msgid "FAN_COUNT_FORMAT"
+msgstr "Cefnogwyr: %s"
+
+msgid "FAVORITES_FEED"
+msgstr "Ffefrynnau Feed"
+
+msgid "FAVORITE_CHANNELS"
+msgstr "Sianelau Hoff"
+
+msgid "FAVORITE_USERS"
+msgstr "Hoff Ddefnyddwyr"
+
+msgid "FEATURE_USABILITY"
+msgstr "Defnyddioldeb Nodwedd"
+
+msgid "FLIPNOTE_STUDIO_ID"
+msgstr "Flipnote Stwdio ID"
+
+msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
+msgstr "Ni allwch ddilyn mwy na %d o ddefnyddwyr."
+
+msgid "HEADER_EDIT_BIOGRAPHY"
+msgstr "Golygu Bywgraffiad"
 
 msgid "HEADER_FOLLOWERS"
 msgstr "Dilynwyr"
@@ -96,122 +93,29 @@ msgstr "Dilynwyr"
 msgid "HEADER_FOLLOWING"
 msgstr "Yn dilyn"
 
-msgid "PREVIOUS"
-msgstr "Blaenorol"
-
-msgid "NEXT"
-msgstr "Nesaf"
-
-msgid "CHANGE_ROOM_THEME_LINK"
-msgstr "[newid thema]"
-
-msgid "SELECT_THEME"
-msgstr "Dewiswch Thema"
-
-msgid "FANS"
-msgstr "Cefnogwyr"
-
-msgid "EXAMPLE"
-msgstr "Enghraifft"
-
-msgid "THEMETEST_SET_THEME"
-msgstr "Gosod Thema"
-
-msgid "THEMETEST_NOTICE"
-msgstr "Rhybudd"
-
-msgid "THEMETEST_OK"
-msgstr "Gweddol"
-
-msgid "THEMETEST_ERROR"
-msgstr "Gwall"
-
-msgid "THEMETEST_NOTICE_2"
-msgstr "Rhybudd #2"
-
-msgid "THEMETEST_ACTIVE_TAB"
-msgstr "Tab gweithredol"
-
-msgid "THEMETEST_INACTIVE_TAB"
-msgstr "Tab anweithredol"
-
-msgid "PREVIEW"
-msgstr "Rhagolwg"
-
-msgid "CREATORS_ROOM"
-msgstr "Ystafell Crewr"
-
-msgid "THEME_ERROR_THEME_NOT_OWNED"
-msgstr "Sori! Nid ydych yn berchen ar y thema honno."
-
-msgid "THEME_SUCCESSFULLY_SET"
-msgstr "Thema wedi'i gosod yn llwyddiannus!"
-
-msgid "BLOCKED_USERS"
-msgstr "Defnyddwyr wedi'u blocio"
-
-msgid "VIEW"
-msgstr "Golygfa"
-
-msgid "FAN_COUNT_FORMAT"
-msgstr "Cefnogwyr: %s"
-
 msgid "HEADER_LANGUAGE"
 msgstr "Iaith"
 
 msgid "HEADER_MAIL_SETTINGS"
 msgstr "Lleoliadau Bost"
 
-msgid "HEADER_EDIT_BIOGRAPHY"
-msgstr "Golygu Bywgraffiad"
-
-msgid "SET_BIO_INSTRUCTIONS"
-msgstr "Rhowch gofiant eich proffil isod. Bydd hyn yn cael ei arddangos ar Sudomemo a Sudomemo Theatre."
-
-msgid "ENTER_BIO"
-msgstr "Rhowch eich bio..."
-
-msgid "101_CHARACTER_LIMIT_BIO"
-msgstr "Mae eich bywgraffiad wedi'i gyfyngu i 101 o gymeriadau."
-
-msgid "LEAVE_BLANK_TO_RESET_BIO"
-msgstr "I glirio'ch bywgraffiad, gadewch y ffurflen yn wag wrth gyflwyno."
-
-msgid "CURRENT_BIO"
-msgstr "Bio Presennol:"
-
-msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
-msgstr "Ni allwch ddilyn mwy na %d o ddefnyddwyr."
-
-msgid "RANKING"
-msgstr "Rheng"
-
-msgid "TICKET_SECTION"
-msgstr "Tocynnau"
-
-msgid "DRAW_REGULAR_TICKET"
-msgstr "Tynnwch Docyn"
-
-msgid "CAN_DRAW_TICKET_SUBTEXT"
-msgstr "Gallwch dynnu tocyn rheolaidd! Efallai y byddwch yn ennill gwobr."
+msgid "HEADER_SUPPORT_TOKEN"
+msgstr "Support Token"
 
 msgid "INVENTORY"
 msgstr "Rhestr Eiddo"
 
-msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
-msgstr "Gallwch dynnu tocyn arall mewn: %s awr(au) %s munud(au)."
-
-msgid "REDEEM"
-msgstr "Adbrynu"
-
-msgid "SPENDABLE_STARS"
-msgstr "Eich Sêr"
-
-msgid "SPENDABLE_STARS_HELPTEXT"
-msgstr "Sêr i'w hychwanegu at Flipnotes neu eu defnyddio ar gyfer themâu"
+msgid "LEAVE_BLANK_TO_RESET_BIO"
+msgstr "I glirio'ch bywgraffiad, gadewch y ffurflen yn wag wrth gyflwyno."
 
 msgid "LOGIN_REQUIRED_ACTION"
 msgstr "Rhaid i chi fewngofnodi i gyflawni'r weithred hon."
+
+msgid "NEXT"
+msgstr "Nesaf"
+
+msgid "NOT_USABLE"
+msgstr "Ddim yn Ddefnyddiol"
 
 msgid "PAGE"
 msgstr "Tudalen"
@@ -219,8 +123,107 @@ msgstr "Tudalen"
 msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d o %d"
 
-msgid "HEADER_SUPPORT_TOKEN"
-msgstr "Support Token"
+msgid "POSTED_CHATCOMMENTS"
+msgstr "Negeseuon Ystafell Sgwrsio"
+
+msgid "POSTED_COMMENTS"
+msgstr "Sylwadau a Bostiwyd"
+
+msgid "PREVIEW"
+msgstr "Rhagolwg"
+
+msgid "PREVIOUS"
+msgstr "Blaenorol"
+
+msgid "RANKING"
+msgstr "Rheng"
+
+msgid "REDEEM"
+msgstr "Adbrynu"
 
 msgid "REQUEST"
 msgstr "Request"
+
+msgid "SEE_MORE"
+msgstr "Mwy..."
+
+msgid "SELECT_THEME"
+msgstr "Dewiswch Thema"
+
+msgid "SETTINGS"
+msgstr "Lleoliadau"
+
+msgid "SET_BIO_INSTRUCTIONS"
+msgstr "Rhowch gofiant eich proffil isod. Bydd hyn yn cael ei arddangos ar Sudomemo a Sudomemo Theatre."
+
+msgid "SPENDABLE_STARS"
+msgstr "Eich Sêr"
+
+msgid "SPENDABLE_STARS_HELPTEXT"
+msgstr "Sêr i'w hychwanegu at Flipnotes neu eu defnyddio ar gyfer themâu"
+
+msgid "STARRED_FLIPNOTES"
+msgstr "Flipnotes Serennog"
+
+msgid "SUDOMEMO_THEATRE_URL"
+msgstr "Cyswllt Theatr Sudomemo"
+
+msgid "THEMETEST_ACTIVE_TAB"
+msgstr "Tab gweithredol"
+
+msgid "THEMETEST_ERROR"
+msgstr "Gwall"
+
+msgid "THEMETEST_INACTIVE_TAB"
+msgstr "Tab anweithredol"
+
+msgid "THEMETEST_NOTICE"
+msgstr "Rhybudd"
+
+msgid "THEMETEST_NOTICE_2"
+msgstr "Rhybudd #2"
+
+msgid "THEMETEST_OK"
+msgstr "Gweddol"
+
+msgid "THEMETEST_SET_THEME"
+msgstr "Gosod Thema"
+
+msgid "THEME_ERROR_THEME_NOT_OWNED"
+msgstr "Sori! Nid ydych yn berchen ar y thema honno."
+
+msgid "THEME_SHOP"
+msgstr "Siop Thema"
+
+msgid "THEME_SUCCESSFULLY_SET"
+msgstr "Thema wedi'i gosod yn llwyddiannus!"
+
+msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
+msgstr "Gallwch dynnu tocyn arall mewn: %s awr(au) %s munud(au)."
+
+msgid "TICKET_SECTION"
+msgstr "Tocynnau"
+
+msgid "USABILITY_NOT_USABLE"
+msgstr "Ddim yn Ddefnyddiol"
+
+msgid "USABILITY_USABLE"
+msgstr "Defnyddiadwy"
+
+msgid "USABLE"
+msgstr "Defnyddiadwy"
+
+msgid "USER_DOWNLOADCOUNT"
+msgstr "Lawrlwythiadau"
+
+msgid "USER_THEME"
+msgstr "Thema"
+
+msgid "USER_VIEWCOUNT"
+msgstr "Golygfeydd"
+
+msgid "VIEW"
+msgstr "Golygfa"
+
+msgid "WATCH_HISTORY"
+msgstr "Watch History"

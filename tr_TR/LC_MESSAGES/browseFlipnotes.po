@@ -3,56 +3,11 @@ msgstr ""
 "Language: tr_TR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "SUDOMEMO"
-msgstr "Sudomemo"
+msgid "CATEGORY_featured"
+msgstr "@Öne Çıkan Flipnotlar"
 
-msgid "HEADER_FLIPNOTES"
-msgstr "Flipnotlar"
-
-msgid "HEADER_NORMAL"
-msgstr "Son"
-
-msgid "HEADER_HOT_FLIPNOTES"
-msgstr "Sıcak Flipnotlar"
-
-msgid "HEADER_MOST_POPULAR"
-msgstr "En popüler"
-
-msgid "HEADER_NO_SPINOFFS"
-msgstr "Spinoff yok"
-
-msgid "HEADER_ROLEPLAYS"
-msgstr "Rol yapma"
-
-msgid "HEADER_BROWSE_FLIPNOTES"
-msgstr "Flipnotes'a göz atın"
-
-msgid "HEADER_FEATURED_FLIPNOTES"
-msgstr "Öne Çıkan Flipnotlar"
-
-msgid "HEADER_RANDOM_FLIPNOTES"
-msgstr "Rastgele Flipnotlar"
-
-msgid "HEADER_PAGE"
-msgstr "Sayfa"
-
-msgid "PAGE"
-msgstr "Sayfa"
-
-msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d ile ilgili %d"
-
-msgid "NEXT"
-msgstr "Sonraki"
-
-msgid "PREV"
-msgstr "Öncesi"
-
-msgid "POST_FLIPNOTE"
-msgstr "Post Flipnote"
-
-msgid "CATEGORY_recent"
-msgstr "@Son Flipnotlar"
+msgid "CATEGORY_feed"
+msgstr "@Beslemek"
 
 msgid "CATEGORY_hot"
 msgstr "@Sıcak Flipnotlar"
@@ -60,11 +15,59 @@ msgstr "@Sıcak Flipnotlar"
 msgid "CATEGORY_popular"
 msgstr "@En popüler"
 
-msgid "CATEGORY_featured"
-msgstr "@Öne Çıkan Flipnotlar"
-
 msgid "CATEGORY_random"
 msgstr "@Rastgele Flipnotlar"
 
-msgid "CATEGORY_feed"
-msgstr "@Beslemek"
+msgid "CATEGORY_recent"
+msgstr "@Son Flipnotlar"
+
+msgid "HEADER_BROWSE_FLIPNOTES"
+msgstr "Flipnotes'a göz atın"
+
+msgid "HEADER_FEATURED_FLIPNOTES"
+msgstr "Öne Çıkan Flipnotlar"
+
+msgid "HEADER_FLIPNOTES"
+msgstr "Flipnotlar"
+
+msgid "HEADER_HOT_FLIPNOTES"
+msgstr "Sıcak Flipnotlar"
+
+msgid "HEADER_MOST_POPULAR"
+msgstr "En popüler"
+
+msgid "HEADER_NORMAL"
+msgstr "Son"
+
+msgid "HEADER_NO_SPINOFFS"
+msgstr "Spinoff yok"
+
+msgid "HEADER_PAGE"
+msgstr "Sayfa"
+
+msgid "HEADER_RANDOM_FLIPNOTES"
+msgstr "Rastgele Flipnotlar"
+
+msgid "HEADER_ROLEPLAYS"
+msgstr "Rol yapma"
+
+msgid "HEADER_WATCH_HISTORY"
+msgstr "Watch History"
+
+msgid "NEXT"
+msgstr "Sonraki"
+
+msgid "PAGE"
+msgstr "Sayfa"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d ile ilgili %d"
+
+msgid "POST_FLIPNOTE"
+msgstr "Post Flipnote"
+
+msgid "PREV"
+msgstr "Öncesi"
+
+msgid "SUDOMEMO"
+msgstr "Sudomemo"

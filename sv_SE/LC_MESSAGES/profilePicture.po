@@ -3,17 +3,20 @@ msgstr ""
 "Language: sv_SE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "SET_PROFILE_PICTURE"
-msgstr "Lägg till profilbild"
-
-msgid "PROMPT_CHANGE_YOUR_PROFILE_IMAGE"
-msgstr "Ska du byta profilbild?"
+msgid "CANCEL"
+msgstr "Avbryt"
 
 msgid "CONTINUE_SET_AS_PROFILE_PICTURE"
 msgstr "Bekräfta"
 
+msgid "CREATORS_ROOM"
+msgstr "Creator's Room"
+
 msgid "CURRENT"
 msgstr "Nuvarande"
+
+msgid "LOGIN_REQUIRED_TO_CHANGE"
+msgstr "Du måste vara inloggad för att byta profilebild."
 
 msgid "NEW"
 msgstr "Ny"
@@ -21,14 +24,11 @@ msgstr "Ny"
 msgid "PROFILE_PICTURE_SET"
 msgstr "Profilbilden har ändrats!"
 
+msgid "PROMPT_CHANGE_YOUR_PROFILE_IMAGE"
+msgstr "Ska du byta profilbild?"
+
 msgid "RETURN_TO_FLIPNOTE"
 msgstr "Tillbaka till Flipnote"
 
-msgid "CREATORS_ROOM"
-msgstr "Creator's Room"
-
-msgid "CANCEL"
-msgstr "Avbryt"
-
-msgid "LOGIN_REQUIRED_TO_CHANGE"
-msgstr "Du måste vara inloggad för att byta profilebild."
+msgid "SET_PROFILE_PICTURE"
+msgstr "Lägg till profilbild"
