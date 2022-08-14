@@ -3,36 +3,157 @@ msgstr ""
 "Language: el_GR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-# This file contains most of the translations for Sudomemo Theatre.
-# Meta tags, descriptions, etc
-msgid "SUDOMEMO"
-msgstr "Sudomemo"
+msgid "404_GO_BACK"
+msgstr "Πισω στο Sudomemo Theatre"
 
-msgid "SUDOMEMO_THEATRE"
-msgstr "Sudomemo Theatre"
+# 404 Page
+msgid "404_OOPS_NOT_FOUND"
+msgstr "Οουπς - Δεν βρεθηκε αυτη η σελιδα"
 
-msgid "SUDOMEMO_NEWS"
-msgstr "Νεα του Sudomemo"
+msgid "404_WHOOPS_NOT_THERE"
+msgstr "Ουπς! Ο,τι ψαχνατε δεν βρισκεται εδω."
 
-msgid "SUDOMEMO_SHOP"
-msgstr "Καταστημα Sudomemo"
+# Account Settings (Theatre)
+msgid "ACCOUNT_SETTINGS"
+msgstr "Ρυθμισεις Λογαριασμου"
 
-msgid "SUDOMEMO_SHOP_META_DESCRIPTION"
-msgstr "Καταστημα Sudomemo: Sudomemo merch, λαχνους για Plus και Stars, και αλλα τελεια πραγματα!"
+msgid "ALT_DRAWN_COMMENT_BY_USER"
+msgstr "ζωγραφισμενο σχολιο του χρηστη %s"
 
-msgid "DEFAULT_META_DESCRIPTION"
-msgstr "Sudomemo: Μοιραστειτε τα Flipnote σας με τον κοσμο! Για το Nintendo DSi και το 3DS."
+msgid "ALT_USER_PROFILE_PICTURE"
+msgstr "εικονα προφιλ του χρηστη %s'"
 
-msgid "FRONTPAGE_TITLE_TAGLINE"
-msgstr "Sudomemo: Επεστρεψε το Flipnote Hatena!"
+# Front Page
+# # Alt tags, aria labels
+msgid "ALT_WEEKLY_TOPIC_BANNER"
+msgstr "Banner διαφημισης του Weekly Topic"
 
-msgid "VIEWPAGE_COMMENT_TEXTBOX"
-msgstr "Κουτι εισαγωγης σχολιων"
+msgid "ARCHIVE"
+msgstr "Archive"
 
-# # "Username - 3 fans, 25 Flipnotes on Sudomemo"
-# # Not going to bother making plural variants
-msgid "PROFILE_DEFAULT_DESCRIPTION"
-msgstr "θαυμαστες του χρηστη %s - %s , τα Flipnote του χρηστη  %s στο Sudomemo"
+msgid "ARCHIVED"
+msgstr "Archived"
+
+msgid "ARCHIVE_FLIPNOTE"
+msgstr "Archive Flipnote"
+
+msgid "ARCHIVE_FLIPNOTE_DESC"
+msgstr "This Flipnote was originally posted on Flipnote Hatena."
+
+msgid "ARCHIVE_PROFILE"
+msgstr "Archive Profile"
+
+msgid "ARCHIVE_PROFILE_DESC"
+msgstr "This is an archive of a Flipnote Hatena profile."
+
+# Very common terms and one-word translations
+msgid "ARTIST"
+msgstr "Καλλιτεχνης"
+
+# Back, in the sense of navigation
+msgid "BACK"
+msgstr "Πισω"
+
+# Browse Channel
+msgid "BROWSE_CHANNEL_NO_FLIPNOTES_YET"
+msgstr "Δεν εχουν ανεβει Flipnote ακομα σε αυτο το καναλι."
+
+# Browse Song
+msgid "BROWSE_SONG_NO_FLIPNOTES_YET"
+msgstr "Δεν εχουν ανεβει Flipnotes με αυτο το τραγουδι ακομα."
+
+# Additional things
+# See Flipnotes with the song <song name> by <band/artist name>
+msgid "BROWSE_SONG_YOU_ARE_BROWSING_SONG"
+msgstr "Δειτε Flipnotes με το τραγουδι %s του/ων %s"
+
+msgid "BTN_GET_STARTED"
+msgstr "Ξεκινηστε"
+
+msgid "BTN_GO_TO_SETTINGS"
+msgstr "Go to Settings"
+
+msgid "BTN_JOIN_DISCORD"
+msgstr "Μπειτε στο Discord"
+
+msgid "BTN_SIGN_IN_WITH_GOOGLE"
+msgstr "Συνδεθειτε μεσω Google"
+
+msgid "BTN_STARTING_UPLOAD"
+msgstr "Ξεκιναει..."
+
+msgid "BTN_START_UPLOAD"
+msgstr "Ξεκινηστε την δημοσιευση"
+
+msgid "BTN_UPLOAD_FAILED"
+msgstr "Αποτυχια δημοσιευσης..."
+
+msgid "CATEGORY"
+msgstr "Κατηγορια"
+
+msgid "CHANNEL"
+msgstr "Καναλι"
+
+msgid "CHANNELS"
+msgstr "Καναλια"
+
+msgid "CHANNEL_CAT_NAME_ART"
+msgstr "Τεχνη"
+
+msgid "CHANNEL_CAT_NAME_FANDOMS"
+msgstr "Fandoms"
+
+msgid "CHANNEL_CAT_NAME_GENRES"
+msgstr "Ειδη"
+
+# # categories
+msgid "CHANNEL_CAT_NAME_NONE"
+msgstr "Κανενα"
+
+msgid "CHANNEL_CAT_NAME_PERSONAL"
+msgstr "Προσωπικο"
+
+msgid "CHANNEL_CAT_NAME_RESOURCES"
+msgstr "Resources"
+
+msgid "CHANNEL_CAT_NAME_ROLEPLAYS"
+msgstr "Roleplays"
+
+msgid "CHANNEL_CAT_NAME_TOPICS"
+msgstr "Θεματα"
+
+msgid "CHANNEL_CAT_NAME_WEEKLY_TOPIC"
+msgstr "Weekly Topic"
+
+# # Posting permissions
+msgid "CHANNEL_PERM_CLOSED"
+msgstr "Κλειστο"
+
+msgid "CHANNEL_PERM_OPEN"
+msgstr "Αοιχτο"
+
+msgid "COMMENTS"
+msgstr "Σχολια"
+
+msgid "CONTINUE"
+msgstr "Continue"
+
+msgid "COULD_NOT_SAVE_DETAILS"
+msgstr "Δεν μπορεσαμε να σωσουμε τις λεπτομεριες"
+
+msgid "CREATOR"
+msgstr "Δημιουργος"
+
+msgid "CREATORS"
+msgstr "Δημιουργοι"
+
+msgid "CREATORS_ROOM"
+msgstr "Δωματιο Χρηστη"
+
+# November 29th, 2019 08:23:07
+# Used for Flipnote Details
+msgid "DATETIME_MONTH_DAY_ORDINAL_HOUR_MINUTE_SECOND_FORMAT"
+msgstr "F jS, Y H:i:s"
 
 # Date-time formats
 # You can adjust the way dates display to match your region better.
@@ -44,48 +165,94 @@ msgstr "θαυμαστες του χρηστη %s - %s , τα Flipnote του χ
 msgid "DATETIME_WEEKDAY_MONTH_DAY_ORDINAL_YEAR_FORMAT"
 msgstr "l, F jS, Y"
 
-# November 29th, 2019 08:23:07
-# Used for Flipnote Details
-msgid "DATETIME_MONTH_DAY_ORDINAL_HOUR_MINUTE_SECOND_FORMAT"
-msgstr "F jS, Y H:i:s"
-
-# Very common terms and one-word translations
-msgid "ARTIST"
-msgstr "Καλλιτεχνης"
-
-# Back, in the sense of navigation
-msgid "BACK"
-msgstr "Πισω"
-
-msgid "CATEGORY"
-msgstr "Κατηγορια"
-
-msgid "CHANNEL"
-msgstr "Καναλι"
-
-msgid "CHANNELS"
-msgstr "Καναλια"
-
-msgid "COMMENTS"
-msgstr "Σχολια"
-
-msgid "CREATOR"
-msgstr "Δημιουργος"
-
-msgid "CREATORS"
-msgstr "Δημιουργοι"
-
-msgid "CREATORS_ROOM"
-msgstr "Δωματιο Χρηστη"
-
-msgid "DETAILS"
-msgstr "Λεπτομεριες"
+msgid "DEFAULT_META_DESCRIPTION"
+msgstr "Sudomemo: Μοιραστειτε τα Flipnote σας με τον κοσμο! Για το Nintendo DSi και το 3DS."
 
 msgid "DESCRIPTION"
 msgstr "Περιγραφη"
 
+msgid "DESCRIPTION_WILL_GO_HERE"
+msgstr "Η περιγραφη σας θα μπει εδω ."
+
+msgid "DETAILS"
+msgstr "Λεπτομεριες"
+
+# This refers to Discord, which is a chat app.
+msgid "DISCORD"
+msgstr "Discord"
+
+msgid "DISCORD_HOW_TO_LINK"
+msgstr "Πως να συνδεσετε"
+
+# Connected since December 27th, 2020
+msgid "DISCORD_LINKED_ON_DATE"
+msgstr "Συνδεδεμενος απο τις %s"
+
 msgid "DOWNLOADS"
 msgstr "Ληψεις"
+
+# Flipnote View Page
+msgid "EDIT_FLIPNOTE"
+msgstr "Διαχειριση Flipnote"
+
+# # MusicMatch
+msgid "EDIT_PAGE_ABOUT_MUSICMATCH_1"
+msgstr "Το MusicMatch ακουει το Flipnote σας δια να βρει τι μουσικη χρησιμοποιει!"
+
+msgid "EDIT_PAGE_ABOUT_MUSICMATCH_2"
+msgstr "Το MusicMatch ενδεχεται να βρει πανω απο ενα πιθανο τραγουδι, η να επιλεξει το λαθος. Εαν αυτο συμβει, μπορειτε να ενημερωσετε το τραγουδι εδω."
+
+msgid "EDIT_PAGE_ABOUT_MUSICMATCH_3"
+msgstr "Εαν ενημερωσετε το τραγουδι, το MusicMatch θα μαθει απο αυτη την πληρογορια και θα ειναι καλυτερο στην επιλογη Flipnote audio στο μελλον."
+
+msgid "EDIT_PAGE_DESCRIPTION_TOOLTIP"
+msgstr "Γραμματα, νουμερα και συμβολα, μαξιμουμ 320 χαρακτηρων."
+
+msgid "EDIT_PAGE_ENTER_A_DESCRIPTION"
+msgstr "Προσθεστε Περιγραφη"
+
+msgid "EDIT_PAGE_ENTER_A_TITLE"
+msgstr "Προσθεστε Τιτλο"
+
+msgid "EDIT_PAGE_FLIPNOTE_PREVIEW_NOTE"
+msgstr "Σημειωση: Το πριβιου του Flipnote δεν ενημερωνεται."
+
+msgid "EDIT_PAGE_MUSICMATCH_NONE_CORRECT"
+msgstr "Κανενα απο αυτα δεν ειναι το σωστο"
+
+msgid "EDIT_PAGE_MUSICMATCH_NO_BGM"
+msgstr "Το Flipnote σας δεν εχει ηχο."
+
+msgid "EDIT_PAGE_MUSICMATCH_PENDING_MAPPING"
+msgstr "Το MusicMatch διαχειριζεται αυτη τη στιγμη το Flipnote. Ελατε αργοτερα."
+
+msgid "EDIT_PAGE_MUSICMATCH_PREVIEW_ON_SPOTIFY"
+msgstr "Preview στοSpotify"
+
+msgid "EDIT_PAGE_MUSICMATCH_PREVIEW_ON_YOUTUBE"
+msgstr "Preview στο YouTube Music"
+
+msgid "EDIT_PAGE_MUSICMATCH_UNMAPPED"
+msgstr "Το MusicMatch δεν εχει φτασει ακομα σε αυτο το Flipnote. Ελατε αργοτερα."
+
+msgid "EDIT_PAGE_MUSICMATCH_UNMATCHED"
+msgstr "Το MusicMatch δεν μπορεσε να βρει τραγουδια που να ταιριαζουν με εκεινο του Flipnote."
+
+msgid "EDIT_PAGE_PLUS_AUDIO_ENHANCEMENT"
+msgstr "Audio Enhancement"
+
+# Flipnote smoothing
+msgid "EDIT_PAGE_PLUS_SMOOTHING"
+msgstr "Smoothing"
+
+msgid "EDIT_PAGE_SUDOMEMO_PLUS_REQUIRED"
+msgstr "Για να χρησιμοποιησετε αυτες τις δυνατοτητες, θα χρειαστειτε Sudomemo Plus."
+
+msgid "EDIT_PAGE_TITLE_AND_DESCRIPTION"
+msgstr "Τιτλος και Περιγραφη"
+
+msgid "EDIT_PAGE_TITLE_TOOLTIP"
+msgstr "Γραμματα, νουμερα και συμβολα, μαξιμουμ 40 χαρακτηρων."
 
 msgid "FANS"
 msgstr "Θαυμαστες"
@@ -93,8 +260,8 @@ msgstr "Θαυμαστες"
 msgid "FEATURED"
 msgstr "Προτεινεται"
 
-msgid "FLIPNOTE_ID"
-msgstr "Flipnote ID"
+msgid "FEATURED_FLIPNOTES"
+msgstr "Προωθημενα Flipnotes"
 
 msgid "FLIPNOTE"
 msgstr "Flipnote"
@@ -102,16 +269,89 @@ msgstr "Flipnote"
 msgid "FLIPNOTES"
 msgstr "Flipnotes"
 
-# This is short for Flipnote Studio ID. Leave it as "FSID" except in Japanese, where it should be うごメモID
-msgid "FSID"
-msgstr "FSID"
+msgid "FLIPNOTE_ARCHIVE_BUTTON_TOGGLE"
+msgstr "Show link to archived Flipnote Hatena content from my profile"
+
+msgid "FLIPNOTE_ARCHIVE_PROFILE_AVAILABLE"
+msgstr "Your Flipnote Hatena profile is available through our Flipnote Archive Preview Program! You can view your old Flipnotes by visiting your profile on Sudomemo Theatre."
+
+msgid "FLIPNOTE_ARCHIVE_PROFILE_NOT_AVAILABLE"
+msgstr "An archived Flipnote Hatena profile is not available for this account."
+
+msgid "FLIPNOTE_ARCHIVE_PROFILE_SETTING_INFORMATION"
+msgstr "While logged in, your archive link will always be shown on your page. You can choose whether or not to make this visible to other users below."
+
+msgid "FLIPNOTE_ARCHIVE_SETTINGS"
+msgstr "Archive Settings"
+
+# # Flipnote by...
+msgid "FLIPNOTE_BY_FORMAT"
+msgstr "Flipnote του χρηστη %s"
+
+msgid "FLIPNOTE_HATENA_PROFILE"
+msgstr "Flipnote Hatena Profile"
+
+msgid "FLIPNOTE_ID"
+msgstr "Flipnote ID"
+
+# # Flipnote sections
+msgid "FLIPNOTE_LIST_RECALCULATING"
+msgstr "Τα rankings επανεξεταζονται αυτη τη στιγμη. Δοκιμασετε να ξαναφορτωσετε την σελιδα σε λιγα λεπτα."
+
+msgid "FLIPNOTE_SETTINGS_UPLOAD_TO_YOUTUBE"
+msgstr "Μπορειτε να ανεβασετε το Flipnote στο καναλι σας στο YouTube. Πατηστε το παρακατω κουμπι για να ξεκινησετε."
 
 # Japanese translation should also be be うごメモID here
 msgid "FLIPNOTE_STUDIO_ID"
 msgstr "Flipnote Studio ID"
 
+msgid "FOLLOW"
+msgstr "Ακολουθηστε"
+
+msgid "FOLLOWERS"
+msgstr "Ακολουθοοι"
+
+msgid "FOLLOWING"
+msgstr "Ακολουθειτε"
+
+# Creator's Room (Profile)
+msgid "FOLLOWS_YOU"
+msgstr "Σας ακολουθει"
+
+msgid "FOLLOW_BACK"
+msgstr "Ακολουθηστε και εσεις"
+
+msgid "FORGOT_YOUR_PASSWORD"
+msgstr "Ξεχασατε τον κωδικο σας;"
+
+# # Right sidebar
+msgid "FRONTPAGE_FLIPNOTE_SPOTLIGHT"
+msgstr "Flipnote Spotlight"
+
+msgid "FRONTPAGE_TITLE_TAGLINE"
+msgstr "Sudomemo: Επεστρεψε το Flipnote Hatena!"
+
+msgid "FRONTPAGE_TRENDING_CREATORS"
+msgstr "Χρηστες που κανουν Τρεντ"
+
+# This is short for Flipnote Studio ID. Leave it as "FSID" except in Japanese, where it should be うごメモID
+msgid "FSID"
+msgstr "FSID"
+
 msgid "GENRE"
 msgstr "Ειδος"
+
+# # はてなID
+msgid "HATENA_ID"
+msgstr "Hatena ID"
+
+msgid "HEADER_CHANGE_PASSWORD"
+msgstr "Αλλαγη Κωδικου"
+
+# Upload page specifics
+# Upload to YouTube header
+msgid "HEADER_UPLOAD_TO_YOUTUBE"
+msgstr "Upload to YouTube"
 
 msgid "HELP_CENTER"
 msgstr "Κεντρο Βοηθειων"
@@ -119,11 +359,38 @@ msgstr "Κεντρο Βοηθειων"
 msgid "HOT"
 msgstr "Καυτα"
 
+msgid "HOT_FLIPNOTES"
+msgstr "Καυτα Flipnotes"
+
+# Do not translate ".sudo unlink"
+msgid "HOW_TO_UNLINK_DISCORD"
+msgstr "Για να αποσυνδεσετε τον λογαριασμο σας στο Discord, πληκτρολογειστε αυτη την εντολη στο τσατ: .sudo unlink"
+
 msgid "INFO"
 msgstr "Πληροφοριες"
 
 msgid "LATEST"
 msgstr "Πιο Προσφατο"
+
+msgid "LEARN_MORE"
+msgstr "Learn more"
+
+msgid "LINK_REQUIRED_BEFORE_UPLOAD"
+msgstr "You'll need to link your YouTube channel before you can upload your Flipnote."
+
+# # Ticket types..
+# Login Page
+msgid "LOGIN_FAILED_CHECK_DETAILS"
+msgstr "Δεν μπορεσαμε να σας συνδεσουμε. Ξανακοιταξετε τις λεπτομεριες που εισαγατε και δοκιμαστε ξανα."
+
+msgid "LOGIN_PLACEHOLDER_PASSWORD"
+msgstr "Κωδικος Προσβασης"
+
+msgid "LOGIN_PLACEHOLDER_USERNAME"
+msgstr "Email η Flipnote Studio ID"
+
+msgid "LOGIN_SIGNUP_SELECT_DEVICE"
+msgstr "Επιλεξτε τη συσκευη σας"
 
 msgid "MODERATOR"
 msgstr "Διαχειριστης"
@@ -134,135 +401,56 @@ msgstr "Περισσοτερα"
 msgid "MUSICMATCH"
 msgstr "MusicMatch"
 
-msgid "NEXT"
-msgstr "Επομενο"
+msgid "MUSICMATCH_ABOUT"
+msgstr "Σχετικα με το MusicMatch"
 
-msgid "NEWS"
-msgstr "Νεα"
+# # MusicMatch
+# ## Where the Flipnote's audio starts at in the song
+msgid "MUSICMATCH_AUDIO_OFFSET"
+msgstr "Ξεκιναει στο %s"
 
-# Channel permissions: Is posting Flipnotes to a channel allowed or not?
-msgid "PERMISSIONS"
-msgstr "Αδειες"
+msgid "MUSICMATCH_LISTEN_ON_SPOTIFY"
+msgstr "Ακουστε στο Spotify"
 
-msgid "POPULAR"
-msgstr "Δημοφιλης"
+msgid "MUSICMATCH_LISTEN_ON_YOUTUBE_MUSIC"
+msgstr "Ακουστε στο YouTube Music"
 
-# Previous, abbreviated "Prev". Should be a maximum of 4 characters.
-msgid "PREV"
-msgstr "Προηγ"
-
-msgid "RANDOM"
-msgstr "Τυχαια"
-
-# Referring to a release date/publishing date
-msgid "RELEASED"
-msgstr "Κυκλοφορια"
-
-msgid "RANK"
-msgstr "Rank"
-
-msgid "RECENT"
-msgstr "Προσφατο"
-
-msgid "SAVE"
-msgstr "Σωστε"
-
-msgid "SAVING"
-msgstr "Σωζει"
-
-msgid "SEARCH"
-msgstr "Αναζητηση"
-
-msgid "SHARE"
-msgstr "Share"
-
-msgid "SIGN_UP"
-msgstr "Εγκατασταση"
-
-msgid "SIGN_IN"
-msgstr "Συνδεση"
-
-msgid "SIGN_OUT"
-msgstr "Αποσυνδεση"
-
-msgid "STARS"
-msgstr "Αστερια"
-
-msgid "TITLE"
-msgstr "Τιτλο"
-
-# Referring to being the most popular (in terms of ranking)
-msgid "TOP"
-msgstr "Κορυφαια"
-
-# Number of times something has been viewed, or played.
-msgid "VIEWS"
-msgstr "Προβολες"
-
-# For MusicMatch
-msgid "SONG"
-msgstr "Τραγουδι"
-
-msgid "SUDOMEMO_PLUS"
-msgstr "Sudomemo Plus"
-
-# Navbar
-msgid "NAVBAR_TOGGLE_NAVIGATION"
-msgstr "Toggle navigation"
-
-msgid "NAVBAR_ITEM_SHOP"
-msgstr "Καταστημα"
-
-msgid "NAVBAR_ITEM_HELP"
-msgstr "Βοηθεια"
-
-msgid "NAVBAR_ITEM_USEFUL_LINKS"
-msgstr "Χρησιμα λινκ"
-
-msgid "NAVBAR_ITEM_DISCORD"
-msgstr "Discord"
-
-msgid "NAVBAR_ITEM_HOW_TO_JOIN"
-msgstr "Πως να παρετε μερος"
-
-msgid "NAVBAR_ITEM_CONNECTION_HELP"
-msgstr "Βοηθεια με τη συνδεση"
-
-msgid "NAVBAR_ITEM_FAQS"
-msgstr "Συχνα Ερωτουμενες Ερωτησεις"
-
-msgid "TERMS_OF_USE"
-msgstr "Οροι Χρησης"
-
-msgid "NAVBAR_ITEM_CONTACT_US"
-msgstr "Επικοινωνια"
-
-msgid "NAVBAR_ITEM_TWITTER"
-msgstr "Twitter"
-
-msgid "NAVBAR_ITEM_INSTAGRAM"
-msgstr "Instagram"
-
-msgid "NAVBAR_ITEM_FACEBOOK"
-msgstr "Facebook"
-
-msgid "NAVBAR_ITEM_EMAIL"
-msgstr "Email"
-
-msgid "NAVBAR_ITEM_OTHER"
-msgstr "Αλλο"
-
-msgid "NAVBAR_ITEM_CREDITS"
-msgstr "Πιστωσεις"
+# # Referring to a music label/publishing company
+msgid "MUSIC_LABEL"
+msgstr "Δισκογραφικη"
 
 msgid "NAVBAR_ITEM_ADMIN"
 msgstr "Admin"
 
-msgid "NAVBAR_ITEM_REPORTED_FLIPNOTES"
-msgstr "Αναφερθεισα Flipnotes"
+msgid "NAVBAR_ITEM_CONNECTION_HELP"
+msgstr "Βοηθεια με τη συνδεση"
 
-msgid "NAVBAR_ITEM_SWITCH_TO_USER_ACCOUNT"
-msgstr "Αλλαγη σε λογαριασμο χρηστη"
+msgid "NAVBAR_ITEM_CONTACT_US"
+msgstr "Επικοινωνια"
+
+msgid "NAVBAR_ITEM_CREDITS"
+msgstr "Πιστωσεις"
+
+msgid "NAVBAR_ITEM_DISCORD"
+msgstr "Discord"
+
+msgid "NAVBAR_ITEM_EMAIL"
+msgstr "Email"
+
+msgid "NAVBAR_ITEM_FACEBOOK"
+msgstr "Facebook"
+
+msgid "NAVBAR_ITEM_FAQS"
+msgstr "Συχνα Ερωτουμενες Ερωτησεις"
+
+msgid "NAVBAR_ITEM_HELP"
+msgstr "Βοηθεια"
+
+msgid "NAVBAR_ITEM_HOW_TO_JOIN"
+msgstr "Πως να παρετε μερος"
+
+msgid "NAVBAR_ITEM_INSTAGRAM"
+msgstr "Instagram"
 
 # # Switch to dark mode
 msgid "NAVBAR_ITEM_LIGHTS_OFF"
@@ -272,124 +460,118 @@ msgstr "κλειστα τα φωτα"
 msgid "NAVBAR_ITEM_LIGHTS_ON"
 msgstr "Ανοιχτα τα φωτα"
 
-# Front Page
-# # Alt tags, aria labels
-msgid "ALT_WEEKLY_TOPIC_BANNER"
-msgstr "Banner διαφημισης του Weekly Topic"
+msgid "NAVBAR_ITEM_OTHER"
+msgstr "Αλλο"
 
-msgid "ALT_USER_PROFILE_PICTURE"
-msgstr "εικονα προφιλ του χρηστη %s'"
+msgid "NAVBAR_ITEM_REPORTED_FLIPNOTES"
+msgstr "Αναφερθεισα Flipnotes"
 
-msgid "ALT_DRAWN_COMMENT_BY_USER"
-msgstr "ζωγραφισμενο σχολιο του χρηστη %s"
+msgid "NAVBAR_ITEM_SHOP"
+msgstr "Καταστημα"
 
-# # Welcome to Sudomemo Box
-msgid "WELCOME_BOX_GREET_ADMIN"
-msgstr "Καλωσηρθατε, %s"
+msgid "NAVBAR_ITEM_SWITCH_TO_USER_ACCOUNT"
+msgstr "Αλλαγη σε λογαριασμο χρηστη"
 
-msgid "WELCOME_BOX_YOU_ARE_ADMIN"
-msgstr "Εχετε συνδεθει ως Διαχειριστης."
+msgid "NAVBAR_ITEM_TWITTER"
+msgstr "Twitter"
 
-# ## Our welcome box can change it's greeting, depending on time of day.
-# ## It is displayed like this:
-# ## Good afternoon, User! Happy Flipnoting!
-msgid "WELCOME_BOX_DEFAULT_GREETING"
-msgstr "Γεια"
+msgid "NAVBAR_ITEM_USEFUL_LINKS"
+msgstr "Χρησιμα λινκ"
 
-msgid "WELCOME_BOX_MORNING_GREETING"
-msgstr "Καλημερα"
+# Navbar
+msgid "NAVBAR_TOGGLE_NAVIGATION"
+msgstr "Toggle navigation"
 
-msgid "WELCOME_BOX_AFTERNOON_GREETING"
-msgstr "Καλησπερα"
+msgid "NEWS"
+msgstr "Νεα"
 
-msgid "WELCOME_BOX_EVENING_GREETING"
-msgstr "Καλησπερα"
+msgid "NEXT"
+msgstr "Επομενο"
 
-# ## "Happy Flipnoting!" is one of our brand catchphrases. "Flipnoting" refers to the act of creating or watching Flipnotes.
-# ## Please don't translate "Flipnoting", except to Japanese where you could probably modify the word うごメモ.
-msgid "WELCOME_BOX_USERNAME_HAPPY_FLIPNOTING"
-msgstr ", %s! Καλο Flipnoting!"
+msgid "NINTENDO_3DS"
+msgstr "Nintendo 3DS"
 
-msgid "WELCOME_BOX_WELCOME_TO"
-msgstr "Καλωσηρθατε στο"
+msgid "NINTENDO_DSI"
+msgstr "Nintendo DSi"
 
-# ## Another one of our taglines 
-msgid "WELCOME_BOX_SHARE_CREATIVITY_TAGLINE"
-msgstr "Μοιραστειτε τη δημιουργικοτητα σας με τον κοσμο!"
+msgid "NO_EMAIL_ON_FILE"
+msgstr "Δεν υπαρχει διευθυνση email στο αρχειο μας -- επικοινωνηστε με την Υποστηριξη Sudomemo"
 
-msgid "WELCOME_BOX_WHAT_IS_SUDOMEMO"
-msgstr "Το Sudomemo ειναι ενα σαιτ για animation οπου ο κοσμος μπορει να μοιραστει flipbook animations - τα λεγομενα Flipnotes - τα οποια δημιουργουνται και ανεβαινουν απο το Nintendo DSi και 3DS."
+msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
+msgstr "Δεν βρεθηκε χρηστης με αυτο το Flipnote Studio ID η email"
 
-msgid "WELCOME_BOX_HOW_TO_JOIN"
-msgstr "Μαθετε πως να  μπειτε!"
+msgid "PASSWORD_RESET_SENT"
+msgstr "Εχει σταλει αλλαγη κωδικου στην διευθυνση email που διαθετουμε στο αρχειο μας."
 
-# Give, in the same sense as "Donate"
-msgid "WELCOME_BOX_GIVE"
-msgstr "Προσφερετε"
+msgid "PASS_CHANGE_COMPLETE"
+msgstr "Ο κωδικος σας ενημερωθηκε."
 
-# # Flipnote sections
-msgid "FLIPNOTE_LIST_RECALCULATING"
-msgstr "Τα rankings επανεξεταζονται αυτη τη στιγμη. Δοκιμασετε να ξαναφορτωσετε την σελιδα σε λιγα λεπτα."
+msgid "PASS_CHANGE_CONFIRM_PASSWORD"
+msgstr "Επιβεβαιωση Κωδικου"
 
-msgid "RECENT_FLIPNOTES"
-msgstr "Προσφατα Flipnotes"
+msgid "PASS_CHANGE_CONTINUE_TO_LOGIN"
+msgstr "Συνεχεια στην συνδεση"
+
+msgid "PASS_CHANGE_PASSWORD"
+msgstr "Αλλαγη Κωδικου"
+
+msgid "PASS_CHANGE_URL_EXPIRED"
+msgstr "Το URL που επισκευτηκατε εχει ληξει."
+
+# Channel permissions: Is posting Flipnotes to a channel allowed or not?
+msgid "PERMISSIONS"
+msgstr "Αδειες"
+
+msgid "PLUS_LEARN_MORE"
+msgstr "Μαθετε περισσοτερα..."
+
+msgid "POPULAR"
+msgstr "Δημοφιλης"
 
 msgid "POPULAR_THIS_MONTH"
 msgstr "Δημοφιλη αυτο το Μηνα"
 
-msgid "HOT_FLIPNOTES"
-msgstr "Καυτα Flipnotes"
+# Previous, abbreviated "Prev". Should be a maximum of 4 characters.
+msgid "PREV"
+msgstr "Προηγ"
+
+msgid "PRIVACY_POLICY"
+msgstr "Πολιτικη Απορρητου"
+
+msgid "PROFILE_ABOUT_USERNAME"
+msgstr "Σχετικα με τον χρηστη %s"
+
+# # "Username - 3 fans, 25 Flipnotes on Sudomemo"
+# # Not going to bother making plural variants
+msgid "PROFILE_DEFAULT_DESCRIPTION"
+msgstr "θαυμαστες του χρηστη %s - %s , τα Flipnote του χρηστη  %s στο Sudomemo"
+
+# # Recent comments on their Flipnotes
+msgid "PROFILE_RECENT_COMMENTS"
+msgstr "Προσφατα Σχολια"
+
+# # User's ★ are from:
+msgid "PROFILE_STAR_COUNTRY_HEADER"
+msgstr "%s ★α ειναι απο:"
+
+# # channels that the user posts in most often
+msgid "PROFILE_USER_POSTS_IN"
+msgstr "Ο χρηστης %s ανεβαζει στα..."
+
+msgid "RANDOM"
+msgstr "Τυχαια"
 
 msgid "RANDOM_FLIPNOTES"
 msgstr "Τυχαια Flipnotes"
 
-msgid "FEATURED_FLIPNOTES"
-msgstr "Προωθημενα Flipnotes"
+msgid "RANK"
+msgstr "Rank"
 
-# # Flipnote by...
-msgid "FLIPNOTE_BY_FORMAT"
-msgstr "Flipnote του χρηστη %s"
+msgid "RECENT"
+msgstr "Προσφατο"
 
-# # Comments section
-msgid "VIEWPAGE_COMMENT_WRITE_HERE"
-msgstr "γραψτε εδω"
-
-msgid "VIEWPAGE_COMMENT_POST_BUTTON"
-msgstr "Δημοσιευση Σχολιου"
-
-msgid "VIEWPAGE_ADD_MODERATOR_COMMENT"
-msgstr "Δημοσιευση σχολιου Moderator"
-
-msgid "VIEWPAGE_MODERATOR_COMMENT_WARNING"
-msgstr "Μην το χρησιμοποιειτε για προσωπικα σχολια."
-
-# ## This is composed of two parts: SIGN_IN and TO_ADD_A_COMMENT
-# ## SIGN_IN is a link to the login page, and TO_ADD_A_COMMENT is the part that comes after.
-# ## It reads as follows: Sign in to add a comment
-msgid "TO_ADD_A_COMMENT"
-msgstr "για να προσθεσετε ενα σχολιο"
-
-# ## When the Post Comment button is pressed, it changes to "Posting..." and then "Posted!" when complete.
-msgid "VIEWPAGE_COMMENT_POSTING"
-msgstr "ανεβαινει..."
-
-msgid "VIEWPAGE_COMMENT_POSTED"
-msgstr "ανεβηκε!"
-
-# ## This can happen in cases of network failure or if the comment is rejected
-msgid "VIEWPAGE_COMMENT_FAILED"
-msgstr "Αποτυχια σχλιου..."
-
-# # Right sidebar
-msgid "FRONTPAGE_FLIPNOTE_SPOTLIGHT"
-msgstr "Flipnote Spotlight"
-
-msgid "FRONTPAGE_TRENDING_CREATORS"
-msgstr "Χρηστες που κανουν Τρεντ"
-
-# Flipnote View Page
-msgid "EDIT_FLIPNOTE"
-msgstr "Διαχειριση Flipnote"
+msgid "RECENT_FLIPNOTES"
+msgstr "Προσφατα Flipnotes"
 
 msgid "REGION"
 msgstr "Περιοχη"
@@ -408,34 +590,201 @@ msgstr "Ιαπωνια"
 msgid "REGION_UNKNOWN"
 msgstr "Αγνωστη"
 
+# Referring to a release date/publishing date
+msgid "RELEASED"
+msgstr "Κυκλοφορια"
+
+msgid "SAVE"
+msgstr "Σωστε"
+
+msgid "SAVING"
+msgstr "Σωζει"
+
+msgid "SEARCH"
+msgstr "Αναζητηση"
+
+msgid "SEARCH_PAGE_FORM_PLACEHOLDER"
+msgstr "Username, FSID, song, artist, or channel"
+
+msgid "SEARCH_PAGE_FUZZY_SEARCH_TIP"
+msgstr "Tip: Μπορειτε να γραψετε πραγματα του τυπου 'Austin' και να βρειτε αποτελεσματα οπως το 'ÄuらtÎn'"
+
+# # User hasn't posted any Flipnotes yet
+msgid "SEARCH_PAGE_NO_FLIPNOTES_YET"
+msgstr "Κανενα Flipnote ακομα..."
+
+msgid "SEARCH_PAGE_NO_RESULTS_FOUND"
+msgstr "Δεν βρεθηκαν αποτελεσματα."
+
+msgid "SEARCH_PAGE_TOO_MANY_MATCHED"
+msgstr "Η αναζητηση σας βρηκε παρα πολλους χρηστες - δοκιμαστε κατι πιο συγκεκριμενο."
+
+# Search page
+msgid "SEARCH_SUDOMEMO"
+msgstr "Αναζητηση στο Sudomemo"
+
+msgid "SEE_MORE"
+msgstr "See more"
+
+msgid "SETTINGS"
+msgstr "Ρυθμισεις"
+
+msgid "SHARE"
+msgstr "Share"
+
 msgid "SHARE_ON_FACEBOOK"
 msgstr "Κοινοποιηση στο Facebook"
-
-msgid "SHARE_ON_TWITTER"
-msgstr "Κοινοποιηση στο Twitter"
-
-msgid "SHARE_ON_TUMBLR"
-msgstr "Κοινοποιηση στο Tumblr"
 
 msgid "SHARE_ON_REDDIT"
 msgstr "Κοινοποιηση στο Reddit"
 
-msgid "VIEWPAGE_SPINOFFS"
-msgstr "Spin-offs"
+msgid "SHARE_ON_TUMBLR"
+msgstr "Κοινοποιηση στο Tumblr"
 
-# # MusicMatch
-# ## Where the Flipnote's audio starts at in the song
-msgid "MUSICMATCH_AUDIO_OFFSET"
-msgstr "Ξεκιναει στο %s"
+msgid "SHARE_ON_TWITTER"
+msgstr "Κοινοποιηση στο Twitter"
 
-msgid "MUSICMATCH_LISTEN_ON_YOUTUBE_MUSIC"
-msgstr "Ακουστε στο YouTube Music"
+msgid "SHARE_ON_WHATSAPP"
+msgstr "Κοινοποιηση μεσω WhatsApp"
 
-msgid "MUSICMATCH_LISTEN_ON_SPOTIFY"
-msgstr "Ακουστε στο Spotify"
+msgid "SIGN_IN"
+msgstr "Συνδεση"
 
-msgid "MUSICMATCH_ABOUT"
-msgstr "Σχετικα με το MusicMatch"
+msgid "SIGN_OUT"
+msgstr "Αποσυνδεση"
+
+msgid "SIGN_UP"
+msgstr "Εγκατασταση"
+
+# For MusicMatch
+msgid "SONG"
+msgstr "Τραγουδι"
+
+msgid "SONGS"
+msgstr "Songs"
+
+msgid "SONG_ARTISTS"
+msgstr "Song Artists"
+
+msgid "STARS"
+msgstr "Αστερια"
+
+msgid "SUBMIT"
+msgstr "Submit"
+
+# This file contains most of the translations for Sudomemo Theatre.
+# Meta tags, descriptions, etc
+msgid "SUDOMEMO"
+msgstr "Sudomemo"
+
+msgid "SUDOMEMO_NEWS"
+msgstr "Νεα του Sudomemo"
+
+msgid "SUDOMEMO_PLUS"
+msgstr "Sudomemo Plus"
+
+msgid "SUDOMEMO_SHOP"
+msgstr "Καταστημα Sudomemo"
+
+msgid "SUDOMEMO_SHOP_ABOUT_TICKETS_1"
+msgstr "Οι λαχνοι ειναι διασκεδαστικα αντικειμενα του Sudomemo που μπορειτε να ανταλαξξετε για Αστερια, Sudomemo Plus, κ.α!"
+
+msgid "SUDOMEMO_SHOP_ABOUT_TICKETS_2"
+msgstr "Οταν αποκτησετε λαχνο, μπορειτε να τον ανταλλαξετε στο Δωματιο Χρηστη με το να πατησετε πανω στο \"Ανταλλαγη\" - η,μπορειτε να δωσετε τον κωδικο του λαχνου σε εναν φιλο ως δωρο!"
+
+msgid "SUDOMEMO_SHOP_ALL_ABOUT_PLUS"
+msgstr "Ολα για το Sudomemo Plus"
+
+msgid "SUDOMEMO_SHOP_LEARN_ABOUT_PLUS"
+msgstr "Μαθετε τι μπορειτε να κανετε με το Sudomemo Plus:"
+
+msgid "SUDOMEMO_SHOP_META_DESCRIPTION"
+msgstr "Καταστημα Sudomemo: Sudomemo merch, λαχνους για Plus και Stars, και αλλα τελεια πραγματα!"
+
+msgid "SUDOMEMO_THEATRE"
+msgstr "Sudomemo Theatre"
+
+msgid "SUDOMEMO_USER"
+msgstr "Χρηστης Sudomemo"
+
+msgid "TERMS_OF_USE"
+msgstr "Οροι Χρησης"
+
+# Sudomemo Shop
+msgid "TICKETS"
+msgstr "Λαχνοι"
+
+msgid "TITLE"
+msgstr "Τιτλο"
+
+# Referring to being the most popular (in terms of ranking)
+msgid "TOP"
+msgstr "Κορυφαια"
+
+# ## This is composed of two parts: SIGN_IN and TO_ADD_A_COMMENT
+# ## SIGN_IN is a link to the login page, and TO_ADD_A_COMMENT is the part that comes after.
+# ## It reads as follows: Sign in to add a comment
+msgid "TO_ADD_A_COMMENT"
+msgstr "για να προσθεσετε ενα σχολιο"
+
+msgid "TROPHY_CASE"
+msgstr "Trophy Case"
+
+# This is shown to logged-in users on their own Flipnotes without titles
+msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
+msgstr "Untitled Flipnote του χρηστη %s"
+
+msgid "UPLOAD_OPTIONS"
+msgstr "Επιλογες ΔΗμοσιευσης"
+
+# Upload status
+msgid "UPLOAD_STATUS"
+msgstr "Κατασταση Δημοσιευσης"
+
+msgid "USERS"
+msgstr "Users"
+
+msgid "USERS_FLIPNOTE_FROM_FLIPNOTE_HATENA"
+msgstr "%s's Flipnote from Flipnote Hatena"
+
+msgid "USERS_PROFILE_FROM_FLIPNOTE_HATENA"
+msgstr "%s's profile from Flipnote Hatena"
+
+msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
+msgstr "Αφου εχετε μπει στο Sudomemo Discord, καντε αυτο αντιγραφη επικολληση στο τσατ."
+
+msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
+msgstr "Διαχειριστειτε το συνδεδεμενο σας YouTube καναλι και προεπιλεγμενες Flipnote ρυθμισεις ανεβασματος."
+
+msgid "VERIFIED_USER"
+msgstr "Επιβεβαιωμενος Χρηστης"
+
+msgid "VIEWPAGE_ADD_MODERATOR_COMMENT"
+msgstr "Δημοσιευση σχολιου Moderator"
+
+# ## This can happen in cases of network failure or if the comment is rejected
+msgid "VIEWPAGE_COMMENT_FAILED"
+msgstr "Αποτυχια σχλιου..."
+
+msgid "VIEWPAGE_COMMENT_POSTED"
+msgstr "ανεβηκε!"
+
+# ## When the Post Comment button is pressed, it changes to "Posting..." and then "Posted!" when complete.
+msgid "VIEWPAGE_COMMENT_POSTING"
+msgstr "ανεβαινει..."
+
+msgid "VIEWPAGE_COMMENT_POST_BUTTON"
+msgstr "Δημοσιευση Σχολιου"
+
+msgid "VIEWPAGE_COMMENT_TEXTBOX"
+msgstr "Κουτι εισαγωγης σχολιων"
+
+# # Comments section
+msgid "VIEWPAGE_COMMENT_WRITE_HERE"
+msgstr "γραψτε εδω"
+
+msgid "VIEWPAGE_MODERATOR_COMMENT_WARNING"
+msgstr "Μην το χρησιμοποιειτε για προσωπικα σχολια."
 
 # # Original Flipnote / Spinoffs
 msgid "VIEWPAGE_ORIGINAL_FLIPNOTE"
@@ -448,276 +797,92 @@ msgstr "Το πρωτοτυπο Flipnote δεν βρισκεται στο Sudome
 msgid "VIEWPAGE_RELATED_FLIPNOTE_BY"
 msgstr "του χρηστη %s"
 
-# Creator's Room (Profile)
-msgid "FOLLOWS_YOU"
-msgstr "Σας ακολουθει"
+msgid "VIEWPAGE_SPINOFFS"
+msgstr "Spin-offs"
 
-msgid "FOLLOW_BACK"
-msgstr "Ακολουθηστε και εσεις"
+# Number of times something has been viewed, or played.
+msgid "VIEWS"
+msgstr "Προβολες"
 
-msgid "FOLLOWING"
-msgstr "Ακολουθειτε"
+msgid "VIEW_ON_SUDOMEMO"
+msgstr "View on Sudomemo"
 
-msgid "FOLLOW"
-msgstr "Ακολουθηστε"
+msgid "WELCOME_BOX_AFTERNOON_GREETING"
+msgstr "Καλησπερα"
 
-msgid "FOLLOWERS"
-msgstr "Ακολουθοοι"
+# ## Our welcome box can change it's greeting, depending on time of day.
+# ## It is displayed like this:
+# ## Good afternoon, User! Happy Flipnoting!
+msgid "WELCOME_BOX_DEFAULT_GREETING"
+msgstr "Γεια"
 
-# # はてなID
-msgid "HATENA_ID"
-msgstr "Hatena ID"
+msgid "WELCOME_BOX_EVENING_GREETING"
+msgstr "Καλησπερα"
 
-msgid "PROFILE_ABOUT_USERNAME"
-msgstr "Σχετικα με τον χρηστη %s"
+# Give, in the same sense as "Donate"
+msgid "WELCOME_BOX_GIVE"
+msgstr "Προσφερετε"
 
-# # User's ★ are from:
-msgid "PROFILE_STAR_COUNTRY_HEADER"
-msgstr "%s ★α ειναι απο:"
+# # Welcome to Sudomemo Box
+msgid "WELCOME_BOX_GREET_ADMIN"
+msgstr "Καλωσηρθατε, %s"
 
-# # Recent comments on their Flipnotes
-msgid "PROFILE_RECENT_COMMENTS"
-msgstr "Προσφατα Σχολια"
+msgid "WELCOME_BOX_HOW_TO_JOIN"
+msgstr "Μαθετε πως να  μπειτε!"
 
-# # channels that the user posts in most often
-msgid "PROFILE_USER_POSTS_IN"
-msgstr "Ο χρηστης %s ανεβαζει στα..."
+msgid "WELCOME_BOX_MORNING_GREETING"
+msgstr "Καλημερα"
 
-# Search page
-msgid "SEARCH_SUDOMEMO"
-msgstr "Αναζητηση στο Sudomemo"
+# ## Another one of our taglines 
+msgid "WELCOME_BOX_SHARE_CREATIVITY_TAGLINE"
+msgstr "Μοιραστειτε τη δημιουργικοτητα σας με τον κοσμο!"
 
-msgid "SEARCH_PAGE_FORM_PLACEHOLDER"
-msgstr "Username, FSID, song, artist, or channel"
+# ## "Happy Flipnoting!" is one of our brand catchphrases. "Flipnoting" refers to the act of creating or watching Flipnotes.
+# ## Please don't translate "Flipnoting", except to Japanese where you could probably modify the word うごメモ.
+msgid "WELCOME_BOX_USERNAME_HAPPY_FLIPNOTING"
+msgstr ", %s! Καλο Flipnoting!"
 
-msgid "SEARCH_PAGE_FUZZY_SEARCH_TIP"
-msgstr "Tip: Μπορειτε να γραψετε πραγματα του τυπου 'Austin' και να βρειτε αποτελεσματα οπως το 'ÄuらtÎn'"
+msgid "WELCOME_BOX_WELCOME_TO"
+msgstr "Καλωσηρθατε στο"
 
-msgid "SEARCH_PAGE_NO_RESULTS_FOUND"
-msgstr "Δεν βρεθηκαν αποτελεσματα."
+msgid "WELCOME_BOX_WHAT_IS_SUDOMEMO"
+msgstr "Το Sudomemo ειναι ενα σαιτ για animation οπου ο κοσμος μπορει να μοιραστει flipbook animations - τα λεγομενα Flipnotes - τα οποια δημιουργουνται και ανεβαινουν απο το Nintendo DSi και 3DS."
 
-msgid "SEARCH_PAGE_TOO_MANY_MATCHED"
-msgstr "Η αναζητηση σας βρηκε παρα πολλους χρηστες - δοκιμαστε κατι πιο συγκεκριμενο."
-
-# # User hasn't posted any Flipnotes yet
-msgid "SEARCH_PAGE_NO_FLIPNOTES_YET"
-msgstr "Κανενα Flipnote ακομα..."
-
-# Edit Flipnote page
-msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
-msgstr "Επεξεργαζεστε αυτο το Flipnote:"
-
-msgid "DESCRIPTION_WILL_GO_HERE"
-msgstr "Η περιγραφη σας θα μπει εδω ."
-
-msgid "COULD_NOT_SAVE_DETAILS"
-msgstr "Δεν μπορεσαμε να σωσουμε τις λεπτομεριες"
-
-msgid "PLUS_LEARN_MORE"
-msgstr "Μαθετε περισσοτερα..."
-
-msgid "EDIT_PAGE_SUDOMEMO_PLUS_REQUIRED"
-msgstr "Για να χρησιμοποιησετε αυτες τις δυνατοτητες, θα χρειαστειτε Sudomemo Plus."
-
-# Flipnote smoothing
-msgid "EDIT_PAGE_PLUS_SMOOTHING"
-msgstr "Smoothing"
-
-msgid "EDIT_PAGE_PLUS_AUDIO_ENHANCEMENT"
-msgstr "Audio Enhancement"
-
-msgid "EDIT_PAGE_FLIPNOTE_PREVIEW_NOTE"
-msgstr "Σημειωση: Το πριβιου του Flipnote δεν ενημερωνεται."
-
-msgid "EDIT_PAGE_TITLE_AND_DESCRIPTION"
-msgstr "Τιτλος και Περιγραφη"
-
-msgid "EDIT_PAGE_ENTER_A_TITLE"
-msgstr "Προσθεστε Τιτλο"
-
-msgid "EDIT_PAGE_ENTER_A_DESCRIPTION"
-msgstr "Προσθεστε Περιγραφη"
-
-msgid "EDIT_PAGE_TITLE_TOOLTIP"
-msgstr "Γραμματα, νουμερα και συμβολα, μαξιμουμ 40 χαρακτηρων."
-
-msgid "EDIT_PAGE_DESCRIPTION_TOOLTIP"
-msgstr "Γραμματα, νουμερα και συμβολα, μαξιμουμ 320 χαρακτηρων."
-
-# # MusicMatch
-msgid "EDIT_PAGE_ABOUT_MUSICMATCH_1"
-msgstr "Το MusicMatch ακουει το Flipnote σας δια να βρει τι μουσικη χρησιμοποιει!"
-
-msgid "EDIT_PAGE_ABOUT_MUSICMATCH_2"
-msgstr "Το MusicMatch ενδεχεται να βρει πανω απο ενα πιθανο τραγουδι, η να επιλεξει το λαθος. Εαν αυτο συμβει, μπορειτε να ενημερωσετε το τραγουδι εδω."
-
-msgid "EDIT_PAGE_ABOUT_MUSICMATCH_3"
-msgstr "Εαν ενημερωσετε το τραγουδι, το MusicMatch θα μαθει απο αυτη την πληρογορια και θα ειναι καλυτερο στην επιλογη Flipnote audio στο μελλον."
-
-msgid "EDIT_PAGE_MUSICMATCH_NO_BGM"
-msgstr "Το Flipnote σας δεν εχει ηχο."
-
-msgid "EDIT_PAGE_MUSICMATCH_UNMATCHED"
-msgstr "Το MusicMatch δεν μπορεσε να βρει τραγουδια που να ταιριαζουν με εκεινο του Flipnote."
-
-msgid "EDIT_PAGE_MUSICMATCH_UNMAPPED"
-msgstr "Το MusicMatch δεν εχει φτασει ακομα σε αυτο το Flipnote. Ελατε αργοτερα."
-
-msgid "EDIT_PAGE_MUSICMATCH_PENDING_MAPPING"
-msgstr "Το MusicMatch διαχειριζεται αυτη τη στιγμη το Flipnote. Ελατε αργοτερα."
-
-msgid "EDIT_PAGE_MUSICMATCH_NONE_CORRECT"
-msgstr "Κανενα απο αυτα δεν ειναι το σωστο"
-
-msgid "EDIT_PAGE_MUSICMATCH_PREVIEW_ON_YOUTUBE"
-msgstr "Preview στο YouTube Music"
-
-msgid "EDIT_PAGE_MUSICMATCH_PREVIEW_ON_SPOTIFY"
-msgstr "Preview στοSpotify"
-
-# Browse Song
-msgid "BROWSE_SONG_NO_FLIPNOTES_YET"
-msgstr "Δεν εχουν ανεβει Flipnotes με αυτο το τραγουδι ακομα."
-
-# # Referring to a music label/publishing company
-msgid "MUSIC_LABEL"
-msgstr "Δισκογραφικη"
-
-# Browse Channel
-msgid "BROWSE_CHANNEL_NO_FLIPNOTES_YET"
-msgstr "Δεν εχουν ανεβει Flipnote ακομα σε αυτο το καναλι."
-
-# # Posting permissions
-msgid "CHANNEL_PERM_CLOSED"
-msgstr "Κλειστο"
-
-msgid "CHANNEL_PERM_OPEN"
-msgstr "Αοιχτο"
-
-# # categories
-msgid "CHANNEL_CAT_NAME_NONE"
-msgstr "Κανενα"
-
-msgid "CHANNEL_CAT_NAME_ART"
-msgstr "Τεχνη"
-
-msgid "CHANNEL_CAT_NAME_GENRES"
-msgstr "Ειδη"
-
-msgid "CHANNEL_CAT_NAME_TOPICS"
-msgstr "Θεματα"
-
-msgid "CHANNEL_CAT_NAME_ROLEPLAYS"
-msgstr "Roleplays"
-
-msgid "CHANNEL_CAT_NAME_FANDOMS"
-msgstr "Fandoms"
-
-msgid "CHANNEL_CAT_NAME_RESOURCES"
-msgstr "Resources"
-
-msgid "CHANNEL_CAT_NAME_PERSONAL"
-msgstr "Προσωπικο"
-
-msgid "CHANNEL_CAT_NAME_WEEKLY_TOPIC"
-msgstr "Weekly Topic"
-
-# 404 Page
-msgid "404_OOPS_NOT_FOUND"
-msgstr "Οουπς - Δεν βρεθηκε αυτη η σελιδα"
-
-msgid "404_WHOOPS_NOT_THERE"
-msgstr "Ουπς! Ο,τι ψαχνατε δεν βρισκεται εδω."
-
-msgid "404_GO_BACK"
-msgstr "Πισω στο Sudomemo Theatre"
-
-# Sudomemo Shop
-msgid "TICKETS"
-msgstr "Λαχνοι"
-
-msgid "SUDOMEMO_SHOP_ABOUT_TICKETS_1"
-msgstr "Οι λαχνοι ειναι διασκεδαστικα αντικειμενα του Sudomemo που μπορειτε να ανταλαξξετε για Αστερια, Sudomemo Plus, κ.α!"
-
-msgid "SUDOMEMO_SHOP_ABOUT_TICKETS_2"
-msgstr "Οταν αποκτησετε λαχνο, μπορειτε να τον ανταλλαξετε στο Δωματιο Χρηστη με το να πατησετε πανω στο \"Ανταλλαγη\" - η,μπορειτε να δωσετε τον κωδικο του λαχνου σε εναν φιλο ως δωρο!"
-
-msgid "SUDOMEMO_SHOP_LEARN_ABOUT_PLUS"
-msgstr "Μαθετε τι μπορειτε να κανετε με το Sudomemo Plus:"
-
-msgid "SUDOMEMO_SHOP_ALL_ABOUT_PLUS"
-msgstr "Ολα για το Sudomemo Plus"
-
-# # Ticket types..
-# Login Page
-msgid "LOGIN_FAILED_CHECK_DETAILS"
-msgstr "Δεν μπορεσαμε να σας συνδεσουμε. Ξανακοιταξετε τις λεπτομεριες που εισαγατε και δοκιμαστε ξανα."
-
-msgid "LOGIN_PLACEHOLDER_USERNAME"
-msgstr "Email η Flipnote Studio ID"
-
-msgid "LOGIN_PLACEHOLDER_PASSWORD"
-msgstr "Κωδικος Προσβασης"
-
-msgid "LOGIN_SIGNUP_SELECT_DEVICE"
-msgstr "Επιλεξτε τη συσκευη σας"
-
-msgid "NINTENDO_DSI"
-msgstr "Nintendo DSi"
-
-msgid "NINTENDO_3DS"
-msgstr "Nintendo 3DS"
-
-# Additional things
-# See Flipnotes with the song <song name> by <band/artist name>
-msgid "BROWSE_SONG_YOU_ARE_BROWSING_SONG"
-msgstr "Δειτε Flipnotes με το τραγουδι %s του/ων %s"
-
-msgid "TROPHY_CASE"
-msgstr "Trophy Case"
-
-# This is shown to logged-in users on their own Flipnotes without titles
-msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
-msgstr "Untitled Flipnote του χρηστη %s"
-
-# Account Settings (Theatre)
-msgid "ACCOUNT_SETTINGS"
-msgstr "Ρυθμισεις Λογαριασμου"
+msgid "WELCOME_BOX_YOU_ARE_ADMIN"
+msgstr "Εχετε συνδεθει ως Διαχειριστης."
 
 msgid "YOUTUBE"
 msgstr "YouTube"
 
-msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
-msgstr "Διαχειριστειτε το συνδεδεμενο σας YouTube καναλι και προεπιλεγμενες Flipnote ρυθμισεις ανεβασματος."
-
-msgid "YOUTUBE_CONNECT_INTRO"
-msgstr "Με το να συνδεθειτε στο YouTube καναλι σας μπορειτε να ανεβασετε τα δικα σας Flipnotes κατευεθιαν YouTube!"
-
-msgid "YOUTUBE_LINK_PROMPT"
-msgstr "Συνδεστε το YouTube καναλι για να ανεβασετε τα δικα σας Flipnotes στο YouTube."
-
-msgid "YOUTUBE_RECONNECT_PROMPT"
-msgstr "Η συνδεση στο καναλι σας εχει ληξει. Παρακαλω επανασυνδεστε το για να συνεχισετε."
-
-msgid "BTN_SIGN_IN_WITH_GOOGLE"
-msgstr "Συνδεθειτε μεσω Google"
-
 msgid "YOUTUBE_ACCOUNT_UNVERIFIED"
 msgstr "Λογαριασμος μη επιβεβαιωμενος"
 
-msgid "YOUTUBE_ACCOUNT_VERIFIED"
-msgstr "Λογαριασμος επιβεβαιωμενος"
+msgid "YOUTUBE_ACCOUNT_VERIFICATION_FIX_NOW"
+msgstr "Διορθωση τωρα"
 
 msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
 msgstr "Λογαριασμος σας στο YouTube δεν ειναι επιβεβαιωμενος. Καποιες δυνατοτητες δεν θα λειτουργησουν σωστα, οπως video thumbnails και Flipnotes μεγαλυτερα απο 15 λεπτα."
 
-msgid "YOUTUBE_ACCOUNT_VERIFICATION_FIX_NOW"
-msgstr "Διορθωση τωρα"
+msgid "YOUTUBE_ACCOUNT_VERIFIED"
+msgstr "Λογαριασμος επιβεβαιωμενος"
+
+# Added to the queue at: 2020-07-08 02:46:38
+msgid "YOUTUBE_ADDED_TO_QUEUE_AT"
+msgstr "Προστεθηκε στην σειρα σας στις:"
+
+msgid "YOUTUBE_CHECK_FEATURES_THUMB"
+msgstr "Το καναλι σας στο YouTube μπορει να μην ειναι πληρως επιβεβαιωμενο. Για περισσοτερες πληροφοριες, μπορειτε να δειτε την κατασταση των Custom Thumbnails εδω:"
+
+msgid "YOUTUBE_CONNECT_INTRO"
+msgstr "Με το να συνδεθειτε στο YouTube καναλι σας μπορειτε να ανεβασετε τα δικα σας Flipnotes κατευεθιαν YouTube!"
 
 # YouTube metadata
 # Extra description text: will be placed at the end of your video descriptions. 
 msgid "YOUTUBE_DEFAULT_SETTINGS_EXPLANATION"
 msgstr "Αυτες οι ρυθμισεις θα συπληρωνονται αυτοματα οταν ανεβαζετε ενα Flipnote απο το Nintendo DSi η 3DS. Εαν ανεβαζετε μεσω Sudomemo Theatre, θα σας ζητηθει να αλλαξετε η να επιβεβαιωσετε αυτες τις ρυθμισεις πριν ξεκινησει το upload."
+
+msgid "YOUTUBE_ESTIMATED_DURATION"
+msgstr "Εκτιμωμενη διαρκεια βιντεο:"
 
 msgid "YOUTUBE_EXTRA_DESCRIPTION_TEXT"
 msgstr "Extra Description Text"
@@ -725,14 +890,8 @@ msgstr "Extra Description Text"
 msgid "YOUTUBE_EXTRA_DESCRIPTION_TEXT_EXPLANATION"
 msgstr "This text will display when viewers click on 'Show more' in your video's description."
 
-msgid "YOUTUBE_TAGS"
-msgstr "Tags"
-
-msgid "YOUTUBE_TAGS_HINT"
-msgstr "Tags, separated by comma."
-
-msgid "YOUTUBE_TAGS_EXPLANATION"
-msgstr "Enter a comma after each tag"
+msgid "YOUTUBE_LINK_PROMPT"
+msgstr "Συνδεστε το YouTube καναλι για να ανεβασετε τα δικα σας Flipnotes στο YouTube."
 
 msgid "YOUTUBE_LOOP_COUNT"
 msgstr "Number of plays"
@@ -740,60 +899,18 @@ msgstr "Number of plays"
 msgid "YOUTUBE_LOOP_COUNT_EXPLANATION"
 msgstr "Number of times a looped Flipnote will repeat. Select 1 to only play once."
 
-msgid "YOUTUBE_VISIBILITY"
-msgstr "Visibility"
-
-msgid "YOUTUBE_VISIBILITY_PUBLIC"
-msgstr "Public"
-
-msgid "YOUTUBE_VISIBILITY_UNLISTED"
-msgstr "Unlisted"
-
-msgid "YOUTUBE_VISIBILITY_PRIVATE"
-msgstr "Private"
-
-# Upload page specifics
-# Upload to YouTube header
-msgid "HEADER_UPLOAD_TO_YOUTUBE"
-msgstr "Upload to YouTube"
-
-msgid "LINK_REQUIRED_BEFORE_UPLOAD"
-msgstr "You'll need to link your YouTube channel before you can upload your Flipnote."
-
-msgid "BTN_GO_TO_SETTINGS"
-msgstr "Go to Settings"
-
-msgid "UPLOAD_OPTIONS"
-msgstr "Επιλογες ΔΗμοσιευσης"
-
-msgid "YOUTUBE_TERMS_AGREEMENT_NOTE"
-msgstr "Ανεβαζοντας τα βιντεο σας στο YouTube, επιβεβαιωνετε οτι συμφωνειτε στους ορους χρησης του YouTube."
-
-msgid "SUBMIT"
-msgstr "Submit"
-
-# Upload status
-msgid "UPLOAD_STATUS"
-msgstr "Κατασταση Δημοσιευσης"
-
 msgid "YOUTUBE_PENDING_UPLOAD"
 msgstr "Το Flipnote σας ανεβαινει. Ελατε ξανα σε λιγα λεπτα."
 
-# Added to the queue at: 2020-07-08 02:46:38
-msgid "YOUTUBE_ADDED_TO_QUEUE_AT"
-msgstr "Προστεθηκε στην σειρα σας στις:"
+# Position in queue: 4 - means there are three uploads ahead of yours
+msgid "YOUTUBE_POSITION_IN_QUEUE"
+msgstr "Θεση στην σειρα:"
 
-msgid "YOUTUBE_STATUS_TRACKER_NEW"
-msgstr "Νεο"
+msgid "YOUTUBE_RECONNECT_PROMPT"
+msgstr "Η συνδεση στο καναλι σας εχει ληξει. Παρακαλω επανασυνδεστε το για να συνεχισετε."
 
-msgid "YOUTUBE_STATUS_TRACKER_PROCESSING"
-msgstr "Επεξεργαζεται"
-
-msgid "YOUTUBE_STATUS_TRACKER_DONE"
-msgstr "Ετοιμο!"
-
-msgid "YOUTUBE_STATUS_WAITING_TO_BE_PROCESSED"
-msgstr "Η δημοσιευση σας βρισκεται στην αναμονη για επεξεργασια."
+msgid "YOUTUBE_REFRESH_ACCOUNT"
+msgstr "Ανανεωση λογαριασμου"
 
 msgid "YOUTUBE_STATUS_BEING_PROCESSED"
 msgstr "Η δημοσιευση σας επεξεργαζεται."
@@ -801,17 +918,20 @@ msgstr "Η δημοσιευση σας επεξεργαζεται."
 msgid "YOUTUBE_STATUS_COMPLETE"
 msgstr "Η δημοσιευση ολοκληρωθηκε!"
 
-msgid "YOUTUBE_STATUS_FAILED_GONE"
-msgstr "Το Flipnote εξαφανιστηκε πριν ολοκληρωθει  δημοσιευση."
-
 msgid "YOUTUBE_STATUS_FAILED_AUTH"
 msgstr "Η δημοσιευση απετυχε λογω σφαλματος στην αναγνωριση."
+
+msgid "YOUTUBE_STATUS_FAILED_CLIENT_ERROR"
+msgstr "Η δημοσιευση απετυχε λογω σφαλματος πελατη."
+
+msgid "YOUTUBE_STATUS_FAILED_GONE"
+msgstr "Το Flipnote εξαφανιστηκε πριν ολοκληρωθει  δημοσιευση."
 
 msgid "YOUTUBE_STATUS_FAILED_SERVICE_ERROR"
 msgstr "Η δημοσιευση απετυχε λογω σφαλματος υπηρεσιας."
 
-msgid "YOUTUBE_STATUS_FAILED_CLIENT_ERROR"
-msgstr "Η δημοσιευση απετυχε λογω σφαλματος πελατη."
+msgid "YOUTUBE_STATUS_FAILED_THUMB"
+msgstr "Το βιντεο σας ανεβηκε με επιτυχια, αλλα ειχαμε προβλημα με τη δημοσιευση του thumbnail."
 
 msgid "YOUTUBE_STATUS_FAILED_UNEXPECTED_ERROR"
 msgstr "Συνεβη μη αναμενομενο σφαλμα κατα τη διαρκεια της δημοσιευσης."
@@ -822,30 +942,35 @@ msgstr "Η δημοσιευση απετυχε λογω αγνωστου σφα�
 msgid "YOUTUBE_STATUS_PAUSED_GLOBAL_QUOTA"
 msgstr "Το quota χρησης μας εχει ξεπεραστει, επομενως ενδεχεται να υπαρχουν μεγαλες καθυστερησεις στην δημοσιευση."
 
-msgid "YOUTUBE_WATCH_NOW_AT"
-msgstr "Δειτε τωρα:"
+msgid "YOUTUBE_STATUS_TRACKER_DONE"
+msgstr "Ετοιμο!"
 
-msgid "BTN_START_UPLOAD"
-msgstr "Ξεκινηστε την δημοσιευση"
+msgid "YOUTUBE_STATUS_TRACKER_NEW"
+msgstr "Νεο"
 
-msgid "BTN_STARTING_UPLOAD"
-msgstr "Ξεκιναει..."
+msgid "YOUTUBE_STATUS_TRACKER_PROCESSING"
+msgstr "Επεξεργαζεται"
 
-msgid "BTN_UPLOAD_FAILED"
-msgstr "Αποτυχια δημοσιευσης..."
+msgid "YOUTUBE_STATUS_WAITING_TO_BE_PROCESSED"
+msgstr "Η δημοσιευση σας βρισκεται στην αναμονη για επεξεργασια."
 
-msgid "FLIPNOTE_SETTINGS_UPLOAD_TO_YOUTUBE"
-msgstr "Μπορειτε να ανεβασετε το Flipnote στο καναλι σας στο YouTube. Πατηστε το παρακατω κουμπι για να ξεκινησετε."
+msgid "YOUTUBE_TAGS"
+msgstr "Tags"
 
-msgid "BTN_GET_STARTED"
-msgstr "Ξεκινηστε"
+msgid "YOUTUBE_TAGS_EXPLANATION"
+msgstr "Enter a comma after each tag"
 
-msgid "YOUTUBE_ESTIMATED_DURATION"
-msgstr "Εκτιμωμενη διαρκεια βιντεο:"
+msgid "YOUTUBE_TAGS_HINT"
+msgstr "Tags, separated by comma."
 
-# Position in queue: 4 - means there are three uploads ahead of yours
-msgid "YOUTUBE_POSITION_IN_QUEUE"
-msgstr "Θεση στην σειρα:"
+msgid "YOUTUBE_TERMS_AGREEMENT_NOTE"
+msgstr "Ανεβαζοντας τα βιντεο σας στο YouTube, επιβεβαιωνετε οτι συμφωνειτε στους ορους χρησης του YouTube."
+
+msgid "YOUTUBE_UNLINK_ACCOUNT"
+msgstr "Αποσυνδεση λογαριασμυ"
+
+msgid "YOUTUBE_UNLINK_ACCOUNT_CONFIRM"
+msgstr "Ειστε σιγουροι οτι θελετε να αφεραισετε το συνδεδεμενο καναλι σας στο YouTub;"
 
 msgid "YOUTUBE_UPLOAD_HISTORY"
 msgstr "Ιστορικο Δημοσιευσεων"
@@ -857,158 +982,33 @@ msgstr "Επιλεξτε το εικονιδιο καταστασης στα α�
 msgid "YOUTUBE_UPLOAD_LIMIT"
 msgstr "Μπορειτε να ανεβασετε %s βιντεο YouTube ημερησιως."
 
-msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_LIMIT_NOTE"
-msgstr "Μελη του Sudomemo Plus μπορουν να ανεβασουν %s βιντεο ημερησιως."
-
-msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_UNLIMITED_NOTE"
-msgstr "Μελη του Sudomemo Plus members μπορουν να ανεβασουν οσα βιντεο επιθυμουν ημερησιως."
-
 msgid "YOUTUBE_UPLOAD_LIMIT_CURRENT"
 msgstr "Εχετε ανεβασει %s βιντεο σημερα μεχρι στιγμης."
 
 msgid "YOUTUBE_UPLOAD_LIMIT_EXCEEDED"
 msgstr "Δεν μπορειτε να ανεβασετε αλλα βιντεο μεχρι αυριο."
 
-msgid "SETTINGS"
-msgstr "Ρυθμισεις"
+msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_LIMIT_NOTE"
+msgstr "Μελη του Sudomemo Plus μπορουν να ανεβασουν %s βιντεο ημερησιως."
 
-msgid "PRIVACY_POLICY"
-msgstr "Πολιτικη Απορρητου"
+msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_UNLIMITED_NOTE"
+msgstr "Μελη του Sudomemo Plus members μπορουν να ανεβασουν οσα βιντεο επιθυμουν ημερησιως."
 
-msgid "YOUTUBE_STATUS_FAILED_THUMB"
-msgstr "Το βιντεο σας ανεβηκε με επιτυχια, αλλα ειχαμε προβλημα με τη δημοσιευση του thumbnail."
+msgid "YOUTUBE_VISIBILITY"
+msgstr "Visibility"
 
-msgid "YOUTUBE_CHECK_FEATURES_THUMB"
-msgstr "Το καναλι σας στο YouTube μπορει να μην ειναι πληρως επιβεβαιωμενο. Για περισσοτερες πληροφοριες, μπορειτε να δειτε την κατασταση των Custom Thumbnails εδω:"
+msgid "YOUTUBE_VISIBILITY_PRIVATE"
+msgstr "Private"
 
-msgid "YOUTUBE_REFRESH_ACCOUNT"
-msgstr "Ανανεωση λογαριασμου"
+msgid "YOUTUBE_VISIBILITY_PUBLIC"
+msgstr "Public"
 
-msgid "YOUTUBE_UNLINK_ACCOUNT"
-msgstr "Αποσυνδεση λογαριασμυ"
+msgid "YOUTUBE_VISIBILITY_UNLISTED"
+msgstr "Unlisted"
 
-msgid "YOUTUBE_UNLINK_ACCOUNT_CONFIRM"
-msgstr "Ειστε σιγουροι οτι θελετε να αφεραισετε το συνδεδεμενο καναλι σας στο YouTub;"
+msgid "YOUTUBE_WATCH_NOW_AT"
+msgstr "Δειτε τωρα:"
 
-msgid "VERIFIED_USER"
-msgstr "Επιβεβαιωμενος Χρηστης"
-
-msgid "SHARE_ON_WHATSAPP"
-msgstr "Κοινοποιηση μεσω WhatsApp"
-
-# This refers to Discord, which is a chat app.
-msgid "DISCORD"
-msgstr "Discord"
-
-msgid "DISCORD_HOW_TO_LINK"
-msgstr "Πως να συνδεσετε"
-
-msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
-msgstr "Αφου εχετε μπει στο Sudomemo Discord, καντε αυτο αντιγραφη επικολληση στο τσατ."
-
-# Connected since December 27th, 2020
-msgid "DISCORD_LINKED_ON_DATE"
-msgstr "Συνδεδεμενος απο τις %s"
-
-# Do not translate ".sudo unlink"
-msgid "HOW_TO_UNLINK_DISCORD"
-msgstr "Για να αποσυνδεσετε τον λογαριασμο σας στο Discord, πληκτρολογειστε αυτη την εντολη στο τσατ: .sudo unlink"
-
-msgid "BTN_JOIN_DISCORD"
-msgstr "Μπειτε στο Discord"
-
-msgid "PASS_CHANGE_PASSWORD"
-msgstr "Αλλαγη Κωδικου"
-
-msgid "PASS_CHANGE_CONFIRM_PASSWORD"
-msgstr "Επιβεβαιωση Κωδικου"
-
-msgid "PASS_CHANGE_COMPLETE"
-msgstr "Ο κωδικος σας ενημερωθηκε."
-
-msgid "PASS_CHANGE_CONTINUE_TO_LOGIN"
-msgstr "Συνεχεια στην συνδεση"
-
-msgid "HEADER_CHANGE_PASSWORD"
-msgstr "Αλλαγη Κωδικου"
-
-msgid "PASS_CHANGE_URL_EXPIRED"
-msgstr "Το URL που επισκευτηκατε εχει ληξει."
-
-msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
-msgstr "Δεν βρεθηκε χρηστης με αυτο το Flipnote Studio ID η email"
-
-msgid "NO_EMAIL_ON_FILE"
-msgstr "Δεν υπαρχει διευθυνση email στο αρχειο μας -- επικοινωνηστε με την Υποστηριξη Sudomemo"
-
-msgid "PASSWORD_RESET_SENT"
-msgstr "Εχει σταλει αλλαγη κωδικου στην διευθυνση email που διαθετουμε στο αρχειο μας."
-
-msgid "FORGOT_YOUR_PASSWORD"
-msgstr "Ξεχασατε τον κωδικο σας;"
-
-msgid "SUDOMEMO_USER"
-msgstr "Χρηστης Sudomemo"
-
-msgid "FLIPNOTE_ARCHIVE_BUTTON_TOGGLE"
-msgstr "Show link to archived Flipnote Hatena content from my profile"
-
-msgid "FLIPNOTE_ARCHIVE_SETTINGS"
-msgstr "Archive Settings"
-
-msgid "FLIPNOTE_ARCHIVE_PROFILE_AVAILABLE"
-msgstr "Your Flipnote Hatena profile is available through our Flipnote Archive Preview Program! You can view your old Flipnotes by visiting your profile on Sudomemo Theatre."
-
-msgid "FLIPNOTE_ARCHIVE_PROFILE_SETTING_INFORMATION"
-msgstr "While logged in, your archive link will always be shown on your page. You can choose whether or not to make this visible to other users below."
-
-msgid "FLIPNOTE_ARCHIVE_PROFILE_NOT_AVAILABLE"
-msgstr "An archived Flipnote Hatena profile is not available for this account."
-
-msgid "FLIPNOTE_HATENA_PROFILE"
-msgstr "Flipnote Hatena Profile"
-
-msgid "ARCHIVE_PROFILE"
-msgstr "Archive Profile"
-
-msgid "ARCHIVE_PROFILE_DESC"
-msgstr "This is an archive of a Flipnote Hatena profile."
-
-msgid "ARCHIVE_FLIPNOTE"
-msgstr "Archive Flipnote"
-
-msgid "ARCHIVE_FLIPNOTE_DESC"
-msgstr "This Flipnote was originally posted on Flipnote Hatena."
-
-msgid "VIEW_ON_SUDOMEMO"
-msgstr "View on Sudomemo"
-
-msgid "ARCHIVE"
-msgstr "Archive"
-
-msgid "ARCHIVED"
-msgstr "Archived"
-
-msgid "USERS_FLIPNOTE_FROM_FLIPNOTE_HATENA"
-msgstr "%s's Flipnote from Flipnote Hatena"
-
-msgid "USERS_PROFILE_FROM_FLIPNOTE_HATENA"
-msgstr "%s's profile from Flipnote Hatena"
-
-msgid "LEARN_MORE"
-msgstr "Learn more"
-
-msgid "CONTINUE"
-msgstr "Continue"
-
-msgid "SEE_MORE"
-msgstr "See more"
-
-msgid "USERS"
-msgstr "Users"
-
-msgid "SONGS"
-msgstr "Songs"
-
-msgid "SONG_ARTISTS"
-msgstr "Song Artists"
+# Edit Flipnote page
+msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
+msgstr "Επεξεργαζεστε αυτο το Flipnote:"

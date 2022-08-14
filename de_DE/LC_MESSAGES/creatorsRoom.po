@@ -3,59 +3,8 @@ msgstr ""
 "Language: de_DE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "SEE_MORE"
-msgstr "Mehr anzeigen"
-
-msgid "STARRED_FLIPNOTES"
-msgstr "Bewertete Flipnotes"
-
-msgid "FAVORITE_USERS"
-msgstr "Favorisierte Benutzer"
-
-msgid "FAVORITES_FEED"
-msgstr "Favoriten-Feed"
-
-msgid "FAVORITE_CHANNELS"
-msgstr "Favorisierte Kanäle"
-
-msgid "USER_DOWNLOADCOUNT"
-msgstr "Downloads insgesamt"
-
-msgid "USER_VIEWCOUNT"
-msgstr "Aufrufe insgesamt"
-
-msgid "USER_THEME"
-msgstr "Kulisse"
-
-msgid "THEME_SHOP"
-msgstr "Kulissen-Shop"
-
-msgid "POSTED_COMMENTS"
-msgstr "Gepostete Kommentare"
-
-msgid "POSTED_CHATCOMMENTS"
-msgstr "Versendete Chat-Nachrichten"
-
-msgid "FEATURE_USABILITY"
-msgstr "Benutzerfreundlichkeit"
-
-msgid "USABLE"
-msgstr "Benutzbar"
-
-msgid "NOT_USABLE"
-msgstr "Nicht benutzbar"
-
-msgid "SUDOMEMO_THEATRE_URL"
-msgstr "Sudomemo-Theatre-Link"
-
-msgid "FLIPNOTE_STUDIO_ID"
-msgstr "Flipnote-Studio-ID"
-
-msgid "SETTINGS"
-msgstr "Einstellungen"
-
-msgid "ADMIN_ACCT_GOOD_STANDING"
-msgstr "Besitzt guten Ruf"
+msgid "101_CHARACTER_LIMIT_BIO"
+msgstr "Die Länge der Biografie ist auf 101 Zeichen begrenzt."
 
 msgid "ADMIN_ACCT_BANNED"
 msgstr "Von Sudomemo gebannt"
@@ -63,20 +12,26 @@ msgstr "Von Sudomemo gebannt"
 msgid "ADMIN_ACCT_BLOCKED"
 msgstr "Blockiert"
 
+msgid "ADMIN_ACCT_GOOD_STANDING"
+msgstr "Besitzt guten Ruf"
+
 msgid "ADMIN_ACCT_MUTED"
 msgstr "Stummgeschaltet"
 
-msgid "ADMIN_USER_DETAILS"
-msgstr "Details"
+msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
+msgstr "Administrator-Aktionen"
 
 msgid "ADMIN_LAST_SEEN"
 msgstr "Zuletzt online"
 
+msgid "ADMIN_USER_DETAILS"
+msgstr "Details"
+
 msgid "ADMIN_USER_STATUS"
 msgstr "Status"
 
-msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
-msgstr "Administrator-Aktionen"
+msgid "BLOCKED_USERS"
+msgstr "Blockierte Benutzer"
 
 msgid "BLOCK_COMMENTS_HEADER"
 msgstr "Nachrichten blockieren"
@@ -84,11 +39,53 @@ msgstr "Nachrichten blockieren"
 msgid "BLOCK_COMMENTS_LINK"
 msgstr "Blockieren"
 
-msgid "USABILITY_USABLE"
-msgstr "Benutzbar"
+msgid "CAN_DRAW_TICKET_SUBTEXT"
+msgstr "Du kannst ein normales Ticket ziehen! Mit etwas Glück gewinnst du einen Preis."
 
-msgid "USABILITY_NOT_USABLE"
-msgstr "Nicht benutzbar"
+msgid "CHANGE_ROOM_THEME_LINK"
+msgstr "[Kulisse ändern]"
+
+msgid "CREATORS_ROOM"
+msgstr "Creator-Seite"
+
+msgid "CURRENT_BIO"
+msgstr "Aktuelle Biografie:"
+
+msgid "DRAW_REGULAR_TICKET"
+msgstr "Ticket ziehen"
+
+msgid "ENTER_BIO"
+msgstr "Biografie eingeben"
+
+msgid "EXAMPLE"
+msgstr "Beispiel"
+
+msgid "FANS"
+msgstr "Fans"
+
+msgid "FAN_COUNT_FORMAT"
+msgstr "Fans: %s"
+
+msgid "FAVORITES_FEED"
+msgstr "Favoriten-Feed"
+
+msgid "FAVORITE_CHANNELS"
+msgstr "Favorisierte Kanäle"
+
+msgid "FAVORITE_USERS"
+msgstr "Favorisierte Benutzer"
+
+msgid "FEATURE_USABILITY"
+msgstr "Benutzerfreundlichkeit"
+
+msgid "FLIPNOTE_STUDIO_ID"
+msgstr "Flipnote-Studio-ID"
+
+msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
+msgstr "Du kannst nicht mehr als %d Benutzern folgen."
+
+msgid "HEADER_EDIT_BIOGRAPHY"
+msgstr "Biografie bearbeiten"
 
 msgid "HEADER_FOLLOWERS"
 msgstr "Follower"
@@ -96,122 +93,29 @@ msgstr "Follower"
 msgid "HEADER_FOLLOWING"
 msgstr "Folgend"
 
-msgid "PREVIOUS"
-msgstr "Zurück"
-
-msgid "NEXT"
-msgstr "Weiter"
-
-msgid "CHANGE_ROOM_THEME_LINK"
-msgstr "[Kulisse ändern]"
-
-msgid "SELECT_THEME"
-msgstr "Kulisse auswählen"
-
-msgid "FANS"
-msgstr "Fans"
-
-msgid "EXAMPLE"
-msgstr "Beispiel"
-
-msgid "THEMETEST_SET_THEME"
-msgstr "Kulisse benutzen"
-
-msgid "THEMETEST_NOTICE"
-msgstr "Anmerkung"
-
-msgid "THEMETEST_OK"
-msgstr "Okay"
-
-msgid "THEMETEST_ERROR"
-msgstr "Fehler"
-
-msgid "THEMETEST_NOTICE_2"
-msgstr "Anmerkung #2"
-
-msgid "THEMETEST_ACTIVE_TAB"
-msgstr "Aktiver Tab"
-
-msgid "THEMETEST_INACTIVE_TAB"
-msgstr "Inaktiver Tab"
-
-msgid "PREVIEW"
-msgstr "Vorschau"
-
-msgid "CREATORS_ROOM"
-msgstr "Creator-Seite"
-
-msgid "THEME_ERROR_THEME_NOT_OWNED"
-msgstr "Du besitzt diese Kulisse nicht."
-
-msgid "THEME_SUCCESSFULLY_SET"
-msgstr "Die ausgewählte Kulisse ist nun in deinem Ersteller-Raum zu sehen!"
-
-msgid "BLOCKED_USERS"
-msgstr "Blockierte Benutzer"
-
-msgid "VIEW"
-msgstr "Anzeigen"
-
-msgid "FAN_COUNT_FORMAT"
-msgstr "Fans: %s"
-
 msgid "HEADER_LANGUAGE"
 msgstr "Sprache"
 
 msgid "HEADER_MAIL_SETTINGS"
 msgstr "Mail-Einstellungen"
 
-msgid "HEADER_EDIT_BIOGRAPHY"
-msgstr "Biografie bearbeiten"
-
-msgid "SET_BIO_INSTRUCTIONS"
-msgstr "Gib deine Biografie hier unten ein. Sie wird auf Sudomemo und Sudomemo Theatre sichtbar sein."
-
-msgid "ENTER_BIO"
-msgstr "Biografie eingeben"
-
-msgid "101_CHARACTER_LIMIT_BIO"
-msgstr "Die Länge der Biografie ist auf 101 Zeichen begrenzt."
-
-msgid "LEAVE_BLANK_TO_RESET_BIO"
-msgstr "Möchtest du deine Biografie zurücksetzen, lasse das Feld einfach leer."
-
-msgid "CURRENT_BIO"
-msgstr "Aktuelle Biografie:"
-
-msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
-msgstr "Du kannst nicht mehr als %d Benutzern folgen."
-
-msgid "RANKING"
-msgstr "Rang"
-
-msgid "TICKET_SECTION"
-msgstr "Tickets"
-
-msgid "DRAW_REGULAR_TICKET"
-msgstr "Ticket ziehen"
-
-msgid "CAN_DRAW_TICKET_SUBTEXT"
-msgstr "Du kannst ein normales Ticket ziehen! Mit etwas Glück gewinnst du einen Preis."
+msgid "HEADER_SUPPORT_TOKEN"
+msgstr "Support-Token"
 
 msgid "INVENTORY"
 msgstr "Inventar"
 
-msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
-msgstr "Du kannst ein weiteres Ticket in %s Stunde(n) und %s Minute(n) ziehen."
-
-msgid "REDEEM"
-msgstr "Einlösen"
-
-msgid "SPENDABLE_STARS"
-msgstr "Deine Sterne"
-
-msgid "SPENDABLE_STARS_HELPTEXT"
-msgstr "Sterne zum Bewerten von Flipnotes / Erwerben von Kulissen"
+msgid "LEAVE_BLANK_TO_RESET_BIO"
+msgstr "Möchtest du deine Biografie zurücksetzen, lasse das Feld einfach leer."
 
 msgid "LOGIN_REQUIRED_ACTION"
 msgstr "Du musst eingeloggt sein, um diese Aktion auszuführen."
+
+msgid "NEXT"
+msgstr "Weiter"
+
+msgid "NOT_USABLE"
+msgstr "Nicht benutzbar"
 
 msgid "PAGE"
 msgstr "Seite"
@@ -219,8 +123,107 @@ msgstr "Seite"
 msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d von %d"
 
-msgid "HEADER_SUPPORT_TOKEN"
-msgstr "Support-Token"
+msgid "POSTED_CHATCOMMENTS"
+msgstr "Versendete Chat-Nachrichten"
+
+msgid "POSTED_COMMENTS"
+msgstr "Gepostete Kommentare"
+
+msgid "PREVIEW"
+msgstr "Vorschau"
+
+msgid "PREVIOUS"
+msgstr "Zurück"
+
+msgid "RANKING"
+msgstr "Rang"
+
+msgid "REDEEM"
+msgstr "Einlösen"
 
 msgid "REQUEST"
 msgstr "Anfordern"
+
+msgid "SEE_MORE"
+msgstr "Mehr anzeigen"
+
+msgid "SELECT_THEME"
+msgstr "Kulisse auswählen"
+
+msgid "SETTINGS"
+msgstr "Einstellungen"
+
+msgid "SET_BIO_INSTRUCTIONS"
+msgstr "Gib deine Biografie hier unten ein. Sie wird auf Sudomemo und Sudomemo Theatre sichtbar sein."
+
+msgid "SPENDABLE_STARS"
+msgstr "Deine Sterne"
+
+msgid "SPENDABLE_STARS_HELPTEXT"
+msgstr "Sterne zum Bewerten von Flipnotes / Erwerben von Kulissen"
+
+msgid "STARRED_FLIPNOTES"
+msgstr "Bewertete Flipnotes"
+
+msgid "SUDOMEMO_THEATRE_URL"
+msgstr "Sudomemo-Theatre-Link"
+
+msgid "THEMETEST_ACTIVE_TAB"
+msgstr "Aktiver Tab"
+
+msgid "THEMETEST_ERROR"
+msgstr "Fehler"
+
+msgid "THEMETEST_INACTIVE_TAB"
+msgstr "Inaktiver Tab"
+
+msgid "THEMETEST_NOTICE"
+msgstr "Anmerkung"
+
+msgid "THEMETEST_NOTICE_2"
+msgstr "Anmerkung #2"
+
+msgid "THEMETEST_OK"
+msgstr "Okay"
+
+msgid "THEMETEST_SET_THEME"
+msgstr "Kulisse benutzen"
+
+msgid "THEME_ERROR_THEME_NOT_OWNED"
+msgstr "Du besitzt diese Kulisse nicht."
+
+msgid "THEME_SHOP"
+msgstr "Kulissen-Shop"
+
+msgid "THEME_SUCCESSFULLY_SET"
+msgstr "Die ausgewählte Kulisse ist nun in deinem Ersteller-Raum zu sehen!"
+
+msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
+msgstr "Du kannst ein weiteres Ticket in %s Stunde(n) und %s Minute(n) ziehen."
+
+msgid "TICKET_SECTION"
+msgstr "Tickets"
+
+msgid "USABILITY_NOT_USABLE"
+msgstr "Nicht benutzbar"
+
+msgid "USABILITY_USABLE"
+msgstr "Benutzbar"
+
+msgid "USABLE"
+msgstr "Benutzbar"
+
+msgid "USER_DOWNLOADCOUNT"
+msgstr "Downloads insgesamt"
+
+msgid "USER_THEME"
+msgstr "Kulisse"
+
+msgid "USER_VIEWCOUNT"
+msgstr "Aufrufe insgesamt"
+
+msgid "VIEW"
+msgstr "Anzeigen"
+
+msgid "WATCH_HISTORY"
+msgstr "Watch History"

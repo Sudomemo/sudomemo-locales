@@ -3,38 +3,8 @@ msgstr ""
 "Language: ro_RO\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-# Content Removed - sent to user when a piece of their content has been moderated away
-msgid "NOTICE"
-msgstr "Instiintare"
-
-# # Intro
-msgid "USER_CONTENT_REMOVED"
-msgstr "Ceva ce ati postat s-a dovedit a fi impotriva Politicilor de Continut si a Termenilor de Utilizare Sudomemo si a fost sters."
-
-# # Content types
-msgid "CONTENT_TYPE_flipnote"
-msgstr "Flipnote"
-
-msgid "CONTENT_TYPE_comment"
-msgstr "Comentariu"
-
-msgid "CONTENT_TYPE_chat_message"
-msgstr "Mesaj conversatie"
-
-# ## We plan on adding user-created themes.
-msgid "CONTENT_TYPE_room_theme"
-msgstr "Tema Camerei Creatorului"
-
-msgid "CONTENT_TYPE_profile_bio"
-msgstr "Text de pe Profil"
-
-# ## Catch-all
-msgid "CONTENT_TYPE_content"
-msgstr "Alt Continut"
-
-# # continued message...
-msgid "REMOVAL_REASON_HEADER"
-msgstr "Acest continut a fost sters datorita unui sau mai multor motive de mai jos:"
+msgid "CONTENT_ID"
+msgstr "ID Continut:"
 
 msgid "CONTENT_POLICY_REVIEW_INTRO"
 msgstr "Intelegem ca atunci cand politicile de continut intalnesc exprimarea artistica, contextul si prezentarea trebuie luate in considerare."
@@ -42,14 +12,36 @@ msgstr "Intelegem ca atunci cand politicile de continut intalnesc exprimarea art
 msgid "CONTENT_POLICY_REVIEW_LINK"
 msgstr "Va incurajam sa verificati Politicile de Continut aici:"
 
-msgid "HOW_TO_APPEAL"
-msgstr "Daca dvs. credeti ca a fost o greseala, puteti sa invatati acum cum sa trimiteti o cerere aici:"
-
 msgid "CONTENT_TYPE"
 msgstr "Tip de Continut:"
 
-msgid "CONTENT_ID"
-msgstr "ID Continut:"
+msgid "CONTENT_TYPE_chat_message"
+msgstr "Mesaj conversatie"
+
+msgid "CONTENT_TYPE_comment"
+msgstr "Comentariu"
+
+# ## Catch-all
+msgid "CONTENT_TYPE_content"
+msgstr "Alt Continut"
+
+# # Content types
+msgid "CONTENT_TYPE_flipnote"
+msgstr "Flipnote"
+
+msgid "CONTENT_TYPE_profile_bio"
+msgstr "Text de pe Profil"
+
+# ## We plan on adding user-created themes.
+msgid "CONTENT_TYPE_room_theme"
+msgstr "Tema Camerei Creatorului"
+
+msgid "HOW_TO_APPEAL"
+msgstr "Daca dvs. credeti ca a fost o greseala, puteti sa invatati acum cum sa trimiteti o cerere aici:"
+
+# Content Removed - sent to user when a piece of their content has been moderated away
+msgid "NOTICE"
+msgstr "Instiintare"
 
 # # re-download will be made available for certain content types
 msgid "REDOWNLOAD_HEADER"
@@ -57,3 +49,11 @@ msgstr "Daca vreti sa rectificati %s, puteti sa-l descarcati %s"
 
 msgid "REDOWNLOAD_LINK"
 msgstr "aici"
+
+# # continued message...
+msgid "REMOVAL_REASON_HEADER"
+msgstr "Acest continut a fost sters datorita unui sau mai multor motive de mai jos:"
+
+# # Intro
+msgid "USER_CONTENT_REMOVED"
+msgstr "Ceva ce ati postat s-a dovedit a fi impotriva Politicilor de Continut si a Termenilor de Utilizare Sudomemo si a fost sters."

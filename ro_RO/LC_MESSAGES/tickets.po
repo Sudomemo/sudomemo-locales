@@ -3,12 +3,8 @@ msgstr ""
 "Language: ro_RO\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-# Code Redemption
-msgid "REDEEM_CODE"
-msgstr "Revendicati Cod"
-
-msgid "ENTER_CODE_TO_REDEEM"
-msgstr "Introduceti codul pe care vreti sa-l introduceti mai jos."
+msgid "ACHIEVEMENT"
+msgstr "Realizare"
 
 msgid "CODE_ALREADY_USED"
 msgstr "Codul pe care l-ati introdus a fost folosit deja."
@@ -19,29 +15,220 @@ msgstr "Codul pe care l-ati introdus este invalid."
 msgid "CODE_NONEXISTING_OR_EXPIRED"
 msgstr "Codul pe care l-ati introdus fie nu exista, fie a expirat."
 
-msgid "LOGIN_REQUIRED_REDEEM_CODE"
-msgstr "Trebuie sa va conectati pentru a revendica un cod."
-
-# Ticket delivery
-msgid "YOU_GOT_A_TICKET"
-msgstr "Ati primit un bilet!"
+msgid "COLOR_STARS"
+msgstr "Stele Colorate"
 
 msgid "CONTINUE"
 msgstr "Continuati"
+
+msgid "CREATORS_ROOM_THEME"
+msgstr "Tema Camerei Creatorului"
+
+msgid "DONT_HAVE_ANY_TO_USE"
+msgstr "Nu aveti nici un obiect dintr-acesta pentru a-l folosi."
+
+msgid "ENTER_CODE_TO_REDEEM"
+msgstr "Introduceti codul pe care vreti sa-l introduceti mai jos."
 
 # Inventory
 msgid "INVENTORY"
 msgstr "Inventar"
 
-msgid "USE_ITEM"
-msgstr "Folositi"
-
 msgid "INVENTORY_IS_EMPTY"
 msgstr "Inventarul dvs. este gol."
 
-# Ticket redemption
-msgid "TICKET_REDEEM_WIN_FORMAT"
-msgstr "Ati revendicat %s!"
+msgid "LOGIN_REQUIRED_REDEEM_CODE"
+msgstr "Trebuie sa va conectati pentru a revendica un cod."
+
+# Code Redemption
+msgid "REDEEM_CODE"
+msgstr "Revendicati Cod"
+
+msgid "SUDOMEMO_CITIZENSHIP"
+msgstr "Cetatenia Sudomemo"
+
+msgid "SUDOMEMO_PLUS"
+msgstr "Sudomemo Plus"
+
+msgid "SUDOMEMO_PLUS_BALANCE_FORMAT"
+msgstr "Zile ramase: %s zile"
+
+msgid "SUDOMEMO_PLUS_FORMAT"
+msgstr "Ati primit %s zile de Sudomemo Plus!"
+
+msgid "THEME_AVAILABLE_FOR_USE"
+msgstr "Puteti sa folositi acum aceasta tema in Camera Creatorului!"
+
+msgid "TICKET_DESC_7th_birthday_bash_ticket"
+msgstr "Va multumim ca v-ati alaturat la Aniversarea noastra!"
+
+msgid "TICKET_DESC_8th_birthday_bash_ticket"
+msgstr "Multumim ca ni te-ai alaturat la a 8-a Aniversare!!"
+
+msgid "TICKET_DESC_archive_supporter_ticket"
+msgstr "Multumim ca ne-ati ajutat sa preservam istoria Flipnote!"
+
+msgid "TICKET_DESC_birthday_ticket"
+msgstr "La multi ani!"
+
+msgid "TICKET_DESC_blue_dog_ticket"
+msgstr "Acest bilet va ofera 350 de Stele Sudomemo (poate chiar una rara!), o tema exlusiva, si o insigna speciala afisata pe profilul dvs.!"
+
+msgid "TICKET_DESC_colors_promo_ticket"
+msgstr "Ati castigat Subiectul Saptamanal Iunie 2020 Sudomemo x Colors!"
+
+msgid "TICKET_DESC_demo_ticket"
+msgstr "Evident, aceasta este descrierea pentru Biletul Demo."
+
+msgid "TICKET_DESC_featured_artist_ticket"
+msgstr "Va oferim felicitarile noastre calduroase pentru ca ati devenit un Artist Sudomemo Recomandat!"
+
+msgid "TICKET_DESC_featured_flipnote_ticket"
+msgstr "Felicitari! Unul dintre Flipnote-urile dvs. a devenit recomandat."
+
+msgid "TICKET_DESC_ffotd_ticket"
+msgstr "Felicitari! Ati postat primul Flipnote al deceniului!"
+
+msgid "TICKET_DESC_folding_reward_ticket"
+msgstr "Va multumim pentru ca ati ajutat la salvarea vietilor!"
+
+msgid "TICKET_DESC_golden_neko_ticket"
+msgstr "Acest bilet va ofera 1300 de Stele Sudomemo (cu multe rare!), o tema exclusiva, si o insigna speciala afisata pe profilul dvs.!"
+
+msgid "TICKET_DESC_green_panda_ticket"
+msgstr "Acest bilet va ofera 110 Stele Sudomemo, o tema exclusiva, si o insigna speciala afisata pe profilul dvs.!"
+
+msgid "TICKET_DESC_instagram_promo_ticket"
+msgstr "Va multumim pentru ca urmariti pagina de Instagram Sudomemo!"
+
+# The last character of this message is the DSi symbol for a heart. Don't remove it.
+msgid "TICKET_DESC_love_anniversary_ticket"
+msgstr "Aniversare fericita "
+
+msgid "TICKET_DESC_neighborhood_watch_ticket"
+msgstr "Va multumim pentru ca ati ajutat la mentinerea Sudomemo drept un loc sigur!"
+
+msgid "TICKET_DESC_nitro_booster_ticket"
+msgstr "Hei, tu! Esti grozav! Va multumim ca ati stimulat serverul de Discord Sudomemo!"
+
+msgid "TICKET_DESC_one_month_plus_ticket"
+msgstr "Acest bilet va va oferi o luna de Sudomemo Plus!"
+
+msgid "TICKET_DESC_one_year_plus_ticket"
+msgstr "Acest bilet va va oferi un an de Sudomemo Plus!"
+
+msgid "TICKET_DESC_purple_bunny_ticket"
+msgstr "Acest bilet va ofera 600 de Stele Sudomemo (foarte probabil una rara!), o tema exlusiva, si o insigna speciala afisata pe profilul dvs.!"
+
+msgid "TICKET_DESC_red_bird_ticket"
+msgstr "Acest bilet va ofera 230 Stele Sudomemo, o tema exclusiva, si o insigna speciala afisata pe profilul dvs.!"
+
+msgid "TICKET_DESC_regular_ticket"
+msgstr "Va multumim pentru ca utilizati Sudomemo!"
+
+msgid "TICKET_DESC_special_someone_ticket"
+msgstr "Pentru acel cineva special. Trei luni de Plus, Stele Colorate, si o tema exclusiva."
+
+msgid "TICKET_DESC_spookmaster_ticket"
+msgstr "Va multumim foarte mult pentru ca ati jucat SudoQuest: Requiem! Speram ca v-ati bucurat de joc."
+
+msgid "TICKET_DESC_survey_thanks_ticket"
+msgstr "Multumim ca ati completat studiul nostru!"
+
+msgid "TICKET_DESC_translator_ticket"
+msgstr "Va multumim pentru ca ati localizat Sudomemo!"
+
+msgid "TICKET_DESC_twitter_promo_ticket"
+msgstr "Va multumim pentru ca urmariti pagina de Twitter Sudomemo!"
+
+msgid "TICKET_DESC_weekly_topic_winner_ticket"
+msgstr "Felicitari pentru ca ati castigat Subiectul Saptamanal Sudomemo!"
+
+msgid "TICKET_NAME_7th_birthday_bash_ticket"
+msgstr "Bilet a 7-a Aniversare"
+
+msgid "TICKET_NAME_8th_birthday_bash_ticket"
+msgstr "Bilet a 8-a Aniversare"
+
+msgid "TICKET_NAME_archive_supporter_ticket"
+msgstr "Bilet de Sustinator al Arhivei"
+
+msgid "TICKET_NAME_birthday_ticket"
+msgstr "Bilet Zi de Nastere"
+
+msgid "TICKET_NAME_blue_dog_ticket"
+msgstr "Bilet Ziggy Starburst"
+
+msgid "TICKET_NAME_colors_promo_ticket"
+msgstr "Bilet Promo Colors!"
+
+# Each ticket type will have a name and a description 
+msgid "TICKET_NAME_demo_ticket"
+msgstr "Bilet Demo"
+
+msgid "TICKET_NAME_featured_artist_ticket"
+msgstr "Bilet Artist Recomandat"
+
+msgid "TICKET_NAME_featured_flipnote_ticket"
+msgstr "Bilet Flipnote Recomandat"
+
+msgid "TICKET_NAME_ffotd_ticket"
+msgstr "Primul Flipnote al Deceniului"
+
+msgid "TICKET_NAME_folding_reward_ticket"
+msgstr "Bilet Recompensa Folding@Home"
+
+msgid "TICKET_NAME_golden_neko_ticket"
+msgstr "Bilet Mitsuo Meow"
+
+msgid "TICKET_NAME_green_panda_ticket"
+msgstr "Bilet Lazy Paisely"
+
+msgid "TICKET_NAME_instagram_promo_ticket"
+msgstr "Bilet Promo Instagram"
+
+msgid "TICKET_NAME_love_anniversary_ticket"
+msgstr "Bilet Aniversar"
+
+msgid "TICKET_NAME_neighborhood_watch_ticket"
+msgstr "Bilet Neighborhood Watch"
+
+msgid "TICKET_NAME_nitro_booster_ticket"
+msgstr "Bilet Stimulator Nitro"
+
+# Sudomemo Plus
+msgid "TICKET_NAME_one_month_plus_ticket"
+msgstr "Bilet Plus (O Luna)"
+
+msgid "TICKET_NAME_one_year_plus_ticket"
+msgstr "Bilet Plus (Un An)"
+
+msgid "TICKET_NAME_purple_bunny_ticket"
+msgstr "Bilet Russel Rumbwood"
+
+msgid "TICKET_NAME_red_bird_ticket"
+msgstr "Bilet Bailey Flitwing"
+
+msgid "TICKET_NAME_regular_ticket"
+msgstr "Bilet Normal"
+
+msgid "TICKET_NAME_special_someone_ticket"
+msgstr "Bilet Cineva Special"
+
+msgid "TICKET_NAME_spookmaster_ticket"
+msgstr "Bilet Spooksmaster"
+
+msgid "TICKET_NAME_survey_thanks_ticket"
+msgstr "Bilet Studiu"
+
+msgid "TICKET_NAME_translator_ticket"
+msgstr "Bilet Traducator"
+
+msgid "TICKET_NAME_twitter_promo_ticket"
+msgstr "Bilet Promo Twitter"
+
+msgid "TICKET_NAME_weekly_topic_winner_ticket"
+msgstr "Bilet Castigator de la Subiectul Saptamanal"
 
 msgid "TICKET_REDEEM_LOSE_FORMAT"
 msgstr "Ati revendicat %s, dar..."
@@ -49,200 +236,13 @@ msgstr "Ati revendicat %s, dar..."
 msgid "TICKET_REDEEM_NO_PRIZES"
 msgstr "Nu ati castigat nimic. Scuze!"
 
-msgid "ACHIEVEMENT"
-msgstr "Realizare"
-
-msgid "COLOR_STARS"
-msgstr "Stele Colorate"
-
-msgid "CREATORS_ROOM_THEME"
-msgstr "Tema Camerei Creatorului"
-
-msgid "SUDOMEMO_CITIZENSHIP"
-msgstr "Cetatenia Sudomemo"
-
-msgid "THEME_AVAILABLE_FOR_USE"
-msgstr "Puteti sa folositi acum aceasta tema in Camera Creatorului!"
-
-msgid "SUDOMEMO_PLUS"
-msgstr "Sudomemo Plus"
-
-msgid "SUDOMEMO_PLUS_FORMAT"
-msgstr "Ati primit %s zile de Sudomemo Plus!"
-
-msgid "SUDOMEMO_PLUS_BALANCE_FORMAT"
-msgstr "Zile ramase: %s zile"
-
-# Each ticket type will have a name and a description 
-msgid "TICKET_NAME_demo_ticket"
-msgstr "Bilet Demo"
-
-msgid "TICKET_DESC_demo_ticket"
-msgstr "Evident, aceasta este descrierea pentru Biletul Demo."
-
-msgid "TICKET_NAME_regular_ticket"
-msgstr "Bilet Normal"
-
-msgid "TICKET_DESC_regular_ticket"
-msgstr "Va multumim pentru ca utilizati Sudomemo!"
-
-msgid "TICKET_NAME_twitter_promo_ticket"
-msgstr "Bilet Promo Twitter"
-
-msgid "TICKET_DESC_twitter_promo_ticket"
-msgstr "Va multumim pentru ca urmariti pagina de Twitter Sudomemo!"
-
-msgid "TICKET_NAME_instagram_promo_ticket"
-msgstr "Bilet Promo Instagram"
-
-msgid "TICKET_DESC_instagram_promo_ticket"
-msgstr "Va multumim pentru ca urmariti pagina de Instagram Sudomemo!"
-
-msgid "TICKET_NAME_weekly_topic_winner_ticket"
-msgstr "Bilet Castigator de la Subiectul Saptamanal"
-
-msgid "TICKET_DESC_weekly_topic_winner_ticket"
-msgstr "Felicitari pentru ca ati castigat Subiectul Saptamanal Sudomemo!"
-
-msgid "TICKET_NAME_birthday_ticket"
-msgstr "Bilet Zi de Nastere"
-
-msgid "TICKET_DESC_birthday_ticket"
-msgstr "La multi ani!"
-
-msgid "TICKET_NAME_love_anniversary_ticket"
-msgstr "Bilet Aniversar"
-
-# The last character of this message is the DSi symbol for a heart. Don't remove it.
-msgid "TICKET_DESC_love_anniversary_ticket"
-msgstr "Aniversare fericita "
-
-# Sudomemo Plus
-msgid "TICKET_NAME_one_month_plus_ticket"
-msgstr "Bilet Plus (O Luna)"
-
-msgid "TICKET_DESC_one_month_plus_ticket"
-msgstr "Acest bilet va va oferi o luna de Sudomemo Plus!"
-
-msgid "TICKET_NAME_one_year_plus_ticket"
-msgstr "Bilet Plus (Un An)"
-
-msgid "TICKET_DESC_one_year_plus_ticket"
-msgstr "Acest bilet va va oferi un an de Sudomemo Plus!"
-
-msgid "DONT_HAVE_ANY_TO_USE"
-msgstr "Nu aveti nici un obiect dintr-acesta pentru a-l folosi."
-
-msgid "TICKET_NAME_ffotd_ticket"
-msgstr "Primul Flipnote al Deceniului"
-
-msgid "TICKET_DESC_ffotd_ticket"
-msgstr "Felicitari! Ati postat primul Flipnote al deceniului!"
-
-msgid "TICKET_NAME_survey_thanks_ticket"
-msgstr "Bilet Studiu"
-
-msgid "TICKET_DESC_survey_thanks_ticket"
-msgstr "Multumim ca ati completat studiul nostru!"
-
-msgid "TICKET_NAME_special_someone_ticket"
-msgstr "Bilet Cineva Special"
-
-msgid "TICKET_DESC_special_someone_ticket"
-msgstr "Pentru acel cineva special. Trei luni de Plus, Stele Colorate, si o tema exclusiva."
-
-msgid "TICKET_NAME_folding_reward_ticket"
-msgstr "Bilet Recompensa Folding@Home"
-
-msgid "TICKET_DESC_folding_reward_ticket"
-msgstr "Va multumim pentru ca ati ajutat la salvarea vietilor!"
-
-msgid "TICKET_NAME_green_panda_ticket"
-msgstr "Bilet Lazy Paisely"
-
-msgid "TICKET_DESC_green_panda_ticket"
-msgstr "Acest bilet va ofera 110 Stele Sudomemo, o tema exclusiva, si o insigna speciala afisata pe profilul dvs.!"
-
-msgid "TICKET_NAME_red_bird_ticket"
-msgstr "Bilet Bailey Flitwing"
-
-msgid "TICKET_DESC_red_bird_ticket"
-msgstr "Acest bilet va ofera 230 Stele Sudomemo, o tema exclusiva, si o insigna speciala afisata pe profilul dvs.!"
-
-msgid "TICKET_NAME_blue_dog_ticket"
-msgstr "Bilet Ziggy Starburst"
-
-msgid "TICKET_DESC_blue_dog_ticket"
-msgstr "Acest bilet va ofera 350 de Stele Sudomemo (poate chiar una rara!), o tema exlusiva, si o insigna speciala afisata pe profilul dvs.!"
-
-msgid "TICKET_NAME_purple_bunny_ticket"
-msgstr "Bilet Russel Rumbwood"
-
-msgid "TICKET_DESC_purple_bunny_ticket"
-msgstr "Acest bilet va ofera 600 de Stele Sudomemo (foarte probabil una rara!), o tema exlusiva, si o insigna speciala afisata pe profilul dvs.!"
-
-msgid "TICKET_NAME_golden_neko_ticket"
-msgstr "Bilet Mitsuo Meow"
-
-msgid "TICKET_DESC_golden_neko_ticket"
-msgstr "Acest bilet va ofera 1300 de Stele Sudomemo (cu multe rare!), o tema exclusiva, si o insigna speciala afisata pe profilul dvs.!"
-
-msgid "TICKET_NAME_translator_ticket"
-msgstr "Bilet Traducator"
-
-msgid "TICKET_DESC_translator_ticket"
-msgstr "Va multumim pentru ca ati localizat Sudomemo!"
-
-msgid "TICKET_NAME_colors_promo_ticket"
-msgstr "Bilet Promo Colors!"
-
-msgid "TICKET_DESC_colors_promo_ticket"
-msgstr "Ati castigat Subiectul Saptamanal Iunie 2020 Sudomemo x Colors!"
-
-msgid "TICKET_NAME_neighborhood_watch_ticket"
-msgstr "Bilet Neighborhood Watch"
-
-msgid "TICKET_DESC_neighborhood_watch_ticket"
-msgstr "Va multumim pentru ca ati ajutat la mentinerea Sudomemo drept un loc sigur!"
-
-msgid "TICKET_NAME_featured_flipnote_ticket"
-msgstr "Bilet Flipnote Recomandat"
-
-msgid "TICKET_DESC_featured_flipnote_ticket"
-msgstr "Felicitari! Unul dintre Flipnote-urile dvs. a devenit recomandat."
-
-msgid "TICKET_NAME_featured_artist_ticket"
-msgstr "Bilet Artist Recomandat"
-
-msgid "TICKET_DESC_featured_artist_ticket"
-msgstr "Va oferim felicitarile noastre calduroase pentru ca ati devenit un Artist Sudomemo Recomandat!"
-
-msgid "TICKET_NAME_spookmaster_ticket"
-msgstr "Bilet Spooksmaster"
-
-msgid "TICKET_DESC_spookmaster_ticket"
-msgstr "Va multumim foarte mult pentru ca ati jucat SudoQuest: Requiem! Speram ca v-ati bucurat de joc."
-
-msgid "TICKET_NAME_nitro_booster_ticket"
-msgstr "Bilet Stimulator Nitro"
-
-msgid "TICKET_DESC_nitro_booster_ticket"
-msgstr "Hei, tu! Esti grozav! Va multumim ca ati stimulat serverul de Discord Sudomemo!"
-
-msgid "TICKET_NAME_7th_birthday_bash_ticket"
-msgstr "Bilet a 7-a Aniversare"
-
-msgid "TICKET_DESC_7th_birthday_bash_ticket"
-msgstr "Va multumim ca v-ati alaturat la Aniversarea noastra!"
-
-msgid "TICKET_NAME_8th_birthday_bash_ticket"
-msgstr "Bilet a 8-a Aniversare"
-
-msgid "TICKET_DESC_8th_birthday_bash_ticket"
-msgstr "Multumim ca ni te-ai alaturat la a 8-a Aniversare!!"
-
-msgid "TICKET_NAME_archive_supporter_ticket"
-msgstr "Bilet de Sustinator al Arhivei"
-
-msgid "TICKET_DESC_archive_supporter_ticket"
-msgstr "Multumim ca ne-ati ajutat sa preservam istoria Flipnote!"
+# Ticket redemption
+msgid "TICKET_REDEEM_WIN_FORMAT"
+msgstr "Ati revendicat %s!"
+
+msgid "USE_ITEM"
+msgstr "Folositi"
+
+# Ticket delivery
+msgid "YOU_GOT_A_TICKET"
+msgstr "Ati primit un bilet!"

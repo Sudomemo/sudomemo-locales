@@ -3,17 +3,20 @@ msgstr ""
 "Language: nl_NL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "SET_PROFILE_PICTURE"
-msgstr "Zet als Profielfoto"
-
-msgid "PROMPT_CHANGE_YOUR_PROFILE_IMAGE"
-msgstr "Profielfoto Veranderen?"
+msgid "CANCEL"
+msgstr "Annuleer"
 
 msgid "CONTINUE_SET_AS_PROFILE_PICTURE"
 msgstr "Bevestigen"
 
+msgid "CREATORS_ROOM"
+msgstr "Makersruimte"
+
 msgid "CURRENT"
 msgstr "Huidig"
+
+msgid "LOGIN_REQUIRED_TO_CHANGE"
+msgstr "Je moet ingelogd zijn om je profielfoto te kunnen veranderen"
 
 msgid "NEW"
 msgstr "Nieuw"
@@ -21,14 +24,11 @@ msgstr "Nieuw"
 msgid "PROFILE_PICTURE_SET"
 msgstr "Profielfoto succesvol veranderd!"
 
+msgid "PROMPT_CHANGE_YOUR_PROFILE_IMAGE"
+msgstr "Profielfoto Veranderen?"
+
 msgid "RETURN_TO_FLIPNOTE"
 msgstr "Terug naar Flipnote"
 
-msgid "CREATORS_ROOM"
-msgstr "Makersruimte"
-
-msgid "CANCEL"
-msgstr "Annuleer"
-
-msgid "LOGIN_REQUIRED_TO_CHANGE"
-msgstr "Je moet ingelogd zijn om je profielfoto te kunnen veranderen"
+msgid "SET_PROFILE_PICTURE"
+msgstr "Zet als Profielfoto"

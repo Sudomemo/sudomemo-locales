@@ -3,15 +3,6 @@ msgstr ""
 "Language: es_ES\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "SET_PEN_COLOR"
-msgstr "Establecer el color de la pluma"
-
-msgid "SET_PAPER_COLOR"
-msgstr "Establecer el color del papel"
-
-msgid "SELECT_A_COLOR"
-msgstr "Elije un color."
-
 msgid "CURRENT_COLOR"
 msgstr "Color actual:"
 
@@ -20,3 +11,12 @@ msgstr "Color actual: por defecto"
 
 msgid "RETURN"
 msgstr "Regresar"
+
+msgid "SELECT_A_COLOR"
+msgstr "Elije un color."
+
+msgid "SET_PAPER_COLOR"
+msgstr "Establecer el color del papel"
+
+msgid "SET_PEN_COLOR"
+msgstr "Establecer el color de la pluma"

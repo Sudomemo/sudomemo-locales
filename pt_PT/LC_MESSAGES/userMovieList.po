@@ -3,14 +3,14 @@ msgstr ""
 "Language: pt_PT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "UPPERTITLE"
-msgstr "Procurar"
+msgid "FAVORITES_FEED_FORMAT"
+msgstr "%s's Feed de Favoritos"
+
+msgid "FLIPNOTES_BY_FORMAT"
+msgstr "Flipnotes de %s"
 
 msgid "NEXT"
 msgstr "Pŕoxima página"
-
-msgid "PREV"
-msgstr "Página anterior"
 
 msgid "PAGE"
 msgstr "Página"
@@ -18,11 +18,11 @@ msgstr "Página"
 msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d de %d"
 
-msgid "FLIPNOTES_BY_FORMAT"
-msgstr "Flipnotes de %s"
+msgid "PREV"
+msgstr "Página anterior"
 
 msgid "STARRED_BY_FORMAT"
 msgstr "Estrelados de %s"
 
-msgid "FAVORITES_FEED_FORMAT"
-msgstr "%s's Feed de Favoritos"
+msgid "UPPERTITLE"
+msgstr "Procurar"

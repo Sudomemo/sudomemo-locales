@@ -3,59 +3,8 @@ msgstr ""
 "Language: nl_NL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "SEE_MORE"
-msgstr "Zie meer..."
-
-msgid "STARRED_FLIPNOTES"
-msgstr "Gesterde Flipnotes"
-
-msgid "FAVORITE_USERS"
-msgstr "Favoriete Gebruikers"
-
-msgid "FAVORITES_FEED"
-msgstr "Favorietenfeed"
-
-msgid "FAVORITE_CHANNELS"
-msgstr "Favoriete Kanalen"
-
-msgid "USER_DOWNLOADCOUNT"
-msgstr "Downloads"
-
-msgid "USER_VIEWCOUNT"
-msgstr "Weergaven"
-
-msgid "USER_THEME"
-msgstr "Thema"
-
-msgid "THEME_SHOP"
-msgstr "Themawinkel"
-
-msgid "POSTED_COMMENTS"
-msgstr "Geplaatste Reacties"
-
-msgid "POSTED_CHATCOMMENTS"
-msgstr "Chatberichten"
-
-msgid "FEATURE_USABILITY"
-msgstr "Bruikbaarheid"
-
-msgid "USABLE"
-msgstr "Bruikbaar"
-
-msgid "NOT_USABLE"
-msgstr "Onbruikbaar"
-
-msgid "SUDOMEMO_THEATRE_URL"
-msgstr "Sudomemo Theatrelink"
-
-msgid "FLIPNOTE_STUDIO_ID"
-msgstr "Flipnote Studio-ID"
-
-msgid "SETTINGS"
-msgstr "Instellingen"
-
-msgid "ADMIN_ACCT_GOOD_STANDING"
-msgstr "In goede staat"
+msgid "101_CHARACTER_LIMIT_BIO"
+msgstr "Je biografie is gelimiteerd tot 101 tekens."
 
 msgid "ADMIN_ACCT_BANNED"
 msgstr "Verbannen"
@@ -63,20 +12,26 @@ msgstr "Verbannen"
 msgid "ADMIN_ACCT_BLOCKED"
 msgstr "Geblokkeerd"
 
+msgid "ADMIN_ACCT_GOOD_STANDING"
+msgstr "In goede staat"
+
 msgid "ADMIN_ACCT_MUTED"
 msgstr "Op stil gezet"
 
-msgid "ADMIN_USER_DETAILS"
-msgstr "Gebruikerdetails"
+msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
+msgstr "Adminacties"
 
 msgid "ADMIN_LAST_SEEN"
 msgstr "Laatst gezien"
 
+msgid "ADMIN_USER_DETAILS"
+msgstr "Gebruikerdetails"
+
 msgid "ADMIN_USER_STATUS"
 msgstr "Gebruikerstatus"
 
-msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
-msgstr "Adminacties"
+msgid "BLOCKED_USERS"
+msgstr "Geblokkeerde Gebruikers"
 
 msgid "BLOCK_COMMENTS_HEADER"
 msgstr "Blokkeer Reacties"
@@ -84,11 +39,53 @@ msgstr "Blokkeer Reacties"
 msgid "BLOCK_COMMENTS_LINK"
 msgstr "Blokkeer"
 
-msgid "USABILITY_USABLE"
-msgstr "Bruikbaar"
+msgid "CAN_DRAW_TICKET_SUBTEXT"
+msgstr "Je kan een reguliere ticket trekken! Misschien win je een prijs."
 
-msgid "USABILITY_NOT_USABLE"
-msgstr "Onbruikbaar"
+msgid "CHANGE_ROOM_THEME_LINK"
+msgstr "[verander thema]"
+
+msgid "CREATORS_ROOM"
+msgstr "Makersruimte"
+
+msgid "CURRENT_BIO"
+msgstr "Huidige Bio:"
+
+msgid "DRAW_REGULAR_TICKET"
+msgstr "Trek Prijskaart"
+
+msgid "ENTER_BIO"
+msgstr "Vul Bio in..."
+
+msgid "EXAMPLE"
+msgstr "Voorbeeld"
+
+msgid "FANS"
+msgstr "Fans"
+
+msgid "FAN_COUNT_FORMAT"
+msgstr "Fans: %s"
+
+msgid "FAVORITES_FEED"
+msgstr "Favorietenfeed"
+
+msgid "FAVORITE_CHANNELS"
+msgstr "Favoriete Kanalen"
+
+msgid "FAVORITE_USERS"
+msgstr "Favoriete Gebruikers"
+
+msgid "FEATURE_USABILITY"
+msgstr "Bruikbaarheid"
+
+msgid "FLIPNOTE_STUDIO_ID"
+msgstr "Flipnote Studio-ID"
+
+msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
+msgstr "Je kan niet meer dan %d gebruikers volgen."
+
+msgid "HEADER_EDIT_BIOGRAPHY"
+msgstr "Verander Biografie"
 
 msgid "HEADER_FOLLOWERS"
 msgstr "Volgers"
@@ -96,122 +93,29 @@ msgstr "Volgers"
 msgid "HEADER_FOLLOWING"
 msgstr "Volgend"
 
-msgid "PREVIOUS"
-msgstr "Vorige"
-
-msgid "NEXT"
-msgstr "Volgende"
-
-msgid "CHANGE_ROOM_THEME_LINK"
-msgstr "[verander thema]"
-
-msgid "SELECT_THEME"
-msgstr "Selecteer Thema"
-
-msgid "FANS"
-msgstr "Fans"
-
-msgid "EXAMPLE"
-msgstr "Voorbeeld"
-
-msgid "THEMETEST_SET_THEME"
-msgstr "Verander Thema"
-
-msgid "THEMETEST_NOTICE"
-msgstr "Notitie"
-
-msgid "THEMETEST_OK"
-msgstr "Oké"
-
-msgid "THEMETEST_ERROR"
-msgstr "Fout"
-
-msgid "THEMETEST_NOTICE_2"
-msgstr "Notitie #2"
-
-msgid "THEMETEST_ACTIVE_TAB"
-msgstr "Actief tabblad"
-
-msgid "THEMETEST_INACTIVE_TAB"
-msgstr "Inactief tabblad"
-
-msgid "PREVIEW"
-msgstr "Voorbeeld"
-
-msgid "CREATORS_ROOM"
-msgstr "Makersruimte"
-
-msgid "THEME_ERROR_THEME_NOT_OWNED"
-msgstr "Sorry! Je bezit dit thema niet."
-
-msgid "THEME_SUCCESSFULLY_SET"
-msgstr "Thema succesvol veranderd!"
-
-msgid "BLOCKED_USERS"
-msgstr "Geblokkeerde Gebruikers"
-
-msgid "VIEW"
-msgstr "Weergeven"
-
-msgid "FAN_COUNT_FORMAT"
-msgstr "Fans: %s"
-
 msgid "HEADER_LANGUAGE"
 msgstr "Taal"
 
 msgid "HEADER_MAIL_SETTINGS"
 msgstr "E-mailinstellingen"
 
-msgid "HEADER_EDIT_BIOGRAPHY"
-msgstr "Verander Biografie"
-
-msgid "SET_BIO_INSTRUCTIONS"
-msgstr "Vul je profielbiografie hieronder in. Dit zal weergegeven worden op Sudomemo en Sudomemo Theatre."
-
-msgid "ENTER_BIO"
-msgstr "Vul Bio in..."
-
-msgid "101_CHARACTER_LIMIT_BIO"
-msgstr "Je biografie is gelimiteerd tot 101 tekens."
-
-msgid "LEAVE_BLANK_TO_RESET_BIO"
-msgstr "Om je biografie te verwijderen, laat het formulier leeg bij het insturen."
-
-msgid "CURRENT_BIO"
-msgstr "Huidige Bio:"
-
-msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
-msgstr "Je kan niet meer dan %d gebruikers volgen."
-
-msgid "RANKING"
-msgstr "Rang"
-
-msgid "TICKET_SECTION"
-msgstr "Prijskaarten"
-
-msgid "DRAW_REGULAR_TICKET"
-msgstr "Trek Prijskaart"
-
-msgid "CAN_DRAW_TICKET_SUBTEXT"
-msgstr "Je kan een reguliere ticket trekken! Misschien win je een prijs."
+msgid "HEADER_SUPPORT_TOKEN"
+msgstr "Support Token"
 
 msgid "INVENTORY"
 msgstr "Inventaris"
 
-msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
-msgstr "Je kan nog een prijskaart trekken in: %s uur %s minuut/minuten."
-
-msgid "REDEEM"
-msgstr "Wissel in"
-
-msgid "SPENDABLE_STARS"
-msgstr "Jouw Sterren"
-
-msgid "SPENDABLE_STARS_HELPTEXT"
-msgstr "Sterren om aan Flipnotes toe te voegen of om te gebruiken voor thema's"
+msgid "LEAVE_BLANK_TO_RESET_BIO"
+msgstr "Om je biografie te verwijderen, laat het formulier leeg bij het insturen."
 
 msgid "LOGIN_REQUIRED_ACTION"
 msgstr "Je moet ingelogd zijn om dit te doen."
+
+msgid "NEXT"
+msgstr "Volgende"
+
+msgid "NOT_USABLE"
+msgstr "Onbruikbaar"
 
 msgid "PAGE"
 msgstr "Pagina"
@@ -219,8 +123,107 @@ msgstr "Pagina"
 msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d van %d"
 
-msgid "HEADER_SUPPORT_TOKEN"
-msgstr "Support Token"
+msgid "POSTED_CHATCOMMENTS"
+msgstr "Chatberichten"
+
+msgid "POSTED_COMMENTS"
+msgstr "Geplaatste Reacties"
+
+msgid "PREVIEW"
+msgstr "Voorbeeld"
+
+msgid "PREVIOUS"
+msgstr "Vorige"
+
+msgid "RANKING"
+msgstr "Rang"
+
+msgid "REDEEM"
+msgstr "Wissel in"
 
 msgid "REQUEST"
 msgstr "Request"
+
+msgid "SEE_MORE"
+msgstr "Zie meer..."
+
+msgid "SELECT_THEME"
+msgstr "Selecteer Thema"
+
+msgid "SETTINGS"
+msgstr "Instellingen"
+
+msgid "SET_BIO_INSTRUCTIONS"
+msgstr "Vul je profielbiografie hieronder in. Dit zal weergegeven worden op Sudomemo en Sudomemo Theatre."
+
+msgid "SPENDABLE_STARS"
+msgstr "Jouw Sterren"
+
+msgid "SPENDABLE_STARS_HELPTEXT"
+msgstr "Sterren om aan Flipnotes toe te voegen of om te gebruiken voor thema's"
+
+msgid "STARRED_FLIPNOTES"
+msgstr "Gesterde Flipnotes"
+
+msgid "SUDOMEMO_THEATRE_URL"
+msgstr "Sudomemo Theatrelink"
+
+msgid "THEMETEST_ACTIVE_TAB"
+msgstr "Actief tabblad"
+
+msgid "THEMETEST_ERROR"
+msgstr "Fout"
+
+msgid "THEMETEST_INACTIVE_TAB"
+msgstr "Inactief tabblad"
+
+msgid "THEMETEST_NOTICE"
+msgstr "Notitie"
+
+msgid "THEMETEST_NOTICE_2"
+msgstr "Notitie #2"
+
+msgid "THEMETEST_OK"
+msgstr "Oké"
+
+msgid "THEMETEST_SET_THEME"
+msgstr "Verander Thema"
+
+msgid "THEME_ERROR_THEME_NOT_OWNED"
+msgstr "Sorry! Je bezit dit thema niet."
+
+msgid "THEME_SHOP"
+msgstr "Themawinkel"
+
+msgid "THEME_SUCCESSFULLY_SET"
+msgstr "Thema succesvol veranderd!"
+
+msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
+msgstr "Je kan nog een prijskaart trekken in: %s uur %s minuut/minuten."
+
+msgid "TICKET_SECTION"
+msgstr "Prijskaarten"
+
+msgid "USABILITY_NOT_USABLE"
+msgstr "Onbruikbaar"
+
+msgid "USABILITY_USABLE"
+msgstr "Bruikbaar"
+
+msgid "USABLE"
+msgstr "Bruikbaar"
+
+msgid "USER_DOWNLOADCOUNT"
+msgstr "Downloads"
+
+msgid "USER_THEME"
+msgstr "Thema"
+
+msgid "USER_VIEWCOUNT"
+msgstr "Weergaven"
+
+msgid "VIEW"
+msgstr "Weergeven"
+
+msgid "WATCH_HISTORY"
+msgstr "Watch History"

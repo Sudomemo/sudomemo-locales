@@ -3,62 +3,62 @@ msgstr ""
 "Language: en_US\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "LOGIN_REQUIRED_TO_MANAGE_BLOCKS"
-msgstr "You need to be logged in to manage blocked users."
-
-msgid "NO_USERS_BLOCKED"
-msgstr "You have no blocked users."
-
 msgid "BLOCKED_USERS"
 msgstr "Blocked Users"
 
 msgid "BLOCK_USER"
 msgstr "Block User"
 
-msgid "COMMENT_BLOCK_IS_MUTUAL"
-msgstr "Once you have blocked this user, you will no longer be able to comment on each other's Flipnotes."
-
-msgid "USER_HAS_BEEN_BLOCKED"
-msgstr "This user has been blocked."
-
-msgid "IF_YOU_WISH_TO_UNBLOCK"
-msgstr "If you should ever wish to unblock them, you may unblock them by visiting your Creator's Room and opening the Blocked Users menu."
-
-msgid "CONFIRM_BLOCK"
-msgstr "Confirm Block"
-
-msgid "USER_ALREADY_BLOCKED"
-msgstr "You have already blocked this user. You may unblock them from the Settings menu in your Creator's Room, but you must wait 24 hours before you can block them again."
-
-msgid "ONE_DAY_WAIT_BEFORE_REBLOCK_FORMAT"
-msgstr "You have recently unblocked this user. You cannot block them again until %s"
-
-msgid "UNBLOCK"
-msgstr "Unblock"
-
-msgid "LOGIN_REQUIRED"
-msgstr "You must be logged in to perform this action."
-
-msgid "TAP_BACK_TO_RETURN"
-msgstr "Tap Back to return to your Creator's Room."
-
-msgid "UNBLOCK_USER"
-msgstr "Unblock User"
-
 msgid "CANNOT_UNBLOCK_NONBLOCKED_USER"
 msgstr "You cannot unblock this user, as you haven't actually blocked them in the first place."
-
-msgid "USER_HAS_BEEN_UNBLOCKED"
-msgstr "You have unblocked this user."
 
 msgid "COMMENTING_ENABLED_AFTER_UNBLOCK"
 msgstr "After you have unblocked this user, they will be able to comment on your Flipnotes again, unless they have you blocked as well."
 
-msgid "UNBLOCK_WARNING_ONE_DAY_THRESHOLD"
-msgstr "If you unblock them, you must wait 24 hours before you are able to block them again."
+msgid "COMMENT_BLOCK_IS_MUTUAL"
+msgstr "Once you have blocked this user, you will no longer be able to comment on each other's Flipnotes."
+
+msgid "CONFIRM_BLOCK"
+msgstr "Confirm Block"
 
 msgid "CONFIRM_UNBLOCK"
 msgstr "Confirm Unblock"
 
+msgid "IF_YOU_WISH_TO_UNBLOCK"
+msgstr "If you should ever wish to unblock them, you may unblock them by visiting your Creator's Room and opening the Blocked Users menu."
+
+msgid "LOGIN_REQUIRED"
+msgstr "You must be logged in to perform this action."
+
+msgid "LOGIN_REQUIRED_TO_MANAGE_BLOCKS"
+msgstr "You need to be logged in to manage blocked users."
+
+msgid "NO_USERS_BLOCKED"
+msgstr "You have no blocked users."
+
+msgid "ONE_DAY_WAIT_BEFORE_REBLOCK_FORMAT"
+msgstr "You have recently unblocked this user. You cannot block them again until %s"
+
 msgid "RECENTLY_UNBLOCKED_ONE_DAY_THRESHOLD"
 msgstr "You have recently unblocked this user. You must wait 24 hours from the time you unblocked them before you are able to block them again."
+
+msgid "TAP_BACK_TO_RETURN"
+msgstr "Tap Back to return to your Creator's Room."
+
+msgid "UNBLOCK"
+msgstr "Unblock"
+
+msgid "UNBLOCK_USER"
+msgstr "Unblock User"
+
+msgid "UNBLOCK_WARNING_ONE_DAY_THRESHOLD"
+msgstr "If you unblock them, you must wait 24 hours before you are able to block them again."
+
+msgid "USER_ALREADY_BLOCKED"
+msgstr "You have already blocked this user. You may unblock them from the Settings menu in your Creator's Room, but you must wait 24 hours before you can block them again."
+
+msgid "USER_HAS_BEEN_BLOCKED"
+msgstr "This user has been blocked."
+
+msgid "USER_HAS_BEEN_UNBLOCKED"
+msgstr "You have unblocked this user."

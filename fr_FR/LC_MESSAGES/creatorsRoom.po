@@ -99,6 +99,9 @@ msgstr "Langue"
 msgid "HEADER_MAIL_SETTINGS"
 msgstr "Paramètres de mail"
 
+msgid "HEADER_SUPPORT_TOKEN"
+msgstr "Jeton de support"
+
 msgid "INVENTORY"
 msgstr "Inventaire"
 
@@ -137,6 +140,9 @@ msgstr "Classement"
 
 msgid "REDEEM"
 msgstr "Utiliser un code"
+
+msgid "REQUEST"
+msgstr "Demander"
 
 msgid "SEE_MORE"
 msgstr "Voir plus..."
@@ -219,8 +225,5 @@ msgstr "Vues"
 msgid "VIEW"
 msgstr "Voir"
 
-msgid "HEADER_SUPPORT_TOKEN"
-msgstr "Jeton de support"
-
-msgid "REQUEST"
-msgstr "Demander"
+msgid "WATCH_HISTORY"
+msgstr "Watch History"

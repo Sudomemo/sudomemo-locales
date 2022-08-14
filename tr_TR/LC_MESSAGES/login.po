@@ -150,6 +150,10 @@ msgstr "Verify Email"
 msgid "INCORRECT_PASSWORD_ATTEMPTS_FORMAT"
 msgstr "Incorrect password attempts: %s"
 
+# A URL will be shown at the end of this.
+msgid "LEGACY_PROXY_WARNING"
+msgstr "It looks like you may still be using the legacy ds.sudomemo.net proxy, which we have ended support for. As such, you should turn off the proxy in your System Settings, or you might have problems using Sudomemo. For more information, visit:"
+
 msgid "LOGIN"
 msgstr "Login"
 
@@ -257,7 +261,3 @@ msgstr "Go ahead and tap 'Check Verification Status' on your Nintendo DSi System
 
 msgid "WELCOME_BACK_FORMAT"
 msgstr "Welcome back, %s!"
-
-# A URL will be shown at the end of this.
-msgid "LEGACY_PROXY_WARNING"
-msgstr "It looks like you may still be using the legacy ds.sudomemo.net proxy, which we have ended support for. As such, you should turn off the proxy in your System Settings, or you might have problems using Sudomemo. For more information, visit:"

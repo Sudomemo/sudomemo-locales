@@ -9,11 +9,11 @@ msgstr "Não estás ligado ao Sudomemo - toque %s para continuar!"
 msgid "NOT_LOGGED_IN_NOTICE_LINK_TEXT"
 msgstr "aqui"
 
-msgid "YOU_HAVE_NEW_NOTIFICATIONS"
-msgstr "Tens novas notificações"
-
 msgid "NOT_REGISTERED_NOTICE"
 msgstr "A divertir-te? Começa no Sudomemo ao tocar %s!"
 
 msgid "NOT_REGISTERED_NOTICE_LINK_TEXT"
 msgstr "aqui"
+
+msgid "YOU_HAVE_NEW_NOTIFICATIONS"
+msgstr "Tens novas notificações"

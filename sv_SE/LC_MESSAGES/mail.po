@@ -3,26 +3,38 @@ msgstr ""
 "Language: sv_SE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-# This contains common strings used for the general notification ("mail") system as well
-# Common
-msgid "LOGIN_FIRST_TO_ACCESS_MAIL"
-msgstr "Du måste logga tillbaka in för att se detta."
-
 msgid "CONTINUE"
 msgstr "Fortsätt"
 
 msgid "HEADER_INBOX"
 msgstr "Inkorg"
 
-# this must be a max of 6 characters
-msgid "UNAUTHED_READ"
-msgstr "Läs.."
+# This contains common strings used for the general notification ("mail") system as well
+# Common
+msgid "LOGIN_FIRST_TO_ACCESS_MAIL"
+msgstr "Du måste logga tillbaka in för att se detta."
+
+# Not found
+msgid "MAIL_NOT_FOUND"
+msgstr "Detta meddelande finns inte."
+
+msgid "NEXT"
+msgstr "Nästa"
 
 msgid "PREV"
 msgstr "Föregående"
 
-msgid "NEXT"
-msgstr "Nästa"
+msgid "TITLE_INFO"
+msgstr "Info"
+
+msgid "TITLE_MESSAGE"
+msgstr "Meddelande"
+
+msgid "TITLE_NEWS"
+msgstr "Nyheter"
+
+msgid "TITLE_NOTICE"
+msgstr "Notering"
 
 # Titles
 msgid "TITLE_SPINOFF"
@@ -31,18 +43,6 @@ msgstr "Spin-off"
 msgid "TITLE_WARNING"
 msgstr "Varning"
 
-msgid "TITLE_NOTICE"
-msgstr "Notering"
-
-msgid "TITLE_MESSAGE"
-msgstr "Meddelande"
-
-msgid "TITLE_NEWS"
-msgstr "Nyheter"
-
-msgid "TITLE_INFO"
-msgstr "Info"
-
-# Not found
-msgid "MAIL_NOT_FOUND"
-msgstr "Detta meddelande finns inte."
+# this must be a max of 6 characters
+msgid "UNAUTHED_READ"
+msgstr "Läs.."

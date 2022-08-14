@@ -3,56 +3,41 @@ msgstr ""
 "Language: es_ES\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "HEADER_PREV"
-msgstr "Anterior"
-
 msgid "HEADER_NEXT"
 msgstr "Siguiente"
 
-msgid "PAGE_FORMAT"
-msgstr "Página %d"
-
-msgid "SEARCH"
-msgstr "Buscar"
-
-msgid "USERNAME"
-msgstr "Nombre de usuario"
-
-msgid "RESULTS"
-msgstr "Resultados"
-
-msgid "SEARCH_USERNAME"
-msgstr "Creador(a)"
-
-msgid "PLEASE_ENTER_USERNAME"
-msgstr "Introduzca el nombre del creador..."
-
-msgid "RESULTS_FOUND_FORMAT_SINGULAR"
-msgstr "%1$d Resultado encontrado para \"%2$s\""
-
-msgid "RESULTS_FOUND_FORMAT_MULTIPLE"
-msgstr "%1$d Resultados encontrados para \"%2$s\""
+msgid "HEADER_PREV"
+msgstr "Anterior"
 
 msgid "NO_RESULTS_FOUND"
 msgstr "No se encontraron resultados"
 
-msgid "SEARCH_SHORT_KEY"
-msgstr "ID de Flipnote"
+msgid "PAGE"
+msgstr "Página"
 
-msgid "SHORT_KEY_NO_RESULTS"
-msgstr "Flipnote no encontrada"
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d de %d"
 
-msgid "SHORT_KEY_FORMAT_GUIDE"
-msgstr "¿No encuentras lo que estás buscando? Debes de haber puesto mal el ID. Los ID de las Flipnotes son de seis dígitos y se encuentran en la sección de detalles del mismo."
+msgid "PAGE_FORMAT"
+msgstr "Página %d"
 
-msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
-msgstr "No se han encontrado resultados, pero si una ID similar. Por favor, comprueba si el ID tiene letras mayúsculas o minúsculas y números, suelen ser casi todas con mayúsculas y con números."
+msgid "PLEASE_ENTER_USERNAME"
+msgstr "Introduzca el nombre del creador..."
+
+msgid "RESULTS"
+msgstr "Resultados"
+
+msgid "RESULTS_FOUND_FORMAT_MULTIPLE"
+msgstr "%1$d Resultados encontrados para \"%2$s\""
+
+msgid "RESULTS_FOUND_FORMAT_SINGULAR"
+msgstr "%1$d Resultado encontrado para \"%2$s\""
+
+msgid "SEARCH"
+msgstr "Buscar"
 
 msgid "SEARCH_MUSICMATCH"
 msgstr "@MusicMatch"
-
-msgid "SEARCH_MUSIC_BY_SONG"
-msgstr "@Por Canción"
 
 msgid "SEARCH_MUSIC_BY_ARTIST"
 msgstr "@Por Artista"
@@ -60,8 +45,23 @@ msgstr "@Por Artista"
 msgid "SEARCH_MUSIC_BY_GENRE"
 msgstr "@Por Género"
 
-msgid "PAGE"
-msgstr "Página"
+msgid "SEARCH_MUSIC_BY_SONG"
+msgstr "@Por Canción"
 
-msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d de %d"
+msgid "SEARCH_SHORT_KEY"
+msgstr "ID de Flipnote"
+
+msgid "SEARCH_USERNAME"
+msgstr "Creador(a)"
+
+msgid "SHORT_KEY_FORMAT_GUIDE"
+msgstr "¿No encuentras lo que estás buscando? Debes de haber puesto mal el ID. Los ID de las Flipnotes son de seis dígitos y se encuentran en la sección de detalles del mismo."
+
+msgid "SHORT_KEY_NO_RESULTS"
+msgstr "Flipnote no encontrada"
+
+msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
+msgstr "No se han encontrado resultados, pero si una ID similar. Por favor, comprueba si el ID tiene letras mayúsculas o minúsculas y números, suelen ser casi todas con mayúsculas y con números."
+
+msgid "USERNAME"
+msgstr "Nombre de usuario"

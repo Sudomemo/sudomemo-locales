@@ -78,6 +78,10 @@ msgstr "使用するにはスドメモニトロブースターになる必要が
 msgid "REJECT_USER_ENOENT"
 msgstr "このユーザーはスドメモでは見つかりませんでした。"
 
+# displayed as "💡 Link your Sudomemo account with `.sudo link`"
+msgid "UNLINKED_COMMAND_TIP"
+msgstr "次のコマンドを使ってスドメモのアカウントをリンクできます:"
+
 # "Usage: example_command <fsid>"
 msgid "USAGE"
 msgstr "使い方"
@@ -108,7 +112,3 @@ msgstr ""
 "      スドメモMusicMatchで探す\n"
 "      <mode>: song, artist, genre\n"
 "      <query>: 検索対象名"
-
-# displayed as "💡 Link your Sudomemo account with `.sudo link`"
-msgid "UNLINKED_COMMAND_TIP"
-msgstr "次のコマンドを使ってスドメモのアカウントをリンクできます:"

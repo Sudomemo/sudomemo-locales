@@ -3,47 +3,32 @@ msgstr ""
 "Language: es_ES\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "GET_STARTED"
-msgstr "Empezar"
-
-msgid "WATCH_FLIPNOTES"
-msgstr "@Todas las Flipnotes"
-
-msgid "CHANNELS"
-msgstr "Canales"
+msgid "ABOUT_SUDOMEMO"
+msgstr "Acerca de Sudomemo"
 
 msgid "CATEGORIES"
 msgstr "Categorías"
 
-msgid "FEATURED"
-msgstr "Destacados"
-
-msgid "HOT_FLIPNOTES"
-msgstr "@Flipnotes Populares"
-
-msgid "ABOUT_SUDOMEMO"
-msgstr "Acerca de Sudomemo"
-
-msgid "CREATORS_ROOM"
-msgstr "Sala del Creador"
-
-msgid "NEWS"
-msgstr "@Noticias Sudomemo"
+msgid "CHANNELS"
+msgstr "Canales"
 
 msgid "CHATROOMS"
 msgstr "Salas de Chat"
 
-msgid "SEARCH"
-msgstr "Buscar"
+msgid "CREATORS_ROOM"
+msgstr "Sala del Creador"
 
-msgid "SEARCH_USER"
-msgstr "Buscar usuarios"
+msgid "FEATURED"
+msgstr "Destacados"
 
-msgid "SEARCH_FLIPNOTE"
-msgstr "Buscar Flipnote"
+msgid "GET_STARTED"
+msgstr "Empezar"
 
-msgid "RELOAD_USER"
-msgstr "Recargar Usuario"
+msgid "HELP"
+msgstr "Ayuda"
+
+msgid "HOT_FLIPNOTES"
+msgstr "@Flipnotes Populares"
 
 msgid "LOGIN"
 msgstr "Iniciar Sesión"
@@ -51,17 +36,32 @@ msgstr "Iniciar Sesión"
 msgid "LOGOUT"
 msgstr "Cerrar Sesión"
 
+msgid "MAIL"
+msgstr "Correo"
+
+msgid "NEWS"
+msgstr "@Noticias Sudomemo"
+
 msgid "REGISTER"
 msgstr "Registrarse"
 
-msgid "THEME_SHOP"
-msgstr "Tienda de Fondos"
+msgid "RELOAD_USER"
+msgstr "Recargar Usuario"
 
-msgid "MAIL"
-msgstr "Correo"
+msgid "SEARCH"
+msgstr "Buscar"
+
+msgid "SEARCH_FLIPNOTE"
+msgstr "Buscar Flipnote"
+
+msgid "SEARCH_USER"
+msgstr "Buscar usuarios"
 
 msgid "TEST_TRANSLATION"
 msgstr "Traducción de Inglés"
 
-msgid "HELP"
-msgstr "Ayuda"
+msgid "THEME_SHOP"
+msgstr "Tienda de Fondos"
+
+msgid "WATCH_FLIPNOTES"
+msgstr "@Todas las Flipnotes"

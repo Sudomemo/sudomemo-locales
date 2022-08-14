@@ -3,29 +3,29 @@ msgstr ""
 "Language: sv_SE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "UPPERTITLE"
-msgstr "Kategorier"
-
 msgid "ART"
 msgstr "Konst"
-
-msgid "GENRES"
-msgstr "Genrer"
-
-msgid "TOPICS"
-msgstr "Ämnen"
-
-msgid "ROLEPLAYS"
-msgstr "Roleplay"
 
 msgid "FANDOMS"
 msgstr "Fandom"
 
-msgid "RESOURCES"
-msgstr "Resurser"
+msgid "GENRES"
+msgstr "Genrer"
 
 msgid "PERSONAL"
 msgstr "Personlig"
+
+msgid "RESOURCES"
+msgstr "Resurser"
+
+msgid "ROLEPLAYS"
+msgstr "Roleplay"
+
+msgid "TOPICS"
+msgstr "Ämnen"
+
+msgid "UPPERTITLE"
+msgstr "Kategorier"
 
 msgid "WEEKLY_TOPICS"
 msgstr "Veckotema"

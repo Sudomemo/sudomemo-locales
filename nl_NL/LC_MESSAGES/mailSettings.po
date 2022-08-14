@@ -3,110 +3,110 @@ msgstr ""
 "Language: nl_NL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "DISABLE"
+msgstr "Uitschakelen"
+
+msgid "DISABLED"
+msgstr "Uitgeschakeld"
+
+msgid "DISABLE_CONFIRMATION_FORMAT"
+msgstr "Weet je zeker dat je '%s'-mails wilt uitschakelen?"
+
+msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
+msgstr "De link die je aan het volgen was is verlopen."
+
+msgid "EMAIL_SETTING_DISABLED_FINISH_FORMAT"
+msgstr "Je hebt '%s'-mails uitgeschakeld."
+
+msgid "ENABLE"
+msgstr "Inschakelen"
+
+msgid "ENABLED"
+msgstr "Ingeschakeld"
+
+msgid "HEADER_CHANGE_EMAIL_SETTINGS"
+msgstr "Verander E-mailinstellingen"
+
 msgid "HEADER_MAIL_SETTINGS"
 msgstr "E-mailinstellingen"
 
 msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
 msgstr "Je moet ingelogd zijn om je e-mailinstellingen te beheren."
 
-msgid "MAIL_TYPE"
-msgstr "Type"
-
 msgid "MAIL_STATUS"
 msgstr "Status"
 
-msgid "ENABLED"
-msgstr "Ingeschakeld"
-
-msgid "DISABLED"
-msgstr "Uitgeschakeld"
-
-msgid "ENABLE"
-msgstr "Inschakelen"
-
-msgid "DISABLE"
-msgstr "Uitschakelen"
-
-msgid "TAP_TO_ENABLE"
-msgstr "Tik om in te schakelen"
-
-msgid "TAP_TO_DISABLE"
-msgstr "Tik om uit te schakelen"
-
-msgid "TYPE_NEWS_NAME"
-msgstr "Sudomemo Nieuws"
-
-msgid "TYPE_NEWS_DESC"
-msgstr "Ontvang een e-mail wanneer iets nieuws in Sudomemo Nieuws geplaatst is"
-
-msgid "TYPE_PROMO_NAME"
-msgstr "Promo"
-
-msgid "TYPE_PROMO_DESC"
-msgstr "Ontvang e-mails over nieuwe mogelijkheden, tips en trucs, en aanstaande evenementen!"
-
-msgid "TYPE_FAVE_NOTIF_NAME"
-msgstr "Toegevoegd als Favoriet"
-
-msgid "TYPE_FAVE_NOTIF_DESC"
-msgstr "Ontvang een e-mail wanneer iemand je toevoegd aan hun Favorieten"
-
-msgid "TYPE_COMMENT_NOTIF_NAME"
-msgstr "Reactie Ontvangen"
-
-msgid "TYPE_COMMENT_NOTIF_DESC"
-msgstr "Ontvang een e-mail wanneer iemand een reactie levert op je Flipnote"
-
-msgid "TYPE_STAR_REPORT_NAME"
-msgstr "Dagelijkse Sterrapportage"
-
-msgid "TYPE_STAR_REPORT_DESC"
-msgstr "Ontvang een e-mail aan het eind van de dag over enige sterren die je ontvangen hebt"
-
-msgid "TYPE_SPINOFF_NOTIF_NAME"
-msgstr "Spin-off Ontvangen"
-
-msgid "TYPE_SPINOFF_NOTIF_DESC"
-msgstr "Ontvang een e-mail wanneer iemand een spin-off van jouw Flipnote plaatst"
-
-msgid "TYPE_SECURITY_NOTIF_NAME"
-msgstr "Accountbeveiliging"
-
-msgid "TYPE_SECURITY_NOTIF_DESC"
-msgstr "Ontvang een e-mail wanneer je e-mail adres of wachtwoord veranderd is."
-
-msgid "TYPE_REPORT_UPDATE_NAME"
-msgstr "Gemarkeerde Inhoudsupdate"
-
-msgid "TYPE_REPORT_UPDATE_DESC"
-msgstr "Ontvang een e-mail wanneer we de status van inhoud die jij gemarkeerd hebt veranderen"
-
-msgid "TYPE_UNREAD_COMMENTS_NAME"
-msgstr "Ongelezen reacties"
-
-msgid "TYPE_UNREAD_COMMENTS_DESC"
-msgstr "Ontvang een e-mailsamenvatting over enige nieuwe reacties die je recent hebt ontvangen"
-
-msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
-msgstr "Tik op de status van een e-mailtype om het te bekijken of om het te veranderen."
-
-msgid "HEADER_CHANGE_EMAIL_SETTINGS"
-msgstr "Verander E-mailinstellingen"
-
-msgid "DISABLE_CONFIRMATION_FORMAT"
-msgstr "Weet je zeker dat je '%s'-mails wilt uitschakelen?"
+msgid "MAIL_TYPE"
+msgstr "Type"
 
 msgid "REENABLE_INSTRUCTIONS"
 msgstr "Als je ze weer aan wilt zetten, kan je dat doen door <strong>E-mailinstellingen</strong> in je Makersruimte te selecteren."
 
-msgid "EMAIL_SETTING_DISABLED_FINISH_FORMAT"
-msgstr "Je hebt '%s'-mails uitgeschakeld."
+msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
+msgstr "Tik op de status van een e-mailtype om het te bekijken of om het te veranderen."
 
-msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
-msgstr "De link die je aan het volgen was is verlopen."
+msgid "TAP_TO_DISABLE"
+msgstr "Tik om uit te schakelen"
+
+msgid "TAP_TO_ENABLE"
+msgstr "Tik om in te schakelen"
+
+msgid "TYPE_COMMENT_NOTIF_DESC"
+msgstr "Ontvang een e-mail wanneer iemand een reactie levert op je Flipnote"
+
+msgid "TYPE_COMMENT_NOTIF_NAME"
+msgstr "Reactie Ontvangen"
+
+msgid "TYPE_FAVE_NOTIF_DESC"
+msgstr "Ontvang een e-mail wanneer iemand je toevoegd aan hun Favorieten"
+
+msgid "TYPE_FAVE_NOTIF_NAME"
+msgstr "Toegevoegd als Favoriet"
+
+msgid "TYPE_NEWS_DESC"
+msgstr "Ontvang een e-mail wanneer iets nieuws in Sudomemo Nieuws geplaatst is"
+
+msgid "TYPE_NEWS_NAME"
+msgstr "Sudomemo Nieuws"
+
+msgid "TYPE_PROMO_DESC"
+msgstr "Ontvang e-mails over nieuwe mogelijkheden, tips en trucs, en aanstaande evenementen!"
+
+msgid "TYPE_PROMO_NAME"
+msgstr "Promo"
+
+msgid "TYPE_REPORT_UPDATE_DESC"
+msgstr "Ontvang een e-mail wanneer we de status van inhoud die jij gemarkeerd hebt veranderen"
+
+msgid "TYPE_REPORT_UPDATE_NAME"
+msgstr "Gemarkeerde Inhoudsupdate"
+
+msgid "TYPE_SECURITY_NOTIF_DESC"
+msgstr "Ontvang een e-mail wanneer je e-mail adres of wachtwoord veranderd is."
+
+msgid "TYPE_SECURITY_NOTIF_NAME"
+msgstr "Accountbeveiliging"
+
+msgid "TYPE_SERVICE_UPDATE_DESC"
+msgstr "Belangrijke updates over de status van Sudomemo of beschikbaarheid gerelateerd aan je account"
 
 msgid "TYPE_SERVICE_UPDATE_NAME"
 msgstr "Service Updates"
 
-msgid "TYPE_SERVICE_UPDATE_DESC"
-msgstr "Belangrijke updates over de status van Sudomemo of beschikbaarheid gerelateerd aan je account"
+msgid "TYPE_SPINOFF_NOTIF_DESC"
+msgstr "Ontvang een e-mail wanneer iemand een spin-off van jouw Flipnote plaatst"
+
+msgid "TYPE_SPINOFF_NOTIF_NAME"
+msgstr "Spin-off Ontvangen"
+
+msgid "TYPE_STAR_REPORT_DESC"
+msgstr "Ontvang een e-mail aan het eind van de dag over enige sterren die je ontvangen hebt"
+
+msgid "TYPE_STAR_REPORT_NAME"
+msgstr "Dagelijkse Sterrapportage"
+
+msgid "TYPE_UNREAD_COMMENTS_DESC"
+msgstr "Ontvang een e-mailsamenvatting over enige nieuwe reacties die je recent hebt ontvangen"
+
+msgid "TYPE_UNREAD_COMMENTS_NAME"
+msgstr "Ongelezen reacties"

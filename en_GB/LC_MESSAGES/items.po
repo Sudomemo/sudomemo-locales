@@ -3,35 +3,35 @@ msgstr ""
 "Language: en_GB\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "YOU_GOT_AN_ITEM"
-msgstr "You got an item!"
-
 msgid "CONTINUE"
 msgstr "Continue"
-
-msgid "ITEM_NAME_banana"
-msgstr "Banana"
 
 msgid "ITEM_DESC_banana"
 msgstr "Not to be confused with a plantain."
 
-msgid "ITEM_USE_banana"
-msgstr "You peel the banana."
-
-msgid "ITEM_NAME_peeled_banana"
-msgstr "Peeled Banana"
+msgid "ITEM_DESC_beach_ball"
+msgstr "A great accessory for a swimming excursion."
 
 msgid "ITEM_DESC_peeled_banana"
 msgstr "Not to be confused with a plan-... Why'd you peel it like that?"
 
-msgid "ITEM_USE_peeled_banana"
-msgstr "You eat the banana."
+msgid "ITEM_NAME_banana"
+msgstr "Banana"
 
 msgid "ITEM_NAME_beach_ball"
 msgstr "Beach Ball"
 
-msgid "ITEM_DESC_beach_ball"
-msgstr "A great accessory for a swimming excursion."
+msgid "ITEM_NAME_peeled_banana"
+msgstr "Peeled Banana"
+
+msgid "ITEM_USE_banana"
+msgstr "You peel the banana."
 
 msgid "ITEM_USE_beach_ball"
 msgstr "You toss the ball around a bit."
+
+msgid "ITEM_USE_peeled_banana"
+msgstr "You eat the banana."
+
+msgid "YOU_GOT_AN_ITEM"
+msgstr "You got an item!"

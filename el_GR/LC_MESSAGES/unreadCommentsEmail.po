@@ -3,23 +3,23 @@ msgstr ""
 "Language: el_GR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "EMAIL_SUBJECT_FORMAT"
-msgstr "[Sudomemo] %s, εχετε νεα σχολια στα Flipnotes!"
-
-msgid "TITLE_NEW_COMMENTS"
-msgstr "Νεα Σχολια"
-
-msgid "HELLO_FORMAT"
-msgstr "Γεια, %s!"
-
-msgid "TEXT_YOU_HAVE_X_COMMENTS_FROM_FORMAT"
-msgstr "Εχετε %d νεο/α σχολιο/α στο Sudomemo απο τον χρηστη %s"
-
 msgid "AND"
 msgstr "και"
 
 msgid "AND_X_OTHERS_FORMAT"
 msgstr "και %s αλλους."
 
+msgid "EMAIL_SUBJECT_FORMAT"
+msgstr "[Sudomemo] %s, εχετε νεα σχολια στα Flipnotes!"
+
+msgid "HELLO_FORMAT"
+msgstr "Γεια, %s!"
+
 msgid "TEXT_HOW_TO_VIEW_UNREAD_COMMENTS_TAP_ICON_FORMAT"
 msgstr "Μπορειτε να δειτε να μη διαβασμενα σχολια σας στο Sudomemo πατωντας %s στο μπαρ με τις ειδοποιησεις."
+
+msgid "TEXT_YOU_HAVE_X_COMMENTS_FROM_FORMAT"
+msgstr "Εχετε %d νεο/α σχολιο/α στο Sudomemo απο τον χρηστη %s"
+
+msgid "TITLE_NEW_COMMENTS"
+msgstr "Νεα Σχολια"

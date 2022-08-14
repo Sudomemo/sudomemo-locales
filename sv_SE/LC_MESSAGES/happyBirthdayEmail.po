@@ -12,8 +12,8 @@ msgstr "Hej %s!"
 msgid "HAPPY_BIRTHDAY"
 msgstr "Grattis på födelsedagen!"
 
-msgid "SPECIAL_SURPRISE_WAITING"
-msgstr "Det finns en speciell överraskning till dig på Sudomemo"
-
 msgid "LOGON_ON_DS_TO_VIEW"
 msgstr "Logga in på Sudomemo med ditt Nintendo DSi eller 3DS för att få din present!"
+
+msgid "SPECIAL_SURPRISE_WAITING"
+msgstr "Det finns en speciell överraskning till dig på Sudomemo"

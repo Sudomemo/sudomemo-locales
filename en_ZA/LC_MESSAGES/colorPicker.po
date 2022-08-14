@@ -3,15 +3,6 @@ msgstr ""
 "Language: en_ZA\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "SET_PEN_COLOR"
-msgstr "get ur pen color"
-
-msgid "SET_PAPER_COLOR"
-msgstr "get ur paper color"
-
-msgid "SELECT_A_COLOR"
-msgstr "Select a color."
-
 msgid "CURRENT_COLOR"
 msgstr "Current color:"
 
@@ -20,3 +11,12 @@ msgstr "Current color: default"
 
 msgid "RETURN"
 msgstr "skedaddle"
+
+msgid "SELECT_A_COLOR"
+msgstr "Select a color."
+
+msgid "SET_PAPER_COLOR"
+msgstr "get ur paper color"
+
+msgid "SET_PEN_COLOR"
+msgstr "get ur pen color"

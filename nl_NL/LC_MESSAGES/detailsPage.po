@@ -3,95 +3,102 @@ msgstr ""
 "Language: nl_NL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "TIMESTAMP_FORMAT"
-msgstr "d M Y H:i:s"
-
-msgid "FLIPNOTE_TITLE_FORMAT"
-msgstr "Flipnote door %s"
-
-msgid "HEADER_DETAILS"
-msgstr "Details"
-
-msgid "HEADER_COMMENTS"
-msgstr "Reacties"
-
-msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
-msgstr "Deze Flipnote is een spin-off."
-
-msgid "HEADER_ORIGINAL_FLIPNOTE"
-msgstr "Bekijk de originele Flipnote hier"
-
-msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
-msgstr "Om vragen voor sterren (\"Starbegging\") te voorkomen, zijn gele sterren gelimiteerd tot tien per Flipnote."
-
-msgid "HEADER_CREATOR"
-msgstr "Auteur"
-
-msgid "HEADER_STARS"
-msgstr "Sterren"
-
-msgid "HEADER_VIEWS"
-msgstr "Weergaven"
-
-msgid "HEADER_SPINOFFS"
-msgstr "Spin-offs"
-
-msgid "HEADER_DOWNLOADS"
-msgstr "Downloads"
-
-msgid "HEADER_TITLE"
-msgstr "Titel"
-
-msgid "HEADER_POSTED"
-msgstr "Geplaatst"
-
-msgid "HEADER_FLIPNOTE_ID"
-msgstr "Flipnote-ID"
-
-msgid "HEADER_CHANNEL"
-msgstr "Kanaal"
-
-msgid "HEADER_OPTIONS"
-msgstr "Opties"
-
-msgid "HEADER_SET_AS_PROFILE_PICTURE"
-msgstr "Zet als Profielfoto"
-
-msgid "HEADER_REPORT_FLIPNOTE"
-msgstr "Rapporteer Flipnote"
-
-msgid "ADMIN_ACTIONS"
-msgstr "Adminacties"
-
-msgid "PREV"
-msgstr "Vorige"
-
-msgid "NEXT"
-msgstr "Volgende"
-
-msgid "STAR_DETAILS_UPPERTITLE"
-msgstr "★ Sterren ★"
-
-msgid "SET_TITLE"
-msgstr "Titel geven"
-
-msgid "SET_TITLE_INSTRUCTIONS"
-msgstr "Voer de nieuwe titel voor je Flipnote hieronder in."
+msgid "101_CHARACTER_LIMIT_DESC"
+msgstr "De beschrijving mag niet langer zijn dan 101 karakters."
 
 msgid "40_CHARACTER_LIMIT"
 msgstr "De titel mag niet langer zijn dan 40 karakters."
 
-msgid "LEAVE_BLANK_TO_RESET"
-msgstr "Om de titel terug te zetten naar het standaard, laat het formulier leeg bij het insturen."
+msgid "ADMIN_ACTIONS"
+msgstr "Adminacties"
+
+msgid "ENTER_DESCRIPTION"
+msgstr "Voer beschrijving in..."
 
 msgid "ENTER_TITLE"
 msgstr "Voer titel in..."
 
+msgid "FLIPNOTE_TITLE_FORMAT"
+msgstr "Flipnote door %s"
+
 msgid "HEADER_ADD_DESCRIPTION"
 msgstr "Voeg beschrijving toe"
 
+msgid "HEADER_CHANNEL"
+msgstr "Kanaal"
+
+msgid "HEADER_COMMENTS"
+msgstr "Reacties"
+
+msgid "HEADER_CREATOR"
+msgstr "Auteur"
+
 msgid "HEADER_DESCRIPTION"
 msgstr "Beschrijving"
+
+msgid "HEADER_DETAILS"
+msgstr "Details"
+
+msgid "HEADER_DOWNLOADS"
+msgstr "Downloads"
+
+msgid "HEADER_FLIPNOTE_ID"
+msgstr "Flipnote-ID"
+
+msgid "HEADER_FLIPNOTE_OPTIONS"
+msgstr "Opties"
+
+msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
+msgstr "Om vragen voor sterren (\"Starbegging\") te voorkomen, zijn gele sterren gelimiteerd tot tien per Flipnote."
+
+msgid "HEADER_OPTIONS"
+msgstr "Opties"
+
+msgid "HEADER_ORIGINAL_FLIPNOTE"
+msgstr "Bekijk de originele Flipnote hier"
+
+msgid "HEADER_POSTED"
+msgstr "Geplaatst"
+
+msgid "HEADER_REPORT_FLIPNOTE"
+msgstr "Rapporteer Flipnote"
+
+msgid "HEADER_SET_AS_PROFILE_PICTURE"
+msgstr "Zet als Profielfoto"
+
+# This literally translates to "number", but it's also the Dutch word for "track" as in music track.
+msgid "HEADER_SONG"
+msgstr "Nummer"
+
+msgid "HEADER_SPINOFFS"
+msgstr "Spin-offs"
+
+msgid "HEADER_STARS"
+msgstr "Sterren"
+
+msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
+msgstr "Deze Flipnote is een spin-off."
+
+msgid "HEADER_TITLE"
+msgstr "Titel"
+
+msgid "HEADER_UPLOAD_TO_YOUTUBE"
+msgstr "Upload to YouTube"
+
+msgid "HEADER_VIEWS"
+msgstr "Weergaven"
+
+msgid "LEAVE_BLANK_TO_RESET"
+msgstr "Om de titel terug te zetten naar het standaard, laat het formulier leeg bij het insturen."
+
+msgid "LEAVE_BLANK_TO_RESET_DESC"
+msgstr "Om de beschrijving te verwijderen, laat het formulier leeg bij het insturen."
+
+msgid "NEXT"
+msgstr "Volgende"
+
+msgid "PREV"
+msgstr "Vorige"
 
 msgid "SET_DESCRIPTION"
 msgstr "Beschrijving geven"
@@ -99,25 +106,18 @@ msgstr "Beschrijving geven"
 msgid "SET_DESCRIPTION_INSTRUCTIONS"
 msgstr "Voer de nieuwe beschrijving voor jouw Flipnote beneden in."
 
-msgid "101_CHARACTER_LIMIT_DESC"
-msgstr "De beschrijving mag niet langer zijn dan 101 karakters."
+msgid "SET_TITLE"
+msgstr "Titel geven"
 
-msgid "LEAVE_BLANK_TO_RESET_DESC"
-msgstr "Om de beschrijving te verwijderen, laat het formulier leeg bij het insturen."
+msgid "SET_TITLE_INSTRUCTIONS"
+msgstr "Voer de nieuwe titel voor je Flipnote hieronder in."
 
-msgid "ENTER_DESCRIPTION"
-msgstr "Voer beschrijving in..."
+msgid "STAR_DETAILS_UPPERTITLE"
+msgstr "★ Sterren ★"
 
-msgid "HEADER_FLIPNOTE_OPTIONS"
-msgstr "Opties"
-
-# This literally translates to "number", but it's also the Dutch word for "track" as in music track.
-msgid "HEADER_SONG"
-msgstr "Nummer"
+msgid "TIMESTAMP_FORMAT"
+msgstr "d M Y H:i:s"
 
 # This is shown to logged-in users on their own Flipnotes without titles
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "Naamloze Flipnote door %s"
-
-msgid "HEADER_UPLOAD_TO_YOUTUBE"
-msgstr "Upload to YouTube"

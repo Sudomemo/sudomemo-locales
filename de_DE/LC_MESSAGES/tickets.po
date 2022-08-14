@@ -3,12 +3,8 @@ msgstr ""
 "Language: de_DE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-# Code Redemption
-msgid "REDEEM_CODE"
-msgstr "Code einlösen"
-
-msgid "ENTER_CODE_TO_REDEEM"
-msgstr "Gib den einzulösenden Code hier unten ein."
+msgid "ACHIEVEMENT"
+msgstr "Errungenschaft"
 
 msgid "CODE_ALREADY_USED"
 msgstr "Der eingegebene Code wurde bereits benutzt."
@@ -19,29 +15,220 @@ msgstr "Der eingegebene Code ist ungültig."
 msgid "CODE_NONEXISTING_OR_EXPIRED"
 msgstr "Der eingegebene Code existiert entweder nicht oder ist abgelaufen."
 
-msgid "LOGIN_REQUIRED_REDEEM_CODE"
-msgstr "Du musst angemeldet sein, um einen Code einzulösen."
-
-# Ticket delivery
-msgid "YOU_GOT_A_TICKET"
-msgstr "Du hast ein Ticket erhalten!"
+msgid "COLOR_STARS"
+msgstr "Farb-Sterne"
 
 msgid "CONTINUE"
 msgstr "Weiter"
+
+msgid "CREATORS_ROOM_THEME"
+msgstr "Ersteller-Raum-Thema"
+
+msgid "DONT_HAVE_ANY_TO_USE"
+msgstr "Du hast kein Item, welches du nutzen könntest."
+
+msgid "ENTER_CODE_TO_REDEEM"
+msgstr "Gib den einzulösenden Code hier unten ein."
 
 # Inventory
 msgid "INVENTORY"
 msgstr "Inventar"
 
-msgid "USE_ITEM"
-msgstr "Benutzen"
-
 msgid "INVENTORY_IS_EMPTY"
 msgstr "Ziemlich leer hier, oder?"
 
-# Ticket redemption
-msgid "TICKET_REDEEM_WIN_FORMAT"
-msgstr "%s wurde eingelöst!"
+msgid "LOGIN_REQUIRED_REDEEM_CODE"
+msgstr "Du musst angemeldet sein, um einen Code einzulösen."
+
+# Code Redemption
+msgid "REDEEM_CODE"
+msgstr "Code einlösen"
+
+msgid "SUDOMEMO_CITIZENSHIP"
+msgstr "Sudomemo-Bürgerschaft"
+
+msgid "SUDOMEMO_PLUS"
+msgstr "Sudomemo Plus"
+
+msgid "SUDOMEMO_PLUS_BALANCE_FORMAT"
+msgstr "Kontostand: %s Tage"
+
+msgid "SUDOMEMO_PLUS_FORMAT"
+msgstr "Du hast %s Tage Sudomemo Plus erhalten!"
+
+msgid "THEME_AVAILABLE_FOR_USE"
+msgstr "Du kannst dieses Theme nun in deinem Ersteller-Raum anwenden!"
+
+msgid "TICKET_DESC_7th_birthday_bash_ticket"
+msgstr "Danke für deine Teilnahme beim 'Birthday Bash!'"
+
+msgid "TICKET_DESC_8th_birthday_bash_ticket"
+msgstr "Danke für deine Teilnahme beim 'Birthday Bash!'"
+
+msgid "TICKET_DESC_archive_supporter_ticket"
+msgstr "Danke für deine Hilfe, Flipnote-Geschichte zu bewahren!"
+
+msgid "TICKET_DESC_birthday_ticket"
+msgstr "Alles Gute!"
+
+msgid "TICKET_DESC_blue_dog_ticket"
+msgstr "Dieses Ticket bringt dir 350 Farb-Sterne (vielleicht sogar ein seltener!), eine exklusive Kulisse und ein spezielles Icon, welches in deinem Ersteller-Raum angezeigt wird!"
+
+msgid "TICKET_DESC_colors_promo_ticket"
+msgstr "Du hast die Sudomemo x Colors! Juni 2020 Wochen-Thema gewonnen!"
+
+msgid "TICKET_DESC_demo_ticket"
+msgstr "Dies ist tatsächlich die Beschreibung des Demo-Tickets."
+
+msgid "TICKET_DESC_featured_artist_ticket"
+msgstr "Unsere herzlichsten Glückwünsche zum Werden eines Sudomemo-empfohlenen Künstlers!"
+
+msgid "TICKET_DESC_featured_flipnote_ticket"
+msgstr "Glückwunsch! Eines deiner Flipnotes wurde empfohlen."
+
+msgid "TICKET_DESC_ffotd_ticket"
+msgstr "Herzlichen Glückwunsch! Du hast das erste Flipnote des neuen Jahrzehnts gepostet!"
+
+msgid "TICKET_DESC_folding_reward_ticket"
+msgstr "Danke, dass du dabei hilfst, Leben zu retten!"
+
+msgid "TICKET_DESC_golden_neko_ticket"
+msgstr "Dieses Ticket bringt dir 1300 Farb-Sterne (inklusive mehrere seltene!), eine exklusive Kulisse und ein spezielles Icon, welches in deinem Ersteller-Raum angezeigt wird!"
+
+msgid "TICKET_DESC_green_panda_ticket"
+msgstr "Dieses Ticket bringt dir 110 Farb-Sterne, eine exklusive Kulisse und ein spezielles Icon, welches in deinem Ersteller-Raum angezeigt wird!"
+
+msgid "TICKET_DESC_instagram_promo_ticket"
+msgstr "Vielen Dank, dass du Sudomemo auf Instagram folgst!"
+
+# The last character of this message is the DSi symbol for a heart. Don't remove it.
+msgid "TICKET_DESC_love_anniversary_ticket"
+msgstr "Alles Gute zum Jubiläum! "
+
+msgid "TICKET_DESC_neighborhood_watch_ticket"
+msgstr "Danke, dass du dabei hilfst, dass Sudomemo ein sicherer und einladender Ort bleibt!"
+
+msgid "TICKET_DESC_nitro_booster_ticket"
+msgstr "Hey, du! Du bist super! Danke für das Boosten des Sudomemo-Discords!"
+
+msgid "TICKET_DESC_one_month_plus_ticket"
+msgstr "Dieses Ticket gewährt dir einen Monat Sudomemo Plus!"
+
+msgid "TICKET_DESC_one_year_plus_ticket"
+msgstr "Dieses Ticket gewährt dir ein Jahr Sudomemo Plus!"
+
+msgid "TICKET_DESC_purple_bunny_ticket"
+msgstr "Dieses Ticket bringt dir 600 Farb-Sterne (mit sehr großer Wahrscheinlichkeit einige seltene!), eine exklusive Kulisse und ein spezielles Icon, welches in deinem Ersteller-Raum angezeigt wird!"
+
+msgid "TICKET_DESC_red_bird_ticket"
+msgstr "Dieses Ticket bringt dir 230 Farb-Sterne, eine exklusive Kulisse und ein spezielles Icon, welches in deinem Ersteller-Raum angezeigt wird!"
+
+msgid "TICKET_DESC_regular_ticket"
+msgstr "Vielen Dank, dass du Sudomemo nutzt!"
+
+msgid "TICKET_DESC_special_someone_ticket"
+msgstr "Für diesen besonderen Jemand! Drei Monate Sudomemo Plus, Farb-Sterne und eine exklusive Kulisse!"
+
+msgid "TICKET_DESC_spookmaster_ticket"
+msgstr "Vielen Dank zum Spielen von SudoQuest: Requiem! Wir hoffen, es hat euch gefallen."
+
+msgid "TICKET_DESC_survey_thanks_ticket"
+msgstr "Danke für die Teilnahme an unserer Umfrage"
+
+msgid "TICKET_DESC_translator_ticket"
+msgstr "Danke, dass du dabei hilfst, Sudomemo für verschiedene Regionen anzupassen!"
+
+msgid "TICKET_DESC_twitter_promo_ticket"
+msgstr "Vielen Dank, dass du Sudomemo auf Twitter folgst!"
+
+msgid "TICKET_DESC_weekly_topic_winner_ticket"
+msgstr "Glückwunsch zum Gewinn des Wochen-Themas auf Sudomemo!"
+
+msgid "TICKET_NAME_7th_birthday_bash_ticket"
+msgstr "7. 'Birthday Bash'-Ticket"
+
+msgid "TICKET_NAME_8th_birthday_bash_ticket"
+msgstr "8. 'Birthday Bash'-Ticket"
+
+msgid "TICKET_NAME_archive_supporter_ticket"
+msgstr "Archivunterstützer-Ticket"
+
+msgid "TICKET_NAME_birthday_ticket"
+msgstr "Geburtstags-Ticket"
+
+msgid "TICKET_NAME_blue_dog_ticket"
+msgstr "Ziggy-Starburst-Ticket"
+
+msgid "TICKET_NAME_colors_promo_ticket"
+msgstr "Colors!-Promo-Ticket"
+
+# Each ticket type will have a name and a description 
+msgid "TICKET_NAME_demo_ticket"
+msgstr "Demo-Ticket"
+
+msgid "TICKET_NAME_featured_artist_ticket"
+msgstr "Empfohlener Künstler-Ticket"
+
+msgid "TICKET_NAME_featured_flipnote_ticket"
+msgstr "Empfohlenes Flipnote-Ticket"
+
+msgid "TICKET_NAME_ffotd_ticket"
+msgstr "Erstes Flipnote dieses Jahrzehnts"
+
+msgid "TICKET_NAME_folding_reward_ticket"
+msgstr "Folding@Home-Belohnungs-Ticket"
+
+msgid "TICKET_NAME_golden_neko_ticket"
+msgstr "Mitsuo-Meow-Ticket"
+
+msgid "TICKET_NAME_green_panda_ticket"
+msgstr "Lazy-Paisley-Ticket"
+
+msgid "TICKET_NAME_instagram_promo_ticket"
+msgstr "Instagram-Promo-Ticket"
+
+msgid "TICKET_NAME_love_anniversary_ticket"
+msgstr "Jubiläums-Ticket"
+
+msgid "TICKET_NAME_neighborhood_watch_ticket"
+msgstr "Nachbarschaftswachen-Ticket"
+
+msgid "TICKET_NAME_nitro_booster_ticket"
+msgstr "Nitro Booster-Ticket"
+
+# Sudomemo Plus
+msgid "TICKET_NAME_one_month_plus_ticket"
+msgstr "Sudomemo-Plus-Ticket (1 Monat)"
+
+msgid "TICKET_NAME_one_year_plus_ticket"
+msgstr "Sudomemo-Plus-Ticket (1 Jahr)"
+
+msgid "TICKET_NAME_purple_bunny_ticket"
+msgstr "Russell-Ramblewood-Ticket"
+
+msgid "TICKET_NAME_red_bird_ticket"
+msgstr "Bailey-Flitwing-Ticket"
+
+msgid "TICKET_NAME_regular_ticket"
+msgstr "Normales Ticket"
+
+msgid "TICKET_NAME_special_someone_ticket"
+msgstr "Besondere-Jemand-Ticket"
+
+msgid "TICKET_NAME_spookmaster_ticket"
+msgstr "Spukmeister-Ticket"
+
+msgid "TICKET_NAME_survey_thanks_ticket"
+msgstr "Umfrage-Ticket"
+
+msgid "TICKET_NAME_translator_ticket"
+msgstr "Übersetzer-Ticket"
+
+msgid "TICKET_NAME_twitter_promo_ticket"
+msgstr "Twitter-Promo-Ticket"
+
+msgid "TICKET_NAME_weekly_topic_winner_ticket"
+msgstr "Wochen-Thema-Gewinner-Ticket"
 
 msgid "TICKET_REDEEM_LOSE_FORMAT"
 msgstr "%s wurde eingelöst, aber..."
@@ -49,200 +236,13 @@ msgstr "%s wurde eingelöst, aber..."
 msgid "TICKET_REDEEM_NO_PRIZES"
 msgstr "Du hast nichts gewonnen. Schade!"
 
-msgid "ACHIEVEMENT"
-msgstr "Errungenschaft"
-
-msgid "COLOR_STARS"
-msgstr "Farb-Sterne"
-
-msgid "CREATORS_ROOM_THEME"
-msgstr "Ersteller-Raum-Thema"
-
-msgid "SUDOMEMO_CITIZENSHIP"
-msgstr "Sudomemo-Bürgerschaft"
-
-msgid "THEME_AVAILABLE_FOR_USE"
-msgstr "Du kannst dieses Theme nun in deinem Ersteller-Raum anwenden!"
-
-msgid "SUDOMEMO_PLUS"
-msgstr "Sudomemo Plus"
-
-msgid "SUDOMEMO_PLUS_FORMAT"
-msgstr "Du hast %s Tage Sudomemo Plus erhalten!"
-
-msgid "SUDOMEMO_PLUS_BALANCE_FORMAT"
-msgstr "Kontostand: %s Tage"
-
-# Each ticket type will have a name and a description 
-msgid "TICKET_NAME_demo_ticket"
-msgstr "Demo-Ticket"
-
-msgid "TICKET_DESC_demo_ticket"
-msgstr "Dies ist tatsächlich die Beschreibung des Demo-Tickets."
-
-msgid "TICKET_NAME_regular_ticket"
-msgstr "Normales Ticket"
-
-msgid "TICKET_DESC_regular_ticket"
-msgstr "Vielen Dank, dass du Sudomemo nutzt!"
-
-msgid "TICKET_NAME_twitter_promo_ticket"
-msgstr "Twitter-Promo-Ticket"
-
-msgid "TICKET_DESC_twitter_promo_ticket"
-msgstr "Vielen Dank, dass du Sudomemo auf Twitter folgst!"
-
-msgid "TICKET_NAME_instagram_promo_ticket"
-msgstr "Instagram-Promo-Ticket"
-
-msgid "TICKET_DESC_instagram_promo_ticket"
-msgstr "Vielen Dank, dass du Sudomemo auf Instagram folgst!"
-
-msgid "TICKET_NAME_weekly_topic_winner_ticket"
-msgstr "Wochen-Thema-Gewinner-Ticket"
-
-msgid "TICKET_DESC_weekly_topic_winner_ticket"
-msgstr "Glückwunsch zum Gewinn des Wochen-Themas auf Sudomemo!"
-
-msgid "TICKET_NAME_birthday_ticket"
-msgstr "Geburtstags-Ticket"
-
-msgid "TICKET_DESC_birthday_ticket"
-msgstr "Alles Gute!"
-
-msgid "TICKET_NAME_love_anniversary_ticket"
-msgstr "Jubiläums-Ticket"
-
-# The last character of this message is the DSi symbol for a heart. Don't remove it.
-msgid "TICKET_DESC_love_anniversary_ticket"
-msgstr "Alles Gute zum Jubiläum! "
-
-# Sudomemo Plus
-msgid "TICKET_NAME_one_month_plus_ticket"
-msgstr "Sudomemo-Plus-Ticket (1 Monat)"
-
-msgid "TICKET_DESC_one_month_plus_ticket"
-msgstr "Dieses Ticket gewährt dir einen Monat Sudomemo Plus!"
-
-msgid "TICKET_NAME_one_year_plus_ticket"
-msgstr "Sudomemo-Plus-Ticket (1 Jahr)"
-
-msgid "TICKET_DESC_one_year_plus_ticket"
-msgstr "Dieses Ticket gewährt dir ein Jahr Sudomemo Plus!"
-
-msgid "DONT_HAVE_ANY_TO_USE"
-msgstr "Du hast kein Item, welches du nutzen könntest."
-
-msgid "TICKET_NAME_ffotd_ticket"
-msgstr "Erstes Flipnote dieses Jahrzehnts"
-
-msgid "TICKET_DESC_ffotd_ticket"
-msgstr "Herzlichen Glückwunsch! Du hast das erste Flipnote des neuen Jahrzehnts gepostet!"
-
-msgid "TICKET_NAME_survey_thanks_ticket"
-msgstr "Umfrage-Ticket"
-
-msgid "TICKET_DESC_survey_thanks_ticket"
-msgstr "Danke für die Teilnahme an unserer Umfrage"
-
-msgid "TICKET_NAME_special_someone_ticket"
-msgstr "Besondere-Jemand-Ticket"
-
-msgid "TICKET_DESC_special_someone_ticket"
-msgstr "Für diesen besonderen Jemand! Drei Monate Sudomemo Plus, Farb-Sterne und eine exklusive Kulisse!"
-
-msgid "TICKET_NAME_folding_reward_ticket"
-msgstr "Folding@Home-Belohnungs-Ticket"
-
-msgid "TICKET_DESC_folding_reward_ticket"
-msgstr "Danke, dass du dabei hilfst, Leben zu retten!"
-
-msgid "TICKET_NAME_green_panda_ticket"
-msgstr "Lazy-Paisley-Ticket"
-
-msgid "TICKET_DESC_green_panda_ticket"
-msgstr "Dieses Ticket bringt dir 110 Farb-Sterne, eine exklusive Kulisse und ein spezielles Icon, welches in deinem Ersteller-Raum angezeigt wird!"
-
-msgid "TICKET_NAME_red_bird_ticket"
-msgstr "Bailey-Flitwing-Ticket"
-
-msgid "TICKET_DESC_red_bird_ticket"
-msgstr "Dieses Ticket bringt dir 230 Farb-Sterne, eine exklusive Kulisse und ein spezielles Icon, welches in deinem Ersteller-Raum angezeigt wird!"
-
-msgid "TICKET_NAME_blue_dog_ticket"
-msgstr "Ziggy-Starburst-Ticket"
-
-msgid "TICKET_DESC_blue_dog_ticket"
-msgstr "Dieses Ticket bringt dir 350 Farb-Sterne (vielleicht sogar ein seltener!), eine exklusive Kulisse und ein spezielles Icon, welches in deinem Ersteller-Raum angezeigt wird!"
-
-msgid "TICKET_NAME_purple_bunny_ticket"
-msgstr "Russell-Ramblewood-Ticket"
-
-msgid "TICKET_DESC_purple_bunny_ticket"
-msgstr "Dieses Ticket bringt dir 600 Farb-Sterne (mit sehr großer Wahrscheinlichkeit einige seltene!), eine exklusive Kulisse und ein spezielles Icon, welches in deinem Ersteller-Raum angezeigt wird!"
-
-msgid "TICKET_NAME_golden_neko_ticket"
-msgstr "Mitsuo-Meow-Ticket"
-
-msgid "TICKET_DESC_golden_neko_ticket"
-msgstr "Dieses Ticket bringt dir 1300 Farb-Sterne (inklusive mehrere seltene!), eine exklusive Kulisse und ein spezielles Icon, welches in deinem Ersteller-Raum angezeigt wird!"
-
-msgid "TICKET_NAME_translator_ticket"
-msgstr "Übersetzer-Ticket"
-
-msgid "TICKET_DESC_translator_ticket"
-msgstr "Danke, dass du dabei hilfst, Sudomemo für verschiedene Regionen anzupassen!"
-
-msgid "TICKET_NAME_colors_promo_ticket"
-msgstr "Colors!-Promo-Ticket"
-
-msgid "TICKET_DESC_colors_promo_ticket"
-msgstr "Du hast die Sudomemo x Colors! Juni 2020 Wochen-Thema gewonnen!"
-
-msgid "TICKET_NAME_neighborhood_watch_ticket"
-msgstr "Nachbarschaftswachen-Ticket"
-
-msgid "TICKET_DESC_neighborhood_watch_ticket"
-msgstr "Danke, dass du dabei hilfst, dass Sudomemo ein sicherer und einladender Ort bleibt!"
-
-msgid "TICKET_NAME_featured_flipnote_ticket"
-msgstr "Empfohlenes Flipnote-Ticket"
-
-msgid "TICKET_DESC_featured_flipnote_ticket"
-msgstr "Glückwunsch! Eines deiner Flipnotes wurde empfohlen."
-
-msgid "TICKET_NAME_featured_artist_ticket"
-msgstr "Empfohlener Künstler-Ticket"
-
-msgid "TICKET_DESC_featured_artist_ticket"
-msgstr "Unsere herzlichsten Glückwünsche zum Werden eines Sudomemo-empfohlenen Künstlers!"
-
-msgid "TICKET_NAME_spookmaster_ticket"
-msgstr "Spukmeister-Ticket"
-
-msgid "TICKET_DESC_spookmaster_ticket"
-msgstr "Vielen Dank zum Spielen von SudoQuest: Requiem! Wir hoffen, es hat euch gefallen."
-
-msgid "TICKET_NAME_nitro_booster_ticket"
-msgstr "Nitro Booster-Ticket"
-
-msgid "TICKET_DESC_nitro_booster_ticket"
-msgstr "Hey, du! Du bist super! Danke für das Boosten des Sudomemo-Discords!"
-
-msgid "TICKET_NAME_7th_birthday_bash_ticket"
-msgstr "7. 'Birthday Bash'-Ticket"
-
-msgid "TICKET_DESC_7th_birthday_bash_ticket"
-msgstr "Danke für deine Teilnahme beim 'Birthday Bash!'"
-
-msgid "TICKET_NAME_8th_birthday_bash_ticket"
-msgstr "8. 'Birthday Bash'-Ticket"
-
-msgid "TICKET_DESC_8th_birthday_bash_ticket"
-msgstr "Danke für deine Teilnahme beim 'Birthday Bash!'"
-
-msgid "TICKET_NAME_archive_supporter_ticket"
-msgstr "Archivunterstützer-Ticket"
-
-msgid "TICKET_DESC_archive_supporter_ticket"
-msgstr "Danke für deine Hilfe, Flipnote-Geschichte zu bewahren!"
+# Ticket redemption
+msgid "TICKET_REDEEM_WIN_FORMAT"
+msgstr "%s wurde eingelöst!"
+
+msgid "USE_ITEM"
+msgstr "Benutzen"
+
+# Ticket delivery
+msgid "YOU_GOT_A_TICKET"
+msgstr "Du hast ein Ticket erhalten!"

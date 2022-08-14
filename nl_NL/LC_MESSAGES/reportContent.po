@@ -3,8 +3,65 @@ msgstr ""
 "Language: nl_NL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "HEADER_REPORT_CONTENT"
-msgstr "Rapporteer Inhoud"
+msgid "CATEGORY_DESC_drugs"
+msgstr "Substance abuse or drug references"
+
+msgid "CATEGORY_DESC_fraud"
+msgstr "Impersonation or other fraudulent activities"
+
+msgid "CATEGORY_DESC_harassment"
+msgstr "Bullying, discrimination, harassment or libel"
+
+msgid "CATEGORY_DESC_misplaced_rp"
+msgstr "Roleplay posted to non-roleplay channel"
+
+msgid "CATEGORY_DESC_rapid_flashing"
+msgstr "Flashing more than four times in one second"
+
+msgid "CATEGORY_DESC_sexual"
+msgstr "Sexual themes or content"
+
+msgid "CATEGORY_DESC_spam"
+msgstr "Spam (no meaningful content)"
+
+msgid "CATEGORY_DESC_stolen"
+msgstr "Misuse of spin-off function (stolen)"
+
+msgid "CATEGORY_DESC_swearing"
+msgstr "Use of very strong language, or frequent use of strong language"
+
+msgid "CATEGORY_DESC_violent"
+msgstr "Graphic content, excessive violence, gore, blood, or body horror"
+
+msgid "CATEGORY_NAME_drugs"
+msgstr "Drugs"
+
+msgid "CATEGORY_NAME_fraud"
+msgstr "Fraud"
+
+msgid "CATEGORY_NAME_harassment"
+msgstr "Harassment"
+
+msgid "CATEGORY_NAME_misplaced_rp"
+msgstr "Misplaced RP"
+
+msgid "CATEGORY_NAME_rapid_flashing"
+msgstr "Rapid Flashing"
+
+msgid "CATEGORY_NAME_sexual"
+msgstr "Sexual"
+
+msgid "CATEGORY_NAME_spam"
+msgstr "Spam"
+
+msgid "CATEGORY_NAME_stolen"
+msgstr "Stolen"
+
+msgid "CATEGORY_NAME_swearing"
+msgstr "Profane"
+
+msgid "CATEGORY_NAME_violent"
+msgstr "Graphic"
 
 msgid "CHAT_MESSAGE"
 msgstr "chatbericht"
@@ -12,44 +69,32 @@ msgstr "chatbericht"
 msgid "COMMENT"
 msgstr "reactie"
 
-msgid "FLIPNOTE"
-msgstr "Flipnote"
-
-msgid "YOU_ARE_REPORTING_THIS_FORMAT"
-msgstr "Je bent deze/dit (stuk) %s aan het rapporteren:"
-
-msgid "USER_HAS_ALREADY_REPORTED_FORMAT"
-msgstr "Je hebt deze %s al eens gerapporteerd."
-
-msgid "HEADER_VIOLATION_CATEGORY"
-msgstr "Schendingscategorie:"
-
-msgid "FLIPNOTE_TITLE_FORMAT"
-msgstr "Flipnote door %s"
+msgid "CONFIRM_EMAIL_BEFORE_REPORTING"
+msgstr "Bevestig alsjeblieft je e-mailadres voor je iets rapporteert."
 
 msgid "CREATOR_FORMAT"
 msgstr "Auteur: %s"
 
-msgid "NOTICE_REPORT_OTHER_ISSUES"
-msgstr "Dit formulier is alleen om inhoud te rapporteren. Om het gedrag van een gebruiker te rapporteren, of voor andere problemen en verzoeken, stuur ons ondersteuningsteam alsjeblieft een e-mail:"
+msgid "DUPLICATE_COMMENT_FAILED"
+msgstr "Deze reactie is al eens geplaatst op Sudomemo."
 
-msgid "REPORT_INSTRUCTIONS"
-msgstr "Schrijf alsjeblieft een korte beschrijving over waarom jij vindt dat is in strijd is met de Sudomemo Gebruikersvoorwaarden. Als het verstuurd is, druk op terug om terug te gaan naar de Flipnote."
+msgid "FLIPNOTE"
+msgstr "Flipnote"
 
-msgid "NO_BLANK_REPORTS"
-msgstr "Je mag geen lege rapportage versturen."
-
-msgid "LIMIT_ONE_REPORT"
-msgstr "Houdt in gedachten: Je mag deze inhoud alleen één keer rapporteren. Andere rapportages worden niet geregistreerd, dus stop je informatie alsjeblieft in één bericht."
-
-msgid "REPORT_EXPLANATION_FAILED"
-msgstr "Er was een fout opgetreden terwijl wij deze rapportage aan het behandelen waren."
-
-msgid "RESTRICTED_CANCEL"
-msgstr "Je mag geen inhoud rapporteren als je toegang tot Sudomemo ontnomen is op een enkel vlak."
+msgid "FLIPNOTE_TITLE_FORMAT"
+msgstr "Flipnote door %s"
 
 msgid "HEADER_REASON"
 msgstr "Reden:"
+
+msgid "HEADER_REPORT_CONTENT"
+msgstr "Rapporteer Inhoud"
+
+msgid "HEADER_VIOLATION_CATEGORY"
+msgstr "Schendingscategorie:"
+
+msgid "LIMIT_ONE_REPORT"
+msgstr "Houdt in gedachten: Je mag deze inhoud alleen één keer rapporteren. Andere rapportages worden niet geregistreerd, dus stop je informatie alsjeblieft in één bericht."
 
 msgid "LOGIN_REQUIRED_TO_CONTINUE"
 msgstr "Je moet inloggen om door te gaan."
@@ -57,74 +102,29 @@ msgstr "Je moet inloggen om door te gaan."
 msgid "LOGIN_REQUIRED_TO_REPORT_CONTENT"
 msgstr "Je moet ingelogd zijn om inhoudsrapportages te versturen."
 
+msgid "NOTICE_REPORT_OTHER_ISSUES"
+msgstr "Dit formulier is alleen om inhoud te rapporteren. Om het gedrag van een gebruiker te rapporteren, of voor andere problemen en verzoeken, stuur ons ondersteuningsteam alsjeblieft een e-mail:"
+
+msgid "NO_BLANK_REPORTS"
+msgstr "Je mag geen lege rapportage versturen."
+
+msgid "REPORT_EXPLANATION_FAILED"
+msgstr "Er was een fout opgetreden terwijl wij deze rapportage aan het behandelen waren."
+
 msgid "REPORT_FAILED_USER_BANNED"
 msgstr "Rapportage mislukt: je toegang tot Sudomemo is ontnomen."
 
-msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "Deze reactie is al eens geplaatst op Sudomemo."
+msgid "REPORT_INSTRUCTIONS"
+msgstr "Schrijf alsjeblieft een korte beschrijving over waarom jij vindt dat is in strijd is met de Sudomemo Gebruikersvoorwaarden. Als het verstuurd is, druk op terug om terug te gaan naar de Flipnote."
 
-msgid "CONFIRM_EMAIL_BEFORE_REPORTING"
-msgstr "Bevestig alsjeblieft je e-mailadres voor je iets rapporteert."
+msgid "RESTRICTED_CANCEL"
+msgstr "Je mag geen inhoud rapporteren als je toegang tot Sudomemo ontnomen is op een enkel vlak."
 
 msgid "THANKS_FOR_REPORTING"
 msgstr "We hebben jouw rapportage ontvangen. Bedankt voor het helpen met Sudomemo een betere plek te maken!"
 
-msgid "CATEGORY_NAME_stolen"
-msgstr "Stolen"
+msgid "USER_HAS_ALREADY_REPORTED_FORMAT"
+msgstr "Je hebt deze %s al eens gerapporteerd."
 
-msgid "CATEGORY_DESC_stolen"
-msgstr "Misuse of spin-off function (stolen)"
-
-msgid "CATEGORY_NAME_spam"
-msgstr "Spam"
-
-msgid "CATEGORY_DESC_spam"
-msgstr "Spam (no meaningful content)"
-
-msgid "CATEGORY_NAME_harassment"
-msgstr "Harassment"
-
-msgid "CATEGORY_DESC_harassment"
-msgstr "Bullying, discrimination, harassment or libel"
-
-msgid "CATEGORY_NAME_fraud"
-msgstr "Fraud"
-
-msgid "CATEGORY_DESC_fraud"
-msgstr "Impersonation or other fraudulent activities"
-
-msgid "CATEGORY_NAME_swearing"
-msgstr "Profane"
-
-msgid "CATEGORY_DESC_swearing"
-msgstr "Use of very strong language, or frequent use of strong language"
-
-msgid "CATEGORY_NAME_sexual"
-msgstr "Sexual"
-
-msgid "CATEGORY_DESC_sexual"
-msgstr "Sexual themes or content"
-
-msgid "CATEGORY_NAME_violent"
-msgstr "Graphic"
-
-msgid "CATEGORY_DESC_violent"
-msgstr "Graphic content, excessive violence, gore, blood, or body horror"
-
-msgid "CATEGORY_NAME_misplaced_rp"
-msgstr "Misplaced RP"
-
-msgid "CATEGORY_DESC_misplaced_rp"
-msgstr "Roleplay posted to non-roleplay channel"
-
-msgid "CATEGORY_NAME_drugs"
-msgstr "Drugs"
-
-msgid "CATEGORY_DESC_drugs"
-msgstr "Substance abuse or drug references"
-
-msgid "CATEGORY_NAME_rapid_flashing"
-msgstr "Rapid Flashing"
-
-msgid "CATEGORY_DESC_rapid_flashing"
-msgstr "Flashing more than four times in one second"
+msgid "YOU_ARE_REPORTING_THIS_FORMAT"
+msgstr "Je bent deze/dit (stuk) %s aan het rapporteren:"

@@ -3,26 +3,38 @@ msgstr ""
 "Language: ro_RO\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-# This contains common strings used for the general notification ("mail") system as well
-# Common
-msgid "LOGIN_FIRST_TO_ACCESS_MAIL"
-msgstr "Va trebui sa va reconectati pentru a vedea aceasta."
-
 msgid "CONTINUE"
 msgstr "Continuati"
 
 msgid "HEADER_INBOX"
 msgstr "Inbox"
 
-# this must be a max of 6 characters
-msgid "UNAUTHED_READ"
-msgstr "Cititi.."
+# This contains common strings used for the general notification ("mail") system as well
+# Common
+msgid "LOGIN_FIRST_TO_ACCESS_MAIL"
+msgstr "Va trebui sa va reconectati pentru a vedea aceasta."
+
+# Not found
+msgid "MAIL_NOT_FOUND"
+msgstr "Acest mesaj nu a fost gasit."
+
+msgid "NEXT"
+msgstr "Urm."
 
 msgid "PREV"
 msgstr "Ante."
 
-msgid "NEXT"
-msgstr "Urm."
+msgid "TITLE_INFO"
+msgstr "Info"
+
+msgid "TITLE_MESSAGE"
+msgstr "Mesaj"
+
+msgid "TITLE_NEWS"
+msgstr "Stiri"
+
+msgid "TITLE_NOTICE"
+msgstr "Notita"
 
 # Titles
 msgid "TITLE_SPINOFF"
@@ -31,18 +43,6 @@ msgstr "Spin-off"
 msgid "TITLE_WARNING"
 msgstr "Atentie"
 
-msgid "TITLE_NOTICE"
-msgstr "Notita"
-
-msgid "TITLE_MESSAGE"
-msgstr "Mesaj"
-
-msgid "TITLE_NEWS"
-msgstr "Stiri"
-
-msgid "TITLE_INFO"
-msgstr "Info"
-
-# Not found
-msgid "MAIL_NOT_FOUND"
-msgstr "Acest mesaj nu a fost gasit."
+# this must be a max of 6 characters
+msgid "UNAUTHED_READ"
+msgstr "Cititi.."

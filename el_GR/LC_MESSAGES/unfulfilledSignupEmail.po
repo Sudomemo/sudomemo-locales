@@ -9,14 +9,14 @@ msgstr "Επιβεβαιωση Εγκαταστασης Χρηστη στο Sudo
 msgid "SIGNUP_HEADER"
 msgstr "Επιβεβαιωση Εγκαταστασης Χρηστη στο Sudomemo"
 
-msgid "TEXT_HELLO"
-msgstr "Γεια!"
-
 msgid "TEXT_EMAIL_PURPOSE"
 msgstr "Αυτο το  email επιβεβαιωνει την εγγραφη σας στο Sudomemo."
 
-msgid "TEXT_VERIFICATION_LINK_FORMAT"
-msgstr "Πατηστε <a target=\"_blank\" href=\"%s\">εδω</a> για να συνεχισετε!"
+msgid "TEXT_HELLO"
+msgstr "Γεια!"
 
 msgid "TEXT_URL_PLAIN_DISPLAY"
 msgstr "Μπορειτε επισης να αντιγραψετε-επικολλησετε αυτο το URL σε νεο παραθυρο:"
+
+msgid "TEXT_VERIFICATION_LINK_FORMAT"
+msgstr "Πατηστε <a target=\"_blank\" href=\"%s\">εδω</a> για να συνεχισετε!"

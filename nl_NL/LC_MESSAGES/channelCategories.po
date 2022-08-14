@@ -3,29 +3,29 @@ msgstr ""
 "Language: nl_NL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "UPPERTITLE"
-msgstr "Categorieën"
-
 msgid "ART"
 msgstr "Kunst"
-
-msgid "GENRES"
-msgstr "Genres"
-
-msgid "TOPICS"
-msgstr "Onderwerpen"
-
-msgid "ROLEPLAYS"
-msgstr "Roleplays"
 
 msgid "FANDOMS"
 msgstr "Fandoms"
 
-msgid "RESOURCES"
-msgstr "Hulpmiddelen"
+msgid "GENRES"
+msgstr "Genres"
 
 msgid "PERSONAL"
 msgstr "Persoonlijk"
+
+msgid "RESOURCES"
+msgstr "Hulpmiddelen"
+
+msgid "ROLEPLAYS"
+msgstr "Roleplays"
+
+msgid "TOPICS"
+msgstr "Onderwerpen"
+
+msgid "UPPERTITLE"
+msgstr "Categorieën"
 
 msgid "WEEKLY_TOPICS"
 msgstr "Wekelijkse Onderwerpen"

@@ -3,95 +3,101 @@ msgstr ""
 "Language: ro_RO\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "TIMESTAMP_FORMAT"
-msgstr "M d, Y H:i:s"
-
-msgid "FLIPNOTE_TITLE_FORMAT"
-msgstr "Flipnote de %s"
-
-msgid "HEADER_DETAILS"
-msgstr "Detalii"
-
-msgid "HEADER_COMMENTS"
-msgstr "Comentarii"
-
-msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
-msgstr "Acest Flipnote este un spin-off."
-
-msgid "HEADER_ORIGINAL_FLIPNOTE"
-msgstr "Vedeti Flipnote-ul sursa aici"
-
-msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
-msgstr "Pentru a preveni cersirea de stele, stelele galbene sunt limitate la zece stele per Flipnote."
-
-msgid "HEADER_CREATOR"
-msgstr "Creator"
-
-msgid "HEADER_STARS"
-msgstr "Stele"
-
-msgid "HEADER_VIEWS"
-msgstr "Vizualizari"
-
-msgid "HEADER_SPINOFFS"
-msgstr "Spin-off-uri"
-
-msgid "HEADER_DOWNLOADS"
-msgstr "Descarcari"
-
-msgid "HEADER_TITLE"
-msgstr "Titlu"
-
-msgid "HEADER_POSTED"
-msgstr "Postat"
-
-msgid "HEADER_FLIPNOTE_ID"
-msgstr "ID Flipnote"
-
-msgid "HEADER_CHANNEL"
-msgstr "Canal"
-
-msgid "HEADER_OPTIONS"
-msgstr "Optiuni"
-
-msgid "HEADER_SET_AS_PROFILE_PICTURE"
-msgstr "Setati ca Poza de Profil"
-
-msgid "HEADER_REPORT_FLIPNOTE"
-msgstr "Raportati Flipnote"
-
-msgid "ADMIN_ACTIONS"
-msgstr "Actiuni admin"
-
-msgid "PREV"
-msgstr "Ante."
-
-msgid "NEXT"
-msgstr "Urm."
-
-msgid "STAR_DETAILS_UPPERTITLE"
-msgstr "★ Stele ★"
-
-msgid "SET_TITLE"
-msgstr "Setati Titlu"
-
-msgid "SET_TITLE_INSTRUCTIONS"
-msgstr "Introduceti noul titlu pentru Flipnote-ul dvs. mai jos."
+msgid "101_CHARACTER_LIMIT_DESC"
+msgstr "Descrierea dvs. este limitata la 101 caractere."
 
 msgid "40_CHARACTER_LIMIT"
 msgstr "Titlul dvs. este limitat la 40 de caractere."
 
-msgid "LEAVE_BLANK_TO_RESET"
-msgstr "Pentru a reseta titlul la implicit, lasati formularul gol."
+msgid "ADMIN_ACTIONS"
+msgstr "Actiuni admin"
+
+msgid "ENTER_DESCRIPTION"
+msgstr "Introduceti Descriere..."
 
 msgid "ENTER_TITLE"
 msgstr "Introduceti titlu..."
 
+msgid "FLIPNOTE_TITLE_FORMAT"
+msgstr "Flipnote de %s"
+
 msgid "HEADER_ADD_DESCRIPTION"
 msgstr "Adaugati Descriere"
 
+msgid "HEADER_CHANNEL"
+msgstr "Canal"
+
+msgid "HEADER_COMMENTS"
+msgstr "Comentarii"
+
+msgid "HEADER_CREATOR"
+msgstr "Creator"
+
 msgid "HEADER_DESCRIPTION"
 msgstr "Descriere"
+
+msgid "HEADER_DETAILS"
+msgstr "Detalii"
+
+msgid "HEADER_DOWNLOADS"
+msgstr "Descarcari"
+
+msgid "HEADER_FLIPNOTE_ID"
+msgstr "ID Flipnote"
+
+msgid "HEADER_FLIPNOTE_OPTIONS"
+msgstr "Optiuni"
+
+msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
+msgstr "Pentru a preveni cersirea de stele, stelele galbene sunt limitate la zece stele per Flipnote."
+
+msgid "HEADER_OPTIONS"
+msgstr "Optiuni"
+
+msgid "HEADER_ORIGINAL_FLIPNOTE"
+msgstr "Vedeti Flipnote-ul sursa aici"
+
+msgid "HEADER_POSTED"
+msgstr "Postat"
+
+msgid "HEADER_REPORT_FLIPNOTE"
+msgstr "Raportati Flipnote"
+
+msgid "HEADER_SET_AS_PROFILE_PICTURE"
+msgstr "Setati ca Poza de Profil"
+
+msgid "HEADER_SONG"
+msgstr "Cantec"
+
+msgid "HEADER_SPINOFFS"
+msgstr "Spin-off-uri"
+
+msgid "HEADER_STARS"
+msgstr "Stele"
+
+msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
+msgstr "Acest Flipnote este un spin-off."
+
+msgid "HEADER_TITLE"
+msgstr "Titlu"
+
+msgid "HEADER_UPLOAD_TO_YOUTUBE"
+msgstr "Incarcati pe YouTube"
+
+msgid "HEADER_VIEWS"
+msgstr "Vizualizari"
+
+msgid "LEAVE_BLANK_TO_RESET"
+msgstr "Pentru a reseta titlul la implicit, lasati formularul gol."
+
+msgid "LEAVE_BLANK_TO_RESET_DESC"
+msgstr "Pentru a sterge descrierea, lasati formularul gol cand il trimiteti."
+
+msgid "NEXT"
+msgstr "Urm."
+
+msgid "PREV"
+msgstr "Ante."
 
 msgid "SET_DESCRIPTION"
 msgstr "Setati Descriere"
@@ -99,24 +105,18 @@ msgstr "Setati Descriere"
 msgid "SET_DESCRIPTION_INSTRUCTIONS"
 msgstr "Introduceti noua descriere pentru Flipnote-ul dvs. mai jos."
 
-msgid "101_CHARACTER_LIMIT_DESC"
-msgstr "Descrierea dvs. este limitata la 101 caractere."
+msgid "SET_TITLE"
+msgstr "Setati Titlu"
 
-msgid "LEAVE_BLANK_TO_RESET_DESC"
-msgstr "Pentru a sterge descrierea, lasati formularul gol cand il trimiteti."
+msgid "SET_TITLE_INSTRUCTIONS"
+msgstr "Introduceti noul titlu pentru Flipnote-ul dvs. mai jos."
 
-msgid "ENTER_DESCRIPTION"
-msgstr "Introduceti Descriere..."
+msgid "STAR_DETAILS_UPPERTITLE"
+msgstr "★ Stele ★"
 
-msgid "HEADER_FLIPNOTE_OPTIONS"
-msgstr "Optiuni"
-
-msgid "HEADER_SONG"
-msgstr "Cantec"
+msgid "TIMESTAMP_FORMAT"
+msgstr "M d, Y H:i:s"
 
 # This is shown to logged-in users on their own Flipnotes without titles
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote fara titlu dupa %s"
-
-msgid "HEADER_UPLOAD_TO_YOUTUBE"
-msgstr "Incarcati pe YouTube"

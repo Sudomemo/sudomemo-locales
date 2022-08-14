@@ -3,38 +3,8 @@ msgstr ""
 "Language: it_IT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-# Content Removed - sent to user when a piece of their content has been moderated away
-msgid "NOTICE"
-msgstr "Avviso"
-
-# # Intro
-msgid "USER_CONTENT_REMOVED"
-msgstr "Un contenuto che hai postato riscontra una violazione alla Policy sul Contenuto e ai Termini di Utilizzo di Sudomemo, quindi è stato rimosso."
-
-# # Content types
-msgid "CONTENT_TYPE_flipnote"
-msgstr "Flipnote"
-
-msgid "CONTENT_TYPE_comment"
-msgstr "Commento"
-
-msgid "CONTENT_TYPE_chat_message"
-msgstr "Messaggio chat"
-
-# ## We plan on adding user-created themes.
-msgid "CONTENT_TYPE_room_theme"
-msgstr "Tema Stanza Creatore"
-
-msgid "CONTENT_TYPE_profile_bio"
-msgstr "Biografia Profilo"
-
-# ## Catch-all
-msgid "CONTENT_TYPE_content"
-msgstr "Altro contenuto"
-
-# # continued message...
-msgid "REMOVAL_REASON_HEADER"
-msgstr "Questo contenuto è stato rimosso a causa di uno più dei seguenti motivi:"
+msgid "CONTENT_ID"
+msgstr "ID contenuto:"
 
 msgid "CONTENT_POLICY_REVIEW_INTRO"
 msgstr "Comprendiamo che quando le regole sul contenuto incontrano l'espressione artistica, il contesto e la presentazione devono essere presi in considerazione."
@@ -42,14 +12,36 @@ msgstr "Comprendiamo che quando le regole sul contenuto incontrano l'espressione
 msgid "CONTENT_POLICY_REVIEW_LINK"
 msgstr "Vorremmo invitarti a rivedere la nostra Policy sul Contenuto qui:"
 
-msgid "HOW_TO_APPEAL"
-msgstr "Se credi che ci sia stato un errore, informati su come fare ricorso su:"
-
 msgid "CONTENT_TYPE"
 msgstr "Tipo del contenuto:"
 
-msgid "CONTENT_ID"
-msgstr "ID contenuto:"
+msgid "CONTENT_TYPE_chat_message"
+msgstr "Messaggio chat"
+
+msgid "CONTENT_TYPE_comment"
+msgstr "Commento"
+
+# ## Catch-all
+msgid "CONTENT_TYPE_content"
+msgstr "Altro contenuto"
+
+# # Content types
+msgid "CONTENT_TYPE_flipnote"
+msgstr "Flipnote"
+
+msgid "CONTENT_TYPE_profile_bio"
+msgstr "Biografia Profilo"
+
+# ## We plan on adding user-created themes.
+msgid "CONTENT_TYPE_room_theme"
+msgstr "Tema Stanza Creatore"
+
+msgid "HOW_TO_APPEAL"
+msgstr "Se credi che ci sia stato un errore, informati su come fare ricorso su:"
+
+# Content Removed - sent to user when a piece of their content has been moderated away
+msgid "NOTICE"
+msgstr "Avviso"
 
 # # re-download will be made available for certain content types
 msgid "REDOWNLOAD_HEADER"
@@ -57,3 +49,11 @@ msgstr "Se vuoi rivedere il tuo %s, scaricalo %s"
 
 msgid "REDOWNLOAD_LINK"
 msgstr "qui"
+
+# # continued message...
+msgid "REMOVAL_REASON_HEADER"
+msgstr "Questo contenuto è stato rimosso a causa di uno più dei seguenti motivi:"
+
+# # Intro
+msgid "USER_CONTENT_REMOVED"
+msgstr "Un contenuto che hai postato riscontra una violazione alla Policy sul Contenuto e ai Termini di Utilizzo di Sudomemo, quindi è stato rimosso."

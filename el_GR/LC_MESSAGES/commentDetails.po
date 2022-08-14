@@ -3,38 +3,47 @@ msgstr ""
 "Language: el_GR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "COMMENT_DETAILS"
-msgstr "Λεπτομεριες Σχολιου"
-
-msgid "MESSAGE_DETAILS"
-msgstr "Λεπτομεριες μηνυματος"
-
 msgid "AUTHOR"
 msgstr "Συγγραφεας"
-
-msgid "COMMENT_BY_FORMAT"
-msgstr "Σχολιο απο %s"
-
-msgid "CHAT_MESSAGE_FROM_FORMAT"
-msgstr "Μηνυμα τσατ απο %s"
-
-msgid "MESSAGE_FROM_FORMAT"
-msgstr "Μηνυμα απο %s"
-
-msgid "FLIPNOTE_BY_FORMAT"
-msgstr "Flipnote του χρηστη %s"
-
-msgid "COMMENT_ID"
-msgstr "ID Σχολιου"
-
-msgid "MESSAGE_ID"
-msgstr "ID Μηνυματος"
 
 msgid "CHAT_COMMENT_ID"
 msgstr "ID Μηνυματος Τσατ"
 
-msgid "TIMESTAMP"
-msgstr "Σημανση Χρονου"
+msgid "CHAT_MESSAGE_FROM_FORMAT"
+msgstr "Μηνυμα τσατ απο %s"
+
+msgid "COMMENT_BY_FORMAT"
+msgstr "Σχολιο απο %s"
+
+msgid "COMMENT_DETAILS"
+msgstr "Λεπτομεριες Σχολιου"
+
+msgid "COMMENT_HIDDEN_MODERATOR"
+msgstr "Σχολιο κρυμμενο απο συντονιστη"
+
+msgid "COMMENT_HIDDEN_RECIPIENT"
+msgstr "Σχολιο κρυμμενο απο συντακτη του Flipnote"
+
+msgid "COMMENT_HIDDEN_SELF"
+msgstr "Σχολιο κρυμμενο απο συντακτη"
+
+msgid "COMMENT_HIDDEN_UNKNOWN"
+msgstr "Σχολιο κρυμμενο μετα απο αιτημα"
+
+msgid "COMMENT_ID"
+msgstr "ID Σχολιου"
+
+msgid "FLIPNOTE_BY_FORMAT"
+msgstr "Flipnote του χρηστη %s"
+
+msgid "MESSAGE_DETAILS"
+msgstr "Λεπτομεριες μηνυματος"
+
+msgid "MESSAGE_FROM_FORMAT"
+msgstr "Μηνυμα απο %s"
+
+msgid "MESSAGE_ID"
+msgstr "ID Μηνυματος"
 
 msgid "POSTED_TO"
 msgstr "Δημοσιευμενο στο"
@@ -45,14 +54,5 @@ msgstr "Ιδιωτικη Συνομιλια"
 msgid "REPORT_CONTENT"
 msgstr "Αναφορα Περιεχομενου"
 
-msgid "COMMENT_HIDDEN_UNKNOWN"
-msgstr "Σχολιο κρυμμενο μετα απο αιτημα"
-
-msgid "COMMENT_HIDDEN_SELF"
-msgstr "Σχολιο κρυμμενο απο συντακτη"
-
-msgid "COMMENT_HIDDEN_RECIPIENT"
-msgstr "Σχολιο κρυμμενο απο συντακτη του Flipnote"
-
-msgid "COMMENT_HIDDEN_MODERATOR"
-msgstr "Σχολιο κρυμμενο απο συντονιστη"
+msgid "TIMESTAMP"
+msgstr "Σημανση Χρονου"

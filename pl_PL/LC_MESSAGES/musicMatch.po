@@ -3,43 +3,43 @@ msgstr ""
 "Language: pl_PL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "HEADER_SONG_DETAILS"
-msgstr "Informacje o utworze"
-
-# Song Name
-msgid "TITLE"
-msgstr "Tytuł"
-
 # Song Band/Artist
 msgid "ARTIST"
 msgstr "Artysta"
 
-# Year song was published
-msgid "RELEASE_YEAR"
-msgstr "Wydany w"
-
-msgid "GENRE"
-msgstr "Gatunek"
+msgid "BROWSE"
+msgstr "Przeglądaj"
 
 # How many Flipnotes are using this song?
 msgid "FLIPNOTE_COUNT"
 msgstr "Flipnotes"
 
-msgid "BROWSE"
-msgstr "Przeglądaj"
+msgid "GENRE"
+msgstr "Gatunek"
 
-msgid "SONG_ID"
-msgstr "ID utworu"
-
-msgid "LINK_YOUTUBE_SPOTIFY"
-msgstr "Linki YouTube i Spotify są dostępne:"
-
-msgid "LINK_YOUTUBE"
-msgstr "Dostępny jest link na YouTube:"
-
-msgid "LINK_SPOTIFY"
-msgstr "Dostępny jest link na Spotify:"
+msgid "HEADER_SONG_DETAILS"
+msgstr "Informacje o utworze"
 
 # Creator instructions
 msgid "IF_SONG_INCORRECT"
 msgstr "Jeżeli na twoim Flipnote wyświetlana jest niepoprawna piosenka, możesz zaktualizować ją na Sudomemo Theatre. Żeby dowiedzieć się więcej, sprawdź: https://flipnot.es/musicmatch"
+
+msgid "LINK_SPOTIFY"
+msgstr "Dostępny jest link na Spotify:"
+
+msgid "LINK_YOUTUBE"
+msgstr "Dostępny jest link na YouTube:"
+
+msgid "LINK_YOUTUBE_SPOTIFY"
+msgstr "Linki YouTube i Spotify są dostępne:"
+
+# Year song was published
+msgid "RELEASE_YEAR"
+msgstr "Wydany w"
+
+msgid "SONG_ID"
+msgstr "ID utworu"
+
+# Song Name
+msgid "TITLE"
+msgstr "Tytuł"

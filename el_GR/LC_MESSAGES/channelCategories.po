@@ -3,29 +3,29 @@ msgstr ""
 "Language: el_GR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "UPPERTITLE"
-msgstr "Κατηγοριεs"
-
 msgid "ART"
 msgstr "Τεχνη"
-
-msgid "GENRES"
-msgstr "Ειδη"
-
-msgid "TOPICS"
-msgstr "Θεματα"
-
-msgid "ROLEPLAYS"
-msgstr "Roleplays"
 
 msgid "FANDOMS"
 msgstr "Fandoms"
 
-msgid "RESOURCES"
-msgstr "Πηγες"
+msgid "GENRES"
+msgstr "Ειδη"
 
 msgid "PERSONAL"
 msgstr "Προσωπικα"
+
+msgid "RESOURCES"
+msgstr "Πηγες"
+
+msgid "ROLEPLAYS"
+msgstr "Roleplays"
+
+msgid "TOPICS"
+msgstr "Θεματα"
+
+msgid "UPPERTITLE"
+msgstr "Κατηγοριεs"
 
 msgid "WEEKLY_TOPICS"
 msgstr "Εβδομαδιαια Θεματα"

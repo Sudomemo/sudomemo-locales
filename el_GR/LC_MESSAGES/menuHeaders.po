@@ -3,49 +3,32 @@ msgstr ""
 "Language: el_GR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "GET_STARTED"
-msgstr "Ksekinhste"
-
-msgid "WATCH_FLIPNOTES"
-msgstr "Ola ta Flipnotes"
-
-msgid "CHANNELS"
-msgstr "Kanalia"
+msgid "ABOUT_SUDOMEMO"
+msgstr "Sxetika me to Sudomemo"
 
 msgid "CATEGORIES"
 msgstr "Kathgories"
 
-msgid "FEATURED"
-msgstr "Proballomena"
-
-msgid "HOT_FLIPNOTES"
-msgstr "Kauta Flipnotes"
-
-msgid "ABOUT_SUDOMEMO"
-msgstr "Sxetika me to Sudomemo"
-
-msgid "CREATORS_ROOM"
-msgstr "Dwmatio Xrhsth"
-
-msgid "NEWS"
-msgstr "Nea tou Sudomemo"
+msgid "CHANNELS"
+msgstr "Kanalia"
 
 msgid "CHATROOMS"
 msgstr "Dwmatia Chat"
 
-msgid "SEARCH"
-msgstr "Anazhthsh"
+msgid "CREATORS_ROOM"
+msgstr "Dwmatio Xrhsth"
 
-msgid "SEARCH_USER"
-msgstr "Anazhthsh Xrhsth"
+msgid "FEATURED"
+msgstr "Proballomena"
 
-msgid "SEARCH_FLIPNOTE"
-msgstr "Anazhthsh Flipnote"
+msgid "GET_STARTED"
+msgstr "Ksekinhste"
 
-# msgid "ABOUT_SUDOMEMO"
-# msgstr "Βοηθεια Sudomemo"
-msgid "RELOAD_USER"
-msgstr "Epanafortwsh Xrhsth"
+msgid "HELP"
+msgstr "Bohtheia"
+
+msgid "HOT_FLIPNOTES"
+msgstr "Kauta Flipnotes"
 
 msgid "LOGIN"
 msgstr "Syndesh"
@@ -53,17 +36,34 @@ msgstr "Syndesh"
 msgid "LOGOUT"
 msgstr "Aposyndesh"
 
+msgid "MAIL"
+msgstr "Mail"
+
+msgid "NEWS"
+msgstr "Nea tou Sudomemo"
+
 msgid "REGISTER"
 msgstr "Egkatastash"
 
-msgid "THEME_SHOP"
-msgstr "Μαγαζι  Θεματων"
+# msgid "ABOUT_SUDOMEMO"
+# msgstr "Βοηθεια Sudomemo"
+msgid "RELOAD_USER"
+msgstr "Epanafortwsh Xrhsth"
 
-msgid "MAIL"
-msgstr "Mail"
+msgid "SEARCH"
+msgstr "Anazhthsh"
+
+msgid "SEARCH_FLIPNOTE"
+msgstr "Anazhthsh Flipnote"
+
+msgid "SEARCH_USER"
+msgstr "Anazhthsh Xrhsth"
 
 msgid "TEST_TRANSLATION"
 msgstr "Ellhnikh Metafrash"
 
-msgid "HELP"
-msgstr "Bohtheia"
+msgid "THEME_SHOP"
+msgstr "Μαγαζι  Θεματων"
+
+msgid "WATCH_FLIPNOTES"
+msgstr "Ola ta Flipnotes"

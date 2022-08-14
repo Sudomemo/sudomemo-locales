@@ -3,59 +3,8 @@ msgstr ""
 "Language: it_IT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "SEE_MORE"
-msgstr "Vedi altro..."
-
-msgid "STARRED_FLIPNOTES"
-msgstr "Stelle lasciate"
-
-msgid "FAVORITE_USERS"
-msgstr "Utenti preferiti"
-
-msgid "FAVORITES_FEED"
-msgstr "Feed preferiti"
-
-msgid "FAVORITE_CHANNELS"
-msgstr "Canali preferiti"
-
-msgid "USER_DOWNLOADCOUNT"
-msgstr "Downloads"
-
-msgid "USER_VIEWCOUNT"
-msgstr "Visualizzazioni"
-
-msgid "USER_THEME"
-msgstr "Tema"
-
-msgid "THEME_SHOP"
-msgstr "Negozio di Temi"
-
-msgid "POSTED_COMMENTS"
-msgstr "Commenti postati"
-
-msgid "POSTED_CHATCOMMENTS"
-msgstr "Messaggi nelle Chatrooms"
-
-msgid "FEATURE_USABILITY"
-msgstr "Usabilità delle funzioni"
-
-msgid "USABLE"
-msgstr "Utilizzabile"
-
-msgid "NOT_USABLE"
-msgstr "Non Utilizzabile"
-
-msgid "SUDOMEMO_THEATRE_URL"
-msgstr "Link Sudomemo Theatre"
-
-msgid "FLIPNOTE_STUDIO_ID"
-msgstr "ID Flipnote Studio"
-
-msgid "SETTINGS"
-msgstr "Impostazioni"
-
-msgid "ADMIN_ACCT_GOOD_STANDING"
-msgstr "Buona reputazione"
+msgid "101_CHARACTER_LIMIT_BIO"
+msgstr "La tua biografia è limitata a 101 caratteri."
 
 msgid "ADMIN_ACCT_BANNED"
 msgstr "Bannato"
@@ -63,20 +12,26 @@ msgstr "Bannato"
 msgid "ADMIN_ACCT_BLOCKED"
 msgstr "Bloccato"
 
+msgid "ADMIN_ACCT_GOOD_STANDING"
+msgstr "Buona reputazione"
+
 msgid "ADMIN_ACCT_MUTED"
 msgstr "Silenziato"
 
-msgid "ADMIN_USER_DETAILS"
-msgstr "Dettagli dell'utente"
+msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
+msgstr "Azioni amministratore"
 
 msgid "ADMIN_LAST_SEEN"
 msgstr "Ultima volta online"
 
+msgid "ADMIN_USER_DETAILS"
+msgstr "Dettagli dell'utente"
+
 msgid "ADMIN_USER_STATUS"
 msgstr "Stato utente"
 
-msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
-msgstr "Azioni amministratore"
+msgid "BLOCKED_USERS"
+msgstr "Utenti bloccati"
 
 msgid "BLOCK_COMMENTS_HEADER"
 msgstr "Blocca commenti"
@@ -84,11 +39,53 @@ msgstr "Blocca commenti"
 msgid "BLOCK_COMMENTS_LINK"
 msgstr "Blocca"
 
-msgid "USABILITY_USABLE"
-msgstr "Utilizzabile"
+msgid "CAN_DRAW_TICKET_SUBTEXT"
+msgstr "Puoi generare un ticket regolare! Potresti vincere un premio."
 
-msgid "USABILITY_NOT_USABLE"
-msgstr "Non Utilizzabile"
+msgid "CHANGE_ROOM_THEME_LINK"
+msgstr "[cambia tema]"
+
+msgid "CREATORS_ROOM"
+msgstr "Stanza Creatore"
+
+msgid "CURRENT_BIO"
+msgstr "Biografia attuale:"
+
+msgid "DRAW_REGULAR_TICKET"
+msgstr "Genera Ticket"
+
+msgid "ENTER_BIO"
+msgstr "Inserisci Bio..."
+
+msgid "EXAMPLE"
+msgstr "Esempio"
+
+msgid "FANS"
+msgstr "Fan"
+
+msgid "FAN_COUNT_FORMAT"
+msgstr "Fan: %s"
+
+msgid "FAVORITES_FEED"
+msgstr "Feed preferiti"
+
+msgid "FAVORITE_CHANNELS"
+msgstr "Canali preferiti"
+
+msgid "FAVORITE_USERS"
+msgstr "Utenti preferiti"
+
+msgid "FEATURE_USABILITY"
+msgstr "Usabilità delle funzioni"
+
+msgid "FLIPNOTE_STUDIO_ID"
+msgstr "ID Flipnote Studio"
+
+msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
+msgstr "Non puoi seguire più di %d utenti."
+
+msgid "HEADER_EDIT_BIOGRAPHY"
+msgstr "Modifica biografia"
 
 msgid "HEADER_FOLLOWERS"
 msgstr "Follower"
@@ -96,122 +93,29 @@ msgstr "Follower"
 msgid "HEADER_FOLLOWING"
 msgstr "Seguiti"
 
-msgid "PREVIOUS"
-msgstr "Precedente"
-
-msgid "NEXT"
-msgstr "Successivo"
-
-msgid "CHANGE_ROOM_THEME_LINK"
-msgstr "[cambia tema]"
-
-msgid "SELECT_THEME"
-msgstr "Seleziona Tema"
-
-msgid "FANS"
-msgstr "Fan"
-
-msgid "EXAMPLE"
-msgstr "Esempio"
-
-msgid "THEMETEST_SET_THEME"
-msgstr "Imposta Tema"
-
-msgid "THEMETEST_NOTICE"
-msgstr "Avviso"
-
-msgid "THEMETEST_OK"
-msgstr "Okay"
-
-msgid "THEMETEST_ERROR"
-msgstr "Errore"
-
-msgid "THEMETEST_NOTICE_2"
-msgstr "Avviso #2"
-
-msgid "THEMETEST_ACTIVE_TAB"
-msgstr "Scheda attiva"
-
-msgid "THEMETEST_INACTIVE_TAB"
-msgstr "Scheda inattiva"
-
-msgid "PREVIEW"
-msgstr "Anteprima"
-
-msgid "CREATORS_ROOM"
-msgstr "Stanza Creatore"
-
-msgid "THEME_ERROR_THEME_NOT_OWNED"
-msgstr "Mi dispiace! Non possiedi questo tema."
-
-msgid "THEME_SUCCESSFULLY_SET"
-msgstr "Tema impostato con successo!"
-
-msgid "BLOCKED_USERS"
-msgstr "Utenti bloccati"
-
-msgid "VIEW"
-msgstr "Vista"
-
-msgid "FAN_COUNT_FORMAT"
-msgstr "Fan: %s"
-
 msgid "HEADER_LANGUAGE"
 msgstr "Lingua"
 
 msgid "HEADER_MAIL_SETTINGS"
 msgstr "Impostazioni Mail"
 
-msgid "HEADER_EDIT_BIOGRAPHY"
-msgstr "Modifica biografia"
-
-msgid "SET_BIO_INSTRUCTIONS"
-msgstr "Inserisci qui sotto la biografia del tuo profilo. Sarà visualizzata su Sudomemo e su Sudomemo Theatre."
-
-msgid "ENTER_BIO"
-msgstr "Inserisci Bio..."
-
-msgid "101_CHARACTER_LIMIT_BIO"
-msgstr "La tua biografia è limitata a 101 caratteri."
-
-msgid "LEAVE_BLANK_TO_RESET_BIO"
-msgstr "Per cancellare la biografia, lascia il form vuoto."
-
-msgid "CURRENT_BIO"
-msgstr "Biografia attuale:"
-
-msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
-msgstr "Non puoi seguire più di %d utenti."
-
-msgid "RANKING"
-msgstr "Posizione"
-
-msgid "TICKET_SECTION"
-msgstr "Tickets"
-
-msgid "DRAW_REGULAR_TICKET"
-msgstr "Genera Ticket"
-
-msgid "CAN_DRAW_TICKET_SUBTEXT"
-msgstr "Puoi generare un ticket regolare! Potresti vincere un premio."
+msgid "HEADER_SUPPORT_TOKEN"
+msgstr "Support Token"
 
 msgid "INVENTORY"
 msgstr "Inventario"
 
-msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
-msgstr "Puoi generare un altro ticket tra: %s ora(e) %s minuto(i)."
-
-msgid "REDEEM"
-msgstr "Riscatta"
-
-msgid "SPENDABLE_STARS"
-msgstr "Le tue stelle"
-
-msgid "SPENDABLE_STARS_HELPTEXT"
-msgstr "Stelle da aggiungere ai Flipnote o da usare per i temi"
+msgid "LEAVE_BLANK_TO_RESET_BIO"
+msgstr "Per cancellare la biografia, lascia il form vuoto."
 
 msgid "LOGIN_REQUIRED_ACTION"
 msgstr "Devi effettuare l'accesso per compiere l'azione."
+
+msgid "NEXT"
+msgstr "Successivo"
+
+msgid "NOT_USABLE"
+msgstr "Non Utilizzabile"
 
 msgid "PAGE"
 msgstr "Pagina"
@@ -219,8 +123,107 @@ msgstr "Pagina"
 msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d di %d"
 
-msgid "HEADER_SUPPORT_TOKEN"
-msgstr "Support Token"
+msgid "POSTED_CHATCOMMENTS"
+msgstr "Messaggi nelle Chatrooms"
+
+msgid "POSTED_COMMENTS"
+msgstr "Commenti postati"
+
+msgid "PREVIEW"
+msgstr "Anteprima"
+
+msgid "PREVIOUS"
+msgstr "Precedente"
+
+msgid "RANKING"
+msgstr "Posizione"
+
+msgid "REDEEM"
+msgstr "Riscatta"
 
 msgid "REQUEST"
 msgstr "Request"
+
+msgid "SEE_MORE"
+msgstr "Vedi altro..."
+
+msgid "SELECT_THEME"
+msgstr "Seleziona Tema"
+
+msgid "SETTINGS"
+msgstr "Impostazioni"
+
+msgid "SET_BIO_INSTRUCTIONS"
+msgstr "Inserisci qui sotto la biografia del tuo profilo. Sarà visualizzata su Sudomemo e su Sudomemo Theatre."
+
+msgid "SPENDABLE_STARS"
+msgstr "Le tue stelle"
+
+msgid "SPENDABLE_STARS_HELPTEXT"
+msgstr "Stelle da aggiungere ai Flipnote o da usare per i temi"
+
+msgid "STARRED_FLIPNOTES"
+msgstr "Stelle lasciate"
+
+msgid "SUDOMEMO_THEATRE_URL"
+msgstr "Link Sudomemo Theatre"
+
+msgid "THEMETEST_ACTIVE_TAB"
+msgstr "Scheda attiva"
+
+msgid "THEMETEST_ERROR"
+msgstr "Errore"
+
+msgid "THEMETEST_INACTIVE_TAB"
+msgstr "Scheda inattiva"
+
+msgid "THEMETEST_NOTICE"
+msgstr "Avviso"
+
+msgid "THEMETEST_NOTICE_2"
+msgstr "Avviso #2"
+
+msgid "THEMETEST_OK"
+msgstr "Okay"
+
+msgid "THEMETEST_SET_THEME"
+msgstr "Imposta Tema"
+
+msgid "THEME_ERROR_THEME_NOT_OWNED"
+msgstr "Mi dispiace! Non possiedi questo tema."
+
+msgid "THEME_SHOP"
+msgstr "Negozio di Temi"
+
+msgid "THEME_SUCCESSFULLY_SET"
+msgstr "Tema impostato con successo!"
+
+msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
+msgstr "Puoi generare un altro ticket tra: %s ora(e) %s minuto(i)."
+
+msgid "TICKET_SECTION"
+msgstr "Tickets"
+
+msgid "USABILITY_NOT_USABLE"
+msgstr "Non Utilizzabile"
+
+msgid "USABILITY_USABLE"
+msgstr "Utilizzabile"
+
+msgid "USABLE"
+msgstr "Utilizzabile"
+
+msgid "USER_DOWNLOADCOUNT"
+msgstr "Downloads"
+
+msgid "USER_THEME"
+msgstr "Tema"
+
+msgid "USER_VIEWCOUNT"
+msgstr "Visualizzazioni"
+
+msgid "VIEW"
+msgstr "Vista"
+
+msgid "WATCH_HISTORY"
+msgstr "Watch History"

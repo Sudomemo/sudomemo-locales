@@ -9,11 +9,11 @@ msgstr "Nu sunteti conectat in Sudomemo - apsati %s pentru a continua!"
 msgid "NOT_LOGGED_IN_NOTICE_LINK_TEXT"
 msgstr "aici"
 
-msgid "YOU_HAVE_NEW_NOTIFICATIONS"
-msgstr "Aveti notificari noi"
-
 msgid "NOT_REGISTERED_NOTICE"
 msgstr "Va distrati? Atingeti pentru a afla ce puteti face pe Sudomemo %s!"
 
 msgid "NOT_REGISTERED_NOTICE_LINK_TEXT"
 msgstr "aici"
+
+msgid "YOU_HAVE_NEW_NOTIFICATIONS"
+msgstr "Aveti notificari noi"

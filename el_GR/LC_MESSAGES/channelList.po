@@ -3,23 +3,23 @@ msgstr ""
 "Language: el_GR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "UPPERTITLE"
-msgstr "Καναλια"
-
-msgid "UPPERSUBBOTTOM"
-msgstr "Παρακαλω διαλεξτε ενα καναλι!"
+msgid "FAVORITES"
+msgstr "Αγαπημενα"
 
 msgid "NEXT"
 msgstr "Επομενη Σελιδα"
-
-msgid "PREV"
-msgstr "Προηγουμενη Σελιδα"
-
-msgid "FAVORITES"
-msgstr "Αγαπημενα"
 
 msgid "PAGE"
 msgstr "Σελιδα"
 
 msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d απο %d"
+
+msgid "PREV"
+msgstr "Προηγουμενη Σελιδα"
+
+msgid "UPPERSUBBOTTOM"
+msgstr "Παρακαλω διαλεξτε ενα καναλι!"
+
+msgid "UPPERTITLE"
+msgstr "Καναλια"

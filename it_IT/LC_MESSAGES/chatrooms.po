@@ -3,14 +3,23 @@ msgstr ""
 "Language: it_IT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "NO_COMMENTS_YET"
-msgstr "Non sono stati inviati messaggi qui."
+msgid "CHAT_REPLY_FAILED"
+msgstr "Invio della risposta fallito. Riprova tra un momento."
+
+msgid "COMMENT_FAILED_USER_BANNED"
+msgstr "Non puoi interagire con Sudomemo perchè sei stato bannato."
+
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "Per favore, conferma la tua email prima di postare."
+
+msgid "DUPLICATE_COMMENT_FAILED"
+msgstr "Questo commento è stato già postato su Sudomemo."
+
+msgid "FLIPNOTE_DATA_CORRUPTED"
+msgstr "I dati del Flipnote sono danneggiati. Riprova tra un momento."
 
 msgid "HEADER_COMMENTS"
 msgstr "Commenti"
-
-msgid "PAGE_FORMAT"
-msgstr "Pagina %d"
 
 msgid "HEADER_NEXT"
 msgstr "Successivo"
@@ -24,26 +33,17 @@ msgstr "Ricarica"
 msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
 msgstr "Devi effettuare l'accesso per inviare un messaggio in chat."
 
-msgid "CHAT_REPLY_FAILED"
-msgstr "Invio della risposta fallito. Riprova tra un momento."
+msgid "MODERATOR"
+msgstr "Moderatore"
 
 msgid "NO_BLANK_MESSAGES_ALLOWED"
 msgstr "Non puoi inviare un messaggio vuoto."
 
-msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "I dati del Flipnote sono danneggiati. Riprova tra un momento."
-
 msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
 msgstr "Sei stato silenziato. Non puoi chattare."
 
-msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "Questo commento è stato già postato su Sudomemo."
+msgid "NO_COMMENTS_YET"
+msgstr "Non sono stati inviati messaggi qui."
 
-msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "Non puoi interagire con Sudomemo perchè sei stato bannato."
-
-msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Per favore, conferma la tua email prima di postare."
-
-msgid "MODERATOR"
-msgstr "Moderatore"
+msgid "PAGE_FORMAT"
+msgstr "Pagina %d"

@@ -3,38 +3,47 @@ msgstr ""
 "Language: ro_RO\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "COMMENT_DETAILS"
-msgstr "Detalii Comentariu"
-
-msgid "MESSAGE_DETAILS"
-msgstr "Detalii Mesaj"
-
 msgid "AUTHOR"
 msgstr "Autor"
-
-msgid "COMMENT_BY_FORMAT"
-msgstr "Comentariu de %s"
-
-msgid "CHAT_MESSAGE_FROM_FORMAT"
-msgstr "Mesaj Conversatie de la %s"
-
-msgid "MESSAGE_FROM_FORMAT"
-msgstr "Mesaj de la %s"
-
-msgid "FLIPNOTE_BY_FORMAT"
-msgstr "Flipnote de %s"
-
-msgid "COMMENT_ID"
-msgstr "ID Comentariu"
-
-msgid "MESSAGE_ID"
-msgstr "ID Mesaj"
 
 msgid "CHAT_COMMENT_ID"
 msgstr "ID Comentariu Conversatie"
 
-msgid "TIMESTAMP"
-msgstr "Timestamp"
+msgid "CHAT_MESSAGE_FROM_FORMAT"
+msgstr "Mesaj Conversatie de la %s"
+
+msgid "COMMENT_BY_FORMAT"
+msgstr "Comentariu de %s"
+
+msgid "COMMENT_DETAILS"
+msgstr "Detalii Comentariu"
+
+msgid "COMMENT_HIDDEN_MODERATOR"
+msgstr "Comentariu ascuns de Moderator"
+
+msgid "COMMENT_HIDDEN_RECIPIENT"
+msgstr "Comentariu ascuns de Autorul Flipnote-ului"
+
+msgid "COMMENT_HIDDEN_SELF"
+msgstr "Comentariu ascuns de Autor"
+
+msgid "COMMENT_HIDDEN_UNKNOWN"
+msgstr "Comentariu ascuns datorita unei cereri"
+
+msgid "COMMENT_ID"
+msgstr "ID Comentariu"
+
+msgid "FLIPNOTE_BY_FORMAT"
+msgstr "Flipnote de %s"
+
+msgid "MESSAGE_DETAILS"
+msgstr "Detalii Mesaj"
+
+msgid "MESSAGE_FROM_FORMAT"
+msgstr "Mesaj de la %s"
+
+msgid "MESSAGE_ID"
+msgstr "ID Mesaj"
 
 msgid "POSTED_TO"
 msgstr "Posted catre"
@@ -45,14 +54,5 @@ msgstr "Conversatie Privata"
 msgid "REPORT_CONTENT"
 msgstr "Raportati Continut"
 
-msgid "COMMENT_HIDDEN_UNKNOWN"
-msgstr "Comentariu ascuns datorita unei cereri"
-
-msgid "COMMENT_HIDDEN_SELF"
-msgstr "Comentariu ascuns de Autor"
-
-msgid "COMMENT_HIDDEN_RECIPIENT"
-msgstr "Comentariu ascuns de Autorul Flipnote-ului"
-
-msgid "COMMENT_HIDDEN_MODERATOR"
-msgstr "Comentariu ascuns de Moderator"
+msgid "TIMESTAMP"
+msgstr "Timestamp"

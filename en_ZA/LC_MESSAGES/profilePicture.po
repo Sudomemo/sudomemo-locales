@@ -3,17 +3,20 @@ msgstr ""
 "Language: en_ZA\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "SET_PROFILE_PICTURE"
-msgstr "Set as ur pfp"
-
-msgid "PROMPT_CHANGE_YOUR_PROFILE_IMAGE"
-msgstr "Change ur profile picture?"
+msgid "CANCEL"
+msgstr "changed mind!"
 
 msgid "CONTINUE_SET_AS_PROFILE_PICTURE"
 msgstr "Confirm"
 
+msgid "CREATORS_ROOM"
+msgstr "Creator's Room"
+
 msgid "CURRENT"
 msgstr "Current"
+
+msgid "LOGIN_REQUIRED_TO_CHANGE"
+msgstr "You gotta log in to change ur pfp silly!"
 
 msgid "NEW"
 msgstr "New"
@@ -21,14 +24,11 @@ msgstr "New"
 msgid "PROFILE_PICTURE_SET"
 msgstr "omg ur new pfp wuz set!! its so beautiful!"
 
+msgid "PROMPT_CHANGE_YOUR_PROFILE_IMAGE"
+msgstr "Change ur profile picture?"
+
 msgid "RETURN_TO_FLIPNOTE"
 msgstr "Return to flipmeme"
 
-msgid "CREATORS_ROOM"
-msgstr "Creator's Room"
-
-msgid "CANCEL"
-msgstr "changed mind!"
-
-msgid "LOGIN_REQUIRED_TO_CHANGE"
-msgstr "You gotta log in to change ur pfp silly!"
+msgid "SET_PROFILE_PICTURE"
+msgstr "Set as ur pfp"

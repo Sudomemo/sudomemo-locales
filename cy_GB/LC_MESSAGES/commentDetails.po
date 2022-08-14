@@ -3,38 +3,47 @@ msgstr ""
 "Language: cy_GB\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "COMMENT_DETAILS"
-msgstr "Manylion Sylw"
-
-msgid "MESSAGE_DETAILS"
-msgstr "Manylion Neges"
-
 msgid "AUTHOR"
 msgstr "Awdur"
-
-msgid "COMMENT_BY_FORMAT"
-msgstr "Sylw gan %s"
-
-msgid "CHAT_MESSAGE_FROM_FORMAT"
-msgstr "Sgwrs Sgwrsio gan %s"
-
-msgid "MESSAGE_FROM_FORMAT"
-msgstr "Neges gan %s"
-
-msgid "FLIPNOTE_BY_FORMAT"
-msgstr "Flipnote gan %s"
-
-msgid "COMMENT_ID"
-msgstr "ID Sylw "
-
-msgid "MESSAGE_ID"
-msgstr "ID Neges"
 
 msgid "CHAT_COMMENT_ID"
 msgstr "ID Sylw Sgwrs"
 
-msgid "TIMESTAMP"
-msgstr "Timestamp"
+msgid "CHAT_MESSAGE_FROM_FORMAT"
+msgstr "Sgwrs Sgwrsio gan %s"
+
+msgid "COMMENT_BY_FORMAT"
+msgstr "Sylw gan %s"
+
+msgid "COMMENT_DETAILS"
+msgstr "Manylion Sylw"
+
+msgid "COMMENT_HIDDEN_MODERATOR"
+msgstr "Comment hidden by moderator"
+
+msgid "COMMENT_HIDDEN_RECIPIENT"
+msgstr "Comment hidden by Flipnote author"
+
+msgid "COMMENT_HIDDEN_SELF"
+msgstr "Comment hidden by author"
+
+msgid "COMMENT_HIDDEN_UNKNOWN"
+msgstr "Comment hidden due to request"
+
+msgid "COMMENT_ID"
+msgstr "ID Sylw "
+
+msgid "FLIPNOTE_BY_FORMAT"
+msgstr "Flipnote gan %s"
+
+msgid "MESSAGE_DETAILS"
+msgstr "Manylion Neges"
+
+msgid "MESSAGE_FROM_FORMAT"
+msgstr "Neges gan %s"
+
+msgid "MESSAGE_ID"
+msgstr "ID Neges"
 
 msgid "POSTED_TO"
 msgstr "Postio i"
@@ -45,14 +54,5 @@ msgstr "Sgwrs Breifat"
 msgid "REPORT_CONTENT"
 msgstr "Cynnwys yr Adroddiad"
 
-msgid "COMMENT_HIDDEN_UNKNOWN"
-msgstr "Comment hidden due to request"
-
-msgid "COMMENT_HIDDEN_SELF"
-msgstr "Comment hidden by author"
-
-msgid "COMMENT_HIDDEN_RECIPIENT"
-msgstr "Comment hidden by Flipnote author"
-
-msgid "COMMENT_HIDDEN_MODERATOR"
-msgstr "Comment hidden by moderator"
+msgid "TIMESTAMP"
+msgstr "Timestamp"

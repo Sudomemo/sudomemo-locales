@@ -3,110 +3,110 @@ msgstr ""
 "Language: sv_SE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "DISABLE"
+msgstr "Avaktivera"
+
+msgid "DISABLED"
+msgstr "Avaktiverad"
+
+msgid "DISABLE_CONFIRMATION_FORMAT"
+msgstr "Är du säker på att du vill avaktivera '%s' e-post?"
+
+msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
+msgstr "Länken du följde har gått ut."
+
+msgid "EMAIL_SETTING_DISABLED_FINISH_FORMAT"
+msgstr "Du har avaktiverat '%s' e-post."
+
+msgid "ENABLE"
+msgstr "Aktivera"
+
+msgid "ENABLED"
+msgstr "Aktiverad"
+
+msgid "HEADER_CHANGE_EMAIL_SETTINGS"
+msgstr "Ändra E-postinställningar"
+
 msgid "HEADER_MAIL_SETTINGS"
 msgstr "Mailinställningar"
 
 msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
 msgstr "Du måste vara inloggad för att ändra dina mailinställningar."
 
-msgid "MAIL_TYPE"
-msgstr "Typ"
-
 msgid "MAIL_STATUS"
 msgstr "Status"
 
-msgid "ENABLED"
-msgstr "Aktiverad"
-
-msgid "DISABLED"
-msgstr "Avaktiverad"
-
-msgid "ENABLE"
-msgstr "Aktivera"
-
-msgid "DISABLE"
-msgstr "Avaktivera"
-
-msgid "TAP_TO_ENABLE"
-msgstr "Tryck för att aktivera"
-
-msgid "TAP_TO_DISABLE"
-msgstr "Tryck för att avaktivera"
-
-msgid "TYPE_NEWS_NAME"
-msgstr "Sudomemo Nyheter"
-
-msgid "TYPE_NEWS_DESC"
-msgstr "Få ett mail när något nytt är publicerats till Sudomemo Nyheter"
-
-msgid "TYPE_PROMO_NAME"
-msgstr "Promo"
-
-msgid "TYPE_PROMO_DESC"
-msgstr "Få ett mail om nya funktioner, tips och tricks, och kommande evenemang!"
-
-msgid "TYPE_FAVE_NOTIF_NAME"
-msgstr "Lagt till i favoriter"
-
-msgid "TYPE_FAVE_NOTIF_DESC"
-msgstr "Få ett mail när bågon lägger till dig i deras favoriter"
-
-msgid "TYPE_COMMENT_NOTIF_NAME"
-msgstr "Mottagen kommentar"
-
-msgid "TYPE_COMMENT_NOTIF_DESC"
-msgstr "Få ett mail när någon kommenterar på din Flipnote"
-
-msgid "TYPE_STAR_REPORT_NAME"
-msgstr "Daglig Starrapport"
-
-msgid "TYPE_STAR_REPORT_DESC"
-msgstr "Få ett mail på slutet av dagen om vilka Stars du har mottagit."
-
-msgid "TYPE_SPINOFF_NOTIF_NAME"
-msgstr "Mottagen Spin-off"
-
-msgid "TYPE_SPINOFF_NOTIF_DESC"
-msgstr "Få ett mail när någon publicerar en spin-off av din Flipnote"
-
-msgid "TYPE_SECURITY_NOTIF_NAME"
-msgstr "Kontosäkerhet"
-
-msgid "TYPE_SECURITY_NOTIF_DESC"
-msgstr "Få ett mail när din e-postadress eller lösenord har uppdaterats"
-
-msgid "TYPE_REPORT_UPDATE_NAME"
-msgstr "Uppdatering om rapporterat innehåll"
-
-msgid "TYPE_REPORT_UPDATE_DESC"
-msgstr "Få ett mail när vi uppdaterar statusen av innehåll du har rapporterat"
-
-msgid "TYPE_UNREAD_COMMENTS_NAME"
-msgstr "Olästa Kommentarer"
-
-msgid "TYPE_UNREAD_COMMENTS_DESC"
-msgstr "Få ett mail med översikt om nya kommentarer du har nyligen mottagit"
-
-msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
-msgstr "Klicka på ett mailtyps status för att se eller uppdatera det"
-
-msgid "HEADER_CHANGE_EMAIL_SETTINGS"
-msgstr "Ändra E-postinställningar"
-
-msgid "DISABLE_CONFIRMATION_FORMAT"
-msgstr "Är du säker på att du vill avaktivera '%s' e-post?"
+msgid "MAIL_TYPE"
+msgstr "Typ"
 
 msgid "REENABLE_INSTRUCTIONS"
 msgstr "Om du vill aktivera de igen kan du göra så genom att klicka på <strong>E-postinställningar</strong> i ditt Creator's Room."
 
-msgid "EMAIL_SETTING_DISABLED_FINISH_FORMAT"
-msgstr "Du har avaktiverat '%s' e-post."
+msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
+msgstr "Klicka på ett mailtyps status för att se eller uppdatera det"
 
-msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
-msgstr "Länken du följde har gått ut."
+msgid "TAP_TO_DISABLE"
+msgstr "Tryck för att avaktivera"
+
+msgid "TAP_TO_ENABLE"
+msgstr "Tryck för att aktivera"
+
+msgid "TYPE_COMMENT_NOTIF_DESC"
+msgstr "Få ett mail när någon kommenterar på din Flipnote"
+
+msgid "TYPE_COMMENT_NOTIF_NAME"
+msgstr "Mottagen kommentar"
+
+msgid "TYPE_FAVE_NOTIF_DESC"
+msgstr "Få ett mail när bågon lägger till dig i deras favoriter"
+
+msgid "TYPE_FAVE_NOTIF_NAME"
+msgstr "Lagt till i favoriter"
+
+msgid "TYPE_NEWS_DESC"
+msgstr "Få ett mail när något nytt är publicerats till Sudomemo Nyheter"
+
+msgid "TYPE_NEWS_NAME"
+msgstr "Sudomemo Nyheter"
+
+msgid "TYPE_PROMO_DESC"
+msgstr "Få ett mail om nya funktioner, tips och tricks, och kommande evenemang!"
+
+msgid "TYPE_PROMO_NAME"
+msgstr "Promo"
+
+msgid "TYPE_REPORT_UPDATE_DESC"
+msgstr "Få ett mail när vi uppdaterar statusen av innehåll du har rapporterat"
+
+msgid "TYPE_REPORT_UPDATE_NAME"
+msgstr "Uppdatering om rapporterat innehåll"
+
+msgid "TYPE_SECURITY_NOTIF_DESC"
+msgstr "Få ett mail när din e-postadress eller lösenord har uppdaterats"
+
+msgid "TYPE_SECURITY_NOTIF_NAME"
+msgstr "Kontosäkerhet"
+
+msgid "TYPE_SERVICE_UPDATE_DESC"
+msgstr "Viktiga uppdateringar om Sudomemos status eller tillgänglighet om till ditt konto"
 
 msgid "TYPE_SERVICE_UPDATE_NAME"
 msgstr "Serviceuppdattering"
 
-msgid "TYPE_SERVICE_UPDATE_DESC"
-msgstr "Viktiga uppdateringar om Sudomemos status eller tillgänglighet om till ditt konto"
+msgid "TYPE_SPINOFF_NOTIF_DESC"
+msgstr "Få ett mail när någon publicerar en spin-off av din Flipnote"
+
+msgid "TYPE_SPINOFF_NOTIF_NAME"
+msgstr "Mottagen Spin-off"
+
+msgid "TYPE_STAR_REPORT_DESC"
+msgstr "Få ett mail på slutet av dagen om vilka Stars du har mottagit."
+
+msgid "TYPE_STAR_REPORT_NAME"
+msgstr "Daglig Starrapport"
+
+msgid "TYPE_UNREAD_COMMENTS_DESC"
+msgstr "Få ett mail med översikt om nya kommentarer du har nyligen mottagit"
+
+msgid "TYPE_UNREAD_COMMENTS_NAME"
+msgstr "Olästa Kommentarer"

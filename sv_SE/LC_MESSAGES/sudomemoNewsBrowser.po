@@ -3,8 +3,8 @@ msgstr ""
 "Language: sv_SE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "PREV"
-msgstr "Före"
+msgid "HEADER_NEWS"
+msgstr "Nyheter"
 
 msgid "NEXT"
 msgstr "Nästa"
@@ -12,5 +12,5 @@ msgstr "Nästa"
 msgid "PAGE_FORMAT"
 msgstr "Sida %d"
 
-msgid "HEADER_NEWS"
-msgstr "Nyheter"
+msgid "PREV"
+msgstr "Före"

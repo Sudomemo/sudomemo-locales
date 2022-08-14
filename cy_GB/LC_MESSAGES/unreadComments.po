@@ -3,20 +3,20 @@ msgstr ""
 "Language: cy_GB\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
-msgstr "Rhaid i chi fewngofnodi i weld y dudalen hon."
+msgid "FLIPNOTE_ID"
+msgstr "Flipnote ID"
 
 msgid "HEADER_UNREAD_COMMENTS"
 msgstr "Sylwadau heb eu darllen"
+
+msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
+msgstr "Rhaid i chi fewngofnodi i weld y dudalen hon."
 
 msgid "NO_UNREAD_COMMENTS"
 msgstr "Nid oes gennych unrhyw sylwadau heb eu darllen."
 
 msgid "TAP_ON_FLIPNOTE_ID_TO_VISIT_COMMENTS"
 msgstr "Tap ar ID Flipnote i ymweld â'r dudalen sylwadau."
-
-msgid "FLIPNOTE_ID"
-msgstr "Flipnote ID"
 
 msgid "UNREAD"
 msgstr "Heb ei ddarllen"

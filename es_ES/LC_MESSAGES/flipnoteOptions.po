@@ -3,11 +3,26 @@ msgstr ""
 "Language: es_ES\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "CITIZENSHIP_REQUIRED"
+msgstr "Necesitas Sudomemo Citizenship para utilizar esta característica."
+
+msgid "DISABLE_AUDIO_ENHANCEMENT"
+msgstr "Deshabilitar audio mejorado"
+
+msgid "DISABLE_SMOOTHING"
+msgstr "Desactivar suavizado"
+
+msgid "ENABLE_AUDIO_ENHANCEMENT"
+msgstr "Habilitar audio mejorado"
+
+msgid "ENABLE_SMOOTHING"
+msgstr "Habilitar suavizado"
+
 msgid "FLIPNOTE_OPTIONS"
 msgstr "Opciones del Flipnote"
 
-msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
-msgstr "Debes iniciar sesión para ver esta página."
+msgid "FLIPNOTE_URL_IS"
+msgstr "URL del Flipnote:"
 
 msgid "HEADER_OPTION"
 msgstr "Opción"
@@ -15,44 +30,29 @@ msgstr "Opción"
 msgid "HEADER_STATUS"
 msgstr "Estatus"
 
-msgid "OPTION_NAME_SMOOTH"
-msgstr "Suavizado"
-
-msgid "OPTION_DESC_SMOOTH"
-msgstr "Líneas, curvas, y otros bordes serán suavizados para una apariencia más natural en Sudomemo Theatre."
-
-msgid "FLIPNOTE_URL_IS"
-msgstr "URL del Flipnote:"
-
-msgid "ENABLE_SMOOTHING"
-msgstr "Habilitar suavizado"
-
-msgid "DISABLE_SMOOTHING"
-msgstr "Desactivar suavizado"
-
-msgid "ON"
-msgstr "Habilitado"
+msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
+msgstr "Debes iniciar sesión para ver esta página."
 
 msgid "OFF"
 msgstr "Deshabilitado"
 
-msgid "CITIZENSHIP_REQUIRED"
-msgstr "Necesitas Sudomemo Citizenship para utilizar esta característica."
+msgid "ON"
+msgstr "Habilitado"
+
+msgid "OPTION_DESC_FORCE_44K_BITRATE"
+msgstr "Sudomemo hará lo mejor para que tu audio suene más nítido y limpio en Sudomemo Theatre."
+
+msgid "OPTION_DESC_SMOOTH"
+msgstr "Líneas, curvas, y otros bordes serán suavizados para una apariencia más natural en Sudomemo Theatre."
+
+msgid "OPTION_NAME_FORCE_44K_BITRATE"
+msgstr "Audio mejorado"
+
+msgid "OPTION_NAME_SMOOTH"
+msgstr "Suavizado"
 
 msgid "PLUS_REQUIRED"
 msgstr "Necesitas Sudomemo Plus para utilizar esta característica."
 
 msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
 msgstr "Toca el estatus de una opción para verla o cambiarla."
-
-msgid "OPTION_NAME_FORCE_44K_BITRATE"
-msgstr "Audio mejorado"
-
-msgid "OPTION_DESC_FORCE_44K_BITRATE"
-msgstr "Sudomemo hará lo mejor para que tu audio suene más nítido y limpio en Sudomemo Theatre."
-
-msgid "ENABLE_AUDIO_ENHANCEMENT"
-msgstr "Habilitar audio mejorado"
-
-msgid "DISABLE_AUDIO_ENHANCEMENT"
-msgstr "Deshabilitar audio mejorado"

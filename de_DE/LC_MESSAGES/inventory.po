@@ -3,32 +3,32 @@ msgstr ""
 "Language: de_DE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "DECOR"
+msgstr "Dekor"
+
 msgid "INVENTORY"
 msgstr "Inventar"
-
-msgid "TICKETS"
-msgstr "Tickets"
 
 msgid "ITEMS"
 msgstr "Items"
 
+msgid "NEXT"
+msgstr "Weiter"
+
 msgid "PETS"
 msgstr "Haustiere"
-
-msgid "DECOR"
-msgstr "Dekor"
 
 msgid "PREV"
 msgstr "Zurück"
 
-msgid "NEXT"
-msgstr "Weiter"
+msgid "REDEEM"
+msgstr "Einlösen"
 
-msgid "USE_ITEM"
-msgstr "Item verwenden"
+msgid "TICKETS"
+msgstr "Tickets"
 
 msgid "USE"
 msgstr "Verwenden"
 
-msgid "REDEEM"
-msgstr "Einlösen"
+msgid "USE_ITEM"
+msgstr "Item verwenden"

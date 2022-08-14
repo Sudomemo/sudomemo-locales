@@ -15,11 +15,11 @@ msgstr "%s tocmai v-a adaugat la Favorite."
 msgid "STATS_FLIPNOTES_FORMAT"
 msgstr "%s Flipnote-uri"
 
-msgid "STATS_FOLLOWERS_FORMAT"
-msgstr "%s Urmaritori"
-
 msgid "STATS_FLIPNOTES_FORMAT_SINGULAR"
 msgstr "%s Flipnnote"
+
+msgid "STATS_FOLLOWERS_FORMAT"
+msgstr "%s Urmaritori"
 
 msgid "STATS_FOLLOWERS_FORMAT_SINGULAR"
 msgstr "%s Urmaritor"

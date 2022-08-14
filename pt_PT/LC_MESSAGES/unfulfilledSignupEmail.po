@@ -9,14 +9,14 @@ msgstr "Confirmação de Registo no Sudomemo"
 msgid "SIGNUP_HEADER"
 msgstr "Confirmação de Registo no Sudomemo"
 
-msgid "TEXT_HELLO"
-msgstr "Olá!"
-
 msgid "TEXT_EMAIL_PURPOSE"
 msgstr "Este email é confirmar o teu registo no Sudomemo."
 
-msgid "TEXT_VERIFICATION_LINK_FORMAT"
-msgstr "Clique <a target=\"_blank\" href=\"%s\">aqui</a> para continuar!"
+msgid "TEXT_HELLO"
+msgstr "Olá!"
 
 msgid "TEXT_URL_PLAIN_DISPLAY"
 msgstr "Podes também copiar este URL para uma nova janela ou separador:"
+
+msgid "TEXT_VERIFICATION_LINK_FORMAT"
+msgstr "Clique <a target=\"_blank\" href=\"%s\">aqui</a> para continuar!"

@@ -9,11 +9,11 @@ msgstr "Vous n'êtes pas connecté à Sudomemo - appuyez %s pour continuer !"
 msgid "NOT_LOGGED_IN_NOTICE_LINK_TEXT"
 msgstr "ici"
 
-msgid "YOU_HAVE_NEW_NOTIFICATIONS"
-msgstr "Vous avez de nouvelles notifications"
-
 msgid "NOT_REGISTERED_NOTICE"
 msgstr "Vous vous amusez ? Démarrez avec Sudomemo en appuyant %s !"
 
 msgid "NOT_REGISTERED_NOTICE_LINK_TEXT"
 msgstr "ici"
+
+msgid "YOU_HAVE_NEW_NOTIFICATIONS"
+msgstr "Vous avez de nouvelles notifications"

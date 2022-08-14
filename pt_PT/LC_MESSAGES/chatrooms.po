@@ -3,14 +3,23 @@ msgstr ""
 "Language: pt_PT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "NO_COMMENTS_YET"
-msgstr "Nenhuns comentários foram postados aqui."
+msgid "CHAT_REPLY_FAILED"
+msgstr "Resposta de chat falhou. Tenta outra vez dentro de momentos."
+
+msgid "COMMENT_FAILED_USER_BANNED"
+msgstr "Foste restrito de interagir no Sudomemo."
+
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "Por favor confirma o teu email antes de postar."
+
+msgid "DUPLICATE_COMMENT_FAILED"
+msgstr "Este comentário já foi postado no Sudomemo."
+
+msgid "FLIPNOTE_DATA_CORRUPTED"
+msgstr "Os dados do Flipnote estão corrompidos. Tenta outra vez dentro de momentos."
 
 msgid "HEADER_COMMENTS"
 msgstr "Comentários"
-
-msgid "PAGE_FORMAT"
-msgstr "Página %d"
 
 msgid "HEADER_NEXT"
 msgstr "Próximo"
@@ -24,26 +33,17 @@ msgstr "Actualizar"
 msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
 msgstr "Tens de ter feito login para postar uma mensagem."
 
-msgid "CHAT_REPLY_FAILED"
-msgstr "Resposta de chat falhou. Tenta outra vez dentro de momentos."
+msgid "MODERATOR"
+msgstr "Moderador"
 
 msgid "NO_BLANK_MESSAGES_ALLOWED"
 msgstr "Não podes mandar uma mensagem em branco."
 
-msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "Os dados do Flipnote estão corrompidos. Tenta outra vez dentro de momentos."
-
 msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
 msgstr "Foste silenciado. Não tens permissão para postar mensagens."
 
-msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "Este comentário já foi postado no Sudomemo."
+msgid "NO_COMMENTS_YET"
+msgstr "Nenhuns comentários foram postados aqui."
 
-msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "Foste restrito de interagir no Sudomemo."
-
-msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Por favor confirma o teu email antes de postar."
-
-msgid "MODERATOR"
-msgstr "Moderador"
+msgid "PAGE_FORMAT"
+msgstr "Página %d"

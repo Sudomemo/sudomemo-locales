@@ -3,17 +3,20 @@ msgstr ""
 "Language: nl_NL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "UPPERTITLE"
-msgstr "Blader door Kanaal"
+msgid "BROWSE_BY_ALBUM"
+msgstr "Blader op Album"
 
-msgid "POST_FLIPNOTE"
-msgstr "Plaats Flipnote"
+msgid "BROWSE_BY_ARTIST"
+msgstr "Blader op Artiest"
+
+msgid "BROWSE_BY_SONG"
+msgstr "Blader op Liedje"
+
+msgid "BROWSE_PLAYLIST"
+msgstr "Blader door Afspeellijst"
 
 msgid "NEXT"
 msgstr "Volgende"
-
-msgid "PREV"
-msgstr "Vorige"
 
 msgid "PAGE"
 msgstr "Bladzijde"
@@ -21,20 +24,17 @@ msgstr "Bladzijde"
 msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d van %d"
 
-msgid "SPINOFFS"
-msgstr "Spinoffs"
+msgid "POST_FLIPNOTE"
+msgstr "Plaats Flipnote"
 
-msgid "BROWSE_BY_SONG"
-msgstr "Blader op Liedje"
-
-msgid "BROWSE_BY_ARTIST"
-msgstr "Blader op Artiest"
-
-msgid "BROWSE_BY_ALBUM"
-msgstr "Blader op Album"
-
-msgid "BROWSE_PLAYLIST"
-msgstr "Blader door Afspeellijst"
+msgid "PREV"
+msgstr "Vorige"
 
 msgid "SONG_DETAILS"
 msgstr "Song Details"
+
+msgid "SPINOFFS"
+msgstr "Spinoffs"
+
+msgid "UPPERTITLE"
+msgstr "Blader door Kanaal"

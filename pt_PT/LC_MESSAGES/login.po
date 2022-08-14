@@ -150,6 +150,10 @@ msgstr "Verificar Email"
 msgid "INCORRECT_PASSWORD_ATTEMPTS_FORMAT"
 msgstr "Tentativas de palavra-passe incorrectas: %s"
 
+# A URL will be shown at the end of this.
+msgid "LEGACY_PROXY_WARNING"
+msgstr "Parece que ainda estás a usar o antigo proxy ds.sudomemo.net, do qual terminamos o suporte. Pelo qual, deves desligar o proxy nas Definiçôes do Sistema, ou tens problemas ao usar o Sudomemo. Para mais informações, visita:"
+
 msgid "LOGIN"
 msgstr "Login"
 
@@ -257,7 +261,3 @@ msgstr "Anda lá e toca no botão 'Verificar Estado de Verificação' no teu Sis
 
 msgid "WELCOME_BACK_FORMAT"
 msgstr "Bem-vindo de volta, %s!"
-
-# A URL will be shown at the end of this.
-msgid "LEGACY_PROXY_WARNING"
-msgstr "Parece que ainda estás a usar o antigo proxy ds.sudomemo.net, do qual terminamos o suporte. Pelo qual, deves desligar o proxy nas Definiçôes do Sistema, ou tens problemas ao usar o Sudomemo. Para mais informações, visita:"

@@ -3,56 +3,41 @@ msgstr ""
 "Language: el_GR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "HEADER_PREV"
-msgstr "Προηγ"
-
 msgid "HEADER_NEXT"
 msgstr "Επομ"
 
-msgid "PAGE_FORMAT"
-msgstr "Σελιδα %d"
-
-msgid "SEARCH"
-msgstr "Αναζητηση"
-
-msgid "USERNAME"
-msgstr "Ονομα Χρηστη"
-
-msgid "RESULTS"
-msgstr "Αποτελεσματα"
-
-msgid "SEARCH_USERNAME"
-msgstr "Αναζητηση Ονοματος Χρηστη"
-
-msgid "PLEASE_ENTER_USERNAME"
-msgstr "παρακαλω  γραψτε  ονομα  χρηστη..."
-
-msgid "RESULTS_FOUND_FORMAT_SINGULAR"
-msgstr "%1$d αποτελεσμα βρεθηκε για \"%2$s\""
-
-msgid "RESULTS_FOUND_FORMAT_MULTIPLE"
-msgstr "%1$d αποτελεσματα βρεθηκαν για \"%2$s\""
+msgid "HEADER_PREV"
+msgstr "Προηγ"
 
 msgid "NO_RESULTS_FOUND"
 msgstr "Δεν  βρεθηκαν  αποτελεματα"
 
-msgid "SEARCH_SHORT_KEY"
-msgstr "Flipnote ID"
+msgid "PAGE"
+msgstr "Page"
 
-msgid "SHORT_KEY_NO_RESULTS"
-msgstr "Δεν  βρεθηκε Flipnote"
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d of %d"
 
-msgid "SHORT_KEY_FORMAT_GUIDE"
-msgstr "Δεν  βρισκετε  αυτο  που  ψαχνετε; Μπορει  να  εχετε  καταχωρισει  λανθασμενα  το Flipnote ID. Τα Flipnote ID εχουν μηκος 6 χαρακτηρες και  μπορειτε  να  τα βρειτε  στις  λεπτομεριες  του Flipnote."
+msgid "PAGE_FORMAT"
+msgstr "Σελιδα %d"
 
-msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
-msgstr "Δεν  βρεθηκε  αποτελεσμα, αλλα υπαρχει  ενα  παρομοιο ID. Παρακαλουμε  λαβετε  υποψη  οτι  τα Flipnote IDs ειναι case-sensitive, και  συνηθως  εχουν  ολα  τα γραμματα  και  αριθμους  κεφαλαια."
+msgid "PLEASE_ENTER_USERNAME"
+msgstr "παρακαλω  γραψτε  ονομα  χρηστη..."
+
+msgid "RESULTS"
+msgstr "Αποτελεσματα"
+
+msgid "RESULTS_FOUND_FORMAT_MULTIPLE"
+msgstr "%1$d αποτελεσματα βρεθηκαν για \"%2$s\""
+
+msgid "RESULTS_FOUND_FORMAT_SINGULAR"
+msgstr "%1$d αποτελεσμα βρεθηκε για \"%2$s\""
+
+msgid "SEARCH"
+msgstr "Αναζητηση"
 
 msgid "SEARCH_MUSICMATCH"
 msgstr "MusicMatch"
-
-msgid "SEARCH_MUSIC_BY_SONG"
-msgstr "By Song"
 
 msgid "SEARCH_MUSIC_BY_ARTIST"
 msgstr "By Artist"
@@ -60,8 +45,23 @@ msgstr "By Artist"
 msgid "SEARCH_MUSIC_BY_GENRE"
 msgstr "By Genre"
 
-msgid "PAGE"
-msgstr "Page"
+msgid "SEARCH_MUSIC_BY_SONG"
+msgstr "By Song"
 
-msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d of %d"
+msgid "SEARCH_SHORT_KEY"
+msgstr "Flipnote ID"
+
+msgid "SEARCH_USERNAME"
+msgstr "Αναζητηση Ονοματος Χρηστη"
+
+msgid "SHORT_KEY_FORMAT_GUIDE"
+msgstr "Δεν  βρισκετε  αυτο  που  ψαχνετε; Μπορει  να  εχετε  καταχωρισει  λανθασμενα  το Flipnote ID. Τα Flipnote ID εχουν μηκος 6 χαρακτηρες και  μπορειτε  να  τα βρειτε  στις  λεπτομεριες  του Flipnote."
+
+msgid "SHORT_KEY_NO_RESULTS"
+msgstr "Δεν  βρεθηκε Flipnote"
+
+msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
+msgstr "Δεν  βρεθηκε  αποτελεσμα, αλλα υπαρχει  ενα  παρομοιο ID. Παρακαλουμε  λαβετε  υποψη  οτι  τα Flipnote IDs ειναι case-sensitive, και  συνηθως  εχουν  ολα  τα γραμματα  και  αριθμους  κεφαλαια."
+
+msgid "USERNAME"
+msgstr "Ονομα Χρηστη"

@@ -3,6 +3,33 @@ msgstr ""
 "Language: de_DE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "CONTENT_ID"
+msgstr "Content-ID:"
+
+msgid "CONTENT_TYPE"
+msgstr "Art des Inhalts:"
+
+msgid "CONTENT_TYPE_chat_message"
+msgstr "Chat-Nachricht"
+
+msgid "CONTENT_TYPE_comment"
+msgstr "Kommentar"
+
+# ## Catch-all
+msgid "CONTENT_TYPE_content"
+msgstr "Sonstiges"
+
+# # Content types
+msgid "CONTENT_TYPE_flipnote"
+msgstr "Flipnote"
+
+msgid "CONTENT_TYPE_profile_bio"
+msgstr "Biografie"
+
+# ## We plan on adding user-created themes.
+msgid "CONTENT_TYPE_room_theme"
+msgstr "Ersteller-Raum-Thema"
+
 # Content Report Accepted - sent to user who has correctly reported content
 msgid "NOTICE"
 msgstr "Benachrichtigung"
@@ -11,27 +38,6 @@ msgstr "Benachrichtigung"
 msgid "REPORT_ACCEPTED"
 msgstr "Wir haben deine Meldung überprüft und sie als rechtmäßig befunden."
 
-# # Content types
-msgid "CONTENT_TYPE_flipnote"
-msgstr "Flipnote"
-
-msgid "CONTENT_TYPE_comment"
-msgstr "Kommentar"
-
-msgid "CONTENT_TYPE_chat_message"
-msgstr "Chat-Nachricht"
-
-# ## We plan on adding user-created themes.
-msgid "CONTENT_TYPE_room_theme"
-msgstr "Ersteller-Raum-Thema"
-
-msgid "CONTENT_TYPE_profile_bio"
-msgstr "Biografie"
-
-# ## Catch-all
-msgid "CONTENT_TYPE_content"
-msgstr "Sonstiges"
-
 # # continued message...
 msgid "REPORT_ACCEPTED_CONTINUED"
 msgstr "Aufgrund dessen, haben wir den gemeldeten Inhalt entfernt."
@@ -39,9 +45,3 @@ msgstr "Aufgrund dessen, haben wir den gemeldeten Inhalt entfernt."
 # this message is followed by a link
 msgid "REPORT_ACCEPTED_INFO"
 msgstr "Meldungen wie diese helfen dabei, Sudomemo für jeden zu einem sicheren und einladenden Ort zu machen. Wenn du mehr über unsere Inhaltsrichtlinien erfahren möchtest, kannst du dies unter dem folgenden Link tun:"
-
-msgid "CONTENT_TYPE"
-msgstr "Art des Inhalts:"
-
-msgid "CONTENT_ID"
-msgstr "Content-ID:"

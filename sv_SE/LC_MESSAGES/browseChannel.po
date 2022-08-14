@@ -3,17 +3,20 @@ msgstr ""
 "Language: sv_SE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "UPPERTITLE"
-msgstr "Bläddra kanal"
+msgid "BROWSE_BY_ALBUM"
+msgstr "Bläddra efter album"
 
-msgid "POST_FLIPNOTE"
-msgstr "Publicera Flipnote"
+msgid "BROWSE_BY_ARTIST"
+msgstr "Bläddra efter artist "
+
+msgid "BROWSE_BY_SONG"
+msgstr "Bläddra efter låt"
+
+msgid "BROWSE_PLAYLIST"
+msgstr "Bläddra spellista"
 
 msgid "NEXT"
 msgstr "Nästa"
-
-msgid "PREV"
-msgstr "Föregående"
 
 msgid "PAGE"
 msgstr "Sida"
@@ -21,20 +24,17 @@ msgstr "Sida"
 msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d av %d"
 
-msgid "SPINOFFS"
-msgstr "Spinoffs"
+msgid "POST_FLIPNOTE"
+msgstr "Publicera Flipnote"
 
-msgid "BROWSE_BY_SONG"
-msgstr "Bläddra efter låt"
-
-msgid "BROWSE_BY_ARTIST"
-msgstr "Bläddra efter artist "
-
-msgid "BROWSE_BY_ALBUM"
-msgstr "Bläddra efter album"
-
-msgid "BROWSE_PLAYLIST"
-msgstr "Bläddra spellista"
+msgid "PREV"
+msgstr "Föregående"
 
 msgid "SONG_DETAILS"
 msgstr "Song Details"
+
+msgid "SPINOFFS"
+msgstr "Spinoffs"
+
+msgid "UPPERTITLE"
+msgstr "Bläddra kanal"

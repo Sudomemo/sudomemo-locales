@@ -3,14 +3,14 @@ msgstr ""
 "Language: nl_NL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "UPPERTITLE"
-msgstr "Blader"
+msgid "FAVORITES_FEED_FORMAT"
+msgstr "%s's Favorietenfeed"
+
+msgid "FLIPNOTES_BY_FORMAT"
+msgstr "Flipnotes door %s"
 
 msgid "NEXT"
 msgstr "Volgende pagina"
-
-msgid "PREV"
-msgstr "Vorige pagina"
 
 msgid "PAGE"
 msgstr "Pagina"
@@ -18,11 +18,11 @@ msgstr "Pagina"
 msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d van %d"
 
-msgid "FLIPNOTES_BY_FORMAT"
-msgstr "Flipnotes door %s"
+msgid "PREV"
+msgstr "Vorige pagina"
 
 msgid "STARRED_BY_FORMAT"
 msgstr "Sterren gegeven door %s"
 
-msgid "FAVORITES_FEED_FORMAT"
-msgstr "%s's Favorietenfeed"
+msgid "UPPERTITLE"
+msgstr "Blader"

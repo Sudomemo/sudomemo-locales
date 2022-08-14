@@ -3,34 +3,8 @@ msgstr ""
 "Language: ro_RO\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-# Content Removed - sent to user when a piece of their content has been restored
-msgid "NOTICE"
-msgstr "Instiintare"
-
-# # Intro
-msgid "USER_CONTENT_RESTORED"
-msgstr "Ceva ce ati postat si a fost sters a fost restaurat dupa revizuire."
-
-# # Content types
-msgid "CONTENT_TYPE_flipnote"
-msgstr "Flipnote"
-
-msgid "CONTENT_TYPE_comment"
-msgstr "Comentariu"
-
-msgid "CONTENT_TYPE_chat_message"
-msgstr "Mesaj Conversatie"
-
-# ## We plan on adding user-created themes.
-msgid "CONTENT_TYPE_room_theme"
-msgstr "Tema Camera Creatorului"
-
-msgid "CONTENT_TYPE_profile_bio"
-msgstr "Text de pe Profil"
-
-# ## Catch-all
-msgid "CONTENT_TYPE_content"
-msgstr "Alt Continut"
+msgid "CONTENT_ID"
+msgstr "ID Continut:"
 
 # # continued message...
 msgid "CONTENT_RESTORED_CONTINUED"
@@ -39,5 +13,31 @@ msgstr "Acest continut a fost restaurat la vederea publicului, si nu a ramas nim
 msgid "CONTENT_TYPE"
 msgstr "Tip de Continut:"
 
-msgid "CONTENT_ID"
-msgstr "ID Continut:"
+msgid "CONTENT_TYPE_chat_message"
+msgstr "Mesaj Conversatie"
+
+msgid "CONTENT_TYPE_comment"
+msgstr "Comentariu"
+
+# ## Catch-all
+msgid "CONTENT_TYPE_content"
+msgstr "Alt Continut"
+
+# # Content types
+msgid "CONTENT_TYPE_flipnote"
+msgstr "Flipnote"
+
+msgid "CONTENT_TYPE_profile_bio"
+msgstr "Text de pe Profil"
+
+# ## We plan on adding user-created themes.
+msgid "CONTENT_TYPE_room_theme"
+msgstr "Tema Camera Creatorului"
+
+# Content Removed - sent to user when a piece of their content has been restored
+msgid "NOTICE"
+msgstr "Instiintare"
+
+# # Intro
+msgid "USER_CONTENT_RESTORED"
+msgstr "Ceva ce ati postat si a fost sters a fost restaurat dupa revizuire."

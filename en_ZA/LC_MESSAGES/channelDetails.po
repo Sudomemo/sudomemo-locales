@@ -3,44 +3,44 @@ msgstr ""
 "Language: en_ZA\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "CHANNEL_NAME"
-msgstr "Channel Name"
-
-msgid "CHANNEL_INFORMATION"
-msgstr "Channel Information"
-
-msgid "FLIPNOTES"
-msgstr "Flipnyotes"
+msgid "CATEGORY"
+msgstr "Category"
 
 msgid "CHANNEL_ID"
 msgstr "Channel ID"
 
-msgid "LOGIN_REQUIRED_TO_POST"
-msgstr "pls log in to post a flipmeme silly!!"
+msgid "CHANNEL_INFORMATION"
+msgstr "Channel Information"
+
+msgid "CHANNEL_NAME"
+msgstr "Channel Name"
 
 msgid "CHANNEL_NOT_SPECIFIED"
 msgstr "pls picc a chanel,,,"
 
-msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
-msgstr "You've been restricted from using Sudomemo."
-
-msgid "FLIPNOTE_POST_FAILED"
-msgstr "oopsie daisy ur flipynote post faild... try agen in a sec"
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "Pls confurm ur email befowe posting~."
 
 msgid "DUPLICATE_FLIPNOTE_FAILED"
 msgstr "dis flipnote was alredy posted to sudomeme!!! try editing it mor.."
 
+msgid "FLIPNOTES"
+msgstr "Flipnyotes"
+
 msgid "FLIPNOTE_DATA_CORRUPTED"
 msgstr "oh no,, ur flipnote is corupted... :( twy agen in a moment..."
+
+msgid "FLIPNOTE_POST_FAILED"
+msgstr "oopsie daisy ur flipynote post faild... try agen in a sec"
+
+msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
+msgstr "You've been restricted from using Sudomemo."
+
+msgid "LOGIN_REQUIRED_TO_POST"
+msgstr "pls log in to post a flipmeme silly!!"
 
 msgid "NO_BLANK_FLIPNOTES_ALLOWED"
 msgstr "NO BLANK FLIPNOTS ALLOWED!!!!!!!!!!!!"
 
-msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Pls confurm ur email befowe posting~."
-
 msgid "NO_POSTS_WHILE_MUTED"
 msgstr "You may not post while you are muted."
-
-msgid "CATEGORY"
-msgstr "Category"

@@ -3,23 +3,23 @@ msgstr ""
 "Language: cy_GB\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "EMAIL_SUBJECT_FORMAT"
-msgstr "[Sudomemo] %s, mae gennych sylwadau newydd ar eich Flipnotes!"
-
-msgid "TITLE_NEW_COMMENTS"
-msgstr "Sylwadau Newydd"
-
-msgid "HELLO_FORMAT"
-msgstr "Helo, %s!"
-
-msgid "TEXT_YOU_HAVE_X_COMMENTS_FROM_FORMAT"
-msgstr "Mae gennych %d sylw(au) newydd ar Sudomemo gan %s"
-
 msgid "AND"
 msgstr "Ac"
 
 msgid "AND_X_OTHERS_FORMAT"
 msgstr "A %s arall."
 
+msgid "EMAIL_SUBJECT_FORMAT"
+msgstr "[Sudomemo] %s, mae gennych sylwadau newydd ar eich Flipnotes!"
+
+msgid "HELLO_FORMAT"
+msgstr "Helo, %s!"
+
 msgid "TEXT_HOW_TO_VIEW_UNREAD_COMMENTS_TAP_ICON_FORMAT"
 msgstr "Gallwch edrych ar eich sylwadau heb eu darllen ar Sudomemo trwy eu tapio %s ar eich bar hysbysu."
+
+msgid "TEXT_YOU_HAVE_X_COMMENTS_FROM_FORMAT"
+msgstr "Mae gennych %d sylw(au) newydd ar Sudomemo gan %s"
+
+msgid "TITLE_NEW_COMMENTS"
+msgstr "Sylwadau Newydd"

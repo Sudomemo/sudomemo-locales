@@ -3,47 +3,32 @@ msgstr ""
 "Language: pl_PL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "GET_STARTED"
-msgstr "Rozpocznij"
-
-msgid "WATCH_FLIPNOTES"
-msgstr "Wszystkie Flipnotes"
-
-msgid "CHANNELS"
-msgstr "Kanały"
+msgid "ABOUT_SUDOMEMO"
+msgstr "O Sudomemo"
 
 msgid "CATEGORIES"
 msgstr "Kategorie"
 
-msgid "FEATURED"
-msgstr "Wyróżnione"
-
-msgid "HOT_FLIPNOTES"
-msgstr "Gorące Flipnotes"
-
-msgid "ABOUT_SUDOMEMO"
-msgstr "O Sudomemo"
-
-msgid "CREATORS_ROOM"
-msgstr "Pokój Twórcy"
-
-msgid "NEWS"
-msgstr "Sudomemo News"
+msgid "CHANNELS"
+msgstr "Kanały"
 
 msgid "CHATROOMS"
 msgstr "Pokoje czatu"
 
-msgid "SEARCH"
-msgstr "Szukaj"
+msgid "CREATORS_ROOM"
+msgstr "Pokój Twórcy"
 
-msgid "SEARCH_USER"
-msgstr "Szukaj użytkowników"
+msgid "FEATURED"
+msgstr "Wyróżnione"
 
-msgid "SEARCH_FLIPNOTE"
-msgstr "Szukaj Flipnotes"
+msgid "GET_STARTED"
+msgstr "Rozpocznij"
 
-msgid "RELOAD_USER"
-msgstr "Odśwież użytkownika"
+msgid "HELP"
+msgstr "Pomoc"
+
+msgid "HOT_FLIPNOTES"
+msgstr "Gorące Flipnotes"
 
 msgid "LOGIN"
 msgstr "Logowanie"
@@ -51,17 +36,32 @@ msgstr "Logowanie"
 msgid "LOGOUT"
 msgstr "Wylogowywanie"
 
+msgid "MAIL"
+msgstr "Mail"
+
+msgid "NEWS"
+msgstr "Sudomemo News"
+
 msgid "REGISTER"
 msgstr "Rejestracja"
 
-msgid "THEME_SHOP"
-msgstr "Sklep z motywami"
+msgid "RELOAD_USER"
+msgstr "Odśwież użytkownika"
 
-msgid "MAIL"
-msgstr "Mail"
+msgid "SEARCH"
+msgstr "Szukaj"
+
+msgid "SEARCH_FLIPNOTE"
+msgstr "Szukaj Flipnotes"
+
+msgid "SEARCH_USER"
+msgstr "Szukaj użytkowników"
 
 msgid "TEST_TRANSLATION"
 msgstr "Tłumaczenie Angielskie"
 
-msgid "HELP"
-msgstr "Pomoc"
+msgid "THEME_SHOP"
+msgstr "Sklep z motywami"
+
+msgid "WATCH_FLIPNOTES"
+msgstr "Wszystkie Flipnotes"

@@ -3,14 +3,14 @@ msgstr ""
 "Language: el_GR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "UPPERTITLE"
-msgstr "Χαζεψτε"
+msgid "FAVORITES_FEED_FORMAT"
+msgstr "Τοιχος Αγαπημενων του %s'"
+
+msgid "FLIPNOTES_BY_FORMAT"
+msgstr "Flipnotes του %s"
 
 msgid "NEXT"
 msgstr "Επομενη Σελιδα"
-
-msgid "PREV"
-msgstr "Προηγουμενη Σελιδα"
 
 msgid "PAGE"
 msgstr "Σελιδα"
@@ -18,11 +18,11 @@ msgstr "Σελιδα"
 msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d απο %d"
 
-msgid "FLIPNOTES_BY_FORMAT"
-msgstr "Flipnotes του %s"
+msgid "PREV"
+msgstr "Προηγουμενη Σελιδα"
 
 msgid "STARRED_BY_FORMAT"
 msgstr "Εβαλε αστερια ο %s"
 
-msgid "FAVORITES_FEED_FORMAT"
-msgstr "Τοιχος Αγαπημενων του %s'"
+msgid "UPPERTITLE"
+msgstr "Χαζεψτε"

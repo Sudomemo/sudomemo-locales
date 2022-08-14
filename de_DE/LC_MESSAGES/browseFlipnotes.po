@@ -3,56 +3,11 @@ msgstr ""
 "Language: de_DE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "SUDOMEMO"
-msgstr "Sudomemo"
+msgid "CATEGORY_featured"
+msgstr "Empfohlen"
 
-msgid "HEADER_FLIPNOTES"
-msgstr "Flipnotes"
-
-msgid "HEADER_NORMAL"
-msgstr "Neueste"
-
-msgid "HEADER_HOT_FLIPNOTES"
-msgstr "Beliebte Flipnotes"
-
-msgid "HEADER_MOST_POPULAR"
-msgstr "Beliebteste"
-
-msgid "HEADER_NO_SPINOFFS"
-msgstr "Keine Spin-Offs"
-
-msgid "HEADER_ROLEPLAYS"
-msgstr "Rollenspiele"
-
-msgid "HEADER_BROWSE_FLIPNOTES"
-msgstr "Flipnotes suchen"
-
-msgid "HEADER_FEATURED_FLIPNOTES"
-msgstr "Empfohlene Flipnotes"
-
-msgid "HEADER_RANDOM_FLIPNOTES"
-msgstr "Zufällige Flipnotes"
-
-msgid "HEADER_PAGE"
-msgstr "Seite"
-
-msgid "PAGE"
-msgstr "Seite"
-
-msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d von %d"
-
-msgid "NEXT"
-msgstr "Weiter"
-
-msgid "PREV"
-msgstr "Zurück"
-
-msgid "POST_FLIPNOTE"
-msgstr "Flipnote hochladen"
-
-msgid "CATEGORY_recent"
-msgstr "Neueste"
+msgid "CATEGORY_feed"
+msgstr "Dein Feed"
 
 msgid "CATEGORY_hot"
 msgstr "Heiß"
@@ -60,11 +15,59 @@ msgstr "Heiß"
 msgid "CATEGORY_popular"
 msgstr "Beliebt"
 
-msgid "CATEGORY_featured"
-msgstr "Empfohlen"
-
 msgid "CATEGORY_random"
 msgstr "Zufällig"
 
-msgid "CATEGORY_feed"
-msgstr "Dein Feed"
+msgid "CATEGORY_recent"
+msgstr "Neueste"
+
+msgid "HEADER_BROWSE_FLIPNOTES"
+msgstr "Flipnotes suchen"
+
+msgid "HEADER_FEATURED_FLIPNOTES"
+msgstr "Empfohlene Flipnotes"
+
+msgid "HEADER_FLIPNOTES"
+msgstr "Flipnotes"
+
+msgid "HEADER_HOT_FLIPNOTES"
+msgstr "Beliebte Flipnotes"
+
+msgid "HEADER_MOST_POPULAR"
+msgstr "Beliebteste"
+
+msgid "HEADER_NORMAL"
+msgstr "Neueste"
+
+msgid "HEADER_NO_SPINOFFS"
+msgstr "Keine Spin-Offs"
+
+msgid "HEADER_PAGE"
+msgstr "Seite"
+
+msgid "HEADER_RANDOM_FLIPNOTES"
+msgstr "Zufällige Flipnotes"
+
+msgid "HEADER_ROLEPLAYS"
+msgstr "Rollenspiele"
+
+msgid "HEADER_WATCH_HISTORY"
+msgstr "Watch History"
+
+msgid "NEXT"
+msgstr "Weiter"
+
+msgid "PAGE"
+msgstr "Seite"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d von %d"
+
+msgid "POST_FLIPNOTE"
+msgstr "Flipnote hochladen"
+
+msgid "PREV"
+msgstr "Zurück"
+
+msgid "SUDOMEMO"
+msgstr "Sudomemo"

@@ -3,17 +3,20 @@ msgstr ""
 "Language: pt_PT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "SET_PROFILE_PICTURE"
-msgstr "Definir Foto de Perfil"
-
-msgid "PROMPT_CHANGE_YOUR_PROFILE_IMAGE"
-msgstr "Queres mudar a tua foto de perfil?"
+msgid "CANCEL"
+msgstr "Cancelar"
 
 msgid "CONTINUE_SET_AS_PROFILE_PICTURE"
 msgstr "Confirmar"
 
+msgid "CREATORS_ROOM"
+msgstr "Sala de Criador"
+
 msgid "CURRENT"
 msgstr "Actual"
+
+msgid "LOGIN_REQUIRED_TO_CHANGE"
+msgstr "Tens de ter feito login para mudares a tua foto de perfil."
 
 msgid "NEW"
 msgstr "Nova"
@@ -21,14 +24,11 @@ msgstr "Nova"
 msgid "PROFILE_PICTURE_SET"
 msgstr "Foto de Perfil definida com sucesso!"
 
+msgid "PROMPT_CHANGE_YOUR_PROFILE_IMAGE"
+msgstr "Queres mudar a tua foto de perfil?"
+
 msgid "RETURN_TO_FLIPNOTE"
 msgstr "Voltar ao Flipnote"
 
-msgid "CREATORS_ROOM"
-msgstr "Sala de Criador"
-
-msgid "CANCEL"
-msgstr "Cancelar"
-
-msgid "LOGIN_REQUIRED_TO_CHANGE"
-msgstr "Tens de ter feito login para mudares a tua foto de perfil."
+msgid "SET_PROFILE_PICTURE"
+msgstr "Definir Foto de Perfil"

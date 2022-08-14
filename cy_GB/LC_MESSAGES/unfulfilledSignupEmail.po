@@ -9,14 +9,14 @@ msgstr "Cadarnhad Arwyddo Sudomemo"
 msgid "SIGNUP_HEADER"
 msgstr "Cadarnhad Arwyddo Sudomemo"
 
-msgid "TEXT_HELLO"
-msgstr "Helo!"
-
 msgid "TEXT_EMAIL_PURPOSE"
 msgstr "Diben yr e-bost hwn yw cadarnhau eich arwydd ar gyfer Sudomemo."
 
-msgid "TEXT_VERIFICATION_LINK_FORMAT"
-msgstr "Cliciwch <a target=\"_blank\" href=\"%s\">yma</a> i barhau!"
+msgid "TEXT_HELLO"
+msgstr "Helo!"
 
 msgid "TEXT_URL_PLAIN_DISPLAY"
 msgstr "Gallwch hefyd gopïo a gludo'r URL hwn i ffenestr newydd:"
+
+msgid "TEXT_VERIFICATION_LINK_FORMAT"
+msgstr "Cliciwch <a target=\"_blank\" href=\"%s\">yma</a> i barhau!"

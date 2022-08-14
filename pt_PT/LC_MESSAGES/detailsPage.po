@@ -3,95 +3,101 @@ msgstr ""
 "Language: pt_PT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "TIMESTAMP_FORMAT"
-msgstr "M D, A H:M:S"
-
-msgid "FLIPNOTE_TITLE_FORMAT"
-msgstr "Flipnote de %s"
-
-msgid "HEADER_DETAILS"
-msgstr "Detalhes"
-
-msgid "HEADER_COMMENTS"
-msgstr "Comentários"
-
-msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
-msgstr "Este Flipnote é um spin-off."
-
-msgid "HEADER_ORIGINAL_FLIPNOTE"
-msgstr "Ver o Flipnote de fonte here"
-
-msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
-msgstr "Para prevenir \"star-begging\", Estrelas Amarelas estão limitadas a 10 por Flipnote."
-
-msgid "HEADER_CREATOR"
-msgstr "Criador"
-
-msgid "HEADER_STARS"
-msgstr "Estrelas"
-
-msgid "HEADER_VIEWS"
-msgstr "Visualizações"
-
-msgid "HEADER_SPINOFFS"
-msgstr "Spin-offs"
-
-msgid "HEADER_DOWNLOADS"
-msgstr "Downloads"
-
-msgid "HEADER_TITLE"
-msgstr "Título"
-
-msgid "HEADER_POSTED"
-msgstr "Postado"
-
-msgid "HEADER_FLIPNOTE_ID"
-msgstr "ID do Flipnote"
-
-msgid "HEADER_CHANNEL"
-msgstr "Canal"
-
-msgid "HEADER_OPTIONS"
-msgstr "Opções"
-
-msgid "HEADER_SET_AS_PROFILE_PICTURE"
-msgstr "Definir como Foto de Perfil"
-
-msgid "HEADER_REPORT_FLIPNOTE"
-msgstr "Reportar Flipnote"
-
-msgid "ADMIN_ACTIONS"
-msgstr "Accções de Administrador"
-
-msgid "PREV"
-msgstr "Anterior"
-
-msgid "NEXT"
-msgstr "Próximo"
-
-msgid "STAR_DETAILS_UPPERTITLE"
-msgstr "★ Estrelas ★"
-
-msgid "SET_TITLE"
-msgstr "Definir Título"
-
-msgid "SET_TITLE_INSTRUCTIONS"
-msgstr "Introduz um título novo no teu Flipnote aqui."
+msgid "101_CHARACTER_LIMIT_DESC"
+msgstr "A tua descrição tem um limite de 101 caracteres."
 
 msgid "40_CHARACTER_LIMIT"
 msgstr "O teu título tem um limite de 40 caracteres."
 
-msgid "LEAVE_BLANK_TO_RESET"
-msgstr "Para repor o título para defeito, deixa a caixa de diálogo em branco antes de postar."
+msgid "ADMIN_ACTIONS"
+msgstr "Accções de Administrador"
+
+msgid "ENTER_DESCRIPTION"
+msgstr "Introduz uma descrição..."
 
 msgid "ENTER_TITLE"
 msgstr "Introduz um título..."
 
+msgid "FLIPNOTE_TITLE_FORMAT"
+msgstr "Flipnote de %s"
+
 msgid "HEADER_ADD_DESCRIPTION"
 msgstr "Adicionar Descrição"
 
+msgid "HEADER_CHANNEL"
+msgstr "Canal"
+
+msgid "HEADER_COMMENTS"
+msgstr "Comentários"
+
+msgid "HEADER_CREATOR"
+msgstr "Criador"
+
 msgid "HEADER_DESCRIPTION"
 msgstr "Descrição"
+
+msgid "HEADER_DETAILS"
+msgstr "Detalhes"
+
+msgid "HEADER_DOWNLOADS"
+msgstr "Downloads"
+
+msgid "HEADER_FLIPNOTE_ID"
+msgstr "ID do Flipnote"
+
+msgid "HEADER_FLIPNOTE_OPTIONS"
+msgstr "Opções"
+
+msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
+msgstr "Para prevenir \"star-begging\", Estrelas Amarelas estão limitadas a 10 por Flipnote."
+
+msgid "HEADER_OPTIONS"
+msgstr "Opções"
+
+msgid "HEADER_ORIGINAL_FLIPNOTE"
+msgstr "Ver o Flipnote de fonte here"
+
+msgid "HEADER_POSTED"
+msgstr "Postado"
+
+msgid "HEADER_REPORT_FLIPNOTE"
+msgstr "Reportar Flipnote"
+
+msgid "HEADER_SET_AS_PROFILE_PICTURE"
+msgstr "Definir como Foto de Perfil"
+
+msgid "HEADER_SONG"
+msgstr "Canção"
+
+msgid "HEADER_SPINOFFS"
+msgstr "Spin-offs"
+
+msgid "HEADER_STARS"
+msgstr "Estrelas"
+
+msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
+msgstr "Este Flipnote é um spin-off."
+
+msgid "HEADER_TITLE"
+msgstr "Título"
+
+msgid "HEADER_UPLOAD_TO_YOUTUBE"
+msgstr "Fazer Upload no YouTube"
+
+msgid "HEADER_VIEWS"
+msgstr "Visualizações"
+
+msgid "LEAVE_BLANK_TO_RESET"
+msgstr "Para repor o título para defeito, deixa a caixa de diálogo em branco antes de postar."
+
+msgid "LEAVE_BLANK_TO_RESET_DESC"
+msgstr "Para remover a descrição, deixa esta caixa de diálogo em branco."
+
+msgid "NEXT"
+msgstr "Próximo"
+
+msgid "PREV"
+msgstr "Anterior"
 
 msgid "SET_DESCRIPTION"
 msgstr "Definir Descrição"
@@ -99,24 +105,18 @@ msgstr "Definir Descrição"
 msgid "SET_DESCRIPTION_INSTRUCTIONS"
 msgstr "Escreve uma Descrição do teu Flipnote aqui."
 
-msgid "101_CHARACTER_LIMIT_DESC"
-msgstr "A tua descrição tem um limite de 101 caracteres."
+msgid "SET_TITLE"
+msgstr "Definir Título"
 
-msgid "LEAVE_BLANK_TO_RESET_DESC"
-msgstr "Para remover a descrição, deixa esta caixa de diálogo em branco."
+msgid "SET_TITLE_INSTRUCTIONS"
+msgstr "Introduz um título novo no teu Flipnote aqui."
 
-msgid "ENTER_DESCRIPTION"
-msgstr "Introduz uma descrição..."
+msgid "STAR_DETAILS_UPPERTITLE"
+msgstr "★ Estrelas ★"
 
-msgid "HEADER_FLIPNOTE_OPTIONS"
-msgstr "Opções"
-
-msgid "HEADER_SONG"
-msgstr "Canção"
+msgid "TIMESTAMP_FORMAT"
+msgstr "M D, A H:M:S"
 
 # This is shown to logged-in users on their own Flipnotes without titles
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote Sem-Título de %s"
-
-msgid "HEADER_UPLOAD_TO_YOUTUBE"
-msgstr "Fazer Upload no YouTube"

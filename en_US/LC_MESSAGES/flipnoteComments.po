@@ -3,56 +3,56 @@ msgstr ""
 "Language: en_US\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "COMMENT_FAILED_USER_BANNED"
+msgstr "You've been restricted from using Sudomemo."
+
+msgid "COMMENT_POST_FAILED"
+msgstr "Comment post failed. Try again in a moment."
+
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "Please confirm your email before posting."
+
+msgid "DUPLICATE_COMMENT_FAILED"
+msgstr "This comment has already been posted to Sudomemo."
+
+msgid "FLIPNOTE_COMMENTS_DISALLOWED"
+msgstr "You may not comment on this Flipnote."
+
+msgid "FLIPNOTE_DATA_CORRUPTED"
+msgstr "The Flipnote data is corrupted. Try again in a moment."
+
 msgid "HEADER_COMMENTS"
 msgstr "Comments"
 
 msgid "HEADER_DETAILS"
 msgstr "Details"
 
-msgid "HEADER_PREV"
-msgstr "Prev"
-
 msgid "HEADER_NEXT"
 msgstr "Next"
+
+msgid "HEADER_PREV"
+msgstr "Prev"
 
 msgid "HEADER_REFRESH"
 msgstr "Refresh"
 
-msgid "PAGE_FORMAT"
-msgstr "Page %d"
-
-msgid "NO_COMMENTS_YET"
-msgstr "This Flipnote doesn't have any comments yet."
-
 msgid "LOGIN_REQUIRED_TO_POST_COMMENT"
 msgstr "You must be logged in to post a comment."
 
-msgid "COMMENT_POST_FAILED"
-msgstr "Comment post failed. Try again in a moment."
+msgid "MODERATOR"
+msgstr "Moderator"
 
 msgid "NO_BLANK_COMMENTS_ALLOWED"
 msgstr "You cannot post a blank comment."
 
-msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "The Flipnote data is corrupted. Try again in a moment."
-
-msgid "FLIPNOTE_COMMENTS_DISALLOWED"
-msgstr "You may not comment on this Flipnote."
-
 msgid "NO_COMMENTS_WHILE_MUTED"
 msgstr "You've been muted. You may not comment."
 
-msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "This comment has already been posted to Sudomemo."
+msgid "NO_COMMENTS_YET"
+msgstr "This Flipnote doesn't have any comments yet."
 
-msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "You've been restricted from using Sudomemo."
-
-msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Please confirm your email before posting."
-
-msgid "MODERATOR"
-msgstr "Moderator"
+msgid "PAGE_FORMAT"
+msgstr "Page %d"
 
 msgid "SUDOMEMO_USER"
 msgstr "Sudomemo User"

@@ -3,44 +3,44 @@ msgstr ""
 "Language: sv_SE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "CHANNEL_NAME"
-msgstr "Kanalnamn"
-
-msgid "CHANNEL_INFORMATION"
-msgstr "Kanalinformation"
-
-msgid "FLIPNOTES"
-msgstr "Flipnotes"
+msgid "CATEGORY"
+msgstr "Category"
 
 msgid "CHANNEL_ID"
 msgstr "KanalID"
 
-msgid "LOGIN_REQUIRED_TO_POST"
-msgstr "Du måste vara inloggad för att publicera Flipnotes."
+msgid "CHANNEL_INFORMATION"
+msgstr "Kanalinformation"
+
+msgid "CHANNEL_NAME"
+msgstr "Kanalnamn"
 
 msgid "CHANNEL_NOT_SPECIFIED"
 msgstr "Du måste välja kanal."
 
-msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
-msgstr "Du har blivit förbjuden från att använda Sudomemo."
-
-msgid "FLIPNOTE_POST_FAILED"
-msgstr "Uppladdning misslyckades. Försök igen om en stund."
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "Var god bekräfta din e-postadress innan du publicerar."
 
 msgid "DUPLICATE_FLIPNOTE_FAILED"
 msgstr "Denna Flipnote har redan publicerats på Sudomemo. Försök att redigera den igen."
 
+msgid "FLIPNOTES"
+msgstr "Flipnotes"
+
 msgid "FLIPNOTE_DATA_CORRUPTED"
 msgstr "Flipnote-datan är skadad. Försök igen om en stund."
+
+msgid "FLIPNOTE_POST_FAILED"
+msgstr "Uppladdning misslyckades. Försök igen om en stund."
+
+msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
+msgstr "Du har blivit förbjuden från att använda Sudomemo."
+
+msgid "LOGIN_REQUIRED_TO_POST"
+msgstr "Du måste vara inloggad för att publicera Flipnotes."
 
 msgid "NO_BLANK_FLIPNOTES_ALLOWED"
 msgstr "Du kan inte publicera en tom Flipnote."
 
-msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Var god bekräfta din e-postadress innan du publicerar."
-
 msgid "NO_POSTS_WHILE_MUTED"
 msgstr "Du får inte publicera medan du är dämpad."
-
-msgid "CATEGORY"
-msgstr "Category"

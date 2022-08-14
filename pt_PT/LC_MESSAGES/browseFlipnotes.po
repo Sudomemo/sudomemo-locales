@@ -3,56 +3,11 @@ msgstr ""
 "Language: pt_PT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "SUDOMEMO"
-msgstr "Sudomemo"
+msgid "CATEGORY_featured"
+msgstr "@Flipnotes Destacados"
 
-msgid "HEADER_FLIPNOTES"
-msgstr "Flipnotes"
-
-msgid "HEADER_NORMAL"
-msgstr "Recentes"
-
-msgid "HEADER_HOT_FLIPNOTES"
-msgstr "Flipnotes no Topo"
-
-msgid "HEADER_MOST_POPULAR"
-msgstr "Mais Populares"
-
-msgid "HEADER_NO_SPINOFFS"
-msgstr "Sem Spinoffs"
-
-msgid "HEADER_ROLEPLAYS"
-msgstr "Roleplays"
-
-msgid "HEADER_BROWSE_FLIPNOTES"
-msgstr "Procurar Flipnotes"
-
-msgid "HEADER_FEATURED_FLIPNOTES"
-msgstr "Flipnotes Destacados"
-
-msgid "HEADER_RANDOM_FLIPNOTES"
-msgstr "Flipnotes Aleatórios"
-
-msgid "HEADER_PAGE"
-msgstr "Página"
-
-msgid "PAGE"
-msgstr "Página"
-
-msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d de %d"
-
-msgid "NEXT"
-msgstr "Próximo"
-
-msgid "PREV"
-msgstr "Anterior"
-
-msgid "POST_FLIPNOTE"
-msgstr "Postar Flipnote"
-
-msgid "CATEGORY_recent"
-msgstr "@Flipnotes Recentes"
+msgid "CATEGORY_feed"
+msgstr "@Feed"
 
 msgid "CATEGORY_hot"
 msgstr "@Flipnotes no Topo"
@@ -60,11 +15,59 @@ msgstr "@Flipnotes no Topo"
 msgid "CATEGORY_popular"
 msgstr "@Mais Populares"
 
-msgid "CATEGORY_featured"
-msgstr "@Flipnotes Destacados"
-
 msgid "CATEGORY_random"
 msgstr "@Flipnotes Aleat"
 
-msgid "CATEGORY_feed"
-msgstr "@Feed"
+msgid "CATEGORY_recent"
+msgstr "@Flipnotes Recentes"
+
+msgid "HEADER_BROWSE_FLIPNOTES"
+msgstr "Procurar Flipnotes"
+
+msgid "HEADER_FEATURED_FLIPNOTES"
+msgstr "Flipnotes Destacados"
+
+msgid "HEADER_FLIPNOTES"
+msgstr "Flipnotes"
+
+msgid "HEADER_HOT_FLIPNOTES"
+msgstr "Flipnotes no Topo"
+
+msgid "HEADER_MOST_POPULAR"
+msgstr "Mais Populares"
+
+msgid "HEADER_NORMAL"
+msgstr "Recentes"
+
+msgid "HEADER_NO_SPINOFFS"
+msgstr "Sem Spinoffs"
+
+msgid "HEADER_PAGE"
+msgstr "Página"
+
+msgid "HEADER_RANDOM_FLIPNOTES"
+msgstr "Flipnotes Aleatórios"
+
+msgid "HEADER_ROLEPLAYS"
+msgstr "Roleplays"
+
+msgid "HEADER_WATCH_HISTORY"
+msgstr "Watch History"
+
+msgid "NEXT"
+msgstr "Próximo"
+
+msgid "PAGE"
+msgstr "Página"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d de %d"
+
+msgid "POST_FLIPNOTE"
+msgstr "Postar Flipnote"
+
+msgid "PREV"
+msgstr "Anterior"
+
+msgid "SUDOMEMO"
+msgstr "Sudomemo"

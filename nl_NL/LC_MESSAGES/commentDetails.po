@@ -3,38 +3,47 @@ msgstr ""
 "Language: nl_NL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "COMMENT_DETAILS"
-msgstr "Reactiedetails"
-
-msgid "MESSAGE_DETAILS"
-msgstr "Berichtdetails"
-
 msgid "AUTHOR"
 msgstr "Auteur"
-
-msgid "COMMENT_BY_FORMAT"
-msgstr "Reactie door %s"
-
-msgid "CHAT_MESSAGE_FROM_FORMAT"
-msgstr "Chatbericht van %s"
-
-msgid "MESSAGE_FROM_FORMAT"
-msgstr "Bericht van %s"
-
-msgid "FLIPNOTE_BY_FORMAT"
-msgstr "Flipnote door %s"
-
-msgid "COMMENT_ID"
-msgstr "Commentaar-ID"
-
-msgid "MESSAGE_ID"
-msgstr "Bericht-ID"
 
 msgid "CHAT_COMMENT_ID"
 msgstr "Chatbericht-ID"
 
-msgid "TIMESTAMP"
-msgstr "Tijd"
+msgid "CHAT_MESSAGE_FROM_FORMAT"
+msgstr "Chatbericht van %s"
+
+msgid "COMMENT_BY_FORMAT"
+msgstr "Reactie door %s"
+
+msgid "COMMENT_DETAILS"
+msgstr "Reactiedetails"
+
+msgid "COMMENT_HIDDEN_MODERATOR"
+msgstr "Comment hidden by moderator"
+
+msgid "COMMENT_HIDDEN_RECIPIENT"
+msgstr "Comment hidden by Flipnote author"
+
+msgid "COMMENT_HIDDEN_SELF"
+msgstr "Comment hidden by author"
+
+msgid "COMMENT_HIDDEN_UNKNOWN"
+msgstr "Comment hidden due to request"
+
+msgid "COMMENT_ID"
+msgstr "Commentaar-ID"
+
+msgid "FLIPNOTE_BY_FORMAT"
+msgstr "Flipnote door %s"
+
+msgid "MESSAGE_DETAILS"
+msgstr "Berichtdetails"
+
+msgid "MESSAGE_FROM_FORMAT"
+msgstr "Bericht van %s"
+
+msgid "MESSAGE_ID"
+msgstr "Bericht-ID"
 
 msgid "POSTED_TO"
 msgstr "Geplaatst op"
@@ -45,14 +54,5 @@ msgstr "Privéconversatie"
 msgid "REPORT_CONTENT"
 msgstr "Rapporteer Inhoud"
 
-msgid "COMMENT_HIDDEN_UNKNOWN"
-msgstr "Comment hidden due to request"
-
-msgid "COMMENT_HIDDEN_SELF"
-msgstr "Comment hidden by author"
-
-msgid "COMMENT_HIDDEN_RECIPIENT"
-msgstr "Comment hidden by Flipnote author"
-
-msgid "COMMENT_HIDDEN_MODERATOR"
-msgstr "Comment hidden by moderator"
+msgid "TIMESTAMP"
+msgstr "Tijd"

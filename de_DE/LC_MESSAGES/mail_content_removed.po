@@ -3,38 +3,8 @@ msgstr ""
 "Language: de_DE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-# Content Removed - sent to user when a piece of their content has been moderated away
-msgid "NOTICE"
-msgstr "Benachrichtigung"
-
-# # Intro
-msgid "USER_CONTENT_REMOVED"
-msgstr "Einer deiner auf Sudomemo geposteten Inhalte wurden entfernt, da sie gegen die Inhaltsrichtlinien und AGB von Sudomemo verstoßen."
-
-# # Content types
-msgid "CONTENT_TYPE_flipnote"
-msgstr "Flipnote"
-
-msgid "CONTENT_TYPE_comment"
-msgstr "Kommentar"
-
-msgid "CONTENT_TYPE_chat_message"
-msgstr "Chat-Nachricht"
-
-# ## We plan on adding user-created themes.
-msgid "CONTENT_TYPE_room_theme"
-msgstr "Ersteller-Raum-Thema"
-
-msgid "CONTENT_TYPE_profile_bio"
-msgstr "Biografie"
-
-# ## Catch-all
-msgid "CONTENT_TYPE_content"
-msgstr "Sonstiges"
-
-# # continued message...
-msgid "REMOVAL_REASON_HEADER"
-msgstr "Dieser Inhalt wurde wegen mindestens einem der folgenden Gründe entfernt:"
+msgid "CONTENT_ID"
+msgstr "Content-ID:"
 
 msgid "CONTENT_POLICY_REVIEW_INTRO"
 msgstr "Wir verstehen, dass, wenn Richtlinien auf künstlerische Entfaltung treffen, Kontext und Präsentation in Erwägung gezogen werden müssen."
@@ -42,14 +12,36 @@ msgstr "Wir verstehen, dass, wenn Richtlinien auf künstlerische Entfaltung tref
 msgid "CONTENT_POLICY_REVIEW_LINK"
 msgstr "Wir würden Dich bitten, unsere Inhaltsrichtlinien unter dem folgenden Link einzusehen:"
 
-msgid "HOW_TO_APPEAL"
-msgstr "Wenn du der Meinung bist, dass diese Entscheidung nicht rechtmäßig getroffen wurde, kannst du unter dem folgenden Link Einspruch erheben:"
-
 msgid "CONTENT_TYPE"
 msgstr "Art des Inhalts:"
 
-msgid "CONTENT_ID"
-msgstr "Content-ID:"
+msgid "CONTENT_TYPE_chat_message"
+msgstr "Chat-Nachricht"
+
+msgid "CONTENT_TYPE_comment"
+msgstr "Kommentar"
+
+# ## Catch-all
+msgid "CONTENT_TYPE_content"
+msgstr "Sonstiges"
+
+# # Content types
+msgid "CONTENT_TYPE_flipnote"
+msgstr "Flipnote"
+
+msgid "CONTENT_TYPE_profile_bio"
+msgstr "Biografie"
+
+# ## We plan on adding user-created themes.
+msgid "CONTENT_TYPE_room_theme"
+msgstr "Ersteller-Raum-Thema"
+
+msgid "HOW_TO_APPEAL"
+msgstr "Wenn du der Meinung bist, dass diese Entscheidung nicht rechtmäßig getroffen wurde, kannst du unter dem folgenden Link Einspruch erheben:"
+
+# Content Removed - sent to user when a piece of their content has been moderated away
+msgid "NOTICE"
+msgstr "Benachrichtigung"
 
 # # re-download will be made available for certain content types
 msgid "REDOWNLOAD_HEADER"
@@ -57,3 +49,11 @@ msgstr "Wenn du deine(n) %s bearbeiten möchtest, kannst du dies %s tun"
 
 msgid "REDOWNLOAD_LINK"
 msgstr "hier"
+
+# # continued message...
+msgid "REMOVAL_REASON_HEADER"
+msgstr "Dieser Inhalt wurde wegen mindestens einem der folgenden Gründe entfernt:"
+
+# # Intro
+msgid "USER_CONTENT_REMOVED"
+msgstr "Einer deiner auf Sudomemo geposteten Inhalte wurden entfernt, da sie gegen die Inhaltsrichtlinien und AGB von Sudomemo verstoßen."

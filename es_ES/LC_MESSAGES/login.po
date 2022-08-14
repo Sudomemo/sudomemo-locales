@@ -39,6 +39,9 @@ msgstr "Agregar dirección de Correo electrónico"
 msgid "BUTTON_CHANGE_EMAIL"
 msgstr "Cambiar dirección de Correo electrónico aquí"
 
+msgid "BUTTON_CHANGE_PASSWORD"
+msgstr "Cambiar contraseña"
+
 msgid "BUTTON_CHECK_VERIFICATION"
 msgstr "Verificar el estado de confirmación"
 
@@ -57,113 +60,108 @@ msgstr "Iniciar sesión en Sudomemo"
 msgid "BUTTON_SUBMIT"
 msgstr "Enviar"
 
-msgid "LOGIN_SUCCESSFUL"
-msgstr "Ha iniciado sesión exitosamente"
+msgid "CONFIRM_INFO_CORRECT"
+msgstr "Por favor verifíca que la información que introduciste es correcta."
 
-msgid "THANKS_FOR_LOGIN_FORMAT"
-msgstr "Gracias por iniciar sesión, %s!"
+msgid "CONTACT_SUPPORT_EMAIL_FORMAT"
+msgstr "Por favor contacta a %s."
 
-msgid "GOTO_CREATORS_ROOM"
-msgstr "Ir a la Sala del Creador"
+msgid "CONTINUE_TO_LOGIN"
+msgstr "Continuar al inicio de sesión"
 
-msgid "LOGIN"
-msgstr "Iniciar sesión"
+msgid "CREATORS_ROOM_SHIM_PLEASE_LOGIN"
+msgstr "¡Bienvenido a Sudomemo! Por favor inicia sesión para entrar."
 
-msgid "POST_COMMENT_BELOW"
-msgstr "To continue, please submit a drawn comment (it can be blank)."
-
-msgid "LOGIN_SETUP"
-msgstr "Configuración de inicio de sesión"
-
-msgid "WELCOME_BACK_FORMAT"
-msgstr "Bienvenido de vuelta!, %s!"
-
-msgid "RETURNING_USER_NEW_LOGIN_SYSTEM"
-msgstr "Desde la última vez que iniciaste sesión, hemos agregado un nuevo sistema de inicio de sesión -- Pero no te preocupes,¡ todo tu contenido sigue aqui!"
-
-msgid "RETURNING_USER_PLEASE_CREATE_PASSWORD"
-msgstr "Para comenzar, crea una nueva contraseña aquí abajo."
-
-msgid "NEW_USER_WELCOME_FORMAT"
-msgstr "Bienvenido a Sudomemo, %s!"
-
-msgid "NEW_USER_PLEASE_CREATE_PASSWORD"
-msgstr "Por favor crea una nueva contraseña."
-
-msgid "FORM_HEADER_PASSWORD"
-msgstr "Contraseña:"
-
-msgid "FORM_PREFILL_PASSWORD"
-msgstr "Introduce tu contraseña aquí..."
-
-msgid "FORM_WARNING_PASSWORD_TOO_SHORT"
-msgstr "Por favor introduce una contraseña con más de 8 caracteres."
-
-msgid "FORM_WARNING_PASSWORD_DISALLOWED_CHARS"
-msgstr "Tu contraseña no puede contener ninguno de estos caracteres:"
-
-msgid "FORM_LABEL_DONT_FORGET_PASSWORD"
-msgstr "¡Recuerda tener apuntada tu contraseña, y mantenerla segura!"
-
-msgid "FORM_HEADER_EMAIL"
-msgstr "Correo electrónico:"
-
-msgid "FORM_PREFILL_EMAIL"
-msgstr "Introduce tu Correo electrónico aquí..."
-
-msgid "FORM_WARNING_EMAIL_INVALID"
-msgstr "La dirección de Correo electrónico que has introducido no es válida."
-
-msgid "EMAIL_ADDITION_SUGGESTED"
-msgstr "El Correo electrónico es opcional, pero muy recomendado. Si llegas a olvidar tu contraseña, te enviaremos un Correo electrónico para que la recuperes."
+msgid "CREATORS_ROOM_SHIM_WELCOME"
+msgstr "¡Bienvenido!"
 
 msgid "EMAIL_ADDITION_DETAILS"
 msgstr "Si en algún momento pierdes tu contraseña, te enviaremos un enlace para reestablecerla a tu Correo electrónico."
 
-msgid "CONFIRM_INFO_CORRECT"
-msgstr "Por favor verifíca que la información que introduciste es correcta."
+msgid "EMAIL_ADDITION_SUGGESTED"
+msgstr "El Correo electrónico es opcional, pero muy recomendado. Si llegas a olvidar tu contraseña, te enviaremos un Correo electrónico para que la recuperes."
 
-msgid "NO_PLAINTEXT_PASSWORD_RECOVERY_IF_LOST"
-msgstr "Después de este punto, no podrémos recuperar tu contraseña."
+msgid "EMAIL_CONFIRMATION_SENT_FORMAT"
+msgstr "Un Correo de confirmación ha sido enviado a %s. Por favor verifícalo en unos cuantos minutos."
 
-msgid "BUTTON_CHANGE_PASSWORD"
-msgstr "Cambiar contraseña"
+msgid "EMAIL_IS_DUPLICATE"
+msgstr "El correo electrónico que ingresaste ya está en uso."
 
-msgid "FORM_HEADER_EMAIL_CONFIRM"
-msgstr "Correo electrónico:"
+msgid "EMAIL_NOT_YET_VERIFIED"
+msgstr "Tu Correo electrónico aún no ha sido confirmado."
 
-msgid "PLEASE_ENTER_PASSWORD_TO_SIGN_IN"
-msgstr "Por favor introduce tu contraseña para iniciar sesión"
+msgid "EMAIL_REQUIRES_UPDATE"
+msgstr "Tu Correo electrónico necesita ser actualizado."
 
-msgid "LOGIN_FORM_PREFILL_PASSWORD"
-msgstr "Introduce tu contraseña"
+msgid "EMAIL_VERIFICATION_ADDRESS_REMOVED"
+msgstr "¡Lo sentimos! Hemos marcado esta dirección de email  as incorrecta, asi que ya no recibirás mas emails de Sudomemo."
 
-msgid "INCORRECT_PASSWORD_ATTEMPTS_FORMAT"
-msgstr "Intentos de introducir contraseña: %s"
-
-msgid "REGISTRATION_ERROR_BAD_EMAIL"
-msgstr "El Correo electrónico que has introducido no esta permitido."
-
-msgid "REGISTRATION_ERROR_BAD_PASSWORD"
-msgstr "La contraseña que has introducido no esta permitida."
+msgid "EMAIL_VERIFIED"
+msgstr "¡Gracias por confirmar tu Correo!"
 
 msgid "ERROR"
 msgstr "Error"
 
-msgid "REGISTRATION_ERROR_PASSWORD_ALREADY_SET"
-msgstr "Contraseña ya ha sido establecida."
+msgid "FORGOT_PASSWORD_LINK"
+msgstr "¿Olvidaste tu contraseña?"
 
-msgid "NEW_USER_THANKS_FOR_REGISTRATION"
-msgstr "¡Bienvenido a Sudomemo!"
+msgid "FORM_HEADER_EMAIL"
+msgstr "Correo electrónico:"
 
-msgid "RETURNING_USER_THANKS_FOR_REGISTRATION"
-msgstr "¡Bienvenido de vuelta! Gracias por configurar tu información de inicio de sesión."
+msgid "FORM_HEADER_EMAIL_CONFIRM"
+msgstr "Correo electrónico:"
+
+msgid "FORM_HEADER_PASSWORD"
+msgstr "Contraseña:"
+
+msgid "FORM_LABEL_DONT_FORGET_PASSWORD"
+msgstr "¡Recuerda tener apuntada tu contraseña, y mantenerla segura!"
+
+msgid "FORM_PREFILL_EMAIL"
+msgstr "Introduce tu Correo electrónico aquí..."
+
+msgid "FORM_PREFILL_PASSWORD"
+msgstr "Introduce tu contraseña aquí..."
+
+msgid "FORM_WARNING_EMAIL_INVALID"
+msgstr "La dirección de Correo electrónico que has introducido no es válida."
+
+msgid "FORM_WARNING_PASSWORD_DISALLOWED_CHARS"
+msgstr "Tu contraseña no puede contener ninguno de estos caracteres:"
+
+msgid "FORM_WARNING_PASSWORD_TOO_SHORT"
+msgstr "Por favor introduce una contraseña con más de 8 caracteres."
+
+msgid "GOTO_CREATORS_ROOM"
+msgstr "Ir a la Sala del Creador"
+
+msgid "GUIDE_MAIN_MENU_SHORTCUT"
+msgstr "Puedes regresar al menú principal presionando L (o R si eres zurdo) y el botón de 'Menú'."
+
+msgid "HEADER_UPDATE_EMAIL"
+msgstr "Actualizar correo"
+
+msgid "HEADER_VERIFICATION_EXPIRED"
+msgstr "Confirmación expirada"
+
+msgid "HEADER_VERIFY_EMAIL"
+msgstr "Confirmar Correo"
+
+msgid "INCORRECT_PASSWORD_ATTEMPTS_FORMAT"
+msgstr "Intentos de introducir contraseña: %s"
+
+# A URL will be shown at the end of this.
+msgid "LEGACY_PROXY_WARNING"
+msgstr "Parece que todavía estás usando el proxy ds.sudomemo.net, para el que hemos dejado de admitir. Debes desactivar el proxy en la Configuración del sistema, o podría tener problemas para usar Sudomemo. Para más información visite: "
+
+msgid "LOGIN"
+msgstr "Iniciar sesión"
 
 msgid "LOGIN_FAILED"
 msgstr "Inicio de sesión fallido."
 
-msgid "LOGIN_FAILED_REOPEN_FLIPNOTE_STUDIO"
-msgstr "Inicio de sesión fallido. Cierra y abre Flipnote Studio."
+msgid "LOGIN_FAILED_BANNED_LINE1"
+msgstr "Tus interacciones han sido restringidas de Sudomemo."
 
 msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE1"
 msgstr "Los datos de esta Flipnote están corruptos."
@@ -171,56 +169,89 @@ msgstr "Los datos de esta Flipnote están corruptos."
 msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE2"
 msgstr "Prueba mandarlo una vez más."
 
-msgid "LOGIN_FAILED_BANNED_LINE1"
-msgstr "Tus interacciones han sido restringidas de Sudomemo."
+msgid "LOGIN_FAILED_REOPEN_FLIPNOTE_STUDIO"
+msgstr "Inicio de sesión fallido. Cierra y abre Flipnote Studio."
 
-msgid "CONTACT_SUPPORT_EMAIL_FORMAT"
-msgstr "Por favor contacta a %s."
+msgid "LOGIN_FORM_PREFILL_PASSWORD"
+msgstr "Introduce tu contraseña"
 
-msgid "CREATORS_ROOM_SHIM_WELCOME"
-msgstr "¡Bienvenido!"
+msgid "LOGIN_SETUP"
+msgstr "Configuración de inicio de sesión"
 
-msgid "CREATORS_ROOM_SHIM_PLEASE_LOGIN"
-msgstr "¡Bienvenido a Sudomemo! Por favor inicia sesión para entrar."
+msgid "LOGIN_SUCCESSFUL"
+msgstr "Ha iniciado sesión exitosamente"
 
-msgid "GUIDE_MAIN_MENU_SHORTCUT"
-msgstr "Puedes regresar al menú principal presionando L (o R si eres zurdo) y el botón de 'Menú'."
+msgid "NEW_USER_INTRO_POST_INTRO_CHANNEL"
+msgstr "Cuando estés listo, preséntate en nuestro canal de introducción, bajo la categoría personal."
 
-msgid "SORRY_NO_LOGIN"
-msgstr "Lo sentimos, ¡pero no pudimos iniciar tu sesión!"
+msgid "NEW_USER_PLEASE_CREATE_PASSWORD"
+msgstr "Por favor crea una nueva contraseña."
 
-msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
-msgstr "Si necesitas ayuda para conectarte, eres libre de preguntar en nuestro Discord! Puedes unirte desde %s."
+msgid "NEW_USER_THANKS_FOR_REGISTRATION"
+msgstr "¡Bienvenido a Sudomemo!"
 
-msgid "FORGOT_PASSWORD_LINK"
-msgstr "¿Olvidaste tu contraseña?"
-
-msgid "EMAIL_IS_DUPLICATE"
-msgstr "El correo electrónico que ingresaste ya está en uso."
-
-msgid "EMAIL_CONFIRMATION_SENT_FORMAT"
-msgstr "Un Correo de confirmación ha sido enviado a %s. Por favor verifícalo en unos cuantos minutos."
-
-msgid "EMAIL_NOT_YET_VERIFIED"
-msgstr "Tu Correo electrónico aún no ha sido confirmado."
-
-msgid "EMAIL_VERIFIED"
-msgstr "¡Gracias por confirmar tu Correo!"
-
-msgid "EMAIL_REQUIRES_UPDATE"
-msgstr "Tu Correo electrónico necesita ser actualizado."
-
-msgid "VERIFICATION_NEEDED"
-msgstr "Necesitamos verificar tu Correo electrónico."
+msgid "NEW_USER_WELCOME_FORMAT"
+msgstr "Bienvenido a Sudomemo, %s!"
 
 msgid "NOT_RECEIVING_HELP_FORMAT"
 msgstr "¿Sigues sin recibir el Correo? Puedes hablar con nosotros en el Discord de Sudomemo o vía %s."
 
-msgid "HEADER_VERIFY_EMAIL"
-msgstr "Confirmar Correo"
+msgid "NO_PLAINTEXT_PASSWORD_RECOVERY_IF_LOST"
+msgstr "Después de este punto, no podrémos recuperar tu contraseña."
+
+msgid "PLEASE_DISCONNECT_AND_RECONNECT"
+msgstr "Ocurrió un error. Para volver a intentarlo, desconéctese y luego conéctese a Sudomemo."
+
+msgid "PLEASE_ENTER_PASSWORD_TO_SIGN_IN"
+msgstr "Por favor introduce tu contraseña para iniciar sesión"
+
+msgid "POST_COMMENT_BELOW"
+msgstr "To continue, please submit a drawn comment (it can be blank)."
+
+msgid "REGISTRATION_ERROR_BAD_EMAIL"
+msgstr "El Correo electrónico que has introducido no esta permitido."
+
+msgid "REGISTRATION_ERROR_BAD_PASSWORD"
+msgstr "La contraseña que has introducido no esta permitida."
+
+msgid "REGISTRATION_ERROR_PASSWORD_ALREADY_SET"
+msgstr "Contraseña ya ha sido establecida."
+
+msgid "RETURNING_USER_NEW_LOGIN_SYSTEM"
+msgstr "Desde la última vez que iniciaste sesión, hemos agregado un nuevo sistema de inicio de sesión -- Pero no te preocupes,¡ todo tu contenido sigue aqui!"
+
+msgid "RETURNING_USER_PLEASE_CREATE_PASSWORD"
+msgstr "Para comenzar, crea una nueva contraseña aquí abajo."
+
+msgid "RETURNING_USER_THANKS_FOR_REGISTRATION"
+msgstr "¡Bienvenido de vuelta! Gracias por configurar tu información de inicio de sesión."
+
+msgid "SEARCH_FOR_SENDER_EMAIL_FORMAT"
+msgstr "¿Aún no has recibido el correo? Échale un vistazo a tu correo basura (Spam), y busca por %s. Si lo encuentras y está marcado como Spam, por favor asegúrate de primero marcar No es Spam."
+
+msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
+msgstr "Si necesitas ayuda para conectarte, eres libre de preguntar en nuestro Discord! Puedes unirte desde %s."
+
+msgid "SORRY_NO_LOGIN"
+msgstr "Lo sentimos, ¡pero no pudimos iniciar tu sesión!"
+
+msgid "THANKS_FOR_LOGIN_FORMAT"
+msgstr "Gracias por iniciar sesión, %s!"
+
+msgid "THANKS_FOR_LOGIN_PROMPT_INTRO"
+msgstr "¡Bienvenido a Sudomemo! ¡Ahora, escriba un pequeño mensaje para decir quién es usted! (Esto se publicará como una Flipnote en nuestro canal de Presentaciones)."
+
+msgid "THANK_YOU_FOR_UPDATING_EMAIL"
+msgstr "¡Gracias por actualizar tu correo electrónico!"
+
+msgid "VERIFICATION_EXPIRED_TEXT"
+msgstr "La URL de confirmación ha expirado o ya ha sido usada."
 
 msgid "VERIFICATION_LIMIT_EXCEEDED_FORMAT"
 msgstr "Has excedido el número máximo de correos de confirmación. Por favor, contáctanos por %s o vía Discord."
+
+msgid "VERIFICATION_NEEDED"
+msgstr "Necesitamos verificar tu Correo electrónico."
 
 msgid "WEB_HEADER_SUCCESS"
 msgstr "¡Exitoso!"
@@ -228,36 +259,5 @@ msgstr "¡Exitoso!"
 msgid "WEB_TAP_CHECK_VERIFICATION_STATUS"
 msgstr "Ve y presiona 'Verificar el estado de confirmación' en tu sistema Nintendo DSi."
 
-msgid "HEADER_VERIFICATION_EXPIRED"
-msgstr "Confirmación expirada"
-
-msgid "VERIFICATION_EXPIRED_TEXT"
-msgstr "La URL de confirmación ha expirado o ya ha sido usada."
-
-msgid "CONTINUE_TO_LOGIN"
-msgstr "Continuar al inicio de sesión"
-
-msgid "HEADER_UPDATE_EMAIL"
-msgstr "Actualizar correo"
-
-msgid "THANK_YOU_FOR_UPDATING_EMAIL"
-msgstr "¡Gracias por actualizar tu correo electrónico!"
-
-msgid "SEARCH_FOR_SENDER_EMAIL_FORMAT"
-msgstr "¿Aún no has recibido el correo? Échale un vistazo a tu correo basura (Spam), y busca por %s. Si lo encuentras y está marcado como Spam, por favor asegúrate de primero marcar No es Spam."
-
-msgid "NEW_USER_INTRO_POST_INTRO_CHANNEL"
-msgstr "Cuando estés listo, preséntate en nuestro canal de introducción, bajo la categoría personal."
-
-msgid "EMAIL_VERIFICATION_ADDRESS_REMOVED"
-msgstr "¡Lo sentimos! Hemos marcado esta dirección de email  as incorrecta, asi que ya no recibirás mas emails de Sudomemo."
-
-msgid "THANKS_FOR_LOGIN_PROMPT_INTRO"
-msgstr "¡Bienvenido a Sudomemo! ¡Ahora, escriba un pequeño mensaje para decir quién es usted! (Esto se publicará como una Flipnote en nuestro canal de Presentaciones)."
-
-msgid "PLEASE_DISCONNECT_AND_RECONNECT"
-msgstr "Ocurrió un error. Para volver a intentarlo, desconéctese y luego conéctese a Sudomemo."
-
-# A URL will be shown at the end of this.
-msgid "LEGACY_PROXY_WARNING"
-msgstr "Parece que todavía estás usando el proxy ds.sudomemo.net, para el que hemos dejado de admitir. Debes desactivar el proxy en la Configuración del sistema, o podría tener problemas para usar Sudomemo. Para más información visite: "
+msgid "WELCOME_BACK_FORMAT"
+msgstr "Bienvenido de vuelta!, %s!"

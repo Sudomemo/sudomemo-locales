@@ -3,47 +3,32 @@ msgstr ""
 "Language: cy_GB\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "GET_STARTED"
-msgstr "Dechrau"
-
-msgid "WATCH_FLIPNOTES"
-msgstr "Gwylio Flipnotes"
-
-msgid "CHANNELS"
-msgstr "Sianelau"
+msgid "ABOUT_SUDOMEMO"
+msgstr "Amdanom ni"
 
 msgid "CATEGORIES"
 msgstr "Categoriau"
 
-msgid "FEATURED"
-msgstr "Ymddangos"
-
-msgid "HOT_FLIPNOTES"
-msgstr "Flipnote Poblogaidd"
-
-msgid "ABOUT_SUDOMEMO"
-msgstr "Amdanom ni"
-
-msgid "CREATORS_ROOM"
-msgstr "Ystafell y Crewr"
-
-msgid "NEWS"
-msgstr "Newyddion Sudomemo"
+msgid "CHANNELS"
+msgstr "Sianelau"
 
 msgid "CHATROOMS"
 msgstr "Ystafelloedd Sgwrsio"
 
-msgid "SEARCH"
-msgstr "Chwiliwch"
+msgid "CREATORS_ROOM"
+msgstr "Ystafell y Crewr"
 
-msgid "SEARCH_USER"
-msgstr "Chwiliwch Defnyddiwr"
+msgid "FEATURED"
+msgstr "Ymddangos"
 
-msgid "SEARCH_FLIPNOTE"
-msgstr "Chwiliwch Flipnote"
+msgid "GET_STARTED"
+msgstr "Dechrau"
 
-msgid "RELOAD_USER"
-msgstr "Ail-lwytho Defnyddiwr"
+msgid "HELP"
+msgstr "Help"
+
+msgid "HOT_FLIPNOTES"
+msgstr "Flipnote Poblogaidd"
 
 msgid "LOGIN"
 msgstr "Mewngofnodi"
@@ -51,17 +36,32 @@ msgstr "Mewngofnodi"
 msgid "LOGOUT"
 msgstr "Allgofnodi"
 
+msgid "MAIL"
+msgstr "Bost"
+
+msgid "NEWS"
+msgstr "Newyddion Sudomemo"
+
 msgid "REGISTER"
 msgstr "Cofrestrwch"
 
-msgid "THEME_SHOP"
-msgstr "Siop Thema"
+msgid "RELOAD_USER"
+msgstr "Ail-lwytho Defnyddiwr"
 
-msgid "MAIL"
-msgstr "Bost"
+msgid "SEARCH"
+msgstr "Chwiliwch"
+
+msgid "SEARCH_FLIPNOTE"
+msgstr "Chwiliwch Flipnote"
+
+msgid "SEARCH_USER"
+msgstr "Chwiliwch Defnyddiwr"
 
 msgid "TEST_TRANSLATION"
 msgstr "Cyfieithu Saesneg"
 
-msgid "HELP"
-msgstr "Help"
+msgid "THEME_SHOP"
+msgstr "Siop Thema"
+
+msgid "WATCH_FLIPNOTES"
+msgstr "Gwylio Flipnotes"

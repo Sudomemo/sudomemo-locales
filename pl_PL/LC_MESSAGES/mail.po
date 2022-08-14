@@ -3,26 +3,38 @@ msgstr ""
 "Language: pl_PL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-# This contains common strings used for the general notification ("mail") system as well
-# Common
-msgid "LOGIN_FIRST_TO_ACCESS_MAIL"
-msgstr "Musisz się zalogować żeby to wyświetlić."
-
 msgid "CONTINUE"
 msgstr "Kontynuuj"
 
 msgid "HEADER_INBOX"
 msgstr "Odebrane"
 
-# this must be a max of 6 characters
-msgid "UNAUTHED_READ"
-msgstr "Czytaj"
+# This contains common strings used for the general notification ("mail") system as well
+# Common
+msgid "LOGIN_FIRST_TO_ACCESS_MAIL"
+msgstr "Musisz się zalogować żeby to wyświetlić."
+
+# Not found
+msgid "MAIL_NOT_FOUND"
+msgstr "Ta wiadomość nie istnieje."
+
+msgid "NEXT"
+msgstr "Następny"
 
 msgid "PREV"
 msgstr "Poprzedni"
 
-msgid "NEXT"
-msgstr "Następny"
+msgid "TITLE_INFO"
+msgstr "Informacja"
+
+msgid "TITLE_MESSAGE"
+msgstr "Wiadomość"
+
+msgid "TITLE_NEWS"
+msgstr "Wiadomości"
+
+msgid "TITLE_NOTICE"
+msgstr "Powiadomienie"
 
 # Titles
 msgid "TITLE_SPINOFF"
@@ -31,18 +43,6 @@ msgstr "Spin-off"
 msgid "TITLE_WARNING"
 msgstr "Uwaga"
 
-msgid "TITLE_NOTICE"
-msgstr "Powiadomienie"
-
-msgid "TITLE_MESSAGE"
-msgstr "Wiadomość"
-
-msgid "TITLE_NEWS"
-msgstr "Wiadomości"
-
-msgid "TITLE_INFO"
-msgstr "Informacja"
-
-# Not found
-msgid "MAIL_NOT_FOUND"
-msgstr "Ta wiadomość nie istnieje."
+# this must be a max of 6 characters
+msgid "UNAUTHED_READ"
+msgstr "Czytaj"

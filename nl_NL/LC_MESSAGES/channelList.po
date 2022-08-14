@@ -3,23 +3,23 @@ msgstr ""
 "Language: nl_NL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "UPPERTITLE"
-msgstr "Kanalen"
-
-msgid "UPPERSUBBOTTOM"
-msgstr "Selecteer alsjeblieft een kanaal!"
+msgid "FAVORITES"
+msgstr "Favorieten"
 
 msgid "NEXT"
 msgstr "Volgende pagina"
-
-msgid "PREV"
-msgstr "Vorige pagina"
-
-msgid "FAVORITES"
-msgstr "Favorieten"
 
 msgid "PAGE"
 msgstr "Pagina"
 
 msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d van %d"
+
+msgid "PREV"
+msgstr "Vorige pagina"
+
+msgid "UPPERSUBBOTTOM"
+msgstr "Selecteer alsjeblieft een kanaal!"
+
+msgid "UPPERTITLE"
+msgstr "Kanalen"

@@ -3,15 +3,6 @@ msgstr ""
 "Language: pl_PL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "SET_PEN_COLOR"
-msgstr "Ustaw kolor długopisu"
-
-msgid "SET_PAPER_COLOR"
-msgstr "Ustaw kolor papieru"
-
-msgid "SELECT_A_COLOR"
-msgstr "Wybierz kolor."
-
 msgid "CURRENT_COLOR"
 msgstr "Aktualny kolor:"
 
@@ -20,3 +11,12 @@ msgstr "Aktualny kolor: domyślny"
 
 msgid "RETURN"
 msgstr "Wróć"
+
+msgid "SELECT_A_COLOR"
+msgstr "Wybierz kolor."
+
+msgid "SET_PAPER_COLOR"
+msgstr "Ustaw kolor papieru"
+
+msgid "SET_PEN_COLOR"
+msgstr "Ustaw kolor długopisu"

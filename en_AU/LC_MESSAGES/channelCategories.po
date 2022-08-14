@@ -3,29 +3,29 @@ msgstr ""
 "Language: en_AU\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "UPPERTITLE"
-msgstr "Categories"
-
 msgid "ART"
 msgstr "Art"
-
-msgid "GENRES"
-msgstr "Genres"
-
-msgid "TOPICS"
-msgstr "Topics"
-
-msgid "ROLEPLAYS"
-msgstr "Roleplays"
 
 msgid "FANDOMS"
 msgstr "Fandoms"
 
-msgid "RESOURCES"
-msgstr "Resources"
+msgid "GENRES"
+msgstr "Genres"
 
 msgid "PERSONAL"
 msgstr "Personal"
+
+msgid "RESOURCES"
+msgstr "Resources"
+
+msgid "ROLEPLAYS"
+msgstr "Roleplays"
+
+msgid "TOPICS"
+msgstr "Topics"
+
+msgid "UPPERTITLE"
+msgstr "Categories"
 
 msgid "WEEKLY_TOPICS"
 msgstr "Weekly Topics"

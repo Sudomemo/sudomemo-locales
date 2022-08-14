@@ -3,155 +3,155 @@ msgstr ""
 "Language: sv_SE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "ACHIEVEMENT_EARNED"
+msgstr "Du fick Prestation!"
+
+msgid "CASE_IS_EMPTY"
+msgstr "Troféfallet är tomt."
+
+msgid "CONTINUE"
+msgstr "Fortsätt"
+
 # Trophy Case
 # # UI Headers, messages, labels
 msgid "TROPHY_CASE"
 msgstr "Troféfall"
 
-msgid "CASE_IS_EMPTY"
-msgstr "Troféfallet är tomt."
+msgid "TROPHY_DESC_7th_birthday_bash"
+msgstr "Attended Sudomemo's 7 Years of Flipnote Fun event"
 
-msgid "ACHIEVEMENT_EARNED"
-msgstr "Du fick Prestation!"
+msgid "TROPHY_DESC_8th_birthday_bash"
+msgstr "Attended Sudomemo's 8 Years of Flipnote Fun event"
 
-msgid "CONTINUE"
-msgstr "Fortsätt"
+msgid "TROPHY_DESC_archive_supporter"
+msgstr "Contributor to the Flipnote Archive Ko-Fi to help preserve Flipnote history!"
+
+msgid "TROPHY_DESC_colors_promo"
+msgstr "En av vinnarna i Sudomemo x Colors gemensamma ämne, Into The Light"
+
+msgid "TROPHY_DESC_demo_tester"
+msgstr "Delta i Sudomemo Update Demo Testing programmet 2017"
+
+msgid "TROPHY_DESC_early_adopter"
+msgstr "Gå med i Sudomemo under vår första månad"
+
+msgid "TROPHY_DESC_featured_artist"
+msgstr "Bli känd som Sudomemo kända Artist"
+
+msgid "TROPHY_DESC_featured_flipnote"
+msgstr "Ha en känd Flipnote"
+
+msgid "TROPHY_DESC_ffotd"
+msgstr "Lägg up din första Flipnote av årtiondet"
+
+msgid "TROPHY_DESC_fifth_bday_event"
+msgstr "Deltog i Sudomemos femte födelsedagskalas"
+
+msgid "TROPHY_DESC_folder"
+msgstr "Donera extra neräknad tid till Folding@Home för att bekämpa sjukdomar"
+
+msgid "TROPHY_DESC_legacy_citizen"
+msgstr "Hade Sudomemo Citizenship innan det blev Plus"
+
+msgid "TROPHY_DESC_meet_bailey_flitwing"
+msgstr "Nyfiken om världen utanför hennes bo."
+
+msgid "TROPHY_DESC_meet_lazy_paisley"
+msgstr "Njuter av sit lätta liv. Och mat."
+
+msgid "TROPHY_DESC_meet_mitsuo_meow"
+msgstr "Vill medföra tur och glädje till folker omkring henne."
+
+msgid "TROPHY_DESC_meet_russell_ramblewood"
+msgstr "Han är lite för prålig, men vill fortfarande höra om din dag."
+
+msgid "TROPHY_DESC_meet_ziggy_starburst"
+msgstr "Lever livet varje dag med med lite mer stil."
+
+msgid "TROPHY_DESC_neighborhood_watch"
+msgstr "Rapportera rätt innehåll som är mot vår innehållspolicy"
+
+msgid "TROPHY_DESC_nitro_booster"
+msgstr "Showed how cool they (or a friend) were by boosting the Sudomemo Discord server."
+
+msgid "TROPHY_DESC_one_million_flips_event"
+msgstr "Delta i En miljon flipnotes händelsen"
+
+msgid "TROPHY_DESC_spookmaster"
+msgstr "Spookmaster Award for Excellence in Witchcraft and Wizardry."
+
+msgid "TROPHY_DESC_translator"
+msgstr "Bidra med översättningar för att göra Sudomemo öppen till alla"
+
+msgid "TROPHY_DESC_weekly_topic_winner"
+msgstr "Lägg upp en vinnande Flipnote till Sudomemos Weekly Topic"
+
+msgid "TROPHY_NAME_7th_birthday_bash"
+msgstr "7th Birthday Bash"
+
+msgid "TROPHY_NAME_8th_birthday_bash"
+msgstr "8th Birthday Bash"
+
+msgid "TROPHY_NAME_archive_supporter"
+msgstr "Archive Supporter"
+
+msgid "TROPHY_NAME_colors_promo"
+msgstr "Colors! x Sudomemo Tema vinnare"
 
 # # Trophy names and descriptions
 msgid "TROPHY_NAME_demo_tester"
 msgstr "Demotester"
 
-msgid "TROPHY_DESC_demo_tester"
-msgstr "Delta i Sudomemo Update Demo Testing programmet 2017"
-
 msgid "TROPHY_NAME_early_adopter"
 msgstr "Tidig medlem"
-
-msgid "TROPHY_DESC_early_adopter"
-msgstr "Gå med i Sudomemo under vår första månad"
 
 msgid "TROPHY_NAME_featured_artist"
 msgstr "Känd Artist"
 
-msgid "TROPHY_DESC_featured_artist"
-msgstr "Bli känd som Sudomemo kända Artist"
-
 msgid "TROPHY_NAME_featured_flipnote"
 msgstr "Känd Flipnote"
-
-msgid "TROPHY_DESC_featured_flipnote"
-msgstr "Ha en känd Flipnote"
 
 msgid "TROPHY_NAME_ffotd"
 msgstr "Första Flipnote av årtiondet"
 
-msgid "TROPHY_DESC_ffotd"
-msgstr "Lägg up din första Flipnote av årtiondet"
-
 msgid "TROPHY_NAME_fifth_bday_event"
 msgstr "Sudomemos femte födelsedagskalas"
-
-msgid "TROPHY_DESC_fifth_bday_event"
-msgstr "Deltog i Sudomemos femte födelsedagskalas"
-
-msgid "TROPHY_NAME_legacy_citizen"
-msgstr "Tidig Medborgare"
-
-msgid "TROPHY_DESC_legacy_citizen"
-msgstr "Hade Sudomemo Citizenship innan det blev Plus"
-
-msgid "TROPHY_NAME_meet_lazy_paisley"
-msgstr "Möt Lazy Paisley"
-
-msgid "TROPHY_DESC_meet_lazy_paisley"
-msgstr "Njuter av sit lätta liv. Och mat."
-
-msgid "TROPHY_NAME_meet_bailey_flitwing"
-msgstr "Möt Bailey Flitwing"
-
-msgid "TROPHY_DESC_meet_bailey_flitwing"
-msgstr "Nyfiken om världen utanför hennes bo."
-
-msgid "TROPHY_NAME_meet_ziggy_starburst"
-msgstr "Möt Ziggy Starburst"
-
-msgid "TROPHY_DESC_meet_ziggy_starburst"
-msgstr "Lever livet varje dag med med lite mer stil."
-
-msgid "TROPHY_NAME_meet_russell_ramblewood"
-msgstr "Möt Russell Ramblewood"
-
-msgid "TROPHY_DESC_meet_russell_ramblewood"
-msgstr "Han är lite för prålig, men vill fortfarande höra om din dag."
-
-msgid "TROPHY_NAME_meet_mitsuo_meow"
-msgstr "Möt Mitsuo Meow"
-
-msgid "TROPHY_DESC_meet_mitsuo_meow"
-msgstr "Vill medföra tur och glädje till folker omkring henne."
-
-msgid "TROPHY_NAME_neighborhood_watch"
-msgstr "Grannsamverkan"
-
-msgid "TROPHY_DESC_neighborhood_watch"
-msgstr "Rapportera rätt innehåll som är mot vår innehållspolicy"
-
-msgid "TROPHY_NAME_one_million_flips_event"
-msgstr "En miljon flipnotes händelse"
-
-msgid "TROPHY_DESC_one_million_flips_event"
-msgstr "Delta i En miljon flipnotes händelsen"
-
-msgid "TROPHY_NAME_translator"
-msgstr "Översättare"
-
-msgid "TROPHY_DESC_translator"
-msgstr "Bidra med översättningar för att göra Sudomemo öppen till alla"
-
-msgid "TROPHY_NAME_weekly_topic_winner"
-msgstr "Veckotemans vinnare"
-
-msgid "TROPHY_DESC_weekly_topic_winner"
-msgstr "Lägg upp en vinnande Flipnote till Sudomemos Weekly Topic"
 
 msgid "TROPHY_NAME_folder"
 msgstr "Mapp"
 
-msgid "TROPHY_DESC_folder"
-msgstr "Donera extra neräknad tid till Folding@Home för att bekämpa sjukdomar"
+msgid "TROPHY_NAME_legacy_citizen"
+msgstr "Tidig Medborgare"
 
-msgid "TROPHY_NAME_colors_promo"
-msgstr "Colors! x Sudomemo Tema vinnare"
+msgid "TROPHY_NAME_meet_bailey_flitwing"
+msgstr "Möt Bailey Flitwing"
 
-msgid "TROPHY_DESC_colors_promo"
-msgstr "En av vinnarna i Sudomemo x Colors gemensamma ämne, Into The Light"
+msgid "TROPHY_NAME_meet_lazy_paisley"
+msgstr "Möt Lazy Paisley"
 
-msgid "TROPHY_NAME_spookmaster"
-msgstr "Spookmaster"
+msgid "TROPHY_NAME_meet_mitsuo_meow"
+msgstr "Möt Mitsuo Meow"
 
-msgid "TROPHY_DESC_spookmaster"
-msgstr "Spookmaster Award for Excellence in Witchcraft and Wizardry."
+msgid "TROPHY_NAME_meet_russell_ramblewood"
+msgstr "Möt Russell Ramblewood"
+
+msgid "TROPHY_NAME_meet_ziggy_starburst"
+msgstr "Möt Ziggy Starburst"
+
+msgid "TROPHY_NAME_neighborhood_watch"
+msgstr "Grannsamverkan"
 
 msgid "TROPHY_NAME_nitro_booster"
 msgstr "Nitro Booster"
 
-msgid "TROPHY_DESC_nitro_booster"
-msgstr "Showed how cool they (or a friend) were by boosting the Sudomemo Discord server."
+msgid "TROPHY_NAME_one_million_flips_event"
+msgstr "En miljon flipnotes händelse"
 
-msgid "TROPHY_NAME_7th_birthday_bash"
-msgstr "7th Birthday Bash"
+msgid "TROPHY_NAME_spookmaster"
+msgstr "Spookmaster"
 
-msgid "TROPHY_DESC_7th_birthday_bash"
-msgstr "Attended Sudomemo's 7 Years of Flipnote Fun event"
+msgid "TROPHY_NAME_translator"
+msgstr "Översättare"
 
-msgid "TROPHY_NAME_8th_birthday_bash"
-msgstr "8th Birthday Bash"
-
-msgid "TROPHY_DESC_8th_birthday_bash"
-msgstr "Attended Sudomemo's 8 Years of Flipnote Fun event"
-
-msgid "TROPHY_NAME_archive_supporter"
-msgstr "Archive Supporter"
-
-msgid "TROPHY_DESC_archive_supporter"
-msgstr "Contributor to the Flipnote Archive Ko-Fi to help preserve Flipnote history!"
+msgid "TROPHY_NAME_weekly_topic_winner"
+msgstr "Veckotemans vinnare"

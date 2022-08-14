@@ -3,56 +3,41 @@ msgstr ""
 "Language: it_IT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "HEADER_PREV"
-msgstr "Prec"
-
 msgid "HEADER_NEXT"
 msgstr "Successivo"
 
-msgid "PAGE_FORMAT"
-msgstr "Pagina %d"
-
-msgid "SEARCH"
-msgstr "Cerca"
-
-msgid "USERNAME"
-msgstr "Nome utente"
-
-msgid "RESULTS"
-msgstr "Risultati"
-
-msgid "SEARCH_USERNAME"
-msgstr "Cerca nome utente"
-
-msgid "PLEASE_ENTER_USERNAME"
-msgstr "Inserisci un nome utente..."
-
-msgid "RESULTS_FOUND_FORMAT_SINGULAR"
-msgstr "%1$d risultato trovato per \"%2$s\""
-
-msgid "RESULTS_FOUND_FORMAT_MULTIPLE"
-msgstr "%1$d risultati trovati per \"%2$s\""
+msgid "HEADER_PREV"
+msgstr "Prec"
 
 msgid "NO_RESULTS_FOUND"
 msgstr "Nessun risultato trovato"
 
-msgid "SEARCH_SHORT_KEY"
-msgstr "ID Flipnote"
+msgid "PAGE"
+msgstr "Page"
 
-msgid "SHORT_KEY_NO_RESULTS"
-msgstr "Nessun Flipnote trovato"
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d of %d"
 
-msgid "SHORT_KEY_FORMAT_GUIDE"
-msgstr "Non trovi quello che cerchi? Potresti aver inserito l'ID Flipnote non correttamente. Gli ID Flipnote sono lunghi sei cifre e si trovano nella sezione dettagli dei Flipnote."
+msgid "PAGE_FORMAT"
+msgstr "Pagina %d"
 
-msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
-msgstr "Nessun risultato trovato, ma esiste un ID simile. Tieni presente che gli ID Flipnote sono case-sensitive, e solitamente hanno tutte le lettere maiuscole e numeri."
+msgid "PLEASE_ENTER_USERNAME"
+msgstr "Inserisci un nome utente..."
+
+msgid "RESULTS"
+msgstr "Risultati"
+
+msgid "RESULTS_FOUND_FORMAT_MULTIPLE"
+msgstr "%1$d risultati trovati per \"%2$s\""
+
+msgid "RESULTS_FOUND_FORMAT_SINGULAR"
+msgstr "%1$d risultato trovato per \"%2$s\""
+
+msgid "SEARCH"
+msgstr "Cerca"
 
 msgid "SEARCH_MUSICMATCH"
 msgstr "MusicMatch"
-
-msgid "SEARCH_MUSIC_BY_SONG"
-msgstr "By Song"
 
 msgid "SEARCH_MUSIC_BY_ARTIST"
 msgstr "By Artist"
@@ -60,8 +45,23 @@ msgstr "By Artist"
 msgid "SEARCH_MUSIC_BY_GENRE"
 msgstr "By Genre"
 
-msgid "PAGE"
-msgstr "Page"
+msgid "SEARCH_MUSIC_BY_SONG"
+msgstr "By Song"
 
-msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d of %d"
+msgid "SEARCH_SHORT_KEY"
+msgstr "ID Flipnote"
+
+msgid "SEARCH_USERNAME"
+msgstr "Cerca nome utente"
+
+msgid "SHORT_KEY_FORMAT_GUIDE"
+msgstr "Non trovi quello che cerchi? Potresti aver inserito l'ID Flipnote non correttamente. Gli ID Flipnote sono lunghi sei cifre e si trovano nella sezione dettagli dei Flipnote."
+
+msgid "SHORT_KEY_NO_RESULTS"
+msgstr "Nessun Flipnote trovato"
+
+msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
+msgstr "Nessun risultato trovato, ma esiste un ID simile. Tieni presente che gli ID Flipnote sono case-sensitive, e solitamente hanno tutte le lettere maiuscole e numeri."
+
+msgid "USERNAME"
+msgstr "Nome utente"

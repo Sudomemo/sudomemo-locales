@@ -3,56 +3,41 @@ msgstr ""
 "Language: sv_SE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "HEADER_PREV"
-msgstr "Före"
-
 msgid "HEADER_NEXT"
 msgstr "Nästa"
 
-msgid "PAGE_FORMAT"
-msgstr "Sida %d"
-
-msgid "SEARCH"
-msgstr "Sök"
-
-msgid "USERNAME"
-msgstr "Användarnamn"
-
-msgid "RESULTS"
-msgstr "Resultat"
-
-msgid "SEARCH_USERNAME"
-msgstr "Sök användarnamn"
-
-msgid "PLEASE_ENTER_USERNAME"
-msgstr "Skriv in ett användarnamn..."
-
-msgid "RESULTS_FOUND_FORMAT_SINGULAR"
-msgstr "%1$d resultat hittad för \"%2$s\""
-
-msgid "RESULTS_FOUND_FORMAT_MULTIPLE"
-msgstr "%1$d resultat hittad för \"%2$s\""
+msgid "HEADER_PREV"
+msgstr "Före"
 
 msgid "NO_RESULTS_FOUND"
 msgstr "Inga resultat hittade."
 
-msgid "SEARCH_SHORT_KEY"
-msgstr "FlipnoteID"
+msgid "PAGE"
+msgstr "Page"
 
-msgid "SHORT_KEY_NO_RESULTS"
-msgstr "Inga Flipnotes hittades"
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d of %d"
 
-msgid "SHORT_KEY_FORMAT_GUIDE"
-msgstr "Hittar inte vad du letar efter? Du kan ha skrivit ett felaktigt FlipnoteID, FlipnoteID:n är sex nummer långa och kan hittas i detaljsektionen för Flipnoten."
+msgid "PAGE_FORMAT"
+msgstr "Sida %d"
 
-msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
-msgstr "Inga resultat hittades, men en liknande ID finns. Vänligen notera att FlipnoteID:n är skiftlägeskänsliga, och är vanligtvis bara stora bokstäver och nummer."
+msgid "PLEASE_ENTER_USERNAME"
+msgstr "Skriv in ett användarnamn..."
+
+msgid "RESULTS"
+msgstr "Resultat"
+
+msgid "RESULTS_FOUND_FORMAT_MULTIPLE"
+msgstr "%1$d resultat hittad för \"%2$s\""
+
+msgid "RESULTS_FOUND_FORMAT_SINGULAR"
+msgstr "%1$d resultat hittad för \"%2$s\""
+
+msgid "SEARCH"
+msgstr "Sök"
 
 msgid "SEARCH_MUSICMATCH"
 msgstr "MusicMatch"
-
-msgid "SEARCH_MUSIC_BY_SONG"
-msgstr "By Song"
 
 msgid "SEARCH_MUSIC_BY_ARTIST"
 msgstr "By Artist"
@@ -60,8 +45,23 @@ msgstr "By Artist"
 msgid "SEARCH_MUSIC_BY_GENRE"
 msgstr "By Genre"
 
-msgid "PAGE"
-msgstr "Page"
+msgid "SEARCH_MUSIC_BY_SONG"
+msgstr "By Song"
 
-msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d of %d"
+msgid "SEARCH_SHORT_KEY"
+msgstr "FlipnoteID"
+
+msgid "SEARCH_USERNAME"
+msgstr "Sök användarnamn"
+
+msgid "SHORT_KEY_FORMAT_GUIDE"
+msgstr "Hittar inte vad du letar efter? Du kan ha skrivit ett felaktigt FlipnoteID, FlipnoteID:n är sex nummer långa och kan hittas i detaljsektionen för Flipnoten."
+
+msgid "SHORT_KEY_NO_RESULTS"
+msgstr "Inga Flipnotes hittades"
+
+msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
+msgstr "Inga resultat hittades, men en liknande ID finns. Vänligen notera att FlipnoteID:n är skiftlägeskänsliga, och är vanligtvis bara stora bokstäver och nummer."
+
+msgid "USERNAME"
+msgstr "Användarnamn"

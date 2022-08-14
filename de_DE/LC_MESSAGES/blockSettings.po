@@ -3,62 +3,62 @@ msgstr ""
 "Language: de_DE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "LOGIN_REQUIRED_TO_MANAGE_BLOCKS"
-msgstr "Du musst angemeldet sein, um blockierte Benutzer zu bearbeiten."
-
-msgid "NO_USERS_BLOCKED"
-msgstr "Du hast keine Benutzer blockiert."
-
 msgid "BLOCKED_USERS"
 msgstr "Blockierte Benutzer"
 
 msgid "BLOCK_USER"
 msgstr "Benutzer blockieren"
 
-msgid "COMMENT_BLOCK_IS_MUTUAL"
-msgstr "Wenn du einmal einen Benutzer blockiert hast, kannst du auf den Flipnotes des jeweils Anderen keine Kommentare verfassen."
-
-msgid "USER_HAS_BEEN_BLOCKED"
-msgstr "Dieser Benutzer wurde blockiert."
-
-msgid "IF_YOU_WISH_TO_UNBLOCK"
-msgstr "Wenn du einen Benutzer wieder entblocken möchtest, kannst du ihn in deinem Ersteller-Raum unter deinem Blockierte-Benutzer-Menü entblocken."
-
-msgid "CONFIRM_BLOCK"
-msgstr "Blockieren bestätigen"
-
-msgid "USER_ALREADY_BLOCKED"
-msgstr "Du hast diesen Benutzer schon blockiert. Du kannst ihn in deinem Ersteller-Raum unter Blockierte Benutzer entblocken. Du musst aber 24 Stunden warten, bis du ihn wieder blockieren kannst."
-
-msgid "ONE_DAY_WAIT_BEFORE_REBLOCK_FORMAT"
-msgstr "Du hast diesen Benutzer kürzlich entblockt. Du kannst ihn nicht nochmal bis vor %s blockieren."
-
-msgid "UNBLOCK"
-msgstr "Entblocken"
-
-msgid "LOGIN_REQUIRED"
-msgstr "Hierfür musst du angemeldet sein."
-
-msgid "TAP_BACK_TO_RETURN"
-msgstr "Tippe auf Zurück, um zu deinem Ersteller-Raum zurückzukehren."
-
-msgid "UNBLOCK_USER"
-msgstr "Benutzer entblocken"
-
 msgid "CANNOT_UNBLOCK_NONBLOCKED_USER"
 msgstr "Du kannst diesen Benutzer nicht entblocken, da du ihn nicht blockiert hast."
-
-msgid "USER_HAS_BEEN_UNBLOCKED"
-msgstr "Dieser Benutzer wurde entblockt."
 
 msgid "COMMENTING_ENABLED_AFTER_UNBLOCK"
 msgstr "Nachdem dieser Benutzer entblockt wurde, kann er wieder auf deinen Flipnotes kommentieren, wenn er Dich nicht ebenfalls blockiert hat."
 
-msgid "UNBLOCK_WARNING_ONE_DAY_THRESHOLD"
-msgstr "Hast du einen Benutzer entblockt, musst du 24 Stunden warten, bis du ihn wieder blockieren kannst."
+msgid "COMMENT_BLOCK_IS_MUTUAL"
+msgstr "Wenn du einmal einen Benutzer blockiert hast, kannst du auf den Flipnotes des jeweils Anderen keine Kommentare verfassen."
+
+msgid "CONFIRM_BLOCK"
+msgstr "Blockieren bestätigen"
 
 msgid "CONFIRM_UNBLOCK"
 msgstr "Entblocken bestätigen"
 
+msgid "IF_YOU_WISH_TO_UNBLOCK"
+msgstr "Wenn du einen Benutzer wieder entblocken möchtest, kannst du ihn in deinem Ersteller-Raum unter deinem Blockierte-Benutzer-Menü entblocken."
+
+msgid "LOGIN_REQUIRED"
+msgstr "Hierfür musst du angemeldet sein."
+
+msgid "LOGIN_REQUIRED_TO_MANAGE_BLOCKS"
+msgstr "Du musst angemeldet sein, um blockierte Benutzer zu bearbeiten."
+
+msgid "NO_USERS_BLOCKED"
+msgstr "Du hast keine Benutzer blockiert."
+
+msgid "ONE_DAY_WAIT_BEFORE_REBLOCK_FORMAT"
+msgstr "Du hast diesen Benutzer kürzlich entblockt. Du kannst ihn nicht nochmal bis vor %s blockieren."
+
 msgid "RECENTLY_UNBLOCKED_ONE_DAY_THRESHOLD"
 msgstr "Du hast diesen Benutzer schon entblockt. Du musst 24 Stunden warten, bis du ihn wieder blockieren kannst."
+
+msgid "TAP_BACK_TO_RETURN"
+msgstr "Tippe auf Zurück, um zu deinem Ersteller-Raum zurückzukehren."
+
+msgid "UNBLOCK"
+msgstr "Entblocken"
+
+msgid "UNBLOCK_USER"
+msgstr "Benutzer entblocken"
+
+msgid "UNBLOCK_WARNING_ONE_DAY_THRESHOLD"
+msgstr "Hast du einen Benutzer entblockt, musst du 24 Stunden warten, bis du ihn wieder blockieren kannst."
+
+msgid "USER_ALREADY_BLOCKED"
+msgstr "Du hast diesen Benutzer schon blockiert. Du kannst ihn in deinem Ersteller-Raum unter Blockierte Benutzer entblocken. Du musst aber 24 Stunden warten, bis du ihn wieder blockieren kannst."
+
+msgid "USER_HAS_BEEN_BLOCKED"
+msgstr "Dieser Benutzer wurde blockiert."
+
+msgid "USER_HAS_BEEN_UNBLOCKED"
+msgstr "Dieser Benutzer wurde entblockt."

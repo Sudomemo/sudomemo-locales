@@ -3,47 +3,32 @@ msgstr ""
 "Language: ro_RO\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "GET_STARTED"
-msgstr "Incepeti"
-
-msgid "WATCH_FLIPNOTES"
-msgstr "@Toate Flipnote-urile"
-
-msgid "CHANNELS"
-msgstr "@Canale"
+msgid "ABOUT_SUDOMEMO"
+msgstr "Despre Sudomemo"
 
 msgid "CATEGORIES"
 msgstr "Categorii"
 
-msgid "FEATURED"
-msgstr "@Recomandate"
-
-msgid "HOT_FLIPNOTES"
-msgstr "@Flipnote-uri fierbinti"
-
-msgid "ABOUT_SUDOMEMO"
-msgstr "Despre Sudomemo"
-
-msgid "CREATORS_ROOM"
-msgstr "@Camera Creatorului"
-
-msgid "NEWS"
-msgstr "@Stirile Sudomemo"
+msgid "CHANNELS"
+msgstr "@Canale"
 
 msgid "CHATROOMS"
 msgstr "@Camere de Conv."
 
-msgid "SEARCH"
-msgstr "@Cautati"
+msgid "CREATORS_ROOM"
+msgstr "@Camera Creatorului"
 
-msgid "SEARCH_USER"
-msgstr "Cautare Utilizator"
+msgid "FEATURED"
+msgstr "@Recomandate"
 
-msgid "SEARCH_FLIPNOTE"
-msgstr "Cautare Flipnote"
+msgid "GET_STARTED"
+msgstr "Incepeti"
 
-msgid "RELOAD_USER"
-msgstr "Reincarcati Utilizator"
+msgid "HELP"
+msgstr "Ajutor"
+
+msgid "HOT_FLIPNOTES"
+msgstr "@Flipnote-uri fierbinti"
 
 msgid "LOGIN"
 msgstr "Conectare"
@@ -51,17 +36,32 @@ msgstr "Conectare"
 msgid "LOGOUT"
 msgstr "Deconectare"
 
+msgid "MAIL"
+msgstr "Mail"
+
+msgid "NEWS"
+msgstr "@Stirile Sudomemo"
+
 msgid "REGISTER"
 msgstr "Inscrieti-va"
 
-msgid "THEME_SHOP"
-msgstr "Magazin de Teme"
+msgid "RELOAD_USER"
+msgstr "Reincarcati Utilizator"
 
-msgid "MAIL"
-msgstr "Mail"
+msgid "SEARCH"
+msgstr "@Cautati"
+
+msgid "SEARCH_FLIPNOTE"
+msgstr "Cautare Flipnote"
+
+msgid "SEARCH_USER"
+msgstr "Cautare Utilizator"
 
 msgid "TEST_TRANSLATION"
 msgstr "Traducere in Engleza"
 
-msgid "HELP"
-msgstr "Ajutor"
+msgid "THEME_SHOP"
+msgstr "Magazin de Teme"
+
+msgid "WATCH_FLIPNOTES"
+msgstr "@Toate Flipnote-urile"

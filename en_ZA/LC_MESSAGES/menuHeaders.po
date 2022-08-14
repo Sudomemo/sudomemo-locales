@@ -3,47 +3,32 @@ msgstr ""
 "Language: en_ZA\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "GET_STARTED"
-msgstr "Get Started"
-
-msgid "WATCH_FLIPNOTES"
-msgstr "heyo :)"
-
-msgid "CHANNELS"
-msgstr "MUM LOOK!!"
+msgid "ABOUT_SUDOMEMO"
+msgstr "About Sudomeme"
 
 msgid "CATEGORIES"
 msgstr "Nations"
 
-msgid "FEATURED"
-msgstr "ooo shiny"
-
-msgid "HOT_FLIPNOTES"
-msgstr "spicy flips"
-
-msgid "ABOUT_SUDOMEMO"
-msgstr "About Sudomeme"
-
-msgid "CREATORS_ROOM"
-msgstr "yay! xD"
-
-msgid "NEWS"
-msgstr "EXTRA! EXTRA!"
+msgid "CHANNELS"
+msgstr "MUM LOOK!!"
 
 msgid "CHATROOMS"
 msgstr "talkaroo"
 
-msgid "SEARCH"
-msgstr "what's this??"
+msgid "CREATORS_ROOM"
+msgstr "yay! xD"
 
-msgid "SEARCH_USER"
-msgstr "oh"
+msgid "FEATURED"
+msgstr "ooo shiny"
 
-msgid "SEARCH_FLIPNOTE"
-msgstr "neat"
+msgid "GET_STARTED"
+msgstr "Get Started"
 
-msgid "RELOAD_USER"
-msgstr "Reload User"
+msgid "HELP"
+msgstr "SOS!"
+
+msgid "HOT_FLIPNOTES"
+msgstr "spicy flips"
 
 msgid "LOGIN"
 msgstr "Login"
@@ -51,17 +36,32 @@ msgstr "Login"
 msgid "LOGOUT"
 msgstr "Logout"
 
+msgid "MAIL"
+msgstr "Mail"
+
+msgid "NEWS"
+msgstr "EXTRA! EXTRA!"
+
 msgid "REGISTER"
 msgstr "Register"
 
-msgid "THEME_SHOP"
-msgstr "NasDANQ"
+msgid "RELOAD_USER"
+msgstr "Reload User"
 
-msgid "MAIL"
-msgstr "Mail"
+msgid "SEARCH"
+msgstr "what's this??"
+
+msgid "SEARCH_FLIPNOTE"
+msgstr "neat"
+
+msgid "SEARCH_USER"
+msgstr "oh"
 
 msgid "TEST_TRANSLATION"
 msgstr "Dank Translation"
 
-msgid "HELP"
-msgstr "SOS!"
+msgid "THEME_SHOP"
+msgstr "NasDANQ"
+
+msgid "WATCH_FLIPNOTES"
+msgstr "heyo :)"

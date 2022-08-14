@@ -3,53 +3,8 @@ msgstr ""
 "Language: ro_RO\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "THEME_SHOP_LOGIN_REQUIRED"
-msgstr "Trebuie sa fiti conectat pentru a accesa Magazinul de Teme"
-
-msgid "THEME_SHOP_MAINPAGE_HEADER"
-msgstr "Aici puteti cumpara teme pentru Camera Creatorului!"
-
-msgid "THEME_SHOP_LEARN_MORE_HEADER"
-msgstr "Aflati mai multe despre Magazinul de Teme"
-
-msgid "THEME_SHOP_REPORT_ISSUES_HEADER"
-msgstr "Apasati pe acest link pentru a raporta o tema care nu functioneaza corect."
-
-msgid "THEME_SHOP_MAINPAGE_EXCHANGE_COST_FORMAT"
-msgstr "Schimbati pentru %d Stele Verzi"
-
-msgid "THEME_SHOP_MAINPAGE_FREE_STARTER_THEMES"
-msgstr "Teme de Incepator gratis"
-
-msgid "CONGRATULATIONS"
-msgstr "Felicitari!"
-
-msgid "SEE_MORE"
-msgstr "Vedeti mai multe"
-
-msgid "PREVIEW"
-msgstr "Previzualizare"
-
 msgid "BUY"
 msgstr "Cumparati"
-
-msgid "THEME"
-msgstr "Tema"
-
-msgid "PRICE"
-msgstr "Pret"
-
-msgid "CREATOR"
-msgstr "Creator"
-
-msgid "DESCRIPTION"
-msgstr "Descriere"
-
-msgid "YOU_HAVE"
-msgstr "Stele dvs. Colorate:"
-
-msgid "USERNAME"
-msgstr "Nume de Utilizator"
 
 msgid "CANCEL"
 msgstr "Anulatio"
@@ -57,56 +12,101 @@ msgstr "Anulatio"
 msgid "CONFIRM"
 msgstr "Confirmati"
 
+msgid "CONGRATULATIONS"
+msgstr "Felicitari!"
+
+msgid "CREATOR"
+msgstr "Creator"
+
 msgid "CREATORS_ROOM"
 msgstr "Camera Creatorului"
 
-msgid "SHOP_MENU"
-msgstr "Meniul Magazinului"
+msgid "DESCRIPTION"
+msgstr "Descriere"
 
-msgid "NO_DESCRIPTION_AVAILABLE"
-msgstr "Fara Descriere"
-
-msgid "THEME_SHOP_SELECT_PAYMENT"
-msgstr "Alegeti Plata"
-
-msgid "THEME_SHOP_SELECTED_PAYMENT"
-msgstr "Plata Selectata"
-
-msgid "THEME_SHOP_STAR_BALANCE_TOO_LOW"
-msgstr "Scuze, nu aveti suficiente Stele Verzi pentru aceasta achizitie"
-
-msgid "THEME_SHOP_CHOOSE_CAREFULLY_BEFORE_BUYING"
-msgstr "Toate achizitiile sunt permanente, va rugam sa alegeti cu grija inainte de a cumpara!"
-
-msgid "THEME_SHOP_YOU_OWN_THIS_THEME"
-msgstr "Deja detineti acesta tema."
-
-msgid "THEME_SHOP_PUBLIC_THEME"
-msgstr "Toti utilizatorii au acces la aceasta tema gratuit."
-
-msgid "THEME_SHOP_OWNED_THEME_TRANSACTION_FORMAT"
-msgstr "Ati achizitionat aceasta tema pe %s pentru %d Stele Verzi."
-
-msgid "THEME_SHOP_CONFIRM_PURCHASE_BELOW"
-msgstr "Va rugam sa conifirmati achizitia mai jos."
-
-msgid "THEME_SHOP_STARS_LEFT_AFTER_PAYMENT"
-msgstr "Stele Colorate dupa plata:"
-
-msgid "THEME_SHOP_POST_PURCHASE"
-msgstr "Achizitia a avut succes! Mergeti la sectiunea \"Temele mele\" in Camera Creatorului pentru a o selecta!"
-
-msgid "NAVIGATION_PREVIOUS"
-msgstr "Ante."
+msgid "DETAILS"
+msgstr "Detailii"
 
 msgid "NAVIGATION_NEXT"
 msgstr "Urm."
 
-msgid "THEME_SHOP_SAMPLE_PROFILE"
-msgstr "Profil mostra"
+msgid "NAVIGATION_PREVIOUS"
+msgstr "Ante."
+
+msgid "NO_DESCRIPTION_AVAILABLE"
+msgstr "Fara Descriere"
+
+msgid "PREVIEW"
+msgstr "Previzualizare"
+
+msgid "PRICE"
+msgstr "Pret"
+
+msgid "SEE_MORE"
+msgstr "Vedeti mai multe"
+
+msgid "SHOP_MENU"
+msgstr "Meniul Magazinului"
+
+msgid "THEME"
+msgstr "Tema"
 
 msgid "THEME_SHOP"
 msgstr "Magazinul de Teme"
 
-msgid "DETAILS"
-msgstr "Detailii"
+msgid "THEME_SHOP_CHOOSE_CAREFULLY_BEFORE_BUYING"
+msgstr "Toate achizitiile sunt permanente, va rugam sa alegeti cu grija inainte de a cumpara!"
+
+msgid "THEME_SHOP_CONFIRM_PURCHASE_BELOW"
+msgstr "Va rugam sa conifirmati achizitia mai jos."
+
+msgid "THEME_SHOP_LEARN_MORE_HEADER"
+msgstr "Aflati mai multe despre Magazinul de Teme"
+
+msgid "THEME_SHOP_LOGIN_REQUIRED"
+msgstr "Trebuie sa fiti conectat pentru a accesa Magazinul de Teme"
+
+msgid "THEME_SHOP_MAINPAGE_EXCHANGE_COST_FORMAT"
+msgstr "Schimbati pentru %d Stele Verzi"
+
+msgid "THEME_SHOP_MAINPAGE_FREE_STARTER_THEMES"
+msgstr "Teme de Incepator gratis"
+
+msgid "THEME_SHOP_MAINPAGE_HEADER"
+msgstr "Aici puteti cumpara teme pentru Camera Creatorului!"
+
+msgid "THEME_SHOP_OWNED_THEME_TRANSACTION_FORMAT"
+msgstr "Ati achizitionat aceasta tema pe %s pentru %d Stele Verzi."
+
+msgid "THEME_SHOP_POST_PURCHASE"
+msgstr "Achizitia a avut succes! Mergeti la sectiunea \"Temele mele\" in Camera Creatorului pentru a o selecta!"
+
+msgid "THEME_SHOP_PUBLIC_THEME"
+msgstr "Toti utilizatorii au acces la aceasta tema gratuit."
+
+msgid "THEME_SHOP_REPORT_ISSUES_HEADER"
+msgstr "Apasati pe acest link pentru a raporta o tema care nu functioneaza corect."
+
+msgid "THEME_SHOP_SAMPLE_PROFILE"
+msgstr "Profil mostra"
+
+msgid "THEME_SHOP_SELECTED_PAYMENT"
+msgstr "Plata Selectata"
+
+msgid "THEME_SHOP_SELECT_PAYMENT"
+msgstr "Alegeti Plata"
+
+msgid "THEME_SHOP_STARS_LEFT_AFTER_PAYMENT"
+msgstr "Stele Colorate dupa plata:"
+
+msgid "THEME_SHOP_STAR_BALANCE_TOO_LOW"
+msgstr "Scuze, nu aveti suficiente Stele Verzi pentru aceasta achizitie"
+
+msgid "THEME_SHOP_YOU_OWN_THIS_THEME"
+msgstr "Deja detineti acesta tema."
+
+msgid "USERNAME"
+msgstr "Nume de Utilizator"
+
+msgid "YOU_HAVE"
+msgstr "Stele dvs. Colorate:"

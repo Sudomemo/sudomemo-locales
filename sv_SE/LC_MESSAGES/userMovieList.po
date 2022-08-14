@@ -3,14 +3,14 @@ msgstr ""
 "Language: sv_SE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "UPPERTITLE"
-msgstr "Bläddra"
+msgid "FAVORITES_FEED_FORMAT"
+msgstr "%s's Favoriter flöde"
+
+msgid "FLIPNOTES_BY_FORMAT"
+msgstr "Flipnotes av %s"
 
 msgid "NEXT"
 msgstr "Nästa Sida"
-
-msgid "PREV"
-msgstr "Föregående Sida"
 
 msgid "PAGE"
 msgstr "Sida"
@@ -18,11 +18,11 @@ msgstr "Sida"
 msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d av %d"
 
-msgid "FLIPNOTES_BY_FORMAT"
-msgstr "Flipnotes av %s"
+msgid "PREV"
+msgstr "Föregående Sida"
 
 msgid "STARRED_BY_FORMAT"
 msgstr "Starred av %s"
 
-msgid "FAVORITES_FEED_FORMAT"
-msgstr "%s's Favoriter flöde"
+msgid "UPPERTITLE"
+msgstr "Bläddra"

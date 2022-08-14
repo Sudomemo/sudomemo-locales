@@ -3,32 +3,32 @@ msgstr ""
 "Language: en_ZA\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "DECOR"
+msgstr "Deco Yeso"
+
 msgid "INVENTORY"
 msgstr "Pockets"
-
-msgid "TICKETS"
-msgstr "Tickets"
 
 msgid "ITEMS"
 msgstr "Good Stuff"
 
+msgid "NEXT"
+msgstr "woah"
+
 msgid "PETS"
 msgstr "Little Fellas"
-
-msgid "DECOR"
-msgstr "Deco Yeso"
 
 msgid "PREV"
 msgstr "oops"
 
-msgid "NEXT"
-msgstr "woah"
+msgid "REDEEM"
+msgstr "Redeem"
 
-msgid "USE_ITEM"
-msgstr "Use item"
+msgid "TICKETS"
+msgstr "Tickets"
 
 msgid "USE"
 msgstr "Usaroo"
 
-msgid "REDEEM"
-msgstr "Redeem"
+msgid "USE_ITEM"
+msgstr "Use item"

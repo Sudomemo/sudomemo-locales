@@ -3,56 +3,11 @@ msgstr ""
 "Language: nl_NL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "SUDOMEMO"
-msgstr "Sudomemo"
+msgid "CATEGORY_featured"
+msgstr "Aanbevolen"
 
-msgid "HEADER_FLIPNOTES"
-msgstr "Flipnotes"
-
-msgid "HEADER_NORMAL"
-msgstr "Onlangs"
-
-msgid "HEADER_HOT_FLIPNOTES"
-msgstr "Populaire Flipnotes"
-
-msgid "HEADER_MOST_POPULAR"
-msgstr "Meest Populair"
-
-msgid "HEADER_NO_SPINOFFS"
-msgstr "Geen Spinoffs"
-
-msgid "HEADER_ROLEPLAYS"
-msgstr "Roleplays"
-
-msgid "HEADER_BROWSE_FLIPNOTES"
-msgstr "Blader door Flipnotes"
-
-msgid "HEADER_FEATURED_FLIPNOTES"
-msgstr "Aanbevolen Flipnotes"
-
-msgid "HEADER_RANDOM_FLIPNOTES"
-msgstr "Willekeurige Flipnotes"
-
-msgid "HEADER_PAGE"
-msgstr "Bladzijde"
-
-msgid "PAGE"
-msgstr "Bladzijde"
-
-msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d van %d"
-
-msgid "NEXT"
-msgstr "Volgende"
-
-msgid "PREV"
-msgstr "Vorige"
-
-msgid "POST_FLIPNOTE"
-msgstr "Plaats Flipnote"
-
-msgid "CATEGORY_recent"
-msgstr "Recente Flipnotes"
+msgid "CATEGORY_feed"
+msgstr "Feed"
 
 msgid "CATEGORY_hot"
 msgstr "Populaire Flipnotes"
@@ -60,11 +15,59 @@ msgstr "Populaire Flipnotes"
 msgid "CATEGORY_popular"
 msgstr "Meest Populair"
 
-msgid "CATEGORY_featured"
-msgstr "Aanbevolen"
-
 msgid "CATEGORY_random"
 msgstr "Willekeurige Flipnotes"
 
-msgid "CATEGORY_feed"
-msgstr "Feed"
+msgid "CATEGORY_recent"
+msgstr "Recente Flipnotes"
+
+msgid "HEADER_BROWSE_FLIPNOTES"
+msgstr "Blader door Flipnotes"
+
+msgid "HEADER_FEATURED_FLIPNOTES"
+msgstr "Aanbevolen Flipnotes"
+
+msgid "HEADER_FLIPNOTES"
+msgstr "Flipnotes"
+
+msgid "HEADER_HOT_FLIPNOTES"
+msgstr "Populaire Flipnotes"
+
+msgid "HEADER_MOST_POPULAR"
+msgstr "Meest Populair"
+
+msgid "HEADER_NORMAL"
+msgstr "Onlangs"
+
+msgid "HEADER_NO_SPINOFFS"
+msgstr "Geen Spinoffs"
+
+msgid "HEADER_PAGE"
+msgstr "Bladzijde"
+
+msgid "HEADER_RANDOM_FLIPNOTES"
+msgstr "Willekeurige Flipnotes"
+
+msgid "HEADER_ROLEPLAYS"
+msgstr "Roleplays"
+
+msgid "HEADER_WATCH_HISTORY"
+msgstr "Watch History"
+
+msgid "NEXT"
+msgstr "Volgende"
+
+msgid "PAGE"
+msgstr "Bladzijde"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d van %d"
+
+msgid "POST_FLIPNOTE"
+msgstr "Plaats Flipnote"
+
+msgid "PREV"
+msgstr "Vorige"
+
+msgid "SUDOMEMO"
+msgstr "Sudomemo"

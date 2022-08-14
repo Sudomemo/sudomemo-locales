@@ -3,6 +3,33 @@ msgstr ""
 "Language: pl_PL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "CONTENT_ID"
+msgstr "ID zawartości:"
+
+msgid "CONTENT_TYPE"
+msgstr "Rodzaj zawartości:"
+
+msgid "CONTENT_TYPE_chat_message"
+msgstr "Wiadomość na czacie"
+
+msgid "CONTENT_TYPE_comment"
+msgstr "Komentarz"
+
+# ## Catch-all
+msgid "CONTENT_TYPE_content"
+msgstr "Inna zawartość"
+
+# # Content types
+msgid "CONTENT_TYPE_flipnote"
+msgstr "Flipnote"
+
+msgid "CONTENT_TYPE_profile_bio"
+msgstr "Tekst na profilu"
+
+# ## We plan on adding user-created themes.
+msgid "CONTENT_TYPE_room_theme"
+msgstr "Motyw Pokoju Twórcy"
+
 # Content Report Accepted - sent to user who has correctly reported content
 msgid "NOTICE"
 msgstr "Uwaga"
@@ -11,27 +38,6 @@ msgstr "Uwaga"
 msgid "REPORT_ACCEPTED"
 msgstr "Otrzymaliśmy zgłoszenie które przesłałeś/aś i uznaliśmy je za poprawne."
 
-# # Content types
-msgid "CONTENT_TYPE_flipnote"
-msgstr "Flipnote"
-
-msgid "CONTENT_TYPE_comment"
-msgstr "Komentarz"
-
-msgid "CONTENT_TYPE_chat_message"
-msgstr "Wiadomość na czacie"
-
-# ## We plan on adding user-created themes.
-msgid "CONTENT_TYPE_room_theme"
-msgstr "Motyw Pokoju Twórcy"
-
-msgid "CONTENT_TYPE_profile_bio"
-msgstr "Tekst na profilu"
-
-# ## Catch-all
-msgid "CONTENT_TYPE_content"
-msgstr "Inna zawartość"
-
 # # continued message...
 msgid "REPORT_ACCEPTED_CONTINUED"
 msgstr "Zgłoszona zawartość została usunięta."
@@ -39,9 +45,3 @@ msgstr "Zgłoszona zawartość została usunięta."
 # this message is followed by a link
 msgid "REPORT_ACCEPTED_INFO"
 msgstr "Zgłoszenia takie jak twoje pomagają nam sprawić, że Sudomemo jest przyjaznym i bezpiecznym miejscem dla wszystkich. Jeżeli chcesz dowiedzieć się więcej o naszych zasadach dot. twórczości, przeczytaj to:"
-
-msgid "CONTENT_TYPE"
-msgstr "Rodzaj zawartości:"
-
-msgid "CONTENT_ID"
-msgstr "ID zawartości:"

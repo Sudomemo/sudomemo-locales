@@ -3,53 +3,8 @@ msgstr ""
 "Language: el_GR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "THEME_SHOP_LOGIN_REQUIRED"
-msgstr "Πρεπει να εχετε συνθεθει για να αποκτησετε προσβαση στο Μαγαζι Θεματων"
-
-msgid "THEME_SHOP_MAINPAGE_HEADER"
-msgstr "Εδω, στο Μαγαζι Θεματων μπορειτε να αγορασετε καιουρια θεματα για το Εργαστηρι σαs!"
-
-msgid "THEME_SHOP_LEARN_MORE_HEADER"
-msgstr "Μαθετε περισσοτερα για το Μαγαζι Θεματων."
-
-msgid "THEME_SHOP_REPORT_ISSUES_HEADER"
-msgstr "Πατηστε αυτο το λινκ για να αναφερετε ενα θεμα το οποιο δεν λειτουργει σωστα."
-
-msgid "THEME_SHOP_MAINPAGE_EXCHANGE_COST_FORMAT"
-msgstr "Ανταλλαγη για %d Πρασινα Αστερια"
-
-msgid "THEME_SHOP_MAINPAGE_FREE_STARTER_THEMES"
-msgstr "Δωρεαν Starter Themes"
-
-msgid "CONGRATULATIONS"
-msgstr "Συγχαρηστηρια!"
-
-msgid "SEE_MORE"
-msgstr "Δειτε Περισσοτερα"
-
-msgid "PREVIEW"
-msgstr "Preview"
-
 msgid "BUY"
 msgstr "Αγοραστε"
-
-msgid "THEME"
-msgstr "Θεμα"
-
-msgid "PRICE"
-msgstr "Τιμη"
-
-msgid "CREATOR"
-msgstr "Δημιουργοs"
-
-msgid "DESCRIPTION"
-msgstr "Περιγραφη"
-
-msgid "YOU_HAVE"
-msgstr "Τα Χρωματιστα Αστερια σας:"
-
-msgid "USERNAME"
-msgstr "Ονομα Χρηστη"
 
 msgid "CANCEL"
 msgstr "Ακυρωση"
@@ -57,56 +12,101 @@ msgstr "Ακυρωση"
 msgid "CONFIRM"
 msgstr "Επιβεβαιωση"
 
+msgid "CONGRATULATIONS"
+msgstr "Συγχαρηστηρια!"
+
+msgid "CREATOR"
+msgstr "Δημιουργοs"
+
 msgid "CREATORS_ROOM"
 msgstr "Δωματιο Χρηστη"
 
-msgid "SHOP_MENU"
-msgstr "Μενου Μαγαζιου"
+msgid "DESCRIPTION"
+msgstr "Περιγραφη"
 
-msgid "NO_DESCRIPTION_AVAILABLE"
-msgstr "Καμια Περιγραφη"
-
-msgid "THEME_SHOP_SELECT_PAYMENT"
-msgstr "Διαλεξτε Πληρωμη"
-
-msgid "THEME_SHOP_SELECTED_PAYMENT"
-msgstr "Διαλεγμενη Πληρωμη"
-
-msgid "THEME_SHOP_STAR_BALANCE_TOO_LOW"
-msgstr "Λυπουμαστε, δεν εχετε αρκετα πρασινα αστερια για την πληρωμη αυτη."
-
-msgid "THEME_SHOP_CHOOSE_CAREFULLY_BEFORE_BUYING"
-msgstr "Ολες οι αγορες ειναιμονιμες, παρακαλω προσεξτε πολυ πριν αγορασετε!"
-
-msgid "THEME_SHOP_YOU_OWN_THIS_THEME"
-msgstr "Εχετε ηδη αυτο το θεμα."
-
-msgid "THEME_SHOP_PUBLIC_THEME"
-msgstr "Ολοι εχουν προσβαση δωρεαν σε αυτο το θεμα."
-
-msgid "THEME_SHOP_OWNED_THEME_TRANSACTION_FORMAT"
-msgstr "Αγορασατε αυτο το θεμα στιs %s για %d Πρασινα Αστερια."
-
-msgid "THEME_SHOP_CONFIRM_PURCHASE_BELOW"
-msgstr "Παρακαλω επιβεβαιωστε την αγορα σας παρακατω."
-
-msgid "THEME_SHOP_STARS_LEFT_AFTER_PAYMENT"
-msgstr "Χρωματιστα αστερια που εμειναν υστερα απο την αγορα:"
-
-msgid "THEME_SHOP_POST_PURCHASE"
-msgstr "Η αγορα σαs εγινε με επιτυχια! Πηγαινετε στο \"Τα Θεματα Μου\" στο Εργαστηρι σαs για να το επιβεβαιωσετε!"
-
-msgid "NAVIGATION_PREVIOUS"
-msgstr "Προηγ"
+msgid "DETAILS"
+msgstr "Λεπτομεριες"
 
 msgid "NAVIGATION_NEXT"
 msgstr "Επομ"
 
-msgid "THEME_SHOP_SAMPLE_PROFILE"
-msgstr "Παραδειγμα Προφιλ"
+msgid "NAVIGATION_PREVIOUS"
+msgstr "Προηγ"
+
+msgid "NO_DESCRIPTION_AVAILABLE"
+msgstr "Καμια Περιγραφη"
+
+msgid "PREVIEW"
+msgstr "Preview"
+
+msgid "PRICE"
+msgstr "Τιμη"
+
+msgid "SEE_MORE"
+msgstr "Δειτε Περισσοτερα"
+
+msgid "SHOP_MENU"
+msgstr "Μενου Μαγαζιου"
+
+msgid "THEME"
+msgstr "Θεμα"
 
 msgid "THEME_SHOP"
 msgstr "Καταστημα Θεματων "
 
-msgid "DETAILS"
-msgstr "Λεπτομεριες"
+msgid "THEME_SHOP_CHOOSE_CAREFULLY_BEFORE_BUYING"
+msgstr "Ολες οι αγορες ειναιμονιμες, παρακαλω προσεξτε πολυ πριν αγορασετε!"
+
+msgid "THEME_SHOP_CONFIRM_PURCHASE_BELOW"
+msgstr "Παρακαλω επιβεβαιωστε την αγορα σας παρακατω."
+
+msgid "THEME_SHOP_LEARN_MORE_HEADER"
+msgstr "Μαθετε περισσοτερα για το Μαγαζι Θεματων."
+
+msgid "THEME_SHOP_LOGIN_REQUIRED"
+msgstr "Πρεπει να εχετε συνθεθει για να αποκτησετε προσβαση στο Μαγαζι Θεματων"
+
+msgid "THEME_SHOP_MAINPAGE_EXCHANGE_COST_FORMAT"
+msgstr "Ανταλλαγη για %d Πρασινα Αστερια"
+
+msgid "THEME_SHOP_MAINPAGE_FREE_STARTER_THEMES"
+msgstr "Δωρεαν Starter Themes"
+
+msgid "THEME_SHOP_MAINPAGE_HEADER"
+msgstr "Εδω, στο Μαγαζι Θεματων μπορειτε να αγορασετε καιουρια θεματα για το Εργαστηρι σαs!"
+
+msgid "THEME_SHOP_OWNED_THEME_TRANSACTION_FORMAT"
+msgstr "Αγορασατε αυτο το θεμα στιs %s για %d Πρασινα Αστερια."
+
+msgid "THEME_SHOP_POST_PURCHASE"
+msgstr "Η αγορα σαs εγινε με επιτυχια! Πηγαινετε στο \"Τα Θεματα Μου\" στο Εργαστηρι σαs για να το επιβεβαιωσετε!"
+
+msgid "THEME_SHOP_PUBLIC_THEME"
+msgstr "Ολοι εχουν προσβαση δωρεαν σε αυτο το θεμα."
+
+msgid "THEME_SHOP_REPORT_ISSUES_HEADER"
+msgstr "Πατηστε αυτο το λινκ για να αναφερετε ενα θεμα το οποιο δεν λειτουργει σωστα."
+
+msgid "THEME_SHOP_SAMPLE_PROFILE"
+msgstr "Παραδειγμα Προφιλ"
+
+msgid "THEME_SHOP_SELECTED_PAYMENT"
+msgstr "Διαλεγμενη Πληρωμη"
+
+msgid "THEME_SHOP_SELECT_PAYMENT"
+msgstr "Διαλεξτε Πληρωμη"
+
+msgid "THEME_SHOP_STARS_LEFT_AFTER_PAYMENT"
+msgstr "Χρωματιστα αστερια που εμειναν υστερα απο την αγορα:"
+
+msgid "THEME_SHOP_STAR_BALANCE_TOO_LOW"
+msgstr "Λυπουμαστε, δεν εχετε αρκετα πρασινα αστερια για την πληρωμη αυτη."
+
+msgid "THEME_SHOP_YOU_OWN_THIS_THEME"
+msgstr "Εχετε ηδη αυτο το θεμα."
+
+msgid "USERNAME"
+msgstr "Ονομα Χρηστη"
+
+msgid "YOU_HAVE"
+msgstr "Τα Χρωματιστα Αστερια σας:"

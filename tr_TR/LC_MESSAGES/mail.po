@@ -3,26 +3,38 @@ msgstr ""
 "Language: tr_TR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-# This contains common strings used for the general notification ("mail") system as well
-# Common
-msgid "LOGIN_FIRST_TO_ACCESS_MAIL"
-msgstr "You'll need to log back in before you can view this."
-
 msgid "CONTINUE"
 msgstr "Continue"
 
 msgid "HEADER_INBOX"
 msgstr "Inbox"
 
-# this must be a max of 6 characters
-msgid "UNAUTHED_READ"
-msgstr "Read.."
+# This contains common strings used for the general notification ("mail") system as well
+# Common
+msgid "LOGIN_FIRST_TO_ACCESS_MAIL"
+msgstr "You'll need to log back in before you can view this."
+
+# Not found
+msgid "MAIL_NOT_FOUND"
+msgstr "This message does not exist."
+
+msgid "NEXT"
+msgstr "Next"
 
 msgid "PREV"
 msgstr "Prev"
 
-msgid "NEXT"
-msgstr "Next"
+msgid "TITLE_INFO"
+msgstr "Info"
+
+msgid "TITLE_MESSAGE"
+msgstr "Message"
+
+msgid "TITLE_NEWS"
+msgstr "News"
+
+msgid "TITLE_NOTICE"
+msgstr "Notice"
 
 # Titles
 msgid "TITLE_SPINOFF"
@@ -31,18 +43,6 @@ msgstr "Spin-off"
 msgid "TITLE_WARNING"
 msgstr "Warning"
 
-msgid "TITLE_NOTICE"
-msgstr "Notice"
-
-msgid "TITLE_MESSAGE"
-msgstr "Message"
-
-msgid "TITLE_NEWS"
-msgstr "News"
-
-msgid "TITLE_INFO"
-msgstr "Info"
-
-# Not found
-msgid "MAIL_NOT_FOUND"
-msgstr "This message does not exist."
+# this must be a max of 6 characters
+msgid "UNAUTHED_READ"
+msgstr "Read.."

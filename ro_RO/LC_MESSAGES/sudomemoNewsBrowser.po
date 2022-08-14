@@ -3,8 +3,8 @@ msgstr ""
 "Language: ro_RO\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "PREV"
-msgstr "Ant."
+msgid "HEADER_NEWS"
+msgstr "Stiri"
 
 msgid "NEXT"
 msgstr "Urm."
@@ -12,5 +12,5 @@ msgstr "Urm."
 msgid "PAGE_FORMAT"
 msgstr "Pagina %d"
 
-msgid "HEADER_NEWS"
-msgstr "Stiri"
+msgid "PREV"
+msgstr "Ant."

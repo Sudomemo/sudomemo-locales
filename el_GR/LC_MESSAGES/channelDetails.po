@@ -3,44 +3,44 @@ msgstr ""
 "Language: el_GR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "CHANNEL_NAME"
-msgstr "Ονομα Καναλιου"
-
-msgid "CHANNEL_INFORMATION"
-msgstr "Πληροφοριες Καναλιου"
-
-msgid "FLIPNOTES"
-msgstr "Flipnotes"
+msgid "CATEGORY"
+msgstr "Κατηγορια"
 
 msgid "CHANNEL_ID"
 msgstr "ID Καναλιου"
 
-msgid "LOGIN_REQUIRED_TO_POST"
-msgstr "Πρεπει να ειστε συνδεδεμενοι για να ανεβασετε ενα Flipnote."
+msgid "CHANNEL_INFORMATION"
+msgstr "Πληροφοριες Καναλιου"
+
+msgid "CHANNEL_NAME"
+msgstr "Ονομα Καναλιου"
 
 msgid "CHANNEL_NOT_SPECIFIED"
 msgstr "Πρεπει να διαλεξετε ενα καναλι."
 
-msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
-msgstr "Σας εχει απαγορευτει η χρηση του Sudomemo."
-
-msgid "FLIPNOTE_POST_FAILED"
-msgstr "Απετυχε η δημοσιευση του Flipnote. Παρακαλω δοκιμαστε ξανα σε λιγακι."
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "Παρακαλω επβεβαιωστε πρωτα το email σας πριν να δημοσιευσετε."
 
 msgid "DUPLICATE_FLIPNOTE_FAILED"
 msgstr "Αυτο το Flipnote εχει ηδη ανεβει στο Sudomemo. Δοκιμαστε να το ξαναεπεξεργαστειτε."
 
+msgid "FLIPNOTES"
+msgstr "Flipnotes"
+
 msgid "FLIPNOTE_DATA_CORRUPTED"
 msgstr "Τα δεδομενα του Flipnote ειναι κατεστραμμενα. Παρακαλω δοκιμαστε ξανα σε λιγακι."
+
+msgid "FLIPNOTE_POST_FAILED"
+msgstr "Απετυχε η δημοσιευση του Flipnote. Παρακαλω δοκιμαστε ξανα σε λιγακι."
+
+msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
+msgstr "Σας εχει απαγορευτει η χρηση του Sudomemo."
+
+msgid "LOGIN_REQUIRED_TO_POST"
+msgstr "Πρεπει να ειστε συνδεδεμενοι για να ανεβασετε ενα Flipnote."
 
 msgid "NO_BLANK_FLIPNOTES_ALLOWED"
 msgstr "Δεν μπορειτε να ανεβασετε ενα αδειο Flipnote."
 
-msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Παρακαλω επβεβαιωστε πρωτα το email σας πριν να δημοσιευσετε."
-
 msgid "NO_POSTS_WHILE_MUTED"
 msgstr "Δεν μπορειτε να δημοσιευσετε ενω εχετε τεθει σε σιγαση."
-
-msgid "CATEGORY"
-msgstr "Κατηγορια"

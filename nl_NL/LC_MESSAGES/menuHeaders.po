@@ -3,47 +3,32 @@ msgstr ""
 "Language: nl_NL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "GET_STARTED"
-msgstr "Get Started"
-
-msgid "WATCH_FLIPNOTES"
-msgstr "Alle Flipnotes"
-
-msgid "CHANNELS"
-msgstr "Kanalen"
+msgid "ABOUT_SUDOMEMO"
+msgstr "Over Sudomemo"
 
 msgid "CATEGORIES"
 msgstr "Categorieën"
 
-msgid "FEATURED"
-msgstr "Uitgelicht"
-
-msgid "HOT_FLIPNOTES"
-msgstr "Populaire Flipnotes"
-
-msgid "ABOUT_SUDOMEMO"
-msgstr "Over Sudomemo"
-
-msgid "CREATORS_ROOM"
-msgstr "Makersruimte"
-
-msgid "NEWS"
-msgstr "Sudomemo Nieuws"
+msgid "CHANNELS"
+msgstr "Kanalen"
 
 msgid "CHATROOMS"
 msgstr "Chatkamers"
 
-msgid "SEARCH"
-msgstr "Zoeken"
+msgid "CREATORS_ROOM"
+msgstr "Makersruimte"
 
-msgid "SEARCH_USER"
-msgstr "Gebruiker Zoeken"
+msgid "FEATURED"
+msgstr "Uitgelicht"
 
-msgid "SEARCH_FLIPNOTE"
-msgstr "Flipnote Zoeken"
+msgid "GET_STARTED"
+msgstr "Get Started"
 
-msgid "RELOAD_USER"
-msgstr "Herlaad Gebruiker"
+msgid "HELP"
+msgstr "Hulp"
+
+msgid "HOT_FLIPNOTES"
+msgstr "Populaire Flipnotes"
 
 msgid "LOGIN"
 msgstr "Log in"
@@ -51,17 +36,32 @@ msgstr "Log in"
 msgid "LOGOUT"
 msgstr "Log uit"
 
+msgid "MAIL"
+msgstr "Mail"
+
+msgid "NEWS"
+msgstr "Sudomemo Nieuws"
+
 msgid "REGISTER"
 msgstr "Registreer"
 
-msgid "THEME_SHOP"
-msgstr "Themawinkel"
+msgid "RELOAD_USER"
+msgstr "Herlaad Gebruiker"
 
-msgid "MAIL"
-msgstr "Mail"
+msgid "SEARCH"
+msgstr "Zoeken"
+
+msgid "SEARCH_FLIPNOTE"
+msgstr "Flipnote Zoeken"
+
+msgid "SEARCH_USER"
+msgstr "Gebruiker Zoeken"
 
 msgid "TEST_TRANSLATION"
 msgstr "Engelse Vertaling"
 
-msgid "HELP"
-msgstr "Hulp"
+msgid "THEME_SHOP"
+msgstr "Themawinkel"
+
+msgid "WATCH_FLIPNOTES"
+msgstr "Alle Flipnotes"

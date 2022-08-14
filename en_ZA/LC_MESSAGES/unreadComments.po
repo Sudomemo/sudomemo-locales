@@ -3,20 +3,20 @@ msgstr ""
 "Language: en_ZA\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
-msgstr "pls log in to view dis page!! :)"
+msgid "FLIPNOTE_ID"
+msgstr "Flipnote ID"
 
 msgid "HEADER_UNREAD_COMMENTS"
 msgstr "Unread Comments"
+
+msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
+msgstr "pls log in to view dis page!! :)"
 
 msgid "NO_UNREAD_COMMENTS"
 msgstr "u hav no unred coments. yay!"
 
 msgid "TAP_ON_FLIPNOTE_ID_TO_VISIT_COMMENTS"
 msgstr "Tap on a Flipnote ID to visit the coments page."
-
-msgid "FLIPNOTE_ID"
-msgstr "Flipnote ID"
 
 msgid "UNREAD"
 msgstr "Unread"

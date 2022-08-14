@@ -3,38 +3,47 @@ msgstr ""
 "Language: sv_SE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "COMMENT_DETAILS"
-msgstr "Kommentarsdetaljer"
-
-msgid "MESSAGE_DETAILS"
-msgstr "Meddelandedetaljer"
-
 msgid "AUTHOR"
 msgstr "Skapare"
-
-msgid "COMMENT_BY_FORMAT"
-msgstr "Kommentar av %s"
-
-msgid "CHAT_MESSAGE_FROM_FORMAT"
-msgstr "Chattmeddelande från %s"
-
-msgid "MESSAGE_FROM_FORMAT"
-msgstr "Meddelande från %s"
-
-msgid "FLIPNOTE_BY_FORMAT"
-msgstr "Flipnote av %s"
-
-msgid "COMMENT_ID"
-msgstr "KommentarID"
-
-msgid "MESSAGE_ID"
-msgstr "MeddelandeID"
 
 msgid "CHAT_COMMENT_ID"
 msgstr "ChattkommentarID"
 
-msgid "TIMESTAMP"
-msgstr "Tidsstämpel"
+msgid "CHAT_MESSAGE_FROM_FORMAT"
+msgstr "Chattmeddelande från %s"
+
+msgid "COMMENT_BY_FORMAT"
+msgstr "Kommentar av %s"
+
+msgid "COMMENT_DETAILS"
+msgstr "Kommentarsdetaljer"
+
+msgid "COMMENT_HIDDEN_MODERATOR"
+msgstr "Comment hidden by moderator"
+
+msgid "COMMENT_HIDDEN_RECIPIENT"
+msgstr "Comment hidden by Flipnote author"
+
+msgid "COMMENT_HIDDEN_SELF"
+msgstr "Comment hidden by author"
+
+msgid "COMMENT_HIDDEN_UNKNOWN"
+msgstr "Comment hidden due to request"
+
+msgid "COMMENT_ID"
+msgstr "KommentarID"
+
+msgid "FLIPNOTE_BY_FORMAT"
+msgstr "Flipnote av %s"
+
+msgid "MESSAGE_DETAILS"
+msgstr "Meddelandedetaljer"
+
+msgid "MESSAGE_FROM_FORMAT"
+msgstr "Meddelande från %s"
+
+msgid "MESSAGE_ID"
+msgstr "MeddelandeID"
 
 msgid "POSTED_TO"
 msgstr "Publicerad till"
@@ -45,14 +54,5 @@ msgstr "Privat konversation"
 msgid "REPORT_CONTENT"
 msgstr "Rapportera innehåll"
 
-msgid "COMMENT_HIDDEN_UNKNOWN"
-msgstr "Comment hidden due to request"
-
-msgid "COMMENT_HIDDEN_SELF"
-msgstr "Comment hidden by author"
-
-msgid "COMMENT_HIDDEN_RECIPIENT"
-msgstr "Comment hidden by Flipnote author"
-
-msgid "COMMENT_HIDDEN_MODERATOR"
-msgstr "Comment hidden by moderator"
+msgid "TIMESTAMP"
+msgstr "Tidsstämpel"

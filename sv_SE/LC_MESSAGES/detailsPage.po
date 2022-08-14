@@ -3,95 +3,101 @@ msgstr ""
 "Language: sv_SE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "TIMESTAMP_FORMAT"
-msgstr "M d, Å H:i:s"
-
-msgid "FLIPNOTE_TITLE_FORMAT"
-msgstr "Flipnote av %s"
-
-msgid "HEADER_DETAILS"
-msgstr "Detaljer"
-
-msgid "HEADER_COMMENTS"
-msgstr "Kommentarer"
-
-msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
-msgstr "Denna Flipnote är en spin-off."
-
-msgid "HEADER_ORIGINAL_FLIPNOTE"
-msgstr "Visa käll-Flipnote här"
-
-msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
-msgstr "För att förhindra Star-begging är gula Stars begränsade till tio per Flipnote."
-
-msgid "HEADER_CREATOR"
-msgstr "Skapare"
-
-msgid "HEADER_STARS"
-msgstr "Stars"
-
-msgid "HEADER_VIEWS"
-msgstr "Visningar"
-
-msgid "HEADER_SPINOFFS"
-msgstr "Spin-offs"
-
-msgid "HEADER_DOWNLOADS"
-msgstr "Nerladdningar"
-
-msgid "HEADER_TITLE"
-msgstr "Titel"
-
-msgid "HEADER_POSTED"
-msgstr "Publicerad"
-
-msgid "HEADER_FLIPNOTE_ID"
-msgstr "Flipnote ID"
-
-msgid "HEADER_CHANNEL"
-msgstr "Kanal"
-
-msgid "HEADER_OPTIONS"
-msgstr "Alternativ"
-
-msgid "HEADER_SET_AS_PROFILE_PICTURE"
-msgstr "Lägg till som profilbild"
-
-msgid "HEADER_REPORT_FLIPNOTE"
-msgstr "Rapportera Flipnote"
-
-msgid "ADMIN_ACTIONS"
-msgstr "Adminåtgärder"
-
-msgid "PREV"
-msgstr "Före"
-
-msgid "NEXT"
-msgstr "Nästa"
-
-msgid "STAR_DETAILS_UPPERTITLE"
-msgstr "★ Stars ★"
-
-msgid "SET_TITLE"
-msgstr "Sätt titel"
-
-msgid "SET_TITLE_INSTRUCTIONS"
-msgstr "Lägg till en ny titel till din Flipnote nedan."
+msgid "101_CHARACTER_LIMIT_DESC"
+msgstr "Din beskrivning är begränsad till 101 tecken i längd."
 
 msgid "40_CHARACTER_LIMIT"
 msgstr "Din titel är begränsad till 40 tecken i längd."
 
-msgid "LEAVE_BLANK_TO_RESET"
-msgstr "För att återställa titel till standard, lämna formulären tom när du sparar."
+msgid "ADMIN_ACTIONS"
+msgstr "Adminåtgärder"
+
+msgid "ENTER_DESCRIPTION"
+msgstr "Lägg till beskrivning"
 
 msgid "ENTER_TITLE"
 msgstr "Lägg till titel..."
 
+msgid "FLIPNOTE_TITLE_FORMAT"
+msgstr "Flipnote av %s"
+
 msgid "HEADER_ADD_DESCRIPTION"
 msgstr "Lägg till beskrivning"
 
+msgid "HEADER_CHANNEL"
+msgstr "Kanal"
+
+msgid "HEADER_COMMENTS"
+msgstr "Kommentarer"
+
+msgid "HEADER_CREATOR"
+msgstr "Skapare"
+
 msgid "HEADER_DESCRIPTION"
 msgstr "Beskrivning"
+
+msgid "HEADER_DETAILS"
+msgstr "Detaljer"
+
+msgid "HEADER_DOWNLOADS"
+msgstr "Nerladdningar"
+
+msgid "HEADER_FLIPNOTE_ID"
+msgstr "Flipnote ID"
+
+msgid "HEADER_FLIPNOTE_OPTIONS"
+msgstr "Alternativ"
+
+msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
+msgstr "För att förhindra Star-begging är gula Stars begränsade till tio per Flipnote."
+
+msgid "HEADER_OPTIONS"
+msgstr "Alternativ"
+
+msgid "HEADER_ORIGINAL_FLIPNOTE"
+msgstr "Visa käll-Flipnote här"
+
+msgid "HEADER_POSTED"
+msgstr "Publicerad"
+
+msgid "HEADER_REPORT_FLIPNOTE"
+msgstr "Rapportera Flipnote"
+
+msgid "HEADER_SET_AS_PROFILE_PICTURE"
+msgstr "Lägg till som profilbild"
+
+msgid "HEADER_SONG"
+msgstr "Låt"
+
+msgid "HEADER_SPINOFFS"
+msgstr "Spin-offs"
+
+msgid "HEADER_STARS"
+msgstr "Stars"
+
+msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
+msgstr "Denna Flipnote är en spin-off."
+
+msgid "HEADER_TITLE"
+msgstr "Titel"
+
+msgid "HEADER_UPLOAD_TO_YOUTUBE"
+msgstr "Upload to YouTube"
+
+msgid "HEADER_VIEWS"
+msgstr "Visningar"
+
+msgid "LEAVE_BLANK_TO_RESET"
+msgstr "För att återställa titel till standard, lämna formulären tom när du sparar."
+
+msgid "LEAVE_BLANK_TO_RESET_DESC"
+msgstr "För att ta bort beskrivning, lämna formuläraren tom när du sparar."
+
+msgid "NEXT"
+msgstr "Nästa"
+
+msgid "PREV"
+msgstr "Före"
 
 msgid "SET_DESCRIPTION"
 msgstr "Sätt Beskrivning"
@@ -99,24 +105,18 @@ msgstr "Sätt Beskrivning"
 msgid "SET_DESCRIPTION_INSTRUCTIONS"
 msgstr "Lägg till den nya beskrivningen till din Flipnote nedan."
 
-msgid "101_CHARACTER_LIMIT_DESC"
-msgstr "Din beskrivning är begränsad till 101 tecken i längd."
+msgid "SET_TITLE"
+msgstr "Sätt titel"
 
-msgid "LEAVE_BLANK_TO_RESET_DESC"
-msgstr "För att ta bort beskrivning, lämna formuläraren tom när du sparar."
+msgid "SET_TITLE_INSTRUCTIONS"
+msgstr "Lägg till en ny titel till din Flipnote nedan."
 
-msgid "ENTER_DESCRIPTION"
-msgstr "Lägg till beskrivning"
+msgid "STAR_DETAILS_UPPERTITLE"
+msgstr "★ Stars ★"
 
-msgid "HEADER_FLIPNOTE_OPTIONS"
-msgstr "Alternativ"
-
-msgid "HEADER_SONG"
-msgstr "Låt"
+msgid "TIMESTAMP_FORMAT"
+msgstr "M d, Å H:i:s"
 
 # This is shown to logged-in users on their own Flipnotes without titles
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "Odöpt Flipnote av %s"
-
-msgid "HEADER_UPLOAD_TO_YOUTUBE"
-msgstr "Upload to YouTube"

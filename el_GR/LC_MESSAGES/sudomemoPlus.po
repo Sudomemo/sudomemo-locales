@@ -3,18 +3,38 @@ msgstr ""
 "Language: el_GR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-# Sudomemo Plus Legacy Citizenship Activation
-msgid "SUDOMEMO_PLUS_LEGACY_HEADER"
-msgstr "Καλωσηρθατε  στο Sudomemo Plus!"
+msgid "AVAILABLE_PLUS_FEATURES"
+msgstr "Οι  ακολουθες  δυνατοτητες  ειναι  διαθεσιμες  μονο  μεσω Sudomemo Plus. Τσεκαρετε  αυτη  τη  σελιδα  μια  στο  τοσο!"
+
+msgid "COLORFUL_COMMENTS"
+msgstr "Γραψτε  χρωματιστα  σχολια"
+
+msgid "CONTINUE"
+msgstr "Συνεχεια"
+
+msgid "DOWNLOAD_YOUR_COMMENTS"
+msgstr "Κατεβαστε  τα  σχολια  σας  ως Flipnotes"
+
+msgid "FLIPNOTE_ANALYTICS"
+msgstr "Δειτε  αναλυτικες  λεπτομεριες  για τα  δικα  σας Flipnotes"
+
+msgid "FLIPNOTE_AUDIO_ENHANCEMENT"
+msgstr "Flipnote Audio Enhancement"
+
+msgid "FLIPNOTE_SMOOTHING"
+msgstr "Flipnote Smoothing"
+
+msgid "FOOTNOTE_PLATFORM_FEATURE_PARITY"
+msgstr "Καποιες  δυνατοτητες, οπως  το Flipnote Smoothing και audio enhancement, μπορουν  να  φανουν  μονο  στο Sudomemo Theatre."
 
 msgid "GREETING_LEGACY_ACTIVATE_FORMAT"
 msgstr "Γεια, %s!"
 
+msgid "INCREASED_FOLLOW_LIMIT"
+msgstr "Ανεβασμενο  οριο  ακολουθιας - μεχρι %s Χρηστες"
+
 msgid "LEGACY_ACTIVATE_CITIZENSHIP_CHANGE"
 msgstr "Το Sudomemo Citizenship δεν  υπαρχει πια, αντικατασταθηκε  απο  το Sudomemo Plus!"
-
-msgid "LEGACY_ACTIVATE_PLUS_TEASER"
-msgstr "Το Sudomemo Plus σας  δινει  προσβαση  σε καθε  λογης  νεες δυνατοτηας, οπως το  smoothing και audio enhancement των Flipnotes σας στο Sudomemo Theatre, οπως  επισης  χρωματιστα  σχολια  και  αλλες  τελειες  δυνατοτητες!"
 
 msgid "LEGACY_ACTIVATE_EARN_PLUS"
 msgstr "Μπορειτε  να  παρετε  το Sudomemo Plus με  την  ανταλλαγη  λαχνων  που  μπορειτε  να  αγορασετε  απο  το  καταστημα  μας η  με  το  να  κερδισετε  σε  ενα  απο  τα Weekly Topic."
@@ -22,64 +42,44 @@ msgstr "Μπορειτε  να  παρετε  το Sudomemo Plus με  την  �
 msgid "LEGACY_ACTIVATE_GRANDFATHERED_BONUS"
 msgstr "Εφοσον  προηγουμενο  ειχατε Citizenship, σας  δινουμε  εναν  μηνα  δωρεαν Sudomemo Plus. Ψαξτε  και  δοκιμαστε  καποιες  νεες  δυνατοτητες!!"
 
-msgid "CONTINUE"
-msgstr "Συνεχεια"
+msgid "LEGACY_ACTIVATE_PLUS_TEASER"
+msgstr "Το Sudomemo Plus σας  δινει  προσβαση  σε καθε  λογης  νεες δυνατοτηας, οπως το  smoothing και audio enhancement των Flipnotes σας στο Sudomemo Theatre, οπως  επισης  χρωματιστα  σχολια  και  αλλες  τελειες  δυνατοτητες!"
 
 # My Sudomemo Plus
 msgid "MANAGE_PLUS_HEADER"
 msgstr "Το Sudomemo Plus μου"
 
-msgid "MANAGE_PLUS_REMAINING"
-msgstr "Εχετε %s ημερες Sudomemo Plus ακομα."
-
 msgid "MANAGE_PLUS_HOW_TO_EARN_PLUS"
 msgstr "Μπορειτε  να  παρετε  το Sudomemo Plus με  την  ανταλλαγη  λαχνων  που  μπορειτε  να  αγορασετε  απο  το  καταστημα  μας η  με  το  να  κερδισετε  σε  ενα  απο  τα Weekly Topic."
 
-msgid "AVAILABLE_PLUS_FEATURES"
-msgstr "Οι  ακολουθες  δυνατοτητες  ειναι  διαθεσιμες  μονο  μεσω Sudomemo Plus. Τσεκαρετε  αυτη  τη  σελιδα  μια  στο  τοσο!"
-
-msgid "FOOTNOTE_PLATFORM_FEATURE_PARITY"
-msgstr "Καποιες  δυνατοτητες, οπως  το Flipnote Smoothing και audio enhancement, μπορουν  να  φανουν  μονο  στο Sudomemo Theatre."
-
-msgid "FLIPNOTE_SMOOTHING"
-msgstr "Flipnote Smoothing"
-
-msgid "FLIPNOTE_AUDIO_ENHANCEMENT"
-msgstr "Flipnote Audio Enhancement"
-
-msgid "COLORFUL_COMMENTS"
-msgstr "Γραψτε  χρωματιστα  σχολια"
-
-msgid "DOWNLOAD_YOUR_COMMENTS"
-msgstr "Κατεβαστε  τα  σχολια  σας  ως Flipnotes"
-
-msgid "THEME_PUBLISHER_ACCESS"
-msgstr "Publish themes to the Theme Shop"
-
-msgid "FLIPNOTE_ANALYTICS"
-msgstr "Δειτε  αναλυτικες  λεπτομεριες  για τα  δικα  σας Flipnotes"
-
-msgid "SUDOMEMO_GAME_ACCESS"
-msgstr "Παιξτε  ειδικα  παιχνιδια  εδω  στο Sudomemo!"
+msgid "MANAGE_PLUS_REMAINING"
+msgstr "Εχετε %s ημερες Sudomemo Plus ακομα."
 
 msgid "NO_THEATRE_ADS"
 msgstr "Οχι  διαφημισεις  στο  Sudomemo Theatre"
 
-msgid "INCREASED_FOLLOW_LIMIT"
-msgstr "Ανεβασμενο  οριο  ακολουθιας - μεχρι %s Χρηστες"
+msgid "PLUS_RUNNING_OUT_MSG_DAYS_REMAINING_FORMAT"
+msgstr "Σας  στελνουμε  αυτο  το  μηνυμα  για  να  σας  ενημερωσουμε  οτι  εχετε  ακομα  %s μερες  του Sudomemo Plus."
+
+msgid "PLUS_RUNNING_OUT_MSG_HAPPY_FLIPNOTING"
+msgstr "Καλο Flipnoting!"
+
+msgid "PLUS_RUNNING_OUT_MSG_HOW_TO_EARN_PLUS"
+msgstr "Μην  ξεχνατε  οτι  μπορειτε  να  παρετε  το  Sudomemo Plus με  το  να  νικησετε  στο Weekly Topic, η  με  την  ανταλλαγη  λαχνων  απο  το  καταστημα  μας."
+
+msgid "PLUS_RUNNING_OUT_MSG_INTRO"
+msgstr "Γεια, %s!"
 
 # Sudomemo Plus Running Low Message
 msgid "PLUS_RUNNING_OUT_MSG_TITLE"
 msgstr "Το Sudomemo Plus Μου"
 
-msgid "PLUS_RUNNING_OUT_MSG_INTRO"
-msgstr "Γεια, %s!"
+msgid "SUDOMEMO_GAME_ACCESS"
+msgstr "Παιξτε  ειδικα  παιχνιδια  εδω  στο Sudomemo!"
 
-msgid "PLUS_RUNNING_OUT_MSG_DAYS_REMAINING_FORMAT"
-msgstr "Σας  στελνουμε  αυτο  το  μηνυμα  για  να  σας  ενημερωσουμε  οτι  εχετε  ακομα  %s μερες  του Sudomemo Plus."
+# Sudomemo Plus Legacy Citizenship Activation
+msgid "SUDOMEMO_PLUS_LEGACY_HEADER"
+msgstr "Καλωσηρθατε  στο Sudomemo Plus!"
 
-msgid "PLUS_RUNNING_OUT_MSG_HOW_TO_EARN_PLUS"
-msgstr "Μην  ξεχνατε  οτι  μπορειτε  να  παρετε  το  Sudomemo Plus με  το  να  νικησετε  στο Weekly Topic, η  με  την  ανταλλαγη  λαχνων  απο  το  καταστημα  μας."
-
-msgid "PLUS_RUNNING_OUT_MSG_HAPPY_FLIPNOTING"
-msgstr "Καλο Flipnoting!"
+msgid "THEME_PUBLISHER_ACCESS"
+msgstr "Publish themes to the Theme Shop"

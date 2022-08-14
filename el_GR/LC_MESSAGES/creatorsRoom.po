@@ -3,59 +3,8 @@ msgstr ""
 "Language: el_GR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "SEE_MORE"
-msgstr "Δειτε περισσοτερα..."
-
-msgid "STARRED_FLIPNOTES"
-msgstr "Flipnotes με αστερια"
-
-msgid "FAVORITE_USERS"
-msgstr "Αγαπημενοι Χρηστεs"
-
-msgid "FAVORITES_FEED"
-msgstr "Καινουρια απο Αγαπημενουs"
-
-msgid "FAVORITE_CHANNELS"
-msgstr "Αγαπημενα Καναλια"
-
-msgid "USER_DOWNLOADCOUNT"
-msgstr "Ληψειs"
-
-msgid "USER_VIEWCOUNT"
-msgstr "Προβολεs"
-
-msgid "USER_THEME"
-msgstr "Θεμα"
-
-msgid "THEME_SHOP"
-msgstr "Μαγαζι Θεματων"
-
-msgid "POSTED_COMMENTS"
-msgstr "Σχολια"
-
-msgid "POSTED_CHATCOMMENTS"
-msgstr "Μηνυματα Τσατ"
-
-msgid "FEATURE_USABILITY"
-msgstr "Χρηστικοτητα Λειτουργιων"
-
-msgid "USABLE"
-msgstr "Χρηστικη"
-
-msgid "NOT_USABLE"
-msgstr "Μη Χρηστικη"
-
-msgid "SUDOMEMO_THEATRE_URL"
-msgstr "Συνδεσμος Sudomemo Theatre"
-
-msgid "FLIPNOTE_STUDIO_ID"
-msgstr "Flipnote Studio ID"
-
-msgid "SETTINGS"
-msgstr "Ρυθμισειs"
-
-msgid "ADMIN_ACCT_GOOD_STANDING"
-msgstr "Σε καλη κατασταση"
+msgid "101_CHARACTER_LIMIT_BIO"
+msgstr "Η βιογραφια σας περιοριζεται σε 101 χαρακτηρες."
 
 msgid "ADMIN_ACCT_BANNED"
 msgstr "Απαγορευμενοι"
@@ -63,20 +12,26 @@ msgstr "Απαγορευμενοι"
 msgid "ADMIN_ACCT_BLOCKED"
 msgstr "Αποκλεισμενοι"
 
+msgid "ADMIN_ACCT_GOOD_STANDING"
+msgstr "Σε καλη κατασταση"
+
 msgid "ADMIN_ACCT_MUTED"
 msgstr "Σε σιγαση"
 
-msgid "ADMIN_USER_DETAILS"
-msgstr "Λεπτομερειεs Χρηστη"
+msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
+msgstr "Ενεργειες Διαχειριστη"
 
 msgid "ADMIN_LAST_SEEN"
 msgstr "Τελευταια Εμφανιση"
 
+msgid "ADMIN_USER_DETAILS"
+msgstr "Λεπτομερειεs Χρηστη"
+
 msgid "ADMIN_USER_STATUS"
 msgstr "Κατασταση Χρηστη"
 
-msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
-msgstr "Ενεργειες Διαχειριστη"
+msgid "BLOCKED_USERS"
+msgstr "Μπλοκαρισμενοι χρηστες"
 
 msgid "BLOCK_COMMENTS_HEADER"
 msgstr "Αποκλεισμος Σχολιων"
@@ -84,11 +39,53 @@ msgstr "Αποκλεισμος Σχολιων"
 msgid "BLOCK_COMMENTS_LINK"
 msgstr "Αποκλεισμος"
 
-msgid "USABILITY_USABLE"
-msgstr "Χρηστικη"
+msgid "CAN_DRAW_TICKET_SUBTEXT"
+msgstr "Μπορειτε να τραβηξετε εναν κανονικο λαχνο! Ισως κερδισετε κατι."
 
-msgid "USABILITY_NOT_USABLE"
-msgstr "Μη Χρηστικη"
+msgid "CHANGE_ROOM_THEME_LINK"
+msgstr "[αλλαξτε θεμα]"
+
+msgid "CREATORS_ROOM"
+msgstr "Δωματιο Δημιουργου"
+
+msgid "CURRENT_BIO"
+msgstr "Τρεχουσα Βιογραφια:"
+
+msgid "DRAW_REGULAR_TICKET"
+msgstr "Τραβηξτε λαχνο"
+
+msgid "ENTER_BIO"
+msgstr "Συμπληρωστε Βιογραφια..."
+
+msgid "EXAMPLE"
+msgstr "Παραδειγμα"
+
+msgid "FANS"
+msgstr "Θαυμαστεs"
+
+msgid "FAN_COUNT_FORMAT"
+msgstr "Θαυμαστες: %s"
+
+msgid "FAVORITES_FEED"
+msgstr "Καινουρια απο Αγαπημενουs"
+
+msgid "FAVORITE_CHANNELS"
+msgstr "Αγαπημενα Καναλια"
+
+msgid "FAVORITE_USERS"
+msgstr "Αγαπημενοι Χρηστεs"
+
+msgid "FEATURE_USABILITY"
+msgstr "Χρηστικοτητα Λειτουργιων"
+
+msgid "FLIPNOTE_STUDIO_ID"
+msgstr "Flipnote Studio ID"
+
+msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
+msgstr "Δεν μπορειτε να ακολουθησετε πανω απο  %d χρηστες."
+
+msgid "HEADER_EDIT_BIOGRAPHY"
+msgstr "Επεξεργασια Βιογραφιας"
 
 msgid "HEADER_FOLLOWERS"
 msgstr "Ακολουθοι"
@@ -96,122 +93,29 @@ msgstr "Ακολουθοι"
 msgid "HEADER_FOLLOWING"
 msgstr "Ακολουθει"
 
-msgid "PREVIOUS"
-msgstr "Προηγουμενο"
-
-msgid "NEXT"
-msgstr "επομενο"
-
-msgid "CHANGE_ROOM_THEME_LINK"
-msgstr "[αλλαξτε θεμα]"
-
-msgid "SELECT_THEME"
-msgstr "Διαλεξτε θεμα"
-
-msgid "FANS"
-msgstr "Θαυμαστεs"
-
-msgid "EXAMPLE"
-msgstr "Παραδειγμα"
-
-msgid "THEMETEST_SET_THEME"
-msgstr "Επιλογη Θεματος"
-
-msgid "THEMETEST_NOTICE"
-msgstr "Ειδοποιηση"
-
-msgid "THEMETEST_OK"
-msgstr "Οκ"
-
-msgid "THEMETEST_ERROR"
-msgstr "Σφαλμα"
-
-msgid "THEMETEST_NOTICE_2"
-msgstr "Ειδοποιηση #2"
-
-msgid "THEMETEST_ACTIVE_TAB"
-msgstr "Ενεργη καρτελα"
-
-msgid "THEMETEST_INACTIVE_TAB"
-msgstr "Ανενεργη καρτελα"
-
-msgid "PREVIEW"
-msgstr "Προεπισκοπηση"
-
-msgid "CREATORS_ROOM"
-msgstr "Δωματιο Δημιουργου"
-
-msgid "THEME_ERROR_THEME_NOT_OWNED"
-msgstr "Λυπουμαστε! Δεν εχετε το αυτο το θεμα."
-
-msgid "THEME_SUCCESSFULLY_SET"
-msgstr "Το θεμα σας επιλεχθηκε με επιτυχια!"
-
-msgid "BLOCKED_USERS"
-msgstr "Μπλοκαρισμενοι χρηστες"
-
-msgid "VIEW"
-msgstr "Προβολη"
-
-msgid "FAN_COUNT_FORMAT"
-msgstr "Θαυμαστες: %s"
-
 msgid "HEADER_LANGUAGE"
 msgstr "Γλωσσα"
 
 msgid "HEADER_MAIL_SETTINGS"
 msgstr "Ρυθμισεις Mail"
 
-msgid "HEADER_EDIT_BIOGRAPHY"
-msgstr "Επεξεργασια Βιογραφιας"
-
-msgid "SET_BIO_INSTRUCTIONS"
-msgstr "Συμπληρωστε την βιογραφια του προφιλ σας παρακατω. Θα φαινεται στο Sudomemo και το Sudomemo Theatre."
-
-msgid "ENTER_BIO"
-msgstr "Συμπληρωστε Βιογραφια..."
-
-msgid "101_CHARACTER_LIMIT_BIO"
-msgstr "Η βιογραφια σας περιοριζεται σε 101 χαρακτηρες."
-
-msgid "LEAVE_BLANK_TO_RESET_BIO"
-msgstr "Για να καθαρισετε την βιογραφια σας, αφηστε την φορμα κενη ενω την παραδιδετε."
-
-msgid "CURRENT_BIO"
-msgstr "Τρεχουσα Βιογραφια:"
-
-msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
-msgstr "Δεν μπορειτε να ακολουθησετε πανω απο  %d χρηστες."
-
-msgid "RANKING"
-msgstr "Ranking"
-
-msgid "TICKET_SECTION"
-msgstr "Λαχνοι"
-
-msgid "DRAW_REGULAR_TICKET"
-msgstr "Τραβηξτε λαχνο"
-
-msgid "CAN_DRAW_TICKET_SUBTEXT"
-msgstr "Μπορειτε να τραβηξετε εναν κανονικο λαχνο! Ισως κερδισετε κατι."
+msgid "HEADER_SUPPORT_TOKEN"
+msgstr "Support Token"
 
 msgid "INVENTORY"
 msgstr "Αποθεμα"
 
-msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
-msgstr "Μπορειτε να ξανατραβηξετε λαχνο σε: %s ωρα,-ες %s λεπτο,-α."
-
-msgid "REDEEM"
-msgstr "Εξαργυρωση"
-
-msgid "SPENDABLE_STARS"
-msgstr "Τα Αστερια σας"
-
-msgid "SPENDABLE_STARS_HELPTEXT"
-msgstr "Αστερια για να δωσετε σε Flipnotes η να ανταλλαξετε για θεματα"
+msgid "LEAVE_BLANK_TO_RESET_BIO"
+msgstr "Για να καθαρισετε την βιογραφια σας, αφηστε την φορμα κενη ενω την παραδιδετε."
 
 msgid "LOGIN_REQUIRED_ACTION"
 msgstr "Πρεπει να συνδεθειτε για να πραγματοποιησετε αυτη την ενεργια."
+
+msgid "NEXT"
+msgstr "επομενο"
+
+msgid "NOT_USABLE"
+msgstr "Μη Χρηστικη"
 
 msgid "PAGE"
 msgstr "Σελιδα"
@@ -219,8 +123,107 @@ msgstr "Σελιδα"
 msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d απο %d"
 
-msgid "HEADER_SUPPORT_TOKEN"
-msgstr "Support Token"
+msgid "POSTED_CHATCOMMENTS"
+msgstr "Μηνυματα Τσατ"
+
+msgid "POSTED_COMMENTS"
+msgstr "Σχολια"
+
+msgid "PREVIEW"
+msgstr "Προεπισκοπηση"
+
+msgid "PREVIOUS"
+msgstr "Προηγουμενο"
+
+msgid "RANKING"
+msgstr "Ranking"
+
+msgid "REDEEM"
+msgstr "Εξαργυρωση"
 
 msgid "REQUEST"
 msgstr "Request"
+
+msgid "SEE_MORE"
+msgstr "Δειτε περισσοτερα..."
+
+msgid "SELECT_THEME"
+msgstr "Διαλεξτε θεμα"
+
+msgid "SETTINGS"
+msgstr "Ρυθμισειs"
+
+msgid "SET_BIO_INSTRUCTIONS"
+msgstr "Συμπληρωστε την βιογραφια του προφιλ σας παρακατω. Θα φαινεται στο Sudomemo και το Sudomemo Theatre."
+
+msgid "SPENDABLE_STARS"
+msgstr "Τα Αστερια σας"
+
+msgid "SPENDABLE_STARS_HELPTEXT"
+msgstr "Αστερια για να δωσετε σε Flipnotes η να ανταλλαξετε για θεματα"
+
+msgid "STARRED_FLIPNOTES"
+msgstr "Flipnotes με αστερια"
+
+msgid "SUDOMEMO_THEATRE_URL"
+msgstr "Συνδεσμος Sudomemo Theatre"
+
+msgid "THEMETEST_ACTIVE_TAB"
+msgstr "Ενεργη καρτελα"
+
+msgid "THEMETEST_ERROR"
+msgstr "Σφαλμα"
+
+msgid "THEMETEST_INACTIVE_TAB"
+msgstr "Ανενεργη καρτελα"
+
+msgid "THEMETEST_NOTICE"
+msgstr "Ειδοποιηση"
+
+msgid "THEMETEST_NOTICE_2"
+msgstr "Ειδοποιηση #2"
+
+msgid "THEMETEST_OK"
+msgstr "Οκ"
+
+msgid "THEMETEST_SET_THEME"
+msgstr "Επιλογη Θεματος"
+
+msgid "THEME_ERROR_THEME_NOT_OWNED"
+msgstr "Λυπουμαστε! Δεν εχετε το αυτο το θεμα."
+
+msgid "THEME_SHOP"
+msgstr "Μαγαζι Θεματων"
+
+msgid "THEME_SUCCESSFULLY_SET"
+msgstr "Το θεμα σας επιλεχθηκε με επιτυχια!"
+
+msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
+msgstr "Μπορειτε να ξανατραβηξετε λαχνο σε: %s ωρα,-ες %s λεπτο,-α."
+
+msgid "TICKET_SECTION"
+msgstr "Λαχνοι"
+
+msgid "USABILITY_NOT_USABLE"
+msgstr "Μη Χρηστικη"
+
+msgid "USABILITY_USABLE"
+msgstr "Χρηστικη"
+
+msgid "USABLE"
+msgstr "Χρηστικη"
+
+msgid "USER_DOWNLOADCOUNT"
+msgstr "Ληψειs"
+
+msgid "USER_THEME"
+msgstr "Θεμα"
+
+msgid "USER_VIEWCOUNT"
+msgstr "Προβολεs"
+
+msgid "VIEW"
+msgstr "Προβολη"
+
+msgid "WATCH_HISTORY"
+msgstr "Watch History"

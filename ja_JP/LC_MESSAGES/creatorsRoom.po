@@ -99,6 +99,9 @@ msgstr "言語"
 msgid "HEADER_MAIL_SETTINGS"
 msgstr "メール設定"
 
+msgid "HEADER_SUPPORT_TOKEN"
+msgstr "サポートトークン"
+
 msgid "INVENTORY"
 msgstr "チケット一覧"
 
@@ -137,6 +140,9 @@ msgstr "ランキング"
 
 msgid "REDEEM"
 msgstr "交換"
+
+msgid "REQUEST"
+msgstr "リクエスト"
 
 msgid "SEE_MORE"
 msgstr "もっと見る"
@@ -219,8 +225,5 @@ msgstr "閲覧回数"
 msgid "VIEW"
 msgstr "閲覧"
 
-msgid "HEADER_SUPPORT_TOKEN"
-msgstr "サポートトークン"
-
-msgid "REQUEST"
-msgstr "リクエスト"
+msgid "WATCH_HISTORY"
+msgstr "Watch History"

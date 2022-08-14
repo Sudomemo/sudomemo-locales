@@ -3,26 +3,38 @@ msgstr ""
 "Language: el_GR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-# This contains common strings used for the general notification ("mail") system as well
-# Common
-msgid "LOGIN_FIRST_TO_ACCESS_MAIL"
-msgstr "Πρεπει  να  επανασυνδεθειτε  για  να  το  δειτε  αυτο."
-
 msgid "CONTINUE"
 msgstr "Συνεχεια"
 
 msgid "HEADER_INBOX"
 msgstr "Εισερχομενα"
 
-# this must be a max of 6 characters
-msgid "UNAUTHED_READ"
-msgstr "Διαβαστε.."
+# This contains common strings used for the general notification ("mail") system as well
+# Common
+msgid "LOGIN_FIRST_TO_ACCESS_MAIL"
+msgstr "Πρεπει  να  επανασυνδεθειτε  για  να  το  δειτε  αυτο."
+
+# Not found
+msgid "MAIL_NOT_FOUND"
+msgstr "Αυτο  το  μηνυμα  δεν  υπαρχει."
+
+msgid "NEXT"
+msgstr "Επομ"
 
 msgid "PREV"
 msgstr "Προηγ"
 
-msgid "NEXT"
-msgstr "Επομ"
+msgid "TITLE_INFO"
+msgstr "Πληροφοριες"
+
+msgid "TITLE_MESSAGE"
+msgstr "Μηνυμα"
+
+msgid "TITLE_NEWS"
+msgstr "Νεα"
+
+msgid "TITLE_NOTICE"
+msgstr "Ειδοποιηση"
 
 # Titles
 msgid "TITLE_SPINOFF"
@@ -31,18 +43,6 @@ msgstr "Spin-off"
 msgid "TITLE_WARNING"
 msgstr "Προειδοποιηση"
 
-msgid "TITLE_NOTICE"
-msgstr "Ειδοποιηση"
-
-msgid "TITLE_MESSAGE"
-msgstr "Μηνυμα"
-
-msgid "TITLE_NEWS"
-msgstr "Νεα"
-
-msgid "TITLE_INFO"
-msgstr "Πληροφοριες"
-
-# Not found
-msgid "MAIL_NOT_FOUND"
-msgstr "Αυτο  το  μηνυμα  δεν  υπαρχει."
+# this must be a max of 6 characters
+msgid "UNAUTHED_READ"
+msgstr "Διαβαστε.."

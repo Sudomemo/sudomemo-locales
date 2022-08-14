@@ -3,11 +3,26 @@ msgstr ""
 "Language: sv_SE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "CITIZENSHIP_REQUIRED"
+msgstr "You'll need Sudomemo Citizenship to use this feature."
+
+msgid "DISABLE_AUDIO_ENHANCEMENT"
+msgstr "Avaktivera ljudförbättring"
+
+msgid "DISABLE_SMOOTHING"
+msgstr "Avaktivera utjämning"
+
+msgid "ENABLE_AUDIO_ENHANCEMENT"
+msgstr "Aktivera ljudförbättring"
+
+msgid "ENABLE_SMOOTHING"
+msgstr "Aktivera utjämning"
+
 msgid "FLIPNOTE_OPTIONS"
 msgstr "Flipnotealternativ"
 
-msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
-msgstr "Du måste vara inloggad för att se denna sida."
+msgid "FLIPNOTE_URL_IS"
+msgstr "Flipnotelänk:"
 
 msgid "HEADER_OPTION"
 msgstr "Alternativ"
@@ -15,44 +30,29 @@ msgstr "Alternativ"
 msgid "HEADER_STATUS"
 msgstr "Status"
 
-msgid "OPTION_NAME_SMOOTH"
-msgstr "Utjämning"
-
-msgid "OPTION_DESC_SMOOTH"
-msgstr "Linjer, kurvor och kanter är utjämnade för att se mer naturligt ut på Sudomemo Theatre."
-
-msgid "FLIPNOTE_URL_IS"
-msgstr "Flipnotelänk:"
-
-msgid "ENABLE_SMOOTHING"
-msgstr "Aktivera utjämning"
-
-msgid "DISABLE_SMOOTHING"
-msgstr "Avaktivera utjämning"
-
-msgid "ON"
-msgstr "På"
+msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
+msgstr "Du måste vara inloggad för att se denna sida."
 
 msgid "OFF"
 msgstr "Av"
 
-msgid "CITIZENSHIP_REQUIRED"
-msgstr "You'll need Sudomemo Citizenship to use this feature."
+msgid "ON"
+msgstr "På"
+
+msgid "OPTION_DESC_FORCE_44K_BITRATE"
+msgstr "Sudomemo kommer att försöka gjöra ditt ljud klarare för Sudomemo Theatre."
+
+msgid "OPTION_DESC_SMOOTH"
+msgstr "Linjer, kurvor och kanter är utjämnade för att se mer naturligt ut på Sudomemo Theatre."
+
+msgid "OPTION_NAME_FORCE_44K_BITRATE"
+msgstr "Förbättrat ljud"
+
+msgid "OPTION_NAME_SMOOTH"
+msgstr "Utjämning"
 
 msgid "PLUS_REQUIRED"
 msgstr "Du behöver Sudomemo Plus för att använda den här funktionen."
 
 msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
 msgstr "Klicka på ett alternativs status för att se eller ändra det."
-
-msgid "OPTION_NAME_FORCE_44K_BITRATE"
-msgstr "Förbättrat ljud"
-
-msgid "OPTION_DESC_FORCE_44K_BITRATE"
-msgstr "Sudomemo kommer att försöka gjöra ditt ljud klarare för Sudomemo Theatre."
-
-msgid "ENABLE_AUDIO_ENHANCEMENT"
-msgstr "Aktivera ljudförbättring"
-
-msgid "DISABLE_AUDIO_ENHANCEMENT"
-msgstr "Avaktivera ljudförbättring"

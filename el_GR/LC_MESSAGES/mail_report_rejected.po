@@ -3,6 +3,33 @@ msgstr ""
 "Language: el_GR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "CONTENT_ID"
+msgstr "ID Περιεχομενου:"
+
+msgid "CONTENT_TYPE"
+msgstr "Ειδος  περιεχομενου:"
+
+msgid "CONTENT_TYPE_chat_message"
+msgstr "Μηνυμα τσατ"
+
+msgid "CONTENT_TYPE_comment"
+msgstr "Σχολιο"
+
+# ## Catch-all
+msgid "CONTENT_TYPE_content"
+msgstr "Αλλο  περιεχομενο"
+
+# # Content types
+msgid "CONTENT_TYPE_flipnote"
+msgstr "Flipnote"
+
+msgid "CONTENT_TYPE_profile_bio"
+msgstr "Κειμενο  Προφιλ"
+
+# ## We plan on adding user-created themes.
+msgid "CONTENT_TYPE_room_theme"
+msgstr "Θεμα Δωματιου Χρηστη"
+
 # Content Report Rejected - sent to user who has reported content after report deemed invalid
 msgid "NOTICE"
 msgstr "Ειδοποιηση"
@@ -17,30 +44,3 @@ msgstr "Η  ερευνα  μας  βρηκε  οτι  το  συγκεκριμε
 # this message is followed by a link
 msgid "REPORT_REJECTED_INFO"
 msgstr "Αναφορες  σαν  τη  δικη  σας  βοηθουν  το Sudomemo  να  μεινει  ασφαλες  για  ολους. Προτεινουμε  να  επανεξετασετε  την  Πολιτικη  Περιεχομενου  για  να  κατανοησετε  καλυτερα  τι  εοδους  περιεχομενο  δεχεται  το Sudomemo:"
-
-# # Content types
-msgid "CONTENT_TYPE_flipnote"
-msgstr "Flipnote"
-
-msgid "CONTENT_TYPE_comment"
-msgstr "Σχολιο"
-
-msgid "CONTENT_TYPE_chat_message"
-msgstr "Μηνυμα τσατ"
-
-# ## We plan on adding user-created themes.
-msgid "CONTENT_TYPE_room_theme"
-msgstr "Θεμα Δωματιου Χρηστη"
-
-msgid "CONTENT_TYPE_profile_bio"
-msgstr "Κειμενο  Προφιλ"
-
-# ## Catch-all
-msgid "CONTENT_TYPE_content"
-msgstr "Αλλο  περιεχομενο"
-
-msgid "CONTENT_TYPE"
-msgstr "Ειδος  περιεχομενου:"
-
-msgid "CONTENT_ID"
-msgstr "ID Περιεχομενου:"

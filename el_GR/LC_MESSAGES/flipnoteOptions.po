@@ -3,11 +3,26 @@ msgstr ""
 "Language: el_GR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "CITIZENSHIP_REQUIRED"
+msgstr "Χρειαζεστε Sudomemo Citizenship για να χρησιμοποιησετε αυτο το feature."
+
+msgid "DISABLE_AUDIO_ENHANCEMENT"
+msgstr "Απενεργοποιηση  του audio enhancement"
+
+msgid "DISABLE_SMOOTHING"
+msgstr "Απενεργοποιηση smoothing"
+
+msgid "ENABLE_AUDIO_ENHANCEMENT"
+msgstr "Ενεργοποιηση  του audio enhancement"
+
+msgid "ENABLE_SMOOTHING"
+msgstr "Ενεργοποιηση smoothing"
+
 msgid "FLIPNOTE_OPTIONS"
 msgstr "Επιλογες Flipnote"
 
-msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
-msgstr "Για  να  ανοιξετε  αυτη  την  σελιδα  πρεπει  να συνδεθειτε."
+msgid "FLIPNOTE_URL_IS"
+msgstr "Flipnote URL:"
 
 msgid "HEADER_OPTION"
 msgstr "Επιλογη"
@@ -15,44 +30,29 @@ msgstr "Επιλογη"
 msgid "HEADER_STATUS"
 msgstr "Κατασταση"
 
-msgid "OPTION_NAME_SMOOTH"
-msgstr "Smoothing"
-
-msgid "OPTION_DESC_SMOOTH"
-msgstr "Για  μια  καλυτερη  οψη  στο  Sudomemo Theatre,  οι γραμμες  λειενονται."
-
-msgid "FLIPNOTE_URL_IS"
-msgstr "Flipnote URL:"
-
-msgid "ENABLE_SMOOTHING"
-msgstr "Ενεργοποιηση smoothing"
-
-msgid "DISABLE_SMOOTHING"
-msgstr "Απενεργοποιηση smoothing"
-
-msgid "ON"
-msgstr "ΝΑΙ"
+msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
+msgstr "Για  να  ανοιξετε  αυτη  την  σελιδα  πρεπει  να συνδεθειτε."
 
 msgid "OFF"
 msgstr "ΟΧΙ"
 
-msgid "CITIZENSHIP_REQUIRED"
-msgstr "Χρειαζεστε Sudomemo Citizenship για να χρησιμοποιησετε αυτο το feature."
+msgid "ON"
+msgstr "ΝΑΙ"
+
+msgid "OPTION_DESC_FORCE_44K_BITRATE"
+msgstr "Το Sudomemo θα  δοκιμασει  να  κανει  τον  ηχο  σας  πιο  καθαρο  για  το Sudomemo Theatre."
+
+msgid "OPTION_DESC_SMOOTH"
+msgstr "Για  μια  καλυτερη  οψη  στο  Sudomemo Theatre,  οι γραμμες  λειενονται."
+
+msgid "OPTION_NAME_FORCE_44K_BITRATE"
+msgstr "Enhanced audio"
+
+msgid "OPTION_NAME_SMOOTH"
+msgstr "Smoothing"
 
 msgid "PLUS_REQUIRED"
 msgstr "Χρειαζεστε Sudomemo Plus για  να  χρησιμοποιησετε  αυτο  το feature."
 
 msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
 msgstr "Πατηστε πανω στην κατασταση μιας επιλογης για να την δειτε η να την αλλαξετε."
-
-msgid "OPTION_NAME_FORCE_44K_BITRATE"
-msgstr "Enhanced audio"
-
-msgid "OPTION_DESC_FORCE_44K_BITRATE"
-msgstr "Το Sudomemo θα  δοκιμασει  να  κανει  τον  ηχο  σας  πιο  καθαρο  για  το Sudomemo Theatre."
-
-msgid "ENABLE_AUDIO_ENHANCEMENT"
-msgstr "Ενεργοποιηση  του audio enhancement"
-
-msgid "DISABLE_AUDIO_ENHANCEMENT"
-msgstr "Απενεργοποιηση  του audio enhancement"

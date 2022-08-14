@@ -3,23 +3,23 @@ msgstr ""
 "Language: nl_NL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "EMAIL_SUBJECT_FORMAT"
-msgstr "[Sudomemo] %s, je hebt nieuwe reacties op je Flipnotes!"
-
-msgid "TITLE_NEW_COMMENTS"
-msgstr "Nieuwe reacties"
-
-msgid "HELLO_FORMAT"
-msgstr "Hallo, %s!"
-
-msgid "TEXT_YOU_HAVE_X_COMMENTS_FROM_FORMAT"
-msgstr "Je hebt %d nieuwe reacties op Sudomemo van %s"
-
 msgid "AND"
 msgstr "en"
 
 msgid "AND_X_OTHERS_FORMAT"
 msgstr "en %s anderen."
 
+msgid "EMAIL_SUBJECT_FORMAT"
+msgstr "[Sudomemo] %s, je hebt nieuwe reacties op je Flipnotes!"
+
+msgid "HELLO_FORMAT"
+msgstr "Hallo, %s!"
+
 msgid "TEXT_HOW_TO_VIEW_UNREAD_COMMENTS_TAP_ICON_FORMAT"
 msgstr "Je kan je ongelezen reacties op Sudomemo bekijken door %s te kiezen op je notificatiebalk."
+
+msgid "TEXT_YOU_HAVE_X_COMMENTS_FROM_FORMAT"
+msgstr "Je hebt %d nieuwe reacties op Sudomemo van %s"
+
+msgid "TITLE_NEW_COMMENTS"
+msgstr "Nieuwe reacties"

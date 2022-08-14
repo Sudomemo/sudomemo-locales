@@ -3,20 +3,20 @@ msgstr ""
 "Language: sv_SE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
-msgstr "Du måste logga in för att se den här sidan"
+msgid "FLIPNOTE_ID"
+msgstr "FlipnoteID"
 
 msgid "HEADER_UNREAD_COMMENTS"
 msgstr "Olästa kommentarer"
+
+msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
+msgstr "Du måste logga in för att se den här sidan"
 
 msgid "NO_UNREAD_COMMENTS"
 msgstr "Du har inge olästa kommentarer"
 
 msgid "TAP_ON_FLIPNOTE_ID_TO_VISIT_COMMENTS"
 msgstr "Tryck på en FlipnoteID för att se kommentarsfältet."
-
-msgid "FLIPNOTE_ID"
-msgstr "FlipnoteID"
 
 msgid "UNREAD"
 msgstr "Oläst"

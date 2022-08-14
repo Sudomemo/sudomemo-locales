@@ -3,59 +3,8 @@ msgstr ""
 "Language: ro_RO\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "SEE_MORE"
-msgstr "Mai multe..."
-
-msgid "STARRED_FLIPNOTES"
-msgstr "Flipnote-uri cu stea"
-
-msgid "FAVORITE_USERS"
-msgstr "Utilizatori Favoriti"
-
-msgid "FAVORITES_FEED"
-msgstr "Flux Favoriti"
-
-msgid "FAVORITE_CHANNELS"
-msgstr "Canale Favorite"
-
-msgid "USER_DOWNLOADCOUNT"
-msgstr "Descarcari"
-
-msgid "USER_VIEWCOUNT"
-msgstr "Vizionari"
-
-msgid "USER_THEME"
-msgstr "Tema"
-
-msgid "THEME_SHOP"
-msgstr "Magazin de Teme"
-
-msgid "POSTED_COMMENTS"
-msgstr "Comentarii Postate"
-
-msgid "POSTED_CHATCOMMENTS"
-msgstr "Mesaje din Camera de Conversatie"
-
-msgid "FEATURE_USABILITY"
-msgstr "Utilizarea caracteristicilor"
-
-msgid "USABLE"
-msgstr "Utilizabil"
-
-msgid "NOT_USABLE"
-msgstr "Neutilizabil"
-
-msgid "SUDOMEMO_THEATRE_URL"
-msgstr "Link Teatru Sudomemo"
-
-msgid "FLIPNOTE_STUDIO_ID"
-msgstr "ID Flipnote Studio"
-
-msgid "SETTINGS"
-msgstr "Setari"
-
-msgid "ADMIN_ACCT_GOOD_STANDING"
-msgstr "In stare buna"
+msgid "101_CHARACTER_LIMIT_BIO"
+msgstr "Biografia dvs. este limitata la 101 caractere."
 
 msgid "ADMIN_ACCT_BANNED"
 msgstr "Interzis/Banned"
@@ -63,20 +12,26 @@ msgstr "Interzis/Banned"
 msgid "ADMIN_ACCT_BLOCKED"
 msgstr "Blocat"
 
+msgid "ADMIN_ACCT_GOOD_STANDING"
+msgstr "In stare buna"
+
 msgid "ADMIN_ACCT_MUTED"
 msgstr "Dat pe Mut"
 
-msgid "ADMIN_USER_DETAILS"
-msgstr "Detalii"
+msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
+msgstr "Actiuni Administrator"
 
 msgid "ADMIN_LAST_SEEN"
 msgstr "Ultimul act"
 
+msgid "ADMIN_USER_DETAILS"
+msgstr "Detalii"
+
 msgid "ADMIN_USER_STATUS"
 msgstr "Statut Utilizator"
 
-msgid "ADMIN_ADMINISTRATIVE_ACTIONS"
-msgstr "Actiuni Administrator"
+msgid "BLOCKED_USERS"
+msgstr "Utilizatori blocati"
 
 msgid "BLOCK_COMMENTS_HEADER"
 msgstr "Blocati Comentarii"
@@ -84,11 +39,53 @@ msgstr "Blocati Comentarii"
 msgid "BLOCK_COMMENTS_LINK"
 msgstr "Blocati"
 
-msgid "USABILITY_USABLE"
-msgstr "Utilizabil"
+msgid "CAN_DRAW_TICKET_SUBTEXT"
+msgstr "Puteti trage un bilet normal! Puteti castiga un premiu."
 
-msgid "USABILITY_NOT_USABLE"
-msgstr "Neutilizabil"
+msgid "CHANGE_ROOM_THEME_LINK"
+msgstr "[schimbati tema]"
+
+msgid "CREATORS_ROOM"
+msgstr "Camera Creatorului"
+
+msgid "CURRENT_BIO"
+msgstr "Bio Actual:"
+
+msgid "DRAW_REGULAR_TICKET"
+msgstr "Trageti un Bilet"
+
+msgid "ENTER_BIO"
+msgstr "Introduceti Biografie..."
+
+msgid "EXAMPLE"
+msgstr "Exemplu"
+
+msgid "FANS"
+msgstr "Fani"
+
+msgid "FAN_COUNT_FORMAT"
+msgstr "Fani: %s"
+
+msgid "FAVORITES_FEED"
+msgstr "Flux Favoriti"
+
+msgid "FAVORITE_CHANNELS"
+msgstr "Canale Favorite"
+
+msgid "FAVORITE_USERS"
+msgstr "Utilizatori Favoriti"
+
+msgid "FEATURE_USABILITY"
+msgstr "Utilizarea caracteristicilor"
+
+msgid "FLIPNOTE_STUDIO_ID"
+msgstr "ID Flipnote Studio"
+
+msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
+msgstr "Nu puteti urmari mai mult de %d utilizatori."
+
+msgid "HEADER_EDIT_BIOGRAPHY"
+msgstr "Editati Biografie"
 
 msgid "HEADER_FOLLOWERS"
 msgstr "Urmaritori"
@@ -96,122 +93,29 @@ msgstr "Urmaritori"
 msgid "HEADER_FOLLOWING"
 msgstr "Urmariti"
 
-msgid "PREVIOUS"
-msgstr "Ante."
-
-msgid "NEXT"
-msgstr "Urm."
-
-msgid "CHANGE_ROOM_THEME_LINK"
-msgstr "[schimbati tema]"
-
-msgid "SELECT_THEME"
-msgstr "Selectati Tema"
-
-msgid "FANS"
-msgstr "Fani"
-
-msgid "EXAMPLE"
-msgstr "Exemplu"
-
-msgid "THEMETEST_SET_THEME"
-msgstr "Setati Tema"
-
-msgid "THEMETEST_NOTICE"
-msgstr "Notita"
-
-msgid "THEMETEST_OK"
-msgstr "Ok"
-
-msgid "THEMETEST_ERROR"
-msgstr "Eroare"
-
-msgid "THEMETEST_NOTICE_2"
-msgstr "Notita #2"
-
-msgid "THEMETEST_ACTIVE_TAB"
-msgstr "Fila Activa"
-
-msgid "THEMETEST_INACTIVE_TAB"
-msgstr "Fila Inactiva"
-
-msgid "PREVIEW"
-msgstr "Previzualizare"
-
-msgid "CREATORS_ROOM"
-msgstr "Camera Creatorului"
-
-msgid "THEME_ERROR_THEME_NOT_OWNED"
-msgstr "Scuze! Nu detineti aceasta tema."
-
-msgid "THEME_SUCCESSFULLY_SET"
-msgstr "Tema setata cu succes!"
-
-msgid "BLOCKED_USERS"
-msgstr "Utilizatori blocati"
-
-msgid "VIEW"
-msgstr "Vizualizati"
-
-msgid "FAN_COUNT_FORMAT"
-msgstr "Fani: %s"
-
 msgid "HEADER_LANGUAGE"
 msgstr "Limba"
 
 msgid "HEADER_MAIL_SETTINGS"
 msgstr "Setari Email"
 
-msgid "HEADER_EDIT_BIOGRAPHY"
-msgstr "Editati Biografie"
-
-msgid "SET_BIO_INSTRUCTIONS"
-msgstr "Introduceti biografia profilului dvs. dedesubt. aceasta va fi afisata pe Sudomemo si Teatrul Sudomemo."
-
-msgid "ENTER_BIO"
-msgstr "Introduceti Biografie..."
-
-msgid "101_CHARACTER_LIMIT_BIO"
-msgstr "Biografia dvs. este limitata la 101 caractere."
-
-msgid "LEAVE_BLANK_TO_RESET_BIO"
-msgstr "Pentru a va sterge biografia, lasati casuta goala cand o trimiteti."
-
-msgid "CURRENT_BIO"
-msgstr "Bio Actual:"
-
-msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
-msgstr "Nu puteti urmari mai mult de %d utilizatori."
-
-msgid "RANKING"
-msgstr "Clasament"
-
-msgid "TICKET_SECTION"
-msgstr "Bilete"
-
-msgid "DRAW_REGULAR_TICKET"
-msgstr "Trageti un Bilet"
-
-msgid "CAN_DRAW_TICKET_SUBTEXT"
-msgstr "Puteti trage un bilet normal! Puteti castiga un premiu."
+msgid "HEADER_SUPPORT_TOKEN"
+msgstr "Jeton de Suport"
 
 msgid "INVENTORY"
 msgstr "Inventar"
 
-msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
-msgstr "Puteti trage alt bilet in: %s ore %s minute."
-
-msgid "REDEEM"
-msgstr "Redevendicati"
-
-msgid "SPENDABLE_STARS"
-msgstr "Stelele dvs."
-
-msgid "SPENDABLE_STARS_HELPTEXT"
-msgstr "Stele pentru a adauga la Flipnote-uri sau pentru a le folosi la teme"
+msgid "LEAVE_BLANK_TO_RESET_BIO"
+msgstr "Pentru a va sterge biografia, lasati casuta goala cand o trimiteti."
 
 msgid "LOGIN_REQUIRED_ACTION"
 msgstr "Trebuie sa fiti logat pentru a performa aceasta actiune."
+
+msgid "NEXT"
+msgstr "Urm."
+
+msgid "NOT_USABLE"
+msgstr "Neutilizabil"
 
 msgid "PAGE"
 msgstr "Pagina"
@@ -219,8 +123,107 @@ msgstr "Pagina"
 msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d din %d"
 
-msgid "HEADER_SUPPORT_TOKEN"
-msgstr "Jeton de Suport"
+msgid "POSTED_CHATCOMMENTS"
+msgstr "Mesaje din Camera de Conversatie"
+
+msgid "POSTED_COMMENTS"
+msgstr "Comentarii Postate"
+
+msgid "PREVIEW"
+msgstr "Previzualizare"
+
+msgid "PREVIOUS"
+msgstr "Ante."
+
+msgid "RANKING"
+msgstr "Clasament"
+
+msgid "REDEEM"
+msgstr "Redevendicati"
 
 msgid "REQUEST"
 msgstr "Cerere"
+
+msgid "SEE_MORE"
+msgstr "Mai multe..."
+
+msgid "SELECT_THEME"
+msgstr "Selectati Tema"
+
+msgid "SETTINGS"
+msgstr "Setari"
+
+msgid "SET_BIO_INSTRUCTIONS"
+msgstr "Introduceti biografia profilului dvs. dedesubt. aceasta va fi afisata pe Sudomemo si Teatrul Sudomemo."
+
+msgid "SPENDABLE_STARS"
+msgstr "Stelele dvs."
+
+msgid "SPENDABLE_STARS_HELPTEXT"
+msgstr "Stele pentru a adauga la Flipnote-uri sau pentru a le folosi la teme"
+
+msgid "STARRED_FLIPNOTES"
+msgstr "Flipnote-uri cu stea"
+
+msgid "SUDOMEMO_THEATRE_URL"
+msgstr "Link Teatru Sudomemo"
+
+msgid "THEMETEST_ACTIVE_TAB"
+msgstr "Fila Activa"
+
+msgid "THEMETEST_ERROR"
+msgstr "Eroare"
+
+msgid "THEMETEST_INACTIVE_TAB"
+msgstr "Fila Inactiva"
+
+msgid "THEMETEST_NOTICE"
+msgstr "Notita"
+
+msgid "THEMETEST_NOTICE_2"
+msgstr "Notita #2"
+
+msgid "THEMETEST_OK"
+msgstr "Ok"
+
+msgid "THEMETEST_SET_THEME"
+msgstr "Setati Tema"
+
+msgid "THEME_ERROR_THEME_NOT_OWNED"
+msgstr "Scuze! Nu detineti aceasta tema."
+
+msgid "THEME_SHOP"
+msgstr "Magazin de Teme"
+
+msgid "THEME_SUCCESSFULLY_SET"
+msgstr "Tema setata cu succes!"
+
+msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
+msgstr "Puteti trage alt bilet in: %s ore %s minute."
+
+msgid "TICKET_SECTION"
+msgstr "Bilete"
+
+msgid "USABILITY_NOT_USABLE"
+msgstr "Neutilizabil"
+
+msgid "USABILITY_USABLE"
+msgstr "Utilizabil"
+
+msgid "USABLE"
+msgstr "Utilizabil"
+
+msgid "USER_DOWNLOADCOUNT"
+msgstr "Descarcari"
+
+msgid "USER_THEME"
+msgstr "Tema"
+
+msgid "USER_VIEWCOUNT"
+msgstr "Vizionari"
+
+msgid "VIEW"
+msgstr "Vizualizati"
+
+msgid "WATCH_HISTORY"
+msgstr "Watch History"

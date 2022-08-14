@@ -3,56 +3,11 @@ msgstr ""
 "Language: sv_SE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "SUDOMEMO"
-msgstr "Sudomemo"
-
-msgid "HEADER_FLIPNOTES"
-msgstr "Flipnotes"
-
-msgid "HEADER_NORMAL"
-msgstr "Senaste"
-
-msgid "HEADER_HOT_FLIPNOTES"
-msgstr "Heta Flipnotes"
-
-msgid "HEADER_MOST_POPULAR"
-msgstr "Mest Populära"
-
-msgid "HEADER_NO_SPINOFFS"
-msgstr "Inga Spinoffs"
-
-msgid "HEADER_ROLEPLAYS"
-msgstr "Roleplay"
-
-msgid "HEADER_BROWSE_FLIPNOTES"
-msgstr "Bläddra Flipnotes"
-
-msgid "HEADER_FEATURED_FLIPNOTES"
+msgid "CATEGORY_featured"
 msgstr "Utvalda Flipnotes"
 
-msgid "HEADER_RANDOM_FLIPNOTES"
-msgstr "Random Flipnotes"
-
-msgid "HEADER_PAGE"
-msgstr "Sida"
-
-msgid "PAGE"
-msgstr "Sida"
-
-msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d av %d"
-
-msgid "NEXT"
-msgstr "Nästa"
-
-msgid "PREV"
-msgstr "Föregående"
-
-msgid "POST_FLIPNOTE"
-msgstr "Publicera Flipnote"
-
-msgid "CATEGORY_recent"
-msgstr "Senaste Flipnotes"
+msgid "CATEGORY_feed"
+msgstr "@Flöde"
 
 msgid "CATEGORY_hot"
 msgstr "Heta Flipnotes"
@@ -60,11 +15,59 @@ msgstr "Heta Flipnotes"
 msgid "CATEGORY_popular"
 msgstr "Mest Populära"
 
-msgid "CATEGORY_featured"
-msgstr "Utvalda Flipnotes"
-
 msgid "CATEGORY_random"
 msgstr "@Slumpmässiga Flipnotes"
 
-msgid "CATEGORY_feed"
-msgstr "@Flöde"
+msgid "CATEGORY_recent"
+msgstr "Senaste Flipnotes"
+
+msgid "HEADER_BROWSE_FLIPNOTES"
+msgstr "Bläddra Flipnotes"
+
+msgid "HEADER_FEATURED_FLIPNOTES"
+msgstr "Utvalda Flipnotes"
+
+msgid "HEADER_FLIPNOTES"
+msgstr "Flipnotes"
+
+msgid "HEADER_HOT_FLIPNOTES"
+msgstr "Heta Flipnotes"
+
+msgid "HEADER_MOST_POPULAR"
+msgstr "Mest Populära"
+
+msgid "HEADER_NORMAL"
+msgstr "Senaste"
+
+msgid "HEADER_NO_SPINOFFS"
+msgstr "Inga Spinoffs"
+
+msgid "HEADER_PAGE"
+msgstr "Sida"
+
+msgid "HEADER_RANDOM_FLIPNOTES"
+msgstr "Random Flipnotes"
+
+msgid "HEADER_ROLEPLAYS"
+msgstr "Roleplay"
+
+msgid "HEADER_WATCH_HISTORY"
+msgstr "Watch History"
+
+msgid "NEXT"
+msgstr "Nästa"
+
+msgid "PAGE"
+msgstr "Sida"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d av %d"
+
+msgid "POST_FLIPNOTE"
+msgstr "Publicera Flipnote"
+
+msgid "PREV"
+msgstr "Föregående"
+
+msgid "SUDOMEMO"
+msgstr "Sudomemo"

@@ -3,62 +3,62 @@ msgstr ""
 "Language: cy_GB\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "LOGIN_REQUIRED_TO_MANAGE_BLOCKS"
-msgstr "Mae angen i chi fewngofnodi i reoli defnyddwyr sydd wedi'u blocio."
-
-msgid "NO_USERS_BLOCKED"
-msgstr "Nid oes gennych chi unrhyw ddefnyddwyr wedi'u blocio."
-
 msgid "BLOCKED_USERS"
 msgstr "Defnyddwyr sydd wedi'u blocio"
 
 msgid "BLOCK_USER"
 msgstr "Bloc Defnyddiwr"
 
-msgid "COMMENT_BLOCK_IS_MUTUAL"
-msgstr "Unwaith y byddwch wedi rhwystro'r defnyddiwr hwn, ni fyddwch yn gallu rhoi sylwadau ar Flipnotes eich gilydd mwyach."
-
-msgid "USER_HAS_BEEN_BLOCKED"
-msgstr "Mae'r defnyddiwr hwn wedi'i rwystro."
-
-msgid "IF_YOU_WISH_TO_UNBLOCK"
-msgstr "Os ydych chi am eu datgloi erioed, gallwch eu dadflocio trwy ymweld ag Ystafell eich Creawdwr ac agor y ddewislen Defnyddwyr sydd wedi'u Blocio."
-
-msgid "CONFIRM_BLOCK"
-msgstr "Cadarnhewch Bloc"
-
-msgid "USER_ALREADY_BLOCKED"
-msgstr "Rydych chi eisoes wedi rhwystro'r defnyddiwr hwn. Gallwch eu dadflocio o'r ddewislen Gosodiadau yn Ystafell eich Creawdwr, ond rhaid i chi aros 24 awr cyn y gallwch eu blocio eto."
-
-msgid "ONE_DAY_WAIT_BEFORE_REBLOCK_FORMAT"
-msgstr "Rydych chi wedi datgloi'r defnyddiwr hwn yn ddiweddar. Ni allwch eu blocio eto tan %s"
-
-msgid "UNBLOCK"
-msgstr "Dadflocio"
-
-msgid "LOGIN_REQUIRED"
-msgstr "Rhaid i chi fod wedi mewngofnodi i gyflawni'r weithred hon."
-
-msgid "TAP_BACK_TO_RETURN"
-msgstr "Tap Back i ddychwelyd i Ystafell eich Crewr."
-
-msgid "UNBLOCK_USER"
-msgstr "Datgloi Defnyddiwr"
-
 msgid "CANNOT_UNBLOCK_NONBLOCKED_USER"
 msgstr "Ni allwch ddadflocio'r defnyddiwr hwn, gan nad ydych wedi eu rhwystro yn y lle cyntaf."
-
-msgid "USER_HAS_BEEN_UNBLOCKED"
-msgstr "Rydych wedi dadflocio'r defnyddiwr hwn."
 
 msgid "COMMENTING_ENABLED_AFTER_UNBLOCK"
 msgstr "Ar ôl i chi ddadflocio'r def Cadarnhau Dadflocionyddiwr hwn, bydd yn gallu rhoi sylwadau ar eich Flipnotes eto, oni bai eich bod chi wedi blocio hefyd."
 
-msgid "UNBLOCK_WARNING_ONE_DAY_THRESHOLD"
-msgstr "Os byddwch yn eu dadflocio, rhaid i chi aros 24 awr cyn y gallwch eu blocio eto."
+msgid "COMMENT_BLOCK_IS_MUTUAL"
+msgstr "Unwaith y byddwch wedi rhwystro'r defnyddiwr hwn, ni fyddwch yn gallu rhoi sylwadau ar Flipnotes eich gilydd mwyach."
+
+msgid "CONFIRM_BLOCK"
+msgstr "Cadarnhewch Bloc"
 
 msgid "CONFIRM_UNBLOCK"
 msgstr "Cadarnhau Dadflocio"
 
+msgid "IF_YOU_WISH_TO_UNBLOCK"
+msgstr "Os ydych chi am eu datgloi erioed, gallwch eu dadflocio trwy ymweld ag Ystafell eich Creawdwr ac agor y ddewislen Defnyddwyr sydd wedi'u Blocio."
+
+msgid "LOGIN_REQUIRED"
+msgstr "Rhaid i chi fod wedi mewngofnodi i gyflawni'r weithred hon."
+
+msgid "LOGIN_REQUIRED_TO_MANAGE_BLOCKS"
+msgstr "Mae angen i chi fewngofnodi i reoli defnyddwyr sydd wedi'u blocio."
+
+msgid "NO_USERS_BLOCKED"
+msgstr "Nid oes gennych chi unrhyw ddefnyddwyr wedi'u blocio."
+
+msgid "ONE_DAY_WAIT_BEFORE_REBLOCK_FORMAT"
+msgstr "Rydych chi wedi datgloi'r defnyddiwr hwn yn ddiweddar. Ni allwch eu blocio eto tan %s"
+
 msgid "RECENTLY_UNBLOCKED_ONE_DAY_THRESHOLD"
 msgstr "Rydych chi wedi datgloi'r defnyddiwr hwn yn ddiweddar. Rhaid i chi aros 24 awr o'r amser y gwnaethoch eu dadflocio cyn y gallwch eu blocio eto."
+
+msgid "TAP_BACK_TO_RETURN"
+msgstr "Tap Back i ddychwelyd i Ystafell eich Crewr."
+
+msgid "UNBLOCK"
+msgstr "Dadflocio"
+
+msgid "UNBLOCK_USER"
+msgstr "Datgloi Defnyddiwr"
+
+msgid "UNBLOCK_WARNING_ONE_DAY_THRESHOLD"
+msgstr "Os byddwch yn eu dadflocio, rhaid i chi aros 24 awr cyn y gallwch eu blocio eto."
+
+msgid "USER_ALREADY_BLOCKED"
+msgstr "Rydych chi eisoes wedi rhwystro'r defnyddiwr hwn. Gallwch eu dadflocio o'r ddewislen Gosodiadau yn Ystafell eich Creawdwr, ond rhaid i chi aros 24 awr cyn y gallwch eu blocio eto."
+
+msgid "USER_HAS_BEEN_BLOCKED"
+msgstr "Mae'r defnyddiwr hwn wedi'i rwystro."
+
+msgid "USER_HAS_BEEN_UNBLOCKED"
+msgstr "Rydych wedi dadflocio'r defnyddiwr hwn."

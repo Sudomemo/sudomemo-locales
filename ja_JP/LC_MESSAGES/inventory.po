@@ -3,32 +3,32 @@ msgstr ""
 "Language: ja_JP\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "DECOR"
+msgstr "デコ"
+
 msgid "INVENTORY"
 msgstr "インベントリー"
-
-msgid "TICKETS"
-msgstr "チケット"
 
 msgid "ITEMS"
 msgstr "アイテム"
 
+msgid "NEXT"
+msgstr "次へ"
+
 msgid "PETS"
 msgstr "ペット"
-
-msgid "DECOR"
-msgstr "デコ"
 
 msgid "PREV"
 msgstr "前へ"
 
-msgid "NEXT"
-msgstr "次へ"
+msgid "REDEEM"
+msgstr "受け取る"
 
-msgid "USE_ITEM"
-msgstr "アイテムを使う"
+msgid "TICKETS"
+msgstr "チケット"
 
 msgid "USE"
 msgstr "使う"
 
-msgid "REDEEM"
-msgstr "受け取る"
+msgid "USE_ITEM"
+msgstr "アイテムを使う"

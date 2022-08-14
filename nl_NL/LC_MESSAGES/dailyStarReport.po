@@ -6,20 +6,20 @@ msgstr ""
 msgid "EMAIL_SUBJECT_FORMAT"
 msgstr "[Sudomemo] Dagelijkse Sterrapportage van %s"
 
-msgid "STRING_SUDOMEMO"
-msgstr "Sudomemo"
-
 msgid "STRING_DAILY_STAR_REPORT"
 msgstr "Dagelijkse Sterrapportage"
 
-msgid "TEXT_STAR_REPORT_GREETING_FORMAT"
-msgstr "Hallo, %s! Dit is jouw Dagelijkse Sterrapportage van Sudomemo."
+msgid "STRING_SUDOMEMO"
+msgstr "Sudomemo"
 
 msgid "TEXT_FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote door %s"
 
-msgid "TEXT_TOTAL_STARS_RECEIVED_TODAY"
-msgstr "Totaal aantal sterren vandaag ontvangen"
-
 msgid "TEXT_HOW_TO_VIEW_STAR_ADDERS_DSI"
 msgstr "Met jouw Nintendo DSi-systeem, kan je zien wie Sterren heeft toegevoegd door op <strong>Sterren</strong> te drukken in de detailpagina van jouw Flipnote op Sudomemo."
+
+msgid "TEXT_STAR_REPORT_GREETING_FORMAT"
+msgstr "Hallo, %s! Dit is jouw Dagelijkse Sterrapportage van Sudomemo."
+
+msgid "TEXT_TOTAL_STARS_RECEIVED_TODAY"
+msgstr "Totaal aantal sterren vandaag ontvangen"

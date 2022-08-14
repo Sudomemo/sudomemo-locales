@@ -3,8 +3,65 @@ msgstr ""
 "Language: de_DE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "HEADER_REPORT_CONTENT"
-msgstr "Melden"
+msgid "CATEGORY_DESC_drugs"
+msgstr "Substanzmissbrauch oder Referenzen zu Drogen / zur Drogeneinnahme"
+
+msgid "CATEGORY_DESC_fraud"
+msgstr "Identitätsbetrug oder sonstige betrügerische Aktivitäten"
+
+msgid "CATEGORY_DESC_harassment"
+msgstr "Mobbing, Diskriminierung, Belästigung oder Verleumdung"
+
+msgid "CATEGORY_DESC_misplaced_rp"
+msgstr "Rollenspiel außerhalb des 'Rollenspiele'-Kanals"
+
+msgid "CATEGORY_DESC_rapid_flashing"
+msgstr "Schnelles Bildflackern (über 4 Mal pro Sekunde)"
+
+msgid "CATEGORY_DESC_sexual"
+msgstr "Sexuelle Handlung oder Inhalt"
+
+msgid "CATEGORY_DESC_spam"
+msgstr "Unerwünschter / sinnloser Inhalt"
+
+msgid "CATEGORY_DESC_stolen"
+msgstr "Missbrauch der Spin-Off-Funktion (keine Änderungen)"
+
+msgid "CATEGORY_DESC_swearing"
+msgstr "Vulgäre Redeweise oder wiederholtes Nutzen von Kraftausdrücken"
+
+msgid "CATEGORY_DESC_violent"
+msgstr "Grafischer Inhalt, extreme Gewalt, Blut und körperliche Entstellung"
+
+msgid "CATEGORY_NAME_drugs"
+msgstr "Drogen"
+
+msgid "CATEGORY_NAME_fraud"
+msgstr "Betrug"
+
+msgid "CATEGORY_NAME_harassment"
+msgstr "Belästigung"
+
+msgid "CATEGORY_NAME_misplaced_rp"
+msgstr "Unerwünschtes RP"
+
+msgid "CATEGORY_NAME_rapid_flashing"
+msgstr "Flackerndes Bild"
+
+msgid "CATEGORY_NAME_sexual"
+msgstr "Sexuelles"
+
+msgid "CATEGORY_NAME_spam"
+msgstr "Spam"
+
+msgid "CATEGORY_NAME_stolen"
+msgstr "Geklaut"
+
+msgid "CATEGORY_NAME_swearing"
+msgstr "Obszönitäten"
+
+msgid "CATEGORY_NAME_violent"
+msgstr "Gewalt"
 
 msgid "CHAT_MESSAGE"
 msgstr "Chat-Nachricht"
@@ -12,44 +69,32 @@ msgstr "Chat-Nachricht"
 msgid "COMMENT"
 msgstr "Kommentar"
 
-msgid "FLIPNOTE"
-msgstr "Flipnote"
-
-msgid "YOU_ARE_REPORTING_THIS_FORMAT"
-msgstr "Du meldest dies: %s:"
-
-msgid "USER_HAS_ALREADY_REPORTED_FORMAT"
-msgstr "Du hast dies schon gemeldet: %s."
-
-msgid "HEADER_VIOLATION_CATEGORY"
-msgstr "Verstoß-Kategorie:"
-
-msgid "FLIPNOTE_TITLE_FORMAT"
-msgstr "Flipnote von %s"
+msgid "CONFIRM_EMAIL_BEFORE_REPORTING"
+msgstr "Bitte bestätige deine Email-Adresse vor dem Melden von Inhalt."
 
 msgid "CREATOR_FORMAT"
 msgstr "Ersteller: %s"
 
-msgid "NOTICE_REPORT_OTHER_ISSUES"
-msgstr "Dieses Formular dient ausschließlich dem Melden des Inhaltes. Um das Verhalten des Benutzers sowie sonstige Probleme zu melden, schicke bitte eine Email an unseren Support-Dienst:"
+msgid "DUPLICATE_COMMENT_FAILED"
+msgstr "Dieser Kommentar wurde schon auf Sudomemo hochgeladen."
 
-msgid "REPORT_INSTRUCTIONS"
-msgstr "Bitte gib deine zusammengefasste Meinung darüber, wie der gemeldete Inhalt gegen die Nutzungsrichtlinien Sudomemos verstößt. Tippe nach dem Einreichen auf Zurück."
+msgid "FLIPNOTE"
+msgstr "Flipnote"
 
-msgid "NO_BLANK_REPORTS"
-msgstr "Du kannst keine leere Meldung einreichen."
-
-msgid "LIMIT_ONE_REPORT"
-msgstr "Bitte beachte, dass du diesen Inhalt nur 1-mal melden kannst. Weitere von dir eingereichte Meldungen zu diesem Inhalt werden nicht registriert. Fasse daher bitte alles in einem Kommentar zusammen."
-
-msgid "REPORT_EXPLANATION_FAILED"
-msgstr "Ein Fehler beim Einreichen der Meldung ist aufgetreten."
-
-msgid "RESTRICTED_CANCEL"
-msgstr "Du kannst diesen Inhalt nicht melden, da dein Konto von Sudomemo suspendiert wurde."
+msgid "FLIPNOTE_TITLE_FORMAT"
+msgstr "Flipnote von %s"
 
 msgid "HEADER_REASON"
 msgstr "Grund:"
+
+msgid "HEADER_REPORT_CONTENT"
+msgstr "Melden"
+
+msgid "HEADER_VIOLATION_CATEGORY"
+msgstr "Verstoß-Kategorie:"
+
+msgid "LIMIT_ONE_REPORT"
+msgstr "Bitte beachte, dass du diesen Inhalt nur 1-mal melden kannst. Weitere von dir eingereichte Meldungen zu diesem Inhalt werden nicht registriert. Fasse daher bitte alles in einem Kommentar zusammen."
 
 msgid "LOGIN_REQUIRED_TO_CONTINUE"
 msgstr "Du musst angemeldet sein, um fortzufahren."
@@ -57,74 +102,29 @@ msgstr "Du musst angemeldet sein, um fortzufahren."
 msgid "LOGIN_REQUIRED_TO_REPORT_CONTENT"
 msgstr "Du musst angemeldet sein, um Inhalte zu melden."
 
+msgid "NOTICE_REPORT_OTHER_ISSUES"
+msgstr "Dieses Formular dient ausschließlich dem Melden des Inhaltes. Um das Verhalten des Benutzers sowie sonstige Probleme zu melden, schicke bitte eine Email an unseren Support-Dienst:"
+
+msgid "NO_BLANK_REPORTS"
+msgstr "Du kannst keine leere Meldung einreichen."
+
+msgid "REPORT_EXPLANATION_FAILED"
+msgstr "Ein Fehler beim Einreichen der Meldung ist aufgetreten."
+
 msgid "REPORT_FAILED_USER_BANNED"
 msgstr "Du wurdest von Sudomemo gebannt."
 
-msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "Dieser Kommentar wurde schon auf Sudomemo hochgeladen."
+msgid "REPORT_INSTRUCTIONS"
+msgstr "Bitte gib deine zusammengefasste Meinung darüber, wie der gemeldete Inhalt gegen die Nutzungsrichtlinien Sudomemos verstößt. Tippe nach dem Einreichen auf Zurück."
 
-msgid "CONFIRM_EMAIL_BEFORE_REPORTING"
-msgstr "Bitte bestätige deine Email-Adresse vor dem Melden von Inhalt."
+msgid "RESTRICTED_CANCEL"
+msgstr "Du kannst diesen Inhalt nicht melden, da dein Konto von Sudomemo suspendiert wurde."
 
 msgid "THANKS_FOR_REPORTING"
 msgstr "Wir haben deine Meldung erhalten. Vielen Dank für deine Kooperation zur Aufrechterhaltung von Sudomemo!"
 
-msgid "CATEGORY_NAME_stolen"
-msgstr "Geklaut"
+msgid "USER_HAS_ALREADY_REPORTED_FORMAT"
+msgstr "Du hast dies schon gemeldet: %s."
 
-msgid "CATEGORY_DESC_stolen"
-msgstr "Missbrauch der Spin-Off-Funktion (keine Änderungen)"
-
-msgid "CATEGORY_NAME_spam"
-msgstr "Spam"
-
-msgid "CATEGORY_DESC_spam"
-msgstr "Unerwünschter / sinnloser Inhalt"
-
-msgid "CATEGORY_NAME_harassment"
-msgstr "Belästigung"
-
-msgid "CATEGORY_DESC_harassment"
-msgstr "Mobbing, Diskriminierung, Belästigung oder Verleumdung"
-
-msgid "CATEGORY_NAME_fraud"
-msgstr "Betrug"
-
-msgid "CATEGORY_DESC_fraud"
-msgstr "Identitätsbetrug oder sonstige betrügerische Aktivitäten"
-
-msgid "CATEGORY_NAME_swearing"
-msgstr "Obszönitäten"
-
-msgid "CATEGORY_DESC_swearing"
-msgstr "Vulgäre Redeweise oder wiederholtes Nutzen von Kraftausdrücken"
-
-msgid "CATEGORY_NAME_sexual"
-msgstr "Sexuelles"
-
-msgid "CATEGORY_DESC_sexual"
-msgstr "Sexuelle Handlung oder Inhalt"
-
-msgid "CATEGORY_NAME_violent"
-msgstr "Gewalt"
-
-msgid "CATEGORY_DESC_violent"
-msgstr "Grafischer Inhalt, extreme Gewalt, Blut und körperliche Entstellung"
-
-msgid "CATEGORY_NAME_misplaced_rp"
-msgstr "Unerwünschtes RP"
-
-msgid "CATEGORY_DESC_misplaced_rp"
-msgstr "Rollenspiel außerhalb des 'Rollenspiele'-Kanals"
-
-msgid "CATEGORY_NAME_drugs"
-msgstr "Drogen"
-
-msgid "CATEGORY_DESC_drugs"
-msgstr "Substanzmissbrauch oder Referenzen zu Drogen / zur Drogeneinnahme"
-
-msgid "CATEGORY_NAME_rapid_flashing"
-msgstr "Flackerndes Bild"
-
-msgid "CATEGORY_DESC_rapid_flashing"
-msgstr "Schnelles Bildflackern (über 4 Mal pro Sekunde)"
+msgid "YOU_ARE_REPORTING_THIS_FORMAT"
+msgstr "Du meldest dies: %s:"

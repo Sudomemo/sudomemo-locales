@@ -15,11 +15,11 @@ msgstr "Ο χρηστης  %s μολις σας προσεθεσε στα Αγα
 msgid "STATS_FLIPNOTES_FORMAT"
 msgstr " Τα flipnote του χρηστη %s "
 
-msgid "STATS_FOLLOWERS_FORMAT"
-msgstr "Οι ακολουθοι του χρηστη %s "
-
 msgid "STATS_FLIPNOTES_FORMAT_SINGULAR"
 msgstr "Το flipnote του χρηστη %s "
+
+msgid "STATS_FOLLOWERS_FORMAT"
+msgstr "Οι ακολουθοι του χρηστη %s "
 
 msgid "STATS_FOLLOWERS_FORMAT_SINGULAR"
 msgstr "Ο ακολουθος τους χρηστη %s "

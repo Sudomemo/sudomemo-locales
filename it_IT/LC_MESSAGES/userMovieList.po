@@ -3,14 +3,14 @@ msgstr ""
 "Language: it_IT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "UPPERTITLE"
-msgstr "Naviga"
+msgid "FAVORITES_FEED_FORMAT"
+msgstr "Feed dei Preferiti di %s"
+
+msgid "FLIPNOTES_BY_FORMAT"
+msgstr "Flipnote di %s"
 
 msgid "NEXT"
 msgstr "Pagina successiva"
-
-msgid "PREV"
-msgstr "Pagina precedente"
 
 msgid "PAGE"
 msgstr "Pagina"
@@ -18,11 +18,11 @@ msgstr "Pagina"
 msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d di %d"
 
-msgid "FLIPNOTES_BY_FORMAT"
-msgstr "Flipnote di %s"
+msgid "PREV"
+msgstr "Pagina precedente"
 
 msgid "STARRED_BY_FORMAT"
 msgstr "Stella data da %s"
 
-msgid "FAVORITES_FEED_FORMAT"
-msgstr "Feed dei Preferiti di %s"
+msgid "UPPERTITLE"
+msgstr "Naviga"

@@ -78,6 +78,10 @@ msgstr "Trebuie sa fiti un Stimulator Nitro Sudomemo pentru aceasta!"
 msgid "REJECT_USER_ENOENT"
 msgstr "Nu am gasit acest utilizator pe Sudomemo."
 
+# displayed as "💡 Link your Sudomemo account with `.sudo link`"
+msgid "UNLINKED_COMMAND_TIP"
+msgstr "Conectati-va contul de Sudomemo cu"
+
 # "Usage: example_command <fsid>"
 msgid "USAGE"
 msgstr "Utilizare"
@@ -108,7 +112,3 @@ msgstr ""
 "      Cautati Potrivire de Muzica Sudomemo \n"
 "      <mode>: song, artist, genre\n"
 "      <query>: Ce cautati"
-
-# displayed as "💡 Link your Sudomemo account with `.sudo link`"
-msgid "UNLINKED_COMMAND_TIP"
-msgstr "Conectati-va contul de Sudomemo cu"

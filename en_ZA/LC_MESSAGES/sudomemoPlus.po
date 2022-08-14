@@ -3,18 +3,38 @@ msgstr ""
 "Language: en_ZA\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-# Sudomemo Plus Legacy Citizenship Activation
-msgid "SUDOMEMO_PLUS_LEGACY_HEADER"
-msgstr "Welcome to Sudomemo Plus!"
+msgid "AVAILABLE_PLUS_FEATURES"
+msgstr "Da stuff u can do wit Sudomemo Plus is pretty epic. Check bac here sumtime if we add sumthin! :)"
+
+msgid "COLORFUL_COMMENTS"
+msgstr "funni colors on coments"
+
+msgid "CONTINUE"
+msgstr "Continue"
+
+msgid "DOWNLOAD_YOUR_COMMENTS"
+msgstr "Download ur coments as Flippy-notes"
+
+msgid "FLIPNOTE_ANALYTICS"
+msgstr "Access analytics information for your Flipnotes"
+
+msgid "FLIPNOTE_AUDIO_ENHANCEMENT"
+msgstr "Flipnoddle Audio Enhancement"
+
+msgid "FLIPNOTE_SMOOTHING"
+msgstr "smooOOoothing"
+
+msgid "FOOTNOTE_PLATFORM_FEATURE_PARITY"
+msgstr "Pls note sum features, like teh Flipnote smooOOthing and audio enhancement, only are see Sudomemo Theatre."
 
 msgid "GREETING_LEGACY_ACTIVATE_FORMAT"
 msgstr "Hello, %s!"
 
+msgid "INCREASED_FOLLOW_LIMIT"
+msgstr "increse follow limit, follow more people :) !!! (up to %s Creators)"
+
 msgid "LEGACY_ACTIVATE_CITIZENSHIP_CHANGE"
 msgstr "Sudomemo Citizenship has gone away, replaced by Sudomemo Plus!"
-
-msgid "LEGACY_ACTIVATE_PLUS_TEASER"
-msgstr "Sudomemo Plus gives you access to all sorts of extra features, such as smoothing and audio enhancement of your Flipnotes on Sudomemo Theatre, as well as colorful comments and other neat features!"
 
 msgid "LEGACY_ACTIVATE_EARN_PLUS"
 msgstr "Sudomemo Plus can be earned by redeeming tickets purchased from our Shop or by entering a winning entry to our Weekly Topic."
@@ -22,64 +42,44 @@ msgstr "Sudomemo Plus can be earned by redeeming tickets purchased from our Shop
 msgid "LEGACY_ACTIVATE_GRANDFATHERED_BONUS"
 msgstr "Since you previously had Citizenship, you've been given a month free of Sudomemo Plus. Make sure to take a look around and try out some fun new features!"
 
-msgid "CONTINUE"
-msgstr "Continue"
+msgid "LEGACY_ACTIVATE_PLUS_TEASER"
+msgstr "Sudomemo Plus gives you access to all sorts of extra features, such as smoothing and audio enhancement of your Flipnotes on Sudomemo Theatre, as well as colorful comments and other neat features!"
 
 # My Sudomemo Plus
 msgid "MANAGE_PLUS_HEADER"
 msgstr "My Sudomemo Plus"
 
-msgid "MANAGE_PLUS_REMAINING"
-msgstr "U got %s day(s) of Sudomeemo Plus lef."
-
 msgid "MANAGE_PLUS_HOW_TO_EARN_PLUS"
 msgstr "U can get Sydomemo Plus by gettin tickets buyed from the Shop or by entering a win entry to the Weekly Topic."
 
-msgid "AVAILABLE_PLUS_FEATURES"
-msgstr "Da stuff u can do wit Sudomemo Plus is pretty epic. Check bac here sumtime if we add sumthin! :)"
-
-msgid "FOOTNOTE_PLATFORM_FEATURE_PARITY"
-msgstr "Pls note sum features, like teh Flipnote smooOOthing and audio enhancement, only are see Sudomemo Theatre."
-
-msgid "FLIPNOTE_SMOOTHING"
-msgstr "smooOOoothing"
-
-msgid "FLIPNOTE_AUDIO_ENHANCEMENT"
-msgstr "Flipnoddle Audio Enhancement"
-
-msgid "COLORFUL_COMMENTS"
-msgstr "funni colors on coments"
-
-msgid "DOWNLOAD_YOUR_COMMENTS"
-msgstr "Download ur coments as Flippy-notes"
-
-msgid "THEME_PUBLISHER_ACCESS"
-msgstr "Publish themes to the Theme Shop"
-
-msgid "FLIPNOTE_ANALYTICS"
-msgstr "Access analytics information for your Flipnotes"
-
-msgid "SUDOMEMO_GAME_ACCESS"
-msgstr "Play special games right on Sudomemo!"
+msgid "MANAGE_PLUS_REMAINING"
+msgstr "U got %s day(s) of Sudomeemo Plus lef."
 
 msgid "NO_THEATRE_ADS"
 msgstr "No stinky ads on Sudomemo Theatre"
 
-msgid "INCREASED_FOLLOW_LIMIT"
-msgstr "increse follow limit, follow more people :) !!! (up to %s Creators)"
+msgid "PLUS_RUNNING_OUT_MSG_DAYS_REMAINING_FORMAT"
+msgstr "here to let u kno u got %s days of Sudomemo Plus lef."
+
+msgid "PLUS_RUNNING_OUT_MSG_HAPPY_FLIPNOTING"
+msgstr "Happy Flipnoting :)!"
+
+msgid "PLUS_RUNNING_OUT_MSG_HOW_TO_EARN_PLUS"
+msgstr "dont forget u can get Sydomemo Plus by gettin tickets buyed from the Shop or by entering a win entry to the Weekly Topic. :)"
+
+msgid "PLUS_RUNNING_OUT_MSG_INTRO"
+msgstr "Heyyy, %s!"
 
 # Sudomemo Plus Running Low Message
 msgid "PLUS_RUNNING_OUT_MSG_TITLE"
 msgstr "My Sudomemo Plus"
 
-msgid "PLUS_RUNNING_OUT_MSG_INTRO"
-msgstr "Heyyy, %s!"
+msgid "SUDOMEMO_GAME_ACCESS"
+msgstr "Play special games right on Sudomemo!"
 
-msgid "PLUS_RUNNING_OUT_MSG_DAYS_REMAINING_FORMAT"
-msgstr "here to let u kno u got %s days of Sudomemo Plus lef."
+# Sudomemo Plus Legacy Citizenship Activation
+msgid "SUDOMEMO_PLUS_LEGACY_HEADER"
+msgstr "Welcome to Sudomemo Plus!"
 
-msgid "PLUS_RUNNING_OUT_MSG_HOW_TO_EARN_PLUS"
-msgstr "dont forget u can get Sydomemo Plus by gettin tickets buyed from the Shop or by entering a win entry to the Weekly Topic. :)"
-
-msgid "PLUS_RUNNING_OUT_MSG_HAPPY_FLIPNOTING"
-msgstr "Happy Flipnoting :)!"
+msgid "THEME_PUBLISHER_ACCESS"
+msgstr "Publish themes to the Theme Shop"
