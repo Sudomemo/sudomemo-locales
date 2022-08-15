@@ -80,6 +80,12 @@ msgstr "Συμμετοχη στο ιβεντ του ενος εκατομμυρ�
 msgid "TROPHY_DESC_spookmaster"
 msgstr "Βραβειο Spookmaster για την Αριστεια στις Επιστημες της Μαγειας."
 
+msgid "TROPHY_DESC_sudomemo_radio"
+msgstr "Contributed content to an episode of Sudomemo Radio"
+
+msgid "TROPHY_DESC_sudomemo_radio_pilot"
+msgstr "Contributed content to the very first episode of Sudomemo Radio"
+
 msgid "TROPHY_DESC_translator"
 msgstr "Παροχη μεταφρασεων για να γινει το Sudomemo ανοιχτο σε ολους"
 
@@ -149,6 +155,12 @@ msgstr "Event ενος εκατομμυριου Flipnote"
 
 msgid "TROPHY_NAME_spookmaster"
 msgstr "Spookmaster"
+
+msgid "TROPHY_NAME_sudomemo_radio"
+msgstr "Sudomemo Radio Contributor"
+
+msgid "TROPHY_NAME_sudomemo_radio_pilot"
+msgstr "Sudomemo Radio Pilot Contributor"
 
 msgid "TROPHY_NAME_translator"
 msgstr "Μεταφραστης"

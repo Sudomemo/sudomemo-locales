@@ -132,6 +132,12 @@ msgstr "Voor die speciale persoon. Drie maanden Plus, Kleursterren, en een exclu
 msgid "TICKET_DESC_spookmaster_ticket"
 msgstr "Thank you so much for playing SudoQuest: Requiem! We hope you enjoyed the game."
 
+msgid "TICKET_DESC_sudomemo_radio_pilot_ticket"
+msgstr "Congratulations on being a part of the very first episode of Sudomemo Radio!"
+
+msgid "TICKET_DESC_sudomemo_radio_ticket"
+msgstr "Thank you contributing to Sudomemo Radio!"
+
 msgid "TICKET_DESC_survey_thanks_ticket"
 msgstr "Bedankt voor het invullen van onze enquête!"
 
@@ -217,6 +223,12 @@ msgstr "Speciaal-Iemand-Ticket"
 
 msgid "TICKET_NAME_spookmaster_ticket"
 msgstr "Spookmaster Ticket"
+
+msgid "TICKET_NAME_sudomemo_radio_pilot_ticket"
+msgstr "Sudomemo Radio Pilot Ticket"
+
+msgid "TICKET_NAME_sudomemo_radio_ticket"
+msgstr "Sudomemo Radio Ticket"
 
 msgid "TICKET_NAME_survey_thanks_ticket"
 msgstr "Enquêteticket"
