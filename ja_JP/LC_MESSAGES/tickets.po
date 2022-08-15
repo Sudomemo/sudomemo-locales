@@ -132,6 +132,12 @@ msgstr "スペシャルサムワンチケットは、特別な誰かのために
 msgid "TICKET_DESC_spookmaster_ticket"
 msgstr "スドクエスト:レクイエムをプレイしていただき、ありがとうございます!ゲームを楽しんでいただけたでしょうか?"
 
+msgid "TICKET_DESC_sudomemo_radio_pilot_ticket"
+msgstr "Congratulations on being a part of the very first episode of Sudomemo Radio!"
+
+msgid "TICKET_DESC_sudomemo_radio_ticket"
+msgstr "Thank you contributing to Sudomemo Radio!"
+
 msgid "TICKET_DESC_survey_thanks_ticket"
 msgstr "調査にご協力いただき、ありがとうございました！"
 
@@ -217,6 +223,12 @@ msgstr "スペシャルサムワンチケット"
 
 msgid "TICKET_NAME_spookmaster_ticket"
 msgstr "スプークマスターチケット"
+
+msgid "TICKET_NAME_sudomemo_radio_pilot_ticket"
+msgstr "Sudomemo Radio Pilot Ticket"
+
+msgid "TICKET_NAME_sudomemo_radio_ticket"
+msgstr "Sudomemo Radio Ticket"
 
 msgid "TICKET_NAME_survey_thanks_ticket"
 msgstr "調査チケット"

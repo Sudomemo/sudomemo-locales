@@ -80,6 +80,12 @@ msgstr "Atendió al Evento Un Millon de Flipnotes."
 msgid "TROPHY_DESC_spookmaster"
 msgstr "Premio Spookmaster a la excelencia en Brujería y Hechicería."
 
+msgid "TROPHY_DESC_sudomemo_radio"
+msgstr "Contributed content to an episode of Sudomemo Radio"
+
+msgid "TROPHY_DESC_sudomemo_radio_pilot"
+msgstr "Contributed content to the very first episode of Sudomemo Radio"
+
 msgid "TROPHY_DESC_translator"
 msgstr "Contribuye traducciones para hacer de Sudomemo un lugar abierto a todo el mundo."
 
@@ -149,6 +155,12 @@ msgstr "Evento Un Millon de Flipnotes"
 
 msgid "TROPHY_NAME_spookmaster"
 msgstr "Maestro del Susto"
+
+msgid "TROPHY_NAME_sudomemo_radio"
+msgstr "Sudomemo Radio Contributor"
+
+msgid "TROPHY_NAME_sudomemo_radio_pilot"
+msgstr "Sudomemo Radio Pilot Contributor"
 
 msgid "TROPHY_NAME_translator"
 msgstr "Traductor"

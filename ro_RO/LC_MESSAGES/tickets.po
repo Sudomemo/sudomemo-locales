@@ -132,6 +132,12 @@ msgstr "Pentru acel cineva special. Trei luni de Plus, Stele Colorate, si o tema
 msgid "TICKET_DESC_spookmaster_ticket"
 msgstr "Va multumim foarte mult pentru ca ati jucat SudoQuest: Requiem! Speram ca v-ati bucurat de joc."
 
+msgid "TICKET_DESC_sudomemo_radio_pilot_ticket"
+msgstr "Congratulations on being a part of the very first episode of Sudomemo Radio!"
+
+msgid "TICKET_DESC_sudomemo_radio_ticket"
+msgstr "Thank you contributing to Sudomemo Radio!"
+
 msgid "TICKET_DESC_survey_thanks_ticket"
 msgstr "Multumim ca ati completat studiul nostru!"
 
@@ -217,6 +223,12 @@ msgstr "Bilet Cineva Special"
 
 msgid "TICKET_NAME_spookmaster_ticket"
 msgstr "Bilet Spooksmaster"
+
+msgid "TICKET_NAME_sudomemo_radio_pilot_ticket"
+msgstr "Sudomemo Radio Pilot Ticket"
+
+msgid "TICKET_NAME_sudomemo_radio_ticket"
+msgstr "Sudomemo Radio Ticket"
 
 msgid "TICKET_NAME_survey_thanks_ticket"
 msgstr "Bilet Studiu"

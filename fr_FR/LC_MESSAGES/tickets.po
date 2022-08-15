@@ -132,6 +132,12 @@ msgstr "Pour une personne spéciale. Trois mois de Sudomemo Plus, des Étoiles c
 msgid "TICKET_DESC_spookmaster_ticket"
 msgstr "Merci beaucoup d'avoir joué à SudoQuest: Requiem ! Nous espérons que vous avez apprécié le jeu."
 
+msgid "TICKET_DESC_sudomemo_radio_pilot_ticket"
+msgstr "Congratulations on being a part of the very first episode of Sudomemo Radio!"
+
+msgid "TICKET_DESC_sudomemo_radio_ticket"
+msgstr "Thank you contributing to Sudomemo Radio!"
+
 msgid "TICKET_DESC_survey_thanks_ticket"
 msgstr "Merci d'avoir complété notre sondage !"
 
@@ -217,6 +223,12 @@ msgstr "Ticket de personne spéciale"
 
 msgid "TICKET_NAME_spookmaster_ticket"
 msgstr "Ticket du Maître de l'épouvante"
+
+msgid "TICKET_NAME_sudomemo_radio_pilot_ticket"
+msgstr "Sudomemo Radio Pilot Ticket"
+
+msgid "TICKET_NAME_sudomemo_radio_ticket"
+msgstr "Sudomemo Radio Ticket"
 
 msgid "TICKET_NAME_survey_thanks_ticket"
 msgstr "Ticket de sondage"
