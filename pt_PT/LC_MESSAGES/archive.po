@@ -41,7 +41,7 @@ msgid "FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote de %s"
 
 msgid "FLIPNOTE_MAY_BE_DUPLICATE"
-msgstr "È possível que seja uma cópia de um outro Flipnote."
+msgstr "É possível que seja uma cópia de um outro Flipnote."
 
 msgid "FLIPNOTE_STUDIO_ID"
 msgstr "ID do Flipnote Studio"
@@ -216,7 +216,7 @@ msgid "USERS_PROFILE_IMAGE_FORMAT"
 msgstr "Imagem de perfil do(a)%s do Hatena"
 
 msgid "VIEWS"
-msgstr "Visualizaç"
+msgstr "Visualizações"
 
 msgid "YOUTUBE_MUSIC"
 msgstr "YouTube Music"
