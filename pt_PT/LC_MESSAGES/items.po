@@ -4,34 +4,34 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CONTINUE"
-msgstr "Continue"
+msgstr "Continuar"
 
 msgid "ITEM_DESC_banana"
-msgstr "Not to be confused with a plantain."
+msgstr "Isto não é uma banana da terra."
 
 msgid "ITEM_DESC_beach_ball"
-msgstr "A great accessory for a swimming excursion."
+msgstr "Um acessório excelente para uma excursão na praia."
 
 msgid "ITEM_DESC_peeled_banana"
-msgstr "Not to be confused with a plan-... Why'd you peel it like that?"
+msgstr "Isto não é uma banan-... Porque é que a descascaste dessa forma?"
 
 msgid "ITEM_NAME_banana"
 msgstr "Banana"
 
 msgid "ITEM_NAME_beach_ball"
-msgstr "Beach Ball"
+msgstr "Bola de Praia"
 
 msgid "ITEM_NAME_peeled_banana"
-msgstr "Peeled Banana"
+msgstr "Banana Descascada
 
 msgid "ITEM_USE_banana"
-msgstr "You peel the banana."
+msgstr "Descascaste a Banana
 
 msgid "ITEM_USE_beach_ball"
-msgstr "You toss the ball around a bit."
+msgstr "Atiraste a bola por uns momentos."
 
 msgid "ITEM_USE_peeled_banana"
-msgstr "You eat the banana."
+msgstr "Comeste a banana."
 
 msgid "YOU_GOT_AN_ITEM"
-msgstr "You got an item!"
+msgstr "Recebeste um item!"
