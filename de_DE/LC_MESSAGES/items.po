@@ -10,7 +10,7 @@ msgid "ITEM_DESC_banana"
 msgstr "Nicht mit einer Kochbanane zu verwechseln."
 
 msgid "ITEM_DESC_beach_ball"
-msgstr "A great accessory for a swimming excursion."
+msgstr "Gutes Zubehör für einen Schwimmausflug."
 
 msgid "ITEM_DESC_peeled_banana"
 msgstr "Nicht mit einer Koch-... Warum hast du sie so geschält?"
@@ -19,7 +19,7 @@ msgid "ITEM_NAME_banana"
 msgstr "Banane"
 
 msgid "ITEM_NAME_beach_ball"
-msgstr "Beach Ball"
+msgstr "Strandball"
 
 msgid "ITEM_NAME_peeled_banana"
 msgstr "Geschälte Banane"
@@ -28,7 +28,7 @@ msgid "ITEM_USE_banana"
 msgstr "Du schälst die Banane."
 
 msgid "ITEM_USE_beach_ball"
-msgstr "You toss the ball around a bit."
+msgstr "Du wirfst den Ball ein bisschen herum."
 
 msgid "ITEM_USE_peeled_banana"
 msgstr "Du isst die Banane."
