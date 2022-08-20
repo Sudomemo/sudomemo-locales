@@ -133,10 +133,10 @@ msgid "TICKET_DESC_spookmaster_ticket"
 msgstr "スドクエスト:レクイエムをプレイしていただき、ありがとうございます!ゲームを楽しんでいただけたでしょうか?"
 
 msgid "TICKET_DESC_sudomemo_radio_pilot_ticket"
-msgstr "Congratulations on being a part of the very first episode of Sudomemo Radio!"
+msgstr "スドメモラジオの第1回に参加していただき、ありがとうございました！"
 
 msgid "TICKET_DESC_sudomemo_radio_ticket"
-msgstr "Thank you contributing to Sudomemo Radio!"
+msgstr "スドメモラジオにご協力いただきありがとうございました！"
 
 msgid "TICKET_DESC_survey_thanks_ticket"
 msgstr "調査にご協力いただき、ありがとうございました！"
@@ -225,10 +225,10 @@ msgid "TICKET_NAME_spookmaster_ticket"
 msgstr "スプークマスターチケット"
 
 msgid "TICKET_NAME_sudomemo_radio_pilot_ticket"
-msgstr "Sudomemo Radio Pilot Ticket"
+msgstr "スドメモラジオパイロットチケット"
 
 msgid "TICKET_NAME_sudomemo_radio_ticket"
-msgstr "Sudomemo Radio Ticket"
+msgstr "スドメモラジオチケット"
 
 msgid "TICKET_NAME_survey_thanks_ticket"
 msgstr "調査チケット"
