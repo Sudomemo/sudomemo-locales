@@ -106,10 +106,10 @@ msgid "FORGOT_PASSWORD_LINK"
 msgstr "Passwort vergessen?"
 
 msgid "FORM_HEADER_EMAIL"
-msgstr "Email:"
+msgstr "Email-Adresse:"
 
 msgid "FORM_HEADER_EMAIL_CONFIRM"
-msgstr "Email:"
+msgstr "Email-Adresse:"
 
 msgid "FORM_HEADER_PASSWORD"
 msgstr "Passwort:"
@@ -155,7 +155,7 @@ msgid "LEGACY_PROXY_WARNING"
 msgstr "Anscheinend benutzt du noch den Legacy-Proxy ds.sudomemo.net, dessen Unterstützung eingestellt wurde. Daher solltest du den Proxy in den Systemeinstellungen ausschalten, oder Probleme beim Nutzen von Sudomemo können auftauchen. Für weitere Informationen, besuche: "
 
 msgid "LOGIN"
-msgstr "Login"
+msgstr "Anmelden"
 
 msgid "LOGIN_FAILED"
 msgstr "Anmeldung fehlgeschlagen."
@@ -176,7 +176,7 @@ msgid "LOGIN_FORM_PREFILL_PASSWORD"
 msgstr "Passwort eingeben"
 
 msgid "LOGIN_SETUP"
-msgstr "Login-Setup"
+msgstr "Anmelde-Setup"
 
 msgid "LOGIN_SUCCESSFUL"
 msgstr "Login erfolgreich!"
