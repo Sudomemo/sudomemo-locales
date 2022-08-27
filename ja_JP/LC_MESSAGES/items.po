@@ -10,7 +10,7 @@ msgid "ITEM_DESC_banana"
 msgstr "プランテンと間違えやすいので注意。"
 
 msgid "ITEM_DESC_beach_ball"
-msgstr "A great accessory for a swimming excursion."
+msgstr "海水浴といえばこれ。"
 
 msgid "ITEM_DESC_peeled_banana"
 msgstr "プランテンと間違えやす... なんでそうむいたの？"
@@ -19,7 +19,7 @@ msgid "ITEM_NAME_banana"
 msgstr "バナナ"
 
 msgid "ITEM_NAME_beach_ball"
-msgstr "Beach Ball"
+msgstr "ビーチボール"
 
 msgid "ITEM_NAME_peeled_banana"
 msgstr "むかれたバナナ"
@@ -28,7 +28,7 @@ msgid "ITEM_USE_banana"
 msgstr "バナナをむきました。"
 
 msgid "ITEM_USE_beach_ball"
-msgstr "You toss the ball around a bit."
+msgstr "なんどもトスした跡がある。"
 
 msgid "ITEM_USE_peeled_banana"
 msgstr "バナナを食べました。"
