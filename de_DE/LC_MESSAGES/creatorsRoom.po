@@ -46,7 +46,7 @@ msgid "CHANGE_ROOM_THEME_LINK"
 msgstr "[Kulisse ändern]"
 
 msgid "CREATORS_ROOM"
-msgstr "Creator-Seite"
+msgstr "Ersteller-Raum"
 
 msgid "CURRENT_BIO"
 msgstr "Aktuelle Biografie:"
@@ -226,4 +226,4 @@ msgid "VIEW"
 msgstr "Anzeigen"
 
 msgid "WATCH_HISTORY"
-msgstr "Watch History"
+msgstr "Wiedergabeverlauf"
