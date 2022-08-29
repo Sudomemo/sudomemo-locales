@@ -112,3 +112,6 @@ msgstr ""
 "      Durchsuche Sudomemo MusicMatch\n"
 "      <mode>: song, artist, genre\n"
 "      <query>: Dein Suchbegriff"
+
+msgid "USER_INFORMATION_WAS_UPDATED"
+msgstr "Your information was updated."
