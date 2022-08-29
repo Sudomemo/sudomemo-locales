@@ -112,3 +112,6 @@ msgstr ""
 "      スドメモMusicMatchで探す\n"
 "      <mode>: song, artist, genre\n"
 "      <query>: 検索対象名"
+
+msgid "USER_INFORMATION_WAS_UPDATED"
+msgstr "Your information was updated."
