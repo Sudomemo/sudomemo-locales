@@ -1,36 +1,46 @@
-# IMPORTANT NOTE ABOUT TRANSLATING THIS FILE
-# Pay close attention to "Only translate" as this includes the usage statements for our public Discord bot.
-# Spaces at the beginning must be kept intact. There are three spaces before each command entry
-# and six spaces before each command usage note.
-# \n represents a newline (aka a line break). Leave these alone as well.
 msgid ""
 msgstr ""
-"Language: es_ES\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-08-31 16:16+0000\n"
+"PO-Revision-Date: 2022-08-31 16:36+0000\n"
+"Last-Translator: \n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es-ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
+"\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Loco-Source-Locale: en_US\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Generator: Loco https://localise.biz/"
 
 # Username was given a Nitro Booster Ticket...
 msgid "BOOST_TICKET_SUCCESS"
-msgstr "%s recibió un ticket de Nitro Booster, canjeable por un mes de Sudomemo Plus y un trofeo especial. ¡Hurra!"
+msgstr ""
+"%s recibió un ticket de Nitro Booster, canjeable por un mes de Sudomemo Plus "
+"y un trofeo especial. ¡Hurra!"
 
 # Account linking
 msgid "DISCORD_LINKING_GET_STARTED"
 msgstr "¡Visita %s para empezar!"
 
 msgid "DISCORD_LINKING_REQUIRED"
-msgstr "Deberá enlazar su cuenta de Sudomemo para hacer eso."
+msgstr "Deberá conectar su cuenta de Sudomemo para hacer eso."
 
 msgid "DISCORD_LINKING_SUCCESS"
 msgstr "¡Su cuenta está vinculada!"
 
 msgid "DISCORD_LINKING_UNLINKED"
-msgstr "Se ha eliminado el vínculo entre su cuenta de Discord y Sudomemo."
+msgstr "Ha desconectado su cuenta de Discord de Sudomemo."
 
 msgid "DISCORD_LINKING_UNLINK_NOT_LINKED_YET"
-msgstr "Su cuenta de Discord no está vinculada a una cuenta de Sudomemo."
+msgstr "Su cuenta de Discord no está conectada a una cuenta de Sudomemo."
 
 # "Invalid mode - must be one of: song, artist, genre"
 msgid "MUSICMATCH_INVALID_MODE"
-msgstr "Modo no válido - debe ser uno de %s"
+msgstr "Modo inválido - debe ser uno de %s"
 
 msgid "MUSICMATCH_MOVIE_COUNT_PLURAL"
 msgstr "%d Flipnotes"
@@ -39,7 +49,7 @@ msgid "MUSICMATCH_MOVIE_COUNT_SINGULAR"
 msgstr "%d Flipnote"
 
 msgid "MUSICMATCH_NO_RESULTS"
-msgstr "No encontré nada para eso, ¡perdón!"
+msgstr "No encontré nada, ¡Disculpe!"
 
 msgid "MUSICMATCH_RESULT_HEADER_GT_MAX"
 msgstr "Los %d primeros resultados:"
@@ -61,26 +71,27 @@ msgid "REJECT_FSID_ENOENT"
 msgstr "No encontré un usuario con ese ID de Flipnote Studio en Sudomemo."
 
 msgid "REJECT_GENERIC_ERROR"
-msgstr "Me encontré con un problema haciendo eso. ¡Perdón!"
+msgstr "Hubo un problema haciendo eso. ¡Disculpe!"
 
 msgid "REJECT_INVALID_FSID"
-msgstr "¡Eso no es un ID de Flipnote Studio válido!"
+msgstr "¡Esa no es una ID de Flipnote Studio válida!"
 
 msgid "REJECT_INVALID_LINK_TOKEN"
-msgstr "¡Eso no es un token de enlace válido! ¡Por favor, visite %s para comenzar!"
+msgstr ""
+"¡Ese no es un enlace de token válido! Por favor, visite %s para comenzar."
 
 msgid "REJECT_LINK_TOKEN_ENOENT"
-msgstr "Este token de enlace caducó o no existe."
+msgstr "Ese enlace de token caducó o no existe."
 
 msgid "REJECT_NOT_NITRO_BOOSTER"
-msgstr "¡Necesitas ser un Sudomemo Nitro Booster para usar esto!"
+msgstr "¡Necesitas ser Nitro Booster de Sudomemo para usar eso!"
 
 msgid "REJECT_USER_ENOENT"
 msgstr "No encontré a ese usuario en Sudomemo."
 
 # displayed as "💡 Link your Sudomemo account with `.sudo link`"
 msgid "UNLINKED_COMMAND_TIP"
-msgstr "Vincula tu cuenta de Sudomemo con"
+msgstr "Vincula tu cuenta de Sudomemo con este enlace"
 
 # "Usage: example_command <fsid>"
 msgid "USAGE"
@@ -109,9 +120,9 @@ msgstr ""
 msgid "USAGE_musicmatch"
 msgstr ""
 "   mm, musicmatch <mode> <query>\n"
-"      Buscar Sudomemo MusicMatch\n"
+"      Busca en Sudomemo MusicMatch\n"
 "      <mode>: song, artist, genre\n"
 "      <query>: Lo que estas buscando"
 
 msgid "USER_INFORMATION_WAS_UPDATED"
-msgstr "Your information was updated."
+msgstr "Su información ha sido actualizada."
