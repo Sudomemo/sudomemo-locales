@@ -1,0 +1,117 @@
+# IMPORTANT NOTE ABOUT TRANSLATING THIS FILE
+# Pay close attention to "Only translate" as this includes the usage statements for our public Discord bot.
+# Spaces at the beginning must be kept intact. There are three spaces before each command entry
+# and six spaces before each command usage note.
+# \n represents a newline (aka a line break). Leave these alone as well.
+msgid ""
+msgstr ""
+"Language: es_ES\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+# Username was given a Nitro Booster Ticket...
+msgid "BOOST_TICKET_SUCCESS"
+msgstr "%s recibió un ticket de Nitro Booster, canjeable por un mes de Sudomemo Plus y un trofeo especial. ¡Hurra!"
+
+# Account linking
+msgid "DISCORD_LINKING_GET_STARTED"
+msgstr "¡Visita %s para empezar!"
+
+msgid "DISCORD_LINKING_REQUIRED"
+msgstr "Deberá enlazar su cuenta de Sudomemo para hacer eso."
+
+msgid "DISCORD_LINKING_SUCCESS"
+msgstr "¡Su cuenta está vinculada!"
+
+msgid "DISCORD_LINKING_UNLINKED"
+msgstr "Se ha eliminado el vínculo entre su cuenta de Discord y Sudomemo."
+
+msgid "DISCORD_LINKING_UNLINK_NOT_LINKED_YET"
+msgstr "Su cuenta de Discord no está vinculada a una cuenta de Sudomemo."
+
+# "Invalid mode - must be one of: song, artist, genre"
+msgid "MUSICMATCH_INVALID_MODE"
+msgstr "Modo no válido - debe ser uno de %s"
+
+msgid "MUSICMATCH_MOVIE_COUNT_PLURAL"
+msgstr "%d Flipnotes"
+
+msgid "MUSICMATCH_MOVIE_COUNT_SINGULAR"
+msgstr "%d Flipnote"
+
+msgid "MUSICMATCH_NO_RESULTS"
+msgstr "No encontré nada para eso, ¡perdón!"
+
+msgid "MUSICMATCH_RESULT_HEADER_GT_MAX"
+msgstr "Los %d primeros resultados:"
+
+msgid "MUSICMATCH_RESULT_HEADER_LT_MAX"
+msgstr "%d resultado(s):"
+
+# SongName by BandName
+msgid "MUSICMATCH_TITLE_BY_ARTIST"
+msgstr "%s por %s"
+
+msgid "REJECT_ACCOUNT_ALREADY_LINKED"
+msgstr "¡Ya has vinculado tu cuenta de Sudomemo!"
+
+msgid "REJECT_BOOST_TICKET_COOLDOWN"
+msgstr "¡Ya has regalado un ticket Nitro Booster este mes! (%s)"
+
+msgid "REJECT_FSID_ENOENT"
+msgstr "No encontré un usuario con ese ID de Flipnote Studio en Sudomemo."
+
+msgid "REJECT_GENERIC_ERROR"
+msgstr "Me encontré con un problema haciendo eso. ¡Perdón!"
+
+msgid "REJECT_INVALID_FSID"
+msgstr "¡Eso no es un ID de Flipnote Studio válido!"
+
+msgid "REJECT_INVALID_LINK_TOKEN"
+msgstr "¡Eso no es un token de enlace válido! ¡Por favor, visite %s para comenzar!"
+
+msgid "REJECT_LINK_TOKEN_ENOENT"
+msgstr "Este token de enlace caducó o no existe."
+
+msgid "REJECT_NOT_NITRO_BOOSTER"
+msgstr "¡Necesitas ser un Sudomemo Nitro Booster para usar esto!"
+
+msgid "REJECT_USER_ENOENT"
+msgstr "No encontré a ese usuario en Sudomemo."
+
+# displayed as "💡 Link your Sudomemo account with `.sudo link`"
+msgid "UNLINKED_COMMAND_TIP"
+msgstr "Vincula tu cuenta de Sudomemo con"
+
+# "Usage: example_command <fsid>"
+msgid "USAGE"
+msgstr "Uso"
+
+# ONLY TRANSLATE: "usage", "commands"
+msgid "USAGE_INTRO"
+msgstr ""
+"uso: .sudo ...\n"
+"\n"
+"comandos:"
+
+# ONLY TRANSLATE: "Give Nitro Booster ticket..." and "Flipnote Studio ID"
+msgid "USAGE_give_plus"
+msgstr ""
+"   give_plus <FSID>\n"
+"      Regalar ticket Nitro Booster (1 mes de Sudomemo Plus y un trofeo).\n"
+"      <FSID>: ID de Flipnote Studio"
+
+msgid "USAGE_link"
+msgstr ""
+"   link\n"
+"      Vincula tu cuenta de Sudomemo a Discord"
+
+# ONLY TRANSLATE "Search Sudomemo MusicMatch" and "What you're searching for"
+msgid "USAGE_musicmatch"
+msgstr ""
+"   mm, musicmatch <mode> <query>\n"
+"      Buscar Sudomemo MusicMatch\n"
+"      <mode>: song, artist, genre\n"
+"      <query>: Lo que estas buscando"
+
+msgid "USER_INFORMATION_WAS_UPDATED"
+msgstr "Your information was updated."
