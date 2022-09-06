@@ -503,6 +503,9 @@ msgstr "Δεν υπαρχει διευθυνση email στο αρχειο μα�
 msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
 msgstr "Δεν βρεθηκε χρηστης με αυτο το Flipnote Studio ID η email"
 
+msgid "PARENT_FLIPNOTE"
+msgstr "Parent Flipnote"
+
 msgid "PASSWORD_RESET_SENT"
 msgstr "Εχει σταλει αλλαγη κωδικου στην διευθυνση email που διαθετουμε στο αρχειο μας."
 
@@ -596,6 +599,9 @@ msgstr "Αγνωστη"
 # Referring to a release date/publishing date
 msgid "RELEASED"
 msgstr "Κυκλοφορια"
+
+msgid "ROOT_FLIPNOTE"
+msgstr "Root Flipnote"
 
 msgid "SAVE"
 msgstr "Σωστε"
@@ -712,6 +718,9 @@ msgstr "Χρηστης Sudomemo"
 
 msgid "TERMS_OF_USE"
 msgstr "Οροι Χρησης"
+
+msgid "THIS_FLIPNOTE_IS_SPINOFF_OF"
+msgstr "This Flipnote is a spin-off of"
 
 # Sudomemo Shop
 msgid "TICKETS"

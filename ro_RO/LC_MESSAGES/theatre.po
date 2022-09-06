@@ -503,6 +503,9 @@ msgstr "Nici o adresă de email pe fișier -- contactați Sudomemo Support"
 msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
 msgstr "Niciun utilizator nu a fost găsit cu acest FSID sau email"
 
+msgid "PARENT_FLIPNOTE"
+msgstr "Parent Flipnote"
+
 msgid "PASSWORD_RESET_SENT"
 msgstr "O resetare de parolă a fost trimisă la adresa de email de pe fișier."
 
@@ -596,6 +599,9 @@ msgstr "Necunoscută"
 # Referring to a release date/publishing date
 msgid "RELEASED"
 msgstr "Lansat"
+
+msgid "ROOT_FLIPNOTE"
+msgstr "Root Flipnote"
 
 msgid "SAVE"
 msgstr "Salvați"
@@ -712,6 +718,9 @@ msgstr "Utilizator Sudomemo"
 
 msgid "TERMS_OF_USE"
 msgstr "Termenii de Utilizare"
+
+msgid "THIS_FLIPNOTE_IS_SPINOFF_OF"
+msgstr "This Flipnote is a spin-off of"
 
 # Sudomemo Shop
 msgid "TICKETS"

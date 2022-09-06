@@ -503,6 +503,9 @@ msgstr "メールアドレスが見つかりません。スドメモのサポー
 msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
 msgstr "そのうごメモIDまたはメールアドレスで登録されているユーザーは見つかりませんでした"
 
+msgid "PARENT_FLIPNOTE"
+msgstr "Parent Flipnote"
+
 msgid "PASSWORD_RESET_SENT"
 msgstr "登録されているメールアドレスにパスワードのリセットの案内メールが送信されました"
 
@@ -596,6 +599,9 @@ msgstr "不明"
 # Referring to a release date/publishing date
 msgid "RELEASED"
 msgstr "新着順"
+
+msgid "ROOT_FLIPNOTE"
+msgstr "Root Flipnote"
 
 msgid "SAVE"
 msgstr "保存"
@@ -712,6 +718,9 @@ msgstr "スドメモユーザー"
 
 msgid "TERMS_OF_USE"
 msgstr "利用規約"
+
+msgid "THIS_FLIPNOTE_IS_SPINOFF_OF"
+msgstr "This Flipnote is a spin-off of"
 
 # Sudomemo Shop
 msgid "TICKETS"
