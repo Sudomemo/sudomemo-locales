@@ -500,6 +500,9 @@ msgstr "Nessun indirizzo email su file -- contatta il Supporto Sudomemo"
 msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
 msgstr "Nessun utente trovato con questo ID Flipnote Studio o indirizzo email"
 
+msgid "PARENT_FLIPNOTE"
+msgstr "Parent Flipnote"
+
 msgid "PASSWORD_RESET_SENT"
 msgstr "Un link per il reset della password è stato inviato all'indirizzo email su file."
 
@@ -593,6 +596,9 @@ msgstr "Sconosciuta"
 # Referring to a release date/publishing date
 msgid "RELEASED"
 msgstr "Pubblicato"
+
+msgid "ROOT_FLIPNOTE"
+msgstr "Root Flipnote"
 
 msgid "SAVE"
 msgstr "Salva"
@@ -709,6 +715,9 @@ msgstr "Utente Sudomemo"
 
 msgid "TERMS_OF_USE"
 msgstr "Termini di utilizzo"
+
+msgid "THIS_FLIPNOTE_IS_SPINOFF_OF"
+msgstr "This Flipnote is a spin-off of"
 
 # Sudomemo Shop
 msgid "TICKETS"

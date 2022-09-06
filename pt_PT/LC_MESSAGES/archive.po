@@ -135,6 +135,9 @@ msgstr "Flipnote Original"
 msgid "ORIGINAL_NOT_FOUND"
 msgstr "O Flipnote original não pôde ser encontrado/não existe"
 
+msgid "PARENT_FLIPNOTE"
+msgstr "Parent Flipnote"
+
 msgid "PRESS"
 msgstr "Imprensa"
 
@@ -152,6 +155,9 @@ msgstr "Europa & Oceania"
 
 msgid "REGION_JAPAN"
 msgstr "Japão"
+
+msgid "ROOT_FLIPNOTE"
+msgstr "Root Flipnote"
 
 msgid "SEARCH"
 msgstr "Procurar"
@@ -195,6 +201,9 @@ msgstr "Spotify"
 
 msgid "SUDOMEMO"
 msgstr "Sudomemo"
+
+msgid "THIS_FLIPNOTE_IS_SPINOFF_OF"
+msgstr "This Flipnote is a spin-off of"
 
 msgid "TOTAL_FLIPNOTES"
 msgstr "Flipnotes Totais"
