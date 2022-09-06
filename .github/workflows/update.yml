@@ -14,7 +14,7 @@ jobs:
       uses: actions/checkout@v2
     - name: install dependencies
       run: |
-        apt-get install -y gettext
+        sudo apt-get install -y gettext
     - name: Clean/sort locale files
       run: |-
         DO_SORT=true ./clean_all.sh
