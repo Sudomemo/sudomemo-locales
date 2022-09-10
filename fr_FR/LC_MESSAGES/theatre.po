@@ -504,7 +504,7 @@ msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
 msgstr "Aucun utilisateur trouvé avec cet ID Flipnote Studio ou cet e-mail"
 
 msgid "PARENT_FLIPNOTE"
-msgstr "Parent Flipnote"
+msgstr "Flipnote parente"
 
 msgid "PASSWORD_RESET_SENT"
 msgstr "Une réinitialisation de mot de passe a été envoyée à l'adresse email enregistrée."
@@ -601,7 +601,7 @@ msgid "RELEASED"
 msgstr "Date de sortie"
 
 msgid "ROOT_FLIPNOTE"
-msgstr "Root Flipnote"
+msgstr "Flipnote racine"
 
 msgid "SAVE"
 msgstr "Sauvegarder"
@@ -720,7 +720,7 @@ msgid "TERMS_OF_USE"
 msgstr "Conditions d'utilisation"
 
 msgid "THIS_FLIPNOTE_IS_SPINOFF_OF"
-msgstr "This Flipnote is a spin-off of"
+msgstr "Cette Flipnote est dérivée de"
 
 # Sudomemo Shop
 msgid "TICKETS"
