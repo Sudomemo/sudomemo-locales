@@ -136,7 +136,7 @@ msgid "ORIGINAL_NOT_FOUND"
 msgstr "L'originale est introuvable"
 
 msgid "PARENT_FLIPNOTE"
-msgstr "Parent Flipnote"
+msgstr "Flipnote parente"
 
 msgid "PRESS"
 msgstr "Presse"
@@ -157,7 +157,7 @@ msgid "REGION_JAPAN"
 msgstr "Japon"
 
 msgid "ROOT_FLIPNOTE"
-msgstr "Root Flipnote"
+msgstr "Flipnote racine"
 
 msgid "SEARCH"
 msgstr "Rechercher"
@@ -203,7 +203,7 @@ msgid "SUDOMEMO"
 msgstr "Sudomemo"
 
 msgid "THIS_FLIPNOTE_IS_SPINOFF_OF"
-msgstr "This Flipnote is a spin-off of"
+msgstr "Cette Flipnote est dérivée de"
 
 msgid "TOTAL_FLIPNOTES"
 msgstr "Flipnotes totales"
