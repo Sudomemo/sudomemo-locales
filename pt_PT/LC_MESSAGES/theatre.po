@@ -633,7 +633,7 @@ msgid "SEARCH_SUDOMEMO"
 msgstr "Procurar no Sudomemo"
 
 msgid "SEE_MORE"
-msgstr "See more"
+msgstr "Ver mais"
 
 msgid "SETTINGS"
 msgstr "Definições"
@@ -754,7 +754,7 @@ msgid "UPLOAD_STATUS"
 msgstr "Estado do Upload"
 
 msgid "USERS"
-msgstr "Users"
+msgstr "Utilizadores"
 
 msgid "USERS_FLIPNOTE_FROM_FLIPNOTE_HATENA"
 msgstr "Flipnote do %s do Flipnote Hatena"
@@ -820,7 +820,7 @@ msgid "VIEW_ON_SUDOMEMO"
 msgstr "Ver no Sudomemo"
 
 msgid "WATCH_HISTORY"
-msgstr "Watch History"
+msgstr "Histórico de Visual."
 
 msgid "WELCOME_BOX_AFTERNOON_GREETING"
 msgstr "Boa tarde"
@@ -1029,4 +1029,4 @@ msgstr "Ver agora:"
 
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
-msgstr "You are editing this Flipnote:"
+msgstr "Estás a editar este Flipnote:"
