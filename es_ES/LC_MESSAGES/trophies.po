@@ -92,6 +92,9 @@ msgstr "Contribuye traducciones para hacer de Sudomemo un lugar abierto a todo e
 msgid "TROPHY_DESC_weekly_topic_winner"
 msgstr "Envía una entrada ganadora a la Tematica Semanal de Sudomemo."
 
+msgid "TROPHY_DESC_welcoming_champion"
+msgstr "Earned the title of Welcoming Champion."
+
 msgid "TROPHY_NAME_7th_birthday_bash"
 msgstr "7mo Birthday Bash"
 
@@ -167,3 +170,6 @@ msgstr "Traductor"
 
 msgid "TROPHY_NAME_weekly_topic_winner"
 msgstr "Ganador de la Temática Semanal"
+
+msgid "TROPHY_NAME_welcoming_champion"
+msgstr "Welcoming Champion"

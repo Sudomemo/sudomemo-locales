@@ -150,6 +150,9 @@ msgstr "Bedankt voor het volgen van de Sudomemo Twitter!"
 msgid "TICKET_DESC_weekly_topic_winner_ticket"
 msgstr "Gefeliciteerd met het winnen van de Sudomemo Wekelijkse Onderwerp!"
 
+msgid "TICKET_DESC_welcoming_champion_ticket"
+msgstr "You're been very welcoming to new and returning creators! Thanks!"
+
 msgid "TICKET_NAME_7th_birthday_bash_ticket"
 msgstr "7th Birthday Bash Ticket"
 
@@ -241,6 +244,9 @@ msgstr "Twitter Promotie Prijskaartje"
 
 msgid "TICKET_NAME_weekly_topic_winner_ticket"
 msgstr "Wekelijkse Onderwerp Winner Prijskaartje"
+
+msgid "TICKET_NAME_welcoming_champion_ticket"
+msgstr "Welcoming Champion Ticket"
 
 msgid "TICKET_REDEEM_LOSE_FORMAT"
 msgstr "Je verzilvert het %s, maar..."

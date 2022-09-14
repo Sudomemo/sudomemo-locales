@@ -150,6 +150,9 @@ msgstr "Diolch am ddilyn y Sudomemo Twitter!"
 msgid "TICKET_DESC_weekly_topic_winner_ticket"
 msgstr "Llongyfarchiadau ar ennill Pwnc Wythnosol Sudomemo!"
 
+msgid "TICKET_DESC_welcoming_champion_ticket"
+msgstr "You're been very welcoming to new and returning creators! Thanks!"
+
 msgid "TICKET_NAME_7th_birthday_bash_ticket"
 msgstr "7th Birthday Bash Ticket"
 
@@ -241,6 +244,9 @@ msgstr "Tocyn Promo Trydar"
 
 msgid "TICKET_NAME_weekly_topic_winner_ticket"
 msgstr "Tocyn Enillydd Pwnc Wythnosol"
+
+msgid "TICKET_NAME_welcoming_champion_ticket"
+msgstr "Welcoming Champion Ticket"
 
 msgid "TICKET_REDEEM_LOSE_FORMAT"
 msgstr "Fe wnaethoch chi brynu'r %s, ond ..."

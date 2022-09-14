@@ -93,6 +93,9 @@ msgstr "Draag vertalingen bij om Sudomemo open voor iedereen te maken"
 msgid "TROPHY_DESC_weekly_topic_winner"
 msgstr "Dien een winnende inzending in naar Sudomemo's Wekelijks Onderwerp"
 
+msgid "TROPHY_DESC_welcoming_champion"
+msgstr "Earned the title of Welcoming Champion."
+
 msgid "TROPHY_NAME_7th_birthday_bash"
 msgstr "7th Birthday Bash"
 
@@ -170,3 +173,6 @@ msgstr "Vertaler"
 
 msgid "TROPHY_NAME_weekly_topic_winner"
 msgstr "Wekelijks Onderwerpwinnaar"
+
+msgid "TROPHY_NAME_welcoming_champion"
+msgstr "Welcoming Champion"

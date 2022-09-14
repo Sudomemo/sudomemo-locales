@@ -92,6 +92,9 @@ msgstr "Bidra med översättningar för att göra Sudomemo öppen till alla"
 msgid "TROPHY_DESC_weekly_topic_winner"
 msgstr "Lägg upp en vinnande Flipnote till Sudomemos Weekly Topic"
 
+msgid "TROPHY_DESC_welcoming_champion"
+msgstr "Earned the title of Welcoming Champion."
+
 msgid "TROPHY_NAME_7th_birthday_bash"
 msgstr "7th Birthday Bash"
 
@@ -167,3 +170,6 @@ msgstr "Översättare"
 
 msgid "TROPHY_NAME_weekly_topic_winner"
 msgstr "Veckotemans vinnare"
+
+msgid "TROPHY_NAME_welcoming_champion"
+msgstr "Welcoming Champion"
