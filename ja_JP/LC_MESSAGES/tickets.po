@@ -150,6 +150,9 @@ msgstr "スドメモのTwitterをフォローしていただきありがとう�
 msgid "TICKET_DESC_weekly_topic_winner_ticket"
 msgstr "スドメモ今週のお題への入選おめでとう!"
 
+msgid "TICKET_DESC_welcoming_champion_ticket"
+msgstr "You're been very welcoming to new and returning creators! Thanks!"
+
 msgid "TICKET_NAME_7th_birthday_bash_ticket"
 msgstr "7周年パーティーチケット"
 
@@ -241,6 +244,9 @@ msgstr "Twitterプロモチケット"
 
 msgid "TICKET_NAME_weekly_topic_winner_ticket"
 msgstr "今週のお題入選者チケット"
+
+msgid "TICKET_NAME_welcoming_champion_ticket"
+msgstr "Welcoming Champion Ticket"
 
 msgid "TICKET_REDEEM_LOSE_FORMAT"
 msgstr "%sを引き換えましたが、"
