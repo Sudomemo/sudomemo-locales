@@ -150,6 +150,9 @@ msgstr "Ευχαριστουμε που ακολουθησατε το Sudomemo T
 msgid "TICKET_DESC_weekly_topic_winner_ticket"
 msgstr "Συγχαρητηρια για την νικη σας στο Sudomemo Weekly Topic!"
 
+msgid "TICKET_DESC_welcoming_champion_ticket"
+msgstr "You're been very welcoming to new and returning creators! Thanks!"
+
 msgid "TICKET_NAME_7th_birthday_bash_ticket"
 msgstr "Λαχνος για το 7ο μας Birthday"
 
@@ -241,6 +244,9 @@ msgstr "Twitter Promo Ticket"
 
 msgid "TICKET_NAME_weekly_topic_winner_ticket"
 msgstr "Ticket Νικητη του Weekly Topic"
+
+msgid "TICKET_NAME_welcoming_champion_ticket"
+msgstr "Welcoming Champion Ticket"
 
 msgid "TICKET_REDEEM_LOSE_FORMAT"
 msgstr "Εξαργυρωσατε το %s, αλλα..."

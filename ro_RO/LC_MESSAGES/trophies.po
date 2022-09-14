@@ -92,6 +92,9 @@ msgstr "Contribuiti traduceri pentru a fi deschisi pentru toti"
 msgid "TROPHY_DESC_weekly_topic_winner"
 msgstr "Trimteti o intrare castigatoare de la Subiectul Saptamanal"
 
+msgid "TROPHY_DESC_welcoming_champion"
+msgstr "Earned the title of Welcoming Champion."
+
 msgid "TROPHY_NAME_7th_birthday_bash"
 msgstr "Aniversarea de 7 Ani"
 
@@ -167,3 +170,6 @@ msgstr "Traducator"
 
 msgid "TROPHY_NAME_weekly_topic_winner"
 msgstr "Castigator al Subiectului Saptamanal"
+
+msgid "TROPHY_NAME_welcoming_champion"
+msgstr "Welcoming Champion"

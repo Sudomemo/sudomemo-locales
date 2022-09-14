@@ -92,6 +92,9 @@ msgstr "スドメモをだれでも利用しやすくするための翻訳に協
 msgid "TROPHY_DESC_weekly_topic_winner"
 msgstr "スドメモの今週のお題に入賞する"
 
+msgid "TROPHY_DESC_welcoming_champion"
+msgstr "Earned the title of Welcoming Champion."
+
 msgid "TROPHY_NAME_7th_birthday_bash"
 msgstr "7周年記念パーティー"
 
@@ -167,3 +170,6 @@ msgstr "翻訳者"
 
 msgid "TROPHY_NAME_weekly_topic_winner"
 msgstr "今週のお題入賞者"
+
+msgid "TROPHY_NAME_welcoming_champion"
+msgstr "Welcoming Champion"
