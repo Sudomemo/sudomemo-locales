@@ -93,6 +93,11 @@ msgstr ""
 "\n"
 "comenzi:"
 
+msgid "USAGE_draw"
+msgstr ""
+"   draw\n"
+"      Draw a Regular Ticket and see if you win a prize!"
+
 # ONLY TRANSLATE: "Give Nitro Booster ticket..." and "Flipnote Studio ID"
 msgid "USAGE_give_plus"
 msgstr ""
