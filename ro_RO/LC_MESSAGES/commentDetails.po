@@ -46,7 +46,7 @@ msgid "MESSAGE_ID"
 msgstr "ID Mesaj"
 
 msgid "POSTED_TO"
-msgstr "Posted catre"
+msgstr "Postat catre"
 
 msgid "PRIVATE_CONVERSATION"
 msgstr "Conversatie Privata"
@@ -55,4 +55,4 @@ msgid "REPORT_CONTENT"
 msgstr "Raportati Continut"
 
 msgid "TIMESTAMP"
-msgstr "Timestamp"
+msgstr "Reper temporar"
