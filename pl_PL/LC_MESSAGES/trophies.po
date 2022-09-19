@@ -92,6 +92,9 @@ msgstr "Pomóż w tłumaczeniu Sudomemo"
 msgid "TROPHY_DESC_weekly_topic_winner"
 msgstr "Twój Flipnote wygrał Temat Tygodnia"
 
+msgid "TROPHY_DESC_welcoming_champion"
+msgstr "Earned the title of Welcoming Champion."
+
 msgid "TROPHY_NAME_7th_birthday_bash"
 msgstr "7th Birthday Bash"
 
@@ -167,3 +170,6 @@ msgstr "Tłumacz"
 
 msgid "TROPHY_NAME_weekly_topic_winner"
 msgstr "Zwycięzca Tematu Tygodnia"
+
+msgid "TROPHY_NAME_welcoming_champion"
+msgstr "Welcoming Champion"

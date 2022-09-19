@@ -503,6 +503,9 @@ msgstr "Nenhum endereço de email no registo -- contacte o Suporte do Sudomemo"
 msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
 msgstr "Nenhum utilizador encontrado com esse ID do Flipnote Studio ID ou email"
 
+msgid "PARENT_FLIPNOTE"
+msgstr "Parent Flipnote"
+
 msgid "PASSWORD_RESET_SENT"
 msgstr "Um link de redefinição de palavra-passe foi enviado para o endereço de email no nosso registo."
 
@@ -597,6 +600,9 @@ msgstr "Desconhecido"
 msgid "RELEASED"
 msgstr "Publicado"
 
+msgid "ROOT_FLIPNOTE"
+msgstr "Root Flipnote"
+
 msgid "SAVE"
 msgstr "Guardar"
 
@@ -627,7 +633,7 @@ msgid "SEARCH_SUDOMEMO"
 msgstr "Procurar no Sudomemo"
 
 msgid "SEE_MORE"
-msgstr "See more"
+msgstr "Ver mais"
 
 msgid "SETTINGS"
 msgstr "Definições"
@@ -713,6 +719,9 @@ msgstr "Utilizador do Sudomemo"
 msgid "TERMS_OF_USE"
 msgstr "Termos de Uso"
 
+msgid "THIS_FLIPNOTE_IS_SPINOFF_OF"
+msgstr "This Flipnote is a spin-off of"
+
 # Sudomemo Shop
 msgid "TICKETS"
 msgstr "Bilhetes"
@@ -745,7 +754,7 @@ msgid "UPLOAD_STATUS"
 msgstr "Estado do Upload"
 
 msgid "USERS"
-msgstr "Users"
+msgstr "Utilizadores"
 
 msgid "USERS_FLIPNOTE_FROM_FLIPNOTE_HATENA"
 msgstr "Flipnote do %s do Flipnote Hatena"
@@ -811,7 +820,7 @@ msgid "VIEW_ON_SUDOMEMO"
 msgstr "Ver no Sudomemo"
 
 msgid "WATCH_HISTORY"
-msgstr "Watch History"
+msgstr "Histórico de Visual."
 
 msgid "WELCOME_BOX_AFTERNOON_GREETING"
 msgstr "Boa tarde"
@@ -1020,4 +1029,4 @@ msgstr "Ver agora:"
 
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
-msgstr "You are editing this Flipnote:"
+msgstr "Estás a editar este Flipnote:"

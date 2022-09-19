@@ -112,3 +112,6 @@ msgstr ""
 "      Cautati Potrivire de Muzica Sudomemo \n"
 "      <mode>: song, artist, genre\n"
 "      <query>: Ce cautati"
+
+msgid "USER_INFORMATION_WAS_UPDATED"
+msgstr "Your information was updated."

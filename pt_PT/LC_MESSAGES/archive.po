@@ -41,7 +41,7 @@ msgid "FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote de %s"
 
 msgid "FLIPNOTE_MAY_BE_DUPLICATE"
-msgstr "È possível que seja uma cópia de um outro Flipnote."
+msgstr "É possível que seja uma cópia de um outro Flipnote."
 
 msgid "FLIPNOTE_STUDIO_ID"
 msgstr "ID do Flipnote Studio"
@@ -135,6 +135,9 @@ msgstr "Flipnote Original"
 msgid "ORIGINAL_NOT_FOUND"
 msgstr "O Flipnote original não pôde ser encontrado/não existe"
 
+msgid "PARENT_FLIPNOTE"
+msgstr "Parent Flipnote"
+
 msgid "PRESS"
 msgstr "Imprensa"
 
@@ -152,6 +155,9 @@ msgstr "Europa & Oceania"
 
 msgid "REGION_JAPAN"
 msgstr "Japão"
+
+msgid "ROOT_FLIPNOTE"
+msgstr "Root Flipnote"
 
 msgid "SEARCH"
 msgstr "Procurar"
@@ -196,6 +202,9 @@ msgstr "Spotify"
 msgid "SUDOMEMO"
 msgstr "Sudomemo"
 
+msgid "THIS_FLIPNOTE_IS_SPINOFF_OF"
+msgstr "This Flipnote is a spin-off of"
+
 msgid "TOTAL_FLIPNOTES"
 msgstr "Flipnotes Totais"
 
@@ -216,7 +225,7 @@ msgid "USERS_PROFILE_IMAGE_FORMAT"
 msgstr "Imagem de perfil do(a)%s do Hatena"
 
 msgid "VIEWS"
-msgstr "Visualizaç"
+msgstr "Visualizações"
 
 msgid "YOUTUBE_MUSIC"
 msgstr "YouTube Music"

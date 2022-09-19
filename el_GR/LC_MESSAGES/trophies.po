@@ -92,6 +92,9 @@ msgstr "Παροχη μεταφρασεων για να γινει το Sudomemo
 msgid "TROPHY_DESC_weekly_topic_winner"
 msgstr "Νικησε στο Weekly Topic"
 
+msgid "TROPHY_DESC_welcoming_champion"
+msgstr "Earned the title of Welcoming Champion."
+
 msgid "TROPHY_NAME_7th_birthday_bash"
 msgstr "7ο Birthday Bash"
 
@@ -167,3 +170,6 @@ msgstr "Μεταφραστης"
 
 msgid "TROPHY_NAME_weekly_topic_winner"
 msgstr "Νικητης Weekly Topi"
+
+msgid "TROPHY_NAME_welcoming_champion"
+msgstr "Welcoming Champion"

@@ -66,7 +66,7 @@ msgid "TROPHY_DESC_meet_russell_ramblewood"
 msgstr "Il est flamboyant à l'excès, mais veut toujours entendre parler de votre journée."
 
 msgid "TROPHY_DESC_meet_ziggy_starburst"
-msgstr "Vit sa vie au jour le jour avec un touche de flair en plus."
+msgstr "Vit sa vie au jour le jour avec une touche de flair en plus."
 
 msgid "TROPHY_DESC_neighborhood_watch"
 msgstr "Signaler correctement du contenu qui viole notre Politique de contenu"
@@ -81,16 +81,19 @@ msgid "TROPHY_DESC_spookmaster"
 msgstr "Prix du Maître de l'épouvante pour l'Excellence en matière de Sorcellerie et de Magie."
 
 msgid "TROPHY_DESC_sudomemo_radio"
-msgstr "Contributed content to an episode of Sudomemo Radio"
+msgstr "A contribué au contenu d'un épisode de Radio Sudomemo"
 
 msgid "TROPHY_DESC_sudomemo_radio_pilot"
-msgstr "Contributed content to the very first episode of Sudomemo Radio"
+msgstr "A contribué au contenu du tout premier épisode de Radio Sudomemo"
 
 msgid "TROPHY_DESC_translator"
 msgstr "Contribuez aux traductions pour rendre Sudomemo ouvert à tous"
 
 msgid "TROPHY_DESC_weekly_topic_winner"
 msgstr "Soumettez une participation déclarée gagnante du Weekly Topic (thème hebdomadaire) de Sudomemo"
+
+msgid "TROPHY_DESC_welcoming_champion"
+msgstr "Earned the title of Welcoming Champion."
 
 msgid "TROPHY_NAME_7th_birthday_bash"
 msgstr "Fête du 7ème anniversaire"
@@ -157,13 +160,16 @@ msgid "TROPHY_NAME_spookmaster"
 msgstr "Maître de l'épouvante"
 
 msgid "TROPHY_NAME_sudomemo_radio"
-msgstr "Sudomemo Radio Contributor"
+msgstr "Contributeur de Radio Sudomemo"
 
 msgid "TROPHY_NAME_sudomemo_radio_pilot"
-msgstr "Sudomemo Radio Pilot Contributor"
+msgstr "Contributeur au pilote de Radio Sudomemo"
 
 msgid "TROPHY_NAME_translator"
 msgstr "Traducteur"
 
 msgid "TROPHY_NAME_weekly_topic_winner"
 msgstr "Vainqueur du Weekly Topic"
+
+msgid "TROPHY_NAME_welcoming_champion"
+msgstr "Welcoming Champion"

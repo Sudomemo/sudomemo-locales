@@ -133,10 +133,10 @@ msgid "TICKET_DESC_spookmaster_ticket"
 msgstr "Merci beaucoup d'avoir joué à SudoQuest: Requiem ! Nous espérons que vous avez apprécié le jeu."
 
 msgid "TICKET_DESC_sudomemo_radio_pilot_ticket"
-msgstr "Congratulations on being a part of the very first episode of Sudomemo Radio!"
+msgstr "Félicitations pour avoir pris part au tout premier épisode de Radio Sudomemo !"
 
 msgid "TICKET_DESC_sudomemo_radio_ticket"
-msgstr "Thank you contributing to Sudomemo Radio!"
+msgstr "Merci d'avoir contribué à Radio Sudomemo !"
 
 msgid "TICKET_DESC_survey_thanks_ticket"
 msgstr "Merci d'avoir complété notre sondage !"
@@ -149,6 +149,9 @@ msgstr "Merci de suivre Sudomemo sur Twitter !"
 
 msgid "TICKET_DESC_weekly_topic_winner_ticket"
 msgstr "Félicitations pour avoir gagné le Weekly Topic (thème hebdomadaire) de Sudomemo !"
+
+msgid "TICKET_DESC_welcoming_champion_ticket"
+msgstr "You're been very welcoming to new and returning creators! Thanks!"
 
 msgid "TICKET_NAME_7th_birthday_bash_ticket"
 msgstr "Ticket du 7ème anniversaire"
@@ -225,10 +228,10 @@ msgid "TICKET_NAME_spookmaster_ticket"
 msgstr "Ticket du Maître de l'épouvante"
 
 msgid "TICKET_NAME_sudomemo_radio_pilot_ticket"
-msgstr "Sudomemo Radio Pilot Ticket"
+msgstr "Ticket du pilote de Radio Sudomemo"
 
 msgid "TICKET_NAME_sudomemo_radio_ticket"
-msgstr "Sudomemo Radio Ticket"
+msgstr "Ticket Radio Sudomemo"
 
 msgid "TICKET_NAME_survey_thanks_ticket"
 msgstr "Ticket de sondage"
@@ -241,6 +244,9 @@ msgstr "Ticket Promo Twitter"
 
 msgid "TICKET_NAME_weekly_topic_winner_ticket"
 msgstr "Ticket Vainqueur du Weekly Topic"
+
+msgid "TICKET_NAME_welcoming_champion_ticket"
+msgstr "Welcoming Champion Ticket"
 
 msgid "TICKET_REDEEM_LOSE_FORMAT"
 msgstr "Vous avez utilisé le %s, mais..."
