@@ -228,10 +228,10 @@ msgid "TICKET_NAME_spookmaster_ticket"
 msgstr "Bilet Spooksmaster"
 
 msgid "TICKET_NAME_sudomemo_radio_pilot_ticket"
-msgstr "Sudomemo Radio Pilot Ticket"
+msgstr "Bilet Pilot Sudomemo Radio"
 
 msgid "TICKET_NAME_sudomemo_radio_ticket"
-msgstr "Sudomemo Radio Ticket"
+msgstr "Bilet Sudomemo Radio"
 
 msgid "TICKET_NAME_survey_thanks_ticket"
 msgstr "Bilet Studiu"
@@ -246,7 +246,7 @@ msgid "TICKET_NAME_weekly_topic_winner_ticket"
 msgstr "Bilet Castigator de la Subiectul Saptamanal"
 
 msgid "TICKET_NAME_welcoming_champion_ticket"
-msgstr "Welcoming Champion Ticket"
+msgstr "Bilet Campion de Binevenire"
 
 msgid "TICKET_REDEEM_LOSE_FORMAT"
 msgstr "Ati revendicat %s, dar..."
