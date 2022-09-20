@@ -80,10 +80,10 @@ msgstr "すべての機能"
 
 # Matches button on page 4 of Flipnote Studio settings
 msgid "FLIPNOTE_FRIENDS"
-msgstr "Flipnote Friends"
+msgstr "うごメイト"
 
 msgid "FLIPNOTE_FRIENDS_INFO"
-msgstr "Creators you've exchanged Flipnotes with"
+msgstr "うごメモを交換したことがあるユーザー"
 
 msgid "FLIPNOTE_STUDIO_ID"
 msgstr "うごメモID"
