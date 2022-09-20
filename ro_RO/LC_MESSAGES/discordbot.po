@@ -14,7 +14,7 @@ msgstr "%s a primit un Bilet de Stimulator Nitro, revendicabil timp de o lună �
 
 # Account linking
 msgid "DISCORD_LINKING_GET_STARTED"
-msgstr "Vă rugăm vizitați %s pentru a începe!"
+msgstr "Vă rugăm să vizitați %s pentru a începe!"
 
 msgid "DISCORD_LINKING_REQUIRED"
 msgstr "Trebuie să vă conectați cu contul de Sudomemo pentru a face asta."
@@ -26,7 +26,7 @@ msgid "DISCORD_LINKING_UNLINKED"
 msgstr "Conexiunea dintre conturile dvs. de Discord și Sudomemo a fost ștearsă."
 
 msgid "DISCORD_LINKING_UNLINK_NOT_LINKED_YET"
-msgstr "Contul dvs. de Discord nu este conectat la un cont Sudomemo."
+msgstr "Contul dvs. de Discord nu este conectat la un Sudomemo."
 
 # "Invalid mode - must be one of: song, artist, genre"
 msgid "MUSICMATCH_INVALID_MODE"
@@ -52,7 +52,7 @@ msgid "MUSICMATCH_TITLE_BY_ARTIST"
 msgstr "%s după %s"
 
 msgid "REJECT_ACCOUNT_ALREADY_LINKED"
-msgstr "V-ați conectat deja contul Sudomemo!"
+msgstr "V-ați conectat deja cu contul Sudomemo!"
 
 msgid "REJECT_BOOST_TICKET_COOLDOWN"
 msgstr "Deja ați primit un Bilet de Stimulator Discord luna aceasta! (%s)"
@@ -96,7 +96,7 @@ msgstr ""
 msgid "USAGE_draw"
 msgstr ""
 "   draw\n"
-"      Draw a Regular Ticket and see if you win a prize!"
+"      Trageți un Bilet Normal și câștigați un premiu!"
 
 # ONLY TRANSLATE: "Give Nitro Booster ticket..." and "Flipnote Studio ID"
 msgid "USAGE_give_plus"
@@ -114,7 +114,7 @@ msgstr ""
 msgid "USAGE_musicmatch"
 msgstr ""
 "   mm, musicmatch <mode> <query>\n"
-"      Cautati MusicMatch Sudomemo \n"
+"      Căutați cu MusicMatch Sudomemo \n"
 "      <mode>: song, artist, genre\n"
 "      <query>: Ce căutați"
 
