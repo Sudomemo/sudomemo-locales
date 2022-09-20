@@ -109,7 +109,7 @@ msgid "TICKET_DESC_neighborhood_watch_ticket"
 msgstr "Va multumim pentru ca ati ajutat la mentinerea Sudomemo drept un loc sigur!"
 
 msgid "TICKET_DESC_nitro_booster_ticket"
-msgstr "Hei, tu! Esti grozav! Va multumim ca ati stimulat serverul de Discord Sudomemo!"
+msgstr "Hei, tu! Esti grozav! Iti multumim ca ai stimulat serverul de Discord Sudomemo!"
 
 msgid "TICKET_DESC_one_month_plus_ticket"
 msgstr "Acest bilet va va oferi o luna de Sudomemo Plus!"
@@ -133,10 +133,10 @@ msgid "TICKET_DESC_spookmaster_ticket"
 msgstr "Va multumim foarte mult pentru ca ati jucat SudoQuest: Requiem! Speram ca v-ati bucurat de joc."
 
 msgid "TICKET_DESC_sudomemo_radio_pilot_ticket"
-msgstr "Congratulations on being a part of the very first episode of Sudomemo Radio!"
+msgstr "Felicitari pentru ca ati fost la primul episod din Sudomemo Radio!"
 
 msgid "TICKET_DESC_sudomemo_radio_ticket"
-msgstr "Thank you contributing to Sudomemo Radio!"
+msgstr "Multumim ca ati contribuit la Sudomemo Radio!"
 
 msgid "TICKET_DESC_survey_thanks_ticket"
 msgstr "Multumim ca ati completat studiul nostru!"
@@ -228,10 +228,10 @@ msgid "TICKET_NAME_spookmaster_ticket"
 msgstr "Bilet Spooksmaster"
 
 msgid "TICKET_NAME_sudomemo_radio_pilot_ticket"
-msgstr "Sudomemo Radio Pilot Ticket"
+msgstr "Bilet Pilot Sudomemo Radio"
 
 msgid "TICKET_NAME_sudomemo_radio_ticket"
-msgstr "Sudomemo Radio Ticket"
+msgstr "Bilet Sudomemo Radio"
 
 msgid "TICKET_NAME_survey_thanks_ticket"
 msgstr "Bilet Studiu"
@@ -246,17 +246,17 @@ msgid "TICKET_NAME_weekly_topic_winner_ticket"
 msgstr "Bilet Castigator de la Subiectul Saptamanal"
 
 msgid "TICKET_NAME_welcoming_champion_ticket"
-msgstr "Welcoming Champion Ticket"
+msgstr "Bilet Campion de Binevenire"
 
 msgid "TICKET_REDEEM_LOSE_FORMAT"
-msgstr "Ati revendicat %s, dar..."
+msgstr "Ati revendicat un %s, dar..."
 
 msgid "TICKET_REDEEM_NO_PRIZES"
 msgstr "Nu ati castigat nimic. Scuze!"
 
 # Ticket redemption
 msgid "TICKET_REDEEM_WIN_FORMAT"
-msgstr "Ati revendicat %s!"
+msgstr "Ati revendicat un %s!"
 
 msgid "USE_ITEM"
 msgstr "Folositi"
