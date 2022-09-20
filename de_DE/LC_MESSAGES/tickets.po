@@ -151,7 +151,7 @@ msgid "TICKET_DESC_weekly_topic_winner_ticket"
 msgstr "Glückwunsch zum Gewinn des Wochen-Themas auf Sudomemo!"
 
 msgid "TICKET_DESC_welcoming_champion_ticket"
-msgstr "You're been very welcoming to new and returning creators! Thanks!"
+msgstr "Du warst sehr einladend zu neuen und wiederkehrenden Erstellern! Danke!"
 
 msgid "TICKET_NAME_7th_birthday_bash_ticket"
 msgstr "7. 'Birthday Bash'-Ticket"
@@ -246,7 +246,7 @@ msgid "TICKET_NAME_weekly_topic_winner_ticket"
 msgstr "Wochen-Thema-Gewinner-Ticket"
 
 msgid "TICKET_NAME_welcoming_champion_ticket"
-msgstr "Welcoming Champion Ticket"
+msgstr "Einladender Champion-Ticket"
 
 msgid "TICKET_REDEEM_LOSE_FORMAT"
 msgstr "%s wurde eingelöst, aber..."
