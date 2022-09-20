@@ -78,6 +78,13 @@ msgstr "Favourite Users"
 msgid "FEATURE_USABILITY"
 msgstr "Feature Usability"
 
+# Matches button on page 4 of Flipnote Studio settings
+msgid "FLIPNOTE_FRIENDS"
+msgstr "Flipnote Friends"
+
+msgid "FLIPNOTE_FRIENDS_INFO"
+msgstr "Creators you've exchanged Flipnotes with"
+
 msgid "FLIPNOTE_STUDIO_ID"
 msgstr "Flipnote Studio ID"
 
