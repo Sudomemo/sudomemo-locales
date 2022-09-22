@@ -656,6 +656,12 @@ msgstr "Partager sur Twitter"
 msgid "SHARE_ON_WHATSAPP"
 msgstr "Partager via WhatsApp"
 
+msgid "SHOW_ON_PROFILE"
+msgstr "Show on profile"
+
+msgid "SHOW_YOUTUBE_LINK_ON_MY_PROFILE"
+msgstr "Show a link to my YouTube channel on my Sudomemo profile"
+
 msgid "SIGN_IN"
 msgstr "Se connecter"
 
@@ -764,6 +770,9 @@ msgstr "Profil de %s de Flipnote Hatena"
 
 msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
 msgstr "Après avoir rejoint le Discord de Sudomemo, copiez-collez ceci dans le salon de discussion."
+
+msgid "USER_SETTINGS_SUPPORT_TOKEN_EXPLANATION"
+msgstr "Support tokens are used to verify your account when contacting Sudomemo Support."
 
 msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
 msgstr "Configurez votre chaîne YouTube liée et vos paramètres d'envoi de Flipnote par défaut."

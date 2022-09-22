@@ -656,6 +656,12 @@ msgstr "Twitterで共有"
 msgid "SHARE_ON_WHATSAPP"
 msgstr "WhatsApp経由で共有"
 
+msgid "SHOW_ON_PROFILE"
+msgstr "Show on profile"
+
+msgid "SHOW_YOUTUBE_LINK_ON_MY_PROFILE"
+msgstr "Show a link to my YouTube channel on my Sudomemo profile"
+
 msgid "SIGN_IN"
 msgstr "ログイン"
 
@@ -764,6 +770,9 @@ msgstr "うごメモはてなでの%sのプロフィール"
 
 msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
 msgstr "スドメモのDiscordに参加したら、以下のコマンドをコピーしてチャットに送信してください。"
+
+msgid "USER_SETTINGS_SUPPORT_TOKEN_EXPLANATION"
+msgstr "Support tokens are used to verify your account when contacting Sudomemo Support."
 
 msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
 msgstr "連携したYouTubeチャンネルとデフォルトの作品アップロード設定を行います。"
