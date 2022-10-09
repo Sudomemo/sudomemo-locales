@@ -48,6 +48,9 @@ msgstr "Plaats de eerste Flipnote van een nieuwe decade"
 msgid "TROPHY_DESC_fifth_bday_event"
 msgstr "Doe mee aan Sudomemo's vijfde verjaardagsfeest"
 
+msgid "TROPHY_DESC_flipnote_friends"
+msgstr "Became Flipnote Friends with someone who uses Sudomemo!"
+
 msgid "TROPHY_DESC_folder"
 msgstr "Doneer vrije computertijd aan Folding@Home om te helpen met het bestrijden van ziektes"
 
@@ -128,6 +131,9 @@ msgstr "Eerste Flipnote van de Decade"
 
 msgid "TROPHY_NAME_fifth_bday_event"
 msgstr "Sudomemo's Vijfde Verjaardagsfeest"
+
+msgid "TROPHY_NAME_flipnote_friends"
+msgstr "Flipnote Friends"
 
 msgid "TROPHY_NAME_folder"
 msgstr "Folder"
