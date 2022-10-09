@@ -47,6 +47,9 @@ msgstr "Ανεβασε το πρωτο Flipnote της νεας δεκαετια
 msgid "TROPHY_DESC_fifth_bday_event"
 msgstr "Ηταν στα πεμπτα γενεθλια του Sudomemo"
 
+msgid "TROPHY_DESC_flipnote_friends"
+msgstr "Became Flipnote Friends with someone who uses Sudomemo!"
+
 msgid "TROPHY_DESC_folder"
 msgstr "Δωρεας spare χρονου compute στο Folding@Home για την βοηθεια καταπολεμισης ασθενιων"
 
@@ -125,6 +128,9 @@ msgstr "Πρωτο Flipnote της Δεκαετιας"
 
 msgid "TROPHY_NAME_fifth_bday_event"
 msgstr "Τα πεμπτα γενεθλια του Sudomemo"
+
+msgid "TROPHY_NAME_flipnote_friends"
+msgstr "Flipnote Friends"
 
 msgid "TROPHY_NAME_folder"
 msgstr "Φακελος"

@@ -47,6 +47,9 @@ msgstr "Postati primul Flipnote al unui deceniu"
 msgid "TROPHY_DESC_fifth_bday_event"
 msgstr "Faceti parte din a Cincea Aniversare Sudomemo"
 
+msgid "TROPHY_DESC_flipnote_friends"
+msgstr "Became Flipnote Friends with someone who uses Sudomemo!"
+
 msgid "TROPHY_DESC_folder"
 msgstr "Donati timp catre Folding@Home pentru a ajuta sa lupte impotriva bolilor"
 
@@ -125,6 +128,9 @@ msgstr "Primul Flipnote al Deceniului"
 
 msgid "TROPHY_NAME_fifth_bday_event"
 msgstr "Petrecerea de a Cincea Aniversare Sudomemo"
+
+msgid "TROPHY_NAME_flipnote_friends"
+msgstr "Flipnote Friends"
 
 msgid "TROPHY_NAME_folder"
 msgstr "Fisier"
