@@ -51,6 +51,9 @@ msgstr "%d résultat(s) :"
 msgid "MUSICMATCH_TITLE_BY_ARTIST"
 msgstr "%s par %s"
 
+msgid "PATRON_TICKET_SUCCESS"
+msgstr "You received a %s Sudomemo Patron Ticket!"
+
 msgid "REJECT_ACCOUNT_ALREADY_LINKED"
 msgstr "Vous avez déjà lié votre compte Sudomemo !"
 
@@ -75,6 +78,12 @@ msgstr "Le jeton de lien que vous avez fourni a expiré ou n'existe pas."
 msgid "REJECT_NOT_NITRO_BOOSTER"
 msgstr "Vous devez être un Nitro Booster de Sudomemo pour utiliser cela !"
 
+msgid "REJECT_NOT_PATRON"
+msgstr "You'll need to be a Sudomemo Patron to use this!"
+
+msgid "REJECT_PATRON_TICKET_COOLDOWN"
+msgstr "You've already claimed your Patron ticket for this month!"
+
 msgid "REJECT_USER_ENOENT"
 msgstr "Je n'ai pas trouvé cet utilisateur sur Sudomemo."
 
@@ -98,13 +107,6 @@ msgstr ""
 "   draw\n"
 "      Piochez un Ticket Ordinaire et regardez si vous gagnez un prix !"
 
-# ONLY TRANSLATE: "Give Nitro Booster ticket..." and "Flipnote Studio ID"
-msgid "USAGE_give_plus"
-msgstr ""
-"   give_plus <FSID>\n"
-"      Donner un ticket de Nitro Booster (1 mois de Sudomemo Plus et un trophée).\n"
-"      <FSID>: ID Flipnote Studio"
-
 msgid "USAGE_link"
 msgstr ""
 "   link\n"
@@ -117,6 +119,18 @@ msgstr ""
 "      Rechercher sur Sudomemo MusicMatch\n"
 "      <mode>: song, artist, genre\n"
 "      <query>: Ce que vous recherchez"
+
+# ONLY TRANSLATE: "Give Nitro Booster ticket..." and "Flipnote Studio ID"
+msgid "USAGE_nitro_plus"
+msgstr ""
+"   nitro_plus <FSID>\n"
+"      Donner un ticket de Nitro Booster (1 mois de Sudomemo Plus et un trophée).\n"
+"      <FSID>: ID Flipnote Studio"
+
+msgid "USAGE_patron_plus"
+msgstr ""
+"   patron_plus\n"
+"      Claim monthly Patreon Ticket"
 
 msgid "USER_INFORMATION_WAS_UPDATED"
 msgstr "Vos informations ont été actualisées."

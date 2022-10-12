@@ -51,6 +51,9 @@ msgstr "%d (de) rezultat(e):"
 msgid "MUSICMATCH_TITLE_BY_ARTIST"
 msgstr "%s după %s"
 
+msgid "PATRON_TICKET_SUCCESS"
+msgstr "You received a %s Sudomemo Patron Ticket!"
+
 msgid "REJECT_ACCOUNT_ALREADY_LINKED"
 msgstr "V-ați conectat deja cu contul Sudomemo!"
 
@@ -75,6 +78,12 @@ msgstr "Jetonul de conectare introdus de dvs. nu este valid sau nu există."
 msgid "REJECT_NOT_NITRO_BOOSTER"
 msgstr "Trebuie sa fiți un Stimulator Nitro pe Sudomemo pentru aceasta!"
 
+msgid "REJECT_NOT_PATRON"
+msgstr "You'll need to be a Sudomemo Patron to use this!"
+
+msgid "REJECT_PATRON_TICKET_COOLDOWN"
+msgstr "You've already claimed your Patron ticket for this month!"
+
 msgid "REJECT_USER_ENOENT"
 msgstr "Nu am găsit acest utilizator pe Sudomemo."
 
@@ -98,13 +107,6 @@ msgstr ""
 "   draw\n"
 "      Trageți un Bilet Normal și câștigați un premiu!"
 
-# ONLY TRANSLATE: "Give Nitro Booster ticket..." and "Flipnote Studio ID"
-msgid "USAGE_give_plus"
-msgstr ""
-"   give_plus <FSID>\n"
-"      Oferiti Bilet de Stimulator Discord (1 lună de Sudomemo Plus și un Trofeu).\n"
-"      <FSID>: Flipnote Studio ID"
-
 msgid "USAGE_link"
 msgstr ""
 "   link\n"
@@ -117,6 +119,18 @@ msgstr ""
 "      Căutați cu MusicMatch Sudomemo \n"
 "      <mode>: song, artist, genre\n"
 "      <query>: Ce căutați"
+
+# ONLY TRANSLATE: "Give Nitro Booster ticket..." and "Flipnote Studio ID"
+msgid "USAGE_nitro_plus"
+msgstr ""
+"   nitro_plus <FSID>\n"
+"      Oferiti Bilet de Stimulator Discord (1 lună de Sudomemo Plus și un Trofeu).\n"
+"      <FSID>: Flipnote Studio ID"
+
+msgid "USAGE_patron_plus"
+msgstr ""
+"   patron_plus\n"
+"      Claim monthly Patreon Ticket"
 
 msgid "USER_INFORMATION_WAS_UPDATED"
 msgstr "Informațiile dvs. au fost actualizate."
