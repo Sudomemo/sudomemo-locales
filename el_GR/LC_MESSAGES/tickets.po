@@ -117,6 +117,9 @@ msgstr "Αυτος ο λαχνος θα σας δωσει ενα μηνα Sudome
 msgid "TICKET_DESC_one_year_plus_ticket"
 msgstr "Αυτος ο λαχνος θα σας δωσει ενα χρονο Sudomemo Plus!"
 
+msgid "TICKET_DESC_patreon_patron_ticket"
+msgstr "Thank you for supporting Sudomemo through Patreon!"
+
 msgid "TICKET_DESC_purple_bunny_ticket"
 msgstr "Αυτος ο λαχνος σας δινει 600 αστερια που μπορειτε να ξοδεψετε (πολυ πιθανο καποια σπανια!), ενα συλλεκτικο θεμα, και ενα ειδικο σημα για το προφιλ σας"
 
@@ -211,6 +214,9 @@ msgstr "Plus Ticket (Ενας μηνας )"
 
 msgid "TICKET_NAME_one_year_plus_ticket"
 msgstr "Plus Ticket (ενας χρονος)"
+
+msgid "TICKET_NAME_patreon_patron_ticket"
+msgstr "Sudomemo Patron Ticket"
 
 msgid "TICKET_NAME_purple_bunny_ticket"
 msgstr "Russell Ramblewood Ticket"

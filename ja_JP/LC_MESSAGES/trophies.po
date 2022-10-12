@@ -80,6 +80,9 @@ msgstr "スドメモDiscordサーバーのブーストによって、そのイ�
 msgid "TROPHY_DESC_one_million_flips_event"
 msgstr "100万の作品イベントに参加する"
 
+msgid "TROPHY_DESC_patreon_patron"
+msgstr "Supported Sudomemo through Patreon"
+
 msgid "TROPHY_DESC_spookmaster"
 msgstr "Witchcraft and Wizardryで優秀な結果を残す"
 
@@ -161,6 +164,9 @@ msgstr "ニトロブースター"
 
 msgid "TROPHY_NAME_one_million_flips_event"
 msgstr "100万の作品イベント"
+
+msgid "TROPHY_NAME_patreon_patron"
+msgstr "Sudomemo Patron"
 
 msgid "TROPHY_NAME_spookmaster"
 msgstr "スプークマスター"
