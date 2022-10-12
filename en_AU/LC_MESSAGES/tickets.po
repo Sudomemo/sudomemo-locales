@@ -117,6 +117,9 @@ msgstr "This ticket will give you one month of Sudomemo Plus!"
 msgid "TICKET_DESC_one_year_plus_ticket"
 msgstr "This ticket will give you one year of Sudomemo Plus!"
 
+msgid "TICKET_DESC_patreon_patron_ticket"
+msgstr "Thank you for supporting Sudomemo through Patreon!"
+
 msgid "TICKET_DESC_purple_bunny_ticket"
 msgstr "This ticket gives you 600 spendable Sudomemo Stars (very likely some rare ones!), an exclusive theme, and a special badge displayed on your profile!"
 
@@ -211,6 +214,9 @@ msgstr "Plus Ticket (One Month)"
 
 msgid "TICKET_NAME_one_year_plus_ticket"
 msgstr "Plus Ticket (One Year)"
+
+msgid "TICKET_NAME_patreon_patron_ticket"
+msgstr "Sudomemo Patron Ticket"
 
 msgid "TICKET_NAME_purple_bunny_ticket"
 msgstr "Russell Ramblewood Ticket"

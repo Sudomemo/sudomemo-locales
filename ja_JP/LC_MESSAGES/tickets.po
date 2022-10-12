@@ -117,6 +117,9 @@ msgstr "1ヶ月分Sudomemo Plusをご利用いただけるチケットです!"
 msgid "TICKET_DESC_one_year_plus_ticket"
 msgstr "1年分Sudomemo Plusをご利用いただけるチケットです!"
 
+msgid "TICKET_DESC_patreon_patron_ticket"
+msgstr "Thank you for supporting Sudomemo through Patreon!"
+
 msgid "TICKET_DESC_purple_bunny_ticket"
 msgstr "このチケットは600ものスター（レアなスターがあるかも？）、限定テーマが貰え、特別なバッジがプロフィールに表示されます"
 
@@ -211,6 +214,9 @@ msgstr "Plusチケット (1ヶ月)"
 
 msgid "TICKET_NAME_one_year_plus_ticket"
 msgstr "Plusチケット (1年)"
+
+msgid "TICKET_NAME_patreon_patron_ticket"
+msgstr "Sudomemo Patron Ticket"
 
 msgid "TICKET_NAME_purple_bunny_ticket"
 msgstr "ラッセルランブルウッドチケット"

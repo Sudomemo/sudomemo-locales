@@ -80,6 +80,9 @@ msgstr "A montré à quel point il/elle (ou un ami) était cool en boostant le s
 msgid "TROPHY_DESC_one_million_flips_event"
 msgstr "Participez à l'événement Un Million de Flipnotes"
 
+msgid "TROPHY_DESC_patreon_patron"
+msgstr "Supported Sudomemo through Patreon"
+
 msgid "TROPHY_DESC_spookmaster"
 msgstr "Prix du Maître de l'épouvante pour l'Excellence en matière de Sorcellerie et de Magie."
 
@@ -161,6 +164,9 @@ msgstr "Nitro Booster"
 
 msgid "TROPHY_NAME_one_million_flips_event"
 msgstr "Événement Un Million de Flipnotes"
+
+msgid "TROPHY_NAME_patreon_patron"
+msgstr "Sudomemo Patron"
 
 msgid "TROPHY_NAME_spookmaster"
 msgstr "Maître de l'épouvante"

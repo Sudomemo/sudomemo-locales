@@ -80,6 +80,9 @@ msgstr "Δειξαν ποσο γαματοι  ηταν εκεινοι (η καπ
 msgid "TROPHY_DESC_one_million_flips_event"
 msgstr "Συμμετοχη στο ιβεντ του ενος εκατομμυριου Flipnote"
 
+msgid "TROPHY_DESC_patreon_patron"
+msgstr "Supported Sudomemo through Patreon"
+
 msgid "TROPHY_DESC_spookmaster"
 msgstr "Βραβειο Spookmaster για την Αριστεια στις Επιστημες της Μαγειας."
 
@@ -161,6 +164,9 @@ msgstr "Nitro Booster"
 
 msgid "TROPHY_NAME_one_million_flips_event"
 msgstr "Event ενος εκατομμυριου Flipnote"
+
+msgid "TROPHY_NAME_patreon_patron"
+msgstr "Sudomemo Patron"
 
 msgid "TROPHY_NAME_spookmaster"
 msgstr "Spookmaster"

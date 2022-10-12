@@ -80,6 +80,9 @@ msgstr "Arata cat de grozavi ei (sau un prieten) sunt pentru ca au stimulat serv
 msgid "TROPHY_DESC_one_million_flips_event"
 msgstr "Luati parte la Evenimentul de 1 Milion de Flipnote-uri"
 
+msgid "TROPHY_DESC_patreon_patron"
+msgstr "Supported Sudomemo through Patreon"
+
 msgid "TROPHY_DESC_spookmaster"
 msgstr "Premiu Spookmaster pentru Excelenta in Vrajitorie."
 
@@ -161,6 +164,9 @@ msgstr "Stimulator Nitro"
 
 msgid "TROPHY_NAME_one_million_flips_event"
 msgstr "Evenimentul de 1 Milion de Flipnote-uri"
+
+msgid "TROPHY_NAME_patreon_patron"
+msgstr "Sudomemo Patron"
 
 msgid "TROPHY_NAME_spookmaster"
 msgstr "Spookmaster"
