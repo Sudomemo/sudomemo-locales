@@ -11,17 +11,17 @@ msgid "404_OOPS_NOT_FOUND"
 msgstr "Oops - That page couldn't be found"
 
 msgid "404_WHOOPS_NOT_THERE"
-msgstr "Whoops! Whatever you were looking for, it wasn't there."
+msgstr "Oopie daisy! wateves u was lookin fer wasnt there :("
 
 # Account Settings (Theatre)
 msgid "ACCOUNT_SETTINGS"
-msgstr "Account Settings"
+msgstr "Account Thingies"
 
 msgid "ALT_DRAWN_COMMENT_BY_USER"
 msgstr "Drawn comment by %s"
 
 msgid "ALT_USER_PROFILE_PICTURE"
-msgstr "%s's profile picture"
+msgstr "%s's ñ picture"
 
 # Front Page
 # # Alt tags, aria labels
@@ -60,12 +60,12 @@ msgstr "There have been no Flipnotes posted to this channel yet."
 
 # Browse Song
 msgid "BROWSE_SONG_NO_FLIPNOTES_YET"
-msgstr "There have been no Flipnotes posted with this song yet."
+msgstr "There aint no Flipnotes made with this song yet. sry :("
 
 # Additional things
 # See Flipnotes with the song <song name> by <band/artist name>
 msgid "BROWSE_SONG_YOU_ARE_BROWSING_SONG"
-msgstr "See Flipnotes with the song %s by %s"
+msgstr "See flipynotes with the song %s by %s"
 
 msgid "BTN_GET_STARTED"
 msgstr "Get Started"
@@ -80,13 +80,13 @@ msgid "BTN_SIGN_IN_WITH_GOOGLE"
 msgstr "Sign in with Google"
 
 msgid "BTN_STARTING_UPLOAD"
-msgstr "Starting..."
+msgstr "Going :D"
 
 msgid "BTN_START_UPLOAD"
-msgstr "Start Upload"
+msgstr "Upload!!!"
 
 msgid "BTN_UPLOAD_FAILED"
-msgstr "Upload failed..."
+msgstr "Upload failed... sry :("
 
 msgid "CATEGORY"
 msgstr "Category"
@@ -139,7 +139,7 @@ msgid "CONTINUE"
 msgstr "Continue"
 
 msgid "COULD_NOT_SAVE_DETAILS"
-msgstr "Couldn't save details"
+msgstr "Cant save details... sry :("
 
 msgid "CREATOR"
 msgstr "Creator"
@@ -148,7 +148,7 @@ msgid "CREATORS"
 msgstr "Creators"
 
 msgid "CREATORS_ROOM"
-msgstr "Creator's Room"
+msgstr "yay! xD
 
 # November 29th, 2019 08:23:07
 # Used for Flipnote Details
@@ -193,7 +193,7 @@ msgstr "Downloads"
 
 # Flipnote View Page
 msgid "EDIT_FLIPNOTE"
-msgstr "Edit Flipnote"
+msgstr "Edit flipynote"
 
 # # MusicMatch
 msgid "EDIT_PAGE_ABOUT_MUSICMATCH_1"
@@ -221,10 +221,10 @@ msgid "EDIT_PAGE_MUSICMATCH_NONE_CORRECT"
 msgstr "None of these are correct"
 
 msgid "EDIT_PAGE_MUSICMATCH_NO_BGM"
-msgstr "Your Flipnote does not have a background audio track."
+msgstr "Ur flipynote dont haves audio silly."
 
 msgid "EDIT_PAGE_MUSICMATCH_PENDING_MAPPING"
-msgstr "MusicMatch is currently processing your Flipnote. Check back again later."
+msgstr "MusicMatch is gettin yer flip rn! Check later :)"
 
 msgid "EDIT_PAGE_MUSICMATCH_PREVIEW_ON_SPOTIFY"
 msgstr "Preview on Spotify"
@@ -246,8 +246,7 @@ msgid "EDIT_PAGE_PLUS_SMOOTHING"
 msgstr "Smoothing"
 
 msgid "EDIT_PAGE_SUDOMEMO_PLUS_REQUIRED"
-msgstr "You'll need Sudomemo Plus to use these features."
-
+msgstr "Yous gots to have Sudomemo Plus to use these."
 msgid "EDIT_PAGE_TITLE_AND_DESCRIPTION"
 msgstr "Title and Description"
 
@@ -255,19 +254,19 @@ msgid "EDIT_PAGE_TITLE_TOOLTIP"
 msgstr "Letters, numbers, and symbols, maximum of 40 characters."
 
 msgid "FANS"
-msgstr "Fans"
+msgstr "hearties"
 
 msgid "FEATURED"
 msgstr "Featured"
 
 msgid "FEATURED_FLIPNOTES"
-msgstr "Featured Flipnotes"
+msgstr "Oooh Shiny!!"
 
 msgid "FLIPNOTE"
-msgstr "Flipnote"
+msgstr "flipynote"
 
 msgid "FLIPNOTES"
-msgstr "Flipnotes"
+msgstr "Flips"
 
 msgid "FLIPNOTE_ARCHIVE_BUTTON_TOGGLE"
 msgstr "Show link to archived Flipnote Hatena content from my profile"
@@ -306,20 +305,20 @@ msgid "FLIPNOTE_STUDIO_ID"
 msgstr "Flipnote Studio ID"
 
 msgid "FOLLOW"
-msgstr "Follow"
+msgstr "Follow!"
 
 msgid "FOLLOWERS"
-msgstr "Followers"
+msgstr "hearties"
 
 msgid "FOLLOWING"
-msgstr "Following"
+msgstr "frens"
 
 # Creator's Room (Profile)
 msgid "FOLLOWS_YOU"
-msgstr "Follows You"
+msgstr "Follows You!"
 
 msgid "FOLLOW_BACK"
-msgstr "Follow Back"
+msgstr "Follow Back!"
 
 msgid "FORGOT_YOUR_PASSWORD"
 msgstr "Forgot your password?"
@@ -332,7 +331,7 @@ msgid "FRONTPAGE_TITLE_TAGLINE"
 msgstr "Sudomemo: Flipnote Hatena is back!"
 
 msgid "FRONTPAGE_TRENDING_CREATORS"
-msgstr "Trending Creators"
+msgstr "Trendin Peeps"
 
 # This is short for Flipnote Studio ID. Leave it as "FSID" except in Japanese, where it should be うごメモID
 msgid "FSID"
@@ -357,10 +356,10 @@ msgid "HELP_CENTER"
 msgstr "Help Center"
 
 msgid "HOT"
-msgstr "Hot"
+msgstr "spicy"
 
 msgid "HOT_FLIPNOTES"
-msgstr "Hot Flipnotes"
+msgstr "spicy flips"
 
 # Do not translate ".sudo unlink"
 msgid "HOW_TO_UNLINK_DISCORD"
@@ -454,11 +453,11 @@ msgstr "Instagram"
 
 # # Switch to dark mode
 msgid "NAVBAR_ITEM_LIGHTS_OFF"
-msgstr "Lights off"
+msgstr "Sun off"
 
 # # Switch to light mode
 msgid "NAVBAR_ITEM_LIGHTS_ON"
-msgstr "Lights on"
+msgstr "Sun on"
 
 msgid "NAVBAR_ITEM_OTHER"
 msgstr "Other"
@@ -532,10 +531,10 @@ msgid "PLUS_LEARN_MORE"
 msgstr "Learn more..."
 
 msgid "POPULAR"
-msgstr "Popular"
+msgstr "@THE MP!!"
 
 msgid "POPULAR_THIS_MONTH"
-msgstr "Popular This Month"
+msgstr "@THE MP FER DIS MONTH!!!"
 
 # Previous, abbreviated "Prev". Should be a maximum of 4 characters.
 msgid "PREV"
@@ -574,10 +573,10 @@ msgid "RANK"
 msgstr "Rank"
 
 msgid "RECENT"
-msgstr "Recent"
+msgstr "Dank"
 
 msgid "RECENT_FLIPNOTES"
-msgstr "Recent Flipnotes"
+msgstr "Dank flipmemes"
 
 msgid "REGION"
 msgstr "Region"
@@ -630,7 +629,7 @@ msgstr "Your query matched too many creators - try something more specific."
 
 # Search page
 msgid "SEARCH_SUDOMEMO"
-msgstr "Search Sudomemo"
+msgstr "whats this??!"
 
 msgid "SEE_MORE"
 msgstr "See more"
@@ -726,7 +725,7 @@ msgid "TERMS_OF_USE"
 msgstr "Terms of Use"
 
 msgid "THIS_FLIPNOTE_IS_SPINOFF_OF"
-msgstr "This Flipnote is a spin-off of"
+msgstr "Dis flipynot isa spinaroo of"
 
 # Sudomemo Shop
 msgid "TICKETS"
@@ -785,7 +784,7 @@ msgstr "Add Moderator Comment"
 
 # ## This can happen in cases of network failure or if the comment is rejected
 msgid "VIEWPAGE_COMMENT_FAILED"
-msgstr "Comment failed..."
+msgstr "Comment failed... sry :("
 
 msgid "VIEWPAGE_COMMENT_POSTED"
 msgstr "Posted!"
@@ -809,17 +808,17 @@ msgstr "Do not use this for personal comments."
 
 # # Original Flipnote / Spinoffs
 msgid "VIEWPAGE_ORIGINAL_FLIPNOTE"
-msgstr "Original Flipnote"
+msgstr "OG flipa"
 
 msgid "VIEWPAGE_ORIGINAL_FLIPNOTE_NOT_ON_SUDOMEMO"
-msgstr "The original Flipnote isn't on Sudomemo."
+msgstr "Da OG Flipnote aint on Sudomemo. oops :("
 
 # This shows as "by User" underneath the Flipnote thumbnail
 msgid "VIEWPAGE_RELATED_FLIPNOTE_BY"
 msgstr "by %s"
 
 msgid "VIEWPAGE_SPINOFFS"
-msgstr "Spin-offs"
+msgstr "Spinaroos"
 
 # Number of times something has been viewed, or played.
 msgid "VIEWS"
