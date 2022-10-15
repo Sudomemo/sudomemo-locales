@@ -52,7 +52,7 @@ msgid "MUSICMATCH_TITLE_BY_ARTIST"
 msgstr "%s par %s"
 
 msgid "PATRON_TICKET_SUCCESS"
-msgstr "You received a %s Sudomemo Patron Ticket!"
+msgstr "Vous avez reçu un %s Ticket de Mécène Sudomemo !"
 
 msgid "REJECT_ACCOUNT_ALREADY_LINKED"
 msgstr "Vous avez déjà lié votre compte Sudomemo !"
@@ -79,10 +79,10 @@ msgid "REJECT_NOT_NITRO_BOOSTER"
 msgstr "Vous devez être un Nitro Booster de Sudomemo pour utiliser cela !"
 
 msgid "REJECT_NOT_PATRON"
-msgstr "You'll need to be a Sudomemo Patron to use this!"
+msgstr "Vous devez être un Mécène Sudomemo pour utiliser cela !"
 
 msgid "REJECT_PATRON_TICKET_COOLDOWN"
-msgstr "You've already claimed your Patron ticket for this month!"
+msgstr "Vous avez déjà réclamé votre ticket de Mécène ce mois-ci !"
 
 msgid "REJECT_USER_ENOENT"
 msgstr "Je n'ai pas trouvé cet utilisateur sur Sudomemo."
@@ -130,7 +130,7 @@ msgstr ""
 msgid "USAGE_patron_plus"
 msgstr ""
 "   patron_plus\n"
-"      Claim monthly Patreon Ticket"
+"      Réclamer un ticket Patreon mensuel"
 
 msgid "USER_INFORMATION_WAS_UPDATED"
 msgstr "Vos informations ont été actualisées."
