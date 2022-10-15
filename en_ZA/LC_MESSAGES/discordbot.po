@@ -17,16 +17,16 @@ msgid "DISCORD_LINKING_GET_STARTED"
 msgstr "Please visit %s to get started!"
 
 msgid "DISCORD_LINKING_REQUIRED"
-msgstr "You'll need to link your Sudomemo account to do that."
+msgstr "Yous gots to link ur Sudomemo account to does dat!!"
 
 msgid "DISCORD_LINKING_SUCCESS"
 msgstr "Ur account got linked all good! Yay! :D"
 
 msgid "DISCORD_LINKING_UNLINKED"
-msgstr "The link between your Discord and Sudomemo account has been removed."
+msgstr "Ur link between ur Discord n' Sudomemo account got done removed!"
 
 msgid "DISCORD_LINKING_UNLINK_NOT_LINKED_YET"
-msgstr "Your Discord account isn't linked to a Sudomemo account."
+msgstr "Ur Discord account ain't linked to a Sudomemo account."
 
 # "Invalid mode - must be one of: song, artist, genre"
 msgid "MUSICMATCH_INVALID_MODE"
@@ -39,7 +39,7 @@ msgid "MUSICMATCH_MOVIE_COUNT_SINGULAR"
 msgstr "%d Flipnote"
 
 msgid "MUSICMATCH_NO_RESULTS"
-msgstr "I didn't find anything for that, sorry!"
+msgstr "I don find nottin for that. oopsie! :("
 
 msgid "MUSICMATCH_RESULT_HEADER_GT_MAX"
 msgstr "Top %d results:"
@@ -52,7 +52,7 @@ msgid "MUSICMATCH_TITLE_BY_ARTIST"
 msgstr "%s by %s"
 
 msgid "PATRON_TICKET_SUCCESS"
-msgstr "You received a %s Sudomemo Patron Ticket!"
+msgstr "You gotta a %s Sudomemo Patron Ticket!"
 
 msgid "REJECT_ACCOUNT_ALREADY_LINKED"
 msgstr "you alredy linked ur Sudomemo account silly!"
@@ -61,13 +61,13 @@ msgid "REJECT_BOOST_TICKET_COOLDOWN"
 msgstr "you alredy been gived a Nitro Booster ticket this month silly! (%s)"
 
 msgid "REJECT_FSID_ENOENT"
-msgstr "I did not find a user with that Flipnote Studio ID on Sudomemo."
+msgstr "I didnt find nobody with dat Flipnote ID on Sudomemo."
 
 msgid "REJECT_GENERIC_ERROR"
-msgstr "I ran into an issue trying to do that. Sorry!"
+msgstr "I ran into an wall- problem trying to do dat. sry! :(("
 
 msgid "REJECT_INVALID_FSID"
-msgstr "That is not a valid Flipnote Studio ID!"
+msgstr "Dat aint a proper Flipnote ID!"
 
 msgid "REJECT_INVALID_LINK_TOKEN"
 msgstr "That is not a valid link token! Please visit %s to get started!"
@@ -76,16 +76,16 @@ msgid "REJECT_LINK_TOKEN_ENOENT"
 msgstr "The link token you provided is expired or does not exist."
 
 msgid "REJECT_NOT_NITRO_BOOSTER"
-msgstr "You need to be a Sudomemo Nitro Booster to use this!"
+msgstr "You gotta be a Sudomemo Nitro Booster to do dat silly!!"
 
 msgid "REJECT_NOT_PATRON"
-msgstr "You'll need to be a Sudomemo Patron to use this!"
+msgstr "Yous gotta to be a Sudomemo Patron to do dat silly!!"
 
 msgid "REJECT_PATRON_TICKET_COOLDOWN"
-msgstr "You've already claimed your Patron ticket for this month!"
+msgstr "You aredy got ur Patron ticket for dis month!"
 
 msgid "REJECT_USER_ENOENT"
-msgstr "I didn't find that user on Sudomemo."
+msgstr "I didnt find dat user on Sudomemo."
 
 # displayed as "💡 Link your Sudomemo account with `.sudo link`"
 msgid "UNLINKED_COMMAND_TIP"
@@ -133,4 +133,4 @@ msgstr ""
 "      Claim monthly Patreon Ticket"
 
 msgid "USER_INFORMATION_WAS_UPDATED"
-msgstr "Your information was updated."
+msgstr "Ur info and stuffs got updated!! :D"
