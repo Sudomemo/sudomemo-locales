@@ -4,19 +4,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CHAT_REPLY_FAILED"
-msgstr "Chat-Antwort fehlgeschlagen! Versuche es später erneut."
+msgstr "Chat-Antwort fehlgeschlagen. Bitte versuche es später noch einmal."
 
 msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "Dein Kommentar konnte nicht gepostet werden, da dein Konto von Sudomemo suspendiert wurde."
+msgstr "Dein Kommentar konnte nicht gepostet werden, da dein Konto auf Sudomemo gesperrt wurde."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Bitte bestätige deine Email-Adresse vor dem Hochladen."
+msgstr "Bitte bestätige deine E-Mail-Adresse vor dem Hochladen."
 
 msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "Dieser Kommentar wurde schon auf Sudomemo versendet."
+msgstr "Dieser Kommentar wurde bereits auf Sudomemo gepostet."
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "Die Flipnote-Datei ist beschädigt! Versuche es später erneut."
+msgstr "Die Flipnote-Datei ist beschädigt. Bitte versuche es noch einmal. (Sollte das nochmal passieren, wende dich bitte an den Support.)"
 
 msgid "HEADER_COMMENTS"
 msgstr "Kommentare"
@@ -28,22 +28,22 @@ msgid "HEADER_PREV"
 msgstr "Zurück"
 
 msgid "HEADER_REFRESH"
-msgstr "Neu laden"
+msgstr "Aktualisieren"
 
 msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
-msgstr "Du musst angemeldet sein, um eine Chat-Nachricht zu versenden."
+msgstr "Du musst dich anmelden, um den Chat zu nutzen."
 
 msgid "MODERATOR"
 msgstr "Moderator"
 
 msgid "NO_BLANK_MESSAGES_ALLOWED"
-msgstr "Du kannst keine leere Nachricht versenden."
+msgstr "Du darfst keine leere Nachricht versenden."
 
 msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
-msgstr "Du wurdest stummgeschaltet! Du kannst keine Chat-Nachrichten versenden, während du stummgeschaltet bist."
+msgstr "Du kannst keine Nachrichten versenden, weil du von einem Moderator Stummgeschaltet wurdest"
 
 msgid "NO_COMMENTS_YET"
-msgstr "Hier wurden noch keine Nachrichten versendet."
+msgstr "Noch keine Nachrichten vorhanden."
 
 msgid "PAGE_FORMAT"
-msgstr "Seite %d"
+msgstr "Seite: %d"
