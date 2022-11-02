@@ -16,7 +16,7 @@ msgstr "Du musst Dich erneut einloggen, um diese Aktion auszuführen."
 
 # Not found
 msgid "MAIL_NOT_FOUND"
-msgstr "Wir können diese Nachricht nicht finden..."
+msgstr "Wir können diese Nachricht nicht finden... :-("
 
 msgid "NEXT"
 msgstr "Weiter"
@@ -25,10 +25,10 @@ msgid "PREV"
 msgstr "Zurück"
 
 msgid "TITLE_INFO"
-msgstr "Info"
+msgstr "Information"
 
 msgid "TITLE_MESSAGE"
-msgstr "Nachricht"
+msgstr "Mitteilung"
 
 msgid "TITLE_NEWS"
 msgstr "Neuigkeiten"
