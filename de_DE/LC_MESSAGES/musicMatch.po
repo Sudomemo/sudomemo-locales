@@ -5,14 +5,14 @@ msgstr ""
 
 # Song Band/Artist
 msgid "ARTIST"
-msgstr "Künstler"
+msgstr "Künstler*in/Band"
 
 msgid "BROWSE"
 msgstr "Flipnotes Durchsuchen"
 
 # How many Flipnotes are using this song?
 msgid "FLIPNOTE_COUNT"
-msgstr "Flipnotes mit diesem Lied"
+msgstr "Flipnotes mit diesem Soundtrack:"
 
 msgid "GENRE"
 msgstr "Musikrichtung"
@@ -25,13 +25,13 @@ msgid "IF_SONG_INCORRECT"
 msgstr "Falls ein falscher Song bei deinem Flipnote angegeben ist, kannst du diesen auf Sudomemo Theatre ändern. Besuche https://flipnot.es/musicmatch für weitere Informationen."
 
 msgid "LINK_SPOTIFY"
-msgstr "Verfügbarer Spotify-Link:"
+msgstr "Spotify:"
 
 msgid "LINK_YOUTUBE"
-msgstr "Verfügbarer YouTube-Link:"
+msgstr "YouTube Music"
 
 msgid "LINK_YOUTUBE_SPOTIFY"
-msgstr "YouTube-Link und Spotify-Link sind verfügbar:"
+msgstr "Spotify und YouTube Music:"
 
 # Year song was published
 msgid "RELEASE_YEAR"
