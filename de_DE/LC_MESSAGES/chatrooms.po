@@ -4,7 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CHAT_REPLY_FAILED"
-msgstr "Chat-Antwort fehlgeschlagen. Bitte versuche es später noch einmal."
+msgstr "Antwort momentan nicht möglich. Bitte versuche es später noch einmal."
 
 msgid "COMMENT_FAILED_USER_BANNED"
 msgstr "Dein Kommentar konnte nicht gepostet werden, da dein Konto auf Sudomemo gesperrt wurde."
