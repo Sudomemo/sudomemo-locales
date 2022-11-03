@@ -97,7 +97,8 @@ msgstr "Verwendung"
 
 # ONLY TRANSLATE: "usage", "commands"
 msgid "USAGE_INTRO"
-msgstr "Anwendung: .sudo <Aktion>\n"
+msgstr ""
+"Anwendung: .sudo <Aktion>\n"
 "\n"
 "Befehle:"
 
@@ -114,10 +115,8 @@ msgstr ""
 # ONLY TRANSLATE "Search Sudomemo MusicMatch" and "What you're searching for"
 msgid "USAGE_musicmatch"
 msgstr ""
-"   Durchsuche Sudomemo MusicMatch"
-"\n"
+"   Durchsuche Sudomemo MusicMatch\n"
 "      mm, musicmatch <song/artist/genre> <suchbegriff>\n"
-
 
 # ONLY TRANSLATE: "Give Nitro Booster ticket..." and "Flipnote Studio ID"
 msgid "USAGE_nitro_plus"
