@@ -10,6 +10,12 @@ msgstr "Activ de pe"
 msgid "ALSO_KNOWN_AS"
 msgstr "Cunoscut și ca"
 
+msgid "BLUE_STARS"
+msgstr "Blue Stars"
+
+msgid "BROWSE"
+msgstr "Browse"
+
 msgid "CONTACT"
 msgstr "Contact"
 
@@ -27,6 +33,15 @@ msgstr "Durată"
 
 msgid "DURATION_FORMAT"
 msgstr "%s secunde"
+
+msgid "FEATURED"
+msgstr "Featured"
+
+msgid "FEATURED_FLIPNOTES"
+msgstr "Featured Flipnotes"
+
+msgid "FEATURED_FLIPNOTES_DESC"
+msgstr "A collection of famous or noteworthy Flipnotes, curated by our team"
 
 msgid "FLIPNOTES"
 msgstr "Flipnote-uri"
@@ -67,6 +82,9 @@ msgstr "Flipnote Archive nu este afiliat cu sau susținut de Nintendo sau Hatena
 
 msgid "FRAME_SPEED"
 msgstr "Viteza cadrelor"
+
+msgid "GREEN_STARS"
+msgstr "Green Stars"
 
 msgid "HATENA_ID"
 msgstr "Hatena ID"
@@ -138,6 +156,15 @@ msgstr "Originalul nu a putut fi găsit"
 msgid "PARENT_FLIPNOTE"
 msgstr "Parent Flipnote"
 
+msgid "POPULAR"
+msgstr "Popular"
+
+msgid "POPULAR_FLIPNOTES"
+msgstr "Popular Flipnotes"
+
+msgid "POPULAR_FLIPNOTES_DESC"
+msgstr "Flipnotes that have received a lot of attention from archive visitors"
+
 msgid "PRESS"
 msgstr "Presă"
 
@@ -146,6 +173,21 @@ msgstr "Întrebări de la presă"
 
 msgid "PREV"
 msgstr "Ante."
+
+msgid "PURPLE_STARS"
+msgstr "Purple Stars"
+
+msgid "RANDOM"
+msgstr "Random"
+
+msgid "RANDOM_FLIPNOTES"
+msgstr "Random Flipnotes"
+
+msgid "RANDOM_FLIPNOTES_DESC"
+msgstr "A series of Flipnotes chosen from a random point in time"
+
+msgid "RED_STARS"
+msgstr "Red Stars"
 
 msgid "REGION_AMERICAS"
 msgstr "Americi"
@@ -199,6 +241,9 @@ msgstr "%s spin-off-uri"
 msgid "SPOTIFY"
 msgstr "Spotify"
 
+msgid "STARS"
+msgstr "Stars"
+
 msgid "SUDOMEMO"
 msgstr "Sudomemo"
 
@@ -226,6 +271,9 @@ msgstr "Poza de profil de pe Hatena a lui %s"
 
 msgid "VIEWS"
 msgstr "Vizionări"
+
+msgid "YELLOW_STARS"
+msgstr "Yellow Stars"
 
 msgid "YOUTUBE_MUSIC"
 msgstr "YouTube Music"

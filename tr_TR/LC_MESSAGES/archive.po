@@ -10,6 +10,12 @@ msgstr "itibaren aktif"
 msgid "ALSO_KNOWN_AS"
 msgstr "Ayrıca şöyle bilinir"
 
+msgid "BLUE_STARS"
+msgstr "Blue Stars"
+
+msgid "BROWSE"
+msgstr "Browse"
+
 msgid "CONTACT"
 msgstr "İletişim"
 
@@ -27,6 +33,15 @@ msgstr "Süre"
 
 msgid "DURATION_FORMAT"
 msgstr "%s saniye"
+
+msgid "FEATURED"
+msgstr "Featured"
+
+msgid "FEATURED_FLIPNOTES"
+msgstr "Featured Flipnotes"
+
+msgid "FEATURED_FLIPNOTES_DESC"
+msgstr "A collection of famous or noteworthy Flipnotes, curated by our team"
 
 msgid "FLIPNOTES"
 msgstr "Flipnotlar"
@@ -67,6 +82,9 @@ msgstr "Flipnote Arşivi, Nintendo veya Hatena ile ilişkili değildir veya Nint
 
 msgid "FRAME_SPEED"
 msgstr "Çerçeve Hızı"
+
+msgid "GREEN_STARS"
+msgstr "Green Stars"
 
 msgid "HATENA_ID"
 msgstr "Hatena kimliği"
@@ -138,6 +156,15 @@ msgstr "Orijinal bulunamadı"
 msgid "PARENT_FLIPNOTE"
 msgstr "Parent Flipnote"
 
+msgid "POPULAR"
+msgstr "Popular"
+
+msgid "POPULAR_FLIPNOTES"
+msgstr "Popular Flipnotes"
+
+msgid "POPULAR_FLIPNOTES_DESC"
+msgstr "Flipnotes that have received a lot of attention from archive visitors"
+
 msgid "PRESS"
 msgstr "Basmak"
 
@@ -146,6 +173,21 @@ msgstr "Basın soruşturması"
 
 msgid "PREV"
 msgstr "Önceki"
+
+msgid "PURPLE_STARS"
+msgstr "Purple Stars"
+
+msgid "RANDOM"
+msgstr "Random"
+
+msgid "RANDOM_FLIPNOTES"
+msgstr "Random Flipnotes"
+
+msgid "RANDOM_FLIPNOTES_DESC"
+msgstr "A series of Flipnotes chosen from a random point in time"
+
+msgid "RED_STARS"
+msgstr "Red Stars"
 
 msgid "REGION_AMERICAS"
 msgstr "Amerika"
@@ -199,6 +241,9 @@ msgstr "%s yan ürünler"
 msgid "SPOTIFY"
 msgstr "Spotify"
 
+msgid "STARS"
+msgstr "Stars"
+
 msgid "SUDOMEMO"
 msgstr "Sudomemo"
 
@@ -226,6 +271,9 @@ msgstr "%s's Hatena profil resmi"
 
 msgid "VIEWS"
 msgstr "Görüntüleme"
+
+msgid "YELLOW_STARS"
+msgstr "Yellow Stars"
 
 msgid "YOUTUBE_MUSIC"
 msgstr "Youtube müzik"
