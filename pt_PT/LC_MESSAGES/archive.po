@@ -10,6 +10,12 @@ msgstr "Activo desde"
 msgid "ALSO_KNOWN_AS"
 msgstr "Também conhecido como"
 
+msgid "BLUE_STARS"
+msgstr "Blue Stars"
+
+msgid "BROWSE"
+msgstr "Browse"
+
 msgid "CONTACT"
 msgstr "Contacto"
 
@@ -27,6 +33,15 @@ msgstr "Duração"
 
 msgid "DURATION_FORMAT"
 msgstr "%s segundos"
+
+msgid "FEATURED"
+msgstr "Featured"
+
+msgid "FEATURED_FLIPNOTES"
+msgstr "Featured Flipnotes"
+
+msgid "FEATURED_FLIPNOTES_DESC"
+msgstr "A collection of famous or noteworthy Flipnotes, curated by our team"
 
 msgid "FLIPNOTES"
 msgstr "Flipnotes"
@@ -67,6 +82,9 @@ msgstr "O Flipnote Archive não está afiliado ou patrocinado pela Nintendo ou H
 
 msgid "FRAME_SPEED"
 msgstr "Velocidade dos Frames"
+
+msgid "GREEN_STARS"
+msgstr "Green Stars"
 
 msgid "HATENA_ID"
 msgstr "ID do Hatena"
@@ -138,6 +156,15 @@ msgstr "O Flipnote original não pôde ser encontrado/não existe"
 msgid "PARENT_FLIPNOTE"
 msgstr "Parent Flipnote"
 
+msgid "POPULAR"
+msgstr "Popular"
+
+msgid "POPULAR_FLIPNOTES"
+msgstr "Popular Flipnotes"
+
+msgid "POPULAR_FLIPNOTES_DESC"
+msgstr "Flipnotes that have received a lot of attention from archive visitors"
+
 msgid "PRESS"
 msgstr "Imprensa"
 
@@ -146,6 +173,21 @@ msgstr "Inquéritos da Imprensa"
 
 msgid "PREV"
 msgstr "Anterior"
+
+msgid "PURPLE_STARS"
+msgstr "Purple Stars"
+
+msgid "RANDOM"
+msgstr "Random"
+
+msgid "RANDOM_FLIPNOTES"
+msgstr "Random Flipnotes"
+
+msgid "RANDOM_FLIPNOTES_DESC"
+msgstr "A series of Flipnotes chosen from a random point in time"
+
+msgid "RED_STARS"
+msgstr "Red Stars"
 
 msgid "REGION_AMERICAS"
 msgstr "Americas"
@@ -199,6 +241,9 @@ msgstr "%s de spin-offs"
 msgid "SPOTIFY"
 msgstr "Spotify"
 
+msgid "STARS"
+msgstr "Stars"
+
 msgid "SUDOMEMO"
 msgstr "Sudomemo"
 
@@ -226,6 +271,9 @@ msgstr "Imagem de perfil do(a)%s do Hatena"
 
 msgid "VIEWS"
 msgstr "Visualizações"
+
+msgid "YELLOW_STARS"
+msgstr "Yellow Stars"
 
 msgid "YOUTUBE_MUSIC"
 msgstr "YouTube Music"
