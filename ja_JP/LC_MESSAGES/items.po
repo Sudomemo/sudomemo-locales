@@ -12,6 +12,9 @@ msgstr "プランテンと間違えやすいので注意。"
 msgid "ITEM_DESC_beach_ball"
 msgstr "海水浴といえばこれ。"
 
+msgid "ITEM_DESC_hot_chocolate"
+msgstr "A delicious cup of hot chocolate, perfect for a cozy day."
+
 msgid "ITEM_DESC_peeled_banana"
 msgstr "プランテンと間違えやす... なんでそうむいたの？"
 
@@ -20,6 +23,9 @@ msgstr "バナナ"
 
 msgid "ITEM_NAME_beach_ball"
 msgstr "ビーチボール"
+
+msgid "ITEM_NAME_hot_chocolate"
+msgstr "Hot Chocolate"
 
 msgid "ITEM_NAME_peeled_banana"
 msgstr "むかれたバナナ"
@@ -30,16 +36,11 @@ msgstr "バナナをむきました。"
 msgid "ITEM_USE_beach_ball"
 msgstr "なんどもトスした跡がある。"
 
+msgid "ITEM_USE_hot_chocolate"
+msgstr "After letting it cool for a moment, you drink the hot chocolate"
+
 msgid "ITEM_USE_peeled_banana"
 msgstr "バナナを食べました。"
 
 msgid "YOU_GOT_AN_ITEM"
 msgstr "アイテムをゲットしました！"
-msgid "ITEM_DESC_hot_chocolate"
-msgstr "A delicious cup of hot chocolate, perfect for a cozy day."
-
-msgid "ITEM_NAME_hot_chocolate"
-msgstr "Hot Chocolate"
-
-msgid "ITEM_USE_hot_chocolate"
-msgstr "After letting it cool for a moment, you drink the hot chocolate"
