@@ -12,6 +12,9 @@ msgstr "Nicht mit einer Kochbanane zu verwechseln."
 msgid "ITEM_DESC_beach_ball"
 msgstr "Gutes Zubehör für einen Schwimmausflug."
 
+msgid "ITEM_DESC_hot_chocolate"
+msgstr "A delicious cup of hot chocolate, perfect for a cozy day."
+
 msgid "ITEM_DESC_peeled_banana"
 msgstr "Nicht mit einer Koch-... Warum hast du sie so geschält?"
 
@@ -20,6 +23,9 @@ msgstr "Banane"
 
 msgid "ITEM_NAME_beach_ball"
 msgstr "Strandball"
+
+msgid "ITEM_NAME_hot_chocolate"
+msgstr "Hot Chocolate"
 
 msgid "ITEM_NAME_peeled_banana"
 msgstr "Geschälte Banane"
@@ -30,16 +36,11 @@ msgstr "Du schälst die Banane."
 msgid "ITEM_USE_beach_ball"
 msgstr "Du wirfst den Ball ein bisschen herum."
 
+msgid "ITEM_USE_hot_chocolate"
+msgstr "After letting it cool for a moment, you drink the hot chocolate"
+
 msgid "ITEM_USE_peeled_banana"
 msgstr "Du isst die Banane."
 
 msgid "YOU_GOT_AN_ITEM"
 msgstr "Du hast ein Item erhalten!"
-msgid "ITEM_DESC_hot_chocolate"
-msgstr "A delicious cup of hot chocolate, perfect for a cozy day."
-
-msgid "ITEM_NAME_hot_chocolate"
-msgstr "Hot Chocolate"
-
-msgid "ITEM_USE_hot_chocolate"
-msgstr "After letting it cool for a moment, you drink the hot chocolate"

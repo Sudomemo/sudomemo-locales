@@ -60,6 +60,9 @@ msgstr "¡Todas las compras son permanentes, por favor elige con cuidado antes d
 msgid "THEME_SHOP_CONFIRM_PURCHASE_BELOW"
 msgstr "Por favor confirma tu compra debajo."
 
+msgid "THEME_SHOP_EVOLVING_BACKGROUND"
+msgstr "This special theme will change over time as you post new Flipnotes!"
+
 msgid "THEME_SHOP_LEARN_MORE_HEADER"
 msgstr "Aprende más acerca de la Tienda de Fondos"
 
