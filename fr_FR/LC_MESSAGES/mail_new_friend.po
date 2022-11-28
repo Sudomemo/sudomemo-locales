@@ -1,0 +1,20 @@
+msgid ""
+msgstr ""
+"Language: fr_FR\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "NEW_FRIEND"
+msgstr "Nouvel ami Flipnote !"
+
+msgid "NEW_FRIEND_INFO"
+msgstr "Un de vos amis Flipnote, %s, est sur Sudomemo ! C'est pas cool ça ?"
+
+msgid "NEW_FRIEND_INFO_2"
+msgstr "Il s'affichera désormais dans un menu spécial de votre Salle de Créateur, vous permettant d'accéder facilement à sa Salle de Créateur."
+
+msgid "NEW_FRIEND_INFO_3"
+msgstr "Vous seul pouvez voir qui sont vos amis Flipnote, et vous pouvez les supprimer depuis le menu Amis Flipnote dans les paramètres de Flipnote Studio."
+
+# For more information, visit: <link goes here>
+msgid "NEW_FRIEND_INFO_4"
+msgstr "Pour plus d'informations, consultez :"

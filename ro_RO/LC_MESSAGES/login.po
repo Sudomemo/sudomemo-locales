@@ -232,6 +232,12 @@ msgstr "Nu ati primit un email inca? Vizitati cutia de Spam, si cautati %s. Daca
 msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
 msgstr "Daca aveti nevoie de ajutor la conectare, intrebati in serverul nostru de Discord! Puteti sa va alaturati la %s."
 
+msgid "SIGNUP_AGE_GATE_ERROR"
+msgstr "Trebuie sa aveti peste 13 ani pentru a crea un cont nou de Sudomemo."
+
+msgid "SIGNUP_AGE_GATE_ERROR_FIX"
+msgstr "Daca ati primit acest mesaj din greseala, puteti actualiza data aniversarii daca apasati butonul portocaliu din dreapta sus de pe meniul Flipnote Studio."
+
 msgid "SORRY_NO_LOGIN"
 msgstr "Ne pare rau, dar nu v-am putut conecta!"
 

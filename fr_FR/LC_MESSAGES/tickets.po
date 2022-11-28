@@ -117,6 +117,9 @@ msgstr "Ce ticket vous donnera un mois de Sudomemo Plus !"
 msgid "TICKET_DESC_one_year_plus_ticket"
 msgstr "Ce ticket vous donnera un an de Sudomemo Plus !"
 
+msgid "TICKET_DESC_patreon_patron_ticket"
+msgstr "Merci de soutenir Sudomemo via Patreon !"
+
 msgid "TICKET_DESC_purple_bunny_ticket"
 msgstr "Ce ticket vous donne 600 Étoiles Sudomemo dépensables (dont sûrement quelques étoiles rares !), un thème exclusif, et un badge spécial affiché sur votre profil !"
 
@@ -149,6 +152,9 @@ msgstr "Merci de suivre Sudomemo sur Twitter !"
 
 msgid "TICKET_DESC_weekly_topic_winner_ticket"
 msgstr "Félicitations pour avoir gagné le Weekly Topic (thème hebdomadaire) de Sudomemo !"
+
+msgid "TICKET_DESC_welcoming_champion_ticket"
+msgstr "Vous avez été très accueillant envers les nouveaux créateurs et ceux qui reviennent ! Merci !"
 
 msgid "TICKET_NAME_7th_birthday_bash_ticket"
 msgstr "Ticket du 7ème anniversaire"
@@ -209,6 +215,9 @@ msgstr "Ticket Plus (Un mois)"
 msgid "TICKET_NAME_one_year_plus_ticket"
 msgstr "Ticket Plus (Un an)"
 
+msgid "TICKET_NAME_patreon_patron_ticket"
+msgstr "Ticket de Mécène Sudomemo"
+
 msgid "TICKET_NAME_purple_bunny_ticket"
 msgstr "Ticket Russell Ramblewood"
 
@@ -241,6 +250,9 @@ msgstr "Ticket Promo Twitter"
 
 msgid "TICKET_NAME_weekly_topic_winner_ticket"
 msgstr "Ticket Vainqueur du Weekly Topic"
+
+msgid "TICKET_NAME_welcoming_champion_ticket"
+msgstr "Ticket du Champion de l'Accueil"
 
 msgid "TICKET_REDEEM_LOSE_FORMAT"
 msgstr "Vous avez utilisé le %s, mais..."

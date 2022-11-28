@@ -47,6 +47,9 @@ msgstr "Postati primul Flipnote al unui deceniu"
 msgid "TROPHY_DESC_fifth_bday_event"
 msgstr "Faceti parte din a Cincea Aniversare Sudomemo"
 
+msgid "TROPHY_DESC_flipnote_friends"
+msgstr "Became Flipnote Friends with someone who uses Sudomemo!"
+
 msgid "TROPHY_DESC_folder"
 msgstr "Donati timp catre Folding@Home pentru a ajuta sa lupte impotriva bolilor"
 
@@ -77,6 +80,9 @@ msgstr "Arata cat de grozavi ei (sau un prieten) sunt pentru ca au stimulat serv
 msgid "TROPHY_DESC_one_million_flips_event"
 msgstr "Luati parte la Evenimentul de 1 Milion de Flipnote-uri"
 
+msgid "TROPHY_DESC_patreon_patron"
+msgstr "Supported Sudomemo through Patreon"
+
 msgid "TROPHY_DESC_spookmaster"
 msgstr "Premiu Spookmaster pentru Excelenta in Vrajitorie."
 
@@ -91,6 +97,9 @@ msgstr "Contribuiti traduceri pentru a fi deschisi pentru toti"
 
 msgid "TROPHY_DESC_weekly_topic_winner"
 msgstr "Trimteti o intrare castigatoare de la Subiectul Saptamanal"
+
+msgid "TROPHY_DESC_welcoming_champion"
+msgstr "Earned the title of Welcoming Champion."
 
 msgid "TROPHY_NAME_7th_birthday_bash"
 msgstr "Aniversarea de 7 Ani"
@@ -123,6 +132,9 @@ msgstr "Primul Flipnote al Deceniului"
 msgid "TROPHY_NAME_fifth_bday_event"
 msgstr "Petrecerea de a Cincea Aniversare Sudomemo"
 
+msgid "TROPHY_NAME_flipnote_friends"
+msgstr "Flipnote Friends"
+
 msgid "TROPHY_NAME_folder"
 msgstr "Fisier"
 
@@ -153,6 +165,9 @@ msgstr "Stimulator Nitro"
 msgid "TROPHY_NAME_one_million_flips_event"
 msgstr "Evenimentul de 1 Milion de Flipnote-uri"
 
+msgid "TROPHY_NAME_patreon_patron"
+msgstr "Sudomemo Patron"
+
 msgid "TROPHY_NAME_spookmaster"
 msgstr "Spookmaster"
 
@@ -167,3 +182,6 @@ msgstr "Traducator"
 
 msgid "TROPHY_NAME_weekly_topic_winner"
 msgstr "Castigator al Subiectului Saptamanal"
+
+msgid "TROPHY_NAME_welcoming_champion"
+msgstr "Campion de Binevenire"

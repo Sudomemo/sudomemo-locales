@@ -117,6 +117,9 @@ msgstr "Denna biljett ger dig en månad av Sudomemo Plus!"
 msgid "TICKET_DESC_one_year_plus_ticket"
 msgstr "Denna biljett ger dig ett år av Sudomemo Plus!"
 
+msgid "TICKET_DESC_patreon_patron_ticket"
+msgstr "Thank you for supporting Sudomemo through Patreon!"
+
 msgid "TICKET_DESC_purple_bunny_ticket"
 msgstr "This ticket gives you 600 spendable Sudomemo Stars (very likely some rare ones!), an exclusive theme, and a special badge displayed on your profile!"
 
@@ -149,6 +152,9 @@ msgstr "Tack för att du följer Sudomemo på Twitter!"
 
 msgid "TICKET_DESC_weekly_topic_winner_ticket"
 msgstr "Grattis för att du vann Veckotemat!"
+
+msgid "TICKET_DESC_welcoming_champion_ticket"
+msgstr "You're been very welcoming to new and returning creators! Thanks!"
 
 msgid "TICKET_NAME_7th_birthday_bash_ticket"
 msgstr "7th Birthday Bash Ticket"
@@ -209,6 +215,9 @@ msgstr "Plus Biljett (En månad)"
 msgid "TICKET_NAME_one_year_plus_ticket"
 msgstr "Plus Biljett (Ett år)"
 
+msgid "TICKET_NAME_patreon_patron_ticket"
+msgstr "Sudomemo Patron Ticket"
+
 msgid "TICKET_NAME_purple_bunny_ticket"
 msgstr "Russell Ramblewood Ticket"
 
@@ -241,6 +250,9 @@ msgstr "Twitter Promobiljett"
 
 msgid "TICKET_NAME_weekly_topic_winner_ticket"
 msgstr "Vecktema vinnare biljett"
+
+msgid "TICKET_NAME_welcoming_champion_ticket"
+msgstr "Welcoming Champion Ticket"
 
 msgid "TICKET_REDEEM_LOSE_FORMAT"
 msgstr "Du drog %s, men..."

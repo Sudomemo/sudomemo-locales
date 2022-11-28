@@ -12,6 +12,9 @@ msgstr "À ne pas confondre avec une banane plantain."
 msgid "ITEM_DESC_beach_ball"
 msgstr "Un très bon accessoire pour une sortie baignade."
 
+msgid "ITEM_DESC_hot_chocolate"
+msgstr "A delicious cup of hot chocolate, perfect for a cozy day."
+
 msgid "ITEM_DESC_peeled_banana"
 msgstr "À ne pas confondre avec une banane plan... Pourquoi vous l'épluchez comme ça ?"
 
@@ -21,6 +24,9 @@ msgstr "Banane"
 msgid "ITEM_NAME_beach_ball"
 msgstr "Ballon de plage"
 
+msgid "ITEM_NAME_hot_chocolate"
+msgstr "Hot Chocolate"
+
 msgid "ITEM_NAME_peeled_banana"
 msgstr "Banane pelée"
 
@@ -29,6 +35,9 @@ msgstr "Vous épluchez la banane."
 
 msgid "ITEM_USE_beach_ball"
 msgstr "Vous lancez le ballon un peu partout."
+
+msgid "ITEM_USE_hot_chocolate"
+msgstr "After letting it cool for a moment, you drink the hot chocolate"
 
 msgid "ITEM_USE_peeled_banana"
 msgstr "Vous mangez la banane."

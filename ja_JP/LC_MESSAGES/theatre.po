@@ -503,6 +503,9 @@ msgstr "メールアドレスが見つかりません。スドメモのサポー
 msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
 msgstr "そのうごメモIDまたはメールアドレスで登録されているユーザーは見つかりませんでした"
 
+msgid "PARENT_FLIPNOTE"
+msgstr "Parent Flipnote"
+
 msgid "PASSWORD_RESET_SENT"
 msgstr "登録されているメールアドレスにパスワードのリセットの案内メールが送信されました"
 
@@ -597,6 +600,9 @@ msgstr "不明"
 msgid "RELEASED"
 msgstr "新着順"
 
+msgid "ROOT_FLIPNOTE"
+msgstr "Root Flipnote"
+
 msgid "SAVE"
 msgstr "保存"
 
@@ -607,7 +613,7 @@ msgid "SEARCH"
 msgstr "検索"
 
 msgid "SEARCH_PAGE_FORM_PLACEHOLDER"
-msgstr "Username, FSID, song, artist, or channel"
+msgstr "ユーザー名、うごメモID、曲、アーティスト、またはチャンネル"
 
 msgid "SEARCH_PAGE_FUZZY_SEARCH_TIP"
 msgstr "ヒント：例えば「ÄuらtÎn」を探す場合には「Austin」と入力しても見つけることができます"
@@ -649,6 +655,12 @@ msgstr "Twitterで共有"
 
 msgid "SHARE_ON_WHATSAPP"
 msgstr "WhatsApp経由で共有"
+
+msgid "SHOW_ON_PROFILE"
+msgstr "Show on profile"
+
+msgid "SHOW_YOUTUBE_LINK_ON_MY_PROFILE"
+msgstr "Show a link to my YouTube channel on my Sudomemo profile"
 
 msgid "SIGN_IN"
 msgstr "ログイン"
@@ -713,6 +725,9 @@ msgstr "スドメモユーザー"
 msgid "TERMS_OF_USE"
 msgstr "利用規約"
 
+msgid "THIS_FLIPNOTE_IS_SPINOFF_OF"
+msgstr "This Flipnote is a spin-off of"
+
 # Sudomemo Shop
 msgid "TICKETS"
 msgstr "チケット"
@@ -755,6 +770,9 @@ msgstr "うごメモはてなでの%sのプロフィール"
 
 msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
 msgstr "スドメモのDiscordに参加したら、以下のコマンドをコピーしてチャットに送信してください。"
+
+msgid "USER_SETTINGS_SUPPORT_TOKEN_EXPLANATION"
+msgstr "Support tokens are used to verify your account when contacting Sudomemo Support."
 
 msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
 msgstr "連携したYouTubeチャンネルとデフォルトの作品アップロード設定を行います。"
@@ -811,7 +829,7 @@ msgid "VIEW_ON_SUDOMEMO"
 msgstr "スドメモでみる"
 
 msgid "WATCH_HISTORY"
-msgstr "Watch History"
+msgstr "閲覧履歴"
 
 msgid "WELCOME_BOX_AFTERNOON_GREETING"
 msgstr "こんにちは"

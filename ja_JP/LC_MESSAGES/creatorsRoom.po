@@ -78,6 +78,13 @@ msgstr "お気に入り"
 msgid "FEATURE_USABILITY"
 msgstr "すべての機能"
 
+# Matches button on page 4 of Flipnote Studio settings
+msgid "FLIPNOTE_FRIENDS"
+msgstr "うごメイト"
+
+msgid "FLIPNOTE_FRIENDS_INFO"
+msgstr "うごメモを交換したことがあるユーザー"
+
 msgid "FLIPNOTE_STUDIO_ID"
 msgstr "うごメモID"
 
@@ -226,4 +233,4 @@ msgid "VIEW"
 msgstr "閲覧"
 
 msgid "WATCH_HISTORY"
-msgstr "Watch History"
+msgstr "閲覧履歴"

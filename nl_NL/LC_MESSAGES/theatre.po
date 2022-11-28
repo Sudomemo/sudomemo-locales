@@ -518,6 +518,9 @@ msgstr "No email address on file -- contact Sudomemo Support"
 msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
 msgstr "No user found with that Flipnote Studio ID or email"
 
+msgid "PARENT_FLIPNOTE"
+msgstr "Parent Flipnote"
+
 msgid "PASSWORD_RESET_SENT"
 msgstr "A password reset has been sent to the email address on file."
 
@@ -614,6 +617,9 @@ msgstr "Onbekend"
 msgid "RELEASED"
 msgstr "Publicatie"
 
+msgid "ROOT_FLIPNOTE"
+msgstr "Root Flipnote"
+
 msgid "SAVE"
 msgstr "Opslaan"
 
@@ -668,6 +674,12 @@ msgstr "Deel via Twitter"
 
 msgid "SHARE_ON_WHATSAPP"
 msgstr "Share via WhatsApp"
+
+msgid "SHOW_ON_PROFILE"
+msgstr "Show on profile"
+
+msgid "SHOW_YOUTUBE_LINK_ON_MY_PROFILE"
+msgstr "Show a link to my YouTube channel on my Sudomemo profile"
 
 msgid "SIGN_IN"
 msgstr "Log In"
@@ -733,6 +745,9 @@ msgstr "Sudomemo User"
 msgid "TERMS_OF_USE"
 msgstr "Gebruiksvoorwaarden"
 
+msgid "THIS_FLIPNOTE_IS_SPINOFF_OF"
+msgstr "This Flipnote is a spin-off of"
+
 # Sudomemo Shop
 msgid "TICKETS"
 msgstr "Tickets"
@@ -776,6 +791,9 @@ msgstr "%s's profile from Flipnote Hatena"
 
 msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
 msgstr "After you've joined the Sudomemo Discord, copy and paste this into the chat."
+
+msgid "USER_SETTINGS_SUPPORT_TOKEN_EXPLANATION"
+msgstr "Support tokens are used to verify your account when contacting Sudomemo Support."
 
 msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
 msgstr "Configure your linked YouTube channel and default Flipnote upload settings."

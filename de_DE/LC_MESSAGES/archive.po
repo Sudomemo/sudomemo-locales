@@ -10,6 +10,12 @@ msgstr "Aktiv von"
 msgid "ALSO_KNOWN_AS"
 msgstr "Auch bekannt als"
 
+msgid "BLUE_STARS"
+msgstr "Blue Stars"
+
+msgid "BROWSE"
+msgstr "Browse"
+
 msgid "CONTACT"
 msgstr "Kontakt"
 
@@ -27,6 +33,15 @@ msgstr "Dauer"
 
 msgid "DURATION_FORMAT"
 msgstr "%s Sekunden"
+
+msgid "FEATURED"
+msgstr "Featured"
+
+msgid "FEATURED_FLIPNOTES"
+msgstr "Featured Flipnotes"
+
+msgid "FEATURED_FLIPNOTES_DESC"
+msgstr "A collection of famous or noteworthy Flipnotes, curated by our team"
 
 msgid "FLIPNOTES"
 msgstr "Flipnotes"
@@ -67,6 +82,9 @@ msgstr "Das Flipnote Archive ist nicht in Verbindung mit oder befürwortet von N
 
 msgid "FRAME_SPEED"
 msgstr "Bildgeschwindigkeit"
+
+msgid "GREEN_STARS"
+msgstr "Green Stars"
 
 msgid "HATENA_ID"
 msgstr "Hatena-ID"
@@ -135,6 +153,18 @@ msgstr "Original-Flipnote"
 msgid "ORIGINAL_NOT_FOUND"
 msgstr "Das Original konnte nicht gefunden werden"
 
+msgid "PARENT_FLIPNOTE"
+msgstr "Parent Flipnote"
+
+msgid "POPULAR"
+msgstr "Popular"
+
+msgid "POPULAR_FLIPNOTES"
+msgstr "Popular Flipnotes"
+
+msgid "POPULAR_FLIPNOTES_DESC"
+msgstr "Flipnotes that have received a lot of attention from archive visitors"
+
 msgid "PRESS"
 msgstr "Presse"
 
@@ -144,6 +174,21 @@ msgstr "Presseanfragen"
 msgid "PREV"
 msgstr "Zurück"
 
+msgid "PURPLE_STARS"
+msgstr "Purple Stars"
+
+msgid "RANDOM"
+msgstr "Random"
+
+msgid "RANDOM_FLIPNOTES"
+msgstr "Random Flipnotes"
+
+msgid "RANDOM_FLIPNOTES_DESC"
+msgstr "A series of Flipnotes chosen from a random point in time"
+
+msgid "RED_STARS"
+msgstr "Red Stars"
+
 msgid "REGION_AMERICAS"
 msgstr "Amerika"
 
@@ -152,6 +197,9 @@ msgstr "Europa und Ozeanien"
 
 msgid "REGION_JAPAN"
 msgstr "Japan"
+
+msgid "ROOT_FLIPNOTE"
+msgstr "Root Flipnote"
 
 msgid "SEARCH"
 msgstr "Suchen"
@@ -193,8 +241,14 @@ msgstr "%s Spin-Offs"
 msgid "SPOTIFY"
 msgstr "Spotify"
 
+msgid "STARS"
+msgstr "Stars"
+
 msgid "SUDOMEMO"
 msgstr "Sudomemo"
+
+msgid "THIS_FLIPNOTE_IS_SPINOFF_OF"
+msgstr "This Flipnote is a spin-off of"
 
 msgid "TOTAL_FLIPNOTES"
 msgstr "Flipnotes gesamt"
@@ -217,6 +271,9 @@ msgstr "%s's Hatena-Profilbild"
 
 msgid "VIEWS"
 msgstr "Aufrufe"
+
+msgid "YELLOW_STARS"
+msgstr "Yellow Stars"
 
 msgid "YOUTUBE_MUSIC"
 msgstr "YouTube Music"

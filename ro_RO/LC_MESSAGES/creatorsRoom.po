@@ -78,6 +78,13 @@ msgstr "Utilizatori Favoriti"
 msgid "FEATURE_USABILITY"
 msgstr "Utilizarea caracteristicilor"
 
+# Matches button on page 4 of Flipnote Studio settings
+msgid "FLIPNOTE_FRIENDS"
+msgstr "Prieteni Flipnote"
+
+msgid "FLIPNOTE_FRIENDS_INFO"
+msgstr "Creatori cu care ai schimbat Flipnote-uri"
+
 msgid "FLIPNOTE_STUDIO_ID"
 msgstr "ID Flipnote Studio"
 
@@ -226,4 +233,4 @@ msgid "VIEW"
 msgstr "Vizualizati"
 
 msgid "WATCH_HISTORY"
-msgstr "Watch History"
+msgstr "Istoric"

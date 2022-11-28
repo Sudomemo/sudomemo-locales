@@ -11,7 +11,7 @@ msgid "404_OOPS_NOT_FOUND"
 msgstr "Ups - Această pagină nu a putut fi găsită"
 
 msgid "404_WHOOPS_NOT_THERE"
-msgstr "Ups! Orice ați fi căutat, nu era acolo."
+msgstr "Ups! Orice ați căutat, nu era acolo."
 
 # Account Settings (Theatre)
 msgid "ACCOUNT_SETTINGS"
@@ -44,7 +44,7 @@ msgid "ARCHIVE_PROFILE"
 msgstr "Arhivați profil"
 
 msgid "ARCHIVE_PROFILE_DESC"
-msgstr "Aceasta este o arhivă a unui profil de Flipnote Hatena."
+msgstr "Aceasta este o arhivă al unui profil de Flipnote Hatena."
 
 # Very common terms and one-word translations
 msgid "ARTIST"
@@ -197,13 +197,13 @@ msgstr "Editați Flipnote"
 
 # # MusicMatch
 msgid "EDIT_PAGE_ABOUT_MUSICMATCH_1"
-msgstr "Potrivrea de Muzică Sudomemo ascultă Flipnote-urile dvs. pentru a găsi cântecul din ele!"
+msgstr "MusicMatch Sudomemo ascultă Flipnote-urile dvs. pentru a găsi cântecul din ele!"
 
 msgid "EDIT_PAGE_ABOUT_MUSICMATCH_2"
-msgstr "Potrivirea de Muzică va găsi uneori mai multe cântece potențiale, sau unul greșit. Dacă se întâmplă asta, puteți să actualizați cântecul aici."
+msgstr "MusicMatch va găsi uneori mai multe cântece potențiale, sau unul greșit. Dacă se întâmplă asta, puteți să actualizați cântecul aici."
 
 msgid "EDIT_PAGE_ABOUT_MUSICMATCH_3"
-msgstr "Dacă actualizați cântecul, Potrivirea de Muzică va învăța din acea informație pentru a detecta mai bine cântecele din Flipnote audio pe viitor."
+msgstr "Dacă actualizați cântecul, MusicMatch va învăța din acea informație pentru a detecta mai bine cântecele din Flipnote audio pe viitor."
 
 msgid "EDIT_PAGE_DESCRIPTION_TOOLTIP"
 msgstr "Litere, numere, și simboluri, maxim 320 de caractere."
@@ -224,7 +224,7 @@ msgid "EDIT_PAGE_MUSICMATCH_NO_BGM"
 msgstr "Flipnote-ul dvs. nu are un cântec pe fundal"
 
 msgid "EDIT_PAGE_MUSICMATCH_PENDING_MAPPING"
-msgstr "Potrivrea de Muzică vă procesează Flipnote-ul. Încercați din nou mai târziu."
+msgstr "MusicMatch vă procesează Flipnote-ul. Încercați din nou mai târziu."
 
 msgid "EDIT_PAGE_MUSICMATCH_PREVIEW_ON_SPOTIFY"
 msgstr "Vedeți pe Spotify"
@@ -233,10 +233,10 @@ msgid "EDIT_PAGE_MUSICMATCH_PREVIEW_ON_YOUTUBE"
 msgstr "Vedeți pe YouTube Music"
 
 msgid "EDIT_PAGE_MUSICMATCH_UNMAPPED"
-msgstr "Potrivirea de Muzică nu a ajuns la Flipnote-ul dvs. încă. Încercați din nou mai târziu."
+msgstr "MusicMatch nu a ajuns la Flipnote-ul dvs. încă. Încercați din nou mai târziu."
 
 msgid "EDIT_PAGE_MUSICMATCH_UNMATCHED"
-msgstr "Potrivirea de Muzică nu a găsit niciun cântec care să se potrivească cu Flipnote-ul dvs."
+msgstr "MusicMatch nu a găsit niciun cântec care să se potrivească cu Flipnote-ul dvs."
 
 msgid "EDIT_PAGE_PLUS_AUDIO_ENHANCEMENT"
 msgstr "Îmbunătățire audio"
@@ -503,6 +503,9 @@ msgstr "Nici o adresă de email pe fișier -- contactați Sudomemo Support"
 msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
 msgstr "Niciun utilizator nu a fost găsit cu acest FSID sau email"
 
+msgid "PARENT_FLIPNOTE"
+msgstr "Parent Flipnote"
+
 msgid "PASSWORD_RESET_SENT"
 msgstr "O resetare de parolă a fost trimisă la adresa de email de pe fișier."
 
@@ -597,6 +600,9 @@ msgstr "Necunoscută"
 msgid "RELEASED"
 msgstr "Lansat"
 
+msgid "ROOT_FLIPNOTE"
+msgstr "Flipnote-ul rădăcină"
+
 msgid "SAVE"
 msgstr "Salvați"
 
@@ -627,7 +633,7 @@ msgid "SEARCH_SUDOMEMO"
 msgstr "Căutați Sudomemo"
 
 msgid "SEE_MORE"
-msgstr "See more"
+msgstr "Mai multe"
 
 msgid "SETTINGS"
 msgstr "Setări"
@@ -650,6 +656,12 @@ msgstr "Trimiteți pe Twitter"
 msgid "SHARE_ON_WHATSAPP"
 msgstr "Trimiteți pe WhatsApp"
 
+msgid "SHOW_ON_PROFILE"
+msgstr "Show on profile"
+
+msgid "SHOW_YOUTUBE_LINK_ON_MY_PROFILE"
+msgstr "Show a link to my YouTube channel on my Sudomemo profile"
+
 msgid "SIGN_IN"
 msgstr "Conectați-vă"
 
@@ -664,10 +676,10 @@ msgid "SONG"
 msgstr "Cântec"
 
 msgid "SONGS"
-msgstr "Songs"
+msgstr "Cântece"
 
 msgid "SONG_ARTISTS"
-msgstr "Song Artists"
+msgstr "Artiști"
 
 msgid "STARS"
 msgstr "Stele"
@@ -713,6 +725,9 @@ msgstr "Utilizator Sudomemo"
 msgid "TERMS_OF_USE"
 msgstr "Termenii de Utilizare"
 
+msgid "THIS_FLIPNOTE_IS_SPINOFF_OF"
+msgstr "This Flipnote is a spin-off of"
+
 # Sudomemo Shop
 msgid "TICKETS"
 msgstr "Bilete"
@@ -755,6 +770,9 @@ msgstr "Profilul lui %s din Flipnote Hatena"
 
 msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
 msgstr "După ce v-ați alăturat Sudomemo Discord, copiați și inserați aceasta în conversație."
+
+msgid "USER_SETTINGS_SUPPORT_TOKEN_EXPLANATION"
+msgstr "Support tokens are used to verify your account when contacting Sudomemo Support."
 
 msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
 msgstr "Configurați-vă canalul de YouTube și setările implicite de încărcare Flipnote."
@@ -808,10 +826,10 @@ msgid "VIEWS"
 msgstr "Vizionări"
 
 msgid "VIEW_ON_SUDOMEMO"
-msgstr "Vizualizați pe Sudomemo"
+msgstr "Vedeți pe Sudomemo"
 
 msgid "WATCH_HISTORY"
-msgstr "Watch History"
+msgstr "Istoric"
 
 msgid "WELCOME_BOX_AFTERNOON_GREETING"
 msgstr "Bună ziua"
@@ -827,7 +845,7 @@ msgstr "Bună seara"
 
 # Give, in the same sense as "Donate"
 msgid "WELCOME_BOX_GIVE"
-msgstr "Dați"
+msgstr "Oferiți"
 
 # # Welcome to Sudomemo Box
 msgid "WELCOME_BOX_GREET_ADMIN"
@@ -903,7 +921,7 @@ msgid "YOUTUBE_LINK_PROMPT"
 msgstr "Conectați-vă canalul de YouTube pentru a încărca Flipnote-uri pe YouTube."
 
 msgid "YOUTUBE_LOOP_COUNT"
-msgstr "Număr de jucări"
+msgstr "Număr de rulări"
 
 msgid "YOUTUBE_LOOP_COUNT_EXPLANATION"
 msgstr "Numărul de ori un Flipnote dat pe loop se va repeta. Selectați 1 pentru a reda numai o dată."

@@ -232,6 +232,12 @@ msgstr "Mail nicht erhalten? Überprüfe deinen Spam-Ordner und suche nach %s. F
 msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
 msgstr "Solltest du Hilfe benötigen, frage uns auf Discord! Trete unserem Server hier bei: %s"
 
+msgid "SIGNUP_AGE_GATE_ERROR"
+msgstr "Du musst 13 Jahre alt oder älter sein, um ein neues Sudomemo-Konto zu erstellen."
+
+msgid "SIGNUP_AGE_GATE_ERROR_FIX"
+msgstr "Falls du diese Meldung irrtümlich erhalten hast, kannst du deinen Geburtstag aktualisieren, indem du auf den orangen Schraubenschlüssel oben rechts in Flipnote Studio's Hauptmenü tippst."
+
 msgid "SORRY_NO_LOGIN"
 msgstr "Sorry, aber wir konnten Dich nicht anmelden!"
 

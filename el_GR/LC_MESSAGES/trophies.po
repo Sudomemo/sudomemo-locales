@@ -47,6 +47,9 @@ msgstr "Ανεβασε το πρωτο Flipnote της νεας δεκαετια
 msgid "TROPHY_DESC_fifth_bday_event"
 msgstr "Ηταν στα πεμπτα γενεθλια του Sudomemo"
 
+msgid "TROPHY_DESC_flipnote_friends"
+msgstr "Became Flipnote Friends with someone who uses Sudomemo!"
+
 msgid "TROPHY_DESC_folder"
 msgstr "Δωρεας spare χρονου compute στο Folding@Home για την βοηθεια καταπολεμισης ασθενιων"
 
@@ -77,6 +80,9 @@ msgstr "Δειξαν ποσο γαματοι  ηταν εκεινοι (η καπ
 msgid "TROPHY_DESC_one_million_flips_event"
 msgstr "Συμμετοχη στο ιβεντ του ενος εκατομμυριου Flipnote"
 
+msgid "TROPHY_DESC_patreon_patron"
+msgstr "Supported Sudomemo through Patreon"
+
 msgid "TROPHY_DESC_spookmaster"
 msgstr "Βραβειο Spookmaster για την Αριστεια στις Επιστημες της Μαγειας."
 
@@ -91,6 +97,9 @@ msgstr "Παροχη μεταφρασεων για να γινει το Sudomemo
 
 msgid "TROPHY_DESC_weekly_topic_winner"
 msgstr "Νικησε στο Weekly Topic"
+
+msgid "TROPHY_DESC_welcoming_champion"
+msgstr "Earned the title of Welcoming Champion."
 
 msgid "TROPHY_NAME_7th_birthday_bash"
 msgstr "7ο Birthday Bash"
@@ -123,6 +132,9 @@ msgstr "Πρωτο Flipnote της Δεκαετιας"
 msgid "TROPHY_NAME_fifth_bday_event"
 msgstr "Τα πεμπτα γενεθλια του Sudomemo"
 
+msgid "TROPHY_NAME_flipnote_friends"
+msgstr "Flipnote Friends"
+
 msgid "TROPHY_NAME_folder"
 msgstr "Φακελος"
 
@@ -153,6 +165,9 @@ msgstr "Nitro Booster"
 msgid "TROPHY_NAME_one_million_flips_event"
 msgstr "Event ενος εκατομμυριου Flipnote"
 
+msgid "TROPHY_NAME_patreon_patron"
+msgstr "Sudomemo Patron"
+
 msgid "TROPHY_NAME_spookmaster"
 msgstr "Spookmaster"
 
@@ -167,3 +182,6 @@ msgstr "Μεταφραστης"
 
 msgid "TROPHY_NAME_weekly_topic_winner"
 msgstr "Νικητης Weekly Topi"
+
+msgid "TROPHY_NAME_welcoming_champion"
+msgstr "Welcoming Champion"

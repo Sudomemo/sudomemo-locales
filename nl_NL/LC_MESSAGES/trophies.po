@@ -48,6 +48,9 @@ msgstr "Plaats de eerste Flipnote van een nieuwe decade"
 msgid "TROPHY_DESC_fifth_bday_event"
 msgstr "Doe mee aan Sudomemo's vijfde verjaardagsfeest"
 
+msgid "TROPHY_DESC_flipnote_friends"
+msgstr "Became Flipnote Friends with someone who uses Sudomemo!"
+
 msgid "TROPHY_DESC_folder"
 msgstr "Doneer vrije computertijd aan Folding@Home om te helpen met het bestrijden van ziektes"
 
@@ -78,6 +81,9 @@ msgstr "Showed how cool they (or a friend) were by boosting the Sudomemo Discord
 msgid "TROPHY_DESC_one_million_flips_event"
 msgstr "Doe mee aan het één-miljoen-Flipnotesevenement"
 
+msgid "TROPHY_DESC_patreon_patron"
+msgstr "Supported Sudomemo through Patreon"
+
 msgid "TROPHY_DESC_spookmaster"
 msgstr "Spookmaster Award for Excellence in Witchcraft and Wizardry."
 
@@ -92,6 +98,9 @@ msgstr "Draag vertalingen bij om Sudomemo open voor iedereen te maken"
 
 msgid "TROPHY_DESC_weekly_topic_winner"
 msgstr "Dien een winnende inzending in naar Sudomemo's Wekelijks Onderwerp"
+
+msgid "TROPHY_DESC_welcoming_champion"
+msgstr "Earned the title of Welcoming Champion."
 
 msgid "TROPHY_NAME_7th_birthday_bash"
 msgstr "7th Birthday Bash"
@@ -126,6 +135,9 @@ msgstr "Eerste Flipnote van de Decade"
 msgid "TROPHY_NAME_fifth_bday_event"
 msgstr "Sudomemo's Vijfde Verjaardagsfeest"
 
+msgid "TROPHY_NAME_flipnote_friends"
+msgstr "Flipnote Friends"
+
 msgid "TROPHY_NAME_folder"
 msgstr "Folder"
 
@@ -156,6 +168,9 @@ msgstr "Nitro Booster"
 msgid "TROPHY_NAME_one_million_flips_event"
 msgstr "Één-Miljoen-Flipnotesevenement"
 
+msgid "TROPHY_NAME_patreon_patron"
+msgstr "Sudomemo Patron"
+
 msgid "TROPHY_NAME_spookmaster"
 msgstr "Spookmaster"
 
@@ -170,3 +185,6 @@ msgstr "Vertaler"
 
 msgid "TROPHY_NAME_weekly_topic_winner"
 msgstr "Wekelijks Onderwerpwinnaar"
+
+msgid "TROPHY_NAME_welcoming_champion"
+msgstr "Welcoming Champion"

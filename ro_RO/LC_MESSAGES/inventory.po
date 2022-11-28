@@ -7,28 +7,31 @@ msgid "DECOR"
 msgstr "Decor"
 
 msgid "INVENTORY"
-msgstr "Inventory"
+msgstr "Inventar"
 
 msgid "ITEMS"
-msgstr "Items"
+msgstr "Obiecte"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "Urm."
 
 msgid "PETS"
-msgstr "Pets"
+msgstr "Animale"
 
 msgid "PREV"
-msgstr "Prev"
+msgstr "Ante."
 
 msgid "REDEEM"
-msgstr "Redeem"
+msgstr "Reven."
+
+msgid "THEMES"
+msgstr "Themes"
 
 msgid "TICKETS"
-msgstr "Tickets"
+msgstr "Bilete"
 
 msgid "USE"
-msgstr "Use"
+msgstr "Fol."
 
 msgid "USE_ITEM"
-msgstr "Use item"
+msgstr "Fol. obiect"

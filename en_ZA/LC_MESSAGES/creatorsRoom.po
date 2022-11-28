@@ -4,7 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "101_CHARACTER_LIMIT_BIO"
-msgstr "u can only put 101 characters WUPS."
+msgstr "u is only able to put 101 characters silly!!"
 
 msgid "ADMIN_ACCT_BANNED"
 msgstr "Banned"
@@ -58,25 +58,32 @@ msgid "ENTER_BIO"
 msgstr "yAA right here..."
 
 msgid "EXAMPLE"
-msgstr "example"
+msgstr "Examps"
 
 msgid "FANS"
-msgstr "hearts"
+msgstr "hearties"
 
 msgid "FAN_COUNT_FORMAT"
 msgstr "favs! %s"
 
 msgid "FAVORITES_FEED"
-msgstr "favorites feed"
+msgstr "favs feed!"
 
 msgid "FAVORITE_CHANNELS"
-msgstr "favorite channels"
+msgstr "fav channels"
 
 msgid "FAVORITE_USERS"
 msgstr "best frens!"
 
 msgid "FEATURE_USABILITY"
 msgstr "feature usability"
+
+# Matches button on page 4 of Flipnote Studio settings
+msgid "FLIPNOTE_FRIENDS"
+msgstr "Flipnote Friends"
+
+msgid "FLIPNOTE_FRIENDS_INFO"
+msgstr "Other peeps you traded Flipnotes with!"
 
 msgid "FLIPNOTE_STUDIO_ID"
 msgstr "flipnyote studio id"
@@ -220,10 +227,10 @@ msgid "USER_THEME"
 msgstr "meme xD"
 
 msgid "USER_VIEWCOUNT"
-msgstr "OwO views"
+msgstr "wowza views"
 
 msgid "VIEW"
 msgstr "views"
 
 msgid "WATCH_HISTORY"
-msgstr "Watch History"
+msgstr "Watcharoo History"

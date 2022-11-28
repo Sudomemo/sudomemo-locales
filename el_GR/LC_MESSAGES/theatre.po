@@ -503,6 +503,9 @@ msgstr "Δεν υπαρχει διευθυνση email στο αρχειο μα�
 msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
 msgstr "Δεν βρεθηκε χρηστης με αυτο το Flipnote Studio ID η email"
 
+msgid "PARENT_FLIPNOTE"
+msgstr "Parent Flipnote"
+
 msgid "PASSWORD_RESET_SENT"
 msgstr "Εχει σταλει αλλαγη κωδικου στην διευθυνση email που διαθετουμε στο αρχειο μας."
 
@@ -597,6 +600,9 @@ msgstr "Αγνωστη"
 msgid "RELEASED"
 msgstr "Κυκλοφορια"
 
+msgid "ROOT_FLIPNOTE"
+msgstr "Root Flipnote"
+
 msgid "SAVE"
 msgstr "Σωστε"
 
@@ -649,6 +655,12 @@ msgstr "Κοινοποιηση στο Twitter"
 
 msgid "SHARE_ON_WHATSAPP"
 msgstr "Κοινοποιηση μεσω WhatsApp"
+
+msgid "SHOW_ON_PROFILE"
+msgstr "Show on profile"
+
+msgid "SHOW_YOUTUBE_LINK_ON_MY_PROFILE"
+msgstr "Show a link to my YouTube channel on my Sudomemo profile"
 
 msgid "SIGN_IN"
 msgstr "Συνδεση"
@@ -713,6 +725,9 @@ msgstr "Χρηστης Sudomemo"
 msgid "TERMS_OF_USE"
 msgstr "Οροι Χρησης"
 
+msgid "THIS_FLIPNOTE_IS_SPINOFF_OF"
+msgstr "This Flipnote is a spin-off of"
+
 # Sudomemo Shop
 msgid "TICKETS"
 msgstr "Λαχνοι"
@@ -755,6 +770,9 @@ msgstr "%s's profile from Flipnote Hatena"
 
 msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
 msgstr "Αφου εχετε μπει στο Sudomemo Discord, καντε αυτο αντιγραφη επικολληση στο τσατ."
+
+msgid "USER_SETTINGS_SUPPORT_TOKEN_EXPLANATION"
+msgstr "Support tokens are used to verify your account when contacting Sudomemo Support."
 
 msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
 msgstr "Διαχειριστειτε το συνδεδεμενο σας YouTube καναλι και προεπιλεγμενες Flipnote ρυθμισεις ανεβασματος."

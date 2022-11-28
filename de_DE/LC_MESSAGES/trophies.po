@@ -47,6 +47,9 @@ msgstr "Hat das erste Flipnote eines neuen Jahrzehnts hochgeladen"
 msgid "TROPHY_DESC_fifth_bday_event"
 msgstr "Hat an der fünften Geburtstagsparty von Sudomemo teilgenommen"
 
+msgid "TROPHY_DESC_flipnote_friends"
+msgstr "Became Flipnote Friends with someone who uses Sudomemo!"
+
 msgid "TROPHY_DESC_folder"
 msgstr "Spendet Rechenleistung an Folding@Home, um Krankheiten zu bekämpfen"
 
@@ -77,6 +80,9 @@ msgstr "Hat die eigene Coolness (oder die eines Freundes) durch das Boosten des 
 msgid "TROPHY_DESC_one_million_flips_event"
 msgstr "War beim Eine-Million-Flipnotes-Event dabei"
 
+msgid "TROPHY_DESC_patreon_patron"
+msgstr "Supported Sudomemo through Patreon"
+
 msgid "TROPHY_DESC_spookmaster"
 msgstr "Spukmeister-Verzeichnung für Exzellenz in Hexerei, Zauberei und sonst Derlei"
 
@@ -91,6 +97,9 @@ msgstr "Hat dazu beigetragen, Sudomemo für jeden verständlich zu machen"
 
 msgid "TROPHY_DESC_weekly_topic_winner"
 msgstr "Hat schon mal bei Sudomemo's wöchentlichen Thema teilgenommen und gewonnen"
+
+msgid "TROPHY_DESC_welcoming_champion"
+msgstr "Hat den Titel des Einladenden Champions verdient."
 
 msgid "TROPHY_NAME_7th_birthday_bash"
 msgstr "7. 'Birthday Bash'"
@@ -123,6 +132,9 @@ msgstr "Erstes Flipnote des Jahrzehnts"
 msgid "TROPHY_NAME_fifth_bday_event"
 msgstr "Sudomemo's fünfte Geburtstagsparty"
 
+msgid "TROPHY_NAME_flipnote_friends"
+msgstr "Flipnote Friends"
+
 msgid "TROPHY_NAME_folder"
 msgstr "Falter"
 
@@ -153,6 +165,9 @@ msgstr "Nitro Booster"
 msgid "TROPHY_NAME_one_million_flips_event"
 msgstr "Eine-Million-Flipnotes-Event"
 
+msgid "TROPHY_NAME_patreon_patron"
+msgstr "Sudomemo Patron"
+
 msgid "TROPHY_NAME_spookmaster"
 msgstr "Spukmeister"
 
@@ -167,3 +182,6 @@ msgstr "Übersetzer"
 
 msgid "TROPHY_NAME_weekly_topic_winner"
 msgstr "Wochen-Thema-Gewinner"
+
+msgid "TROPHY_NAME_welcoming_champion"
+msgstr "Einladender Champion"

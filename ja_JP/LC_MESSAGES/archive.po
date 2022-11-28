@@ -10,6 +10,12 @@ msgstr "活動期間"
 msgid "ALSO_KNOWN_AS"
 msgstr "このユーザーが使用していた別の名前"
 
+msgid "BLUE_STARS"
+msgstr "Blue Stars"
+
+msgid "BROWSE"
+msgstr "Browse"
+
 msgid "CONTACT"
 msgstr "連絡先"
 
@@ -27,6 +33,15 @@ msgstr "再生時間"
 
 msgid "DURATION_FORMAT"
 msgstr "%s秒"
+
+msgid "FEATURED"
+msgstr "Featured"
+
+msgid "FEATURED_FLIPNOTES"
+msgstr "Featured Flipnotes"
+
+msgid "FEATURED_FLIPNOTES_DESC"
+msgstr "A collection of famous or noteworthy Flipnotes, curated by our team"
 
 msgid "FLIPNOTES"
 msgstr "作品"
@@ -67,6 +82,9 @@ msgstr "うごメモアーカイブは任天堂株式会社や株式会社はて
 
 msgid "FRAME_SPEED"
 msgstr "速度"
+
+msgid "GREEN_STARS"
+msgstr "Green Stars"
 
 msgid "HATENA_ID"
 msgstr "はてなID"
@@ -135,6 +153,18 @@ msgstr "親作品"
 msgid "ORIGINAL_NOT_FOUND"
 msgstr "親作品が見つかりませんでした。"
 
+msgid "PARENT_FLIPNOTE"
+msgstr "Parent Flipnote"
+
+msgid "POPULAR"
+msgstr "Popular"
+
+msgid "POPULAR_FLIPNOTES"
+msgstr "Popular Flipnotes"
+
+msgid "POPULAR_FLIPNOTES_DESC"
+msgstr "Flipnotes that have received a lot of attention from archive visitors"
+
 msgid "PRESS"
 msgstr "報道について"
 
@@ -144,6 +174,21 @@ msgstr "報道についての問い合わせ"
 msgid "PREV"
 msgstr "前へ"
 
+msgid "PURPLE_STARS"
+msgstr "Purple Stars"
+
+msgid "RANDOM"
+msgstr "Random"
+
+msgid "RANDOM_FLIPNOTES"
+msgstr "Random Flipnotes"
+
+msgid "RANDOM_FLIPNOTES_DESC"
+msgstr "A series of Flipnotes chosen from a random point in time"
+
+msgid "RED_STARS"
+msgstr "Red Stars"
+
 msgid "REGION_AMERICAS"
 msgstr "アメリカ"
 
@@ -152,6 +197,9 @@ msgstr "欧州・オセアニア"
 
 msgid "REGION_JAPAN"
 msgstr "日本"
+
+msgid "ROOT_FLIPNOTE"
+msgstr "Root Flipnote"
 
 msgid "SEARCH"
 msgstr "検索"
@@ -193,8 +241,14 @@ msgstr "子作品%s作品"
 msgid "SPOTIFY"
 msgstr "Spotify"
 
+msgid "STARS"
+msgstr "Stars"
+
 msgid "SUDOMEMO"
 msgstr "スドメモ"
+
+msgid "THIS_FLIPNOTE_IS_SPINOFF_OF"
+msgstr "This Flipnote is a spin-off of"
 
 msgid "TOTAL_FLIPNOTES"
 msgstr "総作品数"
@@ -217,6 +271,9 @@ msgstr "%sのはてなプロフィール画像"
 
 msgid "VIEWS"
 msgstr "視聴回数"
+
+msgid "YELLOW_STARS"
+msgstr "Yellow Stars"
 
 msgid "YOUTUBE_MUSIC"
 msgstr "YouTube Music"
