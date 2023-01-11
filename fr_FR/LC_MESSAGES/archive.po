@@ -11,10 +11,10 @@ msgid "ALSO_KNOWN_AS"
 msgstr "Aussi appelé"
 
 msgid "BLUE_STARS"
-msgstr "Blue Stars"
+msgstr "Étoiles bleues"
 
 msgid "BROWSE"
-msgstr "Browse"
+msgstr "Naviguer"
 
 msgid "CONTACT"
 msgstr "Contact"
@@ -35,13 +35,13 @@ msgid "DURATION_FORMAT"
 msgstr "%s secondes"
 
 msgid "FEATURED"
-msgstr "Featured"
+msgstr "En vedette"
 
 msgid "FEATURED_FLIPNOTES"
-msgstr "Featured Flipnotes"
+msgstr "Flipnotes en vedette"
 
 msgid "FEATURED_FLIPNOTES_DESC"
-msgstr "A collection of famous or noteworthy Flipnotes, curated by our team"
+msgstr "Une collection de Flipnotes célèbres ou notables, sélectionnées par notre équipe"
 
 msgid "FLIPNOTES"
 msgstr "Flipnotes"
@@ -84,7 +84,7 @@ msgid "FRAME_SPEED"
 msgstr "Vitesse de défilement"
 
 msgid "GREEN_STARS"
-msgstr "Green Stars"
+msgstr "Étoiles vertes"
 
 msgid "HATENA_ID"
 msgstr "ID Hatena"
@@ -157,13 +157,13 @@ msgid "PARENT_FLIPNOTE"
 msgstr "Flipnote parente"
 
 msgid "POPULAR"
-msgstr "Popular"
+msgstr "Populaires"
 
 msgid "POPULAR_FLIPNOTES"
-msgstr "Popular Flipnotes"
+msgstr "Flipnotes populaires"
 
 msgid "POPULAR_FLIPNOTES_DESC"
-msgstr "Flipnotes that have received a lot of attention from archive visitors"
+msgstr "Flipnotes qui ont reçu beaucoup d'attention de la part des visiteurs de l'archive"
 
 msgid "PRESS"
 msgstr "Presse"
@@ -175,19 +175,19 @@ msgid "PREV"
 msgstr "Préc"
 
 msgid "PURPLE_STARS"
-msgstr "Purple Stars"
+msgstr "Étoiles violettes"
 
 msgid "RANDOM"
-msgstr "Random"
+msgstr "Aléatoires"
 
 msgid "RANDOM_FLIPNOTES"
-msgstr "Random Flipnotes"
+msgstr "Flipnotes aléatoires"
 
 msgid "RANDOM_FLIPNOTES_DESC"
-msgstr "A series of Flipnotes chosen from a random point in time"
+msgstr "Une série de Flipnotes choisies au hasard"
 
 msgid "RED_STARS"
-msgstr "Red Stars"
+msgstr "Étoiles rouges"
 
 msgid "REGION_AMERICAS"
 msgstr "Amériques"
@@ -242,7 +242,7 @@ msgid "SPOTIFY"
 msgstr "Spotify"
 
 msgid "STARS"
-msgstr "Stars"
+msgstr "Étoiles"
 
 msgid "SUDOMEMO"
 msgstr "Sudomemo"
@@ -273,7 +273,7 @@ msgid "VIEWS"
 msgstr "Vues"
 
 msgid "YELLOW_STARS"
-msgstr "Yellow Stars"
+msgstr "Étoiles jaunes"
 
 msgid "YOUTUBE_MUSIC"
 msgstr "YouTube Music"
