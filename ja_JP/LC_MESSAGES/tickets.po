@@ -65,6 +65,9 @@ msgstr "誕生日パーティーに参加してくれてありがとう!"
 msgid "TICKET_DESC_8th_birthday_bash_ticket"
 msgstr "誕生日パーティーに参加してくれてありがとう!"
 
+msgid "TICKET_DESC_9th_birthday_bash_ticket"
+msgstr "Thanks for attending our Birthday Bash!"
+
 msgid "TICKET_DESC_archive_supporter_ticket"
 msgstr "うごメモ歴史の保存に協力していただきありがとうございます!"
 
@@ -161,6 +164,9 @@ msgstr "7周年パーティーチケット"
 
 msgid "TICKET_NAME_8th_birthday_bash_ticket"
 msgstr "8周年パーティーチケット"
+
+msgid "TICKET_NAME_9th_birthday_bash_ticket"
+msgstr "9th Birthday Bash Ticket"
 
 msgid "TICKET_NAME_archive_supporter_ticket"
 msgstr "アーカイブサポーターチケット"

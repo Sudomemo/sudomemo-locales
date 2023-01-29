@@ -23,6 +23,9 @@ msgstr "Nahm an Sudomemo's Spaß-Jubiläum für 7 Jahre Flipnote teil."
 msgid "TROPHY_DESC_8th_birthday_bash"
 msgstr "Nahm an Sudomemo's Spaß-Jubiläum für 8 Jahre Flipnote teil."
 
+msgid "TROPHY_DESC_9th_birthday_bash"
+msgstr "Attended Sudomemo's 9th Birthday Bash event"
+
 msgid "TROPHY_DESC_archive_supporter"
 msgstr "Hat Geld auf Ko-Fi an Flipnote Archive gespendet, um Flipnote-Geschichte zu bewahren!"
 
@@ -106,6 +109,9 @@ msgstr "7. 'Birthday Bash'"
 
 msgid "TROPHY_NAME_8th_birthday_bash"
 msgstr "8. 'Birthday Bash'"
+
+msgid "TROPHY_NAME_9th_birthday_bash"
+msgstr "9th Birthday Bash"
 
 msgid "TROPHY_NAME_archive_supporter"
 msgstr "Archiv-Unterstützer"

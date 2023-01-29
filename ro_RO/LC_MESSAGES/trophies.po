@@ -23,6 +23,9 @@ msgstr "Luati parte la Distractia Flipnote de 7 Ani Sudomemo"
 msgid "TROPHY_DESC_8th_birthday_bash"
 msgstr "Participă la aniversarea de 8 ani de Distracție Flipnote"
 
+msgid "TROPHY_DESC_9th_birthday_bash"
+msgstr "Attended Sudomemo's 9th Birthday Bash event"
+
 msgid "TROPHY_DESC_archive_supporter"
 msgstr "Contribuitor catre Ko-Fi-ul Flipnote Archive pentru a ajuta la preservarea istoriei Flipnote!"
 
@@ -106,6 +109,9 @@ msgstr "Aniversarea de 7 Ani"
 
 msgid "TROPHY_NAME_8th_birthday_bash"
 msgstr "Aniversarea de 8 Ani"
+
+msgid "TROPHY_NAME_9th_birthday_bash"
+msgstr "9th Birthday Bash"
 
 msgid "TROPHY_NAME_archive_supporter"
 msgstr "Sustinator al Arhivei"
