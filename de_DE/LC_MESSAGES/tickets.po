@@ -65,6 +65,9 @@ msgstr "Danke für deine Teilnahme beim 'Birthday Bash!'"
 msgid "TICKET_DESC_8th_birthday_bash_ticket"
 msgstr "Danke für deine Teilnahme beim 'Birthday Bash!'"
 
+msgid "TICKET_DESC_9th_birthday_bash_ticket"
+msgstr "Thanks for attending our Birthday Bash!"
+
 msgid "TICKET_DESC_archive_supporter_ticket"
 msgstr "Danke für deine Hilfe, Flipnote-Geschichte zu bewahren!"
 
@@ -161,6 +164,9 @@ msgstr "7. 'Birthday Bash'-Ticket"
 
 msgid "TICKET_NAME_8th_birthday_bash_ticket"
 msgstr "8. 'Birthday Bash'-Ticket"
+
+msgid "TICKET_NAME_9th_birthday_bash_ticket"
+msgstr "9th Birthday Bash Ticket"
 
 msgid "TICKET_NAME_archive_supporter_ticket"
 msgstr "Archivunterstützer-Ticket"

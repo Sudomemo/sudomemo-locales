@@ -23,6 +23,9 @@ msgstr "スドメモの7周年ファンイベントに参加する"
 msgid "TROPHY_DESC_8th_birthday_bash"
 msgstr "スドメモの8周年ファンイベントに参加する"
 
+msgid "TROPHY_DESC_9th_birthday_bash"
+msgstr "Attended Sudomemo's 9th Birthday Bash event"
+
 msgid "TROPHY_DESC_archive_supporter"
 msgstr "うごメモの歴史を保存する、うごメモアーカイブKo-Fiに寄付する"
 
@@ -106,6 +109,9 @@ msgstr "7周年記念パーティー"
 
 msgid "TROPHY_NAME_8th_birthday_bash"
 msgstr "8周年記念パーティー"
+
+msgid "TROPHY_NAME_9th_birthday_bash"
+msgstr "9th Birthday Bash"
 
 msgid "TROPHY_NAME_archive_supporter"
 msgstr "アーカイブサポーター"
