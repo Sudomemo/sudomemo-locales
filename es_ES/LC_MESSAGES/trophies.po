@@ -86,6 +86,12 @@ msgstr "Atendió al Evento Un Millon de Flipnotes."
 msgid "TROPHY_DESC_patreon_patron"
 msgstr "Supported Sudomemo through Patreon"
 
+msgid "TROPHY_DESC_rewind_2021"
+msgstr "Featured in 2021's Sudomemo Rewind!"
+
+msgid "TROPHY_DESC_rewind_2022"
+msgstr "Featured in 2022's Sudomemo Rewind!"
+
 msgid "TROPHY_DESC_spookmaster"
 msgstr "Premio Spookmaster a la excelencia en Brujería y Hechicería."
 
@@ -173,6 +179,12 @@ msgstr "Evento Un Millon de Flipnotes"
 
 msgid "TROPHY_NAME_patreon_patron"
 msgstr "Sudomemo Patron"
+
+msgid "TROPHY_NAME_rewind_2021"
+msgstr "Sudomemo Rewind 2021"
+
+msgid "TROPHY_NAME_rewind_2022"
+msgstr "Sudomemo Rewind 2022"
 
 msgid "TROPHY_NAME_spookmaster"
 msgstr "Maestro del Susto"

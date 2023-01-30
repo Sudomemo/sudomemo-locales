@@ -86,6 +86,12 @@ msgstr "Participez à l'événement Un Million de Flipnotes"
 msgid "TROPHY_DESC_patreon_patron"
 msgstr "A soutenu Sudomemo via Patreon"
 
+msgid "TROPHY_DESC_rewind_2021"
+msgstr "Featured in 2021's Sudomemo Rewind!"
+
+msgid "TROPHY_DESC_rewind_2022"
+msgstr "Featured in 2022's Sudomemo Rewind!"
+
 msgid "TROPHY_DESC_spookmaster"
 msgstr "Prix du Maître de l'épouvante pour l'Excellence en matière de Sorcellerie et de Magie."
 
@@ -173,6 +179,12 @@ msgstr "Événement Un Million de Flipnotes"
 
 msgid "TROPHY_NAME_patreon_patron"
 msgstr "Mécène Sudomemo"
+
+msgid "TROPHY_NAME_rewind_2021"
+msgstr "Sudomemo Rewind 2021"
+
+msgid "TROPHY_NAME_rewind_2022"
+msgstr "Sudomemo Rewind 2022"
 
 msgid "TROPHY_NAME_spookmaster"
 msgstr "Maître de l'épouvante"

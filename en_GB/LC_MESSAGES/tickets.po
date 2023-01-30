@@ -132,6 +132,12 @@ msgstr "This ticket gives you 230 spendable Sudomemo Stars, an exclusive theme, 
 msgid "TICKET_DESC_regular_ticket"
 msgstr "Thank you for using Sudomemo!"
 
+msgid "TICKET_DESC_rewind_2021_ticket"
+msgstr "Congratulations on your inclusion in 2021's Sudomemo Rewind!"
+
+msgid "TICKET_DESC_rewind_2022_ticket"
+msgstr "Congratulations on your inclusion in 2022's Sudomemo Rewind!"
+
 msgid "TICKET_DESC_special_someone_ticket"
 msgstr "For that special someone. Three months of Plus, Colour Stars, and an exclusive theme."
 
@@ -232,6 +238,12 @@ msgstr "Bailey Flitwing Ticket"
 
 msgid "TICKET_NAME_regular_ticket"
 msgstr "Regular Ticket"
+
+msgid "TICKET_NAME_rewind_2021_ticket"
+msgstr "Sudomemo Rewind 2021 Ticket"
+
+msgid "TICKET_NAME_rewind_2022_ticket"
+msgstr "Sudomemo Rewind 2022 Ticket"
 
 msgid "TICKET_NAME_special_someone_ticket"
 msgstr "Special Someone Ticket"
