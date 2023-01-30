@@ -132,6 +132,12 @@ msgstr "Acest bilet va ofera 230 Stele Sudomemo, o tema exclusiva, si o insigna 
 msgid "TICKET_DESC_regular_ticket"
 msgstr "Va multumim pentru ca utilizati Sudomemo!"
 
+msgid "TICKET_DESC_rewind_2021_ticket"
+msgstr "Congratulations on your inclusion in 2021's Sudomemo Rewind!"
+
+msgid "TICKET_DESC_rewind_2022_ticket"
+msgstr "Congratulations on your inclusion in 2022's Sudomemo Rewind!"
+
 msgid "TICKET_DESC_special_someone_ticket"
 msgstr "Pentru acel cineva special. Trei luni de Plus, Stele Colorate, si o tema exclusiva."
 
@@ -232,6 +238,12 @@ msgstr "Bilet Bailey Flitwing"
 
 msgid "TICKET_NAME_regular_ticket"
 msgstr "Bilet Normal"
+
+msgid "TICKET_NAME_rewind_2021_ticket"
+msgstr "Sudomemo Rewind 2021 Ticket"
+
+msgid "TICKET_NAME_rewind_2022_ticket"
+msgstr "Sudomemo Rewind 2022 Ticket"
 
 msgid "TICKET_NAME_special_someone_ticket"
 msgstr "Bilet Cineva Special"
