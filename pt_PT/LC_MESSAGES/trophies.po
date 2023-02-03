@@ -24,7 +24,7 @@ msgid "TROPHY_DESC_8th_birthday_bash"
 msgstr "Participaste no evento 8 anos a Divertiste com Flipnotes do Sudomemo"
 
 msgid "TROPHY_DESC_9th_birthday_bash"
-msgstr "Attended Sudomemo's 9th Birthday Bash event"
+msgstr "Participaste no evento 9 anos a Divertiste com Flipnotes do Sudomemo"
 
 msgid "TROPHY_DESC_archive_supporter"
 msgstr "Contribuidor do Ko-Fi do Flipnote Archive para ajudar a preservar a história de Flipnotes!"
@@ -39,7 +39,7 @@ msgid "TROPHY_DESC_early_adopter"
 msgstr "Juntaste-te ao Sudomemo durante o nosso primeiro mês de serviço"
 
 msgid "TROPHY_DESC_featured_artist"
-msgstr "Se reconhecido como um Artista Destacado no Sudomemo"
+msgstr "Sê reconhecido como um Artista Destacado no Sudomemo"
 
 msgid "TROPHY_DESC_featured_flipnote"
 msgstr "Tem um Flipnote destacado"
@@ -51,7 +51,7 @@ msgid "TROPHY_DESC_fifth_bday_event"
 msgstr "Participaste na festa do quinto aniversário do Sudomemo"
 
 msgid "TROPHY_DESC_flipnote_friends"
-msgstr "Became Flipnote Friends with someone who uses Sudomemo!"
+msgstr "Tornas-te Amigos do Flipnote com alguém que usa o Sudomemo!"
 
 msgid "TROPHY_DESC_folder"
 msgstr "Doar tempo de computação para o programa Folding@Home para ajudar a combater doênças"
@@ -84,22 +84,22 @@ msgid "TROPHY_DESC_one_million_flips_event"
 msgstr "Participar no evento Um Milhão de Flipnotes"
 
 msgid "TROPHY_DESC_patreon_patron"
-msgstr "Supported Sudomemo through Patreon"
+msgstr "Suportaste o Sudomemo através do Patreon"
 
 msgid "TROPHY_DESC_rewind_2021"
-msgstr "Featured in 2021's Sudomemo Rewind!"
+msgstr "Destacado no Sudomemo Rewind de 2021!"
 
 msgid "TROPHY_DESC_rewind_2022"
-msgstr "Featured in 2022's Sudomemo Rewind!"
+msgstr "Destacado no Sudomemo Rewind de 2022!"
 
 msgid "TROPHY_DESC_spookmaster"
 msgstr "Troféu Mestre dos Sustos, para a excelência em Bruxaria e Feitiçaria."
 
 msgid "TROPHY_DESC_sudomemo_radio"
-msgstr "Contributed content to an episode of Sudomemo Radio"
+msgstr "Contribuíste conteúdo num episódio do Sudomemo Radio"
 
 msgid "TROPHY_DESC_sudomemo_radio_pilot"
-msgstr "Contributed content to the very first episode of Sudomemo Radio"
+msgstr "Contribuíste conteúdo no primeiro episódio do Sudomemo Radio"
 
 msgid "TROPHY_DESC_translator"
 msgstr "Contribuir traduções para fazer o Sudomemo aberto a todos"
@@ -108,7 +108,7 @@ msgid "TROPHY_DESC_weekly_topic_winner"
 msgstr "Submeter um post vencedor no Tópico Semanal do Sudomemo"
 
 msgid "TROPHY_DESC_welcoming_champion"
-msgstr "Earned the title of Welcoming Champion."
+msgstr "Ganhaste o título de Cidadão Acolhedor."
 
 msgid "TROPHY_NAME_7th_birthday_bash"
 msgstr "7º Birthday Bash"
@@ -117,7 +117,7 @@ msgid "TROPHY_NAME_8th_birthday_bash"
 msgstr "8º Birthday Bash"
 
 msgid "TROPHY_NAME_9th_birthday_bash"
-msgstr "9th Birthday Bash"
+msgstr "9º Birthday Bash"
 
 msgid "TROPHY_NAME_archive_supporter"
 msgstr "Apoiante do Arquivo"
@@ -145,7 +145,7 @@ msgid "TROPHY_NAME_fifth_bday_event"
 msgstr "Festa do Quinto Aniversário do Sudomemo"
 
 msgid "TROPHY_NAME_flipnote_friends"
-msgstr "Flipnote Friends"
+msgstr "Amigos do Flipnote"
 
 msgid "TROPHY_NAME_folder"
 msgstr "Folder"
@@ -178,7 +178,7 @@ msgid "TROPHY_NAME_one_million_flips_event"
 msgstr "Evento Um Milhão de Flipnotes"
 
 msgid "TROPHY_NAME_patreon_patron"
-msgstr "Sudomemo Patron"
+msgstr "Suportador do Sudomemo"
 
 msgid "TROPHY_NAME_rewind_2021"
 msgstr "Sudomemo Rewind 2021"
@@ -190,10 +190,10 @@ msgid "TROPHY_NAME_spookmaster"
 msgstr "Mestre dos Sustos"
 
 msgid "TROPHY_NAME_sudomemo_radio"
-msgstr "Sudomemo Radio Contributor"
+msgstr "Contribuidor do Sudomemo Radio"
 
 msgid "TROPHY_NAME_sudomemo_radio_pilot"
-msgstr "Sudomemo Radio Pilot Contributor"
+msgstr "Contribuidor Piloto do Sudomemo Radio"
 
 msgid "TROPHY_NAME_translator"
 msgstr "Tradutor"
@@ -202,4 +202,4 @@ msgid "TROPHY_NAME_weekly_topic_winner"
 msgstr "Vencedor do Tópico Semanal"
 
 msgid "TROPHY_NAME_welcoming_champion"
-msgstr "Welcoming Champion"
+msgstr "Cidadão Acolhedor"
