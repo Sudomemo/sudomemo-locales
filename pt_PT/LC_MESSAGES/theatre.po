@@ -504,7 +504,7 @@ msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
 msgstr "Nenhum utilizador encontrado com esse ID do Flipnote Studio ID ou email"
 
 msgid "PARENT_FLIPNOTE"
-msgstr "Parent Flipnote"
+msgstr "Flipnote Parente"
 
 msgid "PASSWORD_RESET_SENT"
 msgstr "Um link de redefinição de palavra-passe foi enviado para o endereço de email no nosso registo."
@@ -601,7 +601,7 @@ msgid "RELEASED"
 msgstr "Publicado"
 
 msgid "ROOT_FLIPNOTE"
-msgstr "Root Flipnote"
+msgstr "Flipnote de Origem"
 
 msgid "SAVE"
 msgstr "Guardar"
@@ -613,7 +613,7 @@ msgid "SEARCH"
 msgstr "Procurar"
 
 msgid "SEARCH_PAGE_FORM_PLACEHOLDER"
-msgstr "Username, FSID, song, artist, or channel"
+msgstr "Nome de Utilizador, FSID, canção, artista, ou canal"
 
 msgid "SEARCH_PAGE_FUZZY_SEARCH_TIP"
 msgstr "Dica: Podes introduzir coisas como 'Austin' e encontrar resultados como 'ÄuらtÎn'"
@@ -726,7 +726,7 @@ msgid "TERMS_OF_USE"
 msgstr "Termos de Uso"
 
 msgid "THIS_FLIPNOTE_IS_SPINOFF_OF"
-msgstr "This Flipnote is a spin-off of"
+msgstr "Este Flipnote é um spin-off de"
 
 # Sudomemo Shop
 msgid "TICKETS"
@@ -772,7 +772,7 @@ msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
 msgstr "Após ter juntado ao Servidor Discord do Sudomemo, copia e cola isto no chat."
 
 msgid "USER_SETTINGS_SUPPORT_TOKEN_EXPLANATION"
-msgstr "Support tokens are used to verify your account when contacting Sudomemo Support."
+msgstr "Tokens de Suporte são usados para verificar a tua conta quando entras em contacto com a Equipa de Suporte do Sudomemo."
 
 msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
 msgstr "Configurar o teu canal de YouTube interligado, e definições de upload do Flipnote."
