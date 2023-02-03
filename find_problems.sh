@@ -19,7 +19,7 @@ fi
 for lang in $(echo ??_?? | tr ' ' '\n' | grep $LANGFILTER); do
     echo "## $lang"
     echo
-    for domain in $(ls en_US/LC_MESSAGES/*.po | xargs -L1 -I{} basename {} .po); do
+    for domain in $(ls en_US/LC_MESSAGES/*.po | xargs -I{} basename {} .po); do
 
         # Missing locale file?
         if [ ! -f $lang/LC_MESSAGES/$domain.po ]; then
@@ -29,7 +29,7 @@ for lang in $(echo ??_?? | tr ' ' '\n' | grep $LANGFILTER); do
 
         # Wrong text encoding?
 
-        CHECK_ENCODING=$(file $lang/LC_MESSAGES/$domain.po | egrep -v "(UTF-8|ASCII|empty)")
+        CHECK_ENCODING=$(file $lang/LC_MESSAGES/$domain.po | grep -Ev "(UTF-8|ASCII|empty)")
 
         if [ ! -z "$CHECK_ENCODING" ]; then
             echo "$lang/LC_MESSAGES/$domain.po has wrong encoding: should be detected as UTF-8, ASCII, or empty"

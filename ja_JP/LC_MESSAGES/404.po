@@ -1,5 +1,5 @@
-msgid "WHERE_IS_IT"
-msgstr "Where is it?"
+msgid "CANT_FIND_THAT_USER"
+msgstr "作者が見つかりませんでした。"
 
 msgid "FLIPNOTE_NOT_FOUND"
 msgstr "作品が見つかりませんでした…"
@@ -7,6 +7,5 @@ msgstr "作品が見つかりませんでした…"
 msgid "I_CANT_FIND_THEM"
 msgstr "見つかりませんでした!"
 
-msgid "CANT_FIND_THAT_USER"
-msgstr "作者が見つかりませんでした。"
-
+msgid "WHERE_IS_IT"
+msgstr "Where is it?"
