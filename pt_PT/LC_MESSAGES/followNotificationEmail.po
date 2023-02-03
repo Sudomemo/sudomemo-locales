@@ -7,7 +7,7 @@ msgid "EMAIL_SUBJECT_FORMAT"
 msgstr "[Sudomemo] %s adicionou-te aos Favoritos"
 
 msgid "GREETING_FORMAT"
-msgstr "Hey %s!"
+msgstr "Olá %s!"
 
 msgid "NEW_FOLLOWER_ADDED_YOU_FORMAT"
 msgstr "%s acabou de te adicionar aos Favoritos."
