@@ -61,7 +61,7 @@ msgid "EXAMPLE"
 msgstr "Exemplo"
 
 msgid "FANS"
-msgstr "Fans"
+msgstr "Fãs"
 
 msgid "FAN_COUNT_FORMAT"
 msgstr "Fãs: %s"
@@ -80,10 +80,10 @@ msgstr "Usabilidade de Funções"
 
 # Matches button on page 4 of Flipnote Studio settings
 msgid "FLIPNOTE_FRIENDS"
-msgstr "Flipnote Friends"
+msgstr "Amigos do Flipnote"
 
 msgid "FLIPNOTE_FRIENDS_INFO"
-msgstr "Creators you've exchanged Flipnotes with"
+msgstr "Criadores com quem trocaste Flipnotes"
 
 msgid "FLIPNOTE_STUDIO_ID"
 msgstr "ID do Flipnote Studio"
