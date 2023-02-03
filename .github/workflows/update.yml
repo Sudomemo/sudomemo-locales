@@ -3,15 +3,13 @@ name: Clean/sort locale files
 on:
   push:
   workflow_dispatch:
-  schedule:
-    - cron:  '25 */6 * * *'
 
 jobs:
-  scheduled:
+  clean_locale_files:
     runs-on: ubuntu-latest
     steps:
     - name: Check out this repo
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
     - name: install dependencies
       run: |
         sudo apt-get install -y gettext
