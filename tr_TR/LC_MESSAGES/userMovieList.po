@@ -4,25 +4,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "UPPERTITLE"
-msgstr "Browse"
+msgstr "Keşfet"
 
 msgid "NEXT"
-msgstr "Next page"
+msgstr "Sonraki"
 
 msgid "PREV"
-msgstr "Previous page"
+msgstr "Önceki"
 
 msgid "PAGE"
-msgstr "Page"
+msgstr "Sayfa"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d of %d"
+msgstr "%d / %d"
 
 msgid "FLIPNOTES_BY_FORMAT"
-msgstr "Flipnotes by %s"
+msgstr "%s'ye göre Flipnotelar"
 
 msgid "STARRED_BY_FORMAT"
-msgstr "Starred by %s"
+msgstr "%s yıldız"
 
 msgid "FAVORITES_FEED_FORMAT"
-msgstr "%s's Favorites Feed"
+msgstr "%s kullanıcısının favori akışı"
