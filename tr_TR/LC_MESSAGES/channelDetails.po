@@ -4,43 +4,43 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CHANNEL_NAME"
-msgstr "Channel Name"
+msgstr "Kanal Adı"
 
 msgid "CHANNEL_INFORMATION"
-msgstr "Channel Information"
+msgstr "Kanal bilgisi"
 
 msgid "FLIPNOTES"
-msgstr "Flipnotes"
+msgstr "Flipnote'lar"
 
 msgid "CHANNEL_ID"
-msgstr "Channel ID"
+msgstr "Kanal ID'si"
 
 msgid "LOGIN_REQUIRED_TO_POST"
-msgstr "You must be logged in to post a Flipnote."
+msgstr "Flipnote paylaşmak için ilk önce oturum aç."
 
 msgid "CHANNEL_NOT_SPECIFIED"
-msgstr "You must pick a channel."
+msgstr "Bir kanal seçmen lazım."
 
 msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
-msgstr "You've been restricted from using Sudomemo."
+msgstr "Sudomemo kullanmaktan engellendin."
 
 msgid "FLIPNOTE_POST_FAILED"
-msgstr "Flipnote upload failed. Try again in a moment."
+msgstr "Flipnote'un yüklenemedi. Daha sonra tekrar dene."
 
 msgid "DUPLICATE_FLIPNOTE_FAILED"
-msgstr "This Flipnote has already been posted to Sudomemo. Try editing it again."
+msgstr "Bu Flipnote Sudomemo'ya zaten yüklenmiştir. Tekrar düzenleyerek yüklemeye çalış."
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "The Flipnote data is corrupted. Try again in a moment."
+msgstr "Bu Flipnote'un verileri bozuktur. Daha sonra tekrar dene."
 
 msgid "NO_BLANK_FLIPNOTES_ALLOWED"
-msgstr "You may not post an empty Flipnote."
+msgstr "Boş bir Flipnote yükleyemezsin."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Please confirm your email before posting."
+msgstr "Flipnote paylaşmadan önce lütfen e-postanı doğrula."
 
 msgid "NO_POSTS_WHILE_MUTED"
-msgstr "You may not post while you are muted."
+msgstr "Sessize alındığında bir şey paylaşamazsın."
 
 msgid "CATEGORY"
-msgstr "Category"
+msgstr "Kategori"
