@@ -4,109 +4,109 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "THEME_SHOP_LOGIN_REQUIRED"
-msgstr "You must be logged in to access the Theme Shop"
+msgstr "Tema Mağazası'na girmek için giriş yapman lazım."
 
 msgid "THEME_SHOP_MAINPAGE_HEADER"
-msgstr "Here at the Theme Shop you can purchase new themes for your Creator's Room!"
+msgstr "Tema Mağazası'nda, Kreatör Odan için yeni temalar satın alabilirsin!"
 
 msgid "THEME_SHOP_LEARN_MORE_HEADER"
-msgstr "Learn more about the Theme Shop"
+msgstr "Tema Mağazası hakkında daha fazla öğren"
 
 msgid "THEME_SHOP_REPORT_ISSUES_HEADER"
-msgstr "Tap this link to report a theme that isn't working properly."
+msgstr "Eğer bir şey iyi çalışmıyorsa bu linke tıkla."
 
 msgid "THEME_SHOP_MAINPAGE_EXCHANGE_COST_FORMAT"
-msgstr "Exchange for %d Green Stars"
+msgstr "%d yeşil yıldıza satın al"
 
 msgid "THEME_SHOP_MAINPAGE_FREE_STARTER_THEMES"
-msgstr "Free Starter Themes"
+msgstr "Ücretsiz Başlangıç Temaları"
 
 msgid "CONGRATULATIONS"
-msgstr "Congratulations!"
+msgstr "Tebrikler!"
 
 msgid "SEE_MORE"
-msgstr "See more"
+msgstr "Daha fazla"
 
 msgid "PREVIEW"
-msgstr "Preview"
+msgstr "Önizleme"
 
 msgid "BUY"
-msgstr "Buy"
+msgstr "Satın Al"
 
 msgid "THEME"
-msgstr "Theme"
+msgstr "Tema"
 
 msgid "PRICE"
-msgstr "Price"
+msgstr "Fiyat"
 
 msgid "CREATOR"
-msgstr "Creator"
+msgstr "Kreatör"
 
 msgid "DESCRIPTION"
-msgstr "Description"
+msgstr "Açıklama"
 
 msgid "YOU_HAVE"
-msgstr "Your Color Stars:"
+msgstr "Renkli Yıldızların:"
 
 msgid "USERNAME"
-msgstr "Username"
+msgstr "Kullanıcı Adı"
 
 msgid "CANCEL"
-msgstr "Cancel"
+msgstr "İptal"
 
 msgid "CONFIRM"
-msgstr "Confirm"
+msgstr "Kabul et"
 
 msgid "CREATORS_ROOM"
-msgstr "Creator's Room"
+msgstr "Kreatör Odası"
 
 msgid "SHOP_MENU"
-msgstr "Shop Menu"
+msgstr "Mağaza Menüsü"
 
 msgid "NO_DESCRIPTION_AVAILABLE"
-msgstr "No description"
+msgstr "Açıklama yok"
 
 msgid "THEME_SHOP_SELECT_PAYMENT"
-msgstr "Select Payment"
+msgstr "Ödeme yöntemi seç"
 
 msgid "THEME_SHOP_SELECTED_PAYMENT"
-msgstr "Selected Payment"
+msgstr "Seçilen ödeme yöntemi"
 
 msgid "THEME_SHOP_STAR_BALANCE_TOO_LOW"
-msgstr "Sorry, you don't have enough Green Stars for this theme."
+msgstr "Üzgünüz, bu tema için yeterince yeşil yıldızın yok."
 
 msgid "THEME_SHOP_CHOOSE_CAREFULLY_BEFORE_BUYING"
-msgstr "All purchases are permanent, please choose carefully before buying!"
+msgstr "Tüm ödemeler kalıcıdır, bu yüzden temanı dikkatli bir şekilde seç!"
 
 msgid "THEME_SHOP_YOU_OWN_THIS_THEME"
-msgstr "You already own this theme."
+msgstr "Bu tema sende zaten var."
 
 msgid "THEME_SHOP_PUBLIC_THEME"
-msgstr "All users have access to this theme for free."
+msgstr "Bu tema herkese bedava."
 
 msgid "THEME_SHOP_OWNED_THEME_TRANSACTION_FORMAT"
-msgstr "You purchased this theme on %s for %d Green Stars."
+msgstr "Bu temayı %s tarihinde %d yeşil yıldıza aldın."
 
 msgid "THEME_SHOP_CONFIRM_PURCHASE_BELOW"
-msgstr "Please confirm your purchase below."
+msgstr "Lütfen ödemeni aşağıda onayla."
 
 msgid "THEME_SHOP_STARS_LEFT_AFTER_PAYMENT"
-msgstr "Color Stars left after payment:"
+msgstr "Ödemeden sonra kalan renkli yıldızlar:"
 
 msgid "THEME_SHOP_POST_PURCHASE"
-msgstr "Your purchase was successful! Go to the \"My Themes\" section in your Creator's Room to select it!"
+msgstr "Ödeme başarıyla yapıldı! Temayı kullanmak için Kreatör Oda'nda \"Temalarım\" bölümüne git!"
 
 msgid "NAVIGATION_PREVIOUS"
-msgstr "Prev"
+msgstr "Önceki"
 
 msgid "NAVIGATION_NEXT"
-msgstr "Next"
+msgstr "Sonraki"
 
 msgid "THEME_SHOP_SAMPLE_PROFILE"
-msgstr "Sample Profile"
+msgstr "Örnek Profil"
 
 msgid "THEME_SHOP"
-msgstr "Theme Shop"
+msgstr "Tema Mağazası"
 
 msgid "DETAILS"
-msgstr "Details"
+msgstr "Ayrıntılar"
