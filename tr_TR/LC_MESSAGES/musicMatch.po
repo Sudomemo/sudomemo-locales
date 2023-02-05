@@ -4,42 +4,42 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "HEADER_SONG_DETAILS"
-msgstr "Song Details"
+msgstr "Şarkının ayrıntıları"
 
 # Song Name
 msgid "TITLE"
-msgstr "Title"
+msgstr "Ad"
 
 # Song Band/Artist
 msgid "ARTIST"
-msgstr "Artist"
+msgstr "Sanatçı"
 
 # Year song was published
 msgid "RELEASE_YEAR"
-msgstr "Released"
+msgstr "Yayınlama tarihi"
 
 msgid "GENRE"
-msgstr "Genre"
+msgstr "Tür"
 
 # How many Flipnotes are using this song?
 msgid "FLIPNOTE_COUNT"
-msgstr "Flipnotes"
+msgstr "Flipnote'lar"
 
 msgid "BROWSE"
-msgstr "Browse"
+msgstr "Göz at"
 
 msgid "SONG_ID"
-msgstr "Song ID"
+msgstr "Şarkının ID'si"
 
 msgid "LINK_YOUTUBE_SPOTIFY"
-msgstr "YouTube and Spotify links are available:"
+msgstr "YouTube ve Spotify linkleri mevcuttur:"
 
 msgid "LINK_YOUTUBE"
-msgstr "A YouTube link is available here:"
+msgstr "YouTube linki buradan alınabilir:"
 
 msgid "LINK_SPOTIFY"
-msgstr "A Spotify link is available here:"
+msgstr "Spotify linki buradan alınabilir:"
 
 # Creator instructions
 msgid "IF_SONG_INCORRECT"
-msgstr "If an incorrect song is shown on your Flipnote, you can update it on Sudomemo Theatre. To learn more, visit: https://flipnot.es/musicmatch"
+msgstr "Flipnote'unda yanlış bir şarkı gösteriliyorsa bunu Sudomemo Tiyatrosu'nda değiştirebilirsin. Daha fazlas öğrenmek için buraya tıkla: https://flipnot.es/musicmatch"
