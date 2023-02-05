@@ -16,10 +16,10 @@ msgid "HATENA_ID_VERIFICATION_INTRO"
 msgstr "Bu araç, Sudomemo Support ile görüşürken, bir Hatena Kimliğinin sahipliğini doğrulamanıza olanak tanır."
 
 msgid "HATENA_ID_VERIFICATION_INTRO_2"
-msgstr "Hatena Hesabınızda oturum açmanız istenecek ve ardından bir Destek Jetonu alacaksınız."
+msgstr "Hatena hesabındada oturum açman istenecek ve ardından bir Destek Jetonu alacaksın."
 
 msgid "LOGIN_FIRST_BEFORE_SUPPORT_TOKEN"
-msgstr "Zaten bir hesabınız var gibi görünüyor. Lütfen bir Destek Simgesi talep etmeden önce oturum açın."
+msgstr "Zaten bir hesabın var gibi görünüyor. Lütfen bir Destek Simgesi talep etmeden önce oturum aç."
 
 msgid "SUPPORT_TOKEN"
 msgstr "Destek Jetonu"
