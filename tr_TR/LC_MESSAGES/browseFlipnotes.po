@@ -7,31 +7,31 @@ msgid "SUDOMEMO"
 msgstr "Sudomemo"
 
 msgid "HEADER_FLIPNOTES"
-msgstr "Flipnotlar"
+msgstr "Flipnote'lar"
 
 msgid "HEADER_NORMAL"
 msgstr "Son"
 
 msgid "HEADER_HOT_FLIPNOTES"
-msgstr "Sıcak Flipnotlar"
+msgstr "Sıcak Flipnote'lar"
 
 msgid "HEADER_MOST_POPULAR"
 msgstr "En popüler"
 
 msgid "HEADER_NO_SPINOFFS"
-msgstr "Spinoff yok"
+msgstr "Spin-off yok"
 
 msgid "HEADER_ROLEPLAYS"
 msgstr "Rol yapma"
 
 msgid "HEADER_BROWSE_FLIPNOTES"
-msgstr "Flipnotes'a göz atın"
+msgstr "Flipnote'lara göz atın"
 
 msgid "HEADER_FEATURED_FLIPNOTES"
-msgstr "Öne Çıkan Flipnotlar"
+msgstr "Öne Çıkan Flipnote'lar"
 
 msgid "HEADER_RANDOM_FLIPNOTES"
-msgstr "Rastgele Flipnotlar"
+msgstr "Rastgele Flipnotle'ar"
 
 msgid "HEADER_PAGE"
 msgstr "Sayfa"
@@ -40,31 +40,31 @@ msgid "PAGE"
 msgstr "Sayfa"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d ile ilgili %d"
+msgstr "%d / %d"
 
 msgid "NEXT"
 msgstr "Sonraki"
 
 msgid "PREV"
-msgstr "Öncesi"
+msgstr "Önceki"
 
 msgid "POST_FLIPNOTE"
-msgstr "Post Flipnote"
+msgstr "Flipnote yükle"
 
 msgid "CATEGORY_recent"
-msgstr "@Son Flipnotlar"
+msgstr "@Son Flipnote'lar"
 
 msgid "CATEGORY_hot"
-msgstr "@Sıcak Flipnotlar"
+msgstr "@Sıcak Flipnote'lar"
 
 msgid "CATEGORY_popular"
 msgstr "@En popüler"
 
 msgid "CATEGORY_featured"
-msgstr "@Öne Çıkan Flipnotlar"
+msgstr "@Öne Çıkan Flipnote'lar"
 
 msgid "CATEGORY_random"
-msgstr "@Rastgele Flipnotlar"
+msgstr "@Rastgele Flipnote'lar"
 
 msgid "CATEGORY_feed"
-msgstr "@Beslemek"
+msgstr "@Feed"
