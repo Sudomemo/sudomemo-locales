@@ -4,19 +4,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "EMAIL_SUBJECT"
-msgstr "Sudomemo Signup Confirmation"
+msgstr "Sudomemo Üyelik Doğrulama"
 
 msgid "SIGNUP_HEADER"
-msgstr "Sudomemo Signup Confirmation"
+msgstr "Sudomemo Üyelik Doğrulama"
 
 msgid "TEXT_HELLO"
-msgstr "Hello!"
+msgstr "Selam!"
 
 msgid "TEXT_EMAIL_PURPOSE"
-msgstr "This email is to confirm your signup for Sudomemo."
+msgstr "Bu e-mail senin üyeliğini doğrulamak için gönderilmiştir."
 
 msgid "TEXT_VERIFICATION_LINK_FORMAT"
-msgstr "Click <a target=\"_blank\" href=\"%s\">here</a> to continue!"
+msgstr "Devam etmek için buraya tıkla: <a target=\"_blank\" href=\"%s\">here</a>"
 
 msgid "TEXT_URL_PLAIN_DISPLAY"
-msgstr "You may also copy and paste this URL into a new window:"
+msgstr "Bu linki kopyalayıp tarayıcında yapıştırarak da açabilirsin:"
