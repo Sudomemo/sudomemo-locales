@@ -9,22 +9,22 @@ msgid "SUDOMEMO"
 msgstr "Sudomemo"
 
 msgid "SUDOMEMO_THEATRE"
-msgstr "Sudomemo Theatre"
+msgstr "Sudomemo Tiyatrosu"
 
 msgid "SUDOMEMO_NEWS"
-msgstr "Sudomemo News"
+msgstr "Sudomemo Haberleri"
 
 msgid "SUDOMEMO_SHOP"
-msgstr "Sudomemo Shop"
+msgstr "Sudomemo Mağazası"
 
 msgid "SUDOMEMO_SHOP_META_DESCRIPTION"
-msgstr "Sudomemo Shop: Sudomemo merch, tickets for Plus and Stars, and other fun things!"
+msgstr "Sudomemo Mağazası: Sudomemo ürünleri, Plus ve Yıldızlar için biletler ve diğer eğlenceli şeyler!"
 
 msgid "DEFAULT_META_DESCRIPTION"
-msgstr "Sudomemo: Share your Flipnotes with the world! For Nintendo DSi and 3DS."
+msgstr "Sudomemo: Flipnote'larını tüm dünya ile paylaş! Nintendo DSi and 3DS için."
 
 msgid "FRONTPAGE_TITLE_TAGLINE"
-msgstr "Sudomemo: Flipnote Hatena is back!"
+msgstr "Sudomemo: Flipnote Hatena geri döndü!"
 
 msgid "VIEWPAGE_COMMENT_TEXTBOX"
 msgstr "Comment entry text box"
@@ -32,7 +32,7 @@ msgstr "Comment entry text box"
 # # "Username - 3 fans, 25 Flipnotes on Sudomemo"
 # # Not going to bother making plural variants
 msgid "PROFILE_DEFAULT_DESCRIPTION"
-msgstr "%s - %s fans, %s Flipnotes on Sudomemo"
+msgstr "%s - Sudomemo'da %s hayranı, %s Flipnote'u var"
 
 # Date-time formats
 # You can adjust the way dates display to match your region better.
@@ -42,56 +42,56 @@ msgstr "%s - %s fans, %s Flipnotes on Sudomemo"
 # Wednesday, December 3rd, 2019
 # Used for news articles
 msgid "DATETIME_WEEKDAY_MONTH_DAY_ORDINAL_YEAR_FORMAT"
-msgstr "l, F jS, Y"
+msgstr "l, jS F Y"
 
 # November 29th, 2019 08:23:07
 # Used for Flipnote Details
 msgid "DATETIME_MONTH_DAY_ORDINAL_HOUR_MINUTE_SECOND_FORMAT"
-msgstr "F jS, Y H:i:s"
+msgstr "jS F, Y H:i:s"
 
 # Very common terms and one-word translations
 msgid "ARTIST"
-msgstr "Artist"
+msgstr "Sanatçı"
 
 # Back, in the sense of navigation
 msgid "BACK"
-msgstr "Back"
+msgstr "Geri"
 
 msgid "CATEGORY"
-msgstr "Category"
+msgstr "Kategori"
 
 msgid "CHANNEL"
-msgstr "Channel"
+msgstr "Kanal"
 
 msgid "CHANNELS"
-msgstr "Channels"
+msgstr "Kanallar"
 
 msgid "COMMENTS"
-msgstr "Comments"
+msgstr "Yorumlar"
 
 msgid "CREATOR"
-msgstr "Creator"
+msgstr "Kreatör"
 
 msgid "CREATORS"
-msgstr "Creators"
+msgstr "Kreatörler"
 
 msgid "CREATORS_ROOM"
-msgstr "Creator's Room"
+msgstr "Kreatör Odası"
 
 msgid "DETAILS"
-msgstr "Details"
+msgstr "Ayrıntılar"
 
 msgid "DESCRIPTION"
-msgstr "Description"
+msgstr "Açıklama"
 
 msgid "DOWNLOADS"
-msgstr "Downloads"
+msgstr "İndirme sayısı"
 
 msgid "FANS"
-msgstr "Fans"
+msgstr "Hayranlar"
 
 msgid "FEATURED"
-msgstr "Featured"
+msgstr "Öne Çıkan"
 
 msgid "FLIPNOTE_ID"
 msgstr "Flipnote ID"
@@ -100,7 +100,7 @@ msgid "FLIPNOTE"
 msgstr "Flipnote"
 
 msgid "FLIPNOTES"
-msgstr "Flipnotes"
+msgstr "Flipnotelar"
 
 # This is short for Flipnote Studio ID. Leave it as "FSID" except in Japanese, where it should be うごメモID
 msgid "FSID"
@@ -111,97 +111,97 @@ msgid "FLIPNOTE_STUDIO_ID"
 msgstr "Flipnote Studio ID"
 
 msgid "GENRE"
-msgstr "Genre"
+msgstr "Tür"
 
 msgid "HELP_CENTER"
-msgstr "Help Center"
+msgstr "Yardım Merkezi"
 
 msgid "HOT"
-msgstr "Hot"
+msgstr "Çok izlenen"
 
 msgid "INFO"
-msgstr "Info"
+msgstr "Bilgi"
 
 msgid "LATEST"
-msgstr "Latest"
+msgstr "En yeni"
 
 msgid "MODERATOR"
-msgstr "Moderator"
+msgstr "Moderatör"
 
 msgid "MORE"
-msgstr "More"
+msgstr "Daha fazla"
 
 msgid "MUSICMATCH"
 msgstr "MusicMatch"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "Sonraki"
 
 msgid "NEWS"
-msgstr "News"
+msgstr "Haberler"
 
 # Channel permissions: Is posting Flipnotes to a channel allowed or not?
 msgid "PERMISSIONS"
-msgstr "Permissions"
+msgstr "İzinler"
 
 msgid "POPULAR"
-msgstr "Popular"
+msgstr "Popüler"
 
 # Previous, abbreviated "Prev". Should be a maximum of 4 characters.
 msgid "PREV"
-msgstr "Prev"
+msgstr "Geri"
 
 msgid "RANDOM"
-msgstr "Random"
+msgstr "Rastgele"
 
 # Referring to a release date/publishing date
 msgid "RELEASED"
-msgstr "Released"
+msgstr "Yükleme Tarihi"
 
 msgid "RANK"
-msgstr "Rank"
+msgstr "Sıralama"
 
 msgid "RECENT"
-msgstr "Recent"
+msgstr "En son"
 
 msgid "SAVE"
-msgstr "Save"
+msgstr "Kaydet"
 
 msgid "SAVING"
-msgstr "Saving"
+msgstr "Kaydediliyor"
 
 msgid "SEARCH"
-msgstr "Search"
+msgstr "Ara"
 
 msgid "SHARE"
-msgstr "Share"
+msgstr "Paylaş"
 
 msgid "SIGN_UP"
-msgstr "Sign Up"
+msgstr "Kaydol"
 
 msgid "SIGN_IN"
-msgstr "Sign in"
+msgstr "Giriş yap"
 
 msgid "SIGN_OUT"
-msgstr "Sign out"
+msgstr "Hesabından çık"
 
 msgid "STARS"
-msgstr "Stars"
+msgstr "Yıldızlar"
 
 msgid "TITLE"
-msgstr "Title"
+msgstr "Başlık"
 
 # Referring to being the most popular (in terms of ranking)
 msgid "TOP"
-msgstr "Top"
+msgstr "En popüler"
 
 # Number of times something has been viewed, or played.
 msgid "VIEWS"
-msgstr "Views"
+msgstr "Görüntüleme"
 
 # For MusicMatch
 msgid "SONG"
-msgstr "Song"
+msgstr "Şarkı"
 
 msgid "SUDOMEMO_PLUS"
 msgstr "Sudomemo Plus"
@@ -211,31 +211,31 @@ msgid "NAVBAR_TOGGLE_NAVIGATION"
 msgstr "Toggle navigation"
 
 msgid "NAVBAR_ITEM_SHOP"
-msgstr "Shop"
+msgstr "Mağaza"
 
 msgid "NAVBAR_ITEM_HELP"
-msgstr "Help"
+msgstr "Yardım"
 
 msgid "NAVBAR_ITEM_USEFUL_LINKS"
-msgstr "Useful Links"
+msgstr "Faydalı linkler"
 
 msgid "NAVBAR_ITEM_DISCORD"
 msgstr "Discord"
 
 msgid "NAVBAR_ITEM_HOW_TO_JOIN"
-msgstr "How to Join"
+msgstr "Nasıl kaydolunur"
 
 msgid "NAVBAR_ITEM_CONNECTION_HELP"
-msgstr "Connection Help"
+msgstr "Bağlantıda yardım"
 
 msgid "NAVBAR_ITEM_FAQS"
-msgstr "FAQs"
+msgstr "Sıkça sorulan sorular"
 
 msgid "TERMS_OF_USE"
-msgstr "Terms of Use"
+msgstr "Hizmet koşulları"
 
 msgid "NAVBAR_ITEM_CONTACT_US"
-msgstr "Contact Us"
+msgstr "Bize ulaş"
 
 msgid "NAVBAR_ITEM_TWITTER"
 msgstr "Twitter"
@@ -247,13 +247,13 @@ msgid "NAVBAR_ITEM_FACEBOOK"
 msgstr "Facebook"
 
 msgid "NAVBAR_ITEM_EMAIL"
-msgstr "Email"
+msgstr "E-mail"
 
 msgid "NAVBAR_ITEM_OTHER"
-msgstr "Other"
+msgstr "Diğer"
 
 msgid "NAVBAR_ITEM_CREDITS"
-msgstr "Credits"
+msgstr "Katkıda bulunanlar"
 
 msgid "NAVBAR_ITEM_ADMIN"
 msgstr "Admin"
@@ -262,411 +262,411 @@ msgid "NAVBAR_ITEM_SUDOMEMO_ADMIN"
 msgstr "Sudomin"
 
 msgid "NAVBAR_ITEM_REPORTED_FLIPNOTES"
-msgstr "Reported Flipnotes"
+msgstr "İşaretlenen Flipnote'lar"
 
 msgid "NAVBAR_ITEM_SWITCH_TO_USER_ACCOUNT"
-msgstr "Switch to user account"
+msgstr "Kullanıcı hesabına geç"
 
 # # Switch to dark mode
 msgid "NAVBAR_ITEM_LIGHTS_OFF"
-msgstr "Lights off"
+msgstr "Işıklar kapalı"
 
 # # Switch to light mode
 msgid "NAVBAR_ITEM_LIGHTS_ON"
-msgstr "Lights on"
+msgstr "Işıklar açık"
 
 # Front Page
 # # Alt tags, aria labels
 msgid "ALT_WEEKLY_TOPIC_BANNER"
-msgstr "Banner advertising the Weekly Topic"
+msgstr "Haftanın Konusu'nu tanıtan kapak resmi"
 
 msgid "ALT_USER_PROFILE_PICTURE"
-msgstr "%s's profile picture"
+msgstr "%s kullanıcısının profil resmi"
 
 msgid "ALT_DRAWN_COMMENT_BY_USER"
-msgstr "Drawn comment by %s"
+msgstr "%s kullanıcısının çizdiği yorum"
 
 # # Welcome to Sudomemo Box
 msgid "WELCOME_BOX_GREET_ADMIN"
-msgstr "Welcome back, %s"
+msgstr "Tekrar hoş geldin, %s"
 
 msgid "WELCOME_BOX_YOU_ARE_ADMIN"
-msgstr "You are logged in as an Administrator."
+msgstr "Admin olarak giriş yaptın."
 
 msgid "WELCOME_BOX_OPEN_SUDOMIN"
-msgstr "Open Sudomin"
+msgstr "Sudomin'i aç"
 
 # ## Our welcome box can change it's greeting, depending on time of day.
 # ## It is displayed like this:
 # ## Good afternoon, User! Happy Flipnoting!
 msgid "WELCOME_BOX_DEFAULT_GREETING"
-msgstr "Hello"
+msgstr "Merhaba"
 
 msgid "WELCOME_BOX_MORNING_GREETING"
-msgstr "Good morning"
+msgstr "Günaydın"
 
 msgid "WELCOME_BOX_AFTERNOON_GREETING"
-msgstr "Good afternoon"
+msgstr "İyi günler"
 
 msgid "WELCOME_BOX_EVENING_GREETING"
-msgstr "Good evening"
+msgstr "İyi akşamlar"
 
 # ## "Happy Flipnoting!" is one of our brand catchphrases. "Flipnoting" refers to the act of creating or watching Flipnotes.
 # ## Please don't translate "Flipnoting", except to Japanese where you could probably modify the word うごメモ.
 msgid "WELCOME_BOX_USERNAME_HAPPY_FLIPNOTING"
-msgstr ", %s! Happy Flipnoting!"
+msgstr ", %s! İyi Flipnote'lamalar!"
 
 msgid "WELCOME_BOX_WELCOME_TO"
-msgstr "Welcome to"
+msgstr "Hoş geldin!"
 
 # ## Another one of our taglines 
 msgid "WELCOME_BOX_SHARE_CREATIVITY_TAGLINE"
-msgstr "Share your creativity with the world!"
+msgstr "Kreativiteni tüm dünya ile paylaş!"
 
 msgid "WELCOME_BOX_WHAT_IS_SUDOMEMO"
-msgstr "Sudomemo is the place to share flipbook animations - called Flipnotes - created and posted from Flipnote Studio on the Nintendo DSi and 3DS."
+msgstr "Sudomemo, Nintendo 3DS ve DSi konsollerindeki Flipnote Studio'da oluşturulan ve paylaşılan Flipnote adlı flipbook animasyonlarının paylaşıldığı yerdir."
 
 msgid "WELCOME_BOX_HOW_TO_JOIN"
-msgstr "Learn how to Join!"
+msgstr "Nasıl kaydolunduğunu öğren!"
 
 # Give, in the same sense as "Donate"
 msgid "WELCOME_BOX_GIVE"
-msgstr "Give"
+msgstr "Ver"
 
 # # Flipnote sections
 msgid "FLIPNOTE_LIST_RECALCULATING"
-msgstr "The rankings are currently being recalculated. Try reloading the page in a few moments."
+msgstr "Sıralamalar şu an hesaplanıyor. Birkaç dakika sonra tekrar dene."
 
 msgid "RECENT_FLIPNOTES"
-msgstr "Recent Flipnotes"
+msgstr "En son Flipnote'lar"
 
 msgid "POPULAR_THIS_MONTH"
-msgstr "Popular This Month"
+msgstr "Bu ay popüler olan Flipnote'lar"
 
 msgid "HOT_FLIPNOTES"
-msgstr "Hot Flipnotes"
+msgstr "Çok sevilen Flipnote'lar"
 
 msgid "RANDOM_FLIPNOTES"
-msgstr "Random Flipnotes"
+msgstr "Rastgele Flipnote'lar"
 
 msgid "FEATURED_FLIPNOTES"
-msgstr "Featured Flipnotes"
+msgstr "Öne öıkan Flipnote'lar"
 
 # # Flipnote by...
 msgid "FLIPNOTE_BY_FORMAT"
-msgstr "Flipnote by %s"
+msgstr "Flipnote'ları buna göre sırala: %s"
 
 # # Comments section
 msgid "VIEWPAGE_COMMENT_WRITE_HERE"
-msgstr "Write here"
+msgstr "Buraya yaz"
 
 msgid "VIEWPAGE_COMMENT_POST_BUTTON"
-msgstr "Post Comment"
+msgstr "Yorum yaz"
 
 msgid "VIEWPAGE_ADD_MODERATOR_COMMENT"
-msgstr "Add Moderator Comment"
+msgstr "Moderatör yorumu ekle"
 
 msgid "VIEWPAGE_MODERATOR_COMMENT_WARNING"
-msgstr "Do not use this for personal comments."
+msgstr "Bunu özel ve kişisel yorumlar için kullanma."
 
 # ## This is composed of two parts: SIGN_IN and TO_ADD_A_COMMENT
 # ## SIGN_IN is a link to the login page, and TO_ADD_A_COMMENT is the part that comes after.
 # ## It reads as follows: Sign in to add a comment
 msgid "TO_ADD_A_COMMENT"
-msgstr "to add a comment"
+msgstr "Yorum yazmak için"
 
 # ## When the Post Comment button is pressed, it changes to "Posting..." and then "Posted!" when complete.
 msgid "VIEWPAGE_COMMENT_POSTING"
-msgstr "Posting..."
+msgstr "Paylaşılıyor..."
 
 msgid "VIEWPAGE_COMMENT_POSTED"
-msgstr "Posted!"
+msgstr "Yorumun başarıyla paylaşıldı!"
 
 # ## This can happen in cases of network failure or if the comment is rejected
 msgid "VIEWPAGE_COMMENT_FAILED"
-msgstr "Comment failed..."
+msgstr "Yorum paylaşılamadı..."
 
 # # Right sidebar
 msgid "FRONTPAGE_FLIPNOTE_SPOTLIGHT"
 msgstr "Flipnote Spotlight"
 
 msgid "FRONTPAGE_TRENDING_CREATORS"
-msgstr "Trending Creators"
+msgstr "Trendde Olan Kreatörler"
 
 # Flipnote View Page
 msgid "EDIT_FLIPNOTE"
-msgstr "Edit Flipnote"
+msgstr "Flipnote'u düzenle"
 
 msgid "REGION"
-msgstr "Region"
+msgstr "Bölge"
 
 # Comprising the continents of North and South America
 msgid "REGION_AMERICAS"
-msgstr "Americas"
+msgstr "Kuzey ve Güney Amerika"
 
 msgid "REGION_EUROPE_AND_OCEANIA"
-msgstr "Europe and Oceania"
+msgstr "Avrupa ve Okyanusya"
 
 msgid "REGION_JAPAN"
-msgstr "Japan"
+msgstr "Japonya"
 
 # Fallback region (this shouldn't happen)
 msgid "REGION_UNKNOWN"
-msgstr "Unknown"
+msgstr "Bilinmeyen bölge"
 
 msgid "SHARE_ON_FACEBOOK"
-msgstr "Share on Facebook"
+msgstr "Facebook'ta paylaş"
 
 msgid "SHARE_ON_TWITTER"
-msgstr "Share to Twitter"
+msgstr "Twitter'da paylaş"
 
 msgid "SHARE_ON_TUMBLR"
-msgstr "Share on Tumblr"
+msgstr "Tumblr'da paylaş"
 
 msgid "SHARE_ON_REDDIT"
-msgstr "Share to Reddit"
+msgstr "Reddit'te paylaş"
 
 msgid "VIEWPAGE_SPINOFFS"
-msgstr "Spin-offs"
+msgstr "Spin-off'lar"
 
 # # MusicMatch
 # ## Where the Flipnote's audio starts at in the song
 msgid "MUSICMATCH_AUDIO_OFFSET"
-msgstr "Starts at %s"
+msgstr "Burada başlıyor: %s"
 
 msgid "MUSICMATCH_LISTEN_ON_YOUTUBE_MUSIC"
-msgstr "Listen on YouTube Music"
+msgstr "YouTube Music'te dinle"
 
 msgid "MUSICMATCH_LISTEN_ON_SPOTIFY"
-msgstr "Listen on Spotify"
+msgstr "Spotify'de dinle"
 
 msgid "MUSICMATCH_ABOUT"
-msgstr "About MusicMatch"
+msgstr "MusicMatch hakkında"
 
 # # Original Flipnote / Spinoffs
 msgid "VIEWPAGE_ORIGINAL_FLIPNOTE"
-msgstr "Original Flipnote"
+msgstr "Orijinal Flipnote'lar"
 
 msgid "VIEWPAGE_ORIGINAL_FLIPNOTE_NOT_ON_SUDOMEMO"
-msgstr "The original Flipnote isn't on Sudomemo."
+msgstr "Bu Flipnote'un orijinali Sudomemo'da yok."
 
 # This shows as "by User" underneath the Flipnote thumbnail
 msgid "VIEWPAGE_RELATED_FLIPNOTE_BY"
-msgstr "by %s"
+msgstr "bu sıralamaya göre: %s"
 
 # Creator's Room (Profile)
 msgid "FOLLOWS_YOU"
-msgstr "Follows You"
+msgstr "Seni takip ediyor"
 
 msgid "FOLLOW_BACK"
-msgstr "Follow Back"
+msgstr "Sen de takip et"
 
 msgid "FOLLOWING"
-msgstr "Following"
+msgstr "Takip ettiğin"
 
 msgid "FOLLOW"
-msgstr "Follow"
+msgstr "Takip et"
 
 msgid "FOLLOWERS"
-msgstr "Followers"
+msgstr "Takipçiler"
 
 # # はてなID
 msgid "HATENA_ID"
 msgstr "Hatena ID"
 
 msgid "PROFILE_ABOUT_USERNAME"
-msgstr "About %s"
+msgstr "%s hakkında"
 
 # # User's ★ are from:
 msgid "PROFILE_STAR_COUNTRY_HEADER"
-msgstr "%s's ★s are from:"
+msgstr "%s kullanıcısının ★ları bu ülkelerden:"
 
 # # Recent comments on their Flipnotes
 msgid "PROFILE_RECENT_COMMENTS"
-msgstr "Recent comments"
+msgstr "En son yorumlar"
 
 # # channels that the user posts in most often
 msgid "PROFILE_USER_POSTS_IN"
-msgstr "%s posts in..."
+msgstr "%s kullanıcısı en çok ... kanalında Flipnote paylaşıyor."
 
 # Search page
 msgid "SEARCH_SUDOMEMO"
-msgstr "Search Sudomemo"
+msgstr "Sudomemo'da ara"
 
 msgid "SEARCH_PAGE_FORM_PLACEHOLDER"
-msgstr "Username, FSID, or channel"
+msgstr "Kullanıcı adı, FSID veya kanal"
 
 msgid "SEARCH_PAGE_FUZZY_SEARCH_TIP"
-msgstr "Tip: You can enter things like 'Austin' and find results like 'ÄuらtÎn'"
+msgstr "İpucu: 'Austin' gibi bir şey yazdığında 'ÄuらtÎn' gibi sonuçlar çıkabilir."
 
 msgid "SEARCH_PAGE_NO_RESULTS_FOUND"
-msgstr "No results found."
+msgstr "Sonuç bulunamadı."
 
 msgid "SEARCH_PAGE_TOO_MANY_MATCHED"
-msgstr "Your query matched too many creators - try something more specific."
+msgstr "Çok fazla kreatör bulundu - biraz daha spesifik ol."
 
 # # User hasn't posted any Flipnotes yet
 msgid "SEARCH_PAGE_NO_FLIPNOTES_YET"
-msgstr "No Flipnotes yet..."
+msgstr "Henüz Flipnote'u yok..."
 
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
-msgstr "You are editing this Flipnote:"
+msgstr "Bu Flipnote'u düzenliyorsun:"
 
 msgid "DESCRIPTION_WILL_GO_HERE"
-msgstr "Your description will go here."
+msgstr "Açıklaman burada olacak."
 
 msgid "COULD_NOT_SAVE_DETAILS"
-msgstr "Couldn't save details"
+msgstr "Ayrıntılar kaydedilemedi."
 
 msgid "PLUS_LEARN_MORE"
-msgstr "Learn more..."
+msgstr "Daha fazla öğrem..."
 
 msgid "EDIT_PAGE_SUDOMEMO_PLUS_REQUIRED"
-msgstr "You'll need Sudomemo Plus to use these features."
+msgstr "Bu özellikleri kullanabilmek için Sudomemo Plus üyesi olman lazım."
 
 # Flipnote smoothing
 msgid "EDIT_PAGE_PLUS_SMOOTHING"
-msgstr "Smoothing"
+msgstr "Yumuşatıcı"
 
 msgid "EDIT_PAGE_PLUS_AUDIO_ENHANCEMENT"
-msgstr "Audio Enhancement"
+msgstr "Ses geliştirme"
 
 msgid "EDIT_PAGE_FLIPNOTE_PREVIEW_NOTE"
-msgstr "Note: Flipnote preview does not update."
+msgstr "Uyarı: Flipnote önizlemesi yenilenmez."
 
 msgid "EDIT_PAGE_TITLE_AND_DESCRIPTION"
-msgstr "Title and Description"
+msgstr "Başlık ve açıklama"
 
 msgid "EDIT_PAGE_ENTER_A_TITLE"
-msgstr "Enter a title"
+msgstr "Bir başlık yaz"
 
 msgid "EDIT_PAGE_ENTER_A_DESCRIPTION"
-msgstr "Enter a description"
+msgstr "Bir açıklama yaz"
 
 msgid "EDIT_PAGE_TITLE_TOOLTIP"
-msgstr "Letters, numbers, and symbols, maximum of 40 characters."
+msgstr "Harfler, sayılar ve sembollerden en fazla 40 karakter."
 
 msgid "EDIT_PAGE_DESCRIPTION_TOOLTIP"
-msgstr "Letters, numbers, and symbols, maximum of 320 characters."
+msgstr "Harfler, sayılar ve sembollerden en fazla 320 karakter."
 
 # # MusicMatch
 msgid "EDIT_PAGE_ABOUT_MUSICMATCH_1"
-msgstr "Sudomemo's MusicMatch listens to your Flipnote to find what music it uses!"
+msgstr "Sudomemo'nun MusicMatch'i Flipnote'unu, hangi şarkının çalındığını anlamak için dinliyor!"
 
 msgid "EDIT_PAGE_ABOUT_MUSICMATCH_2"
-msgstr "MusicMatch will sometimes find more than one potential song, or pick the wrong one. If this happens, you can update the displayed song here."
+msgstr "Bazen MusicMatch birden fazla şarkı bulabilir hatta yanlış şarkıyı görüntüleyebilir. Öyle bir şey olursa, şarkıyı burada değiştirebilirsin."
 
 msgid "EDIT_PAGE_ABOUT_MUSICMATCH_3"
-msgstr "If you update the song, MusicMatch will learn from that information to better detect songs from Flipnote audio in the future."
+msgstr "Şarkıyı değiştirirsen, MusicMatch artık bu bilgi sayesinde Flipnote'lardan şarkıları daha iyi tespit edecek."
 
 msgid "EDIT_PAGE_MUSICMATCH_NO_BGM"
-msgstr "Your Flipnote does not have a background audio track."
+msgstr "Flipnote'unda herhangi bir şarkı yok."
 
 msgid "EDIT_PAGE_MUSICMATCH_UNMATCHED"
-msgstr "MusicMatch couldn't find any songs matching your Flipnote."
+msgstr "MusicMatch, Flipnote'una uygun herhangi bir şarkı bulamadı."
 
 msgid "EDIT_PAGE_MUSICMATCH_UNMAPPED"
-msgstr "MusicMatch hasn't gotten to your Flipnote yet. Check back again later."
+msgstr "MusicMatch için daha henüz senin Flipnote'una sıra gelmedi. Daha sonra tekrar bak."
 
 msgid "EDIT_PAGE_MUSICMATCH_PENDING_MAPPING"
-msgstr "MusicMatch is currently processing your Flipnote. Check back again later."
+msgstr "MusicMatch şu an Flipnote'unu işliyor. Daha sonra tekrar bak."
 
 msgid "EDIT_PAGE_MUSICMATCH_NONE_CORRECT"
-msgstr "None of these are correct"
+msgstr "Bunların hiçbirisi doğru değil"
 
 msgid "EDIT_PAGE_MUSICMATCH_PREVIEW_ON_YOUTUBE"
-msgstr "Preview on YouTube Music"
+msgstr "YouTube Music'te önizle"
 
 msgid "EDIT_PAGE_MUSICMATCH_PREVIEW_ON_SPOTIFY"
-msgstr "Preview on Spotify"
+msgstr "Spotify'da önizle"
 
 # Browse Song
 msgid "BROWSE_SONG_NO_FLIPNOTES_YET"
-msgstr "There have been no Flipnotes posted with this song yet."
+msgstr "Bu şarkıyla henüz hiçbir Flipnote paylaşılmadı."
 
 # # Referring to a music label/publishing company
 msgid "MUSIC_LABEL"
-msgstr "Label"
+msgstr "Etiket"
 
 # Browse Channel
 msgid "BROWSE_CHANNEL_NO_FLIPNOTES_YET"
-msgstr "There have been no Flipnotes posted to this channel yet."
+msgstr "Bu kanalda daha henüz bir Flipnote yüklenmedi."
 
 # # Posting permissions
 msgid "CHANNEL_PERM_CLOSED"
-msgstr "Closed"
+msgstr "Kapalı"
 
 msgid "CHANNEL_PERM_OPEN"
-msgstr "Open"
+msgstr "Açık"
 
 # # categories
 msgid "CHANNEL_CAT_NAME_NONE"
-msgstr "None"
+msgstr "Yok"
 
 msgid "CHANNEL_CAT_NAME_ART"
-msgstr "Art"
+msgstr "Sanat"
 
 msgid "CHANNEL_CAT_NAME_GENRES"
-msgstr "Genres"
+msgstr "Türler"
 
 msgid "CHANNEL_CAT_NAME_TOPICS"
-msgstr "Topics"
+msgstr "Konular"
 
 msgid "CHANNEL_CAT_NAME_ROLEPLAYS"
-msgstr "Roleplays"
+msgstr "Rol Oyunları"
 
 msgid "CHANNEL_CAT_NAME_FANDOMS"
-msgstr "Fandoms"
+msgstr "Fandom'lar"
 
 msgid "CHANNEL_CAT_NAME_RESOURCES"
-msgstr "Resources"
+msgstr "Kaynaklar"
 
 msgid "CHANNEL_CAT_NAME_PERSONAL"
-msgstr "Personal"
+msgstr "Kişisel"
 
 msgid "CHANNEL_CAT_NAME_WEEKLY_TOPIC"
-msgstr "Weekly Topic"
+msgstr "Haftanın Konusu"
 
 # 404 Page
 msgid "404_OOPS_NOT_FOUND"
-msgstr "Oops - That page couldn't be found"
+msgstr "Olamaz - Bu sayfa bulunamadı."
 
 msgid "404_WHOOPS_NOT_THERE"
-msgstr "Whoops! Whatever you were looking for, it wasn't there."
+msgstr "Olamaz! Neyi aradıysan burda yok."
 
 msgid "404_GO_BACK"
-msgstr "Back to Sudomemo Theatre"
+msgstr "Sudomemo Tiyatrosu'na geri dön"
 
 # Sudomemo Shop
 msgid "TICKETS"
-msgstr "Tickets"
+msgstr "Biletler"
 
 msgid "SUDOMEMO_SHOP_ABOUT_TICKETS_1"
-msgstr "Tickets are fun items on Sudomemo that you can redeem for Stars, Sudomemo Plus, and other things!"
+msgstr "Biletler, yıldızlar, Sudomemo Plus ve daha başka şeyler için kullanabileceğin eğlenceli ürünler!"
 
 msgid "SUDOMEMO_SHOP_ABOUT_TICKETS_2"
-msgstr "Once you have a ticket, you can redeem it in your Creator's Room by tapping on \"Redeem\" - or, you can give a ticket code as a gift to a friend!"
+msgstr "Bir biletin olduğunda, onu Kreatör Oda'nda \"Kullan\"'a tıklayarak kullanabilirsin, ya da bir bilet kodunu arkadaşına hediye edebilirsin!"
 
 msgid "SUDOMEMO_SHOP_LEARN_ABOUT_PLUS"
-msgstr "Learn about what you can do with Sudomemo Plus:"
+msgstr "Sudomemo Plus ile ne yapabileceğini öğren:"
 
 msgid "SUDOMEMO_SHOP_ALL_ABOUT_PLUS"
-msgstr "All About Sudomemo Plus"
+msgstr "Sudomemo Plus hakkında her şey"
 
 # # Ticket types..
 # Login Page
 msgid "LOGIN_FAILED_CHECK_DETAILS"
-msgstr "We couldn't log you in. Check the details you entered and try again."
+msgstr "Hesabına giriş yapılamadı. Girdiğin bilgileri kontrol et ve tekrar dene."
 
 msgid "LOGIN_PLACEHOLDER_USERNAME"
-msgstr "Email or Flipnote Studio ID"
+msgstr "E-posta ve Flipnote Studio ID"
 
 msgid "LOGIN_PLACEHOLDER_PASSWORD"
-msgstr "Password"
+msgstr "Şifre"
 
 msgid "LOGIN_SIGNUP_SELECT_DEVICE"
-msgstr "Select your device"
+msgstr "Bir cihaz seç"
 
 msgid "NINTENDO_DSI"
 msgstr "Nintendo DSi"
@@ -677,332 +677,332 @@ msgstr "Nintendo 3DS"
 # Additional things
 # See Flipnotes with the song <song name> by <band/artist name>
 msgid "BROWSE_SONG_YOU_ARE_BROWSING_SONG"
-msgstr "See Flipnotes with the song %s by %s"
+msgstr "%s sanatçısının %s şarkısını söylediği Flipnote'ları ara"
 
 msgid "TROPHY_CASE"
-msgstr "Trophy Case"
+msgstr "Kupa Vitrini"
 
 # This is shown to logged-in users on their own Flipnotes without titles
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
-msgstr "Untitled Flipnote by %s"
+msgstr "%s Kullanıcısının Başlıksız Flipnote'u"
 
 # Account Settings (Theatre)
 msgid "ACCOUNT_SETTINGS"
-msgstr "Account Settings"
+msgstr "Hesap Ayarları"
 
 msgid "YOUTUBE"
 msgstr "YouTube"
 
 msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
-msgstr "Configure your linked YouTube channel and default Flipnote upload settings."
+msgstr "Bağlandığın YouTube kanalını ve varsayılan Flipnote yükleme ayarlarını yapılandır."
 
 msgid "YOUTUBE_CONNECT_INTRO"
-msgstr "Connecting your YouTube channel lets you share your Flipnotes directly to YouTube!"
+msgstr "YouTube kanalına bağlanarak Flipnote'larını direkt YouTube'a yükle!"
 
 msgid "YOUTUBE_LINK_PROMPT"
-msgstr "Link your YouTube channel to upload your Flipnotes to YouTube."
+msgstr "Flipnote'larını YouTube'a yüklemek için YouTube kanalına bağlan."
 
 msgid "YOUTUBE_RECONNECT_PROMPT"
-msgstr "The connection to your channel is out of date. Please reconnect it to continue."
+msgstr "Kanalına olan bağlantı güncel değil. Lütfen kanalına tekrar bağlan."
 
 msgid "BTN_SIGN_IN_WITH_GOOGLE"
-msgstr "Sign in with Google"
+msgstr "Google ile giriş yap"
 
 msgid "YOUTUBE_ACCOUNT_UNVERIFIED"
-msgstr "Account unverified"
+msgstr "Hesap doğrulanmadı"
 
 msgid "YOUTUBE_ACCOUNT_VERIFIED"
-msgstr "Account verified"
+msgstr "Hesap doğrulandı"
 
 msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
-msgstr "Your YouTube account is unverified. Certain features will not function correctly, such as video thumbnails and Flipnotes longer than 15 minutes."
+msgstr "YouTube hesabın doğrulanmadı. Videoların küçük resmi ve 15 dakikadan uzun süren Flipnote'lar gibi bazı fonksiyonlar doğru çalışamayabilir."
 
 msgid "YOUTUBE_ACCOUNT_VERIFICATION_FIX_NOW"
-msgstr "Fix now"
+msgstr "Şimdi düzelt"
 
 # YouTube metadata
 # Extra description text: will be placed at the end of your video descriptions. 
 msgid "YOUTUBE_DEFAULT_SETTINGS_EXPLANATION"
-msgstr "These settings will be filled in automatically when you upload a Flipnote from your Nintendo DSi or 3DS. If you're uploading from Sudomemo Theatre, you'll be prompted to change or confirm these settings before starting the upload."
+msgstr "Nintendo DSi ve 3DS'inden Flipnote yüklediğinde bu ayarlar otomatik şekilde uygulanacak. Flipnote'unu Sudomemo Tiyatro'sundan paylaşıyorsan, yüklenmeden önce bu ayarlarını onaylaman ya da değiştirmen istenilecek."
 
 msgid "YOUTUBE_EXTRA_DESCRIPTION_TEXT"
-msgstr "Extra Description Text"
+msgstr "Ekstra Ayrıntı"
 
 msgid "YOUTUBE_EXTRA_DESCRIPTION_TEXT_EXPLANATION"
-msgstr "This text will display when viewers click on 'Show more' in your video's description."
+msgstr "Bu yazı, izleyiciler videonda 'Daha fazla'ya tıkladığında görülecek."
 
 msgid "YOUTUBE_TAGS"
-msgstr "Tags"
+msgstr "Etiketler"
 
 msgid "YOUTUBE_TAGS_HINT"
-msgstr "Tags, separated by comma."
+msgstr "Etiketler (virgül ile ayrılır)."
 
 msgid "YOUTUBE_TAGS_EXPLANATION"
-msgstr "Enter a comma after each tag"
+msgstr "Her etiketten sonra bir virgül yaz"
 
 msgid "YOUTUBE_LOOP_COUNT"
-msgstr "Number of plays"
+msgstr "Oynatma sayısı"
 
 msgid "YOUTUBE_LOOP_COUNT_EXPLANATION"
-msgstr "Number of times a looped Flipnote will repeat. Select 1 to only play once."
+msgstr "Döngüsel Flipnote'un oynatılma sayısı. 1 = sadece bir kere oynat."
 
 msgid "YOUTUBE_VISIBILITY"
-msgstr "Visibility"
+msgstr "Görünürlük"
 
 msgid "YOUTUBE_VISIBILITY_PUBLIC"
-msgstr "Public"
+msgstr "Herkese Açık"
 
 msgid "YOUTUBE_VISIBILITY_UNLISTED"
-msgstr "Unlisted"
+msgstr "Liste Dışı"
 
 msgid "YOUTUBE_VISIBILITY_PRIVATE"
-msgstr "Private"
+msgstr "Özel"
 
 # Upload page specifics
 # Upload to YouTube header
 msgid "HEADER_UPLOAD_TO_YOUTUBE"
-msgstr "Upload to YouTube"
+msgstr "YouTube'a yükle"
 
 msgid "LINK_REQUIRED_BEFORE_UPLOAD"
-msgstr "You'll need to link your YouTube channel before you can upload your Flipnote."
+msgstr "Flipnote'unu yüklemek için YouTube kanalına bağlanman gerek."
 
 msgid "BTN_GO_TO_SETTINGS"
-msgstr "Go to Settings"
+msgstr "Ayarlara git"
 
 msgid "UPLOAD_OPTIONS"
-msgstr "Upload Options"
+msgstr "Yükleme ayarları"
 
 msgid "YOUTUBE_TERMS_AGREEMENT_NOTE"
-msgstr "By submitting your videos to YouTube, you acknowledge that you agree to YouTube's Terms of Service and Community Guidelines."
+msgstr "Videolarını YouTube'a yükleyerek, YouTube'un hizmet koşullarını onaylamış oluyorsun."
 
 msgid "SUBMIT"
-msgstr "Submit"
+msgstr "Gönder"
 
 # Upload status
 msgid "UPLOAD_STATUS"
-msgstr "Upload Status"
+msgstr "Yükleme durumu"
 
 msgid "YOUTUBE_PENDING_UPLOAD"
-msgstr "Your Flipnote is currently waiting to be uploaded. Check back in a few minutes."
+msgstr "Flipnote'un yüklenmesi için bekleniyor. Lütfen birkaç dakika sonra yine bak."
 
 # Added to the queue at: 2020-07-08 02:46:38
 msgid "YOUTUBE_ADDED_TO_QUEUE_AT"
-msgstr "Added to the queue at:"
+msgstr "Şu zamanda kuyruğa eklenmiştir:"
 
 msgid "YOUTUBE_STATUS_TRACKER_NEW"
-msgstr "New"
+msgstr "Yeni"
 
 msgid "YOUTUBE_STATUS_TRACKER_PROCESSING"
-msgstr "Processing"
+msgstr "İşleniyor"
 
 msgid "YOUTUBE_STATUS_TRACKER_DONE"
-msgstr "Done!"
+msgstr "Bitti!"
 
 msgid "YOUTUBE_STATUS_WAITING_TO_BE_PROCESSED"
-msgstr "Your upload is currently waiting to be processed."
+msgstr "Videon işlenmesini bekliyor."
 
 msgid "YOUTUBE_STATUS_BEING_PROCESSED"
-msgstr "Your upload is currently being processed."
+msgstr "Videon şu an işlemde."
 
 msgid "YOUTUBE_STATUS_COMPLETE"
-msgstr "Your upload is complete!"
+msgstr "Videon yüklendi!"
 
 msgid "YOUTUBE_STATUS_FAILED_GONE"
-msgstr "The Flipnote disappeared before the upload could complete."
+msgstr "Bu Flipnote, yüklenmesi tamamlanmadan önce yok oldu."
 
 msgid "YOUTUBE_STATUS_FAILED_AUTH"
-msgstr "The upload failed due to an authentication problem."
+msgstr "Yüklenme bir kimlik doğrulama sorunundan dolayı durdurulmuştur."
 
 msgid "YOUTUBE_STATUS_FAILED_SERVICE_ERROR"
-msgstr "The upload failed due to a service error."
+msgstr "Yükleme bir hizmet hatasından dolayı durdurulmuştur."
 
 msgid "YOUTUBE_STATUS_FAILED_CLIENT_ERROR"
-msgstr "The upload failed due to a client error."
+msgstr "Yükleme bir istemci hatasından dolayı durdurulmuştur."
 
 msgid "YOUTUBE_STATUS_FAILED_UNEXPECTED_ERROR"
-msgstr "An unexpected error occurred during upload."
+msgstr "Yükleme sürecinde beklenmedik bir hata oluştu."
 
 msgid "YOUTUBE_STATUS_FAILED_UNKNOWN"
-msgstr "The upload failed for an unknown reason."
+msgstr "Yüklenme bilinmeyen sebeplerden dolayı bir durdurulmuştur."
 
 msgid "YOUTUBE_STATUS_PAUSED_GLOBAL_QUOTA"
-msgstr "Our global usage quota has been exceeded, so the upload may be significantly delayed."
+msgstr "Küresel kullanım kotamız aşılmıştır, bu yüzden videon geç yüklenilebilir."
 
 msgid "YOUTUBE_WATCH_NOW_AT"
-msgstr "Watch now:"
+msgstr "Şimdi izle:"
 
 msgid "BTN_START_UPLOAD"
-msgstr "Start Upload"
+msgstr "Yükle"
 
 msgid "BTN_STARTING_UPLOAD"
-msgstr "Starting..."
+msgstr "Başlıyor..."
 
 msgid "BTN_UPLOAD_FAILED"
-msgstr "Upload failed..."
+msgstr "Yükleme başarısız oldu..."
 
 msgid "FLIPNOTE_SETTINGS_UPLOAD_TO_YOUTUBE"
-msgstr "You can upload your Flipnote to your YouTube channel. Click the button below to get started."
+msgstr "Flipnote'unu YouTube kanalına yüklemek için alttaki tuşa bas."
 
 msgid "BTN_GET_STARTED"
-msgstr "Get Started"
+msgstr "Başla"
 
 msgid "YOUTUBE_ESTIMATED_DURATION"
-msgstr "Estimated video duration:"
+msgstr "Tahmini video süresi:"
 
 # Position in queue: 4 - means there are three uploads ahead of yours
 msgid "YOUTUBE_POSITION_IN_QUEUE"
-msgstr "Position in queue:"
+msgstr "Kuyruktaki sırası:"
 
 msgid "YOUTUBE_UPLOAD_HISTORY"
-msgstr "Upload History"
+msgstr "Yükleme geçmişi"
 
 msgid "YOUTUBE_UPLOAD_HISTORY_CLICK_ICON_TO_TRACK"
-msgstr "Click the status icon on the left to visit your video's live Upload Tracker!"
+msgstr "Videonun canlı yüklenme sürecini izlemek için durum sembolüne tıkla!"
 
 # We may need to limit uploads per day depending on our API quota usage rate
 msgid "YOUTUBE_UPLOAD_LIMIT"
-msgstr "You can currently upload %s videos to YouTube per day."
+msgstr "Şu an YouTube'a günde %s video yükleyebilirsin."
 
 msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_LIMIT_NOTE"
-msgstr "Sudomemo Plus members can upload %s videos per day."
+msgstr "Sudomemo Plus üyeleri günde %s video yükleyebilir."
 
 msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_UNLIMITED_NOTE"
-msgstr "Sudomemo Plus members can upload an unlimited number of videos each day."
+msgstr "Sudomemo Plus üyeleri günde sınırsız sayıda video yükleyebilir."
 
 msgid "YOUTUBE_UPLOAD_LIMIT_CURRENT"
-msgstr "You have uploaded %s videos so far today."
+msgstr "Bugün %s video yükledin."
 
 msgid "YOUTUBE_UPLOAD_LIMIT_EXCEEDED"
-msgstr "You can't upload any more videos until tomorrow."
+msgstr "Yarına kadar daha fazla video yükleyemezsin."
 
 msgid "SETTINGS"
-msgstr "Settings"
+msgstr "Ayarlar"
 
 msgid "PRIVACY_POLICY"
-msgstr "Privacy Policy"
+msgstr "Gizlilik Politikası"
 
 msgid "YOUTUBE_STATUS_FAILED_THUMB"
-msgstr "Your video was uploaded successfully, but we had a problem uploading the thumbnail."
+msgstr "Videon başarıyla yüklendi ama küçük resmi yüklerken hata oluştu."
 
 msgid "YOUTUBE_CHECK_FEATURES_THUMB"
-msgstr "Your YouTube channel might not be completely verified. For more information, you can check the status of Custom Thumbnails here:"
+msgstr "YouTube kanalın tam doğrulanmamış olabilir. Daha fazla bilgi için, özel küçük resminin durumuna buradan bakabilirsin:"
 
 msgid "YOUTUBE_REFRESH_ACCOUNT"
-msgstr "Refresh account"
+msgstr "Hesabı yenile"
 
 msgid "YOUTUBE_UNLINK_ACCOUNT"
-msgstr "Unlink account"
+msgstr "Hesabından bağlantıyı kes"
 
 msgid "YOUTUBE_UNLINK_ACCOUNT_CONFIRM"
-msgstr "Are you sure you want to remove your linked YouTube channel?"
+msgstr "Bağlandığın YouTube kanalını kaldırmak istediğinden emin misin?"
 
 msgid "VERIFIED_USER"
-msgstr "Verified User"
+msgstr "Onaylanmış kullanıcı"
 
 msgid "SHARE_ON_WHATSAPP"
-msgstr "Share via WhatsApp"
+msgstr "WhatsApp'ta paylaş"
 
 # This refers to Discord, which is a chat app.
 msgid "DISCORD"
 msgstr "Discord"
 
 msgid "DISCORD_HOW_TO_LINK"
-msgstr "How to Link"
+msgstr "Nasıl Bağlanılır"
 
 msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
-msgstr "After you've joined the Sudomemo Discord, copy and paste this into the chat."
+msgstr "Sudomemo Discord'una girdikten sonra şunu kopyala ve yapıştır."
 
 # Connected since December 27th, 2020
 msgid "DISCORD_LINKED_ON_DATE"
-msgstr "Connected since %s"
+msgstr "%s gününden beri bağlı"
 
 # Do not translate ".sudo unlink"
 msgid "HOW_TO_UNLINK_DISCORD"
-msgstr "To unlink your Discord account, type this command into chat: .sudo unlink"
+msgstr "Discord hesabından ayrılmak için şu komutu yaz: .sudo unlink"
 
 msgid "BTN_JOIN_DISCORD"
-msgstr "Join Discord"
+msgstr "Discord'a katıl"
 
 msgid "PASS_CHANGE_PASSWORD"
-msgstr "Change Password"
+msgstr "Şifreni değiştir"
 
 msgid "PASS_CHANGE_CONFIRM_PASSWORD"
-msgstr "Confirm Password"
+msgstr "Şifreni doğrula"
 
 msgid "PASS_CHANGE_COMPLETE"
-msgstr "Your password has been updated."
+msgstr "Şifren başarıyla değiştirildi."
 
 msgid "PASS_CHANGE_CONTINUE_TO_LOGIN"
-msgstr "Continue to login"
+msgstr "Giriş yapmaya devam et"
 
 msgid "HEADER_CHANGE_PASSWORD"
-msgstr "Change Password"
+msgstr "Şifreni değiştir"
 
 msgid "PASS_CHANGE_URL_EXPIRED"
-msgstr "The URL you visited has expired."
+msgstr "Tıkladığın URL'in süresi doldu."
 
 msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
-msgstr "No user found with that Flipnote Studio ID or email"
+msgstr "Girdiğin Flipnote Studio ID veya e-posta adresiyle hiçbir kullanıcı bulunamadı."
 
 msgid "NO_EMAIL_ON_FILE"
-msgstr "No email address on file -- contact Sudomemo Support"
+msgstr "E-posta adresi yok -- Sudomemo Desteği'ne danış"
 
 msgid "PASSWORD_RESET_SENT"
-msgstr "A password reset has been sent to the email address on file."
+msgstr "Şifreni değiştirmek için verilen e-posta adresine bir mail gönderilmiştir."
 
 msgid "FORGOT_YOUR_PASSWORD"
-msgstr "Forgot your password?"
+msgstr "Şifreni mi unuttun?"
 
 msgid "SUDOMEMO_USER"
-msgstr "Sudomemo User"
+msgstr "Sudomemo kullanıcısı"
 
 msgid "FLIPNOTE_ARCHIVE_BUTTON_TOGGLE"
-msgstr "Show link to archived Flipnote Hatena content from my profile"
+msgstr "Profilimde arşivlenmiş Flipnote Hatena içeriğinin linkini göster"
 
 msgid "FLIPNOTE_ARCHIVE_SETTINGS"
-msgstr "Archive Settings"
+msgstr "Arşiv ayarları"
 
 msgid "FLIPNOTE_ARCHIVE_PROFILE_AVAILABLE"
-msgstr "Your Flipnote Hatena profile is available through our Flipnote Archive Preview Program! You can view your old Flipnotes by visiting your profile on Sudomemo Theatre."
+msgstr "Flipnote Hatena profilin Flipnote Arşivi Önizleme Programı'mız üzerinden görünebilir! Eski Flipnote'larını Sudomemo Tiyatrosu'ndan profiline girerek izleyebilirsin."
 
 msgid "FLIPNOTE_ARCHIVE_PROFILE_SETTING_INFORMATION"
-msgstr "While logged in, your archive link will always be shown on your page. You can choose whether or not to make this visible to other users below."
+msgstr "Hesabın açıkken arşiv linkin hep sayfanda görünecek. Herkese açık olup olmamasını aşağıda belirleyebilirsin."
 
 msgid "FLIPNOTE_ARCHIVE_PROFILE_NOT_AVAILABLE"
-msgstr "An archived Flipnote Hatena profile is not available for this account."
+msgstr "Arşivlenmiş Flipnote Hatena profili bu hesap ile erişilemez."
 
 msgid "FLIPNOTE_HATENA_PROFILE"
-msgstr "Flipnote Hatena Profile"
+msgstr "Flipnote Hatena profili"
 
 msgid "ARCHIVE_PROFILE"
-msgstr "Archive Profile"
+msgstr "Arşiv profili"
 
 msgid "ARCHIVE_PROFILE_DESC"
-msgstr "This is an archive of a Flipnote Hatena profile."
+msgstr "Bu bir Flipnote Hatena profilinin arşividir."
 
 msgid "ARCHIVE_FLIPNOTE"
-msgstr "Archive Flipnote"
+msgstr "Arşiv Flipnote'u"
 
 msgid "ARCHIVE_FLIPNOTE_DESC"
-msgstr "This Flipnote was originally posted on Flipnote Hatena."
+msgstr "Bu Flipnote aslında Flipnote Hatena'da yüklenmiştir."
 
 msgid "VIEW_ON_SUDOMEMO"
-msgstr "View on Sudomemo"
+msgstr "Sudomemo'da göster"
 
 msgid "ARCHIVE"
-msgstr "Archive"
+msgstr "Arşiv"
 
 msgid "ARCHIVED"
-msgstr "Archived"
+msgstr "Arşivlenmiş"
 
 msgid "USERS_FLIPNOTE_FROM_FLIPNOTE_HATENA"
-msgstr "%s's Flipnote from Flipnote Hatena"
+msgstr "%s kullanıcısının Flipnote Hatena'daki Flipnote'ları"
 
 msgid "USERS_PROFILE_FROM_FLIPNOTE_HATENA"
-msgstr "%s's profile from Flipnote Hatena"
+msgstr "%s kullanıcısının Flipnote Hatena'daki profili"
 
 msgid "LEARN_MORE"
-msgstr "Learn more"
+msgstr "Daha fazla öğren"
 
 msgid "CONTINUE"
-msgstr "Continue"
+msgstr "Devam et"
