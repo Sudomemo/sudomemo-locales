@@ -5,55 +5,55 @@ msgstr ""
 
 # Content Removed - sent to user when a piece of their content has been moderated away
 msgid "NOTICE"
-msgstr "Notice"
+msgstr "Bildiri"
 
 # # Intro
 msgid "USER_CONTENT_REMOVED"
-msgstr "Something you posted was found to be in violation of Sudomemo's Content Policy and Terms of Use, and has been removed."
+msgstr "Paylaştığın bir içeriğin İçerik Politika'mızı ve Hizmet Koşulları'nı ihlal ettiği için kaldırılmıştır."
 
 # # Content types
 msgid "CONTENT_TYPE_flipnote"
 msgstr "Flipnote"
 
 msgid "CONTENT_TYPE_comment"
-msgstr "Comment"
+msgstr "Yorum"
 
 msgid "CONTENT_TYPE_chat_message"
-msgstr "Chat message"
+msgstr "Sohbet mesajı"
 
 # ## We plan on adding user-created themes.
 msgid "CONTENT_TYPE_room_theme"
-msgstr "Creator's Room theme"
+msgstr "Kreatör Odası teması"
 
 msgid "CONTENT_TYPE_profile_bio"
-msgstr "Profile text"
+msgstr "Biyografi"
 
 # ## Catch-all
 msgid "CONTENT_TYPE_content"
-msgstr "Other content"
+msgstr "Diğer içeriklert"
 
 # # continued message...
 msgid "REMOVAL_REASON_HEADER"
-msgstr "This content has been removed due to one or more of the following reasons:"
+msgstr "Bu içerik alttaki sebeplerden dolayı kaldırılmıştır:"
 
 msgid "CONTENT_POLICY_REVIEW_INTRO"
-msgstr "We understand that when content policies meet artistic expression, context and presentation must be taken into consideration."
+msgstr "Politikaların sanatsal ifadeleri ile karşı karşıya geldiklerinde, bağlamların ve sunumların dikkate alınması gerektiğini anlıyoruz."
 
 msgid "CONTENT_POLICY_REVIEW_LINK"
-msgstr "We'd like to encourage you to review our Content Policy here:"
+msgstr "İçerik Politika'mızı okumanı rica ederiz:"
 
 msgid "HOW_TO_APPEAL"
-msgstr "If you believe this to be in error, you can learn how to submit an appeal at:"
+msgstr "Bunun bir hata olduğunu düşünüyorsan, nasıl itiraz gönderebileceğini buradan öğrenebilirsin:"
 
 msgid "CONTENT_TYPE"
-msgstr "Content type:"
+msgstr "İçerik türü:"
 
 msgid "CONTENT_ID"
-msgstr "Content ID:"
+msgstr "İçerik ID'si:"
 
 # # re-download will be made available for certain content types
 msgid "REDOWNLOAD_HEADER"
-msgstr "If you would like to revise your %s, you may download it %s"
+msgstr "%s'ni gözden geçirmek istiyorsan, %s indirebilirsin."
 
 msgid "REDOWNLOAD_LINK"
-msgstr "here"
+msgstr "buradan"
