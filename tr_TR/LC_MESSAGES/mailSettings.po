@@ -7,7 +7,7 @@ msgid "HEADER_MAIL_SETTINGS"
 msgstr "Posta ayarları"
 
 msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
-msgstr "Posta ayarlarını düzenlemek için ilk önce oturumu açman gerek."
+msgstr "Posta ayarlarını düzenlemek için ilk önce oturum açman gerek."
 
 msgid "MAIL_TYPE"
 msgstr "Tür"
@@ -28,7 +28,7 @@ msgid "DISABLE"
 msgstr "Devre dışı bırak"
 
 msgid "TAP_TO_ENABLE"
-msgstr "Aktifleştirmek için tıkla"
+msgstr "Etkinleştirmek için tıkla"
 
 msgid "TAP_TO_DISABLE"
 msgstr "Devre dışı bırakmak için tıkla"
@@ -94,13 +94,13 @@ msgid "HEADER_CHANGE_EMAIL_SETTINGS"
 msgstr "E-posta adresini değiştir"
 
 msgid "DISABLE_CONFIRMATION_FORMAT"
-msgstr "'%s'den gelen e-postaları devre dışı bırakmak istediğinden emin misin?"
+msgstr "'%s kullanıcısından gelen e-postaları devre dışı bırakmak istediğinden emin misin?"
 
 msgid "REENABLE_INSTRUCTIONS"
 msgstr "Eğer tekrar etkinleştirmek istiyorsan, Kreatör Oda'nda <strong>E-posta ayarlarına</strong> tıkla."
 
 msgid "EMAIL_SETTING_DISABLED_FINISH_FORMAT"
-msgstr "'%s'den gelen e-postaları devre dışı bıraktın."
+msgstr "'%s kullanıcısından gelen e-postaları devre dışı bıraktın."
 
 msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
 msgstr "Tıkladığın linkin süresi doldu."
