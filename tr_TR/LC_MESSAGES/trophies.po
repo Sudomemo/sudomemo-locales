@@ -6,152 +6,152 @@ msgstr ""
 # Trophy Case
 # # UI Headers, messages, labels
 msgid "TROPHY_CASE"
-msgstr "Trophy Case"
+msgstr "Kupa Vitrini"
 
 msgid "CASE_IS_EMPTY"
-msgstr "The Trophy Case is empty."
+msgstr "Bu kupa vitrini boş."
 
 msgid "ACHIEVEMENT_EARNED"
-msgstr "Achievement Get!"
+msgstr "Başarım tamamlandı!"
 
 msgid "CONTINUE"
-msgstr "Continue"
+msgstr "Devam Et"
 
 # # Trophy names and descriptions
 msgid "TROPHY_NAME_demo_tester"
-msgstr "Demo Tester"
+msgstr "Demo tester"
 
 msgid "TROPHY_DESC_demo_tester"
-msgstr "Participate in the 2017 Sudomemo Update Demo Testing program"
+msgstr "2017 Sudomemo Güncelleme Demo Testi programına katıl"
 
 msgid "TROPHY_NAME_early_adopter"
-msgstr "Early Adopter"
+msgstr "Erken Benimseyen"
 
 msgid "TROPHY_DESC_early_adopter"
-msgstr "Join Sudomemo during our first month of service"
+msgstr "Sudomemo'ya çıkışın ilk ayında kaydol"
 
 msgid "TROPHY_NAME_featured_artist"
-msgstr "Featured Artist"
+msgstr "Öne Çıkan Sanatçı"
 
 msgid "TROPHY_DESC_featured_artist"
-msgstr "Get recognized as a Sudomemo Featured Artist"
+msgstr "Sudomemo'da öne çıkan sanatçı olarak tanın"
 
 msgid "TROPHY_NAME_featured_flipnote"
-msgstr "Featured Flipnote"
+msgstr "Öne Çıkan Flipnote'lar"
 
 msgid "TROPHY_DESC_featured_flipnote"
-msgstr "Have a Flipnote featured"
+msgstr "Flipnote'un öne çıksın"
 
 msgid "TROPHY_NAME_ffotd"
-msgstr "First Flipnote of the Decade"
+msgstr "Onyılın ilk Flipnote'u"
 
 msgid "TROPHY_DESC_ffotd"
-msgstr "Post the first Flipnote of a new decade"
+msgstr "Yeni onyılın ilk Flipnote'unu yükle"
 
 msgid "TROPHY_NAME_fifth_bday_event"
-msgstr "Sudomemo's Fifth Birthday Party"
+msgstr "Sudomemo'nun beşinci yıldönümü"
 
 msgid "TROPHY_DESC_fifth_bday_event"
-msgstr "Attended Sudomemo's fifth birthday party"
+msgstr "Sudomemo'nun beşinci doğum gününe katıl"
 
 msgid "TROPHY_NAME_legacy_citizen"
 msgstr "Legacy Citizen"
 
 msgid "TROPHY_DESC_legacy_citizen"
-msgstr "Had Sudomemo Citizenship before it became Plus"
+msgstr "Plus olmadan önce Sudomemo Citizen ol"
 
 msgid "TROPHY_NAME_meet_lazy_paisley"
-msgstr "Meet Lazy Paisley"
+msgstr "Lazy Paisley ile tanış"
 
 msgid "TROPHY_DESC_meet_lazy_paisley"
-msgstr "Enjoys his simple life. And food."
+msgstr "Basit hayatından hoşlanır. Ve yemekten."
 
 msgid "TROPHY_NAME_meet_bailey_flitwing"
-msgstr "Meet Bailey Flitwing"
+msgstr "Bailey Flitwing ile tanış"
 
 msgid "TROPHY_DESC_meet_bailey_flitwing"
-msgstr "Curious about the world outside her nest."
+msgstr "Dış dünyaya meraklı."
 
 msgid "TROPHY_NAME_meet_ziggy_starburst"
-msgstr "Meet Ziggy Starburst"
+msgstr "Ziggy Starburst ile tanış"
 
 msgid "TROPHY_DESC_meet_ziggy_starburst"
-msgstr "Living his life day by day with a touch of added flair."
+msgstr "Her gün biraz yetenekle yaşar."
 
 msgid "TROPHY_NAME_meet_russell_ramblewood"
-msgstr "Meet Russell Ramblewood"
+msgstr "Russell Ramblewood ile tanış"
 
 msgid "TROPHY_DESC_meet_russell_ramblewood"
-msgstr "He's flamboyant to a fault, but still wants to hear about your day."
+msgstr "Fazla gösterişlidir ama yine de gününden bahsetmeni ister."
 
 msgid "TROPHY_NAME_meet_mitsuo_meow"
-msgstr "Meet Mitsuo Meow"
+msgstr "Mitsuo Meow ile tanış"
 
 msgid "TROPHY_DESC_meet_mitsuo_meow"
-msgstr "Wants to bring good luck and happiness to everyone around her."
+msgstr "Etrafındaki herkese mutluluk saçmak ister."
 
 msgid "TROPHY_NAME_neighborhood_watch"
-msgstr "Neighborhood Watch"
+msgstr "Mahalle Nöbetçisi"
 
 msgid "TROPHY_DESC_neighborhood_watch"
-msgstr "Correctly flag content that violates our Content Policy"
+msgstr "İçerik politikamıza uymayan bir Flipnote'u işaretle."
 
 msgid "TROPHY_NAME_one_million_flips_event"
-msgstr "One Million Flipnotes Event"
+msgstr "Bir Milyon Flipnote Etkinliği"
 
 msgid "TROPHY_DESC_one_million_flips_event"
-msgstr "Attend the One-Million Flipnotes event"
+msgstr "Bir Milyon Flipnote Etkinliği'ne katıl."
 
 msgid "TROPHY_NAME_translator"
-msgstr "Translator"
+msgstr "Çevirmen"
 
 msgid "TROPHY_DESC_translator"
-msgstr "Contribute translations to make Sudomemo open to everyone"
+msgstr "Sudomemo'yu herkese açık hale getirmek için çevirmenlik programımıza katıl."
 
 msgid "TROPHY_NAME_weekly_topic_winner"
-msgstr "Weekly Topic Winner"
+msgstr "Haftalık Konuyu Kazan"
 
 msgid "TROPHY_DESC_weekly_topic_winner"
-msgstr "Submit a winning entry to Sudomemo's Weekly Topic"
+msgstr "Sudomemo'nun haftalık konusunda bir Flipnote'unla kazan."
 
 msgid "TROPHY_NAME_folder"
-msgstr "Folder"
+msgstr "Dosya"
 
 msgid "TROPHY_DESC_folder"
-msgstr "Donate spare compute time to Folding@Home to help fight disease"
+msgstr "Bilgisayarında boş vaktini Folding@Home'ye bağış yaparak geçirip hastalıklarla mücadele et."
 
 msgid "TROPHY_NAME_colors_promo"
-msgstr "Colors! x Sudomemo Topic Winner"
+msgstr "Renkler! x Sudomemo Haftalık Konu"
 
 msgid "TROPHY_DESC_colors_promo"
-msgstr "One of the winners of the Sudomemo x Colors joint topic, Into The Light"
+msgstr "Sudomemo x Colors konusunda kazananlaradan birisi konuya katıldı, Into The Light"
 
 msgid "TROPHY_NAME_spookmaster"
-msgstr "Spookmaster"
+msgstr "Hayalet"
 
 msgid "TROPHY_DESC_spookmaster"
-msgstr "Spookmaster Award for Excellence in Witchcraft and Wizardry."
+msgstr "Başarılı Sihirbazlık için Hayalet Ödülü."
 
 msgid "TROPHY_NAME_nitro_booster"
-msgstr "Nitro Booster"
+msgstr "Nitro Takviyecisi"
 
 msgid "TROPHY_DESC_nitro_booster"
-msgstr "Showed how cool they (or a friend) were by boosting the Sudomemo Discord server."
+msgstr "Sudomemo Discord sunucusunu takviye ederek ne kadar iyi olduğunu gösteren bir kupa."
 
 msgid "TROPHY_NAME_7th_birthday_bash"
-msgstr "7th Birthday Bash"
+msgstr "Yedinci Yıldönümü"
 
 msgid "TROPHY_DESC_7th_birthday_bash"
-msgstr "Attended Sudomemo's 7 Years of Flipnote Fun event"
+msgstr "Sudomemo'nun '7 Years of Flipnote Fun' programına katıldın."
 
 msgid "TROPHY_NAME_8th_birthday_bash"
-msgstr "8th Birthday Bash"
+msgstr "Sekizinci Yıldönümü"
 
 msgid "TROPHY_DESC_8th_birthday_bash"
-msgstr "Attended Sudomemo's 8 Years of Flipnote Fun event"
+msgstr "Sudomemo'nun '8 Years of Flipnote Fun' programına katıldın."
 
 msgid "TROPHY_NAME_archive_supporter"
-msgstr "Archive Supporter"
+msgstr "Arşiv Destekçisi"
 
 msgid "TROPHY_DESC_archive_supporter"
-msgstr "Contributor to the Flipnote Archive Ko-Fi to help preserve Flipnote history!"
+msgstr "Flipnote Arşivi Ko-Fi'sine destek olarak Flipnote tarihini korumakta yardımcı oldun!"
