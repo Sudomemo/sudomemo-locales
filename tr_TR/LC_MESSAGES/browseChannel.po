@@ -19,22 +19,22 @@ msgid "PAGE"
 msgstr "Sayfa"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d ile ilgili %d"
+msgstr "%d / %d"
 
 msgid "SPINOFFS"
-msgstr "yan ürünler"
+msgstr "Spin-off'lar"
 
 msgid "BROWSE_BY_SONG"
-msgstr "Şarkıya göre göz atın"
+msgstr "Şarkıya göre göz at"
 
 msgid "BROWSE_BY_ARTIST"
-msgstr "Sanatçıya göre göz atın"
+msgstr "Sanatçıya göre göz at"
 
 msgid "BROWSE_BY_ALBUM"
-msgstr "Albüme göre göz atın"
+msgstr "Albüme göre göz at"
 
 msgid "BROWSE_PLAYLIST"
-msgstr "Oynatma Listesine Gözat"
+msgstr "Oynatma Listesine göz at"
 
 msgid "SONG_DETAILS"
-msgstr "Song Details"
+msgstr "Şarkının ayrıntıları"
