@@ -33,53 +33,53 @@ msgid "MANAGE_PLUS_REMAINING"
 msgstr "Kalan Sudomemo Plus gün sayısı: %s"
 
 msgid "MANAGE_PLUS_HOW_TO_EARN_PLUS"
-msgstr "Sudomemo Plus can be earned by redeeming tickets purchased from our Shop or by entering a winning entry to our Weekly Topic."
+msgstr "Sudomemo Plus, mağazamızda satın alınan biletlerle veya Haftanın Konusu programımızda kazanarak elde edilebilir."
 
 msgid "AVAILABLE_PLUS_FEATURES"
-msgstr "The following features are available through Sudomemo Plus. Make sure to check back here every once in a while!"
+msgstr "Aşağıdaki özellikler Sudomemo Plus ile kullanılabilir. Arada sırada buraya bakmayı unutma!"
 
 msgid "FOOTNOTE_PLATFORM_FEATURE_PARITY"
-msgstr "Please note that some features, such as Flipnote Smoothing and audio enhancement, can only be seen on Sudomemo Theatre."
+msgstr "Lütfen Flipnote'ları yumuşatma ve seslerini düzeltme gibi bazı özelliklerini sadece Sudomemo Tiyatrosu'nda görülebileceğini unutma."
 
 msgid "FLIPNOTE_SMOOTHING"
-msgstr "Flipnote Smoothing"
+msgstr "Flipnote'u yumuşat"
 
 msgid "FLIPNOTE_AUDIO_ENHANCEMENT"
-msgstr "Flipnote Audio Enhancement"
+msgstr "Flipnote'un sesini düzelt"
 
 msgid "COLORFUL_COMMENTS"
-msgstr "Write colorful comments"
+msgstr "Renkli yorum yaz"
 
 msgid "DOWNLOAD_YOUR_COMMENTS"
-msgstr "Download your comments as Flipnotes"
+msgstr "Yorumlarını Flipnote olarak kaydet"
 
 msgid "THEME_PUBLISHER_ACCESS"
-msgstr "Publish themes to the Theme Shop"
+msgstr "Tema Mağazası'na tema yükle"
 
 msgid "FLIPNOTE_ANALYTICS"
-msgstr "Access analytics information for your Flipnotes"
+msgstr "Flipnote'larının analitik bilgilerine gözat"
 
 msgid "SUDOMEMO_GAME_ACCESS"
-msgstr "Play special games right on Sudomemo!"
+msgstr "Sudomemo'nun özel oyunlarını oyna!"
 
 msgid "NO_THEATRE_ADS"
-msgstr "No advertisements on Sudomemo Theatre"
+msgstr "Sudomemo Tiyatrosu'nda reklam yoktur."
 
 msgid "INCREASED_FOLLOW_LIMIT"
-msgstr "Increased follow limit - up to %s Creators"
+msgstr "Takip edecek Kreatör sayısının limiti %s sayısına yükseltilmiştir."
 
 # Sudomemo Plus Running Low Message
 msgid "PLUS_RUNNING_OUT_MSG_TITLE"
-msgstr "My Sudomemo Plus"
+msgstr "Sudomemo Plus üyeliğim"
 
 msgid "PLUS_RUNNING_OUT_MSG_INTRO"
-msgstr "Hello, %s!"
+msgstr "Selam, %s!"
 
 msgid "PLUS_RUNNING_OUT_MSG_DAYS_REMAINING_FORMAT"
-msgstr "This message is to let you know that you have %s days of Sudomemo Plus remaining."
+msgstr "Bu mesajla senin Sudomemo Plus üyeliğinin %s gün içinde sona ereceğini hatırlatmak istiyoruz."
 
 msgid "PLUS_RUNNING_OUT_MSG_HOW_TO_EARN_PLUS"
-msgstr "Don't forget that you can earn Sudomemo Plus by entering winning entries to the Weekly Topic, or by redeeming tickets purchased from our Shop."
+msgstr "Sudomemo Plus'ı Haftanın Konusu programımızda kazanarak veya mağazamızda bilet kullanarak elde edebileceğini unutma!"
 
 msgid "PLUS_RUNNING_OUT_MSG_HAPPY_FLIPNOTING"
-msgstr "Happy Flipnoting!"
+msgstr "İyi Flipnote'lamalar!"
