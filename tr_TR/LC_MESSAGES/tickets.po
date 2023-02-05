@@ -5,244 +5,244 @@ msgstr ""
 
 # Code Redemption
 msgid "REDEEM_CODE"
-msgstr "Redeem Code"
+msgstr "Kod Kullan"
 
 msgid "ENTER_CODE_TO_REDEEM"
-msgstr "Enter the code you'd like to redeem below."
+msgstr "Kullanmak istediğin kodu aşağıya gir."
 
 msgid "CODE_ALREADY_USED"
-msgstr "The code you entered has already been used."
+msgstr "Girdiğin kod daha önce zaten kullanıldı."
 
 msgid "CODE_INVALID"
-msgstr "The code you entered is invalid."
+msgstr "Girdiğin kod geçersiz."
 
 msgid "CODE_NONEXISTING_OR_EXPIRED"
-msgstr "The code you entered doesn't exist or has expired."
+msgstr "Girdiğin kod yok ya da süresi doldu."
 
 msgid "LOGIN_REQUIRED_REDEEM_CODE"
-msgstr "You must be logged in to redeem a code."
+msgstr "Kod girmek için lütfen giriş yap."
 
 # Ticket delivery
 msgid "YOU_GOT_A_TICKET"
-msgstr "You got a ticket!"
+msgstr "Bir biletin var!"
 
 msgid "CONTINUE"
-msgstr "Continue"
+msgstr "Devam Et"
 
 # Inventory
 msgid "INVENTORY"
-msgstr "Inventory"
+msgstr "Envanter"
 
 msgid "USE_ITEM"
-msgstr "Use"
+msgstr "Kullan"
 
 msgid "INVENTORY_IS_EMPTY"
-msgstr "Your inventory is empty."
+msgstr "Envanterin dolu."
 
 # Ticket redemption
 msgid "TICKET_REDEEM_WIN_FORMAT"
-msgstr "You redeemed the %s!"
+msgstr "%s biletini kullandın!"
 
 msgid "TICKET_REDEEM_LOSE_FORMAT"
-msgstr "You redeemed the %s, but..."
+msgstr "%s biletini kullandın ama..."
 
 msgid "TICKET_REDEEM_NO_PRIZES"
-msgstr "You didn't win anything. Sorry!"
+msgstr "Bir şey kazanmadın. Üzgünüz!"
 
 msgid "ACHIEVEMENT"
-msgstr "Achievement"
+msgstr "Başarı"
 
 msgid "COLOR_STARS"
-msgstr "Color Stars"
+msgstr "Renkli Yıldızlar"
 
 msgid "CREATORS_ROOM_THEME"
-msgstr "Creator's Room Theme"
+msgstr "Kreatör Odası Teması"
 
 msgid "SUDOMEMO_CITIZENSHIP"
-msgstr "Sudomemo Citizenship"
+msgstr "Sudomemo Vatandaşlığı"
 
 msgid "THEME_AVAILABLE_FOR_USE"
-msgstr "You can now use this theme in your Creator's Room!"
+msgstr "Bu temayı artık Kreatör Oda'nda kullanabilirsin!"
 
 msgid "SUDOMEMO_PLUS"
 msgstr "Sudomemo Plus"
 
 msgid "SUDOMEMO_PLUS_FORMAT"
-msgstr "You received %s days worth of Sudomemo Plus!"
+msgstr "%s günlük Sudomemo Plus'ın oldu!"
 
 msgid "SUDOMEMO_PLUS_BALANCE_FORMAT"
-msgstr "Balance: %s days"
+msgstr "Kalan gün sayısı: %s"
 
 # Each ticket type will have a name and a description 
 msgid "TICKET_NAME_demo_ticket"
-msgstr "Demo Ticket"
+msgstr "Demo Bilet"
 
 msgid "TICKET_DESC_demo_ticket"
-msgstr "Obviously, this is the description for the demo ticket."
+msgstr "Bu tabii ki demo biletin açıklamasıdır.."
 
 msgid "TICKET_NAME_regular_ticket"
-msgstr "Regular Ticket"
+msgstr "Normal bilet"
 
 msgid "TICKET_DESC_regular_ticket"
-msgstr "Thank you for using Sudomemo!"
+msgstr "Sudomemo kullandığın için teşekkür ederiz!"
 
 msgid "TICKET_NAME_twitter_promo_ticket"
-msgstr "Twitter Promo Ticket"
+msgstr "Twitter Promosyon Bileti"
 
 msgid "TICKET_DESC_twitter_promo_ticket"
-msgstr "Thanks for following the Sudomemo Twitter!"
+msgstr "Sudomemo Twitter hesabını takip ettiğin için teşekkür ederiz!"
 
 msgid "TICKET_NAME_instagram_promo_ticket"
-msgstr "Instagram Promo Ticket"
+msgstr "Instagram Promosyon Bileti"
 
 msgid "TICKET_DESC_instagram_promo_ticket"
-msgstr "Thanks for following the Sudomemo Instagram!"
+msgstr "Sudomemo Instagram hesabını takip ettiğin için teşekkür ederiz!"
 
 msgid "TICKET_NAME_weekly_topic_winner_ticket"
-msgstr "Weekly Topic Winner Ticket"
+msgstr "Haftalık Konu'yu Kazananlar Bileti"
 
 msgid "TICKET_DESC_weekly_topic_winner_ticket"
-msgstr "Congratulations on winning the Sudomemo Weekly Topic!"
+msgstr "Sudomemo Haftalık Konu'yu kazandığın için tebrik ederiz!"
 
 msgid "TICKET_NAME_birthday_ticket"
-msgstr "Birthday Ticket"
+msgstr "Doğum Günü Bileti"
 
 msgid "TICKET_DESC_birthday_ticket"
-msgstr "Happy Birthday!"
+msgstr "Mutlu yıllar!"
 
 msgid "TICKET_NAME_love_anniversary_ticket"
-msgstr "Anniversary Ticket"
+msgstr "Yıldönümü Bileti"
 
 # The last character of this message is the DSi symbol for a heart. Don't remove it.
 msgid "TICKET_DESC_love_anniversary_ticket"
-msgstr "Happy Anniversary "
+msgstr "Mutlu yıldönümleri "
 
 # Sudomemo Plus
 msgid "TICKET_NAME_one_month_plus_ticket"
-msgstr "Plus Ticket (One Month)"
+msgstr "Plus Bileti (bir ay)"
 
 msgid "TICKET_DESC_one_month_plus_ticket"
-msgstr "This ticket will give you one month of Sudomemo Plus!"
+msgstr "Bu bilet ile bir ay Sudomemo Plus üyesi olacaksın!"
 
 msgid "TICKET_NAME_one_year_plus_ticket"
-msgstr "Plus Ticket (One Year)"
+msgstr "Plus Bileti (bir yıl)"
 
 msgid "TICKET_DESC_one_year_plus_ticket"
-msgstr "This ticket will give you one year of Sudomemo Plus!"
+msgstr "Bu bilet ile bir yıl Sudomemo Plus üyesi olacaksın!"
 
 msgid "DONT_HAVE_ANY_TO_USE"
-msgstr "You don't have any of that item to use."
+msgstr "Bu öğe sende yok."
 
 msgid "TICKET_NAME_ffotd_ticket"
-msgstr "First Flipnote of the Decade"
+msgstr "Onyılın ilk Flipnote'u"
 
 msgid "TICKET_DESC_ffotd_ticket"
-msgstr "Congratulations! You posted the first Flipnote of the new decade!"
+msgstr "Tebrikler! Onyılın ilk Flipnote'unu yükledin!"
 
 msgid "TICKET_NAME_survey_thanks_ticket"
-msgstr "Survey Ticket"
+msgstr "Anket Bileti"
 
 msgid "TICKET_DESC_survey_thanks_ticket"
-msgstr "Thanks for filling out our survey!"
+msgstr "Anketimizi doldurduğun için teşekkür ederiz!"
 
 msgid "TICKET_NAME_special_someone_ticket"
-msgstr "Special Someone Ticket"
+msgstr "Özel Birisine Bir Bilet"
 
 msgid "TICKET_DESC_special_someone_ticket"
-msgstr "For that special someone. Three months of Plus, Color Stars, and an exclusive theme."
+msgstr "O özel kişi için üç aylık Plus üyeliği, renkli yıldızlar ve özel bir tema."
 
 msgid "TICKET_NAME_folding_reward_ticket"
-msgstr "Folding@Home Reward Ticket"
+msgstr "Folding@Home Ödül Bileti"
 
 msgid "TICKET_DESC_folding_reward_ticket"
-msgstr "Thanks for helping save lives!"
+msgstr "Hayat kurtarmakta yardımcı olduğun için teşekkür ederiz!"
 
 msgid "TICKET_NAME_green_panda_ticket"
-msgstr "Lazy Paisley Ticket"
+msgstr "Lazy Paisley Bileti"
 
 msgid "TICKET_DESC_green_panda_ticket"
-msgstr "This ticket gives you 110 spendable Sudomemo Stars, an exclusive theme, and a special badge displayed on your profile!"
+msgstr "Bu biletle 110 harcanabilir Sudomemo yıldızı, özel bir tema ve profilinde gözükecek özel bir rozet elde edeceksin!"
 
 msgid "TICKET_NAME_red_bird_ticket"
-msgstr "Bailey Flitwing Ticket"
+msgstr "Bailey Flitwing Bileti"
 
 msgid "TICKET_DESC_red_bird_ticket"
-msgstr "This ticket gives you 230 spendable Sudomemo Stars, an exclusive theme, and a special badge displayed on your profile!"
+msgstr "Bu biletle 230 harcanabilir Sudomemo yıldızı, özel bir tema ve profilinde gözükecek özel bir rozet elde edeceksin!"
 
 msgid "TICKET_NAME_blue_dog_ticket"
-msgstr "Ziggy Starburst Ticket"
+msgstr "Ziggy Starburst Bileti"
 
 msgid "TICKET_DESC_blue_dog_ticket"
-msgstr "This ticket gives you 350 spendable Sudomemo Stars (maybe even a rare one!), an exclusive theme, and a special badge displayed on your profile!"
+msgstr "Bu biletle 350 harcanabilir Sudomemo yıldızı (belki nadir bir yıldız da olabilir!), özel bir tema ve profilinde gözükecek özel bir rozet elde edeceksin!"
 
 msgid "TICKET_NAME_purple_bunny_ticket"
-msgstr "Russell Ramblewood Ticket"
+msgstr "Russell Ramblewood Bileti"
 
 msgid "TICKET_DESC_purple_bunny_ticket"
-msgstr "This ticket gives you 600 spendable Sudomemo Stars (very likely some rare ones!), an exclusive theme, and a special badge displayed on your profile!"
+msgstr "Bu biletle 600 harcanabilir Sudomemo yıldızı (büyük bir ihtimalle nadir bir yıldız da olabilir!), özel bir tema ve profilinde gözükecek özel bir rozet elde edeceksin!"
 
 msgid "TICKET_NAME_golden_neko_ticket"
-msgstr "Mitsuo Meow Ticket"
+msgstr "Mitsuo Meow Bileti"
 
 msgid "TICKET_DESC_golden_neko_ticket"
-msgstr "This ticket gives you 1300 spendable Sudomemo Stars (with multiple rare ones!), an exclusive theme, and a special badge displayed on your profile!"
+msgstr "Bu biletle 1300 harcanabilir Sudomemo yıldızı (farklı nadir yıldızlarla birlikte!), özel bir tema ve profilinde gözükecek özel bir rozet elde edeceksin!"
 
 msgid "TICKET_NAME_translator_ticket"
-msgstr "Translator Ticket"
+msgstr "Çevirmen Bileti"
 
 msgid "TICKET_DESC_translator_ticket"
-msgstr "Thank you for helping localize Sudomemo!"
+msgstr "Sudomemo'yu çevirmekte katkıda bulunduğun için teşekkür ederiz!"
 
 msgid "TICKET_NAME_colors_promo_ticket"
-msgstr "Colors! Promo Ticket"
+msgstr "Colors! Promosyon Bileti"
 
 msgid "TICKET_DESC_colors_promo_ticket"
-msgstr "You won the Sudomemo x Colors! June 2020 Weekly Topic!"
+msgstr "Sudomemo x Colors! Haziran 2020 Haftanın Konusu'nu kazandın!"
 
 msgid "TICKET_NAME_neighborhood_watch_ticket"
-msgstr "Neighborhood Watch Ticket"
+msgstr "Mahalle Nöbetçisi Bileti"
 
 msgid "TICKET_DESC_neighborhood_watch_ticket"
-msgstr "Thank you helping keep Sudomemo a safe and welcoming place!"
+msgstr "Sudomemo'yu güvenli ve misafirperver bir yere çevirdiğin için teşekkür ederiz!"
 
 msgid "TICKET_NAME_featured_flipnote_ticket"
-msgstr "Featured Flipnote Ticket"
+msgstr "Öne Çıkan Flipnote Bileti"
 
 msgid "TICKET_DESC_featured_flipnote_ticket"
-msgstr "Congratulations! One of your Flipnotes was featured."
+msgstr "Tebrikler! Flipnote'larından birisi öne çıktı."
 
 msgid "TICKET_NAME_featured_artist_ticket"
-msgstr "Featured Artist Ticket"
+msgstr "Öne Çıkan Sanatçı Bileti"
 
 msgid "TICKET_DESC_featured_artist_ticket"
-msgstr "We give our warm congratulations to you for becoming a Sudomemo Featured Artist!"
+msgstr "Sudomemo'da Öne Çıkan Sanatçı olduğun için seni tebrik ederiz!"
 
 msgid "TICKET_NAME_spookmaster_ticket"
-msgstr "Spookmaster Ticket"
+msgstr "Hayalet Bileti"
 
 msgid "TICKET_DESC_spookmaster_ticket"
-msgstr "Thank you so much for playing SudoQuest: Requiem! We hope you enjoyed the game."
+msgstr "SudoQuest: Requiem! oyununu oynadığın için çok teşekkür ederiz. Oyunu beğendiğini umarız."
 
 msgid "TICKET_NAME_nitro_booster_ticket"
-msgstr "Nitro Booster Ticket"
+msgstr "Nitro Takviyeci Bileti"
 
 msgid "TICKET_DESC_nitro_booster_ticket"
-msgstr "Hey, you! You're awesome! Thanks for boosting the Sudomemo Discord!"
+msgstr "Hey, sen! Sen harikasın! Sudomemo Discord sunucumuzu takviye ettiğin için teşekkür ederiz!"
 
 msgid "TICKET_NAME_7th_birthday_bash_ticket"
-msgstr "7th Birthday Bash Ticket"
+msgstr "Yedinci Yıldönümü Partisi Bileti"
 
 msgid "TICKET_DESC_7th_birthday_bash_ticket"
-msgstr "Thanks for attending our Birthday Bash!"
+msgstr "Yıldönümü partimize katıldığın için teşekkür ederiz!"
 
 msgid "TICKET_NAME_8th_birthday_bash_ticket"
-msgstr "8th Birthday Bash Ticket"
+msgstr "Sekizinci Yıldönümü Partisi Bileti"
 
 msgid "TICKET_DESC_8th_birthday_bash_ticket"
-msgstr "Thanks for attending our Birthday Bash!"
+msgstr "Yıldönümü partimize katıldığın için teşekkür ederiz!"
 
 msgid "TICKET_NAME_archive_supporter_ticket"
-msgstr "Archive Supporter Ticket"
+msgstr "Arşiv Destekçisi Bileti"
 
 msgid "TICKET_DESC_archive_supporter_ticket"
-msgstr "Thank you for helping preserve Flipnote history!"
+msgstr "Flipnote tarihini korumakta yardımcı olduğun için teşekkür ederiz!"
