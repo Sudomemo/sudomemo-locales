@@ -5,32 +5,32 @@ msgstr ""
 
 # Sudomemo Plus Legacy Citizenship Activation
 msgid "SUDOMEMO_PLUS_LEGACY_HEADER"
-msgstr "Welcome to Sudomemo Plus!"
+msgstr "Sudomemo Plus'a hoş geldin!"
 
 msgid "GREETING_LEGACY_ACTIVATE_FORMAT"
-msgstr "Hello, %s!"
+msgstr "Selam, %s!"
 
 msgid "LEGACY_ACTIVATE_CITIZENSHIP_CHANGE"
-msgstr "Sudomemo Citizenship has gone away, replaced by Sudomemo Plus!"
+msgstr "Sudomemo Vatandaşlığı'nın yerine artık Sudomemo Plus geçti!"
 
 msgid "LEGACY_ACTIVATE_PLUS_TEASER"
-msgstr "Sudomemo Plus gives you access to all sorts of extra features, such as smoothing and audio enhancement of your Flipnotes on Sudomemo Theatre, as well as colorful comments and other neat features!"
+msgstr "Sudomemo Plus ile tüm ekstra özelliklere erişebilirsin. Mesela, Flipnote'larının video kalitesini yumuşatma ve Sudomemo Tiyatrosu'ndaki Flipnote'larının sesini düzeltme, renkli yorumlar ve hatta daha diğer güzel şeyler!"
 
 msgid "LEGACY_ACTIVATE_EARN_PLUS"
-msgstr "Sudomemo Plus can be earned by redeeming tickets purchased from our Shop or by entering a winning entry to our Weekly Topic."
+msgstr "Sudomemo Plus, mağazamızda satın alınan biletlerle veya Haftanın Konusu programımızda kazanarak elde edilebilir."
 
 msgid "LEGACY_ACTIVATE_GRANDFATHERED_BONUS"
-msgstr "Since you previously had Citizenship, you've been given a month free of Sudomemo Plus. Make sure to take a look around and try out some fun new features!"
+msgstr "Daha önceden Vatandaşlık'ın olduğu için sana bedava bir aylık Sudomemo Plus verilmiştir. Bununla biraz etrafa bakıp yeni ve eğlenceli özellikleri denemeyi unutma!"
 
 msgid "CONTINUE"
-msgstr "Continue"
+msgstr "Devam et"
 
 # My Sudomemo Plus
 msgid "MANAGE_PLUS_HEADER"
-msgstr "My Sudomemo Plus"
+msgstr "Sudomemo Plus üyeliğim"
 
 msgid "MANAGE_PLUS_REMAINING"
-msgstr "You currently have %s day(s) of Sudomemo Plus remaining."
+msgstr "Kalan Sudomemo Plus gün sayısı: %s"
 
 msgid "MANAGE_PLUS_HOW_TO_EARN_PLUS"
 msgstr "Sudomemo Plus can be earned by redeeming tickets purchased from our Shop or by entering a winning entry to our Weekly Topic."
