@@ -4,28 +4,28 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "DO_NOT_SHARE_TOKEN"
-msgstr "Bu jetonu kimseyle paylaşmayın. Sudomemo Desteği olduğunu iddia eden biri size ulaşır ve sizden bu jetonu isterse, ona vermeyin."
+msgstr "Bu jetonu kimseyle paylaşma. Sudomemo Destek Ekibi'nden olduğunu iddia eden birisi size ulaşır ve sizden bu jetonu isterse, ona vermeyin."
 
 msgid "GET_SUPPORT_TOKEN"
-msgstr "Destek Simgesi Alın"
+msgstr "Destek Jetonu Alın"
 
 msgid "HATENA_ID_VERIFICATION"
 msgstr "Hatena Kimlik Doğrulaması"
 
 msgid "HATENA_ID_VERIFICATION_INTRO"
-msgstr "Bu araç, Sudomemo Support ile çalışırken bir Hatena Kimliğinin sahipliğini doğrulamanıza olanak tanır."
+msgstr "Bu araç, Sudomemo Support ile görüşürken, bir Hatena Kimliğinin sahipliğini doğrulamanıza olanak tanır."
 
 msgid "HATENA_ID_VERIFICATION_INTRO_2"
-msgstr "Hatena Hesabınızda oturum açmanız istenecek ve ardından bir Destek Simgesi alacaksınız."
+msgstr "Hatena Hesabınızda oturum açmanız istenecek ve ardından bir Destek Jetonu alacaksınız."
 
 msgid "LOGIN_FIRST_BEFORE_SUPPORT_TOKEN"
 msgstr "Zaten bir hesabınız var gibi görünüyor. Lütfen bir Destek Simgesi talep etmeden önce oturum açın."
 
 msgid "SUPPORT_TOKEN"
-msgstr "Destek Simgesi"
+msgstr "Destek Jetonu"
 
 msgid "SUPPORT_TOKEN_INFO"
-msgstr "İşte Sudomemo Destek ile iletişime geçtiğinizde sizden istenen Destek Simgeniz."
+msgstr "Bu senin, Sudomemo Destek Ekibi ile iletişime geçtiğinde gereken destek jetonun."
 
 msgid "YOU_ARE_REQUESTING_SUPPORT_TOKEN"
-msgstr "Şimdi, Sudomemo Destek ile iletişime geçtiğinizde kimliğinizi doğrulamak için kullanılan bir Destek Simgesi talep ediyorsunuz."
+msgstr "Sudomemo Destek Ekibi ile iletişime geçtiğinde kimliğini doğrulamak için kullanılan bir Destek Jetonu istiyorsun."
