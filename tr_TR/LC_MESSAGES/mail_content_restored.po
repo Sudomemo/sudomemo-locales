@@ -5,39 +5,39 @@ msgstr ""
 
 # Content Removed - sent to user when a piece of their content has been restored
 msgid "NOTICE"
-msgstr "Notice"
+msgstr "Bildiri"
 
 # # Intro
 msgid "USER_CONTENT_RESTORED"
-msgstr "Something you posted that was previously removed has been restored after further review."
+msgstr "Daha önce kaldırılmış olan bir içeriğin, tekrar gözden geçirildikten sonra artık tekrar görünülebilir."
 
 # # Content types
 msgid "CONTENT_TYPE_flipnote"
 msgstr "Flipnote"
 
 msgid "CONTENT_TYPE_comment"
-msgstr "Comment"
+msgstr "Yorum"
 
 msgid "CONTENT_TYPE_chat_message"
-msgstr "Chat message"
+msgstr "Sohbet mesajı"
 
 # ## We plan on adding user-created themes.
 msgid "CONTENT_TYPE_room_theme"
-msgstr "Creator's Room theme"
+msgstr "Kreatör Odası teması"
 
 msgid "CONTENT_TYPE_profile_bio"
-msgstr "Profile text"
+msgstr "Biyografi"
 
 # ## Catch-all
 msgid "CONTENT_TYPE_content"
-msgstr "Other content"
+msgstr "Diğer içerikler"
 
 # # continued message...
 msgid "CONTENT_RESTORED_CONTINUED"
-msgstr "The content has been restored to public view, and there's nothing more that you need to do."
+msgstr "Bu içerik tekrar herkese açık halde ve yapman gereken bir şey kalmadı."
 
 msgid "CONTENT_TYPE"
-msgstr "Content type:"
+msgstr "İçerik türü:"
 
 msgid "CONTENT_ID"
-msgstr "Content ID:"
+msgstr "İçerik ID'si:"
