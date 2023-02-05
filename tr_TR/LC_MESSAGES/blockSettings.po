@@ -4,13 +4,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "LOGIN_REQUIRED_TO_MANAGE_BLOCKS"
-msgstr "Engellenen kullanıcıları yönetmek için oturum açmanız gerekir."
+msgstr "Engellenen kullanıcıları yönetmek için oturum açman gerekir."
 
 msgid "NO_USERS_BLOCKED"
-msgstr "Engellenen kullanıcınız yok."
+msgstr "Engellenen kullanıcı yok."
 
 msgid "BLOCKED_USERS"
-msgstr "Engellenmiş kullanıcılar"
+msgstr "Engellenen kullanıcılar"
 
 msgid "BLOCK_USER"
 msgstr "Kullanıcıyı engelle"
@@ -22,40 +22,40 @@ msgid "USER_HAS_BEEN_BLOCKED"
 msgstr "Bu kullanıcı engellendi."
 
 msgid "IF_YOU_WISH_TO_UNBLOCK"
-msgstr "Engelini kaldırmak isterseniz, Yaratıcınızın Odasına gidip Engellenen Kullanıcılar menüsünü açarak engellerini kaldırabilirsiniz."
+msgstr "Engeli kaldırmak istersen, Kreatör Odası'na gidip Engellenen Kullanıcılar menüsünü açarak engeli kaldırabilirsin."
 
 msgid "CONFIRM_BLOCK"
 msgstr "Engellemeyi Onayla"
 
 msgid "USER_ALREADY_BLOCKED"
-msgstr "Bu kullanıcıyı zaten engellediniz. Yaratıcınızın Odasındaki Ayarlar menüsünden engellerini kaldırabilirsiniz, ancak onları tekrar engellemek için 24 saat beklemeniz gerekir."
+msgstr "Bu kullanıcıyı zaten engelledin. Kreatör Odası'ndaki Ayarlar menüsünden engellerini kaldırabilirsin, ancak onları tekrar engellemek için 24 saat beklemen gerekir."
 
 msgid "ONE_DAY_WAIT_BEFORE_REBLOCK_FORMAT"
-msgstr "Yakın zamanda bu kullanıcının engellemesini kaldırdınız. %s'e kadar onları tekrar engelleyemezsiniz"
+msgstr "Bugün daha önce bu kullanıcının engelini kaldırdın. %s gününe kadar onu tekrar engelleyemezsin"
 
 msgid "UNBLOCK"
-msgstr "engeli kaldırmak"
+msgstr "Engeli kaldır"
 
 msgid "LOGIN_REQUIRED"
 msgstr "Bu işlemi yapmak için giriş yapmış olmalısın."
 
 msgid "TAP_BACK_TO_RETURN"
-msgstr "Yaratıcınızın Odasına dönmek için Geri'ye dokunun."
+msgstr "Kreatör Odası'na dönmek için Geri'ye dokunun."
 
 msgid "UNBLOCK_USER"
-msgstr "Kullanıcının engelini kaldır"
+msgstr "Engeli kaldır"
 
 msgid "CANNOT_UNBLOCK_NONBLOCKED_USER"
-msgstr "Bu kullanıcının engellemesini kaldıramazsınız, çünkü onları en başta engellemediniz."
+msgstr "Bu kullanıcı engelli olmadığı için engelini kaldıramazsın."
 
 msgid "USER_HAS_BEEN_UNBLOCKED"
-msgstr "Bu kullanıcının engellemesini kaldırdınız."
+msgstr "Bu kullanıcının engellemesini kaldırdın."
 
 msgid "COMMENTING_ENABLED_AFTER_UNBLOCK"
-msgstr "Bu kullanıcının engellemesini kaldırdıktan sonra, onlar da sizi engellemedikçe, Flipnote'larınız hakkında tekrar yorum yapabilecekler."
+msgstr "Bu kullanıcının engellemesini kaldırdıktan sonra, o da seni engellemedikçe, Flipnote'larına tekrar yorum yapabilecekler."
 
 msgid "UNBLOCK_WARNING_ONE_DAY_THRESHOLD"
-msgstr "Engelini kaldırırsanız, tekrar engelleyebilmeniz için 24 saat beklemeniz gerekir."
+msgstr "Bu engeli kaldırırsan, tekrar engelleyebilmen için 24 saat beklemen gerekir."
 
 msgid "CONFIRM_UNBLOCK"
 msgstr "Engellemeyi Kaldırmayı Onayla"
