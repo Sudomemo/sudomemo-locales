@@ -8,7 +8,7 @@ msgid "ACTIVE_FROM"
 msgstr "Katılım tarihi:"
 
 msgid "ALSO_KNOWN_AS"
-msgstr "Ayrıca şöyle bilinir"
+msgstr "Bu isim olarak da bilinir:"
 
 msgid "CONTACT"
 msgstr "İletişim"
@@ -38,10 +38,10 @@ msgid "FLIPNOTE_ARCHIVE_CREDITS"
 msgstr "Flipnote Arşivi'ne katkıda bulunanlar"
 
 msgid "FLIPNOTE_BY_FORMAT"
-msgstr "%s'nin Flipnote'u"
+msgstr "%s kullanıcısının Flipnote'u"
 
 msgid "FLIPNOTE_MAY_BE_DUPLICATE"
-msgstr "Bu, muhtemelen başka bir Flipnote'un kopyasıdır."
+msgstr "Bu, muhtemelen başka bir Flipnote'un spin-off'udur."
 
 msgid "FLIPNOTE_STUDIO_ID"
 msgstr "Flipnote Studio ID'si"
@@ -54,7 +54,7 @@ msgid "FLIPNOTE_WITHHELD_READ_MORE"
 msgstr "Daha fazla bilgi için, lütfen okuyunuz %sSSS%s."
 
 msgid "FOOTER_DONATION_ASK"
-msgstr "Bu siteyi çalıştımanın maliyeti çok yüksektir, bu yüzden bir %sbağışta%s bulunmanızı rica ederiz."
+msgstr "Bu siteyi çalıştırmanın maliyeti çok yüksektir, bu yüzden bir %sbağışta%s bulunmanı rica ederiz."
 
 msgid "FOOTER_SUDOMEMO_SHILL_FORMAT"
 msgstr "Bu arşiv, Nintendo DSi ve 3DS'teki Flipnote Studio için, Hatena hayranlarının işlettiği bir Flipnote paylaşım hizmeti olan %sSudomemo%s tarafından barındırılmaktadır."
@@ -102,7 +102,7 @@ msgstr "Hata %s"
 
 # May 17th, 1996
 msgid "MONTH_DAY_YEAR_FORMAT"
-msgstr "F jS, Y"
+msgstr "jS F Y"
 
 # May 1996
 msgid "MONTH_YEAR_FORMAT"
@@ -207,13 +207,13 @@ msgstr "Kullanıcılar"
 
 # Austin's Flipnote from Flipnote Hatena, May 17th, 2010
 msgid "USERS_ARCHIVED_FLIPNOTE_FORMAT"
-msgstr "%s'in Flipnote Hatena'dan Flipnote'u, %s"
+msgstr "%s kullanıcısının Flipnote Hatena'dan Flipnote'u, %s"
 
 msgid "USERS_ARCHIVED_PROFILE_FORMAT"
-msgstr "%s'in arşivlenmiş Flipnote Hatena profili"
+msgstr "%s kullanıcısının arşivlenmiş Flipnote Hatena profili"
 
 msgid "USERS_PROFILE_IMAGE_FORMAT"
-msgstr "%s'in Hatena profil resmi"
+msgstr "%s kullanıcısının Hatena profil resmi"
 
 msgid "VIEWS"
 msgstr "Görüntüleme"
