@@ -16,19 +16,19 @@ msgid "HEADER_STATUS"
 msgstr "Durum"
 
 msgid "OPTION_NAME_SMOOTH"
-msgstr "Pürüzsüzleştir"
+msgstr "Yumuşat"
 
 msgid "OPTION_DESC_SMOOTH"
-msgstr "Çizgiler, kıvrımlar ve köşeler, Sudomemo Tiyatrosu'nda daha doğal bir görüntüsü olması için pürüzsüzleştirilmiştir."
+msgstr "Çizgiler, kıvrımlar ve köşeler, Sudomemo Tiyatrosu'nda daha doğal bir görüntüsü olması için yumuşatılmıştır."
 
 msgid "FLIPNOTE_URL_IS"
-msgstr "Flipnote URL'i:"
+msgstr "Flipnote Linki:"
 
 msgid "ENABLE_SMOOTHING"
-msgstr "Pürüzsüzleştirmeye izin ver"
+msgstr "Yumuşatmaya izin ver"
 
 msgid "DISABLE_SMOOTHING"
-msgstr "Pürüzsüzleştirmeyi devre dışı bırak"
+msgstr "Yumuşatmayı devre dışı bırak"
 
 msgid "ON"
 msgstr "Açık"
@@ -43,7 +43,7 @@ msgid "PLUS_REQUIRED"
 msgstr "Bu özelliği kullanabilmen için Sudomemo Plus gerekli."
 
 msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
-msgstr "Bir ayarın yönetmek için statüsüne tıkla."
+msgstr "Bir ayarı yönetmek için statüsüne tıkla."
 
 msgid "OPTION_NAME_FORCE_44K_BITRATE"
 msgstr "Sesi düzelt"
