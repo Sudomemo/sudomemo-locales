@@ -4,64 +4,64 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "HEADER_PREV"
-msgstr "Prev"
+msgstr "Önceki"
 
 msgid "HEADER_NEXT"
-msgstr "Next"
+msgstr "Sonraki"
 
 msgid "PAGE_FORMAT"
-msgstr "Page %d"
+msgstr "Sayfa %d"
 
 msgid "SEARCH"
-msgstr "Search"
+msgstr "Ara"
 
 msgid "USERNAME"
-msgstr "Username"
+msgstr "Kullanıcı adı"
 
 msgid "RESULTS"
-msgstr "Results"
+msgstr "Sonuçlar"
 
 msgid "SEARCH_USERNAME"
-msgstr "Search Username"
+msgstr "Kullanıcı adı ara"
 
 msgid "PLEASE_ENTER_USERNAME"
-msgstr "Please enter a username..."
+msgstr "Kullanıcı adı yaz..."
 
 msgid "RESULTS_FOUND_FORMAT_SINGULAR"
-msgstr "%1$d result found for \"%2$s\""
+msgstr "\"%2$s\" için %1$d sonuç bulundu"
 
 msgid "RESULTS_FOUND_FORMAT_MULTIPLE"
-msgstr "%1$d results found for \"%2$s\""
+msgstr "\"%2$s\" için %1$d sonuç bulundu"
 
 msgid "NO_RESULTS_FOUND"
-msgstr "No results found"
+msgstr "Sonuç bulunamadı"
 
 msgid "SEARCH_SHORT_KEY"
 msgstr "Flipnote ID"
 
 msgid "SHORT_KEY_NO_RESULTS"
-msgstr "No Flipnote found"
+msgstr "Flipnote bulunamadı"
 
 msgid "SHORT_KEY_FORMAT_GUIDE"
-msgstr "Not finding what you're looking for? You may have entered the Flipnote ID incorrectly. Flipnote IDs are six digits long and can be found in the details section for the Flipnote."
+msgstr "Aradığını bulamadın mı? Flipnote ID'sini yanlış yazmış olabilirsin. Flipnote ID'ler altı hanelidir ve Flipnote'ların Ayrıntılar bölümünde bulunur."
 
 msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
-msgstr "No result was found, but a similar ID exists. Please note that Flipnote IDs are case-sensitive, and usually all-capital letters and numbers."
+msgstr "Herhangi bir sonuç bulunamadı ama buna benzer bir ID mevcut. Lütfen Flipnote ID'lerinin tüm karakterlerinin büyük harfle yazılması gerektiğini unutma."
 
 msgid "SEARCH_MUSICMATCH"
 msgstr "MusicMatch"
 
 msgid "SEARCH_MUSIC_BY_SONG"
-msgstr "By Song"
+msgstr "Şarkıya göre"
 
 msgid "SEARCH_MUSIC_BY_ARTIST"
-msgstr "By Artist"
+msgstr "Sanatçıya göre"
 
 msgid "SEARCH_MUSIC_BY_GENRE"
-msgstr "By Genre"
+msgstr "Türe göre"
 
 msgid "PAGE"
-msgstr "Page"
+msgstr "Sayfa"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d of %d"
+msgstr "%d / %d"
