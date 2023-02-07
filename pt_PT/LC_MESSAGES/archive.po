@@ -11,7 +11,7 @@ msgid "ALSO_KNOWN_AS"
 msgstr "Também conhecido como"
 
 msgid "BLUE_STARS"
-msgstr "Blue Stars"
+msgstr "Estrelas Azuis"
 
 msgid "BROWSE"
 msgstr "Browse"
@@ -35,13 +35,13 @@ msgid "DURATION_FORMAT"
 msgstr "%s segundos"
 
 msgid "FEATURED"
-msgstr "Featured"
+msgstr "Destaque"
 
 msgid "FEATURED_FLIPNOTES"
-msgstr "Featured Flipnotes"
+msgstr "Flipnotes Destacados"
 
 msgid "FEATURED_FLIPNOTES_DESC"
-msgstr "A collection of famous or noteworthy Flipnotes, curated by our team"
+msgstr "Uma colecção de Flipnotes notáveis, escolhidos pela equipa"
 
 msgid "FLIPNOTES"
 msgstr "Flipnotes"
@@ -84,7 +84,7 @@ msgid "FRAME_SPEED"
 msgstr "Velocidade dos Frames"
 
 msgid "GREEN_STARS"
-msgstr "Green Stars"
+msgstr "Estrelas Verdes"
 
 msgid "HATENA_ID"
 msgstr "ID do Hatena"
@@ -154,16 +154,16 @@ msgid "ORIGINAL_NOT_FOUND"
 msgstr "O Flipnote original não pôde ser encontrado/não existe"
 
 msgid "PARENT_FLIPNOTE"
-msgstr "Parent Flipnote"
+msgstr "Flipnote Parente"
 
 msgid "POPULAR"
 msgstr "Popular"
 
 msgid "POPULAR_FLIPNOTES"
-msgstr "Popular Flipnotes"
+msgstr "Flipnotes Populares"
 
 msgid "POPULAR_FLIPNOTES_DESC"
-msgstr "Flipnotes that have received a lot of attention from archive visitors"
+msgstr "Flipnotes que receberam muita atenção dos visitantes do arquivo"
 
 msgid "PRESS"
 msgstr "Imprensa"
@@ -175,19 +175,19 @@ msgid "PREV"
 msgstr "Anterior"
 
 msgid "PURPLE_STARS"
-msgstr "Purple Stars"
+msgstr "Estrelas Roxas"
 
 msgid "RANDOM"
-msgstr "Random"
+msgstr "Aleatório"
 
 msgid "RANDOM_FLIPNOTES"
-msgstr "Random Flipnotes"
+msgstr "Flipnotes Aleatórios"
 
 msgid "RANDOM_FLIPNOTES_DESC"
-msgstr "A series of Flipnotes chosen from a random point in time"
+msgstr "Uma série de Flipnotes escolhidos aleatóriamente"
 
 msgid "RED_STARS"
-msgstr "Red Stars"
+msgstr "Estrelas Vermelhas"
 
 msgid "REGION_AMERICAS"
 msgstr "Americas"
@@ -199,7 +199,7 @@ msgid "REGION_JAPAN"
 msgstr "Japão"
 
 msgid "ROOT_FLIPNOTE"
-msgstr "Root Flipnote"
+msgstr "Flipnote de Origem"
 
 msgid "SEARCH"
 msgstr "Procurar"
@@ -273,7 +273,7 @@ msgid "VIEWS"
 msgstr "Visualizações"
 
 msgid "YELLOW_STARS"
-msgstr "Yellow Stars"
+msgstr "Estrelas Amarelas"
 
 msgid "YOUTUBE_MUSIC"
 msgstr "YouTube Music"
