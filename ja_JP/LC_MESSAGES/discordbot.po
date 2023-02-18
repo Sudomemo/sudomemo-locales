@@ -123,7 +123,7 @@ msgstr ""
 # ONLY TRANSLATE: "Give Nitro Booster ticket..." and "Flipnote Studio ID"
 msgid "USAGE_nitro_plus"
 msgstr ""
-"   nitro_plus <FSID>\n"
+"   nitro_plus <FSID|self>\n"
 "      ニトロブースターチケット (1ヵ月間のスドメモプラスとトロフィー)をプレゼント。\n"
 "      <FSID>: うごメモID"
 

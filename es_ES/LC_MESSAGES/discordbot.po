@@ -123,7 +123,7 @@ msgstr ""
 # ONLY TRANSLATE: "Give Nitro Booster ticket..." and "Flipnote Studio ID"
 msgid "USAGE_nitro_plus"
 msgstr ""
-"   nitro_plus <FSID>\n"
+"   nitro_plus <FSID|self>\n"
 "      Regalar ticket Nitro Booster (1 mes de Sudomemo Plus y un trofeo).\n"
 "      <FSID>: ID de Flipnote Studio"
 
