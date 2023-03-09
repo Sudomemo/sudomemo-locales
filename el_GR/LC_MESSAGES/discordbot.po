@@ -12,6 +12,9 @@ msgstr ""
 msgid "BOOST_TICKET_SUCCESS"
 msgstr "Δώθηκε στον χρήστη %s ενα Nitro Booster Ticket, ανταλλάξιμο για ένα μήνα Sudomemo Plus και ένα ειδικό τρόπαιο. Γιούπι!"
 
+msgid "CONSIDER_X_CHANNEL_FOR_THIS"
+msgstr "Consider using %s for this"
+
 # Account linking
 msgid "DISCORD_LINKING_GET_STARTED"
 msgstr "Παρακαλώ επισκεφτείτε το %s για να ξεκινήσετε!"
