@@ -12,6 +12,9 @@ msgstr ""
 msgid "BOOST_TICKET_SUCCESS"
 msgstr "%s gotta Nitro Booster Ticket, it gotta month of Sudomemo Plus and epic trophy. Awooga!"
 
+msgid "CONSIDER_X_CHANNEL_FOR_THIS"
+msgstr "Consider using %s for this"
+
 # Account linking
 msgid "DISCORD_LINKING_GET_STARTED"
 msgstr "Please visit %s to get started!"
@@ -64,7 +67,7 @@ msgid "REJECT_FSID_ENOENT"
 msgstr "I didnt find nobody with dat Flipnote ID on Sudomemo."
 
 msgid "REJECT_GENERIC_ERROR"
-msgstr "I ran into an wall- problem trying to do dat. sry! :(("
+msgstr "I ran into an wall- I mean problem trying to do dat. sry! :(("
 
 msgid "REJECT_INVALID_FSID"
 msgstr "Dat aint a proper Flipnote ID!"

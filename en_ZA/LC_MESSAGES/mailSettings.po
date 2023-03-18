@@ -13,7 +13,7 @@ msgid "DISABLE_CONFIRMATION_FORMAT"
 msgstr "Are you sure you want to disable '%s' emails?"
 
 msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
-msgstr "The link you followed has expired."
+msgstr "Ooops... that link done expired :( ."
 
 msgid "EMAIL_SETTING_DISABLED_FINISH_FORMAT"
 msgstr "You've disabled '%s' emails."
@@ -31,7 +31,7 @@ msgid "HEADER_MAIL_SETTINGS"
 msgstr "Mail Settings"
 
 msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
-msgstr "You must be logged in to edit your mail settings."
+msgstr "U gots to be logged in to change ur electionic mail silllly!!!."
 
 msgid "MAIL_STATUS"
 msgstr "Status"
@@ -40,10 +40,10 @@ msgid "MAIL_TYPE"
 msgstr "Type"
 
 msgid "REENABLE_INSTRUCTIONS"
-msgstr "If you want to turn them back on, you can do so from by selecting <strong>Email Settings</strong> in your Creator's Room."
+msgstr "If u wunna turn dem back on, you can do by selecting <strong>Email Settings</strong> in ur Creator Room."
 
 msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
-msgstr "Tap on a mail type's status to view or update it."
+msgstr "Tap on mail type's status to view or update it."
 
 msgid "TAP_TO_DISABLE"
 msgstr "Tap to disable"
@@ -52,52 +52,52 @@ msgid "TAP_TO_ENABLE"
 msgstr "Tap to enable"
 
 msgid "TYPE_COMMENT_NOTIF_DESC"
-msgstr "Receive an email when someone comments on your Flipnote"
+msgstr "Getta an email when somone coment on u Flipnote"
 
 msgid "TYPE_COMMENT_NOTIF_NAME"
-msgstr "Comment Received"
+msgstr "Comment Gotted!!!"
 
 msgid "TYPE_FAVE_NOTIF_DESC"
-msgstr "Receive an email when someone adds you to their Favorites"
+msgstr "Getta email wen some1 epic adds ur to theys Favsssss!!!"
 
 msgid "TYPE_FAVE_NOTIF_NAME"
-msgstr "Added as Favorite"
+msgstr "Added as Fav!!"
 
 msgid "TYPE_NEWS_DESC"
-msgstr "Receive an email when something new is posted to the Sudomemo News"
+msgstr "Getta an email when something new is posted to the Sudomemo News"
 
 msgid "TYPE_NEWS_NAME"
 msgstr "Sudomemo News"
 
 msgid "TYPE_PROMO_DESC"
-msgstr "Receive emails about new features, tips and tricks, and upcoming events!"
+msgstr "Receive email bout new features, tips and radical tricks, and epic events!!!"
 
 msgid "TYPE_PROMO_NAME"
 msgstr "Promo"
 
 msgid "TYPE_REPORT_UPDATE_DESC"
-msgstr "Receive an email when we update the status of content that you've flagged"
+msgstr "Get an email when we update the stat of sum stuf u flag"
 
 msgid "TYPE_REPORT_UPDATE_NAME"
 msgstr "Flagged Content Update"
 
 msgid "TYPE_SECURITY_NOTIF_DESC"
-msgstr "Receive an email when your email address or password is updated"
+msgstr "Getta electronic mail wen ur email address or pass is changed"
 
 msgid "TYPE_SECURITY_NOTIF_NAME"
 msgstr "Account Security"
 
 msgid "TYPE_SERVICE_UPDATE_DESC"
-msgstr "Important updates about Sudomemo's status or availability related to your account"
+msgstr " vrryy important updates about Sudomemo's status or availability wit ur account!!!"
 
 msgid "TYPE_SERVICE_UPDATE_NAME"
 msgstr "Service Updates"
 
 msgid "TYPE_SPINOFF_NOTIF_DESC"
-msgstr "Receive an email when someone posts a spin-off to your Flipnote"
+msgstr "Get email wehn sum1 makes spinnaroo of 1 ur Flipnotes!"
 
 msgid "TYPE_SPINOFF_NOTIF_NAME"
-msgstr "Spin-off Received"
+msgstr "Spinnaroo Gotted!"
 
 msgid "TYPE_STAR_REPORT_DESC"
 msgstr "Receive an email at the end of the day about any stars you've received"
@@ -106,7 +106,7 @@ msgid "TYPE_STAR_REPORT_NAME"
 msgstr "Daily Star Report"
 
 msgid "TYPE_UNREAD_COMMENTS_DESC"
-msgstr "Receive an email summary of any new comments you've received recently"
+msgstr "Getta an email summary of sum new coment you done get recently"
 
 msgid "TYPE_UNREAD_COMMENTS_NAME"
-msgstr "Unread Comments"
+msgstr "Not readed Comments"

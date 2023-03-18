@@ -12,6 +12,9 @@ msgstr ""
 msgid "BOOST_TICKET_SUCCESS"
 msgstr "%s recibió un ticket de Nitro Booster, canjeable por un mes de Sudomemo Plus y un trofeo especial. ¡Hurra!"
 
+msgid "CONSIDER_X_CHANNEL_FOR_THIS"
+msgstr "Consider using %s for this"
+
 # Account linking
 msgid "DISCORD_LINKING_GET_STARTED"
 msgstr "¡Visita %s para empezar!"
