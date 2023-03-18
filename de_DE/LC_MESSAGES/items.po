@@ -13,7 +13,7 @@ msgid "ITEM_DESC_beach_ball"
 msgstr "Gutes Zubehör für einen Schwimmausflug."
 
 msgid "ITEM_DESC_hot_chocolate"
-msgstr "A delicious cup of hot chocolate, perfect for a cozy day."
+msgstr "Eine leckere Tasse von heißer Schokolade, perfekt für einen bequemen Tag."
 
 msgid "ITEM_DESC_peeled_banana"
 msgstr "Nicht mit einer Koch-... Warum hast du sie so geschält?"
@@ -25,7 +25,7 @@ msgid "ITEM_NAME_beach_ball"
 msgstr "Strandball"
 
 msgid "ITEM_NAME_hot_chocolate"
-msgstr "Hot Chocolate"
+msgstr "Heiße Schokolade"
 
 msgid "ITEM_NAME_peeled_banana"
 msgstr "Geschälte Banane"
@@ -37,7 +37,7 @@ msgid "ITEM_USE_beach_ball"
 msgstr "Du wirfst den Ball ein bisschen herum."
 
 msgid "ITEM_USE_hot_chocolate"
-msgstr "After letting it cool for a moment, you drink the hot chocolate"
+msgstr "Nachdem du ihn für einen Moment abkühlen lässt, trinkst du die heiße Schokolade."
 
 msgid "ITEM_USE_peeled_banana"
 msgstr "Du isst die Banane."

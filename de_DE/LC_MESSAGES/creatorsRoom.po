@@ -80,10 +80,10 @@ msgstr "Benutzerfreundlichkeit"
 
 # Matches button on page 4 of Flipnote Studio settings
 msgid "FLIPNOTE_FRIENDS"
-msgstr "Flipnote Friends"
+msgstr "Flipnote-Freunde"
 
 msgid "FLIPNOTE_FRIENDS_INFO"
-msgstr "Creators you've exchanged Flipnotes with"
+msgstr "Ersteller, mit denen du Flipnotes ausgetauscht hast"
 
 msgid "FLIPNOTE_STUDIO_ID"
 msgstr "Flipnote-Studio-ID"
@@ -113,7 +113,7 @@ msgid "INVENTORY"
 msgstr "Inventar"
 
 msgid "LEAVE_BLANK_TO_RESET_BIO"
-msgstr "Möchtest du deine Biografie zurücksetzen, lasse das Feld einfach leer."
+msgstr "Wenn du deine Biografie zurücksetzen möchtest, lasse das Feld einfach leer."
 
 msgid "LOGIN_REQUIRED_ACTION"
 msgstr "Du musst eingeloggt sein, um diese Aktion auszuführen."
