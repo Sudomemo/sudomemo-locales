@@ -80,10 +80,10 @@ msgstr "Usabilità delle funzioni"
 
 # Matches button on page 4 of Flipnote Studio settings
 msgid "FLIPNOTE_FRIENDS"
-msgstr "Flipnote Friends"
+msgstr "Amici su Flipnote"
 
 msgid "FLIPNOTE_FRIENDS_INFO"
-msgstr "Creators you've exchanged Flipnotes with"
+msgstr "Autori con i quali hai scambiato Flipnote"
 
 msgid "FLIPNOTE_STUDIO_ID"
 msgstr "ID Flipnote Studio"
@@ -233,4 +233,4 @@ msgid "VIEW"
 msgstr "Vista"
 
 msgid "WATCH_HISTORY"
-msgstr "Watch History"
+msgstr "Cronologia"
