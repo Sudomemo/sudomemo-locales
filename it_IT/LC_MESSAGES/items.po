@@ -4,43 +4,43 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CONTINUE"
-msgstr "Continue"
+msgstr "Continua"
 
 msgid "ITEM_DESC_banana"
-msgstr "Not to be confused with a plantain."
+msgstr "Da non confendere per un boomerang."
 
 msgid "ITEM_DESC_beach_ball"
-msgstr "A great accessory for a swimming excursion."
+msgstr "Un accessorio indispensabile per una giornata al mare."
 
 msgid "ITEM_DESC_hot_chocolate"
-msgstr "A delicious cup of hot chocolate, perfect for a cozy day."
+msgstr "La bevanda perfetta, per un perfetto giorno invernale."
 
 msgid "ITEM_DESC_peeled_banana"
-msgstr "Not to be confused with a plan-... Why'd you peel it like that?"
+msgstr "Da non confondere per un boome-... Ma come la stai sbucciando?!"
 
 msgid "ITEM_NAME_banana"
 msgstr "Banana"
 
 msgid "ITEM_NAME_beach_ball"
-msgstr "Beach Ball"
+msgstr "Palla da spiaggia"
 
 msgid "ITEM_NAME_hot_chocolate"
-msgstr "Hot Chocolate"
+msgstr "Cioccolata calda"
 
 msgid "ITEM_NAME_peeled_banana"
-msgstr "Peeled Banana"
+msgstr "Banana sbucciata"
 
 msgid "ITEM_USE_banana"
-msgstr "You peel the banana."
+msgstr "Hai sbucciato la banana."
 
 msgid "ITEM_USE_beach_ball"
-msgstr "You toss the ball around a bit."
+msgstr "Fai rotolare la palla in giro."
 
 msgid "ITEM_USE_hot_chocolate"
-msgstr "After letting it cool for a moment, you drink the hot chocolate"
+msgstr "Dopo averla fatta leggermente raffredare, bevi la cioccolata calda"
 
 msgid "ITEM_USE_peeled_banana"
-msgstr "You eat the banana."
+msgstr "Hai mangiato la banana."
 
 msgid "YOU_GOT_AN_ITEM"
-msgstr "You got an item!"
+msgstr "Hai ottenuto un oggetto!"
