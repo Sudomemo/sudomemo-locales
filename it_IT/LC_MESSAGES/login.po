@@ -233,10 +233,10 @@ msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
 msgstr "Se hai bisogno di aiuto per collegarti, chiedi pure sul nostro server Discord! Puoi unirti da qui %s."
 
 msgid "SIGNUP_AGE_GATE_ERROR"
-msgstr "You'll need to be 13 or older to create a new Sudomemo account."
+msgstr "Devi avere almeno 13 anni per creare un nuovo account Sudomemo."
 
 msgid "SIGNUP_AGE_GATE_ERROR_FIX"
-msgstr "If you've received this message in error, you can update your birthday by tapping the orange wrench icon in the top right of Flipnote Studio's main menu."
+msgstr "Se hai ricevuto questo messaggio d'errore, puoi aggiornare la tua data di nascita toccando l'icona raffigurante una chiave inglese arancione, la trovi in alto a destra nel menù principale di Flipnote Studio."
 
 msgid "SORRY_NO_LOGIN"
 msgstr "Scusa, ma non riusciamo a farti accedere!"
