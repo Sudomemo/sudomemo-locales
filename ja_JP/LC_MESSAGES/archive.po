@@ -11,10 +11,10 @@ msgid "ALSO_KNOWN_AS"
 msgstr "このユーザーが使用していた別の名前"
 
 msgid "BLUE_STARS"
-msgstr "Blue Stars"
+msgstr "ブルースター"
 
 msgid "BROWSE"
-msgstr "Browse"
+msgstr "見る"
 
 msgid "CONTACT"
 msgstr "連絡先"
@@ -35,13 +35,13 @@ msgid "DURATION_FORMAT"
 msgstr "%s秒"
 
 msgid "FEATURED"
-msgstr "Featured"
+msgstr "注目"
 
 msgid "FEATURED_FLIPNOTES"
-msgstr "Featured Flipnotes"
+msgstr "注目作品"
 
 msgid "FEATURED_FLIPNOTES_DESC"
-msgstr "A collection of famous or noteworthy Flipnotes, curated by our team"
+msgstr "我々チームが選んだ注目に値する人気作品です"
 
 msgid "FLIPNOTES"
 msgstr "作品"
@@ -84,7 +84,7 @@ msgid "FRAME_SPEED"
 msgstr "速度"
 
 msgid "GREEN_STARS"
-msgstr "Green Stars"
+msgstr "グリーンスター"
 
 msgid "HATENA_ID"
 msgstr "はてなID"
@@ -154,16 +154,16 @@ msgid "ORIGINAL_NOT_FOUND"
 msgstr "親作品が見つかりませんでした。"
 
 msgid "PARENT_FLIPNOTE"
-msgstr "Parent Flipnote"
+msgstr "原作"
 
 msgid "POPULAR"
-msgstr "Popular"
+msgstr "人気"
 
 msgid "POPULAR_FLIPNOTES"
-msgstr "Popular Flipnotes"
+msgstr "人気作品"
 
 msgid "POPULAR_FLIPNOTES_DESC"
-msgstr "Flipnotes that have received a lot of attention from archive visitors"
+msgstr "アーカイブ来場者の注目を集めた作品達です"
 
 msgid "PRESS"
 msgstr "報道について"
@@ -175,22 +175,22 @@ msgid "PREV"
 msgstr "前へ"
 
 msgid "PURPLE_STARS"
-msgstr "Purple Stars"
+msgstr "パープルスター"
 
 msgid "RANDOM"
-msgstr "Random"
+msgstr "ランダム"
 
 msgid "RANDOM_FLIPNOTES"
-msgstr "Random Flipnotes"
+msgstr "ランダム作品"
 
 msgid "RANDOM_FLIPNOTES_DESC"
-msgstr "A series of Flipnotes chosen from a random point in time"
+msgstr "無作為に選ばれた作品の集まりです"
 
 msgid "RED_STARS"
-msgstr "Red Stars"
+msgstr "レッドスター"
 
 msgid "REGION_AMERICAS"
-msgstr "アメリカ"
+msgstr "北米・南米"
 
 msgid "REGION_EUROPE_AND_OCEANIA"
 msgstr "欧州・オセアニア"
@@ -242,13 +242,13 @@ msgid "SPOTIFY"
 msgstr "Spotify"
 
 msgid "STARS"
-msgstr "Stars"
+msgstr "スター"
 
 msgid "SUDOMEMO"
 msgstr "スドメモ"
 
 msgid "THIS_FLIPNOTE_IS_SPINOFF_OF"
-msgstr "This Flipnote is a spin-off of"
+msgstr "これは次のメモの小作品です"
 
 msgid "TOTAL_FLIPNOTES"
 msgstr "総作品数"
@@ -273,7 +273,7 @@ msgid "VIEWS"
 msgstr "視聴回数"
 
 msgid "YELLOW_STARS"
-msgstr "Yellow Stars"
+msgstr "イエロースター"
 
 msgid "YOUTUBE_MUSIC"
 msgstr "YouTube Music"
