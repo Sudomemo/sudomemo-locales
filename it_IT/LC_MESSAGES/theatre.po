@@ -29,22 +29,22 @@ msgid "ALT_WEEKLY_TOPIC_BANNER"
 msgstr "Banner pubblicitario dei Topic settimanali"
 
 msgid "ARCHIVE"
-msgstr "Archive"
+msgstr "Archivia"
 
 msgid "ARCHIVED"
-msgstr "Archived"
+msgstr "Archiviato"
 
 msgid "ARCHIVE_FLIPNOTE"
-msgstr "Archive Flipnote"
+msgstr "Flipnote Archive"
 
 msgid "ARCHIVE_FLIPNOTE_DESC"
-msgstr "This Flipnote was originally posted on Flipnote Hatena."
+msgstr "Questo Flipnote fu pubblicato originariamente su Flipnote Hatena."
 
 msgid "ARCHIVE_PROFILE"
-msgstr "Archive Profile"
+msgstr "Profilo Archive"
 
 msgid "ARCHIVE_PROFILE_DESC"
-msgstr "This is an archive of a Flipnote Hatena profile."
+msgstr "Questa è una versione archiviata di un profilo Flipnote Hatena."
 
 # Very common terms and one-word translations
 msgid "ARTIST"
@@ -270,26 +270,26 @@ msgid "FLIPNOTES"
 msgstr "Flipnote"
 
 msgid "FLIPNOTE_ARCHIVE_BUTTON_TOGGLE"
-msgstr "Show link to archived Flipnote Hatena content from my profile"
+msgstr "Mostra un link al contenuto archiviato Flipnote Hatena dal mio profilo"
 
 msgid "FLIPNOTE_ARCHIVE_PROFILE_AVAILABLE"
-msgstr "Your Flipnote Hatena profile is available through our Flipnote Archive Preview Program! You can view your old Flipnotes by visiting your profile on Sudomemo Theatre."
+msgstr "Il tuo profilo Flipnote Hatena è disponibile grazie al nostro programma Flipnote Archive Preview! Puoi vedere i tuoi vecchi Flipnote visitando il tuo profilo su Sudomemo Theatre."
 
 msgid "FLIPNOTE_ARCHIVE_PROFILE_NOT_AVAILABLE"
-msgstr "An archived Flipnote Hatena profile is not available for this account."
+msgstr "Per questo account non è disponibile una versione archiviata del profilo Flipnote Hatena."
 
 msgid "FLIPNOTE_ARCHIVE_PROFILE_SETTING_INFORMATION"
-msgstr "While logged in, your archive link will always be shown on your page. You can choose whether or not to make this visible to other users below."
+msgstr "Mentre sei connesso, il tuo link archive verrà sempre mostrato sulla tua pagina. Puoi scegliere se rendere visibile il link agli altri utenti."
 
 msgid "FLIPNOTE_ARCHIVE_SETTINGS"
-msgstr "Archive Settings"
+msgstr "Impostazioni Archive"
 
 # # Flipnote by...
 msgid "FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote di %s"
 
 msgid "FLIPNOTE_HATENA_PROFILE"
-msgstr "Flipnote Hatena Profile"
+msgstr "Profilo Flipnote Hatena"
 
 msgid "FLIPNOTE_ID"
 msgstr "ID Flipnote"
@@ -657,10 +657,10 @@ msgid "SHARE_ON_WHATSAPP"
 msgstr "Condividi su WhatsApp"
 
 msgid "SHOW_ON_PROFILE"
-msgstr "Show on profile"
+msgstr "Mostra sul profilo"
 
 msgid "SHOW_YOUTUBE_LINK_ON_MY_PROFILE"
-msgstr "Show a link to my YouTube channel on my Sudomemo profile"
+msgstr "Mostra il link al mio canale YouTube sul mio profilo Sudomemo"
 
 msgid "SIGN_IN"
 msgstr "Accedi"
@@ -676,10 +676,10 @@ msgid "SONG"
 msgstr "Canzone"
 
 msgid "SONGS"
-msgstr "Songs"
+msgstr "Canzoni"
 
 msgid "SONG_ARTISTS"
-msgstr "Song Artists"
+msgstr "Autori delle canzoni"
 
 msgid "STARS"
 msgstr "Stelle"
@@ -726,7 +726,7 @@ msgid "TERMS_OF_USE"
 msgstr "Termini di utilizzo"
 
 msgid "THIS_FLIPNOTE_IS_SPINOFF_OF"
-msgstr "This Flipnote is a spin-off of"
+msgstr "Questo Flipnote è uno spin-off di"
 
 # Sudomemo Shop
 msgid "TICKETS"
@@ -760,19 +760,19 @@ msgid "UPLOAD_STATUS"
 msgstr "Stato del caricamento"
 
 msgid "USERS"
-msgstr "Users"
+msgstr "Utenti"
 
 msgid "USERS_FLIPNOTE_FROM_FLIPNOTE_HATENA"
-msgstr "%s's Flipnote from Flipnote Hatena"
+msgstr "Flipnote di %s direttamente da Flipnote Hatena"
 
 msgid "USERS_PROFILE_FROM_FLIPNOTE_HATENA"
-msgstr "%s's profile from Flipnote Hatena"
+msgstr "Profilo di %s direttamente da Flipnote Hatena"
 
 msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
 msgstr "Dopo esserti unito al Discord di Sudomemo, copia e incolla questo nella chat."
 
 msgid "USER_SETTINGS_SUPPORT_TOKEN_EXPLANATION"
-msgstr "Support tokens are used to verify your account when contacting Sudomemo Support."
+msgstr "I Support Tokens sono usati per verificare il tuo account quanto contatti il supporto Sudomemo."
 
 msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
 msgstr "Configura il tuo canale Youtube collegato e le impostazioni di default del caricamento dei Flipnote."
@@ -826,10 +826,10 @@ msgid "VIEWS"
 msgstr "Visualizzazioni"
 
 msgid "VIEW_ON_SUDOMEMO"
-msgstr "View on Sudomemo"
+msgstr "Vedilo su Sudomemo"
 
 msgid "WATCH_HISTORY"
-msgstr "Watch History"
+msgstr "Cronologia"
 
 msgid "WELCOME_BOX_AFTERNOON_GREETING"
 msgstr "Buon pomeriggio"
