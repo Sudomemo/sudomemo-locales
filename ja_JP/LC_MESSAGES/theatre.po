@@ -504,7 +504,7 @@ msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
 msgstr "そのうごメモIDまたはメールアドレスで登録されているユーザーは見つかりませんでした"
 
 msgid "PARENT_FLIPNOTE"
-msgstr "Parent Flipnote"
+msgstr "原作"
 
 msgid "PASSWORD_RESET_SENT"
 msgstr "登録されているメールアドレスにパスワードのリセットの案内メールが送信されました"
@@ -657,10 +657,10 @@ msgid "SHARE_ON_WHATSAPP"
 msgstr "WhatsApp経由で共有"
 
 msgid "SHOW_ON_PROFILE"
-msgstr "Show on profile"
+msgstr "プロフィールで表示"
 
 msgid "SHOW_YOUTUBE_LINK_ON_MY_PROFILE"
-msgstr "Show a link to my YouTube channel on my Sudomemo profile"
+msgstr "スドメモのプロフィールにYouTubeチャンネルへのリンクを表示"
 
 msgid "SIGN_IN"
 msgstr "ログイン"
@@ -726,7 +726,7 @@ msgid "TERMS_OF_USE"
 msgstr "利用規約"
 
 msgid "THIS_FLIPNOTE_IS_SPINOFF_OF"
-msgstr "This Flipnote is a spin-off of"
+msgstr "このうごメモは次の作品の小作品です。"
 
 # Sudomemo Shop
 msgid "TICKETS"
@@ -772,7 +772,7 @@ msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
 msgstr "スドメモのDiscordに参加したら、以下のコマンドをコピーしてチャットに送信してください。"
 
 msgid "USER_SETTINGS_SUPPORT_TOKEN_EXPLANATION"
-msgstr "Support tokens are used to verify your account when contacting Sudomemo Support."
+msgstr "サポートトークンはスドメモサポートに連絡するとき、自分のアカウントを確認するために使われるものです。"
 
 msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
 msgstr "連携したYouTubeチャンネルとデフォルトの作品アップロード設定を行います。"
