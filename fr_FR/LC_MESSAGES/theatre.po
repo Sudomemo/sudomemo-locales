@@ -136,7 +136,7 @@ msgid "COMMENTS"
 msgstr "Commentaires"
 
 msgid "CONTINUE"
-msgstr "Continue"
+msgstr "Continuer"
 
 msgid "COULD_NOT_SAVE_DETAILS"
 msgstr "Impossible de sauvegarder les détails"
@@ -657,10 +657,10 @@ msgid "SHARE_ON_WHATSAPP"
 msgstr "Partager via WhatsApp"
 
 msgid "SHOW_ON_PROFILE"
-msgstr "Show on profile"
+msgstr "Afficher sur le profil"
 
 msgid "SHOW_YOUTUBE_LINK_ON_MY_PROFILE"
-msgstr "Show a link to my YouTube channel on my Sudomemo profile"
+msgstr "Afficher un lien vers ma chaîne YouTube sur mon profil Sudomemo"
 
 msgid "SIGN_IN"
 msgstr "Se connecter"
@@ -772,7 +772,7 @@ msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
 msgstr "Après avoir rejoint le Discord de Sudomemo, copiez-collez ceci dans le salon de discussion."
 
 msgid "USER_SETTINGS_SUPPORT_TOKEN_EXPLANATION"
-msgstr "Support tokens are used to verify your account when contacting Sudomemo Support."
+msgstr "Les jetons de support servent à vérifier votre compte lorsque vous contactez le support Sudomemo."
 
 msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
 msgstr "Configurez votre chaîne YouTube liée et vos paramètres d'envoi de Flipnote par défaut."
