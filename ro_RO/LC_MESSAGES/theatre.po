@@ -768,6 +768,9 @@ msgstr "Flipnote-ul lui %s din Flipnote Hatena"
 msgid "USERS_PROFILE_FROM_FLIPNOTE_HATENA"
 msgstr "Profilul lui %s din Flipnote Hatena"
 
+msgid "USER_SETTINGS_CHANGE_PASSWORD_EXPLANATION"
+msgstr "You can change the password for your Sudomemo account here:"
+
 msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
 msgstr "După ce v-ați alăturat Sudomemo Discord, copiați și inserați aceasta în conversație."
 
