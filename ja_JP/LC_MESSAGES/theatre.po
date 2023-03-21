@@ -768,6 +768,9 @@ msgstr "うごメモはてなでの%sのうごメモ"
 msgid "USERS_PROFILE_FROM_FLIPNOTE_HATENA"
 msgstr "うごメモはてなでの%sのプロフィール"
 
+msgid "USER_SETTINGS_CHANGE_PASSWORD_EXPLANATION"
+msgstr "You can change the password for your Sudomemo account here:"
+
 msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
 msgstr "スドメモのDiscordに参加したら、以下のコマンドをコピーしてチャットに送信してください。"
 
