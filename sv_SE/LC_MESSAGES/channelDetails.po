@@ -12,6 +12,9 @@ msgstr "KanalID"
 msgid "CHANNEL_INFORMATION"
 msgstr "Kanalinformation"
 
+msgid "CHANNEL_LOCKED"
+msgstr "This channel is locked."
+
 msgid "CHANNEL_NAME"
 msgstr "Kanalnamn"
 

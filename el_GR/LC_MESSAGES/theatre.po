@@ -257,6 +257,9 @@ msgstr "Γραμματα, νουμερα και συμβολα, μαξιμουμ
 msgid "FANS"
 msgstr "Θαυμαστες"
 
+msgid "FAVORITE_OF"
+msgstr "Favorite of"
+
 msgid "FEATURED"
 msgstr "Προτεινεται"
 
@@ -874,6 +877,9 @@ msgstr "Το Sudomemo ειναι ενα σαιτ για animation οπου ο κ
 
 msgid "WELCOME_BOX_YOU_ARE_ADMIN"
 msgstr "Εχετε συνδεθει ως Διαχειριστης."
+
+msgid "X_USERS"
+msgstr "%d user(s)"
 
 msgid "YOUTUBE"
 msgstr "YouTube"
