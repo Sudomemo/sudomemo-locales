@@ -266,6 +266,10 @@ msgstr "In primo piano"
 msgid "FEATURED_FLIPNOTES"
 msgstr "Flipnote in primo piano"
 
+# usage context: rss or personalized feed
+msgid "FEED"
+msgstr "Feed"
+
 msgid "FLIPNOTE"
 msgstr "Flipnote"
 

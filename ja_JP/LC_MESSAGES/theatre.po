@@ -266,6 +266,10 @@ msgstr "注目順"
 msgid "FEATURED_FLIPNOTES"
 msgstr "注目作品"
 
+# usage context: rss or personalized feed
+msgid "FEED"
+msgstr "Feed"
+
 msgid "FLIPNOTE"
 msgstr "うごメモ"
 

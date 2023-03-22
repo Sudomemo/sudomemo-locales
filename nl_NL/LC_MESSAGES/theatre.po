@@ -275,6 +275,10 @@ msgstr "Uitgelicht"
 msgid "FEATURED_FLIPNOTES"
 msgstr "Uitgelichte Flipnotes"
 
+# usage context: rss or personalized feed
+msgid "FEED"
+msgstr "Feed"
+
 msgid "FLIPNOTE"
 msgstr "Flipnote"
 

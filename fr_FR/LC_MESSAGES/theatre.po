@@ -266,6 +266,10 @@ msgstr "En vedette"
 msgid "FEATURED_FLIPNOTES"
 msgstr "Flipnotes en vedette"
 
+# usage context: rss or personalized feed
+msgid "FEED"
+msgstr "Feed"
+
 msgid "FLIPNOTE"
 msgstr "Flipnote"
 
