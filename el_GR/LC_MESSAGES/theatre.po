@@ -266,6 +266,10 @@ msgstr "Προτεινεται"
 msgid "FEATURED_FLIPNOTES"
 msgstr "Προωθημενα Flipnotes"
 
+# usage context: rss or personalized feed
+msgid "FEED"
+msgstr "Feed"
+
 msgid "FLIPNOTE"
 msgstr "Flipnote"
 

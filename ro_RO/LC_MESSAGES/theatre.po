@@ -266,6 +266,10 @@ msgstr "Recomandate"
 msgid "FEATURED_FLIPNOTES"
 msgstr "Flipnote-uri populare"
 
+# usage context: rss or personalized feed
+msgid "FEED"
+msgstr "Feed"
+
 msgid "FLIPNOTE"
 msgstr "Flipnote"
 
