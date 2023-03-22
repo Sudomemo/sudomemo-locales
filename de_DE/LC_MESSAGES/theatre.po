@@ -257,6 +257,9 @@ msgstr "Maximale Charakter-Anzahl: 40"
 msgid "FANS"
 msgstr "Fans"
 
+msgid "FAVORITE_OF"
+msgstr "Favorite of"
+
 msgid "FEATURED"
 msgstr "Vorgeschlagen"
 
@@ -880,6 +883,9 @@ msgstr "Sudomemo ist eine Animations-Seite, auf welcher Benutzer ihre auf dem Ni
 
 msgid "WELCOME_BOX_YOU_ARE_ADMIN"
 msgstr "Du bist als Administrator angemeldet."
+
+msgid "X_USERS"
+msgstr "%d user(s)"
 
 msgid "YOUTUBE"
 msgstr "YouTube"

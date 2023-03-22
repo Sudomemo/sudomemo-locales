@@ -257,6 +257,9 @@ msgstr "文字、数字、記号を40字まで使用できます。"
 msgid "FANS"
 msgstr "この作者のファン"
 
+msgid "FAVORITE_OF"
+msgstr "Favorite of"
+
 msgid "FEATURED"
 msgstr "注目順"
 
@@ -880,6 +883,9 @@ msgstr "スドメモはNintendo DSiと3DSで作成したメモ帳のアニメー
 
 msgid "WELCOME_BOX_YOU_ARE_ADMIN"
 msgstr "管理者権限でログインしています。"
+
+msgid "X_USERS"
+msgstr "%d user(s)"
 
 msgid "YOUTUBE"
 msgstr "YouTube"
