@@ -266,6 +266,9 @@ msgstr "Letters, nummers, en symbolen, maximaal 40 karakters."
 msgid "FANS"
 msgstr "Fans"
 
+msgid "FAVORITE_OF"
+msgstr "Favorite of"
+
 msgid "FEATURED"
 msgstr "Uitgelicht"
 
@@ -901,6 +904,9 @@ msgstr "Sudomemo is een animatiesite waar mensen flipboekanimaties kunnen delen 
 
 msgid "WELCOME_BOX_YOU_ARE_ADMIN"
 msgstr "Je bent ingelogd als een Administrator."
+
+msgid "X_USERS"
+msgstr "%d user(s)"
 
 msgid "YOUTUBE"
 msgstr "YouTube"

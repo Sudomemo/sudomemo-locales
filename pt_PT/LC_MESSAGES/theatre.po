@@ -257,6 +257,9 @@ msgstr "Letras, números, e símbolos, com um máximo de 40 caracteres."
 msgid "FANS"
 msgstr "Fãs"
 
+msgid "FAVORITE_OF"
+msgstr "Favorite of"
+
 msgid "FEATURED"
 msgstr "Em Destaque"
 
@@ -880,6 +883,9 @@ msgstr "O Sudomemo é o lugar para partilhar animações de livretes - chamados 
 
 msgid "WELCOME_BOX_YOU_ARE_ADMIN"
 msgstr "Entraste como Administrador."
+
+msgid "X_USERS"
+msgstr "%d user(s)"
 
 msgid "YOUTUBE"
 msgstr "YouTube"
