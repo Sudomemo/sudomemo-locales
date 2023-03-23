@@ -258,7 +258,7 @@ msgid "FANS"
 msgstr "Fans"
 
 msgid "FAVORITE_OF"
-msgstr "Favorite of"
+msgstr "Favori de"
 
 msgid "FEATURED"
 msgstr "En vedette"
@@ -268,7 +268,7 @@ msgstr "Flipnotes en vedette"
 
 # usage context: rss or personalized feed
 msgid "FEED"
-msgstr "Feed"
+msgstr "Flux"
 
 msgid "FLIPNOTE"
 msgstr "Flipnote"
@@ -889,7 +889,7 @@ msgid "WELCOME_BOX_YOU_ARE_ADMIN"
 msgstr "Vous êtes connecté en tant qu'administrateur."
 
 msgid "X_USERS"
-msgstr "%d user(s)"
+msgstr "%d utilisateur(s)"
 
 msgid "YOUTUBE"
 msgstr "YouTube"
