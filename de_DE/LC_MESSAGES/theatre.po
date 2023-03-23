@@ -258,7 +258,7 @@ msgid "FANS"
 msgstr "Fans"
 
 msgid "FAVORITE_OF"
-msgstr "Favorite of"
+msgstr "Favorit von"
 
 msgid "FEATURED"
 msgstr "Vorgeschlagen"
@@ -776,7 +776,7 @@ msgid "USERS_PROFILE_FROM_FLIPNOTE_HATENA"
 msgstr "Profil v. %s von Flipnote Hatena"
 
 msgid "USER_SETTINGS_CHANGE_PASSWORD_EXPLANATION"
-msgstr "You can change the password for your Sudomemo account here:"
+msgstr "Du kannst das Passwort für dein Sudomemo-Konto hier ändern:"
 
 msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
 msgstr "Nachdem du dem Sudomemo Discord-Server beigetreten bist, kopiere dies und schicke es in den Chat."
@@ -889,7 +889,7 @@ msgid "WELCOME_BOX_YOU_ARE_ADMIN"
 msgstr "Du bist als Administrator angemeldet."
 
 msgid "X_USERS"
-msgstr "%d user(s)"
+msgstr "%d Benutzer"
 
 msgid "YOUTUBE"
 msgstr "YouTube"
