@@ -30,6 +30,9 @@ msgstr "Användar Detailer"
 msgid "ADMIN_USER_STATUS"
 msgstr "Användaratatus"
 
+msgid "BLOCK"
+msgstr "Block"
+
 msgid "BLOCKED_USERS"
 msgstr "Blockerade användare"
 
@@ -38,6 +41,9 @@ msgstr "Blockera Kommentarer"
 
 msgid "BLOCK_COMMENTS_LINK"
 msgstr "Blockera"
+
+msgid "BLOCK_USER"
+msgstr "Block user"
 
 msgid "CAN_DRAW_TICKET_SUBTEXT"
 msgstr "Du kan dra en vanlig biljett! Du kanske vinner ett pris."
@@ -211,6 +217,12 @@ msgstr "Du kan dra en annan biljett om: %s timme(ar) %s minut(er)."
 msgid "TICKET_SECTION"
 msgstr "Biljetter"
 
+msgid "UNBLOCK"
+msgstr "Unblock"
+
+msgid "UNBLOCK_USER"
+msgstr "Unblock user"
+
 msgid "USABILITY_NOT_USABLE"
 msgstr "Inte användbar"
 
@@ -234,3 +246,6 @@ msgstr "Visa"
 
 msgid "WATCH_HISTORY"
 msgstr "Watch History"
+
+msgid "YOU_HAVE_BLOCKED_THIS_USER"
+msgstr "You have blocked this user."
