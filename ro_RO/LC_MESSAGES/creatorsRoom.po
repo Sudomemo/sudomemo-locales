@@ -30,6 +30,9 @@ msgstr "Detalii"
 msgid "ADMIN_USER_STATUS"
 msgstr "Statut Utilizator"
 
+msgid "BLOCK"
+msgstr "Block"
+
 msgid "BLOCKED_USERS"
 msgstr "Utilizatori blocati"
 
@@ -38,6 +41,9 @@ msgstr "Blocati Comentarii"
 
 msgid "BLOCK_COMMENTS_LINK"
 msgstr "Blocati"
+
+msgid "BLOCK_USER"
+msgstr "Block user"
 
 msgid "CAN_DRAW_TICKET_SUBTEXT"
 msgstr "Puteti trage un bilet normal! Puteti castiga un premiu."
@@ -211,6 +217,12 @@ msgstr "Puteti trage alt bilet in: %s ore %s minute."
 msgid "TICKET_SECTION"
 msgstr "Bilete"
 
+msgid "UNBLOCK"
+msgstr "Unblock"
+
+msgid "UNBLOCK_USER"
+msgstr "Unblock user"
+
 msgid "USABILITY_NOT_USABLE"
 msgstr "Neutilizabil"
 
@@ -234,3 +246,6 @@ msgstr "Vizualizati"
 
 msgid "WATCH_HISTORY"
 msgstr "Istoric"
+
+msgid "YOU_HAVE_BLOCKED_THIS_USER"
+msgstr "You have blocked this user."

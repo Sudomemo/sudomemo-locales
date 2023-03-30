@@ -30,6 +30,9 @@ msgstr "User Details"
 msgid "ADMIN_USER_STATUS"
 msgstr "User Status"
 
+msgid "BLOCK"
+msgstr "Block"
+
 msgid "BLOCKED_USERS"
 msgstr "aaahh"
 
@@ -38,6 +41,9 @@ msgstr "Block Comments"
 
 msgid "BLOCK_COMMENTS_LINK"
 msgstr "Block"
+
+msgid "BLOCK_USER"
+msgstr "Block user"
 
 msgid "CAN_DRAW_TICKET_SUBTEXT"
 msgstr "U can getta a regular ticket! U can win thingies!"
@@ -211,6 +217,12 @@ msgstr "U get anoda ticket in: %s hour(s) %s minute(s)."
 msgid "TICKET_SECTION"
 msgstr "Tickets"
 
+msgid "UNBLOCK"
+msgstr "Unblock"
+
+msgid "UNBLOCK_USER"
+msgstr "Unblock user"
+
 msgid "USABILITY_NOT_USABLE"
 msgstr "Not Usable"
 
@@ -234,3 +246,6 @@ msgstr "views"
 
 msgid "WATCH_HISTORY"
 msgstr "Watcharoo History"
+
+msgid "YOU_HAVE_BLOCKED_THIS_USER"
+msgstr "You have blocked this user."
