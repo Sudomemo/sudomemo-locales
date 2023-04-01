@@ -258,7 +258,7 @@ msgid "FANS"
 msgstr "Fans"
 
 msgid "FAVORITE_OF"
-msgstr "Favorite of"
+msgstr "Favori de"
 
 msgid "FEATURED"
 msgstr "En vedette"
@@ -268,7 +268,7 @@ msgstr "Flipnotes en vedette"
 
 # usage context: rss or personalized feed
 msgid "FEED"
-msgstr "Feed"
+msgstr "Flux"
 
 msgid "FLIPNOTE"
 msgstr "Flipnote"
@@ -776,7 +776,7 @@ msgid "USERS_PROFILE_FROM_FLIPNOTE_HATENA"
 msgstr "Profil de %s de Flipnote Hatena"
 
 msgid "USER_SETTINGS_CHANGE_PASSWORD_EXPLANATION"
-msgstr "You can change the password for your Sudomemo account here:"
+msgstr "Vous pouvez modifier le mot de passe de votre compte Sudomemo ici :"
 
 msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
 msgstr "Après avoir rejoint le Discord de Sudomemo, copiez-collez ceci dans le salon de discussion."
@@ -889,7 +889,7 @@ msgid "WELCOME_BOX_YOU_ARE_ADMIN"
 msgstr "Vous êtes connecté en tant qu'administrateur."
 
 msgid "X_USERS"
-msgstr "%d user(s)"
+msgstr "%d utilisateur(s)"
 
 msgid "YOUTUBE"
 msgstr "YouTube"
