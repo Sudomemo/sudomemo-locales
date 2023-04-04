@@ -31,7 +31,7 @@ msgid "FLIPNOTES"
 msgstr "Flipnyotes"
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "oh no,, ur flipnote is corupted... :( twy agen in a moment..."
+msgstr "oh no,, ur flipnote is corupted... :( try agen in a little bit..."
 
 msgid "FLIPNOTE_POST_FAILED"
 msgstr "oopsie daisy ur flipynote post faild... try agen in a sec"
@@ -40,7 +40,7 @@ msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
 msgstr "You've been restricted from using Sudomemo."
 
 msgid "LOGIN_REQUIRED_TO_POST"
-msgstr "pls log in to post a flipmeme silly!!"
+msgstr "pls log in to post flipnote silly!!"
 
 msgid "NO_BLANK_FLIPNOTES_ALLOWED"
 msgstr "NO BLANK FLIPNOTS ALLOWED!!!!!!!!!!!!"
