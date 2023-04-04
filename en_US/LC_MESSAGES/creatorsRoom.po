@@ -167,7 +167,7 @@ msgid "SETTINGS"
 msgstr "Settings"
 
 msgid "SET_BIO_INSTRUCTIONS"
-msgstr "Enter your profile biography below. This will be displayed on Sudomemo and Sudomemo Theatre."
+msgstr "Enter your profile biography below. This will be displayed on Sudomemo and Sudomemo Theatre. If you'd like to create a hyperlink in your biography, include "https://" before your link. Example: https://sudomemo.net, https://flipnot.es/FKCMDE."
 
 msgid "SPENDABLE_STARS"
 msgstr "Your Stars"
