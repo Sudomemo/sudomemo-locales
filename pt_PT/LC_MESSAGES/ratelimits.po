@@ -4,10 +4,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "HOURLY_CHAT_MESSAGE_LIMIT_REACHED"
-msgstr "You may only send %s chat messages per hour."
+msgstr "Só podes enviar %s mensagens de chat por hora."
 
 msgid "HOURLY_COMMENT_LIMIT_REACHED"
-msgstr "You may only post %s comments per hour."
+msgstr "Só podes enviar %s comentários por hora."
 
 msgid "HOURLY_FLIPNOTE_LIMIT_REACHED"
-msgstr "You may only upload %s Flipnotes per hour."
+msgstr "Só podes fazer upload de %s Flipnotes por hora."
