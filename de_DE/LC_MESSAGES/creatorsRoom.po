@@ -30,6 +30,9 @@ msgstr "Details"
 msgid "ADMIN_USER_STATUS"
 msgstr "Status"
 
+msgid "BLOCK"
+msgstr "Block"
+
 msgid "BLOCKED_USERS"
 msgstr "Blockierte Benutzer"
 
@@ -38,6 +41,9 @@ msgstr "Nachrichten blockieren"
 
 msgid "BLOCK_COMMENTS_LINK"
 msgstr "Blockieren"
+
+msgid "BLOCK_USER"
+msgstr "Block user"
 
 msgid "CAN_DRAW_TICKET_SUBTEXT"
 msgstr "Du kannst ein normales Ticket ziehen! Mit etwas Glück gewinnst du einen Preis."
@@ -80,10 +86,10 @@ msgstr "Benutzerfreundlichkeit"
 
 # Matches button on page 4 of Flipnote Studio settings
 msgid "FLIPNOTE_FRIENDS"
-msgstr "Flipnote Friends"
+msgstr "Flipnote-Freunde"
 
 msgid "FLIPNOTE_FRIENDS_INFO"
-msgstr "Creators you've exchanged Flipnotes with"
+msgstr "Ersteller, mit denen du Flipnotes ausgetauscht hast"
 
 msgid "FLIPNOTE_STUDIO_ID"
 msgstr "Flipnote-Studio-ID"
@@ -113,7 +119,7 @@ msgid "INVENTORY"
 msgstr "Inventar"
 
 msgid "LEAVE_BLANK_TO_RESET_BIO"
-msgstr "Möchtest du deine Biografie zurücksetzen, lasse das Feld einfach leer."
+msgstr "Wenn du deine Biografie zurücksetzen möchtest, lasse das Feld einfach leer."
 
 msgid "LOGIN_REQUIRED_ACTION"
 msgstr "Du musst eingeloggt sein, um diese Aktion auszuführen."
@@ -211,6 +217,12 @@ msgstr "Du kannst ein weiteres Ticket in %s Stunde(n) und %s Minute(n) ziehen."
 msgid "TICKET_SECTION"
 msgstr "Tickets"
 
+msgid "UNBLOCK"
+msgstr "Unblock"
+
+msgid "UNBLOCK_USER"
+msgstr "Unblock user"
+
 msgid "USABILITY_NOT_USABLE"
 msgstr "Nicht benutzbar"
 
@@ -234,3 +246,6 @@ msgstr "Anzeigen"
 
 msgid "WATCH_HISTORY"
 msgstr "Wiedergabeverlauf"
+
+msgid "YOU_HAVE_BLOCKED_THIS_USER"
+msgstr "You have blocked this user."

@@ -24,7 +24,7 @@ msgid "TROPHY_DESC_8th_birthday_bash"
 msgstr "Nahm an Sudomemo's Spaß-Jubiläum für 8 Jahre Flipnote teil."
 
 msgid "TROPHY_DESC_9th_birthday_bash"
-msgstr "Attended Sudomemo's 9th Birthday Bash event"
+msgstr "Nahm an Sudomemo's Spaß-Jubiläum für 9 Jahre Flipnote teil."
 
 msgid "TROPHY_DESC_archive_supporter"
 msgstr "Hat Geld auf Ko-Fi an Flipnote Archive gespendet, um Flipnote-Geschichte zu bewahren!"
@@ -51,7 +51,7 @@ msgid "TROPHY_DESC_fifth_bday_event"
 msgstr "Hat an der fünften Geburtstagsparty von Sudomemo teilgenommen"
 
 msgid "TROPHY_DESC_flipnote_friends"
-msgstr "Became Flipnote Friends with someone who uses Sudomemo!"
+msgstr "Ist Flipnote-Freund von jemandem geworden, der Sudomemo verwendet"
 
 msgid "TROPHY_DESC_folder"
 msgstr "Spendet Rechenleistung an Folding@Home, um Krankheiten zu bekämpfen"
@@ -84,13 +84,13 @@ msgid "TROPHY_DESC_one_million_flips_event"
 msgstr "War beim Eine-Million-Flipnotes-Event dabei"
 
 msgid "TROPHY_DESC_patreon_patron"
-msgstr "Supported Sudomemo through Patreon"
+msgstr "Hat Sudomemo durch Patreon unterstützt"
 
 msgid "TROPHY_DESC_rewind_2021"
-msgstr "Featured in 2021's Sudomemo Rewind!"
+msgstr "Ist in der 2021 Sudomemo Rewind erschienen!"
 
 msgid "TROPHY_DESC_rewind_2022"
-msgstr "Featured in 2022's Sudomemo Rewind!"
+msgstr "Ist in der 2022 Sudomemo Rewind erschienen!"
 
 msgid "TROPHY_DESC_spookmaster"
 msgstr "Spukmeister-Verzeichnung für Exzellenz in Hexerei, Zauberei und sonst Derlei"
@@ -117,7 +117,7 @@ msgid "TROPHY_NAME_8th_birthday_bash"
 msgstr "8. 'Birthday Bash'"
 
 msgid "TROPHY_NAME_9th_birthday_bash"
-msgstr "9th Birthday Bash"
+msgstr "9. 'Birthday Bash'"
 
 msgid "TROPHY_NAME_archive_supporter"
 msgstr "Archiv-Unterstützer"
@@ -145,7 +145,7 @@ msgid "TROPHY_NAME_fifth_bday_event"
 msgstr "Sudomemo's fünfte Geburtstagsparty"
 
 msgid "TROPHY_NAME_flipnote_friends"
-msgstr "Flipnote Friends"
+msgstr "Flipnote-Freund"
 
 msgid "TROPHY_NAME_folder"
 msgstr "Falter"
@@ -178,7 +178,7 @@ msgid "TROPHY_NAME_one_million_flips_event"
 msgstr "Eine-Million-Flipnotes-Event"
 
 msgid "TROPHY_NAME_patreon_patron"
-msgstr "Sudomemo Patron"
+msgstr "Sudomemo-Patron"
 
 msgid "TROPHY_NAME_rewind_2021"
 msgstr "Sudomemo Rewind 2021"

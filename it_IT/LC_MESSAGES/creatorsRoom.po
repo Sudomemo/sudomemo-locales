@@ -30,6 +30,9 @@ msgstr "Dettagli dell'utente"
 msgid "ADMIN_USER_STATUS"
 msgstr "Stato utente"
 
+msgid "BLOCK"
+msgstr "Block"
+
 msgid "BLOCKED_USERS"
 msgstr "Utenti bloccati"
 
@@ -38,6 +41,9 @@ msgstr "Blocca commenti"
 
 msgid "BLOCK_COMMENTS_LINK"
 msgstr "Blocca"
+
+msgid "BLOCK_USER"
+msgstr "Block user"
 
 msgid "CAN_DRAW_TICKET_SUBTEXT"
 msgstr "Puoi generare un ticket regolare! Potresti vincere un premio."
@@ -211,6 +217,12 @@ msgstr "Puoi generare un altro ticket tra: %s ora(e) %s minuto(i)."
 msgid "TICKET_SECTION"
 msgstr "Tickets"
 
+msgid "UNBLOCK"
+msgstr "Unblock"
+
+msgid "UNBLOCK_USER"
+msgstr "Unblock user"
+
 msgid "USABILITY_NOT_USABLE"
 msgstr "Non Utilizzabile"
 
@@ -234,3 +246,6 @@ msgstr "Vista"
 
 msgid "WATCH_HISTORY"
 msgstr "Watch History"
+
+msgid "YOU_HAVE_BLOCKED_THIS_USER"
+msgstr "You have blocked this user."

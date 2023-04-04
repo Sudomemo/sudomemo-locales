@@ -13,7 +13,7 @@ msgid "BOOST_TICKET_SUCCESS"
 msgstr "%sには1ヵ月間のスドメモプラス利用権と特別なトロフィーを交換できるニトロブースターチケットがプレゼントされました。やったぁ！"
 
 msgid "CONSIDER_X_CHANNEL_FOR_THIS"
-msgstr "Consider using %s for this"
+msgstr "%sチャンネルをお使いください"
 
 # Account linking
 msgid "DISCORD_LINKING_GET_STARTED"
@@ -55,7 +55,7 @@ msgid "MUSICMATCH_TITLE_BY_ARTIST"
 msgstr "%s / %s"
 
 msgid "PATRON_TICKET_SUCCESS"
-msgstr "You received a %s Sudomemo Patron Ticket!"
+msgstr "%sスドメモパトロンチケットを受け取りました！"
 
 msgid "REJECT_ACCOUNT_ALREADY_LINKED"
 msgstr "既にスドメモアカウントと紐付けされています！"
@@ -82,10 +82,10 @@ msgid "REJECT_NOT_NITRO_BOOSTER"
 msgstr "使用するにはスドメモニトロブースターになる必要があります！"
 
 msgid "REJECT_NOT_PATRON"
-msgstr "You'll need to be a Sudomemo Patron to use this!"
+msgstr "使用するにはスドメモパトロンになる必要があります！"
 
 msgid "REJECT_PATRON_TICKET_COOLDOWN"
-msgstr "You've already claimed your Patron ticket for this month!"
+msgstr "今月はパトロンチケットをもう受け取っています！"
 
 msgid "REJECT_USER_ENOENT"
 msgstr "このユーザーはスドメモでは見つかりませんでした。"
@@ -108,12 +108,12 @@ msgstr ""
 msgid "USAGE_draw"
 msgstr ""
 "   draw\n"
-"      Draw a Regular Ticket and see if you win a prize!"
+"      レギュラーチケットを引くことができます。何が出るかはお楽しみに！"
 
 msgid "USAGE_link"
 msgstr ""
 "   link\n"
-"      スドメモアカウントとDiscordアカウントを紐付けする"
+"      スドメモアカウントとDiscordアカウントを紐付けします。"
 
 # ONLY TRANSLATE "Search Sudomemo MusicMatch" and "What you're searching for"
 msgid "USAGE_musicmatch"
@@ -133,7 +133,7 @@ msgstr ""
 msgid "USAGE_patron_plus"
 msgstr ""
 "   patron_plus\n"
-"      Claim monthly Patreon Ticket"
+"      一ヶ月につきパトロンチケットを受け取れます。"
 
 msgid "USER_INFORMATION_WAS_UPDATED"
-msgstr "Your information was updated."
+msgstr "情報の更新が完了しました。"

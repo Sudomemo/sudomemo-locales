@@ -1,0 +1,13 @@
+msgid ""
+msgstr ""
+"Language: de_DE\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "HOURLY_CHAT_MESSAGE_LIMIT_REACHED"
+msgstr "Du darfst nur %s Chatnachrichten pro Stunde senden."
+
+msgid "HOURLY_COMMENT_LIMIT_REACHED"
+msgstr "Du darfst nur %s Kommentare pro Stunde posten."
+
+msgid "HOURLY_FLIPNOTE_LIMIT_REACHED"
+msgstr "Du darfst nur %s Flipnotes pro Stunde hochladen."

@@ -30,6 +30,9 @@ msgstr "Manylion Defnyddwyr"
 msgid "ADMIN_USER_STATUS"
 msgstr "Statws Defnyddiwr"
 
+msgid "BLOCK"
+msgstr "Block"
+
 msgid "BLOCKED_USERS"
 msgstr "Defnyddwyr wedi'u blocio"
 
@@ -38,6 +41,9 @@ msgstr "Sylwadau Bloc"
 
 msgid "BLOCK_COMMENTS_LINK"
 msgstr "Bloc"
+
+msgid "BLOCK_USER"
+msgstr "Block user"
 
 msgid "CAN_DRAW_TICKET_SUBTEXT"
 msgstr "Gallwch dynnu tocyn rheolaidd! Efallai y byddwch yn ennill gwobr."
@@ -211,6 +217,12 @@ msgstr "Gallwch dynnu tocyn arall mewn: %s awr(au) %s munud(au)."
 msgid "TICKET_SECTION"
 msgstr "Tocynnau"
 
+msgid "UNBLOCK"
+msgstr "Unblock"
+
+msgid "UNBLOCK_USER"
+msgstr "Unblock user"
+
 msgid "USABILITY_NOT_USABLE"
 msgstr "Ddim yn Ddefnyddiol"
 
@@ -234,3 +246,6 @@ msgstr "Golygfa"
 
 msgid "WATCH_HISTORY"
 msgstr "Watch History"
+
+msgid "YOU_HAVE_BLOCKED_THIS_USER"
+msgstr "You have blocked this user."

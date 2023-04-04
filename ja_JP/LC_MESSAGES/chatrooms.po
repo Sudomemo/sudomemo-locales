@@ -47,3 +47,63 @@ msgstr "まだメッセージがありません。"
 
 msgid "PAGE_FORMAT"
 msgstr "%dページ"
+
+msgid "ROOM_NAME_anime_chat"
+msgstr "和製アニメチャット"
+
+msgid "ROOM_NAME_blue_chat"
+msgstr "ブルーチャット"
+
+msgid "ROOM_NAME_drawings"
+msgstr "お絵描き"
+
+msgid "ROOM_NAME_french_chat"
+msgstr "フランス語チャット"
+
+msgid "ROOM_NAME_friend_code_exchange"
+msgstr "フレンドコード交換"
+
+msgid "ROOM_NAME_german_chat"
+msgstr "ドイツ語チャット"
+
+msgid "ROOM_NAME_greek_chat"
+msgstr "ギリシャ語チャット"
+
+msgid "ROOM_NAME_green_chat"
+msgstr "グリーンチャット"
+
+msgid "ROOM_NAME_japanese_chat"
+msgstr "日本語チャット"
+
+msgid "ROOM_NAME_kirby_chat"
+msgstr "カービィチャット"
+
+msgid "ROOM_NAME_mlp_chat"
+msgstr "マイリトルポニーチャット"
+
+msgid "ROOM_NAME_music_chat"
+msgstr "音楽チャット"
+
+msgid "ROOM_NAME_orange_chat"
+msgstr "オレンジチャット"
+
+msgid "ROOM_NAME_pokemon_chat"
+msgstr "ポケモンチャット"
+
+msgid "ROOM_NAME_red_chat"
+msgstr "レッドチャット"
+
+msgid "ROOM_NAME_roleplay_chat_1"
+msgstr "なりきりチャット1"
+
+msgid "ROOM_NAME_roleplay_chat_2"
+msgstr "なりきりチャット2"
+
+msgid "ROOM_NAME_spanish_chat"
+msgstr "スペイン語チャット"
+
+msgid "ROOM_NAME_stick_figure_chat"
+msgstr "棒人間チャット"
+
+msgid "ROOM_NAME_wolf_chat"
+msgstr "人狼チャット"

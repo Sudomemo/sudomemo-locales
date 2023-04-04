@@ -30,6 +30,9 @@ msgstr "Informacje o użytkowniku"
 msgid "ADMIN_USER_STATUS"
 msgstr "Status użytkownika"
 
+msgid "BLOCK"
+msgstr "Block"
+
 msgid "BLOCKED_USERS"
 msgstr "Zablokowani użytkownicy"
 
@@ -38,6 +41,9 @@ msgstr "Zablokuj komentarze"
 
 msgid "BLOCK_COMMENTS_LINK"
 msgstr "Zablokuj"
+
+msgid "BLOCK_USER"
+msgstr "Block user"
 
 msgid "CAN_DRAW_TICKET_SUBTEXT"
 msgstr "Masz możliwość wylosowania zwykłego biletu! Kto wie, może coś wygrasz?"
@@ -211,6 +217,12 @@ msgstr "Możesz wylosować kolejny bilet za: %s godzin(y) %s minut(y)."
 msgid "TICKET_SECTION"
 msgstr "Bilety"
 
+msgid "UNBLOCK"
+msgstr "Unblock"
+
+msgid "UNBLOCK_USER"
+msgstr "Unblock user"
+
 msgid "USABILITY_NOT_USABLE"
 msgstr "Niedostępna"
 
@@ -234,3 +246,6 @@ msgstr "Pokaż"
 
 msgid "WATCH_HISTORY"
 msgstr "Watch History"
+
+msgid "YOU_HAVE_BLOCKED_THIS_USER"
+msgstr "You have blocked this user."

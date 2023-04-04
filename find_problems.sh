@@ -32,7 +32,7 @@ for lang in $(echo ??_?? | tr ' ' '\n' | grep $LANGFILTER); do
         CHECK_ENCODING=$(file $lang/LC_MESSAGES/$domain.po | grep -Ev "(UTF-8|ASCII|empty)")
 
         if [ ! -z "$CHECK_ENCODING" ]; then
-            echo "$lang/LC_MESSAGES/$domain.po has wrong encoding: should be detected as UTF-8, ASCII, or empty"
+            echo "Error: $lang/LC_MESSAGES/$domain.po has wrong encoding: should be detected as UTF-8, ASCII, or empty"
             file $lang/LC_MESSAGES/$domain.po
             exit 1
         fi
@@ -42,7 +42,7 @@ for lang in $(echo ??_?? | tr ' ' '\n' | grep $LANGFILTER); do
         msgfmt --check-format $lang/LC_MESSAGES/$domain.po -o - >/dev/null
 
         if [ $? -ne 0 ]; then
-            echo "Check the formatting for $lang/LC_MESSAGES/$domain.po"
+            echo "Error: Check the formatting for $lang/LC_MESSAGES/$domain.po"
             exit 1
         fi
 
@@ -55,14 +55,14 @@ for lang in $(echo ??_?? | tr ' ' '\n' | grep $LANGFILTER); do
         COMPARE_EXTRA=$(comm -23 <(echo "$NEW_MSGID_LIST") <(echo "$ENG_MSGID_LIST"))
 
         if [ ! -z "$COMPARE_MISSING" ]; then
-            echo "$lang/LC_MESSAGES/$domain.po is missing msgid's present in en_US/LC_MESSAGES/$domain.po :"
+            echo "Error: $lang/LC_MESSAGES/$domain.po is missing msgid's present in en_US/LC_MESSAGES/$domain.po :"
             echo "$COMPARE_MISSING"
             echo "Please fix before continuing."
             exit 1
         fi
 
         if [ ! -z "$COMPARE_EXTRA" ]; then
-            echo "$lang/LC_MESSAGES/$domain.po has extra msgid's compared to en_US/LC_MESSAGES/$domain.po :"
+            echo "Error: $lang/LC_MESSAGES/$domain.po has extra msgid's compared to en_US/LC_MESSAGES/$domain.po :"
             echo "$COMPARE_EXTRA"
             echo "Please fix before continuing."
             exit 1
@@ -91,7 +91,12 @@ for lang in $(echo ??_?? | tr ' ' '\n' | grep $LANGFILTER); do
             continue
         fi
 
-        RESULTS=$(diff --unchanged-line-format='%L' --old-line-format='' --new-line-format='' en_US/LC_MESSAGES/$domain.po $lang/LC_MESSAGES/$domain.po | sed '/^$/d' | grep -B1 msgstr | grep -Po "^msgid..\K.+?(?=\")" | sort)
+        # Combine multiline strings into single lines using the "multiline" marker
+        en_strings=$(sed ':a;N;$!ba;s/\n"/multiline/g' en_US/LC_MESSAGES/$domain.po)
+        lang_strings=$(sed ':a;N;$!ba;s/\n"/multiline/g' $lang/LC_MESSAGES/$domain.po)
+
+        # Compare the temp files for untranslated strings
+        RESULTS=$(diff --unchanged-line-format='%L' --old-line-format='' --new-line-format='' <(echo "$en_strings") <(echo "$lang_strings") | sed '/^$/d' | grep -B1 msgstr | grep -Po "^msgid..\K.+?(?=\")" | sort)
 
         # check ignore list
         if [ -f $DIR/ignores/$lang/$domain.txt ]; then

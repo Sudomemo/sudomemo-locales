@@ -257,11 +257,18 @@ msgstr "Lettere, numeri e simboli, massimo 40 caratteri."
 msgid "FANS"
 msgstr "Fan"
 
+msgid "FAVORITE_OF"
+msgstr "Favorite of"
+
 msgid "FEATURED"
 msgstr "In primo piano"
 
 msgid "FEATURED_FLIPNOTES"
 msgstr "Flipnote in primo piano"
+
+# usage context: rss or personalized feed
+msgid "FEED"
+msgstr "Feed"
 
 msgid "FLIPNOTE"
 msgstr "Flipnote"
@@ -768,6 +775,9 @@ msgstr "%s's Flipnote from Flipnote Hatena"
 msgid "USERS_PROFILE_FROM_FLIPNOTE_HATENA"
 msgstr "%s's profile from Flipnote Hatena"
 
+msgid "USER_SETTINGS_CHANGE_PASSWORD_EXPLANATION"
+msgstr "You can change the password for your Sudomemo account here:"
+
 msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
 msgstr "Dopo esserti unito al Discord di Sudomemo, copia e incolla questo nella chat."
 
@@ -877,6 +887,9 @@ msgstr "Sudomemo è un portale dove le persone possono condividere animazioni - 
 
 msgid "WELCOME_BOX_YOU_ARE_ADMIN"
 msgstr "Hai eseguito l'accesso come Amministratore."
+
+msgid "X_USERS"
+msgstr "%d user(s)"
 
 msgid "YOUTUBE"
 msgstr "YouTube"

@@ -12,6 +12,9 @@ msgstr "Sianel ID"
 msgid "CHANNEL_INFORMATION"
 msgstr "Gwybodaeth Sianel"
 
+msgid "CHANNEL_LOCKED"
+msgstr "This channel is locked."
+
 msgid "CHANNEL_NAME"
 msgstr "Enw Sianel"
 

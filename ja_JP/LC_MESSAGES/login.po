@@ -233,10 +233,10 @@ msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
 msgstr "もし接続に助けが必要な場合はスドメモDiscordでお気軽にお問い合わせください！ %sから参加できます"
 
 msgid "SIGNUP_AGE_GATE_ERROR"
-msgstr "You'll need to be 13 or older to create a new Sudomemo account."
+msgstr "スドメモアカウントを作るには13歳以上でなければいけません。"
 
 msgid "SIGNUP_AGE_GATE_ERROR_FIX"
-msgstr "If you've received this message in error, you can update your birthday by tapping the orange wrench icon in the top right of Flipnote Studio's main menu."
+msgstr "もし13歳以上なら、うごくメモ帳のメインメニューの右上の設定ボタンから誕生日を変えることができます。"
 
 msgid "SORRY_NO_LOGIN"
 msgstr "申し訳ありませんが、ログインできませんでした。"

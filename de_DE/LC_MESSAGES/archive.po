@@ -11,10 +11,10 @@ msgid "ALSO_KNOWN_AS"
 msgstr "Auch bekannt als"
 
 msgid "BLUE_STARS"
-msgstr "Blue Stars"
+msgstr "Blaue Sterne"
 
 msgid "BROWSE"
-msgstr "Browse"
+msgstr "Durchsuchen"
 
 msgid "CONTACT"
 msgstr "Kontakt"
@@ -35,13 +35,13 @@ msgid "DURATION_FORMAT"
 msgstr "%s Sekunden"
 
 msgid "FEATURED"
-msgstr "Featured"
+msgstr "Vorgeschlagen"
 
 msgid "FEATURED_FLIPNOTES"
-msgstr "Featured Flipnotes"
+msgstr "Vorgeschlagene Flipnotes"
 
 msgid "FEATURED_FLIPNOTES_DESC"
-msgstr "A collection of famous or noteworthy Flipnotes, curated by our team"
+msgstr "Eine Kollektion von berühmten oder bemerkenswerten Flipnotes, von unserem Team kuratiert"
 
 msgid "FLIPNOTES"
 msgstr "Flipnotes"
@@ -84,7 +84,7 @@ msgid "FRAME_SPEED"
 msgstr "Bildgeschwindigkeit"
 
 msgid "GREEN_STARS"
-msgstr "Green Stars"
+msgstr "Grüne Sterne"
 
 msgid "HATENA_ID"
 msgstr "Hatena-ID"
@@ -154,16 +154,16 @@ msgid "ORIGINAL_NOT_FOUND"
 msgstr "Das Original konnte nicht gefunden werden"
 
 msgid "PARENT_FLIPNOTE"
-msgstr "Parent Flipnote"
+msgstr "Übergeordnetes Flipnote"
 
 msgid "POPULAR"
-msgstr "Popular"
+msgstr "Beliebt"
 
 msgid "POPULAR_FLIPNOTES"
-msgstr "Popular Flipnotes"
+msgstr "Beliebte Flipnotes"
 
 msgid "POPULAR_FLIPNOTES_DESC"
-msgstr "Flipnotes that have received a lot of attention from archive visitors"
+msgstr "Flipnotes, welche viel Aufmerksamkeit von Archivbesuchern erhalten haben"
 
 msgid "PRESS"
 msgstr "Presse"
@@ -175,19 +175,19 @@ msgid "PREV"
 msgstr "Zurück"
 
 msgid "PURPLE_STARS"
-msgstr "Purple Stars"
+msgstr "Violette Sterne"
 
 msgid "RANDOM"
-msgstr "Random"
+msgstr "Zufällig"
 
 msgid "RANDOM_FLIPNOTES"
-msgstr "Random Flipnotes"
+msgstr "Zufällige Flipnotes"
 
 msgid "RANDOM_FLIPNOTES_DESC"
-msgstr "A series of Flipnotes chosen from a random point in time"
+msgstr "Eine Serie von Flipnotes, welche von einem zufälligen Zeitpunkt ausgewählt wurden"
 
 msgid "RED_STARS"
-msgstr "Red Stars"
+msgstr "Rote Sterne"
 
 msgid "REGION_AMERICAS"
 msgstr "Amerika"
@@ -199,7 +199,7 @@ msgid "REGION_JAPAN"
 msgstr "Japan"
 
 msgid "ROOT_FLIPNOTE"
-msgstr "Root Flipnote"
+msgstr "Wurzel-Flipnote"
 
 msgid "SEARCH"
 msgstr "Suchen"
@@ -242,13 +242,13 @@ msgid "SPOTIFY"
 msgstr "Spotify"
 
 msgid "STARS"
-msgstr "Stars"
+msgstr "Sterne"
 
 msgid "SUDOMEMO"
 msgstr "Sudomemo"
 
 msgid "THIS_FLIPNOTE_IS_SPINOFF_OF"
-msgstr "This Flipnote is a spin-off of"
+msgstr "Dieses Flipnote ist ein Spin-Off von"
 
 msgid "TOTAL_FLIPNOTES"
 msgstr "Flipnotes gesamt"
@@ -273,7 +273,7 @@ msgid "VIEWS"
 msgstr "Aufrufe"
 
 msgid "YELLOW_STARS"
-msgstr "Yellow Stars"
+msgstr "Gelbe Sterne"
 
 msgid "YOUTUBE_MUSIC"
 msgstr "YouTube Music"

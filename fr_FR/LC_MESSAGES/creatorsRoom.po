@@ -30,6 +30,9 @@ msgstr "Détails de l'utilisateur"
 msgid "ADMIN_USER_STATUS"
 msgstr "Statut de l'utilisateur"
 
+msgid "BLOCK"
+msgstr "Bloquer"
+
 msgid "BLOCKED_USERS"
 msgstr "Utilisateurs bloqués"
 
@@ -38,6 +41,9 @@ msgstr "Bloquer un commentaire"
 
 msgid "BLOCK_COMMENTS_LINK"
 msgstr "Bloquer"
+
+msgid "BLOCK_USER"
+msgstr "Bloquer l'utilisateur"
 
 msgid "CAN_DRAW_TICKET_SUBTEXT"
 msgstr "Vous pouvez obtenir un ticket ordinaire ! Vous pourriez gagner un prix."
@@ -211,6 +217,12 @@ msgstr "Vous pouvez obtenir un autre ticket dans : %s heure(s) %s minute(s)."
 msgid "TICKET_SECTION"
 msgstr "Tickets"
 
+msgid "UNBLOCK"
+msgstr "Débloquer"
+
+msgid "UNBLOCK_USER"
+msgstr "Débloquer l'utilisateur"
+
 msgid "USABILITY_NOT_USABLE"
 msgstr "Non utilisable"
 
@@ -234,3 +246,6 @@ msgstr "Voir"
 
 msgid "WATCH_HISTORY"
 msgstr "Historique de visionnage"
+
+msgid "YOU_HAVE_BLOCKED_THIS_USER"
+msgstr "Vous avez bloqué cet utilisateur."

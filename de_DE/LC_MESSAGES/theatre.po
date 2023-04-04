@@ -257,11 +257,18 @@ msgstr "Maximale Charakter-Anzahl: 40"
 msgid "FANS"
 msgstr "Fans"
 
+msgid "FAVORITE_OF"
+msgstr "Favorit von"
+
 msgid "FEATURED"
 msgstr "Vorgeschlagen"
 
 msgid "FEATURED_FLIPNOTES"
 msgstr "Vorgeschlagene Flipnotes"
+
+# usage context: rss or personalized feed
+msgid "FEED"
+msgstr "Feed"
 
 msgid "FLIPNOTE"
 msgstr "Flipnote"
@@ -504,7 +511,7 @@ msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
 msgstr "Keinen Benutzer mit angegebener Flipnote Studio-ID oder Email-Adresse gefunden"
 
 msgid "PARENT_FLIPNOTE"
-msgstr "Parent Flipnote"
+msgstr "Übergeordnetes Flipnote"
 
 msgid "PASSWORD_RESET_SENT"
 msgstr "Eine Passwort-Zurücksetzung wurde an die registrierte Email-Adresse gesendet."
@@ -601,7 +608,7 @@ msgid "RELEASED"
 msgstr "Erschienen"
 
 msgid "ROOT_FLIPNOTE"
-msgstr "Root Flipnote"
+msgstr "Wurzel-Flipnote"
 
 msgid "SAVE"
 msgstr "Speichern"
@@ -657,10 +664,10 @@ msgid "SHARE_ON_WHATSAPP"
 msgstr "Auf WhatsApp teilen"
 
 msgid "SHOW_ON_PROFILE"
-msgstr "Show on profile"
+msgstr "Auf Profil anzeigen"
 
 msgid "SHOW_YOUTUBE_LINK_ON_MY_PROFILE"
-msgstr "Show a link to my YouTube channel on my Sudomemo profile"
+msgstr "Einen Link zu meinem YouTube-Kanal auf meinem Sudomemo-Profil anzeigen"
 
 msgid "SIGN_IN"
 msgstr "Anmelden"
@@ -726,7 +733,7 @@ msgid "TERMS_OF_USE"
 msgstr "Nutzungsrichtlinien"
 
 msgid "THIS_FLIPNOTE_IS_SPINOFF_OF"
-msgstr "This Flipnote is a spin-off of"
+msgstr "Dieses Flipnote ist ein Spin-Off von"
 
 # Sudomemo Shop
 msgid "TICKETS"
@@ -768,11 +775,14 @@ msgstr "Flipnote v. %s von Flipnote Hatena"
 msgid "USERS_PROFILE_FROM_FLIPNOTE_HATENA"
 msgstr "Profil v. %s von Flipnote Hatena"
 
+msgid "USER_SETTINGS_CHANGE_PASSWORD_EXPLANATION"
+msgstr "Du kannst das Passwort für dein Sudomemo-Konto hier ändern:"
+
 msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
 msgstr "Nachdem du dem Sudomemo Discord-Server beigetreten bist, kopiere dies und schicke es in den Chat."
 
 msgid "USER_SETTINGS_SUPPORT_TOKEN_EXPLANATION"
-msgstr "Support tokens are used to verify your account when contacting Sudomemo Support."
+msgstr "Support-Tokens werden verwendet, um dein Konto beim Kontakt mit dem Sudomemo-Support zu verifizieren."
 
 msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
 msgstr "Konfiguriere deinen verbundenen YouTube-Kanal und Einstellungen zu hochgeladenen Flipnote."
@@ -877,6 +887,9 @@ msgstr "Sudomemo ist eine Animations-Seite, auf welcher Benutzer ihre auf dem Ni
 
 msgid "WELCOME_BOX_YOU_ARE_ADMIN"
 msgstr "Du bist als Administrator angemeldet."
+
+msgid "X_USERS"
+msgstr "%d Benutzer"
 
 msgid "YOUTUBE"
 msgstr "YouTube"

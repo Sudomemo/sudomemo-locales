@@ -47,3 +47,63 @@ msgstr "Aucun message n'a été envoyé ici."
 
 msgid "PAGE_FORMAT"
 msgstr "Page %d"
+
+msgid "ROOM_NAME_anime_chat"
+msgstr "Chat Anime"
+
+msgid "ROOM_NAME_blue_chat"
+msgstr "Chat Bleu"
+
+msgid "ROOM_NAME_drawings"
+msgstr "Dessins"
+
+msgid "ROOM_NAME_french_chat"
+msgstr "Chat Français"
+
+msgid "ROOM_NAME_friend_code_exchange"
+msgstr "Échange de code ami"
+
+msgid "ROOM_NAME_german_chat"
+msgstr "Chat Allemand"
+
+msgid "ROOM_NAME_greek_chat"
+msgstr "Chat Grec"
+
+msgid "ROOM_NAME_green_chat"
+msgstr "Chat Vert"
+
+msgid "ROOM_NAME_japanese_chat"
+msgstr "Chat Japonais"
+
+msgid "ROOM_NAME_kirby_chat"
+msgstr "Chat Kirby"
+
+msgid "ROOM_NAME_mlp_chat"
+msgstr "Chat MLP"
+
+msgid "ROOM_NAME_music_chat"
+msgstr "Chat Musique"
+
+msgid "ROOM_NAME_orange_chat"
+msgstr "Chat Orange"
+
+msgid "ROOM_NAME_pokemon_chat"
+msgstr "Chat Pokémon"
+
+msgid "ROOM_NAME_red_chat"
+msgstr "Chat Rouge"
+
+msgid "ROOM_NAME_roleplay_chat_1"
+msgstr "Chat Roleplay 1"
+
+msgid "ROOM_NAME_roleplay_chat_2"
+msgstr "Chat Roleplay 2"
+
+msgid "ROOM_NAME_spanish_chat"
+msgstr "Chat Espagnol"
+
+msgid "ROOM_NAME_stick_figure_chat"
+msgstr "Chat Bonhomme Bâton"
+
+msgid "ROOM_NAME_wolf_chat"
+msgstr "Chat Loup"
