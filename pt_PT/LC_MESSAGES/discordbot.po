@@ -13,7 +13,7 @@ msgid "BOOST_TICKET_SUCCESS"
 msgstr "%s recebeu um Bilhete Nitro Booster, isto pode ser trocado por um mês de Sudomemo Plus e um troféu especial. Hurra!"
 
 msgid "CONSIDER_X_CHANNEL_FOR_THIS"
-msgstr "Consider using %s for this"
+msgstr "Considere a usar o canal %s para isto"
 
 # Account linking
 msgid "DISCORD_LINKING_GET_STARTED"
