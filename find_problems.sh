@@ -91,7 +91,12 @@ for lang in $(echo ??_?? | tr ' ' '\n' | grep $LANGFILTER); do
             continue
         fi
 
-        RESULTS=$(diff --unchanged-line-format='%L' --old-line-format='' --new-line-format='' en_US/LC_MESSAGES/$domain.po $lang/LC_MESSAGES/$domain.po | sed '/^$/d' | grep -B1 msgstr | grep -Po "^msgid..\K.+?(?=\")" | sort)
+        # Combine multiline strings into single lines using the "multiline" marker
+        en_strings=$(sed ':a;N;$!ba;s/\n"/multiline/g' en_US/LC_MESSAGES/$domain.po)
+        lang_strings=$(sed ':a;N;$!ba;s/\n"/multiline/g' $lang/LC_MESSAGES/$domain.po)
+
+        # Compare the temp files for untranslated strings
+        RESULTS=$(diff --unchanged-line-format='%L' --old-line-format='' --new-line-format='' <(echo "$en_strings") <(echo "$lang_strings") | sed '/^$/d' | grep -B1 msgstr | grep -Po "^msgid..\K.+?(?=\")" | sort)
 
         # check ignore list
         if [ -f $DIR/ignores/$lang/$domain.txt ]; then
