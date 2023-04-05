@@ -4,16 +4,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "BROWSE_BY_ALBUM"
-msgstr "Buscar por Album"
+msgstr "Buscar por álbum"
 
 msgid "BROWSE_BY_ARTIST"
-msgstr "Buscar por Artista"
+msgstr "Buscar por artista"
 
 msgid "BROWSE_BY_SONG"
-msgstr "Buscar por Canción"
+msgstr "Buscar por canción"
 
 msgid "BROWSE_PLAYLIST"
-msgstr "Buscar por Lista de Reproducción"
+msgstr "Buscar lista de reproducción"
 
 msgid "NEXT"
 msgstr "Siguiente"
@@ -31,10 +31,10 @@ msgid "PREV"
 msgstr "Anterior"
 
 msgid "SONG_DETAILS"
-msgstr "Detalles de la Canción"
+msgstr "Detalles de la canción"
 
 msgid "SPINOFFS"
 msgstr "Spin-offs"
 
 msgid "UPPERTITLE"
-msgstr "Buscar Canal"
+msgstr "Buscar canal"

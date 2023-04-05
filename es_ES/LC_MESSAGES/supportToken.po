@@ -4,28 +4,28 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "DO_NOT_SHARE_TOKEN"
-msgstr "Don't share this token with anyone. If someone reaches out to you claiming to be Sudomemo Support and asks you for this token, don't give it to them."
+msgstr "No compartas este código con nadie. Si alguien te contacta reclamando ser de nuestro equipo de soporte y te pide el código, NO SE LO DES."
 
 msgid "GET_SUPPORT_TOKEN"
-msgstr "Get Support Token"
+msgstr "Obtener código"
 
 msgid "HATENA_ID_VERIFICATION"
-msgstr "Hatena ID Verification"
+msgstr "Verificación del ID de Hatena "
 
 msgid "HATENA_ID_VERIFICATION_INTRO"
-msgstr "This tool allows you to verify ownership of a Hatena ID when working with Sudomemo Support."
+msgstr "Esta herramienta te permite verificar la propiedad de tu ID de Hatena al momento de trabajar con el equipo de soporte."
 
 msgid "HATENA_ID_VERIFICATION_INTRO_2"
-msgstr "You will be prompted to log in to your Hatena Account, after which you will receive a Support Token."
+msgstr "Se te mostrará una ventana para que inicies sesión en Hatena, tras lo cuál recibiras un código de soporte."
 
 msgid "LOGIN_FIRST_BEFORE_SUPPORT_TOKEN"
-msgstr "It looks like you already have an account. Please log in first before requesting a Support Token."
+msgstr "Parece que ya tienes una cuenta. Inicia sesión antes de solicitar el código de soporte."
 
 msgid "SUPPORT_TOKEN"
-msgstr "Support Token"
+msgstr "Código de soporte"
 
 msgid "SUPPORT_TOKEN_INFO"
-msgstr "Here is your Support Token, which you were asked for when you contacted Sudomemo Support."
+msgstr "Aquí está tu código de soporte, el que se te preguntó cuando contactaste con el soporte de Sudomemo."
 
 msgid "YOU_ARE_REQUESTING_SUPPORT_TOKEN"
-msgstr "You are now requesting a Support Token, which is used to verify your identity when you contact Sudomemo Support."
+msgstr "Estas pidiendo un código de soporte, el cuál se usará para confirmar tu idendidad cuando contactes con el equipo de soporte de Sudomemo."
