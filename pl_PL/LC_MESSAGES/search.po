@@ -13,10 +13,10 @@ msgid "NO_RESULTS_FOUND"
 msgstr "Brak znalezionych wyników"
 
 msgid "PAGE"
-msgstr "Page"
+msgstr "Strona"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d of %d"
+msgstr "%d z %d"
 
 msgid "PAGE_FORMAT"
 msgstr "Strona %d"
@@ -40,13 +40,13 @@ msgid "SEARCH_MUSICMATCH"
 msgstr "MusicMatch"
 
 msgid "SEARCH_MUSIC_BY_ARTIST"
-msgstr "By Artist"
+msgstr "Według artysty"
 
 msgid "SEARCH_MUSIC_BY_GENRE"
-msgstr "By Genre"
+msgstr "Według gatunku"
 
 msgid "SEARCH_MUSIC_BY_SONG"
-msgstr "By Song"
+msgstr "Według utworu"
 
 msgid "SEARCH_SHORT_KEY"
 msgstr "ID Flipnote"

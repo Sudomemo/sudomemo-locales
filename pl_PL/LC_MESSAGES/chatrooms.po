@@ -49,61 +49,62 @@ msgid "PAGE_FORMAT"
 msgstr "Strona %d"
 
 msgid "ROOM_NAME_anime_chat"
-msgstr "Anime Chat"
+msgstr "Czat o Anime"
 
 msgid "ROOM_NAME_blue_chat"
-msgstr "Blue Chat"
+msgstr "Niebieski czat"
 
 msgid "ROOM_NAME_drawings"
-msgstr "Drawings"
+msgstr "Rysunki"
 
 msgid "ROOM_NAME_french_chat"
-msgstr "French Chat"
+msgstr "Francuski czat"
 
+#, fuzzy
 msgid "ROOM_NAME_friend_code_exchange"
-msgstr "Friend Code Exchange"
+msgstr "Wymiana Friend Code"
 
 msgid "ROOM_NAME_german_chat"
-msgstr "German Chat"
+msgstr "Niemiecki czat"
 
 msgid "ROOM_NAME_greek_chat"
-msgstr "Greek Chat"
+msgstr "Grecki czat"
 
 msgid "ROOM_NAME_green_chat"
-msgstr "Green Chat"
+msgstr "Zielony czat"
 
 msgid "ROOM_NAME_japanese_chat"
-msgstr "Japanese Chat"
+msgstr "Japoński czat"
 
 msgid "ROOM_NAME_kirby_chat"
-msgstr "Kirby Chat"
+msgstr "Czat o Kirby"
 
 msgid "ROOM_NAME_mlp_chat"
-msgstr "MLP Chat"
+msgstr "Czat o MLP"
 
 msgid "ROOM_NAME_music_chat"
-msgstr "Music Chat"
+msgstr "Czat o muzyce"
 
 msgid "ROOM_NAME_orange_chat"
-msgstr "Orange Chat"
+msgstr "Pomarańczowy czat"
 
 msgid "ROOM_NAME_pokemon_chat"
-msgstr "Pokémon Chat"
+msgstr "Czat o Pokémonach"
 
 msgid "ROOM_NAME_red_chat"
-msgstr "Red Chat"
+msgstr "Czerwony czat"
 
 msgid "ROOM_NAME_roleplay_chat_1"
-msgstr "Roleplay Chat 1"
+msgstr "Czat Roleplay 1"
 
 msgid "ROOM_NAME_roleplay_chat_2"
-msgstr "Roleplay Chat 2"
+msgstr "Czat Roleplay 2"
 
 msgid "ROOM_NAME_spanish_chat"
-msgstr "Spanish Chat"
+msgstr "Hiszpański czat"
 
 msgid "ROOM_NAME_stick_figure_chat"
-msgstr "Stick Figure Chat"
+msgstr "Czat o patyczakach"
 
 msgid "ROOM_NAME_wolf_chat"
-msgstr "Wolf Chat"
+msgstr "Wilczy czat"

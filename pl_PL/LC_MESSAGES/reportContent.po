@@ -4,64 +4,64 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CATEGORY_DESC_drugs"
-msgstr "Substance abuse or drug references"
+msgstr "Nadużywanie substancji lub nawiązania do narkotyków"
 
 msgid "CATEGORY_DESC_fraud"
-msgstr "Impersonation or other fraudulent activities"
+msgstr "Podszywanie się lub inne nieuczciwe działania"
 
 msgid "CATEGORY_DESC_harassment"
-msgstr "Bullying, discrimination, harassment or libel"
+msgstr "Znęcanie się, dyskryminacja, nękanie lub oszczerstwo"
 
 msgid "CATEGORY_DESC_misplaced_rp"
-msgstr "Roleplay posted to non-roleplay channel"
+msgstr "Roleplay w kanale, który nie jest do tego przeznaczony"
 
 msgid "CATEGORY_DESC_rapid_flashing"
-msgstr "Flashing more than four times in one second"
+msgstr "Miganie więcej niż cztery razy na sekundę"
 
 msgid "CATEGORY_DESC_sexual"
-msgstr "Sexual themes or content"
+msgstr "Motywy lub treści seksualne"
 
 msgid "CATEGORY_DESC_spam"
-msgstr "Spam (no meaningful content)"
+msgstr "Spam (brak znaczącej zawartości)"
 
 msgid "CATEGORY_DESC_stolen"
-msgstr "Misuse of spin-off function (stolen)"
+msgstr "Nadużycie funkcji spin-off (skradzione)"
 
 msgid "CATEGORY_DESC_swearing"
-msgstr "Use of very strong language, or frequent use of strong language"
+msgstr "Użycie bardzo silnego języka, lub częste użycie silnego języka"
 
 msgid "CATEGORY_DESC_violent"
-msgstr "Graphic content, excessive violence, gore, blood, or body horror"
+msgstr "Brutalność, nadmierna przemoc, krew lub body horror"
 
 msgid "CATEGORY_NAME_drugs"
-msgstr "Drugs"
+msgstr "Narkotyki"
 
 msgid "CATEGORY_NAME_fraud"
-msgstr "Fraud"
+msgstr "Oszustwo"
 
 msgid "CATEGORY_NAME_harassment"
-msgstr "Harassment"
+msgstr "Nękanie"
 
 msgid "CATEGORY_NAME_misplaced_rp"
-msgstr "Misplaced RP"
+msgstr "Niewłaściwie umieszczony RP"
 
 msgid "CATEGORY_NAME_rapid_flashing"
-msgstr "Rapid Flashing"
+msgstr "Szybkie miganie"
 
 msgid "CATEGORY_NAME_sexual"
-msgstr "Sexual"
+msgstr "Seksualne"
 
 msgid "CATEGORY_NAME_spam"
 msgstr "Spam"
 
 msgid "CATEGORY_NAME_stolen"
-msgstr "Stolen"
+msgstr "Skradzione"
 
 msgid "CATEGORY_NAME_swearing"
-msgstr "Profane"
+msgstr "Bluźniercze"
 
 msgid "CATEGORY_NAME_violent"
-msgstr "Graphic"
+msgstr "Brutalne"
 
 msgid "CHAT_MESSAGE"
 msgstr "wiadomość na czacie"
