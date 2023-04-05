@@ -152,7 +152,7 @@ msgstr "Nieprawidłowe próby wpisania hasła: %s"
 
 # A URL will be shown at the end of this.
 msgid "LEGACY_PROXY_WARNING"
-msgstr "It looks like you may still be using the legacy ds.sudomemo.net proxy, which we have ended support for. As such, you should turn off the proxy in your System Settings, or you might have problems using Sudomemo. For more information, visit:"
+msgstr "Wygląda na to, że wciąż używasz starego proxy ds.sudomemo.net, dla którego skończyliśmy wsparcie. Zalecamy więc wyłączenie tego proxy w ustawieniach systemu; w przeciwnym razie, może ono spowodować problemy z używaniem Sudomemo. Aby dowiedzieć się więcej, odwiedź link:"
 
 msgid "LOGIN"
 msgstr "Zaloguj się"
@@ -200,13 +200,13 @@ msgid "NO_PLAINTEXT_PASSWORD_RECOVERY_IF_LOST"
 msgstr "Po tym kroku nie będziemy mogli odzyskać twojego hasła jeśli je zgubisz."
 
 msgid "PLEASE_DISCONNECT_AND_RECONNECT"
-msgstr "An error occured. To try again, disconnect and then reconnect to Sudomemo."
+msgstr "Wystąpił błąd. Aby spróbować ponownie, rozłącz się i połącz się z powrotem z Sudomemo."
 
 msgid "PLEASE_ENTER_PASSWORD_TO_SIGN_IN"
 msgstr "Wpisz swoje hasło by się zalogować"
 
 msgid "POST_COMMENT_BELOW"
-msgstr "To continue, please submit a drawn comment (it can be blank)."
+msgstr "Aby kontynuować, prześlij rysowany komentarz (może być pusty)."
 
 msgid "REGISTRATION_ERROR_BAD_EMAIL"
 msgstr "Wprowadzony adres e-mail jest zabroniony."
@@ -233,10 +233,10 @@ msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
 msgstr "Jeżeli potrzebujesz pomocy z łączeniem się, nie bój się zapytać na naszym Discordzie! Możesz dołączyć poprzez %s."
 
 msgid "SIGNUP_AGE_GATE_ERROR"
-msgstr "You'll need to be 13 or older to create a new Sudomemo account."
+msgstr "Musisz mieć 13 lub więcej lat aby utworzyć konto na Sudomemo."
 
 msgid "SIGNUP_AGE_GATE_ERROR_FIX"
-msgstr "If you've received this message in error, you can update your birthday by tapping the orange wrench icon in the top right of Flipnote Studio's main menu."
+msgstr "Jeżeli błędnie otrzymałeś/-aś ten błąd, możesz zaktualizować datę urodzin klikając na pomarańczową ikonkę w prawym górnym rogu głównego menu Flipnote Studio."
 
 msgid "SORRY_NO_LOGIN"
 msgstr "Przepraszamy, ale nie mogliśmy ciebie zalogować."
@@ -245,7 +245,7 @@ msgid "THANKS_FOR_LOGIN_FORMAT"
 msgstr "Dziękujemy za zalogowanie się, %s!"
 
 msgid "THANKS_FOR_LOGIN_PROMPT_INTRO"
-msgstr "Welcome to Sudomemo! Now, let's write a little message to say who you are! (This will be posted as a Flipnote in our Introductions channel.)"
+msgstr "Witaj w Sudomemo! Na początek, napiszmy małą wiadomość aby się przedstawić! (Zostanie ona wysłana jako Flipnote w naszym kanale Wprowadzenia.)"
 
 msgid "THANK_YOU_FOR_UPDATING_EMAIL"
 msgstr "Dziękujemy za zaktualizowanie e-maila!"
