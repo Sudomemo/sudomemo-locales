@@ -43,10 +43,10 @@ msgid "NONE"
 msgstr "Żadne"
 
 msgid "OFF"
-msgstr "Off"
+msgstr "Wyłącz"
 
 msgid "ON"
-msgstr "On"
+msgstr "Włącz"
 
 # Extra features provided by Sudomemo Plus (see flipnoteOptions.po)
 msgid "PLUS_FEATURES"

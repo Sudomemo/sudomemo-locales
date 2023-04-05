@@ -4,7 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CATEGORY"
-msgstr "Category"
+msgstr "Kategoria"
 
 msgid "CHANNEL_ID"
 msgstr "ID kanału"
@@ -13,7 +13,7 @@ msgid "CHANNEL_INFORMATION"
 msgstr "Informacje o kanale"
 
 msgid "CHANNEL_LOCKED"
-msgstr "This channel is locked."
+msgstr "Ten kanał jest zablokowany."
 
 msgid "CHANNEL_NAME"
 msgstr "Nazwa kanału"
