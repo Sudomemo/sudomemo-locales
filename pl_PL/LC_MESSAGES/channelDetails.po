@@ -7,43 +7,43 @@ msgid "CATEGORY"
 msgstr "Kategoria"
 
 msgid "CHANNEL_ID"
-msgstr "ID kanału"
+msgstr "ID kanalu"
 
 msgid "CHANNEL_INFORMATION"
 msgstr "Informacje o kanale"
 
 msgid "CHANNEL_LOCKED"
-msgstr "Ten kanał jest zablokowany."
+msgstr "Ten kanal jest zablokowany."
 
 msgid "CHANNEL_NAME"
-msgstr "Nazwa kanału"
+msgstr "Nazwa kanalu"
 
 msgid "CHANNEL_NOT_SPECIFIED"
-msgstr "Musisz wybrać kanał."
+msgstr "Musisz wybrac kanal."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Potwierdź swój adres e-mail przed wysłaniem."
+msgstr "Potwierdz swój adres e-mail przed wyslaniem."
 
 msgid "DUPLICATE_FLIPNOTE_FAILED"
-msgstr "Ten Flipnote został już wysłany na Sudomemo. Spróbuj zmodyfikować go ponownie."
+msgstr "Ten Flipnote zostal juz wyslany na Sudomemo. Spróbuj zmodyfikowac go ponownie."
 
 msgid "FLIPNOTES"
 msgstr "Flipnotes"
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "Dane tego Flipnote zostały uszkodzone. Spróbuj ponownie za kilka minut."
+msgstr "Dane tego Flipnote zostaly uszkodzone. Spróbuj ponownie za kilka minut."
 
 msgid "FLIPNOTE_POST_FAILED"
-msgstr "Wysyłanie Flipnote nie powiodło się."
+msgstr "Wysylanie Flipnote nie powiodlo sie."
 
 msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
-msgstr "Twoje konto Sudomemo zostało zawieszone."
+msgstr "Twoje konto Sudomemo zostalo zawieszone."
 
 msgid "LOGIN_REQUIRED_TO_POST"
-msgstr "Musisz się zalogować by wysyłać Flipnotes."
+msgstr "Musisz sie zalogowac by wysylac Flipnotes."
 
 msgid "NO_BLANK_FLIPNOTES_ALLOWED"
-msgstr "Nie możesz wysłać pustego Flipnote."
+msgstr "Nie mozesz wyslac pustego Flipnote."
 
 msgid "NO_POSTS_WHILE_MUTED"
-msgstr "Nie możesz wysłać Flipnote kiedy jesteś wyciszony."
+msgstr "Nie mozesz wyslac Flipnote kiedy jestes wyciszony."

@@ -12,14 +12,14 @@ msgstr "Odebrane"
 # This contains common strings used for the general notification ("mail") system as well
 # Common
 msgid "LOGIN_FIRST_TO_ACCESS_MAIL"
-msgstr "Musisz się zalogować żeby to wyświetlić."
+msgstr "Musisz sie zalogowac aby to wyswietlic."
 
 # Not found
 msgid "MAIL_NOT_FOUND"
-msgstr "Ta wiadomość nie istnieje."
+msgstr "Ta wiadomosc nie istnieje."
 
 msgid "NEXT"
-msgstr "Następny"
+msgstr "Nastepny"
 
 msgid "PREV"
 msgstr "Poprzedni"
@@ -28,13 +28,13 @@ msgid "TITLE_INFO"
 msgstr "Informacja"
 
 msgid "TITLE_MESSAGE"
-msgstr "Wiadomość"
+msgstr "Wiadomosc"
 
 msgid "TITLE_NEWFRIEND"
 msgstr "Nowy przyjaciel!"
 
 msgid "TITLE_NEWS"
-msgstr "Wiadomości"
+msgstr "Wiadomosci"
 
 msgid "TITLE_NOTICE"
 msgstr "Powiadomienie"

@@ -10,10 +10,10 @@ msgid "DISABLED"
 msgstr "Nieaktywny"
 
 msgid "DISABLE_CONFIRMATION_FORMAT"
-msgstr "Czy napewno chcesz deaktywować e-maile '%s'?"
+msgstr "Czy napewno chcesz deaktywowac e-maile '%s'?"
 
 msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
-msgstr "Link, którym podążasz, wygasł."
+msgstr "Link, którym podazasz, wygasl."
 
 msgid "EMAIL_SETTING_DISABLED_FINISH_FORMAT"
 msgstr "Zdeaktwowano '%s' e-maili."
@@ -31,7 +31,7 @@ msgid "HEADER_MAIL_SETTINGS"
 msgstr "Ustawienia e-maili"
 
 msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
-msgstr "Musisz się zalogować, by zmieniać ustawienia e-maili."
+msgstr "Musisz sie zalogowac, by zmieniać ustawienia e-maili."
 
 msgid "MAIL_STATUS"
 msgstr "Status"
@@ -40,73 +40,73 @@ msgid "MAIL_TYPE"
 msgstr "Typ"
 
 msgid "REENABLE_INSTRUCTIONS"
-msgstr "Jeżeli chcesz aktywować je ponownie, możesz to zrobić wchodząc w <strong>Ustawienia e-maili</strong> w twoim Pokoju Twórcy."
+msgstr "Jezeli chcesz aktywowac je ponownie, mozesz to zrobić wchodzac w <strong>Ustawienia e-maili</strong> w twoim Pokoju Twórcy."
 
 msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
-msgstr "Kliknij na status rodzaju maila by go zobaczyć lub zmienić."
+msgstr "Kliknij na status rodzaju maila by go zobaczyc lub zmienić."
 
 msgid "TAP_TO_DISABLE"
-msgstr "Wciśnij by dezaktywować"
+msgstr "Wcisnij by dezaktywowac"
 
 msgid "TAP_TO_ENABLE"
-msgstr "Wciśnij by aktywować"
+msgstr "Wcisnij by aktywowac"
 
 msgid "TYPE_COMMENT_NOTIF_DESC"
-msgstr "Otrzymuj e-maile gdy ktoś komentuje na twoich Flipnote"
+msgstr "Otrzymuj e-maile gdy ktos komentuje na twoich Flipnote"
 
 msgid "TYPE_COMMENT_NOTIF_NAME"
 msgstr "Otrzymano komentarz"
 
 msgid "TYPE_FAVE_NOTIF_DESC"
-msgstr "Otrzymuj e-maile gdy ktoś doda cię do Ulubionych"
+msgstr "Otrzymuj e-maile gdy ktos doda cie do Ulubionych"
 
 msgid "TYPE_FAVE_NOTIF_NAME"
 msgstr "Dodano twój profil do ulubionych"
 
 msgid "TYPE_NEWS_DESC"
-msgstr "Otrzymuj e-maile gdy coś nowego pojawia się w Sudomemo News"
+msgstr "Otrzymuj e-maile gdy cos nowego pojawia sie w Sudomemo News"
 
 msgid "TYPE_NEWS_NAME"
-msgstr "Wiadomości Sudomemo"
+msgstr "Wiadomosci Sudomemo"
 
 msgid "TYPE_PROMO_DESC"
-msgstr "Otrzymuj e-maile o nowych funkcjach, poradach i sztuczkach, a także nadchodzących wydarzeniach."
+msgstr "Otrzymuj e-maile o nowych funkcjach, poradach i sztuczkach, a takze nadchodzacych wydarzeniach."
 
 msgid "TYPE_PROMO_NAME"
 msgstr "Promocjonalne"
 
 msgid "TYPE_REPORT_UPDATE_DESC"
-msgstr "Otrzymuj e-maile gdy zmienimy status zawartości którą zgłosiłeś"
+msgstr "Otrzymuj e-maile gdy zmienimy status zawartosci która zglosiłeś"
 
 msgid "TYPE_REPORT_UPDATE_NAME"
-msgstr "Aktualizacje o zgłoszonej zawartości"
+msgstr "Aktualizacje o zgloszonej zawartosci"
 
 msgid "TYPE_SECURITY_NOTIF_DESC"
-msgstr "Otrzymuj e-maile gdy twój adres e-mail lub hasło jest aktualizowane"
+msgstr "Otrzymuj e-maile gdy twój adres e-mail lub haslo jest aktualizowane"
 
 msgid "TYPE_SECURITY_NOTIF_NAME"
 msgstr "Bezpieczeństwo konta"
 
 msgid "TYPE_SERVICE_UPDATE_DESC"
-msgstr "Ważne informacje o stanie Sudomemo i dostępem do twojego konta"
+msgstr "Wazne informacje o stanie Sudomemo i dostepem do twojego konta"
 
 msgid "TYPE_SERVICE_UPDATE_NAME"
 msgstr "Aktualizacje o serwisie"
 
 msgid "TYPE_SPINOFF_NOTIF_DESC"
-msgstr "Otrzymuj e-maile gdy ktoś wysyła spin-off twojego Flipnota"
+msgstr "Otrzymuj e-maile gdy ktos wysyla spin-off twojego Flipnota"
 
 msgid "TYPE_SPINOFF_NOTIF_NAME"
-msgstr "Ktoś tworzy Spin-off"
+msgstr "Ktos tworzy Spin-off"
 
 msgid "TYPE_STAR_REPORT_DESC"
-msgstr "Otrzymuj e-maile na koniec każdego dnia z ilością gwiazdek które otrzymałeś"
+msgstr "Otrzymuj e-maile na koniec kazdego dnia z iloscia gwiazdek które otrzymaleś"
 
 msgid "TYPE_STAR_REPORT_NAME"
 msgstr "Codzienne podsumowanie gwiazdek"
 
 msgid "TYPE_UNREAD_COMMENTS_DESC"
-msgstr "Otrzymuj przez e-maila podsumowanie nowych komentarzy, które niedawno otrzymałeś"
+msgstr "Otrzymuj przez e-maila podsumowanie nowych komentarzy, które niedawno otrzymales"
 
 msgid "TYPE_UNREAD_COMMENTS_NAME"
 msgstr "Nieprzeczytane komentarze"

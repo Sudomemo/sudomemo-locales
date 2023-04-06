@@ -4,7 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "AVAILABLE_PLUS_FEATURES"
-msgstr "Dzięki Sudomemo Plus masz dostęp do tych funkcji. Sprawdzaj tę sekcję raz na jakiś czas!"
+msgstr "Dzieki Sudomemo Plus masz dostep do tych funkcji. Sprawdzaj te sekcje raz na jakis czas!"
 
 msgid "COLORFUL_COMMENTS"
 msgstr "Pisz kolorowe komentarze"
@@ -16,16 +16,16 @@ msgid "DOWNLOAD_YOUR_COMMENTS"
 msgstr "Pobierz swoje komentarze jako Flipnote"
 
 msgid "FLIPNOTE_ANALYTICS"
-msgstr "Otrzymaj dostęp do informacji analitycznych o twoich Flipnotes"
+msgstr "Otrzymaj dostep do informacji analitycznych o twoich Flipnotes"
 
 msgid "FLIPNOTE_AUDIO_ENHANCEMENT"
-msgstr "Ulepszenie dźwięku Flipnote"
+msgstr "Ulepszenie dzwieku Flipnote"
 
 msgid "FLIPNOTE_SMOOTHING"
-msgstr "Wygładzanie Flipnote"
+msgstr "Wygladzanie Flipnote"
 
 msgid "FOOTNOTE_PLATFORM_FEATURE_PARITY"
-msgstr "Niektóre funkcjie, takie jak wygładzanie i ulepszenie dźwięku Flipnotes, są widoczne jedynie w Sudomemo Theatre."
+msgstr "Niektóre funkcjie, takie jak wygladzanie i ulepszenie dzwieku Flipnotes, sa widoczne jedynie w Sudomemo Theatre."
 
 msgid "GREETING_LEGACY_ACTIVATE_FORMAT"
 msgstr "Witaj, %s!"
@@ -34,38 +34,38 @@ msgid "INCREASED_FOLLOW_LIMIT"
 msgstr "Podniesiony limit obserwowanych osób - do %s Twórców"
 
 msgid "LEGACY_ACTIVATE_CITIZENSHIP_CHANGE"
-msgstr "Sudomemo Citizenship zostało zastąpione przez Sudomemo Plus!"
+msgstr "Sudomemo Citizenship zostalo zastapione przez Sudomemo Plus!"
 
 msgid "LEGACY_ACTIVATE_EARN_PLUS"
-msgstr "Sudomemo Plus może być uzyskane poprzez wykorzystanie biletu wykupionego w naszym sklepie lub jeżeli twój Flipnote wygra w jednym z naszych Tematów Tygodnia."
+msgstr "Sudomemo Plus moze byc uzyskane poprzez wykorzystanie biletu wykupionego w naszym sklepie lub jezeli twój Flipnote wygra w jednym z naszych Tematów Tygodnia."
 
 msgid "LEGACY_ACTIVATE_GRANDFATHERED_BONUS"
-msgstr "Ponieważ poprzednio miałeś Citizenship, daliśmi ci darmowy miesiąc Sudememo Plus. Porozglądaj się po naszej stronie i wypróbuj kilku nowych funkcji!"
+msgstr "Poniewaz poprzednio miales Citizenship, dalismi ci darmowy miesiac Sudememo Plus. Porozgladaj sie po naszej stronie i wypróbuj kilku nowych funkcji!"
 
 msgid "LEGACY_ACTIVATE_PLUS_TEASER"
-msgstr "Sudomemo Plus daje ci dostęp do wielu dodatkowych funkcji, takich jak wygładzanie i ulepszanie dźwięku twoich Flipnotes na Sudomemo Theatre, a także kolorowe komentarze i inne niezłe funkcje!"
+msgstr "Sudomemo Plus daje ci dostep do wielu dodatkowych funkcji, takich jak wygladzanie i ulepszanie dzwieku twoich Flipnotes na Sudomemo Theatre, a takze kolorowe komentarze i inne niezle funkcje!"
 
 # My Sudomemo Plus
 msgid "MANAGE_PLUS_HEADER"
 msgstr "Moje Sudomemo Plus"
 
 msgid "MANAGE_PLUS_HOW_TO_EARN_PLUS"
-msgstr "Sudomemo Plus może być uzyskane poprzez wykorzystanie biletu wykupionego w naszym sklepie lub jeżeli twój Flipnote wygra w jednym z naszych Tematów Tygodnia."
+msgstr "Sudomemo Plus moze byc uzyskane poprzez wykorzystanie biletu wykupionego w naszym sklepie lub jezeli twój Flipnote wygra w jednym z naszych Tematów Tygodnia."
 
 msgid "MANAGE_PLUS_REMAINING"
-msgstr "Pozostało ci %s dni Sudomemo Plus."
+msgstr "Pozostalo ci %s dni Sudomemo Plus."
 
 msgid "NO_THEATRE_ADS"
 msgstr "Brak reklam w Sudomemo Theatre"
 
 msgid "PLUS_RUNNING_OUT_MSG_DAYS_REMAINING_FORMAT"
-msgstr "Przypominamy, że zostało ci %s dni Sudomemo Plus."
+msgstr "Przypominamy, ze zostalo ci %s dni Sudomemo Plus."
 
 msgid "PLUS_RUNNING_OUT_MSG_HAPPY_FLIPNOTING"
-msgstr "Wesołego Flipnotowania!"
+msgstr "Wesolego Flipnotowania!"
 
 msgid "PLUS_RUNNING_OUT_MSG_HOW_TO_EARN_PLUS"
-msgstr "Nie zapomnij, że Sudomemo Plus może być uzyskane poprzez wykorzystanie biletu wykupionego w naszym sklepie lub jeżeli twój Flipnote wygra w jednym z naszych Tematów Tygodnia."
+msgstr "Nie zapomnij, ze Sudomemo Plus moze byc uzyskane poprzez wykorzystanie biletu wykupionego w naszym sklepie lub jezeli twój Flipnote wygra w jednym z naszych Tematów Tygodnia."
 
 msgid "PLUS_RUNNING_OUT_MSG_INTRO"
 msgstr "Witaj, %s!"
@@ -82,4 +82,4 @@ msgid "SUDOMEMO_PLUS_LEGACY_HEADER"
 msgstr "Witaj w Sudomemo Plus!"
 
 msgid "THEME_PUBLISHER_ACCESS"
-msgstr "Wysyłaj własne motywy do sklepu z motywami"
+msgstr "Wysylaj wlasne motywy do sklepu z motywami"

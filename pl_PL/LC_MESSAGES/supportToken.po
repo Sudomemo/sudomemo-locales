@@ -4,7 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "DO_NOT_SHARE_TOKEN"
-msgstr "Nie pokazuj tego kodu nikomu. Jeżeli ktoś napisze do Ciebie podając się za wsparcie Sudomemo, nie przekazuj tego kodu."
+msgstr "Nie pokazuj tego kodu nikomu. Jezeli ktos napisze do Ciebie podajac sie za wsparcie Sudomemo, nie przekazuj tego kodu."
 
 msgid "GET_SUPPORT_TOKEN"
 msgstr "Otrzymaj token wsparcia"
@@ -13,19 +13,19 @@ msgid "HATENA_ID_VERIFICATION"
 msgstr "Weryfikacja ID Hatena"
 
 msgid "HATENA_ID_VERIFICATION_INTRO"
-msgstr "To narzędzie umożliwia Ci zweryfikowanie posiadania ID Hatena podczas pracy ze wsparciem Sudomemo."
+msgstr "To narzedzie umozliwia Ci zweryfikowanie posiadania ID Hatena podczas pracy ze wsparciem Sudomemo."
 
 msgid "HATENA_ID_VERIFICATION_INTRO_2"
-msgstr "Zostaniesz poproszony/-a o zalogowanie się do swojego konta Hatena, po czym otrzymasz token wsparcia."
+msgstr "Zostaniesz poproszony/-a o zalogowanie sie do swojego konta Hatena, po czym otrzymasz token wsparcia."
 
 msgid "LOGIN_FIRST_BEFORE_SUPPORT_TOKEN"
-msgstr "Wygląda na to, że już masz konto. Zaloguj się, aby przesłać żądanie o token wsparcia."
+msgstr "Wyglada na to, ze juz masz konto. Zaloguj sie, aby przeslac zadanie o token wsparcia."
 
 msgid "SUPPORT_TOKEN"
 msgstr "Token wsparcia"
 
 msgid "SUPPORT_TOKEN_INFO"
-msgstr "Oto twój token wsparcia, o który zostałeś zapytany/-a przy kontakcie ze wsparciem Sudomemo."
+msgstr "Oto twój token wsparcia, o który zostales zapytany/-a przy kontakcie ze wsparciem Sudomemo."
 
 msgid "YOU_ARE_REQUESTING_SUPPORT_TOKEN"
-msgstr "Przesyłasz żądanie tokenu wsparcia, który zostanie wykorzystany do potwierdzenia twojej tożsamości podczas rozmowy ze wsparciem Sudomemo."
+msgstr "Przesylasz zadanie tokenu wsparcia, który zostanie wykorzystany do potwierdzenia twojej tozsamosci podczas rozmowy ze wsparciem Sudomemo."
