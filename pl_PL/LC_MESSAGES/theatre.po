@@ -750,7 +750,7 @@ msgstr "Góra"
 # ## SIGN_IN is a link to the login page, and TO_ADD_A_COMMENT is the part that comes after.
 # ## It reads as follows: Sign in to add a comment
 msgid "TO_ADD_A_COMMENT"
-msgstr "żeby dodać komentarz"
+msgstr "aby dodać komentarz"
 
 msgid "TROPHY_CASE"
 msgstr "Trofea"
@@ -833,7 +833,7 @@ msgstr "Spin-offy"
 
 # Number of times something has been viewed, or played.
 msgid "VIEWS"
-msgstr "Wyświetleń"
+msgstr "Wyświetlenia"
 
 msgid "VIEW_ON_SUDOMEMO"
 msgstr "Obejrz na Sudomemo"

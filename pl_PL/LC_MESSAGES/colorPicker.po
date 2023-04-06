@@ -7,10 +7,10 @@ msgid "CURRENT_COLOR"
 msgstr "Aktualny kolor:"
 
 msgid "CURRENT_COLOR_DEFAULT"
-msgstr "Aktualny kolor: domyślny"
+msgstr "Aktualny kolor: domyslny"
 
 msgid "RETURN"
-msgstr "Wróć"
+msgstr "Wróc"
 
 msgid "SELECT_A_COLOR"
 msgstr "Wybierz kolor."
@@ -19,4 +19,4 @@ msgid "SET_PAPER_COLOR"
 msgstr "Ustaw kolor papieru"
 
 msgid "SET_PEN_COLOR"
-msgstr "Ustaw kolor długopisu"
+msgstr "Ustaw kolor dlugopisu"

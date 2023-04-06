@@ -4,61 +4,61 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "BLOCKED_USERS"
-msgstr "Zablokowani użytkownicy"
+msgstr "Zablokowani uzytkownicy"
 
 msgid "BLOCK_USER"
-msgstr "Blokuj użytkownika"
+msgstr "Blokuj uzytkownika"
 
 msgid "CANNOT_UNBLOCK_NONBLOCKED_USER"
-msgstr "Nie możesz odblokować tego użytkownika, ponieważ jeszcze go nie zablokowałeś."
+msgstr "Nie mozesz odblokowac tego uzytkownika, poniewaz jeszcze go nie zablokowales."
 
 msgid "COMMENTING_ENABLED_AFTER_UNBLOCK"
-msgstr "Po zablokowaniu tego użytkownika, będą znowu mogli komentować twoje Flipnotes, chyba że on również cię zablokował."
+msgstr "Po zablokowaniu tego uzytkownika, beda znowu mogli komentowac twoje Flipnotes, chyba ze on równiez cie zablokowal."
 
 msgid "COMMENT_BLOCK_IS_MUTUAL"
-msgstr "Po zablokowaniu tego użytkownika, nie będziecie mogli komentować na wzajemnych Flipnotes."
+msgstr "Po zablokowaniu tego uzytkownika, nie bedziecie mogli komentowac na wzajemnych Flipnotes."
 
 msgid "CONFIRM_BLOCK"
-msgstr "Potwierdź blokadę"
+msgstr "Potwierdz blokade"
 
 msgid "CONFIRM_UNBLOCK"
-msgstr "Potwierdź odblokowanie"
+msgstr "Potwierdz odblokowanie"
 
 msgid "IF_YOU_WISH_TO_UNBLOCK"
-msgstr "Jeżeli chcesz go odblokować, możesz to zrobić wchodząc do twojego Pokoju Twórcy i otwierając menu Zablokowani użytkownicy."
+msgstr "Jezeli chcesz go odblokowac, mozesz to zrobic wchodzac do twojego Pokoju Twórcy i otwierajac menu Zablokowani uzytkownicy."
 
 msgid "LOGIN_REQUIRED"
-msgstr "Musisz się zalogować by wykonać tę operację."
+msgstr "Musisz sie zalogowac by wykonac te operacje."
 
 msgid "LOGIN_REQUIRED_TO_MANAGE_BLOCKS"
-msgstr "Musisz się zalogować by zarządzać blokadami."
+msgstr "Musisz sie zalogowac by zarzadzac blokadami."
 
 msgid "NO_USERS_BLOCKED"
-msgstr "Nie masz zablokowanych użytkowników."
+msgstr "Nie masz zablokowanych uzytkowników."
 
 msgid "ONE_DAY_WAIT_BEFORE_REBLOCK_FORMAT"
-msgstr "Niedawno odblokowałeś tego użytkownika. Możesz go odblokować za %s"
+msgstr "Niedawno odblokowales tego uzytkownika. Mozesz go odblokowac za %s"
 
 msgid "RECENTLY_UNBLOCKED_ONE_DAY_THRESHOLD"
-msgstr "Niedawno odblokowałeś tego użytkownika. Musisz poczekać 24 godziny zanim możliwe będzie jego ponowne zablokowanie."
+msgstr "Niedawno odblokowales tego uzytkownika. Musisz poczekac 24 godziny zanim mozliwe bedzie jego ponowne zablokowanie."
 
 msgid "TAP_BACK_TO_RETURN"
-msgstr "Wciśnij Wróć by powrócić do twojego Pokoju Twórcy."
+msgstr "Wcisnij Wróc by powrócic do twojego Pokoju Twórcy."
 
 msgid "UNBLOCK"
 msgstr "Odblokuj"
 
 msgid "UNBLOCK_USER"
-msgstr "Odblokuj użytkownika"
+msgstr "Odblokuj uzytkownika"
 
 msgid "UNBLOCK_WARNING_ONE_DAY_THRESHOLD"
-msgstr "Jeżeli go odblokujesz, będziesz musiał czekać 24 godziny zanim możliwe będzie jego ponowne zablokowanie."
+msgstr "Jezeli go odblokujesz, bedziesz musial czekac 24 godziny zanim mozliwe bedzie jego ponowne zablokowanie."
 
 msgid "USER_ALREADY_BLOCKED"
-msgstr "Zablokowałeś już tego użytkownika. Możesz go odblokować przez menu ustawień w twoim Pokoju Twórcy, ale wtedy będziesz musiał czekać 24 godziny zanim będziesz mógł zablokować go ponownie."
+msgstr "Zablokowales juz tego uzytkownika. Mozesz go odblokowac przez menu ustawien w twoim Pokoju Twórcy, ale wtedy bedziesz musial czekac 24 godziny zanim bedziesz mógl zablokowac go ponownie."
 
 msgid "USER_HAS_BEEN_BLOCKED"
-msgstr "Ten użytkownik został zablokowany."
+msgstr "Ten uzytkownik zostal zablokowany."
 
 msgid "USER_HAS_BEEN_UNBLOCKED"
-msgstr "Odblokowałeś tego użytkownika."
+msgstr "Odblokowales tego uzytkownika."

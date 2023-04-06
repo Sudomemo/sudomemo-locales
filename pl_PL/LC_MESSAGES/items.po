@@ -7,13 +7,13 @@ msgid "CONTINUE"
 msgstr "Kontynuuj"
 
 msgid "ITEM_DESC_banana"
-msgstr "Nie pomyl go z figą."
+msgstr "Nie pomyl go z figa."
 
 msgid "ITEM_DESC_beach_ball"
-msgstr "Świetny dodatek do wycieczki nad wodę."
+msgstr "Swietny dodatek do wycieczki nad wode."
 
 msgid "ITEM_DESC_hot_chocolate"
-msgstr "Pyszny kubek gorącej czekolady, idealny na przytulne dni."
+msgstr "Pyszny kubek goracej czekolady, idealny na przytulne dni."
 
 msgid "ITEM_DESC_peeled_banana"
 msgstr "Nie pomyl go z fi- czemu on jest tak obrany?"
@@ -22,10 +22,10 @@ msgid "ITEM_NAME_banana"
 msgstr "Banan"
 
 msgid "ITEM_NAME_beach_ball"
-msgstr "Piłka plażowa"
+msgstr "Pilka plazowa"
 
 msgid "ITEM_NAME_hot_chocolate"
-msgstr "Gorąca czekolada"
+msgstr "Goraca czekolada"
 
 msgid "ITEM_NAME_peeled_banana"
 msgstr "Obrany banan"
@@ -34,13 +34,13 @@ msgid "ITEM_USE_banana"
 msgstr "Obierasz banana."
 
 msgid "ITEM_USE_beach_ball"
-msgstr "Podrzucasz piłkę przez chwilkę."
+msgstr "Podrzucasz pilke przez chwilke."
 
 msgid "ITEM_USE_hot_chocolate"
-msgstr "Po pozotawieniu jej na chwilę do ostygnięcia, pijesz gorącą czekoladę"
+msgstr "Po pozotawieniu jej na chwile do ostygniecia, pijesz goraca czekolade."
 
 msgid "ITEM_USE_peeled_banana"
 msgstr "Zjadasz banana."
 
 msgid "YOU_GOT_AN_ITEM"
-msgstr "Zdobyłeś/-aś przedmiot!"
+msgstr "Zdobyles/-as przedmiot!"
