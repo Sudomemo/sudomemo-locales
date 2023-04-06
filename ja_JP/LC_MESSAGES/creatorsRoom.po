@@ -31,7 +31,7 @@ msgid "ADMIN_USER_STATUS"
 msgstr "ユーザーのテータス"
 
 msgid "BLOCK"
-msgstr "Block"
+msgstr "ブロック"
 
 msgid "BLOCKED_USERS"
 msgstr "ブロックしたユーザー"
@@ -43,7 +43,7 @@ msgid "BLOCK_COMMENTS_LINK"
 msgstr "ブロック"
 
 msgid "BLOCK_USER"
-msgstr "Block user"
+msgstr "ユーザーをブロックする"
 
 msgid "CAN_DRAW_TICKET_SUBTEXT"
 msgstr "レギュラーチケットを引くことができます！アイテムを獲得できるかも？"
@@ -218,10 +218,10 @@ msgid "TICKET_SECTION"
 msgstr "チケット"
 
 msgid "UNBLOCK"
-msgstr "Unblock"
+msgstr "ブロック解除"
 
 msgid "UNBLOCK_USER"
-msgstr "Unblock user"
+msgstr "ユーザーのブロックを解除"
 
 msgid "USABILITY_NOT_USABLE"
 msgstr "使用不可能"
@@ -248,4 +248,4 @@ msgid "WATCH_HISTORY"
 msgstr "閲覧履歴"
 
 msgid "YOU_HAVE_BLOCKED_THIS_USER"
-msgstr "You have blocked this user."
+msgstr "このユーザーをブロックしています。"
