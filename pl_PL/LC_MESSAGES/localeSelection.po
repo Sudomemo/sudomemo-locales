@@ -4,19 +4,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CHANGE_LANGUAGE"
-msgstr "Zmień język"
+msgstr "Zmien jezyk"
 
 msgid "INVALID_LOCALE"
-msgstr "Przepraszamy, ale ten język nie jest dostępny."
+msgstr "Przepraszamy, ale ten jezyk nie jest dostepny."
 
 msgid "LANGUAGE_UPDATED_FORMAT"
-msgstr "Twój język został zmieniony na %s."
+msgstr "Twój jezyk zostal zmieniony na %s."
 
 msgid "NOT_LOGGED_IN"
-msgstr "Musisz się zalogować zanim zmienisz swój język."
+msgstr "Musisz sie zalogowac zanim zmienisz swój jezyk."
 
 msgid "POTENTIAL_CONTRIBUTOR_NOTE"
-msgstr "Sudomemo opiera się na swojej społeczności by otrzymać dokładne tłumaczenia. Jeżeli zauważysz coś, co nie wyświetla się poprawnie, dalej wyświetla się po angielsku, jest tłumaczeniem o niskiej jakości lub jeśli chcesz dodać własny język, zachęcamy do pomocy! Pełne i zweryfikowane tłumaczenia mogą dać ci dodatkowe dni Sudomemo Plus. Możesz dopomóc tutaj: "
+msgstr "Sudomemo polega na swojej spolecznosci aby otrzymac dokladne tlumaczenia. Jezeli zauwazysz cos, co nie wyswietla sie poprawnie, dalej wyswietla sie po angielsku, jest tlumaczeniem o niskiej jakosci lub jesli chcesz dodac wlasny jezyk, zachecamy do pomocy! Pelne i zweryfikowane tlumaczenia moga dac ci dodatkowe dni Sudomemo Plus. Mozesz dopomóc tutaj: "
 
 msgid "RETURN_TO_CREATORS_ROOM"
-msgstr "Wróć do Pokoju Twórcy"
+msgstr "Wróc do Pokoju Twórcy"

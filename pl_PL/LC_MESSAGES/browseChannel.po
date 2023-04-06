@@ -4,19 +4,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "BROWSE_BY_ALBUM"
-msgstr "Przeglądaj według albumu"
+msgstr "Przegladaj wedlug albumu"
 
 msgid "BROWSE_BY_ARTIST"
-msgstr "Przeglądaj według artysty"
+msgstr "Przegladaj wedlug artysty"
 
 msgid "BROWSE_BY_SONG"
-msgstr "Przeglądaj według utworu"
+msgstr "Przegladaj wedlug utworu"
 
 msgid "BROWSE_PLAYLIST"
-msgstr "Przeglądaj playlistę"
+msgstr "Przegladaj playliste"
 
 msgid "NEXT"
-msgstr "Następna"
+msgstr "Nastepna"
 
 msgid "PAGE"
 msgstr "Strona"
@@ -25,7 +25,7 @@ msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d z %d"
 
 msgid "POST_FLIPNOTE"
-msgstr "Wyślij Flipnote"
+msgstr "Wyslij Flipnote"
 
 msgid "PREV"
 msgstr "Poprzednia"
@@ -37,4 +37,4 @@ msgid "SPINOFFS"
 msgstr "Spinoff-y"
 
 msgid "UPPERTITLE"
-msgstr "Przeglądaj kanał"
+msgstr "Przegladaj kanal"

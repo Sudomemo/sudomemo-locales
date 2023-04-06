@@ -25,16 +25,16 @@ msgid "ADMIN_LAST_SEEN"
 msgstr "Ostatnio widziany"
 
 msgid "ADMIN_USER_DETAILS"
-msgstr "Informacje o użytkowniku"
+msgstr "Informacje o uzytkowniku"
 
 msgid "ADMIN_USER_STATUS"
-msgstr "Status użytkownika"
+msgstr "Status uzytkownika"
 
 msgid "BLOCK"
 msgstr "Zablokuj"
 
 msgid "BLOCKED_USERS"
-msgstr "Zablokowani użytkownicy"
+msgstr "Zablokowani uzytkownicy"
 
 msgid "BLOCK_COMMENTS_HEADER"
 msgstr "Zablokuj komentarze"
@@ -43,10 +43,10 @@ msgid "BLOCK_COMMENTS_LINK"
 msgstr "Zablokuj"
 
 msgid "BLOCK_USER"
-msgstr "Zablokuj użytkownika"
+msgstr "Zablokuj uzytkownika"
 
 msgid "CAN_DRAW_TICKET_SUBTEXT"
-msgstr "Masz możliwość wylosowania zwykłego biletu! Kto wie, może coś wygrasz?"
+msgstr "Mozesz wylosowac zwykly bilet! Kto wie, moze cos wygrasz?"
 
 msgid "CHANGE_ROOM_THEME_LINK"
 msgstr "[zmień motyw]"
@@ -61,10 +61,10 @@ msgid "DRAW_REGULAR_TICKET"
 msgstr "Wylosuj bilet"
 
 msgid "ENTER_BIO"
-msgstr "Wpisz biografię..."
+msgstr "Wpisz biografie..."
 
 msgid "EXAMPLE"
-msgstr "Przykład"
+msgstr "Przyklad"
 
 msgid "FANS"
 msgstr "Fani"
@@ -76,38 +76,38 @@ msgid "FAVORITES_FEED"
 msgstr "Najnowsze od ulubionych twórców"
 
 msgid "FAVORITE_CHANNELS"
-msgstr "Ulubione kanały"
+msgstr "Ulubione kanaly"
 
 msgid "FAVORITE_USERS"
-msgstr "Ulubieni użytkownicy"
+msgstr "Ulubieni uzytkownicy"
 
 msgid "FEATURE_USABILITY"
-msgstr "Dostępność funkcji"
+msgstr "Dostepnosc funkcji"
 
 # Matches button on page 4 of Flipnote Studio settings
 msgid "FLIPNOTE_FRIENDS"
 msgstr "Przyjaciele Flipnote"
 
 msgid "FLIPNOTE_FRIENDS_INFO"
-msgstr "Twórcy, z którymi wymieniłeś/-aś się Flipnotes"
+msgstr "Twórcy, z którymi wymieniles/-as sie Flipnotes"
 
 msgid "FLIPNOTE_STUDIO_ID"
 msgstr "ID Flipnote Studio"
 
 msgid "FOLLOW_LIMIT_EXCEEDED_FORMAT"
-msgstr "Nie możesz obserwować więcej niż %d osób."
+msgstr "Nie mozesz obserwowac wiecej niz %d osób."
 
 msgid "HEADER_EDIT_BIOGRAPHY"
-msgstr "Edytuj biografię"
+msgstr "Edytuj biografie"
 
 msgid "HEADER_FOLLOWERS"
-msgstr "Obserwujący"
+msgstr "Obserwujacy"
 
 msgid "HEADER_FOLLOWING"
 msgstr "Obserwowani"
 
 msgid "HEADER_LANGUAGE"
-msgstr "Język"
+msgstr "Jezyk"
 
 msgid "HEADER_MAIL_SETTINGS"
 msgstr "Ustawienia e-maili"
@@ -119,16 +119,16 @@ msgid "INVENTORY"
 msgstr "Ekwipunek"
 
 msgid "LEAVE_BLANK_TO_RESET_BIO"
-msgstr "Żeby wyczyścić biografię, zostaw ten formularz pusty podczas wysyłania."
+msgstr "aby wyczyscic biografie, zostaw ten formularz pusty podczas wysylania."
 
 msgid "LOGIN_REQUIRED_ACTION"
-msgstr "Musisz się zalogować by wykonać tę operację."
+msgstr "Musisz sie zalogowac by wykonac te operacje."
 
 msgid "NEXT"
-msgstr "Następna"
+msgstr "Nastepna"
 
 msgid "NOT_USABLE"
-msgstr "Niedostępna"
+msgstr "Niedostepna"
 
 msgid "PAGE"
 msgstr "Strona"
@@ -137,13 +137,13 @@ msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d z %d"
 
 msgid "POSTED_CHATCOMMENTS"
-msgstr "Wiadomości na czacie"
+msgstr "Wiadomosci na czacie"
 
 msgid "POSTED_COMMENTS"
-msgstr "Wysłane komentarze"
+msgstr "Wyslane komentarze"
 
 msgid "PREVIEW"
-msgstr "Podgląd"
+msgstr "Podglad"
 
 msgid "PREVIOUS"
 msgstr "Poprzednia"
@@ -155,10 +155,10 @@ msgid "REDEEM"
 msgstr "Wykorzystaj kod"
 
 msgid "REQUEST"
-msgstr "Żądanie"
+msgstr "Zdobadz"
 
 msgid "SEE_MORE"
-msgstr "Zobacz więcej..."
+msgstr "Zobacz wiecej..."
 
 msgid "SELECT_THEME"
 msgstr "Wybierz motyw"
@@ -167,13 +167,13 @@ msgid "SETTINGS"
 msgstr "Ustawienia"
 
 msgid "SET_BIO_INSTRUCTIONS"
-msgstr "Wpisz biografię profilu poniżej. Będzie ona wyświetlana na Sudomemo i Sudomemo Theatre."
+msgstr "Wpisz biografie profilu ponizej. Bedzie ona wyswietlana na Sudomemo i Sudomemo Theatre."
 
 msgid "SPENDABLE_STARS"
 msgstr "Twoje gwiazdki"
 
 msgid "SPENDABLE_STARS_HELPTEXT"
-msgstr "Gwiazdki które możesz dodać do Flipnotes lub wykupić za nie motywy"
+msgstr "Gwiazdki, ktore mozesz zostawic na Flipnotes lub wykupic za nie motywy"
 
 msgid "STARRED_FLIPNOTES"
 msgstr "Zagwiazdkowane Flipnotes"
@@ -182,13 +182,13 @@ msgid "SUDOMEMO_THEATRE_URL"
 msgstr "Link na Sudomemo Theatre"
 
 msgid "THEMETEST_ACTIVE_TAB"
-msgstr "Aktywna zakładka"
+msgstr "Aktywna zakladka"
 
 msgid "THEMETEST_ERROR"
-msgstr "Błąd"
+msgstr "Blad"
 
 msgid "THEMETEST_INACTIVE_TAB"
-msgstr "Nieaktywna zakładka"
+msgstr "Nieaktywna zakladka"
 
 msgid "THEMETEST_NOTICE"
 msgstr "Uwaga"
@@ -209,10 +209,10 @@ msgid "THEME_SHOP"
 msgstr "Sklep z motywami"
 
 msgid "THEME_SUCCESSFULLY_SET"
-msgstr "Ustawianie motywu powiodło się!"
+msgstr "Ustawianie motywu powiodlo sie!"
 
 msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
-msgstr "Możesz wylosować kolejny bilet za: %s godzin(y) %s minut(y)."
+msgstr "Mozesz wylosowac kolejny bilet za: %s godzin(y) %s minut(y)."
 
 msgid "TICKET_SECTION"
 msgstr "Bilety"
@@ -221,16 +221,16 @@ msgid "UNBLOCK"
 msgstr "Odblokuj"
 
 msgid "UNBLOCK_USER"
-msgstr "Odblokiuj użytkownika"
+msgstr "Odblokiuj uzytkownika"
 
 msgid "USABILITY_NOT_USABLE"
-msgstr "Niedostępna"
+msgstr "Niedostepna"
 
 msgid "USABILITY_USABLE"
-msgstr "Dostępna"
+msgstr "Dostepna"
 
 msgid "USABLE"
-msgstr "Dostępna"
+msgstr "Dostepna"
 
 msgid "USER_DOWNLOADCOUNT"
 msgstr "Pobrania"
@@ -239,13 +239,13 @@ msgid "USER_THEME"
 msgstr "Motyw"
 
 msgid "USER_VIEWCOUNT"
-msgstr "Wyświetlenia"
+msgstr "Wyswietlenia"
 
 msgid "VIEW"
-msgstr "Pokaż"
+msgstr "Zobacz"
 
 msgid "WATCH_HISTORY"
-msgstr "Historia oglądania"
+msgstr "Historia ogladania"
 
 msgid "YOU_HAVE_BLOCKED_THIS_USER"
-msgstr "Zablokowałeś/-aś tego użytkownika."
+msgstr "Zablokowales/-as tego uzytkownika."

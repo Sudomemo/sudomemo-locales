@@ -4,13 +4,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "NOT_LOGGED_IN_NOTICE"
-msgstr "Nie jesteś zalogowany w Sudomemo - dotknij %s, aby kontynuować!"
+msgstr "Nie jestes zalogowany w Sudomemo - dotknij %s, aby kontynuowac!"
 
 msgid "NOT_LOGGED_IN_NOTICE_LINK_TEXT"
 msgstr "tutaj"
 
 msgid "NOT_REGISTERED_NOTICE"
-msgstr "Dobrze się bawisz? Rozpocznij korzystanie z Sudomemo dotykając %s!"
+msgstr "Dobrze sie bawisz? Rozpocznij korzystanie z Sudomemo dotykajac %s!"
 
 msgid "NOT_REGISTERED_NOTICE_LINK_TEXT"
 msgstr "tutaj"

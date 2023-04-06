@@ -4,19 +4,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CITIZENSHIP_REQUIRED"
-msgstr "Potrzebujesz Sudomemo Citizenship by używać tej funkcji."
+msgstr "Potrzebujesz Sudomemo Citizenship by uzywac tej funkcji."
 
 msgid "DISABLE_AUDIO_ENHANCEMENT"
-msgstr "Wyłącz ulepszenie dźwięku"
+msgstr "Wylacz ulepszenie dzwieku"
 
 msgid "DISABLE_SMOOTHING"
-msgstr "Wyłącz wygładzanie"
+msgstr "Wylacz wygladzanie"
 
 msgid "ENABLE_AUDIO_ENHANCEMENT"
-msgstr "Włącz ulepszenie dźwięku"
+msgstr "Wlacz ulepszenie dzwieku"
 
 msgid "ENABLE_SMOOTHING"
-msgstr "Włącz wygładzanie"
+msgstr "Wlacz wygladzanie"
 
 msgid "FLIPNOTE_OPTIONS"
 msgstr "Opcje Flipnota"
@@ -31,28 +31,28 @@ msgid "HEADER_STATUS"
 msgstr "Status"
 
 msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
-msgstr "Musisz się zalogować by wyświetlić tą stronę."
+msgstr "Musisz sie zalogowac by wyswietlic ta strone."
 
 msgid "OFF"
-msgstr "Wyłączone"
+msgstr "Wylaczone"
 
 msgid "ON"
-msgstr "Włączone"
+msgstr "Wlaczone"
 
 msgid "OPTION_DESC_FORCE_44K_BITRATE"
-msgstr "Sudomemo spróbuje ulepszyć dźwięk twojego Flipnote na Sudomemo Theatre."
+msgstr "Sudomemo spróbuje ulepszyc dzwiek twojego Flipnote na Sudomemo Theatre."
 
 msgid "OPTION_DESC_SMOOTH"
-msgstr "Linie, wygięcia i kanty są wygładzone dla bardziej naturalnego wyglądu na Sudomemo Theatre."
+msgstr "Linie, wygiecia i kanty sa wygladzone dla bardziej naturalnego wygladu na Sudomemo Theatre."
 
 msgid "OPTION_NAME_FORCE_44K_BITRATE"
-msgstr "Ulepszenie dźwięku"
+msgstr "Ulepszenie dzwieku"
 
 msgid "OPTION_NAME_SMOOTH"
-msgstr "Wygładzanie"
+msgstr "Wygladzanie"
 
 msgid "PLUS_REQUIRED"
-msgstr "Potrzebujesz Sudomemo Plus by używać tej funkcji."
+msgstr "Potrzebujesz Sudomemo Plus by uzywac tej funkcji."
 
 msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
-msgstr "Kliknij na status opcji by go wyświetlić lub zmienić."
+msgstr "Kliknij na status opcji by go wyswietlic lub zmienic."

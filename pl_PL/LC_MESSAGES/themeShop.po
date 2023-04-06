@@ -10,7 +10,7 @@ msgid "CANCEL"
 msgstr "Anuluj"
 
 msgid "CONFIRM"
-msgstr "Potwierdź"
+msgstr "Potwierdz"
 
 msgid "CONGRATULATIONS"
 msgstr "Gratulacje!"
@@ -28,22 +28,22 @@ msgid "DETAILS"
 msgstr "Informacje"
 
 msgid "NAVIGATION_NEXT"
-msgstr "Następna"
+msgstr "Nastepne"
 
 msgid "NAVIGATION_PREVIOUS"
-msgstr "Poprzednia"
+msgstr "Poprzednie"
 
 msgid "NO_DESCRIPTION_AVAILABLE"
 msgstr "Brak opisu"
 
 msgid "PREVIEW"
-msgstr "Podgląd"
+msgstr "Podglad"
 
 msgid "PRICE"
 msgstr "Cena"
 
 msgid "SEE_MORE"
-msgstr "Zobacz więcej"
+msgstr "Zobacz wiecej"
 
 msgid "SHOP_MENU"
 msgstr "Menu sklepu"
@@ -55,61 +55,61 @@ msgid "THEME_SHOP"
 msgstr "Sklep z motywami"
 
 msgid "THEME_SHOP_CHOOSE_CAREFULLY_BEFORE_BUYING"
-msgstr "Wszystkie zakupy są pernamentne, wybierz uważnie zanim potwierdzisz kupno!"
+msgstr "Wszystkie zakupy sa pernamentne, wybierz uwaznie zanim potwierdzisz kupno!"
 
 msgid "THEME_SHOP_CONFIRM_PURCHASE_BELOW"
-msgstr "Potwierdź swoją transakcję poniżej."
+msgstr "Potwierdz swoja transakcje ponizej."
 
 msgid "THEME_SHOP_EVOLVING_BACKGROUND"
-msgstr "Ten specjalny motyw będzie zmieniać się, gdy prześlesz nowe Flipnotes!"
+msgstr "Ten specjalny motyw bedzie zmieniac sie, gdy przeslesz nowe Flipnotes!"
 
 msgid "THEME_SHOP_LEARN_MORE_HEADER"
-msgstr "Dowiedz się więcej o sklepie z motywami"
+msgstr "Dowiedz sie wiecej o sklepie z motywami"
 
 msgid "THEME_SHOP_LOGIN_REQUIRED"
-msgstr "Musisz się zalogować by przeglądać sklep z motywami."
+msgstr "Musisz sie zalogowac by przegladac sklep z motywami."
 
 msgid "THEME_SHOP_MAINPAGE_EXCHANGE_COST_FORMAT"
 msgstr "Kup za %d Zielonych Gwiazdek"
 
 msgid "THEME_SHOP_MAINPAGE_FREE_STARTER_THEMES"
-msgstr "Darmowe motywy na rozpoczęcie"
+msgstr "Darmowe motywy na rozpoczecie"
 
 msgid "THEME_SHOP_MAINPAGE_HEADER"
-msgstr "W sklepie z motywami możesz wykupić nowe motywy dla twojego Pokoju Twórcy!"
+msgstr "W sklepie z motywami kupisz nowe motywy dla twojego Pokoju Twórcy!"
 
 msgid "THEME_SHOP_OWNED_THEME_TRANSACTION_FORMAT"
-msgstr "Kupiłeś ten motyw %s za %d Zielonych Gwiazdek."
+msgstr "Kupiles ten motyw %s za %d Zielonych Gwiazdek."
 
 msgid "THEME_SHOP_POST_PURCHASE"
-msgstr "Twoja transakcja powiodła się! Wejdź do sekcji \"Moje motywy\" w twoim Pokoju Twórcy by ją wybrać!"
+msgstr "Transakcja powiodla sie! Wejdz do sekcji \"Moje motywy\" w twoim Pokoju Twórcy by zastosowac nowy motyw!"
 
 msgid "THEME_SHOP_PUBLIC_THEME"
-msgstr "Wszyscy użytkownicy mają darmowy dostęp do tego motywu."
+msgstr "Wszyscy uzytkownicy maja darmowy dostep do tego motywu."
 
 msgid "THEME_SHOP_REPORT_ISSUES_HEADER"
-msgstr "Kliknij ten link żeby zgłosić motyw który nie działa poprawnie."
+msgstr "Kliknij ten link aby zglosic motyw który nie dziala poprawnie."
 
 msgid "THEME_SHOP_SAMPLE_PROFILE"
-msgstr "Przykładowy profil"
+msgstr "Przykladowy profil"
 
 msgid "THEME_SHOP_SELECTED_PAYMENT"
-msgstr "Wybrana metoda płatności"
+msgstr "Wybrana metoda platnosci"
 
 msgid "THEME_SHOP_SELECT_PAYMENT"
-msgstr "Wybierz metodę płatności"
+msgstr "Wybierz metode platnosci"
 
 msgid "THEME_SHOP_STARS_LEFT_AFTER_PAYMENT"
-msgstr "Kolorowe Gwiazdki pozostałe po płatności:"
+msgstr "Kolorowe Gwiazdki pozostale po platnosci:"
 
 msgid "THEME_SHOP_STAR_BALANCE_TOO_LOW"
 msgstr "Przeprasamy, nie starczy ci Zielonych Gwiazdek na kupienie tego motywu."
 
 msgid "THEME_SHOP_YOU_OWN_THIS_THEME"
-msgstr "Już posiadasz ten motyw."
+msgstr "Juz posiadasz ten motyw."
 
 msgid "USERNAME"
-msgstr "Nazwa użytkownika"
+msgstr "Nazwa uzytkownika"
 
 msgid "YOU_HAVE"
 msgstr "Twoje Kolorowe Gwiazdki:"
