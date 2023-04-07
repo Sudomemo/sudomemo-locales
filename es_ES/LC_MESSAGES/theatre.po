@@ -139,7 +139,7 @@ msgid "CONTINUE"
 msgstr "Continue"
 
 msgid "COULD_NOT_SAVE_DETAILS"
-msgstr "Los detalles no han podido ser guardados"
+msgstr "Los detalles no se pudieron guardados"
 
 msgid "CREATOR"
 msgstr "Creador(a)"
@@ -200,10 +200,10 @@ msgid "EDIT_PAGE_ABOUT_MUSICMATCH_1"
 msgstr "¡MusicMatch de Sudomemo escucha tu Flipnote para encontrar la música que usa!"
 
 msgid "EDIT_PAGE_ABOUT_MUSICMATCH_2"
-msgstr "Algunas veces MusicMatch encontrará más de una posible canción, o escogerá la incorrecta. Si esto pasa, puedes actualizar la canción mostrada aquí."
+msgstr "Algunas veces MusicMatch encontrará más de una posible canción, o escogerá la incorrecta. Si no es correcto, puedes cambiar a la canción mostrada aquí."
 
 msgid "EDIT_PAGE_ABOUT_MUSICMATCH_3"
-msgstr "Si actualizas la canción, MusicMatch aprenderá de la información para detectar canciones del audio de un Flipnote de una mejor manera en el futuro."
+msgstr "Si actualizas la canción, MusicMatch aprenderá de la información para detectar canciones del audio de un Flipnote mejor en el futuro."
 
 msgid "EDIT_PAGE_DESCRIPTION_TOOLTIP"
 msgstr "Letras, números, y símbolos, con un máximo de 320 caracteres."
@@ -221,25 +221,25 @@ msgid "EDIT_PAGE_MUSICMATCH_NONE_CORRECT"
 msgstr "Ninguna de estas son correctas"
 
 msgid "EDIT_PAGE_MUSICMATCH_NO_BGM"
-msgstr "Tu Flipnote no posee una pista de audio de fondo."
+msgstr "Tu Flipnote no tiene audio de fondo."
 
 msgid "EDIT_PAGE_MUSICMATCH_PENDING_MAPPING"
-msgstr "En estos momentos MusicMatch está procesando tu Flipnote. Vuelve a revisar luego."
+msgstr "MusicMatch está procesando tu Flipnote. Vuelve a revisar luego."
 
 msgid "EDIT_PAGE_MUSICMATCH_PREVIEW_ON_SPOTIFY"
-msgstr "Previsualizar en Spotify"
+msgstr "Escuchar en Spotify"
 
 msgid "EDIT_PAGE_MUSICMATCH_PREVIEW_ON_YOUTUBE"
-msgstr "Previsualizar en YouTube Music"
+msgstr "Escuchar en YouTube Music"
 
 msgid "EDIT_PAGE_MUSICMATCH_UNMAPPED"
-msgstr "MusicMatch aún no llega a tu Flipnote. Vuelve a revisar luego."
+msgstr "MusicMatch no han processado a tu Flipnote. Vuelve a revisar luego."
 
 msgid "EDIT_PAGE_MUSICMATCH_UNMATCHED"
-msgstr "MusicMatch no pudo encontrar ninguna canción que coincidiera con tu Flipnote."
+msgstr "MusicMatch no pudo encontrar ninguna canción que suena como tu Flipnote."
 
 msgid "EDIT_PAGE_PLUS_AUDIO_ENHANCEMENT"
-msgstr "Mejora de Audio"
+msgstr "Mejoría de Audio"
 
 # Flipnote smoothing
 msgid "EDIT_PAGE_PLUS_SMOOTHING"
@@ -280,16 +280,16 @@ msgid "FLIPNOTE_ARCHIVE_BUTTON_TOGGLE"
 msgstr "Mostrar el enlace al contenido archivado de Flipnote Hatena desde mi perfil"
 
 msgid "FLIPNOTE_ARCHIVE_PROFILE_AVAILABLE"
-msgstr "¡Tu perfil de Flipnote Hatena está disponible a través de nuestra Vista previa del archivo de Flipnote Hatena! Puedes ver tus antiguas Flipnotes visitando tu perfil en Sudomemo Theatre."
+msgstr "¡Tu perfil de Flipnote Hatena está disponible en el Archivo de Flipnote Hatena! Puedes ver tus antiguas Flipnotes por visitar tu perfil en Sudomemo Theatre."
 
 msgid "FLIPNOTE_ARCHIVE_PROFILE_NOT_AVAILABLE"
-msgstr "No se encontró un perfil archivado de Flipnote Hatena para esta cuenta."
+msgstr "No han encontrado un perfil del Flipnote Hatena Archive para esta cuenta."
 
 msgid "FLIPNOTE_ARCHIVE_PROFILE_SETTING_INFORMATION"
-msgstr "Mientras esté conectado, su enlace de archivo siempre se mostrará en su página. Puede elegir si desea que esto sea visible o no para otros usuarios aquí."
+msgstr "Mientras esté conectado, su enlace de archivo siempre se mostrará en su página. Puedes seleccionar si esto sea visible para otros usuarios."
 
 msgid "FLIPNOTE_ARCHIVE_SETTINGS"
-msgstr "Configuración de su Archivo"
+msgstr "Configuración del Perfil Archivo"
 
 # # Flipnote by...
 msgid "FLIPNOTE_BY_FORMAT"
@@ -336,10 +336,10 @@ msgid "FRONTPAGE_FLIPNOTE_SPOTLIGHT"
 msgstr "Flipnotes Destacadas"
 
 msgid "FRONTPAGE_TITLE_TAGLINE"
-msgstr "Sudomemo: ¡Flipnote Hatena está de vuelta!"
+msgstr "Sudomemo: ¡Flipnote Hatena ha regresado!"
 
 msgid "FRONTPAGE_TRENDING_CREATORS"
-msgstr "Creadores en Tendencia"
+msgstr "Creadores Populares"
 
 # This is short for Flipnote Studio ID. Leave it as "FSID" except in Japanese, where it should be うごメモID
 msgid "FSID"
@@ -505,16 +505,16 @@ msgid "NINTENDO_DSI"
 msgstr "Nintendo DSi"
 
 msgid "NO_EMAIL_ON_FILE"
-msgstr "No hay una dirección de correo electrónico registrada -- contáctenos por Sudomemo Support"
+msgstr "No hay una dirección de correo electrónico registrada -- contáctan a Sudomemo Support"
 
 msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
-msgstr "No se encontró ningún usuario con ese ID de Flipnote Studio o correo electrónico"
+msgstr "No han encontrado ningún usuario con ese ID de Flipnote Studio o correo electrónico"
 
 msgid "PARENT_FLIPNOTE"
 msgstr "Parent Flipnote"
 
 msgid "PASSWORD_RESET_SENT"
-msgstr "Se ha enviado un correo electrónico de cambio de contraseña a la dirección de correo electrónico."
+msgstr "Se ha enviado un correo electrónico la dirección de correo electrónico de esta cuenta."
 
 msgid "PASS_CHANGE_COMPLETE"
 msgstr "Su contraseña ha sido actualizada"
@@ -608,7 +608,7 @@ msgid "RELEASED"
 msgstr "Publicado"
 
 msgid "ROOT_FLIPNOTE"
-msgstr "Root Flipnote"
+msgstr "Flipnote de Raíz"
 
 msgid "SAVE"
 msgstr "Guardar"
@@ -620,10 +620,10 @@ msgid "SEARCH"
 msgstr "Buscar"
 
 msgid "SEARCH_PAGE_FORM_PLACEHOLDER"
-msgstr "Username, FSID, song, artist, or channel"
+msgstr "Nombre de usuario, FSID, canción, artista, o canal"
 
 msgid "SEARCH_PAGE_FUZZY_SEARCH_TIP"
-msgstr "Tip: Puedes buscar cosas como 'Austin' y encontrar resultados como 'ÄuらtÎn'"
+msgstr "Tip: Puedes pedir nombres como 'Austin' y encontrar resultados como 'ÄuらtÎn'"
 
 # # User hasn't posted any Flipnotes yet
 msgid "SEARCH_PAGE_NO_FLIPNOTES_YET"
@@ -640,7 +640,7 @@ msgid "SEARCH_SUDOMEMO"
 msgstr "Buscar Sudomemo"
 
 msgid "SEE_MORE"
-msgstr "See more"
+msgstr "Ver más"
 
 msgid "SETTINGS"
 msgstr "Configuraciones"
@@ -664,10 +664,10 @@ msgid "SHARE_ON_WHATSAPP"
 msgstr "Comparte en WhatsApp"
 
 msgid "SHOW_ON_PROFILE"
-msgstr "Show on profile"
+msgstr "Mostrar en su perfil"
 
 msgid "SHOW_YOUTUBE_LINK_ON_MY_PROFILE"
-msgstr "Show a link to my YouTube channel on my Sudomemo profile"
+msgstr "Mostrar un enlace a mi canal de YouTube en mi perfil de Sudomemo"
 
 msgid "SIGN_IN"
 msgstr "Iniciar Sesión"
@@ -718,7 +718,7 @@ msgid "SUDOMEMO_SHOP_ALL_ABOUT_PLUS"
 msgstr "Todo sobre Sudomemo Plus"
 
 msgid "SUDOMEMO_SHOP_LEARN_ABOUT_PLUS"
-msgstr "Aprende sobre lo que puedes hacer en Sudomemo Plus:"
+msgstr "Aprende sobre lo que puedes hacer con Sudomemo Plus:"
 
 msgid "SUDOMEMO_SHOP_META_DESCRIPTION"
 msgstr "Tienda de Sudomemo: Mercancia de Sudomemo, tickets para Sudomemo Plus y Estrellas, y otras cosas divertidas!"
@@ -822,7 +822,7 @@ msgid "VIEWPAGE_ORIGINAL_FLIPNOTE"
 msgstr "Flipnote Original"
 
 msgid "VIEWPAGE_ORIGINAL_FLIPNOTE_NOT_ON_SUDOMEMO"
-msgstr "La Flipnote original no está en Sudomemo."
+msgstr "El Flipnote original no está en Sudomemo."
 
 # This shows as "by User" underneath the Flipnote thumbnail
 msgid "VIEWPAGE_RELATED_FLIPNOTE_BY"
@@ -869,7 +869,7 @@ msgstr "Buenos días"
 
 msgid "WELCOME_BOX_OPEN_SUDOMIN"
 msgstr "Abrir Sudomin"
-
+    
 # ## Another one of our taglines 
 msgid "WELCOME_BOX_SHARE_CREATIVITY_TAGLINE"
 msgstr "¡Comparte tu creatividad con el mundo!"
@@ -914,7 +914,7 @@ msgid "YOUTUBE_CHECK_FEATURES_THUMB"
 msgstr "Es posible que su canal de YouTube no esté completamente verificado. Para obtener más información, puede consultar el estado de las miniaturas personalizadas aquí:"
 
 msgid "YOUTUBE_CONNECT_INTRO"
-msgstr "Conectar tu canal de YouTube te permite compartir tus Flipnotes directo a YouTube!"
+msgstr "Conectar tu canal de YouTube te puedes subir tus Flipnotes a YouTube directamente!"
 
 # YouTube metadata
 # Extra description text: will be placed at the end of your video descriptions. 
@@ -934,7 +934,7 @@ msgid "YOUTUBE_LINK_PROMPT"
 msgstr "Vincula tu canal de YouTube para subir tus Flipnotes a YouTube."
 
 msgid "YOUTUBE_LOOP_COUNT"
-msgstr "Número de reproducciones"
+msgstr "Número de repeticiones"
 
 msgid "YOUTUBE_LOOP_COUNT_EXPLANATION"
 msgstr "Número de veces que una Flipnote en repetición se repetirá, Si el valor es 1, la Flipnote solamente se reproducirá por una vez."
@@ -947,13 +947,13 @@ msgid "YOUTUBE_POSITION_IN_QUEUE"
 msgstr "Posición en la cola:"
 
 msgid "YOUTUBE_RECONNECT_PROMPT"
-msgstr "La conexión a tu canal is fuera de plazo. Por favor reconéctala para continuar."
+msgstr "La conexión a tu canal es expirado. Por favor reconéctala para continuar."
 
 msgid "YOUTUBE_REFRESH_ACCOUNT"
 msgstr "Actualizar cuenta"
 
 msgid "YOUTUBE_STATUS_BEING_PROCESSED"
-msgstr "Tu carga está siendo procesada por el momento."
+msgstr "Tu video está procesadando."
 
 msgid "YOUTUBE_STATUS_COMPLETE"
 msgstr "¡Carga completada!"
