@@ -145,7 +145,7 @@ msgid "NEXT"
 msgstr "Volgende"
 
 msgid "NUMBER_OF_SONGS_FORMAT"
-msgstr "%d liedjes"
+msgstr "%d nummers"
 
 msgid "ORIGINAL_FLIPNOTE"
 msgstr "Originele Flipnote"
@@ -214,13 +214,13 @@ msgid "SHARE"
 msgstr "Deel"
 
 msgid "SONGS"
-msgstr "Liedjes"
+msgstr "Nummers"
 
 msgid "SONG_ALBUM"
 msgstr "Album"
 
 msgid "SONG_ARTISTS"
-msgstr "Lied Artiesten"
+msgstr "Nummer Artiesten"
 
 msgid "SONG_GENRE"
 msgstr "Genre"
