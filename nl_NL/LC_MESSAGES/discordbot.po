@@ -10,30 +10,30 @@ msgstr ""
 
 # Username was given a Nitro Booster Ticket...
 msgid "BOOST_TICKET_SUCCESS"
-msgstr "%s was given a Nitro Booster Ticket, redeemable for a month of Sudomemo Plus and a special trophy. Hooray!"
+msgstr "Een Nitro Booster Ticket werd aan %s gegeven, inwisselbaar voor een maand van Sudomemo Plus en een speciale trofee. Hoera!"
 
 msgid "CONSIDER_X_CHANNEL_FOR_THIS"
-msgstr "Consider using %s for this"
+msgstr "Overweeg om %s voor dit te gebruiken"
 
 # Account linking
 msgid "DISCORD_LINKING_GET_STARTED"
-msgstr "Please visit %s to get started!"
+msgstr "Bezoek alstublief %s om te starten!"
 
 msgid "DISCORD_LINKING_REQUIRED"
-msgstr "You'll need to link your Sudomemo account to do that."
+msgstr "Je moet je Sudomemo account linken om dat te doen."
 
 msgid "DISCORD_LINKING_SUCCESS"
-msgstr "Your account was successfully linked!"
+msgstr "Je account werd succesvol gelinkt!"
 
 msgid "DISCORD_LINKING_UNLINKED"
-msgstr "The link between your Discord and Sudomemo account has been removed."
+msgstr "De link tussen je Discord en Sudomemo account werd verwijdert."
 
 msgid "DISCORD_LINKING_UNLINK_NOT_LINKED_YET"
-msgstr "Your Discord account isn't linked to a Sudomemo account."
+msgstr "Je Discord account is niet gelinkt aan een Sudomemo account."
 
 # "Invalid mode - must be one of: song, artist, genre"
 msgid "MUSICMATCH_INVALID_MODE"
-msgstr "Invalid mode - must be one of %s"
+msgstr "Ongeldige modus - het moet een van deze zijn: %s"
 
 msgid "MUSICMATCH_MOVIE_COUNT_PLURAL"
 msgstr "%d Flipnotes"
@@ -42,61 +42,61 @@ msgid "MUSICMATCH_MOVIE_COUNT_SINGULAR"
 msgstr "%d Flipnote"
 
 msgid "MUSICMATCH_NO_RESULTS"
-msgstr "I didn't find anything for that, sorry!"
+msgstr "Ik kon door niets voor vinden, sorry!"
 
 msgid "MUSICMATCH_RESULT_HEADER_GT_MAX"
-msgstr "Top %d results:"
+msgstr "Top %d resultaten:"
 
 msgid "MUSICMATCH_RESULT_HEADER_LT_MAX"
-msgstr "%d result(s):"
+msgstr "%d resultaten:"
 
 # SongName by BandName
 msgid "MUSICMATCH_TITLE_BY_ARTIST"
-msgstr "%s by %s"
+msgstr "%s door %s"
 
 msgid "PATRON_TICKET_SUCCESS"
-msgstr "You received a %s Sudomemo Patron Ticket!"
+msgstr "Je hebt een %s Sudomemo Patron Ticket ontvangen!"
 
 msgid "REJECT_ACCOUNT_ALREADY_LINKED"
-msgstr "You've already linked your Sudomemo account!"
+msgstr "Je hebt je Sudomemo account al gelinkt!"
 
 msgid "REJECT_BOOST_TICKET_COOLDOWN"
-msgstr "You've already given a Nitro Booster ticket this month! (%s)"
+msgstr "Je hebt deze maand al een Nitro Booster ticket gegeven! (%s)"
 
 msgid "REJECT_FSID_ENOENT"
-msgstr "I did not find a user with that Flipnote Studio ID on Sudomemo."
+msgstr "Ik kon geen gebruiker vinden op Sudomemo met die Flipnote Studio ID."
 
 msgid "REJECT_GENERIC_ERROR"
-msgstr "I ran into an issue trying to do that. Sorry!"
+msgstr "Ik kwam een probleem tegen terwijl ik dat probeerde te doen. Sorry!"
 
 msgid "REJECT_INVALID_FSID"
-msgstr "That is not a valid Flipnote Studio ID!"
+msgstr "Dat is geen geldig Flipnote Studio ID!"
 
 msgid "REJECT_INVALID_LINK_TOKEN"
-msgstr "That is not a valid link token! Please visit %s to get started!"
+msgstr "Dat is niet een geldige link token! Bezoek alstublief %s om te starten."
 
 msgid "REJECT_LINK_TOKEN_ENOENT"
-msgstr "The link token you provided is expired or does not exist."
+msgstr "De link token die je voorzien hebt is verlopen of bestaat niet."
 
 msgid "REJECT_NOT_NITRO_BOOSTER"
-msgstr "You need to be a Sudomemo Nitro Booster to use this!"
+msgstr "Voor dit moet je een Sudomemo Nitro Booster zijn!"
 
 msgid "REJECT_NOT_PATRON"
-msgstr "You'll need to be a Sudomemo Patron to use this!"
+msgstr "Je moet een Sudomemo Patron zijn om dit te gebruiken!"
 
 msgid "REJECT_PATRON_TICKET_COOLDOWN"
-msgstr "You've already claimed your Patron ticket for this month!"
+msgstr "Je hebt deze maand al je Patron ticket geclaimd!"
 
 msgid "REJECT_USER_ENOENT"
-msgstr "I didn't find that user on Sudomemo."
+msgstr "Ik kon die gebruiker niet vinden op Sudomemo."
 
 # displayed as "💡 Link your Sudomemo account with `.sudo link`"
 msgid "UNLINKED_COMMAND_TIP"
-msgstr "Link your Sudomemo account with"
+msgstr "Link je Sudomemo account met"
 
 # "Usage: example_command <fsid>"
 msgid "USAGE"
-msgstr "Usage"
+msgstr "Gebruik"
 
 # ONLY TRANSLATE: "usage", "commands"
 msgid "USAGE_INTRO"
@@ -108,32 +108,32 @@ msgstr ""
 msgid "USAGE_draw"
 msgstr ""
 "   draw\n"
-"      Draw a Regular Ticket and see if you win a prize!"
+"      Trek een Regular Ticket en zie of je een prijs wint!"
 
 msgid "USAGE_link"
 msgstr ""
 "   link\n"
-"      Link your Sudomemo account to Discord"
+"      Link je Sudomemo account met Discord"
 
 # ONLY TRANSLATE "Search Sudomemo MusicMatch" and "What you're searching for"
 msgid "USAGE_musicmatch"
 msgstr ""
 "   mm, musicmatch <mode> <query>\n"
-"      Search Sudomemo MusicMatch\n"
+"      Zoek Sudomemo MusicMatch\n"
 "      <mode>: song, artist, genre\n"
-"      <query>: What you're searching for"
+"      <query>: Waar je voor zoekt"
 
 # ONLY TRANSLATE: "Give Nitro Booster ticket..." and "Flipnote Studio ID"
 msgid "USAGE_nitro_plus"
 msgstr ""
 "   nitro_plus <FSID|self>\n"
-"      Give Nitro Booster ticket (1 month of Sudomemo Plus and a Trophy).\n"
+"      Geef Nitro Booster Ticket (1 maand van Sudomemo Plus en een Trofee).\n"
 "      <FSID>: Flipnote Studio ID"
 
 msgid "USAGE_patron_plus"
 msgstr ""
 "   patron_plus\n"
-"      Claim monthly Patreon Ticket"
+"      Claim maandelijks Patreon Ticket"
 
 msgid "USER_INFORMATION_WAS_UPDATED"
-msgstr "Your information was updated."
+msgstr "Je informatie was geüpdate."
