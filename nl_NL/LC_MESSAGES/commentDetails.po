@@ -19,16 +19,16 @@ msgid "COMMENT_DETAILS"
 msgstr "Reactiedetails"
 
 msgid "COMMENT_HIDDEN_MODERATOR"
-msgstr "Comment hidden by moderator"
+msgstr "Reactie verborgen door moderator"
 
 msgid "COMMENT_HIDDEN_RECIPIENT"
-msgstr "Comment hidden by Flipnote author"
+msgstr "Reactie verborgen door Flipnote auteur"
 
 msgid "COMMENT_HIDDEN_SELF"
-msgstr "Comment hidden by author"
+msgstr "Reactie verborgen door auteur"
 
 msgid "COMMENT_HIDDEN_UNKNOWN"
-msgstr "Comment hidden due to request"
+msgstr "Reactie verborgen op verzoek"
 
 msgid "COMMENT_ID"
 msgstr "Commentaar-ID"

@@ -52,10 +52,10 @@ msgid "BUTTON_EDIT_EMAIL_ADDRESS"
 msgstr "Verander E-mailadres"
 
 msgid "BUTTON_RESEND_VERIFICATION_EMAIL"
-msgstr "Herstuur Verificatiemail"
+msgstr "Verstuur Verificatiemail Opnieuw"
 
 msgid "BUTTON_SIGN_IN_TO_SUDOMEMO"
-msgstr "Log in naar Sudomemo"
+msgstr "Log in op Sudomemo"
 
 msgid "BUTTON_SUBMIT"
 msgstr "Verzend"
@@ -100,7 +100,7 @@ msgid "EMAIL_VERIFIED"
 msgstr "Bedankt voor het verifiëren van jouw e-mailadres!"
 
 msgid "ERROR"
-msgstr "Fout"
+msgstr "Error"
 
 msgid "FORGOT_PASSWORD_LINK"
 msgstr "Wachtwoord vergeten?"
@@ -152,7 +152,7 @@ msgstr "Aantal foute wachtwoorden ingevuld: %s"
 
 # A URL will be shown at the end of this.
 msgid "LEGACY_PROXY_WARNING"
-msgstr "It looks like you may still be using the legacy ds.sudomemo.net proxy, which we have ended support for. As such, you should turn off the proxy in your System Settings, or you might have problems using Sudomemo. For more information, visit:"
+msgstr "Het ziet er naar uit dat je nog steeds de legacy ds.sudomemo.net proxy gebruikt, die we niet meer ondersteunen. Je zou de proxy moeten uitzetten in Systeem Instellingen, anders krijg je mogelijk problemen terwijl je Sudomemo gebruikt. Voor meer informatie, bezoek:"
 
 msgid "LOGIN"
 msgstr "Log in"
@@ -206,7 +206,7 @@ msgid "PLEASE_ENTER_PASSWORD_TO_SIGN_IN"
 msgstr "Vul alsjeblieft je wachtwoord in om in te loggen"
 
 msgid "POST_COMMENT_BELOW"
-msgstr "To continue, please submit a drawn comment (it can be blank)."
+msgstr "Om door te gaan, dien alsjeblieft een getekende reactie in (het mag leeg zijn)."
 
 msgid "REGISTRATION_ERROR_BAD_EMAIL"
 msgstr "Het ingevulde e-mailadres is niet toegestaan."
@@ -233,10 +233,10 @@ msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
 msgstr "Als je hulp nodig hebt met verbinden, voel je vrij een vraag te stellen in onze Discord! Je kan deelnemen via %s."
 
 msgid "SIGNUP_AGE_GATE_ERROR"
-msgstr "You'll need to be 13 or older to create a new Sudomemo account."
+msgstr "Je moet 13 jaar of ouder zijn om een Sudomemo account te maken."
 
 msgid "SIGNUP_AGE_GATE_ERROR_FIX"
-msgstr "If you've received this message in error, you can update your birthday by tapping the orange wrench icon in the top right of Flipnote Studio's main menu."
+msgstr "Als je dit bericht krijgt als een error, kan je uw verjaardag updaten door op de oranje moersleutel icoon te klikken rechtsboven op je Flipnote Studio hoofdmenu."
 
 msgid "SORRY_NO_LOGIN"
 msgstr "Sorry, we konden je niet inloggen!"
@@ -245,7 +245,7 @@ msgid "THANKS_FOR_LOGIN_FORMAT"
 msgstr "Bedankt voor het inloggen, %s!"
 
 msgid "THANKS_FOR_LOGIN_PROMPT_INTRO"
-msgstr "Welcome to Sudomemo! Now, let's write a little message to say who you are! (This will be posted as a Flipnote in our Introductions channel.)"
+msgstr "Welkom bij Sudomemo! Laten we nu een berichtje sturen om te zeggen zie je bent! (Dit zal gepost worden als een Flipnote in ons Introducties kanaal.)"
 
 msgid "THANK_YOU_FOR_UPDATING_EMAIL"
 msgstr "Bedankt voor het updaten van jouw e-mailadres!"

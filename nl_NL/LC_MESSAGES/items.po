@@ -4,43 +4,43 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CONTINUE"
-msgstr "Continue"
+msgstr "Doorgaan"
 
 msgid "ITEM_DESC_banana"
-msgstr "Not to be confused with a plantain."
+msgstr "Niet te verwarren met een bakbanaan."
 
 msgid "ITEM_DESC_beach_ball"
-msgstr "A great accessory for a swimming excursion."
+msgstr "Een goed accessoire voor een zwemexecursie."
 
 msgid "ITEM_DESC_hot_chocolate"
-msgstr "A delicious cup of hot chocolate, perfect for a cozy day."
+msgstr "Een heerlijke kop warme chocolademelk, perfect voor een knusse dag."
 
 msgid "ITEM_DESC_peeled_banana"
-msgstr "Not to be confused with a plan-... Why'd you peel it like that?"
+msgstr "Niet te verwarren met een bakba-... Waarom heb je het zo gepeld?"
 
 msgid "ITEM_NAME_banana"
-msgstr "Banana"
+msgstr "Banaan"
 
 msgid "ITEM_NAME_beach_ball"
-msgstr "Beach Ball"
+msgstr "Strandbal"
 
 msgid "ITEM_NAME_hot_chocolate"
-msgstr "Hot Chocolate"
+msgstr "Warme Chocolademelk"
 
 msgid "ITEM_NAME_peeled_banana"
-msgstr "Peeled Banana"
+msgstr "Gepelde Banaan"
 
 msgid "ITEM_USE_banana"
-msgstr "You peel the banana."
+msgstr "Je pelt de banaan."
 
 msgid "ITEM_USE_beach_ball"
-msgstr "You toss the ball around a bit."
+msgstr "Je gooit de bal een eindje in het rond."
 
 msgid "ITEM_USE_hot_chocolate"
-msgstr "After letting it cool for a moment, you drink the hot chocolate"
+msgstr "Nadat je het voor een momentje laat afkoelen, drink je de warme chocolademelk."
 
 msgid "ITEM_USE_peeled_banana"
-msgstr "You eat the banana."
+msgstr "Je eet de banaan."
 
 msgid "YOU_GOT_AN_ITEM"
-msgstr "You got an item!"
+msgstr "Je kreeg een item!"

@@ -31,7 +31,7 @@ msgid "ADMIN_USER_STATUS"
 msgstr "Gebruikerstatus"
 
 msgid "BLOCK"
-msgstr "Block"
+msgstr "Blokkeer"
 
 msgid "BLOCKED_USERS"
 msgstr "Geblokkeerde Gebruikers"
@@ -43,7 +43,7 @@ msgid "BLOCK_COMMENTS_LINK"
 msgstr "Blokkeer"
 
 msgid "BLOCK_USER"
-msgstr "Block user"
+msgstr "Blokkeer gebruiker"
 
 msgid "CAN_DRAW_TICKET_SUBTEXT"
 msgstr "Je kan een reguliere ticket trekken! Misschien win je een prijs."
@@ -86,10 +86,10 @@ msgstr "Bruikbaarheid"
 
 # Matches button on page 4 of Flipnote Studio settings
 msgid "FLIPNOTE_FRIENDS"
-msgstr "Flipnote Friends"
+msgstr "Flipnote Vrienden"
 
 msgid "FLIPNOTE_FRIENDS_INFO"
-msgstr "Creators you've exchanged Flipnotes with"
+msgstr "Makers met wie je Flipnotes geruild hebt"
 
 msgid "FLIPNOTE_STUDIO_ID"
 msgstr "Flipnote Studio-ID"
@@ -155,7 +155,7 @@ msgid "REDEEM"
 msgstr "Wissel in"
 
 msgid "REQUEST"
-msgstr "Request"
+msgstr "Verzoek"
 
 msgid "SEE_MORE"
 msgstr "Zie meer..."
@@ -179,7 +179,7 @@ msgid "STARRED_FLIPNOTES"
 msgstr "Gesterde Flipnotes"
 
 msgid "SUDOMEMO_THEATRE_URL"
-msgstr "Sudomemo Theatrelink"
+msgstr "Sudomemo Theaterlink"
 
 msgid "THEMETEST_ACTIVE_TAB"
 msgstr "Actief tabblad"
@@ -218,10 +218,10 @@ msgid "TICKET_SECTION"
 msgstr "Prijskaarten"
 
 msgid "UNBLOCK"
-msgstr "Unblock"
+msgstr "Deblokkeer"
 
 msgid "UNBLOCK_USER"
-msgstr "Unblock user"
+msgstr "Deblokkeer gebruiker"
 
 msgid "USABILITY_NOT_USABLE"
 msgstr "Onbruikbaar"
@@ -245,7 +245,7 @@ msgid "VIEW"
 msgstr "Weergeven"
 
 msgid "WATCH_HISTORY"
-msgstr "Watch History"
+msgstr "Bekijk Geschiedenis"
 
 msgid "YOU_HAVE_BLOCKED_THIS_USER"
 msgstr "You have blocked this user."
