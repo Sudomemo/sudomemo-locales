@@ -55,7 +55,7 @@ msgid "MUSICMATCH_TITLE_BY_ARTIST"
 msgstr "%s di %s"
 
 msgid "PATRON_TICKET_SUCCESS"
-msgstr "You received a %s Sudomemo Patron Ticket!"
+msgstr "Hai ricevuto un biglietto patron di %s Sudomemo!"
 
 msgid "REJECT_ACCOUNT_ALREADY_LINKED"
 msgstr "Hai già collegato il tuo account Sudomemo!"
@@ -73,19 +73,19 @@ msgid "REJECT_INVALID_FSID"
 msgstr "Questo non è un ID Flipnote Studio valido!"
 
 msgid "REJECT_INVALID_LINK_TOKEN"
-msgstr "Token link non valido! Per favore, visita %s per cominciare!"
+msgstr "Link token non valido! Per favore, visita %s per cominciare!"
 
 msgid "REJECT_LINK_TOKEN_ENOENT"
-msgstr "Il token link che hai inserito è scaduto o non esiste."
+msgstr "Il link token che hai inserito è scaduto o non esiste."
 
 msgid "REJECT_NOT_NITRO_BOOSTER"
 msgstr "Devi essere un Nitro Booster di Sudomemo per usarlo!"
 
 msgid "REJECT_NOT_PATRON"
-msgstr "You'll need to be a Sudomemo Patron to use this!"
+msgstr "Dovrai essere un Sudomemo Patron per usarlo!"
 
 msgid "REJECT_PATRON_TICKET_COOLDOWN"
-msgstr "You've already claimed your Patron ticket for this month!"
+msgstr "Hai già richiesto il tuo biglietto Patron per questo mese!"
 
 msgid "REJECT_USER_ENOENT"
 msgstr "Non ho trovato l'utente su Sudomemo."
@@ -107,8 +107,8 @@ msgstr ""
 
 msgid "USAGE_draw"
 msgstr ""
-"   draw\n"
-"      Draw a Regular Ticket and see if you win a prize!"
+"   disegna\n"
+"      Disegna un biglietto normale e vedi se vinci un premio!"
 
 msgid "USAGE_link"
 msgstr ""
@@ -133,7 +133,7 @@ msgstr ""
 msgid "USAGE_patron_plus"
 msgstr ""
 "   patron_plus\n"
-"      Claim monthly Patreon Ticket"
+"      Richiedi il biglietto Patreon mensile"
 
 msgid "USER_INFORMATION_WAS_UPDATED"
-msgstr "Your information was updated."
+msgstr "Le tue informazioni sono state aggiornate."
