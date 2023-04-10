@@ -31,7 +31,7 @@ msgid "ADMIN_USER_STATUS"
 msgstr "Stato utente"
 
 msgid "BLOCK"
-msgstr "Block"
+msgstr "Blocco"
 
 msgid "BLOCKED_USERS"
 msgstr "Utenti bloccati"
@@ -43,7 +43,7 @@ msgid "BLOCK_COMMENTS_LINK"
 msgstr "Blocca"
 
 msgid "BLOCK_USER"
-msgstr "Block user"
+msgstr "Blocca utente"
 
 msgid "CAN_DRAW_TICKET_SUBTEXT"
 msgstr "Puoi generare un ticket regolare! Potresti vincere un premio."
@@ -86,10 +86,10 @@ msgstr "Usabilità delle funzioni"
 
 # Matches button on page 4 of Flipnote Studio settings
 msgid "FLIPNOTE_FRIENDS"
-msgstr "Flipnote Friends"
+msgstr "Amici Flipnote"
 
 msgid "FLIPNOTE_FRIENDS_INFO"
-msgstr "Creators you've exchanged Flipnotes with"
+msgstr "Creatori con cui hai scambiato Flipnote"
 
 msgid "FLIPNOTE_STUDIO_ID"
 msgstr "ID Flipnote Studio"
@@ -155,7 +155,7 @@ msgid "REDEEM"
 msgstr "Riscatta"
 
 msgid "REQUEST"
-msgstr "Request"
+msgstr "Richiesta"
 
 msgid "SEE_MORE"
 msgstr "Vedi altro..."
@@ -218,10 +218,10 @@ msgid "TICKET_SECTION"
 msgstr "Tickets"
 
 msgid "UNBLOCK"
-msgstr "Unblock"
+msgstr "Sblocca"
 
 msgid "UNBLOCK_USER"
-msgstr "Unblock user"
+msgstr "Sblocca utente"
 
 msgid "USABILITY_NOT_USABLE"
 msgstr "Non Utilizzabile"
@@ -233,7 +233,7 @@ msgid "USABLE"
 msgstr "Utilizzabile"
 
 msgid "USER_DOWNLOADCOUNT"
-msgstr "Downloads"
+msgstr "Download"
 
 msgid "USER_THEME"
 msgstr "Tema"
@@ -248,4 +248,4 @@ msgid "WATCH_HISTORY"
 msgstr "Watch History"
 
 msgid "YOU_HAVE_BLOCKED_THIS_USER"
-msgstr "You have blocked this user."
+msgstr "Hai bloccato questo utente."
