@@ -31,7 +31,7 @@ msgid "ADMIN_USER_STATUS"
 msgstr "Stato utente"
 
 msgid "BLOCK"
-msgstr "Block"
+msgstr "Blocco"
 
 msgid "BLOCKED_USERS"
 msgstr "Utenti bloccati"
@@ -43,7 +43,7 @@ msgid "BLOCK_COMMENTS_LINK"
 msgstr "Blocca"
 
 msgid "BLOCK_USER"
-msgstr "Block user"
+msgstr "Blocca utente"
 
 msgid "CAN_DRAW_TICKET_SUBTEXT"
 msgstr "Puoi generare un ticket regolare! Potresti vincere un premio."
