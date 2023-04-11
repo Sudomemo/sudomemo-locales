@@ -4,7 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "DECOR"
-msgstr "Decor"
+msgstr "Arredamento"
 
 msgid "INVENTORY"
 msgstr "Inventario"
@@ -16,7 +16,7 @@ msgid "NEXT"
 msgstr "Prossimo"
 
 msgid "PETS"
-msgstr "Pets"
+msgstr "Animali domestici"
 
 msgid "PREV"
 msgstr "Prec"
@@ -28,7 +28,7 @@ msgid "THEMES"
 msgstr "Temi"
 
 msgid "TICKETS"
-msgstr "Tickets"
+msgstr "Ticket"
 
 msgid "USE"
 msgstr "Usa"
