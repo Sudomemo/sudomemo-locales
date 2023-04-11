@@ -136,7 +136,7 @@ msgid "COMMENTS"
 msgstr "Commenti"
 
 msgid "CONTINUE"
-msgstr "Continue"
+msgstr "Continua"
 
 msgid "COULD_NOT_SAVE_DETAILS"
 msgstr "Impossibile salvare i dettagli"
@@ -380,7 +380,7 @@ msgid "LATEST"
 msgstr "Recenti"
 
 msgid "LEARN_MORE"
-msgstr "Learn more"
+msgstr "Saperne di più"
 
 msgid "LINK_REQUIRED_BEFORE_UPLOAD"
 msgstr "Devi collegare il tuo canale Youtube prima di caricare il tuo Flipnote."
@@ -511,7 +511,7 @@ msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
 msgstr "Nessun utente trovato con questo ID Flipnote Studio o indirizzo email"
 
 msgid "PARENT_FLIPNOTE"
-msgstr "Parent Flipnote"
+msgstr "Flipnote parente"
 
 msgid "PASSWORD_RESET_SENT"
 msgstr "Un link per il reset della password è stato inviato all'indirizzo email su file."
@@ -620,7 +620,7 @@ msgid "SEARCH"
 msgstr "Cerca"
 
 msgid "SEARCH_PAGE_FORM_PLACEHOLDER"
-msgstr "Username, FSID, song, artist, or channel"
+msgstr "Nome utente, FSID, brano, artista o canale"
 
 msgid "SEARCH_PAGE_FUZZY_SEARCH_TIP"
 msgstr "Consiglio: Puoi inserire parole come 'Austin' e trovare risultati come 'ÄuらtÎn'"
@@ -640,7 +640,7 @@ msgid "SEARCH_SUDOMEMO"
 msgstr "Ricerca Sudomemo"
 
 msgid "SEE_MORE"
-msgstr "See more"
+msgstr "Vedi altro"
 
 msgid "SETTINGS"
 msgstr "Impostazioni"
@@ -836,10 +836,10 @@ msgid "VIEWS"
 msgstr "Visualizzazioni"
 
 msgid "VIEW_ON_SUDOMEMO"
-msgstr "View on Sudomemo"
+msgstr "Guarda su Sudomemo"
 
 msgid "WATCH_HISTORY"
-msgstr "Watch History"
+msgstr "Storia di quello che hai guardato"
 
 msgid "WELCOME_BOX_AFTERNOON_GREETING"
 msgstr "Buon pomeriggio"
