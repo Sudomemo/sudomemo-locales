@@ -184,11 +184,11 @@ msgid "TICKET_NAME_blue_dog_ticket"
 msgstr "Ticket Ziggy Starburst"
 
 msgid "TICKET_NAME_colors_promo_ticket"
-msgstr "Colors! Ticket Promozionale"
+msgstr "Colori! Ticket Promozionale"
 
 # Each ticket type will have a name and a description 
 msgid "TICKET_NAME_demo_ticket"
-msgstr "Ticket Demo"
+msgstr "Dimostrazione del Ticket"
 
 msgid "TICKET_NAME_featured_artist_ticket"
 msgstr "Ticket Artista in primo piano"
@@ -234,7 +234,7 @@ msgid "TICKET_NAME_purple_bunny_ticket"
 msgstr "Ticket Russell Ramblewood"
 
 msgid "TICKET_NAME_red_bird_ticket"
-msgstr "Ticket Bailey Flitwing"
+msgstr "Ticket Bailey Volante"
 
 msgid "TICKET_NAME_regular_ticket"
 msgstr "Ticket comune"
@@ -249,13 +249,13 @@ msgid "TICKET_NAME_special_someone_ticket"
 msgstr "Ticket per una Persona Speciale"
 
 msgid "TICKET_NAME_spookmaster_ticket"
-msgstr "Ticket Spookmaster"
+msgstr "Ticket Maestro degli Spettri"
 
 msgid "TICKET_NAME_sudomemo_radio_pilot_ticket"
-msgstr "Sudomemo Radio Pilot Ticket"
+msgstr "Ticket Radio Pilota Sudomemo"
 
 msgid "TICKET_NAME_sudomemo_radio_ticket"
-msgstr "Sudomemo Radio Ticket"
+msgstr "TicketSudomemo Radio"
 
 msgid "TICKET_NAME_survey_thanks_ticket"
 msgstr "Ticket Sondaggio"
