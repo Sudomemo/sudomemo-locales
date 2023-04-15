@@ -13,10 +13,10 @@ msgid "NO_RESULTS_FOUND"
 msgstr "Geen resultaten gevonden"
 
 msgid "PAGE"
-msgstr "Page"
+msgstr "Pagina"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d of %d"
+msgstr "%d van %d"
 
 msgid "PAGE_FORMAT"
 msgstr "Pagina %d"
