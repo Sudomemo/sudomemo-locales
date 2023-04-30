@@ -95,6 +95,9 @@ msgstr "Mis à l'honneur dans le Sudomemo Rewind de 2022 !"
 msgid "TROPHY_DESC_spookmaster"
 msgstr "Prix du Maître de l'épouvante pour l'Excellence en matière de Sorcellerie et de Magie."
 
+msgid "TROPHY_DESC_spring_2023_ffc_winner"
+msgstr "One of the winners of the first Sudomemo Flipnote Fight Competition!"
+
 msgid "TROPHY_DESC_sudomemo_radio"
 msgstr "A contribué au contenu d'un épisode de Radio Sudomemo"
 
@@ -188,6 +191,9 @@ msgstr "Sudomemo Rewind 2022"
 
 msgid "TROPHY_NAME_spookmaster"
 msgstr "Maître de l'épouvante"
+
+msgid "TROPHY_NAME_spring_2023_ffc_winner"
+msgstr "Spring 2023 Sudomemo Flipnote Fight Competition Winner"
 
 msgid "TROPHY_NAME_sudomemo_radio"
 msgstr "Contributeur de Radio Sudomemo"

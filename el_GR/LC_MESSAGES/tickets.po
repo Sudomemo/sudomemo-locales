@@ -144,6 +144,9 @@ msgstr "Για αυτον τον καποιον. Τρεις μηνες Plus, Χ�
 msgid "TICKET_DESC_spookmaster_ticket"
 msgstr "Ευχαριστουμε παρα πολυ που παιξατε SudoQuest: Requiem! Ευχομαστε να σας αρεσε το παιχνιδι."
 
+msgid "TICKET_DESC_spring_2023_ffc_winner_ticket"
+msgstr "Congratulations on your winning entry to the first Sudomemo Flipnote Fight Competition!"
+
 msgid "TICKET_DESC_sudomemo_radio_pilot_ticket"
 msgstr "Congratulations on being a part of the very first episode of Sudomemo Radio!"
 
@@ -250,6 +253,9 @@ msgstr "Λαχνος για καποιον ιδιεταιρο"
 
 msgid "TICKET_NAME_spookmaster_ticket"
 msgstr "Spookmaster Ticket"
+
+msgid "TICKET_NAME_spring_2023_ffc_winner_ticket"
+msgstr "Spring 2023 Sudomemo F.F.C. Winner Ticket"
 
 msgid "TICKET_NAME_sudomemo_radio_pilot_ticket"
 msgstr "Sudomemo Radio Pilot Ticket"
