@@ -144,6 +144,9 @@ msgstr "Para aquela pessoa que te é especial. Três meses de Plus, Estrelas Col
 msgid "TICKET_DESC_spookmaster_ticket"
 msgstr "Obrigado por jogares o SudoQuest: Requiem! Espero que tenhas desfrutado do jogo."
 
+msgid "TICKET_DESC_spring_2023_ffc_winner_ticket"
+msgstr "Congratulations on your winning entry to the first Sudomemo Flipnote Fight Competition!"
+
 msgid "TICKET_DESC_sudomemo_radio_pilot_ticket"
 msgstr "Parabens para participares no primeiro episódio do Sudomemo Radio!"
 
@@ -250,6 +253,9 @@ msgstr "Bilhete de Sº Valentim"
 
 msgid "TICKET_NAME_spookmaster_ticket"
 msgstr "Bilhete Mestre dos Sustos"
+
+msgid "TICKET_NAME_spring_2023_ffc_winner_ticket"
+msgstr "Spring 2023 Sudomemo F.F.C. Winner Ticket"
 
 msgid "TICKET_NAME_sudomemo_radio_pilot_ticket"
 msgstr "Bilhete de Piloto do Sudomemo Radio"

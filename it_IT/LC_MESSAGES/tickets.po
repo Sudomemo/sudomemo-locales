@@ -144,6 +144,9 @@ msgstr "Per quella persona speciale. Tre mesi di Plus, Stelle colorate e un tema
 msgid "TICKET_DESC_spookmaster_ticket"
 msgstr "Grazie per aver giocato a SudoQuest: Requiem! Speriamo che ti sia piaciuto il gioco."
 
+msgid "TICKET_DESC_spring_2023_ffc_winner_ticket"
+msgstr "Congratulations on your winning entry to the first Sudomemo Flipnote Fight Competition!"
+
 msgid "TICKET_DESC_sudomemo_radio_pilot_ticket"
 msgstr "Congratulazioni per aver preso parte al primissimo episodio di Sudomemo Radio!"
 
@@ -250,6 +253,9 @@ msgstr "Ticket per una Persona Speciale"
 
 msgid "TICKET_NAME_spookmaster_ticket"
 msgstr "Ticket Maestro degli Spettri"
+
+msgid "TICKET_NAME_spring_2023_ffc_winner_ticket"
+msgstr "Spring 2023 Sudomemo F.F.C. Winner Ticket"
 
 msgid "TICKET_NAME_sudomemo_radio_pilot_ticket"
 msgstr "Ticket Radio Pilota Sudomemo"
