@@ -3,8 +3,20 @@ msgstr ""
 "Language: ja_JP\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "APPLICATION_TOKEN"
+msgstr "App Token"
+
+msgid "APPLICATION_TOKEN_INFO"
+msgstr "Here is your App Token, which can be used for certain apps that require it. Don't share this token with anyone."
+
+msgid "APPLICATION_TOKEN_INFO_2"
+msgstr "This token cannot be used to request support."
+
 msgid "DO_NOT_SHARE_TOKEN"
 msgstr "このトークンを誰とも共有しないでください。もし誰かがスドメモサポートを名乗り、このトークンを送るよう言われたら、絶対に渡さないでください。"
+
+msgid "GET_APPLICATION_TOKEN"
+msgstr "Get App Token"
 
 msgid "GET_SUPPORT_TOKEN"
 msgstr "サポートトークンを発行"
@@ -26,6 +38,9 @@ msgstr "サポートトークン"
 
 msgid "SUPPORT_TOKEN_INFO"
 msgstr "こちらがサポートトークンです。スドメモサポートに問い合わせる時に渡してください！"
+
+msgid "YOU_ARE_REQUESTING_APPLICATION_TOKEN"
+msgstr "You are now requesting an App Token, which is used for certain apps that require it."
 
 msgid "YOU_ARE_REQUESTING_SUPPORT_TOKEN"
 msgstr "サポートトークンをリクエストしています。スドメモサポートに問い合わせた時、自分のアカウントを確認するのに使います。"
