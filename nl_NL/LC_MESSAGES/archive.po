@@ -19,6 +19,9 @@ msgstr "Blader"
 msgid "CONTACT"
 msgstr "Contacteer"
 
+msgid "CORRUPT_FLIPNOTE_NOTE"
+msgstr "This Flipnote has corrupted data. While it can be played, it is likely a duplicate and should not be considered the authoritative version. Try finding another copy of this Flipnote."
+
 msgid "CREATED"
 msgstr "Gecreërd"
 
