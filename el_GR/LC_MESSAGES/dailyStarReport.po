@@ -15,11 +15,11 @@ msgstr "Sudomemo"
 msgid "TEXT_FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote απο %s"
 
-msgid "TEXT_HOW_TO_VIEW_STAR_ADDERS_DSI"
-msgstr "Χρησιμοποιωντας το Nintendo DSi σας, μπορειτε να δειτε ποιος σας προσεθεσε αστερια πατωντας <strong>Αστερια</strong> στις λεπτομεριες του Flipnote σας στο Sudomemo."
+msgid "TEXT_HOW_TO_VIEW_STAR_ADDERS"
+msgstr "Check who gave you Stars by tapping <strong>Stars</strong> in the Flipnote's details page on Sudomemo, or by clicking a Star on Sudomemo Theatre."
 
 msgid "TEXT_STAR_REPORT_GREETING_FORMAT"
-msgstr "Γεια, %s! Αυτη ειναι η Ημερισια Αναφορα Αστεριων σας απο το Sudomemo."
+msgstr "Αυτη ειναι η Ημερισια Αναφορα Αστεριων σας απο το Sudomemo."
 
 msgid "TEXT_TOTAL_STARS_RECEIVED_TODAY"
 msgstr "Συνολικος αριθμος αστεριων που λαβατε σημερα"

@@ -3,11 +3,23 @@ msgstr ""
 "Language: en_ZA\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+# positive interaction
+msgid "EMAIL_GREETING_FRIENDLY_HELLO"
+msgstr "Hi, %s!"
+
+# neutral interaction
+msgid "EMAIL_GREETING_NEUTRAL_HELLO"
+msgstr "Hi, %s."
+
 msgid "TEXT_CHANGE_SETTINGS_PROMPT"
 msgstr "what emails you wanna get? wanna change it?"
+
+# the "here" text in the click here. e.g. what will be in the link to the unsubscribe page.
+msgid "TEXT_HERE"
+msgstr "this link"
 
 msgid "TEXT_HOW_TO_CHANGE_SETTINGS_DSI"
 msgstr "It's suuuper easy-peasy if u go to 'yay! xD' on Sudomemo and tippy-tappin <strong>we mail u?</strong>."
 
 msgid "TEXT_WEB_SETTINGS_CHANGE_FORMAT"
-msgstr "Or u can turn off ( U^U/ ) this kinda mail by clicking <a target=\"_blank\" href=\"%s\"><strong>here</strong></a>."
+msgstr "Or u can turn off ( U^U/ ) this kinda mail by clicking %s."

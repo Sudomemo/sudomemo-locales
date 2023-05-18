@@ -3,11 +3,23 @@ msgstr ""
 "Language: ja_JP\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+# positive interaction
+msgid "EMAIL_GREETING_FRIENDLY_HELLO"
+msgstr "こんにちは、%sさん！"
+
+# neutral interaction
+msgid "EMAIL_GREETING_NEUTRAL_HELLO"
+msgstr "こんにちは、%sさん。"
+
 msgid "TEXT_CHANGE_SETTINGS_PROMPT"
 msgstr "スドメモから受け取るメールの設定の変更を希望しますか？"
+
+# the "here" text in the click here. e.g. what will be in the link to the unsubscribe page.
+msgid "TEXT_HERE"
+msgstr "こちら"
 
 msgid "TEXT_HOW_TO_CHANGE_SETTINGS_DSI"
 msgstr "スドメモのマイルームにアクセスし、<strong>メール設定</strong>を選択することで簡単に設定を変更できます。"
 
 msgid "TEXT_WEB_SETTINGS_CHANGE_FORMAT"
-msgstr "または、<a target=\"_blank\" href=\"%s\"><strong>こちら</strong></a>をクリックすることでメールの受信を停止することができます。"
+msgstr "または、%sをクリックすることでメールの受信を停止することができます。"

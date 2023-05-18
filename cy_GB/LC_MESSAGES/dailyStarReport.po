@@ -15,11 +15,11 @@ msgstr "Sudomemo"
 msgid "TEXT_FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote gan %s"
 
-msgid "TEXT_HOW_TO_VIEW_STAR_ADDERS_DSI"
-msgstr "Gan ddefnyddio'ch System Nintendo DSi, gallwch weld pwy a ychwanegodd Sêr drwy ddefnyddio <strong>Sêr</strong> yn eich tudalen manylion Flipnote ar Sudomemo."
+msgid "TEXT_HOW_TO_VIEW_STAR_ADDERS"
+msgstr "Check who gave you Stars by tapping <strong>Stars</strong> in the Flipnote's details page on Sudomemo, or by clicking a Star on Sudomemo Theatre."
 
 msgid "TEXT_STAR_REPORT_GREETING_FORMAT"
-msgstr "Helo, %s! Dyma'ch Ddroddiad Seren Dyddiol o Sudomemo."
+msgstr "Dyma'ch Ddroddiad Seren Dyddiol o Sudomemo."
 
 msgid "TEXT_TOTAL_STARS_RECEIVED_TODAY"
 msgstr "Cyfanswm y Sêr a dderbyniwyd heddiw"

@@ -3,11 +3,23 @@ msgstr ""
 "Language: pl_PL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+# positive interaction
+msgid "EMAIL_GREETING_FRIENDLY_HELLO"
+msgstr "Cześć, %s!"
+
+# neutral interaction
+msgid "EMAIL_GREETING_NEUTRAL_HELLO"
+msgstr "Witaj, %s."
+
 msgid "TEXT_CHANGE_SETTINGS_PROMPT"
 msgstr "Chcesz zmienić to, jakie e-maile dostajesz od Sudomemo?"
+
+# the "here" text in the click here. e.g. what will be in the link to the unsubscribe page.
+msgid "TEXT_HERE"
+msgstr "tutaj"
 
 msgid "TEXT_HOW_TO_CHANGE_SETTINGS_DSI"
 msgstr "Możesz to łatwo zmienić, wchodząc do twojego Pokoju Twórcy na Sudomemo i wybierając <strong>Ustawienia e-maila</strong>."
 
 msgid "TEXT_WEB_SETTINGS_CHANGE_FORMAT"
-msgstr "Alternatywnie, możesz wyłączyć tego typu maile klikając <a target=\"_blank\" href=\"%s\"><strong>tutaj</strong></a>."
+msgstr "Alternatywnie, możesz wyłączyć tego typu maile klikając %s."
