@@ -607,6 +607,9 @@ msgstr "Unknown"
 msgid "RELEASED"
 msgstr "Released"
 
+msgid "RESET_PASSWORD_BY_FSID"
+msgstr "You can still reset your password with your Flipnote Studio ID! Simply send a quick message to Sudomemo Support and we'll get that sent out to you."
+
 msgid "ROOT_FLIPNOTE"
 msgstr "the OG!!"
 
