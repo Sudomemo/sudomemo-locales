@@ -61,7 +61,7 @@ msgid "DRAW_REGULAR_TICKET"
 msgstr "Obtenir un ticket"
 
 msgid "ENTER_BIO"
-msgstr "Entrez la bio..."
+msgstr "Entrez votre bio..."
 
 msgid "EXAMPLE"
 msgstr "Exemple"
@@ -110,7 +110,7 @@ msgid "HEADER_LANGUAGE"
 msgstr "Langue"
 
 msgid "HEADER_MAIL_SETTINGS"
-msgstr "Paramètres de mail"
+msgstr "Paramètres de couriel"
 
 msgid "HEADER_SUPPORT_TOKEN"
 msgstr "Jeton de support"
@@ -119,7 +119,7 @@ msgid "INVENTORY"
 msgstr "Inventaire"
 
 msgid "LEAVE_BLANK_TO_RESET_BIO"
-msgstr "Pour effacer votre biographie, laissez le formulaire vide quand vous l'envoyez."
+msgstr "Pour effacer votre biographie, laissez le formulaire vide lorsque vous l'envoyez."
 
 msgid "LOGIN_REQUIRED_ACTION"
 msgstr "Vous devez être connecté pour effectuer cette action."
