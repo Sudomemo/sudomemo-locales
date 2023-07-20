@@ -157,7 +157,7 @@ msgid "ORIGINAL_NOT_FOUND"
 msgstr "No se ha podido encontrar el original"
 
 msgid "PARENT_FLIPNOTE"
-msgstr "Parent Flipnote"
+msgstr "Flipnote de origen"
 
 msgid "POPULAR"
 msgstr "Popular"
@@ -166,7 +166,7 @@ msgid "POPULAR_FLIPNOTES"
 msgstr "Flipnotes populares"
 
 msgid "POPULAR_FLIPNOTES_DESC"
-msgstr "Flipnotes que han recibido mucha atencion por los visitantes del archivo"
+msgstr "Flipnotes que han recibido mucha atención por los visitantes del archivo"
 
 msgid "PRESS"
 msgstr "Prensa"
