@@ -78,7 +78,7 @@ msgid "FOOTER_SUDOMEMO_SHILL_FORMAT"
 msgstr "Gestionado por %sSudomemo%s, un servicio de difusión de Flipnotes hecho por fans para Flipnote Studio en la Nintendo DSi y 3DS"
 
 msgid "FOOTER_THIRDPARTY_COPYRIGHT"
-msgstr "Flipnote Studio is © Nintendo. Flipnote Hatena is © Hatena Co., Ltd."
+msgstr "Flipnote Studio es © Nintendo. Flipnote Hatena es © Hatena Co., Ltd."
 
 msgid "FOOTER_THIRDPARTY_DISCLAIMER"
 msgstr "El Archivo de Flipnotes no está afiliado con o respaldado por Nintendo o Hatena."
@@ -108,7 +108,7 @@ msgid "HOMEPAGE_FLIPNOTE_STAT"
 msgstr "44 millones"
 
 msgid "HOMEPAGE_FROG_DIALOG"
-msgstr "Keep on Flipnoting!"
+msgstr "Seguid Flipnoteando!"
 
 # again, wrapped in links
 msgid "HOMEPAGE_INTRO_FORMAT"
@@ -187,7 +187,7 @@ msgid "RANDOM_FLIPNOTES"
 msgstr "Flipnotes aleatorias"
 
 msgid "RANDOM_FLIPNOTES_DESC"
-msgstr "A series of Flipnotes chosen from a random point in time"
+msgstr "Un conjunto de Flipnotes elegidos de un punto aleatorio en el tiempo"
 
 msgid "RED_STARS"
 msgstr "Estrellas Rojas"
@@ -202,7 +202,7 @@ msgid "REGION_JAPAN"
 msgstr "Japón"
 
 msgid "ROOT_FLIPNOTE"
-msgstr "Root Flipnote"
+msgstr "Flipnote principal"
 
 msgid "SEARCH"
 msgstr "Buscar"
@@ -264,7 +264,7 @@ msgstr "Usuarios"
 
 # Austin's Flipnote from Flipnote Hatena, May 17th, 2010
 msgid "USERS_ARCHIVED_FLIPNOTE_FORMAT"
-msgstr "%s's Flipnote from Flipnote Hatena, %s"
+msgstr "Flipnotes de %s de Flipnote Hatena, %s"
 
 msgid "USERS_ARCHIVED_PROFILE_FORMAT"
 msgstr "Perfil archivado de Flipnote Hatena de %s"
