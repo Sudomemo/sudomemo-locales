@@ -191,7 +191,7 @@ msgid "NEW_USER_THANKS_FOR_REGISTRATION"
 msgstr "¡Bienvenido a Sudomemo!"
 
 msgid "NEW_USER_WELCOME_FORMAT"
-msgstr "Bienvenido a Sudomemo, %s!"
+msgstr "¡Bienvenido a Sudomemo, %s!"
 
 msgid "NOT_RECEIVING_HELP_FORMAT"
 msgstr "¿Sigues sin recibir el Correo? Puedes hablar con nosotros en el Discord de Sudomemo o vía %s."
@@ -206,7 +206,7 @@ msgid "PLEASE_ENTER_PASSWORD_TO_SIGN_IN"
 msgstr "Por favor introduce tu contraseña para iniciar sesión"
 
 msgid "POST_COMMENT_BELOW"
-msgstr "To continue, please submit a drawn comment (it can be blank)."
+msgstr "Para continuar, comenta con un dibujo (puede estár en blanco)."
 
 msgid "REGISTRATION_ERROR_BAD_EMAIL"
 msgstr "El Correo electrónico que has introducido no esta permitido."
@@ -218,7 +218,7 @@ msgid "REGISTRATION_ERROR_PASSWORD_ALREADY_SET"
 msgstr "Contraseña ya ha sido establecida."
 
 msgid "RETURNING_USER_NEW_LOGIN_SYSTEM"
-msgstr "Desde la última vez que iniciaste sesión, hemos agregado un nuevo sistema de inicio de sesión -- Pero no te preocupes,¡ todo tu contenido sigue aqui!"
+msgstr "Desde la última vez que iniciaste sesión, hemos agregado un nuevo sistema de inicio de sesión -- Pero no te preocupes, ¡todo tu contenido sigue aqui!"
 
 msgid "RETURNING_USER_PLEASE_CREATE_PASSWORD"
 msgstr "Para comenzar, crea una nueva contraseña aquí abajo."
@@ -233,10 +233,10 @@ msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
 msgstr "Si necesitas ayuda para conectarte, eres libre de preguntar en nuestro Discord! Puedes unirte desde %s."
 
 msgid "SIGNUP_AGE_GATE_ERROR"
-msgstr "You'll need to be 13 or older to create a new Sudomemo account."
+msgstr "Necesitarás tener 13 años o mas para crear una nueva cuenta de Sudomemo."
 
 msgid "SIGNUP_AGE_GATE_ERROR_FIX"
-msgstr "If you've received this message in error, you can update your birthday by tapping the orange wrench icon in the top right of Flipnote Studio's main menu."
+msgstr "Si recibiste este mensaje en un error, puedes actualizar tu cumpleaños tocando la llave naranja en la esquina superior-derecha del menú principal de Flipnote Studio."
 
 msgid "SORRY_NO_LOGIN"
 msgstr "Lo sentimos, ¡pero no pudimos iniciar tu sesión!"
@@ -266,4 +266,4 @@ msgid "WEB_TAP_CHECK_VERIFICATION_STATUS"
 msgstr "Ve y presiona 'Verificar el estado de confirmación' en tu sistema Nintendo DSi."
 
 msgid "WELCOME_BACK_FORMAT"
-msgstr "Bienvenido de vuelta!, %s!"
+msgstr "¡Bienvenido de vuelta!, %s!"

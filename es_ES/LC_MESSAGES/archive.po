@@ -8,7 +8,7 @@ msgid "ACTIVE_FROM"
 msgstr "Activo desde"
 
 msgid "ALSO_KNOWN_AS"
-msgstr "También conocido como"
+msgstr "También conocido(a) como"
 
 msgid "BLUE_STARS"
 msgstr "Estrellas Azules"
@@ -108,11 +108,11 @@ msgid "HOMEPAGE_FLIPNOTE_STAT"
 msgstr "44 millones"
 
 msgid "HOMEPAGE_FROG_DIALOG"
-msgstr "Seguid Flipnoteando!"
+msgstr "¡Seguid Flipnoteando!"
 
 # again, wrapped in links
 msgid "HOMEPAGE_INTRO_FORMAT"
-msgstr "A comprehensive archive of %sFlipnote Studio%s animations posted to %sFlipnote Hatena%s before its closure in May 2013."
+msgstr "Un archivo completo de animaciones de %sFlipnote Studio%s subidas al sitio %sFlipnote Hatena%s antes de su cierre en Mayo 2013."
 
 msgid "HTTP_ERROR_404_TEXT"
 msgstr "No se pudo encontrar la página que buscabas. :("

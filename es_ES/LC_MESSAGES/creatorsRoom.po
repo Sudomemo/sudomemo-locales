@@ -89,7 +89,7 @@ msgid "FLIPNOTE_FRIENDS"
 msgstr "Amigos Flipnote"
 
 msgid "FLIPNOTE_FRIENDS_INFO"
-msgstr "Creators you've exchanged Flipnotes with"
+msgstr "Creadores con los que has intercambiado Flipnotes"
 
 msgid "FLIPNOTE_STUDIO_ID"
 msgstr "ID de Flipnote Studio"
@@ -218,10 +218,10 @@ msgid "TICKET_SECTION"
 msgstr "Tickets"
 
 msgid "UNBLOCK"
-msgstr "Unblock"
+msgstr "Desbloquear"
 
 msgid "UNBLOCK_USER"
-msgstr "Unblock user"
+msgstr "Desbloquear usuario"
 
 msgid "USABILITY_NOT_USABLE"
 msgstr "No Usable"
@@ -248,4 +248,4 @@ msgid "WATCH_HISTORY"
 msgstr "Watch History"
 
 msgid "YOU_HAVE_BLOCKED_THIS_USER"
-msgstr "You have blocked this user."
+msgstr "Has bloqueado a este usuario."
