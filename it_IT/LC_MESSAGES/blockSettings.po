@@ -10,7 +10,7 @@ msgid "BLOCK_USER"
 msgstr "Blocca"
 
 msgid "CANNOT_UNBLOCK_NONBLOCKED_USER"
-msgstr "Non puoi sbloccare questo utente, in quanto non li hai effettivamente bloccati in primo luogo."
+msgstr "Non puoi sbloccare questo utente, in quanto non lo hai effettivamente bloccato in primo luogo."
 
 msgid "COMMENTING_ENABLED_AFTER_UNBLOCK"
 msgstr "Dopo aver sbloccato questo utente, sarà in grado di commentare nuovamente i tuoi Flipnote, a meno che anche tu non li abbia bloccati."
@@ -37,10 +37,10 @@ msgid "NO_USERS_BLOCKED"
 msgstr "Nessun Utente Bloccato."
 
 msgid "ONE_DAY_WAIT_BEFORE_REBLOCK_FORMAT"
-msgstr "Hai recentemente sbloccato questo utente. Non puoi bloccarli di nuovo fino a %s"
+msgstr "Hai recentemente sbloccato questo utente. Non puoi bloccarlo di nuovo fino a %s"
 
 msgid "RECENTLY_UNBLOCKED_ONE_DAY_THRESHOLD"
-msgstr "Hai recentemente sbloccato questo utente. È necessario attendere 24 ore dal momento in cui sono stati sbloccati prima di poterli bloccare nuovamente."
+msgstr "Hai recentemente sbloccato questo utente. È necessario attendere 24 ore dal momento in cui e stato sbloccato prima di poterlo bloccare nuovamente."
 
 msgid "TAP_BACK_TO_RETURN"
 msgstr "Tocca Indietro per tornare al tuo Profilo"
@@ -52,7 +52,7 @@ msgid "UNBLOCK_USER"
 msgstr "Sblocca Utente"
 
 msgid "UNBLOCK_WARNING_ONE_DAY_THRESHOLD"
-msgstr "Se li sblocchi, devi attendere 24 ore prima di poterli bloccare nuovamente."
+msgstr "Se lo sblocchi, devi attendere 24 ore prima di poterlo bloccare nuovamente."
 
 msgid "USER_ALREADY_BLOCKED"
 msgstr "Hai già bloccato questo utente. Puoi sbloccarli dal menu Impostazioni nella Stanza del Creatore, ma devi attendere 24 ore prima di poterli bloccare di nuovo."
