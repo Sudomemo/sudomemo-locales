@@ -94,7 +94,7 @@ msgid "EMAIL_REQUIRES_UPDATE"
 msgstr "Tu Correo electrónico necesita ser actualizado."
 
 msgid "EMAIL_VERIFICATION_ADDRESS_REMOVED"
-msgstr "¡Lo sentimos! Hemos marcado esta dirección de email  as incorrecta, asi que ya no recibirás mas emails de Sudomemo."
+msgstr "¡Lo sentimos! Hemos marcado esta dirección de email como incorrecta, asi que ya no recibirás mas emails de Sudomemo."
 
 msgid "EMAIL_VERIFIED"
 msgstr "¡Gracias por confirmar tu Correo!"
@@ -206,7 +206,7 @@ msgid "PLEASE_ENTER_PASSWORD_TO_SIGN_IN"
 msgstr "Por favor introduce tu contraseña para iniciar sesión"
 
 msgid "POST_COMMENT_BELOW"
-msgstr "Para continuar, comenta con un dibujo (puede estár en blanco)."
+msgstr "Para continuar, comenta con un dibujo (puede estar en blanco)."
 
 msgid "REGISTRATION_ERROR_BAD_EMAIL"
 msgstr "El Correo electrónico que has introducido no esta permitido."
@@ -233,7 +233,7 @@ msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
 msgstr "Si necesitas ayuda para conectarte, eres libre de preguntar en nuestro Discord! Puedes unirte desde %s."
 
 msgid "SIGNUP_AGE_GATE_ERROR"
-msgstr "Necesitarás tener 13 años o mas para crear una nueva cuenta de Sudomemo."
+msgstr "Necesitarás tener 13 años o más para crear una nueva cuenta de Sudomemo."
 
 msgid "SIGNUP_AGE_GATE_ERROR_FIX"
 msgstr "Si recibiste este mensaje en un error, puedes actualizar tu cumpleaños tocando la llave naranja en la esquina superior-derecha del menú principal de Flipnote Studio."

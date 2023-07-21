@@ -69,7 +69,7 @@ msgstr "Esta Flipnote está oculta por cuestiones de privacidad."
 
 # the two %s are replaced with html tags to form a link.
 msgid "FLIPNOTE_WITHHELD_READ_MORE"
-msgstr "Para mas información, por favor lee el %sFAQ%."
+msgstr "Para más información, por favor lee el %sFAQ%."
 
 msgid "FOOTER_DONATION_ASK"
 msgstr "Este sitio es costoso de mantener, así que por favor considera hacer una %sdonación!%s"
@@ -112,7 +112,7 @@ msgstr "¡Seguid Flipnoteando!"
 
 # again, wrapped in links
 msgid "HOMEPAGE_INTRO_FORMAT"
-msgstr "Un archivo completo de animaciones de %sFlipnote Studio%s subidas al sitio %sFlipnote Hatena%s antes de su cierre en Mayo 2013."
+msgstr "Un archivo completo de animaciones de %sFlipnote Studio%s subidas al sitio %sFlipnote Hatena%s antes de su cierre en mayo 2013."
 
 msgid "HTTP_ERROR_404_TEXT"
 msgstr "No se pudo encontrar la página que buscabas. :("
@@ -193,10 +193,10 @@ msgid "RED_STARS"
 msgstr "Estrellas Rojas"
 
 msgid "REGION_AMERICAS"
-msgstr "America"
+msgstr "América"
 
 msgid "REGION_EUROPE_AND_OCEANIA"
-msgstr "Europa y Oceania"
+msgstr "Europa y Oceanía"
 
 msgid "REGION_JAPAN"
 msgstr "Japón"
