@@ -4,106 +4,106 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CHAT_REPLY_FAILED"
-msgstr "Chat reply failed. Try again in a moment."
+msgstr "toki li pakala. o alasa toki lon tenpo ante."
 
 msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "You have been restricted from interacting with Sudomemo."
+msgstr "sina ken ala kepeken e lipu Sutomemo."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Please confirm your email before posting."
+msgstr "sina wile pana la, o pona e nimi ilo sina."
 
 msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "This comment has already been posted to Sudomemo."
+msgstr "toki ni li sama toki ante la, ona li pakala"
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "The Flipnote data is corrupted. Try again in a moment."
+msgstr "lipu tawa ni li pakala. o alasa lukin lon tenpo ante."
 
 msgid "HEADER_COMMENTS"
-msgstr "Comments"
+msgstr "toki"
 
 msgid "HEADER_NEXT"
-msgstr "Next"
+msgstr "lipu kama"
 
 msgid "HEADER_PREV"
-msgstr "Prev"
+msgstr "lipu pini"
 
 msgid "HEADER_REFRESH"
-msgstr "Refresh"
+msgstr "alasa"
 
 msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
-msgstr "You must be logged in to post a chat message."
+msgstr "sina wile toki la, o open kepeken nimi sina."
 
 msgid "MODERATOR"
-msgstr "Moderator"
+msgstr "jan lawa"
 
 msgid "NO_BLANK_MESSAGES_ALLOWED"
-msgstr "You cannot post a blank chat message."
+msgstr "sitelen o lon."
 
 msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
-msgstr "You have been muted. You may not chat."
+msgstr "sina ken toki ala."
 
 msgid "NO_COMMENTS_YET"
-msgstr "No messages have been sent here."
+msgstr "toki li lon ni ala."
 
 msgid "PAGE_FORMAT"
-msgstr "Page %d"
+msgstr "lipu nanpa %d"
 
 msgid "ROOM_NAME_anime_chat"
-msgstr "Anime Chat"
+msgstr "toki pi sitelen Anime"
 
 msgid "ROOM_NAME_blue_chat"
-msgstr "Blue Chat"
+msgstr "toki pi laso sewi"
 
 msgid "ROOM_NAME_drawings"
-msgstr "Drawings"
+msgstr "sitelen"
 
 msgid "ROOM_NAME_french_chat"
-msgstr "French Chat"
+msgstr "toki pi toki Kanse"
 
 msgid "ROOM_NAME_friend_code_exchange"
-msgstr "Friend Code Exchange"
+msgstr "pana pi nanpa jan"
 
 msgid "ROOM_NAME_german_chat"
-msgstr "German Chat"
+msgstr "toki pi toki Tosi"
 
 msgid "ROOM_NAME_greek_chat"
-msgstr "Greek Chat"
+msgstr "toki pi toki Elena"
 
 msgid "ROOM_NAME_green_chat"
-msgstr "Green Chat"
+msgstr "toki pi laso kasi"
 
 msgid "ROOM_NAME_japanese_chat"
-msgstr "Japanese Chat"
+msgstr "toki pi toki Nijon"
 
 msgid "ROOM_NAME_kirby_chat"
-msgstr "Kirby Chat"
+msgstr "toki pi musi Kapi"
 
 msgid "ROOM_NAME_mlp_chat"
-msgstr "MLP Chat"
+msgstr "toki pi musi MLP"
 
 msgid "ROOM_NAME_music_chat"
-msgstr "Music Chat"
+msgstr "toki pi kalama musi"
 
 msgid "ROOM_NAME_orange_chat"
-msgstr "Orange Chat"
+msgstr "toki pi loje jelo"
 
 msgid "ROOM_NAME_pokemon_chat"
-msgstr "Pokémon Chat"
+msgstr "toki pi musi Pokemon"
 
 msgid "ROOM_NAME_red_chat"
-msgstr "Red Chat"
+msgstr "toki loje"
 
 msgid "ROOM_NAME_roleplay_chat_1"
-msgstr "Roleplay Chat 1"
+msgstr "toki lon nanpa wan"
 
 msgid "ROOM_NAME_roleplay_chat_2"
-msgstr "Roleplay Chat 2"
+msgstr "toki lon nanpa tu"
 
 msgid "ROOM_NAME_spanish_chat"
-msgstr "Spanish Chat"
+msgstr "toki pi toki Epanja"
 
 msgid "ROOM_NAME_stick_figure_chat"
-msgstr "Stick Figure Chat"
+msgstr "toki pi jan palisa"
 
 msgid "ROOM_NAME_wolf_chat"
-msgstr "Wolf Chat"
+msgstr "toki soweli"
