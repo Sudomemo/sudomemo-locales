@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Language: en_TT\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "CITIZENSHIP_REQUIRED"
+msgstr "You'll need Sudomemo Citizenship to use this feature."
+
+msgid "DISABLE_AUDIO_ENHANCEMENT"
+msgstr "Disable audio enhancement"
+
+msgid "DISABLE_SMOOTHING"
+msgstr "Disable smoothing"
+
+msgid "ENABLE_AUDIO_ENHANCEMENT"
+msgstr "Enable audio enhancement"
+
+msgid "ENABLE_SMOOTHING"
+msgstr "Enable smoothing"
+
+msgid "FLIPNOTE_OPTIONS"
+msgstr "Flipnote Options"
+
+msgid "FLIPNOTE_URL_IS"
+msgstr "Flipnote URL:"
+
+msgid "HEADER_OPTION"
+msgstr "Option"
+
+msgid "HEADER_STATUS"
+msgstr "Status"
+
+msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
+msgstr "You must be logged in to view this page."
+
+msgid "OFF"
+msgstr "Off"
+
+msgid "ON"
+msgstr "On"
+
+msgid "OPTION_DESC_FORCE_44K_BITRATE"
+msgstr "Sudomemo will try to make your audio sound crisper and cleaner for Sudomemo Theatre."
+
+msgid "OPTION_DESC_SMOOTH"
+msgstr "Lines, curves, and edges are smoothed for a more natural look on Sudomemo Theatre."
+
+msgid "OPTION_NAME_FORCE_44K_BITRATE"
+msgstr "Enhanced audio"
+
+msgid "OPTION_NAME_SMOOTH"
+msgstr "Smoothing"
+
+msgid "PLUS_REQUIRED"
+msgstr "You'll need Sudomemo Plus to use this feature."
+
+msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
+msgstr "Tap on an option's status to view or change it."

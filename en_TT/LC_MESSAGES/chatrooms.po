@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Language: en_TT\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "CHAT_REPLY_FAILED"
+msgstr "Chat reply failed. Try again in a moment."
+
+msgid "COMMENT_FAILED_USER_BANNED"
+msgstr "You have been restricted from interacting with Sudomemo."
+
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "Please confirm your email before posting."
+
+msgid "DUPLICATE_COMMENT_FAILED"
+msgstr "This comment has already been posted to Sudomemo."
+
+msgid "FLIPNOTE_DATA_CORRUPTED"
+msgstr "The Flipnote data is corrupted. Try again in a moment."
+
+msgid "HEADER_COMMENTS"
+msgstr "Comments"
+
+msgid "HEADER_NEXT"
+msgstr "Next"
+
+msgid "HEADER_PREV"
+msgstr "Prev"
+
+msgid "HEADER_REFRESH"
+msgstr "Refresh"
+
+msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
+msgstr "You must be logged in to post a chat message."
+
+msgid "MODERATOR"
+msgstr "Moderator"
+
+msgid "NO_BLANK_MESSAGES_ALLOWED"
+msgstr "You cannot post a blank chat message."
+
+msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
+msgstr "You have been muted. You may not chat."
+
+msgid "NO_COMMENTS_YET"
+msgstr "No messages have been sent here."
+
+msgid "PAGE_FORMAT"
+msgstr "Page %d"
+
+msgid "ROOM_NAME_anime_chat"
+msgstr "Anime Chat"
+
+msgid "ROOM_NAME_blue_chat"
+msgstr "Blue Chat"
+
+msgid "ROOM_NAME_drawings"
+msgstr "Drawings"
+
+msgid "ROOM_NAME_french_chat"
+msgstr "French Chat"
+
+msgid "ROOM_NAME_friend_code_exchange"
+msgstr "Friend Code Exchange"
+
+msgid "ROOM_NAME_german_chat"
+msgstr "German Chat"
+
+msgid "ROOM_NAME_greek_chat"
+msgstr "Greek Chat"
+
+msgid "ROOM_NAME_green_chat"
+msgstr "Green Chat"
+
+msgid "ROOM_NAME_japanese_chat"
+msgstr "Japanese Chat"
+
+msgid "ROOM_NAME_kirby_chat"
+msgstr "Kirby Chat"
+
+msgid "ROOM_NAME_mlp_chat"
+msgstr "MLP Chat"
+
+msgid "ROOM_NAME_music_chat"
+msgstr "Music Chat"
+
+msgid "ROOM_NAME_orange_chat"
+msgstr "Orange Chat"
+
+msgid "ROOM_NAME_pokemon_chat"
+msgstr "Pokémon Chat"
+
+msgid "ROOM_NAME_red_chat"
+msgstr "Red Chat"
+
+msgid "ROOM_NAME_roleplay_chat_1"
+msgstr "Roleplay Chat 1"
+
+msgid "ROOM_NAME_roleplay_chat_2"
+msgstr "Roleplay Chat 2"
+
+msgid "ROOM_NAME_spanish_chat"
+msgstr "Spanish Chat"
+
+msgid "ROOM_NAME_stick_figure_chat"
+msgstr "Stick Figure Chat"
+
+msgid "ROOM_NAME_wolf_chat"
+msgstr "Wolf Chat"

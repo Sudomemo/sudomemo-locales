@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Language: en_TT\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "AUDIO_ENHANCEMENT"
+msgstr "Audio Enhancement"
+
+msgid "BTN_START_UPLOAD"
+msgstr "Start Upload"
+
+msgid "BTN_UPLOAD_AGAIN"
+msgstr "Upload Again"
+
+# ...do so, visit https://flipnot.es/ABC123/yt
+msgid "CHANGE_OPTIONS_ON_THEATRE"
+msgstr "You can change these options before upload. To do so, visit:"
+
+# If the user's already uploaded it...
+msgid "FLIPNOTE_ALREADY_UPLOADED"
+msgstr "You've already uploaded this Flipnote to YouTube."
+
+msgid "FLIPNOTE_SMOOTHING"
+msgstr "Flipnote Smoothing"
+
+msgid "HEADER_CONFIRM_OPTIONS"
+msgstr "Confirm Options"
+
+msgid "HEADER_UPLOAD_TO_YOUTUBE"
+msgstr "Upload to YouTube"
+
+# A URL is displayed after this:
+msgid "HOW_TO_LINK_FROM_THEATRE"
+msgstr "To link your YouTube channel, visit this page:"
+
+msgid "HOW_TO_REFRESH_FROM_THEATRE"
+msgstr "To update your channel, visit this page:"
+
+msgid "LINK_REQUIRED_BEFORE_UPLOAD"
+msgstr "You'll need to link your YouTube channel before you can upload your Flipnote."
+
+msgid "NONE"
+msgstr "None"
+
+msgid "OFF"
+msgstr "Off"
+
+msgid "ON"
+msgstr "On"
+
+# Extra features provided by Sudomemo Plus (see flipnoteOptions.po)
+msgid "PLUS_FEATURES"
+msgstr "Plus Features"
+
+msgid "PLUS_FEATURES_NOTE"
+msgstr "Change these options from your Flipnote details page."
+
+# Position in queue: 4
+msgid "POSITION_IN_QUEUE"
+msgstr "Position in queue: %d"
+
+msgid "PREVIEW_DESC"
+msgstr "Description"
+
+msgid "PREVIEW_EXTRA_DESC"
+msgstr "Extra Description"
+
+msgid "PREVIEW_EXTRA_DESC_EXPLANATION"
+msgstr "This text will display when viewers click on 'Show more' in your video's description."
+
+# Preview upload details before submitting
+msgid "PREVIEW_TITLE"
+msgstr "Title"
+
+msgid "RECONNECT_NEEDED"
+msgstr "The connection to your YouTube channel is out of date."
+
+msgid "REVIEW_DETAILS_BEFORE_UPLOAD"
+msgstr "Please review these options before starting your upload."
+
+# ...please visit: https://flipnot.es/ytsetup
+msgid "SET_DEFAULTS_ON_THEATRE"
+msgstr "To change your default upload options, please visit:"
+
+msgid "STATUS"
+msgstr "Status"
+
+msgid "SUBMIT"
+msgstr "Submit"
+
+msgid "TAGS"
+msgstr "Tags"
+
+msgid "THEATRE_STATUS_TRACKER"
+msgstr "Watch your live Upload Tracker here:"
+
+msgid "TITLE_DESC_ADD_FIRST"
+msgstr "Please go back and add these before continuing."
+
+msgid "TITLE_DESC_MISSING"
+msgstr "Your Flipnote needs to have a title and description before you can upload it."
+
+# Upload status
+msgid "UPLOAD_STATUS"
+msgstr "Upload Status"
+
+msgid "YOUTUBE"
+msgstr "YouTube"
+
+# To fix this, visit: https://flipnot.es/ytsetup
+msgid "YOUTUBE_ACCOUNT_VERIFICATION_FIX"
+msgstr "To fix this, visit:"
+
+msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
+msgstr "Your YouTube account is unverified. Certain features will not function correctly, such as video thumbnails and Flipnotes longer than 15 minutes."
+
+msgid "YOUTUBE_ESTIMATED_DURATION"
+msgstr "Estimated video duration:"
+
+msgid "YOUTUBE_ID"
+msgstr "YouTube ID"
+
+msgid "YOUTUBE_LOOP_COUNT"
+msgstr "Number of plays"
+
+msgid "YOUTUBE_LOOP_COUNT_EXPLANATION"
+msgstr "Number of times a looped Flipnote will repeat. If 1, the Flipnote will only play once."
+
+msgid "YOUTUBE_PENDING_UPLOAD"
+msgstr "Your Flipnote is currently waiting to be uploaded. Check back in a few minutes."
+
+msgid "YOUTUBE_STATUS_BEING_PROCESSED"
+msgstr "Your upload is currently being processed."
+
+msgid "YOUTUBE_STATUS_COMPLETE"
+msgstr "Your upload is complete!"
+
+msgid "YOUTUBE_STATUS_ERROR"
+msgstr "Error"
+
+msgid "YOUTUBE_STATUS_FAILED"
+msgstr "An issue occured. For more details, visit https://flipnot.es/ytsetup"
+
+msgid "YOUTUBE_STATUS_NEW"
+msgstr "New"
+
+msgid "YOUTUBE_STATUS_PAUSED"
+msgstr "Paused"
+
+msgid "YOUTUBE_STATUS_PAUSED_GLOBAL_QUOTA"
+msgstr "Our global usage quota has been exceeded, so the upload may be significantly delayed."
+
+msgid "YOUTUBE_STATUS_PROCESSING"
+msgstr "Processing"
+
+msgid "YOUTUBE_STATUS_SUCCESS"
+msgstr "Done!"
+
+msgid "YOUTUBE_STATUS_UNKNOWN"
+msgstr "Unknown"
+
+msgid "YOUTUBE_STATUS_WAITING_TO_BE_PROCESSED"
+msgstr "Your upload is currently waiting to be processed."
+
+msgid "YOUTUBE_TERMS_AGREEMENT_NOTE"
+msgstr "By submitting your videos to YouTube, you acknowledge that you agree to YouTube's Terms of Service and Community Guidelines."
+
+# We may need to limit uploads per day depending on our API quota usage rate
+msgid "YOUTUBE_UPLOAD_LIMIT"
+msgstr "You can currently upload %s videos to YouTube per day."
+
+msgid "YOUTUBE_UPLOAD_LIMIT_CURRENT"
+msgstr "You have uploaded %s videos so far today."
+
+msgid "YOUTUBE_UPLOAD_LIMIT_EXCEEDED"
+msgstr "You can't upload any more videos until tomorrow."
+
+msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_LIMIT_NOTE"
+msgstr "Sudomemo Plus members can upload %s videos per day."
+
+msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_UNLIMITED_NOTE"
+msgstr "Sudomemo Plus members can upload an unlimited number of videos each day."
+
+msgid "YOUTUBE_VISIBILITY"
+msgstr "Visibility"
+
+msgid "YOUTUBE_VISIBILITY_PRIVATE"
+msgstr "Private"
+
+msgid "YOUTUBE_VISIBILITY_PUBLIC"
+msgstr "Public"
+
+msgid "YOUTUBE_VISIBILITY_UNLISTED"
+msgstr "Unlisted"
