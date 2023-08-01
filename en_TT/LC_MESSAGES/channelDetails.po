@@ -4,46 +4,46 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CATEGORY"
-msgstr "Category"
+msgstr "kulupu"
 
 msgid "CHANNEL_ID"
-msgstr "Channel ID"
+msgstr "nanpa ma"
 
 msgid "CHANNEL_INFORMATION"
-msgstr "Channel Information"
+msgstr "sona ma"
 
 msgid "CHANNEL_LOCKED"
-msgstr "This channel is locked."
+msgstr "ma ni li open ala."
 
 msgid "CHANNEL_NAME"
-msgstr "Channel Name"
+msgstr "nimi ma"
 
 msgid "CHANNEL_NOT_SPECIFIED"
-msgstr "You must pick a channel."
+msgstr "o anu e kulupu."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Please confirm your email before posting."
+msgstr "sina wile pana la, o pona e nimi ilo sina."
 
 msgid "DUPLICATE_FLIPNOTE_FAILED"
-msgstr "This Flipnote has already been posted to Sudomemo. Try editing it again."
+msgstr "lipu tawa ni li sama lipu tawa lon ma Sutomemo. lipu o ante."
 
 msgid "FLIPNOTES"
-msgstr "Flipnotes"
+msgstr "lipu tawa"
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "The Flipnote data is corrupted. Try again in a moment."
+msgstr "lipu tawa ni li pakala. tenpo kama la, o lukin sin."
 
 msgid "FLIPNOTE_POST_FAILED"
-msgstr "Flipnote upload failed. Try again in a moment."
+msgstr "pana pi lipu tawa li pakala. tenpo kama la, o pana sin."
 
 msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
-msgstr "You've been restricted from using Sudomemo."
+msgstr "sina ken ala kepeken ma Sutomemo."
 
 msgid "LOGIN_REQUIRED_TO_POST"
-msgstr "You must be logged in to post a Flipnote."
+msgstr "sina wile pana la, o open kepeken nimi sina."
 
 msgid "NO_BLANK_FLIPNOTES_ALLOWED"
-msgstr "You may not post an empty Flipnote."
+msgstr "sina ken ala pana e lipu tawa walo."
 
 msgid "NO_POSTS_WHILE_MUTED"
-msgstr "You may not post while you are muted."
+msgstr "tenpo ni la, sina ken ala toki li ken ala pana."
