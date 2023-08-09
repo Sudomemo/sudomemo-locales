@@ -192,3 +192,9 @@ msgstr "Público"
 
 msgid "YOUTUBE_VISIBILITY_UNLISTED"
 msgstr "No enlistado"
+
+msgid "YOUTUBE_INTEGRATION_BANNED"
+msgstr "Your account and console have been restricted from using our YouTube integration services."
+
+msgid "YOUTUBE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
+msgstr "Please contact us on Discord or via email to %s."
