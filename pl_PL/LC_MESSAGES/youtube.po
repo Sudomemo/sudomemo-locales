@@ -114,11 +114,17 @@ msgstr "Aby to naprawic, odwiedz strone:"
 msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
 msgstr "Twoje konto YouTube nie jest zweryfikowane. Niektóre funkcje nie beda dzialac poprawnie, takie jak miniatury filmów czy Flipnoty trwajace wiecej niz 15 minut."
 
+msgid "YOUTUBE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
+msgstr "Please contact us on Discord or via email to %s."
+
 msgid "YOUTUBE_ESTIMATED_DURATION"
 msgstr "Przewidywany czas trwania filmu:"
 
 msgid "YOUTUBE_ID"
 msgstr "ID YouTube"
+
+msgid "YOUTUBE_INTEGRATION_BANNED"
+msgstr "Your account and console have been restricted from using our YouTube integration services."
 
 msgid "YOUTUBE_LOOP_COUNT"
 msgstr "Liczba odtworzeń"
@@ -192,9 +198,3 @@ msgstr "Publiczny"
 
 msgid "YOUTUBE_VISIBILITY_UNLISTED"
 msgstr "Niepubliczny"
-
-msgid "YOUTUBE_INTEGRATION_BANNED"
-msgstr "Your account and console have been restricted from using our YouTube integration services."
-
-msgid "YOUTUBE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
-msgstr "Please contact us on Discord or via email to %s."
