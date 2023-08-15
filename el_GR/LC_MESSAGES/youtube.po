@@ -114,11 +114,17 @@ msgstr "Για να το διορθωσετε, επισκευτειτε:"
 msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
 msgstr "Ο λογαριασμος σας στο YouTube δεν ειναι επιβεβαιωμενος. Καποιες δυνατοτητες δεν θα φανουν σωστα, οπως τα thumbnails και Flipnotes μεγαλυτερα των 15 λεπτων."
 
+msgid "YOUTUBE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
+msgstr "Please contact us on Discord or via email to %s."
+
 msgid "YOUTUBE_ESTIMATED_DURATION"
 msgstr "Πιθανο μηκος βιντεο:"
 
 msgid "YOUTUBE_ID"
 msgstr "YouTube ID"
+
+msgid "YOUTUBE_INTEGRATION_BANNED"
+msgstr "Your account and console have been restricted from using our YouTube integration services."
 
 msgid "YOUTUBE_LOOP_COUNT"
 msgstr "αριθμος plays"
