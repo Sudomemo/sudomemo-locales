@@ -762,12 +762,19 @@ msgstr "Vitrine à trophées"
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote sans titre de %s"
 
+msgid "UPLOAD_CONTACT_DISCORD_OR_EMAIL_FORMAT"
+msgstr "Please contact us on Discord or via email to %s."
+
 msgid "UPLOAD_OPTIONS"
 msgstr "Options d'envoi"
 
 # Upload status
 msgid "UPLOAD_STATUS"
 msgstr "Statut de l'envoi"
+
+# Upload to YouTube page
+msgid "UPLOAD_YOUTUBE_INTEGRATION_BANNED"
+msgstr "Your account has been restricted from using our YouTube integration services."
 
 msgid "USERS"
 msgstr "Utilisateurs"
@@ -1055,10 +1062,3 @@ msgstr "Visionner maintenant :"
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "Vous éditez cette Flipnote :"
-
-# Upload to YouTube page
-msgid "UPLOAD_YOUTUBE_INTEGRATION_BANNED"
-msgstr "Your account has been restricted from using our YouTube integration services."
-
-msgid "UPLOAD_CONTACT_DISCORD_OR_EMAIL_FORMAT"
-msgstr "Please contact us on Discord or via email to %s."
