@@ -762,12 +762,19 @@ msgstr "Vitrina de Trofeos"
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote sin título por %s"
 
+msgid "UPLOAD_CONTACT_DISCORD_OR_EMAIL_FORMAT"
+msgstr "Please contact us on Discord or via email to %s."
+
 msgid "UPLOAD_OPTIONS"
 msgstr "Opciones de Publicación"
 
 # Upload status
 msgid "UPLOAD_STATUS"
 msgstr "Estado de carga"
+
+# Upload to YouTube page
+msgid "UPLOAD_YOUTUBE_INTEGRATION_BANNED"
+msgstr "Your account has been restricted from using our YouTube integration services."
 
 msgid "USERS"
 msgstr "Users"
