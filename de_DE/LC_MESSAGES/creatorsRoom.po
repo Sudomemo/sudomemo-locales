@@ -249,3 +249,7 @@ msgstr "Wiedergabeverlauf"
 
 msgid "YOU_HAVE_BLOCKED_THIS_USER"
 msgstr "Du hast diesen Benutzer blockiert."
+# View interstitial button
+msgid "INTERSTITIAL_BUTTON"
+msgstr "Help keep Sudomemo alive!"
+

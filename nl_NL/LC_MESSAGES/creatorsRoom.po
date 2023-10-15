@@ -249,3 +249,7 @@ msgstr "Bekijk Geschiedenis"
 
 msgid "YOU_HAVE_BLOCKED_THIS_USER"
 msgstr "You have blocked this user."
+# View interstitial button
+msgid "INTERSTITIAL_BUTTON"
+msgstr "Help keep Sudomemo alive!"
+

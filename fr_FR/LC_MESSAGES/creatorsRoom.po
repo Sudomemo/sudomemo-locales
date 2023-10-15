@@ -249,3 +249,7 @@ msgstr "Historique de visionnage"
 
 msgid "YOU_HAVE_BLOCKED_THIS_USER"
 msgstr "Vous avez bloqué cet utilisateur."
+# View interstitial button
+msgid "INTERSTITIAL_BUTTON"
+msgstr "Help keep Sudomemo alive!"
+
