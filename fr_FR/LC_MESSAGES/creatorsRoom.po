@@ -115,6 +115,10 @@ msgstr "Paramètres de mail"
 msgid "HEADER_SUPPORT_TOKEN"
 msgstr "Jeton de support"
 
+# View interstitial button
+msgid "INTERSTITIAL_BUTTON"
+msgstr "Help keep Sudomemo alive!"
+
 msgid "INVENTORY"
 msgstr "Inventaire"
 
@@ -249,7 +253,3 @@ msgstr "Historique de visionnage"
 
 msgid "YOU_HAVE_BLOCKED_THIS_USER"
 msgstr "Vous avez bloqué cet utilisateur."
-# View interstitial button
-msgid "INTERSTITIAL_BUTTON"
-msgstr "Help keep Sudomemo alive!"
-
