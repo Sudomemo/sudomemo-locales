@@ -58,7 +58,7 @@ msgid "CURRENT_BIO"
 msgstr "Huidige Bio:"
 
 msgid "DRAW_REGULAR_TICKET"
-msgstr "Trek Prijskaart"
+msgstr "Trek Ticket"
 
 msgid "ENTER_BIO"
 msgstr "Vul Bio in..."
@@ -117,7 +117,7 @@ msgstr "Support Token"
 
 # View interstitial button
 msgid "INTERSTITIAL_BUTTON"
-msgstr "Help keep Sudomemo alive!"
+msgstr "Help Sudomemo in leven te houden!"
 
 msgid "INVENTORY"
 msgstr "Inventaris"
@@ -216,10 +216,10 @@ msgid "THEME_SUCCESSFULLY_SET"
 msgstr "Thema succesvol veranderd!"
 
 msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
-msgstr "Je kan nog een prijskaart trekken in: %s uur %s minuut/minuten."
+msgstr "Je kan nog een ticket trekken in: %s uur %s minuut/minuten."
 
 msgid "TICKET_SECTION"
-msgstr "Prijskaarten"
+msgstr "Tickets"
 
 msgid "UNBLOCK"
 msgstr "Deblokkeer"
@@ -252,4 +252,4 @@ msgid "WATCH_HISTORY"
 msgstr "Bekijk Geschiedenis"
 
 msgid "YOU_HAVE_BLOCKED_THIS_USER"
-msgstr "You have blocked this user."
+msgstr "Je hebt deze gebruiker geblokkeerd."

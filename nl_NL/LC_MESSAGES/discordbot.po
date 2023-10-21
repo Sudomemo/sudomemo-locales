@@ -42,7 +42,7 @@ msgid "MUSICMATCH_MOVIE_COUNT_SINGULAR"
 msgstr "%d Flipnote"
 
 msgid "MUSICMATCH_NO_RESULTS"
-msgstr "Ik kon door niets voor vinden, sorry!"
+msgstr "Ik kon daar niets voor vinden, sorry!"
 
 msgid "MUSICMATCH_RESULT_HEADER_GT_MAX"
 msgstr "Top %d resultaten:"
