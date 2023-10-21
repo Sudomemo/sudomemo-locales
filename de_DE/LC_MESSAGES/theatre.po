@@ -763,7 +763,7 @@ msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "Unbenanntes Flipnote von %s"
 
 msgid "UPLOAD_CONTACT_DISCORD_OR_EMAIL_FORMAT"
-msgstr "Please contact us on Discord or via email to %s."
+msgstr "Bitte kontaktiere uns auf Discord oder per E-Mail an %s."
 
 msgid "UPLOAD_OPTIONS"
 msgstr "Hochlade-Optionen"
@@ -774,7 +774,7 @@ msgstr "Hochlade-Status"
 
 # Upload to YouTube page
 msgid "UPLOAD_YOUTUBE_INTEGRATION_BANNED"
-msgstr "Your account has been restricted from using our YouTube integration services."
+msgstr "Die Nutzung unserer YouTube-Integrationsdienste durch dein Konto wurde eingeschränkt."
 
 msgid "USERS"
 msgstr "Nutzer"
