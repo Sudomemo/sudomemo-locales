@@ -38,6 +38,9 @@ msgstr "Participez au programme de Test Démo de mise à jour de Sudomemo en 201
 msgid "TROPHY_DESC_early_adopter"
 msgstr "Rejoignez Sudomemo pendant notre premier mois de service"
 
+msgid "TROPHY_DESC_fall_2023_ffc_winner"
+msgstr "One of the winners of the Fall 2023 Sudomemo Flipnote Fight Competition!"
+
 msgid "TROPHY_DESC_featured_artist"
 msgstr "Soyez reconnu en tant qu'artiste vedette de Sudomemo"
 
@@ -135,6 +138,9 @@ msgstr "Testeur Démo"
 msgid "TROPHY_NAME_early_adopter"
 msgstr "Adopteur de la première heure"
 
+msgid "TROPHY_NAME_fall_2023_ffc_winner"
+msgstr "Fall 2023 Sudomemo Flipnote Fight Competition Winner"
+
 msgid "TROPHY_NAME_featured_artist"
 msgstr "Artiste en vedette"
 
@@ -209,9 +215,3 @@ msgstr "Vainqueur du Weekly Topic"
 
 msgid "TROPHY_NAME_welcoming_champion"
 msgstr "Champion de l'Accueil"
-msgid "TROPHY_DESC_fall_2023_ffc_winner"
-msgstr "One of the winners of the Fall 2023 Sudomemo Flipnote Fight Competition!"
-
-msgid "TROPHY_NAME_fall_2023_ffc_winner"
-msgstr "Fall 2023 Sudomemo Flipnote Fight Competition Winner"
-
