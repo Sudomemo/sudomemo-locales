@@ -83,6 +83,9 @@ msgstr "Parabéns, venceste o Tópico Semanal de Junho 2020 Sudomemo x Colors!"
 msgid "TICKET_DESC_demo_ticket"
 msgstr "Obviamente, isto é um bilhete de amostra."
 
+msgid "TICKET_DESC_fall_2023_ffc_winner_ticket"
+msgstr "Congratulations on your winning entry to the Fall 2023 Sudomemo Flipnote Fight Competition!"
+
 msgid "TICKET_DESC_featured_artist_ticket"
 msgstr "Nós te damos os nossos parabéns por tornares-te um Artista Destacado no Sudomemo!"
 
@@ -193,6 +196,9 @@ msgstr "Bilhete de Promoção do Colors!"
 msgid "TICKET_NAME_demo_ticket"
 msgstr "Bilhete de Amostra"
 
+msgid "TICKET_NAME_fall_2023_ffc_winner_ticket"
+msgstr "Fall 2023 Sudomemo F.F.C. Winner Ticket"
+
 msgid "TICKET_NAME_featured_artist_ticket"
 msgstr "Bilhete de Artista em Destaque"
 
@@ -294,9 +300,3 @@ msgstr "Usar"
 # Ticket delivery
 msgid "YOU_GOT_A_TICKET"
 msgstr "Recebeste um bilhete!"
-msgid "TICKET_DESC_fall_2023_ffc_winner_ticket"
-msgstr "Congratulations on your winning entry to the Fall 2023 Sudomemo Flipnote Fight Competition!"
-
-msgid "TICKET_NAME_fall_2023_ffc_winner_ticket"
-msgstr "Fall 2023 Sudomemo F.F.C. Winner Ticket"
-

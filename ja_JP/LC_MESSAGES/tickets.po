@@ -83,6 +83,9 @@ msgstr "スドメモ x Colorsを獲得しました！※2020年6月の週刊ト�
 msgid "TICKET_DESC_demo_ticket"
 msgstr "デモチケットの説明です。"
 
+msgid "TICKET_DESC_fall_2023_ffc_winner_ticket"
+msgstr "Congratulations on your winning entry to the Fall 2023 Sudomemo Flipnote Fight Competition!"
+
 msgid "TICKET_DESC_featured_artist_ticket"
 msgstr "スドメモで注目された作者になったことを心からお祝いします！"
 
@@ -193,6 +196,9 @@ msgstr "Colors!プロモーションチケット"
 msgid "TICKET_NAME_demo_ticket"
 msgstr "デモチケット"
 
+msgid "TICKET_NAME_fall_2023_ffc_winner_ticket"
+msgstr "Fall 2023 Sudomemo F.F.C. Winner Ticket"
+
 msgid "TICKET_NAME_featured_artist_ticket"
 msgstr "注目の作者のチケット"
 
@@ -294,9 +300,3 @@ msgstr "使う"
 # Ticket delivery
 msgid "YOU_GOT_A_TICKET"
 msgstr "チケットを手に入れました!"
-msgid "TICKET_DESC_fall_2023_ffc_winner_ticket"
-msgstr "Congratulations on your winning entry to the Fall 2023 Sudomemo Flipnote Fight Competition!"
-
-msgid "TICKET_NAME_fall_2023_ffc_winner_ticket"
-msgstr "Fall 2023 Sudomemo F.F.C. Winner Ticket"
-
