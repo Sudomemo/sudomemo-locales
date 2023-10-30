@@ -338,7 +338,7 @@ msgid "FOLLOW_BACK"
 msgstr "Volg Terug"
 
 msgid "FORGOT_YOUR_PASSWORD"
-msgstr "Forgot your password?"
+msgstr "Wachtwoord vergeten?"
 
 # # Right sidebar
 # This is a hard one, as the only translation possible for this will be the same as "Featured Flipnotes". Luckily, over the last couple of years, English is used more and more in combination with Dutch, so leaving this in English will be the best way to clarify what exactly is meant.
@@ -625,7 +625,7 @@ msgid "RELEASED"
 msgstr "Publicatie"
 
 msgid "RESET_PASSWORD_BY_FSID"
-msgstr "You can still reset your password with your Flipnote Studio ID! Simply send a quick message to Sudomemo Support and we'll get that sent out to you."
+msgstr "Je kan nog steeds een wachtwoord reset doen met je Flipnote Studio ID! Zend een berichtje naar Sudomemo Support en we sturen het naar je door."
 
 msgid "ROOT_FLIPNOTE"
 msgstr "Root Flipnote"
@@ -756,7 +756,7 @@ msgid "TERMS_OF_USE"
 msgstr "Gebruiksvoorwaarden"
 
 msgid "THIS_FLIPNOTE_IS_SPINOFF_OF"
-msgstr "This Flipnote is a spin-off of"
+msgstr "Deze Flipnote is een spin-off van"
 
 # Sudomemo Shop
 msgid "TICKETS"

@@ -40,13 +40,13 @@ msgid "SEARCH_MUSICMATCH"
 msgstr "MusicMatch"
 
 msgid "SEARCH_MUSIC_BY_ARTIST"
-msgstr "By Artist"
+msgstr "Door Artiest"
 
 msgid "SEARCH_MUSIC_BY_GENRE"
-msgstr "By Genre"
+msgstr "Door Genre"
 
 msgid "SEARCH_MUSIC_BY_SONG"
-msgstr "By Song"
+msgstr "Door Nummer"
 
 msgid "SEARCH_SHORT_KEY"
 msgstr "Flipnote-ID"
