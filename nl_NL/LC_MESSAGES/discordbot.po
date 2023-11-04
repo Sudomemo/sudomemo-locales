@@ -20,16 +20,16 @@ msgid "DISCORD_LINKING_GET_STARTED"
 msgstr "Bezoek alstublief %s om te starten!"
 
 msgid "DISCORD_LINKING_REQUIRED"
-msgstr "Je moet je Sudomemo account linken om dat te doen."
+msgstr "Je moet jouw Sudomemo account koppelen om dat te doen."
 
 msgid "DISCORD_LINKING_SUCCESS"
-msgstr "Je account werd succesvol gelinkt!"
+msgstr "Je account is succesvol gekoppeld!"
 
 msgid "DISCORD_LINKING_UNLINKED"
-msgstr "De link tussen je Discord en Sudomemo account werd verwijdert."
+msgstr "De koppeling tussen je Discord en Sudomemo account is verwijderd."
 
 msgid "DISCORD_LINKING_UNLINK_NOT_LINKED_YET"
-msgstr "Je Discord account is niet gelinkt aan een Sudomemo account."
+msgstr "Je Discord account is niet gekoppeld aan een Sudomemo account."
 
 # "Invalid mode - must be one of: song, artist, genre"
 msgid "MUSICMATCH_INVALID_MODE"
@@ -58,7 +58,7 @@ msgid "PATRON_TICKET_SUCCESS"
 msgstr "Je hebt een %s Sudomemo Patron Ticket ontvangen!"
 
 msgid "REJECT_ACCOUNT_ALREADY_LINKED"
-msgstr "Je hebt je Sudomemo account al gelinkt!"
+msgstr "Je hebt je Sudomemo account al gekoppeld!"
 
 msgid "REJECT_BOOST_TICKET_COOLDOWN"
 msgstr "Je hebt deze maand al een Nitro Booster ticket gegeven! (%s)"
@@ -73,10 +73,10 @@ msgid "REJECT_INVALID_FSID"
 msgstr "Dat is geen geldig Flipnote Studio ID!"
 
 msgid "REJECT_INVALID_LINK_TOKEN"
-msgstr "Dat is niet een geldige link token! Bezoek alstublief %s om te starten."
+msgstr "Dat is niet een geldige koppelingstoken! Bezoek alstublief %s om te starten."
 
 msgid "REJECT_LINK_TOKEN_ENOENT"
-msgstr "De link token die je voorzien hebt is verlopen of bestaat niet."
+msgstr "De koppelingstoken die je voorzien hebt is verlopen of bestaat niet."
 
 msgid "REJECT_NOT_NITRO_BOOSTER"
 msgstr "Voor dit moet je een Sudomemo Nitro Booster zijn!"
@@ -90,9 +90,9 @@ msgstr "Je hebt deze maand al je Patron ticket geclaimd!"
 msgid "REJECT_USER_ENOENT"
 msgstr "Ik kon die gebruiker niet vinden op Sudomemo."
 
-# displayed as "💡 Link your Sudomemo account with `.sudo link`"
+# displayed as "💡 Koppel your Sudomemo account with `.sudo link`"
 msgid "UNLINKED_COMMAND_TIP"
-msgstr "Link je Sudomemo account met"
+msgstr "Koppel je Sudomemo account met"
 
 # "Usage: example_command <fsid>"
 msgid "USAGE"
@@ -112,8 +112,8 @@ msgstr ""
 
 msgid "USAGE_link"
 msgstr ""
-"   link\n"
-"      Link je Sudomemo account met Discord"
+"   koppel\n"
+"      Koppel je Sudomemo account met Discord"
 
 # ONLY TRANSLATE "Search Sudomemo MusicMatch" and "What you're searching for"
 msgid "USAGE_musicmatch"
