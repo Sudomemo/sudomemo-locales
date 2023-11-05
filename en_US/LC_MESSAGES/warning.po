@@ -3,11 +3,11 @@ msgstr ""
 "Language: en_US\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-msgid "WARNING_NOTICE_TITLE"
-msgstr "Attention!"
-
 msgid "WARNING_NOTICE_BODY"
 msgstr "You have an important message from the Sudomemo staff team."
+
+msgid "WARNING_NOTICE_TITLE"
+msgstr "Attention!"
 
 msgid "WARNING_NOTICE_VIEW_BUTTON"
 msgstr "Tap here to view"
