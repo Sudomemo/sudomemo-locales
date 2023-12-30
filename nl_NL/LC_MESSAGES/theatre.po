@@ -41,7 +41,7 @@ msgid "ARCHIVE_FLIPNOTE_DESC"
 msgstr "Deze Flipnote werd origineel gepost op Flipnote Hatena."
 
 msgid "ARCHIVE_PROFILE"
-msgstr "Archief Profile"
+msgstr "Archief Profiel"
 
 msgid "ARCHIVE_PROFILE_DESC"
 msgstr "Dit is een archief van een Flipnote Hatena profiel."
@@ -68,16 +68,17 @@ msgid "BROWSE_SONG_YOU_ARE_BROWSING_SONG"
 msgstr "Bekijk Flipnotes met het nummer %s door %s"
 
 msgid "BTN_GET_STARTED"
-msgstr "Aan De Slag"
+msgstr "Aan de slag"
 
 msgid "BTN_GO_TO_SETTINGS"
-msgstr "Ga Naar Instellingen"
+msgstr "Ga naar instellingen"
 
 msgid "BTN_JOIN_DISCORD"
-msgstr "Join Discord"
+msgstr "Deelnemen aan Discord"
 
+# Better wording for signing in.
 msgid "BTN_SIGN_IN_WITH_GOOGLE"
-msgstr "Meld aan met Google"
+msgstr "Inloggen met Google"
 
 msgid "BTN_STARTING_UPLOAD"
 msgstr "Aan het starten..."
@@ -133,10 +134,10 @@ msgid "CHANNEL_PERM_OPEN"
 msgstr "Open"
 
 msgid "COMMENTS"
-msgstr "Commentaar"
+msgstr "Opmerkingen"
 
 msgid "CONTINUE"
-msgstr "Continue"
+msgstr "Doorgaan"
 
 msgid "COULD_NOT_SAVE_DETAILS"
 msgstr "Kon details niet opslaan"
@@ -191,7 +192,7 @@ msgid "DISCORD"
 msgstr "Discord"
 
 msgid "DISCORD_HOW_TO_LINK"
-msgstr "Hoe Linken"
+msgstr "Hoe te koppelen"
 
 # Connected since December 27th, 2020
 msgid "DISCORD_LINKED_ON_DATE"
@@ -252,7 +253,7 @@ msgstr "Geluidsverbetering"
 
 # Flipnote smoothing
 msgid "EDIT_PAGE_PLUS_SMOOTHING"
-msgstr "Vergladding"
+msgstr "Verzachting"
 
 msgid "EDIT_PAGE_SUDOMEMO_PLUS_REQUIRED"
 msgstr "Je hebt Sudomemo Plus nodig om deze functionaliteit te gebruiken."
@@ -305,7 +306,7 @@ msgid "FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote door %s"
 
 msgid "FLIPNOTE_HATENA_PROFILE"
-msgstr "Flipnote Hatena Profile"
+msgstr "Flipnote Hatena Profiel"
 
 msgid "FLIPNOTE_ID"
 msgstr "Flipnote-ID"
@@ -383,7 +384,7 @@ msgstr "Populaire Flipnotes"
 
 # Do not translate ".sudo unlink"
 msgid "HOW_TO_UNLINK_DISCORD"
-msgstr "Om je Discord account te unlinken, typ je deze command in chat: .sudo unlink"
+msgstr "Om je Discord account te ontkoppelen, typ je dit commando in de chat: .sudo unlink"
 
 msgid "INFO"
 msgstr "Info"
@@ -394,8 +395,10 @@ msgstr "Nieuwste"
 msgid "LEARN_MORE"
 msgstr "Leer meer"
 
+# More human translation in my opinion.
+# Also 'link/linked/linking' is too English for some to understand.
 msgid "LINK_REQUIRED_BEFORE_UPLOAD"
-msgstr "Je moet je Youtube kanaal linken voor je je Flipnote kan uploaden."
+msgstr "Je moet je Youtube kanaal koppelen voordat jij je Flipnote kunt uploaden."
 
 # # Ticket types..
 # Login Page
@@ -532,7 +535,7 @@ msgid "PASSWORD_RESET_SENT"
 msgstr "Een wachtwoord reset werd verstuurd naar het email adres op bestand."
 
 msgid "PASS_CHANGE_COMPLETE"
-msgstr "Je wachtwoord werd geüpdate"
+msgstr "Je wachtwoord is geüpdatet"
 
 msgid "PASS_CHANGE_CONFIRM_PASSWORD"
 msgstr "Bevestig Wachtwoord"
@@ -565,7 +568,7 @@ msgid "PREV"
 msgstr "Prev"
 
 msgid "PRIVACY_POLICY"
-msgstr "Privacy Policy"
+msgstr "Privacybeleid"
 
 msgid "PROFILE_ABOUT_USERNAME"
 msgstr "Over %s"
@@ -662,10 +665,10 @@ msgid "SEARCH_SUDOMEMO"
 msgstr "Zoek door Sudomemo"
 
 msgid "SEE_MORE"
-msgstr "See more"
+msgstr "Bekijk meer"
 
 msgid "SETTINGS"
-msgstr "Settings"
+msgstr "Instellingen"
 
 msgid "SHARE"
 msgstr "Deel"
@@ -747,7 +750,7 @@ msgid "SUDOMEMO_SHOP_META_DESCRIPTION"
 msgstr "Sudomemo Shop: Sudomemo merch, tickets voor Plus en Sterren, en andere leuke dingen!"
 
 msgid "SUDOMEMO_THEATRE"
-msgstr "Sudomemo Theatre"
+msgstr "Sudomemo Theater"
 
 msgid "SUDOMEMO_USER"
 msgstr "Sudomemo User"
@@ -776,18 +779,19 @@ msgid "TO_ADD_A_COMMENT"
 msgstr "om commentaar te plaatsen"
 
 # The funny thing is, that this string will probably never even be showed in Dutch xD
+# ^ True that x3, but it should be translated nonetheless right?
 msgid "TROPHY_CASE"
-msgstr "Trophy Case"
+msgstr "Trofeeënkast"
 
 # This is shown to logged-in users on their own Flipnotes without titles
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
-msgstr "Flipnote Zonder Titel door %s"
+msgstr "Flipnote zonder titel door %s"
 
 msgid "UPLOAD_CONTACT_DISCORD_OR_EMAIL_FORMAT"
-msgstr "Please contact us on Discord or via email to %s."
+msgstr "Neem contact met ons op via Discord of via e-mail naar %s."
 
 msgid "UPLOAD_OPTIONS"
-msgstr "Upload Options"
+msgstr "Upload Opties"
 
 # Upload status
 msgid "UPLOAD_STATUS"
@@ -795,10 +799,10 @@ msgstr "Upload Status"
 
 # Upload to YouTube page
 msgid "UPLOAD_YOUTUBE_INTEGRATION_BANNED"
-msgstr "Your account has been restricted from using our YouTube integration services."
+msgstr "Jouw account is verbannen van het gebruik van onze YouTube-integratieservices."
 
 msgid "USERS"
-msgstr "Users"
+msgstr "Gebruikers"
 
 msgid "USERS_FLIPNOTE_FROM_FLIPNOTE_HATENA"
 msgstr "%s's Flipnote van Flipnote Hatena"
@@ -819,7 +823,7 @@ msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
 msgstr "Configureer je gelinkte Youtube kanaal en standaard Flipnote upload instellingen."
 
 msgid "VERIFIED_USER"
-msgstr "Geverifiëerde User"
+msgstr "Geverifiëerde Gebruiker"
 
 msgid "VIEWPAGE_ADD_MODERATOR_COMMENT"
 msgstr "Voeg Moderatorreactie Toe"
@@ -867,7 +871,7 @@ msgid "VIEWS"
 msgstr "Weergaven"
 
 msgid "VIEW_ON_SUDOMEMO"
-msgstr "View on Sudomemo"
+msgstr "Bekijk op Sudomemo"
 
 msgid "WATCH_HISTORY"
 msgstr "Bekijk Geschiedenis"
@@ -881,6 +885,7 @@ msgstr "Goedemiddag"
 msgid "WELCOME_BOX_DEFAULT_GREETING"
 msgstr "Hallo"
 
+# Controversial translation as "Goedenavond" with "-n" is not used as often. But it looks better than "goeieavond/goeienavond/goedeavond".
 msgid "WELCOME_BOX_EVENING_GREETING"
 msgstr "Goedenavond"
 
@@ -901,9 +906,10 @@ msgstr "Goedemorgen"
 msgid "WELCOME_BOX_OPEN_SUDOMIN"
 msgstr "Open Sudomin"
 
-# ## Another one of our taglines 
+# ## Another one of our taglines
+# Although it's a tagline, I can imagine younger audiences who do not speak English will get confused by this.
 msgid "WELCOME_BOX_SHARE_CREATIVITY_TAGLINE"
-msgstr "Share your creativity with the world!"
+msgstr "Deel je creativiteit met de wereld!"
 
 # ## "Happy Flipnoting!" is one of our brand catchphrases. "Flipnoting" refers to the act of creating or watching Flipnotes.
 # ## Please don't translate "Flipnoting", except to Japanese where you could probably modify the word うごメモ.
@@ -920,7 +926,7 @@ msgid "WELCOME_BOX_YOU_ARE_ADMIN"
 msgstr "Je bent ingelogd als een Administrator."
 
 msgid "X_USERS"
-msgstr "%d user(s)"
+msgstr "%d gebruiker(s)"
 
 msgid "YOUTUBE"
 msgstr "YouTube"
@@ -945,7 +951,7 @@ msgid "YOUTUBE_CHECK_FEATURES_THUMB"
 msgstr "Je Youtube kanaal is misschien niet volledig geverifiëerd. Voor meer informatie, kan je de status van Custom Thumnails hier bekijken:"
 
 msgid "YOUTUBE_CONNECT_INTRO"
-msgstr "Door je Youtube kanaal linken kan je Flipnotes direct naar Youtube delen!"
+msgstr "Door je Youtube kanaal te koppelen, kan je Flipnotes direct op Youtube delen!"
 
 # YouTube metadata
 # Extra description text: will be placed at the end of your video descriptions. 
@@ -956,16 +962,16 @@ msgid "YOUTUBE_ESTIMATED_DURATION"
 msgstr "Geschatte video duratie:"
 
 msgid "YOUTUBE_EXTRA_DESCRIPTION_TEXT"
-msgstr "Extra Beschrijving Text"
+msgstr "Extra Beschrijving Tekst"
 
 msgid "YOUTUBE_EXTRA_DESCRIPTION_TEXT_EXPLANATION"
 msgstr "Deze tekst zal getoond worden wanneer kijkers op 'Toon meer' klikken in je video beschrijving."
 
 msgid "YOUTUBE_LINK_PROMPT"
-msgstr "Link your YouTube kanaal om je Flipnotes naar YouTube up te loaden."
+msgstr "Koppel je YouTube kanaal om je Flipnotes naar YouTube te uploaden."
 
 msgid "YOUTUBE_LOOP_COUNT"
-msgstr "Aantal plays"
+msgstr "Aantal keer herhaald"
 
 msgid "YOUTUBE_LOOP_COUNT_EXPLANATION"
 msgstr "Aantal keer dat een Flipnote zal herhalen. Selecteer 1 om het maar 1 keer af te spelen."
@@ -989,23 +995,25 @@ msgstr "Je upload wordt verwerkt."
 msgid "YOUTUBE_STATUS_COMPLETE"
 msgstr "Je upload is voltooid!"
 
+# "authenticatie probleem" is not needed when you can use the word itself "authenticatieprobleem".
 msgid "YOUTUBE_STATUS_FAILED_AUTH"
-msgstr "De upload is gefaald door een authenticatie probleem."
+msgstr "De upload is gefaald door een authenticatieprobleem."
 
 msgid "YOUTUBE_STATUS_FAILED_CLIENT_ERROR"
-msgstr "De upload is gefaald door een client error."
+msgstr "De upload is gefaald door een client foutmelding."
 
 msgid "YOUTUBE_STATUS_FAILED_GONE"
-msgstr "De Flipnote verdween voor de upload kon voltooid worden."
+msgstr "De Flipnote verdween voor de upload voltooid kon worden."
 
 msgid "YOUTUBE_STATUS_FAILED_SERVICE_ERROR"
-msgstr "De upload faalde door een service error."
+msgstr "De upload faalde door een service foutmelding."
 
 msgid "YOUTUBE_STATUS_FAILED_THUMB"
 msgstr "Je video werd succesvol geüpload, maar we hadden een probleem met de thumbnail."
 
+# More human / casual.
 msgid "YOUTUBE_STATUS_FAILED_UNEXPECTED_ERROR"
-msgstr "Een onverwachte error gebeurde tijdens de upload."
+msgstr "Er is een onverwachte fout opgedoken tijdens het uploaden."
 
 msgid "YOUTUBE_STATUS_FAILED_UNKNOWN"
 msgstr "De upload is gefaald door een onbekende reden."
@@ -1025,26 +1033,29 @@ msgstr "Verwerken"
 msgid "YOUTUBE_STATUS_WAITING_TO_BE_PROCESSED"
 msgstr "Je upload is aan het wachten om verwerkt te worden."
 
+# Although both are used, I think "Labels" is a better fit than "Tags".
 msgid "YOUTUBE_TAGS"
-msgstr "Tags"
+msgstr "Labels"
 
 msgid "YOUTUBE_TAGS_EXPLANATION"
-msgstr "Vul een komma na elke tag in"
+msgstr "Vul een komma na elke label in"
 
 msgid "YOUTUBE_TAGS_HINT"
-msgstr "Tags, gescheiden door een komma."
+msgstr "Labels, gescheiden door een komma."
 
 msgid "YOUTUBE_TERMS_AGREEMENT_NOTE"
 msgstr "Door je video's in te dienen bij YouTube, erken je dat je akkoord gaat met de Servicevoorwaarden en Communityrichtlijnen van YouTube."
 
 msgid "YOUTUBE_UNLINK_ACCOUNT"
-msgstr "Unlink account"
+msgstr "Ontkoppel account"
 
+# Too many je's x3.
 msgid "YOUTUBE_UNLINK_ACCOUNT_CONFIRM"
-msgstr "Ben je zeker dat je de link met je Youtube kanaal wilt verwijderen."
+msgstr "Weet je zeker dat je de koppeling met jouw Youtube kanaal wilt verwijderen."
 
+# Dutch is a germanic language, we have words for everything!
 msgid "YOUTUBE_UPLOAD_HISTORY"
-msgstr "Upload Geschiedenis"
+msgstr "Uploadgeschiedenis"
 
 msgid "YOUTUBE_UPLOAD_HISTORY_CLICK_ICON_TO_TRACK"
 msgstr "Klik het status icoon aan de linker kant om je video's live Upload Tracker te bezoeken!"

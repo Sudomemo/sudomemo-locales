@@ -4,101 +4,101 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "AUDIO_ENHANCEMENT"
-msgstr "Audio Enhancement"
+msgstr "Audioverbetering"
 
 msgid "BTN_START_UPLOAD"
 msgstr "Start Upload"
 
 msgid "BTN_UPLOAD_AGAIN"
-msgstr "Upload Again"
+msgstr "Opnieuw uploaden"
 
 # ...do so, visit https://flipnot.es/ABC123/yt
 msgid "CHANGE_OPTIONS_ON_THEATRE"
-msgstr "You can change these options before upload. To do so, visit:"
+msgstr "Je kunt deze opties wijzigen voordat je uploadt. Ga hiervoor naar:"
 
 # If the user's already uploaded it...
 msgid "FLIPNOTE_ALREADY_UPLOADED"
-msgstr "You've already uploaded this Flipnote to YouTube."
+msgstr "Je hebt deze Flipnote al naar YouTube geüpload."
 
 msgid "FLIPNOTE_SMOOTHING"
-msgstr "Flipnote Smoothing"
+msgstr "Flipnote-verzachting"
 
 msgid "HEADER_CONFIRM_OPTIONS"
-msgstr "Confirm Options"
+msgstr "Opties bevestigen"
 
 msgid "HEADER_UPLOAD_TO_YOUTUBE"
-msgstr "Upload to YouTube"
+msgstr "Uploaden naar YouTubee"
 
 # A URL is displayed after this:
 msgid "HOW_TO_LINK_FROM_THEATRE"
-msgstr "To link your YouTube channel, visit this page:"
+msgstr "Ga naar deze pagina om je YouTube-kanaal te koppelen:"
 
 msgid "HOW_TO_REFRESH_FROM_THEATRE"
-msgstr "To update your channel, visit this page:"
+msgstr "Ga naar deze pagina om je kanaal bij te werken:"
 
 msgid "LINK_REQUIRED_BEFORE_UPLOAD"
-msgstr "You'll need to link your YouTube channel before you can upload your Flipnote."
+msgstr "Je moet je YouTube-kanaal koppelen voordat jij je Flipnote kunt uploaden."
 
 msgid "NONE"
-msgstr "None"
+msgstr "Geen"
 
 msgid "OFF"
-msgstr "Off"
+msgstr "Uit"
 
 msgid "ON"
-msgstr "On"
+msgstr "Aan"
 
 # Extra features provided by Sudomemo Plus (see flipnoteOptions.po)
 msgid "PLUS_FEATURES"
-msgstr "Plus Features"
+msgstr "Plusfuncties"
 
 msgid "PLUS_FEATURES_NOTE"
-msgstr "Change these options from your Flipnote details page."
+msgstr "Wijzig deze opties vanaf uw Flipnote-detailpagina."
 
 # Position in queue: 4
 msgid "POSITION_IN_QUEUE"
-msgstr "Position in queue: %d"
+msgstr "Plaats in wachtrij: %d"
 
 msgid "PREVIEW_DESC"
-msgstr "Description"
+msgstr "Beschrijving"
 
 msgid "PREVIEW_EXTRA_DESC"
-msgstr "Extra Description"
+msgstr "Extra Beschrijving"
 
 msgid "PREVIEW_EXTRA_DESC_EXPLANATION"
-msgstr "This text will display when viewers click on 'Show more' in your video's description."
+msgstr "Deze tekst wordt weergegeven wanneer kijkers op 'Meer weergeven' klikken in de beschrijving van je video."
 
 # Preview upload details before submitting
 msgid "PREVIEW_TITLE"
-msgstr "Title"
+msgstr "Titel"
 
 msgid "RECONNECT_NEEDED"
-msgstr "The connection to your YouTube channel is out of date."
+msgstr "De verbinding met je YouTube-kanaal is verouderd."
 
 msgid "REVIEW_DETAILS_BEFORE_UPLOAD"
-msgstr "Please review these options before starting your upload."
+msgstr "Bekijk deze opties voordat je met uploaden begint."
 
 # ...please visit: https://flipnot.es/ytsetup
 msgid "SET_DEFAULTS_ON_THEATRE"
-msgstr "To change your default upload options, please visit:"
+msgstr "Om je standaard uploadopties te wijzigen, ga alsjeblieft naar:"
 
 msgid "STATUS"
 msgstr "Status"
 
 msgid "SUBMIT"
-msgstr "Submit"
+msgstr "Indienen"
 
 msgid "TAGS"
-msgstr "Tags"
+msgstr "Labels"
 
 msgid "THEATRE_STATUS_TRACKER"
-msgstr "Watch your live Upload Tracker here:"
+msgstr "Bekijk hier je live uploadtracker:"
 
 msgid "TITLE_DESC_ADD_FIRST"
-msgstr "Please go back and add these before continuing."
+msgstr "Ga terug en voeg deze toe voordat je verdergaat."
 
 msgid "TITLE_DESC_MISSING"
-msgstr "Your Flipnote needs to have a title and description before you can upload it."
+msgstr "Je Flipnote moet een titel en beschrijving hebben voordat je deze kunt uploaden."
 
 # Upload status
 msgid "UPLOAD_STATUS"
@@ -109,92 +109,92 @@ msgstr "YouTube"
 
 # To fix this, visit: https://flipnot.es/ytsetup
 msgid "YOUTUBE_ACCOUNT_VERIFICATION_FIX"
-msgstr "To fix this, visit:"
+msgstr "Om dit op te lossen, ga naar:"
 
 msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
-msgstr "Your YouTube account is unverified. Certain features will not function correctly, such as video thumbnails and Flipnotes longer than 15 minutes."
+msgstr "Je YouTube-account is niet geverifieerd. Bepaalde functies zullen niet correct werken, zoals video-thumbnails en flipnotes die langer zijn dan 15 minuten."
 
 msgid "YOUTUBE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
-msgstr "Please contact us on Discord or via email to %s."
+msgstr "Neem contact met ons op via Discord of via e-mail naar %s."
 
 msgid "YOUTUBE_ESTIMATED_DURATION"
-msgstr "Estimated video duration:"
+msgstr "Geschatte videoduur:"
 
 msgid "YOUTUBE_ID"
 msgstr "YouTube ID"
 
 msgid "YOUTUBE_INTEGRATION_BANNED"
-msgstr "Your account and console have been restricted from using our YouTube integration services."
+msgstr "Het gebruik van onze YouTube-integratieservices is voor je account en console beperkt."
 
 msgid "YOUTUBE_LOOP_COUNT"
-msgstr "Number of plays"
+msgstr "Aantal keren gespeeld"
 
 msgid "YOUTUBE_LOOP_COUNT_EXPLANATION"
-msgstr "Number of times a looped Flipnote will repeat. If 1, the Flipnote will only play once."
+msgstr "Aantal keren dat een herhalende Flipnote wordt gespeeld. Indien 1, wordt de Flipnote slechts één keer afgespeeld."
 
 msgid "YOUTUBE_PENDING_UPLOAD"
-msgstr "Your Flipnote is currently waiting to be uploaded. Check back in a few minutes."
+msgstr "Je Flipnote wacht momenteel om te worden geüpload. Kom over een paar minuten terug."
 
 msgid "YOUTUBE_STATUS_BEING_PROCESSED"
-msgstr "Your upload is currently being processed."
+msgstr "Je upload wordt momenteel verwerkt."
 
 msgid "YOUTUBE_STATUS_COMPLETE"
-msgstr "Your upload is complete!"
+msgstr "Je upload is voltooid!"
 
 msgid "YOUTUBE_STATUS_ERROR"
-msgstr "Error"
+msgstr "Foutmelding"
 
 msgid "YOUTUBE_STATUS_FAILED"
-msgstr "An issue occured. For more details, visit https://flipnot.es/ytsetup"
+msgstr "Er is een probleem opgetreden. Ga voor meer informatie naar https://flipnot.es/ytsetup"
 
 msgid "YOUTUBE_STATUS_NEW"
-msgstr "New"
+msgstr "Nieuw"
 
 msgid "YOUTUBE_STATUS_PAUSED"
-msgstr "Paused"
+msgstr "Gepauzeerd"
 
 msgid "YOUTUBE_STATUS_PAUSED_GLOBAL_QUOTA"
-msgstr "Our global usage quota has been exceeded, so the upload may be significantly delayed."
+msgstr "Onze globale gebruiksquotum is overschreden, dus het uploaden kan aanzienlijk worden vertraagd."
 
 msgid "YOUTUBE_STATUS_PROCESSING"
-msgstr "Processing"
+msgstr "Verwerken"
 
 msgid "YOUTUBE_STATUS_SUCCESS"
-msgstr "Done!"
+msgstr "Klaar!"
 
 msgid "YOUTUBE_STATUS_UNKNOWN"
-msgstr "Unknown"
+msgstr "Onbekend"
 
 msgid "YOUTUBE_STATUS_WAITING_TO_BE_PROCESSED"
-msgstr "Your upload is currently waiting to be processed."
+msgstr "Jouw upload wacht momenteel om verwerkt te worden."
 
 msgid "YOUTUBE_TERMS_AGREEMENT_NOTE"
-msgstr "By submitting your videos to YouTube, you acknowledge that you agree to YouTube's Terms of Service and Community Guidelines."
+msgstr "Door je video's bij YouTube in te dienen, erken je dat je akkoord gaat met de Servicevoorwaarden en Communityrichtlijnen van YouTube."
 
 # We may need to limit uploads per day depending on our API quota usage rate
 msgid "YOUTUBE_UPLOAD_LIMIT"
-msgstr "You can currently upload %s videos to YouTube per day."
+msgstr "Je kunt momenteel %s video's per dag uploaden naar YouTube."
 
 msgid "YOUTUBE_UPLOAD_LIMIT_CURRENT"
-msgstr "You have uploaded %s videos so far today."
+msgstr "Je hebt tot nu toe %s video's vandaag geüpload."
 
 msgid "YOUTUBE_UPLOAD_LIMIT_EXCEEDED"
-msgstr "You can't upload any more videos until tomorrow."
+msgstr "Je kunt tot morgen geen video's meer uploaden."
 
 msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_LIMIT_NOTE"
-msgstr "Sudomemo Plus members can upload %s videos per day."
+msgstr "Sudomemo Plus-leden kunnen %s video's per dag uploaden."
 
 msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_UNLIMITED_NOTE"
-msgstr "Sudomemo Plus members can upload an unlimited number of videos each day."
+msgstr "Sudomemo Plus-leden kunnen een onbeperkt aantal video's per dag uploaden."
 
 msgid "YOUTUBE_VISIBILITY"
-msgstr "Visibility"
+msgstr "Zichtbaarheid"
 
 msgid "YOUTUBE_VISIBILITY_PRIVATE"
-msgstr "Private"
+msgstr "Privé"
 
 msgid "YOUTUBE_VISIBILITY_PUBLIC"
-msgstr "Public"
+msgstr "Openbaar"
 
 msgid "YOUTUBE_VISIBILITY_UNLISTED"
-msgstr "Unlisted"
+msgstr "Verborgen"
