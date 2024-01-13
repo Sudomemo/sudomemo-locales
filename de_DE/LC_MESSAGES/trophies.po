@@ -95,6 +95,9 @@ msgstr "Ist in der 2021 Sudomemo Rewind erschienen!"
 msgid "TROPHY_DESC_rewind_2022"
 msgstr "Ist in der 2022 Sudomemo Rewind erschienen!"
 
+msgid "TROPHY_DESC_rewind_2023"
+msgstr "Featured in 2023's Sudomemo Rewind!"
+
 msgid "TROPHY_DESC_spookmaster"
 msgstr "Spukmeister-Verzeichnung für Exzellenz in Hexerei, Zauberei und sonst Derlei"
 
@@ -195,6 +198,9 @@ msgstr "Sudomemo Rewind 2021"
 msgid "TROPHY_NAME_rewind_2022"
 msgstr "Sudomemo Rewind 2022"
 
+msgid "TROPHY_NAME_rewind_2023"
+msgstr "Sudomemo Rewind 2023"
+
 msgid "TROPHY_NAME_spookmaster"
 msgstr "Spukmeister"
 
@@ -215,8 +221,3 @@ msgstr "Wochen-Thema-Gewinner"
 
 msgid "TROPHY_NAME_welcoming_champion"
 msgstr "Einladender Champion"
-msgid "TROPHY_DESC_rewind_2023"
-msgstr "Featured in 2023's Sudomemo Rewind!"
-
-msgid "TROPHY_NAME_rewind_2023"
-msgstr "Sudomemo Rewind 2023"
