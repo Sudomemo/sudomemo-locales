@@ -141,6 +141,9 @@ msgstr "Gratulujemy twego wlaczenia w Sudomemo Rewind 2021!"
 msgid "TICKET_DESC_rewind_2022_ticket"
 msgstr "Gratulujemy twego wlaczenia w Sudomemo Rewind 2022!"
 
+msgid "TICKET_DESC_rewind_2023_ticket"
+msgstr "Congratulations on your inclusion in 2023's Sudomemo Rewind!"
+
 msgid "TICKET_DESC_special_someone_ticket"
 msgstr "Dla tej specjalnej osoby. 3 miesiace Sudomemo Plus, kolorowe gwiazdki i ekskluzywny motyw."
 
@@ -253,6 +256,9 @@ msgstr "Bilet Sudomemo Rewind 2021"
 
 msgid "TICKET_NAME_rewind_2022_ticket"
 msgstr "Bilet Sudomemo Rewind 2022"
+
+msgid "TICKET_NAME_rewind_2023_ticket"
+msgstr "Sudomemo Rewind 2023 Ticket"
 
 msgid "TICKET_NAME_special_someone_ticket"
 msgstr "Bilet dla kogos specjalnego"
