@@ -17,6 +17,12 @@ msgstr "Whoops! Waar je ook naar zocht, het was niet hier."
 msgid "ACCOUNT_SETTINGS"
 msgstr "Account Instellingen"
 
+msgid "ADD_TO_NEW_PLAYLIST"
+msgstr "Add to new Playlist"
+
+msgid "ADD_TO_PLAYLIST"
+msgstr "Add to Playlist"
+
 msgid "ALT_DRAWN_COMMENT_BY_USER"
 msgstr "Getekende reactie door %s"
 
@@ -132,6 +138,9 @@ msgstr "Gesloten"
 msgid "CHANNEL_PERM_OPEN"
 msgstr "Open"
 
+msgid "CHRONOLOGICAL"
+msgstr "Chronological"
+
 msgid "COMMENTS"
 msgstr "Commentaar"
 
@@ -140,6 +149,12 @@ msgstr "Continue"
 
 msgid "COULD_NOT_SAVE_DETAILS"
 msgstr "Kon details niet opslaan"
+
+msgid "CREATED"
+msgstr "Created"
+
+msgid "CREATE_NEW_PLAYLIST"
+msgstr "Create New Playlist"
 
 msgid "CREATOR"
 msgstr "Maker"
@@ -262,6 +277,9 @@ msgstr "Titel en Beschrijving"
 
 msgid "EDIT_PAGE_TITLE_TOOLTIP"
 msgstr "Letters, nummers, en symbolen, maximaal 40 karakters."
+
+msgid "EDIT_PLAYLIST"
+msgstr "Edit Playlist"
 
 msgid "FANS"
 msgstr "Fans"
@@ -411,8 +429,14 @@ msgstr "E-mail van Flipnote Studio ID"
 msgid "LOGIN_SIGNUP_SELECT_DEVICE"
 msgstr "Selecteer je apparaat"
 
+msgid "MANAGE_PLAYLIST"
+msgstr "Manage Playlist"
+
 msgid "MODERATOR"
 msgstr "Moderator"
+
+msgid "MODIFIED"
+msgstr "Modified"
 
 msgid "MORE"
 msgstr "Meer"
@@ -550,6 +574,30 @@ msgstr "De URL die je bezocht is verlopen."
 msgid "PERMISSIONS"
 msgstr "Rechten"
 
+msgid "PLAYLIST"
+msgstr "Playlist"
+
+msgid "PLAYLISTS"
+msgstr "Playlists"
+
+msgid "PLAYLIST_ID"
+msgstr "Playlist ID"
+
+msgid "PLAYLIST_NO_FLIPNOTES"
+msgstr "There have been no Flipnotes added to this playlist yet."
+
+msgid "PLAYLIST_PRIVATE"
+msgstr "Private"
+
+msgid "PLAYLIST_PUBLIC"
+msgstr "Public"
+
+msgid "PLAYLIST_UNKNOWN"
+msgstr "Unknown"
+
+msgid "PLAYLIST_UNLISTED"
+msgstr "Unlisted"
+
 msgid "PLUS_LEARN_MORE"
 msgstr "Meer informatie..."
 
@@ -624,6 +672,9 @@ msgstr "Onbekend"
 msgid "RELEASED"
 msgstr "Publicatie"
 
+msgid "REMOVE_FROM_PLAYLIST"
+msgstr "Remove from Playlist"
+
 msgid "RESET_PASSWORD_BY_FSID"
 msgstr "Je kan nog steeds een wachtwoord reset doen met je Flipnote Studio ID! Zend een berichtje naar Sudomemo Support en we sturen het naar je door."
 
@@ -632,6 +683,9 @@ msgstr "Root Flipnote"
 
 msgid "SAVE"
 msgstr "Opslaan"
+
+msgid "SAVE_PLAYLIST"
+msgstr "Save Playlist"
 
 msgid "SAVING"
 msgstr "Aan het opslaan"
@@ -782,6 +836,9 @@ msgstr "Trophy Case"
 # This is shown to logged-in users on their own Flipnotes without titles
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote Zonder Titel door %s"
+
+msgid "UNTITLED_PLAYLIST"
+msgstr "Untitled Playlist"
 
 msgid "UPLOAD_CONTACT_DISCORD_OR_EMAIL_FORMAT"
 msgstr "Please contact us on Discord or via email to %s."
@@ -1083,59 +1140,3 @@ msgstr "Kijk nu:"
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "Je bent deze Flipnote aan het bewerken:"
-msgid "CHRONOLOGICAL"
-msgstr "Chronological"
-
-msgid "PLAYLIST_NO_FLIPNOTES"
-msgstr "There have been no Flipnotes added to this playlist yet."
-
-msgid "PLAYLIST_ID"
-msgstr "Playlist ID"
-
-msgid "CREATED"
-msgstr "Created"
-
-msgid "MODIFIED"
-msgstr "Modified"
-
-msgid "PLAYLISTS"
-msgstr "Playlists"
-
-msgid "CREATE_NEW_PLAYLIST"
-msgstr "Create New Playlist"
-
-msgid "ADD_TO_PLAYLIST"
-msgstr "Add to Playlist"
-
-msgid "ADD_TO_NEW_PLAYLIST"
-msgstr "Add to new Playlist"
-
-msgid "REMOVE_FROM_PLAYLIST"
-msgstr "Remove from Playlist"
-
-msgid "UNTITLED_PLAYLIST"
-msgstr "Untitled Playlist"
-
-msgid "SAVE_PLAYLIST"
-msgstr "Save Playlist"
-
-msgid "PLAYLIST_PUBLIC"
-msgstr "Public"
-
-msgid "PLAYLIST_PRIVATE"
-msgstr "Private"
-
-msgid "PLAYLIST_UNLISTED"
-msgstr "Unlisted"
-
-msgid "PLAYLIST_UNKNOWN"
-msgstr "Unknown"
-
-msgid "PLAYLIST"
-msgstr "Playlist"
-
-msgid "MANAGE_PLAYLIST"
-msgstr "Manage Playlist"
-
-msgid "EDIT_PLAYLIST"
-msgstr "Edit Playlist"

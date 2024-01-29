@@ -17,6 +17,12 @@ msgstr "Ups! O quer que estiveste à procura, não está aqui."
 msgid "ACCOUNT_SETTINGS"
 msgstr "Definições de Conta"
 
+msgid "ADD_TO_NEW_PLAYLIST"
+msgstr "Add to new Playlist"
+
+msgid "ADD_TO_PLAYLIST"
+msgstr "Add to Playlist"
+
 msgid "ALT_DRAWN_COMMENT_BY_USER"
 msgstr "Comentário desenhado de %s"
 
@@ -132,6 +138,9 @@ msgstr "Fechado"
 msgid "CHANNEL_PERM_OPEN"
 msgstr "Aberto"
 
+msgid "CHRONOLOGICAL"
+msgstr "Chronological"
+
 msgid "COMMENTS"
 msgstr "Comentários"
 
@@ -140,6 +149,12 @@ msgstr "Continuar"
 
 msgid "COULD_NOT_SAVE_DETAILS"
 msgstr "Não pude guardar os detalhes"
+
+msgid "CREATED"
+msgstr "Created"
+
+msgid "CREATE_NEW_PLAYLIST"
+msgstr "Create New Playlist"
 
 msgid "CREATOR"
 msgstr "Criador"
@@ -253,6 +268,9 @@ msgstr "Título e Descrição"
 
 msgid "EDIT_PAGE_TITLE_TOOLTIP"
 msgstr "Letras, números, e símbolos, com um máximo de 40 caracteres."
+
+msgid "EDIT_PLAYLIST"
+msgstr "Edit Playlist"
 
 msgid "FANS"
 msgstr "Fãs"
@@ -399,8 +417,14 @@ msgstr "Email ou ID do Flipnote Studio"
 msgid "LOGIN_SIGNUP_SELECT_DEVICE"
 msgstr "Selecciona o teu sistema"
 
+msgid "MANAGE_PLAYLIST"
+msgstr "Manage Playlist"
+
 msgid "MODERATOR"
 msgstr "Moderador"
+
+msgid "MODIFIED"
+msgstr "Modified"
 
 msgid "MORE"
 msgstr "Mais"
@@ -535,6 +559,30 @@ msgstr "O URL que visitaste expirou."
 msgid "PERMISSIONS"
 msgstr "Permissões"
 
+msgid "PLAYLIST"
+msgstr "Playlist"
+
+msgid "PLAYLISTS"
+msgstr "Playlists"
+
+msgid "PLAYLIST_ID"
+msgstr "Playlist ID"
+
+msgid "PLAYLIST_NO_FLIPNOTES"
+msgstr "There have been no Flipnotes added to this playlist yet."
+
+msgid "PLAYLIST_PRIVATE"
+msgstr "Private"
+
+msgid "PLAYLIST_PUBLIC"
+msgstr "Public"
+
+msgid "PLAYLIST_UNKNOWN"
+msgstr "Unknown"
+
+msgid "PLAYLIST_UNLISTED"
+msgstr "Unlisted"
+
 msgid "PLUS_LEARN_MORE"
 msgstr "Saber mais..."
 
@@ -607,6 +655,9 @@ msgstr "Desconhecido"
 msgid "RELEASED"
 msgstr "Publicado"
 
+msgid "REMOVE_FROM_PLAYLIST"
+msgstr "Remove from Playlist"
+
 msgid "RESET_PASSWORD_BY_FSID"
 msgstr "You can still reset your password with your Flipnote Studio ID! Simply send a quick message to Sudomemo Support and we'll get that sent out to you."
 
@@ -615,6 +666,9 @@ msgstr "Flipnote de Origem"
 
 msgid "SAVE"
 msgstr "Guardar"
+
+msgid "SAVE_PLAYLIST"
+msgstr "Save Playlist"
 
 msgid "SAVING"
 msgstr "A guardar..."
@@ -761,6 +815,9 @@ msgstr "Armário de Troféus"
 # This is shown to logged-in users on their own Flipnotes without titles
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote Sem Título de %s"
+
+msgid "UNTITLED_PLAYLIST"
+msgstr "Untitled Playlist"
 
 msgid "UPLOAD_CONTACT_DISCORD_OR_EMAIL_FORMAT"
 msgstr "Please contact us on Discord or via email to %s."
@@ -1062,59 +1119,3 @@ msgstr "Ver agora:"
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "Estás a editar este Flipnote:"
-msgid "CHRONOLOGICAL"
-msgstr "Chronological"
-
-msgid "PLAYLIST_NO_FLIPNOTES"
-msgstr "There have been no Flipnotes added to this playlist yet."
-
-msgid "PLAYLIST_ID"
-msgstr "Playlist ID"
-
-msgid "CREATED"
-msgstr "Created"
-
-msgid "MODIFIED"
-msgstr "Modified"
-
-msgid "PLAYLISTS"
-msgstr "Playlists"
-
-msgid "CREATE_NEW_PLAYLIST"
-msgstr "Create New Playlist"
-
-msgid "ADD_TO_PLAYLIST"
-msgstr "Add to Playlist"
-
-msgid "ADD_TO_NEW_PLAYLIST"
-msgstr "Add to new Playlist"
-
-msgid "REMOVE_FROM_PLAYLIST"
-msgstr "Remove from Playlist"
-
-msgid "UNTITLED_PLAYLIST"
-msgstr "Untitled Playlist"
-
-msgid "SAVE_PLAYLIST"
-msgstr "Save Playlist"
-
-msgid "PLAYLIST_PUBLIC"
-msgstr "Public"
-
-msgid "PLAYLIST_PRIVATE"
-msgstr "Private"
-
-msgid "PLAYLIST_UNLISTED"
-msgstr "Unlisted"
-
-msgid "PLAYLIST_UNKNOWN"
-msgstr "Unknown"
-
-msgid "PLAYLIST"
-msgstr "Playlist"
-
-msgid "MANAGE_PLAYLIST"
-msgstr "Manage Playlist"
-
-msgid "EDIT_PLAYLIST"
-msgstr "Edit Playlist"
