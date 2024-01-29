@@ -1062,3 +1062,59 @@ msgstr "今すぐ見る:"
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "編集中"
+msgid "CHRONOLOGICAL"
+msgstr "Chronological"
+
+msgid "PLAYLIST_NO_FLIPNOTES"
+msgstr "There have been no Flipnotes added to this playlist yet."
+
+msgid "PLAYLIST_ID"
+msgstr "Playlist ID"
+
+msgid "CREATED"
+msgstr "Created"
+
+msgid "MODIFIED"
+msgstr "Modified"
+
+msgid "PLAYLISTS"
+msgstr "Playlists"
+
+msgid "CREATE_NEW_PLAYLIST"
+msgstr "Create New Playlist"
+
+msgid "ADD_TO_PLAYLIST"
+msgstr "Add to Playlist"
+
+msgid "ADD_TO_NEW_PLAYLIST"
+msgstr "Add to new Playlist"
+
+msgid "REMOVE_FROM_PLAYLIST"
+msgstr "Remove from Playlist"
+
+msgid "UNTITLED_PLAYLIST"
+msgstr "Untitled Playlist"
+
+msgid "SAVE_PLAYLIST"
+msgstr "Save Playlist"
+
+msgid "PLAYLIST_PUBLIC"
+msgstr "Public"
+
+msgid "PLAYLIST_PRIVATE"
+msgstr "Private"
+
+msgid "PLAYLIST_UNLISTED"
+msgstr "Unlisted"
+
+msgid "PLAYLIST_UNKNOWN"
+msgstr "Unknown"
+
+msgid "PLAYLIST"
+msgstr "Playlist"
+
+msgid "MANAGE_PLAYLIST"
+msgstr "Manage Playlist"
+
+msgid "EDIT_PLAYLIST"
+msgstr "Edit Playlist"
