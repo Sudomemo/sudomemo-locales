@@ -17,6 +17,9 @@ msgstr "Συνεχεια"
 msgid "TROPHY_CASE"
 msgstr "Θηκη Τροπαιων"
 
+msgid "TROPHY_DESC_10th_birthday_bash"
+msgstr "Attended Sudomemo's 10th Birthday Bash event"
+
 msgid "TROPHY_DESC_7th_birthday_bash"
 msgstr "Συμμετειχε στο ιβεντ 7 Χρονια Χαρας με Flipnote"
 
@@ -118,6 +121,9 @@ msgstr "Νικησε στο Weekly Topic"
 
 msgid "TROPHY_DESC_welcoming_champion"
 msgstr "Earned the title of Welcoming Champion."
+
+msgid "TROPHY_NAME_10th_birthday_bash"
+msgstr "10th Birthday Bash"
 
 msgid "TROPHY_NAME_7th_birthday_bash"
 msgstr "7ο Birthday Bash"

@@ -17,6 +17,9 @@ msgstr "Kontynuuj"
 msgid "TROPHY_CASE"
 msgstr "Trofea"
 
+msgid "TROPHY_DESC_10th_birthday_bash"
+msgstr "Attended Sudomemo's 10th Birthday Bash event"
+
 msgid "TROPHY_DESC_7th_birthday_bash"
 msgstr "Bral/-a udzial w siódmym wydarzeniu Birthday Bash"
 
@@ -118,6 +121,9 @@ msgstr "Twój Flipnote wygral Temat Tygodnia"
 
 msgid "TROPHY_DESC_welcoming_champion"
 msgstr "Zdobyl/-a tytul Czempiona Przywitań."
+
+msgid "TROPHY_NAME_10th_birthday_bash"
+msgstr "10th Birthday Bash"
 
 msgid "TROPHY_NAME_7th_birthday_bash"
 msgstr "Siódmy Birthday Bash"
