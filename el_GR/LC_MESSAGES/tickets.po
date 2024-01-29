@@ -59,6 +59,9 @@ msgstr "Μολις λαβατε %s μερες Sudomemo Plus!"
 msgid "THEME_AVAILABLE_FOR_USE"
 msgstr "Πλεον μπορειτε να χρησιμοποιησετε αυτο το θεμα στο Δωματιο Χρηστη σας!"
 
+msgid "TICKET_DESC_10th_birthday_bash_ticket"
+msgstr "Thanks for attending our Birthday Bash!"
+
 msgid "TICKET_DESC_7th_birthday_bash_ticket"
 msgstr "Ευχαριστουμε που συμμετειχατε στο  Birthday Bash μας!"
 
@@ -173,6 +176,9 @@ msgstr "Συγχαρητηρια για την νικη σας στο Sudomemo W
 
 msgid "TICKET_DESC_welcoming_champion_ticket"
 msgstr "You're been very welcoming to new and returning creators! Thanks!"
+
+msgid "TICKET_NAME_10th_birthday_bash_ticket"
+msgstr "10th Birthday Bash Ticket"
 
 msgid "TICKET_NAME_7th_birthday_bash_ticket"
 msgstr "Λαχνος για το 7ο μας Birthday"

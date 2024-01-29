@@ -59,6 +59,9 @@ msgstr "%s日分のSudomemo Plusを受け取りました!"
 msgid "THEME_AVAILABLE_FOR_USE"
 msgstr "このテーマをマイルームで使うことができます!"
 
+msgid "TICKET_DESC_10th_birthday_bash_ticket"
+msgstr "Thanks for attending our Birthday Bash!"
+
 msgid "TICKET_DESC_7th_birthday_bash_ticket"
 msgstr "誕生日パーティーに参加してくれてありがとう!"
 
@@ -173,6 +176,9 @@ msgstr "スドメモ今週のお題への入選おめでとう!"
 
 msgid "TICKET_DESC_welcoming_champion_ticket"
 msgstr "You're been very welcoming to new and returning creators! Thanks!"
+
+msgid "TICKET_NAME_10th_birthday_bash_ticket"
+msgstr "10th Birthday Bash Ticket"
 
 msgid "TICKET_NAME_7th_birthday_bash_ticket"
 msgstr "7周年パーティーチケット"

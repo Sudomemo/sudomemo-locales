@@ -18,6 +18,9 @@ msgstr "Doorgaan"
 msgid "TROPHY_CASE"
 msgstr "Prijzenkast"
 
+msgid "TROPHY_DESC_10th_birthday_bash"
+msgstr "Attended Sudomemo's 10th Birthday Bash event"
+
 msgid "TROPHY_DESC_7th_birthday_bash"
 msgstr "Woonde het 7 Years of Flipnote Fun-evenement van Sudomemo bij"
 
@@ -120,6 +123,9 @@ msgstr "Dien een winnende inzending in naar Sudomemo's Wekelijks Onderwerp"
 # Decided to not translate this string, see bottom / title why.
 msgid "TROPHY_DESC_welcoming_champion"
 msgstr "Verdiende de titel van Welcoming Champion."
+
+msgid "TROPHY_NAME_10th_birthday_bash"
+msgstr "10th Birthday Bash"
 
 msgid "TROPHY_NAME_7th_birthday_bash"
 msgstr "7e verjaardagsfeest"

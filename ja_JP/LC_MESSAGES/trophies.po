@@ -17,6 +17,9 @@ msgstr "続ける"
 msgid "TROPHY_CASE"
 msgstr "トロフィーケース"
 
+msgid "TROPHY_DESC_10th_birthday_bash"
+msgstr "Attended Sudomemo's 10th Birthday Bash event"
+
 msgid "TROPHY_DESC_7th_birthday_bash"
 msgstr "スドメモの7周年ファンイベントに参加する"
 
@@ -118,6 +121,9 @@ msgstr "スドメモの今週のお題に入賞する"
 
 msgid "TROPHY_DESC_welcoming_champion"
 msgstr "Earned the title of Welcoming Champion."
+
+msgid "TROPHY_NAME_10th_birthday_bash"
+msgstr "10th Birthday Bash"
 
 msgid "TROPHY_NAME_7th_birthday_bash"
 msgstr "7周年記念パーティー"

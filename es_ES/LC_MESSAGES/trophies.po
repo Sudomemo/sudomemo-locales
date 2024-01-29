@@ -17,6 +17,9 @@ msgstr "Continuar"
 msgid "TROPHY_CASE"
 msgstr "Vitrina de Trofeos"
 
+msgid "TROPHY_DESC_10th_birthday_bash"
+msgstr "Attended Sudomemo's 10th Birthday Bash event"
+
 msgid "TROPHY_DESC_7th_birthday_bash"
 msgstr "Atendió al evento de Sudomemo: ¡7 años de diversión!"
 
@@ -118,6 +121,9 @@ msgstr "Envía una entrada ganadora a la Tematica Semanal de Sudomemo."
 
 msgid "TROPHY_DESC_welcoming_champion"
 msgstr "Earned the title of Welcoming Champion."
+
+msgid "TROPHY_NAME_10th_birthday_bash"
+msgstr "10th Birthday Bash"
 
 msgid "TROPHY_NAME_7th_birthday_bash"
 msgstr "7mo Birthday Bash"

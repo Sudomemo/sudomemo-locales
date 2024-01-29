@@ -59,6 +59,9 @@ msgstr "Cawsoch werth %s diwrnod o Sudomemo Plus!"
 msgid "THEME_AVAILABLE_FOR_USE"
 msgstr "Nawr gallwch ddefnyddio'r thema hon yn Ystafell eich Creawdwr!"
 
+msgid "TICKET_DESC_10th_birthday_bash_ticket"
+msgstr "Thanks for attending our Birthday Bash!"
+
 msgid "TICKET_DESC_7th_birthday_bash_ticket"
 msgstr "Thanks for attending our Birthday Bash!"
 
@@ -173,6 +176,9 @@ msgstr "Llongyfarchiadau ar ennill Pwnc Wythnosol Sudomemo!"
 
 msgid "TICKET_DESC_welcoming_champion_ticket"
 msgstr "You're been very welcoming to new and returning creators! Thanks!"
+
+msgid "TICKET_NAME_10th_birthday_bash_ticket"
+msgstr "10th Birthday Bash Ticket"
 
 msgid "TICKET_NAME_7th_birthday_bash_ticket"
 msgstr "7th Birthday Bash Ticket"
