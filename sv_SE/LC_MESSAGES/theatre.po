@@ -17,6 +17,12 @@ msgstr "Oj då! Vad du än letade efter var det inte där."
 msgid "ACCOUNT_SETTINGS"
 msgstr "Account Settings"
 
+msgid "ADD_TO_NEW_PLAYLIST"
+msgstr "Add to new Playlist"
+
+msgid "ADD_TO_PLAYLIST"
+msgstr "Add to Playlist"
+
 msgid "ALT_DRAWN_COMMENT_BY_USER"
 msgstr "Ritad kommentar från %s"
 
@@ -132,6 +138,9 @@ msgstr "Stängd"
 msgid "CHANNEL_PERM_OPEN"
 msgstr "Öppen"
 
+msgid "CHRONOLOGICAL"
+msgstr "Chronological"
+
 msgid "COMMENTS"
 msgstr "Kommentarer"
 
@@ -140,6 +149,12 @@ msgstr "Continue"
 
 msgid "COULD_NOT_SAVE_DETAILS"
 msgstr "Kunde inte spara detailjer"
+
+msgid "CREATED"
+msgstr "Created"
+
+msgid "CREATE_NEW_PLAYLIST"
+msgstr "Create New Playlist"
 
 msgid "CREATOR"
 msgstr "Creator"
@@ -253,6 +268,9 @@ msgstr "Titel och beskrivning"
 
 msgid "EDIT_PAGE_TITLE_TOOLTIP"
 msgstr "Bokstäver, nummer, och symboler, högst 40 tecken."
+
+msgid "EDIT_PLAYLIST"
+msgstr "Edit Playlist"
 
 msgid "FANS"
 msgstr "Fans"
@@ -399,8 +417,14 @@ msgstr "E-post eller Flipnote Studio ID"
 msgid "LOGIN_SIGNUP_SELECT_DEVICE"
 msgstr "Välj din enhet"
 
+msgid "MANAGE_PLAYLIST"
+msgstr "Manage Playlist"
+
 msgid "MODERATOR"
 msgstr "Moderator"
+
+msgid "MODIFIED"
+msgstr "Modified"
 
 msgid "MORE"
 msgstr "Mer"
@@ -535,6 +559,30 @@ msgstr "The URL you visited has expired."
 msgid "PERMISSIONS"
 msgstr "Behörigheter"
 
+msgid "PLAYLIST"
+msgstr "Playlist"
+
+msgid "PLAYLISTS"
+msgstr "Playlists"
+
+msgid "PLAYLIST_ID"
+msgstr "Playlist ID"
+
+msgid "PLAYLIST_NO_FLIPNOTES"
+msgstr "There have been no Flipnotes added to this playlist yet."
+
+msgid "PLAYLIST_PRIVATE"
+msgstr "Private"
+
+msgid "PLAYLIST_PUBLIC"
+msgstr "Public"
+
+msgid "PLAYLIST_UNKNOWN"
+msgstr "Unknown"
+
+msgid "PLAYLIST_UNLISTED"
+msgstr "Unlisted"
+
 msgid "PLUS_LEARN_MORE"
 msgstr "Lär dig mer..."
 
@@ -607,6 +655,9 @@ msgstr "Okänd"
 msgid "RELEASED"
 msgstr "Släppt"
 
+msgid "REMOVE_FROM_PLAYLIST"
+msgstr "Remove from Playlist"
+
 msgid "RESET_PASSWORD_BY_FSID"
 msgstr "You can still reset your password with your Flipnote Studio ID! Simply send a quick message to Sudomemo Support and we'll get that sent out to you."
 
@@ -615,6 +666,9 @@ msgstr "Root Flipnote"
 
 msgid "SAVE"
 msgstr "Spara"
+
+msgid "SAVE_PLAYLIST"
+msgstr "Save Playlist"
 
 msgid "SAVING"
 msgstr "Sparade"
@@ -761,6 +815,9 @@ msgstr "Troféfall"
 # This is shown to logged-in users on their own Flipnotes without titles
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "Odöpt Flipnote av %s"
+
+msgid "UNTITLED_PLAYLIST"
+msgstr "Untitled Playlist"
 
 msgid "UPLOAD_CONTACT_DISCORD_OR_EMAIL_FORMAT"
 msgstr "Please contact us on Discord or via email to %s."
