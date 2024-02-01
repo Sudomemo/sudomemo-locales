@@ -569,6 +569,9 @@ msgstr "Playlists"
 msgid "PLAYLIST_ERROR_GENERIC"
 msgstr "An error occurred whilst saving this playlist. Error code: %s."
 
+msgid "PLAYLIST_ERROR_GENERIC_2"
+msgstr "An error occurred. Error code: %s."
+
 msgid "PLAYLIST_ERROR_PROFANE_DESC"
 msgstr "This description contains content that goes against our Content Policy."
 
@@ -1129,6 +1132,3 @@ msgstr "Guarda ora:"
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "Stai modificando questo Flipnote:"
-
-msgid "PLAYLIST_ERROR_GENERIC_2"
-msgstr "An error occurred. Error code: %s."
