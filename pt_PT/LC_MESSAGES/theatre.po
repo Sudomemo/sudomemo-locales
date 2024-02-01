@@ -1132,3 +1132,21 @@ msgstr "Ver agora:"
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "Estás a editar este Flipnote:"
+
+msgid "PLAYLIST_VISIBILITY"
+msgstr "Visibility"
+
+msgid "DELETE_PLAYLIST"
+msgstr "Delete Playlist"
+
+msgid "DELETE_PLAYLIST_CONFIRM_1"
+msgstr "Are you sure you want to delete this playlist?"
+
+msgid "DELETE_PLAYLIST_CONFIRM_2"
+msgstr "This action is irreversible!"
+
+msgid "DELETE_PLAYLIST_CONFIRM_YES"
+msgstr "Yes"
+
+msgid "DELETE_PLAYLIST_CONFIRM_NO"
+msgstr "No"
