@@ -183,6 +183,21 @@ msgstr "l, jS F Y"
 msgid "DEFAULT_META_DESCRIPTION"
 msgstr "Sudomemo: Podziel się swoimi Flipnotes z całym światem! Dla Nintendo DSi i 3DS."
 
+msgid "DELETE_PLAYLIST"
+msgstr "Delete Playlist"
+
+msgid "DELETE_PLAYLIST_CONFIRM_1"
+msgstr "Are you sure you want to delete this playlist?"
+
+msgid "DELETE_PLAYLIST_CONFIRM_2"
+msgstr "This action is irreversible!"
+
+msgid "DELETE_PLAYLIST_CONFIRM_NO"
+msgstr "No"
+
+msgid "DELETE_PLAYLIST_CONFIRM_YES"
+msgstr "Yes"
+
 msgid "DESCRIPTION"
 msgstr "Opis"
 
@@ -595,6 +610,9 @@ msgstr "Unknown"
 
 msgid "PLAYLIST_UNLISTED"
 msgstr "Unlisted"
+
+msgid "PLAYLIST_VISIBILITY"
+msgstr "Visibility"
 
 msgid "PLUS_LEARN_MORE"
 msgstr "Dowiedz się więcej..."
@@ -1132,21 +1150,3 @@ msgstr "Oglądaj teraz:"
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "Edytujesz ten Flipnote:"
-
-msgid "PLAYLIST_VISIBILITY"
-msgstr "Visibility"
-
-msgid "DELETE_PLAYLIST"
-msgstr "Delete Playlist"
-
-msgid "DELETE_PLAYLIST_CONFIRM_1"
-msgstr "Are you sure you want to delete this playlist?"
-
-msgid "DELETE_PLAYLIST_CONFIRM_2"
-msgstr "This action is irreversible!"
-
-msgid "DELETE_PLAYLIST_CONFIRM_YES"
-msgstr "Yes"
-
-msgid "DELETE_PLAYLIST_CONFIRM_NO"
-msgstr "No"
