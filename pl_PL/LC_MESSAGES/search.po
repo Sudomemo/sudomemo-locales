@@ -4,7 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "HEADER_NEXT"
-msgstr "Następna"
+msgstr "Nastepna"
 
 msgid "HEADER_PREV"
 msgstr "Poprzednia"
@@ -13,16 +13,16 @@ msgid "NO_RESULTS_FOUND"
 msgstr "Brak znalezionych wyników"
 
 msgid "PAGE"
-msgstr "Page"
+msgstr "Strona"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d of %d"
+msgstr "%d z %d"
 
 msgid "PAGE_FORMAT"
 msgstr "Strona %d"
 
 msgid "PLEASE_ENTER_USERNAME"
-msgstr "Wpisz nazwę użytkownika..."
+msgstr "Wpisz nazwe uzytkownika..."
 
 msgid "RESULTS"
 msgstr "Wyniki"
@@ -40,28 +40,28 @@ msgid "SEARCH_MUSICMATCH"
 msgstr "MusicMatch"
 
 msgid "SEARCH_MUSIC_BY_ARTIST"
-msgstr "By Artist"
+msgstr "Wedlug artysty"
 
 msgid "SEARCH_MUSIC_BY_GENRE"
-msgstr "By Genre"
+msgstr "Wedlug gatunku"
 
 msgid "SEARCH_MUSIC_BY_SONG"
-msgstr "By Song"
+msgstr "Wedlug utworu"
 
 msgid "SEARCH_SHORT_KEY"
 msgstr "ID Flipnote"
 
 msgid "SEARCH_USERNAME"
-msgstr "Szukaj użytkownika"
+msgstr "Szukaj uzytkownika"
 
 msgid "SHORT_KEY_FORMAT_GUIDE"
-msgstr "Nie znajdujesz tego, czego szukasz? Możliwe, że źle wpisałeś ID Flipnote. ID Flipnote mają 6 znaków i można je znaleść w sekcji z informacjami o Flipnote."
+msgstr "Nie znajdujesz tego, czego szukasz? Mozliwe, ze zle wpisales ID Flipnote. ID Flipnote maja 6 znaków i mozna je znalesc w sekcji z informacjami o Flipnote."
 
 msgid "SHORT_KEY_NO_RESULTS"
 msgstr "Nie znaleziono Flipnotes"
 
 msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
-msgstr "Nie znaleziono niczego, ale istnieje podoble ID. Pamiętaj że ID Flipnote uwzględniają wielkość liter i zazwyczaj składają się z całych dużych liter i cyfr."
+msgstr "Nie znaleziono niczego, ale istnieje podoble ID. Pamietaj ze ID Flipnote uwzgledniaja wielkosc liter i zazwyczaj skladaja sie z calych duzych liter i cyfr."
 
 msgid "USERNAME"
-msgstr "Nazwa użytkownika"
+msgstr "Nazwa uzytkownika"

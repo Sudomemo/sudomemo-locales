@@ -10,7 +10,7 @@ msgid "CATEGORIES"
 msgstr "Kategorie"
 
 msgid "CHANNELS"
-msgstr "Kanały"
+msgstr "Kanaly"
 
 msgid "CHATROOMS"
 msgstr "Pokoje czatu"
@@ -19,7 +19,7 @@ msgid "CREATORS_ROOM"
 msgstr "Pokój Twórcy"
 
 msgid "FEATURED"
-msgstr "Wyróżnione"
+msgstr "Wyróznione"
 
 msgid "GET_STARTED"
 msgstr "Rozpocznij"
@@ -28,7 +28,7 @@ msgid "HELP"
 msgstr "Pomoc"
 
 msgid "HOT_FLIPNOTES"
-msgstr "Gorące Flipnotes"
+msgstr "Gorace Flipnotes"
 
 msgid "LOGIN"
 msgstr "Logowanie"
@@ -40,13 +40,13 @@ msgid "MAIL"
 msgstr "Mail"
 
 msgid "NEWS"
-msgstr "Sudomemo News"
+msgstr "Wiadomosci"
 
 msgid "REGISTER"
 msgstr "Rejestracja"
 
 msgid "RELOAD_USER"
-msgstr "Odśwież użytkownika"
+msgstr "Odswiez uzytkownika"
 
 msgid "SEARCH"
 msgstr "Szukaj"
@@ -55,10 +55,10 @@ msgid "SEARCH_FLIPNOTE"
 msgstr "Szukaj Flipnotes"
 
 msgid "SEARCH_USER"
-msgstr "Szukaj użytkowników"
+msgstr "Szukaj uzytkowników"
 
 msgid "TEST_TRANSLATION"
-msgstr "Tłumaczenie Angielskie"
+msgstr "Tlumaczenie Angielskie"
 
 msgid "THEME_SHOP"
 msgstr "Sklep z motywami"

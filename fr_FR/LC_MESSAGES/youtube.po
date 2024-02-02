@@ -114,11 +114,17 @@ msgstr "Pour réparer cela, allez sur :"
 msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
 msgstr "Votre compte YouTube n'est pas vérifié. Certaines fonctionnalités ne fonctionneront pas correctement, comme les miniatures des vidéos et les Flipnotes ayant une durée de plus de 15 minutes."
 
+msgid "YOUTUBE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
+msgstr "Veuillez nous contacter sur Discord ou par e-mail à %s."
+
 msgid "YOUTUBE_ESTIMATED_DURATION"
 msgstr "Durée de la vidéo estimée :"
 
 msgid "YOUTUBE_ID"
 msgstr "ID YouTube"
+
+msgid "YOUTUBE_INTEGRATION_BANNED"
+msgstr "L'utilisation de nos services d'intégration YouTube depuis vos compte et console a été restreinte."
 
 msgid "YOUTUBE_LOOP_COUNT"
 msgstr "Nombre de lectures"

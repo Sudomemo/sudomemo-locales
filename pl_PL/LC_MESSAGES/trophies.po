@@ -4,10 +4,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "ACHIEVEMENT_EARNED"
-msgstr "Zdobyto osiągnięcie!"
+msgstr "Zdobyto osiagniecie!"
 
 msgid "CASE_IS_EMPTY"
-msgstr "Nie masz żadnych trofeów."
+msgstr "Nie masz zadnych trofeów."
 
 msgid "CONTINUE"
 msgstr "Kontynuuj"
@@ -17,141 +17,159 @@ msgstr "Kontynuuj"
 msgid "TROPHY_CASE"
 msgstr "Trofea"
 
+msgid "TROPHY_DESC_10th_birthday_bash"
+msgstr "Attended Sudomemo's 10th Birthday Bash event"
+
 msgid "TROPHY_DESC_7th_birthday_bash"
-msgstr "Attended Sudomemo's 7 Years of Flipnote Fun event"
+msgstr "Bral/-a udzial w siódmym wydarzeniu Birthday Bash"
 
 msgid "TROPHY_DESC_8th_birthday_bash"
-msgstr "Attended Sudomemo's 8 Years of Flipnote Fun event"
+msgstr "Bral/-a udzial w ósmym wydarzeniu Birthday Bash"
 
 msgid "TROPHY_DESC_9th_birthday_bash"
-msgstr "Attended Sudomemo's 9th Birthday Bash event"
+msgstr "Bral/-a udzial w dziewiatym wydarzeniu Birthday Bash"
 
 msgid "TROPHY_DESC_archive_supporter"
-msgstr "Contributor to the Flipnote Archive Ko-Fi to help preserve Flipnote history!"
+msgstr "Wspomógl/wspomogla Archiwum Flipnotes na Ko-Fi by pomóc w konserwacji historii Flipnotes!"
 
 msgid "TROPHY_DESC_colors_promo"
-msgstr "Jeden ze zwycięzców Tematu Tygodnia Colors! x Sudomemo, 'Into The Light'"
+msgstr "Jeden ze zwyciezców Tematu Tygodnia Colors! x Sudomemo, 'Into The Light'"
 
 msgid "TROPHY_DESC_demo_tester"
-msgstr "Weź udział w programie testowania aktualizacji Sudomemo z 2017"
+msgstr "Wez udzial w programie testowania aktualizacji Sudomemo z 2017"
 
 msgid "TROPHY_DESC_early_adopter"
-msgstr "Dołącz do Sudomemo podczas pierwszego miesiąca jego istnienia"
+msgstr "Dolacz do Sudomemo podczas pierwszego miesiaca jego istnienia"
+
+msgid "TROPHY_DESC_fall_2023_ffc_winner"
+msgstr "One of the winners of the Fall 2023 Sudomemo Flipnote Fight Competition!"
 
 msgid "TROPHY_DESC_featured_artist"
-msgstr "Zostań wybrany jako wyróżniony twórca na Sudomemo"
+msgstr "Zostań wybrany jako wyrózniony twórca na Sudomemo"
 
 msgid "TROPHY_DESC_featured_flipnote"
-msgstr "Jeden z twoich Flipnotes został wyróżniony"
+msgstr "Jeden z twoich Flipnotes zostal wyrózniony"
 
 msgid "TROPHY_DESC_ffotd"
 msgstr "Opublikuj pierwszy Flipnote nowej dekady"
 
 msgid "TROPHY_DESC_fifth_bday_event"
-msgstr "Był/a na imprezie urodzinowej z okazji piątych urodzin Sudomemo"
+msgstr "Byl/a na imprezie urodzinowej z okazji piatych urodzin Sudomemo"
 
 msgid "TROPHY_DESC_flipnote_friends"
-msgstr "Became Flipnote Friends with someone who uses Sudomemo!"
+msgstr "Zostal/-a Przyjacielem Flipnote kogos na Sudomemo!"
 
 msgid "TROPHY_DESC_folder"
 msgstr "Wykorzystaj moc swojego komputera z Folding@Home by pomóc w walce z chorobami"
 
 msgid "TROPHY_DESC_legacy_citizen"
-msgstr "Miał/a Sudomemo Citizenship zanim zmieniło się na Sudomemo PLus"
+msgstr "Mial/a Sudomemo Citizenship zanim zmienilo sie na Sudomemo Plus"
 
 msgid "TROPHY_DESC_meet_bailey_flitwing"
-msgstr "Ciekawa świata poza jej gniazdem."
+msgstr "Ciekawa swiata poza jej gniazdem."
 
 msgid "TROPHY_DESC_meet_lazy_paisley"
-msgstr "Lubi swoje proste życie. I jedzenie."
+msgstr "Lubi swoje proste zycie. I jedzenie."
 
 msgid "TROPHY_DESC_meet_mitsuo_meow"
-msgstr "Chce przynieść szczęście i pomyślność dla wszystkich dookoła niej."
+msgstr "Chce przyniesc szczescie i pomyslnosc dla wszystkich dookola niej."
 
 msgid "TROPHY_DESC_meet_russell_ramblewood"
-msgstr "Pozornie może się wydawać dość niemiły, ale zawsze przejmuje się jak minął twój dzień."
+msgstr "Pozornie moze sie wydawac dosc niemily, ale zawsze przejmuje sie jak minal twój dzień."
 
 msgid "TROPHY_DESC_meet_ziggy_starburst"
-msgstr "Żyje skromnie, lecz z klasą."
+msgstr "Zyje skromnie, lecz z klasa."
 
 msgid "TROPHY_DESC_neighborhood_watch"
-msgstr "Prawidłowo zgłoś naruszenie zasad dot. twórczości Sudomemo"
+msgstr "Prawidlowo zglos naruszenie zasad dot. twórczosci Sudomemo"
 
 msgid "TROPHY_DESC_nitro_booster"
-msgstr "Showed how cool they (or a friend) were by boosting the Sudomemo Discord server."
+msgstr "Pokazal/-a jak fajny/-a jest (on/ona lub przyjaciel) poprzez ulepszenie serwera Discord Sudomemo."
 
 msgid "TROPHY_DESC_one_million_flips_event"
-msgstr "Był/a na imprezie z okazji miliona Flipnotes"
+msgstr "Byl/a na imprezie z okazji miliona Flipnotes"
 
 msgid "TROPHY_DESC_patreon_patron"
-msgstr "Supported Sudomemo through Patreon"
+msgstr "Wspomógl/wspomogla Sudomemo przez Patreon"
 
 msgid "TROPHY_DESC_rewind_2021"
-msgstr "Featured in 2021's Sudomemo Rewind!"
+msgstr "Wyrózniony/-a w Sudomemo Rewind 2021!"
 
 msgid "TROPHY_DESC_rewind_2022"
-msgstr "Featured in 2022's Sudomemo Rewind!"
+msgstr "Wyrózniony/-a w Sudomemo Rewind 2022!"
+
+msgid "TROPHY_DESC_rewind_2023"
+msgstr "Featured in 2023's Sudomemo Rewind!"
 
 msgid "TROPHY_DESC_spookmaster"
-msgstr "Spookmaster Award for Excellence in Witchcraft and Wizardry."
+msgstr "Nagroda Spookmaster Award za doskonalosc w czarodziejstwie i czarnoksieznictwie."
+
+msgid "TROPHY_DESC_spring_2023_ffc_winner"
+msgstr "One of the winners of the first Sudomemo Flipnote Fight Competition!"
 
 msgid "TROPHY_DESC_sudomemo_radio"
-msgstr "Contributed content to an episode of Sudomemo Radio"
+msgstr "Dostarczyl/-a tresci do odcinka Sudomemo Radio"
 
 msgid "TROPHY_DESC_sudomemo_radio_pilot"
-msgstr "Contributed content to the very first episode of Sudomemo Radio"
+msgstr "Dostarczyl/-a tresci do pierwszego odcinka Sudomemo Radio"
 
 msgid "TROPHY_DESC_translator"
-msgstr "Pomóż w tłumaczeniu Sudomemo"
+msgstr "Pomógl/pomogla w tlumaczeniu Sudomemo"
 
 msgid "TROPHY_DESC_weekly_topic_winner"
-msgstr "Twój Flipnote wygrał Temat Tygodnia"
+msgstr "Twój Flipnote wygral Temat Tygodnia"
 
 msgid "TROPHY_DESC_welcoming_champion"
-msgstr "Earned the title of Welcoming Champion."
+msgstr "Zdobyl/-a tytul Czempiona Przywitań."
+
+msgid "TROPHY_NAME_10th_birthday_bash"
+msgstr "10th Birthday Bash"
 
 msgid "TROPHY_NAME_7th_birthday_bash"
-msgstr "7th Birthday Bash"
+msgstr "Siódmy Birthday Bash"
 
 msgid "TROPHY_NAME_8th_birthday_bash"
-msgstr "8th Birthday Bash"
+msgstr "Ósmy Birthday Bash"
 
 msgid "TROPHY_NAME_9th_birthday_bash"
-msgstr "9th Birthday Bash"
+msgstr "Dziewiaty Birthday Bash"
 
 msgid "TROPHY_NAME_archive_supporter"
-msgstr "Archive Supporter"
+msgstr "Wsparcie archiwum"
 
 msgid "TROPHY_NAME_colors_promo"
-msgstr "Zwycięzca Tematu Tygodnia Colors! x Sudomemo"
+msgstr "Zwyciezca Tematu Tygodnia Colors! x Sudomemo"
 
 # # Trophy names and descriptions
 msgid "TROPHY_NAME_demo_tester"
 msgstr "Tester Demo"
 
 msgid "TROPHY_NAME_early_adopter"
-msgstr "Wczesny użytkownik"
+msgstr "Wczesny uzytkownik"
+
+msgid "TROPHY_NAME_fall_2023_ffc_winner"
+msgstr "Fall 2023 Sudomemo Flipnote Fight Competition Winner"
 
 msgid "TROPHY_NAME_featured_artist"
-msgstr "Wyróżniony twórca"
+msgstr "Wyrózniony twórca"
 
 msgid "TROPHY_NAME_featured_flipnote"
-msgstr "Wyróżniony Flipnote"
+msgstr "Wyrózniony Flipnote"
 
 msgid "TROPHY_NAME_ffotd"
 msgstr "Pierwszy Flipnote dekady"
 
 msgid "TROPHY_NAME_fifth_bday_event"
-msgstr "Piąte urodziny Sudomemo"
+msgstr "Piate urodziny Sudomemo"
 
 msgid "TROPHY_NAME_flipnote_friends"
-msgstr "Flipnote Friends"
+msgstr "Przyjaciele Flipnote"
 
 msgid "TROPHY_NAME_folder"
 msgstr "Folder"
 
 msgid "TROPHY_NAME_legacy_citizen"
-msgstr "Były Citizen"
+msgstr "Byly Citizen"
 
 msgid "TROPHY_NAME_meet_bailey_flitwing"
 msgstr "Spotkaj Bailey Flitwing"
@@ -172,13 +190,13 @@ msgid "TROPHY_NAME_neighborhood_watch"
 msgstr "Czujny patrolowiec"
 
 msgid "TROPHY_NAME_nitro_booster"
-msgstr "Nitro Booster"
+msgstr "Wsparcie serwera Discord"
 
 msgid "TROPHY_NAME_one_million_flips_event"
 msgstr "Impreza z okazji miliona Flipnotes"
 
 msgid "TROPHY_NAME_patreon_patron"
-msgstr "Sudomemo Patron"
+msgstr "Patron Sudomemo"
 
 msgid "TROPHY_NAME_rewind_2021"
 msgstr "Sudomemo Rewind 2021"
@@ -186,20 +204,26 @@ msgstr "Sudomemo Rewind 2021"
 msgid "TROPHY_NAME_rewind_2022"
 msgstr "Sudomemo Rewind 2022"
 
+msgid "TROPHY_NAME_rewind_2023"
+msgstr "Sudomemo Rewind 2023"
+
 msgid "TROPHY_NAME_spookmaster"
 msgstr "Spookmaster"
 
+msgid "TROPHY_NAME_spring_2023_ffc_winner"
+msgstr "Spring 2023 Sudomemo Flipnote Fight Competition Winner"
+
 msgid "TROPHY_NAME_sudomemo_radio"
-msgstr "Sudomemo Radio Contributor"
+msgstr "Udzial w Sudomemo Radio"
 
 msgid "TROPHY_NAME_sudomemo_radio_pilot"
-msgstr "Sudomemo Radio Pilot Contributor"
+msgstr "Udzial w odcinku pilotazowym Sudomemo Radio"
 
 msgid "TROPHY_NAME_translator"
-msgstr "Tłumacz"
+msgstr "Tlumacz"
 
 msgid "TROPHY_NAME_weekly_topic_winner"
-msgstr "Zwycięzca Tematu Tygodnia"
+msgstr "Zwyciezca Tematu Tygodnia"
 
 msgid "TROPHY_NAME_welcoming_champion"
-msgstr "Welcoming Champion"
+msgstr "Czempion powitania"

@@ -17,6 +17,12 @@ msgstr "Oj då! Vad du än letade efter var det inte där."
 msgid "ACCOUNT_SETTINGS"
 msgstr "Account Settings"
 
+msgid "ADD_TO_NEW_PLAYLIST"
+msgstr "Add to new Playlist"
+
+msgid "ADD_TO_PLAYLIST"
+msgstr "Add to Playlist"
+
 msgid "ALT_DRAWN_COMMENT_BY_USER"
 msgstr "Ritad kommentar från %s"
 
@@ -132,6 +138,9 @@ msgstr "Stängd"
 msgid "CHANNEL_PERM_OPEN"
 msgstr "Öppen"
 
+msgid "CHRONOLOGICAL"
+msgstr "Chronological"
+
 msgid "COMMENTS"
 msgstr "Kommentarer"
 
@@ -140,6 +149,12 @@ msgstr "Continue"
 
 msgid "COULD_NOT_SAVE_DETAILS"
 msgstr "Kunde inte spara detailjer"
+
+msgid "CREATED"
+msgstr "Created"
+
+msgid "CREATE_NEW_PLAYLIST"
+msgstr "Create New Playlist"
 
 msgid "CREATOR"
 msgstr "Creator"
@@ -167,6 +182,21 @@ msgstr "l, F jS, Y"
 
 msgid "DEFAULT_META_DESCRIPTION"
 msgstr "Sudomemo: Dela dina Flipnotes med världen! För Nintendo DSi och 3DS."
+
+msgid "DELETE_PLAYLIST"
+msgstr "Delete Playlist"
+
+msgid "DELETE_PLAYLIST_CONFIRM_1"
+msgstr "Are you sure you want to delete this playlist?"
+
+msgid "DELETE_PLAYLIST_CONFIRM_2"
+msgstr "This action is irreversible!"
+
+msgid "DELETE_PLAYLIST_CONFIRM_NO"
+msgstr "No"
+
+msgid "DELETE_PLAYLIST_CONFIRM_YES"
+msgstr "Yes"
 
 msgid "DESCRIPTION"
 msgstr "Beskrivning"
@@ -253,6 +283,9 @@ msgstr "Titel och beskrivning"
 
 msgid "EDIT_PAGE_TITLE_TOOLTIP"
 msgstr "Bokstäver, nummer, och symboler, högst 40 tecken."
+
+msgid "EDIT_PLAYLIST"
+msgstr "Edit Playlist"
 
 msgid "FANS"
 msgstr "Fans"
@@ -399,8 +432,14 @@ msgstr "E-post eller Flipnote Studio ID"
 msgid "LOGIN_SIGNUP_SELECT_DEVICE"
 msgstr "Välj din enhet"
 
+msgid "MANAGE_PLAYLIST"
+msgstr "Manage Playlist"
+
 msgid "MODERATOR"
 msgstr "Moderator"
+
+msgid "MODIFIED"
+msgstr "Modified"
 
 msgid "MORE"
 msgstr "Mer"
@@ -535,6 +574,52 @@ msgstr "The URL you visited has expired."
 msgid "PERMISSIONS"
 msgstr "Behörigheter"
 
+msgid "PLAYLIST"
+msgstr "Playlist"
+
+msgid "PLAYLISTS"
+msgstr "Playlists"
+
+msgid "PLAYLIST_ERROR_BLOCKED_BY_AUTHOR"
+msgstr "You cannot add this Flipnote to a playlist because you have been blocked by the Flipnote's author."
+
+msgid "PLAYLIST_ERROR_BLOCKING_AUTHOR"
+msgstr "You cannot add this Flipnote to a playlist because you have blocked the Flipnote's author."
+
+# '%s' will be replaced with an error code when shown to the user.
+msgid "PLAYLIST_ERROR_GENERIC"
+msgstr "An error occurred whilst saving this playlist. Error code: %s."
+
+msgid "PLAYLIST_ERROR_GENERIC_2"
+msgstr "An error occurred. Error code: %s."
+
+msgid "PLAYLIST_ERROR_PROFANE_DESC"
+msgstr "This description contains content that goes against our Content Policy."
+
+msgid "PLAYLIST_ERROR_PROFANE_TITLE"
+msgstr "This title contains content that goes against our Content Policy."
+
+msgid "PLAYLIST_ID"
+msgstr "Playlist ID"
+
+msgid "PLAYLIST_NO_FLIPNOTES"
+msgstr "There have been no Flipnotes added to this playlist yet."
+
+msgid "PLAYLIST_PRIVATE"
+msgstr "Private"
+
+msgid "PLAYLIST_PUBLIC"
+msgstr "Public"
+
+msgid "PLAYLIST_UNKNOWN"
+msgstr "Unknown"
+
+msgid "PLAYLIST_UNLISTED"
+msgstr "Unlisted"
+
+msgid "PLAYLIST_VISIBILITY"
+msgstr "Visibility"
+
 msgid "PLUS_LEARN_MORE"
 msgstr "Lär dig mer..."
 
@@ -607,11 +692,20 @@ msgstr "Okänd"
 msgid "RELEASED"
 msgstr "Släppt"
 
+msgid "REMOVE_FROM_PLAYLIST"
+msgstr "Remove from Playlist"
+
+msgid "RESET_PASSWORD_BY_FSID"
+msgstr "You can still reset your password with your Flipnote Studio ID! Simply send a quick message to Sudomemo Support and we'll get that sent out to you."
+
 msgid "ROOT_FLIPNOTE"
 msgstr "Root Flipnote"
 
 msgid "SAVE"
 msgstr "Spara"
+
+msgid "SAVE_PLAYLIST"
+msgstr "Save Playlist"
 
 msgid "SAVING"
 msgstr "Sparade"
@@ -759,12 +853,22 @@ msgstr "Troféfall"
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "Odöpt Flipnote av %s"
 
+msgid "UNTITLED_PLAYLIST"
+msgstr "Untitled Playlist"
+
+msgid "UPLOAD_CONTACT_DISCORD_OR_EMAIL_FORMAT"
+msgstr "Please contact us on Discord or via email to %s."
+
 msgid "UPLOAD_OPTIONS"
 msgstr "Upload Options"
 
 # Upload status
 msgid "UPLOAD_STATUS"
 msgstr "Upload Status"
+
+# Upload to YouTube page
+msgid "UPLOAD_YOUTUBE_INTEGRATION_BANNED"
+msgstr "Your account has been restricted from using our YouTube integration services."
 
 msgid "USERS"
 msgstr "Users"

@@ -3,8 +3,20 @@ msgstr ""
 "Language: de_DE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "APPLICATION_TOKEN"
+msgstr "App-Token"
+
+msgid "APPLICATION_TOKEN_INFO"
+msgstr "Hier ist dein App-Token, welcher in bestimmten Apps, die ihn brauchen, verwendet werden kann. Teile diesen Token mit niemandem."
+
+msgid "APPLICATION_TOKEN_INFO_2"
+msgstr "Dieser Token kann nicht verwendet werden, um Support anzufordern."
+
 msgid "DO_NOT_SHARE_TOKEN"
 msgstr "Teile diesen Token mit niemandem. Falls jemand mit dir in Kontakt tritt, sich als Sudomemo-Support ausgibt und dich nach diesem Token fragt, gebe sie ihnen nicht."
+
+msgid "GET_APPLICATION_TOKEN"
+msgstr "Get App Token"
 
 msgid "GET_SUPPORT_TOKEN"
 msgstr "Support-Token erhalten"
@@ -26,6 +38,9 @@ msgstr "Support-Token"
 
 msgid "SUPPORT_TOKEN_INFO"
 msgstr "Hier ist dein Support-Token, nach dem du gefragt wurdest, als du den Sudomemo-Support kontaktiert hast."
+
+msgid "YOU_ARE_REQUESTING_APPLICATION_TOKEN"
+msgstr "Du forderst nun einen App-Token an, welcher in bestimmten Apps, die ihn brauchen, verwendet wird."
 
 msgid "YOU_ARE_REQUESTING_SUPPORT_TOKEN"
 msgstr "Du forderst nun einen Support-Token an, welcher zur Verifizierung deiner Identität beim Kontakt mit dem Sudomemo-Support verwendet wird."

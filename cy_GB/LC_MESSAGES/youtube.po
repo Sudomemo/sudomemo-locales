@@ -114,11 +114,17 @@ msgstr "To fix this, visit:"
 msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
 msgstr "Your YouTube account is unverified. Certain features will not function correctly, such as video thumbnails and Flipnotes longer than 15 minutes."
 
+msgid "YOUTUBE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
+msgstr "Please contact us on Discord or via email to %s."
+
 msgid "YOUTUBE_ESTIMATED_DURATION"
 msgstr "Estimated video duration:"
 
 msgid "YOUTUBE_ID"
 msgstr "YouTube ID"
+
+msgid "YOUTUBE_INTEGRATION_BANNED"
+msgstr "Your account and console have been restricted from using our YouTube integration services."
 
 msgid "YOUTUBE_LOOP_COUNT"
 msgstr "Number of plays"

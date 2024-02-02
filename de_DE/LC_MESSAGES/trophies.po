@@ -17,6 +17,9 @@ msgstr "Weiter"
 msgid "TROPHY_CASE"
 msgstr "Trophäen-Vitrine"
 
+msgid "TROPHY_DESC_10th_birthday_bash"
+msgstr "Attended Sudomemo's 10th Birthday Bash event"
+
 msgid "TROPHY_DESC_7th_birthday_bash"
 msgstr "Nahm an Sudomemo's Spaß-Jubiläum für 7 Jahre Flipnote teil."
 
@@ -37,6 +40,9 @@ msgstr "Hat 2017 beim Sudomemo-Update-Demo-Test-Programm teilgenommen"
 
 msgid "TROPHY_DESC_early_adopter"
 msgstr "Ist Sudomemo während des ersten Monats beigetreten"
+
+msgid "TROPHY_DESC_fall_2023_ffc_winner"
+msgstr "One of the winners of the Fall 2023 Sudomemo Flipnote Fight Competition!"
 
 msgid "TROPHY_DESC_featured_artist"
 msgstr "Ist ein offiziell empfohlener Künstler auf Sudomemo"
@@ -92,8 +98,14 @@ msgstr "Ist in der 2021 Sudomemo Rewind erschienen!"
 msgid "TROPHY_DESC_rewind_2022"
 msgstr "Ist in der 2022 Sudomemo Rewind erschienen!"
 
+msgid "TROPHY_DESC_rewind_2023"
+msgstr "Featured in 2023's Sudomemo Rewind!"
+
 msgid "TROPHY_DESC_spookmaster"
 msgstr "Spukmeister-Verzeichnung für Exzellenz in Hexerei, Zauberei und sonst Derlei"
+
+msgid "TROPHY_DESC_spring_2023_ffc_winner"
+msgstr "Einer der Gewinner der ersten Sudomemo Flipnote Fight Competition!"
 
 msgid "TROPHY_DESC_sudomemo_radio"
 msgstr "Hat Inhalte zu einer Episode von Sudomemo Radio beigetragen"
@@ -109,6 +121,9 @@ msgstr "Hat schon mal bei Sudomemo's wöchentlichen Thema teilgenommen und gewon
 
 msgid "TROPHY_DESC_welcoming_champion"
 msgstr "Hat den Titel des Einladenden Champions verdient."
+
+msgid "TROPHY_NAME_10th_birthday_bash"
+msgstr "10th Birthday Bash"
 
 msgid "TROPHY_NAME_7th_birthday_bash"
 msgstr "7. 'Birthday Bash'"
@@ -131,6 +146,9 @@ msgstr "Demo-Tester"
 
 msgid "TROPHY_NAME_early_adopter"
 msgstr "Früher Nutzer"
+
+msgid "TROPHY_NAME_fall_2023_ffc_winner"
+msgstr "Fall 2023 Sudomemo Flipnote Fight Competition Winner"
 
 msgid "TROPHY_NAME_featured_artist"
 msgstr "Empfohlener Künstler"
@@ -186,8 +204,14 @@ msgstr "Sudomemo Rewind 2021"
 msgid "TROPHY_NAME_rewind_2022"
 msgstr "Sudomemo Rewind 2022"
 
+msgid "TROPHY_NAME_rewind_2023"
+msgstr "Sudomemo Rewind 2023"
+
 msgid "TROPHY_NAME_spookmaster"
 msgstr "Spukmeister"
+
+msgid "TROPHY_NAME_spring_2023_ffc_winner"
+msgstr "Frühling 2023 Sudomemo Flipnote Fight Competition-Gewinner"
 
 msgid "TROPHY_NAME_sudomemo_radio"
 msgstr "Sudomemo Radio-Beitragender"

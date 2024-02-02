@@ -48,8 +48,8 @@ for lang in $(echo ??_?? | tr ' ' '\n' | grep $LANGFILTER); do
 
         # Missing/extra strings?
 
-        ENG_MSGID_LIST=$(grep -Po "^msgid..\K.+?(?=\")" en_US/LC_MESSAGES/$domain.po | sort | uniq)
-        NEW_MSGID_LIST=$(grep -Po "^msgid..\K.+?(?=\")" $lang/LC_MESSAGES/$domain.po | sort | uniq)
+        ENG_MSGID_LIST=$(grep -Po "^msgid..\K.+?(?=\")" en_US/LC_MESSAGES/$domain.po | sort -u)
+        NEW_MSGID_LIST=$(grep -Po "^msgid..\K.+?(?=\")" $lang/LC_MESSAGES/$domain.po | sort -u)
 
         COMPARE_MISSING=$(comm -23 <(echo "$ENG_MSGID_LIST") <(echo "$NEW_MSGID_LIST"))
         COMPARE_EXTRA=$(comm -23 <(echo "$NEW_MSGID_LIST") <(echo "$ENG_MSGID_LIST"))
@@ -100,7 +100,7 @@ for lang in $(echo ??_?? | tr ' ' '\n' | grep $LANGFILTER); do
 
         # check ignore list
         if [ -f $DIR/ignores/$lang/$domain.txt ]; then
-            PRUNE=$(comm -23 <(echo "$RESULTS") <(sort $DIR/ignores/$lang/$domain.txt | uniq))
+            PRUNE=$(comm -23 <(echo "$RESULTS") <(sort -u $DIR/ignores/$lang/$domain.txt))
             RESULTS=$PRUNE
         fi
 

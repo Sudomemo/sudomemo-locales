@@ -49,61 +49,64 @@ msgid "PAGE_FORMAT"
 msgstr "Seite %d"
 
 msgid "ROOM_NAME_anime_chat"
-msgstr "Anime Chat"
+msgstr "Anime-Chat"
+
+msgid "ROOM_NAME_birthday_bash"
+msgstr "Sudomemo Birthday Bash"
 
 msgid "ROOM_NAME_blue_chat"
-msgstr "Blue Chat"
+msgstr "Blauer Chat"
 
 msgid "ROOM_NAME_drawings"
-msgstr "Drawings"
+msgstr "Zeichnungen"
 
 msgid "ROOM_NAME_french_chat"
-msgstr "French Chat"
+msgstr "Französischer Chat"
 
 msgid "ROOM_NAME_friend_code_exchange"
-msgstr "Friend Code Exchange"
+msgstr "Freundescode-Austausch"
 
 msgid "ROOM_NAME_german_chat"
-msgstr "German Chat"
+msgstr "Deutscher Chat"
 
 msgid "ROOM_NAME_greek_chat"
-msgstr "Greek Chat"
+msgstr "Griechischer Chat"
 
 msgid "ROOM_NAME_green_chat"
-msgstr "Green Chat"
+msgstr "Grüner Chat"
 
 msgid "ROOM_NAME_japanese_chat"
-msgstr "Japanese Chat"
+msgstr "Japanischer Chat"
 
 msgid "ROOM_NAME_kirby_chat"
-msgstr "Kirby Chat"
+msgstr "Kirby-Chat"
 
 msgid "ROOM_NAME_mlp_chat"
-msgstr "MLP Chat"
+msgstr "MLP-Chat"
 
 msgid "ROOM_NAME_music_chat"
-msgstr "Music Chat"
+msgstr "Musik-Chat"
 
 msgid "ROOM_NAME_orange_chat"
-msgstr "Orange Chat"
+msgstr "Orangener Chat"
 
 msgid "ROOM_NAME_pokemon_chat"
-msgstr "Pokémon Chat"
+msgstr "Pokémon-Chat"
 
 msgid "ROOM_NAME_red_chat"
-msgstr "Red Chat"
+msgstr "Roter Chat"
 
 msgid "ROOM_NAME_roleplay_chat_1"
-msgstr "Roleplay Chat 1"
+msgstr "Rollenspiel-Chat 1"
 
 msgid "ROOM_NAME_roleplay_chat_2"
-msgstr "Roleplay Chat 2"
+msgstr "Rollenspiel-Chat 2"
 
 msgid "ROOM_NAME_spanish_chat"
-msgstr "Spanish Chat"
+msgstr "Spanischer Chat"
 
 msgid "ROOM_NAME_stick_figure_chat"
-msgstr "Stick Figure Chat"
+msgstr "Strichfiguren-Chat"
 
 msgid "ROOM_NAME_wolf_chat"
-msgstr "Wolf Chat"
+msgstr "Wolf-Chat"

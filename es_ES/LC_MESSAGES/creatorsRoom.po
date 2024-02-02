@@ -52,13 +52,13 @@ msgid "CHANGE_ROOM_THEME_LINK"
 msgstr "[Cambiar fondo]"
 
 msgid "CREATORS_ROOM"
-msgstr "Sala del Creador"
+msgstr "Sala del creador"
 
 msgid "CURRENT_BIO"
 msgstr "Biografía actual:"
 
 msgid "DRAW_REGULAR_TICKET"
-msgstr "Obtener Ticket"
+msgstr "Obtener ticket"
 
 msgid "ENTER_BIO"
 msgstr "Ingresar biografía..."
@@ -73,20 +73,20 @@ msgid "FAN_COUNT_FORMAT"
 msgstr "Aficionados: %s"
 
 msgid "FAVORITES_FEED"
-msgstr "Flipnotes de tus Usuarios Favoritos"
+msgstr "Flipnotes de tus favoritos"
 
 msgid "FAVORITE_CHANNELS"
-msgstr "Canales Favoritos"
+msgstr "Canales favoritos"
 
 msgid "FAVORITE_USERS"
-msgstr "Usuarios Favoritos"
+msgstr "Usuarios favoritos"
 
 msgid "FEATURE_USABILITY"
 msgstr "Usabilidad de las funciones"
 
 # Matches button on page 4 of Flipnote Studio settings
 msgid "FLIPNOTE_FRIENDS"
-msgstr "Flipnote Friends"
+msgstr "Amigos Flipnote"
 
 msgid "FLIPNOTE_FRIENDS_INFO"
 msgstr "Creators you've exchanged Flipnotes with"
@@ -113,7 +113,11 @@ msgid "HEADER_MAIL_SETTINGS"
 msgstr "Ajustes de correo"
 
 msgid "HEADER_SUPPORT_TOKEN"
-msgstr "Support Token"
+msgstr "Código de soporte"
+
+# View interstitial button
+msgid "INTERSTITIAL_BUTTON"
+msgstr "Help keep Sudomemo alive!"
 
 msgid "INVENTORY"
 msgstr "Inventario"
@@ -155,7 +159,7 @@ msgid "REDEEM"
 msgstr "Canjear"
 
 msgid "REQUEST"
-msgstr "Request"
+msgstr "Solicitar"
 
 msgid "SEE_MORE"
 msgstr "Ver más..."

@@ -18,11 +18,13 @@ msgstr "Je moet opnieuw inloggen voordat je dit kan zien."
 msgid "MAIL_NOT_FOUND"
 msgstr "Dit bericht bestaat niet."
 
+# "Vooruit" should be used with "Achteruit". But in this context, it isn't.
 msgid "NEXT"
-msgstr "Vooruit"
+msgstr "Volgende"
 
+# "Terug" is Return. Not previous.
 msgid "PREV"
-msgstr "Terug"
+msgstr "Vorige"
 
 msgid "TITLE_INFO"
 msgstr "Info"
@@ -31,7 +33,7 @@ msgid "TITLE_MESSAGE"
 msgstr "Bericht"
 
 msgid "TITLE_NEWFRIEND"
-msgstr "New Friend!"
+msgstr "Nieuwe Vriend!"
 
 msgid "TITLE_NEWS"
 msgstr "Niews"

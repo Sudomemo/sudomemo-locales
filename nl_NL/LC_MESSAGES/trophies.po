@@ -18,17 +18,20 @@ msgstr "Doorgaan"
 msgid "TROPHY_CASE"
 msgstr "Prijzenkast"
 
+msgid "TROPHY_DESC_10th_birthday_bash"
+msgstr "Attended Sudomemo's 10th Birthday Bash event"
+
 msgid "TROPHY_DESC_7th_birthday_bash"
-msgstr "Attended Sudomemo's 7 Years of Flipnote Fun event"
+msgstr "Woonde het 7 Years of Flipnote Fun-evenement van Sudomemo bij"
 
 msgid "TROPHY_DESC_8th_birthday_bash"
-msgstr "Attended Sudomemo's 8 Years of Flipnote Fun event"
+msgstr "Woonde het 8 Years of Flipnote Fun-evenement van Sudomemo bij"
 
 msgid "TROPHY_DESC_9th_birthday_bash"
-msgstr "Attended Sudomemo's 9th Birthday Bash event"
+msgstr "Woonde het 9 Years of Flipnote Fun-evenement van Sudomemo bij"
 
 msgid "TROPHY_DESC_archive_supporter"
-msgstr "Contributor to the Flipnote Archive Ko-Fi to help preserve Flipnote history!"
+msgstr "Bijdrager aan het Flipnote-archief Ko-Fi om de geschiedenis van Flipnote te helpen behouden!"
 
 msgid "TROPHY_DESC_colors_promo"
 msgstr "Één van de winnaars van de Sudomemo x Colors! gedeeld onderwerp, In het Licht"
@@ -38,6 +41,9 @@ msgstr "Participeer in het 2017 Sudomemo Update Demo Testprogramma"
 
 msgid "TROPHY_DESC_early_adopter"
 msgstr "Neem deel aan Sudomemo in onze eerste maand"
+
+msgid "TROPHY_DESC_fall_2023_ffc_winner"
+msgstr "Een van de winnaars van de Sudomemo Flipnote Fight-wedstrijd herfst 2023!"
 
 msgid "TROPHY_DESC_featured_artist"
 msgstr "Wordt erkend als Uitgelichte Kunstenaar"
@@ -85,22 +91,28 @@ msgid "TROPHY_DESC_one_million_flips_event"
 msgstr "Doe mee aan het één-miljoen-Flipnotesevenement"
 
 msgid "TROPHY_DESC_patreon_patron"
-msgstr "Supported Sudomemo through Patreon"
+msgstr "Heeft Sudomemo via Patreon gesteund"
 
 msgid "TROPHY_DESC_rewind_2021"
-msgstr "Featured in 2021's Sudomemo Rewind!"
+msgstr "Uitgelicht in Sudomemo Rewind van 2021!"
 
 msgid "TROPHY_DESC_rewind_2022"
-msgstr "Featured in 2022's Sudomemo Rewind!"
+msgstr "Uitgelicht in Sudomemo Rewind van 2022!"
+
+msgid "TROPHY_DESC_rewind_2023"
+msgstr "Featured in 2023's Sudomemo Rewind!"
 
 msgid "TROPHY_DESC_spookmaster"
-msgstr "Spookmaster Award for Excellence in Witchcraft and Wizardry."
+msgstr "Spookmaster Award voor uitmuntendheid in hekserij en tovenarij."
+
+msgid "TROPHY_DESC_spring_2023_ffc_winner"
+msgstr "Een van de winnaars van de eerste Sudomemo Flipnote Fight Competition!"
 
 msgid "TROPHY_DESC_sudomemo_radio"
-msgstr "Contributed content to an episode of Sudomemo Radio"
+msgstr "Inhoud bijgedragen aan een aflevering van Sudomemo Radio"
 
 msgid "TROPHY_DESC_sudomemo_radio_pilot"
-msgstr "Contributed content to the very first episode of Sudomemo Radio"
+msgstr "Inhoud bijgedragen aan de allereerste aflevering van Sudomemo Radio"
 
 msgid "TROPHY_DESC_translator"
 msgstr "Draag vertalingen bij om Sudomemo open voor iedereen te maken"
@@ -108,20 +120,24 @@ msgstr "Draag vertalingen bij om Sudomemo open voor iedereen te maken"
 msgid "TROPHY_DESC_weekly_topic_winner"
 msgstr "Dien een winnende inzending in naar Sudomemo's Wekelijks Onderwerp"
 
+# Decided to not translate this string, see bottom / title why.
 msgid "TROPHY_DESC_welcoming_champion"
-msgstr "Earned the title of Welcoming Champion."
+msgstr "Verdiende de titel van Welcoming Champion."
+
+msgid "TROPHY_NAME_10th_birthday_bash"
+msgstr "10th Birthday Bash"
 
 msgid "TROPHY_NAME_7th_birthday_bash"
-msgstr "7th Birthday Bash"
+msgstr "7e verjaardagsfeest"
 
 msgid "TROPHY_NAME_8th_birthday_bash"
-msgstr "8th Birthday Bash"
+msgstr "8ste verjaardagsfeest"
 
 msgid "TROPHY_NAME_9th_birthday_bash"
-msgstr "9th Birthday Bash"
+msgstr "9dee verjaardagsfeest"
 
 msgid "TROPHY_NAME_archive_supporter"
-msgstr "Archive Supporter"
+msgstr "Archiefondersteuner"
 
 msgid "TROPHY_NAME_colors_promo"
 msgstr "Colors! x Sudomemo OnderwerpWinnaar"
@@ -131,9 +147,12 @@ msgstr "Colors! x Sudomemo OnderwerpWinnaar"
 msgid "TROPHY_NAME_demo_tester"
 msgstr "Demo-tester"
 
-#
+# Better to keep this untranslated as there is no good translation for this as far as I know.
 msgid "TROPHY_NAME_early_adopter"
 msgstr "Early Adopter"
+
+msgid "TROPHY_NAME_fall_2023_ffc_winner"
+msgstr "Fall 2023 Sudomemo Flipnote Fight Competitie Winnaar"
 
 msgid "TROPHY_NAME_featured_artist"
 msgstr "Uitgelichte Kunstenaars"
@@ -142,19 +161,19 @@ msgid "TROPHY_NAME_featured_flipnote"
 msgstr "Uitgelichte Flipnote"
 
 msgid "TROPHY_NAME_ffotd"
-msgstr "Eerste Flipnote van de Decade"
+msgstr "Eerste Flipnote van de Eeuw"
 
 msgid "TROPHY_NAME_fifth_bday_event"
 msgstr "Sudomemo's Vijfde Verjaardagsfeest"
 
 msgid "TROPHY_NAME_flipnote_friends"
-msgstr "Flipnote Friends"
+msgstr "Flipnote Vrienden"
 
 msgid "TROPHY_NAME_folder"
-msgstr "Folder"
+msgstr "Map"
 
 msgid "TROPHY_NAME_legacy_citizen"
-msgstr "Legacy Citizen"
+msgstr "Ervaren burger"
 
 msgid "TROPHY_NAME_meet_bailey_flitwing"
 msgstr "Ontmoet Bailey Flitwing"
@@ -189,8 +208,14 @@ msgstr "Sudomemo Rewind 2021"
 msgid "TROPHY_NAME_rewind_2022"
 msgstr "Sudomemo Rewind 2022"
 
+msgid "TROPHY_NAME_rewind_2023"
+msgstr "Sudomemo Rewind 2023"
+
 msgid "TROPHY_NAME_spookmaster"
 msgstr "Spookmaster"
+
+msgid "TROPHY_NAME_spring_2023_ffc_winner"
+msgstr "Spring 2023 Sudomemo Flipnote Fight Competitie Winnaar"
 
 msgid "TROPHY_NAME_sudomemo_radio"
 msgstr "Sudomemo Radio Contributor"
@@ -204,5 +229,6 @@ msgstr "Vertaler"
 msgid "TROPHY_NAME_weekly_topic_winner"
 msgstr "Wekelijks Onderwerpwinnaar"
 
+# There is no good translation as far as I know for this so it's best to leave it untouched.
 msgid "TROPHY_NAME_welcoming_champion"
 msgstr "Welcoming Champion"

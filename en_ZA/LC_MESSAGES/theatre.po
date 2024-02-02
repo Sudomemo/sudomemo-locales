@@ -17,6 +17,12 @@ msgstr "Oopie daisy! wateves u was lookin fer wasnt there :("
 msgid "ACCOUNT_SETTINGS"
 msgstr "Account Thingies"
 
+msgid "ADD_TO_NEW_PLAYLIST"
+msgstr "Add to new Playlist"
+
+msgid "ADD_TO_PLAYLIST"
+msgstr "Add to Playlist"
+
 msgid "ALT_DRAWN_COMMENT_BY_USER"
 msgstr "Drawn comment by %s"
 
@@ -26,7 +32,7 @@ msgstr "%s's ñ picture"
 # Front Page
 # # Alt tags, aria labels
 msgid "ALT_WEEKLY_TOPIC_BANNER"
-msgstr "Banner advertising the Weekly Topic"
+msgstr "Banner advertising the Weekly Topic B)"
 
 msgid "ARCHIVE"
 msgstr "Archive"
@@ -56,16 +62,16 @@ msgstr "Back"
 
 # Browse Channel
 msgid "BROWSE_CHANNEL_NO_FLIPNOTES_YET"
-msgstr "There have been no Flipnotes posted to this channel yet."
+msgstr "Thers been no flips posted to this channel yet. :("
 
 # Browse Song
 msgid "BROWSE_SONG_NO_FLIPNOTES_YET"
-msgstr "There aint no Flipnotes made with this song yet. sry :("
+msgstr "There aint no flipnots wit dis song yet. sry :("
 
 # Additional things
 # See Flipnotes with the song <song name> by <band/artist name>
 msgid "BROWSE_SONG_YOU_ARE_BROWSING_SONG"
-msgstr "See flipynotes with the song %s by %s"
+msgstr "See flipcnotes wit teh song %s by %s"
 
 msgid "BTN_GET_STARTED"
 msgstr "Get Started"
@@ -89,13 +95,13 @@ msgid "BTN_UPLOAD_FAILED"
 msgstr "Upload failed... sry :("
 
 msgid "CATEGORY"
-msgstr "Category"
+msgstr "Nations"
 
 msgid "CHANNEL"
-msgstr "Channel"
+msgstr "MUM LOOK!!"
 
 msgid "CHANNELS"
-msgstr "Channels"
+msgstr "MUM LOOK!!s"
 
 msgid "CHANNEL_CAT_NAME_ART"
 msgstr "Art"
@@ -132,14 +138,23 @@ msgstr "Closed"
 msgid "CHANNEL_PERM_OPEN"
 msgstr "Open"
 
+msgid "CHRONOLOGICAL"
+msgstr "Chronological"
+
 msgid "COMMENTS"
-msgstr "Comments"
+msgstr "AAAAA"
 
 msgid "CONTINUE"
 msgstr "Continue"
 
 msgid "COULD_NOT_SAVE_DETAILS"
 msgstr "Cant save details... sry :("
+
+msgid "CREATED"
+msgstr "Created"
+
+msgid "CREATE_NEW_PLAYLIST"
+msgstr "Create New Playlist"
 
 msgid "CREATOR"
 msgstr "Creator"
@@ -166,16 +181,31 @@ msgid "DATETIME_WEEKDAY_MONTH_DAY_ORDINAL_YEAR_FORMAT"
 msgstr "l, F jS, Y"
 
 msgid "DEFAULT_META_DESCRIPTION"
-msgstr "Sudomemo: Share your Flipnotes with the world! For Nintendo DSi and 3DS."
+msgstr "Sudomemo: Share ur flips wit teh universe!!!! For dsi n 3ds. :D"
+
+msgid "DELETE_PLAYLIST"
+msgstr "Delete Playlist"
+
+msgid "DELETE_PLAYLIST_CONFIRM_1"
+msgstr "Are you sure you want to delete this playlist?"
+
+msgid "DELETE_PLAYLIST_CONFIRM_2"
+msgstr "This action is irreversible!"
+
+msgid "DELETE_PLAYLIST_CONFIRM_NO"
+msgstr "No"
+
+msgid "DELETE_PLAYLIST_CONFIRM_YES"
+msgstr "Yes"
 
 msgid "DESCRIPTION"
 msgstr "Description"
 
 msgid "DESCRIPTION_WILL_GO_HERE"
-msgstr "Your description will go here."
+msgstr "description goes here i think."
 
 msgid "DETAILS"
-msgstr "Details"
+msgstr "Derails"
 
 # This refers to Discord, which is a chat app.
 msgid "DISCORD"
@@ -189,7 +219,7 @@ msgid "DISCORD_LINKED_ON_DATE"
 msgstr "Connected since %s"
 
 msgid "DOWNLOADS"
-msgstr "Downloads"
+msgstr "savies!"
 
 # Flipnote View Page
 msgid "EDIT_FLIPNOTE"
@@ -209,7 +239,7 @@ msgid "EDIT_PAGE_DESCRIPTION_TOOLTIP"
 msgstr "Letters, numbers, and symbols, maximum of 320 characters."
 
 msgid "EDIT_PAGE_ENTER_A_DESCRIPTION"
-msgstr "Enter a description"
+msgstr "ya description put it in here.."
 
 msgid "EDIT_PAGE_ENTER_A_TITLE"
 msgstr "Enter a title"
@@ -218,7 +248,7 @@ msgid "EDIT_PAGE_FLIPNOTE_PREVIEW_NOTE"
 msgstr "Note: Flipnote preview does not update."
 
 msgid "EDIT_PAGE_MUSICMATCH_NONE_CORRECT"
-msgstr "None of these are correct"
+msgstr "Non this is correct :("
 
 msgid "EDIT_PAGE_MUSICMATCH_NO_BGM"
 msgstr "Ur flipynote dont haves audio silly."
@@ -233,17 +263,17 @@ msgid "EDIT_PAGE_MUSICMATCH_PREVIEW_ON_YOUTUBE"
 msgstr "Preview on YouTube Music"
 
 msgid "EDIT_PAGE_MUSICMATCH_UNMAPPED"
-msgstr "MusicMatch hasn't gotten to your Flipnote yet. Check back again later."
+msgstr "MusicMatch hasn't gotten to yer Flipnote yet. Check later. :)"
 
 msgid "EDIT_PAGE_MUSICMATCH_UNMATCHED"
-msgstr "MusicMatch couldn't find any songs matching your Flipnote."
+msgstr "MusicMatch didn't find no songs matching your Flipnote. sry :("
 
 msgid "EDIT_PAGE_PLUS_AUDIO_ENHANCEMENT"
-msgstr "Audio Enhancement"
+msgstr "Flipnoddle Audio Enhancement"
 
 # Flipnote smoothing
 msgid "EDIT_PAGE_PLUS_SMOOTHING"
-msgstr "Smoothing"
+msgstr "smooOOoothing"
 
 msgid "EDIT_PAGE_SUDOMEMO_PLUS_REQUIRED"
 msgstr "Yous gots to have Sudomemo Plus to use these."
@@ -254,6 +284,9 @@ msgstr "Title and Description"
 msgid "EDIT_PAGE_TITLE_TOOLTIP"
 msgstr "Letters, numbers, and symbols, maximum of 40 characters."
 
+msgid "EDIT_PLAYLIST"
+msgstr "Edit Playlist"
+
 msgid "FANS"
 msgstr "hearties"
 
@@ -261,14 +294,14 @@ msgid "FAVORITE_OF"
 msgstr "Favorite of"
 
 msgid "FEATURED"
-msgstr "Featured"
+msgstr "Shiny!!!"
 
 msgid "FEATURED_FLIPNOTES"
 msgstr "Oooh Shiny!!"
 
 # usage context: rss or personalized feed
 msgid "FEED"
-msgstr "Feed"
+msgstr "Feed yum"
 
 msgid "FLIPNOTE"
 msgstr "flipynote"
@@ -306,7 +339,7 @@ msgid "FLIPNOTE_LIST_RECALCULATING"
 msgstr "The rankings are currently being recalculated. Try reloading the page in a few moments."
 
 msgid "FLIPNOTE_SETTINGS_UPLOAD_TO_YOUTUBE"
-msgstr "You can upload your Flipnote to your YouTube channel. Click the button below to get started."
+msgstr "U can upload ur flip to youtube!!!. Just click teh lil button below to get start!! :D"
 
 # Japanese translation should also be be うごメモID here
 msgid "FLIPNOTE_STUDIO_ID"
@@ -323,7 +356,7 @@ msgstr "frens"
 
 # Creator's Room (Profile)
 msgid "FOLLOWS_YOU"
-msgstr "Follows You!"
+msgstr "Follows You! :D"
 
 msgid "FOLLOW_BACK"
 msgstr "Follow Back!"
@@ -358,7 +391,7 @@ msgstr "Change Password"
 # Upload page specifics
 # Upload to YouTube header
 msgid "HEADER_UPLOAD_TO_YOUTUBE"
-msgstr "Upload to YouTube"
+msgstr "Upload to youtube!!"
 
 msgid "HELP_CENTER"
 msgstr "Help Center"
@@ -383,7 +416,7 @@ msgid "LEARN_MORE"
 msgstr "Learn more"
 
 msgid "LINK_REQUIRED_BEFORE_UPLOAD"
-msgstr "You'll need to link your YouTube channel before you can upload your Flipnote."
+msgstr "You gotta link yer YouTube channel before u can upload your Flipnote silly"
 
 # # Ticket types..
 # Login Page
@@ -399,8 +432,14 @@ msgstr "Email or Flipnote Studio ID"
 msgid "LOGIN_SIGNUP_SELECT_DEVICE"
 msgstr "Select your device"
 
+msgid "MANAGE_PLAYLIST"
+msgstr "Manage Playlist"
+
 msgid "MODERATOR"
 msgstr "Moderator"
+
+msgid "MODIFIED"
+msgstr "Modified"
 
 msgid "MORE"
 msgstr "More"
@@ -535,6 +574,52 @@ msgstr "The URL you visited has expired."
 msgid "PERMISSIONS"
 msgstr "Permissions"
 
+msgid "PLAYLIST"
+msgstr "Playlist"
+
+msgid "PLAYLISTS"
+msgstr "Playlists"
+
+msgid "PLAYLIST_ERROR_BLOCKED_BY_AUTHOR"
+msgstr "You cannot add this Flipnote to a playlist because you have been blocked by the Flipnote's author."
+
+msgid "PLAYLIST_ERROR_BLOCKING_AUTHOR"
+msgstr "You cannot add this Flipnote to a playlist because you have blocked the Flipnote's author."
+
+# '%s' will be replaced with an error code when shown to the user.
+msgid "PLAYLIST_ERROR_GENERIC"
+msgstr "An error occurred whilst saving this playlist. Error code: %s."
+
+msgid "PLAYLIST_ERROR_GENERIC_2"
+msgstr "An error occurred. Error code: %s."
+
+msgid "PLAYLIST_ERROR_PROFANE_DESC"
+msgstr "This description contains content that goes against our Content Policy."
+
+msgid "PLAYLIST_ERROR_PROFANE_TITLE"
+msgstr "This title contains content that goes against our Content Policy."
+
+msgid "PLAYLIST_ID"
+msgstr "Playlist ID"
+
+msgid "PLAYLIST_NO_FLIPNOTES"
+msgstr "There have been no Flipnotes added to this playlist yet."
+
+msgid "PLAYLIST_PRIVATE"
+msgstr "Private"
+
+msgid "PLAYLIST_PUBLIC"
+msgstr "Public"
+
+msgid "PLAYLIST_UNKNOWN"
+msgstr "Unknown"
+
+msgid "PLAYLIST_UNLISTED"
+msgstr "Unlisted"
+
+msgid "PLAYLIST_VISIBILITY"
+msgstr "Visibility"
+
 msgid "PLUS_LEARN_MORE"
 msgstr "Learn more..."
 
@@ -561,7 +646,7 @@ msgstr "%s - %s fans, %s Flipnotes on Sudomemo"
 
 # # Recent comments on their Flipnotes
 msgid "PROFILE_RECENT_COMMENTS"
-msgstr "Recent comments"
+msgstr "Recent AAAAAA"
 
 # # User's ★ are from:
 msgid "PROFILE_STAR_COUNTRY_HEADER"
@@ -607,14 +692,23 @@ msgstr "Unknown"
 msgid "RELEASED"
 msgstr "Released"
 
+msgid "REMOVE_FROM_PLAYLIST"
+msgstr "Remove from Playlist"
+
+msgid "RESET_PASSWORD_BY_FSID"
+msgstr "You can still reset your password with your Flipnote Studio ID! Simply send a quick message to Sudomemo Support and we'll get that sent out to you."
+
 msgid "ROOT_FLIPNOTE"
-msgstr "Root Flipnote"
+msgstr "the OG!!"
 
 msgid "SAVE"
-msgstr "Save"
+msgstr "lock it in"
+
+msgid "SAVE_PLAYLIST"
+msgstr "Save Playlist"
 
 msgid "SAVING"
-msgstr "Saving"
+msgstr "Locking it in!!!"
 
 msgid "SEARCH"
 msgstr "Search"
@@ -627,13 +721,13 @@ msgstr "Tip: You can enter things like 'Austin' and find results like 'ÄuらtÎ
 
 # # User hasn't posted any Flipnotes yet
 msgid "SEARCH_PAGE_NO_FLIPNOTES_YET"
-msgstr "No Flipnotes yet..."
+msgstr "No flipsnote yet... :("
 
 msgid "SEARCH_PAGE_NO_RESULTS_FOUND"
 msgstr "No results found."
 
 msgid "SEARCH_PAGE_TOO_MANY_MATCHED"
-msgstr "Your query matched too many creators - try something more specific."
+msgstr "Yer search matched too many peeps - try sumthin more specific."
 
 # Search page
 msgid "SEARCH_SUDOMEMO"
@@ -643,7 +737,7 @@ msgid "SEE_MORE"
 msgstr "See more"
 
 msgid "SETTINGS"
-msgstr "Settings"
+msgstr "fiddle"
 
 msgid "SHARE"
 msgstr "Share"
@@ -667,7 +761,7 @@ msgid "SHOW_ON_PROFILE"
 msgstr "Show on profile"
 
 msgid "SHOW_YOUTUBE_LINK_ON_MY_PROFILE"
-msgstr "Show a link to my YouTube channel on my Sudomemo profile"
+msgstr "Show link to me youtube on my Sudomemo profile!!!"
 
 msgid "SIGN_IN"
 msgstr "Sign in"
@@ -744,7 +838,7 @@ msgstr "Title"
 
 # Referring to being the most popular (in terms of ranking)
 msgid "TOP"
-msgstr "Top"
+msgstr "Epic!"
 
 # ## This is composed of two parts: SIGN_IN and TO_ADD_A_COMMENT
 # ## SIGN_IN is a link to the login page, and TO_ADD_A_COMMENT is the part that comes after.
@@ -753,18 +847,28 @@ msgid "TO_ADD_A_COMMENT"
 msgstr "to add a comment"
 
 msgid "TROPHY_CASE"
-msgstr "Trophy Case"
+msgstr "Trophy Case ;D"
 
 # This is shown to logged-in users on their own Flipnotes without titles
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "Untitled Flipnote by %s"
 
+msgid "UNTITLED_PLAYLIST"
+msgstr "Untitled Playlist"
+
+msgid "UPLOAD_CONTACT_DISCORD_OR_EMAIL_FORMAT"
+msgstr "Please contact us on Discord or via email to %s."
+
 msgid "UPLOAD_OPTIONS"
-msgstr "Upload Options"
+msgstr "Upload fiddling"
 
 # Upload status
 msgid "UPLOAD_STATUS"
-msgstr "Upload Status"
+msgstr "Upload stats"
+
+# Upload to YouTube page
+msgid "UPLOAD_YOUTUBE_INTEGRATION_BANNED"
+msgstr "Your account has been restricted from using our YouTube integration services."
 
 msgid "USERS"
 msgstr "Users"
@@ -798,21 +902,21 @@ msgid "VIEWPAGE_COMMENT_FAILED"
 msgstr "Comment failed... sry :("
 
 msgid "VIEWPAGE_COMMENT_POSTED"
-msgstr "Posted!"
+msgstr "Gone! Posted!!!!"
 
 # ## When the Post Comment button is pressed, it changes to "Posting..." and then "Posted!" when complete.
 msgid "VIEWPAGE_COMMENT_POSTING"
-msgstr "Posting..."
+msgstr "Going Going..."
 
 msgid "VIEWPAGE_COMMENT_POST_BUTTON"
-msgstr "Post Comment"
+msgstr "Post AAAAAA"
 
 msgid "VIEWPAGE_COMMENT_TEXTBOX"
 msgstr "Comment entry text box"
 
 # # Comments section
 msgid "VIEWPAGE_COMMENT_WRITE_HERE"
-msgstr "Write here"
+msgstr "ya ya right here"
 
 msgid "VIEWPAGE_MODERATOR_COMMENT_WARNING"
 msgstr "Do not use this for personal comments."
@@ -839,19 +943,19 @@ msgid "VIEW_ON_SUDOMEMO"
 msgstr "View on Sudomemo"
 
 msgid "WATCH_HISTORY"
-msgstr "Watch History"
+msgstr "watcharoo History"
 
 msgid "WELCOME_BOX_AFTERNOON_GREETING"
-msgstr "Good afternoon"
+msgstr "hi, nice weather"
 
 # ## Our welcome box can change it's greeting, depending on time of day.
 # ## It is displayed like this:
 # ## Good afternoon, User! Happy Flipnoting!
 msgid "WELCOME_BOX_DEFAULT_GREETING"
-msgstr "Hello"
+msgstr "hi"
 
 msgid "WELCOME_BOX_EVENING_GREETING"
-msgstr "Good evening"
+msgstr "hi, go to sleep"
 
 # Give, in the same sense as "Donate"
 msgid "WELCOME_BOX_GIVE"
@@ -865,7 +969,7 @@ msgid "WELCOME_BOX_HOW_TO_JOIN"
 msgstr "Learn how to Join!"
 
 msgid "WELCOME_BOX_MORNING_GREETING"
-msgstr "Good morning"
+msgstr "hi, get out of bed"
 
 msgid "WELCOME_BOX_OPEN_SUDOMIN"
 msgstr "Open Sudomin"
@@ -937,10 +1041,10 @@ msgid "YOUTUBE_LOOP_COUNT"
 msgstr "Number of plays"
 
 msgid "YOUTUBE_LOOP_COUNT_EXPLANATION"
-msgstr "Number of times a looped Flipnote will repeat. Select 1 to only play once."
+msgstr "Num of times a looped flip will repeat. Use 1 to only play 1 times!."
 
 msgid "YOUTUBE_PENDING_UPLOAD"
-msgstr "Your Flipnote is currently waiting to be uploaded. Check back in a few minutes."
+msgstr "Ur Flipnote is waiting to be uploaded rit now. Look later. :)"
 
 # Position in queue: 4 - means there are three uploads ahead of yours
 msgid "YOUTUBE_POSITION_IN_QUEUE"
@@ -953,10 +1057,10 @@ msgid "YOUTUBE_REFRESH_ACCOUNT"
 msgstr "Refresh account"
 
 msgid "YOUTUBE_STATUS_BEING_PROCESSED"
-msgstr "Your upload is currently being processed."
+msgstr "Yer upload is being processed. :D"
 
 msgid "YOUTUBE_STATUS_COMPLETE"
-msgstr "Your upload is complete!"
+msgstr "Ur upload is complete!!!"
 
 msgid "YOUTUBE_STATUS_FAILED_AUTH"
 msgstr "The upload failed due to an authentication problem."
@@ -1051,4 +1155,4 @@ msgstr "Watch now:"
 
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
-msgstr "You are editing this Flipnote:"
+msgstr "U be editing tis Flipnot e:"

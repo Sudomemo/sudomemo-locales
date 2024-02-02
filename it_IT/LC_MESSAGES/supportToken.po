@@ -3,29 +3,44 @@ msgstr ""
 "Language: it_IT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "APPLICATION_TOKEN"
+msgstr "App Token"
+
+msgid "APPLICATION_TOKEN_INFO"
+msgstr "Here is your App Token, which can be used for certain apps that require it. Don't share this token with anyone."
+
+msgid "APPLICATION_TOKEN_INFO_2"
+msgstr "This token cannot be used to request support."
+
 msgid "DO_NOT_SHARE_TOKEN"
-msgstr "Don't share this token with anyone. If someone reaches out to you claiming to be Sudomemo Support and asks you for this token, don't give it to them."
+msgstr "Non condividere questo token con nessuno. Se qualcuno ti contatta affermando di essere il Supporto Sudomemo e ti chiede questo token, non darglielo."
+
+msgid "GET_APPLICATION_TOKEN"
+msgstr "Get App Token"
 
 msgid "GET_SUPPORT_TOKEN"
-msgstr "Get Support Token"
+msgstr "Ottieni token di supporto"
 
 msgid "HATENA_ID_VERIFICATION"
-msgstr "Hatena ID Verification"
+msgstr "Verifica ID Hatena"
 
 msgid "HATENA_ID_VERIFICATION_INTRO"
-msgstr "This tool allows you to verify ownership of a Hatena ID when working with Sudomemo Support."
+msgstr "Questo strumento ti consente di verificare la proprietà di un ID Hatena quando lavori con il supporto Sudomemo."
 
 msgid "HATENA_ID_VERIFICATION_INTRO_2"
-msgstr "You will be prompted to log in to your Hatena Account, after which you will receive a Support Token."
+msgstr "Ti verrà chiesto di accedere al tuo account Hatena, dopodiché riceverai un token di supporto."
 
 msgid "LOGIN_FIRST_BEFORE_SUPPORT_TOKEN"
-msgstr "It looks like you already have an account. Please log in first before requesting a Support Token."
+msgstr "Sembra che tu abbia già un account. Accedi prima di richiedere un token di supporto."
 
 msgid "SUPPORT_TOKEN"
-msgstr "Support Token"
+msgstr "Token di supporto"
 
 msgid "SUPPORT_TOKEN_INFO"
-msgstr "Here is your Support Token, which you were asked for when you contacted Sudomemo Support."
+msgstr "Ecco il token di supporto, che ti è stato richiesto quando hai contattato il supporto di Sudomemo."
+
+msgid "YOU_ARE_REQUESTING_APPLICATION_TOKEN"
+msgstr "You are now requesting an App Token, which is used for certain apps that require it."
 
 msgid "YOU_ARE_REQUESTING_SUPPORT_TOKEN"
-msgstr "You are now requesting a Support Token, which is used to verify your identity when you contact Sudomemo Support."
+msgstr "Ora stai richiedendo un token di supporto, che viene utilizzato per verificare la tua identità quando contatti l'assistenza Sudomemo."

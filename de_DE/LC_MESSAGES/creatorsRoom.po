@@ -31,7 +31,7 @@ msgid "ADMIN_USER_STATUS"
 msgstr "Status"
 
 msgid "BLOCK"
-msgstr "Block"
+msgstr "Blockieren"
 
 msgid "BLOCKED_USERS"
 msgstr "Blockierte Benutzer"
@@ -43,7 +43,7 @@ msgid "BLOCK_COMMENTS_LINK"
 msgstr "Blockieren"
 
 msgid "BLOCK_USER"
-msgstr "Block user"
+msgstr "Benutzer blockieren"
 
 msgid "CAN_DRAW_TICKET_SUBTEXT"
 msgstr "Du kannst ein normales Ticket ziehen! Mit etwas Glück gewinnst du einen Preis."
@@ -114,6 +114,10 @@ msgstr "Mail-Einstellungen"
 
 msgid "HEADER_SUPPORT_TOKEN"
 msgstr "Support-Token"
+
+# View interstitial button
+msgid "INTERSTITIAL_BUTTON"
+msgstr "Helfe, Sudomemo am Leben zu halten!"
 
 msgid "INVENTORY"
 msgstr "Inventar"
@@ -218,10 +222,10 @@ msgid "TICKET_SECTION"
 msgstr "Tickets"
 
 msgid "UNBLOCK"
-msgstr "Unblock"
+msgstr "Entblocken"
 
 msgid "UNBLOCK_USER"
-msgstr "Unblock user"
+msgstr "Benutzer entblocken"
 
 msgid "USABILITY_NOT_USABLE"
 msgstr "Nicht benutzbar"
@@ -248,4 +252,4 @@ msgid "WATCH_HISTORY"
 msgstr "Wiedergabeverlauf"
 
 msgid "YOU_HAVE_BLOCKED_THIS_USER"
-msgstr "You have blocked this user."
+msgstr "Du hast diesen Benutzer blockiert."

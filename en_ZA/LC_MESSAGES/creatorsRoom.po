@@ -4,7 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "101_CHARACTER_LIMIT_BIO"
-msgstr "u is only able to put 101 characters silly!!"
+msgstr "u is only able to put 101 charcters silly!!"
 
 msgid "ADMIN_ACCT_BANNED"
 msgstr "Banned"
@@ -46,7 +46,7 @@ msgid "BLOCK_USER"
 msgstr "Block user"
 
 msgid "CAN_DRAW_TICKET_SUBTEXT"
-msgstr "U can getta a regular ticket! U can win thingies!"
+msgstr "U can getta a regular ticket n can win thingies!!! :D"
 
 msgid "CHANGE_ROOM_THEME_LINK"
 msgstr "[switcharoo!!]"
@@ -115,11 +115,15 @@ msgstr "we mail u?"
 msgid "HEADER_SUPPORT_TOKEN"
 msgstr "Support Token"
 
+# View interstitial button
+msgid "INTERSTITIAL_BUTTON"
+msgstr "Help keep Sudomemo alive!"
+
 msgid "INVENTORY"
 msgstr "pocket"
 
 msgid "LEAVE_BLANK_TO_RESET_BIO"
-msgstr "to wipe your Bio just dont put anything yaya."
+msgstr "to wipe yer Bio just dont put nothing yaya."
 
 msgid "LOGIN_REQUIRED_ACTION"
 msgstr "U gotta log in to do dat silly."
@@ -149,10 +153,10 @@ msgid "PREVIOUS"
 msgstr "oops"
 
 msgid "RANKING"
-msgstr "Ranking"
+msgstr "Ranksing"
 
 msgid "REDEEM"
-msgstr "Redeem"
+msgstr "Getta!"
 
 msgid "REQUEST"
 msgstr "Request"
@@ -176,7 +180,7 @@ msgid "SPENDABLE_STARS_HELPTEXT"
 msgstr "Stars to add to Flipnotes or use for themes"
 
 msgid "STARRED_FLIPNOTES"
-msgstr "starred flippy-wippies"
+msgstr "starred flippynots"
 
 msgid "SUDOMEMO_THEATRE_URL"
 msgstr "sudomemo theatre link"

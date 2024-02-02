@@ -4,13 +4,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "FAVORITES_FEED_FORMAT"
-msgstr "Ulubieni twórcy dla %s"
+msgstr "Ulubieni tworcy dla %s"
 
 msgid "FLIPNOTES_BY_FORMAT"
 msgstr "Flipnotes stworzone przez %s"
 
 msgid "NEXT"
-msgstr "Następna strona"
+msgstr "Nastepna strona"
 
 msgid "PAGE"
 msgstr "Strona"
@@ -25,4 +25,4 @@ msgid "STARRED_BY_FORMAT"
 msgstr "Zagwiazdkowane przez %s"
 
 msgid "UPPERTITLE"
-msgstr "Przeglądaj"
+msgstr "Przegladaj"

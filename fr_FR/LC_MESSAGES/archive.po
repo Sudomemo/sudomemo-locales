@@ -19,6 +19,9 @@ msgstr "Naviguer"
 msgid "CONTACT"
 msgstr "Contact"
 
+msgid "CORRUPT_FLIPNOTE_NOTE"
+msgstr "Cette Flipnote a des données corrompues. Bien qu'elle puisse être lue, c'est probablement un doublon et elle ne devrait pas être considérée comme la version officielle. Essayez de trouver une autre copie de cette Flipnote."
+
 msgid "CREATED"
 msgstr "Créé"
 

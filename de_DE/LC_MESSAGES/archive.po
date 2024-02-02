@@ -19,6 +19,9 @@ msgstr "Durchsuchen"
 msgid "CONTACT"
 msgstr "Kontakt"
 
+msgid "CORRUPT_FLIPNOTE_NOTE"
+msgstr "Dieses Flipnote ist beschädigt. Es kann zwar abgespielt werden, aber es ist wahrscheinlich ein Duplikat und sollte nicht als maßgebende Version betrachtet werden. Versuche, eine andere Kopie dieses Flipnotes zu finden."
+
 msgid "CREATED"
 msgstr "Erstellt"
 

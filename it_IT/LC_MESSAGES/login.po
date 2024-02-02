@@ -206,7 +206,7 @@ msgid "PLEASE_ENTER_PASSWORD_TO_SIGN_IN"
 msgstr "Inserisci la tua password per accedere"
 
 msgid "POST_COMMENT_BELOW"
-msgstr "To continue, please submit a drawn comment (it can be blank)."
+msgstr "Per continuare, invia un commento disegnato (può essere vuoto)."
 
 msgid "REGISTRATION_ERROR_BAD_EMAIL"
 msgstr "L'indirizzo email che hai fornito non è permesso."
@@ -218,7 +218,7 @@ msgid "REGISTRATION_ERROR_PASSWORD_ALREADY_SET"
 msgstr "La password è già stata impostata."
 
 msgid "RETURNING_USER_NEW_LOGIN_SYSTEM"
-msgstr "Dall'ultima volta che hai acceduto, abbiamo aggiunto un nuovo sistema di login -- ma non preoccuparti, tutti i tuoi dati ci sono ancora!"
+msgstr "Dall'ultima volta che hai eseguito l'accesso, abbiamo aggiunto un nuovo sistema di login -- ma non preoccuparti, tutti i tuoi dati ci sono ancora!"
 
 msgid "RETURNING_USER_PLEASE_CREATE_PASSWORD"
 msgstr "Per cominciare, crea una nuova password qui sotto."
@@ -233,10 +233,10 @@ msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
 msgstr "Se hai bisogno di aiuto per collegarti, chiedi pure sul nostro server Discord! Puoi unirti da qui %s."
 
 msgid "SIGNUP_AGE_GATE_ERROR"
-msgstr "You'll need to be 13 or older to create a new Sudomemo account."
+msgstr "Dovrai avere almeno 13 anni per creare un nuovo account Sudomemo."
 
 msgid "SIGNUP_AGE_GATE_ERROR_FIX"
-msgstr "If you've received this message in error, you can update your birthday by tapping the orange wrench icon in the top right of Flipnote Studio's main menu."
+msgstr "Se hai ricevuto questo messaggio per errore, puoi aggiornare la tua data di nascita toccando l'icona della chiave inglese in alto a destra nel menu principale di Flipnote Studio."
 
 msgid "SORRY_NO_LOGIN"
 msgstr "Scusa, ma non riusciamo a farti accedere!"

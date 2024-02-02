@@ -4,106 +4,110 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CHAT_REPLY_FAILED"
-msgstr "Wysyłanie odpowiedzi nie powiodło się. Spróbuj ponownie później."
+msgstr "Wysylanie odpowiedzi nie powiodlo sie. Spróbuj ponownie pózniej."
 
 msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "Twoja możliwość interakcji z Sudomemo została zawieszona."
+msgstr "Twoja mozliwosc interakcji z Sudomemo zostala zawieszona."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Potwierdź swój adres e-mail przed wysłaniem."
+msgstr "Potwierdz swój adres e-mail przed wyslaniem."
 
 msgid "DUPLICATE_COMMENT_FAILED"
-msgstr "Ten komentarz został już wysłano do Sudomemo."
+msgstr "Ten komentarz zostal juz wyslano do Sudomemo."
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "Dane tego Flipnote zostały uszkodzone. Spróbuj ponownie za kilka minut."
+msgstr "Dane tego Flipnote zostaly uszkodzone. Spróbuj ponownie za kilka minut."
 
 msgid "HEADER_COMMENTS"
 msgstr "Komentarze"
 
 msgid "HEADER_NEXT"
-msgstr "Następna"
+msgstr "Nastepna"
 
 msgid "HEADER_PREV"
 msgstr "Poprzednia"
 
 msgid "HEADER_REFRESH"
-msgstr "Odśwież"
+msgstr "Odswiez"
 
 msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
-msgstr "Musisz się zalogować żeby wysłać wiadomość."
+msgstr "Musisz sie zalogowac aby wyslac wiadomosc."
 
 msgid "MODERATOR"
 msgstr "Moderator"
 
 msgid "NO_BLANK_MESSAGES_ALLOWED"
-msgstr "Nie możesz wysłać pustej wiadomości."
+msgstr "Nie mozesz wyslac pustej wiadomosci."
 
 msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
-msgstr "Zostałeś wyciszony. Nie możesz czatować."
+msgstr "Zostales wyciszony. Nie mozesz czatowac."
 
 msgid "NO_COMMENTS_YET"
-msgstr "Żadne wiadomości nie zostały jeszcze przesłane."
+msgstr "zadne wiadomosci nie zostaly jeszcze przeslane."
 
 msgid "PAGE_FORMAT"
 msgstr "Strona %d"
 
 msgid "ROOM_NAME_anime_chat"
-msgstr "Anime Chat"
+msgstr "Czat o Anime"
+
+msgid "ROOM_NAME_birthday_bash"
+msgstr "Sudomemo Birthday Bash"
 
 msgid "ROOM_NAME_blue_chat"
-msgstr "Blue Chat"
+msgstr "Niebieski czat"
 
 msgid "ROOM_NAME_drawings"
-msgstr "Drawings"
+msgstr "Rysunki"
 
 msgid "ROOM_NAME_french_chat"
-msgstr "French Chat"
+msgstr "Francuski czat"
 
+#, fuzzy
 msgid "ROOM_NAME_friend_code_exchange"
-msgstr "Friend Code Exchange"
+msgstr "Wymiana Friend Code"
 
 msgid "ROOM_NAME_german_chat"
-msgstr "German Chat"
+msgstr "Niemiecki czat"
 
 msgid "ROOM_NAME_greek_chat"
-msgstr "Greek Chat"
+msgstr "Grecki czat"
 
 msgid "ROOM_NAME_green_chat"
-msgstr "Green Chat"
+msgstr "Zielony czat"
 
 msgid "ROOM_NAME_japanese_chat"
-msgstr "Japanese Chat"
+msgstr "Japonski czat"
 
 msgid "ROOM_NAME_kirby_chat"
-msgstr "Kirby Chat"
+msgstr "Czat o Kirby"
 
 msgid "ROOM_NAME_mlp_chat"
-msgstr "MLP Chat"
+msgstr "Czat o MLP"
 
 msgid "ROOM_NAME_music_chat"
-msgstr "Music Chat"
+msgstr "Czat o muzyce"
 
 msgid "ROOM_NAME_orange_chat"
-msgstr "Orange Chat"
+msgstr "Pomaranczowy czat"
 
 msgid "ROOM_NAME_pokemon_chat"
-msgstr "Pokémon Chat"
+msgstr "Czat o Pokémonach"
 
 msgid "ROOM_NAME_red_chat"
-msgstr "Red Chat"
+msgstr "Czerwony czat"
 
 msgid "ROOM_NAME_roleplay_chat_1"
-msgstr "Roleplay Chat 1"
+msgstr "Czat Roleplay 1"
 
 msgid "ROOM_NAME_roleplay_chat_2"
-msgstr "Roleplay Chat 2"
+msgstr "Czat Roleplay 2"
 
 msgid "ROOM_NAME_spanish_chat"
-msgstr "Spanish Chat"
+msgstr "Hiszpanski czat"
 
 msgid "ROOM_NAME_stick_figure_chat"
-msgstr "Stick Figure Chat"
+msgstr "Czat o patyczakach"
 
 msgid "ROOM_NAME_wolf_chat"
-msgstr "Wolf Chat"
+msgstr "Wilczy czat"

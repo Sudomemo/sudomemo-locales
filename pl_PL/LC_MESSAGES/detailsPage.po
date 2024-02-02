@@ -4,10 +4,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "101_CHARACTER_LIMIT_DESC"
-msgstr "Twój opis może mieć długość max. 101 znaków."
+msgstr "Twój opis moze miec dlugosc max. 101 znaków."
 
 msgid "40_CHARACTER_LIMIT"
-msgstr "Twój tytuł może mieć długość max. 40 znaków."
+msgstr "Twój tytul moze miec dlugosc max. 40 znaków."
 
 msgid "ADMIN_ACTIONS"
 msgstr "Akcje administracyjne"
@@ -16,7 +16,7 @@ msgid "ENTER_DESCRIPTION"
 msgstr "Wpisz opis..."
 
 msgid "ENTER_TITLE"
-msgstr "Wpisz tytuł..."
+msgstr "Wpisz tytul..."
 
 msgid "FLIPNOTE_TITLE_FORMAT"
 msgstr "Flipnote stworzony przez %s"
@@ -25,7 +25,7 @@ msgid "HEADER_ADD_DESCRIPTION"
 msgstr "Dodaj opis"
 
 msgid "HEADER_CHANNEL"
-msgstr "Kanał"
+msgstr "Kanal"
 
 msgid "HEADER_COMMENTS"
 msgstr "Komentarze"
@@ -49,7 +49,7 @@ msgid "HEADER_FLIPNOTE_OPTIONS"
 msgstr "Opcje"
 
 msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
-msgstr "Żeby zapobiec naciąganiu na gwiazdki, żółte gwiazdki są limitowane na 10 na Flipnote."
+msgstr "Aby unkinac zebrania o gwiazdki, na Flipnote mozna zostawic maksymalnie 10 zoltych gwiazdek."
 
 msgid "HEADER_OPTIONS"
 msgstr "Opcje"
@@ -58,13 +58,13 @@ msgid "HEADER_ORIGINAL_FLIPNOTE"
 msgstr "Zobacz orginalny Flipnote tutaj"
 
 msgid "HEADER_POSTED"
-msgstr "Wysłany"
+msgstr "Wyslany"
 
 msgid "HEADER_REPORT_FLIPNOTE"
-msgstr "Zgłoś Flipnote"
+msgstr "Zglos Flipnote"
 
 msgid "HEADER_SET_AS_PROFILE_PICTURE"
-msgstr "Ustaw jako zdjęcie profilowe"
+msgstr "Ustaw jako zdjecie profilowe"
 
 msgid "HEADER_SONG"
 msgstr "Piosenka"
@@ -79,22 +79,22 @@ msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
 msgstr "Ten Flipnote jest spin-offem."
 
 msgid "HEADER_TITLE"
-msgstr "Tytuł"
+msgstr "Tytul"
 
 msgid "HEADER_UPLOAD_TO_YOUTUBE"
-msgstr "Upload to YouTube"
+msgstr "Przeslij na YouTube"
 
 msgid "HEADER_VIEWS"
-msgstr "Wyświetlenia"
+msgstr "Wyswietlenia"
 
 msgid "LEAVE_BLANK_TO_RESET"
-msgstr "Żeby zresetować tytuł do domyślnego, zostaw ten formularz pusty podczas wysyłania."
+msgstr "Aby zresetowac tytul do domyslnego, zostaw ten formularz pusty podczas wysylania."
 
 msgid "LEAVE_BLANK_TO_RESET_DESC"
-msgstr "Żeby usunąć opis, zostaw ten formularz pusty podczas wysyłania."
+msgstr "Aby usunac opis, zostaw ten formularz pusty podczas wysylania."
 
 msgid "NEXT"
-msgstr "Następna"
+msgstr "Nastepna"
 
 msgid "PREV"
 msgstr "Poprzednia"
@@ -103,13 +103,13 @@ msgid "SET_DESCRIPTION"
 msgstr "Ustaw opis"
 
 msgid "SET_DESCRIPTION_INSTRUCTIONS"
-msgstr "Wpisz nowy opis dla twojego Flipnote poniżej."
+msgstr "Wpisz nowy opis dla twojego Flipnote ponizej."
 
 msgid "SET_TITLE"
-msgstr "Ustaw tytuł"
+msgstr "Ustaw tytul"
 
 msgid "SET_TITLE_INSTRUCTIONS"
-msgstr "Wpisz nowy tytuł dla twojego Flipnote poniżej."
+msgstr "Wpisz nowy tytul dla twojego Flipnote ponizej."
 
 msgid "STAR_DETAILS_UPPERTITLE"
 msgstr "★ Gwiazdki ★"

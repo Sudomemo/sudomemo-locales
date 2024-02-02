@@ -4,13 +4,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CATEGORY_featured"
-msgstr "@Wyróżnione Flipnotes"
+msgstr "@Wyróznione Flipnotes"
 
 msgid "CATEGORY_feed"
 msgstr "@Ulubieni twórcy"
 
 msgid "CATEGORY_hot"
-msgstr "@Gorące Flipnotes"
+msgstr "@Gorace Flipnotes"
 
 msgid "CATEGORY_popular"
 msgstr "@Najbardziej popularne"
@@ -22,16 +22,16 @@ msgid "CATEGORY_recent"
 msgstr "@Najnowsze Flipnotes"
 
 msgid "HEADER_BROWSE_FLIPNOTES"
-msgstr "Przeglądaj Flipnotes"
+msgstr "Przegladaj Flipnotes"
 
 msgid "HEADER_FEATURED_FLIPNOTES"
-msgstr "Wyróżnione Flipnotes"
+msgstr "Wyróznione Flipnotes"
 
 msgid "HEADER_FLIPNOTES"
 msgstr "Flipnotes"
 
 msgid "HEADER_HOT_FLIPNOTES"
-msgstr "Gorące Flipnotes"
+msgstr "Gorace Flipnotes"
 
 msgid "HEADER_MOST_POPULAR"
 msgstr "Najbardziej popularne"
@@ -52,10 +52,10 @@ msgid "HEADER_ROLEPLAYS"
 msgstr "Roleplay"
 
 msgid "HEADER_WATCH_HISTORY"
-msgstr "Watch History"
+msgstr "Historia ogladania"
 
 msgid "NEXT"
-msgstr "Następna"
+msgstr "Nastepna"
 
 msgid "PAGE"
 msgstr "Strona"
@@ -64,7 +64,7 @@ msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d z %d"
 
 msgid "POST_FLIPNOTE"
-msgstr "Wyślij Flipnote"
+msgstr "Wyslij Flipnote"
 
 msgid "PREV"
 msgstr "Poprzednia"

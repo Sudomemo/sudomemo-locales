@@ -10,7 +10,7 @@ msgid "BROWSE_BY_ARTIST"
 msgstr "Blader op Artiest"
 
 msgid "BROWSE_BY_SONG"
-msgstr "Blader op Liedje"
+msgstr "Blader op Nummer"
 
 msgid "BROWSE_PLAYLIST"
 msgstr "Blader door Afspeellijst"
@@ -31,10 +31,10 @@ msgid "PREV"
 msgstr "Vorige"
 
 msgid "SONG_DETAILS"
-msgstr "Song Details"
+msgstr "Nummer Details"
 
 msgid "SPINOFFS"
-msgstr "Spinoffs"
+msgstr "Spin-offs"
 
 msgid "UPPERTITLE"
 msgstr "Blader door Kanaal"

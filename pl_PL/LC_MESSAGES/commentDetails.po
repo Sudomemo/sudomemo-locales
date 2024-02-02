@@ -10,7 +10,7 @@ msgid "CHAT_COMMENT_ID"
 msgstr "ID komentarza na czacie"
 
 msgid "CHAT_MESSAGE_FROM_FORMAT"
-msgstr "Wiadomość na czacie od %s"
+msgstr "Wiadomosc na czacie od %s"
 
 msgid "COMMENT_BY_FORMAT"
 msgstr "Komentarz %s"
@@ -19,16 +19,16 @@ msgid "COMMENT_DETAILS"
 msgstr "Informacje o komentarzu"
 
 msgid "COMMENT_HIDDEN_MODERATOR"
-msgstr "Comment hidden by moderator"
+msgstr "Komentarz ukryty przez moderatora"
 
 msgid "COMMENT_HIDDEN_RECIPIENT"
-msgstr "Comment hidden by Flipnote author"
+msgstr "Komentarz ukryty przez autora Flipnote"
 
 msgid "COMMENT_HIDDEN_SELF"
-msgstr "Comment hidden by author"
+msgstr "Komentarz ukryty przez autora"
 
 msgid "COMMENT_HIDDEN_UNKNOWN"
-msgstr "Comment hidden due to request"
+msgstr "Komentarz ukryty w odpowiedzi na zadanie"
 
 msgid "COMMENT_ID"
 msgstr "ID komentarza"
@@ -37,22 +37,22 @@ msgid "FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote stworzony przez %s"
 
 msgid "MESSAGE_DETAILS"
-msgstr "Informacje o wiadomości"
+msgstr "Informacje o wiadomosci"
 
 msgid "MESSAGE_FROM_FORMAT"
-msgstr "Wiadomość od %s"
+msgstr "Wiadomosc od %s"
 
 msgid "MESSAGE_ID"
-msgstr "ID wiadomości"
+msgstr "ID wiadomosci"
 
 msgid "POSTED_TO"
-msgstr "Wysłane do"
+msgstr "Wyslane do"
 
 msgid "PRIVATE_CONVERSATION"
 msgstr "Prywatna konwersacja"
 
 msgid "REPORT_CONTENT"
-msgstr "Zgłoś zawartość"
+msgstr "Zglos zawartosc"
 
 msgid "TIMESTAMP"
 msgstr "Data"

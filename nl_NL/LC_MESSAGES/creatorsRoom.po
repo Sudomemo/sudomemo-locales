@@ -31,7 +31,7 @@ msgid "ADMIN_USER_STATUS"
 msgstr "Gebruikerstatus"
 
 msgid "BLOCK"
-msgstr "Block"
+msgstr "Blokkeer"
 
 msgid "BLOCKED_USERS"
 msgstr "Geblokkeerde Gebruikers"
@@ -43,7 +43,7 @@ msgid "BLOCK_COMMENTS_LINK"
 msgstr "Blokkeer"
 
 msgid "BLOCK_USER"
-msgstr "Block user"
+msgstr "Blokkeer gebruiker"
 
 msgid "CAN_DRAW_TICKET_SUBTEXT"
 msgstr "Je kan een reguliere ticket trekken! Misschien win je een prijs."
@@ -58,7 +58,7 @@ msgid "CURRENT_BIO"
 msgstr "Huidige Bio:"
 
 msgid "DRAW_REGULAR_TICKET"
-msgstr "Trek Prijskaart"
+msgstr "Trek Ticket"
 
 msgid "ENTER_BIO"
 msgstr "Vul Bio in..."
@@ -86,10 +86,10 @@ msgstr "Bruikbaarheid"
 
 # Matches button on page 4 of Flipnote Studio settings
 msgid "FLIPNOTE_FRIENDS"
-msgstr "Flipnote Friends"
+msgstr "Flipnote Vrienden"
 
 msgid "FLIPNOTE_FRIENDS_INFO"
-msgstr "Creators you've exchanged Flipnotes with"
+msgstr "Makers met wie je Flipnotes geruild hebt"
 
 msgid "FLIPNOTE_STUDIO_ID"
 msgstr "Flipnote Studio-ID"
@@ -114,6 +114,10 @@ msgstr "E-mailinstellingen"
 
 msgid "HEADER_SUPPORT_TOKEN"
 msgstr "Support Token"
+
+# View interstitial button
+msgid "INTERSTITIAL_BUTTON"
+msgstr "Help Sudomemo in leven te houden!"
 
 msgid "INVENTORY"
 msgstr "Inventaris"
@@ -155,7 +159,7 @@ msgid "REDEEM"
 msgstr "Wissel in"
 
 msgid "REQUEST"
-msgstr "Request"
+msgstr "Verzoek"
 
 msgid "SEE_MORE"
 msgstr "Zie meer..."
@@ -179,7 +183,7 @@ msgid "STARRED_FLIPNOTES"
 msgstr "Gesterde Flipnotes"
 
 msgid "SUDOMEMO_THEATRE_URL"
-msgstr "Sudomemo Theatrelink"
+msgstr "Sudomemo Theaterlink"
 
 msgid "THEMETEST_ACTIVE_TAB"
 msgstr "Actief tabblad"
@@ -212,16 +216,16 @@ msgid "THEME_SUCCESSFULLY_SET"
 msgstr "Thema succesvol veranderd!"
 
 msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
-msgstr "Je kan nog een prijskaart trekken in: %s uur %s minuut/minuten."
+msgstr "Je kan nog een ticket trekken in: %s uur %s minuut/minuten."
 
 msgid "TICKET_SECTION"
-msgstr "Prijskaarten"
+msgstr "Tickets"
 
 msgid "UNBLOCK"
-msgstr "Unblock"
+msgstr "Deblokkeer"
 
 msgid "UNBLOCK_USER"
-msgstr "Unblock user"
+msgstr "Deblokkeer gebruiker"
 
 msgid "USABILITY_NOT_USABLE"
 msgstr "Onbruikbaar"
@@ -245,7 +249,7 @@ msgid "VIEW"
 msgstr "Weergeven"
 
 msgid "WATCH_HISTORY"
-msgstr "Watch History"
+msgstr "Bekijk Geschiedenis"
 
 msgid "YOU_HAVE_BLOCKED_THIS_USER"
-msgstr "You have blocked this user."
+msgstr "Je hebt deze gebruiker geblokkeerd."

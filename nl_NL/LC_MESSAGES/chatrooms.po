@@ -28,7 +28,7 @@ msgid "HEADER_PREV"
 msgstr "Vorige"
 
 msgid "HEADER_REFRESH"
-msgstr "Herlaad"
+msgstr "Herladen"
 
 msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
 msgstr "Je moet ingelogd zijn om een chatbericht te kunnen sturen."
@@ -51,29 +51,32 @@ msgstr "Pagina %d"
 msgid "ROOM_NAME_anime_chat"
 msgstr "Anime Chat"
 
+msgid "ROOM_NAME_birthday_bash"
+msgstr "Sudomemo Birthday Bash"
+
 msgid "ROOM_NAME_blue_chat"
-msgstr "Blue Chat"
+msgstr "Blauwe Chat"
 
 msgid "ROOM_NAME_drawings"
-msgstr "Drawings"
+msgstr "Tekeningen"
 
 msgid "ROOM_NAME_french_chat"
-msgstr "French Chat"
+msgstr "Franse Chat"
 
 msgid "ROOM_NAME_friend_code_exchange"
-msgstr "Friend Code Exchange"
+msgstr "Vriend Code Ruil"
 
 msgid "ROOM_NAME_german_chat"
-msgstr "German Chat"
+msgstr "Duitse Chat"
 
 msgid "ROOM_NAME_greek_chat"
-msgstr "Greek Chat"
+msgstr "Griekse Chat"
 
 msgid "ROOM_NAME_green_chat"
-msgstr "Green Chat"
+msgstr "Groene Chat"
 
 msgid "ROOM_NAME_japanese_chat"
-msgstr "Japanese Chat"
+msgstr "Japanse Chat"
 
 msgid "ROOM_NAME_kirby_chat"
 msgstr "Kirby Chat"
@@ -82,16 +85,16 @@ msgid "ROOM_NAME_mlp_chat"
 msgstr "MLP Chat"
 
 msgid "ROOM_NAME_music_chat"
-msgstr "Music Chat"
+msgstr "Muziek Chat"
 
 msgid "ROOM_NAME_orange_chat"
-msgstr "Orange Chat"
+msgstr "Oranje Chat"
 
 msgid "ROOM_NAME_pokemon_chat"
 msgstr "Pokémon Chat"
 
 msgid "ROOM_NAME_red_chat"
-msgstr "Red Chat"
+msgstr "Rode Chat"
 
 msgid "ROOM_NAME_roleplay_chat_1"
 msgstr "Roleplay Chat 1"
@@ -100,10 +103,10 @@ msgid "ROOM_NAME_roleplay_chat_2"
 msgstr "Roleplay Chat 2"
 
 msgid "ROOM_NAME_spanish_chat"
-msgstr "Spanish Chat"
+msgstr "Spaanse Chat"
 
 msgid "ROOM_NAME_stick_figure_chat"
-msgstr "Stick Figure Chat"
+msgstr "Stokfiguur Chat"
 
 msgid "ROOM_NAME_wolf_chat"
 msgstr "Wolf Chat"

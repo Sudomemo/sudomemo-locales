@@ -59,17 +59,20 @@ msgstr "Hai ricevuto %s giorni di Sudomemo Plus!"
 msgid "THEME_AVAILABLE_FOR_USE"
 msgstr "Ora puoi usare questo tema nella tua Stanza Creatore!"
 
+msgid "TICKET_DESC_10th_birthday_bash_ticket"
+msgstr "Thanks for attending our Birthday Bash!"
+
 msgid "TICKET_DESC_7th_birthday_bash_ticket"
 msgstr "Grazie per aver partecipato alla nostra Festa di Compleanno!"
 
 msgid "TICKET_DESC_8th_birthday_bash_ticket"
-msgstr "Thanks for attending our Birthday Bash!"
+msgstr "Grazie per aver partecipato alla nostra festa di compleanno!"
 
 msgid "TICKET_DESC_9th_birthday_bash_ticket"
-msgstr "Thanks for attending our Birthday Bash!"
+msgstr "Grazie per aver partecipato alla nostra festa di compleanno!"
 
 msgid "TICKET_DESC_archive_supporter_ticket"
-msgstr "Thank you for helping preserve Flipnote history!"
+msgstr "Grazie per aver contribuito a preservare la storia di Flipnote!"
 
 msgid "TICKET_DESC_birthday_ticket"
 msgstr "Buon Compleanno!"
@@ -82,6 +85,9 @@ msgstr "Hai vinto il Topic settimanale di Giugno 2020 Sudomemo x Colors!"
 
 msgid "TICKET_DESC_demo_ticket"
 msgstr "Questa è la descrizione del ticket demo, ovviamente."
+
+msgid "TICKET_DESC_fall_2023_ffc_winner_ticket"
+msgstr "Congratulations on your winning entry to the Fall 2023 Sudomemo Flipnote Fight Competition!"
 
 msgid "TICKET_DESC_featured_artist_ticket"
 msgstr "Congratulazioni per essere diventato un Artista in primo piano di Sudomemo!"
@@ -133,10 +139,13 @@ msgid "TICKET_DESC_regular_ticket"
 msgstr "Grazie per aver usato Sudomemo!"
 
 msgid "TICKET_DESC_rewind_2021_ticket"
-msgstr "Congratulations on your inclusion in 2021's Sudomemo Rewind!"
+msgstr "Congratulazioni per la tua inclusione nel Sudomemo Rewind del 2021!"
 
 msgid "TICKET_DESC_rewind_2022_ticket"
-msgstr "Congratulations on your inclusion in 2022's Sudomemo Rewind!"
+msgstr "Congratulazioni per la tua inclusione nel Sudomemo Rewind del 2022!"
+
+msgid "TICKET_DESC_rewind_2023_ticket"
+msgstr "Congratulations on your inclusion in 2023's Sudomemo Rewind!"
 
 msgid "TICKET_DESC_special_someone_ticket"
 msgstr "Per quella persona speciale. Tre mesi di Plus, Stelle colorate e un tema esclusivo."
@@ -144,11 +153,14 @@ msgstr "Per quella persona speciale. Tre mesi di Plus, Stelle colorate e un tema
 msgid "TICKET_DESC_spookmaster_ticket"
 msgstr "Grazie per aver giocato a SudoQuest: Requiem! Speriamo che ti sia piaciuto il gioco."
 
+msgid "TICKET_DESC_spring_2023_ffc_winner_ticket"
+msgstr "Congratulations on your winning entry to the first Sudomemo Flipnote Fight Competition!"
+
 msgid "TICKET_DESC_sudomemo_radio_pilot_ticket"
-msgstr "Congratulations on being a part of the very first episode of Sudomemo Radio!"
+msgstr "Congratulazioni per aver preso parte al primissimo episodio di Sudomemo Radio!"
 
 msgid "TICKET_DESC_sudomemo_radio_ticket"
-msgstr "Thank you contributing to Sudomemo Radio!"
+msgstr "Grazie per aver contribuito a Sudomemo Radio!"
 
 msgid "TICKET_DESC_survey_thanks_ticket"
 msgstr "Grazie per aver compilato il nostro sondaggio!"
@@ -163,19 +175,22 @@ msgid "TICKET_DESC_weekly_topic_winner_ticket"
 msgstr "Congratulazioni per aver vinto il Topic settimanale di Sudomemo!"
 
 msgid "TICKET_DESC_welcoming_champion_ticket"
-msgstr "You're been very welcoming to new and returning creators! Thanks!"
+msgstr "Hai dato il benvenuto ai creatori nuovi e di ritorno! Grazie!"
+
+msgid "TICKET_NAME_10th_birthday_bash_ticket"
+msgstr "10th Birthday Bash Ticket"
 
 msgid "TICKET_NAME_7th_birthday_bash_ticket"
 msgstr "Ticket Settima Festa di Compleanno"
 
 msgid "TICKET_NAME_8th_birthday_bash_ticket"
-msgstr "8th Birthday Bash Ticket"
+msgstr "Ticket Ottava Festa di Compleanno"
 
 msgid "TICKET_NAME_9th_birthday_bash_ticket"
-msgstr "9th Birthday Bash Ticket"
+msgstr "Ticket Nona Festa di Compleanno"
 
 msgid "TICKET_NAME_archive_supporter_ticket"
-msgstr "Archive Supporter Ticket"
+msgstr "Archivia il Ticket del Tifoso"
 
 msgid "TICKET_NAME_birthday_ticket"
 msgstr "Ticket di Compleanno"
@@ -184,11 +199,14 @@ msgid "TICKET_NAME_blue_dog_ticket"
 msgstr "Ticket Ziggy Starburst"
 
 msgid "TICKET_NAME_colors_promo_ticket"
-msgstr "Colors! Ticket Promozionale"
+msgstr "Colori! Ticket Promozionale"
 
 # Each ticket type will have a name and a description 
 msgid "TICKET_NAME_demo_ticket"
-msgstr "Ticket Demo"
+msgstr "Dimostrazione del Ticket"
+
+msgid "TICKET_NAME_fall_2023_ffc_winner_ticket"
+msgstr "Fall 2023 Sudomemo F.F.C. Winner Ticket"
 
 msgid "TICKET_NAME_featured_artist_ticket"
 msgstr "Ticket Artista in primo piano"
@@ -234,7 +252,7 @@ msgid "TICKET_NAME_purple_bunny_ticket"
 msgstr "Ticket Russell Ramblewood"
 
 msgid "TICKET_NAME_red_bird_ticket"
-msgstr "Ticket Bailey Flitwing"
+msgstr "Ticket Bailey Volante"
 
 msgid "TICKET_NAME_regular_ticket"
 msgstr "Ticket comune"
@@ -245,17 +263,23 @@ msgstr "Sudomemo Rewind 2021 Ticket"
 msgid "TICKET_NAME_rewind_2022_ticket"
 msgstr "Sudomemo Rewind 2022 Ticket"
 
+msgid "TICKET_NAME_rewind_2023_ticket"
+msgstr "Sudomemo Rewind 2023 Ticket"
+
 msgid "TICKET_NAME_special_someone_ticket"
 msgstr "Ticket per una Persona Speciale"
 
 msgid "TICKET_NAME_spookmaster_ticket"
-msgstr "Ticket Spookmaster"
+msgstr "Ticket Maestro degli Spettri"
+
+msgid "TICKET_NAME_spring_2023_ffc_winner_ticket"
+msgstr "Spring 2023 Sudomemo F.F.C. Winner Ticket"
 
 msgid "TICKET_NAME_sudomemo_radio_pilot_ticket"
-msgstr "Sudomemo Radio Pilot Ticket"
+msgstr "Ticket Radio Pilota Sudomemo"
 
 msgid "TICKET_NAME_sudomemo_radio_ticket"
-msgstr "Sudomemo Radio Ticket"
+msgstr "TicketSudomemo Radio"
 
 msgid "TICKET_NAME_survey_thanks_ticket"
 msgstr "Ticket Sondaggio"
@@ -270,7 +294,7 @@ msgid "TICKET_NAME_weekly_topic_winner_ticket"
 msgstr "Ticket per il Vincitore del Topic settimanale"
 
 msgid "TICKET_NAME_welcoming_champion_ticket"
-msgstr "Welcoming Champion Ticket"
+msgstr "Ticket Campione di Benvenuto"
 
 msgid "TICKET_REDEEM_LOSE_FORMAT"
 msgstr "Hai riscattato %s, ma..."

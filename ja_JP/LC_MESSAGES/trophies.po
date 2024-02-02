@@ -17,6 +17,9 @@ msgstr "続ける"
 msgid "TROPHY_CASE"
 msgstr "トロフィーケース"
 
+msgid "TROPHY_DESC_10th_birthday_bash"
+msgstr "Attended Sudomemo's 10th Birthday Bash event"
+
 msgid "TROPHY_DESC_7th_birthday_bash"
 msgstr "スドメモの7周年ファンイベントに参加する"
 
@@ -37,6 +40,9 @@ msgstr "2017年スドメモアップデートデモテストに参加する"
 
 msgid "TROPHY_DESC_early_adopter"
 msgstr "サービス開始から1か月以内にスドメモに参加する"
+
+msgid "TROPHY_DESC_fall_2023_ffc_winner"
+msgstr "One of the winners of the Fall 2023 Sudomemo Flipnote Fight Competition!"
 
 msgid "TROPHY_DESC_featured_artist"
 msgstr "スドメモにおいて注目された作者であると認められる"
@@ -92,8 +98,14 @@ msgstr "Featured in 2021's Sudomemo Rewind!"
 msgid "TROPHY_DESC_rewind_2022"
 msgstr "Featured in 2022's Sudomemo Rewind!"
 
+msgid "TROPHY_DESC_rewind_2023"
+msgstr "Featured in 2023's Sudomemo Rewind!"
+
 msgid "TROPHY_DESC_spookmaster"
 msgstr "Witchcraft and Wizardryで優秀な結果を残す"
+
+msgid "TROPHY_DESC_spring_2023_ffc_winner"
+msgstr "One of the winners of the first Sudomemo Flipnote Fight Competition!"
 
 msgid "TROPHY_DESC_sudomemo_radio"
 msgstr "スドメモラジオにコンテンツを提供する"
@@ -109,6 +121,9 @@ msgstr "スドメモの今週のお題に入賞する"
 
 msgid "TROPHY_DESC_welcoming_champion"
 msgstr "Earned the title of Welcoming Champion."
+
+msgid "TROPHY_NAME_10th_birthday_bash"
+msgstr "10th Birthday Bash"
 
 msgid "TROPHY_NAME_7th_birthday_bash"
 msgstr "7周年記念パーティー"
@@ -131,6 +146,9 @@ msgstr "デモテスター"
 
 msgid "TROPHY_NAME_early_adopter"
 msgstr "古参者"
+
+msgid "TROPHY_NAME_fall_2023_ffc_winner"
+msgstr "Fall 2023 Sudomemo Flipnote Fight Competition Winner"
 
 msgid "TROPHY_NAME_featured_artist"
 msgstr "注目の作者"
@@ -186,8 +204,14 @@ msgstr "Sudomemo Rewind 2021"
 msgid "TROPHY_NAME_rewind_2022"
 msgstr "Sudomemo Rewind 2022"
 
+msgid "TROPHY_NAME_rewind_2023"
+msgstr "Sudomemo Rewind 2023"
+
 msgid "TROPHY_NAME_spookmaster"
 msgstr "スプークマスター"
+
+msgid "TROPHY_NAME_spring_2023_ffc_winner"
+msgstr "Spring 2023 Sudomemo Flipnote Fight Competition Winner"
 
 msgid "TROPHY_NAME_sudomemo_radio"
 msgstr "スドメモラジオ貢献者"

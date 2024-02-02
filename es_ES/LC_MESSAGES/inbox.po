@@ -10,8 +10,8 @@ msgid "NEXT"
 msgstr "Sig."
 
 msgid "PREV"
-msgstr "Prev."
+msgstr "Ant."
 
 # this must be a max of 6 characters
 msgid "UNAUTHED_READ"
-msgstr "Leer.."
+msgstr "*Leer*"
