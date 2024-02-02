@@ -183,6 +183,21 @@ msgstr "l jS F Y"
 msgid "DEFAULT_META_DESCRIPTION"
 msgstr "Sudomemo : partagez vos Flipnotes avec le monde entier ! Pour Nintendo DSi et 3DS."
 
+msgid "DELETE_PLAYLIST"
+msgstr "Delete Playlist"
+
+msgid "DELETE_PLAYLIST_CONFIRM_1"
+msgstr "Are you sure you want to delete this playlist?"
+
+msgid "DELETE_PLAYLIST_CONFIRM_2"
+msgstr "This action is irreversible!"
+
+msgid "DELETE_PLAYLIST_CONFIRM_NO"
+msgstr "No"
+
+msgid "DELETE_PLAYLIST_CONFIRM_YES"
+msgstr "Yes"
+
 msgid "DESCRIPTION"
 msgstr "Description"
 
@@ -565,6 +580,12 @@ msgstr "Playlist"
 msgid "PLAYLISTS"
 msgstr "Playlists"
 
+msgid "PLAYLIST_ERROR_BLOCKED_BY_AUTHOR"
+msgstr "You cannot add this Flipnote to a playlist because you have been blocked by the Flipnote's author."
+
+msgid "PLAYLIST_ERROR_BLOCKING_AUTHOR"
+msgstr "You cannot add this Flipnote to a playlist because you have blocked the Flipnote's author."
+
 # '%s' will be replaced with an error code when shown to the user.
 msgid "PLAYLIST_ERROR_GENERIC"
 msgstr "An error occurred whilst saving this playlist. Error code: %s."
@@ -595,6 +616,9 @@ msgstr "Unknown"
 
 msgid "PLAYLIST_UNLISTED"
 msgstr "Unlisted"
+
+msgid "PLAYLIST_VISIBILITY"
+msgstr "Visibility"
 
 msgid "PLUS_LEARN_MORE"
 msgstr "Plus d'infos..."
