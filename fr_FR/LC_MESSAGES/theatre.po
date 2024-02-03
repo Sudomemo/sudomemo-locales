@@ -594,10 +594,10 @@ msgid "PLAYLIST_ERROR_GENERIC_2"
 msgstr "Une erreur est survenue. Code d'erreur : %s."
 
 msgid "PLAYLIST_ERROR_PROFANE_DESC"
-msgstr "Cette description contient du contenu qui va à l'encontre de notre politique de contenu."
+msgstr "Cette description contient du contenu qui va à l'encontre de notre Politique de contenu."
 
 msgid "PLAYLIST_ERROR_PROFANE_TITLE"
-msgstr "Ce titre contient du contenu qui va à l'encontre de notre politique de contenu."
+msgstr "Ce titre contient du contenu qui va à l'encontre de notre Politique de contenu."
 
 msgid "PLAYLIST_ID"
 msgstr "ID Playlist"
