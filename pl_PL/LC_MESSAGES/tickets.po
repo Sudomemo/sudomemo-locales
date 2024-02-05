@@ -59,6 +59,9 @@ msgstr "Otrzymano %s dni Sudomemo Plus!"
 msgid "THEME_AVAILABLE_FOR_USE"
 msgstr "Mozesz teraz uzywac tego motywu w twoim Pokoju Twórcy!"
 
+msgid "TICKET_DESC_10th_birthday_bash_ticket"
+msgstr "Thanks for attending our Birthday Bash!"
+
 msgid "TICKET_DESC_7th_birthday_bash_ticket"
 msgstr "Dziekujemy za udzial w naszym Birthday Bash!"
 
@@ -82,6 +85,9 @@ msgstr "Wygrales/as Temat Tygodnia Sudomemo x Colors! z czerwca 2020!"
 
 msgid "TICKET_DESC_demo_ticket"
 msgstr "Oczywyscie, to jest opis dla biletu demonstracyjnego."
+
+msgid "TICKET_DESC_fall_2023_ffc_winner_ticket"
+msgstr "Congratulations on your winning entry to the Fall 2023 Sudomemo Flipnote Fight Competition!"
 
 msgid "TICKET_DESC_featured_artist_ticket"
 msgstr "Serdecznie gratulujemy zostania Wyróznionym Artysta Sudomemo!"
@@ -138,6 +144,9 @@ msgstr "Gratulujemy twego wlaczenia w Sudomemo Rewind 2021!"
 msgid "TICKET_DESC_rewind_2022_ticket"
 msgstr "Gratulujemy twego wlaczenia w Sudomemo Rewind 2022!"
 
+msgid "TICKET_DESC_rewind_2023_ticket"
+msgstr "Congratulations on your inclusion in 2023's Sudomemo Rewind!"
+
 msgid "TICKET_DESC_special_someone_ticket"
 msgstr "Dla tej specjalnej osoby. 3 miesiace Sudomemo Plus, kolorowe gwiazdki i ekskluzywny motyw."
 
@@ -168,6 +177,9 @@ msgstr "Gratulujemy wygranej w Temacie Tygodnia Sudomemo!"
 msgid "TICKET_DESC_welcoming_champion_ticket"
 msgstr "Byles/-as bardzo goscinny/-a dla nowych i powracajacych twórców! Dziekujemy!"
 
+msgid "TICKET_NAME_10th_birthday_bash_ticket"
+msgstr "10th Birthday Bash Ticket"
+
 msgid "TICKET_NAME_7th_birthday_bash_ticket"
 msgstr "Bilet za siódmy Birthday Bash"
 
@@ -192,6 +204,9 @@ msgstr "Promocyjny bilet Colors!"
 # Each ticket type will have a name and a description
 msgid "TICKET_NAME_demo_ticket"
 msgstr "Bilet demonstracyjny"
+
+msgid "TICKET_NAME_fall_2023_ffc_winner_ticket"
+msgstr "Fall 2023 Sudomemo F.F.C. Winner Ticket"
 
 msgid "TICKET_NAME_featured_artist_ticket"
 msgstr "Bilet Wyróznionego Artysty"
@@ -247,6 +262,9 @@ msgstr "Bilet Sudomemo Rewind 2021"
 
 msgid "TICKET_NAME_rewind_2022_ticket"
 msgstr "Bilet Sudomemo Rewind 2022"
+
+msgid "TICKET_NAME_rewind_2023_ticket"
+msgstr "Sudomemo Rewind 2023 Ticket"
 
 msgid "TICKET_NAME_special_someone_ticket"
 msgstr "Bilet dla kogos specjalnego"

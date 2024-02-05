@@ -115,6 +115,10 @@ msgstr "Paramètres de courriels"
 msgid "HEADER_SUPPORT_TOKEN"
 msgstr "Jeton de support"
 
+# View interstitial button
+msgid "INTERSTITIAL_BUTTON"
+msgstr "Aidez à garder Sudomemo en vie !"
+
 msgid "INVENTORY"
 msgstr "Inventaire"
 

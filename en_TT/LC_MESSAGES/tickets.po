@@ -1,0 +1,314 @@
+msgid ""
+msgstr ""
+"Language: en_TT\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "ACHIEVEMENT"
+msgstr "Achievement"
+
+msgid "CODE_ALREADY_USED"
+msgstr "The code you entered has already been used."
+
+msgid "CODE_INVALID"
+msgstr "The code you entered is invalid."
+
+msgid "CODE_NONEXISTING_OR_EXPIRED"
+msgstr "The code you entered doesn't exist or has expired."
+
+msgid "COLOR_STARS"
+msgstr "Color Stars"
+
+msgid "CONTINUE"
+msgstr "Continue"
+
+msgid "CREATORS_ROOM_THEME"
+msgstr "Creator's Room Theme"
+
+msgid "DONT_HAVE_ANY_TO_USE"
+msgstr "You don't have any of that item to use."
+
+msgid "ENTER_CODE_TO_REDEEM"
+msgstr "Enter the code you'd like to redeem below."
+
+# Inventory
+msgid "INVENTORY"
+msgstr "Inventory"
+
+msgid "INVENTORY_IS_EMPTY"
+msgstr "Your inventory is empty."
+
+msgid "LOGIN_REQUIRED_REDEEM_CODE"
+msgstr "You must be logged in to redeem a code."
+
+# Code Redemption
+msgid "REDEEM_CODE"
+msgstr "Redeem Code"
+
+msgid "SUDOMEMO_CITIZENSHIP"
+msgstr "Sudomemo Citizenship"
+
+msgid "SUDOMEMO_PLUS"
+msgstr "Sudomemo Plus"
+
+msgid "SUDOMEMO_PLUS_BALANCE_FORMAT"
+msgstr "Balance: %s days"
+
+msgid "SUDOMEMO_PLUS_FORMAT"
+msgstr "You received %s days worth of Sudomemo Plus!"
+
+msgid "THEME_AVAILABLE_FOR_USE"
+msgstr "You can now use this theme in your Creator's Room!"
+
+msgid "TICKET_DESC_10th_birthday_bash_ticket"
+msgstr "Thanks for attending our Birthday Bash!"
+
+msgid "TICKET_DESC_7th_birthday_bash_ticket"
+msgstr "Thanks for attending our Birthday Bash!"
+
+msgid "TICKET_DESC_8th_birthday_bash_ticket"
+msgstr "Thanks for attending our Birthday Bash!"
+
+msgid "TICKET_DESC_9th_birthday_bash_ticket"
+msgstr "Thanks for attending our Birthday Bash!"
+
+msgid "TICKET_DESC_archive_supporter_ticket"
+msgstr "Thank you for helping preserve Flipnote history!"
+
+msgid "TICKET_DESC_birthday_ticket"
+msgstr "Happy Birthday!"
+
+msgid "TICKET_DESC_blue_dog_ticket"
+msgstr "This ticket gives you 350 spendable Sudomemo Stars (maybe even a rare one!), an exclusive theme, and a special badge displayed on your profile!"
+
+msgid "TICKET_DESC_colors_promo_ticket"
+msgstr "You won the Sudomemo x Colors! June 2020 Weekly Topic!"
+
+msgid "TICKET_DESC_demo_ticket"
+msgstr "Obviously, this is the description for the demo ticket."
+
+msgid "TICKET_DESC_fall_2023_ffc_winner_ticket"
+msgstr "Congratulations on your winning entry to the Fall 2023 Sudomemo Flipnote Fight Competition!"
+
+msgid "TICKET_DESC_featured_artist_ticket"
+msgstr "We give our warm congratulations to you for becoming a Sudomemo Featured Artist!"
+
+msgid "TICKET_DESC_featured_flipnote_ticket"
+msgstr "Congratulations! One of your Flipnotes was featured."
+
+msgid "TICKET_DESC_ffotd_ticket"
+msgstr "Congratulations! You posted the first Flipnote of the new decade!"
+
+msgid "TICKET_DESC_folding_reward_ticket"
+msgstr "Thanks for helping save lives!"
+
+msgid "TICKET_DESC_golden_neko_ticket"
+msgstr "This ticket gives you 1300 spendable Sudomemo Stars (with multiple rare ones!), an exclusive theme, and a special badge displayed on your profile!"
+
+msgid "TICKET_DESC_green_panda_ticket"
+msgstr "This ticket gives you 110 spendable Sudomemo Stars, an exclusive theme, and a special badge displayed on your profile!"
+
+msgid "TICKET_DESC_instagram_promo_ticket"
+msgstr "Thanks for following the Sudomemo Instagram!"
+
+# The last character of this message is the DSi symbol for a heart. Don't remove it.
+msgid "TICKET_DESC_love_anniversary_ticket"
+msgstr "Happy Anniversary "
+
+msgid "TICKET_DESC_neighborhood_watch_ticket"
+msgstr "Thank you for helping keep Sudomemo a safe and welcoming place!"
+
+msgid "TICKET_DESC_nitro_booster_ticket"
+msgstr "Hey, you! You're awesome! Thanks for boosting the Sudomemo Discord!"
+
+msgid "TICKET_DESC_one_month_plus_ticket"
+msgstr "This ticket will give you one month of Sudomemo Plus!"
+
+msgid "TICKET_DESC_one_year_plus_ticket"
+msgstr "This ticket will give you one year of Sudomemo Plus!"
+
+msgid "TICKET_DESC_patreon_patron_ticket"
+msgstr "Thank you for supporting Sudomemo through Patreon!"
+
+msgid "TICKET_DESC_purple_bunny_ticket"
+msgstr "This ticket gives you 600 spendable Sudomemo Stars (very likely some rare ones!), an exclusive theme, and a special badge displayed on your profile!"
+
+msgid "TICKET_DESC_red_bird_ticket"
+msgstr "This ticket gives you 230 spendable Sudomemo Stars, an exclusive theme, and a special badge displayed on your profile!"
+
+msgid "TICKET_DESC_regular_ticket"
+msgstr "Thank you for using Sudomemo!"
+
+msgid "TICKET_DESC_rewind_2021_ticket"
+msgstr "Congratulations on your inclusion in 2021's Sudomemo Rewind!"
+
+msgid "TICKET_DESC_rewind_2022_ticket"
+msgstr "Congratulations on your inclusion in 2022's Sudomemo Rewind!"
+
+msgid "TICKET_DESC_rewind_2023_ticket"
+msgstr "Congratulations on your inclusion in 2023's Sudomemo Rewind!"
+
+msgid "TICKET_DESC_special_someone_ticket"
+msgstr "For that special someone. Three months of Plus, Color Stars, and an exclusive theme."
+
+msgid "TICKET_DESC_spookmaster_ticket"
+msgstr "Thank you so much for playing SudoQuest: Requiem! We hope you enjoyed the game."
+
+msgid "TICKET_DESC_spring_2023_ffc_winner_ticket"
+msgstr "Congratulations on your winning entry to the first Sudomemo Flipnote Fight Competition!"
+
+msgid "TICKET_DESC_sudomemo_radio_pilot_ticket"
+msgstr "Congratulations on being a part of the very first episode of Sudomemo Radio!"
+
+msgid "TICKET_DESC_sudomemo_radio_ticket"
+msgstr "Thank you contributing to Sudomemo Radio!"
+
+msgid "TICKET_DESC_survey_thanks_ticket"
+msgstr "Thanks for filling out our survey!"
+
+msgid "TICKET_DESC_translator_ticket"
+msgstr "Thank you for helping localize Sudomemo!"
+
+msgid "TICKET_DESC_twitter_promo_ticket"
+msgstr "Thanks for following the Sudomemo Twitter!"
+
+msgid "TICKET_DESC_weekly_topic_winner_ticket"
+msgstr "Congratulations on winning the Sudomemo Weekly Topic!"
+
+msgid "TICKET_DESC_welcoming_champion_ticket"
+msgstr "You're been very welcoming to new and returning creators! Thanks!"
+
+msgid "TICKET_NAME_10th_birthday_bash_ticket"
+msgstr "10th Birthday Bash Ticket"
+
+msgid "TICKET_NAME_7th_birthday_bash_ticket"
+msgstr "7th Birthday Bash Ticket"
+
+msgid "TICKET_NAME_8th_birthday_bash_ticket"
+msgstr "8th Birthday Bash Ticket"
+
+msgid "TICKET_NAME_9th_birthday_bash_ticket"
+msgstr "9th Birthday Bash Ticket"
+
+msgid "TICKET_NAME_archive_supporter_ticket"
+msgstr "Archive Supporter Ticket"
+
+msgid "TICKET_NAME_birthday_ticket"
+msgstr "Birthday Ticket"
+
+msgid "TICKET_NAME_blue_dog_ticket"
+msgstr "Ziggy Starburst Ticket"
+
+msgid "TICKET_NAME_colors_promo_ticket"
+msgstr "Colors! Promo Ticket"
+
+# Each ticket type will have a name and a description 
+msgid "TICKET_NAME_demo_ticket"
+msgstr "Demo Ticket"
+
+msgid "TICKET_NAME_fall_2023_ffc_winner_ticket"
+msgstr "Fall 2023 Sudomemo F.F.C. Winner Ticket"
+
+msgid "TICKET_NAME_featured_artist_ticket"
+msgstr "Featured Artist Ticket"
+
+msgid "TICKET_NAME_featured_flipnote_ticket"
+msgstr "Featured Flipnote Ticket"
+
+msgid "TICKET_NAME_ffotd_ticket"
+msgstr "First Flipnote of the Decade"
+
+msgid "TICKET_NAME_folding_reward_ticket"
+msgstr "Folding@Home Reward Ticket"
+
+msgid "TICKET_NAME_golden_neko_ticket"
+msgstr "Mitsuo Meow Ticket"
+
+msgid "TICKET_NAME_green_panda_ticket"
+msgstr "Lazy Paisley Ticket"
+
+msgid "TICKET_NAME_instagram_promo_ticket"
+msgstr "Instagram Promo Ticket"
+
+msgid "TICKET_NAME_love_anniversary_ticket"
+msgstr "Anniversary Ticket"
+
+msgid "TICKET_NAME_neighborhood_watch_ticket"
+msgstr "Neighborhood Watch Ticket"
+
+msgid "TICKET_NAME_nitro_booster_ticket"
+msgstr "Nitro Booster Ticket"
+
+# Sudomemo Plus
+msgid "TICKET_NAME_one_month_plus_ticket"
+msgstr "Plus Ticket (One Month)"
+
+msgid "TICKET_NAME_one_year_plus_ticket"
+msgstr "Plus Ticket (One Year)"
+
+msgid "TICKET_NAME_patreon_patron_ticket"
+msgstr "Sudomemo Patron Ticket"
+
+msgid "TICKET_NAME_purple_bunny_ticket"
+msgstr "Russell Ramblewood Ticket"
+
+msgid "TICKET_NAME_red_bird_ticket"
+msgstr "Bailey Flitwing Ticket"
+
+msgid "TICKET_NAME_regular_ticket"
+msgstr "Regular Ticket"
+
+msgid "TICKET_NAME_rewind_2021_ticket"
+msgstr "Sudomemo Rewind 2021 Ticket"
+
+msgid "TICKET_NAME_rewind_2022_ticket"
+msgstr "Sudomemo Rewind 2022 Ticket"
+
+msgid "TICKET_NAME_rewind_2023_ticket"
+msgstr "Sudomemo Rewind 2023 Ticket"
+
+msgid "TICKET_NAME_special_someone_ticket"
+msgstr "Special Someone Ticket"
+
+msgid "TICKET_NAME_spookmaster_ticket"
+msgstr "Spookmaster Ticket"
+
+msgid "TICKET_NAME_spring_2023_ffc_winner_ticket"
+msgstr "Spring 2023 Sudomemo F.F.C. Winner Ticket"
+
+msgid "TICKET_NAME_sudomemo_radio_pilot_ticket"
+msgstr "Sudomemo Radio Pilot Ticket"
+
+msgid "TICKET_NAME_sudomemo_radio_ticket"
+msgstr "Sudomemo Radio Ticket"
+
+msgid "TICKET_NAME_survey_thanks_ticket"
+msgstr "Survey Ticket"
+
+msgid "TICKET_NAME_translator_ticket"
+msgstr "Translator Ticket"
+
+msgid "TICKET_NAME_twitter_promo_ticket"
+msgstr "Twitter Promo Ticket"
+
+msgid "TICKET_NAME_weekly_topic_winner_ticket"
+msgstr "Weekly Topic Winner Ticket"
+
+msgid "TICKET_NAME_welcoming_champion_ticket"
+msgstr "Welcoming Champion Ticket"
+
+msgid "TICKET_REDEEM_LOSE_FORMAT"
+msgstr "You redeemed the %s, but..."
+
+msgid "TICKET_REDEEM_NO_PRIZES"
+msgstr "You didn't win anything. Sorry!"
+
+# Ticket redemption
+msgid "TICKET_REDEEM_WIN_FORMAT"
+msgstr "You redeemed the %s!"
+
+msgid "USE_ITEM"
+msgstr "Use"
+
+# Ticket delivery
+msgid "YOU_GOT_A_TICKET"
+msgstr "You got a ticket!"

@@ -114,11 +114,17 @@ msgstr "修正するには、次のURLにアクセスしてください。"
 msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
 msgstr "YouTubeのアカウントが未確認の状態です。サムネイルの設定や15分を超える作品など、確認が必要な機能はご利用になれません。"
 
+msgid "YOUTUBE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
+msgstr "Please contact us on Discord or via email to %s."
+
 msgid "YOUTUBE_ESTIMATED_DURATION"
 msgstr "推定される動画の長さ:"
 
 msgid "YOUTUBE_ID"
 msgstr "YouTube ID"
+
+msgid "YOUTUBE_INTEGRATION_BANNED"
+msgstr "Your account and console have been restricted from using our YouTube integration services."
 
 msgid "YOUTUBE_LOOP_COUNT"
 msgstr "ループ回数"

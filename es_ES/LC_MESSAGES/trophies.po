@@ -17,6 +17,9 @@ msgstr "Continuar"
 msgid "TROPHY_CASE"
 msgstr "Vitrina de Trofeos"
 
+msgid "TROPHY_DESC_10th_birthday_bash"
+msgstr "Attended Sudomemo's 10th Birthday Bash event"
+
 msgid "TROPHY_DESC_7th_birthday_bash"
 msgstr "Atendió al evento de Sudomemo: ¡7 años de diversión!"
 
@@ -37,6 +40,9 @@ msgstr "Participó en el Programa de Pruebas Demo de Sudomemo 2017"
 
 msgid "TROPHY_DESC_early_adopter"
 msgstr "Unirse a Sudomemo durante nuestro primer mes de servicio."
+
+msgid "TROPHY_DESC_fall_2023_ffc_winner"
+msgstr "One of the winners of the Fall 2023 Sudomemo Flipnote Fight Competition!"
 
 msgid "TROPHY_DESC_featured_artist"
 msgstr "Obten reconocimiento como Artista Destacado en Sudomemo"
@@ -92,6 +98,9 @@ msgstr "Featured in 2021's Sudomemo Rewind!"
 msgid "TROPHY_DESC_rewind_2022"
 msgstr "Featured in 2022's Sudomemo Rewind!"
 
+msgid "TROPHY_DESC_rewind_2023"
+msgstr "Featured in 2023's Sudomemo Rewind!"
+
 msgid "TROPHY_DESC_spookmaster"
 msgstr "Premio Spookmaster a la excelencia en Brujería y Hechicería."
 
@@ -112,6 +121,9 @@ msgstr "Envía una entrada ganadora a la Tematica Semanal de Sudomemo."
 
 msgid "TROPHY_DESC_welcoming_champion"
 msgstr "Earned the title of Welcoming Champion."
+
+msgid "TROPHY_NAME_10th_birthday_bash"
+msgstr "10th Birthday Bash"
 
 msgid "TROPHY_NAME_7th_birthday_bash"
 msgstr "7mo Birthday Bash"
@@ -134,6 +146,9 @@ msgstr "Probador Demo"
 
 msgid "TROPHY_NAME_early_adopter"
 msgstr "Miembro Veterano"
+
+msgid "TROPHY_NAME_fall_2023_ffc_winner"
+msgstr "Fall 2023 Sudomemo Flipnote Fight Competition Winner"
 
 msgid "TROPHY_NAME_featured_artist"
 msgstr "Artista Destacado"
@@ -188,6 +203,9 @@ msgstr "Sudomemo Rewind 2021"
 
 msgid "TROPHY_NAME_rewind_2022"
 msgstr "Sudomemo Rewind 2022"
+
+msgid "TROPHY_NAME_rewind_2023"
+msgstr "Sudomemo Rewind 2023"
 
 msgid "TROPHY_NAME_spookmaster"
 msgstr "Maestro del Susto"

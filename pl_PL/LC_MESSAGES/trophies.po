@@ -17,6 +17,9 @@ msgstr "Kontynuuj"
 msgid "TROPHY_CASE"
 msgstr "Trofea"
 
+msgid "TROPHY_DESC_10th_birthday_bash"
+msgstr "Attended Sudomemo's 10th Birthday Bash event"
+
 msgid "TROPHY_DESC_7th_birthday_bash"
 msgstr "Bral/-a udzial w siódmym wydarzeniu Birthday Bash"
 
@@ -37,6 +40,9 @@ msgstr "Wez udzial w programie testowania aktualizacji Sudomemo z 2017"
 
 msgid "TROPHY_DESC_early_adopter"
 msgstr "Dolacz do Sudomemo podczas pierwszego miesiaca jego istnienia"
+
+msgid "TROPHY_DESC_fall_2023_ffc_winner"
+msgstr "One of the winners of the Fall 2023 Sudomemo Flipnote Fight Competition!"
 
 msgid "TROPHY_DESC_featured_artist"
 msgstr "Zostań wybrany jako wyrózniony twórca na Sudomemo"
@@ -92,6 +98,9 @@ msgstr "Wyrózniony/-a w Sudomemo Rewind 2021!"
 msgid "TROPHY_DESC_rewind_2022"
 msgstr "Wyrózniony/-a w Sudomemo Rewind 2022!"
 
+msgid "TROPHY_DESC_rewind_2023"
+msgstr "Featured in 2023's Sudomemo Rewind!"
+
 msgid "TROPHY_DESC_spookmaster"
 msgstr "Nagroda Spookmaster Award za doskonalosc w czarodziejstwie i czarnoksieznictwie."
 
@@ -112,6 +121,9 @@ msgstr "Twój Flipnote wygral Temat Tygodnia"
 
 msgid "TROPHY_DESC_welcoming_champion"
 msgstr "Zdobyl/-a tytul Czempiona Przywitań."
+
+msgid "TROPHY_NAME_10th_birthday_bash"
+msgstr "10th Birthday Bash"
 
 msgid "TROPHY_NAME_7th_birthday_bash"
 msgstr "Siódmy Birthday Bash"
@@ -134,6 +146,9 @@ msgstr "Tester Demo"
 
 msgid "TROPHY_NAME_early_adopter"
 msgstr "Wczesny uzytkownik"
+
+msgid "TROPHY_NAME_fall_2023_ffc_winner"
+msgstr "Fall 2023 Sudomemo Flipnote Fight Competition Winner"
 
 msgid "TROPHY_NAME_featured_artist"
 msgstr "Wyrózniony twórca"
@@ -188,6 +203,9 @@ msgstr "Sudomemo Rewind 2021"
 
 msgid "TROPHY_NAME_rewind_2022"
 msgstr "Sudomemo Rewind 2022"
+
+msgid "TROPHY_NAME_rewind_2023"
+msgstr "Sudomemo Rewind 2023"
 
 msgid "TROPHY_NAME_spookmaster"
 msgstr "Spookmaster"

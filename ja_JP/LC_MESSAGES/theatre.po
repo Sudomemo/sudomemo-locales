@@ -17,6 +17,12 @@ msgstr "このページには表示できるものがありません。"
 msgid "ACCOUNT_SETTINGS"
 msgstr "アカウント設定"
 
+msgid "ADD_TO_NEW_PLAYLIST"
+msgstr "Add to new Playlist"
+
+msgid "ADD_TO_PLAYLIST"
+msgstr "Add to Playlist"
+
 msgid "ALT_DRAWN_COMMENT_BY_USER"
 msgstr "%sさんのコメント"
 
@@ -132,6 +138,9 @@ msgstr "非公開"
 msgid "CHANNEL_PERM_OPEN"
 msgstr "公開"
 
+msgid "CHRONOLOGICAL"
+msgstr "Chronological"
+
 msgid "COMMENTS"
 msgstr "コメント"
 
@@ -140,6 +149,12 @@ msgstr "進む"
 
 msgid "COULD_NOT_SAVE_DETAILS"
 msgstr "詳細を保存できませんでした。"
+
+msgid "CREATED"
+msgstr "Created"
+
+msgid "CREATE_NEW_PLAYLIST"
+msgstr "Create New Playlist"
 
 msgid "CREATOR"
 msgstr "作者"
@@ -167,6 +182,21 @@ msgstr "Y/m/d D"
 
 msgid "DEFAULT_META_DESCRIPTION"
 msgstr "スドメモ：作ったメモを世界に発信しよう！DSiと3DSに対応。"
+
+msgid "DELETE_PLAYLIST"
+msgstr "Delete Playlist"
+
+msgid "DELETE_PLAYLIST_CONFIRM_1"
+msgstr "Are you sure you want to delete this playlist?"
+
+msgid "DELETE_PLAYLIST_CONFIRM_2"
+msgstr "This action is irreversible!"
+
+msgid "DELETE_PLAYLIST_CONFIRM_NO"
+msgstr "No"
+
+msgid "DELETE_PLAYLIST_CONFIRM_YES"
+msgstr "Yes"
 
 msgid "DESCRIPTION"
 msgstr "説明"
@@ -253,6 +283,9 @@ msgstr "作品名と説明文"
 
 msgid "EDIT_PAGE_TITLE_TOOLTIP"
 msgstr "文字、数字、記号を40字まで使用できます。"
+
+msgid "EDIT_PLAYLIST"
+msgstr "Edit Playlist"
 
 msgid "FANS"
 msgstr "この作者のファン"
@@ -399,8 +432,14 @@ msgstr "E-mailまたはうごメモID"
 msgid "LOGIN_SIGNUP_SELECT_DEVICE"
 msgstr "機種を選択してください"
 
+msgid "MANAGE_PLAYLIST"
+msgstr "Manage Playlist"
+
 msgid "MODERATOR"
 msgstr "運営"
+
+msgid "MODIFIED"
+msgstr "Modified"
 
 msgid "MORE"
 msgstr "もっと見る"
@@ -535,6 +574,52 @@ msgstr "リンクの有効期限が切れています"
 msgid "PERMISSIONS"
 msgstr "公開設定"
 
+msgid "PLAYLIST"
+msgstr "Playlist"
+
+msgid "PLAYLISTS"
+msgstr "Playlists"
+
+msgid "PLAYLIST_ERROR_BLOCKED_BY_AUTHOR"
+msgstr "You cannot add this Flipnote to a playlist because you have been blocked by the Flipnote's author."
+
+msgid "PLAYLIST_ERROR_BLOCKING_AUTHOR"
+msgstr "You cannot add this Flipnote to a playlist because you have blocked the Flipnote's author."
+
+# '%s' will be replaced with an error code when shown to the user.
+msgid "PLAYLIST_ERROR_GENERIC"
+msgstr "An error occurred whilst saving this playlist. Error code: %s."
+
+msgid "PLAYLIST_ERROR_GENERIC_2"
+msgstr "An error occurred. Error code: %s."
+
+msgid "PLAYLIST_ERROR_PROFANE_DESC"
+msgstr "This description contains content that goes against our Content Policy."
+
+msgid "PLAYLIST_ERROR_PROFANE_TITLE"
+msgstr "This title contains content that goes against our Content Policy."
+
+msgid "PLAYLIST_ID"
+msgstr "Playlist ID"
+
+msgid "PLAYLIST_NO_FLIPNOTES"
+msgstr "There have been no Flipnotes added to this playlist yet."
+
+msgid "PLAYLIST_PRIVATE"
+msgstr "Private"
+
+msgid "PLAYLIST_PUBLIC"
+msgstr "Public"
+
+msgid "PLAYLIST_UNKNOWN"
+msgstr "Unknown"
+
+msgid "PLAYLIST_UNLISTED"
+msgstr "Unlisted"
+
+msgid "PLAYLIST_VISIBILITY"
+msgstr "Visibility"
+
 msgid "PLUS_LEARN_MORE"
 msgstr "詳しくはこちら"
 
@@ -607,6 +692,9 @@ msgstr "不明"
 msgid "RELEASED"
 msgstr "新着順"
 
+msgid "REMOVE_FROM_PLAYLIST"
+msgstr "Remove from Playlist"
+
 msgid "RESET_PASSWORD_BY_FSID"
 msgstr "You can still reset your password with your Flipnote Studio ID! Simply send a quick message to Sudomemo Support and we'll get that sent out to you."
 
@@ -615,6 +703,9 @@ msgstr "Root Flipnote"
 
 msgid "SAVE"
 msgstr "保存"
+
+msgid "SAVE_PLAYLIST"
+msgstr "Save Playlist"
 
 msgid "SAVING"
 msgstr "保存中"
@@ -762,12 +853,22 @@ msgstr "トロフィーケース"
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "%sさんの無題の作品"
 
+msgid "UNTITLED_PLAYLIST"
+msgstr "Untitled Playlist"
+
+msgid "UPLOAD_CONTACT_DISCORD_OR_EMAIL_FORMAT"
+msgstr "Please contact us on Discord or via email to %s."
+
 msgid "UPLOAD_OPTIONS"
 msgstr "アップロードオプション"
 
 # Upload status
 msgid "UPLOAD_STATUS"
 msgstr "アップロード状態"
+
+# Upload to YouTube page
+msgid "UPLOAD_YOUTUBE_INTEGRATION_BANNED"
+msgstr "Your account has been restricted from using our YouTube integration services."
 
 msgid "USERS"
 msgstr "ユーザー"

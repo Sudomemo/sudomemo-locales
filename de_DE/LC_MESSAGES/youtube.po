@@ -114,11 +114,17 @@ msgstr "Um dies zu beheben, besuche:"
 msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
 msgstr "Dein YouTube-Konto ist nicht bestätigt. Einige Features werden nicht komplett funktionieren, wie Video-Thumbnails oder das Posten von Flipnotes mit einer Länge von über 15 Minuten. "
 
+msgid "YOUTUBE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
+msgstr "Bitte kontaktiere uns auf Discord oder per E-Mail an %s."
+
 msgid "YOUTUBE_ESTIMATED_DURATION"
 msgstr "Geschätzte Spieldauer:"
 
 msgid "YOUTUBE_ID"
 msgstr "YouTube ID"
+
+msgid "YOUTUBE_INTEGRATION_BANNED"
+msgstr "Die Nutzung unserer YouTube-Integrationsdienste durch dein Konto und deine Konsole wurde eingeschränkt."
 
 msgid "YOUTUBE_LOOP_COUNT"
 msgstr "Wiederholungen"
