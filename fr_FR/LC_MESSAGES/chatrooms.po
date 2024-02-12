@@ -40,7 +40,7 @@ msgid "NO_BLANK_MESSAGES_ALLOWED"
 msgstr "Vous ne pouvez pas poster de message vide."
 
 msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
-msgstr "Vous avez été mis en mode muet. vous ne pouvez pas poster de message en mode muet."
+msgstr "Vous avez été mis en mode muet. Vous ne pouvez pas poster de message en mode muet."
 
 msgid "NO_COMMENTS_YET"
 msgstr "Aucun message n'a été envoyé ici."
@@ -52,7 +52,7 @@ msgid "ROOM_NAME_anime_chat"
 msgstr "Chat Anime"
 
 msgid "ROOM_NAME_birthday_bash"
-msgstr "Sudomemo Birthday Bash"
+msgstr "Fête d'anniversaire de Sudomemo"
 
 msgid "ROOM_NAME_blue_chat"
 msgstr "Chat Bleu"
