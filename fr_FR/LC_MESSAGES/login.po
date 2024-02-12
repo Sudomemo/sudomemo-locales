@@ -10,13 +10,13 @@ msgid "BAN_NOTICE_CONSOLE_BAN"
 msgstr "Votre compte et votre console ont été suspendus de Sudomemo."
 
 msgid "BAN_NOTICE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
-msgstr "S'il-vous-plaît, contactez-nous sur Discord ou par mail à %s."
+msgstr "S'il-vous-plaît, contactez-nous sur Discord ou par courriel à %s."
 
 msgid "BAN_NOTICE_PLEASE_READ_BAN_LETTER"
 msgstr "S'il-vous-plaît, lisez la lettre que nous vous avons envoyé pour plus d'informations."
 
 msgid "BAN_VIEW_MAIL"
-msgstr "Voir le mail de Sudomemo"
+msgstr "Voir le courriel de Sudomemo"
 
 msgid "BASIC_AUTH_BAD_LENGTH_FORMAT"
 msgstr "L'ID semble avoir %s caractères de long (cela devrait être 16)"
@@ -52,7 +52,7 @@ msgid "BUTTON_EDIT_EMAIL_ADDRESS"
 msgstr "Changer l'adresse email"
 
 msgid "BUTTON_RESEND_VERIFICATION_EMAIL"
-msgstr "Renvoyer le mail de vérification"
+msgstr "Renvoyer le courriel de vérification"
 
 msgid "BUTTON_SIGN_IN_TO_SUDOMEMO"
 msgstr "Se connecter à Sudomemo"
@@ -76,7 +76,7 @@ msgid "CREATORS_ROOM_SHIM_WELCOME"
 msgstr "Bienvenue !"
 
 msgid "EMAIL_ADDITION_DETAILS"
-msgstr "Si vous oubliez votre mot de passe, nous vous enverrons un lien de réinitialisation du mot de passe par mail."
+msgstr "Si vous oubliez votre mot de passe, nous vous enverrons un lien de réinitialisation du mot de passe par email."
 
 msgid "EMAIL_ADDITION_SUGGESTED"
 msgstr "L'email est optionnel, mais hautement recommandé. Si vous oubliez votre mot de passe, nous vous enverrons un lien de réinitialisation du mot de passe par mail."
@@ -94,7 +94,7 @@ msgid "EMAIL_REQUIRES_UPDATE"
 msgstr "Votre adresse email a besoin d'être mise à jour."
 
 msgid "EMAIL_VERIFICATION_ADDRESS_REMOVED"
-msgstr "Désolé pour ça ! Nous avons marqué cette adresse email comme étant incorrecte, donc vous ne devriez plus recevoir de mail de Sudomemo."
+msgstr "Désolé pour cela ! Nous avons marqué cette adresse email comme étant incorrecte, donc vous ne devriez plus recevoir de courrier de Sudomemo."
 
 msgid "EMAIL_VERIFIED"
 msgstr "Merci d'avoir vérifié votre adresse email !"
@@ -194,10 +194,10 @@ msgid "NEW_USER_WELCOME_FORMAT"
 msgstr "Bienvenue sur Sudomemo, %s !"
 
 msgid "NOT_RECEIVING_HELP_FORMAT"
-msgstr "Vous ne recevez pas le mail ? Vous pouvez nous contacter sur le Discord de Sudomemo ou via %s."
+msgstr "Vous ne recevez pas l'email ? Vous pouvez nous contacter sur le Discord de Sudomemo ou via %s."
 
 msgid "NO_PLAINTEXT_PASSWORD_RECOVERY_IF_LOST"
-msgstr "Apres cet étape, nous ne pourrons pas récuperer votre mot de passe si vous le perdez."
+msgstr "Après cet étape, nous ne pourrons pas récupérer votre mot de passe si vous le perdez."
 
 msgid "PLEASE_DISCONNECT_AND_RECONNECT"
 msgstr "Une erreur est survenue. Pour réessayer, déconnectez-vous puis reconnectez-vous à Sudomemo."
@@ -254,7 +254,7 @@ msgid "VERIFICATION_EXPIRED_TEXT"
 msgstr "L'URL de vérification a expiré ou il a déjà été utilisé."
 
 msgid "VERIFICATION_LIMIT_EXCEEDED_FORMAT"
-msgstr "Vous avez atteint le nombre maximal de mails de vérification. S'il-vous-plaît contactez le support à %s ou via Discord."
+msgstr "Vous avez atteint le nombre maximal d'emails de vérification. S'il-vous-plaît contactez le support à %s ou via Discord."
 
 msgid "VERIFICATION_NEEDED"
 msgstr "Nous avons besoin que vous vérifiez votre adresse email."

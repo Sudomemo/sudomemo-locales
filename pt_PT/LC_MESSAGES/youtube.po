@@ -115,7 +115,7 @@ msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
 msgstr "A tua Conta do YouTube não está verificada. Certas funções podem não funcionar correctamente, tais como thumbnails de vídeo Flipnotes mais compridos que 15 minutos."
 
 msgid "YOUTUBE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
-msgstr "Please contact us on Discord or via email to %s."
+msgstr "Por-favor contacte-nos no Discord ou por email em %s."
 
 msgid "YOUTUBE_ESTIMATED_DURATION"
 msgstr "Duração de vídeo estimada:"
@@ -124,7 +124,7 @@ msgid "YOUTUBE_ID"
 msgstr "ID do YouTube ID"
 
 msgid "YOUTUBE_INTEGRATION_BANNED"
-msgstr "Your account and console have been restricted from using our YouTube integration services."
+msgstr "A tua conta e consola foram banidas de usarem os nossos Serviços de Integração do YouTube."
 
 msgid "YOUTUBE_LOOP_COUNT"
 msgstr "Nº de loops"
