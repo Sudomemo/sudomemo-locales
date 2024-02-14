@@ -324,3 +324,6 @@ msgstr "You got a gift!"
 # Ticket delivery
 msgid "YOU_GOT_A_TICKET"
 msgstr "Du fick en biljett!"
+msgid "ANONYMOUS"
+msgstr "Anonymous User"
+
