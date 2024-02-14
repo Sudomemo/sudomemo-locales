@@ -30,6 +30,14 @@ msgstr "Δεν εχετε απο αυτο το αντικειμενο προς �
 msgid "ENTER_CODE_TO_REDEEM"
 msgstr "Συμπληρωσετε τον κωδικο που θελετε να εξαργυρωσετε παρακατω."
 
+# %s is the ticket name, plus "ticket".
+msgid "GIFTED_BY_ANON"
+msgstr "An anonymous user has gifted you a %s!"
+
+# First %s is the gifter's username, 2nd %s is the ticket name, plus "ticket".
+msgid "GIFTED_BY_X"
+msgstr "%s has gifted you a %s!"
+
 # Inventory
 msgid "INVENTORY"
 msgstr "Αποθηκη"
@@ -309,6 +317,13 @@ msgstr "Εξαργυρωσατε το %s!"
 msgid "USE_ITEM"
 msgstr "Χρηση"
 
+# Ticket gifting
+msgid "YOU_GOT_A_GIFT"
+msgstr "You got a gift!"
+
 # Ticket delivery
 msgid "YOU_GOT_A_TICKET"
 msgstr "Μολις πηρατε λαχνο!"
+msgid "ANONYMOUS"
+msgstr "Anonymous User"
+
