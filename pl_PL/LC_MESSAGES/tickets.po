@@ -6,6 +6,9 @@ msgstr ""
 msgid "ACHIEVEMENT"
 msgstr "Osiagniecie"
 
+msgid "ANONYMOUS"
+msgstr "Anonymous User"
+
 msgid "CODE_ALREADY_USED"
 msgstr "Wpisany kod zostal juz uzyty."
 
@@ -324,6 +327,3 @@ msgstr "You got a gift!"
 # Ticket delivery
 msgid "YOU_GOT_A_TICKET"
 msgstr "Otrzymano bilet!"
-msgid "ANONYMOUS"
-msgstr "Anonymous User"
-

@@ -6,6 +6,9 @@ msgstr ""
 msgid "ACHIEVEMENT"
 msgstr "成果"
 
+msgid "ANONYMOUS"
+msgstr "Anonymous User"
+
 msgid "CODE_ALREADY_USED"
 msgstr "入力されたコードは使用済みです。"
 
@@ -324,6 +327,3 @@ msgstr "You got a gift!"
 # Ticket delivery
 msgid "YOU_GOT_A_TICKET"
 msgstr "チケットを手に入れました!"
-msgid "ANONYMOUS"
-msgstr "Anonymous User"
-
