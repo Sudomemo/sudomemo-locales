@@ -30,6 +30,14 @@ msgstr "Vous n'avez aucun exemplaire de cet objet à utiliser."
 msgid "ENTER_CODE_TO_REDEEM"
 msgstr "Saisissez le code que vous voulez utiliser ci-dessous."
 
+# %s is the ticket name, plus "ticket".
+msgid "GIFTED_BY_ANON"
+msgstr "An anonymous user has gifted you a %s!"
+
+# First %s is the gifter's username, 2nd %s is the ticket name, plus "ticket".
+msgid "GIFTED_BY_X"
+msgstr "%s has gifted you a %s!"
+
 # Inventory
 msgid "INVENTORY"
 msgstr "Inventaire"
@@ -309,18 +317,10 @@ msgstr "Vous avez utilisé le %s !"
 msgid "USE_ITEM"
 msgstr "Utiliser"
 
-# Ticket delivery
-msgid "YOU_GOT_A_TICKET"
-msgstr "Vous avez obtenu un ticket !"
-
 # Ticket gifting
 msgid "YOU_GOT_A_GIFT"
 msgstr "You got a gift!"
 
-# First %s is the gifter's username, 2nd %s is the ticket name, plus "ticket".
-msgid "GIFTED_BY_X"
-msgstr "%s has gifted you a %s!"
-
-# %s is the ticket name, plus "ticket".
-msgid "GIFTED_BY_ANON"
-msgstr "An anonymous user has gifted you a %s!"
+# Ticket delivery
+msgid "YOU_GOT_A_TICKET"
+msgstr "Vous avez obtenu un ticket !"
