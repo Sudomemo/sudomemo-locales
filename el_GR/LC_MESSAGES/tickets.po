@@ -6,6 +6,9 @@ msgstr ""
 msgid "ACHIEVEMENT"
 msgstr "Κατορθωματα"
 
+msgid "ANONYMOUS"
+msgstr "Anonymous User"
+
 msgid "CODE_ALREADY_USED"
 msgstr "Ο κωδικος που προσθεσατε χρησιμοποιειται ηδη."
 
@@ -324,6 +327,3 @@ msgstr "You got a gift!"
 # Ticket delivery
 msgid "YOU_GOT_A_TICKET"
 msgstr "Μολις πηρατε λαχνο!"
-msgid "ANONYMOUS"
-msgstr "Anonymous User"
-
