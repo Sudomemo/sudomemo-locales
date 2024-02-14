@@ -30,6 +30,14 @@ msgstr "Du har inget av det att använda."
 msgid "ENTER_CODE_TO_REDEEM"
 msgstr "Skriv koden du vill lösa ut nedan."
 
+# %s is the ticket name, plus "ticket".
+msgid "GIFTED_BY_ANON"
+msgstr "An anonymous user has gifted you a %s!"
+
+# First %s is the gifter's username, 2nd %s is the ticket name, plus "ticket".
+msgid "GIFTED_BY_X"
+msgstr "%s has gifted you a %s!"
+
 # Inventory
 msgid "INVENTORY"
 msgstr "Förråd"
@@ -309,6 +317,13 @@ msgstr "Du drog %s!"
 msgid "USE_ITEM"
 msgstr "Använd"
 
+# Ticket gifting
+msgid "YOU_GOT_A_GIFT"
+msgstr "You got a gift!"
+
 # Ticket delivery
 msgid "YOU_GOT_A_TICKET"
 msgstr "Du fick en biljett!"
+msgid "ANONYMOUS"
+msgstr "Anonymous User"
+
