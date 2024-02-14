@@ -1156,3 +1156,39 @@ msgstr "Δειτε τωρα:"
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "Επεξεργαζεστε αυτο το Flipnote:"
+
+msgid "GIFT_ERROR_INVALID_CODE"
+msgstr "This is not a valid ticket code. Please check for typos and try again."
+
+msgid "GIFT_ERROR_ALREADY_REDEEMED"
+msgstr "This ticket has already been redeemed."
+
+msgid "GIFT_ERROR_PUBLIC_TICKET"
+msgstr "This ticket is not giftable."
+
+msgid "GIFT_ERROR_EXPIRED"
+msgstr "This ticket has expired."
+
+msgid "GIFT_ERROR_BLOCKING_RECIPIENT"
+msgstr "You cannot gift a ticket to this user as you have blocked them."
+
+msgid "GIFT_ERROR_RECIPIENT_BLOCKING"
+msgstr "You cannot gift a ticket to this user as they have blocked you."
+
+msgid "GIFT_TICKET"
+msgstr "Gift Ticket"
+
+msgid "GIFT_ARE_YOU_SURE"
+msgstr "Are you sure you want to gift a %s ticket to %s?"
+
+msgid "GIFT_CONFIRM_YES"
+msgstr "Yes"
+
+msgid "GIFT_CONFIRM_NO"
+msgstr "No"
+
+msgid "GIFT_ERROR_PROFANE_COMMENT"
+msgstr "This comment violates our Content Policy."
+
+msgid "GIFT_ERROR_COMMENT_TOO_LONG"
+msgstr "This comment is too long. Please shorten it to 1000 characters or less."

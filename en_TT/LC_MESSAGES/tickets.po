@@ -312,3 +312,15 @@ msgstr "Use"
 # Ticket delivery
 msgid "YOU_GOT_A_TICKET"
 msgstr "You got a ticket!"
+
+# Ticket gifting
+msgid "YOU_GOT_A_GIFT"
+msgstr "You got a gift!"
+
+# First %s is the gifter's username, 2nd %s is the ticket name, plus "ticket".
+msgid "GIFTED_BY_X"
+msgstr "%s has gifted you a %s!"
+
+# %s is the ticket name, plus "ticket".
+msgid "GIFTED_BY_ANON"
+msgstr "An anonymous user has gifted you a %s!"
