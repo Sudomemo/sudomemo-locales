@@ -327,3 +327,8 @@ msgstr "You got a gift!"
 # Ticket delivery
 msgid "YOU_GOT_A_TICKET"
 msgstr "チケットを手に入れました!"
+msgid "TICKET_NAME_five_year_plus_ticket"
+msgstr "Plus Ticket (Five Years)"
+
+msgid "TICKET_DESC_five_year_plus_ticket"
+msgstr "This ticket will give you five years of Sudomemo Plus!"
