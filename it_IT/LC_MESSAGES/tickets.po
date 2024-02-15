@@ -109,6 +109,9 @@ msgstr "Congratulazioni! Uno dei tuoi Flipnote è stato messo in primo piano."
 msgid "TICKET_DESC_ffotd_ticket"
 msgstr "Congratulazioni! Hai pubblicato il primo Flipnote del nuovo decennio!"
 
+msgid "TICKET_DESC_five_year_plus_ticket"
+msgstr "This ticket will give you five years of Sudomemo Plus!"
+
 msgid "TICKET_DESC_folding_reward_ticket"
 msgstr "Grazie per aver aiutato a salvare vite!"
 
@@ -228,6 +231,9 @@ msgstr "Ticket Flipnote in primo piano"
 msgid "TICKET_NAME_ffotd_ticket"
 msgstr "Primo Flipnote del Decennio"
 
+msgid "TICKET_NAME_five_year_plus_ticket"
+msgstr "Plus Ticket (Five Years)"
+
 msgid "TICKET_NAME_folding_reward_ticket"
 msgstr "Folding@Home Ticket Premio"
 
@@ -327,8 +333,3 @@ msgstr "You got a gift!"
 # Ticket delivery
 msgid "YOU_GOT_A_TICKET"
 msgstr "Hai ottenuto un ticket!"
-msgid "TICKET_NAME_five_year_plus_ticket"
-msgstr "Plus Ticket (Five Years)"
-
-msgid "TICKET_DESC_five_year_plus_ticket"
-msgstr "This ticket will give you five years of Sudomemo Plus!"
