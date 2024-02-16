@@ -6,6 +6,9 @@ msgstr ""
 msgid "ACHIEVEMENT"
 msgstr "成果"
 
+msgid "ANONYMOUS"
+msgstr "Anonymous User"
+
 msgid "CODE_ALREADY_USED"
 msgstr "入力されたコードは使用済みです。"
 
@@ -29,6 +32,14 @@ msgstr "使用できるアイテムがありません…"
 
 msgid "ENTER_CODE_TO_REDEEM"
 msgstr "引き換えるコードを入力してください。"
+
+# %s is the ticket name, plus "ticket".
+msgid "GIFTED_BY_ANON"
+msgstr "An anonymous user has gifted you a %s!"
+
+# First %s is the gifter's username, 2nd %s is the ticket name, plus "ticket".
+msgid "GIFTED_BY_X"
+msgstr "%s has gifted you a %s!"
 
 # Inventory
 msgid "INVENTORY"
@@ -97,6 +108,9 @@ msgstr "おめでとうございます！あなたの作品が一つ紹介され
 
 msgid "TICKET_DESC_ffotd_ticket"
 msgstr "おめでとうございます！新10年間の最初の作品を投稿しました。"
+
+msgid "TICKET_DESC_five_year_plus_ticket"
+msgstr "This ticket will give you five years of Sudomemo Plus!"
 
 msgid "TICKET_DESC_folding_reward_ticket"
 msgstr "生活を助けてくれてありがとう！"
@@ -217,6 +231,9 @@ msgstr "注目の作品チケット"
 msgid "TICKET_NAME_ffotd_ticket"
 msgstr "10年間の最初の作品"
 
+msgid "TICKET_NAME_five_year_plus_ticket"
+msgstr "Plus Ticket (Five Years)"
+
 msgid "TICKET_NAME_folding_reward_ticket"
 msgstr "Folding@Home得点チケット"
 
@@ -308,6 +325,10 @@ msgstr "%sを引き換えました!"
 
 msgid "USE_ITEM"
 msgstr "使う"
+
+# Ticket gifting
+msgid "YOU_GOT_A_GIFT"
+msgstr "You got a gift!"
 
 # Ticket delivery
 msgid "YOU_GOT_A_TICKET"

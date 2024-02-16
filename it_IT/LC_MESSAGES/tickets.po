@@ -6,6 +6,9 @@ msgstr ""
 msgid "ACHIEVEMENT"
 msgstr "Obiettivo"
 
+msgid "ANONYMOUS"
+msgstr "Anonymous User"
+
 msgid "CODE_ALREADY_USED"
 msgstr "Il codice inserito è già stato usato."
 
@@ -29,6 +32,14 @@ msgstr "Non hai nessun oggetto di quel tipo da usare."
 
 msgid "ENTER_CODE_TO_REDEEM"
 msgstr "Inserisci qui sotto il codice che vuoi riscattare."
+
+# %s is the ticket name, plus "ticket".
+msgid "GIFTED_BY_ANON"
+msgstr "An anonymous user has gifted you a %s!"
+
+# First %s is the gifter's username, 2nd %s is the ticket name, plus "ticket".
+msgid "GIFTED_BY_X"
+msgstr "%s has gifted you a %s!"
 
 # Inventory
 msgid "INVENTORY"
@@ -97,6 +108,9 @@ msgstr "Congratulazioni! Uno dei tuoi Flipnote è stato messo in primo piano."
 
 msgid "TICKET_DESC_ffotd_ticket"
 msgstr "Congratulazioni! Hai pubblicato il primo Flipnote del nuovo decennio!"
+
+msgid "TICKET_DESC_five_year_plus_ticket"
+msgstr "This ticket will give you five years of Sudomemo Plus!"
 
 msgid "TICKET_DESC_folding_reward_ticket"
 msgstr "Grazie per aver aiutato a salvare vite!"
@@ -217,6 +231,9 @@ msgstr "Ticket Flipnote in primo piano"
 msgid "TICKET_NAME_ffotd_ticket"
 msgstr "Primo Flipnote del Decennio"
 
+msgid "TICKET_NAME_five_year_plus_ticket"
+msgstr "Plus Ticket (Five Years)"
+
 msgid "TICKET_NAME_folding_reward_ticket"
 msgstr "Folding@Home Ticket Premio"
 
@@ -308,6 +325,10 @@ msgstr "Hai riscattato %s!"
 
 msgid "USE_ITEM"
 msgstr "Usa"
+
+# Ticket gifting
+msgid "YOU_GOT_A_GIFT"
+msgstr "You got a gift!"
 
 # Ticket delivery
 msgid "YOU_GOT_A_TICKET"

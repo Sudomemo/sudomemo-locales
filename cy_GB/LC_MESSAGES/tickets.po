@@ -6,6 +6,9 @@ msgstr ""
 msgid "ACHIEVEMENT"
 msgstr "Achievement"
 
+msgid "ANONYMOUS"
+msgstr "Anonymous User"
+
 msgid "CODE_ALREADY_USED"
 msgstr "Mae'r côd a nodwyd gennych eisoes wedi'i ddefnyddio."
 
@@ -29,6 +32,14 @@ msgstr "Does dim yr eitem honno i'w defnyddio gyda chi."
 
 msgid "ENTER_CODE_TO_REDEEM"
 msgstr "Nodwch y côd yr hoffech chi ei adbrynu isod."
+
+# %s is the ticket name, plus "ticket".
+msgid "GIFTED_BY_ANON"
+msgstr "An anonymous user has gifted you a %s!"
+
+# First %s is the gifter's username, 2nd %s is the ticket name, plus "ticket".
+msgid "GIFTED_BY_X"
+msgstr "%s has gifted you a %s!"
 
 # InventoryYour inventory is empty
 msgid "INVENTORY"
@@ -97,6 +108,9 @@ msgstr "Congratulations! One of your Flipnotes was featured."
 
 msgid "TICKET_DESC_ffotd_ticket"
 msgstr "Congratulations! You posted the first Flipnote of the new decade!"
+
+msgid "TICKET_DESC_five_year_plus_ticket"
+msgstr "This ticket will give you five years of Sudomemo Plus!"
 
 msgid "TICKET_DESC_folding_reward_ticket"
 msgstr "Thanks for helping save lives!"
@@ -217,6 +231,9 @@ msgstr "Featured Flipnote Ticket"
 msgid "TICKET_NAME_ffotd_ticket"
 msgstr "First Flipnote of the Decade"
 
+msgid "TICKET_NAME_five_year_plus_ticket"
+msgstr "Plus Ticket (Five Years)"
+
 msgid "TICKET_NAME_folding_reward_ticket"
 msgstr "Folding@Home Reward Ticket"
 
@@ -308,6 +325,10 @@ msgstr "Rydych chi wedi prynu'r %s!"
 
 msgid "USE_ITEM"
 msgstr "Defnyddio"
+
+# Ticket gifting
+msgid "YOU_GOT_A_GIFT"
+msgstr "You got a gift!"
 
 # Ticket delivery
 msgid "YOU_GOT_A_TICKET"

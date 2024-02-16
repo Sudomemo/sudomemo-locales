@@ -6,6 +6,9 @@ msgstr ""
 msgid "ACHIEVEMENT"
 msgstr "Conquista"
 
+msgid "ANONYMOUS"
+msgstr "Anonymous User"
+
 msgid "CODE_ALREADY_USED"
 msgstr "O código que inseriste já foi usado."
 
@@ -29,6 +32,14 @@ msgstr "Não tens bilhetes para usar."
 
 msgid "ENTER_CODE_TO_REDEEM"
 msgstr "Introduz o código que queiras usar aqui."
+
+# %s is the ticket name, plus "ticket".
+msgid "GIFTED_BY_ANON"
+msgstr "An anonymous user has gifted you a %s!"
+
+# First %s is the gifter's username, 2nd %s is the ticket name, plus "ticket".
+msgid "GIFTED_BY_X"
+msgstr "%s has gifted you a %s!"
 
 # Inventory
 msgid "INVENTORY"
@@ -60,7 +71,7 @@ msgid "THEME_AVAILABLE_FOR_USE"
 msgstr "Podes usar este tema na tua Sala de Criador!"
 
 msgid "TICKET_DESC_10th_birthday_bash_ticket"
-msgstr "Thanks for attending our Birthday Bash!"
+msgstr "Obrigado por participares no nosso Birthday Bash!"
 
 msgid "TICKET_DESC_7th_birthday_bash_ticket"
 msgstr "Obrigado por participares no nosso Birthday Bash!"
@@ -87,7 +98,7 @@ msgid "TICKET_DESC_demo_ticket"
 msgstr "Obviamente, isto é um bilhete de amostra."
 
 msgid "TICKET_DESC_fall_2023_ffc_winner_ticket"
-msgstr "Congratulations on your winning entry to the Fall 2023 Sudomemo Flipnote Fight Competition!"
+msgstr "Parabéns a ti, o vencedor da Competição Flipnote Flight do Sudomemo de Outono 2023!"
 
 msgid "TICKET_DESC_featured_artist_ticket"
 msgstr "Nós te damos os nossos parabéns por tornares-te um Artista Destacado no Sudomemo!"
@@ -97,6 +108,9 @@ msgstr "Parabéns! Um dos teus Flipnotes foi posto em destaque."
 
 msgid "TICKET_DESC_ffotd_ticket"
 msgstr "Parabéns! Tu postaste o primeiro Flipnote da nova década!"
+
+msgid "TICKET_DESC_five_year_plus_ticket"
+msgstr "This ticket will give you five years of Sudomemo Plus!"
 
 msgid "TICKET_DESC_folding_reward_ticket"
 msgstr "Obrigado por ajudar a salvar vidas!"
@@ -145,7 +159,7 @@ msgid "TICKET_DESC_rewind_2022_ticket"
 msgstr "Parabéns na tua inclusão no Sudomemo Rewind de 2022!"
 
 msgid "TICKET_DESC_rewind_2023_ticket"
-msgstr "Congratulations on your inclusion in 2023's Sudomemo Rewind!"
+msgstr "Parabéns na tua inclusão no Sudomemo Rewind de 2023!"
 
 msgid "TICKET_DESC_special_someone_ticket"
 msgstr "Para aquela pessoa que te é especial. Três meses de Plus, Estrelas Coloridas e um tema exclusivo."
@@ -154,7 +168,7 @@ msgid "TICKET_DESC_spookmaster_ticket"
 msgstr "Obrigado por jogares o SudoQuest: Requiem! Espero que tenhas desfrutado do jogo."
 
 msgid "TICKET_DESC_spring_2023_ffc_winner_ticket"
-msgstr "Congratulations on your winning entry to the first Sudomemo Flipnote Fight Competition!"
+msgstr "Parabéns a ti, o vencedor da Competição Flipnote Flight do Sudomemo de Primavera 2023!"
 
 msgid "TICKET_DESC_sudomemo_radio_pilot_ticket"
 msgstr "Parabens para participares no primeiro episódio do Sudomemo Radio!"
@@ -178,7 +192,7 @@ msgid "TICKET_DESC_welcoming_champion_ticket"
 msgstr "Foste muito acolhedor a novos e criadores que voltaram! Obrigado!"
 
 msgid "TICKET_NAME_10th_birthday_bash_ticket"
-msgstr "10th Birthday Bash Ticket"
+msgstr "Bilhete do 10º Birthday Bash"
 
 msgid "TICKET_NAME_7th_birthday_bash_ticket"
 msgstr "Bilhete do 7º Birthday Bash"
@@ -206,7 +220,7 @@ msgid "TICKET_NAME_demo_ticket"
 msgstr "Bilhete de Amostra"
 
 msgid "TICKET_NAME_fall_2023_ffc_winner_ticket"
-msgstr "Fall 2023 Sudomemo F.F.C. Winner Ticket"
+msgstr "Bilhete de Vencedor da C.F.F. Sudomemo Outono 2023"
 
 msgid "TICKET_NAME_featured_artist_ticket"
 msgstr "Bilhete de Artista em Destaque"
@@ -216,6 +230,9 @@ msgstr "Bilhete de Flipnote em Destaque"
 
 msgid "TICKET_NAME_ffotd_ticket"
 msgstr "Primeiro Flipnote da Década"
+
+msgid "TICKET_NAME_five_year_plus_ticket"
+msgstr "Plus Ticket (Five Years)"
 
 msgid "TICKET_NAME_folding_reward_ticket"
 msgstr "Bilhete de Recompensa do Folding@Home"
@@ -264,7 +281,7 @@ msgid "TICKET_NAME_rewind_2022_ticket"
 msgstr "Bilhete do Sudomemo Rewind 2022"
 
 msgid "TICKET_NAME_rewind_2023_ticket"
-msgstr "Sudomemo Rewind 2023 Ticket"
+msgstr "Bilhete do Sudomemo Rewind 2023"
 
 msgid "TICKET_NAME_special_someone_ticket"
 msgstr "Bilhete de Sº Valentim"
@@ -273,7 +290,7 @@ msgid "TICKET_NAME_spookmaster_ticket"
 msgstr "Bilhete Mestre dos Sustos"
 
 msgid "TICKET_NAME_spring_2023_ffc_winner_ticket"
-msgstr "Spring 2023 Sudomemo F.F.C. Winner Ticket"
+msgstr "Bilhete de Vencedor da C.F.F. Sudomemo Primavera 2023"
 
 msgid "TICKET_NAME_sudomemo_radio_pilot_ticket"
 msgstr "Bilhete de Piloto do Sudomemo Radio"
@@ -308,6 +325,10 @@ msgstr "Trocaste o %s!"
 
 msgid "USE_ITEM"
 msgstr "Usar"
+
+# Ticket gifting
+msgid "YOU_GOT_A_GIFT"
+msgstr "You got a gift!"
 
 # Ticket delivery
 msgid "YOU_GOT_A_TICKET"
