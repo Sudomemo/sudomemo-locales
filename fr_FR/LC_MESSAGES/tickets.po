@@ -35,11 +35,11 @@ msgstr "Saisissez le code que vous voulez utiliser ci-dessous."
 
 # %s is the ticket name, plus "ticket".
 msgid "GIFTED_BY_ANON"
-msgstr "An anonymous user has gifted you a %s!"
+msgstr "Un utilisateur inconnu vous a donné un %s!"
 
 # First %s is the gifter's username, 2nd %s is the ticket name, plus "ticket".
 msgid "GIFTED_BY_X"
-msgstr "%s has gifted you a %s!"
+msgstr "%s vous a donné un %s!"
 
 # Inventory
 msgid "INVENTORY"
@@ -328,7 +328,7 @@ msgstr "Utiliser"
 
 # Ticket gifting
 msgid "YOU_GOT_A_GIFT"
-msgstr "You got a gift!"
+msgstr "Vous avez reçu un cadeau !"
 
 # Ticket delivery
 msgid "YOU_GOT_A_TICKET"
