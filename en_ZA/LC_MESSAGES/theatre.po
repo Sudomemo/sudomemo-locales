@@ -141,6 +141,9 @@ msgstr "Open"
 msgid "CHRONOLOGICAL"
 msgstr "Chronological"
 
+msgid "CLOSE"
+msgstr "Close"
+
 msgid "COMMENTS"
 msgstr "AAAAA"
 
@@ -381,6 +384,12 @@ msgstr "FSID"
 msgid "GENRE"
 msgstr "Genre"
 
+msgid "GIFT_ANONYMOUS"
+msgstr "I'd like to remain anonymous."
+
+msgid "GIFT_ANONYMOUS_PREVIEW"
+msgstr "This gift will be sent anonymously."
+
 msgid "GIFT_ARE_YOU_SURE"
 msgstr "Are you sure you want to gift a %s ticket to %s?"
 
@@ -405,6 +414,12 @@ msgstr "This ticket has expired."
 msgid "GIFT_ERROR_INVALID_CODE"
 msgstr "This is not a valid ticket code. Please check for typos and try again."
 
+msgid "GIFT_ERROR_INVALID_FORMAT"
+msgstr "Please enter a valid 12-digit ticket number."
+
+msgid "GIFT_ERROR_PREVIEW"
+msgstr "There was an issue with previewing the ticket. Please try again."
+
 msgid "GIFT_ERROR_PROFANE_COMMENT"
 msgstr "This comment violates our Content Policy."
 
@@ -414,8 +429,50 @@ msgstr "This ticket is not giftable."
 msgid "GIFT_ERROR_RECIPIENT_BLOCKING"
 msgstr "You cannot gift a ticket to this user as they have blocked you."
 
+msgid "GIFT_ERROR_SEND"
+msgstr "There was an issue sending the gift. Please try again."
+
+# %s will be the username of the person the user is gifting to.
+msgid "GIFT_INFO_HINT"
+msgstr "You can give %s a Sudomemo Ticket! It will be given to them with an optional message from you. You can also choose to remain anonymous."
+
+# %s will be the username of the person the user is gifting to.
+msgid "GIFT_MESSAGE"
+msgstr "Message to %s"
+
+# %s will be the username of the person the user is gifting to.
+msgid "GIFT_PREVIEW_FOR"
+msgstr "Preview Gift for %s"
+
+msgid "GIFT_SEND"
+msgstr "Send Gift"
+
+# %s will be a link to the Sudomemo Shop, with text from this file's "SUDOMEMO_SHOP" string.
+msgid "GIFT_SHOP_HINT"
+msgstr "Need a ticket code? You can get one by purchasing a ticket from the %s."
+
+# %s will be the username of the person the user is gifting to.
+msgid "GIFT_SUCCESS_INFO_1"
+msgstr "Your gift to %s has been sent successfully. They will be thrilled to receive your thoughtful present!"
+
+msgid "GIFT_SUCCESS_INFO_2"
+msgstr "Thank you for spreading joy and happiness within the Sudomemo community!"
+
+msgid "GIFT_SUCCESS_TITLE"
+msgstr "Gift Sent Successfully!"
+
 msgid "GIFT_TICKET"
 msgstr "Gift Ticket"
+
+msgid "GIFT_TICKET_CODE"
+msgstr "Ticket Code"
+
+msgid "GIFT_TICKET_PREVIEW"
+msgstr "Ticket Preview"
+
+# %s will be the username of the person the user is gifting to.
+msgid "GIFT_TICKET_TO"
+msgstr "Gift a ticket to %s"
 
 # # はてなID
 msgid "HATENA_ID"
@@ -1192,60 +1249,3 @@ msgstr "Watch now:"
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "U be editing tis Flipnot e:"
-
-# %s will be the username of the person the user is gifting to.
-msgid "GIFT_INFO_HINT"
-msgstr "You can give %s a Sudomemo Ticket! It will be given to them with an optional message from you. You can also choose to remain anonymous."
-
-# %s will be a link to the Sudomemo Shop, with text from this file's "SUDOMEMO_SHOP" string.
-msgid "GIFT_SHOP_HINT"
-msgstr "Need a ticket code? You can get one by purchasing a ticket from the %s."
-
-# %s will be the username of the person the user is gifting to.
-msgid "GIFT_TICKET_TO"
-msgstr "Gift a ticket to %s"
-
-msgid "CLOSE"
-msgstr "Close"
-
-msgid "GIFT_TICKET_CODE"
-msgstr "Ticket Code"
-
-# %s will be the username of the person the user is gifting to.
-msgid "GIFT_MESSAGE"
-msgstr "Message to %s"
-
-msgid "GIFT_ANONYMOUS"
-msgstr "I'd like to remain anonymous."
-
-msgid "GIFT_ERROR_INVALID_FORMAT"
-msgstr "Please enter a valid 12-digit ticket number."
-
-msgid "GIFT_ERROR_PREVIEW"
-msgstr "There was an issue with previewing the ticket. Please try again."
-
-msgid "GIFT_ERROR_SEND"
-msgstr "There was an issue sending the gift. Please try again."
-
-# %s will be the username of the person the user is gifting to.
-msgid "GIFT_PREVIEW_FOR"
-msgstr "Preview Gift for %s"
-
-msgid "GIFT_TICKET_PREVIEW"
-msgstr "Ticket Preview"
-
-msgid "GIFT_ANONYMOUS_PREVIEW"
-msgstr "This gift will be sent anonymously."
-
-msgid "GIFT_SEND"
-msgstr "Send Gift"
-
-msgid "GIFT_SUCCESS_TITLE"
-msgstr "Gift Sent Successfully!"
-
-# %s will be the username of the person the user is gifting to.
-msgid "GIFT_SUCCESS_INFO_1"
-msgstr "Your gift to %s has been sent successfully. They will be thrilled to receive your thoughtful present!"
-
-msgid "GIFT_SUCCESS_INFO_2"
-msgstr "Thank you for spreading joy and happiness within the Sudomemo community!"
