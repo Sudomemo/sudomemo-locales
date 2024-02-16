@@ -142,7 +142,7 @@ msgid "CHRONOLOGICAL"
 msgstr "Chronologique"
 
 msgid "CLOSE"
-msgstr "Close"
+msgstr "Fermer"
 
 msgid "COMMENTS"
 msgstr "Commentaires"
@@ -385,10 +385,10 @@ msgid "GENRE"
 msgstr "Genre"
 
 msgid "GIFT_ANONYMOUS"
-msgstr "I'd like to remain anonymous."
+msgstr "J'aimerais rester anonyme."
 
 msgid "GIFT_ANONYMOUS_PREVIEW"
-msgstr "This gift will be sent anonymously."
+msgstr "Ce cadeau sera envoyé de façon anonyme."
 
 msgid "GIFT_ARE_YOU_SURE"
 msgstr "Êtes vous certain de vouloir donner un ticket %s à %s?"
@@ -415,10 +415,10 @@ msgid "GIFT_ERROR_INVALID_CODE"
 msgstr "Ceci n'est pas un code de ticket valide. S'il vous plaît, vérifier pour des typographies et réessayer."
 
 msgid "GIFT_ERROR_INVALID_FORMAT"
-msgstr "Please enter a valid 12-digit ticket number."
+msgstr "Veuillez s'il vous plaît."
 
 msgid "GIFT_ERROR_PREVIEW"
-msgstr "There was an issue with previewing the ticket. Please try again."
+msgstr "Il y a eu un problème en essayant de prévisualiser le ticket. Veuillez réessayer."
 
 msgid "GIFT_ERROR_PROFANE_COMMENT"
 msgstr "Ce commentaire viole nos Conditions d'Utilisation."
@@ -430,49 +430,49 @@ msgid "GIFT_ERROR_RECIPIENT_BLOCKING"
 msgstr "Vous ne pouvez donner de ticket à cet utilisateur car il vous a bloqué."
 
 msgid "GIFT_ERROR_SEND"
-msgstr "There was an issue sending the gift. Please try again."
+msgstr "Il y a eu un problème en essayant d'envoyer le cadeau. Veuillez réessayer."
 
 # %s will be the username of the person the user is gifting to.
 msgid "GIFT_INFO_HINT"
-msgstr "You can give %s a Sudomemo Ticket! It will be given to them with an optional message from you. You can also choose to remain anonymous."
+msgstr "Vous pouvez envoyer un ticket Sudomemo à %s ! Il lui sera donné avec votre message optionnel. Vous pouvez aussi rester anonyme."
 
 # %s will be the username of the person the user is gifting to.
 msgid "GIFT_MESSAGE"
-msgstr "Message to %s"
+msgstr "Message pour %s"
 
 # %s will be the username of the person the user is gifting to.
 msgid "GIFT_PREVIEW_FOR"
-msgstr "Preview Gift for %s"
+msgstr "Prévisualiser le cadeau pour %s"
 
 msgid "GIFT_SEND"
-msgstr "Send Gift"
+msgstr "Envoyer le cadeau"
 
 # %s will be a link to the Sudomemo Shop, with text from this file's "SUDOMEMO_SHOP" string.
 msgid "GIFT_SHOP_HINT"
-msgstr "Need a ticket code? You can get one by purchasing a ticket from the %s."
+msgstr "Besoin d'un code de ticket? Vous pouvez en obtenir un en achetant un ticket de la %s."
 
 # %s will be the username of the person the user is gifting to.
 msgid "GIFT_SUCCESS_INFO_1"
-msgstr "Your gift to %s has been sent successfully. They will be thrilled to receive your thoughtful present!"
+msgstr "Votre cadeau pour %s a été envoyé avec succès. Il va être excité de recevoir votre présent bien pensé!"
 
 msgid "GIFT_SUCCESS_INFO_2"
-msgstr "Thank you for spreading joy and happiness within the Sudomemo community!"
+msgstr "Merci de répandre le bonheur de la communauté Sudomemo !"
 
 msgid "GIFT_SUCCESS_TITLE"
-msgstr "Gift Sent Successfully!"
+msgstr "Cadeau envoyé avec succès !"
 
 msgid "GIFT_TICKET"
 msgstr "Donner un ticket"
 
 msgid "GIFT_TICKET_CODE"
-msgstr "Ticket Code"
+msgstr "Code de ticket"
 
 msgid "GIFT_TICKET_PREVIEW"
-msgstr "Ticket Preview"
+msgstr "Prévisualisation de ticket"
 
 # %s will be the username of the person the user is gifting to.
 msgid "GIFT_TICKET_TO"
-msgstr "Gift a ticket to %s"
+msgstr "Donner un ticket à %s"
 
 # # はてなID
 msgid "HATENA_ID"
