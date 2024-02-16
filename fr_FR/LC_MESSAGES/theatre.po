@@ -382,40 +382,40 @@ msgid "GENRE"
 msgstr "Genre"
 
 msgid "GIFT_ARE_YOU_SURE"
-msgstr "Are you sure you want to gift a %s ticket to %s?"
+msgstr "Êtes vous certain de vouloir donner un ticket %s à %s?"
 
 msgid "GIFT_CONFIRM_NO"
-msgstr "No"
+msgstr "Non"
 
 msgid "GIFT_CONFIRM_YES"
-msgstr "Yes"
+msgstr "Oui"
 
 msgid "GIFT_ERROR_ALREADY_REDEEMED"
-msgstr "This ticket has already been redeemed."
+msgstr "Le ticket a déjà été réclamé."
 
 msgid "GIFT_ERROR_BLOCKING_RECIPIENT"
-msgstr "You cannot gift a ticket to this user as you have blocked them."
+msgstr "Vous ne pouvez donner de ticket à cet utilisateur car vous l'avez bloqué."
 
 msgid "GIFT_ERROR_COMMENT_TOO_LONG"
-msgstr "This comment is too long. Please shorten it to 1000 characters or less."
+msgstr "Ce commentaire est trop long. Veuillez s'il vous plaît le raccourcir à 1000 caractères ou moins."
 
 msgid "GIFT_ERROR_EXPIRED"
-msgstr "This ticket has expired."
+msgstr "Ce ticket est expiré."
 
 msgid "GIFT_ERROR_INVALID_CODE"
-msgstr "This is not a valid ticket code. Please check for typos and try again."
+msgstr "Ceci n'est pas un code de ticket valide. S'il vous plaît, vérifier pour des typographies et réessayer."
 
 msgid "GIFT_ERROR_PROFANE_COMMENT"
-msgstr "This comment violates our Content Policy."
+msgstr "Ce commentaire viole nos Conditions d'Utilisation."
 
 msgid "GIFT_ERROR_PUBLIC_TICKET"
-msgstr "This ticket is not giftable."
+msgstr "Ce ticket ne peux pas être offert."
 
 msgid "GIFT_ERROR_RECIPIENT_BLOCKING"
-msgstr "You cannot gift a ticket to this user as they have blocked you."
+msgstr "Vous ne pouvez donner de ticket à cet utilisateur car il vous a bloqué."
 
 msgid "GIFT_TICKET"
-msgstr "Gift Ticket"
+msgstr "Donner un ticket"
 
 # # はてなID
 msgid "HATENA_ID"
