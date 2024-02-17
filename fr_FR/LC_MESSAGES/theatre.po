@@ -415,7 +415,7 @@ msgid "GIFT_ERROR_INVALID_CODE"
 msgstr "Ceci n'est pas un code de ticket valide. S'il vous plaît, vérifier pour des typographies et réessayer."
 
 msgid "GIFT_ERROR_INVALID_FORMAT"
-msgstr "Veuillez s'il vous plaît."
+msgstr "Veuillez entrer un numéro de ticket à 12 chiffres valide."
 
 msgid "GIFT_ERROR_PREVIEW"
 msgstr "Il y a eu un problème en essayant de prévisualiser le ticket. Veuillez réessayer."
