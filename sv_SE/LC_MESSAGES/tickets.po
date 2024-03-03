@@ -35,11 +35,11 @@ msgstr "Skriv koden du vill lösa ut nedan."
 
 # %s is the ticket name, plus "ticket".
 msgid "GIFTED_BY_ANON"
-msgstr "An anonymous user has gifted you a %s!"
+msgstr "En anonym användare har gett dig en %s!"
 
 # First %s is the gifter's username, 2nd %s is the ticket name, plus "ticket".
 msgid "GIFTED_BY_X"
-msgstr "%s has gifted you a %s!"
+msgstr "%s har gett dig en %s!"
 
 # Inventory
 msgid "INVENTORY"
@@ -65,7 +65,7 @@ msgid "SUDOMEMO_PLUS_BALANCE_FORMAT"
 msgstr "Balans: %s dagar"
 
 msgid "SUDOMEMO_PLUS_FORMAT"
-msgstr "You received %s days worth of Sudomemo Plus!"
+msgstr "Du fick %s dagar värt av Sudomemo Plus!"
 
 msgid "THEME_AVAILABLE_FOR_USE"
 msgstr "Du kan nu använda detta tema I din Creator's Room!"
@@ -83,13 +83,13 @@ msgid "TICKET_DESC_9th_birthday_bash_ticket"
 msgstr "Thanks for attending our Birthday Bash!"
 
 msgid "TICKET_DESC_archive_supporter_ticket"
-msgstr "Thank you for helping preserve Flipnote history!"
+msgstr "Tack för hjälpen med att bevara Flipnote historia!"
 
 msgid "TICKET_DESC_birthday_ticket"
 msgstr "Grattis på födelsedagen!"
 
 msgid "TICKET_DESC_blue_dog_ticket"
-msgstr "This ticket gives you 350 spendable Sudomemo Stars (maybe even a rare one!), an exclusive theme, and a special badge displayed on your profile!"
+msgstr "Denna biljett ger dig 350 spenderbara Sudomemo Stars (kanske till och med en sällsynt!), ett exklusivt tema, och ett speciellt märke på din profil!"
 
 msgid "TICKET_DESC_colors_promo_ticket"
 msgstr "You won the Sudomemo x Colors! June 2020 Weekly Topic!"
@@ -116,10 +116,10 @@ msgid "TICKET_DESC_folding_reward_ticket"
 msgstr "Thanks for helping save lives!"
 
 msgid "TICKET_DESC_golden_neko_ticket"
-msgstr "This ticket gives you 1300 spendable Sudomemo Stars (with multiple rare ones!), an exclusive theme, and a special badge displayed on your profile!"
+msgstr "Denna biljett ger dig 1300 spenderbara Sudomemo Stars (inklusive flera sällsynta!), ett exklusivt tema, och ett speciellt märke på din profil!"
 
 msgid "TICKET_DESC_green_panda_ticket"
-msgstr "This ticket gives you 110 spendable Sudomemo Stars, an exclusive theme, and a special badge displayed on your profile!"
+msgstr "Denna biljett ger dig 110 spenderbara Sudomemo Stars, ett exklusivt tema, och ett speciellt märke på din profil!"
 
 msgid "TICKET_DESC_instagram_promo_ticket"
 msgstr "Tack för att du följer Sudomemo på Instagram!"
@@ -132,7 +132,7 @@ msgid "TICKET_DESC_neighborhood_watch_ticket"
 msgstr "Thank you helping keep Sudomemo a safe and welcoming place!"
 
 msgid "TICKET_DESC_nitro_booster_ticket"
-msgstr "Hey, you! You're awesome! Thanks for boosting the Sudomemo Discord!"
+msgstr "Du där! Du är grymm! Tack för att du boostar Sudomemo Discorden!"
 
 msgid "TICKET_DESC_one_month_plus_ticket"
 msgstr "Denna biljett ger dig en månad av Sudomemo Plus!"
@@ -141,13 +141,13 @@ msgid "TICKET_DESC_one_year_plus_ticket"
 msgstr "Denna biljett ger dig ett år av Sudomemo Plus!"
 
 msgid "TICKET_DESC_patreon_patron_ticket"
-msgstr "Thank you for supporting Sudomemo through Patreon!"
+msgstr "Tack för att du stödjer Sudomemo genom Patreon!"
 
 msgid "TICKET_DESC_purple_bunny_ticket"
-msgstr "This ticket gives you 600 spendable Sudomemo Stars (very likely some rare ones!), an exclusive theme, and a special badge displayed on your profile!"
+msgstr "Denna biljett ger dig 600 spenderbara Sudomemo Stars (Och säkert några sällsynta!), ett exklusivt tema, och ett speciellt märke på din profil!"
 
 msgid "TICKET_DESC_red_bird_ticket"
-msgstr "This ticket gives you 230 spendable Sudomemo Stars, an exclusive theme, and a special badge displayed on your profile!"
+msgstr "Denna biljett ger dig 230 spenderbara Sudomemo Stars, ett exklusivt tema, och ett speciellt märke på din profil!"
 
 msgid "TICKET_DESC_regular_ticket"
 msgstr "Tack för att du använder Sudomemo!"
@@ -314,21 +314,21 @@ msgid "TICKET_NAME_welcoming_champion_ticket"
 msgstr "Welcoming Champion Ticket"
 
 msgid "TICKET_REDEEM_LOSE_FORMAT"
-msgstr "Du drog %s, men..."
+msgstr "Du drog en %s, men..."
 
 msgid "TICKET_REDEEM_NO_PRIZES"
-msgstr "Tyvärr vann du inget!"
+msgstr "Tyvärr vann du inget. Osis!"
 
 # Ticket redemption
 msgid "TICKET_REDEEM_WIN_FORMAT"
-msgstr "Du drog %s!"
+msgstr "Du drog en %s!"
 
 msgid "USE_ITEM"
 msgstr "Använd"
 
 # Ticket gifting
 msgid "YOU_GOT_A_GIFT"
-msgstr "You got a gift!"
+msgstr "Du fick en gåva!"
 
 # Ticket delivery
 msgid "YOU_GOT_A_TICKET"
