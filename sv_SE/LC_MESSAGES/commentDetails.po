@@ -19,16 +19,16 @@ msgid "COMMENT_DETAILS"
 msgstr "Kommentarsdetaljer"
 
 msgid "COMMENT_HIDDEN_MODERATOR"
-msgstr "Comment hidden by moderator"
+msgstr "Kommentar gömd av moderator"
 
 msgid "COMMENT_HIDDEN_RECIPIENT"
-msgstr "Comment hidden by Flipnote author"
+msgstr "Kommentar gömd av Flipnotens skapare"
 
 msgid "COMMENT_HIDDEN_SELF"
-msgstr "Comment hidden by author"
+msgstr "Kommentar gömd av skapare"
 
 msgid "COMMENT_HIDDEN_UNKNOWN"
-msgstr "Comment hidden due to request"
+msgstr "Kommentar gömd på grund av efterfrågan"
 
 msgid "COMMENT_ID"
 msgstr "KommentarID"

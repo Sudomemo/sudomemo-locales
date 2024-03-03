@@ -43,7 +43,7 @@ msgid "BLOCK_COMMENTS_LINK"
 msgstr "Blockera"
 
 msgid "BLOCK_USER"
-msgstr "Block user"
+msgstr "Blockera användare"
 
 msgid "CAN_DRAW_TICKET_SUBTEXT"
 msgstr "Du kan dra en vanlig biljett! Du kanske vinner ett pris."
@@ -86,10 +86,10 @@ msgstr "Funktionsanvändbarhet"
 
 # Matches button on page 4 of Flipnote Studio settings
 msgid "FLIPNOTE_FRIENDS"
-msgstr "Flipnote Friends"
+msgstr "Flipnote vänner"
 
 msgid "FLIPNOTE_FRIENDS_INFO"
-msgstr "Creators you've exchanged Flipnotes with"
+msgstr "Användare du bytt Flipnotes med"
 
 msgid "FLIPNOTE_STUDIO_ID"
 msgstr "Flipnote Studio ID"
@@ -117,7 +117,7 @@ msgstr "Support Token"
 
 # View interstitial button
 msgid "INTERSTITIAL_BUTTON"
-msgstr "Help keep Sudomemo alive!"
+msgstr "Hjälp hålla Sudomemo vid liv!"
 
 msgid "INVENTORY"
 msgstr "Förråd"
@@ -153,7 +153,7 @@ msgid "PREVIOUS"
 msgstr "Föregående"
 
 msgid "RANKING"
-msgstr "Ranking"
+msgstr "Rankning"
 
 msgid "REDEEM"
 msgstr "Dra"
@@ -216,7 +216,7 @@ msgid "THEME_SUCCESSFULLY_SET"
 msgstr "Tema har lagts till!"
 
 msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
-msgstr "Du kan dra en annan biljett om: %s timme(ar) %s minut(er)."
+msgstr "Du kan dra en ny biljett om: %s timme(ar) %s minut(er)."
 
 msgid "TICKET_SECTION"
 msgstr "Biljetter"
@@ -249,7 +249,7 @@ msgid "VIEW"
 msgstr "Visa"
 
 msgid "WATCH_HISTORY"
-msgstr "Watch History"
+msgstr "Tittarhistorik"
 
 msgid "YOU_HAVE_BLOCKED_THIS_USER"
-msgstr "You have blocked this user."
+msgstr "Du har blockerat denna användaren."
