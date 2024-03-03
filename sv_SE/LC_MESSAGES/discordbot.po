@@ -20,20 +20,20 @@ msgid "DISCORD_LINKING_GET_STARTED"
 msgstr "Please visit %s to get started!"
 
 msgid "DISCORD_LINKING_REQUIRED"
-msgstr "You'll need to link your Sudomemo account to do that."
+msgstr "Du kommer behöva länka ditt Sudomemo konto för att göra detta."
 
 msgid "DISCORD_LINKING_SUCCESS"
-msgstr "Your account was successfully linked!"
+msgstr "Länkning med ditt konto lyckades!"
 
 msgid "DISCORD_LINKING_UNLINKED"
-msgstr "The link between your Discord and Sudomemo account has been removed."
+msgstr "Länken mellan ditt Discord och Sudomemo konto har tagits bort."
 
 msgid "DISCORD_LINKING_UNLINK_NOT_LINKED_YET"
-msgstr "Your Discord account isn't linked to a Sudomemo account."
+msgstr "Ditt Discord konto är inte länkat till ett Sudomemo konto."
 
 # "Invalid mode - must be one of: song, artist, genre"
 msgid "MUSICMATCH_INVALID_MODE"
-msgstr "Invalid mode - must be one of %s"
+msgstr "Ogiltigt läge - måste vara en av %s"
 
 msgid "MUSICMATCH_MOVIE_COUNT_PLURAL"
 msgstr "%d Flipnotes"
@@ -42,23 +42,23 @@ msgid "MUSICMATCH_MOVIE_COUNT_SINGULAR"
 msgstr "%d Flipnote"
 
 msgid "MUSICMATCH_NO_RESULTS"
-msgstr "I didn't find anything for that, sorry!"
+msgstr "Jag kunde inte hitta något för det, Förlåt!"
 
 msgid "MUSICMATCH_RESULT_HEADER_GT_MAX"
-msgstr "Top %d results:"
+msgstr "Topp %d resultat:"
 
 msgid "MUSICMATCH_RESULT_HEADER_LT_MAX"
-msgstr "%d result(s):"
+msgstr "%d resultat:"
 
 # SongName by BandName
 msgid "MUSICMATCH_TITLE_BY_ARTIST"
-msgstr "%s by %s"
+msgstr "%s av %s"
 
 msgid "PATRON_TICKET_SUCCESS"
-msgstr "You received a %s Sudomemo Patron Ticket!"
+msgstr "Du fick en %s Sudomemo Patron Biljett!"
 
 msgid "REJECT_ACCOUNT_ALREADY_LINKED"
-msgstr "You've already linked your Sudomemo account!"
+msgstr "Du har redan länkat ditt Sudomemo konto!"
 
 msgid "REJECT_BOOST_TICKET_COOLDOWN"
 msgstr "You've already given a Nitro Booster ticket this month! (%s)"
@@ -67,10 +67,10 @@ msgid "REJECT_FSID_ENOENT"
 msgstr "I did not find a user with that Flipnote Studio ID on Sudomemo."
 
 msgid "REJECT_GENERIC_ERROR"
-msgstr "I ran into an issue trying to do that. Sorry!"
+msgstr "Jag stötte på ett problem genom att försöka göra det. Förlåt!"
 
 msgid "REJECT_INVALID_FSID"
-msgstr "That is not a valid Flipnote Studio ID!"
+msgstr "Det är inte ett giltigt Flipnote Studio ID!"
 
 msgid "REJECT_INVALID_LINK_TOKEN"
 msgstr "That is not a valid link token! Please visit %s to get started!"
@@ -92,11 +92,11 @@ msgstr "I didn't find that user on Sudomemo."
 
 # displayed as "💡 Link your Sudomemo account with `.sudo link`"
 msgid "UNLINKED_COMMAND_TIP"
-msgstr "Link your Sudomemo account with"
+msgstr "Länka ditt Sudomemo konto med"
 
 # "Usage: example_command <fsid>"
 msgid "USAGE"
-msgstr "Usage"
+msgstr "Användning"
 
 # ONLY TRANSLATE: "usage", "commands"
 msgid "USAGE_INTRO"
@@ -136,4 +136,4 @@ msgstr ""
 "      Claim monthly Patreon Ticket"
 
 msgid "USER_INFORMATION_WAS_UPDATED"
-msgstr "Your information was updated."
+msgstr "Din information har uppdaterats."

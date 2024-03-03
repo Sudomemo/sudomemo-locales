@@ -13,10 +13,10 @@ msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
 msgstr "Du måste logga in för att se den här sidan"
 
 msgid "NO_UNREAD_COMMENTS"
-msgstr "Du har inge olästa kommentarer"
+msgstr "Du har inga olästa kommentarer"
 
 msgid "TAP_ON_FLIPNOTE_ID_TO_VISIT_COMMENTS"
-msgstr "Tryck på en FlipnoteID för att se kommentarsfältet."
+msgstr "Tryck på ett FlipnoteID för att se kommentarsfältet."
 
 msgid "UNREAD"
 msgstr "Oläst"
