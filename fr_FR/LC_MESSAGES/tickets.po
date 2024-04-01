@@ -333,3 +333,85 @@ msgstr "Vous avez reçu un cadeau !"
 # Ticket delivery
 msgid "YOU_GOT_A_TICKET"
 msgstr "Vous avez obtenu un ticket !"
+
+# Shown when the user tries to gift a promotional ticket, such as one posted on Sudomemo's social media accounts.
+msgid "CANNOT_GIFT_PUBLIC_CODE"
+msgstr "This ticket is not giftable."
+
+# Title shown when the user tries to gift a ticket on console but encounters an error.
+msgid "ERROR_TITLE_CANT_GIFT_TICKET"
+msgstr "Unable to gift ticket!"
+
+# Shown when the user tries to gift a ticket to a user they have blocked.
+msgid "ERROR_RECIPIENT_IS_BLOCKED"
+msgstr "You have blocked this user."
+
+# Shown when the user tries to gift a ticket to a user they have blocked.
+msgid "ERROR_RECIPIENT_IS_BLOCKED_DESC"
+msgstr "Please unblock the user and then try again."
+
+# Shown when the user tries to gift a ticket to a user that has blocked them.
+msgid "ERROR_RECIPIENT_IS_BLOCKING"
+msgstr "You have been blocked by this user."
+
+# Shown when the user tries to gift a ticket to a user that has blocked them.
+msgid "ERROR_RECIPIENT_IS_BLOCKING_DESC"
+msgstr "Please choose a different user to gift to."
+
+# Shown for various errors, such as when the user enters a valid code to gift on console, gifts that code on Theatre, and then tries to gift it again on console.
+msgid "ERROR_USE_ANOTHER_CODE"
+msgstr "Please use another code."
+
+# Shown when the user tries to gift an expired ticket.
+msgid "ERROR_CANT_GIFT_EXPIRED_CODE"
+msgstr "This code has expired."
+
+# Shown when the user tries to send a gift with an inappropriate message.
+msgid "ERROR_TITLE_PROFANE_GIFT_MSG"
+msgstr "Unable to save message."
+
+# Shown when the user tries to send a gift with an inappropriate message.
+msgid "ERROR_PROFANE_GIFT_MSG"
+msgstr "This message violates our Content Policy."
+
+# Shown when the user tries to send a gift with an inappropriate message.
+msgid "ERROR_PROFANE_GIFT_MSG_DESC"
+msgstr "Please try again with a more appropriate message."
+
+msgid "GIFT_SUCCESS"
+msgstr "Gift Sent!"
+
+# %s will be replaced with the gift recipient's username.
+msgid "THANK_YOU_FOR_GIFTING"
+msgstr "Thank you for sending a gift to %s! We're sure they'll love it!"
+
+# %s will be replaced with the gift recipient's username.
+msgid "BACK_TO_RECIPIENT_PROFILE"
+msgstr "Back to %s"
+
+msgid "TAP_TO_ADD_MSG"
+msgstr "Tap to add a message..."
+
+msgid "SEND_GIFT"
+msgstr "Send Gift"
+
+msgid "SEND_GIFT_ANON"
+msgstr "Send Gift Anonymously"
+
+# "Send Gift *OR* Send Gift Anonymously"
+msgid "OR"
+msgstr "OR"
+
+# %d will be replaced with the gift message character limit.
+msgid "GIFT_MSG_LABEL"
+msgstr "Gift Message (%d chars):"
+
+msgid "TICKET_DESC_LABEL"
+msgstr "Ticket Description:"
+
+msgid "TICKET_NAME_LABEL"
+msgstr "Ticket Name:"
+
+# %s will be replaced with the gift recipient's username.
+msgid "GIFTING_TO"
+msgstr "Gifting a ticket to %s..."
