@@ -7,15 +7,15 @@ msgid "ACHIEVEMENT"
 msgstr "Succès"
 
 msgid "ANONYMOUS"
-msgstr "Anonymous User"
+msgstr "Utilisateur Anonyme"
 
 # %s will be replaced with the gift recipient's username.
 msgid "BACK_TO_RECIPIENT_PROFILE"
-msgstr "Back to %s"
+msgstr "De retour vers %s"
 
 # Shown when the user tries to gift a promotional ticket, such as one posted on Sudomemo's social media accounts.
 msgid "CANNOT_GIFT_PUBLIC_CODE"
-msgstr "This ticket is not giftable."
+msgstr "Ce ticket ne peut être offert en cadeau"
 
 msgid "CODE_ALREADY_USED"
 msgstr "Le code que vous avez entré a déjà été utilisé."
@@ -43,47 +43,47 @@ msgstr "Saisissez le code que vous voulez utiliser ci-dessous."
 
 # Shown when the user tries to gift an expired ticket.
 msgid "ERROR_CANT_GIFT_EXPIRED_CODE"
-msgstr "This code has expired."
+msgstr "Ce code est expiré."
 
 # Shown when the user tries to send a gift with an inappropriate message.
 msgid "ERROR_PROFANE_GIFT_MSG"
-msgstr "This message violates our Content Policy."
+msgstr "Ce message viole notre Politique de Contenu."
 
 # Shown when the user tries to send a gift with an inappropriate message.
 msgid "ERROR_PROFANE_GIFT_MSG_DESC"
-msgstr "Please try again with a more appropriate message."
+msgstr "Veuillez réessayer avec un message plus approprié."
 
 # Shown when the user tries to gift a ticket to a user they have blocked.
 msgid "ERROR_RECIPIENT_IS_BLOCKED"
-msgstr "You have blocked this user."
+msgstr "Vous avez bloqué cet utilisateur."
 
 # Shown when the user tries to gift a ticket to a user they have blocked.
 msgid "ERROR_RECIPIENT_IS_BLOCKED_DESC"
-msgstr "Please unblock the user and then try again."
+msgstr "Veuillez débloquer l'utilisateur."
 
 # Shown when the user tries to gift a ticket to a user that has blocked them.
 msgid "ERROR_RECIPIENT_IS_BLOCKING"
-msgstr "You have been blocked by this user."
+msgstr "Cet utilisateur vous a bloqué."
 
 # Shown when the user tries to gift a ticket to a user that has blocked them.
 msgid "ERROR_RECIPIENT_IS_BLOCKING_DESC"
-msgstr "Please choose a different user to gift to."
+msgstr "Veuillez choisir un autre utilisateur à qui offrir le ticket."
 
 # Title shown when the user tries to gift a ticket on console but encounters an error.
 msgid "ERROR_TITLE_CANT_GIFT_TICKET"
-msgstr "Unable to gift ticket!"
+msgstr "Impossible d'offrir ce ticket!"
 
 # Shown when the user tries to send a gift with an inappropriate message.
 msgid "ERROR_TITLE_PROFANE_GIFT_MSG"
-msgstr "Unable to save message."
+msgstr "Impossible de sauvegarder le message."
 
 # Shown for various errors, such as when the user enters a valid code to gift on console, gifts that code on Theatre, and then tries to gift it again on console.
 msgid "ERROR_USE_ANOTHER_CODE"
-msgstr "Please use another code."
+msgstr "Veuillez utiliser un autre code."
 
 # %s is the ticket name, plus "ticket".
 msgid "GIFTED_BY_ANON"
-msgstr "Un utilisateur inconnu vous a donné un %s!"
+msgstr "Un utilisateur inconnu vous a offert un %s!"
 
 # First %s is the gifter's username, 2nd %s is the ticket name, plus "ticket".
 msgid "GIFTED_BY_X"
@@ -91,14 +91,14 @@ msgstr "%s vous a donné un %s!"
 
 # %s will be replaced with the gift recipient's username.
 msgid "GIFTING_TO"
-msgstr "Gifting a ticket to %s..."
+msgstr "Envoi du ticket à %s..."
 
 # %d will be replaced with the gift message character limit.
 msgid "GIFT_MSG_LABEL"
-msgstr "Gift Message (%d chars):"
+msgstr "Message du cadeau (%d caractères?):"
 
 msgid "GIFT_SUCCESS"
-msgstr "Gift Sent!"
+msgstr "Cadeau Envoyé!"
 
 # Inventory
 msgid "INVENTORY"
@@ -112,17 +112,17 @@ msgstr "Vous devez être connecté pour utiliser un code."
 
 # "Send Gift *OR* Send Gift Anonymously"
 msgid "OR"
-msgstr "OR"
+msgstr "OU"
 
 # Code Redemption
 msgid "REDEEM_CODE"
 msgstr "Utiliser un code"
 
 msgid "SEND_GIFT"
-msgstr "Send Gift"
+msgstr "Envoyer un cadeau"
 
 msgid "SEND_GIFT_ANON"
-msgstr "Send Gift Anonymously"
+msgstr "Envoyer un cadeau Anonyme"
 
 msgid "SUDOMEMO_CITIZENSHIP"
 msgstr "Citoyenneté Sudomemo"
@@ -137,11 +137,11 @@ msgid "SUDOMEMO_PLUS_FORMAT"
 msgstr "Vous avez reçu %s jours de Sudomemo Plus !"
 
 msgid "TAP_TO_ADD_MSG"
-msgstr "Tap to add a message..."
+msgstr "Appuyer ici pour écrire un message..."
 
 # %s will be replaced with the gift recipient's username.
 msgid "THANK_YOU_FOR_GIFTING"
-msgstr "Thank you for sending a gift to %s! We're sure they'll love it!"
+msgstr "Merci d'avoir offert un cadeau à %s! Nous sommes certains que cette personne l'aimera!"
 
 msgid "THEME_AVAILABLE_FOR_USE"
 msgstr "Vous pouvez maintenant utiliser ce thème dans votre Salle de créateur !"
@@ -159,7 +159,7 @@ msgid "TICKET_DESC_9th_birthday_bash_ticket"
 msgstr "Merci d'avoir participé à notre fête d'anniversaire !"
 
 msgid "TICKET_DESC_LABEL"
-msgstr "Ticket Description:"
+msgstr "Description du Ticket:"
 
 msgid "TICKET_DESC_archive_supporter_ticket"
 msgstr "Merci de votre aide pour la préservation de l'histoire des Flipnotes !"
@@ -189,7 +189,7 @@ msgid "TICKET_DESC_ffotd_ticket"
 msgstr "Félicitations ! Vous avez posté la première Flipnote de cette décennie !"
 
 msgid "TICKET_DESC_five_year_plus_ticket"
-msgstr "This ticket will give you five years of Sudomemo Plus!"
+msgstr "Ce ticket vous donnera cinq mois de Sudomemo Plus !"
 
 msgid "TICKET_DESC_folding_reward_ticket"
 msgstr "Merci de votre aide pour sauver des vies !"
@@ -283,7 +283,7 @@ msgid "TICKET_NAME_9th_birthday_bash_ticket"
 msgstr "Ticket du 9ème anniversaire"
 
 msgid "TICKET_NAME_LABEL"
-msgstr "Ticket Name:"
+msgstr "Nom du Ticket:"
 
 msgid "TICKET_NAME_archive_supporter_ticket"
 msgstr "Ticket Soutien de l'archive"
