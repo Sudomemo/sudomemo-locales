@@ -15,7 +15,7 @@ msgstr "De retour à %s"
 
 # Shown when the user tries to gift a promotional ticket, such as one posted on Sudomemo's social media accounts.
 msgid "CANNOT_GIFT_PUBLIC_CODE"
-msgstr "Ce ticket ne peut être offert en cadeau"
+msgstr "Ce ticket ne peut pas être offert en cadeau."
 
 msgid "CODE_ALREADY_USED"
 msgstr "Le code que vous avez entré a déjà été utilisé."
