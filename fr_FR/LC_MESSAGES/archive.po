@@ -280,3 +280,8 @@ msgstr "Étoiles jaunes"
 
 msgid "YOUTUBE_MUSIC"
 msgstr "YouTube Music"
+msgid "BAD_METADATA_WARNING"
+msgstr "Warning: The Flipnote metadata is corrupted. You can still watch it, but we strongly recommend against opening it in Flipnote Studio 3D."
+
+msgid "BAD_METADATA"
+msgstr "Flipnote with bad metadata"
