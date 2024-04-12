@@ -11,7 +11,7 @@ msgstr "Utilisateur Anonyme"
 
 # %s will be replaced with the gift recipient's username.
 msgid "BACK_TO_RECIPIENT_PROFILE"
-msgstr "De retour vers %s"
+msgstr "De retour à %s"
 
 # Shown when the user tries to gift a promotional ticket, such as one posted on Sudomemo's social media accounts.
 msgid "CANNOT_GIFT_PUBLIC_CODE"
@@ -95,7 +95,7 @@ msgstr "Envoi du ticket à %s..."
 
 # %d will be replaced with the gift message character limit.
 msgid "GIFT_MSG_LABEL"
-msgstr "Message du cadeau (%d caractères?):"
+msgstr "Message du cadeau (%d caractères):"
 
 msgid "GIFT_SUCCESS"
 msgstr "Cadeau Envoyé!"
@@ -119,10 +119,10 @@ msgid "REDEEM_CODE"
 msgstr "Utiliser un code"
 
 msgid "SEND_GIFT"
-msgstr "Envoyer un cadeau"
+msgstr "Offrir un cadeau"
 
 msgid "SEND_GIFT_ANON"
-msgstr "Envoyer un cadeau Anonyme"
+msgstr "Offrir un cadeau Anonyme"
 
 msgid "SUDOMEMO_CITIZENSHIP"
 msgstr "Citoyenneté Sudomemo"
@@ -189,7 +189,7 @@ msgid "TICKET_DESC_ffotd_ticket"
 msgstr "Félicitations ! Vous avez posté la première Flipnote de cette décennie !"
 
 msgid "TICKET_DESC_five_year_plus_ticket"
-msgstr "Ce ticket vous donnera cinq mois de Sudomemo Plus !"
+msgstr "Ce ticket vous donnera cinq ans de Sudomemo Plus !"
 
 msgid "TICKET_DESC_folding_reward_ticket"
 msgstr "Merci de votre aide pour sauver des vies !"
