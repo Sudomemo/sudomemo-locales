@@ -11,11 +11,11 @@ msgstr "Anonymous User"
 
 # %s will be replaced with the gift recipient's username.
 msgid "BACK_TO_RECIPIENT_PROFILE"
-msgstr "Back to %s"
+msgstr "Tillbaka till %s"
 
 # Shown when the user tries to gift a promotional ticket, such as one posted on Sudomemo's social media accounts.
 msgid "CANNOT_GIFT_PUBLIC_CODE"
-msgstr "This ticket is not giftable."
+msgstr "Denna biljett kan inte ges bort."
 
 msgid "CODE_ALREADY_USED"
 msgstr "Koden du skrev har redan används."
@@ -43,43 +43,43 @@ msgstr "Skriv koden du vill lösa ut nedan."
 
 # Shown when the user tries to gift an expired ticket.
 msgid "ERROR_CANT_GIFT_EXPIRED_CODE"
-msgstr "This code has expired."
+msgstr "Denna koden har löpt ut."
 
 # Shown when the user tries to send a gift with an inappropriate message.
 msgid "ERROR_PROFANE_GIFT_MSG"
-msgstr "This message violates our Content Policy."
+msgstr "Detta meddelande bryter mot våran Innehålls Policy."
 
 # Shown when the user tries to send a gift with an inappropriate message.
 msgid "ERROR_PROFANE_GIFT_MSG_DESC"
-msgstr "Please try again with a more appropriate message."
+msgstr "Snälla försök igen med ett mer passande meddelande."
 
 # Shown when the user tries to gift a ticket to a user they have blocked.
 msgid "ERROR_RECIPIENT_IS_BLOCKED"
-msgstr "You have blocked this user."
+msgstr "Du har blockerat denna användaren."
 
 # Shown when the user tries to gift a ticket to a user they have blocked.
 msgid "ERROR_RECIPIENT_IS_BLOCKED_DESC"
-msgstr "Please unblock the user and then try again."
+msgstr "Snälla avblockera användaren och försök igen."
 
 # Shown when the user tries to gift a ticket to a user that has blocked them.
 msgid "ERROR_RECIPIENT_IS_BLOCKING"
-msgstr "You have been blocked by this user."
+msgstr "Du är blockerad av denna användaren."
 
 # Shown when the user tries to gift a ticket to a user that has blocked them.
 msgid "ERROR_RECIPIENT_IS_BLOCKING_DESC"
-msgstr "Please choose a different user to gift to."
+msgstr "Snälla välj en annan användare att ge till."
 
 # Title shown when the user tries to gift a ticket on console but encounters an error.
 msgid "ERROR_TITLE_CANT_GIFT_TICKET"
-msgstr "Unable to gift ticket!"
+msgstr "Kunde inte ge biljett!"
 
 # Shown when the user tries to send a gift with an inappropriate message.
 msgid "ERROR_TITLE_PROFANE_GIFT_MSG"
-msgstr "Unable to save message."
+msgstr "Meddelandet kunde inte sparats."
 
 # Shown for various errors, such as when the user enters a valid code to gift on console, gifts that code on Theatre, and then tries to gift it again on console.
 msgid "ERROR_USE_ANOTHER_CODE"
-msgstr "Please use another code."
+msgstr "Snälla använd en annan kod."
 
 # %s is the ticket name, plus "ticket".
 msgid "GIFTED_BY_ANON"
@@ -91,14 +91,14 @@ msgstr "%s har gett dig en %s!"
 
 # %s will be replaced with the gift recipient's username.
 msgid "GIFTING_TO"
-msgstr "Gifting a ticket to %s..."
+msgstr "Ger bort biljett till %s..."
 
 # %d will be replaced with the gift message character limit.
 msgid "GIFT_MSG_LABEL"
-msgstr "Gift Message (%d chars):"
+msgstr "Meddelande (%d tecken):"
 
 msgid "GIFT_SUCCESS"
-msgstr "Gift Sent!"
+msgstr "Present Skickad!"
 
 # Inventory
 msgid "INVENTORY"
@@ -112,17 +112,17 @@ msgstr "Du måste vara inlåggad för att lösa ut en kod."
 
 # "Send Gift *OR* Send Gift Anonymously"
 msgid "OR"
-msgstr "OR"
+msgstr "ELLER"
 
 # Code Redemption
 msgid "REDEEM_CODE"
 msgstr "Inlösningskod"
 
 msgid "SEND_GIFT"
-msgstr "Send Gift"
+msgstr "Skicka present"
 
 msgid "SEND_GIFT_ANON"
-msgstr "Send Gift Anonymously"
+msgstr "Skicka present anonymt"
 
 msgid "SUDOMEMO_CITIZENSHIP"
 msgstr "Sudomemo Medborgarskap"
@@ -134,14 +134,14 @@ msgid "SUDOMEMO_PLUS_BALANCE_FORMAT"
 msgstr "Balans: %s dagar"
 
 msgid "SUDOMEMO_PLUS_FORMAT"
-msgstr "Du fick %s dagar värt av Sudomemo Plus!"
+msgstr "Du har fått %s dag(ar) värt av Sudomemo Plus!"
 
 msgid "TAP_TO_ADD_MSG"
-msgstr "Tap to add a message..."
+msgstr "Klicka för att lägga till ett meddelande..."
 
 # %s will be replaced with the gift recipient's username.
 msgid "THANK_YOU_FOR_GIFTING"
-msgstr "Thank you for sending a gift to %s! We're sure they'll love it!"
+msgstr "Tack för att du skickade en present till %s! De kommer älska den!"
 
 msgid "THEME_AVAILABLE_FOR_USE"
 msgstr "Du kan nu använda detta tema I din Creator's Room!"
@@ -159,7 +159,7 @@ msgid "TICKET_DESC_9th_birthday_bash_ticket"
 msgstr "Thanks for attending our Birthday Bash!"
 
 msgid "TICKET_DESC_LABEL"
-msgstr "Ticket Description:"
+msgstr "Biljett Beskrivning:"
 
 msgid "TICKET_DESC_archive_supporter_ticket"
 msgstr "Tack för hjälpen med att bevara Flipnote historia!"
@@ -220,7 +220,7 @@ msgid "TICKET_DESC_one_year_plus_ticket"
 msgstr "Denna biljett ger dig ett år av Sudomemo Plus!"
 
 msgid "TICKET_DESC_patreon_patron_ticket"
-msgstr "Tack för att du stödjer Sudomemo genom Patreon!"
+msgstr "Tack för att du stödjer Sudomemo på Patreon!"
 
 msgid "TICKET_DESC_purple_bunny_ticket"
 msgstr "Denna biljett ger dig 600 spenderbara Sudomemo Stars (Och säkert några sällsynta!), ett exklusivt tema, och ett speciellt märke på din profil!"
@@ -249,6 +249,9 @@ msgstr "Thank you so much for playing SudoQuest: Requiem! We hope you enjoyed th
 msgid "TICKET_DESC_spring_2023_ffc_winner_ticket"
 msgstr "Congratulations on your winning entry to the first Sudomemo Flipnote Fight Competition!"
 
+msgid "TICKET_DESC_spring_2024_ffc_winner_ticket"
+msgstr "Congratulations on your winning entry to the Spring 2024 Sudomemo Flipnote Fight Competition!"
+
 msgid "TICKET_DESC_sudomemo_radio_pilot_ticket"
 msgstr "Congratulations on being a part of the very first episode of Sudomemo Radio!"
 
@@ -259,7 +262,7 @@ msgid "TICKET_DESC_survey_thanks_ticket"
 msgstr "Tack för att du fyllt i vårat formulär!"
 
 msgid "TICKET_DESC_translator_ticket"
-msgstr "Tack för att du hjälper till med lokalisering av Sudomemo!"
+msgstr "Tack för att du lokaliserar Sudomemo!"
 
 msgid "TICKET_DESC_twitter_promo_ticket"
 msgstr "Tack för att du följer Sudomemo på Twitter!"
@@ -283,7 +286,7 @@ msgid "TICKET_NAME_9th_birthday_bash_ticket"
 msgstr "9th Birthday Bash Ticket"
 
 msgid "TICKET_NAME_LABEL"
-msgstr "Ticket Name:"
+msgstr "Biljett Namn:"
 
 msgid "TICKET_NAME_archive_supporter_ticket"
 msgstr "Archive Supporter Ticket"
@@ -373,6 +376,9 @@ msgstr "Spookmaster Ticket"
 
 msgid "TICKET_NAME_spring_2023_ffc_winner_ticket"
 msgstr "Spring 2023 Sudomemo F.F.C. Winner Ticket"
+
+msgid "TICKET_NAME_spring_2024_ffc_winner_ticket"
+msgstr "Spring 2024 Sudomemo F.F.C. Winner Ticket"
 
 msgid "TICKET_NAME_sudomemo_radio_pilot_ticket"
 msgstr "Sudomemo Radio Pilot Ticket"

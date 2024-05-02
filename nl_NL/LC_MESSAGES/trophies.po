@@ -108,6 +108,9 @@ msgstr "Spookmaster Award voor uitmuntendheid in hekserij en tovenarij."
 msgid "TROPHY_DESC_spring_2023_ffc_winner"
 msgstr "Een van de winnaars van de eerste Sudomemo Flipnote Fight Competition!"
 
+msgid "TROPHY_DESC_spring_2024_ffc_winner"
+msgstr "One of the winners of the Spring 2024 Sudomemo Flipnote Fight Competition!"
+
 msgid "TROPHY_DESC_sudomemo_radio"
 msgstr "Inhoud bijgedragen aan een aflevering van Sudomemo Radio"
 
@@ -216,6 +219,9 @@ msgstr "Spookmaster"
 
 msgid "TROPHY_NAME_spring_2023_ffc_winner"
 msgstr "Spring 2023 Sudomemo Flipnote Fight Competitie Winnaar"
+
+msgid "TROPHY_NAME_spring_2024_ffc_winner"
+msgstr "Spring 2024 Sudomemo Flipnote Fight Competition Winner"
 
 msgid "TROPHY_NAME_sudomemo_radio"
 msgstr "Sudomemo Radio Contributor"

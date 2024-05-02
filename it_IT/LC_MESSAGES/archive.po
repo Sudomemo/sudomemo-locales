@@ -10,6 +10,12 @@ msgstr "Attivo da"
 msgid "ALSO_KNOWN_AS"
 msgstr "Conosciuto anche come"
 
+msgid "BAD_METADATA"
+msgstr "Flipnote with bad metadata"
+
+msgid "BAD_METADATA_WARNING"
+msgstr "Warning: The Flipnote metadata is corrupted. You can still watch it, but we strongly recommend against opening it in Flipnote Studio 3D."
+
 msgid "BLUE_STARS"
 msgstr "Stelle Blu"
 
