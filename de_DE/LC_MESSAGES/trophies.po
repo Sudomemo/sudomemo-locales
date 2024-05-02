@@ -107,6 +107,9 @@ msgstr "Spukmeister-Verzeichnung für Exzellenz in Hexerei, Zauberei und sonst D
 msgid "TROPHY_DESC_spring_2023_ffc_winner"
 msgstr "Einer der Gewinner der ersten Sudomemo Flipnote Fight Competition!"
 
+msgid "TROPHY_DESC_spring_2024_ffc_winner"
+msgstr "One of the winners of the Spring 2024 Sudomemo Flipnote Fight Competition!"
+
 msgid "TROPHY_DESC_sudomemo_radio"
 msgstr "Hat Inhalte zu einer Episode von Sudomemo Radio beigetragen"
 
@@ -212,6 +215,9 @@ msgstr "Spukmeister"
 
 msgid "TROPHY_NAME_spring_2023_ffc_winner"
 msgstr "Frühling 2023 Sudomemo Flipnote Fight Competition-Gewinner"
+
+msgid "TROPHY_NAME_spring_2024_ffc_winner"
+msgstr "Spring 2024 Sudomemo Flipnote Fight Competition Winner"
 
 msgid "TROPHY_NAME_sudomemo_radio"
 msgstr "Sudomemo Radio-Beitragender"

@@ -249,6 +249,9 @@ msgstr "Merci beaucoup d'avoir joué à SudoQuest: Requiem ! Nous espérons que 
 msgid "TICKET_DESC_spring_2023_ffc_winner_ticket"
 msgstr "Félicitations pour votre création gagnante à la première Flipnote Fight Competition de Sudomemo !"
 
+msgid "TICKET_DESC_spring_2024_ffc_winner_ticket"
+msgstr "Congratulations on your winning entry to the Spring 2024 Sudomemo Flipnote Fight Competition!"
+
 msgid "TICKET_DESC_sudomemo_radio_pilot_ticket"
 msgstr "Félicitations pour avoir pris part au tout premier épisode de Radio Sudomemo !"
 
@@ -373,6 +376,9 @@ msgstr "Ticket du Maître de l'épouvante"
 
 msgid "TICKET_NAME_spring_2023_ffc_winner_ticket"
 msgstr "Ticket de lauréat de la F.F.C. de Sudomemo de printemps 2023"
+
+msgid "TICKET_NAME_spring_2024_ffc_winner_ticket"
+msgstr "Spring 2024 Sudomemo F.F.C. Winner Ticket"
 
 msgid "TICKET_NAME_sudomemo_radio_pilot_ticket"
 msgstr "Ticket du pilote de Radio Sudomemo"

@@ -107,6 +107,9 @@ msgstr "Witchcraft and Wizardryで優秀な結果を残す"
 msgid "TROPHY_DESC_spring_2023_ffc_winner"
 msgstr "One of the winners of the first Sudomemo Flipnote Fight Competition!"
 
+msgid "TROPHY_DESC_spring_2024_ffc_winner"
+msgstr "One of the winners of the Spring 2024 Sudomemo Flipnote Fight Competition!"
+
 msgid "TROPHY_DESC_sudomemo_radio"
 msgstr "スドメモラジオにコンテンツを提供する"
 
@@ -212,6 +215,9 @@ msgstr "スプークマスター"
 
 msgid "TROPHY_NAME_spring_2023_ffc_winner"
 msgstr "Spring 2023 Sudomemo Flipnote Fight Competition Winner"
+
+msgid "TROPHY_NAME_spring_2024_ffc_winner"
+msgstr "Spring 2024 Sudomemo Flipnote Fight Competition Winner"
 
 msgid "TROPHY_NAME_sudomemo_radio"
 msgstr "スドメモラジオ貢献者"
