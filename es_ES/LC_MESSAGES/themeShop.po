@@ -82,7 +82,7 @@ msgid "THEME_SHOP_OWNED_THEME_TRANSACTION_FORMAT"
 msgstr "Compraste este fondo el %s por %d Estrellas Verdes."
 
 msgid "THEME_SHOP_POST_PURCHASE"
-msgstr "¡Tu compra ha sido exitosa! Ve a la sección \"Mis Fondos\" en tu Sala del Creador para seleccionarlo."
+msgstr "Your purchase was successful! You can select your new theme from the \"Inventory\" button in your Creator's Room!"
 
 msgid "THEME_SHOP_PUBLIC_THEME"
 msgstr "Todos los usuarios tienen acceso a este fondo de forma gratuita."
