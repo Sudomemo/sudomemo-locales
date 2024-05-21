@@ -82,7 +82,7 @@ msgid "THEME_SHOP_OWNED_THEME_TRANSACTION_FORMAT"
 msgstr "Vous avez acheté ce thème le %s pour %d étoiles vertes."
 
 msgid "THEME_SHOP_POST_PURCHASE"
-msgstr "Votre achat a été fait avec succès ! Allez dans la section \"Mes thèmes\" dans votre salle de créateur pour le sélectionner !"
+msgstr "Your purchase was successful! You can select your new theme from the \"Inventory\" button in your Creator's Room!"
 
 msgid "THEME_SHOP_PUBLIC_THEME"
 msgstr "Tous les utilisateurs ont accès à ce thème gratuitement."
