@@ -82,7 +82,7 @@ msgid "THEME_SHOP_OWNED_THEME_TRANSACTION_FORMAT"
 msgstr "Du hast die Kulisse am %s für %d grüne Sterne gekauft."
 
 msgid "THEME_SHOP_POST_PURCHASE"
-msgstr "Dein Einkauf war erfolgreich! Wähle die Kulisse unter \"Meine Kulissen\" in deinem Ersteller-Raum aus!"
+msgstr "Your purchase was successful! You can select your new theme from the \"Inventory\" button in your Creator's Room!"
 
 msgid "THEME_SHOP_PUBLIC_THEME"
 msgstr "Jeder Benutzer hat kostenlosen Zugriff auf diese Kulisse."
