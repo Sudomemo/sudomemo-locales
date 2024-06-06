@@ -516,6 +516,9 @@ msgstr "Precisas de ligar a tua conta do Canal do YouTube antes de fazer upload 
 msgid "LOGIN_FAILED_CHECK_DETAILS"
 msgstr "Não pudemos fazer o login. Verifica os detalhes que inseriste e tenta de novo."
 
+msgid "LOGIN_FAILED_RATELIMITED"
+msgstr "You've made too many incorrect login attempts recently. Please try again later."
+
 msgid "LOGIN_PLACEHOLDER_PASSWORD"
 msgstr "Palavra-passe"
 

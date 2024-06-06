@@ -516,6 +516,9 @@ msgstr "Devi collegare il tuo canale Youtube prima di caricare il tuo Flipnote."
 msgid "LOGIN_FAILED_CHECK_DETAILS"
 msgstr "Non riusciamo a farti accedere. Controlla ciò che hai inserito e riprova."
 
+msgid "LOGIN_FAILED_RATELIMITED"
+msgstr "You've made too many incorrect login attempts recently. Please try again later."
+
 msgid "LOGIN_PLACEHOLDER_PASSWORD"
 msgstr "Password"
 

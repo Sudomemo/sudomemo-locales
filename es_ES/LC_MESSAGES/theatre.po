@@ -516,6 +516,9 @@ msgstr "Necesitarás el enlace de tu canal de YouTube antes de que puedas subir 
 msgid "LOGIN_FAILED_CHECK_DETAILS"
 msgstr "No pudimos iniciar tu sesión. Revisa los detalles y vuelve a intentarlo."
 
+msgid "LOGIN_FAILED_RATELIMITED"
+msgstr "You've made too many incorrect login attempts recently. Please try again later."
+
 msgid "LOGIN_PLACEHOLDER_PASSWORD"
 msgstr "Contraseña"
 
