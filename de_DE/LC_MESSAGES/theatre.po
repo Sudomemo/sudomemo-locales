@@ -1249,3 +1249,6 @@ msgstr "Jetzt anschauen:"
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "Du bearbeitest gerade dieses Flipnote:"
+
+msgid "LOGIN_FAILED_RATELIMITED"
+msgstr "You've made too many incorrect login attempts recently. Please try again later."
