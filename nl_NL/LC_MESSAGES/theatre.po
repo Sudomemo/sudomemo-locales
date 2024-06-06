@@ -531,6 +531,9 @@ msgstr "Je moet je Youtube kanaal koppelen voordat jij je Flipnote kunt uploaden
 msgid "LOGIN_FAILED_CHECK_DETAILS"
 msgstr "We konden je niet inloggen. Controlleer de details die je in hebt gevoerd en probeer het opnieuw."
 
+msgid "LOGIN_FAILED_RATELIMITED"
+msgstr "You've made too many incorrect login attempts recently. Please try again later."
+
 msgid "LOGIN_PLACEHOLDER_PASSWORD"
 msgstr "Wachtwoord"
 
@@ -1281,6 +1284,3 @@ msgstr "Kijk nu:"
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "Je bent deze Flipnote aan het bewerken:"
-
-msgid "LOGIN_FAILED_RATELIMITED"
-msgstr "You've made too many incorrect login attempts recently. Please try again later."

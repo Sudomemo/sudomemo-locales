@@ -516,6 +516,9 @@ msgstr "You'll need to link your YouTube channel before you can upload your Flip
 msgid "LOGIN_FAILED_CHECK_DETAILS"
 msgstr "Δεν μπορεσαμε να σας συνδεσουμε. Ξανακοιταξετε τις λεπτομεριες που εισαγατε και δοκιμαστε ξανα."
 
+msgid "LOGIN_FAILED_RATELIMITED"
+msgstr "You've made too many incorrect login attempts recently. Please try again later."
+
 msgid "LOGIN_PLACEHOLDER_PASSWORD"
 msgstr "Κωδικος Προσβασης"
 
@@ -1249,6 +1252,3 @@ msgstr "Δειτε τωρα:"
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "Επεξεργαζεστε αυτο το Flipnote:"
-
-msgid "LOGIN_FAILED_RATELIMITED"
-msgstr "You've made too many incorrect login attempts recently. Please try again later."

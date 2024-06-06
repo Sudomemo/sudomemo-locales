@@ -516,6 +516,9 @@ msgstr "Du benötigst eine Verbindung zu deinem YouTube-Kanal, um dein Flipnote 
 msgid "LOGIN_FAILED_CHECK_DETAILS"
 msgstr "Anmeldung fehlgeschlagen. Überprüfe deine Eingaben und versuche es erneut."
 
+msgid "LOGIN_FAILED_RATELIMITED"
+msgstr "You've made too many incorrect login attempts recently. Please try again later."
+
 msgid "LOGIN_PLACEHOLDER_PASSWORD"
 msgstr "Passwort"
 
@@ -1249,6 +1252,3 @@ msgstr "Jetzt anschauen:"
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "Du bearbeitest gerade dieses Flipnote:"
-
-msgid "LOGIN_FAILED_RATELIMITED"
-msgstr "You've made too many incorrect login attempts recently. Please try again later."
