@@ -517,7 +517,7 @@ msgid "LOGIN_FAILED_CHECK_DETAILS"
 msgstr "Nous n'avons pas pu vous connecter. Vérifiez les détails que vous avez entrés et réessayez."
 
 msgid "LOGIN_FAILED_RATELIMITED"
-msgstr "You've made too many incorrect login attempts recently. Please try again later."
+msgstr "Vous avez effectué trop de tentatives de connexion incorrectes. Veuillez réessayer plus tard."
 
 msgid "LOGIN_PLACEHOLDER_PASSWORD"
 msgstr "Mot de passe"
