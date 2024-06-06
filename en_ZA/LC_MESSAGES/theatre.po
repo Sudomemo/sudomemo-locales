@@ -516,6 +516,9 @@ msgstr "You gotta link yer YouTube channel before u can upload your Flipnote sil
 msgid "LOGIN_FAILED_CHECK_DETAILS"
 msgstr "We couldn't log you in. Check the details you entered and try again."
 
+msgid "LOGIN_FAILED_RATELIMITED"
+msgstr "You've made too many incorrect login attempts recently. Please try again later."
+
 msgid "LOGIN_PLACEHOLDER_PASSWORD"
 msgstr "Password"
 

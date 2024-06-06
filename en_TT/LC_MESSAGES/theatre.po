@@ -516,6 +516,9 @@ msgstr "You'll need to link your YouTube channel before you can upload your Flip
 msgid "LOGIN_FAILED_CHECK_DETAILS"
 msgstr "We couldn't log you in. Check the details you entered and try again."
 
+msgid "LOGIN_FAILED_RATELIMITED"
+msgstr "You've made too many incorrect login attempts recently. Please try again later."
+
 msgid "LOGIN_PLACEHOLDER_PASSWORD"
 msgstr "Password"
 

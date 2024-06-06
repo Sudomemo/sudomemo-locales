@@ -516,6 +516,9 @@ msgstr "Vous devrez lier votre chaîne YouTube avant de pouvoir envoyer votre Fl
 msgid "LOGIN_FAILED_CHECK_DETAILS"
 msgstr "Nous n'avons pas pu vous connecter. Vérifiez les détails que vous avez entrés et réessayez."
 
+msgid "LOGIN_FAILED_RATELIMITED"
+msgstr "You've made too many incorrect login attempts recently. Please try again later."
+
 msgid "LOGIN_PLACEHOLDER_PASSWORD"
 msgstr "Mot de passe"
 
