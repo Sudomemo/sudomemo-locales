@@ -67,10 +67,10 @@ msgid "EXAMPLE"
 msgstr "Exemple"
 
 msgid "FANS"
-msgstr "Fans"
+msgstr "Admirateur"
 
 msgid "FAN_COUNT_FORMAT"
-msgstr "Fans : %s"
+msgstr "Admirateurs : %s"
 
 msgid "FAVORITES_FEED"
 msgstr "Nouvelles Flipnotes des utilisateurs favoris"
@@ -219,7 +219,7 @@ msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
 msgstr "Vous pouvez obtenir un autre ticket dans : %s heure(s) %s minute(s)."
 
 msgid "TICKET_SECTION"
-msgstr "Tickets"
+msgstr "Des billets"
 
 msgid "UNBLOCK"
 msgstr "Débloquer"
