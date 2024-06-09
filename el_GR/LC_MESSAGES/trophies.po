@@ -4,13 +4,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "ACHIEVEMENT_EARNED"
-msgstr "Achievement Get!"
+msgstr "You Have Earned an Achievement"
 
 msgid "CASE_IS_EMPTY"
-msgstr "Η θηκη Τροπαιων ειναι αδεια."
+msgstr "The Trophy Case Is Empty."
 
 msgid "CONTINUE"
-msgstr "Συνεχεια"
+msgstr "Continue"
 
 # Trophy Case
 # # UI Headers, messages, labels
