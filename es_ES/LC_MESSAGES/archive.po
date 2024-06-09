@@ -5,67 +5,67 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "ACTIVE_FROM"
-msgstr "Active from"
+msgstr "Activo desde"
 
 msgid "ALSO_KNOWN_AS"
-msgstr "Also known as"
+msgstr "También conocido como"
 
 msgid "BAD_METADATA"
-msgstr "Flipnote with bad metadata"
+msgstr "Flipnote con metadatos incorrectos"
 
 msgid "BAD_METADATA_WARNING"
-msgstr "Warning: The Flipnote metadata is corrupted. You can still watch it, but we strongly recommend against opening it in Flipnote Studio 3D."
+msgstr "Advertencia: Los metadatos de Flipnote están dañados. Aún puedes verlo, pero te recomendamos encarecidamente que no lo abras en Flipnote Studio 3D."
 
 msgid "BLUE_STARS"
-msgstr "Blue Stars"
+msgstr "Estrellas Azules"
 
 msgid "BROWSE"
-msgstr "Browse"
+msgstr "Navegar"
 
 msgid "CONTACT"
-msgstr "Contact"
+msgstr "Contacto"
 
 msgid "CORRUPT_FLIPNOTE_NOTE"
-msgstr "This Flipnote has corrupted data. While it can be played, it is likely a duplicate and should not be considered the authoritative version. Try finding another copy of this Flipnote."
+msgstr "Esta Flipnote tiene datos corruptos.  Si bien se puede reproducir, es probable que sea un duplicado y no debe considerarse la versión autorizada.  Intenta encontrar otra copia de esta Flipnote."
 
 msgid "CREATED"
-msgstr "Created"
+msgstr "Creado"
 
 msgid "CREATORS"
-msgstr "Creators"
+msgstr "Creadores"
 
 msgid "CREDITS"
-msgstr "Credits"
+msgstr "Honores"
 
 msgid "DURATION"
-msgstr "Duration"
+msgstr "Duración"
 
 msgid "DURATION_FORMAT"
-msgstr "%s seconds"
+msgstr "%s segundos"
 
 msgid "FEATURED"
-msgstr "Featured"
+msgstr "Presentado"
 
 msgid "FEATURED_FLIPNOTES"
-msgstr "Featured Flipnotes"
+msgstr "Presentado de Flipnotes"
 
 msgid "FEATURED_FLIPNOTES_DESC"
-msgstr "A collection of famous or noteworthy Flipnotes, curated by our team"
+msgstr "Una colección de Flipnotes famosas o destacadas, seleccionadas por nuestro equipo"
 
 msgid "FLIPNOTES"
 msgstr "Flipnotes"
 
 msgid "FLIPNOTE_ARCHIVE"
-msgstr "Flipnote Archive"
+msgstr "Archive Flipnote"
 
 msgid "FLIPNOTE_ARCHIVE_CREDITS"
-msgstr "Flipnote Archive Credits"
+msgstr "Honores de Archive Flipnote"
 
 msgid "FLIPNOTE_BY_FORMAT"
-msgstr "Flipnote by %s"
+msgstr "Flipnote por %s"
 
 msgid "FLIPNOTE_MAY_BE_DUPLICATE"
-msgstr "Possible duplicate of another Flipnote."
+msgstr "Posible duplicado de otra Flipnote."
 
 msgid "FLIPNOTE_STUDIO_ID"
 msgstr "Flipnote Studio ID"
