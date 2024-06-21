@@ -44,6 +44,9 @@ msgstr "サービス開始から1か月以内にスドメモに参加する"
 msgid "TROPHY_DESC_fall_2023_ffc_winner"
 msgstr "One of the winners of the Fall 2023 Sudomemo Flipnote Fight Competition!"
 
+msgid "TROPHY_DESC_fate_2024_winner"
+msgstr "Submitted a winning Flipnote to FATE 2024"
+
 msgid "TROPHY_DESC_featured_artist"
 msgstr "スドメモにおいて注目された作者であると認められる"
 
@@ -153,6 +156,9 @@ msgstr "古参者"
 msgid "TROPHY_NAME_fall_2023_ffc_winner"
 msgstr "Fall 2023 Sudomemo Flipnote Fight Competition Winner"
 
+msgid "TROPHY_NAME_fate_2024_winner"
+msgstr "FATE 2024 Winner"
+
 msgid "TROPHY_NAME_featured_artist"
 msgstr "注目の作者"
 
@@ -233,9 +239,3 @@ msgstr "今週のお題入賞者"
 
 msgid "TROPHY_NAME_welcoming_champion"
 msgstr "Welcoming Champion"
-
-msgid "TROPHY_DESC_fate_2024_winner"
-msgstr "Submitted a winning Flipnote to FATE 2024"
-
-msgid "TROPHY_NAME_fate_2024_winner"
-msgstr "FATE 2024 Winner"

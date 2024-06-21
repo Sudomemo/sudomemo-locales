@@ -44,6 +44,9 @@ msgstr "Συνδεθηκε στο Sudomemo τον πρωτο μηνα της υ�
 msgid "TROPHY_DESC_fall_2023_ffc_winner"
 msgstr "One of the winners of the Fall 2023 Sudomemo Flipnote Fight Competition!"
 
+msgid "TROPHY_DESC_fate_2024_winner"
+msgstr "Submitted a winning Flipnote to FATE 2024"
+
 msgid "TROPHY_DESC_featured_artist"
 msgstr "Αναγνωρισιμος ως Προωθημενος Καλλιτεχνης του Sudomemo"
 
@@ -153,6 +156,9 @@ msgstr "Early Adopter"
 msgid "TROPHY_NAME_fall_2023_ffc_winner"
 msgstr "Fall 2023 Sudomemo Flipnote Fight Competition Winner"
 
+msgid "TROPHY_NAME_fate_2024_winner"
+msgstr "FATE 2024 Winner"
+
 msgid "TROPHY_NAME_featured_artist"
 msgstr "Προωθημενος Καλλιτεχνης"
 
@@ -233,9 +239,3 @@ msgstr "Νικητης Weekly Topi"
 
 msgid "TROPHY_NAME_welcoming_champion"
 msgstr "Welcoming Champion"
-
-msgid "TROPHY_DESC_fate_2024_winner"
-msgstr "Submitted a winning Flipnote to FATE 2024"
-
-msgid "TROPHY_NAME_fate_2024_winner"
-msgstr "FATE 2024 Winner"

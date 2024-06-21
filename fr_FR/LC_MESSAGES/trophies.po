@@ -44,6 +44,9 @@ msgstr "Rejoignez Sudomemo pendant notre premier mois de service"
 msgid "TROPHY_DESC_fall_2023_ffc_winner"
 msgstr "Un des gagnants de la Flipnote Fight Competition de Sudomemo d'automne 2023 !"
 
+msgid "TROPHY_DESC_fate_2024_winner"
+msgstr "Submitted a winning Flipnote to FATE 2024"
+
 msgid "TROPHY_DESC_featured_artist"
 msgstr "Soyez reconnu en tant qu'artiste vedette de Sudomemo"
 
@@ -153,6 +156,9 @@ msgstr "Adopteur de la première heure"
 msgid "TROPHY_NAME_fall_2023_ffc_winner"
 msgstr "Lauréat de la Flipnote Fight Competition de Sudomemo d'automne 2023"
 
+msgid "TROPHY_NAME_fate_2024_winner"
+msgstr "FATE 2024 Winner"
+
 msgid "TROPHY_NAME_featured_artist"
 msgstr "Artiste en vedette"
 
@@ -233,9 +239,3 @@ msgstr "Vainqueur du Weekly Topic"
 
 msgid "TROPHY_NAME_welcoming_champion"
 msgstr "Champion de l'Accueil"
-
-msgid "TROPHY_DESC_fate_2024_winner"
-msgstr "Submitted a winning Flipnote to FATE 2024"
-
-msgid "TROPHY_NAME_fate_2024_winner"
-msgstr "FATE 2024 Winner"

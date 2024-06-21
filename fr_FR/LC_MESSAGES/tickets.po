@@ -179,6 +179,9 @@ msgstr "Évidemment, ceci est la description du ticket démo."
 msgid "TICKET_DESC_fall_2023_ffc_winner_ticket"
 msgstr "Félicitations pour votre création gagnante à la Flipnote Fight Competition de Sudomemo d'automne 2023 !"
 
+msgid "TICKET_DESC_fate_2024_winner_ticket"
+msgstr "Congratulations on your winning FATE 2024 submission!"
+
 msgid "TICKET_DESC_featured_artist_ticket"
 msgstr "Nous vous félicitons chaleureusement pour être devenu un artiste en vedette de Sudomemo !"
 
@@ -307,6 +310,9 @@ msgstr "Ticket Démo"
 msgid "TICKET_NAME_fall_2023_ffc_winner_ticket"
 msgstr "Ticket de lauréat de la F.F.C. de Sudomemo d'automne 2023"
 
+msgid "TICKET_NAME_fate_2024_winner_ticket"
+msgstr "FATE 2024 Winner Ticket"
+
 msgid "TICKET_NAME_featured_artist_ticket"
 msgstr "Ticket d'artiste en vedette"
 
@@ -421,9 +427,3 @@ msgstr "Vous avez reçu un cadeau !"
 # Ticket delivery
 msgid "YOU_GOT_A_TICKET"
 msgstr "Vous avez obtenu un ticket !"
-
-msgid "TICKET_DESC_fate_2024_winner_ticket"
-msgstr "Congratulations on your winning FATE 2024 submission!"
-
-msgid "TICKET_NAME_fate_2024_winner_ticket"
-msgstr "FATE 2024 Winner Ticket"

@@ -45,6 +45,9 @@ msgstr "Neem deel aan Sudomemo in onze eerste maand"
 msgid "TROPHY_DESC_fall_2023_ffc_winner"
 msgstr "Een van de winnaars van de Sudomemo Flipnote Fight-wedstrijd herfst 2023!"
 
+msgid "TROPHY_DESC_fate_2024_winner"
+msgstr "Submitted a winning Flipnote to FATE 2024"
+
 msgid "TROPHY_DESC_featured_artist"
 msgstr "Wordt erkend als Uitgelichte Kunstenaar"
 
@@ -157,6 +160,9 @@ msgstr "Early Adopter"
 msgid "TROPHY_NAME_fall_2023_ffc_winner"
 msgstr "Fall 2023 Sudomemo Flipnote Fight Competitie Winnaar"
 
+msgid "TROPHY_NAME_fate_2024_winner"
+msgstr "FATE 2024 Winner"
+
 msgid "TROPHY_NAME_featured_artist"
 msgstr "Uitgelichte Kunstenaars"
 
@@ -238,9 +244,3 @@ msgstr "Wekelijks Onderwerpwinnaar"
 # There is no good translation as far as I know for this so it's best to leave it untouched.
 msgid "TROPHY_NAME_welcoming_champion"
 msgstr "Welcoming Champion"
-
-msgid "TROPHY_DESC_fate_2024_winner"
-msgstr "Submitted a winning Flipnote to FATE 2024"
-
-msgid "TROPHY_NAME_fate_2024_winner"
-msgstr "FATE 2024 Winner"

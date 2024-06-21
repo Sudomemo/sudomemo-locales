@@ -179,6 +179,9 @@ msgstr "デモチケットの説明です。"
 msgid "TICKET_DESC_fall_2023_ffc_winner_ticket"
 msgstr "Congratulations on your winning entry to the Fall 2023 Sudomemo Flipnote Fight Competition!"
 
+msgid "TICKET_DESC_fate_2024_winner_ticket"
+msgstr "Congratulations on your winning FATE 2024 submission!"
+
 msgid "TICKET_DESC_featured_artist_ticket"
 msgstr "スドメモで注目された作者になったことを心からお祝いします！"
 
@@ -307,6 +310,9 @@ msgstr "デモチケット"
 msgid "TICKET_NAME_fall_2023_ffc_winner_ticket"
 msgstr "Fall 2023 Sudomemo F.F.C. Winner Ticket"
 
+msgid "TICKET_NAME_fate_2024_winner_ticket"
+msgstr "FATE 2024 Winner Ticket"
+
 msgid "TICKET_NAME_featured_artist_ticket"
 msgstr "注目の作者のチケット"
 
@@ -421,9 +427,3 @@ msgstr "You got a gift!"
 # Ticket delivery
 msgid "YOU_GOT_A_TICKET"
 msgstr "チケットを手に入れました!"
-
-msgid "TICKET_DESC_fate_2024_winner_ticket"
-msgstr "Congratulations on your winning FATE 2024 submission!"
-
-msgid "TICKET_NAME_fate_2024_winner_ticket"
-msgstr "FATE 2024 Winner Ticket"
