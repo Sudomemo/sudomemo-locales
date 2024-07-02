@@ -270,6 +270,9 @@ msgstr "Thank you for helping localize Sudomemo!"
 msgid "TICKET_DESC_twitter_promo_ticket"
 msgstr "Diolch am ddilyn y Sudomemo Twitter!"
 
+msgid "TICKET_DESC_visited_wii_room_ticket"
+msgstr "Thank you for visiting the Sudomemo Room on Wii Room!"
+
 msgid "TICKET_DESC_weekly_topic_winner_ticket"
 msgstr "Llongyfarchiadau ar ennill Pwnc Wythnosol Sudomemo!"
 
@@ -400,6 +403,9 @@ msgstr "Translator Ticket"
 
 msgid "TICKET_NAME_twitter_promo_ticket"
 msgstr "Tocyn Promo Trydar"
+
+msgid "TICKET_NAME_visited_wii_room_ticket"
+msgstr "Wii Room Ticket"
 
 msgid "TICKET_NAME_weekly_topic_winner_ticket"
 msgstr "Tocyn Enillydd Pwnc Wythnosol"
