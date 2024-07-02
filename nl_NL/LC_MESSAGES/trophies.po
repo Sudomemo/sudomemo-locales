@@ -244,3 +244,9 @@ msgstr "Wekelijks Onderwerpwinnaar"
 # There is no good translation as far as I know for this so it's best to leave it untouched.
 msgid "TROPHY_NAME_welcoming_champion"
 msgstr "Welcoming Champion"
+
+msgid "TROPHY_DESC_visited_wii_room"
+msgstr "Visited Sudomemo's Room on Wii Room!"
+
+msgid "TROPHY_NAME_visited_wii_room"
+msgstr "Wii Room Trophy"
