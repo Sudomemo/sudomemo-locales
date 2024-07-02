@@ -270,6 +270,9 @@ msgstr "Danke, dass du dabei hilfst, Sudomemo für verschiedene Regionen anzupas
 msgid "TICKET_DESC_twitter_promo_ticket"
 msgstr "Vielen Dank, dass du Sudomemo auf Twitter folgst!"
 
+msgid "TICKET_DESC_visited_wii_room_ticket"
+msgstr "Thank you for visiting the Sudomemo Room on Wii Room!"
+
 msgid "TICKET_DESC_weekly_topic_winner_ticket"
 msgstr "Glückwunsch zum Gewinn des Wochen-Themas auf Sudomemo!"
 
@@ -401,6 +404,9 @@ msgstr "Übersetzer-Ticket"
 msgid "TICKET_NAME_twitter_promo_ticket"
 msgstr "Twitter-Promo-Ticket"
 
+msgid "TICKET_NAME_visited_wii_room_ticket"
+msgstr "Wii Room Ticket"
+
 msgid "TICKET_NAME_weekly_topic_winner_ticket"
 msgstr "Wochen-Thema-Gewinner-Ticket"
 
@@ -427,9 +433,3 @@ msgstr "You got a gift!"
 # Ticket delivery
 msgid "YOU_GOT_A_TICKET"
 msgstr "Du hast ein Ticket erhalten!"
-
-msgid "TICKET_DESC_visited_wii_room_ticket"
-msgstr "Thank you for visiting the Sudomemo Room on Wii Room!"
-
-msgid "TICKET_NAME_visited_wii_room_ticket"
-msgstr "Wii Room Ticket"

@@ -122,6 +122,9 @@ msgstr "Contributed content to the very first episode of Sudomemo Radio"
 msgid "TROPHY_DESC_translator"
 msgstr "Bidra med översättningar för att göra Sudomemo öppen till alla"
 
+msgid "TROPHY_DESC_visited_wii_room"
+msgstr "Visited Sudomemo's Room on Wii Room!"
+
 msgid "TROPHY_DESC_weekly_topic_winner"
 msgstr "Lägg upp en vinnande Flipnote till Sudomemos Weekly Topic"
 
@@ -234,14 +237,11 @@ msgstr "Sudomemo Radio Pilot Contributor"
 msgid "TROPHY_NAME_translator"
 msgstr "Översättare"
 
+msgid "TROPHY_NAME_visited_wii_room"
+msgstr "Wii Room Trophy"
+
 msgid "TROPHY_NAME_weekly_topic_winner"
 msgstr "Veckotemans vinnare"
 
 msgid "TROPHY_NAME_welcoming_champion"
 msgstr "Welcoming Champion"
-
-msgid "TROPHY_DESC_visited_wii_room"
-msgstr "Visited Sudomemo's Room on Wii Room!"
-
-msgid "TROPHY_NAME_visited_wii_room"
-msgstr "Wii Room Trophy"

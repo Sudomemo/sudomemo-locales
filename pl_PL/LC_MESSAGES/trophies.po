@@ -122,6 +122,9 @@ msgstr "Dostarczyl/-a tresci do pierwszego odcinka Sudomemo Radio"
 msgid "TROPHY_DESC_translator"
 msgstr "Pomógl/pomogla w tlumaczeniu Sudomemo"
 
+msgid "TROPHY_DESC_visited_wii_room"
+msgstr "Visited Sudomemo's Room on Wii Room!"
+
 msgid "TROPHY_DESC_weekly_topic_winner"
 msgstr "Twój Flipnote wygral Temat Tygodnia"
 
@@ -234,14 +237,11 @@ msgstr "Udzial w odcinku pilotazowym Sudomemo Radio"
 msgid "TROPHY_NAME_translator"
 msgstr "Tlumacz"
 
+msgid "TROPHY_NAME_visited_wii_room"
+msgstr "Wii Room Trophy"
+
 msgid "TROPHY_NAME_weekly_topic_winner"
 msgstr "Zwyciezca Tematu Tygodnia"
 
 msgid "TROPHY_NAME_welcoming_champion"
 msgstr "Czempion powitania"
-
-msgid "TROPHY_DESC_visited_wii_room"
-msgstr "Visited Sudomemo's Room on Wii Room!"
-
-msgid "TROPHY_NAME_visited_wii_room"
-msgstr "Wii Room Trophy"

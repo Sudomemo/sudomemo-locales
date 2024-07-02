@@ -122,6 +122,9 @@ msgstr "スドメモラジオの第1回にコンテンツを提供する"
 msgid "TROPHY_DESC_translator"
 msgstr "スドメモをだれでも利用しやすくするための翻訳に協力する"
 
+msgid "TROPHY_DESC_visited_wii_room"
+msgstr "Visited Sudomemo's Room on Wii Room!"
+
 msgid "TROPHY_DESC_weekly_topic_winner"
 msgstr "スドメモの今週のお題に入賞する"
 
@@ -234,14 +237,11 @@ msgstr "スドメモラジオパイロット貢献者"
 msgid "TROPHY_NAME_translator"
 msgstr "翻訳者"
 
+msgid "TROPHY_NAME_visited_wii_room"
+msgstr "Wii Room Trophy"
+
 msgid "TROPHY_NAME_weekly_topic_winner"
 msgstr "今週のお題入賞者"
 
 msgid "TROPHY_NAME_welcoming_champion"
 msgstr "Welcoming Champion"
-
-msgid "TROPHY_DESC_visited_wii_room"
-msgstr "Visited Sudomemo's Room on Wii Room!"
-
-msgid "TROPHY_NAME_visited_wii_room"
-msgstr "Wii Room Trophy"

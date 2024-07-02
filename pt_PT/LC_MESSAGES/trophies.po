@@ -122,6 +122,9 @@ msgstr "Contribuíste conteúdo no primeiro episódio do Sudomemo Radio"
 msgid "TROPHY_DESC_translator"
 msgstr "Contribuir traduções para fazer o Sudomemo aberto a todos"
 
+msgid "TROPHY_DESC_visited_wii_room"
+msgstr "Visited Sudomemo's Room on Wii Room!"
+
 msgid "TROPHY_DESC_weekly_topic_winner"
 msgstr "Submeter um post vencedor no Tópico Semanal do Sudomemo"
 
@@ -234,14 +237,11 @@ msgstr "Contribuidor Piloto do Sudomemo Radio"
 msgid "TROPHY_NAME_translator"
 msgstr "Tradutor"
 
+msgid "TROPHY_NAME_visited_wii_room"
+msgstr "Wii Room Trophy"
+
 msgid "TROPHY_NAME_weekly_topic_winner"
 msgstr "Vencedor do Tópico Semanal"
 
 msgid "TROPHY_NAME_welcoming_champion"
 msgstr "Cidadão Acolhedor"
-
-msgid "TROPHY_DESC_visited_wii_room"
-msgstr "Visited Sudomemo's Room on Wii Room!"
-
-msgid "TROPHY_NAME_visited_wii_room"
-msgstr "Wii Room Trophy"
