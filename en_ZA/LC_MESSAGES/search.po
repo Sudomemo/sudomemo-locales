@@ -3,6 +3,9 @@ msgstr ""
 "Language: en_ZA\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "CHANNEL"
+msgstr "Channel"
+
 msgid "HEADER_NEXT"
 msgstr "Next"
 
@@ -36,6 +39,12 @@ msgstr "%1$d result found for \"%2$s\""
 msgid "SEARCH"
 msgstr "Search"
 
+msgid "SEARCH_CHANNELS"
+msgstr "Channels"
+
+msgid "SEARCH_FOR"
+msgstr "Search for..."
+
 msgid "SEARCH_MUSICMATCH"
 msgstr "MusicMatch"
 
@@ -65,11 +74,3 @@ msgstr "No result was found, but a similar ID exists. Please note that Flipnote 
 
 msgid "USERNAME"
 msgstr "Username"
-msgid "CHANNEL"
-msgstr "Channel"
-
-msgid "SEARCH_FOR"
-msgstr "Search for..."
-
-msgid "SEARCH_CHANNELS"
-msgstr "Channels"
