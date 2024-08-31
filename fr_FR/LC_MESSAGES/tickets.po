@@ -179,6 +179,9 @@ msgstr "Évidemment, ceci est la description du ticket démo."
 msgid "TICKET_DESC_fall_2023_ffc_winner_ticket"
 msgstr "Félicitations pour votre création gagnante à la Flipnote Fight Competition de Sudomemo d'automne 2023 !"
 
+msgid "TICKET_DESC_fate_2024_winner_ticket"
+msgstr "Congratulations on your winning FATE 2024 submission!"
+
 msgid "TICKET_DESC_featured_artist_ticket"
 msgstr "Nous vous félicitons chaleureusement pour être devenu un artiste en vedette de Sudomemo !"
 
@@ -267,6 +270,9 @@ msgstr "Merci d'avoir aidé à traduire Sudomemo !"
 msgid "TICKET_DESC_twitter_promo_ticket"
 msgstr "Merci de suivre Sudomemo sur Twitter !"
 
+msgid "TICKET_DESC_visited_wii_room_ticket"
+msgstr "Thank you for visiting the Sudomemo Room on Wii Room!"
+
 msgid "TICKET_DESC_weekly_topic_winner_ticket"
 msgstr "Félicitations pour avoir gagné le Weekly Topic (thème hebdomadaire) de Sudomemo !"
 
@@ -306,6 +312,9 @@ msgstr "Ticket Démo"
 
 msgid "TICKET_NAME_fall_2023_ffc_winner_ticket"
 msgstr "Ticket de lauréat de la F.F.C. de Sudomemo d'automne 2023"
+
+msgid "TICKET_NAME_fate_2024_winner_ticket"
+msgstr "FATE 2024 Winner Ticket"
 
 msgid "TICKET_NAME_featured_artist_ticket"
 msgstr "Ticket d'artiste en vedette"
@@ -394,6 +403,9 @@ msgstr "Ticket de traducteur"
 
 msgid "TICKET_NAME_twitter_promo_ticket"
 msgstr "Ticket Promo Twitter"
+
+msgid "TICKET_NAME_visited_wii_room_ticket"
+msgstr "Wii Room Ticket"
 
 msgid "TICKET_NAME_weekly_topic_winner_ticket"
 msgstr "Ticket Vainqueur du Weekly Topic"
