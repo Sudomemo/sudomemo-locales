@@ -3,6 +3,9 @@ msgstr ""
 "Language: sv_SE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "CHANNEL"
+msgstr "Channel"
+
 msgid "HEADER_NEXT"
 msgstr "Nästa"
 
@@ -36,6 +39,12 @@ msgstr "%1$d resultat hittad för \"%2$s\""
 msgid "SEARCH"
 msgstr "Sök"
 
+msgid "SEARCH_CHANNELS"
+msgstr "Channels"
+
+msgid "SEARCH_FOR"
+msgstr "Search for..."
+
 msgid "SEARCH_MUSICMATCH"
 msgstr "MusicMatch"
 
@@ -65,11 +74,3 @@ msgstr "Inga resultat hittades, men en liknande ID finns. Vänligen notera att F
 
 msgid "USERNAME"
 msgstr "Användarnamn"
-msgid "CHANNEL"
-msgstr "Channel"
-
-msgid "SEARCH_FOR"
-msgstr "Search for..."
-
-msgid "SEARCH_CHANNELS"
-msgstr "Channels"
