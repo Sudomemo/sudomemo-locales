@@ -30,6 +30,9 @@ msgstr "@Aide"
 msgid "HOT_FLIPNOTES"
 msgstr "@Flipnotes tendance"
 
+msgid "HOW_TO_POST"
+msgstr "Comment Soumettre"
+
 msgid "LOGIN"
 msgstr "Connexion"
 
@@ -37,7 +40,7 @@ msgid "LOGOUT"
 msgstr "Déconnexion"
 
 msgid "MAIL"
-msgstr "Mail"
+msgstr "Courrier"
 
 msgid "NEWS"
 msgstr "@Infos de Sudomemo"
@@ -65,6 +68,3 @@ msgstr "@Boutique de thèmes"
 
 msgid "WATCH_FLIPNOTES"
 msgstr "@Toutes les Flipnotes"
-msgid "HOW_TO_POST"
-msgstr "How to Post"
-
