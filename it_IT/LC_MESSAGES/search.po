@@ -3,6 +3,9 @@ msgstr ""
 "Language: it_IT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "CHANNEL"
+msgstr "Channel"
+
 msgid "HEADER_NEXT"
 msgstr "Successivo"
 
@@ -36,6 +39,12 @@ msgstr "%1$d risultato trovato per \"%2$s\""
 msgid "SEARCH"
 msgstr "Cerca"
 
+msgid "SEARCH_CHANNELS"
+msgstr "Channels"
+
+msgid "SEARCH_FOR"
+msgstr "Search for..."
+
 msgid "SEARCH_MUSICMATCH"
 msgstr "MusicMatch"
 
@@ -65,11 +74,3 @@ msgstr "Nessun risultato trovato, ma esiste un ID simile. Tieni presente che gli
 
 msgid "USERNAME"
 msgstr "Nome utente"
-msgid "CHANNEL"
-msgstr "Channel"
-
-msgid "SEARCH_FOR"
-msgstr "Search for..."
-
-msgid "SEARCH_CHANNELS"
-msgstr "Channels"

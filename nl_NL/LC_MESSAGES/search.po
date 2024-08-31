@@ -3,6 +3,9 @@ msgstr ""
 "Language: nl_NL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "CHANNEL"
+msgstr "Channel"
+
 msgid "HEADER_NEXT"
 msgstr "Volgende"
 
@@ -36,6 +39,12 @@ msgstr "%1$d resultaat gevonden voor \"%2$s\""
 msgid "SEARCH"
 msgstr "Zoeken"
 
+msgid "SEARCH_CHANNELS"
+msgstr "Channels"
+
+msgid "SEARCH_FOR"
+msgstr "Search for..."
+
 msgid "SEARCH_MUSICMATCH"
 msgstr "MusicMatch"
 
@@ -65,11 +74,3 @@ msgstr "Er is geen resultaat gevonden, maar een soortgelijke ID bestaat. Houd er
 
 msgid "USERNAME"
 msgstr "Gebruikersnaam"
-msgid "CHANNEL"
-msgstr "Channel"
-
-msgid "SEARCH_FOR"
-msgstr "Search for..."
-
-msgid "SEARCH_CHANNELS"
-msgstr "Channels"

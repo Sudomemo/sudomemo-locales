@@ -3,6 +3,9 @@ msgstr ""
 "Language: el_GR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "CHANNEL"
+msgstr "Channel"
+
 msgid "HEADER_NEXT"
 msgstr "Επομ"
 
@@ -36,6 +39,12 @@ msgstr "%1$d αποτελεσμα βρεθηκε για \"%2$s\""
 msgid "SEARCH"
 msgstr "Αναζητηση"
 
+msgid "SEARCH_CHANNELS"
+msgstr "Channels"
+
+msgid "SEARCH_FOR"
+msgstr "Search for..."
+
 msgid "SEARCH_MUSICMATCH"
 msgstr "MusicMatch"
 
@@ -65,11 +74,3 @@ msgstr "Δεν  βρεθηκε  αποτελεσμα, αλλα υπαρχει  �
 
 msgid "USERNAME"
 msgstr "Ονομα Χρηστη"
-msgid "CHANNEL"
-msgstr "Channel"
-
-msgid "SEARCH_FOR"
-msgstr "Search for..."
-
-msgid "SEARCH_CHANNELS"
-msgstr "Channels"
