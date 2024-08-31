@@ -15,8 +15,20 @@ msgstr "Browse by Song"
 msgid "BROWSE_PLAYLIST"
 msgstr "Browse Playlist"
 
+msgid "LEAST_VIEWED"
+msgstr "Least Viewed"
+
+msgid "MOST_RECENT"
+msgstr "Recent"
+
+msgid "MOST_VIEWED"
+msgstr "Most Viewed"
+
 msgid "NEXT"
 msgstr "Next"
+
+msgid "OLDEST"
+msgstr "Oldest"
 
 msgid "PAGE"
 msgstr "Page"
@@ -38,15 +50,3 @@ msgstr "Spinoffs"
 
 msgid "UPPERTITLE"
 msgstr "Browse Channel"
-msgid "MOST_RECENT"
-msgstr "Recent"
-
-msgid "OLDEST"
-msgstr "Oldest"
-
-msgid "MOST_VIEWED"
-msgstr "Most Viewed"
-
-msgid "LEAST_VIEWED"
-msgstr "Least Viewed"
-

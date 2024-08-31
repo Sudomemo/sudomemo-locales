@@ -15,8 +15,20 @@ msgstr "曲で閲覧"
 msgid "BROWSE_PLAYLIST"
 msgstr "プレイリストで閲覧"
 
+msgid "LEAST_VIEWED"
+msgstr "Least Viewed"
+
+msgid "MOST_RECENT"
+msgstr "Recent"
+
+msgid "MOST_VIEWED"
+msgstr "Most Viewed"
+
 msgid "NEXT"
 msgstr "次へ"
+
+msgid "OLDEST"
+msgstr "Oldest"
 
 msgid "PAGE"
 msgstr "ページ"
@@ -38,15 +50,3 @@ msgstr "子作品"
 
 msgid "UPPERTITLE"
 msgstr "チャンネルの作品"
-msgid "MOST_RECENT"
-msgstr "Recent"
-
-msgid "OLDEST"
-msgstr "Oldest"
-
-msgid "MOST_VIEWED"
-msgstr "Most Viewed"
-
-msgid "LEAST_VIEWED"
-msgstr "Least Viewed"
-

@@ -15,8 +15,20 @@ msgstr "Şarkıya göre göz atın"
 msgid "BROWSE_PLAYLIST"
 msgstr "Oynatma Listesine Gözat"
 
+msgid "LEAST_VIEWED"
+msgstr "Least Viewed"
+
+msgid "MOST_RECENT"
+msgstr "Recent"
+
+msgid "MOST_VIEWED"
+msgstr "Most Viewed"
+
 msgid "NEXT"
 msgstr "Sonraki"
+
+msgid "OLDEST"
+msgstr "Oldest"
 
 msgid "PAGE"
 msgstr "Sayfa"
@@ -38,15 +50,3 @@ msgstr "yan ürünler"
 
 msgid "UPPERTITLE"
 msgstr "Kanala Gözat"
-msgid "MOST_RECENT"
-msgstr "Recent"
-
-msgid "OLDEST"
-msgstr "Oldest"
-
-msgid "MOST_VIEWED"
-msgstr "Most Viewed"
-
-msgid "LEAST_VIEWED"
-msgstr "Least Viewed"
-

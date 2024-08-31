@@ -15,8 +15,20 @@ msgstr "Przegladaj wedlug utworu"
 msgid "BROWSE_PLAYLIST"
 msgstr "Przegladaj playliste"
 
+msgid "LEAST_VIEWED"
+msgstr "Least Viewed"
+
+msgid "MOST_RECENT"
+msgstr "Recent"
+
+msgid "MOST_VIEWED"
+msgstr "Most Viewed"
+
 msgid "NEXT"
 msgstr "Nastepna"
+
+msgid "OLDEST"
+msgstr "Oldest"
 
 msgid "PAGE"
 msgstr "Strona"
@@ -38,15 +50,3 @@ msgstr "Spinoff-y"
 
 msgid "UPPERTITLE"
 msgstr "Przegladaj kanal"
-msgid "MOST_RECENT"
-msgstr "Recent"
-
-msgid "OLDEST"
-msgstr "Oldest"
-
-msgid "MOST_VIEWED"
-msgstr "Most Viewed"
-
-msgid "LEAST_VIEWED"
-msgstr "Least Viewed"
-

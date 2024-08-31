@@ -9,8 +9,20 @@ msgstr "Contenido favorito de %s"
 msgid "FLIPNOTES_BY_FORMAT"
 msgstr "Flipnotes por %s"
 
+msgid "LEAST_VIEWED"
+msgstr "Least Viewed"
+
+msgid "MOST_RECENT"
+msgstr "Recent"
+
+msgid "MOST_VIEWED"
+msgstr "Most Viewed"
+
 msgid "NEXT"
 msgstr "Siguiente página"
+
+msgid "OLDEST"
+msgstr "Oldest"
 
 msgid "PAGE"
 msgstr "Página"
@@ -26,15 +38,3 @@ msgstr "Calificado por %s"
 
 msgid "UPPERTITLE"
 msgstr "Buscar"
-msgid "MOST_RECENT"
-msgstr "Recent"
-
-msgid "OLDEST"
-msgstr "Oldest"
-
-msgid "MOST_VIEWED"
-msgstr "Most Viewed"
-
-msgid "LEAST_VIEWED"
-msgstr "Least Viewed"
-
