@@ -9,8 +9,20 @@ msgstr "Τοιχος Αγαπημενων του %s'"
 msgid "FLIPNOTES_BY_FORMAT"
 msgstr "Flipnotes του %s"
 
+msgid "LEAST_VIEWED"
+msgstr "Least Viewed"
+
+msgid "MOST_RECENT"
+msgstr "Recent"
+
+msgid "MOST_VIEWED"
+msgstr "Most Viewed"
+
 msgid "NEXT"
 msgstr "Επομενη Σελιδα"
+
+msgid "OLDEST"
+msgstr "Oldest"
 
 msgid "PAGE"
 msgstr "Σελιδα"
@@ -26,15 +38,3 @@ msgstr "Εβαλε αστερια ο %s"
 
 msgid "UPPERTITLE"
 msgstr "Χαζεψτε"
-msgid "MOST_RECENT"
-msgstr "Recent"
-
-msgid "OLDEST"
-msgstr "Oldest"
-
-msgid "MOST_VIEWED"
-msgstr "Most Viewed"
-
-msgid "LEAST_VIEWED"
-msgstr "Least Viewed"
-

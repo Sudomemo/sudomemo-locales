@@ -9,8 +9,20 @@ msgstr "Ulubieni tworcy dla %s"
 msgid "FLIPNOTES_BY_FORMAT"
 msgstr "Flipnotes stworzone przez %s"
 
+msgid "LEAST_VIEWED"
+msgstr "Least Viewed"
+
+msgid "MOST_RECENT"
+msgstr "Recent"
+
+msgid "MOST_VIEWED"
+msgstr "Most Viewed"
+
 msgid "NEXT"
 msgstr "Nastepna strona"
+
+msgid "OLDEST"
+msgstr "Oldest"
 
 msgid "PAGE"
 msgstr "Strona"
@@ -26,15 +38,3 @@ msgstr "Zagwiazdkowane przez %s"
 
 msgid "UPPERTITLE"
 msgstr "Przegladaj"
-msgid "MOST_RECENT"
-msgstr "Recent"
-
-msgid "OLDEST"
-msgstr "Oldest"
-
-msgid "MOST_VIEWED"
-msgstr "Most Viewed"
-
-msgid "LEAST_VIEWED"
-msgstr "Least Viewed"
-
