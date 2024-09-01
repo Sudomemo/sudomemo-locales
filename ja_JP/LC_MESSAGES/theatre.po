@@ -1252,3 +1252,15 @@ msgstr "今すぐ見る:"
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "編集中"
+msgid "RANK_IMPROVED"
+msgstr "Rank Improved"
+
+msgid "SIGNIFICANT_DECLINE"
+msgstr "Significant Decline"
+
+msgid "SLIGHT_DECLINE"
+msgstr "Slight Decline"
+
+msgid "RANK_UNCHANGED"
+msgstr "Rank Unchanged"
+

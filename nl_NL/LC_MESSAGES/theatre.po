@@ -1284,3 +1284,15 @@ msgstr "Kijk nu:"
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "Je bent deze Flipnote aan het bewerken:"
+msgid "RANK_IMPROVED"
+msgstr "Rank Improved"
+
+msgid "SIGNIFICANT_DECLINE"
+msgstr "Significant Decline"
+
+msgid "SLIGHT_DECLINE"
+msgstr "Slight Decline"
+
+msgid "RANK_UNCHANGED"
+msgstr "Rank Unchanged"
+
