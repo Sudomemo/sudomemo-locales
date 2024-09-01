@@ -761,6 +761,12 @@ msgstr "Random Flipnotes"
 msgid "RANK"
 msgstr "Rank"
 
+msgid "RANK_IMPROVED"
+msgstr "Rank Improved"
+
+msgid "RANK_UNCHANGED"
+msgstr "Rank Unchanged"
+
 msgid "RECENT"
 msgstr "Recent"
 
@@ -859,6 +865,9 @@ msgstr "Show on profile"
 msgid "SHOW_YOUTUBE_LINK_ON_MY_PROFILE"
 msgstr "Show a link to my YouTube channel on my Sudomemo profile"
 
+msgid "SIGNIFICANT_DECLINE"
+msgstr "Significant Decline"
+
 msgid "SIGN_IN"
 msgstr "Sign in"
 
@@ -867,6 +876,9 @@ msgstr "Sign out"
 
 msgid "SIGN_UP"
 msgstr "Sign Up"
+
+msgid "SLIGHT_DECLINE"
+msgstr "Slight Decline"
 
 # For MusicMatch
 msgid "SONG"
@@ -1252,15 +1264,3 @@ msgstr "Watch now:"
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "You are editing this Flipnote:"
-msgid "RANK_IMPROVED"
-msgstr "Rank Improved"
-
-msgid "SIGNIFICANT_DECLINE"
-msgstr "Significant Decline"
-
-msgid "SLIGHT_DECLINE"
-msgstr "Slight Decline"
-
-msgid "RANK_UNCHANGED"
-msgstr "Rank Unchanged"
-

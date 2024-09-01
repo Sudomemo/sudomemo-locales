@@ -761,6 +761,12 @@ msgstr "ランダム"
 msgid "RANK"
 msgstr "作者ランキング"
 
+msgid "RANK_IMPROVED"
+msgstr "Rank Improved"
+
+msgid "RANK_UNCHANGED"
+msgstr "Rank Unchanged"
+
 msgid "RECENT"
 msgstr "新着順"
 
@@ -859,6 +865,9 @@ msgstr "プロフィールで表示"
 msgid "SHOW_YOUTUBE_LINK_ON_MY_PROFILE"
 msgstr "スドメモのプロフィールにYouTubeチャンネルへのリンクを表示"
 
+msgid "SIGNIFICANT_DECLINE"
+msgstr "Significant Decline"
+
 msgid "SIGN_IN"
 msgstr "ログイン"
 
@@ -867,6 +876,9 @@ msgstr "ログアウト"
 
 msgid "SIGN_UP"
 msgstr "新規登録"
+
+msgid "SLIGHT_DECLINE"
+msgstr "Slight Decline"
 
 # For MusicMatch
 msgid "SONG"
@@ -1252,15 +1264,3 @@ msgstr "今すぐ見る:"
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "編集中"
-msgid "RANK_IMPROVED"
-msgstr "Rank Improved"
-
-msgid "SIGNIFICANT_DECLINE"
-msgstr "Significant Decline"
-
-msgid "SLIGHT_DECLINE"
-msgstr "Slight Decline"
-
-msgid "RANK_UNCHANGED"
-msgstr "Rank Unchanged"
-
