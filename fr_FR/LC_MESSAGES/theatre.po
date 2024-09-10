@@ -168,6 +168,9 @@ msgstr "Créateurs"
 msgid "CREATORS_ROOM"
 msgstr "Salle de créateur"
 
+msgid "CUSTOM_FRAMES"
+msgstr "Custom Frames"
+
 # November 29th, 2019 08:23:07
 # Used for Flipnote Details
 msgid "DATETIME_MONTH_DAY_ORDINAL_HOUR_MINUTE_SECOND_FORMAT"
@@ -645,6 +648,9 @@ msgstr "Pas d'adresse email enregistrée -- contactez le support de Sudomemo"
 msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
 msgstr "Aucun utilisateur trouvé avec cet ID Flipnote Studio ou cet e-mail"
 
+msgid "ONLY_APPLIES_FOR_YOUTUBE_SHORTS"
+msgstr "Only applies for YouTube Shorts"
+
 msgid "PARENT_FLIPNOTE"
 msgstr "Flipnote parente"
 
@@ -907,6 +913,9 @@ msgstr "Infos de Sudomemo"
 msgid "SUDOMEMO_PLUS"
 msgstr "Sudomemo Plus"
 
+msgid "SUDOMEMO_PLUS_FEATURE"
+msgstr "Sudomemo Plus feature"
+
 msgid "SUDOMEMO_SHOP"
 msgstr "Boutique Sudomemo"
 
@@ -998,6 +1007,9 @@ msgstr "Les jetons de support servent à vérifier votre compte lorsque vous con
 
 msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
 msgstr "Configurez votre chaîne YouTube liée et vos paramètres d'envoi de Flipnote par défaut."
+
+msgid "USE_THIS_FRAME_FROM_NOW_ON"
+msgstr "Use this frame from now on"
 
 msgid "VERIFIED_USER"
 msgstr "Utilisateur verifié"
@@ -1164,6 +1176,12 @@ msgstr "La connexion à votre compte a expiré. Merci de la reconnecter pour con
 msgid "YOUTUBE_REFRESH_ACCOUNT"
 msgstr "Actualiser le compte"
 
+msgid "YOUTUBE_SHORT"
+msgstr "YouTube Short"
+
+msgid "YOUTUBE_SHORT_TOGGLE"
+msgstr "Make it a YouTube Short?"
+
 msgid "YOUTUBE_STATUS_BEING_PROCESSED"
 msgstr "Votre envoi est en cours de traitement."
 
@@ -1264,20 +1282,3 @@ msgstr "Visionner maintenant :"
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "Vous éditez cette Flipnote :"
-msgid "YOUTUBE_SHORT"
-msgstr "YouTube Short"
-
-msgid "YOUTUBE_SHORT_TOGGLE"
-msgstr "Make it a YouTube Short?"
-
-msgid "CUSTOM_FRAMES"
-msgstr "Custom Frames"
-
-msgid "ONLY_APPLIES_FOR_YOUTUBE_SHORTS"
-msgstr "Only applies for YouTube Shorts"
-
-msgid "USE_THIS_FRAME_FROM_NOW_ON"
-msgstr "Use this frame from now on"
-
-msgid "SUDOMEMO_PLUS_FEATURE"
-msgstr "Sudomemo Plus feature"

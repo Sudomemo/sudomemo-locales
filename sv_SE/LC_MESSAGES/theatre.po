@@ -168,6 +168,9 @@ msgstr "Creators"
 msgid "CREATORS_ROOM"
 msgstr "Creator's Room"
 
+msgid "CUSTOM_FRAMES"
+msgstr "Custom Frames"
+
 # November 29th, 2019 08:23:07
 # Used for Flipnote Details
 msgid "DATETIME_MONTH_DAY_ORDINAL_HOUR_MINUTE_SECOND_FORMAT"
@@ -645,6 +648,9 @@ msgstr "No email address on file -- contact Sudomemo Support"
 msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
 msgstr "No user found with that Flipnote Studio ID or email"
 
+msgid "ONLY_APPLIES_FOR_YOUTUBE_SHORTS"
+msgstr "Only applies for YouTube Shorts"
+
 msgid "PARENT_FLIPNOTE"
 msgstr "Parent Flipnote"
 
@@ -907,6 +913,9 @@ msgstr "Sudomemo Nyheter"
 msgid "SUDOMEMO_PLUS"
 msgstr "Sudomemo Plus"
 
+msgid "SUDOMEMO_PLUS_FEATURE"
+msgstr "Sudomemo Plus feature"
+
 msgid "SUDOMEMO_SHOP"
 msgstr "Sudomemo Butiken"
 
@@ -998,6 +1007,9 @@ msgstr "Support tokens are used to verify your account when contacting Sudomemo 
 
 msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
 msgstr "Configure your linked YouTube channel and default Flipnote upload settings."
+
+msgid "USE_THIS_FRAME_FROM_NOW_ON"
+msgstr "Use this frame from now on"
 
 msgid "VERIFIED_USER"
 msgstr "Verified User"
@@ -1164,6 +1176,12 @@ msgstr "The connection to your channel is out of date. Please reconnect it to co
 msgid "YOUTUBE_REFRESH_ACCOUNT"
 msgstr "Refresh account"
 
+msgid "YOUTUBE_SHORT"
+msgstr "YouTube Short"
+
+msgid "YOUTUBE_SHORT_TOGGLE"
+msgstr "Make it a YouTube Short?"
+
 msgid "YOUTUBE_STATUS_BEING_PROCESSED"
 msgstr "Your upload is currently being processed."
 
@@ -1264,20 +1282,3 @@ msgstr "Watch now:"
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "Du redigerar denna Flipnote:"
-msgid "YOUTUBE_SHORT"
-msgstr "YouTube Short"
-
-msgid "YOUTUBE_SHORT_TOGGLE"
-msgstr "Make it a YouTube Short?"
-
-msgid "CUSTOM_FRAMES"
-msgstr "Custom Frames"
-
-msgid "ONLY_APPLIES_FOR_YOUTUBE_SHORTS"
-msgstr "Only applies for YouTube Shorts"
-
-msgid "USE_THIS_FRAME_FROM_NOW_ON"
-msgstr "Use this frame from now on"
-
-msgid "SUDOMEMO_PLUS_FEATURE"
-msgstr "Sudomemo Plus feature"
