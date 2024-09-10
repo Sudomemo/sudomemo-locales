@@ -1264,3 +1264,20 @@ msgstr "Ver agora:"
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "Estás a editar este Flipnote:"
+msgid "YOUTUBE_SHORT"
+msgstr "YouTube Short"
+
+msgid "YOUTUBE_SHORT_TOGGLE"
+msgstr "Make it a YouTube Short?"
+
+msgid "CUSTOM_FRAMES"
+msgstr "Custom Frames"
+
+msgid "ONLY_APPLIES_FOR_YOUTUBE_SHORTS"
+msgstr "Only applies for YouTube Shorts"
+
+msgid "USE_THIS_FRAME_FROM_NOW_ON"
+msgstr "Use this frame from now on"
+
+msgid "SUDOMEMO_PLUS_FEATURE"
+msgstr "Sudomemo Plus feature"
