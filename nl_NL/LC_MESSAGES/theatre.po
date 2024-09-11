@@ -169,6 +169,9 @@ msgstr "Makers"
 msgid "CREATORS_ROOM"
 msgstr "Makersruimte"
 
+msgid "CUSTOM_FRAMES"
+msgstr "Custom Frames"
+
 # November 29th, 2019 08:23:07
 # Used for Flipnote Details
 # Now in Dutch:
@@ -663,6 +666,9 @@ msgstr "Geen email adres op bestand -- contacteer Sudomemo Support"
 msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
 msgstr "Geen gebruiker gevonden met dat Flipnote Studio ID of email"
 
+msgid "ONLY_APPLIES_FOR_YOUTUBE_SHORTS"
+msgstr "Only applies for YouTube Shorts"
+
 msgid "PARENT_FLIPNOTE"
 msgstr "Parent Flipnote"
 
@@ -930,6 +936,9 @@ msgstr "Sudomemo Nieuws"
 msgid "SUDOMEMO_PLUS"
 msgstr "Sudomemo Plus"
 
+msgid "SUDOMEMO_PLUS_FEATURE"
+msgstr "Sudomemo Plus feature"
+
 msgid "SUDOMEMO_SHOP"
 msgstr "Sudomemo Shop"
 
@@ -1023,6 +1032,9 @@ msgstr "Support tokens worden gebruikt om je account te verifiëren wanneer je S
 
 msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
 msgstr "Configureer je gelinkte Youtube kanaal en standaard Flipnote upload instellingen."
+
+msgid "USE_THIS_FRAME_FROM_NOW_ON"
+msgstr "Use this frame from now on"
 
 msgid "VERIFIED_USER"
 msgstr "Geverifiëerde Gebruiker"
@@ -1191,6 +1203,12 @@ msgstr "De verbinding met je kanaal is vervallen. Herverbind het om door te gaan
 msgid "YOUTUBE_REFRESH_ACCOUNT"
 msgstr "Herlaad account"
 
+msgid "YOUTUBE_SHORT"
+msgstr "YouTube Short"
+
+msgid "YOUTUBE_SHORT_TOGGLE"
+msgstr "Make it a YouTube Short?"
+
 msgid "YOUTUBE_STATUS_BEING_PROCESSED"
 msgstr "Je upload wordt verwerkt."
 
@@ -1296,3 +1314,6 @@ msgstr "Kijk nu:"
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "Je bent deze Flipnote aan het bewerken:"
+
+msgid "YT_LAYOUT_MAY_VARY"
+msgstr "Appearance and layout may vary depending on device used to view video"

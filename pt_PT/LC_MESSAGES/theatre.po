@@ -168,6 +168,9 @@ msgstr "Criadores"
 msgid "CREATORS_ROOM"
 msgstr "Sala do Criador"
 
+msgid "CUSTOM_FRAMES"
+msgstr "Custom Frames"
+
 # November 29th, 2019 08:23:07
 # Used for Flipnote Details
 msgid "DATETIME_MONTH_DAY_ORDINAL_HOUR_MINUTE_SECOND_FORMAT"
@@ -645,6 +648,9 @@ msgstr "Nenhum endereço de email no registo -- contacte o Suporte do Sudomemo"
 msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
 msgstr "Nenhum utilizador encontrado com esse ID do Flipnote Studio ID ou email"
 
+msgid "ONLY_APPLIES_FOR_YOUTUBE_SHORTS"
+msgstr "Only applies for YouTube Shorts"
+
 msgid "PARENT_FLIPNOTE"
 msgstr "Flipnote Parente"
 
@@ -907,6 +913,9 @@ msgstr "Notícias do Sudomemo"
 msgid "SUDOMEMO_PLUS"
 msgstr "Sudomemo Plus"
 
+msgid "SUDOMEMO_PLUS_FEATURE"
+msgstr "Sudomemo Plus feature"
+
 msgid "SUDOMEMO_SHOP"
 msgstr "Loja do Sudomemo"
 
@@ -998,6 +1007,9 @@ msgstr "Tokens de Suporte são usados para verificar a tua conta quando entras e
 
 msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
 msgstr "Configurar o teu canal de YouTube interligado, e definições de upload do Flipnote."
+
+msgid "USE_THIS_FRAME_FROM_NOW_ON"
+msgstr "Use this frame from now on"
 
 msgid "VERIFIED_USER"
 msgstr "Utilizador Verificado"
@@ -1164,6 +1176,12 @@ msgstr "A ligação ao teu canal está expirada. Por favor volte a ligar a tua c
 msgid "YOUTUBE_REFRESH_ACCOUNT"
 msgstr "Recarregar conta"
 
+msgid "YOUTUBE_SHORT"
+msgstr "YouTube Short"
+
+msgid "YOUTUBE_SHORT_TOGGLE"
+msgstr "Make it a YouTube Short?"
+
 msgid "YOUTUBE_STATUS_BEING_PROCESSED"
 msgstr "O teu upload está a ser processado."
 
@@ -1264,3 +1282,6 @@ msgstr "Ver agora:"
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "Estás a editar este Flipnote:"
+
+msgid "YT_LAYOUT_MAY_VARY"
+msgstr "Appearance and layout may vary depending on device used to view video"

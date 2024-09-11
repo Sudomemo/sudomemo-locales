@@ -168,6 +168,9 @@ msgstr "作者"
 msgid "CREATORS_ROOM"
 msgstr "マイルーム"
 
+msgid "CUSTOM_FRAMES"
+msgstr "Custom Frames"
+
 # November 29th, 2019 08:23:07
 # Used for Flipnote Details
 msgid "DATETIME_MONTH_DAY_ORDINAL_HOUR_MINUTE_SECOND_FORMAT"
@@ -645,6 +648,9 @@ msgstr "メールアドレスが見つかりません。スドメモのサポー
 msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
 msgstr "そのうごメモIDまたはメールアドレスで登録されているユーザーは見つかりませんでした"
 
+msgid "ONLY_APPLIES_FOR_YOUTUBE_SHORTS"
+msgstr "Only applies for YouTube Shorts"
+
 msgid "PARENT_FLIPNOTE"
 msgstr "原作"
 
@@ -907,6 +913,9 @@ msgstr "スドメモニュース"
 msgid "SUDOMEMO_PLUS"
 msgstr "スドメモプラス"
 
+msgid "SUDOMEMO_PLUS_FEATURE"
+msgstr "Sudomemo Plus feature"
+
 msgid "SUDOMEMO_SHOP"
 msgstr "スドメモショップ"
 
@@ -998,6 +1007,9 @@ msgstr "サポートトークンはスドメモサポートに連絡するとき
 
 msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
 msgstr "連携したYouTubeチャンネルとデフォルトの作品アップロード設定を行います。"
+
+msgid "USE_THIS_FRAME_FROM_NOW_ON"
+msgstr "Use this frame from now on"
 
 msgid "VERIFIED_USER"
 msgstr "確認済みユーザー"
@@ -1164,6 +1176,12 @@ msgstr "チャンネルとの連携が古くなっています。続行するに
 msgid "YOUTUBE_REFRESH_ACCOUNT"
 msgstr "アカウントを更新"
 
+msgid "YOUTUBE_SHORT"
+msgstr "YouTube Short"
+
+msgid "YOUTUBE_SHORT_TOGGLE"
+msgstr "Make it a YouTube Short?"
+
 msgid "YOUTUBE_STATUS_BEING_PROCESSED"
 msgstr "アップロードは現在処理中です。"
 
@@ -1264,3 +1282,6 @@ msgstr "今すぐ見る:"
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "編集中"
+
+msgid "YT_LAYOUT_MAY_VARY"
+msgstr "Appearance and layout may vary depending on device used to view video"
