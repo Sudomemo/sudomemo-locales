@@ -502,6 +502,9 @@ msgstr "Flipnote di tendenza"
 msgid "HOW_TO_UNLINK_DISCORD"
 msgstr "Per scollegare il tuo account Discord, digita questo comando nella chat: .sudo unlink"
 
+msgid "IMAGE_MUST_BE_1080X1920"
+msgstr "Image must be 1080x1920."
+
 msgid "INFO"
 msgstr "Info"
 
@@ -633,6 +636,9 @@ msgstr "Attiva/Disattiva navigazione"
 msgid "NEWS"
 msgstr "Notizie"
 
+msgid "NEW_FRAME"
+msgstr "New Frame"
+
 msgid "NEXT"
 msgstr "Successivo"
 
@@ -641,6 +647,9 @@ msgstr "Nintendo 3DS"
 
 msgid "NINTENDO_DSI"
 msgstr "Nintendo DSi"
+
+msgid "NONE"
+msgstr "None"
 
 msgid "NO_EMAIL_ON_FILE"
 msgstr "Nessun indirizzo email su file -- contatta il Supporto Sudomemo"
@@ -721,6 +730,12 @@ msgstr "Unlisted"
 
 msgid "PLAYLIST_VISIBILITY"
 msgstr "Visibility"
+
+msgid "PLEASE_SELECT_FRAME_OR_UPLOAD_CUSTOM_FRAME"
+msgstr "Please select a frame or upload a custom frame."
+
+msgid "PLEASE_UPLOAD_VALID_IMAGE_FILE"
+msgstr "Please upload a valid image file (PNG only)."
 
 msgid "PLUS_LEARN_MORE"
 msgstr "Scopri di più..."
@@ -864,6 +879,9 @@ msgstr "Condividi su Twitter"
 
 msgid "SHARE_ON_WHATSAPP"
 msgstr "Condividi su WhatsApp"
+
+msgid "SHORT_PREVIEW"
+msgstr "Short Preview"
 
 msgid "SHOW_ON_PROFILE"
 msgstr "Mostra sul profilo"
@@ -1285,21 +1303,3 @@ msgstr "Stai modificando questo Flipnote:"
 
 msgid "YT_LAYOUT_MAY_VARY"
 msgstr "Appearance and layout may vary depending on device used to view video"
-
-msgid "NEW_FRAME"
-msgstr "New Frame"
-
-msgid "NONE"
-msgstr "None"
-
-msgid "PLEASE_UPLOAD_VALID_IMAGE_FILE"
-msgstr "Please upload a valid image file (PNG only)."
-
-msgid "IMAGE_MUST_BE_1080X1920"
-msgstr "Image must be 1080x1920."
-
-msgid "PLEASE_SELECT_FRAME_OR_UPLOAD_CUSTOM_FRAME"
-msgstr "Please select a frame or upload a custom frame."
-
-msgid "SHORT_PREVIEW"
-msgstr "Short Preview"
