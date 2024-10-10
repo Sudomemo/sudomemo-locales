@@ -60,6 +60,24 @@ msgstr "Artista"
 msgid "BACK"
 msgstr "Regresar"
 
+msgid "BIO"
+msgstr "Bio"
+
+msgid "BIO_CLEARED"
+msgstr "Bio cleared."
+
+msgid "BIO_CONTAINS_INVALID_OR_PROHIBITED_TEXT"
+msgstr "Bio contains invalid or prohibited text."
+
+msgid "BIO_FIELD_MISSING"
+msgstr "Bio field is missing."
+
+msgid "BIO_PLACEHOLDER"
+msgstr "Enter your bio here..."
+
+msgid "BIO_UPDATED_SUCCESSFULLY"
+msgstr "Bio updated successfully."
+
 # Browse Channel
 msgid "BROWSE_CHANNEL_NO_FLIPNOTES_YET"
 msgstr "Aún no ha sido subida ninguna Flipnote en este canal."
@@ -1014,6 +1032,12 @@ msgstr "Flipnote de %s de Flipnote Hatena"
 msgid "USERS_PROFILE_FROM_FLIPNOTE_HATENA"
 msgstr "Perfil de %s de Flipnote Hatena"
 
+msgid "USER_NOT_LOGGED_IN"
+msgstr "User not logged in."
+
+msgid "USER_SETTINGS_BIO_EXPLANATION"
+msgstr "This is where you can update your bio."
+
 msgid "USER_SETTINGS_CHANGE_PASSWORD_EXPLANATION"
 msgstr "You can change the password for your Sudomemo account here:"
 
@@ -1303,26 +1327,3 @@ msgstr "Estás editando esta Flipnote:"
 
 msgid "YT_LAYOUT_MAY_VARY"
 msgstr "Appearance and layout may vary depending on device used to view video"
-msgid "BIO"
-msgstr "Bio"
-
-msgid "USER_SETTINGS_BIO_EXPLANATION"
-msgstr "This is where you can update your bio."
-
-msgid "BIO_PLACEHOLDER"
-msgstr "Enter your bio here..."
-
-msgid "BIO_FIELD_MISSING"
-msgstr "Bio field is missing."
-
-msgid "USER_NOT_LOGGED_IN"
-msgstr "User not logged in."
-
-msgid "BIO_CLEARED"
-msgstr "Bio cleared."
-
-msgid "BIO_CONTAINS_INVALID_OR_PROHIBITED_TEXT"
-msgstr "Bio contains invalid or prohibited text."
-
-msgid "BIO_UPDATED_SUCCESSFULLY"
-msgstr "Bio updated successfully."
