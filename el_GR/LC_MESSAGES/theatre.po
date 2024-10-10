@@ -1303,3 +1303,26 @@ msgstr "Επεξεργαζεστε αυτο το Flipnote:"
 
 msgid "YT_LAYOUT_MAY_VARY"
 msgstr "Appearance and layout may vary depending on device used to view video"
+msgid "BIO"
+msgstr "Bio"
+
+msgid "USER_SETTINGS_BIO_EXPLANATION"
+msgstr "This is where you can update your bio."
+
+msgid "BIO_PLACEHOLDER"
+msgstr "Enter your bio here..."
+
+msgid "BIO_FIELD_MISSING"
+msgstr "Bio field is missing."
+
+msgid "USER_NOT_LOGGED_IN"
+msgstr "User not logged in."
+
+msgid "BIO_CLEARED"
+msgstr "Bio cleared."
+
+msgid "BIO_CONTAINS_INVALID_OR_PROHIBITED_TEXT"
+msgstr "Bio contains invalid or prohibited text."
+
+msgid "BIO_UPDATED_SUCCESSFULLY"
+msgstr "Bio updated successfully."
