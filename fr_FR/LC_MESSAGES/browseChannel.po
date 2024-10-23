@@ -15,8 +15,20 @@ msgstr "Naviguer par chanson"
 msgid "BROWSE_PLAYLIST"
 msgstr "Parcourir la playlist"
 
+msgid "LEAST_VIEWED"
+msgstr "Moins vu"
+
+msgid "MOST_RECENT"
+msgstr "Plus récent"
+
+msgid "MOST_VIEWED"
+msgstr "Plus vu"
+
 msgid "NEXT"
 msgstr "Suivant"
+
+msgid "OLDEST"
+msgstr "Plus vieux"
 
 msgid "PAGE"
 msgstr "Page"
