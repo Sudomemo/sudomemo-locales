@@ -1,17 +1,17 @@
 msgid "HOW_TO_POST"
-msgstr "Comment Soumettre"
+msgstr "Comment poster une Flipnote"
 
 msgid "STEP_1_LOGIN"
-msgstr "Depuis le menu principal, touchez \"Salle de créateurs\" et vous connectez."
+msgstr "Depuis le menu principal, touchez \"Salle de créateur\" et connectez-vous."
 
 msgid "STEP_2_NAVIGATE_CHANNELS"
-msgstr "Go back to the main menu and select \"Channels.\""
+msgstr "Retournez au menu principal et sélectionnez \"Chaînes\"."
 
 msgid "STEP_3_SELECT_CHANNEL"
-msgstr "Choose the channel that fits your Flipnote's theme."
+msgstr "Choisissez une chaîne qui correspond au thème de votre Flipnote."
 
 msgid "STEP_4_UPLOAD_FLIPNOTE"
-msgstr "Tap \"Post Flipnote\" at the bottom right. Select your Flipnote. Lock it (no spin-offs) or leave it unlocked (allows spin-offs)."
+msgstr "Touchez \"Poster une Flipnote\", situé dans le coin inférieur droit. Sélectionnez votre Flipnote. Verrouillez-le (pas de spin-offs) ou laissez-le déverrouillé (permet les spin-offs)."
 
 msgid "STEP_5_FINISH_SHARE"
-msgstr "Confirm your upload. Your Flipnote is now shared on Sudomemo!"
+msgstr "Confirmez le téléversement. Votre Flipnote est maintenant sur Sudomemo !"
