@@ -60,6 +60,9 @@ msgstr "作品検索"
 msgid "SEARCH_USER"
 msgstr "ユーザー検索"
 
+msgid "SUDOQUEST_REQUIEM"
+msgstr "@SudoQuest: Requiem"
+
 msgid "TEST_TRANSLATION"
 msgstr "日本語翻訳"
 
@@ -68,6 +71,3 @@ msgstr "テーマショップ"
 
 msgid "WATCH_FLIPNOTES"
 msgstr "みんなの作品"
-
-msgid "SUDOQUEST_REQUIEM"
-msgstr "@SudoQuest: Requiem"

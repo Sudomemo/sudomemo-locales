@@ -60,6 +60,9 @@ msgstr "Chwiliwch Flipnote"
 msgid "SEARCH_USER"
 msgstr "Chwiliwch Defnyddiwr"
 
+msgid "SUDOQUEST_REQUIEM"
+msgstr "@SudoQuest: Requiem"
+
 msgid "TEST_TRANSLATION"
 msgstr "Cyfieithu Saesneg"
 
@@ -68,6 +71,3 @@ msgstr "Siop Thema"
 
 msgid "WATCH_FLIPNOTES"
 msgstr "Gwylio Flipnotes"
-
-msgid "SUDOQUEST_REQUIEM"
-msgstr "@SudoQuest: Requiem"
