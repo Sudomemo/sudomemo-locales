@@ -60,6 +60,9 @@ msgstr "Recherche de Flipnote"
 msgid "SEARCH_USER"
 msgstr "Recherche d'utilisateur"
 
+msgid "SUDOQUEST_REQUIEM"
+msgstr "@SudoQuest: Requiem"
+
 msgid "TEST_TRANSLATION"
 msgstr "Traduction en Anglais"
 
@@ -68,6 +71,3 @@ msgstr "@Boutique de thèmes"
 
 msgid "WATCH_FLIPNOTES"
 msgstr "@Toutes les Flipnotes"
-
-msgid "SUDOQUEST_REQUIEM"
-msgstr "@SudoQuest: Requiem"
