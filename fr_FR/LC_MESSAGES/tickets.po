@@ -210,6 +210,9 @@ msgstr "Merci de suivre Sudomemo sur Instagram !"
 msgid "TICKET_DESC_love_anniversary_ticket"
 msgstr "Joyeux anniversaire mon "
 
+msgid "TICKET_DESC_merch_ticket"
+msgstr "Merci d'avoir acheté de la marchandise de Sudomemo !"
+
 msgid "TICKET_DESC_neighborhood_watch_ticket"
 msgstr "Merci d'avoir aidé à maintenir Sudomemo comme un endroit sûr et accueillant !"
 
@@ -342,6 +345,9 @@ msgstr "Ticket Promo Instagram"
 
 msgid "TICKET_NAME_love_anniversary_ticket"
 msgstr "Ticket de célébration"
+
+msgid "TICKET_NAME_merch_ticket"
+msgstr "Ticket de marchandise"
 
 msgid "TICKET_NAME_neighborhood_watch_ticket"
 msgstr "Ticket de surveillance de quartier"
