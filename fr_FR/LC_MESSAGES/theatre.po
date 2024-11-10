@@ -64,19 +64,19 @@ msgid "BIO"
 msgstr "Bio"
 
 msgid "BIO_CLEARED"
-msgstr "Bio cleared."
+msgstr "Bio effacée."
 
 msgid "BIO_CONTAINS_INVALID_OR_PROHIBITED_TEXT"
-msgstr "Bio contains invalid or prohibited text."
+msgstr "La bio contient du texte invalide ou interdit."
 
 msgid "BIO_FIELD_MISSING"
-msgstr "Bio field is missing."
+msgstr "Le champ bio est manquant."
 
 msgid "BIO_PLACEHOLDER"
-msgstr "Enter your bio here..."
+msgstr "Entrez votre bio ici..."
 
 msgid "BIO_UPDATED_SUCCESSFULLY"
-msgstr "Bio updated successfully."
+msgstr "Bio mise à jour avec succès."
 
 # Browse Channel
 msgid "BROWSE_CHANNEL_NO_FLIPNOTES_YET"
@@ -187,7 +187,7 @@ msgid "CREATORS_ROOM"
 msgstr "Salle de créateur"
 
 msgid "CUSTOM_FRAMES"
-msgstr "Custom Frames"
+msgstr "Cadres personnalisés"
 
 # November 29th, 2019 08:23:07
 # Used for Flipnote Details
@@ -521,7 +521,7 @@ msgid "HOW_TO_UNLINK_DISCORD"
 msgstr "Pour dissocier votre compte Discord, tapez cette commande dans le salon de discussion : .sudo unlink"
 
 msgid "IMAGE_MUST_BE_1080X1920"
-msgstr "Image must be 1080x1920."
+msgstr "L'image doit être 1080x1920."
 
 msgid "INFO"
 msgstr "Infos"
@@ -556,7 +556,7 @@ msgid "MANAGE_PLAYLIST"
 msgstr "Gérer la playlist"
 
 msgid "MERCH"
-msgstr "Merch"
+msgstr "Marchandise"
 
 msgid "MODERATOR"
 msgstr "Modérateur"
@@ -658,7 +658,7 @@ msgid "NEWS"
 msgstr "Infos"
 
 msgid "NEW_FRAME"
-msgstr "New Frame"
+msgstr "Nouveau cadre"
 
 msgid "NEXT"
 msgstr "Suivant"
@@ -670,7 +670,7 @@ msgid "NINTENDO_DSI"
 msgstr "Nintendo DSi"
 
 msgid "NONE"
-msgstr "None"
+msgstr "Rien"
 
 msgid "NO_EMAIL_ON_FILE"
 msgstr "Pas d'adresse email enregistrée -- contactez le support de Sudomemo"
@@ -679,10 +679,10 @@ msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
 msgstr "Aucun utilisateur trouvé avec cet ID Flipnote Studio ou cet e-mail"
 
 msgid "ONLY_APPLIES_FOR_YOUTUBE_SHORTS"
-msgstr "Only applies for YouTube Shorts"
+msgstr "S'applique seulement pout les YouTube Shorts"
 
 msgid "PARENT_FLIPNOTE"
-msgstr "Flipnote parente"
+msgstr "Flipnote parent"
 
 msgid "PASSWORD_RESET_SENT"
 msgstr "Une réinitialisation de mot de passe a été envoyée à l'adresse email enregistrée."
@@ -753,10 +753,10 @@ msgid "PLAYLIST_VISIBILITY"
 msgstr "Visibilité"
 
 msgid "PLEASE_SELECT_FRAME_OR_UPLOAD_CUSTOM_FRAME"
-msgstr "Please select a frame or upload a custom frame."
+msgstr "Veuillez s'il vous plaît sélectionner un cadre ou téléverser votre cadre."
 
 msgid "PLEASE_UPLOAD_VALID_IMAGE_FILE"
-msgstr "Please upload a valid image file (PNG only)."
+msgstr "Veuillez téléverser un fichier d'image valide (PNG seulement)."
 
 msgid "PLUS_LEARN_MORE"
 msgstr "Plus d'infos..."
@@ -804,10 +804,10 @@ msgid "RANK"
 msgstr "Rang"
 
 msgid "RANK_IMPROVED"
-msgstr "Rank Improved"
+msgstr "Rang amélioré"
 
 msgid "RANK_UNCHANGED"
-msgstr "Rank Unchanged"
+msgstr "Rang sans changement"
 
 msgid "RECENT"
 msgstr "Récent"
@@ -902,10 +902,10 @@ msgid "SHARE_ON_WHATSAPP"
 msgstr "Partager via WhatsApp"
 
 msgid "SHOP_NOW"
-msgstr "Shop Now"
+msgstr "Achetez maintenant"
 
 msgid "SHORT_PREVIEW"
-msgstr "Short Preview"
+msgstr "Visualiser le Short"
 
 msgid "SHOW_ON_PROFILE"
 msgstr "Afficher sur le profil"
@@ -914,7 +914,7 @@ msgid "SHOW_YOUTUBE_LINK_ON_MY_PROFILE"
 msgstr "Afficher un lien vers ma chaîne YouTube sur mon profil Sudomemo"
 
 msgid "SIGNIFICANT_DECLINE"
-msgstr "Significant Decline"
+msgstr "Déclin Significatif"
 
 msgid "SIGN_IN"
 msgstr "Se connecter"
@@ -926,7 +926,7 @@ msgid "SIGN_UP"
 msgstr "S'inscrire"
 
 msgid "SLIGHT_DECLINE"
-msgstr "Slight Decline"
+msgstr "Déclin Léger"
 
 # For MusicMatch
 msgid "SONG"
@@ -956,7 +956,7 @@ msgid "SUDOMEMO_PLUS"
 msgstr "Sudomemo Plus"
 
 msgid "SUDOMEMO_PLUS_FEATURE"
-msgstr "Sudomemo Plus feature"
+msgstr "Fonctionnalité Sudomemo Plus"
 
 msgid "SUDOMEMO_SHOP"
 msgstr "Boutique Sudomemo"
@@ -1039,10 +1039,10 @@ msgid "USERS_PROFILE_FROM_FLIPNOTE_HATENA"
 msgstr "Profil de %s de Flipnote Hatena"
 
 msgid "USER_NOT_LOGGED_IN"
-msgstr "User not logged in."
+msgstr "Utilisateur non connecté."
 
 msgid "USER_SETTINGS_BIO_EXPLANATION"
-msgstr "This is where you can update your bio."
+msgstr "C’est ici que vous pouvez mettre à jour votre bio."
 
 msgid "USER_SETTINGS_CHANGE_PASSWORD_EXPLANATION"
 msgstr "Vous pouvez modifier le mot de passe de votre compte Sudomemo ici :"
@@ -1057,7 +1057,7 @@ msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
 msgstr "Configurez votre chaîne YouTube liée et vos paramètres d'envoi de Flipnote par défaut."
 
 msgid "USE_THIS_FRAME_FROM_NOW_ON"
-msgstr "Use this frame from now on"
+msgstr "Utiliser ce cadre dès maintenant"
 
 msgid "VERIFIED_USER"
 msgstr "Utilisateur verifié"
@@ -1228,7 +1228,7 @@ msgid "YOUTUBE_SHORT"
 msgstr "YouTube Short"
 
 msgid "YOUTUBE_SHORT_TOGGLE"
-msgstr "Make it a YouTube Short?"
+msgstr "Le rendre en YouTube Short?"
 
 msgid "YOUTUBE_STATUS_BEING_PROCESSED"
 msgstr "Votre envoi est en cours de traitement."
@@ -1332,4 +1332,4 @@ msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "Vous éditez cette Flipnote :"
 
 msgid "YT_LAYOUT_MAY_VARY"
-msgstr "Appearance and layout may vary depending on device used to view video"
+msgstr "L’apparence et la disposition peuvent varier en fonction de l’appareil utilisé pour visionner la vidéo"
