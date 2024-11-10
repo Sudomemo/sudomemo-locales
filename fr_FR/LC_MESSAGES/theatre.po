@@ -555,6 +555,9 @@ msgstr "Selectionnez votre appareil"
 msgid "MANAGE_PLAYLIST"
 msgstr "Gérer la playlist"
 
+msgid "MERCH"
+msgstr "Marchandise"
+
 msgid "MODERATOR"
 msgstr "Modérateur"
 
@@ -1330,6 +1333,3 @@ msgstr "Vous éditez cette Flipnote :"
 
 msgid "YT_LAYOUT_MAY_VARY"
 msgstr "L’apparence et la disposition peuvent varier en fonction de l’appareil utilisé pour visionner la vidéo"
-
-msgid "MERCH"
-msgstr "Marchandise"
