@@ -44,6 +44,9 @@ msgstr "サービス開始から1か月以内にスドメモに参加する"
 msgid "TROPHY_DESC_fall_2023_ffc_winner"
 msgstr "One of the winners of the Fall 2023 Sudomemo Flipnote Fight Competition!"
 
+msgid "TROPHY_DESC_fall_2024_ffc_winner"
+msgstr "One of the winners of the Fall 2024 Sudomemo Flipnote Fight Competition!"
+
 msgid "TROPHY_DESC_fate_2024_winner"
 msgstr "Submitted a winning Flipnote to FATE 2024"
 
@@ -82,6 +85,9 @@ msgstr "彼は欠点に対して大胆だけれど、それでもあなたの一
 
 msgid "TROPHY_DESC_meet_ziggy_starburst"
 msgstr "日々の生活にちょっとした工夫を加えて生きている。"
+
+msgid "TROPHY_DESC_merch"
+msgstr "Owner of some Sudomemo swag — you're officially part of the cool crew."
 
 msgid "TROPHY_DESC_neighborhood_watch"
 msgstr "ポリシーに違反するコンテンツを適切に報告する"
@@ -159,6 +165,9 @@ msgstr "古参者"
 msgid "TROPHY_NAME_fall_2023_ffc_winner"
 msgstr "Fall 2023 Sudomemo Flipnote Fight Competition Winner"
 
+msgid "TROPHY_NAME_fall_2024_ffc_winner"
+msgstr "Fall 2024 Sudomemo Flipnote Fight Competition Winner"
+
 msgid "TROPHY_NAME_fate_2024_winner"
 msgstr "FATE 2024 Winner"
 
@@ -197,6 +206,9 @@ msgstr "ラッセル・ランブルウッドに会う"
 
 msgid "TROPHY_NAME_meet_ziggy_starburst"
 msgstr "ジギー・スターバーストに会う"
+
+msgid "TROPHY_NAME_merch"
+msgstr "Merch Owner"
 
 msgid "TROPHY_NAME_neighborhood_watch"
 msgstr "自警団"

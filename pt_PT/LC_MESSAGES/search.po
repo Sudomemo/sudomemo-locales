@@ -3,6 +3,9 @@ msgstr ""
 "Language: pt_PT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "CHANNEL"
+msgstr "Channel"
+
 msgid "HEADER_NEXT"
 msgstr "Próximo"
 
@@ -35,6 +38,12 @@ msgstr "%1$d resultado encontrado por \"%2$s\""
 
 msgid "SEARCH"
 msgstr "Procurar"
+
+msgid "SEARCH_CHANNELS"
+msgstr "Channels"
+
+msgid "SEARCH_FOR"
+msgstr "Search for..."
 
 msgid "SEARCH_MUSICMATCH"
 msgstr "MusicMatch"

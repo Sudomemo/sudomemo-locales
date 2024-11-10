@@ -179,6 +179,9 @@ msgstr "Obviamente, isto é um bilhete de amostra."
 msgid "TICKET_DESC_fall_2023_ffc_winner_ticket"
 msgstr "Parabéns a ti, o vencedor da Competição Flipnote Flight do Sudomemo de Outono 2023!"
 
+msgid "TICKET_DESC_fall_2024_ffc_winner_ticket"
+msgstr "Congratulations on your winning entry to the Fall 2024 Sudomemo Flipnote Fight Competition!"
+
 msgid "TICKET_DESC_fate_2024_winner_ticket"
 msgstr "Congratulations on your winning FATE 2024 submission!"
 
@@ -209,6 +212,9 @@ msgstr "Obrigado por seguires a Página do Instagram do Sudomemo!"
 # The last character of this message is the DSi symbol for a heart. Don't remove it.
 msgid "TICKET_DESC_love_anniversary_ticket"
 msgstr "Feliz Aniversário no Sudomemo "
+
+msgid "TICKET_DESC_merch_ticket"
+msgstr "Thank you for purchasing Sudomemo merchandise!"
 
 msgid "TICKET_DESC_neighborhood_watch_ticket"
 msgstr "Obrigado por ajudar a manter o Sudomemo um lugar seguro e acolhedor!"
@@ -313,6 +319,9 @@ msgstr "Bilhete de Amostra"
 msgid "TICKET_NAME_fall_2023_ffc_winner_ticket"
 msgstr "Bilhete de Vencedor da C.F.F. Sudomemo Outono 2023"
 
+msgid "TICKET_NAME_fall_2024_ffc_winner_ticket"
+msgstr "Fall 2024 Sudomemo F.F.C. Winner Ticket"
+
 msgid "TICKET_NAME_fate_2024_winner_ticket"
 msgstr "FATE 2024 Winner Ticket"
 
@@ -342,6 +351,9 @@ msgstr "Bilhete de Promoção do Instagram"
 
 msgid "TICKET_NAME_love_anniversary_ticket"
 msgstr "Bilhete de Aniversário Sudomemo"
+
+msgid "TICKET_NAME_merch_ticket"
+msgstr "Merch Ticket"
 
 msgid "TICKET_NAME_neighborhood_watch_ticket"
 msgstr "Bilhete de Mini Moderador"

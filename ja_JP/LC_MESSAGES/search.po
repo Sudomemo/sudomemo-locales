@@ -3,6 +3,9 @@ msgstr ""
 "Language: ja_JP\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "CHANNEL"
+msgstr "Channel"
+
 msgid "HEADER_NEXT"
 msgstr "次へ"
 
@@ -35,6 +38,12 @@ msgstr "\"%2$s\"で%1$d件見つかりました"
 
 msgid "SEARCH"
 msgstr "検索"
+
+msgid "SEARCH_CHANNELS"
+msgstr "Channels"
+
+msgid "SEARCH_FOR"
+msgstr "Search for..."
 
 msgid "SEARCH_MUSICMATCH"
 msgstr "MusicMatch"

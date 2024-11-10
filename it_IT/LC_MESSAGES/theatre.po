@@ -60,6 +60,24 @@ msgstr "Artista"
 msgid "BACK"
 msgstr "Indietro"
 
+msgid "BIO"
+msgstr "Bio"
+
+msgid "BIO_CLEARED"
+msgstr "Bio cleared."
+
+msgid "BIO_CONTAINS_INVALID_OR_PROHIBITED_TEXT"
+msgstr "Bio contains invalid or prohibited text."
+
+msgid "BIO_FIELD_MISSING"
+msgstr "Bio field is missing."
+
+msgid "BIO_PLACEHOLDER"
+msgstr "Enter your bio here..."
+
+msgid "BIO_UPDATED_SUCCESSFULLY"
+msgstr "Bio updated successfully."
+
 # Browse Channel
 msgid "BROWSE_CHANNEL_NO_FLIPNOTES_YET"
 msgstr "Non ci sono ancora Flipnote pubblicati su questo canale."
@@ -167,6 +185,9 @@ msgstr "Creatori"
 
 msgid "CREATORS_ROOM"
 msgstr "Stanza Creatore"
+
+msgid "CUSTOM_FRAMES"
+msgstr "Custom Frames"
 
 # November 29th, 2019 08:23:07
 # Used for Flipnote Details
@@ -499,6 +520,9 @@ msgstr "Flipnote di tendenza"
 msgid "HOW_TO_UNLINK_DISCORD"
 msgstr "Per scollegare il tuo account Discord, digita questo comando nella chat: .sudo unlink"
 
+msgid "IMAGE_MUST_BE_1080X1920"
+msgstr "Image must be 1080x1920."
+
 msgid "INFO"
 msgstr "Info"
 
@@ -530,6 +554,9 @@ msgstr "Seleziona il tuo dispositivo"
 
 msgid "MANAGE_PLAYLIST"
 msgstr "Manage Playlist"
+
+msgid "MERCH"
+msgstr "Merch"
 
 msgid "MODERATOR"
 msgstr "Moderatore"
@@ -630,6 +657,9 @@ msgstr "Attiva/Disattiva navigazione"
 msgid "NEWS"
 msgstr "Notizie"
 
+msgid "NEW_FRAME"
+msgstr "New Frame"
+
 msgid "NEXT"
 msgstr "Successivo"
 
@@ -639,11 +669,17 @@ msgstr "Nintendo 3DS"
 msgid "NINTENDO_DSI"
 msgstr "Nintendo DSi"
 
+msgid "NONE"
+msgstr "None"
+
 msgid "NO_EMAIL_ON_FILE"
 msgstr "Nessun indirizzo email su file -- contatta il Supporto Sudomemo"
 
 msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
 msgstr "Nessun utente trovato con questo ID Flipnote Studio o indirizzo email"
+
+msgid "ONLY_APPLIES_FOR_YOUTUBE_SHORTS"
+msgstr "Only applies for YouTube Shorts"
 
 msgid "PARENT_FLIPNOTE"
 msgstr "Flipnote parente"
@@ -716,6 +752,12 @@ msgstr "Unlisted"
 msgid "PLAYLIST_VISIBILITY"
 msgstr "Visibility"
 
+msgid "PLEASE_SELECT_FRAME_OR_UPLOAD_CUSTOM_FRAME"
+msgstr "Please select a frame or upload a custom frame."
+
+msgid "PLEASE_UPLOAD_VALID_IMAGE_FILE"
+msgstr "Please upload a valid image file (PNG only)."
+
 msgid "PLUS_LEARN_MORE"
 msgstr "Scopri di più..."
 
@@ -760,6 +802,12 @@ msgstr "Flipnote casuali"
 
 msgid "RANK"
 msgstr "Posizione"
+
+msgid "RANK_IMPROVED"
+msgstr "Rank Improved"
+
+msgid "RANK_UNCHANGED"
+msgstr "Rank Unchanged"
 
 msgid "RECENT"
 msgstr "Recente"
@@ -853,11 +901,20 @@ msgstr "Condividi su Twitter"
 msgid "SHARE_ON_WHATSAPP"
 msgstr "Condividi su WhatsApp"
 
+msgid "SHOP_NOW"
+msgstr "Shop Now"
+
+msgid "SHORT_PREVIEW"
+msgstr "Short Preview"
+
 msgid "SHOW_ON_PROFILE"
 msgstr "Mostra sul profilo"
 
 msgid "SHOW_YOUTUBE_LINK_ON_MY_PROFILE"
 msgstr "Mostra un link al mio canale YouTube sul mio profilo Sudomemo"
+
+msgid "SIGNIFICANT_DECLINE"
+msgstr "Significant Decline"
 
 msgid "SIGN_IN"
 msgstr "Accedi"
@@ -867,6 +924,9 @@ msgstr "Disconnettiti"
 
 msgid "SIGN_UP"
 msgstr "Registrati"
+
+msgid "SLIGHT_DECLINE"
+msgstr "Slight Decline"
 
 # For MusicMatch
 msgid "SONG"
@@ -894,6 +954,9 @@ msgstr "Notizie Sudomemo"
 
 msgid "SUDOMEMO_PLUS"
 msgstr "Sudomemo Plus"
+
+msgid "SUDOMEMO_PLUS_FEATURE"
+msgstr "Sudomemo Plus feature"
 
 msgid "SUDOMEMO_SHOP"
 msgstr "Negozio Sudomemo"
@@ -975,6 +1038,12 @@ msgstr "Flipnote di %s da Flipnote Hatena"
 msgid "USERS_PROFILE_FROM_FLIPNOTE_HATENA"
 msgstr "Profilo di %s da Flipnote Hatena"
 
+msgid "USER_NOT_LOGGED_IN"
+msgstr "User not logged in."
+
+msgid "USER_SETTINGS_BIO_EXPLANATION"
+msgstr "This is where you can update your bio."
+
 msgid "USER_SETTINGS_CHANGE_PASSWORD_EXPLANATION"
 msgstr "Puoi modificare la password del tuo account Sudomemo qui:"
 
@@ -986,6 +1055,9 @@ msgstr "I token di supporto vengono utilizzati per verificare il tuo account qua
 
 msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
 msgstr "Configura il tuo canale Youtube collegato e le impostazioni di default del caricamento dei Flipnote."
+
+msgid "USE_THIS_FRAME_FROM_NOW_ON"
+msgstr "Use this frame from now on"
 
 msgid "VERIFIED_USER"
 msgstr "Utente verificato"
@@ -1152,6 +1224,12 @@ msgstr "La connessione con il tuo canale è scaduta. Riconnettilo."
 msgid "YOUTUBE_REFRESH_ACCOUNT"
 msgstr "Ricarica account"
 
+msgid "YOUTUBE_SHORT"
+msgstr "YouTube Short"
+
+msgid "YOUTUBE_SHORT_TOGGLE"
+msgstr "Make it a YouTube Short?"
+
 msgid "YOUTUBE_STATUS_BEING_PROCESSED"
 msgstr "Il tuo caricamento è in elaborazione."
 
@@ -1252,3 +1330,6 @@ msgstr "Guarda ora:"
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "Stai modificando questo Flipnote:"
+
+msgid "YT_LAYOUT_MAY_VARY"
+msgstr "Appearance and layout may vary depending on device used to view video"

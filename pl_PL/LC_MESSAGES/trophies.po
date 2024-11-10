@@ -44,6 +44,9 @@ msgstr "Dolacz do Sudomemo podczas pierwszego miesiaca jego istnienia"
 msgid "TROPHY_DESC_fall_2023_ffc_winner"
 msgstr "One of the winners of the Fall 2023 Sudomemo Flipnote Fight Competition!"
 
+msgid "TROPHY_DESC_fall_2024_ffc_winner"
+msgstr "One of the winners of the Fall 2024 Sudomemo Flipnote Fight Competition!"
+
 msgid "TROPHY_DESC_fate_2024_winner"
 msgstr "Submitted a winning Flipnote to FATE 2024"
 
@@ -82,6 +85,9 @@ msgstr "Pozornie moze sie wydawac dosc niemily, ale zawsze przejmuje sie jak min
 
 msgid "TROPHY_DESC_meet_ziggy_starburst"
 msgstr "Zyje skromnie, lecz z klasa."
+
+msgid "TROPHY_DESC_merch"
+msgstr "Owner of some Sudomemo swag — you're officially part of the cool crew."
 
 msgid "TROPHY_DESC_neighborhood_watch"
 msgstr "Prawidlowo zglos naruszenie zasad dot. twórczosci Sudomemo"
@@ -159,6 +165,9 @@ msgstr "Wczesny uzytkownik"
 msgid "TROPHY_NAME_fall_2023_ffc_winner"
 msgstr "Fall 2023 Sudomemo Flipnote Fight Competition Winner"
 
+msgid "TROPHY_NAME_fall_2024_ffc_winner"
+msgstr "Fall 2024 Sudomemo Flipnote Fight Competition Winner"
+
 msgid "TROPHY_NAME_fate_2024_winner"
 msgstr "FATE 2024 Winner"
 
@@ -197,6 +206,9 @@ msgstr "Spotkaj Russell Ramblewood"
 
 msgid "TROPHY_NAME_meet_ziggy_starburst"
 msgstr "Spotkaj Ziggy Starburst"
+
+msgid "TROPHY_NAME_merch"
+msgstr "Merch Owner"
 
 msgid "TROPHY_NAME_neighborhood_watch"
 msgstr "Czujny patrolowiec"

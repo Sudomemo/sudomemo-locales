@@ -9,8 +9,20 @@ msgstr "%s's favs! :D"
 msgid "FLIPNOTES_BY_FORMAT"
 msgstr "Flipmeme by %s"
 
+msgid "LEAST_VIEWED"
+msgstr "Least Viewed"
+
+msgid "MOST_RECENT"
+msgstr "Recent"
+
+msgid "MOST_VIEWED"
+msgstr "Most Viewed"
+
 msgid "NEXT"
 msgstr "weee"
+
+msgid "OLDEST"
+msgstr "Oldest"
 
 msgid "PAGE"
 msgstr "Page"

@@ -44,6 +44,9 @@ msgstr "Ist Sudomemo während des ersten Monats beigetreten"
 msgid "TROPHY_DESC_fall_2023_ffc_winner"
 msgstr "One of the winners of the Fall 2023 Sudomemo Flipnote Fight Competition!"
 
+msgid "TROPHY_DESC_fall_2024_ffc_winner"
+msgstr "One of the winners of the Fall 2024 Sudomemo Flipnote Fight Competition!"
+
 msgid "TROPHY_DESC_fate_2024_winner"
 msgstr "Submitted a winning Flipnote to FATE 2024"
 
@@ -82,6 +85,9 @@ msgstr "Er mag übermäßig großspurig sein, dennoch will er über deinen Tag h
 
 msgid "TROPHY_DESC_meet_ziggy_starburst"
 msgstr "Lebt sein Leben Tag für Tag mit einem bisschen zusätzlichen Flair."
+
+msgid "TROPHY_DESC_merch"
+msgstr "Owner of some Sudomemo swag — you're officially part of the cool crew."
 
 msgid "TROPHY_DESC_neighborhood_watch"
 msgstr "Hat Inhalte gemeldet, die gegen unsere Richtlinien verstoßen"
@@ -159,6 +165,9 @@ msgstr "Früher Nutzer"
 msgid "TROPHY_NAME_fall_2023_ffc_winner"
 msgstr "Fall 2023 Sudomemo Flipnote Fight Competition Winner"
 
+msgid "TROPHY_NAME_fall_2024_ffc_winner"
+msgstr "Fall 2024 Sudomemo Flipnote Fight Competition Winner"
+
 msgid "TROPHY_NAME_fate_2024_winner"
 msgstr "FATE 2024 Winner"
 
@@ -197,6 +206,9 @@ msgstr "Hat Russell Ramblewood getroffen"
 
 msgid "TROPHY_NAME_meet_ziggy_starburst"
 msgstr "Hat Ziggy Starburst getroffen"
+
+msgid "TROPHY_NAME_merch"
+msgstr "Merch Owner"
 
 msgid "TROPHY_NAME_neighborhood_watch"
 msgstr "Nachbarschaftswache"

@@ -44,6 +44,9 @@ msgstr "Juntaste-te ao Sudomemo durante o nosso primeiro mês de serviço"
 msgid "TROPHY_DESC_fall_2023_ffc_winner"
 msgstr "Um dos vencedores da Competição Flipnote Flight do Sudomemo de Outono 2023!"
 
+msgid "TROPHY_DESC_fall_2024_ffc_winner"
+msgstr "One of the winners of the Fall 2024 Sudomemo Flipnote Fight Competition!"
+
 msgid "TROPHY_DESC_fate_2024_winner"
 msgstr "Submitted a winning Flipnote to FATE 2024"
 
@@ -82,6 +85,9 @@ msgstr "Ele e extravagante por defeito, mas ele ainda quer saber do teu dia."
 
 msgid "TROPHY_DESC_meet_ziggy_starburst"
 msgstr "A viver a vida dele, dia a dia, com um toque extra de talento."
+
+msgid "TROPHY_DESC_merch"
+msgstr "Owner of some Sudomemo swag — you're officially part of the cool crew."
 
 msgid "TROPHY_DESC_neighborhood_watch"
 msgstr "Reportar conteúdo que viola a nossa Política de Conteúdo correctamente"
@@ -159,6 +165,9 @@ msgstr "Primeiro Adoptante"
 msgid "TROPHY_NAME_fall_2023_ffc_winner"
 msgstr "Vencedor da Competição Flipnote Fight do Sudomemo Outono 2023"
 
+msgid "TROPHY_NAME_fall_2024_ffc_winner"
+msgstr "Fall 2024 Sudomemo Flipnote Fight Competition Winner"
+
 msgid "TROPHY_NAME_fate_2024_winner"
 msgstr "FATE 2024 Winner"
 
@@ -197,6 +206,9 @@ msgstr "Conhecer o Russell Ramblewood"
 
 msgid "TROPHY_NAME_meet_ziggy_starburst"
 msgstr "Conhecer o Ziggy Starburst"
+
+msgid "TROPHY_NAME_merch"
+msgstr "Merch Owner"
 
 msgid "TROPHY_NAME_neighborhood_watch"
 msgstr "Mini Moderador"
