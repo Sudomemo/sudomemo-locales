@@ -213,6 +213,9 @@ msgstr "Ευχαριστουμε που ακολουθησατε το Sudomemo I
 msgid "TICKET_DESC_love_anniversary_ticket"
 msgstr "Χρονια Πολλα "
 
+msgid "TICKET_DESC_merch_ticket"
+msgstr "Thank you for purchasing Sudomemo merchandise!"
+
 msgid "TICKET_DESC_neighborhood_watch_ticket"
 msgstr "Ευχαριστουμε για την βοηθεια να παραμενει το Sudomemo ενας ασφαλης τοπος!"
 
@@ -348,6 +351,9 @@ msgstr "Instagram Promo Ticket"
 
 msgid "TICKET_NAME_love_anniversary_ticket"
 msgstr "Λαχνος επετειου"
+
+msgid "TICKET_NAME_merch_ticket"
+msgstr "Merch Ticket"
 
 msgid "TICKET_NAME_neighborhood_watch_ticket"
 msgstr "Neighborhood Watch Ticket"

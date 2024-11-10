@@ -213,6 +213,9 @@ msgstr "スドメモのInstagramをフォローしていただきありがとう
 msgid "TICKET_DESC_love_anniversary_ticket"
 msgstr "記念おめでとう "
 
+msgid "TICKET_DESC_merch_ticket"
+msgstr "Thank you for purchasing Sudomemo merchandise!"
+
 msgid "TICKET_DESC_neighborhood_watch_ticket"
 msgstr "スドメモの快適さを保つのを助けてくれてありがとう！"
 
@@ -348,6 +351,9 @@ msgstr "Instagramプロモチケット"
 
 msgid "TICKET_NAME_love_anniversary_ticket"
 msgstr "記念日チケット"
+
+msgid "TICKET_NAME_merch_ticket"
+msgstr "Merch Ticket"
 
 msgid "TICKET_NAME_neighborhood_watch_ticket"
 msgstr "近隣ウォッチチケット"
