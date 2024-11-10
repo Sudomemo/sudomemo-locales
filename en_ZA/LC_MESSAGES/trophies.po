@@ -86,6 +86,9 @@ msgstr "He's flamboyant to a fault, but still wants to hear about your day."
 msgid "TROPHY_DESC_meet_ziggy_starburst"
 msgstr "Living his life day by day with a touch of added flair."
 
+msgid "TROPHY_DESC_merch"
+msgstr "Owner of some Sudomemo swag — you're officially part of the cool crew."
+
 msgid "TROPHY_DESC_neighborhood_watch"
 msgstr "Correctly flag content that violates our Content Policy"
 
@@ -203,6 +206,9 @@ msgstr "Meet Russell Ramblewood"
 
 msgid "TROPHY_NAME_meet_ziggy_starburst"
 msgstr "Meet Ziggy Starburst"
+
+msgid "TROPHY_NAME_merch"
+msgstr "Merch Owner"
 
 msgid "TROPHY_NAME_neighborhood_watch"
 msgstr "Neighborhood Watch"

@@ -86,6 +86,9 @@ msgstr "Er mag übermäßig großspurig sein, dennoch will er über deinen Tag h
 msgid "TROPHY_DESC_meet_ziggy_starburst"
 msgstr "Lebt sein Leben Tag für Tag mit einem bisschen zusätzlichen Flair."
 
+msgid "TROPHY_DESC_merch"
+msgstr "Owner of some Sudomemo swag — you're officially part of the cool crew."
+
 msgid "TROPHY_DESC_neighborhood_watch"
 msgstr "Hat Inhalte gemeldet, die gegen unsere Richtlinien verstoßen"
 
@@ -203,6 +206,9 @@ msgstr "Hat Russell Ramblewood getroffen"
 
 msgid "TROPHY_NAME_meet_ziggy_starburst"
 msgstr "Hat Ziggy Starburst getroffen"
+
+msgid "TROPHY_NAME_merch"
+msgstr "Merch Owner"
 
 msgid "TROPHY_NAME_neighborhood_watch"
 msgstr "Nachbarschaftswache"

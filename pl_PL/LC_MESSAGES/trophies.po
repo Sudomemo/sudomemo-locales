@@ -86,6 +86,9 @@ msgstr "Pozornie moze sie wydawac dosc niemily, ale zawsze przejmuje sie jak min
 msgid "TROPHY_DESC_meet_ziggy_starburst"
 msgstr "Zyje skromnie, lecz z klasa."
 
+msgid "TROPHY_DESC_merch"
+msgstr "Owner of some Sudomemo swag — you're officially part of the cool crew."
+
 msgid "TROPHY_DESC_neighborhood_watch"
 msgstr "Prawidlowo zglos naruszenie zasad dot. twórczosci Sudomemo"
 
@@ -203,6 +206,9 @@ msgstr "Spotkaj Russell Ramblewood"
 
 msgid "TROPHY_NAME_meet_ziggy_starburst"
 msgstr "Spotkaj Ziggy Starburst"
+
+msgid "TROPHY_NAME_merch"
+msgstr "Merch Owner"
 
 msgid "TROPHY_NAME_neighborhood_watch"
 msgstr "Czujny patrolowiec"

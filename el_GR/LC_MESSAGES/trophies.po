@@ -86,6 +86,9 @@ msgstr "Κανει ζωαρα μεχρι αηδιας, αλλα θελει να 
 msgid "TROPHY_DESC_meet_ziggy_starburst"
 msgstr "Ζει ζωαρα καθημερινα με αυτο το εξτρα κατι."
 
+msgid "TROPHY_DESC_merch"
+msgstr "Owner of some Sudomemo swag — you're officially part of the cool crew."
+
 msgid "TROPHY_DESC_neighborhood_watch"
 msgstr "Σωστο flag περιεχομενου που παραβιαζει την Πολιτικη Περιεχομενου"
 
@@ -203,6 +206,9 @@ msgstr "Γνωριστε τους Russell Ramblewood"
 
 msgid "TROPHY_NAME_meet_ziggy_starburst"
 msgstr "Γνωριστε τους Ziggy Starburst"
+
+msgid "TROPHY_NAME_merch"
+msgstr "Merch Owner"
 
 msgid "TROPHY_NAME_neighborhood_watch"
 msgstr "Neighborhood Watch"
