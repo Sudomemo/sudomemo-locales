@@ -67,10 +67,10 @@ msgid "BIO_CLEARED"
 msgstr "Bio effacée."
 
 msgid "BIO_CONTAINS_INVALID_OR_PROHIBITED_TEXT"
-msgstr "Bio contains invalid or prohibited text."
+msgstr "La bio contient du texte invalide ou interdit."
 
 msgid "BIO_FIELD_MISSING"
-msgstr "Bio field is missing."
+msgstr "Le champ bio est manquant."
 
 msgid "BIO_PLACEHOLDER"
 msgstr "Entrez votre bio ici..."
@@ -187,7 +187,7 @@ msgid "CREATORS_ROOM"
 msgstr "Salle de créateur"
 
 msgid "CUSTOM_FRAMES"
-msgstr "Custom Frames"
+msgstr "Cadres personnalisés"
 
 # November 29th, 2019 08:23:07
 # Used for Flipnote Details
@@ -899,7 +899,7 @@ msgid "SHARE_ON_WHATSAPP"
 msgstr "Partager via WhatsApp"
 
 msgid "SHOP_NOW"
-msgstr "Shop Now"
+msgstr "Achetez maintenant"
 
 msgid "SHORT_PREVIEW"
 msgstr "Visualiser le Short"
@@ -1330,3 +1330,6 @@ msgstr "Vous éditez cette Flipnote :"
 
 msgid "YT_LAYOUT_MAY_VARY"
 msgstr "L’apparence et la disposition peuvent varier en fonction de l’appareil utilisé pour visionner la vidéo"
+
+msgid "MERCH"
+msgstr "Marchandise"

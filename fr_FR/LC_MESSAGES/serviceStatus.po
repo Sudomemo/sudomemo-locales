@@ -1,23 +1,28 @@
+msgid ""
+msgstr ""
+"Language: fr_FR\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
 msgid "ALL_SERVICES_OPERATIONAL"
 msgstr "Tout les services sont opérationnels."
 
 msgid "ALTERNATE_DNS"
-msgstr "If you run into issues, try switching to our temporary backup DNS instead: %s"
+msgstr "Si vous rencontrez des problèmes, essayez de passer à notre DNS de secours temporaire à la place: %s"
 
 msgid "APOLOGIES_FOR_INCONVENIENCE"
-msgstr "We apologize for any inconvenience this may cause."
+msgstr "Nous nous excusons pour les inconvénients que cela pourrait causer."
 
 msgid "AUX_SERVICES"
-msgstr "Auxiliary Services"
+msgstr "Services auxiliaires"
 
 msgid "DNS_SERVER"
 msgstr "Serveur DNS"
 
 msgid "ESTIMATED_RESOLUTION"
-msgstr "Estimated Resolution Time: %s"
+msgstr "Temps estimé avant résolution: %s"
 
 msgid "INVESTIGATING"
-msgstr "We are currently investigating the issue"
+msgstr "Nous enquêtons actuellement sur le problème."
 
 msgid "LAST_UPDATED"
 msgstr "Dernière mise à jour: %s"
@@ -47,13 +52,13 @@ msgid "SERVICE_STATUS"
 msgstr "Status du Service"
 
 msgid "SUDOMEMO_DEGRADED_PERFORMANCE"
-msgstr "Sudomemo is currently experiencing degraded performance"
+msgstr "Sudomemo rencontre actuellement des problèmes de performance."
 
 msgid "UNDERGOING_NETWORK_ISSUES"
-msgstr "Currently undergoing network routing issues"
+msgstr "Des problèmes de réseau sont en cours."
 
 msgid "WEATHERING_ATTACK"
-msgstr "Currently weathering a Denial of Service (DoS) attack"
+msgstr "Nous subissons actuellement une attaque par déni de service (DoS)."
 
 msgid "WEBSITE"
 msgstr "Site Web"
