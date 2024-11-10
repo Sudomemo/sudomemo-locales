@@ -9,8 +9,20 @@ msgstr "Flux des favoris de %s"
 msgid "FLIPNOTES_BY_FORMAT"
 msgstr "Flipnotes de %s"
 
+msgid "LEAST_VIEWED"
+msgstr "Moins Vu"
+
+msgid "MOST_RECENT"
+msgstr "Récent"
+
+msgid "MOST_VIEWED"
+msgstr "Plus Vu"
+
 msgid "NEXT"
 msgstr "Page suivante"
+
+msgid "OLDEST"
+msgstr "Plus Vieux"
 
 msgid "PAGE"
 msgstr "Page"
