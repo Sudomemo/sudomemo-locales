@@ -113,7 +113,7 @@ msgid "BTN_UPLOAD_FAILED"
 msgstr "Échec de l'envoi..."
 
 msgid "BY"
-msgstr "par"
+msgstr "de"
 
 msgid "CATEGORY"
 msgstr "Catégorie"
@@ -676,7 +676,7 @@ msgid "NONE"
 msgstr "Rien"
 
 msgid "NO_DESCRIPTION"
-msgstr "No description."
+msgstr "Aucune description."
 
 msgid "NO_EMAIL_ON_FILE"
 msgstr "Pas d'adresse email enregistrée -- contactez le support de Sudomemo"
@@ -1015,7 +1015,7 @@ msgid "TROPHY_CASE"
 msgstr "Vitrine à trophées"
 
 msgid "UNTITLED_FLIPNOTE"
-msgstr "Untitled Flipnote"
+msgstr "Flipnote sans titre"
 
 # This is shown to logged-in users on their own Flipnotes without titles
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
