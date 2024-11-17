@@ -112,6 +112,9 @@ msgstr "Rozpocznij przesyłanie"
 msgid "BTN_UPLOAD_FAILED"
 msgstr "Przesyłanie nie powiodło się..."
 
+msgid "BY"
+msgstr "by"
+
 msgid "CATEGORY"
 msgstr "Kategoria"
 
@@ -672,6 +675,9 @@ msgstr "Nintendo DSi"
 msgid "NONE"
 msgstr "None"
 
+msgid "NO_DESCRIPTION"
+msgstr "No description."
+
 msgid "NO_EMAIL_ON_FILE"
 msgstr "Brak zapisanego adresu e-mail -- skontaktuj się z wsparciem Sudomemo"
 
@@ -1007,6 +1013,9 @@ msgstr "aby dodać komentarz"
 
 msgid "TROPHY_CASE"
 msgstr "Trofea"
+
+msgid "UNTITLED_FLIPNOTE"
+msgstr "Untitled Flipnote"
 
 # This is shown to logged-in users on their own Flipnotes without titles
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"

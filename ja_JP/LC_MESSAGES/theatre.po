@@ -112,6 +112,9 @@ msgstr "アップロードを開始"
 msgid "BTN_UPLOAD_FAILED"
 msgstr "アップロードに失敗しました..."
 
+msgid "BY"
+msgstr "by"
+
 msgid "CATEGORY"
 msgstr "カテゴリー"
 
@@ -672,6 +675,9 @@ msgstr "Nintendo DSi"
 msgid "NONE"
 msgstr "None"
 
+msgid "NO_DESCRIPTION"
+msgstr "No description."
+
 msgid "NO_EMAIL_ON_FILE"
 msgstr "メールアドレスが見つかりません。スドメモのサポートにお問い合わせください"
 
@@ -1007,6 +1013,9 @@ msgstr "コメントを送信"
 
 msgid "TROPHY_CASE"
 msgstr "トロフィーケース"
+
+msgid "UNTITLED_FLIPNOTE"
+msgstr "Untitled Flipnote"
 
 # This is shown to logged-in users on their own Flipnotes without titles
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"

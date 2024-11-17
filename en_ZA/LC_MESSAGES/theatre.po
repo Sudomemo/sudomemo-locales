@@ -112,6 +112,9 @@ msgstr "Upload!!!"
 msgid "BTN_UPLOAD_FAILED"
 msgstr "Upload failed... sry :("
 
+msgid "BY"
+msgstr "by"
+
 msgid "CATEGORY"
 msgstr "Nations"
 
@@ -672,6 +675,9 @@ msgstr "Nintendo DSi"
 msgid "NONE"
 msgstr "None"
 
+msgid "NO_DESCRIPTION"
+msgstr "No description."
+
 msgid "NO_EMAIL_ON_FILE"
 msgstr "No email address on file -- contact Sudomemo Support"
 
@@ -1007,6 +1013,9 @@ msgstr "to add a comment"
 
 msgid "TROPHY_CASE"
 msgstr "Trophy Case ;D"
+
+msgid "UNTITLED_FLIPNOTE"
+msgstr "Untitled Flipnote"
 
 # This is shown to logged-in users on their own Flipnotes without titles
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"

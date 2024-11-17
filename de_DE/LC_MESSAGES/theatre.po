@@ -112,6 +112,9 @@ msgstr "Hochladen starten"
 msgid "BTN_UPLOAD_FAILED"
 msgstr "Hochladen fehlgeschlagen..."
 
+msgid "BY"
+msgstr "by"
+
 msgid "CATEGORY"
 msgstr "Kategorie"
 
@@ -672,6 +675,9 @@ msgstr "Nintendo DSi"
 msgid "NONE"
 msgstr "None"
 
+msgid "NO_DESCRIPTION"
+msgstr "No description."
+
 msgid "NO_EMAIL_ON_FILE"
 msgstr "Keine Email-Adresse registriert -- kontaktiere Sudomemo Support"
 
@@ -1007,6 +1013,9 @@ msgstr "um einen Kommentar hinzuzufügen"
 
 msgid "TROPHY_CASE"
 msgstr "Trophäen-Vitrine"
+
+msgid "UNTITLED_FLIPNOTE"
+msgstr "Untitled Flipnote"
 
 # This is shown to logged-in users on their own Flipnotes without titles
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"

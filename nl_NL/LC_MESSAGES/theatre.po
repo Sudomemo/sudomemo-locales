@@ -113,6 +113,9 @@ msgstr "Start Upload"
 msgid "BTN_UPLOAD_FAILED"
 msgstr "Upload mislukt..."
 
+msgid "BY"
+msgstr "by"
+
 msgid "CATEGORY"
 msgstr "Categorie"
 
@@ -690,6 +693,9 @@ msgstr "Nintendo DSi"
 msgid "NONE"
 msgstr "None"
 
+msgid "NO_DESCRIPTION"
+msgstr "No description."
+
 msgid "NO_EMAIL_ON_FILE"
 msgstr "Geen email adres op bestand -- contacteer Sudomemo Support"
 
@@ -1032,6 +1038,9 @@ msgstr "om commentaar te plaatsen"
 # ^ True that x3, but it should be translated nonetheless right?
 msgid "TROPHY_CASE"
 msgstr "Trofeeënkast"
+
+msgid "UNTITLED_FLIPNOTE"
+msgstr "Untitled Flipnote"
 
 # This is shown to logged-in users on their own Flipnotes without titles
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
