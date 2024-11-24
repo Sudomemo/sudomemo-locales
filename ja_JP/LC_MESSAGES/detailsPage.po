@@ -120,3 +120,9 @@ msgstr "Y年m月d日 H:i:s"
 # This is shown to logged-in users on their own Flipnotes without titles
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "%sさんの作品"
+
+msgid "HEADER_ADD_TO_PLAYLIST"
+msgstr "Add to Playlist"
+
+msgid "HEADER_REMOVE_FROM_PLAYLIST"
+msgstr "Remove from Playlist"
