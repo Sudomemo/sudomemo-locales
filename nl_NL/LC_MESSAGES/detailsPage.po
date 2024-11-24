@@ -24,6 +24,9 @@ msgstr "Flipnote door %s"
 msgid "HEADER_ADD_DESCRIPTION"
 msgstr "Voeg beschrijving toe"
 
+msgid "HEADER_ADD_TO_PLAYLIST"
+msgstr "Add to Playlist"
+
 msgid "HEADER_CHANNEL"
 msgstr "Kanaal"
 
@@ -59,6 +62,9 @@ msgstr "Bekijk de originele Flipnote hier"
 
 msgid "HEADER_POSTED"
 msgstr "Geplaatst"
+
+msgid "HEADER_REMOVE_FROM_PLAYLIST"
+msgstr "Remove from Playlist"
 
 msgid "HEADER_REPORT_FLIPNOTE"
 msgstr "Rapporteer Flipnote"
@@ -121,9 +127,3 @@ msgstr "d M Y H:i:s"
 # This is shown to logged-in users on their own Flipnotes without titles
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "Naamloze Flipnote door %s"
-
-msgid "HEADER_ADD_TO_PLAYLIST"
-msgstr "Add to Playlist"
-
-msgid "HEADER_REMOVE_FROM_PLAYLIST"
-msgstr "Remove from Playlist"

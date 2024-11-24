@@ -3,59 +3,17 @@ msgstr ""
 "Language: tr_TR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "ADDED_TO_NEW_PLAYLIST"
+msgstr "Added to new Playlist"
+
+msgid "ADDED_TO_PLAYLIST"
+msgstr "Added to Playlist"
+
+msgid "BACK_TO_FLIPNOTE"
+msgstr "Back to Flipnote"
+
 msgid "CREATOR"
 msgstr "Creator:"
-
-msgid "FLIPNOTES"
-msgstr "Flipnotes"
-
-msgid "TAP_TO_ADD_DESCRIPTION"
-msgstr "Tap here to add a description."
-
-msgid "ERROR_TITLE_PROFANE_TITLE"
-msgstr "Unable to save new title!"
-
-msgid "ERROR_PROFANE_TITLE"
-msgstr "This title violates our Content Policy."
-
-msgid "ERROR_PROFANE_TITLE_DESC"
-msgstr "Please try again with a more appropriate title."
-
-msgid "ERROR_TITLE_PROFANE_DESC"
-msgstr "Unable to save new description!"
-
-msgid "ERROR_PROFANE_DESC"
-msgstr "This description violates our Content Policy."
-
-msgid "ERROR_PROFANE_DESC_DESC"
-msgstr "Please try again with a more appropriate description."
-
-msgid "SORT_BY_OLDEST"
-msgstr "Chronological"
-
-msgid "SORT_BY_NEWEST"
-msgstr "Latest"
-
-msgid "PREV"
-msgstr "Previous"
-
-msgid "NEXT"
-msgstr "Next"
-
-msgid "NEW_PLAYLIST"
-msgstr "Add to new Playlist"
-
-msgid "NO_PLAYLISTS_FOUND"
-msgstr "No playlists found"
-
-msgid "ERROR_TITLE_CREATE_NEW_PLAYLIST"
-msgstr "Unable to create new Playlist!"
-
-msgid "ERROR_AUTHOR_IS_BLOCKING"
-msgstr "You cannot perform this action with this Flipnote because the author has blocked you."
-
-msgid "ERROR_AUTHOR_IS_BLOCKING_DESC"
-msgstr "Please try again with a different Flipnote."
 
 msgid "ERROR_AUTHOR_IS_BLOCKED"
 msgstr "You cannot perform this action with this Flipnote because you have blocked the author."
@@ -63,23 +21,65 @@ msgstr "You cannot perform this action with this Flipnote because you have block
 msgid "ERROR_AUTHOR_IS_BLOCKED_DESC"
 msgstr "Please unblock the author and try again."
 
+msgid "ERROR_AUTHOR_IS_BLOCKING"
+msgstr "You cannot perform this action with this Flipnote because the author has blocked you."
+
+msgid "ERROR_AUTHOR_IS_BLOCKING_DESC"
+msgstr "Please try again with a different Flipnote."
+
+msgid "ERROR_PROFANE_DESC"
+msgstr "This description violates our Content Policy."
+
+msgid "ERROR_PROFANE_DESC_DESC"
+msgstr "Please try again with a more appropriate description."
+
+msgid "ERROR_PROFANE_TITLE"
+msgstr "This title violates our Content Policy."
+
+msgid "ERROR_PROFANE_TITLE_DESC"
+msgstr "Please try again with a more appropriate title."
+
 msgid "ERROR_TITLE_ADD_TO_PLAYLIST"
 msgstr "Unable to add to Playlist!"
 
-msgid "ADDED_TO_NEW_PLAYLIST"
-msgstr "Added to new Playlist"
+msgid "ERROR_TITLE_CREATE_NEW_PLAYLIST"
+msgstr "Unable to create new Playlist!"
 
-msgid "ADDED_TO_PLAYLIST"
-msgstr "Added to Playlist"
+msgid "ERROR_TITLE_PROFANE_DESC"
+msgstr "Unable to save new description!"
+
+msgid "ERROR_TITLE_PROFANE_TITLE"
+msgstr "Unable to save new title!"
+
+msgid "FLIPNOTES"
+msgstr "Flipnotes"
+
+msgid "NEW_PLAYLIST"
+msgstr "Add to new Playlist"
+
+msgid "NEXT"
+msgstr "Next"
+
+msgid "NO_PLAYLISTS_FOUND"
+msgstr "No playlists found"
+
+msgid "PREV"
+msgstr "Previous"
 
 msgid "REMOVED_FROM_PLAYLIST"
 msgstr "Removed from Playlist"
 
-msgid "VIEW_PLAYLIST"
-msgstr "View Playlist"
+msgid "SORT_BY_NEWEST"
+msgstr "Latest"
+
+msgid "SORT_BY_OLDEST"
+msgstr "Chronological"
+
+msgid "TAP_TO_ADD_DESCRIPTION"
+msgstr "Tap here to add a description."
 
 msgid "VIEW_FLIPNOTES"
 msgstr "View Flipnotes"
 
-msgid "BACK_TO_FLIPNOTE"
-msgstr "Back to Flipnote"
+msgid "VIEW_PLAYLIST"
+msgstr "View Playlist"
