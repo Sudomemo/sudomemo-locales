@@ -120,3 +120,9 @@ msgstr "M D, A H:M:S"
 # This is shown to logged-in users on their own Flipnotes without titles
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote Sem-Título de %s"
+
+msgid "HEADER_ADD_TO_PLAYLIST"
+msgstr "Add to Playlist"
+
+msgid "HEADER_REMOVE_FROM_PLAYLIST"
+msgstr "Remove from Playlist"
