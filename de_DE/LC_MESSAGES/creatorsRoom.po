@@ -45,6 +45,9 @@ msgstr "Blockieren"
 msgid "BLOCK_USER"
 msgstr "Benutzer blockieren"
 
+msgid "BROWSE_PLAYLISTS"
+msgstr "Browse Playlists"
+
 msgid "CAN_DRAW_TICKET_SUBTEXT"
 msgstr "Du kannst ein normales Ticket ziehen! Mit etwas Glück gewinnst du einen Preis."
 
@@ -253,6 +256,3 @@ msgstr "Wiedergabeverlauf"
 
 msgid "YOU_HAVE_BLOCKED_THIS_USER"
 msgstr "Du hast diesen Benutzer blockiert."
-
-msgid "BROWSE_PLAYLISTS"
-msgstr "Browse Playlists"
