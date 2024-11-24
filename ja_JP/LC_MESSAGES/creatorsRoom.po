@@ -45,6 +45,9 @@ msgstr "ブロック"
 msgid "BLOCK_USER"
 msgstr "ユーザーをブロックする"
 
+msgid "BROWSE_PLAYLISTS"
+msgstr "Browse Playlists"
+
 msgid "CAN_DRAW_TICKET_SUBTEXT"
 msgstr "レギュラーチケットを引くことができます！アイテムを獲得できるかも？"
 
@@ -253,6 +256,3 @@ msgstr "閲覧履歴"
 
 msgid "YOU_HAVE_BLOCKED_THIS_USER"
 msgstr "このユーザーをブロックしています。"
-
-msgid "BROWSE_PLAYLISTS"
-msgstr "Browse Playlists"

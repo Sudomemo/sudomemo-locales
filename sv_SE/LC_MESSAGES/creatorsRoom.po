@@ -45,6 +45,9 @@ msgstr "Blockera"
 msgid "BLOCK_USER"
 msgstr "Blockera användare"
 
+msgid "BROWSE_PLAYLISTS"
+msgstr "Browse Playlists"
+
 msgid "CAN_DRAW_TICKET_SUBTEXT"
 msgstr "Du kan dra en vanlig biljett! Du kanske vinner ett pris."
 
@@ -253,6 +256,3 @@ msgstr "Tittarhistorik"
 
 msgid "YOU_HAVE_BLOCKED_THIS_USER"
 msgstr "Du har blockerat denna användaren."
-
-msgid "BROWSE_PLAYLISTS"
-msgstr "Browse Playlists"

@@ -45,6 +45,9 @@ msgstr "Zablokuj"
 msgid "BLOCK_USER"
 msgstr "Zablokuj uzytkownika"
 
+msgid "BROWSE_PLAYLISTS"
+msgstr "Browse Playlists"
+
 msgid "CAN_DRAW_TICKET_SUBTEXT"
 msgstr "Mozesz wylosowac zwykly bilet! Kto wie, moze cos wygrasz?"
 
@@ -253,6 +256,3 @@ msgstr "Historia ogladania"
 
 msgid "YOU_HAVE_BLOCKED_THIS_USER"
 msgstr "Zablokowales/-as tego uzytkownika."
-
-msgid "BROWSE_PLAYLISTS"
-msgstr "Browse Playlists"

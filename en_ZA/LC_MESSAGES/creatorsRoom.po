@@ -45,6 +45,9 @@ msgstr "Block"
 msgid "BLOCK_USER"
 msgstr "Block user"
 
+msgid "BROWSE_PLAYLISTS"
+msgstr "Browse Playlists"
+
 msgid "CAN_DRAW_TICKET_SUBTEXT"
 msgstr "U can getta a regular ticket n can win thingies!!! :D"
 
@@ -253,6 +256,3 @@ msgstr "Watcharoo History"
 
 msgid "YOU_HAVE_BLOCKED_THIS_USER"
 msgstr "You have blocked this user."
-
-msgid "BROWSE_PLAYLISTS"
-msgstr "Browse Playlists"
