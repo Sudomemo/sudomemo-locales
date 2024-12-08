@@ -170,6 +170,10 @@ msgstr "お誕生日おめでとう!"
 msgid "TICKET_DESC_blue_dog_ticket"
 msgstr "このチケットを購入すると、350ものスター（レアなスターがあるかも？）、限定テーマをゲットすることができ、特別なバッジがプロフィールに表示されます"
 
+# collab with https://www.youtube.com/@ZaneLittle/featured
+msgid "TICKET_DESC_champa_ticket"
+msgstr "A gift from Zane Little!"
+
 msgid "TICKET_DESC_colors_promo_ticket"
 msgstr "スドメモ x Colorsを獲得しました！※2020年6月の週刊トピックです！"
 
@@ -308,6 +312,10 @@ msgstr "バースデーチケット"
 
 msgid "TICKET_NAME_blue_dog_ticket"
 msgstr "ジギースターバーストチケット"
+
+# collab with https://www.youtube.com/@ZaneLittle/featured
+msgid "TICKET_NAME_champa_ticket"
+msgstr "Champa Ticket"
 
 msgid "TICKET_NAME_colors_promo_ticket"
 msgstr "Colors!プロモーションチケット"

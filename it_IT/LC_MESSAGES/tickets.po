@@ -170,6 +170,10 @@ msgstr "Buon Compleanno!"
 msgid "TICKET_DESC_blue_dog_ticket"
 msgstr "Questo ticket ti offre 350 Stelle Sudomemo spendibili (forse anche una Stella rara!), un tema esclusivo e un badge speciale da mostrare sul tuo profilo!"
 
+# collab with https://www.youtube.com/@ZaneLittle/featured
+msgid "TICKET_DESC_champa_ticket"
+msgstr "A gift from Zane Little!"
+
 msgid "TICKET_DESC_colors_promo_ticket"
 msgstr "Hai vinto il Topic settimanale di Giugno 2020 Sudomemo x Colors!"
 
@@ -308,6 +312,10 @@ msgstr "Ticket di Compleanno"
 
 msgid "TICKET_NAME_blue_dog_ticket"
 msgstr "Ticket Ziggy Starburst"
+
+# collab with https://www.youtube.com/@ZaneLittle/featured
+msgid "TICKET_NAME_champa_ticket"
+msgstr "Champa Ticket"
 
 msgid "TICKET_NAME_colors_promo_ticket"
 msgstr "Colori! Ticket Promozionale"
