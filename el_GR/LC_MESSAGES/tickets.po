@@ -170,6 +170,10 @@ msgstr "Να τα εκατοστησετε!"
 msgid "TICKET_DESC_blue_dog_ticket"
 msgstr "Αυτος ο λαχνος σας δινει 350 αστερια που μπορειτε να ξοδεψετε (ισως και καποιο σπανιο!), ενα συλλεκτικο θεμα, και ενα ειδικο σημα για το προφιλ σας"
 
+# collab with https://www.youtube.com/@ZaneLittle/featured
+msgid "TICKET_DESC_champa_ticket"
+msgstr "A gift from Zane Little!"
+
 msgid "TICKET_DESC_colors_promo_ticket"
 msgstr "Κερδισατε το Sudomemo x Colors! June 2020 Weekly Topic!"
 
@@ -308,6 +312,10 @@ msgstr "Λαχνος Γενεθλιων"
 
 msgid "TICKET_NAME_blue_dog_ticket"
 msgstr "Ziggy Starburst Ticket"
+
+# collab with https://www.youtube.com/@ZaneLittle/featured
+msgid "TICKET_NAME_champa_ticket"
+msgstr "Champa Ticket"
 
 msgid "TICKET_NAME_colors_promo_ticket"
 msgstr "Colors! Promo Ticket"

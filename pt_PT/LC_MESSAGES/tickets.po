@@ -170,6 +170,10 @@ msgstr "Feliz Aniversário!"
 msgid "TICKET_DESC_blue_dog_ticket"
 msgstr "Este bilhete oferece-te 350 Estrelas Sudomemo que podes usar (talvez ainda uma estrela rara!), um tema exclusivo e um crachá especial para o teu perfil!"
 
+# collab with https://www.youtube.com/@ZaneLittle/featured
+msgid "TICKET_DESC_champa_ticket"
+msgstr "A gift from Zane Little!"
+
 msgid "TICKET_DESC_colors_promo_ticket"
 msgstr "Parabéns, venceste o Tópico Semanal de Junho 2020 Sudomemo x Colors!"
 
@@ -308,6 +312,10 @@ msgstr "Bilhete de Aniversário"
 
 msgid "TICKET_NAME_blue_dog_ticket"
 msgstr "Bilhete Ziggy Starburst"
+
+# collab with https://www.youtube.com/@ZaneLittle/featured
+msgid "TICKET_NAME_champa_ticket"
+msgstr "Champa Ticket"
 
 msgid "TICKET_NAME_colors_promo_ticket"
 msgstr "Bilhete de Promoção do Colors!"
