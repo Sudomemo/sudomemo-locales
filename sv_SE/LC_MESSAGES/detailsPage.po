@@ -24,6 +24,9 @@ msgstr "Flipnote av %s"
 msgid "HEADER_ADD_DESCRIPTION"
 msgstr "Lägg till beskrivning"
 
+msgid "HEADER_ADD_TO_PLAYLIST"
+msgstr "Add to Playlist"
+
 msgid "HEADER_CHANNEL"
 msgstr "Kanal"
 
@@ -59,6 +62,9 @@ msgstr "Visa käll-Flipnote här"
 
 msgid "HEADER_POSTED"
 msgstr "Publicerad"
+
+msgid "HEADER_REMOVE_FROM_PLAYLIST"
+msgstr "Remove from Playlist"
 
 msgid "HEADER_REPORT_FLIPNOTE"
 msgstr "Rapportera Flipnote"

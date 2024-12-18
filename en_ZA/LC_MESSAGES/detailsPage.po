@@ -24,6 +24,9 @@ msgstr "flippynote by %s"
 msgid "HEADER_ADD_DESCRIPTION"
 msgstr "add MORE INFO pls"
 
+msgid "HEADER_ADD_TO_PLAYLIST"
+msgstr "Add to Playlist"
+
 msgid "HEADER_CHANNEL"
 msgstr "channel!!"
 
@@ -59,6 +62,9 @@ msgstr "View the source flipmeme here"
 
 msgid "HEADER_POSTED"
 msgstr "locked in"
+
+msgid "HEADER_REMOVE_FROM_PLAYLIST"
+msgstr "Remove from Playlist"
 
 msgid "HEADER_REPORT_FLIPNOTE"
 msgstr "Report Flipnote"

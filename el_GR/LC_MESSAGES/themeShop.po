@@ -82,7 +82,7 @@ msgid "THEME_SHOP_OWNED_THEME_TRANSACTION_FORMAT"
 msgstr "Αγορασατε αυτο το θεμα στιs %s για %d Πρασινα Αστερια."
 
 msgid "THEME_SHOP_POST_PURCHASE"
-msgstr "Η αγορα σαs εγινε με επιτυχια! Πηγαινετε στο \"Τα Θεματα Μου\" στο Εργαστηρι σαs για να το επιβεβαιωσετε!"
+msgstr "Your purchase was successful! You can select your new theme from the \"Inventory\" button in your Creator's Room!"
 
 msgid "THEME_SHOP_PUBLIC_THEME"
 msgstr "Ολοι εχουν προσβαση δωρεαν σε αυτο το θεμα."

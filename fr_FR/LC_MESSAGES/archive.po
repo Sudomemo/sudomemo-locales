@@ -10,6 +10,12 @@ msgstr "Actif entre"
 msgid "ALSO_KNOWN_AS"
 msgstr "Aussi appelé"
 
+msgid "BAD_METADATA"
+msgstr "Flipnote avec de mauvaises métadonnées"
+
+msgid "BAD_METADATA_WARNING"
+msgstr "Avertissement: Les métadonnées Flipnote sont corrompues. Vous pouvez toujours le regarder, mais nous vous déconseillons fortement de l’ouvrir dans Flipnote Studio 3D."
+
 msgid "BLUE_STARS"
 msgstr "Étoiles bleues"
 

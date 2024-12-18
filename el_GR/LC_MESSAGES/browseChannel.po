@@ -15,8 +15,20 @@ msgstr "Χαζεψτε ανα τραγουδι"
 msgid "BROWSE_PLAYLIST"
 msgstr "Χαζεψτε λιστα"
 
+msgid "LEAST_VIEWED"
+msgstr "Least Viewed"
+
+msgid "MOST_RECENT"
+msgstr "Recent"
+
+msgid "MOST_VIEWED"
+msgstr "Most Viewed"
+
 msgid "NEXT"
 msgstr "Επομενο"
+
+msgid "OLDEST"
+msgstr "Oldest"
 
 msgid "PAGE"
 msgstr "Σελιδα"

@@ -24,6 +24,9 @@ msgstr "Flipnote v. %s"
 msgid "HEADER_ADD_DESCRIPTION"
 msgstr "Beschreibung hinzufügen"
 
+msgid "HEADER_ADD_TO_PLAYLIST"
+msgstr "Add to Playlist"
+
 msgid "HEADER_CHANNEL"
 msgstr "Kanal"
 
@@ -59,6 +62,9 @@ msgstr "Rufe das Original-Flipnote hier auf!"
 
 msgid "HEADER_POSTED"
 msgstr "Hochgeladen"
+
+msgid "HEADER_REMOVE_FROM_PLAYLIST"
+msgstr "Remove from Playlist"
 
 msgid "HEADER_REPORT_FLIPNOTE"
 msgstr "Melden"

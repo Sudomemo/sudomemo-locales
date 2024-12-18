@@ -24,6 +24,9 @@ msgstr "%sさんの作品"
 msgid "HEADER_ADD_DESCRIPTION"
 msgstr "説明を追加"
 
+msgid "HEADER_ADD_TO_PLAYLIST"
+msgstr "Add to Playlist"
+
 msgid "HEADER_CHANNEL"
 msgstr "チャンネル"
 
@@ -59,6 +62,9 @@ msgstr "親作品はこちら"
 
 msgid "HEADER_POSTED"
 msgstr "投稿された時間"
+
+msgid "HEADER_REMOVE_FROM_PLAYLIST"
+msgstr "Remove from Playlist"
 
 msgid "HEADER_REPORT_FLIPNOTE"
 msgstr "規約違反を通報"

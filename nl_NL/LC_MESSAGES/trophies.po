@@ -45,6 +45,12 @@ msgstr "Neem deel aan Sudomemo in onze eerste maand"
 msgid "TROPHY_DESC_fall_2023_ffc_winner"
 msgstr "Een van de winnaars van de Sudomemo Flipnote Fight-wedstrijd herfst 2023!"
 
+msgid "TROPHY_DESC_fall_2024_ffc_winner"
+msgstr "One of the winners of the Fall 2024 Sudomemo Flipnote Fight Competition!"
+
+msgid "TROPHY_DESC_fate_2024_winner"
+msgstr "Submitted a winning Flipnote to FATE 2024"
+
 msgid "TROPHY_DESC_featured_artist"
 msgstr "Wordt erkend als Uitgelichte Kunstenaar"
 
@@ -81,6 +87,9 @@ msgstr "Hij is in grote mate flamboyant, maar wil nog steeds graag horen hoe het
 msgid "TROPHY_DESC_meet_ziggy_starburst"
 msgstr "Leeft zijn dagelijkse leven met een vleugje extra flair."
 
+msgid "TROPHY_DESC_merch"
+msgstr "Owner of some Sudomemo swag — you're officially part of the cool crew."
+
 msgid "TROPHY_DESC_neighborhood_watch"
 msgstr "Markeer inhoud die onze Inhoudsbeleid schendt"
 
@@ -108,6 +117,9 @@ msgstr "Spookmaster Award voor uitmuntendheid in hekserij en tovenarij."
 msgid "TROPHY_DESC_spring_2023_ffc_winner"
 msgstr "Een van de winnaars van de eerste Sudomemo Flipnote Fight Competition!"
 
+msgid "TROPHY_DESC_spring_2024_ffc_winner"
+msgstr "One of the winners of the Spring 2024 Sudomemo Flipnote Fight Competition!"
+
 msgid "TROPHY_DESC_sudomemo_radio"
 msgstr "Inhoud bijgedragen aan een aflevering van Sudomemo Radio"
 
@@ -116,6 +128,9 @@ msgstr "Inhoud bijgedragen aan de allereerste aflevering van Sudomemo Radio"
 
 msgid "TROPHY_DESC_translator"
 msgstr "Draag vertalingen bij om Sudomemo open voor iedereen te maken"
+
+msgid "TROPHY_DESC_visited_wii_room"
+msgstr "Visited Sudomemo's Room on Wii Room!"
 
 msgid "TROPHY_DESC_weekly_topic_winner"
 msgstr "Dien een winnende inzending in naar Sudomemo's Wekelijks Onderwerp"
@@ -154,6 +169,12 @@ msgstr "Early Adopter"
 msgid "TROPHY_NAME_fall_2023_ffc_winner"
 msgstr "Fall 2023 Sudomemo Flipnote Fight Competitie Winnaar"
 
+msgid "TROPHY_NAME_fall_2024_ffc_winner"
+msgstr "Fall 2024 Sudomemo Flipnote Fight Competition Winner"
+
+msgid "TROPHY_NAME_fate_2024_winner"
+msgstr "FATE 2024 Winner"
+
 msgid "TROPHY_NAME_featured_artist"
 msgstr "Uitgelichte Kunstenaars"
 
@@ -190,6 +211,9 @@ msgstr "Ontmoet Russell Ramblewood"
 msgid "TROPHY_NAME_meet_ziggy_starburst"
 msgstr "Ontmoet Ziggy Starburst"
 
+msgid "TROPHY_NAME_merch"
+msgstr "Merch Owner"
+
 msgid "TROPHY_NAME_neighborhood_watch"
 msgstr "Buurtwacht"
 
@@ -217,6 +241,9 @@ msgstr "Spookmaster"
 msgid "TROPHY_NAME_spring_2023_ffc_winner"
 msgstr "Spring 2023 Sudomemo Flipnote Fight Competitie Winnaar"
 
+msgid "TROPHY_NAME_spring_2024_ffc_winner"
+msgstr "Spring 2024 Sudomemo Flipnote Fight Competition Winner"
+
 msgid "TROPHY_NAME_sudomemo_radio"
 msgstr "Sudomemo Radio Contributor"
 
@@ -225,6 +252,9 @@ msgstr "Sudomemo Radio Pilot Contributor"
 
 msgid "TROPHY_NAME_translator"
 msgstr "Vertaler"
+
+msgid "TROPHY_NAME_visited_wii_room"
+msgstr "Wii Room Trophy"
 
 msgid "TROPHY_NAME_weekly_topic_winner"
 msgstr "Wekelijks Onderwerpwinnaar"

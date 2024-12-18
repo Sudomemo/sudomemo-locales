@@ -9,8 +9,20 @@ msgstr "%s's Ffefrynnau Feed"
 msgid "FLIPNOTES_BY_FORMAT"
 msgstr "Flipnotes gan %s"
 
+msgid "LEAST_VIEWED"
+msgstr "Least Viewed"
+
+msgid "MOST_RECENT"
+msgstr "Recent"
+
+msgid "MOST_VIEWED"
+msgstr "Most Viewed"
+
 msgid "NEXT"
 msgstr "Tudalen nesaf"
+
+msgid "OLDEST"
+msgstr "Oldest"
 
 msgid "PAGE"
 msgstr "Tudalen"

@@ -1,0 +1,59 @@
+msgid "ALL_SERVICES_OPERATIONAL"
+msgstr "All services are operational."
+
+msgid "ALTERNATE_DNS"
+msgstr "If you run into issues, try switching to our temporary backup DNS instead: %s"
+
+msgid "APOLOGIES_FOR_INCONVENIENCE"
+msgstr "We apologize for any inconvenience this may cause."
+
+msgid "AUX_SERVICES"
+msgstr "Auxiliary Services"
+
+msgid "DNS_SERVER"
+msgstr "DNS Server"
+
+msgid "ESTIMATED_RESOLUTION"
+msgstr "Estimated Resolution Time: %s"
+
+msgid "INVESTIGATING"
+msgstr "We are currently investigating the issue"
+
+msgid "LAST_UPDATED"
+msgstr "Last updated on %s"
+
+msgid "MAINTENANCE_COMPLETED"
+msgstr "Maintenance Completed"
+
+msgid "MAINTENANCE_IN_PROGRESS"
+msgstr "Maintenance In Progress"
+
+msgid "MAJOR_ISSUES"
+msgstr "Major Issues"
+
+msgid "MINOR_ISSUES"
+msgstr "Minor Issues"
+
+msgid "OUTAGE"
+msgstr "Outage"
+
+msgid "POSSIBLE_ISSUES"
+msgstr "Possible Issues"
+
+msgid "SCHEDULED_MAINTENANCE"
+msgstr "Scheduled Maintenance"
+
+msgid "SERVICE_STATUS"
+msgstr "Service Status"
+
+msgid "SUDOMEMO_DEGRADED_PERFORMANCE"
+msgstr "Sudomemo is currently experiencing degraded performance"
+
+msgid "UNDERGOING_NETWORK_ISSUES"
+msgstr "Currently undergoing network routing issues"
+
+msgid "WEATHERING_ATTACK"
+msgstr "Currently weathering a Denial of Service (DoS) attack"
+
+msgid "WEBSITE"
+msgstr "Website"

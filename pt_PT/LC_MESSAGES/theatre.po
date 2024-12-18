@@ -60,6 +60,24 @@ msgstr "Artista"
 msgid "BACK"
 msgstr "Voltar"
 
+msgid "BIO"
+msgstr "Bio"
+
+msgid "BIO_CLEARED"
+msgstr "Bio cleared."
+
+msgid "BIO_CONTAINS_INVALID_OR_PROHIBITED_TEXT"
+msgstr "Bio contains invalid or prohibited text."
+
+msgid "BIO_FIELD_MISSING"
+msgstr "Bio field is missing."
+
+msgid "BIO_PLACEHOLDER"
+msgstr "Enter your bio here..."
+
+msgid "BIO_UPDATED_SUCCESSFULLY"
+msgstr "Bio updated successfully."
+
 # Browse Channel
 msgid "BROWSE_CHANNEL_NO_FLIPNOTES_YET"
 msgstr "Não há Flipnotes postados neste canal ainda."
@@ -93,6 +111,9 @@ msgstr "Começar Upload"
 
 msgid "BTN_UPLOAD_FAILED"
 msgstr "Upload falhado..."
+
+msgid "BY"
+msgstr "by"
 
 msgid "CATEGORY"
 msgstr "Categoria"
@@ -167,6 +188,9 @@ msgstr "Criadores"
 
 msgid "CREATORS_ROOM"
 msgstr "Sala do Criador"
+
+msgid "CUSTOM_FRAMES"
+msgstr "Custom Frames"
 
 # November 29th, 2019 08:23:07
 # Used for Flipnote Details
@@ -499,6 +523,9 @@ msgstr "Flipnotes Populares neste momento"
 msgid "HOW_TO_UNLINK_DISCORD"
 msgstr "Para desligar a tua conta Discord, digita este commando no chat: .sudo unlink"
 
+msgid "IMAGE_MUST_BE_1080X1920"
+msgstr "Image must be 1080x1920."
+
 msgid "INFO"
 msgstr "Informação"
 
@@ -516,6 +543,9 @@ msgstr "Precisas de ligar a tua conta do Canal do YouTube antes de fazer upload 
 msgid "LOGIN_FAILED_CHECK_DETAILS"
 msgstr "Não pudemos fazer o login. Verifica os detalhes que inseriste e tenta de novo."
 
+msgid "LOGIN_FAILED_RATELIMITED"
+msgstr "You've made too many incorrect login attempts recently. Please try again later."
+
 msgid "LOGIN_PLACEHOLDER_PASSWORD"
 msgstr "Palavra-passe"
 
@@ -527,6 +557,9 @@ msgstr "Selecciona o teu sistema"
 
 msgid "MANAGE_PLAYLIST"
 msgstr "Gerir Playlist"
+
+msgid "MERCH"
+msgstr "Merch"
 
 msgid "MODERATOR"
 msgstr "Moderador"
@@ -627,6 +660,9 @@ msgstr "Alternar navegação"
 msgid "NEWS"
 msgstr "Notícias"
 
+msgid "NEW_FRAME"
+msgstr "New Frame"
+
 msgid "NEXT"
 msgstr "Próximo"
 
@@ -636,11 +672,20 @@ msgstr "Nintendo 3DS"
 msgid "NINTENDO_DSI"
 msgstr "Nintendo DSi"
 
+msgid "NONE"
+msgstr "None"
+
+msgid "NO_DESCRIPTION"
+msgstr "No description."
+
 msgid "NO_EMAIL_ON_FILE"
 msgstr "Nenhum endereço de email no registo -- contacte o Suporte do Sudomemo"
 
 msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
 msgstr "Nenhum utilizador encontrado com esse ID do Flipnote Studio ID ou email"
+
+msgid "ONLY_APPLIES_FOR_YOUTUBE_SHORTS"
+msgstr "Only applies for YouTube Shorts"
 
 msgid "PARENT_FLIPNOTE"
 msgstr "Flipnote Parente"
@@ -686,11 +731,20 @@ msgstr "Ocorreu um erro enquando estávamos a guardar a tua playlist. Código de
 msgid "PLAYLIST_ERROR_GENERIC_2"
 msgstr "Ocorreu um erro. Código de Erro: %s."
 
+msgid "PLAYLIST_ERROR_HINT_INCREASE_LIMIT_PLUS"
+msgstr "You could also increase this limit to %s with Sudomemo Plus!"
+
 msgid "PLAYLIST_ERROR_PROFANE_DESC"
 msgstr "Esta descripção contém conteúdo profano que a nossa Política de Conteúdo não aceita."
 
 msgid "PLAYLIST_ERROR_PROFANE_TITLE"
 msgstr "Este título contém conteúdo profano que a nossa Política de Conteúdo não aceita."
+
+msgid "PLAYLIST_ERROR_TOO_MANY_FLIPNOTES"
+msgstr "You cannot add another Flipnote to this Playlist as it is at or above the limit of %s Flipnotes. Remove a Flipnote or create a new Playlist, then try again."
+
+msgid "PLAYLIST_ERROR_TOO_MANY_PLAYLISTS"
+msgstr "You cannot create a new Playlist as you are at or above the limit of %s Playlists. Delete a Playlist and try again."
 
 msgid "PLAYLIST_ID"
 msgstr "ID da Playlist"
@@ -712,6 +766,12 @@ msgstr "Não Listada"
 
 msgid "PLAYLIST_VISIBILITY"
 msgstr "Visibilidade"
+
+msgid "PLEASE_SELECT_FRAME_OR_UPLOAD_CUSTOM_FRAME"
+msgstr "Please select a frame or upload a custom frame."
+
+msgid "PLEASE_UPLOAD_VALID_IMAGE_FILE"
+msgstr "Please upload a valid image file (PNG only)."
 
 msgid "PLUS_LEARN_MORE"
 msgstr "Saber mais..."
@@ -757,6 +817,12 @@ msgstr "Flipnotes Aleatórios"
 
 msgid "RANK"
 msgstr "Rank"
+
+msgid "RANK_IMPROVED"
+msgstr "Rank Improved"
+
+msgid "RANK_UNCHANGED"
+msgstr "Rank Unchanged"
 
 msgid "RECENT"
 msgstr "Recente(s)"
@@ -850,11 +916,20 @@ msgstr "Partilhar no Twitter"
 msgid "SHARE_ON_WHATSAPP"
 msgstr "Partilhar via WhatsApp"
 
+msgid "SHOP_NOW"
+msgstr "Shop Now"
+
+msgid "SHORT_PREVIEW"
+msgstr "Short Preview"
+
 msgid "SHOW_ON_PROFILE"
 msgstr "Mostrar no perfil"
 
 msgid "SHOW_YOUTUBE_LINK_ON_MY_PROFILE"
 msgstr "Mostrar um link para o meu canal do YouTube no meu perfil do Sudomemo"
+
+msgid "SIGNIFICANT_DECLINE"
+msgstr "Significant Decline"
 
 msgid "SIGN_IN"
 msgstr "Fazer Log in"
@@ -864,6 +939,9 @@ msgstr "Sair"
 
 msgid "SIGN_UP"
 msgstr "Registar"
+
+msgid "SLIGHT_DECLINE"
+msgstr "Slight Decline"
 
 # For MusicMatch
 msgid "SONG"
@@ -891,6 +969,9 @@ msgstr "Notícias do Sudomemo"
 
 msgid "SUDOMEMO_PLUS"
 msgstr "Sudomemo Plus"
+
+msgid "SUDOMEMO_PLUS_FEATURE"
+msgstr "Sudomemo Plus feature"
 
 msgid "SUDOMEMO_SHOP"
 msgstr "Loja do Sudomemo"
@@ -942,6 +1023,9 @@ msgstr "Para adicionar um comentário"
 msgid "TROPHY_CASE"
 msgstr "Armário de Troféus"
 
+msgid "UNTITLED_FLIPNOTE"
+msgstr "Untitled Flipnote"
+
 # This is shown to logged-in users on their own Flipnotes without titles
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote Sem Título de %s"
@@ -972,6 +1056,12 @@ msgstr "Flipnote do %s do Flipnote Hatena"
 msgid "USERS_PROFILE_FROM_FLIPNOTE_HATENA"
 msgstr "Perfil do %s do Flipnote Hatena"
 
+msgid "USER_NOT_LOGGED_IN"
+msgstr "User not logged in."
+
+msgid "USER_SETTINGS_BIO_EXPLANATION"
+msgstr "This is where you can update your bio."
+
 msgid "USER_SETTINGS_CHANGE_PASSWORD_EXPLANATION"
 msgstr "Podes mudar a tua palavra-passe da tua conta Sudomemo aqui:"
 
@@ -983,6 +1073,9 @@ msgstr "Tokens de Suporte são usados para verificar a tua conta quando entras e
 
 msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
 msgstr "Configurar o teu canal de YouTube interligado, e definições de upload do Flipnote."
+
+msgid "USE_THIS_FRAME_FROM_NOW_ON"
+msgstr "Use this frame from now on"
 
 msgid "VERIFIED_USER"
 msgstr "Utilizador Verificado"
@@ -1149,6 +1242,12 @@ msgstr "A ligação ao teu canal está expirada. Por favor volte a ligar a tua c
 msgid "YOUTUBE_REFRESH_ACCOUNT"
 msgstr "Recarregar conta"
 
+msgid "YOUTUBE_SHORT"
+msgstr "YouTube Short"
+
+msgid "YOUTUBE_SHORT_TOGGLE"
+msgstr "Make it a YouTube Short?"
+
 msgid "YOUTUBE_STATUS_BEING_PROCESSED"
 msgstr "O teu upload está a ser processado."
 
@@ -1249,3 +1348,6 @@ msgstr "Ver agora:"
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "Estás a editar este Flipnote:"
+
+msgid "YT_LAYOUT_MAY_VARY"
+msgstr "Appearance and layout may vary depending on device used to view video"

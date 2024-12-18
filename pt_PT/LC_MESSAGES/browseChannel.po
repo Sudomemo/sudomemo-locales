@@ -15,8 +15,20 @@ msgstr "Procurar por Canção"
 msgid "BROWSE_PLAYLIST"
 msgstr "Procurar Playlist"
 
+msgid "LEAST_VIEWED"
+msgstr "Least Viewed"
+
+msgid "MOST_RECENT"
+msgstr "Recent"
+
+msgid "MOST_VIEWED"
+msgstr "Most Viewed"
+
 msgid "NEXT"
 msgstr "Próximo"
+
+msgid "OLDEST"
+msgstr "Oldest"
 
 msgid "PAGE"
 msgstr "Página"

@@ -30,6 +30,9 @@ msgstr "ヘルプ"
 msgid "HOT_FLIPNOTES"
 msgstr "人気作品"
 
+msgid "HOW_TO_POST"
+msgstr "How to Post"
+
 msgid "LOGIN"
 msgstr "ログイン"
 
@@ -56,6 +59,9 @@ msgstr "作品検索"
 
 msgid "SEARCH_USER"
 msgstr "ユーザー検索"
+
+msgid "SUDOQUEST_REQUIEM"
+msgstr "@SudoQuest: Requiem"
 
 msgid "TEST_TRANSLATION"
 msgstr "日本語翻訳"

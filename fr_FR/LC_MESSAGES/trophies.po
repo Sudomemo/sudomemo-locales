@@ -44,6 +44,12 @@ msgstr "Rejoignez Sudomemo pendant notre premier mois de service"
 msgid "TROPHY_DESC_fall_2023_ffc_winner"
 msgstr "Un des gagnants de la Flipnote Fight Competition de Sudomemo d'automne 2023 !"
 
+msgid "TROPHY_DESC_fall_2024_ffc_winner"
+msgstr "Un des gagnants de la Flipnote Fight Competition de Sudomemo d'automne 2024 !"
+
+msgid "TROPHY_DESC_fate_2024_winner"
+msgstr "A soumis une Flipnote gagnante au FATE 2024"
+
 msgid "TROPHY_DESC_featured_artist"
 msgstr "Soyez reconnu en tant qu'artiste vedette de Sudomemo"
 
@@ -80,6 +86,9 @@ msgstr "Il est flamboyant à l'excès, mais veut toujours entendre parler de vot
 msgid "TROPHY_DESC_meet_ziggy_starburst"
 msgstr "Vit sa vie au jour le jour avec une touche de flair en plus."
 
+msgid "TROPHY_DESC_merch"
+msgstr "Propriétaire de swag Sudomemo — vous faites officiellement partie du cercle des privilégiés."
+
 msgid "TROPHY_DESC_neighborhood_watch"
 msgstr "Signaler correctement du contenu qui viole notre Politique de contenu"
 
@@ -107,6 +116,9 @@ msgstr "Prix du Maître de l'épouvante pour l'Excellence en matière de Sorcell
 msgid "TROPHY_DESC_spring_2023_ffc_winner"
 msgstr "Un des lauréats de la première Flipnote Fight Competition de Sudomemo !"
 
+msgid "TROPHY_DESC_spring_2024_ffc_winner"
+msgstr "Un des lauréats du Spring 2024 Sudomemo Flipnote Fight Competition!"
+
 msgid "TROPHY_DESC_sudomemo_radio"
 msgstr "A contribué au contenu d'un épisode de Radio Sudomemo"
 
@@ -115,6 +127,9 @@ msgstr "A contribué au contenu du tout premier épisode de Radio Sudomemo"
 
 msgid "TROPHY_DESC_translator"
 msgstr "Contribuez aux traductions pour rendre Sudomemo ouvert à tous"
+
+msgid "TROPHY_DESC_visited_wii_room"
+msgstr "A visité la pièce de Sudomemo sur Wii Room!"
 
 msgid "TROPHY_DESC_weekly_topic_winner"
 msgstr "Soumettez une participation déclarée gagnante du Weekly Topic (thème hebdomadaire) de Sudomemo"
@@ -149,6 +164,12 @@ msgstr "Adopteur de la première heure"
 
 msgid "TROPHY_NAME_fall_2023_ffc_winner"
 msgstr "Lauréat de la Flipnote Fight Competition de Sudomemo d'automne 2023"
+
+msgid "TROPHY_NAME_fall_2024_ffc_winner"
+msgstr "Lauréat de la Flipnote Fight Competition de Sudomemo d'automne 2024"
+
+msgid "TROPHY_NAME_fate_2024_winner"
+msgstr "Gagnant du FATE 2024"
 
 msgid "TROPHY_NAME_featured_artist"
 msgstr "Artiste en vedette"
@@ -186,6 +207,9 @@ msgstr "Rencontrez Russell Ramblewood"
 msgid "TROPHY_NAME_meet_ziggy_starburst"
 msgstr "Rencontrez Ziggy Starburst"
 
+msgid "TROPHY_NAME_merch"
+msgstr "Propriétaire de marchandise"
+
 msgid "TROPHY_NAME_neighborhood_watch"
 msgstr "Surveillance de quartier"
 
@@ -213,6 +237,9 @@ msgstr "Maître de l'épouvante"
 msgid "TROPHY_NAME_spring_2023_ffc_winner"
 msgstr "Lauréat de la Flipnote Fight Competition de Sudomemo de printemps 2023"
 
+msgid "TROPHY_NAME_spring_2024_ffc_winner"
+msgstr "Gagnant du concours de combat Sudomemo Flipnote du printemps 2024"
+
 msgid "TROPHY_NAME_sudomemo_radio"
 msgstr "Contributeur de Radio Sudomemo"
 
@@ -221,6 +248,9 @@ msgstr "Contributeur au pilote de Radio Sudomemo"
 
 msgid "TROPHY_NAME_translator"
 msgstr "Traducteur"
+
+msgid "TROPHY_NAME_visited_wii_room"
+msgstr "Trophée Wii Room"
 
 msgid "TROPHY_NAME_weekly_topic_winner"
 msgstr "Vainqueur du Weekly Topic"

@@ -170,6 +170,10 @@ msgstr "Να τα εκατοστησετε!"
 msgid "TICKET_DESC_blue_dog_ticket"
 msgstr "Αυτος ο λαχνος σας δινει 350 αστερια που μπορειτε να ξοδεψετε (ισως και καποιο σπανιο!), ενα συλλεκτικο θεμα, και ενα ειδικο σημα για το προφιλ σας"
 
+# collab with https://www.youtube.com/@ZaneLittle/featured
+msgid "TICKET_DESC_champa_ticket"
+msgstr "A gift from Zane Little!"
+
 msgid "TICKET_DESC_colors_promo_ticket"
 msgstr "Κερδισατε το Sudomemo x Colors! June 2020 Weekly Topic!"
 
@@ -178,6 +182,12 @@ msgstr "Προφανως, αυτη ειναι η περιγραφη για το 
 
 msgid "TICKET_DESC_fall_2023_ffc_winner_ticket"
 msgstr "Congratulations on your winning entry to the Fall 2023 Sudomemo Flipnote Fight Competition!"
+
+msgid "TICKET_DESC_fall_2024_ffc_winner_ticket"
+msgstr "Congratulations on your winning entry to the Fall 2024 Sudomemo Flipnote Fight Competition!"
+
+msgid "TICKET_DESC_fate_2024_winner_ticket"
+msgstr "Congratulations on your winning FATE 2024 submission!"
 
 msgid "TICKET_DESC_featured_artist_ticket"
 msgstr "Τα συγχαρητηρια μας που γινατε Προωθημενος Καλλιτεχνης!"
@@ -206,6 +216,9 @@ msgstr "Ευχαριστουμε που ακολουθησατε το Sudomemo I
 # The last character of this message is the DSi symbol for a heart. Don't remove it.
 msgid "TICKET_DESC_love_anniversary_ticket"
 msgstr "Χρονια Πολλα "
+
+msgid "TICKET_DESC_merch_ticket"
+msgstr "Thank you for purchasing Sudomemo merchandise!"
 
 msgid "TICKET_DESC_neighborhood_watch_ticket"
 msgstr "Ευχαριστουμε για την βοηθεια να παραμενει το Sudomemo ενας ασφαλης τοπος!"
@@ -249,6 +262,9 @@ msgstr "Ευχαριστουμε παρα πολυ που παιξατε SudoQue
 msgid "TICKET_DESC_spring_2023_ffc_winner_ticket"
 msgstr "Congratulations on your winning entry to the first Sudomemo Flipnote Fight Competition!"
 
+msgid "TICKET_DESC_spring_2024_ffc_winner_ticket"
+msgstr "Congratulations on your winning entry to the Spring 2024 Sudomemo Flipnote Fight Competition!"
+
 msgid "TICKET_DESC_sudomemo_radio_pilot_ticket"
 msgstr "Congratulations on being a part of the very first episode of Sudomemo Radio!"
 
@@ -263,6 +279,9 @@ msgstr "Σας ευχαριστουμε για την βοηθεια!"
 
 msgid "TICKET_DESC_twitter_promo_ticket"
 msgstr "Ευχαριστουμε που ακολουθησατε το Sudomemo Twitter!"
+
+msgid "TICKET_DESC_visited_wii_room_ticket"
+msgstr "Thank you for visiting the Sudomemo Room on Wii Room!"
 
 msgid "TICKET_DESC_weekly_topic_winner_ticket"
 msgstr "Συγχαρητηρια για την νικη σας στο Sudomemo Weekly Topic!"
@@ -294,6 +313,10 @@ msgstr "Λαχνος Γενεθλιων"
 msgid "TICKET_NAME_blue_dog_ticket"
 msgstr "Ziggy Starburst Ticket"
 
+# collab with https://www.youtube.com/@ZaneLittle/featured
+msgid "TICKET_NAME_champa_ticket"
+msgstr "Champa Ticket"
+
 msgid "TICKET_NAME_colors_promo_ticket"
 msgstr "Colors! Promo Ticket"
 
@@ -303,6 +326,12 @@ msgstr "Demo Ticket"
 
 msgid "TICKET_NAME_fall_2023_ffc_winner_ticket"
 msgstr "Fall 2023 Sudomemo F.F.C. Winner Ticket"
+
+msgid "TICKET_NAME_fall_2024_ffc_winner_ticket"
+msgstr "Fall 2024 Sudomemo F.F.C. Winner Ticket"
+
+msgid "TICKET_NAME_fate_2024_winner_ticket"
+msgstr "FATE 2024 Winner Ticket"
 
 msgid "TICKET_NAME_featured_artist_ticket"
 msgstr "Λαχνος Προωθημενου Καλλιτεχνη"
@@ -330,6 +359,9 @@ msgstr "Instagram Promo Ticket"
 
 msgid "TICKET_NAME_love_anniversary_ticket"
 msgstr "Λαχνος επετειου"
+
+msgid "TICKET_NAME_merch_ticket"
+msgstr "Merch Ticket"
 
 msgid "TICKET_NAME_neighborhood_watch_ticket"
 msgstr "Neighborhood Watch Ticket"
@@ -374,6 +406,9 @@ msgstr "Spookmaster Ticket"
 msgid "TICKET_NAME_spring_2023_ffc_winner_ticket"
 msgstr "Spring 2023 Sudomemo F.F.C. Winner Ticket"
 
+msgid "TICKET_NAME_spring_2024_ffc_winner_ticket"
+msgstr "Spring 2024 Sudomemo F.F.C. Winner Ticket"
+
 msgid "TICKET_NAME_sudomemo_radio_pilot_ticket"
 msgstr "Sudomemo Radio Pilot Ticket"
 
@@ -388,6 +423,9 @@ msgstr "Λαχνος Μεταφραστη"
 
 msgid "TICKET_NAME_twitter_promo_ticket"
 msgstr "Twitter Promo Ticket"
+
+msgid "TICKET_NAME_visited_wii_room_ticket"
+msgstr "Wii Room Ticket"
 
 msgid "TICKET_NAME_weekly_topic_winner_ticket"
 msgstr "Ticket Νικητη του Weekly Topic"

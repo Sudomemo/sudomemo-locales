@@ -60,6 +60,24 @@ msgstr "Künstler"
 msgid "BACK"
 msgstr "Zurück"
 
+msgid "BIO"
+msgstr "Bio"
+
+msgid "BIO_CLEARED"
+msgstr "Bio cleared."
+
+msgid "BIO_CONTAINS_INVALID_OR_PROHIBITED_TEXT"
+msgstr "Bio contains invalid or prohibited text."
+
+msgid "BIO_FIELD_MISSING"
+msgstr "Bio field is missing."
+
+msgid "BIO_PLACEHOLDER"
+msgstr "Enter your bio here..."
+
+msgid "BIO_UPDATED_SUCCESSFULLY"
+msgstr "Bio updated successfully."
+
 # Browse Channel
 msgid "BROWSE_CHANNEL_NO_FLIPNOTES_YET"
 msgstr "Es wurden noch keine Flipnotes auf diesem Kanal gepostet."
@@ -93,6 +111,9 @@ msgstr "Hochladen starten"
 
 msgid "BTN_UPLOAD_FAILED"
 msgstr "Hochladen fehlgeschlagen..."
+
+msgid "BY"
+msgstr "by"
 
 msgid "CATEGORY"
 msgstr "Kategorie"
@@ -167,6 +188,9 @@ msgstr "Ersteller"
 
 msgid "CREATORS_ROOM"
 msgstr "Ersteller-Raum"
+
+msgid "CUSTOM_FRAMES"
+msgstr "Custom Frames"
 
 # November 29th, 2019 08:23:07
 # Used for Flipnote Details
@@ -499,6 +523,9 @@ msgstr "Heiße Flipnotes"
 msgid "HOW_TO_UNLINK_DISCORD"
 msgstr "Um die Verbindung deines Discord-Accounts aufzuheben, gib Folgendes in den Chat ein: .sudo unlink"
 
+msgid "IMAGE_MUST_BE_1080X1920"
+msgstr "Image must be 1080x1920."
+
 msgid "INFO"
 msgstr "Info"
 
@@ -516,6 +543,9 @@ msgstr "Du benötigst eine Verbindung zu deinem YouTube-Kanal, um dein Flipnote 
 msgid "LOGIN_FAILED_CHECK_DETAILS"
 msgstr "Anmeldung fehlgeschlagen. Überprüfe deine Eingaben und versuche es erneut."
 
+msgid "LOGIN_FAILED_RATELIMITED"
+msgstr "You've made too many incorrect login attempts recently. Please try again later."
+
 msgid "LOGIN_PLACEHOLDER_PASSWORD"
 msgstr "Passwort"
 
@@ -527,6 +557,9 @@ msgstr "Wähle dein Gerät"
 
 msgid "MANAGE_PLAYLIST"
 msgstr "Manage Playlist"
+
+msgid "MERCH"
+msgstr "Merch"
 
 msgid "MODERATOR"
 msgstr "Moderator"
@@ -627,6 +660,9 @@ msgstr "Navigation umschalten"
 msgid "NEWS"
 msgstr "Neuigkeiten"
 
+msgid "NEW_FRAME"
+msgstr "New Frame"
+
 msgid "NEXT"
 msgstr "Weiter"
 
@@ -636,11 +672,20 @@ msgstr "Nintendo 3DS"
 msgid "NINTENDO_DSI"
 msgstr "Nintendo DSi"
 
+msgid "NONE"
+msgstr "None"
+
+msgid "NO_DESCRIPTION"
+msgstr "No description."
+
 msgid "NO_EMAIL_ON_FILE"
 msgstr "Keine Email-Adresse registriert -- kontaktiere Sudomemo Support"
 
 msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
 msgstr "Keinen Benutzer mit angegebener Flipnote Studio-ID oder Email-Adresse gefunden"
+
+msgid "ONLY_APPLIES_FOR_YOUTUBE_SHORTS"
+msgstr "Only applies for YouTube Shorts"
 
 msgid "PARENT_FLIPNOTE"
 msgstr "Übergeordnetes Flipnote"
@@ -686,11 +731,20 @@ msgstr "An error occurred whilst saving this playlist. Error code: %s."
 msgid "PLAYLIST_ERROR_GENERIC_2"
 msgstr "An error occurred. Error code: %s."
 
+msgid "PLAYLIST_ERROR_HINT_INCREASE_LIMIT_PLUS"
+msgstr "You could also increase this limit to %s with Sudomemo Plus!"
+
 msgid "PLAYLIST_ERROR_PROFANE_DESC"
 msgstr "This description contains content that goes against our Content Policy."
 
 msgid "PLAYLIST_ERROR_PROFANE_TITLE"
 msgstr "This title contains content that goes against our Content Policy."
+
+msgid "PLAYLIST_ERROR_TOO_MANY_FLIPNOTES"
+msgstr "You cannot add another Flipnote to this Playlist as it is at or above the limit of %s Flipnotes. Remove a Flipnote or create a new Playlist, then try again."
+
+msgid "PLAYLIST_ERROR_TOO_MANY_PLAYLISTS"
+msgstr "You cannot create a new Playlist as you are at or above the limit of %s Playlists. Delete a Playlist and try again."
 
 msgid "PLAYLIST_ID"
 msgstr "Playlist ID"
@@ -712,6 +766,12 @@ msgstr "Unlisted"
 
 msgid "PLAYLIST_VISIBILITY"
 msgstr "Visibility"
+
+msgid "PLEASE_SELECT_FRAME_OR_UPLOAD_CUSTOM_FRAME"
+msgstr "Please select a frame or upload a custom frame."
+
+msgid "PLEASE_UPLOAD_VALID_IMAGE_FILE"
+msgstr "Please upload a valid image file (PNG only)."
 
 msgid "PLUS_LEARN_MORE"
 msgstr "Mehr erfahren..."
@@ -757,6 +817,12 @@ msgstr "Zufällige Flipnotes"
 
 msgid "RANK"
 msgstr "Rang"
+
+msgid "RANK_IMPROVED"
+msgstr "Rank Improved"
+
+msgid "RANK_UNCHANGED"
+msgstr "Rank Unchanged"
 
 msgid "RECENT"
 msgstr "Neu"
@@ -850,11 +916,20 @@ msgstr "Auf Twitter teilen"
 msgid "SHARE_ON_WHATSAPP"
 msgstr "Auf WhatsApp teilen"
 
+msgid "SHOP_NOW"
+msgstr "Shop Now"
+
+msgid "SHORT_PREVIEW"
+msgstr "Short Preview"
+
 msgid "SHOW_ON_PROFILE"
 msgstr "Auf Profil anzeigen"
 
 msgid "SHOW_YOUTUBE_LINK_ON_MY_PROFILE"
 msgstr "Einen Link zu meinem YouTube-Kanal auf meinem Sudomemo-Profil anzeigen"
+
+msgid "SIGNIFICANT_DECLINE"
+msgstr "Significant Decline"
 
 msgid "SIGN_IN"
 msgstr "Anmelden"
@@ -864,6 +939,9 @@ msgstr "Abmelden"
 
 msgid "SIGN_UP"
 msgstr "Registrieren"
+
+msgid "SLIGHT_DECLINE"
+msgstr "Slight Decline"
 
 # For MusicMatch
 msgid "SONG"
@@ -891,6 +969,9 @@ msgstr "Sudomemo News"
 
 msgid "SUDOMEMO_PLUS"
 msgstr "Sudomemo Plus"
+
+msgid "SUDOMEMO_PLUS_FEATURE"
+msgstr "Sudomemo Plus feature"
 
 msgid "SUDOMEMO_SHOP"
 msgstr "Sudomemo Shop"
@@ -942,6 +1023,9 @@ msgstr "um einen Kommentar hinzuzufügen"
 msgid "TROPHY_CASE"
 msgstr "Trophäen-Vitrine"
 
+msgid "UNTITLED_FLIPNOTE"
+msgstr "Untitled Flipnote"
+
 # This is shown to logged-in users on their own Flipnotes without titles
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "Unbenanntes Flipnote von %s"
@@ -972,6 +1056,12 @@ msgstr "Flipnote v. %s von Flipnote Hatena"
 msgid "USERS_PROFILE_FROM_FLIPNOTE_HATENA"
 msgstr "Profil v. %s von Flipnote Hatena"
 
+msgid "USER_NOT_LOGGED_IN"
+msgstr "User not logged in."
+
+msgid "USER_SETTINGS_BIO_EXPLANATION"
+msgstr "This is where you can update your bio."
+
 msgid "USER_SETTINGS_CHANGE_PASSWORD_EXPLANATION"
 msgstr "Du kannst das Passwort für dein Sudomemo-Konto hier ändern:"
 
@@ -983,6 +1073,9 @@ msgstr "Support-Tokens werden verwendet, um dein Konto beim Kontakt mit dem Sudo
 
 msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
 msgstr "Konfiguriere deinen verbundenen YouTube-Kanal und Einstellungen zu hochgeladenen Flipnote."
+
+msgid "USE_THIS_FRAME_FROM_NOW_ON"
+msgstr "Use this frame from now on"
 
 msgid "VERIFIED_USER"
 msgstr "Bestätigter Nutzer"
@@ -1149,6 +1242,12 @@ msgstr "Die Verbindung zu deinem Kanal ist veraltet. Zum Fortfahren erneut verbi
 msgid "YOUTUBE_REFRESH_ACCOUNT"
 msgstr "Konto aktualisieren"
 
+msgid "YOUTUBE_SHORT"
+msgstr "YouTube Short"
+
+msgid "YOUTUBE_SHORT_TOGGLE"
+msgstr "Make it a YouTube Short?"
+
 msgid "YOUTUBE_STATUS_BEING_PROCESSED"
 msgstr "Dein Flipnote wird gerade verarbeitet."
 
@@ -1249,3 +1348,6 @@ msgstr "Jetzt anschauen:"
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "Du bearbeitest gerade dieses Flipnote:"
+
+msgid "YT_LAYOUT_MAY_VARY"
+msgstr "Appearance and layout may vary depending on device used to view video"

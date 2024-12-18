@@ -170,6 +170,10 @@ msgstr "お誕生日おめでとう!"
 msgid "TICKET_DESC_blue_dog_ticket"
 msgstr "このチケットを購入すると、350ものスター（レアなスターがあるかも？）、限定テーマをゲットすることができ、特別なバッジがプロフィールに表示されます"
 
+# collab with https://www.youtube.com/@ZaneLittle/featured
+msgid "TICKET_DESC_champa_ticket"
+msgstr "A gift from Zane Little!"
+
 msgid "TICKET_DESC_colors_promo_ticket"
 msgstr "スドメモ x Colorsを獲得しました！※2020年6月の週刊トピックです！"
 
@@ -178,6 +182,12 @@ msgstr "デモチケットの説明です。"
 
 msgid "TICKET_DESC_fall_2023_ffc_winner_ticket"
 msgstr "Congratulations on your winning entry to the Fall 2023 Sudomemo Flipnote Fight Competition!"
+
+msgid "TICKET_DESC_fall_2024_ffc_winner_ticket"
+msgstr "Congratulations on your winning entry to the Fall 2024 Sudomemo Flipnote Fight Competition!"
+
+msgid "TICKET_DESC_fate_2024_winner_ticket"
+msgstr "Congratulations on your winning FATE 2024 submission!"
 
 msgid "TICKET_DESC_featured_artist_ticket"
 msgstr "スドメモで注目された作者になったことを心からお祝いします！"
@@ -206,6 +216,9 @@ msgstr "スドメモのInstagramをフォローしていただきありがとう
 # Anniversary The last character of this message is the DSi symbol for a heart. Don't remove it.
 msgid "TICKET_DESC_love_anniversary_ticket"
 msgstr "記念おめでとう "
+
+msgid "TICKET_DESC_merch_ticket"
+msgstr "Thank you for purchasing Sudomemo merchandise!"
 
 msgid "TICKET_DESC_neighborhood_watch_ticket"
 msgstr "スドメモの快適さを保つのを助けてくれてありがとう！"
@@ -249,6 +262,9 @@ msgstr "スドクエスト:レクイエムをプレイしていただき、あ�
 msgid "TICKET_DESC_spring_2023_ffc_winner_ticket"
 msgstr "Congratulations on your winning entry to the first Sudomemo Flipnote Fight Competition!"
 
+msgid "TICKET_DESC_spring_2024_ffc_winner_ticket"
+msgstr "Congratulations on your winning entry to the Spring 2024 Sudomemo Flipnote Fight Competition!"
+
 msgid "TICKET_DESC_sudomemo_radio_pilot_ticket"
 msgstr "スドメモラジオの第1回に参加していただき、ありがとうございました！"
 
@@ -263,6 +279,9 @@ msgstr "スドメモの翻訳にご協力いただきありがとうございま
 
 msgid "TICKET_DESC_twitter_promo_ticket"
 msgstr "スドメモのTwitterをフォローしていただきありがとうございます!"
+
+msgid "TICKET_DESC_visited_wii_room_ticket"
+msgstr "Thank you for visiting the Sudomemo Room on Wii Room!"
 
 msgid "TICKET_DESC_weekly_topic_winner_ticket"
 msgstr "スドメモ今週のお題への入選おめでとう!"
@@ -294,6 +313,10 @@ msgstr "バースデーチケット"
 msgid "TICKET_NAME_blue_dog_ticket"
 msgstr "ジギースターバーストチケット"
 
+# collab with https://www.youtube.com/@ZaneLittle/featured
+msgid "TICKET_NAME_champa_ticket"
+msgstr "Champa Ticket"
+
 msgid "TICKET_NAME_colors_promo_ticket"
 msgstr "Colors!プロモーションチケット"
 
@@ -303,6 +326,12 @@ msgstr "デモチケット"
 
 msgid "TICKET_NAME_fall_2023_ffc_winner_ticket"
 msgstr "Fall 2023 Sudomemo F.F.C. Winner Ticket"
+
+msgid "TICKET_NAME_fall_2024_ffc_winner_ticket"
+msgstr "Fall 2024 Sudomemo F.F.C. Winner Ticket"
+
+msgid "TICKET_NAME_fate_2024_winner_ticket"
+msgstr "FATE 2024 Winner Ticket"
 
 msgid "TICKET_NAME_featured_artist_ticket"
 msgstr "注目の作者のチケット"
@@ -330,6 +359,9 @@ msgstr "Instagramプロモチケット"
 
 msgid "TICKET_NAME_love_anniversary_ticket"
 msgstr "記念日チケット"
+
+msgid "TICKET_NAME_merch_ticket"
+msgstr "Merch Ticket"
 
 msgid "TICKET_NAME_neighborhood_watch_ticket"
 msgstr "近隣ウォッチチケット"
@@ -374,6 +406,9 @@ msgstr "スプークマスターチケット"
 msgid "TICKET_NAME_spring_2023_ffc_winner_ticket"
 msgstr "Spring 2023 Sudomemo F.F.C. Winner Ticket"
 
+msgid "TICKET_NAME_spring_2024_ffc_winner_ticket"
+msgstr "Spring 2024 Sudomemo F.F.C. Winner Ticket"
+
 msgid "TICKET_NAME_sudomemo_radio_pilot_ticket"
 msgstr "スドメモラジオパイロットチケット"
 
@@ -388,6 +423,9 @@ msgstr "翻訳者チケット"
 
 msgid "TICKET_NAME_twitter_promo_ticket"
 msgstr "Twitterプロモチケット"
+
+msgid "TICKET_NAME_visited_wii_room_ticket"
+msgstr "Wii Room Ticket"
 
 msgid "TICKET_NAME_weekly_topic_winner_ticket"
 msgstr "今週のお題入選者チケット"

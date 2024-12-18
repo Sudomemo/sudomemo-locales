@@ -30,6 +30,9 @@ msgstr "@Aide"
 msgid "HOT_FLIPNOTES"
 msgstr "@Flipnotes tendance"
 
+msgid "HOW_TO_POST"
+msgstr "Comment Soumettre"
+
 msgid "LOGIN"
 msgstr "Connexion"
 
@@ -37,7 +40,7 @@ msgid "LOGOUT"
 msgstr "Déconnexion"
 
 msgid "MAIL"
-msgstr "Mail"
+msgstr "Courrier"
 
 msgid "NEWS"
 msgstr "@Infos de Sudomemo"
@@ -56,6 +59,9 @@ msgstr "Recherche de Flipnote"
 
 msgid "SEARCH_USER"
 msgstr "Recherche d'utilisateur"
+
+msgid "SUDOQUEST_REQUIEM"
+msgstr "@SudoQuest: Requiem"
 
 msgid "TEST_TRANSLATION"
 msgstr "Traduction en Anglais"

@@ -170,6 +170,10 @@ msgstr "Alles Gute!"
 msgid "TICKET_DESC_blue_dog_ticket"
 msgstr "Dieses Ticket bringt dir 350 Farb-Sterne (vielleicht sogar ein seltener!), eine exklusive Kulisse und ein spezielles Icon, welches in deinem Ersteller-Raum angezeigt wird!"
 
+# collab with https://www.youtube.com/@ZaneLittle/featured
+msgid "TICKET_DESC_champa_ticket"
+msgstr "A gift from Zane Little!"
+
 msgid "TICKET_DESC_colors_promo_ticket"
 msgstr "Du hast die Sudomemo x Colors! Juni 2020 Wochen-Thema gewonnen!"
 
@@ -178,6 +182,12 @@ msgstr "Dies ist tatsächlich die Beschreibung des Demo-Tickets."
 
 msgid "TICKET_DESC_fall_2023_ffc_winner_ticket"
 msgstr "Congratulations on your winning entry to the Fall 2023 Sudomemo Flipnote Fight Competition!"
+
+msgid "TICKET_DESC_fall_2024_ffc_winner_ticket"
+msgstr "Congratulations on your winning entry to the Fall 2024 Sudomemo Flipnote Fight Competition!"
+
+msgid "TICKET_DESC_fate_2024_winner_ticket"
+msgstr "Congratulations on your winning FATE 2024 submission!"
 
 msgid "TICKET_DESC_featured_artist_ticket"
 msgstr "Unsere herzlichsten Glückwünsche zum Werden eines Sudomemo-empfohlenen Künstlers!"
@@ -206,6 +216,9 @@ msgstr "Vielen Dank, dass du Sudomemo auf Instagram folgst!"
 # The last character of this message is the DSi symbol for a heart. Don't remove it.
 msgid "TICKET_DESC_love_anniversary_ticket"
 msgstr "Alles Gute zum Jubiläum! "
+
+msgid "TICKET_DESC_merch_ticket"
+msgstr "Thank you for purchasing Sudomemo merchandise!"
 
 msgid "TICKET_DESC_neighborhood_watch_ticket"
 msgstr "Danke, dass du dabei hilfst, dass Sudomemo ein sicherer und einladender Ort bleibt!"
@@ -249,6 +262,9 @@ msgstr "Vielen Dank zum Spielen von SudoQuest: Requiem! Wir hoffen, es hat euch 
 msgid "TICKET_DESC_spring_2023_ffc_winner_ticket"
 msgstr "Gratulation für deine gewinnende Einreichung zu der ersten Sudomemo Flipnote Fight Competition!"
 
+msgid "TICKET_DESC_spring_2024_ffc_winner_ticket"
+msgstr "Congratulations on your winning entry to the Spring 2024 Sudomemo Flipnote Fight Competition!"
+
 msgid "TICKET_DESC_sudomemo_radio_pilot_ticket"
 msgstr "Gratulation dafür, dass du ein Teil der allerersten Episode von Sudomemo Radio bist!"
 
@@ -263,6 +279,9 @@ msgstr "Danke, dass du dabei hilfst, Sudomemo für verschiedene Regionen anzupas
 
 msgid "TICKET_DESC_twitter_promo_ticket"
 msgstr "Vielen Dank, dass du Sudomemo auf Twitter folgst!"
+
+msgid "TICKET_DESC_visited_wii_room_ticket"
+msgstr "Thank you for visiting the Sudomemo Room on Wii Room!"
 
 msgid "TICKET_DESC_weekly_topic_winner_ticket"
 msgstr "Glückwunsch zum Gewinn des Wochen-Themas auf Sudomemo!"
@@ -294,6 +313,10 @@ msgstr "Geburtstags-Ticket"
 msgid "TICKET_NAME_blue_dog_ticket"
 msgstr "Ziggy-Starburst-Ticket"
 
+# collab with https://www.youtube.com/@ZaneLittle/featured
+msgid "TICKET_NAME_champa_ticket"
+msgstr "Champa Ticket"
+
 msgid "TICKET_NAME_colors_promo_ticket"
 msgstr "Colors!-Promo-Ticket"
 
@@ -303,6 +326,12 @@ msgstr "Demo-Ticket"
 
 msgid "TICKET_NAME_fall_2023_ffc_winner_ticket"
 msgstr "Fall 2023 Sudomemo F.F.C. Winner Ticket"
+
+msgid "TICKET_NAME_fall_2024_ffc_winner_ticket"
+msgstr "Fall 2024 Sudomemo F.F.C. Winner Ticket"
+
+msgid "TICKET_NAME_fate_2024_winner_ticket"
+msgstr "FATE 2024 Winner Ticket"
 
 msgid "TICKET_NAME_featured_artist_ticket"
 msgstr "Empfohlener Künstler-Ticket"
@@ -330,6 +359,9 @@ msgstr "Instagram-Promo-Ticket"
 
 msgid "TICKET_NAME_love_anniversary_ticket"
 msgstr "Jubiläums-Ticket"
+
+msgid "TICKET_NAME_merch_ticket"
+msgstr "Merch Ticket"
 
 msgid "TICKET_NAME_neighborhood_watch_ticket"
 msgstr "Nachbarschaftswachen-Ticket"
@@ -374,6 +406,9 @@ msgstr "Spukmeister-Ticket"
 msgid "TICKET_NAME_spring_2023_ffc_winner_ticket"
 msgstr "Frühling 2023 Sudomemo F.F.C.-Gewinner-Ticket"
 
+msgid "TICKET_NAME_spring_2024_ffc_winner_ticket"
+msgstr "Spring 2024 Sudomemo F.F.C. Winner Ticket"
+
 msgid "TICKET_NAME_sudomemo_radio_pilot_ticket"
 msgstr "Sudomemo Radio Pilot-Ticket"
 
@@ -388,6 +423,9 @@ msgstr "Übersetzer-Ticket"
 
 msgid "TICKET_NAME_twitter_promo_ticket"
 msgstr "Twitter-Promo-Ticket"
+
+msgid "TICKET_NAME_visited_wii_room_ticket"
+msgstr "Wii Room Ticket"
 
 msgid "TICKET_NAME_weekly_topic_winner_ticket"
 msgstr "Wochen-Thema-Gewinner-Ticket"

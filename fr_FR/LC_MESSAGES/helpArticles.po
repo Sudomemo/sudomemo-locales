@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Language: fr_FR\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "HOW_TO_POST"
+msgstr "Comment poster une Flipnote"
+
+msgid "STEP_1_LOGIN"
+msgstr "Depuis le menu principal, touchez \"Salle de créateur\" et connectez-vous."
+
+msgid "STEP_2_NAVIGATE_CHANNELS"
+msgstr "Retournez au menu principal et sélectionnez \"Chaînes\"."
+
+msgid "STEP_3_SELECT_CHANNEL"
+msgstr "Choisissez une chaîne qui correspond au thème de votre Flipnote."
+
+msgid "STEP_4_UPLOAD_FLIPNOTE"
+msgstr "Touchez \"Poster une Flipnote\", situé dans le coin inférieur droit. Sélectionnez votre Flipnote. Verrouillez-le (pas de spin-offs) ou laissez-le déverrouillé (permet les spin-offs)."
+
+msgid "STEP_5_FINISH_SHARE"
+msgstr "Confirmez le téléversement. Votre Flipnote est maintenant sur Sudomemo !"

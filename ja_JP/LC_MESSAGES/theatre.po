@@ -60,6 +60,24 @@ msgstr "アーティスト"
 msgid "BACK"
 msgstr "戻る"
 
+msgid "BIO"
+msgstr "Bio"
+
+msgid "BIO_CLEARED"
+msgstr "Bio cleared."
+
+msgid "BIO_CONTAINS_INVALID_OR_PROHIBITED_TEXT"
+msgstr "Bio contains invalid or prohibited text."
+
+msgid "BIO_FIELD_MISSING"
+msgstr "Bio field is missing."
+
+msgid "BIO_PLACEHOLDER"
+msgstr "Enter your bio here..."
+
+msgid "BIO_UPDATED_SUCCESSFULLY"
+msgstr "Bio updated successfully."
+
 # Browse Channel
 msgid "BROWSE_CHANNEL_NO_FLIPNOTES_YET"
 msgstr "このチャンネルに投稿された作品はまだありません。"
@@ -93,6 +111,9 @@ msgstr "アップロードを開始"
 
 msgid "BTN_UPLOAD_FAILED"
 msgstr "アップロードに失敗しました..."
+
+msgid "BY"
+msgstr "by"
 
 msgid "CATEGORY"
 msgstr "カテゴリー"
@@ -167,6 +188,9 @@ msgstr "作者"
 
 msgid "CREATORS_ROOM"
 msgstr "マイルーム"
+
+msgid "CUSTOM_FRAMES"
+msgstr "Custom Frames"
 
 # November 29th, 2019 08:23:07
 # Used for Flipnote Details
@@ -499,6 +523,9 @@ msgstr "話題作品"
 msgid "HOW_TO_UNLINK_DISCORD"
 msgstr "Discordアカウントとの紐付けを解除したい場合は以下のコマンドをチャットに送信してください: .sudo unlink"
 
+msgid "IMAGE_MUST_BE_1080X1920"
+msgstr "Image must be 1080x1920."
+
 msgid "INFO"
 msgstr "情報"
 
@@ -516,6 +543,9 @@ msgstr "作品をアップロードする前に、YouTubeチャンネルと連�
 msgid "LOGIN_FAILED_CHECK_DETAILS"
 msgstr "ログインできませんでした。入力内容を確認してもう一度送信してください"
 
+msgid "LOGIN_FAILED_RATELIMITED"
+msgstr "You've made too many incorrect login attempts recently. Please try again later."
+
 msgid "LOGIN_PLACEHOLDER_PASSWORD"
 msgstr "パスワード"
 
@@ -527,6 +557,9 @@ msgstr "機種を選択してください"
 
 msgid "MANAGE_PLAYLIST"
 msgstr "Manage Playlist"
+
+msgid "MERCH"
+msgstr "Merch"
 
 msgid "MODERATOR"
 msgstr "運営"
@@ -627,6 +660,9 @@ msgstr "ナビゲーションの切り替え"
 msgid "NEWS"
 msgstr "ニュース"
 
+msgid "NEW_FRAME"
+msgstr "New Frame"
+
 msgid "NEXT"
 msgstr "次へ"
 
@@ -636,11 +672,20 @@ msgstr "Nintendo 3DS"
 msgid "NINTENDO_DSI"
 msgstr "Nintendo DSi"
 
+msgid "NONE"
+msgstr "None"
+
+msgid "NO_DESCRIPTION"
+msgstr "No description."
+
 msgid "NO_EMAIL_ON_FILE"
 msgstr "メールアドレスが見つかりません。スドメモのサポートにお問い合わせください"
 
 msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
 msgstr "そのうごメモIDまたはメールアドレスで登録されているユーザーは見つかりませんでした"
+
+msgid "ONLY_APPLIES_FOR_YOUTUBE_SHORTS"
+msgstr "Only applies for YouTube Shorts"
 
 msgid "PARENT_FLIPNOTE"
 msgstr "原作"
@@ -686,11 +731,20 @@ msgstr "An error occurred whilst saving this playlist. Error code: %s."
 msgid "PLAYLIST_ERROR_GENERIC_2"
 msgstr "An error occurred. Error code: %s."
 
+msgid "PLAYLIST_ERROR_HINT_INCREASE_LIMIT_PLUS"
+msgstr "You could also increase this limit to %s with Sudomemo Plus!"
+
 msgid "PLAYLIST_ERROR_PROFANE_DESC"
 msgstr "This description contains content that goes against our Content Policy."
 
 msgid "PLAYLIST_ERROR_PROFANE_TITLE"
 msgstr "This title contains content that goes against our Content Policy."
+
+msgid "PLAYLIST_ERROR_TOO_MANY_FLIPNOTES"
+msgstr "You cannot add another Flipnote to this Playlist as it is at or above the limit of %s Flipnotes. Remove a Flipnote or create a new Playlist, then try again."
+
+msgid "PLAYLIST_ERROR_TOO_MANY_PLAYLISTS"
+msgstr "You cannot create a new Playlist as you are at or above the limit of %s Playlists. Delete a Playlist and try again."
 
 msgid "PLAYLIST_ID"
 msgstr "Playlist ID"
@@ -712,6 +766,12 @@ msgstr "Unlisted"
 
 msgid "PLAYLIST_VISIBILITY"
 msgstr "Visibility"
+
+msgid "PLEASE_SELECT_FRAME_OR_UPLOAD_CUSTOM_FRAME"
+msgstr "Please select a frame or upload a custom frame."
+
+msgid "PLEASE_UPLOAD_VALID_IMAGE_FILE"
+msgstr "Please upload a valid image file (PNG only)."
 
 msgid "PLUS_LEARN_MORE"
 msgstr "詳しくはこちら"
@@ -757,6 +817,12 @@ msgstr "ランダム"
 
 msgid "RANK"
 msgstr "作者ランキング"
+
+msgid "RANK_IMPROVED"
+msgstr "Rank Improved"
+
+msgid "RANK_UNCHANGED"
+msgstr "Rank Unchanged"
 
 msgid "RECENT"
 msgstr "新着順"
@@ -850,11 +916,20 @@ msgstr "Twitterで共有"
 msgid "SHARE_ON_WHATSAPP"
 msgstr "WhatsApp経由で共有"
 
+msgid "SHOP_NOW"
+msgstr "Shop Now"
+
+msgid "SHORT_PREVIEW"
+msgstr "Short Preview"
+
 msgid "SHOW_ON_PROFILE"
 msgstr "プロフィールで表示"
 
 msgid "SHOW_YOUTUBE_LINK_ON_MY_PROFILE"
 msgstr "スドメモのプロフィールにYouTubeチャンネルへのリンクを表示"
+
+msgid "SIGNIFICANT_DECLINE"
+msgstr "Significant Decline"
 
 msgid "SIGN_IN"
 msgstr "ログイン"
@@ -864,6 +939,9 @@ msgstr "ログアウト"
 
 msgid "SIGN_UP"
 msgstr "新規登録"
+
+msgid "SLIGHT_DECLINE"
+msgstr "Slight Decline"
 
 # For MusicMatch
 msgid "SONG"
@@ -891,6 +969,9 @@ msgstr "スドメモニュース"
 
 msgid "SUDOMEMO_PLUS"
 msgstr "スドメモプラス"
+
+msgid "SUDOMEMO_PLUS_FEATURE"
+msgstr "Sudomemo Plus feature"
 
 msgid "SUDOMEMO_SHOP"
 msgstr "スドメモショップ"
@@ -942,6 +1023,9 @@ msgstr "コメントを送信"
 msgid "TROPHY_CASE"
 msgstr "トロフィーケース"
 
+msgid "UNTITLED_FLIPNOTE"
+msgstr "Untitled Flipnote"
+
 # This is shown to logged-in users on their own Flipnotes without titles
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "%sさんの無題の作品"
@@ -972,6 +1056,12 @@ msgstr "うごメモはてなでの%sのうごメモ"
 msgid "USERS_PROFILE_FROM_FLIPNOTE_HATENA"
 msgstr "うごメモはてなでの%sのプロフィール"
 
+msgid "USER_NOT_LOGGED_IN"
+msgstr "User not logged in."
+
+msgid "USER_SETTINGS_BIO_EXPLANATION"
+msgstr "This is where you can update your bio."
+
 msgid "USER_SETTINGS_CHANGE_PASSWORD_EXPLANATION"
 msgstr "You can change the password for your Sudomemo account here:"
 
@@ -983,6 +1073,9 @@ msgstr "サポートトークンはスドメモサポートに連絡するとき
 
 msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
 msgstr "連携したYouTubeチャンネルとデフォルトの作品アップロード設定を行います。"
+
+msgid "USE_THIS_FRAME_FROM_NOW_ON"
+msgstr "Use this frame from now on"
 
 msgid "VERIFIED_USER"
 msgstr "確認済みユーザー"
@@ -1149,6 +1242,12 @@ msgstr "チャンネルとの連携が古くなっています。続行するに
 msgid "YOUTUBE_REFRESH_ACCOUNT"
 msgstr "アカウントを更新"
 
+msgid "YOUTUBE_SHORT"
+msgstr "YouTube Short"
+
+msgid "YOUTUBE_SHORT_TOGGLE"
+msgstr "Make it a YouTube Short?"
+
 msgid "YOUTUBE_STATUS_BEING_PROCESSED"
 msgstr "アップロードは現在処理中です。"
 
@@ -1249,3 +1348,6 @@ msgstr "今すぐ見る:"
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "編集中"
+
+msgid "YT_LAYOUT_MAY_VARY"
+msgstr "Appearance and layout may vary depending on device used to view video"

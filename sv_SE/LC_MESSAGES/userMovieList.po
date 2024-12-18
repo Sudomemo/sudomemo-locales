@@ -9,8 +9,20 @@ msgstr "%s's Favoriter flöde"
 msgid "FLIPNOTES_BY_FORMAT"
 msgstr "Flipnotes av %s"
 
+msgid "LEAST_VIEWED"
+msgstr "Least Viewed"
+
+msgid "MOST_RECENT"
+msgstr "Recent"
+
+msgid "MOST_VIEWED"
+msgstr "Most Viewed"
+
 msgid "NEXT"
 msgstr "Nästa Sida"
+
+msgid "OLDEST"
+msgstr "Oldest"
 
 msgid "PAGE"
 msgstr "Sida"

@@ -30,6 +30,9 @@ msgstr "Help"
 msgid "HOT_FLIPNOTES"
 msgstr "Hot Flipnotes"
 
+msgid "HOW_TO_POST"
+msgstr "How to Post"
+
 msgid "LOGIN"
 msgstr "Login"
 
@@ -56,6 +59,9 @@ msgstr "Flipnote Search"
 
 msgid "SEARCH_USER"
 msgstr "User Search"
+
+msgid "SUDOQUEST_REQUIEM"
+msgstr "@SudoQuest: Requiem"
 
 msgid "TEST_TRANSLATION"
 msgstr "British English Translation"
