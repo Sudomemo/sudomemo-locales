@@ -4,7 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CHANNEL"
-msgstr "Channel"
+msgstr "Canal"
 
 msgid "HEADER_NEXT"
 msgstr "Próximo"
@@ -40,10 +40,10 @@ msgid "SEARCH"
 msgstr "Procurar"
 
 msgid "SEARCH_CHANNELS"
-msgstr "Channels"
+msgstr "Canais"
 
 msgid "SEARCH_FOR"
-msgstr "Search for..."
+msgstr "Procurar por..."
 
 msgid "SEARCH_MUSICMATCH"
 msgstr "MusicMatch"
