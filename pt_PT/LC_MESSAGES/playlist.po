@@ -4,82 +4,82 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "ADDED_TO_NEW_PLAYLIST"
-msgstr "Added to new Playlist"
+msgstr "Adicionado á nova Playlist"
 
 msgid "ADDED_TO_PLAYLIST"
-msgstr "Added to Playlist"
+msgstr "Adicionado á Playlist"
 
 msgid "BACK_TO_FLIPNOTE"
-msgstr "Back to Flipnote"
+msgstr "Voltar ao Flipnote"
 
 msgid "CREATOR"
 msgstr "Criador:"
 
 msgid "ERROR_AUTHOR_IS_BLOCKED"
-msgstr "You cannot perform this action with this Flipnote because you have blocked the author."
+msgstr "Não podes fazer nada com isto, porque bloqueaste o autor deste Flipnote."
 
 msgid "ERROR_AUTHOR_IS_BLOCKED_DESC"
-msgstr "Please unblock the author and try again."
+msgstr "Por favor desbloqueie o autor e tente de novo."
 
 msgid "ERROR_AUTHOR_IS_BLOCKING"
-msgstr "You cannot perform this action with this Flipnote because the author has blocked you."
+msgstr "Não podes fazer nada com isto, porque o autor deste Flipnote te bloqueou."
 
 msgid "ERROR_AUTHOR_IS_BLOCKING_DESC"
-msgstr "Please try again with a different Flipnote."
+msgstr "Por favor tente de novo com outro Flipnote."
 
 msgid "ERROR_PROFANE_DESC"
-msgstr "This description violates our Content Policy."
+msgstr "Esta descrição viola a nossa Política de Conteúdo."
 
 msgid "ERROR_PROFANE_DESC_DESC"
-msgstr "Please try again with a more appropriate description."
+msgstr "Por favor tente de novo com uma descrição mais adequada."
 
 msgid "ERROR_PROFANE_TITLE"
-msgstr "This title violates our Content Policy."
+msgstr "Este título viola a nossa Política de Conteúdo."
 
 msgid "ERROR_PROFANE_TITLE_DESC"
-msgstr "Please try again with a more appropriate title."
+msgstr "Por favor tente de novo com um título mais adequado."
 
 msgid "ERROR_TITLE_ADD_TO_PLAYLIST"
-msgstr "Unable to add to Playlist!"
+msgstr "Impossível adicionar á Playlist!"
 
 msgid "ERROR_TITLE_CREATE_NEW_PLAYLIST"
-msgstr "Unable to create new Playlist!"
+msgstr "Impossível criar Playlist!"
 
 msgid "ERROR_TITLE_PROFANE_DESC"
-msgstr "Unable to save new description!"
+msgstr "Impossível guardar a descrição!"
 
 msgid "ERROR_TITLE_PROFANE_TITLE"
-msgstr "Unable to save new title!"
+msgstr "Impossível guardar o título!"
 
 msgid "FLIPNOTES"
 msgstr "Flipnotes"
 
 msgid "NEW_PLAYLIST"
-msgstr "Add to new Playlist"
+msgstr "Adicionar á nova Playlist"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "A seguir"
 
 msgid "NO_PLAYLISTS_FOUND"
-msgstr "No playlists found"
+msgstr "Não há nenhuma playlist"
 
 msgid "PREV"
-msgstr "Previous"
+msgstr "Anterior"
 
 msgid "REMOVED_FROM_PLAYLIST"
-msgstr "Removed from Playlist"
+msgstr "Removido da Playlist"
 
 msgid "SORT_BY_NEWEST"
-msgstr "Latest"
+msgstr "Mais Recentes"
 
 msgid "SORT_BY_OLDEST"
-msgstr "Chronological"
+msgstr "Ordem Cronológica"
 
 msgid "TAP_TO_ADD_DESCRIPTION"
 msgstr "Toque aqui para adicionar uma descrição."
 
 msgid "VIEW_FLIPNOTES"
-msgstr "View Flipnotes"
+msgstr "Ver Flipnotes"
 
 msgid "VIEW_PLAYLIST"
-msgstr "View Playlist"
+msgstr "Ver Playlist"
