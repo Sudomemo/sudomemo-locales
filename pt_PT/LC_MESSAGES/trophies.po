@@ -20,6 +20,9 @@ msgstr "Caixa de Troféus"
 msgid "TROPHY_DESC_10th_birthday_bash"
 msgstr "Participaste no evento 10 anos a Divertiste com Flipnotes do Sudomemo"
 
+msgid "TROPHY_DESC_11th_birthday_bash"
+msgstr "Attended Sudomemo's 11th Birthday Bash event"
+
 msgid "TROPHY_DESC_7th_birthday_bash"
 msgstr "Participaste no evento 7 anos a Divertiste com Flipnotes do Sudomemo"
 
@@ -110,6 +113,9 @@ msgstr "Destacado no Sudomemo Rewind de 2022!"
 msgid "TROPHY_DESC_rewind_2023"
 msgstr "Destacado no Sudomemo Rewind de 2023!"
 
+msgid "TROPHY_DESC_rewind_2024"
+msgstr "Featured in 2024's Sudomemo Rewind!"
+
 msgid "TROPHY_DESC_spookmaster"
 msgstr "Troféu Mestre dos Sustos, para a excelência em Bruxaria e Feitiçaria."
 
@@ -131,6 +137,9 @@ msgstr "Contribuir traduções para fazer o Sudomemo aberto a todos"
 msgid "TROPHY_DESC_visited_wii_room"
 msgstr "Visited Sudomemo's Room on Wii Room!"
 
+msgid "TROPHY_DESC_wcf_2025_winner"
+msgstr "Winner of Sudomemo's 2025 Winter Comedy Fest"
+
 msgid "TROPHY_DESC_weekly_topic_winner"
 msgstr "Submeter um post vencedor no Tópico Semanal do Sudomemo"
 
@@ -139,6 +148,9 @@ msgstr "Ganhaste o título de Cidadão Acolhedor."
 
 msgid "TROPHY_NAME_10th_birthday_bash"
 msgstr "10º Birthday Bash"
+
+msgid "TROPHY_NAME_11th_birthday_bash"
+msgstr "11th Birthday Bash"
 
 msgid "TROPHY_NAME_7th_birthday_bash"
 msgstr "7º Birthday Bash"
@@ -231,6 +243,9 @@ msgstr "Sudomemo Rewind 2022"
 msgid "TROPHY_NAME_rewind_2023"
 msgstr "Sudomemo Rewind 2023"
 
+msgid "TROPHY_NAME_rewind_2024"
+msgstr "Sudomemo Rewind 2024"
+
 msgid "TROPHY_NAME_spookmaster"
 msgstr "Mestre dos Sustos"
 
@@ -251,6 +266,9 @@ msgstr "Tradutor"
 
 msgid "TROPHY_NAME_visited_wii_room"
 msgstr "Wii Room Trophy"
+
+msgid "TROPHY_NAME_wcf_2025_winner"
+msgstr "2025 Winter Comedy Fest Winner"
 
 msgid "TROPHY_NAME_weekly_topic_winner"
 msgstr "Vencedor do Tópico Semanal"

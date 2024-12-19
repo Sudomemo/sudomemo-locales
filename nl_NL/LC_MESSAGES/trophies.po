@@ -21,6 +21,9 @@ msgstr "Prijzenkast"
 msgid "TROPHY_DESC_10th_birthday_bash"
 msgstr "Attended Sudomemo's 10th Birthday Bash event"
 
+msgid "TROPHY_DESC_11th_birthday_bash"
+msgstr "Attended Sudomemo's 11th Birthday Bash event"
+
 msgid "TROPHY_DESC_7th_birthday_bash"
 msgstr "Woonde het 7 Years of Flipnote Fun-evenement van Sudomemo bij"
 
@@ -111,6 +114,9 @@ msgstr "Uitgelicht in Sudomemo Rewind van 2022!"
 msgid "TROPHY_DESC_rewind_2023"
 msgstr "Featured in 2023's Sudomemo Rewind!"
 
+msgid "TROPHY_DESC_rewind_2024"
+msgstr "Featured in 2024's Sudomemo Rewind!"
+
 msgid "TROPHY_DESC_spookmaster"
 msgstr "Spookmaster Award voor uitmuntendheid in hekserij en tovenarij."
 
@@ -132,6 +138,9 @@ msgstr "Draag vertalingen bij om Sudomemo open voor iedereen te maken"
 msgid "TROPHY_DESC_visited_wii_room"
 msgstr "Visited Sudomemo's Room on Wii Room!"
 
+msgid "TROPHY_DESC_wcf_2025_winner"
+msgstr "Winner of Sudomemo's 2025 Winter Comedy Fest"
+
 msgid "TROPHY_DESC_weekly_topic_winner"
 msgstr "Dien een winnende inzending in naar Sudomemo's Wekelijks Onderwerp"
 
@@ -141,6 +150,9 @@ msgstr "Verdiende de titel van Welcoming Champion."
 
 msgid "TROPHY_NAME_10th_birthday_bash"
 msgstr "10th Birthday Bash"
+
+msgid "TROPHY_NAME_11th_birthday_bash"
+msgstr "11th Birthday Bash"
 
 msgid "TROPHY_NAME_7th_birthday_bash"
 msgstr "7e verjaardagsfeest"
@@ -235,6 +247,9 @@ msgstr "Sudomemo Rewind 2022"
 msgid "TROPHY_NAME_rewind_2023"
 msgstr "Sudomemo Rewind 2023"
 
+msgid "TROPHY_NAME_rewind_2024"
+msgstr "Sudomemo Rewind 2024"
+
 msgid "TROPHY_NAME_spookmaster"
 msgstr "Spookmaster"
 
@@ -255,6 +270,9 @@ msgstr "Vertaler"
 
 msgid "TROPHY_NAME_visited_wii_room"
 msgstr "Wii Room Trophy"
+
+msgid "TROPHY_NAME_wcf_2025_winner"
+msgstr "2025 Winter Comedy Fest Winner"
 
 msgid "TROPHY_NAME_weekly_topic_winner"
 msgstr "Wekelijks Onderwerpwinnaar"
