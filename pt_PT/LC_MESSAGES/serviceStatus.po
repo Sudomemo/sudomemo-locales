@@ -1,59 +1,59 @@
 msgid "ALL_SERVICES_OPERATIONAL"
-msgstr "All services are operational."
+msgstr "Todos os serviços estão operacionais."
 
 msgid "ALTERNATE_DNS"
-msgstr "If you run into issues, try switching to our temporary backup DNS instead: %s"
+msgstr "Se encontrares algum problema, tenta mudar para o nosso DNS temporário de recuperação: %s"
 
 msgid "APOLOGIES_FOR_INCONVENIENCE"
-msgstr "We apologize for any inconvenience this may cause."
+msgstr "Desculpamos por qualquer inconveniencia que pode acontecer."
 
 msgid "AUX_SERVICES"
-msgstr "Auxiliary Services"
+msgstr "Serviços Auxiliares"
 
 msgid "DNS_SERVER"
-msgstr "DNS Server"
+msgstr "Servidor DNS"
 
 msgid "ESTIMATED_RESOLUTION"
-msgstr "Estimated Resolution Time: %s"
+msgstr "Tempo Estimado de Resolução: %s"
 
 msgid "INVESTIGATING"
-msgstr "We are currently investigating the issue"
+msgstr "Estamos a investigar o caso"
 
 msgid "LAST_UPDATED"
-msgstr "Last updated on %s"
+msgstr "Actualizado à %s"
 
 msgid "MAINTENANCE_COMPLETED"
-msgstr "Maintenance Completed"
+msgstr "Manutenção Completa"
 
 msgid "MAINTENANCE_IN_PROGRESS"
-msgstr "Maintenance In Progress"
+msgstr "Manuntenção Em Progresso"
 
 msgid "MAJOR_ISSUES"
-msgstr "Major Issues"
+msgstr "Problemas Principais"
 
 msgid "MINOR_ISSUES"
-msgstr "Minor Issues"
+msgstr "Problemas Secundários"
 
 msgid "OUTAGE"
-msgstr "Outage"
+msgstr "Fora de Serviço"
 
 msgid "POSSIBLE_ISSUES"
-msgstr "Possible Issues"
+msgstr "Possíveis Problemas"
 
 msgid "SCHEDULED_MAINTENANCE"
-msgstr "Scheduled Maintenance"
+msgstr "Manuntenção Marcada"
 
 msgid "SERVICE_STATUS"
-msgstr "Service Status"
+msgstr "Estado do Serviço"
 
 msgid "SUDOMEMO_DEGRADED_PERFORMANCE"
-msgstr "Sudomemo is currently experiencing degraded performance"
+msgstr "O Sudomemo está de momentos a sofrer de má performance"
 
 msgid "UNDERGOING_NETWORK_ISSUES"
-msgstr "Currently undergoing network routing issues"
+msgstr "Há problemas de rede neste momento"
 
 msgid "WEATHERING_ATTACK"
-msgstr "Currently weathering a Denial of Service (DoS) attack"
+msgstr "Há problemas de acesso ao serviço (Ataque DDoS)"
 
 msgid "WEBSITE"
 msgstr "Website"
