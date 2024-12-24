@@ -732,7 +732,7 @@ msgid "PLAYLIST_ERROR_GENERIC_2"
 msgstr "Une erreur est survenue. Code d'erreur : %s."
 
 msgid "PLAYLIST_ERROR_HINT_INCREASE_LIMIT_PLUS"
-msgstr "You could also increase this limit to %s with Sudomemo Plus!"
+msgstr "Vous pouvez également augmenter cette limite à %s avec Sudomemo Plus!"
 
 msgid "PLAYLIST_ERROR_PROFANE_DESC"
 msgstr "Cette description contient du contenu qui va à l'encontre de notre Politique de contenu."
@@ -741,13 +741,13 @@ msgid "PLAYLIST_ERROR_PROFANE_TITLE"
 msgstr "Ce titre contient du contenu qui va à l'encontre de notre Politique de contenu."
 
 msgid "PLAYLIST_ERROR_TOO_MANY_FLIPNOTES"
-msgstr "You cannot add another Flipnote to this Playlist as it is at or above the limit of %s Flipnotes. Remove a Flipnote or create a new Playlist, then try again."
+msgstr "Vous ne pouvez pas ajouter une autre Flipnote à cette Playlist car elle atteint ou dépasse la limite de %s Flipnotes. Supprimez une Flipnote ou créez une nouvelle liste de lecture, puis réessayez."
 
 msgid "PLAYLIST_ERROR_TOO_MANY_PLAYLISTS"
-msgstr "You cannot create a new Playlist as you are at or above the limit of %s Playlists. Delete a Playlist and try again."
+msgstr "Vous ne pouvez pas créer une nouvelle Playlist car vous avez atteint ou dépassé la limite de %s Playlists. Supprimez une Playlist et réessayez."
 
 msgid "PLAYLIST_ID"
-msgstr "ID Playlist"
+msgstr "ID de la Playlist"
 
 msgid "PLAYLIST_NO_FLIPNOTES"
 msgstr "Il n'y a pas encore de Flipnote ajoutée à cette playlist."
