@@ -74,3 +74,15 @@ msgstr "Nie znaleziono niczego, ale istnieje podoble ID. Pamietaj ze ID Flipnote
 
 msgid "USERNAME"
 msgstr "Nazwa uzytkownika"
+
+msgid "SHORT_KEY_FORMAT_GUIDE_PLAYLIST"
+msgstr "Not finding what you're looking for? You may have entered the Playlist ID incorrectly. Playlist IDs are eight digits long and can be found in the info section for the Playlist."
+
+msgid "SHORT_KEY_NO_RESULTS_PLAYLIST"
+msgstr "No Playlist found"
+
+msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE_PLAYLIST"
+msgstr "No result was found, but a similar ID exists. Please note that Playlist IDs are case-sensitive, and usually all-capital letters and numbers."
+
+msgid "SEARCH_SHORT_KEY_PLAYLIST"
+msgstr "Playlist ID"
