@@ -54,6 +54,9 @@ msgstr "Impossível guardar o título!"
 msgid "FLIPNOTES"
 msgstr "Flipnotes"
 
+msgid "ID"
+msgstr "ID:"
+
 msgid "NEW_PLAYLIST"
 msgstr "Adicionar á nova Playlist"
 
@@ -83,6 +86,3 @@ msgstr "Ver Flipnotes"
 
 msgid "VIEW_PLAYLIST"
 msgstr "Ver Playlist"
-
-msgid "ID"
-msgstr "ID:"

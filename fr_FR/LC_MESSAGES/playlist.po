@@ -54,6 +54,9 @@ msgstr "Impossible d'enregistrer le nouveau titre !"
 msgid "FLIPNOTES"
 msgstr "Flipnotes"
 
+msgid "ID"
+msgstr "ID:"
+
 msgid "NEW_PLAYLIST"
 msgstr "Ajouter à une nouvelle Playlist"
 
@@ -83,6 +86,3 @@ msgstr "Voir les Flipnotes"
 
 msgid "VIEW_PLAYLIST"
 msgstr "Voir la Playlist"
-
-msgid "ID"
-msgstr "ID:"
