@@ -159,8 +159,9 @@ msgstr "Stängd"
 msgid "CHANNEL_PERM_OPEN"
 msgstr "Öppen"
 
+# This used to say "Chronological", but it has since been simplified to just "Oldest".
 msgid "CHRONOLOGICAL"
-msgstr "Chronological"
+msgstr "Oldest"
 
 msgid "CLOSE"
 msgstr "Close"
