@@ -9,11 +9,29 @@ msgstr "Adicionado á nova Playlist"
 msgid "ADDED_TO_PLAYLIST"
 msgstr "Adicionado á Playlist"
 
+msgid "BACK_TO_CREATORS_ROOM"
+msgstr "Back to Creator's Room"
+
 msgid "BACK_TO_FLIPNOTE"
 msgstr "Voltar ao Flipnote"
 
 msgid "CREATOR"
 msgstr "Criador:"
+
+msgid "DELETE_PLAYLIST"
+msgstr "Delete Playlist"
+
+msgid "DELETE_PLAYLIST_CONFIRM_1"
+msgstr "Are you sure you want to delete this Playlist?"
+
+msgid "DELETE_PLAYLIST_CONFIRM_2"
+msgstr "This action is irreversible!"
+
+msgid "DELETE_PLAYLIST_CONFIRM_NO"
+msgstr "No"
+
+msgid "DELETE_PLAYLIST_CONFIRM_YES"
+msgstr "Yes"
 
 msgid "ERROR_AUTHOR_IS_BLOCKED"
 msgstr "Não podes fazer nada com isto, porque bloqueaste o autor deste Flipnote."
@@ -26,6 +44,9 @@ msgstr "Não podes fazer nada com isto, porque o autor deste Flipnote te bloqueo
 
 msgid "ERROR_AUTHOR_IS_BLOCKING_DESC"
 msgstr "Por favor tente de novo com outro Flipnote."
+
+msgid "ERROR_HINT_INCREASE_LIMIT_PLUS"
+msgstr "You could also increase this limit to %s with Sudomemo Plus!"
 
 msgid "ERROR_PROFANE_DESC"
 msgstr "Esta descrição viola a nossa Política de Conteúdo."
@@ -51,6 +72,18 @@ msgstr "Impossível guardar a descrição!"
 msgid "ERROR_TITLE_PROFANE_TITLE"
 msgstr "Impossível guardar o título!"
 
+msgid "ERROR_TOO_MANY_FLIPNOTES"
+msgstr "You've hit the Flipnotes limit!"
+
+msgid "ERROR_TOO_MANY_FLIPNOTES_DESC"
+msgstr "You cannot add another Flipnote to this Playlist as it is at or above the limit of %s Flipnotes. Remove a Flipnote or create a new Playlist, then try again."
+
+msgid "ERROR_TOO_MANY_PLAYLISTS"
+msgstr "You've hit the Playlists limit!"
+
+msgid "ERROR_TOO_MANY_PLAYLISTS_DESC"
+msgstr "You cannot create a new Playlist as you are at or above the limit of %s Playlists. Delete a Playlist and try again."
+
 msgid "FLIPNOTES"
 msgstr "Flipnotes"
 
@@ -66,8 +99,17 @@ msgstr "A seguir"
 msgid "NO_PLAYLISTS_FOUND"
 msgstr "Não há nenhuma playlist"
 
+msgid "PLAYLIST_DELETED"
+msgstr "Playlist Deleted"
+
 msgid "PREV"
 msgstr "Anterior"
+
+msgid "PRIVATE"
+msgstr "Private"
+
+msgid "PUBLIC"
+msgstr "Public"
 
 msgid "REMOVED_FROM_PLAYLIST"
 msgstr "Removido da Playlist"
@@ -81,6 +123,9 @@ msgstr "Oldest"
 msgid "TAP_TO_ADD_DESCRIPTION"
 msgstr "Toque aqui para adicionar uma descrição."
 
+msgid "UNLISTED"
+msgstr "Unlisted"
+
 msgid "VIEW_FLIPNOTES"
 msgstr "Ver Flipnotes"
 
@@ -90,50 +135,5 @@ msgstr "Ver Playlist"
 msgid "VISIBILITY"
 msgstr "Visibility:"
 
-msgid "PUBLIC"
-msgstr "Public"
-
-msgid "PRIVATE"
-msgstr "Private"
-
-msgid "UNLISTED"
-msgstr "Unlisted"
-
-msgid "ERROR_TOO_MANY_PLAYLISTS"
-msgstr "You've hit the Playlists limit!"
-
-msgid "ERROR_TOO_MANY_PLAYLISTS_DESC"
-msgstr "You cannot create a new Playlist as you are at or above the limit of %s Playlists. Delete a Playlist and try again."
-
-msgid "ERROR_HINT_INCREASE_LIMIT_PLUS"
-msgstr "You could also increase this limit to %s with Sudomemo Plus!"
-
-msgid "ERROR_TOO_MANY_FLIPNOTES"
-msgstr "You've hit the Flipnotes limit!"
-
-msgid "ERROR_TOO_MANY_FLIPNOTES_DESC"
-msgstr "You cannot add another Flipnote to this Playlist as it is at or above the limit of %s Flipnotes. Remove a Flipnote or create a new Playlist, then try again."
-
-msgid "DELETE_PLAYLIST"
-msgstr "Delete Playlist"
-
-msgid "DELETE_PLAYLIST_CONFIRM_1"
-msgstr "Are you sure you want to delete this Playlist?"
-
-msgid "DELETE_PLAYLIST_CONFIRM_2"
-msgstr "This action is irreversible!"
-
-msgid "DELETE_PLAYLIST_CONFIRM_NO"
-msgstr "No"
-
-msgid "DELETE_PLAYLIST_CONFIRM_YES"
-msgstr "Yes"
-
 msgid "VISIBILITY_CHANGED"
 msgstr "Updated visibility of Playlist"
-
-msgid "PLAYLIST_DELETED"
-msgstr "Playlist Deleted"
-
-msgid "BACK_TO_CREATORS_ROOM"
-msgstr "Back to Creator's Room"
