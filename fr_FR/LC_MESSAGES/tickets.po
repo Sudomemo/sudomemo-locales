@@ -453,3 +453,8 @@ msgstr "Vous avez reçu un cadeau !"
 # Ticket delivery
 msgid "YOU_GOT_A_TICKET"
 msgstr "Vous avez obtenu un ticket !"
+msgid "TICKET_DESC_rewind_2024_ticket"
+msgstr "Congratulations on your inclusion in 2024's Sudomemo Rewind!"
+
+msgid "TICKET_NAME_rewind_2024_ticket"
+msgstr "Sudomemo Rewind 2024 Ticket"
