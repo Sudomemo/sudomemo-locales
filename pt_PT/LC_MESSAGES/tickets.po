@@ -253,6 +253,9 @@ msgstr "Parabéns na tua inclusão no Sudomemo Rewind de 2022!"
 msgid "TICKET_DESC_rewind_2023_ticket"
 msgstr "Parabéns na tua inclusão no Sudomemo Rewind de 2023!"
 
+msgid "TICKET_DESC_rewind_2024_ticket"
+msgstr "Congratulations on your inclusion in 2024's Sudomemo Rewind!"
+
 msgid "TICKET_DESC_special_someone_ticket"
 msgstr "Para aquela pessoa que te é especial. Três meses de Plus, Estrelas Coloridas e um tema exclusivo."
 
@@ -397,6 +400,9 @@ msgstr "Bilhete do Sudomemo Rewind 2022"
 msgid "TICKET_NAME_rewind_2023_ticket"
 msgstr "Bilhete do Sudomemo Rewind 2023"
 
+msgid "TICKET_NAME_rewind_2024_ticket"
+msgstr "Sudomemo Rewind 2024 Ticket"
+
 msgid "TICKET_NAME_special_someone_ticket"
 msgstr "Bilhete de Sº Valentim"
 
@@ -453,8 +459,3 @@ msgstr "Recebeste um presente!"
 # Ticket delivery
 msgid "YOU_GOT_A_TICKET"
 msgstr "Recebeste um bilhete!"
-msgid "TICKET_DESC_rewind_2024_ticket"
-msgstr "Congratulations on your inclusion in 2024's Sudomemo Rewind!"
-
-msgid "TICKET_NAME_rewind_2024_ticket"
-msgstr "Sudomemo Rewind 2024 Ticket"
