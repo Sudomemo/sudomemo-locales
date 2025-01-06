@@ -651,6 +651,9 @@ msgstr "Twitter"
 msgid "NAVBAR_ITEM_USEFUL_LINKS"
 msgstr "お役立ちリンク"
 
+msgid "NAVBAR_ITEM_YOUTUBE"
+msgstr "YouTube"
+
 # Navbar
 msgid "NAVBAR_TOGGLE_NAVIGATION"
 msgstr "ナビゲーションの切り替え"
@@ -1346,6 +1349,3 @@ msgstr "編集中"
 
 msgid "YT_LAYOUT_MAY_VARY"
 msgstr "Appearance and layout may vary depending on device used to view video"
-
-msgid "NAVBAR_ITEM_YOUTUBE"
-msgstr "YouTube"
