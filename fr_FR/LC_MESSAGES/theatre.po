@@ -654,6 +654,9 @@ msgstr "Twitter"
 msgid "NAVBAR_ITEM_USEFUL_LINKS"
 msgstr "Liens utiles"
 
+msgid "NAVBAR_ITEM_YOUTUBE"
+msgstr "YouTube"
+
 # Navbar
 msgid "NAVBAR_TOGGLE_NAVIGATION"
 msgstr "Basculer la navigation"
@@ -1352,6 +1355,3 @@ msgstr "Vous éditez cette Flipnote :"
 
 msgid "YT_LAYOUT_MAY_VARY"
 msgstr "L’apparence et la disposition peuvent varier en fonction de l’appareil utilisé pour visionner la vidéo"
-
-msgid "NAVBAR_ITEM_YOUTUBE"
-msgstr "YouTube"
