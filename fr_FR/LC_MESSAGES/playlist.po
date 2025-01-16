@@ -4,13 +4,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "ADDED_TO_NEW_PLAYLIST"
-msgstr "Ajouté à une nouvelle Playlist"
+msgstr "Ajouté à une nouvelle Playliste"
 
 msgid "ADDED_TO_PLAYLIST"
-msgstr "Ajouté à la Playlist"
+msgstr "Ajouté à la Playliste"
 
 msgid "BACK_TO_CREATORS_ROOM"
-msgstr "Back to Creator's Room"
+msgstr "Retourner à la Salle de créateur"
 
 msgid "BACK_TO_FLIPNOTE"
 msgstr "Retourner au Flipnote"
@@ -19,19 +19,19 @@ msgid "CREATOR"
 msgstr "Créateur :"
 
 msgid "DELETE_PLAYLIST"
-msgstr "Delete Playlist"
+msgstr "Supprimer la Playliste"
 
 msgid "DELETE_PLAYLIST_CONFIRM_1"
-msgstr "Are you sure you want to delete this Playlist?"
+msgstr "Êtes-vous certain de vouloir supprimer cette Playliste ?"
 
 msgid "DELETE_PLAYLIST_CONFIRM_2"
-msgstr "This action is irreversible!"
+msgstr "Cette action est irréversible !"
 
 msgid "DELETE_PLAYLIST_CONFIRM_NO"
-msgstr "No"
+msgstr "Non"
 
 msgid "DELETE_PLAYLIST_CONFIRM_YES"
-msgstr "Yes"
+msgstr "Oui"
 
 msgid "ERROR_AUTHOR_IS_BLOCKED"
 msgstr "Vous ne pouvez pas effectuer cette action avec cette Flipnote car vous avez bloqué l'auteur."
@@ -46,7 +46,7 @@ msgid "ERROR_AUTHOR_IS_BLOCKING_DESC"
 msgstr "Veuillez réessayer avec une Flipnote différente."
 
 msgid "ERROR_HINT_INCREASE_LIMIT_PLUS"
-msgstr "You could also increase this limit to %s with Sudomemo Plus!"
+msgstr "Vous pouvez également augmenter cette limite à %s avec Sudomemo Plus !"
 
 msgid "ERROR_PROFANE_DESC"
 msgstr "Cette description viole notre Politique de Contenu."
@@ -61,10 +61,10 @@ msgid "ERROR_PROFANE_TITLE_DESC"
 msgstr "Veuillez réessayer avec un titre plus approprié."
 
 msgid "ERROR_TITLE_ADD_TO_PLAYLIST"
-msgstr "Impossible d'ajouter à la Playlist !"
+msgstr "Impossible d'ajouter à la Playliste !"
 
 msgid "ERROR_TITLE_CREATE_NEW_PLAYLIST"
-msgstr "Impossible de créer une nouvelle Playlist !"
+msgstr "Impossible de créer une nouvelle Playliste !"
 
 msgid "ERROR_TITLE_PROFANE_DESC"
 msgstr "Impossible d'enregistrer la nouvelle description !"
@@ -73,16 +73,16 @@ msgid "ERROR_TITLE_PROFANE_TITLE"
 msgstr "Impossible d'enregistrer le nouveau titre !"
 
 msgid "ERROR_TOO_MANY_FLIPNOTES"
-msgstr "You've hit the Flipnotes limit!"
+msgstr "Vous avez atteint la limite de Flipnotes !"
 
 msgid "ERROR_TOO_MANY_FLIPNOTES_DESC"
-msgstr "You cannot add another Flipnote to this Playlist as it is at or above the limit of %s Flipnotes. Remove a Flipnote or create a new Playlist, then try again."
+msgstr "Vous ne pouvez pas ajouter une autre Flipnote à cette Playliste car elle atteint ou dépasse la limite de %s Flipnotes. Supprimez une Flipnote ou créez une nouvelle Playlist, puis réessayez."
 
 msgid "ERROR_TOO_MANY_PLAYLISTS"
-msgstr "You've hit the Playlists limit!"
+msgstr "Vous avez atteint la limite de Playlistes !"
 
 msgid "ERROR_TOO_MANY_PLAYLISTS_DESC"
-msgstr "You cannot create a new Playlist as you are at or above the limit of %s Playlists. Delete a Playlist and try again."
+msgstr "Vous ne pouvez pas créer une nouvelle Playliste car vous avez atteint ou dépassé la limite de %s Playlistes. Supprimez une Playliste et réessayez."
 
 msgid "FLIPNOTES"
 msgstr "Flipnotes"
@@ -91,7 +91,7 @@ msgid "ID"
 msgstr "ID:"
 
 msgid "NEW_PLAYLIST"
-msgstr "Ajouter à une nouvelle Playlist"
+msgstr "Ajouter à une nouvelle Playliste"
 
 msgid "NEXT"
 msgstr "Suivant"
@@ -100,16 +100,16 @@ msgid "NO_PLAYLISTS_FOUND"
 msgstr "Aucune liste de lecture trouvée"
 
 msgid "PLAYLIST_DELETED"
-msgstr "Playlist Deleted"
+msgstr "Playliste Supprimée"
 
 msgid "PREV"
 msgstr "Précédent"
 
 msgid "PRIVATE"
-msgstr "Private"
+msgstr "Privée"
 
 msgid "PUBLIC"
-msgstr "Public"
+msgstr "Publique"
 
 msgid "REMOVED_FROM_PLAYLIST"
 msgstr "Retiré de la Playlist"
@@ -118,13 +118,13 @@ msgid "SORT_BY_NEWEST"
 msgstr "Récent"
 
 msgid "SORT_BY_OLDEST"
-msgstr "Oldest"
+msgstr "Ancien"
 
 msgid "TAP_TO_ADD_DESCRIPTION"
 msgstr "Touchez ici pour ajouter une description."
 
 msgid "UNLISTED"
-msgstr "Unlisted"
+msgstr "Non repértoriée"
 
 msgid "VIEW_FLIPNOTES"
 msgstr "Voir les Flipnotes"
@@ -133,7 +133,7 @@ msgid "VIEW_PLAYLIST"
 msgstr "Voir la Playlist"
 
 msgid "VISIBILITY"
-msgstr "Visibility:"
+msgstr "Visibilitée :"
 
 msgid "VISIBILITY_CHANGED"
-msgstr "Updated visibility of Playlist"
+msgstr "Visibilité de la Playliste mise à jour"
