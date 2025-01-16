@@ -18,10 +18,10 @@ msgid "ACCOUNT_SETTINGS"
 msgstr "Paramètres du compte"
 
 msgid "ADD_TO_NEW_PLAYLIST"
-msgstr "Ajouter à une nouvelle playlist"
+msgstr "Ajouter à une nouvelle Playliste"
 
 msgid "ADD_TO_PLAYLIST"
-msgstr "Ajouter à une playlist"
+msgstr "Ajouter à une Playliste"
 
 msgid "ALT_DRAWN_COMMENT_BY_USER"
 msgstr "Commentaire dessiné par %s"
@@ -161,7 +161,7 @@ msgstr "Ouvert"
 
 # This used to say "Chronological", but it has since been simplified to just "Oldest".
 msgid "CHRONOLOGICAL"
-msgstr "Oldest"
+msgstr "Plus Ancien"
 
 msgid "CLOSE"
 msgstr "Fermer"
@@ -179,7 +179,7 @@ msgid "CREATED"
 msgstr "Créée"
 
 msgid "CREATE_NEW_PLAYLIST"
-msgstr "Créer une nouvelle playlist"
+msgstr "Créer une nouvelle Playliste"
 
 msgid "CREATOR"
 msgstr "Créateur"
@@ -212,10 +212,10 @@ msgid "DEFAULT_META_DESCRIPTION"
 msgstr "Sudomemo : partagez vos Flipnotes avec le monde entier ! Pour Nintendo DSi et 3DS."
 
 msgid "DELETE_PLAYLIST"
-msgstr "Supprimer la playlist"
+msgstr "Supprimer la Playliste"
 
 msgid "DELETE_PLAYLIST_CONFIRM_1"
-msgstr "Êtes-vous sûr de vouloir supprimer cette playlist ?"
+msgstr "Êtes-vous sûr de vouloir supprimer cette Playliste ?"
 
 msgid "DELETE_PLAYLIST_CONFIRM_2"
 msgstr "Cette action est irréversible !"
@@ -313,7 +313,7 @@ msgid "EDIT_PAGE_TITLE_TOOLTIP"
 msgstr "Lettres, nombres, et symboles, maximum de 40 caractères."
 
 msgid "EDIT_PLAYLIST"
-msgstr "Modifier la playlist"
+msgstr "Modifier la Playliste"
 
 msgid "FANS"
 msgstr "Fans"
@@ -557,7 +557,7 @@ msgid "LOGIN_SIGNUP_SELECT_DEVICE"
 msgstr "Selectionnez votre appareil"
 
 msgid "MANAGE_PLAYLIST"
-msgstr "Gérer la playlist"
+msgstr "Gérer la Playliste"
 
 msgid "MERCH"
 msgstr "Marchandise"
@@ -717,20 +717,20 @@ msgid "PERMISSIONS"
 msgstr "Permissions"
 
 msgid "PLAYLIST"
-msgstr "Playlist"
+msgstr "Playliste"
 
 msgid "PLAYLISTS"
-msgstr "Playlists"
+msgstr "Playlistes"
 
 msgid "PLAYLIST_ERROR_BLOCKED_BY_AUTHOR"
-msgstr "Vous ne pouvez pas ajouter cette Flipnote à une playlist car vous avez été bloqué par l'auteur de la Flipnote."
+msgstr "Vous ne pouvez pas ajouter cette Flipnote à une Playliste car vous avez été bloqué par l'auteur de la Flipnote."
 
 msgid "PLAYLIST_ERROR_BLOCKING_AUTHOR"
-msgstr "Vous ne pouvez pas ajouter cette Flipnote à une playlist car vous avez bloqué l'auteur de la Flipnote."
+msgstr "Vous ne pouvez pas ajouter cette Flipnote à une Playliste car vous avez bloqué l'auteur de la Flipnote."
 
 # '%s' will be replaced with an error code when shown to the user.
 msgid "PLAYLIST_ERROR_GENERIC"
-msgstr "Une erreur est survenue lors de l'enregistrement de cette playlist. Code d'erreur : %s."
+msgstr "Une erreur est survenue lors de l'enregistrement de cette Playliste. Code d'erreur : %s."
 
 msgid "PLAYLIST_ERROR_GENERIC_2"
 msgstr "Une erreur est survenue. Code d'erreur : %s."
@@ -745,16 +745,16 @@ msgid "PLAYLIST_ERROR_PROFANE_TITLE"
 msgstr "Ce titre contient du contenu qui va à l'encontre de notre Politique de contenu."
 
 msgid "PLAYLIST_ERROR_TOO_MANY_FLIPNOTES"
-msgstr "Vous ne pouvez pas ajouter une autre Flipnote à cette Playlist car elle atteint ou dépasse la limite de %s Flipnotes. Supprimez une Flipnote ou créez une nouvelle liste de lecture, puis réessayez."
+msgstr "Vous ne pouvez pas ajouter une autre Flipnote à cette Playliste car elle atteint ou dépasse la limite de %s Flipnotes. Supprimez une Flipnote ou créez une nouvelle Playliste, puis réessayez."
 
 msgid "PLAYLIST_ERROR_TOO_MANY_PLAYLISTS"
-msgstr "Vous ne pouvez pas créer une nouvelle Playlist car vous avez atteint ou dépassé la limite de %s Playlists. Supprimez une Playlist et réessayez."
+msgstr "Vous ne pouvez pas créer une nouvelle Playliste car vous avez atteint ou dépassé la limite de %s Playlistes. Supprimez une Playliste et réessayez."
 
 msgid "PLAYLIST_ID"
-msgstr "ID de la Playlist"
+msgstr "ID de la Playliste"
 
 msgid "PLAYLIST_NO_FLIPNOTES"
-msgstr "Il n'y a pas encore de Flipnote ajoutée à cette playlist."
+msgstr "Il n'y a pas encore de Flipnote ajoutée à cette Playliste."
 
 msgid "PLAYLIST_PRIVATE"
 msgstr "Privée"
@@ -769,7 +769,7 @@ msgid "PLAYLIST_UNLISTED"
 msgstr "Non repértoriée"
 
 msgid "PLAYLIST_VISIBILITY"
-msgstr "Visibilité"
+msgstr "Visibilitée"
 
 msgid "PLEASE_SELECT_FRAME_OR_UPLOAD_CUSTOM_FRAME"
 msgstr "Veuillez s'il vous plaît sélectionner un cadre ou téléverser votre cadre."
@@ -856,7 +856,7 @@ msgid "RELEASED"
 msgstr "Date de sortie"
 
 msgid "REMOVE_FROM_PLAYLIST"
-msgstr "Retirer d'une playlist"
+msgstr "Retirer d'une Playliste"
 
 msgid "RESET_PASSWORD_BY_FSID"
 msgstr "Vous pouvez toujours réinitialiser votre mot de passe avec votre ID Flipnote Studio ! Envoyez simplement un message rapide au support Sudomemo et nous vous l'enverrons."
@@ -868,7 +868,7 @@ msgid "SAVE"
 msgstr "Sauvegarder"
 
 msgid "SAVE_PLAYLIST"
-msgstr "Enregistrer la playlist"
+msgstr "Enregistrer la Playliste"
 
 msgid "SAVING"
 msgstr "Sauvegarde en cours"
@@ -1035,7 +1035,7 @@ msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote sans titre de %s"
 
 msgid "UNTITLED_PLAYLIST"
-msgstr "Playlist sans titre"
+msgstr "Playliste sans titre"
 
 msgid "UPLOAD_CONTACT_DISCORD_OR_EMAIL_FORMAT"
 msgstr "Veuillez nous contacter sur Discord ou par e-mail à %s."
