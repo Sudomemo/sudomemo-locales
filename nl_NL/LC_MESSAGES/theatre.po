@@ -334,6 +334,9 @@ msgstr "Favoriet van"
 msgid "FEATURED"
 msgstr "Uitgelicht"
 
+msgid "FEATURED_FLIPNOTE"
+msgstr "Featured Flipnote"
+
 msgid "FEATURED_FLIPNOTES"
 msgstr "Uitgelichte Flipnotes"
 
@@ -854,6 +857,9 @@ msgstr "Recent"
 msgid "RECENT_FLIPNOTES"
 msgstr "Recente Flipnotes"
 
+msgid "RECOMMENDED_FLIPNOTES"
+msgstr "Recommended Flipnotes"
+
 msgid "REGION"
 msgstr "Regio"
 
@@ -1160,6 +1166,12 @@ msgstr "Bekijk op Sudomemo"
 msgid "WATCH_HISTORY"
 msgstr "Bekijk Geschiedenis"
 
+msgid "WATCH_NEXT"
+msgstr "Watch Next"
+
+msgid "WEEKLY_TOPIC_WINNER"
+msgstr "Weekly Topic Winner"
+
 msgid "WELCOME_BOX_AFTERNOON_GREETING"
 msgstr "Goedemiddag"
 
@@ -1208,6 +1220,12 @@ msgstr "Sudomemo is een animatiesite waar mensen flipboekanimaties kunnen delen 
 
 msgid "WELCOME_BOX_YOU_ARE_ADMIN"
 msgstr "Je bent ingelogd als een Administrator."
+
+msgid "X_IN_HOT_FLIPNOTES"
+msgstr "#%d in Hot Flipnotes"
+
+msgid "X_IN_POPULAR_FLIPNOTES"
+msgstr "#%d in Popular this Month"
 
 msgid "X_USERS"
 msgstr "%d gebruiker(s)"
@@ -1387,19 +1405,3 @@ msgstr "Je bent deze Flipnote aan het bewerken:"
 
 msgid "YT_LAYOUT_MAY_VARY"
 msgstr "Appearance and layout may vary depending on device used to view video"
-
-msgid "FEATURED_FLIPNOTE"
-msgstr "Featured Flipnote"
-
-msgid "X_IN_HOT_FLIPNOTES"
-msgstr "#%d in Hot Flipnotes"
-
-msgid "X_IN_POPULAR_FLIPNOTES"
-msgstr "#%d in Popular this Month"
-
-msgid "WEEKLY_TOPIC_WINNER"
-msgstr "Weekly Topic Winner"msgid "RECOMMENDED_FLIPNOTES"
-msgstr "Recommended Flipnotes"
-
-msgid "WATCH_NEXT"
-msgstr "Watch Next"

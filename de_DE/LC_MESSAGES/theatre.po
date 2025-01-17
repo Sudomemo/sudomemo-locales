@@ -324,6 +324,9 @@ msgstr "Favorit von"
 msgid "FEATURED"
 msgstr "Vorgeschlagen"
 
+msgid "FEATURED_FLIPNOTE"
+msgstr "Featured Flipnote"
+
 msgid "FEATURED_FLIPNOTES"
 msgstr "Vorgeschlagene Flipnotes"
 
@@ -834,6 +837,9 @@ msgstr "Neu"
 msgid "RECENT_FLIPNOTES"
 msgstr "Neue Flipnotes"
 
+msgid "RECOMMENDED_FLIPNOTES"
+msgstr "Recommended Flipnotes"
+
 msgid "REGION"
 msgstr "Region"
 
@@ -1135,6 +1141,12 @@ msgstr "Auf Sudomemo sehen"
 msgid "WATCH_HISTORY"
 msgstr "Wiedergabeverlauf"
 
+msgid "WATCH_NEXT"
+msgstr "Watch Next"
+
+msgid "WEEKLY_TOPIC_WINNER"
+msgstr "Weekly Topic Winner"
+
 msgid "WELCOME_BOX_AFTERNOON_GREETING"
 msgstr "Guten Nachmittag"
 
@@ -1181,6 +1193,12 @@ msgstr "Sudomemo ist eine Animations-Seite, auf welcher Benutzer ihre auf dem Ni
 
 msgid "WELCOME_BOX_YOU_ARE_ADMIN"
 msgstr "Du bist als Administrator angemeldet."
+
+msgid "X_IN_HOT_FLIPNOTES"
+msgstr "#%d in Hot Flipnotes"
+
+msgid "X_IN_POPULAR_FLIPNOTES"
+msgstr "#%d in Popular this Month"
 
 msgid "X_USERS"
 msgstr "%d Benutzer"
@@ -1355,19 +1373,3 @@ msgstr "Du bearbeitest gerade dieses Flipnote:"
 
 msgid "YT_LAYOUT_MAY_VARY"
 msgstr "Appearance and layout may vary depending on device used to view video"
-
-msgid "FEATURED_FLIPNOTE"
-msgstr "Featured Flipnote"
-
-msgid "X_IN_HOT_FLIPNOTES"
-msgstr "#%d in Hot Flipnotes"
-
-msgid "X_IN_POPULAR_FLIPNOTES"
-msgstr "#%d in Popular this Month"
-
-msgid "WEEKLY_TOPIC_WINNER"
-msgstr "Weekly Topic Winner"msgid "RECOMMENDED_FLIPNOTES"
-msgstr "Recommended Flipnotes"
-
-msgid "WATCH_NEXT"
-msgstr "Watch Next"
