@@ -1366,4 +1366,8 @@ msgid "X_IN_POPULAR_FLIPNOTES"
 msgstr "#%d in Popular this Month"
 
 msgid "WEEKLY_TOPIC_WINNER"
-msgstr "Weekly Topic Winner"
+msgstr "Weekly Topic Winner"msgid "RECOMMENDED_FLIPNOTES"
+msgstr "Recommended Flipnotes"
+
+msgid "WATCH_NEXT"
+msgstr "Watch Next"
