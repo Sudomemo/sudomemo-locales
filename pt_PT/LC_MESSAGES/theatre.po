@@ -1355,3 +1355,15 @@ msgstr "Estás a editar este Flipnote:"
 
 msgid "YT_LAYOUT_MAY_VARY"
 msgstr "A aparência e layout podem depender no aparelho que vejas o vídeo"
+
+msgid "FEATURED_FLIPNOTE"
+msgstr "Featured Flipnote"
+
+msgid "X_IN_HOT_FLIPNOTES"
+msgstr "#%d in Hot Flipnotes"
+
+msgid "X_IN_POPULAR_FLIPNOTES"
+msgstr "#%d in Popular this Month"
+
+msgid "WEEKLY_TOPIC_WINNER"
+msgstr "Weekly Topic Winner"
