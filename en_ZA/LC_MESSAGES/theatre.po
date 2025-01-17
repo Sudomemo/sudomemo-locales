@@ -324,6 +324,9 @@ msgstr "Favorite of"
 msgid "FEATURED"
 msgstr "Shiny!!!"
 
+msgid "FEATURED_FLIPNOTE"
+msgstr "Featured Flipnote"
+
 msgid "FEATURED_FLIPNOTES"
 msgstr "Oooh Shiny!!"
 
@@ -1135,6 +1138,9 @@ msgstr "View on Sudomemo"
 msgid "WATCH_HISTORY"
 msgstr "watcharoo History"
 
+msgid "WEEKLY_TOPIC_WINNER"
+msgstr "Weekly Topic Winner"
+
 msgid "WELCOME_BOX_AFTERNOON_GREETING"
 msgstr "hi, nice weather"
 
@@ -1181,6 +1187,12 @@ msgstr "Sudomemo is an animation site where people can share flipbook animations
 
 msgid "WELCOME_BOX_YOU_ARE_ADMIN"
 msgstr "You are logged in as an Administrator."
+
+msgid "X_IN_HOT_FLIPNOTES"
+msgstr "#%d in Hot Flipnotes"
+
+msgid "X_IN_POPULAR_FLIPNOTES"
+msgstr "#%d in Popular this Month"
 
 msgid "X_USERS"
 msgstr "%d user(s)"
@@ -1355,15 +1367,3 @@ msgstr "U be editing tis Flipnot e:"
 
 msgid "YT_LAYOUT_MAY_VARY"
 msgstr "Appearance and layout may vary depending on device used to view video"
-
-msgid "FEATURED_FLIPNOTE"
-msgstr "Featured Flipnote"
-
-msgid "X_IN_HOT_FLIPNOTES"
-msgstr "#%d in Hot Flipnotes"
-
-msgid "X_IN_POPULAR_FLIPNOTES"
-msgstr "#%d in Popular this Month"
-
-msgid "WEEKLY_TOPIC_WINNER"
-msgstr "Weekly Topic Winner"
