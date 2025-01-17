@@ -324,6 +324,9 @@ msgstr "Favorite of"
 msgid "FEATURED"
 msgstr "注目順"
 
+msgid "FEATURED_FLIPNOTE"
+msgstr "Featured Flipnote"
+
 msgid "FEATURED_FLIPNOTES"
 msgstr "注目作品"
 
@@ -831,6 +834,9 @@ msgstr "新着順"
 msgid "RECENT_FLIPNOTES"
 msgstr "新着作品"
 
+msgid "RECOMMENDED_FLIPNOTES"
+msgstr "Recommended Flipnotes"
+
 msgid "REGION"
 msgstr "地域"
 
@@ -1132,6 +1138,12 @@ msgstr "スドメモでみる"
 msgid "WATCH_HISTORY"
 msgstr "閲覧履歴"
 
+msgid "WATCH_NEXT"
+msgstr "Watch Next"
+
+msgid "WEEKLY_TOPIC_WINNER"
+msgstr "Weekly Topic Winner"
+
 msgid "WELCOME_BOX_AFTERNOON_GREETING"
 msgstr "こんにちは"
 
@@ -1175,6 +1187,12 @@ msgstr "スドメモはNintendo DSiと3DSで作成したメモ帳のアニメー
 
 msgid "WELCOME_BOX_YOU_ARE_ADMIN"
 msgstr "管理者権限でログインしています。"
+
+msgid "X_IN_HOT_FLIPNOTES"
+msgstr "#%d in Hot Flipnotes"
+
+msgid "X_IN_POPULAR_FLIPNOTES"
+msgstr "#%d in Popular this Month"
 
 msgid "X_USERS"
 msgstr "%d user(s)"
@@ -1349,19 +1367,3 @@ msgstr "編集中"
 
 msgid "YT_LAYOUT_MAY_VARY"
 msgstr "Appearance and layout may vary depending on device used to view video"
-
-msgid "FEATURED_FLIPNOTE"
-msgstr "Featured Flipnote"
-
-msgid "X_IN_HOT_FLIPNOTES"
-msgstr "#%d in Hot Flipnotes"
-
-msgid "X_IN_POPULAR_FLIPNOTES"
-msgstr "#%d in Popular this Month"
-
-msgid "WEEKLY_TOPIC_WINNER"
-msgstr "Weekly Topic Winner"msgid "RECOMMENDED_FLIPNOTES"
-msgstr "Recommended Flipnotes"
-
-msgid "WATCH_NEXT"
-msgstr "Watch Next"
