@@ -286,6 +286,9 @@ msgstr "Ευχαριστουμε που ακολουθησατε το Sudomemo T
 msgid "TICKET_DESC_visited_wii_room_ticket"
 msgstr "Thank you for visiting the Sudomemo Room on Wii Room!"
 
+msgid "TICKET_DESC_wcf_2025_winner_ticket"
+msgstr "Congratulations on winning the 2025 Winter Comedy Fest!"
+
 msgid "TICKET_DESC_weekly_topic_winner_ticket"
 msgstr "Συγχαρητηρια για την νικη σας στο Sudomemo Weekly Topic!"
 
@@ -432,6 +435,9 @@ msgstr "Twitter Promo Ticket"
 
 msgid "TICKET_NAME_visited_wii_room_ticket"
 msgstr "Wii Room Ticket"
+
+msgid "TICKET_NAME_wcf_2025_winner_ticket"
+msgstr "2025 Winter Comedy Fest Winner Ticket"
 
 msgid "TICKET_NAME_weekly_topic_winner_ticket"
 msgstr "Ticket Νικητη του Weekly Topic"
