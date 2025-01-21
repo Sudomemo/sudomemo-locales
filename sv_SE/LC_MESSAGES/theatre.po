@@ -914,11 +914,17 @@ msgstr "Settings"
 msgid "SHARE"
 msgstr "Dela"
 
+msgid "SHARE_ON_BLUESKY"
+msgstr "Share on Bluesky"
+
 msgid "SHARE_ON_FACEBOOK"
 msgstr "Dela på Facebook"
 
 msgid "SHARE_ON_REDDIT"
 msgstr "Dela på Reddit"
+
+msgid "SHARE_ON_THREADS"
+msgstr "Share on Threads"
 
 msgid "SHARE_ON_TUMBLR"
 msgstr "Dela på Tumblr"

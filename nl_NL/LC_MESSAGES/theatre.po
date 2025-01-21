@@ -936,11 +936,17 @@ msgstr "Instellingen"
 msgid "SHARE"
 msgstr "Deel"
 
+msgid "SHARE_ON_BLUESKY"
+msgstr "Share on Bluesky"
+
 msgid "SHARE_ON_FACEBOOK"
 msgstr "Deel op Facebook"
 
 msgid "SHARE_ON_REDDIT"
 msgstr "Deel via Reddit"
+
+msgid "SHARE_ON_THREADS"
+msgstr "Share on Threads"
 
 msgid "SHARE_ON_TUMBLR"
 msgstr "Deel op Tumblr"

@@ -914,11 +914,17 @@ msgstr "Configuraciones"
 msgid "SHARE"
 msgstr "Compartir"
 
+msgid "SHARE_ON_BLUESKY"
+msgstr "Share on Bluesky"
+
 msgid "SHARE_ON_FACEBOOK"
 msgstr "Compartir en Facebook"
 
 msgid "SHARE_ON_REDDIT"
 msgstr "Compartir a Reddit"
+
+msgid "SHARE_ON_THREADS"
+msgstr "Share on Threads"
 
 msgid "SHARE_ON_TUMBLR"
 msgstr "Compartir en Tumblr"

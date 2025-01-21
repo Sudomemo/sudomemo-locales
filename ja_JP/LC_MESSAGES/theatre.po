@@ -914,11 +914,17 @@ msgstr "設定"
 msgid "SHARE"
 msgstr "共有"
 
+msgid "SHARE_ON_BLUESKY"
+msgstr "Share on Bluesky"
+
 msgid "SHARE_ON_FACEBOOK"
 msgstr "Facebookで共有"
 
 msgid "SHARE_ON_REDDIT"
 msgstr "Redditで共有"
+
+msgid "SHARE_ON_THREADS"
+msgstr "Share on Threads"
 
 msgid "SHARE_ON_TUMBLR"
 msgstr "Tumblrで共有"
