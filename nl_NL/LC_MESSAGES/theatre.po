@@ -172,6 +172,9 @@ msgstr "Gesloten"
 msgid "CHANNEL_PERM_OPEN"
 msgstr "Open"
 
+msgid "CHAT"
+msgstr "Chat"
+
 msgid "CHATROOM_ACCESS_DENIED"
 msgstr "You do not have access to this chatroom."
 
@@ -1528,6 +1531,3 @@ msgstr "Je bent deze Flipnote aan het bewerken:"
 
 msgid "YT_LAYOUT_MAY_VARY"
 msgstr "Appearance and layout may vary depending on device used to view video"
-
-msgid "CHAT"
-msgstr "Chat"

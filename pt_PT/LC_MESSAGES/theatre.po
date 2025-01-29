@@ -171,6 +171,9 @@ msgstr "Fechado"
 msgid "CHANNEL_PERM_OPEN"
 msgstr "Aberto"
 
+msgid "CHAT"
+msgstr "Chat"
+
 msgid "CHATROOM_ACCESS_DENIED"
 msgstr "You do not have access to this chatroom."
 
@@ -1496,6 +1499,3 @@ msgstr "Estás a editar este Flipnote:"
 
 msgid "YT_LAYOUT_MAY_VARY"
 msgstr "A aparência e layout podem depender no aparelho que vejas o vídeo"
-
-msgid "CHAT"
-msgstr "Chat"

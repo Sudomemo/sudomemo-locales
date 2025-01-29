@@ -171,6 +171,9 @@ msgstr "非公開"
 msgid "CHANNEL_PERM_OPEN"
 msgstr "公開"
 
+msgid "CHAT"
+msgstr "Chat"
+
 msgid "CHATROOM_ACCESS_DENIED"
 msgstr "You do not have access to this chatroom."
 
@@ -1496,6 +1499,3 @@ msgstr "編集中"
 
 msgid "YT_LAYOUT_MAY_VARY"
 msgstr "Appearance and layout may vary depending on device used to view video"
-
-msgid "CHAT"
-msgstr "Chat"
