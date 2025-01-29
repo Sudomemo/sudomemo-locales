@@ -149,6 +149,9 @@ msgstr "¡Ahora puedes usar este fondo en la Sala del Creador!"
 msgid "TICKET_DESC_10th_birthday_bash_ticket"
 msgstr "Thanks for attending our Birthday Bash!"
 
+msgid "TICKET_DESC_11th_birthday_bash_ticket"
+msgstr "Thanks for attending our Birthday Bash!"
+
 msgid "TICKET_DESC_7th_birthday_bash_ticket"
 msgstr "Gracias por asistir a nuestro Birthday Bash!"
 
@@ -297,6 +300,9 @@ msgstr "You're been very welcoming to new and returning creators! Thanks!"
 
 msgid "TICKET_NAME_10th_birthday_bash_ticket"
 msgstr "10th Birthday Bash Ticket"
+
+msgid "TICKET_NAME_11th_birthday_bash_ticket"
+msgstr "11th Birthday Bash Ticket"
 
 msgid "TICKET_NAME_7th_birthday_bash_ticket"
 msgstr "Ticket del 7mo Birthday Bash"
@@ -465,8 +471,3 @@ msgstr "You got a gift!"
 # Ticket delivery
 msgid "YOU_GOT_A_TICKET"
 msgstr "¡Has conseguido un ticket!"
-msgid "TICKET_NAME_11th_birthday_bash_ticket"
-msgstr "11th Birthday Bash Ticket"
-
-msgid "TICKET_DESC_11th_birthday_bash_ticket"
-msgstr "Thanks for attending our Birthday Bash!"

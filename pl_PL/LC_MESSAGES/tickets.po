@@ -149,6 +149,9 @@ msgstr "Mozesz teraz uzywac tego motywu w twoim Pokoju Twórcy!"
 msgid "TICKET_DESC_10th_birthday_bash_ticket"
 msgstr "Thanks for attending our Birthday Bash!"
 
+msgid "TICKET_DESC_11th_birthday_bash_ticket"
+msgstr "Thanks for attending our Birthday Bash!"
+
 msgid "TICKET_DESC_7th_birthday_bash_ticket"
 msgstr "Dziekujemy za udzial w naszym Birthday Bash!"
 
@@ -297,6 +300,9 @@ msgstr "Byles/-as bardzo goscinny/-a dla nowych i powracajacych twórców! Dziek
 
 msgid "TICKET_NAME_10th_birthday_bash_ticket"
 msgstr "10th Birthday Bash Ticket"
+
+msgid "TICKET_NAME_11th_birthday_bash_ticket"
+msgstr "11th Birthday Bash Ticket"
 
 msgid "TICKET_NAME_7th_birthday_bash_ticket"
 msgstr "Bilet za siódmy Birthday Bash"
@@ -465,8 +471,3 @@ msgstr "You got a gift!"
 # Ticket delivery
 msgid "YOU_GOT_A_TICKET"
 msgstr "Otrzymano bilet!"
-msgid "TICKET_NAME_11th_birthday_bash_ticket"
-msgstr "11th Birthday Bash Ticket"
-
-msgid "TICKET_DESC_11th_birthday_bash_ticket"
-msgstr "Thanks for attending our Birthday Bash!"
