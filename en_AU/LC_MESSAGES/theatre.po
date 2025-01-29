@@ -115,6 +115,18 @@ msgstr "Upload failed..."
 msgid "BY"
 msgstr "by"
 
+msgid "CANNOT_POST_LINKS"
+msgstr "Links are not allowed in chat messages."
+
+msgid "CANNOT_POST_THIS_MESSAGE"
+msgstr "Cannot post this message."
+
+msgid "CANNOT_SEND_EMPTY_MESSAGE"
+msgstr "You cannot send an empty message."
+
+msgid "CANNOT_USE_PROFANITY"
+msgstr "Your message contains inappropriate language."
+
 msgid "CATEGORY"
 msgstr "Category"
 
@@ -159,6 +171,24 @@ msgstr "Closed"
 msgid "CHANNEL_PERM_OPEN"
 msgstr "Open"
 
+msgid "CHATROOM_ACCESS_DENIED"
+msgstr "You do not have access to this chatroom."
+
+msgid "CHATROOM_DISABLED"
+msgstr "This chatroom is disabled."
+
+msgid "CHATROOM_NOT_FOUND"
+msgstr "Chatroom not found."
+
+msgid "CHATROOM_UNAVAILABLE"
+msgstr "This chatroom is currently unavailable."
+
+msgid "CHAT_DELETE_FAILED"
+msgstr "Failed to delete the chat message."
+
+msgid "CHAT_REPLY_FAILED"
+msgstr "Failed to reply to the chat."
+
 # This used to say "Chronological", but it has since been simplified to just "Oldest".
 msgid "CHRONOLOGICAL"
 msgstr "Oldest"
@@ -168,6 +198,12 @@ msgstr "Close"
 
 msgid "COMMENTS"
 msgstr "Comments"
+
+msgid "COMMENT_FAILED_USER_BANNED"
+msgstr "You cannot post messages because you are banned."
+
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "You must confirm your email before posting."
 
 msgid "CONTINUE"
 msgstr "Continue"
@@ -314,6 +350,9 @@ msgstr "Letters, numbers, and symbols, maximum of 40 characters."
 
 msgid "EDIT_PLAYLIST"
 msgstr "Edit Playlist"
+
+msgid "ERROR_OCCURRED_TRY_AGAIN"
+msgstr "An error occurred. Please try again."
 
 msgid "FANS"
 msgstr "Fans"
@@ -523,6 +562,9 @@ msgstr "Hot"
 msgid "HOT_FLIPNOTES"
 msgstr "Hot Flipnotes"
 
+msgid "HOURLY_CHAT_MESSAGE_LIMIT_REACHED"
+msgstr "You have reached the hourly chat message limit of %d messages."
+
 # Do not translate ".sudo unlink"
 msgid "HOW_TO_UNLINK_DISCORD"
 msgstr "To unlink your Discord account, type this command into chat: .sudo unlink"
@@ -532,6 +574,24 @@ msgstr "Image must be 1080x1920."
 
 msgid "INFO"
 msgstr "Info"
+
+msgid "INVALID_OR_MISSING_CHATROOMID"
+msgstr "Invalid or missing chatroom ID."
+
+msgid "INVALID_OR_MISSING_CHATROOM_ID"
+msgstr "Invalid or missing chatroom ID."
+
+msgid "INVALID_OR_MISSING_MESSAGE_CONTENT"
+msgstr "Invalid or missing message content."
+
+msgid "INVALID_OR_MISSING_MESSAGE_ID"
+msgstr "Invalid or missing message ID."
+
+msgid "INVALID_REQUEST"
+msgstr "Invalid request."
+
+msgid "INVALID_SESSION"
+msgstr "Invalid session. Please log in again."
 
 msgid "LATEST"
 msgstr "Latest"
@@ -556,6 +616,12 @@ msgstr "Password"
 msgid "LOGIN_PLACEHOLDER_USERNAME"
 msgstr "Email or Flipnote Studio ID"
 
+msgid "LOGIN_REQUIRED_TO_DELETE_CHAT_MESSAGE"
+msgstr "Login required to delete a chat message."
+
+msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
+msgstr "Login required to post a chat message."
+
 msgid "LOGIN_SIGNUP_SELECT_DEVICE"
 msgstr "Select your device"
 
@@ -564,6 +630,27 @@ msgstr "Manage Playlist"
 
 msgid "MERCH"
 msgstr "Merch"
+
+msgid "MESSAGE_CONTAINS_INVALID_CHARACTERS"
+msgstr "Your message contains invalid characters."
+
+msgid "MESSAGE_DELETED_SUCCESSFULLY"
+msgstr "Message deleted successfully."
+
+msgid "MESSAGE_NOT_FOUND_OR_ALREADY_DELETED"
+msgstr "Message not found or already deleted."
+
+msgid "MESSAGE_NOT_YOURS_TO_DELETE"
+msgstr "You can only delete your own messages."
+
+msgid "MESSAGE_POSTED_SUCCESSFULLY"
+msgstr "Message posted successfully."
+
+msgid "MESSAGE_TOO_LONG"
+msgstr "Your message is too long."
+
+msgid "METHOD_NOT_ALLOWED"
+msgstr "Method not allowed."
 
 msgid "MODERATOR"
 msgstr "Moderator"
@@ -685,6 +772,9 @@ msgstr "Nintendo DSi"
 msgid "NONE"
 msgstr "None"
 
+msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
+msgstr "You cannot send chat messages while muted."
+
 msgid "NO_DESCRIPTION"
 msgstr "No description."
 
@@ -780,11 +870,17 @@ msgstr "Visibility"
 msgid "PLEASE_SELECT_FRAME_OR_UPLOAD_CUSTOM_FRAME"
 msgstr "Please select a frame or upload a custom frame."
 
+msgid "PLEASE_SLOW_DOWN"
+msgstr "Please slow down"
+
 msgid "PLEASE_UPLOAD_VALID_IMAGE_FILE"
 msgstr "Please upload a valid image file (PNG only)."
 
 msgid "PLUS_LEARN_MORE"
 msgstr "Learn more..."
+
+msgid "PLUS_REQUIRED_TO_POST_CHAT_MESSAGE"
+msgstr "Sudomemo Plus is required to post a chat message."
 
 msgid "POPULAR"
 msgstr "Popular"
@@ -833,6 +929,9 @@ msgstr "Rank Improved"
 
 msgid "RANK_UNCHANGED"
 msgstr "Rank Unchanged"
+
+msgid "RATELIMIT_EXCEEDED"
+msgstr "You have exceeded the rate limit for sending messages."
 
 msgid "RECENT"
 msgstr "Recent"
@@ -1042,6 +1141,9 @@ msgstr "to add a comment"
 msgid "TROPHY_CASE"
 msgstr "Trophy Case"
 
+msgid "UNKNOWN_ERROR"
+msgstr "An unknown error occurred."
+
 msgid "UNTITLED_FLIPNOTE"
 msgstr "Untitled Flipnote"
 
@@ -1066,6 +1168,9 @@ msgstr "Upload Status"
 msgid "UPLOAD_YOUTUBE_INTEGRATION_BANNED"
 msgstr "Your account has been restricted from using our YouTube integration services."
 
+msgid "USERNAME_REQUIRED"
+msgstr "A username is required."
+
 msgid "USERS"
 msgstr "Users"
 
@@ -1074,6 +1179,15 @@ msgstr "%s's Flipnote from Flipnote Hatena"
 
 msgid "USERS_PROFILE_FROM_FLIPNOTE_HATENA"
 msgstr "%s's profile from Flipnote Hatena"
+
+msgid "USER_BANNED_CANNOT_POST"
+msgstr "You are banned and cannot send messages."
+
+msgid "USER_MUTED_CANNOT_POST"
+msgstr "You are muted and cannot send messages."
+
+msgid "USER_NOT_AUTHORIZED"
+msgstr "You are not authorized to perform this action."
 
 msgid "USER_NOT_LOGGED_IN"
 msgstr "User not logged in."
