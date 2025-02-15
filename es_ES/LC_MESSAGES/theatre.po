@@ -354,6 +354,12 @@ msgstr "Letras, números, y símbolos, con un máximo de 40 caracteres."
 msgid "EDIT_PLAYLIST"
 msgstr "Edit Playlist"
 
+msgid "EMPTY_TITLE_ALERT_1"
+msgstr "It looks like your Flipnote needs a title!"
+
+msgid "EMPTY_TITLE_ALERT_2"
+msgstr "Go ahead and add one now."
+
 msgid "ERROR_OCCURRED_TRY_AGAIN"
 msgstr "An error occurred. Please try again."
 
