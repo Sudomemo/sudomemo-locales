@@ -760,6 +760,9 @@ msgstr "YouTube"
 msgid "NAVBAR_TOGGLE_NAVIGATION"
 msgstr "ナビゲーションの切り替え"
 
+msgid "NEEDS_A_TITLE"
+msgstr "Needs a title"
+
 msgid "NEWEST"
 msgstr "Newest"
 
@@ -1505,6 +1508,3 @@ msgstr "編集中"
 
 msgid "YT_LAYOUT_MAY_VARY"
 msgstr "Appearance and layout may vary depending on device used to view video"
-
-msgid "NEEDS_A_TITLE"
-msgstr "Needs a title"
