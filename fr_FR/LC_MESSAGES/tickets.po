@@ -150,7 +150,7 @@ msgid "TICKET_DESC_10th_birthday_bash_ticket"
 msgstr "Merci d'avoir participé à notre fête d'anniversaire !"
 
 msgid "TICKET_DESC_11th_birthday_bash_ticket"
-msgstr "Thanks for attending our Birthday Bash!"
+msgstr "Merci d'avoir participé à notre fête d'anniversaire !"
 
 msgid "TICKET_DESC_7th_birthday_bash_ticket"
 msgstr "Merci d'avoir participé à notre fête d'anniversaire !"
@@ -275,7 +275,7 @@ msgid "TICKET_DESC_sudomemo_radio_pilot_ticket"
 msgstr "Félicitations pour avoir pris part au tout premier épisode de Radio Sudomemo !"
 
 msgid "TICKET_DESC_sudomemo_radio_ticket"
-msgstr "Merci d'avoir contribué à Radio Sudomemo !"
+msgstr "Merci d'avoir contribué à la Radio Sudomemo !"
 
 msgid "TICKET_DESC_survey_thanks_ticket"
 msgstr "Merci d'avoir complété notre sondage !"
@@ -290,7 +290,7 @@ msgid "TICKET_DESC_visited_wii_room_ticket"
 msgstr "Merci d'avoir visité la pièce de Sudomemo sur Wii Room!"
 
 msgid "TICKET_DESC_wcf_2025_winner_ticket"
-msgstr "Congratulations on winning the 2025 Winter Comedy Fest!"
+msgstr "Félicitations pour avoir gagné le Winter Comedy Fest de 2025 !"
 
 msgid "TICKET_DESC_weekly_topic_winner_ticket"
 msgstr "Félicitations pour avoir gagné le Weekly Topic (thème hebdomadaire) de Sudomemo !"
@@ -302,7 +302,7 @@ msgid "TICKET_NAME_10th_birthday_bash_ticket"
 msgstr "Ticket du 10ème anniversaire"
 
 msgid "TICKET_NAME_11th_birthday_bash_ticket"
-msgstr "11th Birthday Bash Ticket"
+msgstr "Ticket du 11ème anniversaire"
 
 msgid "TICKET_NAME_7th_birthday_bash_ticket"
 msgstr "Ticket du 7ème anniversaire"
@@ -311,7 +311,7 @@ msgid "TICKET_NAME_8th_birthday_bash_ticket"
 msgstr "Ticket du 8ème anniversaire"
 
 msgid "TICKET_NAME_9th_birthday_bash_ticket"
-msgstr "Ticket du 9ème anniversaire"
+msgstr "Ticket du 9ième anniversaire"
 
 msgid "TICKET_NAME_LABEL"
 msgstr "Nom du Ticket:"
@@ -443,7 +443,7 @@ msgid "TICKET_NAME_visited_wii_room_ticket"
 msgstr "Ticket Wii Room"
 
 msgid "TICKET_NAME_wcf_2025_winner_ticket"
-msgstr "2025 Winter Comedy Fest Winner Ticket"
+msgstr "Ticket Vainqueur du Winter Comedy Fest de 2025"
 
 msgid "TICKET_NAME_weekly_topic_winner_ticket"
 msgstr "Ticket Vainqueur du Weekly Topic"
