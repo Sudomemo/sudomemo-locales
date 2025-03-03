@@ -116,16 +116,16 @@ msgid "BY"
 msgstr "de"
 
 msgid "CANNOT_POST_LINKS"
-msgstr "Links are not allowed in chat messages."
+msgstr "Les liens ne sont pas autorisé dans le chat."
 
 msgid "CANNOT_POST_THIS_MESSAGE"
-msgstr "Cannot post this message."
+msgstr "Impossible d'envoyer ce message."
 
 msgid "CANNOT_SEND_EMPTY_MESSAGE"
-msgstr "You cannot send an empty message."
+msgstr "Vous ne pouvez pas envoyer un message vide."
 
 msgid "CANNOT_USE_PROFANITY"
-msgstr "Your message contains inappropriate language."
+msgstr "Votre message contient du contenu inapproprié."
 
 msgid "CATEGORY"
 msgstr "Catégorie"
@@ -175,22 +175,22 @@ msgid "CHAT"
 msgstr "Chat"
 
 msgid "CHATROOM_ACCESS_DENIED"
-msgstr "You do not have access to this chatroom."
+msgstr "Vous n'avez pas accès à cette salle de discussion."
 
 msgid "CHATROOM_DISABLED"
-msgstr "This chatroom is disabled."
+msgstr "Ce salon de discussion est désactivée."
 
 msgid "CHATROOM_NOT_FOUND"
-msgstr "Chatroom not found."
+msgstr "Salon de discussion non trouvée."
 
 msgid "CHATROOM_UNAVAILABLE"
-msgstr "This chatroom is currently unavailable."
+msgstr "Ce salon de discussion n'est pas disponible en ce moment."
 
 msgid "CHAT_DELETE_FAILED"
-msgstr "Failed to delete the chat message."
+msgstr "Suppression du message échouée."
 
 msgid "CHAT_REPLY_FAILED"
-msgstr "Failed to reply to the chat."
+msgstr "Réponse du message échouée."
 
 # This used to say "Chronological", but it has since been simplified to just "Oldest".
 msgid "CHRONOLOGICAL"
@@ -203,10 +203,10 @@ msgid "COMMENTS"
 msgstr "Commentaires"
 
 msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "You cannot post messages because you are banned."
+msgstr "Vous ne pouvez pas envoyez de messages car vous êtes banni(e)."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "You must confirm your email before posting."
+msgstr "Vous devez confirmez votre addresse de courriel avant de pouvoir poster des messages."
 
 msgid "CONTINUE"
 msgstr "Continuer"
@@ -355,13 +355,13 @@ msgid "EDIT_PLAYLIST"
 msgstr "Modifier la Playliste"
 
 msgid "EMPTY_TITLE_ALERT_1"
-msgstr "It looks like your Flipnote needs a title!"
+msgstr "On dirait que votre flipnote a besoin d'un titre !"
 
 msgid "EMPTY_TITLE_ALERT_2"
-msgstr "Go ahead and add one now."
+msgstr "Allez y, ajouter en un maintenant."
 
 msgid "ERROR_OCCURRED_TRY_AGAIN"
-msgstr "An error occurred. Please try again."
+msgstr "Une erreur s'est produite. Veuillez réesseyer."
 
 msgid "FANS"
 msgstr "Fans"
@@ -373,7 +373,7 @@ msgid "FEATURED"
 msgstr "En vedette"
 
 msgid "FEATURED_FLIPNOTE"
-msgstr "Featured Flipnote"
+msgstr "Flipnote en vedette"
 
 msgid "FEATURED_FLIPNOTES"
 msgstr "Flipnotes en vedette"
@@ -451,10 +451,10 @@ msgid "FRONTPAGE_TITLE_TAGLINE"
 msgstr "Sudomemo : Flipnote Hatena est de retour !"
 
 msgid "FRONTPAGE_TITLE_TAGLINE_2"
-msgstr "Sudomemo: Share Flipnotes"
+msgstr "Sudomemo: Partagez vos Flipnotes"
 
 msgid "FRONTPAGE_TITLE_TAGLINE_3"
-msgstr "Sudomemo: Share Flipnotes on 3DS & DSi"
+msgstr "Sudomemo: Partagez vos Flipnotes sur 3DS et DSi"
 
 msgid "FRONTPAGE_TRENDING_CREATORS"
 msgstr "Créateurs tendance"
@@ -578,7 +578,7 @@ msgid "HOT_FLIPNOTES"
 msgstr "Flipnotes tendance"
 
 msgid "HOURLY_CHAT_MESSAGE_LIMIT_REACHED"
-msgstr "You have reached the hourly chat message limit of %d messages."
+msgstr "Vous avez atteint la limite horaire de %d messages."
 
 # Do not translate ".sudo unlink"
 msgid "HOW_TO_UNLINK_DISCORD"
@@ -591,22 +591,22 @@ msgid "INFO"
 msgstr "Infos"
 
 msgid "INVALID_OR_MISSING_CHATROOMID"
-msgstr "Invalid or missing chatroom ID."
+msgstr "ID de salon de discussion invalide ou manquant."
 
 msgid "INVALID_OR_MISSING_CHATROOM_ID"
-msgstr "Invalid or missing chatroom ID."
+msgstr "ID de salon de discussion invalide ou manquant."
 
 msgid "INVALID_OR_MISSING_MESSAGE_CONTENT"
-msgstr "Invalid or missing message content."
+msgstr "Contenu du message invalide ou manquant."
 
 msgid "INVALID_OR_MISSING_MESSAGE_ID"
-msgstr "Invalid or missing message ID."
+msgstr "ID du message invalide ou manquant."
 
 msgid "INVALID_REQUEST"
-msgstr "Invalid request."
+msgstr "Requête invalide."
 
 msgid "INVALID_SESSION"
-msgstr "Invalid session. Please log in again."
+msgstr "Session invalide. Veuillez vous reconnecter."
 
 msgid "LATEST"
 msgstr "Nouveau"
@@ -632,10 +632,10 @@ msgid "LOGIN_PLACEHOLDER_USERNAME"
 msgstr "Email ou Flipnote Studio ID"
 
 msgid "LOGIN_REQUIRED_TO_DELETE_CHAT_MESSAGE"
-msgstr "Login required to delete a chat message."
+msgstr "Vous devez vous connectez pour supprimer un message."
 
 msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
-msgstr "Login required to post a chat message."
+msgstr "Vous devez vous connectez pour poster un message."
 
 msgid "LOGIN_SIGNUP_SELECT_DEVICE"
 msgstr "Selectionnez votre appareil"
@@ -647,25 +647,25 @@ msgid "MERCH"
 msgstr "Marchandise"
 
 msgid "MESSAGE_CONTAINS_INVALID_CHARACTERS"
-msgstr "Your message contains invalid characters."
+msgstr "Votre message contient des charactères invalide."
 
 msgid "MESSAGE_DELETED_SUCCESSFULLY"
-msgstr "Message deleted successfully."
+msgstr "Message supprimé avec succès."
 
 msgid "MESSAGE_NOT_FOUND_OR_ALREADY_DELETED"
-msgstr "Message not found or already deleted."
+msgstr "Message non trouvé ou déjà supprimé."
 
 msgid "MESSAGE_NOT_YOURS_TO_DELETE"
-msgstr "You can only delete your own messages."
+msgstr "Vous ne pouvez que supprimer vos propres messages."
 
 msgid "MESSAGE_POSTED_SUCCESSFULLY"
-msgstr "Message posted successfully."
+msgstr "Message envoyé avec succès."
 
 msgid "MESSAGE_TOO_LONG"
-msgstr "Your message is too long."
+msgstr "Votre message est trop long."
 
 msgid "METHOD_NOT_ALLOWED"
-msgstr "Method not allowed."
+msgstr "Méthode non accepté."
 
 msgid "MODERATOR"
 msgstr "Modérateur"
@@ -767,10 +767,10 @@ msgid "NAVBAR_TOGGLE_NAVIGATION"
 msgstr "Basculer la navigation"
 
 msgid "NEEDS_A_TITLE"
-msgstr "Needs a title"
+msgstr "A besoin d'un titre"
 
 msgid "NEWEST"
-msgstr "Newest"
+msgstr "Nouveau"
 
 msgid "NEWS"
 msgstr "Infos"
@@ -791,7 +791,7 @@ msgid "NONE"
 msgstr "Rien"
 
 msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
-msgstr "You cannot send chat messages while muted."
+msgstr "Vous ne pouvez pas envoyer de messages lorsque vous êtes muet."
 
 msgid "NO_DESCRIPTION"
 msgstr "Aucune description."
@@ -889,7 +889,7 @@ msgid "PLEASE_SELECT_FRAME_OR_UPLOAD_CUSTOM_FRAME"
 msgstr "Veuillez s'il vous plaît sélectionner un cadre ou téléverser votre cadre."
 
 msgid "PLEASE_SLOW_DOWN"
-msgstr "Please slow down"
+msgstr "Veuillez ralentir."
 
 msgid "PLEASE_UPLOAD_VALID_IMAGE_FILE"
 msgstr "Veuillez téléverser un fichier d'image valide (PNG seulement)."
@@ -898,7 +898,7 @@ msgid "PLUS_LEARN_MORE"
 msgstr "Plus d'infos..."
 
 msgid "PLUS_REQUIRED_TO_POST_CHAT_MESSAGE"
-msgstr "Sudomemo Plus is required to post a chat message."
+msgstr "Sudomemo Plus est requis pour envoyer un message."
 
 msgid "POPULAR"
 msgstr "Populaire"
@@ -949,7 +949,7 @@ msgid "RANK_UNCHANGED"
 msgstr "Rang sans changement"
 
 msgid "RATELIMIT_EXCEEDED"
-msgstr "You have exceeded the rate limit for sending messages."
+msgstr "Vous avez dépassé la limite de fréquence d'envoi des messages."
 
 msgid "RECENT"
 msgstr "Récent"
@@ -958,7 +958,7 @@ msgid "RECENT_FLIPNOTES"
 msgstr "Flipnotes récentes"
 
 msgid "RECOMMENDED_FLIPNOTES"
-msgstr "Recommended Flipnotes"
+msgstr "Flipnotes Recommandés"
 
 msgid "REGION"
 msgstr "Région"
@@ -1032,7 +1032,7 @@ msgid "SHARE"
 msgstr "Partager"
 
 msgid "SHARE_ON_BLUESKY"
-msgstr "Share on Bluesky"
+msgstr "Partager sur Bluesky"
 
 msgid "SHARE_ON_FACEBOOK"
 msgstr "Partager sur Facebook"
@@ -1041,7 +1041,7 @@ msgid "SHARE_ON_REDDIT"
 msgstr "Partager sur Reddit"
 
 msgid "SHARE_ON_THREADS"
-msgstr "Share on Threads"
+msgstr "Partager sur Threads"
 
 msgid "SHARE_ON_TUMBLR"
 msgstr "Partager sur Tumblr"
@@ -1160,7 +1160,7 @@ msgid "TROPHY_CASE"
 msgstr "Vitrine à trophées"
 
 msgid "UNKNOWN_ERROR"
-msgstr "An unknown error occurred."
+msgstr "Une erreur inconnu s'est produite."
 
 msgid "UNTITLED_FLIPNOTE"
 msgstr "Flipnote sans titre"
@@ -1187,7 +1187,7 @@ msgid "UPLOAD_YOUTUBE_INTEGRATION_BANNED"
 msgstr "L'utilisation de nos services d'intégration YouTube depuis vos compte et console a été restreinte."
 
 msgid "USERNAME_REQUIRED"
-msgstr "A username is required."
+msgstr "Un nom d'utilisateur est requis."
 
 msgid "USERS"
 msgstr "Utilisateurs"
@@ -1199,13 +1199,13 @@ msgid "USERS_PROFILE_FROM_FLIPNOTE_HATENA"
 msgstr "Profil de %s de Flipnote Hatena"
 
 msgid "USER_BANNED_CANNOT_POST"
-msgstr "You are banned and cannot send messages."
+msgstr "Vous êtes banni et ne pouvez pas envoyer de messages."
 
 msgid "USER_MUTED_CANNOT_POST"
-msgstr "You are muted and cannot send messages."
+msgstr "Vous êtes muet et ne pouvez pas envoyer de messages."
 
 msgid "USER_NOT_AUTHORIZED"
-msgstr "You are not authorized to perform this action."
+msgstr "Vous n'êtes pas autorisé à effectuer cette action."
 
 msgid "USER_NOT_LOGGED_IN"
 msgstr "Utilisateur non connecté."
@@ -1283,10 +1283,10 @@ msgid "WATCH_HISTORY"
 msgstr "Historique de visionnage"
 
 msgid "WATCH_NEXT"
-msgstr "Watch Next"
+msgstr "Regarder ensuite"
 
 msgid "WEEKLY_TOPIC_WINNER"
-msgstr "Weekly Topic Winner"
+msgstr "Gagnant(e) du Weekly Topic"
 
 msgid "WELCOME_BOX_AFTERNOON_GREETING"
 msgstr "Bonjour"
@@ -1336,10 +1336,10 @@ msgid "WELCOME_BOX_YOU_ARE_ADMIN"
 msgstr "Vous êtes connecté en tant qu'administrateur."
 
 msgid "X_IN_HOT_FLIPNOTES"
-msgstr "#%d in Hot Flipnotes"
+msgstr "#%d dans Flipnotes tendance"
 
 msgid "X_IN_POPULAR_FLIPNOTES"
-msgstr "#%d in Popular this Month"
+msgstr "#%d in Populaire ce mois"
 
 msgid "X_USERS"
 msgstr "%d utilisateur(s)"
@@ -1503,7 +1503,7 @@ msgid "YOUTUBE_VISIBILITY_PUBLIC"
 msgstr "Publique"
 
 msgid "YOUTUBE_VISIBILITY_UNLISTED"
-msgstr "Non repertoriée"
+msgstr "Non répertoriée"
 
 msgid "YOUTUBE_WATCH_NOW_AT"
 msgstr "Visionner maintenant :"
