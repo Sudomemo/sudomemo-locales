@@ -1514,3 +1514,15 @@ msgstr "Du redigerar denna Flipnote:"
 
 msgid "YT_LAYOUT_MAY_VARY"
 msgstr "Appearance and layout may vary depending on device used to view video"
+
+msgid "DELETE"
+msgstr "Delete"
+
+msgid "PIN"
+msgstr "Pin"
+
+msgid "UNPIN"
+msgstr "Unpin"
+
+msgid "PINNED_COMMENT"
+msgstr "Pinned Comment"
