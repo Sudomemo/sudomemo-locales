@@ -250,6 +250,9 @@ msgstr "l jS F Y"
 msgid "DEFAULT_META_DESCRIPTION"
 msgstr "Sudomemo : partagez vos Flipnotes avec le monde entier ! Pour Nintendo DSi et 3DS."
 
+msgid "DELETE"
+msgstr "Delete"
+
 msgid "DELETE_PLAYLIST"
 msgstr "Supprimer la Playliste"
 
@@ -827,6 +830,12 @@ msgstr "L'URL que vous avez visitée a expiré."
 msgid "PERMISSIONS"
 msgstr "Permissions"
 
+msgid "PIN"
+msgstr "Pin"
+
+msgid "PINNED_COMMENT"
+msgstr "Pinned Comment"
+
 msgid "PLAYLIST"
 msgstr "Playliste"
 
@@ -1158,6 +1167,9 @@ msgstr "Vitrine à trophées"
 
 msgid "UNKNOWN_ERROR"
 msgstr "Une erreur inconnu s'est produite."
+
+msgid "UNPIN"
+msgstr "Unpin"
 
 msgid "UNTITLED_FLIPNOTE"
 msgstr "Flipnote sans titre"
@@ -1508,15 +1520,3 @@ msgstr "Vous éditez cette Flipnote :"
 
 msgid "YT_LAYOUT_MAY_VARY"
 msgstr "L’apparence et la disposition peuvent varier en fonction de l’appareil utilisé pour visionner la vidéo"
-
-msgid "DELETE"
-msgstr "Delete"
-
-msgid "PIN"
-msgstr "Pin"
-
-msgid "UNPIN"
-msgstr "Unpin"
-
-msgid "PINNED_COMMENT"
-msgstr "Pinned Comment"
