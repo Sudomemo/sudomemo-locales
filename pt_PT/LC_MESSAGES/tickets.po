@@ -271,6 +271,9 @@ msgstr "Parabéns a ti, o vencedor da Competição Flipnote Fight do Sudomemo de
 msgid "TICKET_DESC_spring_2024_ffc_winner_ticket"
 msgstr "Parabéns a ti, o vencedor da Competição Flipnote Fight do Sudomemo de Primavera 2024!"
 
+msgid "TICKET_DESC_spring_2025_ffc_winner_ticket"
+msgstr "Congratulations on your winning entry to the Spring 2025 Sudomemo Flipnote Fight Competition!"
+
 msgid "TICKET_DESC_sudomemo_radio_pilot_ticket"
 msgstr "Parabens para participares no primeiro episódio do Sudomemo Radio!"
 
@@ -474,6 +477,3 @@ msgstr "Recebeste um presente!"
 # Ticket delivery
 msgid "YOU_GOT_A_TICKET"
 msgstr "Recebeste um bilhete!"
-
-msgid "TICKET_DESC_spring_2025_ffc_winner_ticket"
-msgstr "Congratulations on your winning entry to the Spring 2025 Sudomemo Flipnote Fight Competition!"
