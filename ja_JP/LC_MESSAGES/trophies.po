@@ -125,6 +125,9 @@ msgstr "One of the winners of the first Sudomemo Flipnote Fight Competition!"
 msgid "TROPHY_DESC_spring_2024_ffc_winner"
 msgstr "One of the winners of the Spring 2024 Sudomemo Flipnote Fight Competition!"
 
+msgid "TROPHY_DESC_spring_2025_ffc_winner"
+msgstr "One of the winners of the Spring 2025 Sudomemo Flipnote Fight Competition!"
+
 msgid "TROPHY_DESC_sudomemo_radio"
 msgstr "スドメモラジオにコンテンツを提供する"
 
@@ -275,5 +278,3 @@ msgstr "今週のお題入賞者"
 
 msgid "TROPHY_NAME_welcoming_champion"
 msgstr "Welcoming Champion"
-msgid "TROPHY_DESC_spring_2025_ffc_winner"
-msgstr "One of the winners of the Spring 2025 Sudomemo Flipnote Fight Competition!"
