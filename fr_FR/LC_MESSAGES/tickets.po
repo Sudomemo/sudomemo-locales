@@ -149,6 +149,9 @@ msgstr "Vous pouvez maintenant utiliser ce thème dans votre Salle de créateur 
 msgid "TICKET_DESC_10th_birthday_bash_ticket"
 msgstr "Merci d'avoir participé à notre fête d'anniversaire !"
 
+msgid "TICKET_DESC_11th_birthday_bash_ticket"
+msgstr "Merci d'avoir participé à notre fête d'anniversaire !"
+
 msgid "TICKET_DESC_7th_birthday_bash_ticket"
 msgstr "Merci d'avoir participé à notre fête d'anniversaire !"
 
@@ -172,7 +175,7 @@ msgstr "Ce ticket vous donne 350 Étoiles Sudomemo dépensables (peut-être mêm
 
 # collab with https://www.youtube.com/@ZaneLittle/featured
 msgid "TICKET_DESC_champa_ticket"
-msgstr "A gift from Zane Little!"
+msgstr "Un cadeau de Zane Little!"
 
 msgid "TICKET_DESC_colors_promo_ticket"
 msgstr "Vous avez gagné le Weekly Topic (thème hebdomadaire) Sudomemo x Colors! de juin 2020 !"
@@ -253,6 +256,9 @@ msgstr "Félicitations pour votre inclusion dans le Sudomemo Rewind de 2022 !"
 msgid "TICKET_DESC_rewind_2023_ticket"
 msgstr "Félicitations pour votre inclusion dans le Sudomemo Rewind de 2023 !"
 
+msgid "TICKET_DESC_rewind_2024_ticket"
+msgstr "Félicitations pour votre inclusion dans le Sudomemo Rewind de 2024 !"
+
 msgid "TICKET_DESC_special_someone_ticket"
 msgstr "Pour une personne spéciale. Trois mois de Sudomemo Plus, des Étoiles colorées, et un thème exclusif."
 
@@ -265,11 +271,14 @@ msgstr "Félicitations pour votre création gagnante à la première Flipnote Fi
 msgid "TICKET_DESC_spring_2024_ffc_winner_ticket"
 msgstr "Félicitations pour votre création gagnante à la Spring 2024 Sudomemo Flipnote Fight Competition!"
 
+msgid "TICKET_DESC_spring_2025_ffc_winner_ticket"
+msgstr "Congratulations on your winning entry to the Spring 2025 Sudomemo Flipnote Fight Competition!"
+
 msgid "TICKET_DESC_sudomemo_radio_pilot_ticket"
 msgstr "Félicitations pour avoir pris part au tout premier épisode de Radio Sudomemo !"
 
 msgid "TICKET_DESC_sudomemo_radio_ticket"
-msgstr "Merci d'avoir contribué à Radio Sudomemo !"
+msgstr "Merci d'avoir contribué à la Radio Sudomemo !"
 
 msgid "TICKET_DESC_survey_thanks_ticket"
 msgstr "Merci d'avoir complété notre sondage !"
@@ -283,6 +292,9 @@ msgstr "Merci de suivre Sudomemo sur Twitter !"
 msgid "TICKET_DESC_visited_wii_room_ticket"
 msgstr "Merci d'avoir visité la pièce de Sudomemo sur Wii Room!"
 
+msgid "TICKET_DESC_wcf_2025_winner_ticket"
+msgstr "Félicitations pour avoir gagné le Winter Comedy Fest de 2025 !"
+
 msgid "TICKET_DESC_weekly_topic_winner_ticket"
 msgstr "Félicitations pour avoir gagné le Weekly Topic (thème hebdomadaire) de Sudomemo !"
 
@@ -292,6 +304,9 @@ msgstr "Vous avez été très accueillant envers les nouveaux créateurs et ceux
 msgid "TICKET_NAME_10th_birthday_bash_ticket"
 msgstr "Ticket du 10ème anniversaire"
 
+msgid "TICKET_NAME_11th_birthday_bash_ticket"
+msgstr "Ticket du 11ème anniversaire"
+
 msgid "TICKET_NAME_7th_birthday_bash_ticket"
 msgstr "Ticket du 7ème anniversaire"
 
@@ -299,7 +314,7 @@ msgid "TICKET_NAME_8th_birthday_bash_ticket"
 msgstr "Ticket du 8ème anniversaire"
 
 msgid "TICKET_NAME_9th_birthday_bash_ticket"
-msgstr "Ticket du 9ème anniversaire"
+msgstr "Ticket du 9ième anniversaire"
 
 msgid "TICKET_NAME_LABEL"
 msgstr "Nom du Ticket:"
@@ -315,7 +330,7 @@ msgstr "Ticket Ziggy Starburst"
 
 # collab with https://www.youtube.com/@ZaneLittle/featured
 msgid "TICKET_NAME_champa_ticket"
-msgstr "Champa Ticket"
+msgstr "Ticket Champa"
 
 msgid "TICKET_NAME_colors_promo_ticket"
 msgstr "Ticket Promo Colors!"
@@ -397,6 +412,9 @@ msgstr "Ticket du Sudomemo Rewind 2022"
 msgid "TICKET_NAME_rewind_2023_ticket"
 msgstr "Ticket du Sudomemo Rewind 2023"
 
+msgid "TICKET_NAME_rewind_2024_ticket"
+msgstr "Ticket du Sudomemo Rewind 2024"
+
 msgid "TICKET_NAME_special_someone_ticket"
 msgstr "Ticket de personne spéciale"
 
@@ -408,6 +426,9 @@ msgstr "Ticket de lauréat de la F.F.C. de Sudomemo de printemps 2023"
 
 msgid "TICKET_NAME_spring_2024_ffc_winner_ticket"
 msgstr "Ticket Spring 2024 Sudomemo F.F.C. Winner"
+
+msgid "TICKET_NAME_spring_2025_ffc_winner_ticket"
+msgstr "Spring 2025 Sudomemo F.F.C. Winner Ticket"
 
 msgid "TICKET_NAME_sudomemo_radio_pilot_ticket"
 msgstr "Ticket du pilote de Radio Sudomemo"
@@ -426,6 +447,9 @@ msgstr "Ticket Promo Twitter"
 
 msgid "TICKET_NAME_visited_wii_room_ticket"
 msgstr "Ticket Wii Room"
+
+msgid "TICKET_NAME_wcf_2025_winner_ticket"
+msgstr "Ticket Vainqueur du Winter Comedy Fest de 2025"
 
 msgid "TICKET_NAME_weekly_topic_winner_ticket"
 msgstr "Ticket Vainqueur du Weekly Topic"

@@ -60,17 +60,29 @@ msgstr "Efter Låt"
 msgid "SEARCH_SHORT_KEY"
 msgstr "FlipnoteID"
 
+msgid "SEARCH_SHORT_KEY_PLAYLIST"
+msgstr "Playlist ID"
+
 msgid "SEARCH_USERNAME"
 msgstr "Sök användarnamn"
 
 msgid "SHORT_KEY_FORMAT_GUIDE"
 msgstr "Hittar inte vad du letar efter? Du kan ha skrivit ett felaktigt FlipnoteID, FlipnoteID:n är sex nummer långa och kan hittas i detaljsektionen för Flipnoten."
 
+msgid "SHORT_KEY_FORMAT_GUIDE_PLAYLIST"
+msgstr "Not finding what you're looking for? You may have entered the Playlist ID incorrectly. Playlist IDs are eight digits long and can be found in the info section for the Playlist."
+
 msgid "SHORT_KEY_NO_RESULTS"
 msgstr "Inga Flipnotes hittades"
 
+msgid "SHORT_KEY_NO_RESULTS_PLAYLIST"
+msgstr "No Playlist found"
+
 msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
 msgstr "Inga resultat hittades, men en liknande ID finns. Vänligen notera att FlipnoteID:n är skiftlägeskänsliga, och är vanligtvis bara stora bokstäver och nummer."
+
+msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE_PLAYLIST"
+msgstr "No result was found, but a similar ID exists. Please note that Playlist IDs are case-sensitive, and usually all-capital letters and numbers."
 
 msgid "USERNAME"
 msgstr "Användarnamn"

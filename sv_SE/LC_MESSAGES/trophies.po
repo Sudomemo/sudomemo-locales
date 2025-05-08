@@ -20,6 +20,9 @@ msgstr "Troféfall"
 msgid "TROPHY_DESC_10th_birthday_bash"
 msgstr "Attended Sudomemo's 10th Birthday Bash event"
 
+msgid "TROPHY_DESC_11th_birthday_bash"
+msgstr "Attended Sudomemo's 11th Birthday Bash event"
+
 msgid "TROPHY_DESC_7th_birthday_bash"
 msgstr "Attended Sudomemo's 7 Years of Flipnote Fun event"
 
@@ -110,6 +113,9 @@ msgstr "Featured in 2022's Sudomemo Rewind!"
 msgid "TROPHY_DESC_rewind_2023"
 msgstr "Featured in 2023's Sudomemo Rewind!"
 
+msgid "TROPHY_DESC_rewind_2024"
+msgstr "Featured in 2024's Sudomemo Rewind!"
+
 msgid "TROPHY_DESC_spookmaster"
 msgstr "Spookmaster Award for Excellence in Witchcraft and Wizardry."
 
@@ -118,6 +124,9 @@ msgstr "One of the winners of the first Sudomemo Flipnote Fight Competition!"
 
 msgid "TROPHY_DESC_spring_2024_ffc_winner"
 msgstr "One of the winners of the Spring 2024 Sudomemo Flipnote Fight Competition!"
+
+msgid "TROPHY_DESC_spring_2025_ffc_winner"
+msgstr "One of the winners of the Spring 2025 Sudomemo Flipnote Fight Competition!"
 
 msgid "TROPHY_DESC_sudomemo_radio"
 msgstr "Contributed content to an episode of Sudomemo Radio"
@@ -131,6 +140,9 @@ msgstr "Bidra med översättningar för att göra Sudomemo öppen till alla"
 msgid "TROPHY_DESC_visited_wii_room"
 msgstr "Visited Sudomemo's Room on Wii Room!"
 
+msgid "TROPHY_DESC_wcf_2025_winner"
+msgstr "Winner of Sudomemo's 2025 Winter Comedy Fest"
+
 msgid "TROPHY_DESC_weekly_topic_winner"
 msgstr "Lägg upp en vinnande Flipnote till Sudomemos Weekly Topic"
 
@@ -139,6 +151,9 @@ msgstr "Earned the title of Welcoming Champion."
 
 msgid "TROPHY_NAME_10th_birthday_bash"
 msgstr "10th Birthday Bash"
+
+msgid "TROPHY_NAME_11th_birthday_bash"
+msgstr "11th Birthday Bash"
 
 msgid "TROPHY_NAME_7th_birthday_bash"
 msgstr "7th Birthday Bash"
@@ -231,6 +246,9 @@ msgstr "Sudomemo Rewind 2022"
 msgid "TROPHY_NAME_rewind_2023"
 msgstr "Sudomemo Rewind 2023"
 
+msgid "TROPHY_NAME_rewind_2024"
+msgstr "Sudomemo Rewind 2024"
+
 msgid "TROPHY_NAME_spookmaster"
 msgstr "Spookmaster"
 
@@ -239,6 +257,9 @@ msgstr "Spring 2023 Sudomemo Flipnote Fight Competition Winner"
 
 msgid "TROPHY_NAME_spring_2024_ffc_winner"
 msgstr "Spring 2024 Sudomemo Flipnote Fight Competition Winner"
+
+msgid "TROPHY_NAME_spring_2025_ffc_winner"
+msgstr "Spring 2025 Sudomemo Flipnote Fight Competition Winner"
 
 msgid "TROPHY_NAME_sudomemo_radio"
 msgstr "Sudomemo Radio Contributor"
@@ -251,6 +272,9 @@ msgstr "Översättare"
 
 msgid "TROPHY_NAME_visited_wii_room"
 msgstr "Wii Room Trophy"
+
+msgid "TROPHY_NAME_wcf_2025_winner"
+msgstr "2025 Winter Comedy Fest Winner"
 
 msgid "TROPHY_NAME_weekly_topic_winner"
 msgstr "Veckotemans vinnare"

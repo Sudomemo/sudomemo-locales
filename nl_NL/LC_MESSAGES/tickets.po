@@ -149,6 +149,9 @@ msgstr "Je kan nu deze thema gebruiken in je Makersruimte!"
 msgid "TICKET_DESC_10th_birthday_bash_ticket"
 msgstr "Thanks for attending our Birthday Bash!"
 
+msgid "TICKET_DESC_11th_birthday_bash_ticket"
+msgstr "Thanks for attending our Birthday Bash!"
+
 msgid "TICKET_DESC_7th_birthday_bash_ticket"
 msgstr "Thanks for attending our Birthday Bash!"
 
@@ -253,6 +256,9 @@ msgstr "Congratulations on your inclusion in 2022's Sudomemo Rewind!"
 msgid "TICKET_DESC_rewind_2023_ticket"
 msgstr "Congratulations on your inclusion in 2023's Sudomemo Rewind!"
 
+msgid "TICKET_DESC_rewind_2024_ticket"
+msgstr "Congratulations on your inclusion in 2024's Sudomemo Rewind!"
+
 msgid "TICKET_DESC_special_someone_ticket"
 msgstr "Voor die speciale persoon. Drie maanden Plus, Kleursterren, en een exclusief thema."
 
@@ -264,6 +270,9 @@ msgstr "Congratulations on your winning entry to the first Sudomemo Flipnote Fig
 
 msgid "TICKET_DESC_spring_2024_ffc_winner_ticket"
 msgstr "Congratulations on your winning entry to the Spring 2024 Sudomemo Flipnote Fight Competition!"
+
+msgid "TICKET_DESC_spring_2025_ffc_winner_ticket"
+msgstr "Congratulations on your winning entry to the Spring 2025 Sudomemo Flipnote Fight Competition!"
 
 msgid "TICKET_DESC_sudomemo_radio_pilot_ticket"
 msgstr "Congratulations on being a part of the very first episode of Sudomemo Radio!"
@@ -283,6 +292,9 @@ msgstr "Bedankt voor het volgen van de Sudomemo Twitter!"
 msgid "TICKET_DESC_visited_wii_room_ticket"
 msgstr "Thank you for visiting the Sudomemo Room on Wii Room!"
 
+msgid "TICKET_DESC_wcf_2025_winner_ticket"
+msgstr "Congratulations on winning the 2025 Winter Comedy Fest!"
+
 msgid "TICKET_DESC_weekly_topic_winner_ticket"
 msgstr "Gefeliciteerd met het winnen van de Sudomemo Wekelijkse Onderwerp!"
 
@@ -291,6 +303,9 @@ msgstr "You're been very welcoming to new and returning creators! Thanks!"
 
 msgid "TICKET_NAME_10th_birthday_bash_ticket"
 msgstr "10th Birthday Bash Ticket"
+
+msgid "TICKET_NAME_11th_birthday_bash_ticket"
+msgstr "11th Birthday Bash Ticket"
 
 msgid "TICKET_NAME_7th_birthday_bash_ticket"
 msgstr "7th Birthday Bash Ticket"
@@ -397,6 +412,9 @@ msgstr "Sudomemo Rewind 2022 Ticket"
 msgid "TICKET_NAME_rewind_2023_ticket"
 msgstr "Sudomemo Rewind 2023 Ticket"
 
+msgid "TICKET_NAME_rewind_2024_ticket"
+msgstr "Sudomemo Rewind 2024 Ticket"
+
 msgid "TICKET_NAME_special_someone_ticket"
 msgstr "Speciaal-Iemand-Ticket"
 
@@ -408,6 +426,9 @@ msgstr "Spring 2023 Sudomemo F.F.C. Winner Ticket"
 
 msgid "TICKET_NAME_spring_2024_ffc_winner_ticket"
 msgstr "Spring 2024 Sudomemo F.F.C. Winner Ticket"
+
+msgid "TICKET_NAME_spring_2025_ffc_winner_ticket"
+msgstr "Spring 2025 Sudomemo F.F.C. Winner Ticket"
 
 msgid "TICKET_NAME_sudomemo_radio_pilot_ticket"
 msgstr "Sudomemo Radio Pilot Ticket"
@@ -426,6 +447,9 @@ msgstr "Twitter Promotie Prijskaartje"
 
 msgid "TICKET_NAME_visited_wii_room_ticket"
 msgstr "Wii Room Ticket"
+
+msgid "TICKET_NAME_wcf_2025_winner_ticket"
+msgstr "2025 Winter Comedy Fest Winner Ticket"
 
 msgid "TICKET_NAME_weekly_topic_winner_ticket"
 msgstr "Wekelijkse Onderwerp Winner Prijskaartje"

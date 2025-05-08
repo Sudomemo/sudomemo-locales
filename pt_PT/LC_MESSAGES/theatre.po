@@ -61,22 +61,22 @@ msgid "BACK"
 msgstr "Voltar"
 
 msgid "BIO"
-msgstr "Bio"
+msgstr "Biografia"
 
 msgid "BIO_CLEARED"
-msgstr "Bio cleared."
+msgstr "Biografia limpa."
 
 msgid "BIO_CONTAINS_INVALID_OR_PROHIBITED_TEXT"
-msgstr "Bio contains invalid or prohibited text."
+msgstr "A Biografia contém texto inválido ou proibido."
 
 msgid "BIO_FIELD_MISSING"
-msgstr "Bio field is missing."
+msgstr "O campo de texso da Biografia está vazio."
 
 msgid "BIO_PLACEHOLDER"
-msgstr "Enter your bio here..."
+msgstr "Escreva a sua biografia aqui..."
 
 msgid "BIO_UPDATED_SUCCESSFULLY"
-msgstr "Bio updated successfully."
+msgstr "Biografia actualizada com sucesso."
 
 # Browse Channel
 msgid "BROWSE_CHANNEL_NO_FLIPNOTES_YET"
@@ -113,7 +113,19 @@ msgid "BTN_UPLOAD_FAILED"
 msgstr "Upload falhado..."
 
 msgid "BY"
-msgstr "by"
+msgstr "por"
+
+msgid "CANNOT_POST_LINKS"
+msgstr "Links are not allowed in chat messages."
+
+msgid "CANNOT_POST_THIS_MESSAGE"
+msgstr "Cannot post this message."
+
+msgid "CANNOT_SEND_EMPTY_MESSAGE"
+msgstr "You cannot send an empty message."
+
+msgid "CANNOT_USE_PROFANITY"
+msgstr "Your message contains inappropriate language."
 
 msgid "CATEGORY"
 msgstr "Categoria"
@@ -159,14 +171,42 @@ msgstr "Fechado"
 msgid "CHANNEL_PERM_OPEN"
 msgstr "Aberto"
 
+msgid "CHAT"
+msgstr "Chat"
+
+msgid "CHATROOM_ACCESS_DENIED"
+msgstr "You do not have access to this chatroom."
+
+msgid "CHATROOM_DISABLED"
+msgstr "This chatroom is disabled."
+
+msgid "CHATROOM_NOT_FOUND"
+msgstr "Chatroom not found."
+
+msgid "CHATROOM_UNAVAILABLE"
+msgstr "This chatroom is currently unavailable."
+
+msgid "CHAT_DELETE_FAILED"
+msgstr "Failed to delete the chat message."
+
+msgid "CHAT_REPLY_FAILED"
+msgstr "Failed to reply to the chat."
+
+# This used to say "Chronological", but it has since been simplified to just "Oldest".
 msgid "CHRONOLOGICAL"
-msgstr "Chronológica"
+msgstr "Oldest"
 
 msgid "CLOSE"
-msgstr "Close"
+msgstr "Fechar"
 
 msgid "COMMENTS"
 msgstr "Comentários"
+
+msgid "COMMENT_FAILED_USER_BANNED"
+msgstr "You cannot post messages because you are banned."
+
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "You must confirm your email before posting."
 
 msgid "CONTINUE"
 msgstr "Continuar"
@@ -190,7 +230,7 @@ msgid "CREATORS_ROOM"
 msgstr "Sala do Criador"
 
 msgid "CUSTOM_FRAMES"
-msgstr "Custom Frames"
+msgstr "Molduras Customizadas"
 
 # November 29th, 2019 08:23:07
 # Used for Flipnote Details
@@ -209,6 +249,9 @@ msgstr "l, jS F, Y"
 
 msgid "DEFAULT_META_DESCRIPTION"
 msgstr "Sudomemo: Partilha os teus Flipnotes com o mundo inteiro! Para a Nintendo DSi e 3DS."
+
+msgid "DELETE"
+msgstr "Delete"
 
 msgid "DELETE_PLAYLIST"
 msgstr "Apagar Playlist"
@@ -314,6 +357,15 @@ msgstr "Letras, números, e símbolos, com um máximo de 40 caracteres."
 msgid "EDIT_PLAYLIST"
 msgstr "Editar Playlist"
 
+msgid "EMPTY_TITLE_ALERT_1"
+msgstr "It looks like your Flipnote needs a title!"
+
+msgid "EMPTY_TITLE_ALERT_2"
+msgstr "Go ahead and add one now."
+
+msgid "ERROR_OCCURRED_TRY_AGAIN"
+msgstr "An error occurred. Please try again."
+
 msgid "FANS"
 msgstr "Fãs"
 
@@ -322,6 +374,9 @@ msgstr "Favorito de"
 
 msgid "FEATURED"
 msgstr "Em Destaque"
+
+msgid "FEATURED_FLIPNOTE"
+msgstr "Featured Flipnote"
 
 msgid "FEATURED_FLIPNOTES"
 msgstr "Flipnotes em Destaque"
@@ -398,6 +453,12 @@ msgstr "Flipnotes Destacados"
 msgid "FRONTPAGE_TITLE_TAGLINE"
 msgstr "Sudomemo: O Flipnote Hatena está de volta!"
 
+msgid "FRONTPAGE_TITLE_TAGLINE_2"
+msgstr "Sudomemo: Share Flipnotes"
+
+msgid "FRONTPAGE_TITLE_TAGLINE_3"
+msgstr "Sudomemo: Share Flipnotes on 3DS & DSi"
+
 msgid "FRONTPAGE_TRENDING_CREATORS"
 msgstr "Criadores nas tendências (Trending)"
 
@@ -409,94 +470,94 @@ msgid "GENRE"
 msgstr "Género"
 
 msgid "GIFT_ANONYMOUS"
-msgstr "I'd like to remain anonymous."
+msgstr "Prefiro manter-me anónimo."
 
 msgid "GIFT_ANONYMOUS_PREVIEW"
-msgstr "This gift will be sent anonymously."
+msgstr "Esta prenda irá ser enviada anónimamente."
 
 msgid "GIFT_ARE_YOU_SURE"
-msgstr "Are you sure you want to gift a %s ticket to %s?"
+msgstr "Tens a certeza que queres enviar um bilhete %s para %s?"
 
 msgid "GIFT_CONFIRM_NO"
-msgstr "No"
+msgstr "Não"
 
 msgid "GIFT_CONFIRM_YES"
-msgstr "Yes"
+msgstr "Sim"
 
 msgid "GIFT_ERROR_ALREADY_REDEEMED"
-msgstr "This ticket has already been redeemed."
+msgstr "Este bilhete já foi trocado por um brinde."
 
 msgid "GIFT_ERROR_BLOCKING_RECIPIENT"
-msgstr "You cannot gift a ticket to this user as you have blocked them."
+msgstr "Não podes enviar um bilhete para este utilizador, porque tu o bloqueaste."
 
 msgid "GIFT_ERROR_COMMENT_TOO_LONG"
-msgstr "This comment is too long. Please shorten it to 1000 characters or less."
+msgstr "Este comentário é demasiado longo. Por favor encurta-o para ter 1000 caractéres ou menos."
 
 msgid "GIFT_ERROR_EXPIRED"
-msgstr "This ticket has expired."
+msgstr "Este bilhete está fora de prazo."
 
 msgid "GIFT_ERROR_INVALID_CODE"
-msgstr "This is not a valid ticket code. Please check for typos and try again."
+msgstr "Este código de bilhete não é valido. Por favor verifique o código e tente de novo."
 
 msgid "GIFT_ERROR_INVALID_FORMAT"
-msgstr "Please enter a valid 12-digit ticket number."
+msgstr "Por favor insire um código de 12 digitos válido."
 
 msgid "GIFT_ERROR_PREVIEW"
-msgstr "There was an issue with previewing the ticket. Please try again."
+msgstr "Houve um problema a pre-visualizar o bilhete. Tente de novo."
 
 msgid "GIFT_ERROR_PROFANE_COMMENT"
-msgstr "This comment violates our Content Policy."
+msgstr "Este comentário viola a nossa Política de Conteúdo."
 
 msgid "GIFT_ERROR_PUBLIC_TICKET"
-msgstr "This ticket is not giftable."
+msgstr "Este bilhete não pode ser dado como presente."
 
 msgid "GIFT_ERROR_RECIPIENT_BLOCKING"
-msgstr "You cannot gift a ticket to this user as they have blocked you."
+msgstr "Não podes enviar um bilhete de prenda a este utilizador, porque eles te bloquearam."
 
 msgid "GIFT_ERROR_SEND"
-msgstr "There was an issue sending the gift. Please try again."
+msgstr "Houve um problema ao enviar o presente. Tente de novo."
 
 # %s will be the username of the person the user is gifting to.
 msgid "GIFT_INFO_HINT"
-msgstr "You can give %s a Sudomemo Ticket! It will be given to them with an optional message from you. You can also choose to remain anonymous."
+msgstr "Podes dar ao utilizador %s um Bilhete Sudomemo! O bilhete irá ser dado a eles com uma mensagem opcional de ti. Também podes manter-te anónimo."
 
 # %s will be the username of the person the user is gifting to.
 msgid "GIFT_MESSAGE"
-msgstr "Message to %s"
+msgstr "Mensagem para %s"
 
 # %s will be the username of the person the user is gifting to.
 msgid "GIFT_PREVIEW_FOR"
-msgstr "Preview Gift for %s"
+msgstr "Previsualizar Presente para %s"
 
 msgid "GIFT_SEND"
-msgstr "Send Gift"
+msgstr "Enviar Presente"
 
 # %s will be a link to the Sudomemo Shop, with text from this file's "SUDOMEMO_SHOP" string.
 msgid "GIFT_SHOP_HINT"
-msgstr "Need a ticket code? You can get one by purchasing a ticket from the %s."
+msgstr "Precisas de um código de bilhete? Podes comprar um código de bilhete na %s."
 
 # %s will be the username of the person the user is gifting to.
 msgid "GIFT_SUCCESS_INFO_1"
-msgstr "Your gift to %s has been sent successfully. They will be thrilled to receive your thoughtful present!"
+msgstr "A tua prenda para %s foi enviada com sucesso. Eles irão adorar a tua prenda!"
 
 msgid "GIFT_SUCCESS_INFO_2"
-msgstr "Thank you for spreading joy and happiness within the Sudomemo community!"
+msgstr "Obrigado por espalhar alegria e feliciades na comunidade do Sudomemo!"
 
 msgid "GIFT_SUCCESS_TITLE"
-msgstr "Gift Sent Successfully!"
+msgstr "Presente Enviado com Sucesso!"
 
 msgid "GIFT_TICKET"
-msgstr "Gift Ticket"
+msgstr "Bilhete Prenda"
 
 msgid "GIFT_TICKET_CODE"
-msgstr "Ticket Code"
+msgstr "Código de Bilhete"
 
 msgid "GIFT_TICKET_PREVIEW"
-msgstr "Ticket Preview"
+msgstr "Pré-visualizar Bilhete"
 
 # %s will be the username of the person the user is gifting to.
 msgid "GIFT_TICKET_TO"
-msgstr "Gift a ticket to %s"
+msgstr "Enviar um bilhete a %s"
 
 # # はてなID
 msgid "HATENA_ID"
@@ -519,15 +580,36 @@ msgstr "Populares no Momento"
 msgid "HOT_FLIPNOTES"
 msgstr "Flipnotes Populares neste momento"
 
+msgid "HOURLY_CHAT_MESSAGE_LIMIT_REACHED"
+msgstr "You have reached the hourly chat message limit of %d messages."
+
 # Do not translate ".sudo unlink"
 msgid "HOW_TO_UNLINK_DISCORD"
 msgstr "Para desligar a tua conta Discord, digita este commando no chat: .sudo unlink"
 
 msgid "IMAGE_MUST_BE_1080X1920"
-msgstr "Image must be 1080x1920."
+msgstr "A imagem tem de ter as dimensões 1080x1920."
 
 msgid "INFO"
 msgstr "Informação"
+
+msgid "INVALID_OR_MISSING_CHATROOMID"
+msgstr "Invalid or missing chatroom ID."
+
+msgid "INVALID_OR_MISSING_CHATROOM_ID"
+msgstr "Invalid or missing chatroom ID."
+
+msgid "INVALID_OR_MISSING_MESSAGE_CONTENT"
+msgstr "Invalid or missing message content."
+
+msgid "INVALID_OR_MISSING_MESSAGE_ID"
+msgstr "Invalid or missing message ID."
+
+msgid "INVALID_REQUEST"
+msgstr "Invalid request."
+
+msgid "INVALID_SESSION"
+msgstr "Invalid session. Please log in again."
 
 msgid "LATEST"
 msgstr "Mais Recentes"
@@ -544,13 +626,19 @@ msgid "LOGIN_FAILED_CHECK_DETAILS"
 msgstr "Não pudemos fazer o login. Verifica os detalhes que inseriste e tenta de novo."
 
 msgid "LOGIN_FAILED_RATELIMITED"
-msgstr "You've made too many incorrect login attempts recently. Please try again later."
+msgstr "Tentaste fazer login demasiadas vezes incorrectamente. Tente novamente mais tarde."
 
 msgid "LOGIN_PLACEHOLDER_PASSWORD"
 msgstr "Palavra-passe"
 
 msgid "LOGIN_PLACEHOLDER_USERNAME"
 msgstr "Email ou ID do Flipnote Studio"
+
+msgid "LOGIN_REQUIRED_TO_DELETE_CHAT_MESSAGE"
+msgstr "Login required to delete a chat message."
+
+msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
+msgstr "Login required to post a chat message."
 
 msgid "LOGIN_SIGNUP_SELECT_DEVICE"
 msgstr "Selecciona o teu sistema"
@@ -560,6 +648,27 @@ msgstr "Gerir Playlist"
 
 msgid "MERCH"
 msgstr "Merch"
+
+msgid "MESSAGE_CONTAINS_INVALID_CHARACTERS"
+msgstr "Your message contains invalid characters."
+
+msgid "MESSAGE_DELETED_SUCCESSFULLY"
+msgstr "Message deleted successfully."
+
+msgid "MESSAGE_NOT_FOUND_OR_ALREADY_DELETED"
+msgstr "Message not found or already deleted."
+
+msgid "MESSAGE_NOT_YOURS_TO_DELETE"
+msgstr "You can only delete your own messages."
+
+msgid "MESSAGE_POSTED_SUCCESSFULLY"
+msgstr "Message posted successfully."
+
+msgid "MESSAGE_TOO_LONG"
+msgstr "Your message is too long."
+
+msgid "METHOD_NOT_ALLOWED"
+msgstr "Method not allowed."
 
 msgid "MODERATOR"
 msgstr "Moderador"
@@ -653,15 +762,24 @@ msgstr "Twitter"
 msgid "NAVBAR_ITEM_USEFUL_LINKS"
 msgstr "Links Úteis Links"
 
+msgid "NAVBAR_ITEM_YOUTUBE"
+msgstr "YouTube"
+
 # Navbar
 msgid "NAVBAR_TOGGLE_NAVIGATION"
 msgstr "Alternar navegação"
+
+msgid "NEEDS_A_TITLE"
+msgstr "Needs a title"
+
+msgid "NEWEST"
+msgstr "Newest"
 
 msgid "NEWS"
 msgstr "Notícias"
 
 msgid "NEW_FRAME"
-msgstr "New Frame"
+msgstr "Nova Moldura"
 
 msgid "NEXT"
 msgstr "Próximo"
@@ -673,10 +791,13 @@ msgid "NINTENDO_DSI"
 msgstr "Nintendo DSi"
 
 msgid "NONE"
-msgstr "None"
+msgstr "Nenhum"
+
+msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
+msgstr "You cannot send chat messages while muted."
 
 msgid "NO_DESCRIPTION"
-msgstr "No description."
+msgstr "Sem descrição."
 
 msgid "NO_EMAIL_ON_FILE"
 msgstr "Nenhum endereço de email no registo -- contacte o Suporte do Sudomemo"
@@ -685,7 +806,7 @@ msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
 msgstr "Nenhum utilizador encontrado com esse ID do Flipnote Studio ID ou email"
 
 msgid "ONLY_APPLIES_FOR_YOUTUBE_SHORTS"
-msgstr "Only applies for YouTube Shorts"
+msgstr "Isto só se aplica ao YouTube Shorts"
 
 msgid "PARENT_FLIPNOTE"
 msgstr "Flipnote Parente"
@@ -712,6 +833,12 @@ msgstr "O URL que visitaste expirou."
 msgid "PERMISSIONS"
 msgstr "Permissões"
 
+msgid "PIN"
+msgstr "Pin"
+
+msgid "PINNED_COMMENT"
+msgstr "Pinned Comment"
+
 msgid "PLAYLIST"
 msgstr "Playlist"
 
@@ -732,7 +859,7 @@ msgid "PLAYLIST_ERROR_GENERIC_2"
 msgstr "Ocorreu um erro. Código de Erro: %s."
 
 msgid "PLAYLIST_ERROR_HINT_INCREASE_LIMIT_PLUS"
-msgstr "You could also increase this limit to %s with Sudomemo Plus!"
+msgstr "Podes aumentar este limite a %s com o Sudomemo Plus!"
 
 msgid "PLAYLIST_ERROR_PROFANE_DESC"
 msgstr "Esta descripção contém conteúdo profano que a nossa Política de Conteúdo não aceita."
@@ -741,10 +868,10 @@ msgid "PLAYLIST_ERROR_PROFANE_TITLE"
 msgstr "Este título contém conteúdo profano que a nossa Política de Conteúdo não aceita."
 
 msgid "PLAYLIST_ERROR_TOO_MANY_FLIPNOTES"
-msgstr "You cannot add another Flipnote to this Playlist as it is at or above the limit of %s Flipnotes. Remove a Flipnote or create a new Playlist, then try again."
+msgstr "Não podes adicionar outro Flipnote nesta Playlist pois chegou ao limite ou excedeu o limite de %s Flipnotes. Remova alguns Flipnotes ou crie uma nova Playlist, e tente de novo."
 
 msgid "PLAYLIST_ERROR_TOO_MANY_PLAYLISTS"
-msgstr "You cannot create a new Playlist as you are at or above the limit of %s Playlists. Delete a Playlist and try again."
+msgstr "Não podes criar uma nova Playlist porque chegaste ao limite ou excedeste o limite de %s Playlists. Apague a Playlist e tente de novo."
 
 msgid "PLAYLIST_ID"
 msgstr "ID da Playlist"
@@ -768,13 +895,19 @@ msgid "PLAYLIST_VISIBILITY"
 msgstr "Visibilidade"
 
 msgid "PLEASE_SELECT_FRAME_OR_UPLOAD_CUSTOM_FRAME"
-msgstr "Please select a frame or upload a custom frame."
+msgstr "Por favor seleccione uma moldura ou faça upload de uma moldura customizada."
+
+msgid "PLEASE_SLOW_DOWN"
+msgstr "Please slow down"
 
 msgid "PLEASE_UPLOAD_VALID_IMAGE_FILE"
-msgstr "Please upload a valid image file (PNG only)."
+msgstr "Por favor faça upload de uma imagem válida (apenas PNG)."
 
 msgid "PLUS_LEARN_MORE"
 msgstr "Saber mais..."
+
+msgid "PLUS_REQUIRED_TO_POST_CHAT_MESSAGE"
+msgstr "Sudomemo Plus is required to post a chat message."
 
 msgid "POPULAR"
 msgstr "Populares"
@@ -819,16 +952,22 @@ msgid "RANK"
 msgstr "Rank"
 
 msgid "RANK_IMPROVED"
-msgstr "Rank Improved"
+msgstr "Rank Melhorada"
 
 msgid "RANK_UNCHANGED"
-msgstr "Rank Unchanged"
+msgstr "Rank Mantida"
+
+msgid "RATELIMIT_EXCEEDED"
+msgstr "You have exceeded the rate limit for sending messages."
 
 msgid "RECENT"
 msgstr "Recente(s)"
 
 msgid "RECENT_FLIPNOTES"
 msgstr "Flipnotes Recentes"
+
+msgid "RECOMMENDED_FLIPNOTES"
+msgstr "Recommended Flipnotes"
 
 msgid "REGION"
 msgstr "Região"
@@ -901,11 +1040,17 @@ msgstr "Definições"
 msgid "SHARE"
 msgstr "Partilhar"
 
+msgid "SHARE_ON_BLUESKY"
+msgstr "Share on Bluesky"
+
 msgid "SHARE_ON_FACEBOOK"
 msgstr "Partilhar no Facebook"
 
 msgid "SHARE_ON_REDDIT"
 msgstr "Partilhar no Reddit"
+
+msgid "SHARE_ON_THREADS"
+msgstr "Share on Threads"
 
 msgid "SHARE_ON_TUMBLR"
 msgstr "Partilhar no Tumblr"
@@ -917,10 +1062,10 @@ msgid "SHARE_ON_WHATSAPP"
 msgstr "Partilhar via WhatsApp"
 
 msgid "SHOP_NOW"
-msgstr "Shop Now"
+msgstr "Comprar Agora"
 
 msgid "SHORT_PREVIEW"
-msgstr "Short Preview"
+msgstr "Previsualizar Short"
 
 msgid "SHOW_ON_PROFILE"
 msgstr "Mostrar no perfil"
@@ -929,7 +1074,7 @@ msgid "SHOW_YOUTUBE_LINK_ON_MY_PROFILE"
 msgstr "Mostrar um link para o meu canal do YouTube no meu perfil do Sudomemo"
 
 msgid "SIGNIFICANT_DECLINE"
-msgstr "Significant Decline"
+msgstr "Declínio Significante"
 
 msgid "SIGN_IN"
 msgstr "Fazer Log in"
@@ -941,7 +1086,7 @@ msgid "SIGN_UP"
 msgstr "Registar"
 
 msgid "SLIGHT_DECLINE"
-msgstr "Slight Decline"
+msgstr "Declínio Ligeiro"
 
 # For MusicMatch
 msgid "SONG"
@@ -971,7 +1116,7 @@ msgid "SUDOMEMO_PLUS"
 msgstr "Sudomemo Plus"
 
 msgid "SUDOMEMO_PLUS_FEATURE"
-msgstr "Sudomemo Plus feature"
+msgstr "Benifício do Sudomemo Plus"
 
 msgid "SUDOMEMO_SHOP"
 msgstr "Loja do Sudomemo"
@@ -1023,8 +1168,14 @@ msgstr "Para adicionar um comentário"
 msgid "TROPHY_CASE"
 msgstr "Armário de Troféus"
 
+msgid "UNKNOWN_ERROR"
+msgstr "An unknown error occurred."
+
+msgid "UNPIN"
+msgstr "Unpin"
+
 msgid "UNTITLED_FLIPNOTE"
-msgstr "Untitled Flipnote"
+msgstr "Flipnote Sem Título"
 
 # This is shown to logged-in users on their own Flipnotes without titles
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
@@ -1047,6 +1198,9 @@ msgstr "Estado do Upload"
 msgid "UPLOAD_YOUTUBE_INTEGRATION_BANNED"
 msgstr "A tua conta foi restrita de usar os nossos serviços de integração do YouTube."
 
+msgid "USERNAME_REQUIRED"
+msgstr "A username is required."
+
 msgid "USERS"
 msgstr "Utilizadores"
 
@@ -1056,11 +1210,20 @@ msgstr "Flipnote do %s do Flipnote Hatena"
 msgid "USERS_PROFILE_FROM_FLIPNOTE_HATENA"
 msgstr "Perfil do %s do Flipnote Hatena"
 
+msgid "USER_BANNED_CANNOT_POST"
+msgstr "You are banned and cannot send messages."
+
+msgid "USER_MUTED_CANNOT_POST"
+msgstr "You are muted and cannot send messages."
+
+msgid "USER_NOT_AUTHORIZED"
+msgstr "You are not authorized to perform this action."
+
 msgid "USER_NOT_LOGGED_IN"
-msgstr "User not logged in."
+msgstr "Utilizador não entrou na conta."
 
 msgid "USER_SETTINGS_BIO_EXPLANATION"
-msgstr "This is where you can update your bio."
+msgstr "Aqui podes mudar a tua biografia."
 
 msgid "USER_SETTINGS_CHANGE_PASSWORD_EXPLANATION"
 msgstr "Podes mudar a tua palavra-passe da tua conta Sudomemo aqui:"
@@ -1075,7 +1238,7 @@ msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
 msgstr "Configurar o teu canal de YouTube interligado, e definições de upload do Flipnote."
 
 msgid "USE_THIS_FRAME_FROM_NOW_ON"
-msgstr "Use this frame from now on"
+msgstr "Usa esta moldura agora"
 
 msgid "VERIFIED_USER"
 msgstr "Utilizador Verificado"
@@ -1131,6 +1294,12 @@ msgstr "Ver no Sudomemo"
 msgid "WATCH_HISTORY"
 msgstr "Histórico de Visual."
 
+msgid "WATCH_NEXT"
+msgstr "Watch Next"
+
+msgid "WEEKLY_TOPIC_WINNER"
+msgstr "Weekly Topic Winner"
+
 msgid "WELCOME_BOX_AFTERNOON_GREETING"
 msgstr "Boa tarde"
 
@@ -1177,6 +1346,12 @@ msgstr "O Sudomemo é o lugar para partilhar animações de livretes - chamados 
 
 msgid "WELCOME_BOX_YOU_ARE_ADMIN"
 msgstr "Entraste como Administrador."
+
+msgid "X_IN_HOT_FLIPNOTES"
+msgstr "#%d in Hot Flipnotes"
+
+msgid "X_IN_POPULAR_FLIPNOTES"
+msgstr "#%d in Popular this Month"
 
 msgid "X_USERS"
 msgstr "%d utilizador(es)"
@@ -1246,7 +1421,7 @@ msgid "YOUTUBE_SHORT"
 msgstr "YouTube Short"
 
 msgid "YOUTUBE_SHORT_TOGGLE"
-msgstr "Make it a YouTube Short?"
+msgstr "Fazer um YouTube Short?"
 
 msgid "YOUTUBE_STATUS_BEING_PROCESSED"
 msgstr "O teu upload está a ser processado."
@@ -1350,4 +1525,4 @@ msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "Estás a editar este Flipnote:"
 
 msgid "YT_LAYOUT_MAY_VARY"
-msgstr "Appearance and layout may vary depending on device used to view video"
+msgstr "A aparência e layout podem depender no aparelho que vejas o vídeo"
