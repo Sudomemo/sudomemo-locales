@@ -31,7 +31,7 @@ msgid "ADMIN_USER_STATUS"
 msgstr "Användaratatus"
 
 msgid "BLOCK"
-msgstr "Block"
+msgstr "Blockera"
 
 msgid "BLOCKED_USERS"
 msgstr "Blockerade användare"
@@ -46,7 +46,7 @@ msgid "BLOCK_USER"
 msgstr "Blockera användare"
 
 msgid "BROWSE_PLAYLISTS"
-msgstr "Browse Playlists"
+msgstr "Utsök Spellistor"
 
 msgid "CAN_DRAW_TICKET_SUBTEXT"
 msgstr "Du kan dra en vanlig biljett! Du kanske vinner ett pris."
@@ -116,7 +116,7 @@ msgid "HEADER_MAIL_SETTINGS"
 msgstr "Mailinställningar"
 
 msgid "HEADER_SUPPORT_TOKEN"
-msgstr "Support Token"
+msgstr "Kundtjänst Token"
 
 # View interstitial button
 msgid "INTERSTITIAL_BUTTON"
@@ -162,7 +162,7 @@ msgid "REDEEM"
 msgstr "Dra"
 
 msgid "REQUEST"
-msgstr "Request"
+msgstr "Efterfråga"
 
 msgid "SEE_MORE"
 msgstr "Visa mer..."
@@ -183,7 +183,7 @@ msgid "SPENDABLE_STARS_HELPTEXT"
 msgstr "Stars att använda för att lägga till på Flipnotes eller köpa teman"
 
 msgid "STARRED_FLIPNOTES"
-msgstr "Starred Flipnotes"
+msgstr "Stjärnlagda Flipnotes"
 
 msgid "SUDOMEMO_THEATRE_URL"
 msgstr "Sudomemo Theatre Länk"
@@ -225,10 +225,10 @@ msgid "TICKET_SECTION"
 msgstr "Biljetter"
 
 msgid "UNBLOCK"
-msgstr "Unblock"
+msgstr "Avblockera"
 
 msgid "UNBLOCK_USER"
-msgstr "Unblock user"
+msgstr "Avblockera användare"
 
 msgid "USABILITY_NOT_USABLE"
 msgstr "Inte användbar"

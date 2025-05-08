@@ -4,82 +4,82 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "ADDED_TO_NEW_PLAYLIST"
-msgstr "Added to new Playlist"
+msgstr "Tillagd i ny spellista"
 
 msgid "ADDED_TO_PLAYLIST"
-msgstr "Added to Playlist"
+msgstr "Tillagd i spellista"
 
 msgid "BACK_TO_FLIPNOTE"
-msgstr "Back to Flipnote"
+msgstr "Tillbaka till Flipnote"
 
 msgid "CREATOR"
-msgstr "Creator:"
+msgstr "Skapare:"
 
 msgid "ERROR_AUTHOR_IS_BLOCKED"
-msgstr "You cannot perform this action with this Flipnote because you have blocked the author."
+msgstr "Du kan inte göra detta med denna Flipnote då du har blockerat skaparen."
 
 msgid "ERROR_AUTHOR_IS_BLOCKED_DESC"
-msgstr "Please unblock the author and try again."
+msgstr "Snälla avblockera skaparen och försök igen."
 
 msgid "ERROR_AUTHOR_IS_BLOCKING"
-msgstr "You cannot perform this action with this Flipnote because the author has blocked you."
+msgstr "Du kan inte göra detta med denna Flipnote då skaparen har blockerat dig."
 
 msgid "ERROR_AUTHOR_IS_BLOCKING_DESC"
-msgstr "Please try again with a different Flipnote."
+msgstr "Försök igen med en annan Flipnote."
 
 msgid "ERROR_PROFANE_DESC"
-msgstr "This description violates our Content Policy."
+msgstr "Denna beskrivningen bryter mot våran Content Policy."
 
 msgid "ERROR_PROFANE_DESC_DESC"
-msgstr "Please try again with a more appropriate description."
+msgstr "Försök igen med en mer passande beskrivning."
 
 msgid "ERROR_PROFANE_TITLE"
-msgstr "This title violates our Content Policy."
+msgstr "Denna titeln bryter mot våran Content Policy."
 
 msgid "ERROR_PROFANE_TITLE_DESC"
-msgstr "Please try again with a more appropriate title."
+msgstr "Försök igen med en mer passande titel."
 
 msgid "ERROR_TITLE_ADD_TO_PLAYLIST"
-msgstr "Unable to add to Playlist!"
+msgstr "Kunde inte lägga till i spellistan!"
 
 msgid "ERROR_TITLE_CREATE_NEW_PLAYLIST"
-msgstr "Unable to create new Playlist!"
+msgstr "Kunde inte skapa en ny spellista!"
 
 msgid "ERROR_TITLE_PROFANE_DESC"
-msgstr "Unable to save new description!"
+msgstr "Kunde inte spara den nya beskrivningen!"
 
 msgid "ERROR_TITLE_PROFANE_TITLE"
-msgstr "Unable to save new title!"
+msgstr "Kunde inte spara den nya titeln!"
 
 msgid "FLIPNOTES"
 msgstr "Flipnotes"
 
 msgid "NEW_PLAYLIST"
-msgstr "Add to new Playlist"
+msgstr "Lägg till i ny spellista"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "Nästa"
 
 msgid "NO_PLAYLISTS_FOUND"
-msgstr "No playlists found"
+msgstr "Inga spellistor här"
 
 msgid "PREV"
-msgstr "Previous"
+msgstr "Föregående"
 
 msgid "REMOVED_FROM_PLAYLIST"
-msgstr "Removed from Playlist"
+msgstr "Borttagen från spellista"
 
 msgid "SORT_BY_NEWEST"
-msgstr "Latest"
+msgstr "Senaste"
 
 msgid "SORT_BY_OLDEST"
-msgstr "Chronological"
+msgstr "Kronologisk"
 
 msgid "TAP_TO_ADD_DESCRIPTION"
-msgstr "Tap here to add a description."
+msgstr "Klicka här för att lägga till en beskrivning."
 
 msgid "VIEW_FLIPNOTES"
-msgstr "View Flipnotes"
+msgstr "Titta på Flipnotes"
 
 msgid "VIEW_PLAYLIST"
-msgstr "View Playlist"
+msgstr "Titta på spellista"

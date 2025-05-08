@@ -25,7 +25,7 @@ msgid "HEADER_ADD_DESCRIPTION"
 msgstr "Lägg till beskrivning"
 
 msgid "HEADER_ADD_TO_PLAYLIST"
-msgstr "Add to Playlist"
+msgstr "Lägg till i spellista"
 
 msgid "HEADER_CHANNEL"
 msgstr "Kanal"
@@ -64,7 +64,7 @@ msgid "HEADER_POSTED"
 msgstr "Publicerad"
 
 msgid "HEADER_REMOVE_FROM_PLAYLIST"
-msgstr "Remove from Playlist"
+msgstr "Ta bort från spellista"
 
 msgid "HEADER_REPORT_FLIPNOTE"
 msgstr "Rapportera Flipnote"
@@ -88,7 +88,7 @@ msgid "HEADER_TITLE"
 msgstr "Titel"
 
 msgid "HEADER_UPLOAD_TO_YOUTUBE"
-msgstr "Upload to YouTube"
+msgstr "Ladda upp till YouTube"
 
 msgid "HEADER_VIEWS"
 msgstr "Visningar"

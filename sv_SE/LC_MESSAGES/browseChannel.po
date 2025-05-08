@@ -16,19 +16,19 @@ msgid "BROWSE_PLAYLIST"
 msgstr "Bläddra spellista"
 
 msgid "LEAST_VIEWED"
-msgstr "Least Viewed"
+msgstr "Minst tittad"
 
 msgid "MOST_RECENT"
-msgstr "Recent"
+msgstr "Nyligast"
 
 msgid "MOST_VIEWED"
-msgstr "Most Viewed"
+msgstr "Mest tittad"
 
 msgid "NEXT"
 msgstr "Nästa"
 
 msgid "OLDEST"
-msgstr "Oldest"
+msgstr "Äldst"
 
 msgid "PAGE"
 msgstr "Sida"
@@ -43,7 +43,7 @@ msgid "PREV"
 msgstr "Föregående"
 
 msgid "SONG_DETAILS"
-msgstr "Song Details"
+msgstr "Låt detaljer"
 
 msgid "SPINOFFS"
 msgstr "Spinoffs"

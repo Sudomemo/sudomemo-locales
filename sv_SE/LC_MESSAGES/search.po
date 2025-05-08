@@ -10,16 +10,16 @@ msgid "HEADER_NEXT"
 msgstr "Nästa"
 
 msgid "HEADER_PREV"
-msgstr "Före"
+msgstr "Föregående"
 
 msgid "NO_RESULTS_FOUND"
 msgstr "Inga resultat hittade."
 
 msgid "PAGE"
-msgstr "Page"
+msgstr "Sida"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d of %d"
+msgstr "%d av %d"
 
 msgid "PAGE_FORMAT"
 msgstr "Sida %d"
@@ -43,19 +43,19 @@ msgid "SEARCH_CHANNELS"
 msgstr "Channels"
 
 msgid "SEARCH_FOR"
-msgstr "Search for..."
+msgstr "Sök efter..."
 
 msgid "SEARCH_MUSICMATCH"
 msgstr "MusicMatch"
 
 msgid "SEARCH_MUSIC_BY_ARTIST"
-msgstr "By Artist"
+msgstr "Efter Artist"
 
 msgid "SEARCH_MUSIC_BY_GENRE"
-msgstr "By Genre"
+msgstr "Efter Genre"
 
 msgid "SEARCH_MUSIC_BY_SONG"
-msgstr "By Song"
+msgstr "Efter Låt"
 
 msgid "SEARCH_SHORT_KEY"
 msgstr "FlipnoteID"

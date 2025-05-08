@@ -10,14 +10,14 @@ msgstr ""
 
 # Username was given a Nitro Booster Ticket...
 msgid "BOOST_TICKET_SUCCESS"
-msgstr "%s was given a Nitro Booster Ticket, redeemable for a month of Sudomemo Plus and a special trophy. Hooray!"
+msgstr "%s fick en Nitro Booster Ticket, värd en månad av Sudomemo Plus och en speciell trofé. Hurra!"
 
 msgid "CONSIDER_X_CHANNEL_FOR_THIS"
-msgstr "Consider using %s for this"
+msgstr "Använd gärna %s för detta"
 
 # Account linking
 msgid "DISCORD_LINKING_GET_STARTED"
-msgstr "Please visit %s to get started!"
+msgstr "Gå till %s för att komma igång!"
 
 msgid "DISCORD_LINKING_REQUIRED"
 msgstr "Du kommer behöva länka ditt Sudomemo konto för att göra detta."
@@ -61,10 +61,10 @@ msgid "REJECT_ACCOUNT_ALREADY_LINKED"
 msgstr "Du har redan länkat ditt Sudomemo konto!"
 
 msgid "REJECT_BOOST_TICKET_COOLDOWN"
-msgstr "You've already given a Nitro Booster ticket this month! (%s)"
+msgstr "Du har redan fått en Nitro Booster ticket denna månaden! (%s)"
 
 msgid "REJECT_FSID_ENOENT"
-msgstr "I did not find a user with that Flipnote Studio ID on Sudomemo."
+msgstr "Jag hittade ingen använder med det Flipnote Studio ID't på Sudomemo."
 
 msgid "REJECT_GENERIC_ERROR"
 msgstr "Jag stötte på ett problem genom att försöka göra det. Förlåt!"
@@ -101,33 +101,33 @@ msgstr "Användning"
 # ONLY TRANSLATE: "usage", "commands"
 msgid "USAGE_INTRO"
 msgstr ""
-"usage: .sudo ...\n"
+"användning: .sudo ...\n"
 "\n"
-"commands:"
+"kommandon:"
 
 msgid "USAGE_draw"
 msgstr ""
 "   draw\n"
-"      Draw a Regular Ticket and see if you win a prize!"
+"      Dra en Vanlig Ticket biljett och se om du vinner ett pris!"
 
 msgid "USAGE_link"
 msgstr ""
 "   link\n"
-"      Link your Sudomemo account to Discord"
+"      Länka ditt Sudomemo konto till Discord"
 
 # ONLY TRANSLATE "Search Sudomemo MusicMatch" and "What you're searching for"
 msgid "USAGE_musicmatch"
 msgstr ""
-"   mm, musicmatch <mode> <query>\n"
-"      Search Sudomemo MusicMatch\n"
-"      <mode>: song, artist, genre\n"
-"      <query>: What you're searching for"
+"   mm, musicmatch <läge> <sökning>\n"
+"      Sök med Sudomemo MusicMatch\n"
+"      <läge>: song, artist, genre\n"
+"      <sökning>: Vad du nu letar efter"
 
 # ONLY TRANSLATE: "Give Nitro Booster ticket..." and "Flipnote Studio ID"
 msgid "USAGE_nitro_plus"
 msgstr ""
 "   nitro_plus <FSID>\n"
-"      Give Nitro Booster ticket (1 month of Sudomemo Plus and a Trophy).\n"
+"      Hämta en Nitro Booster ticket (1 månads Sudomemo Plus och en Trofé).\n"
 "      <FSID>: Flipnote Studio ID"
 
 msgid "USAGE_patron_plus"

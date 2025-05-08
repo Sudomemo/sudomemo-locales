@@ -11,10 +11,10 @@ msgid "ALSO_KNOWN_AS"
 msgstr "Även känd som"
 
 msgid "BAD_METADATA"
-msgstr "Flipnote with bad metadata"
+msgstr "Flipnote med dålig metadata"
 
 msgid "BAD_METADATA_WARNING"
-msgstr "Warning: The Flipnote metadata is corrupted. You can still watch it, but we strongly recommend against opening it in Flipnote Studio 3D."
+msgstr "Varning: Flipnotens metadata är skadad. Du kan fortfarande titta på den, men rekommenderar inte att öppna den i Flipnote Studio 3D."
 
 msgid "BLUE_STARS"
 msgstr "Blue Stars"
@@ -26,7 +26,7 @@ msgid "CONTACT"
 msgstr "Kontakt"
 
 msgid "CORRUPT_FLIPNOTE_NOTE"
-msgstr "Denna Flipnote har korruperad data. Medans den kan spelas, är det sannolikt en kopia och borde inte anses som en auktoritativ version. Försök hitta en annan version av denna Flipnote."
+msgstr "Denna Flipnote har korruperad data. Medans den kan spelas, är det sannolikt en kopia och borde inte anses som en originell version. Försök hitta en annan version av denna Flipnote."
 
 msgid "CREATED"
 msgstr "Skapad"
