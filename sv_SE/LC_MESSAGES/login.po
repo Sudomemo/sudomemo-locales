@@ -152,7 +152,7 @@ msgstr "Felaktiga lösenordsförsök: %s"
 
 # A URL will be shown at the end of this.
 msgid "LEGACY_PROXY_WARNING"
-msgstr "It looks like you may still be using the legacy ds.sudomemo.net proxy, which we have ended support for. As such, you should turn off the proxy in your System Settings, or you might have problems using Sudomemo. For more information, visit:"
+msgstr "Ser ut som att du fortfarande använder den gamla ds.sudomemo.net proxyn, som stängts ner. Stäng av proxyn i dina system inställningar, eller så kan det bli strul med Sudomemo. För mer information, besök:"
 
 msgid "LOGIN"
 msgstr "Inloggning"
@@ -200,13 +200,13 @@ msgid "NO_PLAINTEXT_PASSWORD_RECOVERY_IF_LOST"
 msgstr "Efter det här steget kan vi inte återställa ditt lösenord om du förlorar det."
 
 msgid "PLEASE_DISCONNECT_AND_RECONNECT"
-msgstr "An error occured. To try again, disconnect and then reconnect to Sudomemo."
+msgstr "Ett fel uppstod. För att försöka igen, koppla bort och sedan anslut till Sudomemo."
 
 msgid "PLEASE_ENTER_PASSWORD_TO_SIGN_IN"
 msgstr "Vänligen ange ditt lösenord för att logga in"
 
 msgid "POST_COMMENT_BELOW"
-msgstr "To continue, please submit a drawn comment (it can be blank)."
+msgstr "För att fortsätta, skicka in en ritad kommentar (sidan kan lämnas blank)."
 
 msgid "REGISTRATION_ERROR_BAD_EMAIL"
 msgstr "E-postadress du angav är inte tillåten."
@@ -233,10 +233,10 @@ msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
 msgstr "Om du behöver hjälp att ansluta, vänligen fråga på våran Discord! Du kan gå med från %s."
 
 msgid "SIGNUP_AGE_GATE_ERROR"
-msgstr "You'll need to be 13 or older to create a new Sudomemo account."
+msgstr "Du måste vara minst 13 år gammal för att skapa ett Sudomemo konto."
 
 msgid "SIGNUP_AGE_GATE_ERROR_FIX"
-msgstr "If you've received this message in error, you can update your birthday by tapping the orange wrench icon in the top right of Flipnote Studio's main menu."
+msgstr "Om detta låter felaktigt, kan du ändra din födelsedag genom att trycka på skyftnyckel ikonen i över-högra hörnet på Flipnote Studios huvudmeny."
 
 msgid "SORRY_NO_LOGIN"
 msgstr "Tyvärr, men vi kunde inte logga in dig!"
@@ -245,7 +245,7 @@ msgid "THANKS_FOR_LOGIN_FORMAT"
 msgstr "Tack för att du loggade in, %s!"
 
 msgid "THANKS_FOR_LOGIN_PROMPT_INTRO"
-msgstr "Welcome to Sudomemo! Now, let's write a little message to say who you are! (This will be posted as a Flipnote in our Introductions channel.)"
+msgstr "Välkommen till Sudomemo! Skriv gärna ett litet meddelande som säger vem du är! (Detta kommer inte laddas upp som en flipnote i introduktions kanalen)"
 
 msgid "THANK_YOU_FOR_UPDATING_EMAIL"
 msgstr "Tack för att du uppdaterat din e-postadress!"

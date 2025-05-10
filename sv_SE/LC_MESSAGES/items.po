@@ -4,43 +4,43 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CONTINUE"
-msgstr "Continue"
+msgstr "Fortsätt"
 
 msgid "ITEM_DESC_banana"
-msgstr "Not to be confused with a plantain."
+msgstr "Borde inte förvirras med andra frukter."
 
 msgid "ITEM_DESC_beach_ball"
-msgstr "A great accessory for a swimming excursion."
+msgstr "Ett måste för en rolig simbassäng."
 
 msgid "ITEM_DESC_hot_chocolate"
-msgstr "A delicious cup of hot chocolate, perfect for a cozy day."
+msgstr "En utsökt kopp varm choklad, perfekt för en mysig dag."
 
 msgid "ITEM_DESC_peeled_banana"
-msgstr "Not to be confused with a plan-... Why'd you peel it like that?"
+msgstr "Borde inte förvirras med-... Varför skalade du den nedifrån?"
 
 msgid "ITEM_NAME_banana"
-msgstr "Banana"
+msgstr "Banan"
 
 msgid "ITEM_NAME_beach_ball"
-msgstr "Beach Ball"
+msgstr "Badboll"
 
 msgid "ITEM_NAME_hot_chocolate"
-msgstr "Hot Chocolate"
+msgstr "Varm Choklad"
 
 msgid "ITEM_NAME_peeled_banana"
-msgstr "Peeled Banana"
+msgstr "Skalad Banan"
 
 msgid "ITEM_USE_banana"
-msgstr "You peel the banana."
+msgstr "Du skalar bananen."
 
 msgid "ITEM_USE_beach_ball"
-msgstr "You toss the ball around a bit."
+msgstr "Du kastar runt badbollen en stund."
 
 msgid "ITEM_USE_hot_chocolate"
-msgstr "After letting it cool for a moment, you drink the hot chocolate"
+msgstr "Efter att den svalnat, dricker du den varma chokladen"
 
 msgid "ITEM_USE_peeled_banana"
-msgstr "You eat the banana."
+msgstr "Du äter bananen."
 
 msgid "YOU_GOT_AN_ITEM"
-msgstr "You got an item!"
+msgstr "Du fick en ny ägodel!"

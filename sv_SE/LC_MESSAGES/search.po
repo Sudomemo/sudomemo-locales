@@ -10,16 +10,16 @@ msgid "HEADER_NEXT"
 msgstr "Nästa"
 
 msgid "HEADER_PREV"
-msgstr "Före"
+msgstr "Föregående"
 
 msgid "NO_RESULTS_FOUND"
 msgstr "Inga resultat hittade."
 
 msgid "PAGE"
-msgstr "Page"
+msgstr "Sida"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d of %d"
+msgstr "%d av %d"
 
 msgid "PAGE_FORMAT"
 msgstr "Sida %d"
@@ -43,19 +43,19 @@ msgid "SEARCH_CHANNELS"
 msgstr "Channels"
 
 msgid "SEARCH_FOR"
-msgstr "Search for..."
+msgstr "Sök efter..."
 
 msgid "SEARCH_MUSICMATCH"
 msgstr "MusicMatch"
 
 msgid "SEARCH_MUSIC_BY_ARTIST"
-msgstr "By Artist"
+msgstr "Efter Artist"
 
 msgid "SEARCH_MUSIC_BY_GENRE"
-msgstr "By Genre"
+msgstr "Efter Genre"
 
 msgid "SEARCH_MUSIC_BY_SONG"
-msgstr "By Song"
+msgstr "Efter Låt"
 
 msgid "SEARCH_SHORT_KEY"
 msgstr "FlipnoteID"
@@ -70,19 +70,19 @@ msgid "SHORT_KEY_FORMAT_GUIDE"
 msgstr "Hittar inte vad du letar efter? Du kan ha skrivit ett felaktigt FlipnoteID, FlipnoteID:n är sex nummer långa och kan hittas i detaljsektionen för Flipnoten."
 
 msgid "SHORT_KEY_FORMAT_GUIDE_PLAYLIST"
-msgstr "Not finding what you're looking for? You may have entered the Playlist ID incorrectly. Playlist IDs are eight digits long and can be found in the info section for the Playlist."
+msgstr "Hittar inte vad du letar efter? Du kan ha skrivit ett felaktigt spelliste-ID. spellistors IDs är åtta siffror långa and och kan hittas i detaljsektionen för spellistan."
 
 msgid "SHORT_KEY_NO_RESULTS"
 msgstr "Inga Flipnotes hittades"
 
 msgid "SHORT_KEY_NO_RESULTS_PLAYLIST"
-msgstr "No Playlist found"
+msgstr "Inga spellistor hittades"
 
 msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
-msgstr "Inga resultat hittades, men en liknande ID finns. Vänligen notera att FlipnoteID:n är skiftlägeskänsliga, och är vanligtvis bara stora bokstäver och nummer."
+msgstr "Inga resultat hittades, men en liknande ID finns. Vänligen notera att FlipnoteID:n är skiftlägeskänsliga, och består vanligtvis bara av stora bokstäver och nummer."
 
 msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE_PLAYLIST"
-msgstr "No result was found, but a similar ID exists. Please note that Playlist IDs are case-sensitive, and usually all-capital letters and numbers."
+msgstr "Inga resultat hittades, men en liknande ID finns. Notera att spellistors IDs är skiftlägeskänsliga, och består vanligtvis bara av stora bokstäver och nummer"
 
 msgid "USERNAME"
 msgstr "Användarnamn"
