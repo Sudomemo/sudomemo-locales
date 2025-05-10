@@ -9,11 +9,29 @@ msgstr "Tillagd i ny spellista"
 msgid "ADDED_TO_PLAYLIST"
 msgstr "Tillagd i spellista"
 
+msgid "BACK_TO_CREATORS_ROOM"
+msgstr "Tillbaka till Creator's Room"
+
 msgid "BACK_TO_FLIPNOTE"
-msgstr "Tillbaka till Flipnote"
+msgstr "Tillbaka till Flipnote" 
 
 msgid "CREATOR"
 msgstr "Skapare:"
+
+msgid "DELETE_PLAYLIST"
+msgstr "Radera Playlist"
+
+msgid "DELETE_PLAYLIST_CONFIRM_1"
+msgstr "Är du säker att du vill radera denna spellistan?"
+
+msgid "DELETE_PLAYLIST_CONFIRM_2"
+msgstr "Detta går inte att ta tillbaka senare!"
+
+msgid "DELETE_PLAYLIST_CONFIRM_NO"
+msgstr "Nej"
+
+msgid "DELETE_PLAYLIST_CONFIRM_YES"
+msgstr "Ja"
 
 msgid "ERROR_AUTHOR_IS_BLOCKED"
 msgstr "Du kan inte göra detta med denna Flipnote då du har blockerat skaparen."
@@ -26,6 +44,9 @@ msgstr "Du kan inte göra detta med denna Flipnote då skaparen har blockerat di
 
 msgid "ERROR_AUTHOR_IS_BLOCKING_DESC"
 msgstr "Försök igen med en annan Flipnote."
+
+msgid "ERROR_HINT_INCREASE_LIMIT_PLUS"
+msgstr "You kan också utvidga gränsen till %s med Sudomemo Plus!"
 
 msgid "ERROR_PROFANE_DESC"
 msgstr "Denna beskrivningen bryter mot våran Content Policy."
@@ -51,8 +72,23 @@ msgstr "Kunde inte spara den nya beskrivningen!"
 msgid "ERROR_TITLE_PROFANE_TITLE"
 msgstr "Kunde inte spara den nya titeln!"
 
+msgid "ERROR_TOO_MANY_FLIPNOTES"
+msgstr "Du har nått gränsen för mängden Flipnotes!"
+
+msgid "ERROR_TOO_MANY_FLIPNOTES_DESC"
+msgstr "Du kan inte lägga till ytterliggare Flipnotes till denna spellista då du är begränsad till %s Flipnotes. Ta bort en Flipnote eller skapa en ny spellista, och sedan försök igen."
+
+msgid "ERROR_TOO_MANY_PLAYLISTS"
+msgstr "Du har nått gränsen för mängden spellistor!"
+
+msgid "ERROR_TOO_MANY_PLAYLISTS_DESC"
+msgstr "Du kan inte skapa en ny spellista då du är begränsad till %s spellistor. Radera en spellista och sedan försök igen."
+
 msgid "FLIPNOTES"
 msgstr "Flipnotes"
+
+msgid "ID"
+msgstr "ID:"
 
 msgid "NEW_PLAYLIST"
 msgstr "Lägg till i ny spellista"
@@ -63,8 +99,17 @@ msgstr "Nästa"
 msgid "NO_PLAYLISTS_FOUND"
 msgstr "Inga spellistor här"
 
+msgid "PLAYLIST_DELETED"
+msgstr "Spellista raderad"
+
 msgid "PREV"
 msgstr "Föregående"
+
+msgid "PRIVATE"
+msgstr "Privat"
+
+msgid "PUBLIC"
+msgstr "Offentlig"
 
 msgid "REMOVED_FROM_PLAYLIST"
 msgstr "Borttagen från spellista"
@@ -78,8 +123,17 @@ msgstr "Kronologisk"
 msgid "TAP_TO_ADD_DESCRIPTION"
 msgstr "Klicka här för att lägga till en beskrivning."
 
+msgid "UNLISTED"
+msgstr "Olistad"
+
 msgid "VIEW_FLIPNOTES"
 msgstr "Titta på Flipnotes"
 
 msgid "VIEW_PLAYLIST"
 msgstr "Titta på spellista"
+
+msgid "VISIBILITY"
+msgstr "Synlighet:"
+
+msgid "VISIBILITY_CHANGED"
+msgstr "Synligheten av spellistan har uppdaterats"
