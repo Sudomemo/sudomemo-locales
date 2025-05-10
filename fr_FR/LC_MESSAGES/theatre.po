@@ -116,7 +116,7 @@ msgid "BY"
 msgstr "de"
 
 msgid "CANNOT_POST_LINKS"
-msgstr "Les liens ne sont pas autorisé dans le chat."
+msgstr "Les liens ne sont pas autorisés dans le chat."
 
 msgid "CANNOT_POST_THIS_MESSAGE"
 msgstr "Impossible d'envoyer ce message."
@@ -178,10 +178,10 @@ msgid "CHATROOM_ACCESS_DENIED"
 msgstr "Vous n'avez pas accès à ce salon de discussion."
 
 msgid "CHATROOM_DISABLED"
-msgstr "Ce salon de discussion est désactivée."
+msgstr "Ce salon de discussion est désactivé."
 
 msgid "CHATROOM_NOT_FOUND"
-msgstr "Salon de discussion non trouvée."
+msgstr "Salon de discussion non trouvé."
 
 msgid "CHATROOM_UNAVAILABLE"
 msgstr "Ce salon de discussion n'est pas disponible en ce moment."
@@ -206,7 +206,7 @@ msgid "COMMENT_FAILED_USER_BANNED"
 msgstr "Vous ne pouvez pas envoyez de messages car vous êtes banni(e)."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Vous devez confirmez votre addresse de courriel avant de pouvoir poster des messages."
+msgstr "Vous devez confirmez votre adresse de courriel avant de pouvoir poster des messages."
 
 msgid "CONTINUE"
 msgstr "Continuer"
@@ -251,7 +251,7 @@ msgid "DEFAULT_META_DESCRIPTION"
 msgstr "Sudomemo : partagez vos Flipnotes avec le monde entier ! Pour Nintendo DSi et 3DS."
 
 msgid "DELETE"
-msgstr "Delete"
+msgstr "Supprimer"
 
 msgid "DELETE_PLAYLIST"
 msgstr "Supprimer la Playliste"
@@ -361,7 +361,7 @@ msgid "EMPTY_TITLE_ALERT_1"
 msgstr "On dirait que votre flipnote a besoin d'un titre !"
 
 msgid "EMPTY_TITLE_ALERT_2"
-msgstr "Allez y, ajouter en un maintenant."
+msgstr "Allez-y, ajoutez-en un maintenant."
 
 msgid "ERROR_OCCURRED_TRY_AGAIN"
 msgstr "Une erreur s'est produite. Veuillez réesseyer."
@@ -497,7 +497,7 @@ msgid "GIFT_ERROR_EXPIRED"
 msgstr "Ce ticket est expiré."
 
 msgid "GIFT_ERROR_INVALID_CODE"
-msgstr "Ceci n'est pas un code de ticket valide. S'il vous plaît, vérifier pour des typographies et réessayer."
+msgstr "Ceci n'est pas un code de ticket valide. Veuillez vérifier les fautes de frappe et réessayez."
 
 msgid "GIFT_ERROR_INVALID_FORMAT"
 msgstr "Veuillez entrer un numéro de ticket à 12 chiffres valide."
@@ -834,10 +834,10 @@ msgid "PERMISSIONS"
 msgstr "Permissions"
 
 msgid "PIN"
-msgstr "Pin"
+msgstr "Épingler"
 
 msgid "PINNED_COMMENT"
-msgstr "Pinned Comment"
+msgstr "Commentaire épinglé"
 
 msgid "PLAYLIST"
 msgstr "Playliste"
@@ -1169,10 +1169,10 @@ msgid "TROPHY_CASE"
 msgstr "Vitrine à trophées"
 
 msgid "UNKNOWN_ERROR"
-msgstr "Une erreur inconnu s'est produite."
+msgstr "Une erreur inconnue s'est produite."
 
 msgid "UNPIN"
-msgstr "Unpin"
+msgstr "Désépingler"
 
 msgid "UNTITLED_FLIPNOTE"
 msgstr "Flipnote sans titre"
