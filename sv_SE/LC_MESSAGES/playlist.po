@@ -4,85 +4,85 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "ADDED_TO_NEW_PLAYLIST"
-msgstr "Added to new Playlist"
+msgstr "Tillagd i ny spellista"
 
 msgid "ADDED_TO_PLAYLIST"
-msgstr "Added to Playlist"
+msgstr "Tillagd i spellista"
 
 msgid "BACK_TO_CREATORS_ROOM"
-msgstr "Back to Creator's Room"
+msgstr "Tillbaka till Creator's Room"
 
 msgid "BACK_TO_FLIPNOTE"
-msgstr "Back to Flipnote"
+msgstr "Tillbaka till Flipnote" 
 
 msgid "CREATOR"
-msgstr "Creator:"
+msgstr "Skapare:"
 
 msgid "DELETE_PLAYLIST"
-msgstr "Delete Playlist"
+msgstr "Radera Playlist"
 
 msgid "DELETE_PLAYLIST_CONFIRM_1"
-msgstr "Are you sure you want to delete this Playlist?"
+msgstr "Är du säker att du vill radera denna spellistan?"
 
 msgid "DELETE_PLAYLIST_CONFIRM_2"
-msgstr "This action is irreversible!"
+msgstr "Detta går inte att ta tillbaka senare!"
 
 msgid "DELETE_PLAYLIST_CONFIRM_NO"
-msgstr "No"
+msgstr "Nej"
 
 msgid "DELETE_PLAYLIST_CONFIRM_YES"
-msgstr "Yes"
+msgstr "Ja"
 
 msgid "ERROR_AUTHOR_IS_BLOCKED"
-msgstr "You cannot perform this action with this Flipnote because you have blocked the author."
+msgstr "Du kan inte göra detta med denna Flipnote då du har blockerat skaparen."
 
 msgid "ERROR_AUTHOR_IS_BLOCKED_DESC"
-msgstr "Please unblock the author and try again."
+msgstr "Snälla avblockera skaparen och försök igen."
 
 msgid "ERROR_AUTHOR_IS_BLOCKING"
-msgstr "You cannot perform this action with this Flipnote because the author has blocked you."
+msgstr "Du kan inte göra detta med denna Flipnote då skaparen har blockerat dig."
 
 msgid "ERROR_AUTHOR_IS_BLOCKING_DESC"
-msgstr "Please try again with a different Flipnote."
+msgstr "Försök igen med en annan Flipnote."
 
 msgid "ERROR_HINT_INCREASE_LIMIT_PLUS"
-msgstr "You could also increase this limit to %s with Sudomemo Plus!"
+msgstr "You kan också utvidga gränsen till %s med Sudomemo Plus!"
 
 msgid "ERROR_PROFANE_DESC"
-msgstr "This description violates our Content Policy."
+msgstr "Denna beskrivningen bryter mot våran Content Policy."
 
 msgid "ERROR_PROFANE_DESC_DESC"
-msgstr "Please try again with a more appropriate description."
+msgstr "Försök igen med en mer passande beskrivning."
 
 msgid "ERROR_PROFANE_TITLE"
-msgstr "This title violates our Content Policy."
+msgstr "Denna titeln bryter mot våran Content Policy."
 
 msgid "ERROR_PROFANE_TITLE_DESC"
-msgstr "Please try again with a more appropriate title."
+msgstr "Försök igen med en mer passande titel."
 
 msgid "ERROR_TITLE_ADD_TO_PLAYLIST"
-msgstr "Unable to add to Playlist!"
+msgstr "Kunde inte lägga till i spellistan!"
 
 msgid "ERROR_TITLE_CREATE_NEW_PLAYLIST"
-msgstr "Unable to create new Playlist!"
+msgstr "Kunde inte skapa en ny spellista!"
 
 msgid "ERROR_TITLE_PROFANE_DESC"
-msgstr "Unable to save new description!"
+msgstr "Kunde inte spara den nya beskrivningen!"
 
 msgid "ERROR_TITLE_PROFANE_TITLE"
-msgstr "Unable to save new title!"
+msgstr "Kunde inte spara den nya titeln!"
 
 msgid "ERROR_TOO_MANY_FLIPNOTES"
-msgstr "You've hit the Flipnotes limit!"
+msgstr "Du har nått gränsen för mängden Flipnotes!"
 
 msgid "ERROR_TOO_MANY_FLIPNOTES_DESC"
-msgstr "You cannot add another Flipnote to this Playlist as it is at or above the limit of %s Flipnotes. Remove a Flipnote or create a new Playlist, then try again."
+msgstr "Du kan inte lägga till ytterliggare Flipnotes till denna spellista då du är begränsad till %s Flipnotes. Ta bort en Flipnote eller skapa en ny spellista, och sedan försök igen."
 
 msgid "ERROR_TOO_MANY_PLAYLISTS"
-msgstr "You've hit the Playlists limit!"
+msgstr "Du har nått gränsen för mängden spellistor!"
 
 msgid "ERROR_TOO_MANY_PLAYLISTS_DESC"
-msgstr "You cannot create a new Playlist as you are at or above the limit of %s Playlists. Delete a Playlist and try again."
+msgstr "Du kan inte skapa en ny spellista då du är begränsad till %s spellistor. Radera en spellista och sedan försök igen."
 
 msgid "FLIPNOTES"
 msgstr "Flipnotes"
@@ -91,49 +91,49 @@ msgid "ID"
 msgstr "ID:"
 
 msgid "NEW_PLAYLIST"
-msgstr "Add to new Playlist"
+msgstr "Lägg till i ny spellista"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "Nästa"
 
 msgid "NO_PLAYLISTS_FOUND"
-msgstr "No playlists found"
+msgstr "Inga spellistor här"
 
 msgid "PLAYLIST_DELETED"
-msgstr "Playlist Deleted"
+msgstr "Spellista raderad"
 
 msgid "PREV"
-msgstr "Previous"
+msgstr "Föregående"
 
 msgid "PRIVATE"
-msgstr "Private"
+msgstr "Privat"
 
 msgid "PUBLIC"
-msgstr "Public"
+msgstr "Offentlig"
 
 msgid "REMOVED_FROM_PLAYLIST"
-msgstr "Removed from Playlist"
+msgstr "Borttagen från spellista"
 
 msgid "SORT_BY_NEWEST"
-msgstr "Latest"
+msgstr "Senaste"
 
 msgid "SORT_BY_OLDEST"
-msgstr "Oldest"
+msgstr "Kronologisk"
 
 msgid "TAP_TO_ADD_DESCRIPTION"
-msgstr "Tap here to add a description."
+msgstr "Klicka här för att lägga till en beskrivning."
 
 msgid "UNLISTED"
-msgstr "Unlisted"
+msgstr "Olistad"
 
 msgid "VIEW_FLIPNOTES"
-msgstr "View Flipnotes"
+msgstr "Titta på Flipnotes"
 
 msgid "VIEW_PLAYLIST"
-msgstr "View Playlist"
+msgstr "Titta på spellista"
 
 msgid "VISIBILITY"
-msgstr "Visibility:"
+msgstr "Synlighet:"
 
 msgid "VISIBILITY_CHANGED"
-msgstr "Updated visibility of Playlist"
+msgstr "Synligheten av spellistan har uppdaterats"
