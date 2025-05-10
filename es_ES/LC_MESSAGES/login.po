@@ -152,7 +152,7 @@ msgstr "Intentos de introducir contraseña: %s"
 
 # A URL will be shown at the end of this.
 msgid "LEGACY_PROXY_WARNING"
-msgstr "Parece que todavía estás usando el proxy ds.sudomemo.net, para el que hemos dejado de admitir. Debes desactivar el proxy en la Configuración del sistema, o podría tener problemas para usar Sudomemo. Para más información visite: "
+msgstr "Parece que todavía estás usando el proxy ds.sudomemo.net, que hemos dejado de usar. Debes eliminar el proxy en la Configuración del sistema, y puedes tener problemas con usar Sudomemo si lo dejas. Para más información visite: "
 
 msgid "LOGIN"
 msgstr "Iniciar sesión"
@@ -170,22 +170,22 @@ msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE2"
 msgstr "Prueba mandarlo una vez más."
 
 msgid "LOGIN_FAILED_REOPEN_FLIPNOTE_STUDIO"
-msgstr "Inicio de sesión fallido. Cierra y abre Flipnote Studio."
+msgstr "No puede iniciar a sesión. Cierra y abrar Flipnote Studio otra vez."
 
 msgid "LOGIN_FORM_PREFILL_PASSWORD"
-msgstr "Introduce tu contraseña"
+msgstr "Entran tu contraseña"
 
 msgid "LOGIN_SETUP"
 msgstr "Configuración de inicio de sesión"
 
 msgid "LOGIN_SUCCESSFUL"
-msgstr "Ha iniciado sesión exitosamente"
+msgstr "Has iniciado sesión"
 
 msgid "NEW_USER_INTRO_POST_INTRO_CHANNEL"
 msgstr "Cuando estés listo, preséntate en nuestro canal de introducción, bajo la categoría personal."
 
 msgid "NEW_USER_PLEASE_CREATE_PASSWORD"
-msgstr "Por favor crea una nueva contraseña."
+msgstr "Por favor, crea una nueva contraseña."
 
 msgid "NEW_USER_THANKS_FOR_REGISTRATION"
 msgstr "¡Bienvenido a Sudomemo!"
@@ -203,10 +203,10 @@ msgid "PLEASE_DISCONNECT_AND_RECONNECT"
 msgstr "Ocurrió un error. Para volver a intentarlo, desconéctese y luego conéctese a Sudomemo."
 
 msgid "PLEASE_ENTER_PASSWORD_TO_SIGN_IN"
-msgstr "Por favor introduce tu contraseña para iniciar sesión"
+msgstr "Por favor, introduce tu contraseña para iniciar sesión"
 
 msgid "POST_COMMENT_BELOW"
-msgstr "To continue, please submit a drawn comment (it can be blank)."
+msgstr "Por favor, sube un commentario (puede ser blanco)."
 
 msgid "REGISTRATION_ERROR_BAD_EMAIL"
 msgstr "El Correo electrónico que has introducido no esta permitido."
@@ -218,25 +218,25 @@ msgid "REGISTRATION_ERROR_PASSWORD_ALREADY_SET"
 msgstr "Contraseña ya ha sido establecida."
 
 msgid "RETURNING_USER_NEW_LOGIN_SYSTEM"
-msgstr "Desde la última vez que iniciaste sesión, hemos agregado un nuevo sistema de inicio de sesión -- Pero no te preocupes,¡ todo tu contenido sigue aqui!"
+msgstr "Desde la última vez que iniciaste sesión hemos creado un nuevo sistema de iniciar sesión -- ¡Pero no te preocupes! Todo tu contenido sigue aqui."
 
 msgid "RETURNING_USER_PLEASE_CREATE_PASSWORD"
 msgstr "Para comenzar, crea una nueva contraseña aquí abajo."
 
 msgid "RETURNING_USER_THANKS_FOR_REGISTRATION"
-msgstr "¡Bienvenido de vuelta! Gracias por configurar tu información de inicio de sesión."
+msgstr "¡Bienvenido de vuelta! Gracias por configurar tu información."
 
 msgid "SEARCH_FOR_SENDER_EMAIL_FORMAT"
-msgstr "¿Aún no has recibido el correo? Échale un vistazo a tu correo basura (Spam), y busca por %s. Si lo encuentras y está marcado como Spam, por favor asegúrate de primero marcar No es Spam."
+msgstr "¿No has recibido el correo? Échale un vistazo a tu correo basura (Spam), y busca por %s. Si lo encuentras y está marcado como Spam, por favor asegúrate de primero marcar No es Spam."
 
 msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
 msgstr "Si necesitas ayuda para conectarte, eres libre de preguntar en nuestro Discord! Puedes unirte desde %s."
 
 msgid "SIGNUP_AGE_GATE_ERROR"
-msgstr "You'll need to be 13 or older to create a new Sudomemo account."
+msgstr "Necesitas tener 13 años o mas para crear una cuenta de Sudomemo."
 
 msgid "SIGNUP_AGE_GATE_ERROR_FIX"
-msgstr "If you've received this message in error, you can update your birthday by tapping the orange wrench icon in the top right of Flipnote Studio's main menu."
+msgstr "Si este no es correcto, puedes corregír su cumpleaños por tocando el llave naranja arriba a la derecha del menú primero de Flipnote Studio."
 
 msgid "SORRY_NO_LOGIN"
 msgstr "Lo sentimos, ¡pero no pudimos iniciar tu sesión!"

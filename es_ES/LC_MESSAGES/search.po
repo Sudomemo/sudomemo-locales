@@ -4,7 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CHANNEL"
-msgstr "Channel"
+msgstr "Canal"
 
 msgid "HEADER_NEXT"
 msgstr "Siguiente"
@@ -40,10 +40,10 @@ msgid "SEARCH"
 msgstr "Buscar"
 
 msgid "SEARCH_CHANNELS"
-msgstr "Channels"
+msgstr "Canales"
 
 msgid "SEARCH_FOR"
-msgstr "Search for..."
+msgstr "Buscar por..."
 
 msgid "SEARCH_MUSICMATCH"
 msgstr "@MusicMatch"
@@ -61,7 +61,7 @@ msgid "SEARCH_SHORT_KEY"
 msgstr "ID de Flipnote"
 
 msgid "SEARCH_SHORT_KEY_PLAYLIST"
-msgstr "Playlist ID"
+msgstr "ID de Lista de Reproducción"
 
 msgid "SEARCH_USERNAME"
 msgstr "Creador(a)"
@@ -70,19 +70,19 @@ msgid "SHORT_KEY_FORMAT_GUIDE"
 msgstr "¿No encuentras lo que estás buscando? Debes de haber puesto mal el ID. Los ID de las Flipnotes son de seis dígitos y se encuentran en la sección de detalles del mismo."
 
 msgid "SHORT_KEY_FORMAT_GUIDE_PLAYLIST"
-msgstr "Not finding what you're looking for? You may have entered the Playlist ID incorrectly. Playlist IDs are eight digits long and can be found in the info section for the Playlist."
+msgstr "¿No encuentras lo que buscas? Es posible que hayas ingresado el ID de Lista de Reproducción incorrectamente. Los IDs de Lista de Reproducción tienen ocho dígitos y se pueden encontrar en la sección de información de la Lista."
 
 msgid "SHORT_KEY_NO_RESULTS"
 msgstr "Flipnote no encontrada"
 
 msgid "SHORT_KEY_NO_RESULTS_PLAYLIST"
-msgstr "No Playlist found"
+msgstr "No se encontró la Lista de Reproducción"
 
 msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE"
 msgstr "No se han encontrado resultados, pero si una ID similar. Por favor, comprueba si el ID tiene letras mayúsculas o minúsculas y números, suelen ser casi todas con mayúsculas y con números."
 
 msgid "SHORT_KEY_SIMILAR_FOUND_CASE_SENSITIVE_PLAYLIST"
-msgstr "No result was found, but a similar ID exists. Please note that Playlist IDs are case-sensitive, and usually all-capital letters and numbers."
+msgstr "No se encontró ningún resultado, pero existe un ID similar. Ten en cuenta que los IDs de Lista de Reproducción distinguen entre mayúsculas y minúsculas, y generalmente son todas letras mayúsculas y números."
 
 msgid "USERNAME"
 msgstr "Nombre de usuario"

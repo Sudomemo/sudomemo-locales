@@ -13,7 +13,7 @@ msgid "BOOST_TICKET_SUCCESS"
 msgstr "%s recibió un ticket de Nitro Booster, canjeable por un mes de Sudomemo Plus y un trofeo especial. ¡Hurra!"
 
 msgid "CONSIDER_X_CHANNEL_FOR_THIS"
-msgstr "Consider using %s for this"
+msgstr "Considera usar %s para esto"
 
 # Account linking
 msgid "DISCORD_LINKING_GET_STARTED"
@@ -55,7 +55,7 @@ msgid "MUSICMATCH_TITLE_BY_ARTIST"
 msgstr "%s por %s"
 
 msgid "PATRON_TICKET_SUCCESS"
-msgstr "You received a %s Sudomemo Patron Ticket!"
+msgstr "¡Has recibido un Ticket de Patrón de Sudomemo %s!"
 
 msgid "REJECT_ACCOUNT_ALREADY_LINKED"
 msgstr "¡Ya has vinculado tu cuenta de Sudomemo!"
@@ -82,10 +82,10 @@ msgid "REJECT_NOT_NITRO_BOOSTER"
 msgstr "¡Necesitas ser un Sudomemo Nitro Booster para usar esto!"
 
 msgid "REJECT_NOT_PATRON"
-msgstr "You'll need to be a Sudomemo Patron to use this!"
+msgstr "¡Necesitas ser un Patrón de Sudomemo para usar esto!"
 
 msgid "REJECT_PATRON_TICKET_COOLDOWN"
-msgstr "You've already claimed your Patron ticket for this month!"
+msgstr "¡Ya has reclamado tu ticket de Patrón este mes!"
 
 msgid "REJECT_USER_ENOENT"
 msgstr "No encontré a ese usuario en Sudomemo."
@@ -108,7 +108,7 @@ msgstr ""
 msgid "USAGE_draw"
 msgstr ""
 "   draw\n"
-"      Draw a Regular Ticket and see if you win a prize!"
+"      ¡Saca un Ticket Normal y mira si ganas un premio!"
 
 msgid "USAGE_link"
 msgstr ""
@@ -133,7 +133,7 @@ msgstr ""
 msgid "USAGE_patron_plus"
 msgstr ""
 "   patron_plus\n"
-"      Claim monthly Patreon Ticket"
+"      Reclamar Ticket mensual de Patrón"
 
 msgid "USER_INFORMATION_WAS_UPDATED"
-msgstr "Your information was updated."
+msgstr "Tu información fue actualizada."

@@ -31,7 +31,7 @@ msgid "ADMIN_USER_STATUS"
 msgstr "Estado de Usuario"
 
 msgid "BLOCK"
-msgstr "Block"
+msgstr "Bloquear"
 
 msgid "BLOCKED_USERS"
 msgstr "Usuarios bloqueados"
@@ -43,10 +43,10 @@ msgid "BLOCK_COMMENTS_LINK"
 msgstr "Bloquear"
 
 msgid "BLOCK_USER"
-msgstr "Block user"
+msgstr "Bloquear usuario"
 
 msgid "BROWSE_PLAYLISTS"
-msgstr "Browse Playlists"
+msgstr "Explorar Listas de Reproducción"
 
 msgid "CAN_DRAW_TICKET_SUBTEXT"
 msgstr "¡Puedes sacar un ticket normal! Puede ganar un premio."
@@ -92,7 +92,7 @@ msgid "FLIPNOTE_FRIENDS"
 msgstr "Amigos Flipnote"
 
 msgid "FLIPNOTE_FRIENDS_INFO"
-msgstr "Creators you've exchanged Flipnotes with"
+msgstr "Creadores con los que has intercambiado Flipnotes"
 
 msgid "FLIPNOTE_STUDIO_ID"
 msgstr "ID de Flipnote Studio"
@@ -120,7 +120,7 @@ msgstr "Código de soporte"
 
 # View interstitial button
 msgid "INTERSTITIAL_BUTTON"
-msgstr "Help keep Sudomemo alive!"
+msgstr "¡Ayuda a mantener vivo Sudomemo!"
 
 msgid "INVENTORY"
 msgstr "Inventario"
@@ -225,10 +225,10 @@ msgid "TICKET_SECTION"
 msgstr "Tickets"
 
 msgid "UNBLOCK"
-msgstr "Unblock"
+msgstr "Desbloquear"
 
 msgid "UNBLOCK_USER"
-msgstr "Unblock user"
+msgstr "Desbloquear usuario"
 
 msgid "USABILITY_NOT_USABLE"
 msgstr "No Usable"
@@ -252,7 +252,7 @@ msgid "VIEW"
 msgstr "Ver"
 
 msgid "WATCH_HISTORY"
-msgstr "Watch History"
+msgstr "Historial de Visualización"
 
 msgid "YOU_HAVE_BLOCKED_THIS_USER"
-msgstr "You have blocked this user."
+msgstr "Has bloqueado a este usuario."
