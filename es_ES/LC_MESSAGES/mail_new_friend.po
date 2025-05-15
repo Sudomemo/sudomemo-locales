@@ -4,17 +4,17 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "NEW_FRIEND"
-msgstr "New Flipnote Friend!"
+msgstr "¡Nuevo Amigo de Flipnote!"
 
 msgid "NEW_FRIEND_INFO"
-msgstr "One of your Flipnote Friends, %s, is on Sudomemo! How cool is that?"
+msgstr "¡Uno de sus Amigos de Flipnote, %s, es en Sudomemo! ¡Que genial!"
 
 msgid "NEW_FRIEND_INFO_2"
-msgstr "They'll now show up in a special menu in your Creator's Room, providing you with easy access to their Creator's Room."
+msgstr "Este amigo ahora aparece en un menú especial en tu Sala de Creador, para accessar fácilmente a su Sala de Creador."
 
 msgid "NEW_FRIEND_INFO_3"
-msgstr "Only you can see who your Flipnote Friends are, and you can remove them from the Flipnote Friends menu in Flipnote Studio's settings."
+msgstr "Solo tú puedues ver a tus Amigos de Flipnote, y puedues borrarlos en la menú de configuración de Flipnote Studio."
 
 # For more information, visit: <link goes here>
 msgid "NEW_FRIEND_INFO_4"
-msgstr "For more information, visit:"
+msgstr "Para más información, visita a:"

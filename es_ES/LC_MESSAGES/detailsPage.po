@@ -25,7 +25,7 @@ msgid "HEADER_ADD_DESCRIPTION"
 msgstr "Añadir Descripción"
 
 msgid "HEADER_ADD_TO_PLAYLIST"
-msgstr "Add to Playlist"
+msgstr "Añadir a Lista de Reproducción"
 
 msgid "HEADER_CHANNEL"
 msgstr "Canal"
@@ -64,7 +64,7 @@ msgid "HEADER_POSTED"
 msgstr "Publicado"
 
 msgid "HEADER_REMOVE_FROM_PLAYLIST"
-msgstr "Remove from Playlist"
+msgstr "Quitar de Lista de Reproducción"
 
 msgid "HEADER_REPORT_FLIPNOTE"
 msgstr "Reportar Flipnote"
