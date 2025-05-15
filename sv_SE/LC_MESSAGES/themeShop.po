@@ -25,7 +25,7 @@ msgid "DESCRIPTION"
 msgstr "Beskrivning"
 
 msgid "DETAILS"
-msgstr "Details"
+msgstr "Detaljer"
 
 msgid "NAVIGATION_NEXT"
 msgstr "Nästa"
@@ -34,7 +34,7 @@ msgid "NAVIGATION_PREVIOUS"
 msgstr "Före"
 
 msgid "NO_DESCRIPTION_AVAILABLE"
-msgstr "No description"
+msgstr "Ingen beskrivning"
 
 msgid "PREVIEW"
 msgstr "Förhandsvisning"
@@ -61,7 +61,7 @@ msgid "THEME_SHOP_CONFIRM_PURCHASE_BELOW"
 msgstr "Vänligen bekräfta ditt köp nedan."
 
 msgid "THEME_SHOP_EVOLVING_BACKGROUND"
-msgstr "This special theme will change over time as you post new Flipnotes!"
+msgstr "Detta speciella temat kommer ändras under tiden du lägger upp nya flipnotes!"
 
 msgid "THEME_SHOP_LEARN_MORE_HEADER"
 msgstr "Läs mer om Temabutiken"
@@ -82,7 +82,7 @@ msgid "THEME_SHOP_OWNED_THEME_TRANSACTION_FORMAT"
 msgstr "Du köpte det här temat %s för %d gröna Stars."
 
 msgid "THEME_SHOP_POST_PURCHASE"
-msgstr "Your purchase was successful! You can select your new theme from the \"Inventory\" button in your Creator's Room!"
+msgstr "Köpet lyckades! Du kan nu välja temat från \"Förråd\" knappen i ditt Creator's Room!"
 
 msgid "THEME_SHOP_PUBLIC_THEME"
 msgstr "Alla användare har tillgång till detta tema gratis."
