@@ -150,7 +150,7 @@ msgid "TICKET_DESC_10th_birthday_bash_ticket"
 msgstr "Obrigado por participares no nosso Birthday Bash!"
 
 msgid "TICKET_DESC_11th_birthday_bash_ticket"
-msgstr "Thanks for attending our Birthday Bash!"
+msgstr "Obrigado por participares no nosso Birthday Bash!"
 
 msgid "TICKET_DESC_7th_birthday_bash_ticket"
 msgstr "Obrigado por participares no nosso Birthday Bash!"
@@ -187,10 +187,10 @@ msgid "TICKET_DESC_fall_2023_ffc_winner_ticket"
 msgstr "Parabéns a ti, o vencedor da Competição Flipnote Flight do Sudomemo de Outono 2023!"
 
 msgid "TICKET_DESC_fall_2024_ffc_winner_ticket"
-msgstr "Congratulations on your winning entry to the Fall 2024 Sudomemo Flipnote Fight Competition!"
+msgstr "Parabéns a ti, o vencedor da Competição Flipnote Flight do Sudomemo de Outono 2024!"
 
 msgid "TICKET_DESC_fate_2024_winner_ticket"
-msgstr "Congratulations on your winning FATE 2024 submission!"
+msgstr "Parabéns a ti, para a tua submissão da competição FATE 2024!"
 
 msgid "TICKET_DESC_featured_artist_ticket"
 msgstr "Nós te damos os nossos parabéns por tornares-te um Artista Destacado no Sudomemo!"
@@ -257,7 +257,7 @@ msgid "TICKET_DESC_rewind_2023_ticket"
 msgstr "Parabéns na tua inclusão no Sudomemo Rewind de 2023!"
 
 msgid "TICKET_DESC_rewind_2024_ticket"
-msgstr "Congratulations on your inclusion in 2024's Sudomemo Rewind!"
+msgstr "Parabéns na tua inclusão no Sudomemo Rewind de 2024!"
 
 msgid "TICKET_DESC_special_someone_ticket"
 msgstr "Para aquela pessoa que te é especial. Três meses de Plus, Estrelas Coloridas e um tema exclusivo."
@@ -272,7 +272,7 @@ msgid "TICKET_DESC_spring_2024_ffc_winner_ticket"
 msgstr "Parabéns a ti, o vencedor da Competição Flipnote Fight do Sudomemo de Primavera 2024!"
 
 msgid "TICKET_DESC_spring_2025_ffc_winner_ticket"
-msgstr "Congratulations on your winning entry to the Spring 2025 Sudomemo Flipnote Fight Competition!"
+msgstr "Parabéns a ti, o vencedor da Competição Flipnote Fight do Sudomemo de Primavera 2025!"
 
 msgid "TICKET_DESC_sudomemo_radio_pilot_ticket"
 msgstr "Parabens para participares no primeiro episódio do Sudomemo Radio!"
@@ -293,7 +293,7 @@ msgid "TICKET_DESC_visited_wii_room_ticket"
 msgstr "Obrigado por visitares a Sala Sudomemo no Wii Room!"
 
 msgid "TICKET_DESC_wcf_2025_winner_ticket"
-msgstr "Congratulations on winning the 2025 Winter Comedy Fest!"
+msgstr "Parabéns a ti, para a tua vitória na competição Comedy Fest de Inverno de 2025!"
 
 msgid "TICKET_DESC_weekly_topic_winner_ticket"
 msgstr "Parabéns por ganhar uma posição no Tópico Semanal do Sudomemo!"
@@ -305,7 +305,7 @@ msgid "TICKET_NAME_10th_birthday_bash_ticket"
 msgstr "Bilhete do 10º Birthday Bash"
 
 msgid "TICKET_NAME_11th_birthday_bash_ticket"
-msgstr "11th Birthday Bash Ticket"
+msgstr "Bilhete do 11º Birthday Bash"
 
 msgid "TICKET_NAME_7th_birthday_bash_ticket"
 msgstr "Bilhete do 7º Birthday Bash"
@@ -413,7 +413,7 @@ msgid "TICKET_NAME_rewind_2023_ticket"
 msgstr "Bilhete do Sudomemo Rewind 2023"
 
 msgid "TICKET_NAME_rewind_2024_ticket"
-msgstr "Sudomemo Rewind 2024 Ticket"
+msgstr "Bilhete do Sudomemo Rewind 2024"
 
 msgid "TICKET_NAME_special_someone_ticket"
 msgstr "Bilhete de Sº Valentim"
@@ -428,7 +428,7 @@ msgid "TICKET_NAME_spring_2024_ffc_winner_ticket"
 msgstr "Bilhete de Vencedor da C.F.F. Sudomemo Primavera 2024"
 
 msgid "TICKET_NAME_spring_2025_ffc_winner_ticket"
-msgstr "Spring 2025 Sudomemo F.F.C. Winner Ticket"
+msgstr "Bilhete de Vencedor da C.F.F. Sudomemo Primavera 2025"
 
 msgid "TICKET_NAME_sudomemo_radio_pilot_ticket"
 msgstr "Bilhete de Piloto do Sudomemo Radio"
@@ -449,7 +449,7 @@ msgid "TICKET_NAME_visited_wii_room_ticket"
 msgstr "Bilhete do Wii Room"
 
 msgid "TICKET_NAME_wcf_2025_winner_ticket"
-msgstr "2025 Winter Comedy Fest Winner Ticket"
+msgstr "Bilhete do Vencedor do Comedy Fest de Inverno de 2025"
 
 msgid "TICKET_NAME_weekly_topic_winner_ticket"
 msgstr "Bilhete de Vencedor o Tópico Semanal"

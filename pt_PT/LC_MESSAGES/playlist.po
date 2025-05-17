@@ -19,19 +19,19 @@ msgid "CREATOR"
 msgstr "Criador:"
 
 msgid "DELETE_PLAYLIST"
-msgstr "Delete Playlist"
+msgstr "Apagar Playlist"
 
 msgid "DELETE_PLAYLIST_CONFIRM_1"
-msgstr "Are you sure you want to delete this Playlist?"
+msgstr "Tens a certeza que queres apagar esta Playlist?"
 
 msgid "DELETE_PLAYLIST_CONFIRM_2"
-msgstr "This action is irreversible!"
+msgstr "Esta acção não pode ser revertida!"
 
 msgid "DELETE_PLAYLIST_CONFIRM_NO"
-msgstr "No"
+msgstr "Não"
 
 msgid "DELETE_PLAYLIST_CONFIRM_YES"
-msgstr "Yes"
+msgstr "Sim"
 
 msgid "ERROR_AUTHOR_IS_BLOCKED"
 msgstr "Não podes fazer nada com isto, porque bloqueaste o autor deste Flipnote."
@@ -73,16 +73,16 @@ msgid "ERROR_TITLE_PROFANE_TITLE"
 msgstr "Impossível guardar o título!"
 
 msgid "ERROR_TOO_MANY_FLIPNOTES"
-msgstr "You've hit the Flipnotes limit!"
+msgstr "Atingiste o limite de Flipnotes!"
 
 msgid "ERROR_TOO_MANY_FLIPNOTES_DESC"
-msgstr "You cannot add another Flipnote to this Playlist as it is at or above the limit of %s Flipnotes. Remove a Flipnote or create a new Playlist, then try again."
+msgstr "Não podes adicionar mais nenhum Flipnote a esta Playlist acima do limite de %s Flipnotes. Por favor remova um Flipnote ou cria uma nova Playlist e tenta novamente."
 
 msgid "ERROR_TOO_MANY_PLAYLISTS"
-msgstr "You've hit the Playlists limit!"
+msgstr "Atingiste o limite de Playlists!"
 
 msgid "ERROR_TOO_MANY_PLAYLISTS_DESC"
-msgstr "You cannot create a new Playlist as you are at or above the limit of %s Playlists. Delete a Playlist and try again."
+msgstr "Não podes criar uma nova Playlist acima do limite de %s Playlists. Por favor apague uma Playlist e tenta novamente."
 
 msgid "FLIPNOTES"
 msgstr "Flipnotes"
@@ -100,16 +100,16 @@ msgid "NO_PLAYLISTS_FOUND"
 msgstr "Não há nenhuma playlist"
 
 msgid "PLAYLIST_DELETED"
-msgstr "Playlist Deleted"
+msgstr "Playlist Apagada"
 
 msgid "PREV"
 msgstr "Anterior"
 
 msgid "PRIVATE"
-msgstr "Private"
+msgstr "Privado(a)"
 
 msgid "PUBLIC"
-msgstr "Public"
+msgstr "Publico(a)"
 
 msgid "REMOVED_FROM_PLAYLIST"
 msgstr "Removido da Playlist"
@@ -118,13 +118,13 @@ msgid "SORT_BY_NEWEST"
 msgstr "Mais Recentes"
 
 msgid "SORT_BY_OLDEST"
-msgstr "Oldest"
+msgstr "Mais Antigas"
 
 msgid "TAP_TO_ADD_DESCRIPTION"
 msgstr "Toque aqui para adicionar uma descrição."
 
 msgid "UNLISTED"
-msgstr "Unlisted"
+msgstr "Não Listada"
 
 msgid "VIEW_FLIPNOTES"
 msgstr "Ver Flipnotes"
@@ -133,7 +133,7 @@ msgid "VIEW_PLAYLIST"
 msgstr "Ver Playlist"
 
 msgid "VISIBILITY"
-msgstr "Visibility:"
+msgstr "Visibilidade:"
 
 msgid "VISIBILITY_CHANGED"
-msgstr "Updated visibility of Playlist"
+msgstr "Actualizaste a visibilidade da Playlist"
