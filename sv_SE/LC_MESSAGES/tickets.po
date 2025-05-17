@@ -7,7 +7,7 @@ msgid "ACHIEVEMENT"
 msgstr "Achievement"
 
 msgid "ANONYMOUS"
-msgstr "Anonymous User"
+msgstr "Anonym Användare"
 
 # %s will be replaced with the gift recipient's username.
 msgid "BACK_TO_RECIPIENT_PROFILE"
@@ -27,7 +27,7 @@ msgid "CODE_NONEXISTING_OR_EXPIRED"
 msgstr "Koden du skrev finns inte eller har gått ut."
 
 msgid "COLOR_STARS"
-msgstr "Color Stars"
+msgstr "Färgade Stars"
 
 msgid "CONTINUE"
 msgstr "Fortsätt"
@@ -184,28 +184,28 @@ msgid "TICKET_DESC_demo_ticket"
 msgstr "Uppenbarligen är detta beskrivningen för demobiljetten."
 
 msgid "TICKET_DESC_fall_2023_ffc_winner_ticket"
-msgstr "Congratulations on your winning entry to the Fall 2023 Sudomemo Flipnote Fight Competition!"
+msgstr "Gratulationer för ditt vinnande bidrag för Sudomemo Flipnote Fight Competition hösten 2023!"
 
 msgid "TICKET_DESC_fall_2024_ffc_winner_ticket"
-msgstr "Congratulations on your winning entry to the Fall 2024 Sudomemo Flipnote Fight Competition!"
+msgstr "Gratulationer för ditt vinnande bidrag för Sudomemo Flipnote Fight Competition hösten 2024!"
 
 msgid "TICKET_DESC_fate_2024_winner_ticket"
-msgstr "Congratulations on your winning FATE 2024 submission!"
+msgstr "Gratulationer till ditt vinnand bidrag för FATE 2024!"
 
 msgid "TICKET_DESC_featured_artist_ticket"
 msgstr "We give our warm congratulations to you for becoming a Sudomemo Featured Artist!"
 
 msgid "TICKET_DESC_featured_flipnote_ticket"
-msgstr "Congratulations! One of your Flipnotes was featured."
+msgstr "Gratulationer! En av dina Flipnotes har blivit känd."
 
 msgid "TICKET_DESC_ffotd_ticket"
-msgstr "Gratulerar! Du Publicerade den första Flipnten av decenniet!"
+msgstr "Gratulerar! Du Publicerade den första Flipnoten av decenniet!"
 
 msgid "TICKET_DESC_five_year_plus_ticket"
-msgstr "This ticket will give you five years of Sudomemo Plus!"
+msgstr "Denna biljetten ger dig 5 år av Sudomemo Plus!"
 
 msgid "TICKET_DESC_folding_reward_ticket"
-msgstr "Thanks for helping save lives!"
+msgstr "Tack för att du räddar liv!"
 
 msgid "TICKET_DESC_golden_neko_ticket"
 msgstr "Denna biljett ger dig 1300 spenderbara Sudomemo Stars (inklusive flera sällsynta!), ett exklusivt tema, och ett speciellt märke på din profil!"
@@ -221,10 +221,10 @@ msgid "TICKET_DESC_love_anniversary_ticket"
 msgstr "Grattis på årsdagen "
 
 msgid "TICKET_DESC_merch_ticket"
-msgstr "Thank you for purchasing Sudomemo merchandise!"
+msgstr "Tack för att du köper Sudomemos varor!"
 
 msgid "TICKET_DESC_neighborhood_watch_ticket"
-msgstr "Thank you helping keep Sudomemo a safe and welcoming place!"
+msgstr "Tack för att du uppräthåller Sudomemo som en säker och välkomnande plats!"
 
 msgid "TICKET_DESC_nitro_booster_ticket"
 msgstr "Du där! Du är grymm! Tack för att du boostar Sudomemo Discorden!"
@@ -248,34 +248,34 @@ msgid "TICKET_DESC_regular_ticket"
 msgstr "Tack för att du använder Sudomemo!"
 
 msgid "TICKET_DESC_rewind_2021_ticket"
-msgstr "Congratulations on your inclusion in 2021's Sudomemo Rewind!"
+msgstr "Gratulationer till ditt inkluderande i Sudomemo Rewind 2021!"
 
 msgid "TICKET_DESC_rewind_2022_ticket"
-msgstr "Congratulations on your inclusion in 2022's Sudomemo Rewind!"
+msgstr "Gratulationer till ditt inkluderande i Sudomemo Rewind 2022!"
 
 msgid "TICKET_DESC_rewind_2023_ticket"
-msgstr "Congratulations on your inclusion in 2023's Sudomemo Rewind!"
+msgstr "Gratulationer till ditt inkluderande i Sudomemo Rewind 2023!"
 
 msgid "TICKET_DESC_rewind_2024_ticket"
-msgstr "Congratulations on your inclusion in 2024's Sudomemo Rewind!"
+msgstr "Gratulationer till ditt inkluderande i Sudomemo Rewind 2024!"
 
 msgid "TICKET_DESC_special_someone_ticket"
-msgstr "For that special someone. Three months of Plus, Color Stars, and an exclusive theme."
+msgstr "För den som är mer än speciell. Tre månader av Plus, Färgade Stars, och ett exclusivt tema."
 
 msgid "TICKET_DESC_spookmaster_ticket"
-msgstr "Thank you so much for playing SudoQuest: Requiem! We hope you enjoyed the game."
+msgstr "Tack så mycket för att du spelat SudoQuest: Requiem! Vi hoppas du gillade spelet."
 
 msgid "TICKET_DESC_spring_2023_ffc_winner_ticket"
-msgstr "Congratulations on your winning entry to the first Sudomemo Flipnote Fight Competition!"
+msgstr "Gratulationer för din vinst i den första Sudomemo Flipnote Fight tävlingen!"
 
 msgid "TICKET_DESC_spring_2024_ffc_winner_ticket"
-msgstr "Congratulations on your winning entry to the Spring 2024 Sudomemo Flipnote Fight Competition!"
+msgstr ""Gratulationer för ditt vinnande bidrag för Sudomemo Flipnote Fight Competition våren 2024!"
 
 msgid "TICKET_DESC_spring_2025_ffc_winner_ticket"
-msgstr "Congratulations on your winning entry to the Spring 2025 Sudomemo Flipnote Fight Competition!"
+msgstr ""Gratulationer för ditt vinnande bidrag för Sudomemo Flipnote Fight Competition våren 2025!"
 
 msgid "TICKET_DESC_sudomemo_radio_pilot_ticket"
-msgstr "Congratulations on being a part of the very first episode of Sudomemo Radio!"
+msgstr "Gratulationer för att du varit med i första avsnittet av Sudomemo Radio!"
 
 msgid "TICKET_DESC_sudomemo_radio_ticket"
 msgstr "Tack för att du bidragit till Sudomemo Radio!"
@@ -290,10 +290,10 @@ msgid "TICKET_DESC_twitter_promo_ticket"
 msgstr "Tack för att du följer Sudomemo på Twitter!"
 
 msgid "TICKET_DESC_visited_wii_room_ticket"
-msgstr "Thank you for visiting the Sudomemo Room on Wii Room!"
+msgstr "Tack för att du tittade på Sudomemo Room från Wii Room!"
 
 msgid "TICKET_DESC_wcf_2025_winner_ticket"
-msgstr "Congratulations on winning the 2025 Winter Comedy Fest!"
+msgstr "Gratulationer till din vinst under Winter Comedy Fest 2025!"
 
 msgid "TICKET_DESC_weekly_topic_winner_ticket"
 msgstr "Grattis för att du vann Veckotemat!"
@@ -302,87 +302,87 @@ msgid "TICKET_DESC_welcoming_champion_ticket"
 msgstr "You're been very welcoming to new and returning creators! Thanks!"
 
 msgid "TICKET_NAME_10th_birthday_bash_ticket"
-msgstr "10th Birthday Bash Ticket"
+msgstr "10:nde Birthday Bash Biljett"
 
 msgid "TICKET_NAME_11th_birthday_bash_ticket"
-msgstr "11th Birthday Bash Ticket"
+msgstr "11:e Birthday Bash Biljett"
 
 msgid "TICKET_NAME_7th_birthday_bash_ticket"
-msgstr "7th Birthday Bash Ticket"
+msgstr "7:de Birthday Bash Biljett"
 
 msgid "TICKET_NAME_8th_birthday_bash_ticket"
-msgstr "8th Birthday Bash Ticket"
+msgstr "8:nde Birthday Bash Biljett"
 
 msgid "TICKET_NAME_9th_birthday_bash_ticket"
-msgstr "9th Birthday Bash Ticket"
+msgstr "9:nde Birthday Bash Biljett"
 
 msgid "TICKET_NAME_LABEL"
 msgstr "Biljett Namn:"
 
 msgid "TICKET_NAME_archive_supporter_ticket"
-msgstr "Archive Supporter Ticket"
+msgstr "Arkivstödjarens Biljett"
 
 msgid "TICKET_NAME_birthday_ticket"
 msgstr "Födelsedagsbiljett"
 
 msgid "TICKET_NAME_blue_dog_ticket"
-msgstr "Ziggy Starburst Ticket"
+msgstr "Ziggy Starburst Biljetten"
 
 # collab with https://www.youtube.com/@ZaneLittle/featured
 msgid "TICKET_NAME_champa_ticket"
-msgstr "Champa Ticket"
+msgstr "Champa Biljett"
 
 msgid "TICKET_NAME_colors_promo_ticket"
-msgstr "Colors! Promo Ticket"
+msgstr "Colors! Promo Biljett"
 
 # Each ticket type will have a name and a description 
 msgid "TICKET_NAME_demo_ticket"
 msgstr "Demobiljett"
 
 msgid "TICKET_NAME_fall_2023_ffc_winner_ticket"
-msgstr "Fall 2023 Sudomemo F.F.C. Winner Ticket"
+msgstr "Sudomemo F.F.C. Vinnarbiljett Hösten 2023"
 
 msgid "TICKET_NAME_fall_2024_ffc_winner_ticket"
-msgstr "Fall 2024 Sudomemo F.F.C. Winner Ticket"
+msgstr "Sudomemo F.F.C. Vinnarbiljett Hösten 2024"
 
 msgid "TICKET_NAME_fate_2024_winner_ticket"
-msgstr "FATE 2024 Winner Ticket"
+msgstr "FATE 2024 Vinnarbiljett"
 
 msgid "TICKET_NAME_featured_artist_ticket"
-msgstr "Featured Artist Ticket"
+msgstr "Känd Artist Biljetten"
 
 msgid "TICKET_NAME_featured_flipnote_ticket"
-msgstr "Featured Flipnote Ticket"
+msgstr "Känd Flipnote Biljetten"
 
 msgid "TICKET_NAME_ffotd_ticket"
-msgstr "Första Flipnoten av decenniet"
+msgstr "Första Flipnoten av decenniet biljetten"
 
 msgid "TICKET_NAME_five_year_plus_ticket"
-msgstr "Plus Ticket (Five Years)"
+msgstr "Plus Biljetten (Fem år)"
 
 msgid "TICKET_NAME_folding_reward_ticket"
-msgstr "Folding@Home Reward Ticket"
+msgstr "Folding@Home Vinstbiljett"
 
 msgid "TICKET_NAME_golden_neko_ticket"
-msgstr "Mitsuo Meow Ticket"
+msgstr "Mitsuo Meow Biljetten"
 
 msgid "TICKET_NAME_green_panda_ticket"
-msgstr "Lazy Paisley Ticket"
+msgstr "Lazy Paisley Biljetten"
 
 msgid "TICKET_NAME_instagram_promo_ticket"
-msgstr "Instagram Promobiljett"
+msgstr "Instagram Promobiljetten"
 
 msgid "TICKET_NAME_love_anniversary_ticket"
-msgstr "Årsdagsbiljett"
+msgstr "Årsdagsbiljetten"
 
 msgid "TICKET_NAME_merch_ticket"
-msgstr "Merch Ticket"
+msgstr "Handelsvarobiljetten"
 
 msgid "TICKET_NAME_neighborhood_watch_ticket"
-msgstr "Neighborhood Watch Ticket"
+msgstr "Neighborhood Watch Biljetten"
 
 msgid "TICKET_NAME_nitro_booster_ticket"
-msgstr "Nitro Booster Ticket"
+msgstr "Nitro Booster Biljetten"
 
 # Sudomemo Plus
 msgid "TICKET_NAME_one_month_plus_ticket"
@@ -392,70 +392,70 @@ msgid "TICKET_NAME_one_year_plus_ticket"
 msgstr "Plus Biljett (Ett år)"
 
 msgid "TICKET_NAME_patreon_patron_ticket"
-msgstr "Sudomemo Patron Ticket"
+msgstr "Sudomemo Patron Biljetten"
 
 msgid "TICKET_NAME_purple_bunny_ticket"
-msgstr "Russell Ramblewood Ticket"
+msgstr "Russell Ramblewood Biljetten"
 
 msgid "TICKET_NAME_red_bird_ticket"
-msgstr "Bailey Flitwing Ticket"
+msgstr "Bailey Flitwing Biljetten"
 
 msgid "TICKET_NAME_regular_ticket"
 msgstr "Vanlig Biljett"
 
 msgid "TICKET_NAME_rewind_2021_ticket"
-msgstr "Sudomemo Rewind 2021 Ticket"
+msgstr "Sudomemo Rewind 2021 Biljetten"
 
 msgid "TICKET_NAME_rewind_2022_ticket"
-msgstr "Sudomemo Rewind 2022 Ticket"
+msgstr "Sudomemo Rewind 2022 Biljetten"
 
 msgid "TICKET_NAME_rewind_2023_ticket"
-msgstr "Sudomemo Rewind 2023 Ticket"
+msgstr "Sudomemo Rewind 2023 Biljetten"
 
 msgid "TICKET_NAME_rewind_2024_ticket"
-msgstr "Sudomemo Rewind 2024 Ticket"
+msgstr "Sudomemo Rewind 2024 Biljetten"
 
 msgid "TICKET_NAME_special_someone_ticket"
-msgstr "Special Someone Ticket"
+msgstr "Biljetten för en särskild"
 
 msgid "TICKET_NAME_spookmaster_ticket"
-msgstr "Spookmaster Ticket"
+msgstr "Spookmaster Biljetten"
 
 msgid "TICKET_NAME_spring_2023_ffc_winner_ticket"
-msgstr "Spring 2023 Sudomemo F.F.C. Winner Ticket"
+msgstr "Sudomemo F.F.C. Vinnarbiljett Våren 2023"
 
 msgid "TICKET_NAME_spring_2024_ffc_winner_ticket"
-msgstr "Spring 2024 Sudomemo F.F.C. Winner Ticket"
+msgstr "Sudomemo F.F.C. Vinnarbiljett Våren 2024"
 
 msgid "TICKET_NAME_spring_2025_ffc_winner_ticket"
-msgstr "Spring 2025 Sudomemo F.F.C. Winner Ticket"
+msgstr "Sudomemo F.F.C. Vinnarbiljett Våren 2025"
 
 msgid "TICKET_NAME_sudomemo_radio_pilot_ticket"
-msgstr "Sudomemo Radio Pilot Ticket"
+msgstr "Sudomemo Radio Pilot Biljetten"
 
 msgid "TICKET_NAME_sudomemo_radio_ticket"
 msgstr "Sudomemo Radio Biljett"
 
 msgid "TICKET_NAME_survey_thanks_ticket"
-msgstr "Formulär biljett"
+msgstr "Formulär biljetten"
 
 msgid "TICKET_NAME_translator_ticket"
-msgstr "Översättar biljett"
+msgstr "Översättarens biljett"
 
 msgid "TICKET_NAME_twitter_promo_ticket"
 msgstr "Twitter Promobiljett"
 
 msgid "TICKET_NAME_visited_wii_room_ticket"
-msgstr "Wii Room Ticket"
+msgstr "Wii Room Biljetten"
 
 msgid "TICKET_NAME_wcf_2025_winner_ticket"
-msgstr "2025 Winter Comedy Fest Winner Ticket"
+msgstr "2025 Winter Comedy Fest Vinnarbiljett"
 
 msgid "TICKET_NAME_weekly_topic_winner_ticket"
 msgstr "Veckotemats vinnare biljett"
 
 msgid "TICKET_NAME_welcoming_champion_ticket"
-msgstr "Welcoming Champion Ticket"
+msgstr "Welcoming Champion Biljetten"
 
 msgid "TICKET_REDEEM_LOSE_FORMAT"
 msgstr "Du drog en %s, men..."
