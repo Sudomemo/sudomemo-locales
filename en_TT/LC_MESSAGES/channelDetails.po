@@ -24,6 +24,15 @@ msgstr "You must pick a channel."
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
 msgstr "Please confirm your email before posting."
 
+msgid "CONTEST_ALREADY_SUBMITTED"
+msgstr "You've already submitted an entry."
+
+msgid "CONTEST_LIMIT_ONE"
+msgstr "You may only submit one entry to this channel."
+
+msgid "CONTEST_LIMIT_ONE_REVISION"
+msgstr "If you need to update your entry, remove the first one and then resubmit."
+
 msgid "DUPLICATE_FLIPNOTE_FAILED"
 msgstr "This Flipnote has already been posted to Sudomemo. Try editing it again."
 
