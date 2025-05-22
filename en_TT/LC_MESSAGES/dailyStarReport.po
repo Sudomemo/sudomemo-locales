@@ -4,13 +4,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "EMAIL_SUBJECT_FORMAT"
-msgstr "[Sudomemo] %s's Daily Star Report"
+msgstr "[lipu Sutomemo] %s's Daily Star Report"
 
 msgid "STRING_DAILY_STAR_REPORT"
 msgstr "Daily Star Report"
 
 msgid "STRING_SUDOMEMO"
-msgstr "Sudomemo"
+msgstr "lipu Sutomemo"
 
 msgid "TEXT_FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote by %s"
