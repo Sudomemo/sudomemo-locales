@@ -4,22 +4,22 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "EMAIL_SUBJECT_FORMAT"
-msgstr "[lipu Sutomemo] %s's Daily Star Report"
+msgstr "[lipu Sutomemo] lipu mun pi tenpo suno ni pi jan %s"
 
 msgid "STRING_DAILY_STAR_REPORT"
-msgstr "Daily Star Report"
+msgstr "lipu mun pi tenpo suno ni"
 
 msgid "STRING_SUDOMEMO"
 msgstr "lipu Sutomemo"
 
 msgid "TEXT_FLIPNOTE_BY_FORMAT"
-msgstr "Flipnote by %s"
+msgstr "sitelen Pilinoto li tan jan %s"
 
 msgid "TEXT_HOW_TO_VIEW_STAR_ADDERS"
-msgstr "Check who gave you Stars by tapping <strong>Stars</strong> in the Flipnote's details page on Sudomemo, or by clicking a Star on Sudomemo Theatre."
+msgstr "sina pilin e <strong>mun</strong> insa nimi lili pi sitelen Pilinoto anu mun pi lipu suli Sutomemo la sina sona e mun tan ona."
 
 msgid "TEXT_STAR_REPORT_GREETING_FORMAT"
-msgstr "This is your Daily Star Report from Sudomemo."
+msgstr "ni li lipu mun pi tenpo suno ni tan lipu Sutomemo."
 
 msgid "TEXT_TOTAL_STARS_RECEIVED_TODAY"
-msgstr "Total Stars received today"
+msgstr "tenpo suno ni la sina li jo e mun nanpa ni"
