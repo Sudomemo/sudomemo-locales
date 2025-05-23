@@ -4,55 +4,55 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CATEGORY_featured"
-msgstr "@Featured Flipnotes"
+msgstr "@sitelen Pilinoto suli"
 
 msgid "CATEGORY_feed"
-msgstr "@Feed"
+msgstr "@sitelen Pilinoto pi jan pona"
 
 msgid "CATEGORY_hot"
-msgstr "@Hot Flipnotes"
+msgstr "@sitelen Pilinoto pi lukin mute"
 
 msgid "CATEGORY_popular"
-msgstr "@Most Popular"
+msgstr "@sitelen Pilinoto pi lukin suli"
 
 msgid "CATEGORY_random"
-msgstr "@Random Flipnotes"
+msgstr "@sitelen Pilinoto ante"
 
 msgid "CATEGORY_recent"
-msgstr "@Recent Flipnotes"
+msgstr "@sitelen Pilinoto sin"
 
 msgid "HEADER_BROWSE_FLIPNOTES"
-msgstr "Browse Flipnotes"
+msgstr "o lukin e sitelen Pilinoto"
 
 msgid "HEADER_FEATURED_FLIPNOTES"
-msgstr "Featured Flipnotes"
+msgstr "sitelen Pilinoto suli"
 
 msgid "HEADER_FLIPNOTES"
-msgstr "Flipnotes"
+msgstr "sitelen Pilinoto"
 
 msgid "HEADER_HOT_FLIPNOTES"
-msgstr "Hot Flipnotes"
+msgstr "sitelen Pilinoto pi lukin mute"
 
 msgid "HEADER_MOST_POPULAR"
-msgstr "Most Popular"
+msgstr "sitelen Pilinoto pi lukin suli"
 
 msgid "HEADER_NORMAL"
-msgstr "Recent"
+msgstr "sitelen Pilinoto sin"
 
 msgid "HEADER_NO_SPINOFFS"
 msgstr "sitelen Sinlinoto ala"
 
 msgid "HEADER_PAGE"
-msgstr "Page"
+msgstr "lipu"
 
 msgid "HEADER_RANDOM_FLIPNOTES"
-msgstr "Random Flipnotes"
+msgstr "sitelen Pilinoto ante"
 
 msgid "HEADER_ROLEPLAYS"
-msgstr "Roleplays"
+msgstr "toki musi"
 
 msgid "HEADER_WATCH_HISTORY"
-msgstr "Watch History"
+msgstr "lukin pi tenpo pini"
 
 msgid "NEXT"
 msgstr "sin"
@@ -61,10 +61,10 @@ msgid "PAGE"
 msgstr "lipu"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d of %d"
+msgstr "%d tan %d"
 
 msgid "POST_FLIPNOTE"
-msgstr "Post Flipnote"
+msgstr "o pana e sitelen Pilinoto"
 
 msgid "PREV"
 msgstr "pini"
