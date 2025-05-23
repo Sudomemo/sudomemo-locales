@@ -181,7 +181,7 @@ msgid "PRESS_INQUIRIES"
 msgstr "Press Inquiries"
 
 msgid "PREV"
-msgstr "Prev"
+msgstr "pini"
 
 msgid "PURPLE_STARS"
 msgstr "Purple Stars"
@@ -242,10 +242,10 @@ msgid "SONG_RELEASED"
 msgstr "Released"
 
 msgid "SPINOFFS"
-msgstr "Spin-offs"
+msgstr "lipu Sinlinoto"
 
 msgid "SPINOFF_COUNT_FORMAT"
-msgstr "%s spin-offs"
+msgstr "lipu Sinlinoto %s"
 
 msgid "SPOTIFY"
 msgstr "Spotify"
@@ -257,7 +257,7 @@ msgid "SUDOMEMO"
 msgstr "lipu Sutomemo"
 
 msgid "THIS_FLIPNOTE_IS_SPINOFF_OF"
-msgstr "This Flipnote is a spin-off of"
+msgstr "ni li lipu Sinlinoto tan"
 
 msgid "TOTAL_FLIPNOTES"
 msgstr "Total Flipnotes"

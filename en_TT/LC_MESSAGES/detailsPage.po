@@ -76,13 +76,13 @@ msgid "HEADER_SONG"
 msgstr "Song"
 
 msgid "HEADER_SPINOFFS"
-msgstr "Spin-offs"
+msgstr "lipu Sinlinoto"
 
 msgid "HEADER_STARS"
 msgstr "Stars"
 
 msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
-msgstr "This Flipnote is a spin-off."
+msgstr "lipu Pilinoto li lipu Silinoto."
 
 msgid "HEADER_TITLE"
 msgstr "Title"
@@ -103,7 +103,7 @@ msgid "NEXT"
 msgstr "sin"
 
 msgid "PREV"
-msgstr "Prev"
+msgstr "pini"
 
 msgid "SET_DESCRIPTION"
 msgstr "Set Description"
