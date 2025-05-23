@@ -5,127 +5,127 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "ACTIVE_FROM"
-msgstr "Active from"
+msgstr "tenpo lon"
 
 msgid "ALSO_KNOWN_AS"
-msgstr "Also known as"
+msgstr "nimi ante li ken e ni"
 
 msgid "BAD_METADATA"
-msgstr "Flipnote with bad metadata"
+msgstr "sitelen Pilinoto pi pakala lili"
 
 msgid "BAD_METADATA_WARNING"
-msgstr "Warning: The Flipnote metadata is corrupted. You can still watch it, but we strongly recommend against opening it in Flipnote Studio 3D."
+mgstr "sitelen Pilinoto li pakala lili. sina ken lukin e ni. taso la sina lukin ala lon lipu Pilinoto tu."
 
 msgid "BLUE_STARS"
-msgstr "Blue Stars"
+msgstr "mun kule sewi"
 
 msgid "BROWSE"
-msgstr "Browse"
+msgstr "lukin"
 
 msgid "CONTACT"
-msgstr "Contact"
+msgstr "toki"
 
 msgid "CORRUPT_FLIPNOTE_NOTE"
-msgstr "This Flipnote has corrupted data. While it can be played, it is likely a duplicate and should not be considered the authoritative version. Try finding another copy of this Flipnote."
+msgstr "sitelen Pilinoto li pakala suli. ni li ike li lili. o alasa e sitelen Pilinoto mama."
 
 msgid "CREATED"
-msgstr "Created"
+msgstr "tenpo mama"
 
 msgid "CREATORS"
-msgstr "Creators"
+msgstr "jan mama"
 
 msgid "CREDITS"
-msgstr "Credits"
+msgstr "kulupu mama"
 
 msgid "DURATION"
-msgstr "Duration"
+msgstr "tenpo"
 
 msgid "DURATION_FORMAT"
-msgstr "%s seconds"
+msgstr "tenpo lili %s"
 
 msgid "FEATURED"
-msgstr "Featured"
+msgstr "suli"
 
 msgid "FEATURED_FLIPNOTES"
-msgstr "Featured Flipnotes"
+msgstr "sitelen Pilinoto suli"
 
 msgid "FEATURED_FLIPNOTES_DESC"
-msgstr "A collection of famous or noteworthy Flipnotes, curated by our team"
+msgstr "ni li kulupu pi sitelen Pilinoto suli tan kulupu mi"
 
 msgid "FLIPNOTES"
-msgstr "Flipnotes"
+msgstr "sitelen Pilinoto"
 
 msgid "FLIPNOTE_ARCHIVE"
-msgstr "Flipnote Archive"
+msgstr "kulupu pini pi lipu Pilinoto"
 
 msgid "FLIPNOTE_ARCHIVE_CREDITS"
-msgstr "Flipnote Archive Credits"
+msgstr "kulupu mama pi kulupu pini pi lipu Pilinoto"
 
 msgid "FLIPNOTE_BY_FORMAT"
-msgstr "Flipnote by %s"
+msgstr "sitelen Pilinoto li tan %s"
 
 msgid "FLIPNOTE_MAY_BE_DUPLICATE"
-msgstr "Possible duplicate of another Flipnote."
+msgstr "ni li ken jasima."
 
 msgid "FLIPNOTE_STUDIO_ID"
-msgstr "Flipnote Studio ID"
+msgstr "nimi pi lipu Pilinoto"
 
 msgid "FLIPNOTE_WITHHELD_PRIVACY"
-msgstr "This Flipnote is withheld due to privacy concerns."
+msgstr "nasin len la sitelen Pilinoto li weka.
 
 # the two %s are replaced with html tags to form a link.
 msgid "FLIPNOTE_WITHHELD_READ_MORE"
-msgstr "For more information, please read our %sFAQ%s."
+msgstr "sina wile sona la o lukin e %sni%s."
 
 msgid "FOOTER_DONATION_ASK"
-msgstr "This site is expensive to run, so please consider making a %sdonation!%s"
+msgstr "lipu ni li moku e mani suli la sina %spana e mani!%s"
 
 msgid "FOOTER_SUDOMEMO_SHILL_FORMAT"
-msgstr "Hosted by %sSudomemo%s, a fan-run Flipnote sharing service for Flipnote Studio on the Nintendo DSi and 3DS"
+msgstr "ni li tan %slipu Sutomemo%s. lipu Sutomemo li jo e sitelen Pilinoto"
 
 msgid "FOOTER_THIRDPARTY_COPYRIGHT"
-msgstr "Flipnote Studio is © Nintendo. Flipnote Hatena is © Hatena Co., Ltd."
+msgstr "lipu Pilinoto li lawa e kulupu Nintento. lipu Ketena li lawa e kulupu Ketena."
 
 msgid "FOOTER_THIRDPARTY_DISCLAIMER"
-msgstr "The Flipnote Archive is not affilated with or endorsed by Nintendo or Hatena."
+msgstr "kulupu pini pi lipu Pilinoto li mama ala e kulupu Nintento e kulupu Ketena."
 
 msgid "FRAME_SPEED"
-msgstr "Frame Speed"
+msgstr "tenpo pi sitelen tawa"
 
 msgid "GREEN_STARS"
-msgstr "Green Stars"
+msgstr "mun kule kasi"
 
 msgid "HATENA_ID"
-msgstr "Hatena ID"
+msgstr "nimi pi lipu Ketena"
 
 msgid "HATENA_USER"
-msgstr "Hatena User"
+msgstr "jan pi lipu Ketena"
 
 msgid "HISTORY"
-msgstr "History"
+msgstr "tenpo pini"
 
 msgid "HOMEPAGE_CREATOR_STAT"
-msgstr "1.2 million"
+msgstr "1,200,000"
 
 msgid "HOMEPAGE_DATA_HEADER"
-msgstr "Total Data"
+msgstr "nanpa ale"
 
 msgid "HOMEPAGE_FLIPNOTE_STAT"
-msgstr "44 million"
+msgstr "44,000,000"
 
 msgid "HOMEPAGE_FROG_DIALOG"
-msgstr "Keep on Flipnoting!"
+msgstr "o sitelen Pilinoto!"
 
 # again, wrapped in links
 msgid "HOMEPAGE_INTRO_FORMAT"
-msgstr "A comprehensive archive of %sFlipnote Studio%s animations posted to %sFlipnote Hatena%s before its closure in May 2013."
+msgstr "ni li kulupu ale pi sitelen Pilinoto tan lipu Ketena. lipu Ketena li pini lon tenpo pini suli."
 
 msgid "HTTP_ERROR_404_TEXT"
-msgstr "The page you were looking for could not be found."
+msgstr "lipu li tan alasa li lon ala."
 
 # Error 404
 msgid "HTTP_ERROR_FORMAT"
-msgstr "Error %s"
+msgstr "pakala %s"
 
 # May 17th, 1996
 msgid "MONTH_DAY_YEAR_FORMAT"
@@ -136,153 +136,153 @@ msgid "MONTH_YEAR_FORMAT"
 msgstr "F Y"
 
 msgid "NAVBAR_DONATE"
-msgstr "Donate"
+msgstr "pana mani"
 
 msgid "NAVBAR_FAQS"
-msgstr "FAQs"
+msgstr "seme mute"
 
 msgid "NAVBAR_HISTORY"
-msgstr "History"
+msgstr "tenpo pini"
 
 msgid "NAVBAR_HOME"
-msgstr "Home"
+msgstr "tomo"
 
 msgid "NAVBAR_TAGS"
-msgstr "Tags"
+msgstr "nimi"
 
 msgid "NEXT"
 msgstr "sin"
 
 msgid "NUMBER_OF_SONGS_FORMAT"
-msgstr "%d songs"
+msgstr "kalama musi %d"
 
 msgid "ORIGINAL_FLIPNOTE"
-msgstr "Original Flipnote"
+msgstr "sitelen Pilinoto mama"
 
 msgid "ORIGINAL_NOT_FOUND"
-msgstr "The original couldn't be found"
+msgstr "sitelen Pilinoto mama li lon ala"
 
 msgid "PARENT_FLIPNOTE"
-msgstr "Parent Flipnote"
+msgstr "sitelen Pilinoto mama"
 
 msgid "POPULAR"
-msgstr "Popular"
+msgstr "lukin mute"
 
 msgid "POPULAR_FLIPNOTES"
-msgstr "Popular Flipnotes"
+msgstr "sitelen Pilinoto pi lukin mute"
 
 msgid "POPULAR_FLIPNOTES_DESC"
-msgstr "Flipnotes that have received a lot of attention from archive visitors"
+msgstr "sitelen Pilinoto pi lukin mute tan jan mute"
 
 msgid "PRESS"
-msgstr "Press"
+msgstr "kulupu tenpo ni"
 
 msgid "PRESS_INQUIRIES"
-msgstr "Press Inquiries"
+msgstr "seme tan kulupu tenpo ni"
 
 msgid "PREV"
 msgstr "pini"
 
 msgid "PURPLE_STARS"
-msgstr "Purple Stars"
+msgstr "mun kule unu"
 
 msgid "RANDOM"
-msgstr "Random"
+msgstr "lipu ante"
 
 msgid "RANDOM_FLIPNOTES"
-msgstr "Random Flipnotes"
+msgstr "lipu Pilinoto lipu ante"
 
 msgid "RANDOM_FLIPNOTES_DESC"
-msgstr "A series of Flipnotes chosen from a random point in time"
+msgstr "ni li kulupu pi lipu Pilinoto tan lipu ante"
 
 msgid "RED_STARS"
-msgstr "Red Stars"
+msgstr "mun kule loje"
 
 msgid "REGION_AMERICAS"
-msgstr "Americas"
+msgstr "ma Mewika"
 
 msgid "REGION_EUROPE_AND_OCEANIA"
-msgstr "Europe & Oceania"
+msgstr "ma Elopa & ma Oselija"
 
 msgid "REGION_JAPAN"
-msgstr "Japan"
+msgstr "ma Nijon"
 
 msgid "ROOT_FLIPNOTE"
-msgstr "Root Flipnote"
+msgstr "sitelen Pilinoto mama"
 
 msgid "SEARCH"
-msgstr "Search"
+msgstr "alasa"
 
 msgid "SEARCH_THE_FLIPNOTE_ARCHIVE"
-msgstr "Search the Flipnote Archive"
+msgstr "o alasa e kulupu pini pi lipu Pilinoto"
 
 msgid "SEE_MORE_ARROW"
-msgstr "See more →"
+msgstr "lon mute →"
 
 msgid "SHARE"
-msgstr "Share"
+msgstr "pana"
 
 msgid "SONGS"
-msgstr "Songs"
+msgstr "kalama musi"
 
 msgid "SONG_ALBUM"
-msgstr "Album"
+msgstr "kulupu pi kalama musi"
 
 msgid "SONG_ARTISTS"
-msgstr "Song Artists"
+msgstr "mama pi kalama musi"
 
 msgid "SONG_GENRE"
-msgstr "Genre"
+msgstr "kulupu pilin"
 
 msgid "SONG_LABEL"
-msgstr "Label"
+msgstr "kulupu suli"
 
 # Referring to the year a song was released
 msgid "SONG_RELEASED"
-msgstr "Released"
+msgstr "tenpo tan"
 
 msgid "SPINOFFS"
-msgstr "lipu Sinlinoto"
+msgstr "sitelen Sinlinoto"
 
 msgid "SPINOFF_COUNT_FORMAT"
-msgstr "lipu Sinlinoto %s"
+msgstr "sitelen Sinlinoto %s"
 
 msgid "SPOTIFY"
-msgstr "Spotify"
+msgstr "lipu Sotipi"
 
 msgid "STARS"
-msgstr "Stars"
+msgstr "mun"
 
 msgid "SUDOMEMO"
 msgstr "lipu Sutomemo"
 
 msgid "THIS_FLIPNOTE_IS_SPINOFF_OF"
-msgstr "ni li lipu Sinlinoto tan"
+msgstr "ni li sitelen Sinlinoto tan"
 
 msgid "TOTAL_FLIPNOTES"
-msgstr "Total Flipnotes"
+msgstr "sitelen Pilinoto ale"
 
 msgid "USER"
-msgstr "User"
+msgstr "jan"
 
 msgid "USERS"
-msgstr "Users"
+msgstr "jan"
 
 # Austin's Flipnote from Flipnote Hatena, May 17th, 2010
 msgid "USERS_ARCHIVED_FLIPNOTE_FORMAT"
-msgstr "%s's Flipnote from Flipnote Hatena, %s"
+msgstr "sitelen Pilinoto tan jan %s lon lipu Ketena lon tenpo %s"
 
 msgid "USERS_ARCHIVED_PROFILE_FORMAT"
-msgstr "%s's archived Flipnote Hatena profile"
+msgstr "lipu Ketena pi jan %s"
 
 msgid "USERS_PROFILE_IMAGE_FORMAT"
-msgstr "%s's Hatena profile image"
+msgstr "sitelen Ketena pi jan %s"
 
 msgid "VIEWS"
-msgstr "Views"
+msgstr "lukin"
 
 msgid "YELLOW_STARS"
-msgstr "Yellow Stars"
+msgstr "mun jelo"
 
 msgid "YOUTUBE_MUSIC"
-msgstr "YouTube Music"
+msgstr "lipu Jutu pi kalama musi"
