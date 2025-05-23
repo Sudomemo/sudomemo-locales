@@ -226,16 +226,16 @@ msgid "SONGS"
 msgstr "kalama musi"
 
 msgid "SONG_ALBUM"
-msgstr "kulupu pi kalama musi"
+msgstr "kulupu sama pi kalama musi"
 
 msgid "SONG_ARTISTS"
-msgstr "mama pi kalama musi"
+msgstr "kulupu mama pi kalama musi"
 
 msgid "SONG_GENRE"
-msgstr "kulupu pilin"
+msgstr "kulupu pilin pi kalama musi"
 
 msgid "SONG_LABEL"
-msgstr "kulupu suli"
+msgstr "kulupu suli pi kalama musi"
 
 # Referring to the year a song was released
 msgid "SONG_RELEASED"

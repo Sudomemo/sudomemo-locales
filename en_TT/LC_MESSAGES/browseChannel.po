@@ -4,49 +4,49 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "BROWSE_BY_ALBUM"
-msgstr "Browse by Album"
+msgstr "o lukin e kulupu sama pi kalama musi"
 
 msgid "BROWSE_BY_ARTIST"
-msgstr "Browse by Artist"
+msgstr "o lukin e mama pi kalama musi"
 
 msgid "BROWSE_BY_SONG"
-msgstr "Browse by Song"
+msgstr "o lukin e kalama musi"
 
 msgid "BROWSE_PLAYLIST"
-msgstr "Browse Playlist"
+msgstr "o lukin e kulupu ante pi kalama musi"
 
 msgid "LEAST_VIEWED"
-msgstr "Least Viewed"
+msgstr "lukin lili"
 
 msgid "MOST_RECENT"
-msgstr "Recent"
+msgstr "sin suli"
 
 msgid "MOST_VIEWED"
-msgstr "Most Viewed"
+msgstr "lukin suli"
 
 msgid "NEXT"
 msgstr "sin"
 
 msgid "OLDEST"
-msgstr "Oldest"
+msgstr "pini suli"
 
 msgid "PAGE"
 msgstr "lipu"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d of %d"
+msgstr "%d tan %d"
 
 msgid "POST_FLIPNOTE"
-msgstr "Post Flipnote"
+msgstr "o pana e sitelen Pilinoto"
 
 msgid "PREV"
 msgstr "pini"
 
 msgid "SONG_DETAILS"
-msgstr "Song Details"
+msgstr "nimi pi kalama musi"
 
 msgid "SPINOFFS"
 msgstr "sitelen Sinlinoto"
 
 msgid "UPPERTITLE"
-msgstr "Browse Channel"
+msgstr "o lukin e kulupu"
