@@ -4,31 +4,31 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CANCEL"
-msgstr "Cancel"
+msgstr "ike"
 
 msgid "CONTINUE_SET_AS_PROFILE_PICTURE"
-msgstr "Confirm"
+msgstr "pona"
 
 msgid "CREATORS_ROOM"
-msgstr "Creator's Room"
+msgstr "lipu jan"
 
 msgid "CURRENT"
-msgstr "Current"
+msgstr "tenpo ni"
 
 msgid "LOGIN_REQUIRED_TO_CHANGE"
-msgstr "You must be logged in to change your profile picture."
+msgstr "sina li lon sijelo la sina ante e sitelen pi Sutomemo."
 
 msgid "NEW"
-msgstr "New"
+msgstr "sin"
 
 msgid "PROFILE_PICTURE_SET"
-msgstr "Profile picture successfully set!"
+msgstr "sitelen pi Sutomemo sina li sin!"
 
 msgid "PROMPT_CHANGE_YOUR_PROFILE_IMAGE"
-msgstr "Change your profile picture?"
+msgstr "sina ante ala ante e sitelen pi Sutomemo sina?"
 
 msgid "RETURN_TO_FLIPNOTE"
-msgstr "Return to Flipnote"
+msgstr "tawa pilin Pilinoto"
 
 msgid "SET_PROFILE_PICTURE"
-msgstr "Set Profile Picture"
+msgstr "o ante e sitelen pi Sutomemo"

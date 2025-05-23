@@ -4,19 +4,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CHANGE_LANGUAGE"
-msgstr "Change Language"
+msgstr "ante toki"
 
 msgid "INVALID_LOCALE"
-msgstr "Sorry, but that language is not available."
+msgstr "toki ni li lon ala."
 
 msgid "LANGUAGE_UPDATED_FORMAT"
-msgstr "Your language has been updated to %s."
+msgstr "sina ante e toki ni lon toki %s."
 
 msgid "NOT_LOGGED_IN"
-msgstr "You must log in before changing your language."
+msgstr "o lon sijelo la sina ante e toki sina."
 
 msgid "POTENTIAL_CONTRIBUTOR_NOTE"
-msgstr "Sudomemo relies on its community to provide accurate translations. If you see something that does not display correctly, is still in English, is a low-quality translation, or if you would like to add your own language, we invite you to contribute! Full and verified new translations can earn you extra days of Sudomemo Plus. You can do so here: "
+msgstr "kulupu pi lipu Sutomemo li pana e toki ante. toki pakala anu toki Inli anu toki ike anu toki sina la sina pana sona! sina ken jo e namako Sutomemo. o tawa ni: "
 
 msgid "RETURN_TO_CREATORS_ROOM"
-msgstr "Return to Creator's Room"
+msgstr "o tawa lipu jan sina"
