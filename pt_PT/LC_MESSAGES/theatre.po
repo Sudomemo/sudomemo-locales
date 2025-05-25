@@ -208,6 +208,9 @@ msgstr "Não podes inserir comentários porque foste banido(a)."
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
 msgstr "Tens de confirmar o teu email antes de enviar um comentário."
 
+msgid "CONTENT_POLICY"
+msgstr "Content Policy"
+
 msgid "CONTINUE"
 msgstr "Continuar"
 
@@ -1526,6 +1529,3 @@ msgstr "Estás a editar este Flipnote:"
 
 msgid "YT_LAYOUT_MAY_VARY"
 msgstr "A aparência e layout podem depender no aparelho que vejas o vídeo"
-
-msgid "CONTENT_POLICY"
-msgstr "Content Policy"

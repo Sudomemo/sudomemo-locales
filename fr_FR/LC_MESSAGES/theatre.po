@@ -208,6 +208,9 @@ msgstr "Vous ne pouvez pas envoyez de messages car vous êtes banni(e)."
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
 msgstr "Vous devez confirmez votre adresse de courriel avant de pouvoir poster des messages."
 
+msgid "CONTENT_POLICY"
+msgstr "Content Policy"
+
 msgid "CONTINUE"
 msgstr "Continuer"
 
@@ -1526,6 +1529,3 @@ msgstr "Vous éditez cette Flipnote :"
 
 msgid "YT_LAYOUT_MAY_VARY"
 msgstr "L’apparence et la disposition peuvent varier en fonction de l’appareil utilisé pour visionner la vidéo"
-
-msgid "CONTENT_POLICY"
-msgstr "Content Policy"

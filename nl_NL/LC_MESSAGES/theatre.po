@@ -209,6 +209,9 @@ msgstr "You cannot post messages because you are banned."
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
 msgstr "You must confirm your email before posting."
 
+msgid "CONTENT_POLICY"
+msgstr "Content Policy"
+
 msgid "CONTINUE"
 msgstr "Doorgaan"
 
@@ -1558,6 +1561,3 @@ msgstr "Je bent deze Flipnote aan het bewerken:"
 
 msgid "YT_LAYOUT_MAY_VARY"
 msgstr "Appearance and layout may vary depending on device used to view video"
-
-msgid "CONTENT_POLICY"
-msgstr "Content Policy"

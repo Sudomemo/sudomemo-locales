@@ -208,6 +208,9 @@ msgstr "No puedes publicar mensajes porque estás bloqueado."
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
 msgstr "Debes confirmar tu correo electrónico antes de publicar."
 
+msgid "CONTENT_POLICY"
+msgstr "Content Policy"
+
 msgid "CONTINUE"
 msgstr "Continuar"
 
@@ -1526,6 +1529,3 @@ msgstr "Estás editando esta Flipnote:"
 
 msgid "YT_LAYOUT_MAY_VARY"
 msgstr "La apariencia y el diseño pueden variar según el dispositivo usado para ver el video"
-
-msgid "CONTENT_POLICY"
-msgstr "Content Policy"
