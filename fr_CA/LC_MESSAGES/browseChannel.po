@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Language: en_US\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "BROWSE_BY_ALBUM"
+msgstr "Browse by Album"
+
+msgid "BROWSE_BY_ARTIST"
+msgstr "Browse by Artist"
+
+msgid "BROWSE_BY_SONG"
+msgstr "Browse by Song"
+
+msgid "BROWSE_PLAYLIST"
+msgstr "Browse Playlist"
+
+msgid "LEAST_VIEWED"
+msgstr "Least Viewed"
+
+msgid "MOST_RECENT"
+msgstr "Recent"
+
+msgid "MOST_VIEWED"
+msgstr "Most Viewed"
+
+msgid "NEXT"
+msgstr "Next"
+
+msgid "OLDEST"
+msgstr "Oldest"
+
+msgid "PAGE"
+msgstr "Page"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d of %d"
+
+msgid "POST_FLIPNOTE"
+msgstr "Post Flipnote"
+
+msgid "PREV"
+msgstr "Previous"
+
+msgid "SONG_DETAILS"
+msgstr "Song Details"
+
+msgid "SPINOFFS"
+msgstr "Spinoffs"
+
+msgid "UPPERTITLE"
+msgstr "Browse Channel"

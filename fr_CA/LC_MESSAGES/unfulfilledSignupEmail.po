@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Language: en_US\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "EMAIL_SUBJECT"
+msgstr "Sudomemo Signup Confirmation"
+
+msgid "SIGNUP_HEADER"
+msgstr "Sudomemo Signup Confirmation"
+
+msgid "TEXT_EMAIL_PURPOSE"
+msgstr "This email is to confirm your signup for Sudomemo."
+
+msgid "TEXT_HELLO"
+msgstr "Hello!"
+
+msgid "TEXT_URL_PLAIN_DISPLAY"
+msgstr "You may also copy and paste this URL into a new window:"
+
+msgid "TEXT_VERIFICATION_LINK_FORMAT"
+msgstr "Click <a target=\"_blank\" href=\"%s\">here</a> to continue!"

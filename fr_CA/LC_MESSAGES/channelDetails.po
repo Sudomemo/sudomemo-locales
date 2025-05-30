@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Language: en_US\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "CATEGORY"
+msgstr "Category"
+
+msgid "CHANNEL_ID"
+msgstr "Channel ID"
+
+msgid "CHANNEL_INFORMATION"
+msgstr "Channel Information"
+
+msgid "CHANNEL_LOCKED"
+msgstr "This channel is locked."
+
+msgid "CHANNEL_NAME"
+msgstr "Channel Name"
+
+msgid "CHANNEL_NOT_SPECIFIED"
+msgstr "You must pick a channel."
+
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "Please confirm your email before posting."
+
+msgid "CONTEST_ALREADY_SUBMITTED"
+msgstr "You've already submitted an entry."
+
+msgid "CONTEST_LIMIT_ONE"
+msgstr "You may only submit one entry to this channel."
+
+msgid "CONTEST_LIMIT_ONE_REVISION"
+msgstr "If you need to update your entry, remove the first one and then resubmit."
+
+msgid "DUPLICATE_FLIPNOTE_FAILED"
+msgstr "This Flipnote has already been posted to Sudomemo. Try editing it again."
+
+msgid "FLIPNOTES"
+msgstr "Flipnotes"
+
+msgid "FLIPNOTE_DATA_CORRUPTED"
+msgstr "The Flipnote data is corrupted. Try again in a moment."
+
+msgid "FLIPNOTE_POST_FAILED"
+msgstr "Flipnote upload failed. Try again in a moment."
+
+msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
+msgstr "You've been restricted from using Sudomemo."
+
+msgid "LOGIN_REQUIRED_TO_POST"
+msgstr "You must be logged in to post a Flipnote."
+
+msgid "NO_BLANK_FLIPNOTES_ALLOWED"
+msgstr "You may not post an empty Flipnote."
+
+msgid "NO_POSTS_WHILE_MUTED"
+msgstr "You may not post while you are muted."

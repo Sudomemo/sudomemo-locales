@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Language: en_US\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "101_CHARACTER_LIMIT_DESC"
+msgstr "Your description is limited to 101 characters in length."
+
+msgid "40_CHARACTER_LIMIT"
+msgstr "Your title is limited to 40 characters in length."
+
+msgid "ADMIN_ACTIONS"
+msgstr "Admin actions"
+
+msgid "ENTER_DESCRIPTION"
+msgstr "Enter description..."
+
+msgid "ENTER_TITLE"
+msgstr "Enter title..."
+
+msgid "FLIPNOTE_TITLE_FORMAT"
+msgstr "Flipnote by %s"
+
+msgid "HEADER_ADD_DESCRIPTION"
+msgstr "Add Description"
+
+msgid "HEADER_ADD_TO_PLAYLIST"
+msgstr "Add to Playlist"
+
+msgid "HEADER_CHANNEL"
+msgstr "Channel"
+
+msgid "HEADER_COMMENTS"
+msgstr "Comments"
+
+msgid "HEADER_CREATOR"
+msgstr "Creator"
+
+msgid "HEADER_DESCRIPTION"
+msgstr "Description"
+
+msgid "HEADER_DETAILS"
+msgstr "Details"
+
+msgid "HEADER_DOWNLOADS"
+msgstr "Downloads"
+
+msgid "HEADER_FLIPNOTE_ID"
+msgstr "Flipnote ID"
+
+msgid "HEADER_FLIPNOTE_OPTIONS"
+msgstr "Options"
+
+msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
+msgstr "To prevent star-begging, yellow stars are limited to ten per Flipnote."
+
+msgid "HEADER_OPTIONS"
+msgstr "Options"
+
+msgid "HEADER_ORIGINAL_FLIPNOTE"
+msgstr "View the source Flipnote here"
+
+msgid "HEADER_POSTED"
+msgstr "Posted"
+
+msgid "HEADER_REMOVE_FROM_PLAYLIST"
+msgstr "Remove from Playlist"
+
+msgid "HEADER_REPORT_FLIPNOTE"
+msgstr "Report Flipnote"
+
+msgid "HEADER_SET_AS_PROFILE_PICTURE"
+msgstr "Set as Profile Picture"
+
+msgid "HEADER_SONG"
+msgstr "Song"
+
+msgid "HEADER_SPINOFFS"
+msgstr "Spin-offs"
+
+msgid "HEADER_STARS"
+msgstr "Stars"
+
+msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
+msgstr "This Flipnote is a spin-off."
+
+msgid "HEADER_TITLE"
+msgstr "Title"
+
+msgid "HEADER_UPLOAD_TO_YOUTUBE"
+msgstr "Upload to YouTube"
+
+msgid "HEADER_VIEWS"
+msgstr "Views"
+
+msgid "LEAVE_BLANK_TO_RESET"
+msgstr "To reset the title to default, leave the form blank when submitting."
+
+msgid "LEAVE_BLANK_TO_RESET_DESC"
+msgstr "To remove the description, leave the form blank when submitting."
+
+msgid "NEXT"
+msgstr "Next"
+
+msgid "PREV"
+msgstr "Prev"
+
+msgid "SET_DESCRIPTION"
+msgstr "Set Description"
+
+msgid "SET_DESCRIPTION_INSTRUCTIONS"
+msgstr "Enter the new description for your Flipnote below."
+
+msgid "SET_TITLE"
+msgstr "Set Title"
+
+msgid "SET_TITLE_INSTRUCTIONS"
+msgstr "Enter the new title for your Flipnote below."
+
+msgid "STAR_DETAILS_UPPERTITLE"
+msgstr "★ Stars ★"
+
+msgid "TIMESTAMP_FORMAT"
+msgstr "M d, Y H:i:s"
+
+# This is shown to logged-in users on their own Flipnotes without titles
+msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
+msgstr "Untitled Flipnote by %s"
