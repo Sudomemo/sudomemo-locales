@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Language: en_US\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+# positive interaction
+msgid "EMAIL_GREETING_FRIENDLY_HELLO"
+msgstr "Hello, %s!"
+
+# neutral interaction
+msgid "EMAIL_GREETING_NEUTRAL_HELLO"
+msgstr "Hello, %s."
+
+msgid "TEXT_CHANGE_SETTINGS_PROMPT"
+msgstr "Want to adjust the emails you get from Sudomemo?"
+
+# the "here" text in the click here. e.g. what will be in the link to the unsubscribe page.
+msgid "TEXT_HERE"
+msgstr "here"
+
+msgid "TEXT_HOW_TO_CHANGE_SETTINGS_DSI"
+msgstr "You can easily update them by visiting your Creator's Room on Sudomemo and selecting <strong>Mail Settings</strong>."
+
+msgid "TEXT_WEB_SETTINGS_CHANGE_FORMAT"
+msgstr "Or, you can turn off these kinds of emails by clicking %s."

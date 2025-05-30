@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Language: en_US\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "EMAIL_SUBJECT_FORMAT"
+msgstr "[Sudomemo] Happy Birthday, %s!"
+
+msgid "GREETING_FORMAT"
+msgstr "Hey %s!"
+
+msgid "HAPPY_BIRTHDAY"
+msgstr "Happy birthday!"
+
+msgid "LOGON_ON_DS_TO_VIEW"
+msgstr "Log on to Sudomemo with your Nintendo DSi or 3DS to receive your birthday gift!"
+
+msgid "SPECIAL_SURPRISE_WAITING"
+msgstr "There's a special birthday surprise waiting for you on Sudomemo."

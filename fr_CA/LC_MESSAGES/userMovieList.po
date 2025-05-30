@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Language: en_US\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "FAVORITES_FEED_FORMAT"
+msgstr "%s's Favorites Feed"
+
+msgid "FLIPNOTES_BY_FORMAT"
+msgstr "Flipnotes by %s"
+
+msgid "LEAST_VIEWED"
+msgstr "Least Viewed"
+
+msgid "MOST_RECENT"
+msgstr "Recent"
+
+msgid "MOST_VIEWED"
+msgstr "Most Viewed"
+
+msgid "NEXT"
+msgstr "Next page"
+
+msgid "OLDEST"
+msgstr "Oldest"
+
+msgid "PAGE"
+msgstr "Page"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d of %d"
+
+msgid "PREV"
+msgstr "Previous page"
+
+msgid "STARRED_BY_FORMAT"
+msgstr "Starred by %s"
+
+msgid "UPPERTITLE"
+msgstr "Browse"
