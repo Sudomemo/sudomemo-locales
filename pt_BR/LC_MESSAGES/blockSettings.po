@@ -4,61 +4,61 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "BLOCKED_USERS"
-msgstr "Blocked Users"
+msgstr "Usuários Bloqueados"
 
 msgid "BLOCK_USER"
-msgstr "Block User"
+msgstr "Bloquear Usuário"
 
 msgid "CANNOT_UNBLOCK_NONBLOCKED_USER"
-msgstr "You cannot unblock this user, as you haven't actually blocked them in the first place."
+msgstr "Não se pode desbloquear este usuário, pois não o bloqueou em primeiro lugar."
 
 msgid "COMMENTING_ENABLED_AFTER_UNBLOCK"
-msgstr "After you have unblocked this user, they will be able to comment on your Flipnotes again, unless they have you blocked as well."
+msgstr "Após desbloquear este usuário, o mesmo poderá comentar nos seus Flipnotes novamente, caso não tenha bloqueado você também."
 
 msgid "COMMENT_BLOCK_IS_MUTUAL"
-msgstr "Once you have blocked this user, you will no longer be able to comment on each other's Flipnotes."
+msgstr "Assim que bloquear este usuário, você e o outro usuário não poderão comentar nos Flipnotes um do outro."
 
 msgid "CONFIRM_BLOCK"
-msgstr "Confirm Block"
+msgstr "Confirmar Bloquear"
 
 msgid "CONFIRM_UNBLOCK"
-msgstr "Confirm Unblock"
+msgstr "Confirmar Desbloquear"
 
 msgid "IF_YOU_WISH_TO_UNBLOCK"
-msgstr "If you should ever wish to unblock them, you may unblock them by visiting your Creator's Room and opening the Blocked Users menu."
+msgstr "Se quer desbloquear este usuário, pode desbloquear-lo ao visitar a sua Sala de Criador e abrir o menu de Usuários Bloqueados."
 
 msgid "LOGIN_REQUIRED"
-msgstr "You must be logged in to perform this action."
+msgstr "Deve fazer login na sua conta primeiro para fazer esta ação."
 
 msgid "LOGIN_REQUIRED_TO_MANAGE_BLOCKS"
-msgstr "You need to be logged in to manage blocked users."
+msgstr "É preciso fazer login na sua conta antes que possa bloquear usuários."
 
 msgid "NO_USERS_BLOCKED"
-msgstr "You have no blocked users."
+msgstr "Você não tem usuários bloqueados."
 
 msgid "ONE_DAY_WAIT_BEFORE_REBLOCK_FORMAT"
-msgstr "You have recently unblocked this user. You cannot block them again until %s"
+msgstr "Você bloqueou este usuário recentemente. Não pode bloquea-lo outra vez até que %s se passem"
 
 msgid "RECENTLY_UNBLOCKED_ONE_DAY_THRESHOLD"
-msgstr "You have recently unblocked this user. You must wait 24 hours from the time you unblocked them before you are able to block them again."
+msgstr "Você desbloqueou este usuário recentemente. Deve esperar cerca de 24 horas após o desbloqueio para que possa bloquea-lo outra vez."
 
 msgid "TAP_BACK_TO_RETURN"
-msgstr "Tap Back to return to your Creator's Room."
+msgstr "Toque em Voltar para voltar para a sua Sala de Criador."
 
 msgid "UNBLOCK"
-msgstr "Unblock"
+msgstr "Desbloquear"
 
 msgid "UNBLOCK_USER"
-msgstr "Unblock User"
+msgstr "Desbloquear Usuário"
 
 msgid "UNBLOCK_WARNING_ONE_DAY_THRESHOLD"
-msgstr "If you unblock them, you must wait 24 hours before you are able to block them again."
+msgstr "Se o desbloquear, terá que esperar cerca de 24 horas antes que possa o bloquear novamente."
 
 msgid "USER_ALREADY_BLOCKED"
-msgstr "You have already blocked this user. You may unblock them from the Settings menu in your Creator's Room, but you must wait 24 hours before you can block them again."
+msgstr "O usuário já está bloqueado. Você pode desbloquear este usuário no menu de Definições na sua Sala de Criador, mas deve esperar pelo menos 24h para o bloquear outra vez."
 
 msgid "USER_HAS_BEEN_BLOCKED"
-msgstr "This user has been blocked."
+msgstr "Este usuário foi bloqueado."
 
 msgid "USER_HAS_BEEN_UNBLOCKED"
-msgstr "You have unblocked this user."
+msgstr "Você desbloqueou este usuário."
