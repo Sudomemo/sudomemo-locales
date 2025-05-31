@@ -4,7 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "EMAIL_SUBJECT_FORMAT"
-msgstr "[Sudomemo] %s added you to their Favorites"
+msgstr "[lipu Sutomemo] %s added you to their Favorites"
 
 msgid "GREETING_FORMAT"
 msgstr "Hey %s!"
