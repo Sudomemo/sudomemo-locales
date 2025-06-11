@@ -3,6 +3,9 @@ msgstr ""
 "Language: el_GR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "CANCEL_BUTTON"
+msgstr "Cancel"
+
 msgid "CATEGORY_DESC_drugs"
 msgstr "Καταχρηση ουσιως η αναφορα σε ναρκωτικα"
 
@@ -108,33 +111,6 @@ msgstr "Αυτη η αιτηση ειναι για την αναφορα περ�
 msgid "NO_BLANK_REPORTS"
 msgstr "Δεν μπορειτε να δωσετε κενη αναφορα."
 
-msgid "REPORT_EXPLANATION_FAILED"
-msgstr "Εμφανιστηκε σφαλμα κατατην ωρα υποβοληs."
-
-msgid "REPORT_FAILED_USER_BANNED"
-msgstr "Η  χρηση  σας  του Sudomemo εχει  τεθει  σε  περιορισμο."
-
-msgid "REPORT_INSTRUCTIONS"
-msgstr "Παρακαλουμε γραψτε μια μικρη περιγραφη γιατιπιστευετε οτι το περιεχομενο αυτο καταπαταει τουs κανονεs του Sudomemo. Οταν το υποδειξετε, πατηστε Πισω για να επιστρεψετε στο Flipnote."
-
-msgid "RESTRICTED_CANCEL"
-msgstr "Δεν μπορειτε να αναφερετε περιεχομενα εαν σας εχει απαγορευτει η διαδραση με το Sudomemo με οποιοδηποτε τροπο."
-
-msgid "THANKS_FOR_REPORTING"
-msgstr "Λαβαμε  την  αναφορα  σας. Ευχαριστουμε  που  κανετε  το  Sudomemo καλυτερο!"
-
-msgid "USER_HAS_ALREADY_REPORTED_FORMAT"
-msgstr "Εχετε ηδη καταβαλλει αναφορα για %s."
-
-msgid "YOU_ARE_REPORTING_THIS_FORMAT"
-msgstr "Αναφερετε %s:"
-
-msgid "REPORT_FLIPNOTE_BUTTON"
-msgstr "Report Flipnote"
-
-msgid "REPORT_FLIPNOTE_HEADER"
-msgstr "Report this Flipnote"
-
 msgid "REPORT_CATEGORY_LABEL"
 msgstr "Category"
 
@@ -144,11 +120,23 @@ msgstr "Details"
 msgid "REPORT_DETAILS_PLACEHOLDER"
 msgstr "Describe the issue…"
 
-msgid "SUBMIT_REPORT_BUTTON"
-msgstr "Submit Report"
+msgid "REPORT_EXPLANATION_FAILED"
+msgstr "Εμφανιστηκε σφαλμα κατατην ωρα υποβοληs."
 
-msgid "CANCEL_BUTTON"
-msgstr "Cancel"
+msgid "REPORT_FAILED_USER_BANNED"
+msgstr "Η  χρηση  σας  του Sudomemo εχει  τεθει  σε  περιορισμο."
+
+msgid "REPORT_FLIPNOTE_BUTTON"
+msgstr "Report Flipnote"
+
+msgid "REPORT_FLIPNOTE_HEADER"
+msgstr "Report this Flipnote"
+
+msgid "REPORT_INSTRUCTIONS"
+msgstr "Παρακαλουμε γραψτε μια μικρη περιγραφη γιατιπιστευετε οτι το περιεχομενο αυτο καταπαταει τουs κανονεs του Sudomemo. Οταν το υποδειξετε, πατηστε Πισω για να επιστρεψετε στο Flipnote."
+
+msgid "REPORT_NETWORK_ERROR"
+msgstr "Network error—please check your connection and try again."
 
 msgid "REPORT_SUCCESS_MESSAGE"
 msgstr "Thank you—your report has been submitted."
@@ -156,5 +144,17 @@ msgstr "Thank you—your report has been submitted."
 msgid "REPORT_UNEXPECTED_ERROR"
 msgstr "An unexpected error occurred. Please try again later."
 
-msgid "REPORT_NETWORK_ERROR"
-msgstr "Network error—please check your connection and try again."
+msgid "RESTRICTED_CANCEL"
+msgstr "Δεν μπορειτε να αναφερετε περιεχομενα εαν σας εχει απαγορευτει η διαδραση με το Sudomemo με οποιοδηποτε τροπο."
+
+msgid "SUBMIT_REPORT_BUTTON"
+msgstr "Submit Report"
+
+msgid "THANKS_FOR_REPORTING"
+msgstr "Λαβαμε  την  αναφορα  σας. Ευχαριστουμε  που  κανετε  το  Sudomemo καλυτερο!"
+
+msgid "USER_HAS_ALREADY_REPORTED_FORMAT"
+msgstr "Εχετε ηδη καταβαλλει αναφορα για %s."
+
+msgid "YOU_ARE_REPORTING_THIS_FORMAT"
+msgstr "Αναφερετε %s:"
