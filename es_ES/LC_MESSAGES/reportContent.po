@@ -128,3 +128,33 @@ msgstr "Ya has enviado un reporte para esto %s."
 
 msgid "YOU_ARE_REPORTING_THIS_FORMAT"
 msgstr "Estas reportando esto %s:"
+
+msgid "REPORT_FLIPNOTE_BUTTON"
+msgstr "Report Flipnote"
+
+msgid "REPORT_FLIPNOTE_HEADER"
+msgstr "Report this Flipnote"
+
+msgid "REPORT_CATEGORY_LABEL"
+msgstr "Category"
+
+msgid "REPORT_DETAILS_LABEL"
+msgstr "Details"
+
+msgid "REPORT_DETAILS_PLACEHOLDER"
+msgstr "Describe the issue…"
+
+msgid "SUBMIT_REPORT_BUTTON"
+msgstr "Submit Report"
+
+msgid "CANCEL_BUTTON"
+msgstr "Cancel"
+
+msgid "REPORT_SUCCESS_MESSAGE"
+msgstr "Thank you—your report has been submitted."
+
+msgid "REPORT_UNEXPECTED_ERROR"
+msgstr "An unexpected error occurred. Please try again later."
+
+msgid "REPORT_NETWORK_ERROR"
+msgstr "Network error—please check your connection and try again."
