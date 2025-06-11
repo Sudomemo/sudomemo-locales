@@ -3,6 +3,9 @@ msgstr ""
 "Language: nl_NL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "CANCEL_BUTTON"
+msgstr "Cancel"
+
 msgid "CATEGORY_DESC_drugs"
 msgstr "Verwijzingen naar middel- of drugsmisbruik"
 
@@ -108,33 +111,6 @@ msgstr "Dit formulier is alleen om inhoud te rapporteren. Om het gedrag van een 
 msgid "NO_BLANK_REPORTS"
 msgstr "Je mag geen lege rapportage versturen."
 
-msgid "REPORT_EXPLANATION_FAILED"
-msgstr "Er was een fout opgetreden terwijl wij deze rapportage aan het behandelen waren."
-
-msgid "REPORT_FAILED_USER_BANNED"
-msgstr "Rapportage mislukt: je toegang tot Sudomemo is ontnomen."
-
-msgid "REPORT_INSTRUCTIONS"
-msgstr "Schrijf alsjeblieft een korte beschrijving over waarom jij vindt dat is in strijd is met de Sudomemo Gebruikersvoorwaarden. Als het verstuurd is, druk op terug om terug te gaan naar de Flipnote."
-
-msgid "RESTRICTED_CANCEL"
-msgstr "Je mag geen inhoud rapporteren als je toegang tot Sudomemo ontnomen is op een enkel vlak."
-
-msgid "THANKS_FOR_REPORTING"
-msgstr "We hebben jouw rapportage ontvangen. Bedankt voor het helpen met Sudomemo een betere plek te maken!"
-
-msgid "USER_HAS_ALREADY_REPORTED_FORMAT"
-msgstr "Je hebt deze %s al eens gerapporteerd."
-
-msgid "YOU_ARE_REPORTING_THIS_FORMAT"
-msgstr "Je bent deze/dit (stuk) %s aan het rapporteren:"
-
-msgid "REPORT_FLIPNOTE_BUTTON"
-msgstr "Report Flipnote"
-
-msgid "REPORT_FLIPNOTE_HEADER"
-msgstr "Report this Flipnote"
-
 msgid "REPORT_CATEGORY_LABEL"
 msgstr "Category"
 
@@ -144,11 +120,23 @@ msgstr "Details"
 msgid "REPORT_DETAILS_PLACEHOLDER"
 msgstr "Describe the issue…"
 
-msgid "SUBMIT_REPORT_BUTTON"
-msgstr "Submit Report"
+msgid "REPORT_EXPLANATION_FAILED"
+msgstr "Er was een fout opgetreden terwijl wij deze rapportage aan het behandelen waren."
 
-msgid "CANCEL_BUTTON"
-msgstr "Cancel"
+msgid "REPORT_FAILED_USER_BANNED"
+msgstr "Rapportage mislukt: je toegang tot Sudomemo is ontnomen."
+
+msgid "REPORT_FLIPNOTE_BUTTON"
+msgstr "Report Flipnote"
+
+msgid "REPORT_FLIPNOTE_HEADER"
+msgstr "Report this Flipnote"
+
+msgid "REPORT_INSTRUCTIONS"
+msgstr "Schrijf alsjeblieft een korte beschrijving over waarom jij vindt dat is in strijd is met de Sudomemo Gebruikersvoorwaarden. Als het verstuurd is, druk op terug om terug te gaan naar de Flipnote."
+
+msgid "REPORT_NETWORK_ERROR"
+msgstr "Network error—please check your connection and try again."
 
 msgid "REPORT_SUCCESS_MESSAGE"
 msgstr "Thank you—your report has been submitted."
@@ -156,5 +144,17 @@ msgstr "Thank you—your report has been submitted."
 msgid "REPORT_UNEXPECTED_ERROR"
 msgstr "An unexpected error occurred. Please try again later."
 
-msgid "REPORT_NETWORK_ERROR"
-msgstr "Network error—please check your connection and try again."
+msgid "RESTRICTED_CANCEL"
+msgstr "Je mag geen inhoud rapporteren als je toegang tot Sudomemo ontnomen is op een enkel vlak."
+
+msgid "SUBMIT_REPORT_BUTTON"
+msgstr "Submit Report"
+
+msgid "THANKS_FOR_REPORTING"
+msgstr "We hebben jouw rapportage ontvangen. Bedankt voor het helpen met Sudomemo een betere plek te maken!"
+
+msgid "USER_HAS_ALREADY_REPORTED_FORMAT"
+msgstr "Je hebt deze %s al eens gerapporteerd."
+
+msgid "YOU_ARE_REPORTING_THIS_FORMAT"
+msgstr "Je bent deze/dit (stuk) %s aan het rapporteren:"
