@@ -1002,6 +1002,9 @@ msgstr "You can still reset your password with your Flipnote Studio ID! Simply s
 msgid "ROOT_FLIPNOTE"
 msgstr "Główny Flipnote"
 
+msgid "SAFE_COMMS_ANCHOR_1"
+msgstr "Feel something off? Here's how to spot it"
+
 msgid "SAVE"
 msgstr "Zapisz"
 
@@ -1529,6 +1532,3 @@ msgstr "Edytujesz ten Flipnote:"
 
 msgid "YT_LAYOUT_MAY_VARY"
 msgstr "Appearance and layout may vary depending on device used to view video"
-
-msgid "SAFE_COMMS_ANCHOR_1"
-msgstr "Feel something off? Here's how to spot it"

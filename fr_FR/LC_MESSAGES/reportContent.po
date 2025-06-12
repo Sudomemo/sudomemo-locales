@@ -3,6 +3,9 @@ msgstr ""
 "Language: fr_FR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "CANCEL_BUTTON"
+msgstr "Cancel"
+
 msgid "CATEGORY_DESC_drugs"
 msgstr "Abus de substances, toxicomanie ou références à la drogue"
 
@@ -93,6 +96,10 @@ msgstr "Signaler du contenu"
 msgid "HEADER_VIOLATION_CATEGORY"
 msgstr "Catégorie de violation :"
 
+# Pineapples1337's chat message
+msgid "ITEM_TITLE_FORMAT"
+msgstr "%s's %s"
+
 msgid "LIMIT_ONE_REPORT"
 msgstr "À noter : Vous ne pouvez signaler ce contenu qu'une seule fois. Les signalements additionnels ne seront pas enregistrés, donc merci de mettre vos informations dans un seul message."
 
@@ -108,17 +115,44 @@ msgstr "Ce formulaire est fait pour signaler le contenu d'utilisateur seulement.
 msgid "NO_BLANK_REPORTS"
 msgstr "Vous ne pouvez pas envoyer un signalement vide."
 
+msgid "REPORT_CATEGORY_LABEL"
+msgstr "Category"
+
+msgid "REPORT_DETAILS_LABEL"
+msgstr "Details"
+
+msgid "REPORT_DETAILS_PLACEHOLDER"
+msgstr "Describe the issue…"
+
 msgid "REPORT_EXPLANATION_FAILED"
 msgstr "Une erreur est survenue pendant l'envoi du signalement."
 
 msgid "REPORT_FAILED_USER_BANNED"
 msgstr "L'utilisation de votre compte Sudomemo a été restreinte."
 
+msgid "REPORT_FLIPNOTE"
+msgstr "Report Flipnote"
+
+msgid "REPORT_FLIPNOTE_HEADER"
+msgstr "Report this Flipnote"
+
 msgid "REPORT_INSTRUCTIONS"
 msgstr "Merci d'écrire une courte description pour expliquer pourquoi vous pensez que ce contenu viole les conditions d'utilisation de Sudomemo. Une fois que vous l'avez envoyée, appuyez sur Retour pour retourner à la Flipnote."
 
+msgid "REPORT_NETWORK_ERROR"
+msgstr "Network error—please check your connection and try again."
+
+msgid "REPORT_SUCCESS_MESSAGE"
+msgstr "Thank you—your report has been submitted."
+
+msgid "REPORT_UNEXPECTED_ERROR"
+msgstr "An unexpected error occurred. Please try again later."
+
 msgid "RESTRICTED_CANCEL"
 msgstr "Vous ne pouvez pas signaler de contenu si votre compte a été restreint, de quelque manière que ce soit."
+
+msgid "SUBMIT_REPORT_BUTTON"
+msgstr "Submit Report"
 
 msgid "THANKS_FOR_REPORTING"
 msgstr "Nous avons reçu votre signalement. Merci de nous aider à faire de Sudomemo un meilleur endroit !"
@@ -129,32 +163,8 @@ msgstr "Vous avez déjà envoyé un signalement pour ce(tte) %s."
 msgid "YOU_ARE_REPORTING_THIS_FORMAT"
 msgstr "Vous êtes en train de signaler ce(tte) %s :"
 
-msgid "REPORT_FLIPNOTE_BUTTON"
-msgstr "Report Flipnote"
+msgid "REPORT_COMMENT"
+msgstr "Report comment"
 
-msgid "REPORT_FLIPNOTE_HEADER"
-msgstr "Report this Flipnote"
-
-msgid "REPORT_CATEGORY_LABEL"
-msgstr "Category"
-
-msgid "REPORT_DETAILS_LABEL"
-msgstr "Details"
-
-msgid "REPORT_DETAILS_PLACEHOLDER"
-msgstr "Describe the issue…"
-
-msgid "SUBMIT_REPORT_BUTTON"
-msgstr "Submit Report"
-
-msgid "CANCEL_BUTTON"
-msgstr "Cancel"
-
-msgid "REPORT_SUCCESS_MESSAGE"
-msgstr "Thank you—your report has been submitted."
-
-msgid "REPORT_UNEXPECTED_ERROR"
-msgstr "An unexpected error occurred. Please try again later."
-
-msgid "REPORT_NETWORK_ERROR"
-msgstr "Network error—please check your connection and try again."
+msgid "REPORT_CHAT_MESSAGE"
+msgstr "Report chat message"

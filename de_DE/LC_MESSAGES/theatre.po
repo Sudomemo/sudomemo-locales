@@ -1002,6 +1002,9 @@ msgstr "Du kannst dein Passwort noch immer mit deiner Flipnote Studio ID zurück
 msgid "ROOT_FLIPNOTE"
 msgstr "Wurzel-Flipnote"
 
+msgid "SAFE_COMMS_ANCHOR_1"
+msgstr "Feel something off? Here's how to spot it"
+
 msgid "SAVE"
 msgstr "Speichern"
 
@@ -1529,6 +1532,3 @@ msgstr "Du bearbeitest gerade dieses Flipnote:"
 
 msgid "YT_LAYOUT_MAY_VARY"
 msgstr "Appearance and layout may vary depending on device used to view video"
-
-msgid "SAFE_COMMS_ANCHOR_1"
-msgstr "Feel something off? Here's how to spot it"
