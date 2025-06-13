@@ -94,7 +94,7 @@ msgid "NEW_PLAYLIST"
 msgstr "Add to new Playlist"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "sin"
 
 msgid "NO_PLAYLISTS_FOUND"
 msgstr "No playlists found"
@@ -103,7 +103,7 @@ msgid "PLAYLIST_DELETED"
 msgstr "Playlist Deleted"
 
 msgid "PREV"
-msgstr "Previous"
+msgstr "pini"
 
 msgid "PRIVATE"
 msgstr "Private"
@@ -115,10 +115,10 @@ msgid "REMOVED_FROM_PLAYLIST"
 msgstr "Removed from Playlist"
 
 msgid "SORT_BY_NEWEST"
-msgstr "Latest"
+msgstr "sin"
 
 msgid "SORT_BY_OLDEST"
-msgstr "Oldest"
+msgstr "pini suli"
 
 msgid "TAP_TO_ADD_DESCRIPTION"
 msgstr "Tap here to add a description."

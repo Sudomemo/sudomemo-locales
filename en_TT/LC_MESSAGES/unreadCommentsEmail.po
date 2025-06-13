@@ -4,22 +4,22 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "AND"
-msgstr "and"
+msgstr "en"
 
 msgid "AND_X_OTHERS_FORMAT"
-msgstr "and %s others."
+msgstr "tan jan %s"
 
 msgid "EMAIL_SUBJECT_FORMAT"
-msgstr "[Sudomemo] %s, you've got new comments on your Flipnotes!"
+msgstr "[lipu Sutomemo] jan %s o! sina jo e toki lili sin lon sitelen Pilinoto sina!"
 
 msgid "HELLO_FORMAT"
-msgstr "Hello, %s!"
+msgstr "toki jan %s!"
 
 msgid "TEXT_HOW_TO_VIEW_UNREAD_COMMENTS_TAP_ICON_FORMAT"
-msgstr "You can view your unread comments on Sudomemo by tapping %s on your notification bar."
+msgstr "sina wile toki lili sin la sina pilin e %s lon poki pi toki lili."
 
 msgid "TEXT_YOU_HAVE_X_COMMENTS_FROM_FORMAT"
-msgstr "You have %d new comment(s) on Sudomemo from %s"
+msgstr "sina jo e toki lili sin %d tan jan %s"
 
 msgid "TITLE_NEW_COMMENTS"
-msgstr "New Comments"
+msgstr "toki lili sin"
