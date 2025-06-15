@@ -4,49 +4,49 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "BROWSE_BY_ALBUM"
-msgstr "Browse by Album"
+msgstr "Procurar por Álbum"
 
 msgid "BROWSE_BY_ARTIST"
-msgstr "Browse by Artist"
+msgstr "Procurar por Artista"
 
 msgid "BROWSE_BY_SONG"
-msgstr "Browse by Song"
+msgstr "Procurar por Música"
 
 msgid "BROWSE_PLAYLIST"
-msgstr "Browse Playlist"
+msgstr "Procurar Playlist"
 
 msgid "LEAST_VIEWED"
-msgstr "Least Viewed"
+msgstr "Menos Vistos"
 
 msgid "MOST_RECENT"
-msgstr "Recent"
+msgstr "Recentes"
 
 msgid "MOST_VIEWED"
-msgstr "Most Viewed"
+msgstr "Mais Vistos"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "Próximo"
 
 msgid "OLDEST"
-msgstr "Oldest"
+msgstr "Mais Antigos"
 
 msgid "PAGE"
-msgstr "Page"
+msgstr "Página"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d of %d"
+msgstr "%d de %d"
 
 msgid "POST_FLIPNOTE"
-msgstr "Post Flipnote"
+msgstr "Postar Flipnote"
 
 msgid "PREV"
-msgstr "Previous"
+msgstr "Anterior"
 
 msgid "SONG_DETAILS"
-msgstr "Song Details"
+msgstr "Detalhes da Música"
 
 msgid "SPINOFFS"
 msgstr "Spinoffs"
 
 msgid "UPPERTITLE"
-msgstr "Browse Channel"
+msgstr "Procurar Canal"
