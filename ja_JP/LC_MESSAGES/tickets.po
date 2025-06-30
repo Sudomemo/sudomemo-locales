@@ -192,6 +192,9 @@ msgstr "Congratulations on your winning entry to the Fall 2024 Sudomemo Flipnote
 msgid "TICKET_DESC_fate_2024_winner_ticket"
 msgstr "Congratulations on your winning FATE 2024 submission!"
 
+msgid "TICKET_DESC_fate_2025_winner_ticket"
+msgstr "Congratulations on your winning FATE 2025 submission!"
+
 msgid "TICKET_DESC_featured_artist_ticket"
 msgstr "スドメモで注目された作者になったことを心からお祝いします！"
 
@@ -347,6 +350,9 @@ msgstr "Fall 2024 Sudomemo F.F.C. Winner Ticket"
 
 msgid "TICKET_NAME_fate_2024_winner_ticket"
 msgstr "FATE 2024 Winner Ticket"
+
+msgid "TICKET_NAME_fate_2025_winner_ticket"
+msgstr "FATE 2025 Winner Ticket"
 
 msgid "TICKET_NAME_featured_artist_ticket"
 msgstr "注目の作者のチケット"
