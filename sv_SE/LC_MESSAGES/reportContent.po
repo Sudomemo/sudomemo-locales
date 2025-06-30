@@ -118,6 +118,12 @@ msgstr "Du kan inte skicka en tom rapport."
 msgid "REPORT_CATEGORY_LABEL"
 msgstr "Category"
 
+msgid "REPORT_CHAT_MESSAGE"
+msgstr "Report chat message"
+
+msgid "REPORT_COMMENT"
+msgstr "Report comment"
+
 msgid "REPORT_DETAILS_LABEL"
 msgstr "Details"
 
@@ -162,9 +168,3 @@ msgstr "Du har redan skickat in en rapport för detta %s."
 
 msgid "YOU_ARE_REPORTING_THIS_FORMAT"
 msgstr "Du rapporterar detta %s:"
-
-msgid "REPORT_COMMENT"
-msgstr "Report comment"
-
-msgid "REPORT_CHAT_MESSAGE"
-msgstr "Report chat message"

@@ -149,6 +149,9 @@ msgstr "スドメモの今週のお題に入賞する"
 msgid "TROPHY_DESC_welcoming_champion"
 msgstr "Earned the title of Welcoming Champion."
 
+msgid "TROPHY_EARNED"
+msgstr "New Trophy!"
+
 msgid "TROPHY_NAME_10th_birthday_bash"
 msgstr "10th Birthday Bash"
 

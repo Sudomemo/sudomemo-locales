@@ -149,6 +149,9 @@ msgstr "Soumettez une participation déclarée gagnante du Weekly Topic (thème 
 msgid "TROPHY_DESC_welcoming_champion"
 msgstr "A obtenu le titre de Champion de l'Accueil."
 
+msgid "TROPHY_EARNED"
+msgstr "New Trophy!"
+
 msgid "TROPHY_NAME_10th_birthday_bash"
 msgstr "Fête du 10ème anniversaire"
 
