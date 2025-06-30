@@ -35,6 +35,9 @@ msgstr "Changed your Creator's Room Theme."
 msgid "ACHIEVEMENT_DESC_festive_frog"
 msgstr "Posted during Christmas. Merry Christmas!"
 
+msgid "ACHIEVEMENT_DESC_first_comment"
+msgstr "Be the first to comment on a Flipnote."
+
 msgid "ACHIEVEMENT_DESC_first_flipnote"
 msgstr "Create your very first Flipnote."
 
@@ -182,6 +185,9 @@ msgstr "Fancy Decor"
 msgid "ACHIEVEMENT_NAME_festive_frog"
 msgstr "Festive Frog"
 
+msgid "ACHIEVEMENT_NAME_first_comment"
+msgstr "First Comment"
+
 msgid "ACHIEVEMENT_NAME_first_flipnote"
 msgstr "First Flipnote"
 
@@ -304,10 +310,3 @@ msgstr "Where'd it Go?"
 
 msgid "ACHIEVEMENT_UNLOCKED"
 msgstr "Achievement Unlocked!"
-
-msgid "ACHIEVEMENT_NAME_first_comment"
-msgstr "First Comment"
-
-msgid "ACHIEVEMENT_DESC_first_comment"
-msgstr "Be the first to comment on a Flipnote."
-
