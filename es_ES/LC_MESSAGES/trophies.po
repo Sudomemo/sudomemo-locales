@@ -149,6 +149,9 @@ msgstr "Envió una entrada ganadora a la Temática Semanal de Sudomemo."
 msgid "TROPHY_DESC_welcoming_champion"
 msgstr "Ganó el título de Campeón de Bienvenida."
 
+msgid "TROPHY_EARNED"
+msgstr "New Trophy!"
+
 msgid "TROPHY_NAME_10th_birthday_bash"
 msgstr "10mo Birthday Bash"
 

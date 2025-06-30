@@ -149,6 +149,9 @@ msgstr "Hat schon mal bei Sudomemo's wöchentlichen Thema teilgenommen und gewon
 msgid "TROPHY_DESC_welcoming_champion"
 msgstr "Hat den Titel des Einladenden Champions verdient."
 
+msgid "TROPHY_EARNED"
+msgstr "New Trophy!"
+
 msgid "TROPHY_NAME_10th_birthday_bash"
 msgstr "10th Birthday Bash"
 
