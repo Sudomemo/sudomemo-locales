@@ -1,0 +1,313 @@
+# SPOILERS AHEAD!
+# Note: This should not be used as a reference for achievements.
+# Some of these might be ones we're thinking about adding or
+# that have not been finalized yet.
+msgid ""
+msgstr ""
+"Language: pt_BR\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "ACHIEVEMENTS"
+msgstr "Achievements"
+
+msgid "ACHIEVEMENT_DESC_a_star_is_born"
+msgstr "First Star Received."
+
+msgid "ACHIEVEMENT_DESC_around_the_world"
+msgstr "Watched a Flipnote from every region. No plane ticket needed!"
+
+msgid "ACHIEVEMENT_DESC_birthday_frog"
+msgstr "Redeem a Birthday Ticket. Happy Birthday!"
+
+msgid "ACHIEVEMENT_DESC_bottomless_wallet"
+msgstr "100000 Yellow Stars added."
+
+msgid "ACHIEVEMENT_DESC_created_an_account"
+msgstr "Welcome to Sudomemo! You're gonna love being here!"
+
+msgid "ACHIEVEMENT_DESC_day_of_frogs"
+msgstr "Uploaded on a Leap Day. Ribbit!"
+
+msgid "ACHIEVEMENT_DESC_fancy_decor"
+msgstr "Changed your Creator's Room Theme."
+
+# may be expanded beyond Christmas in the future.
+msgid "ACHIEVEMENT_DESC_festive_frog"
+msgstr "Posted during Christmas. Merry Christmas!"
+
+msgid "ACHIEVEMENT_DESC_first_flipnote"
+msgstr "Create your very first Flipnote."
+
+msgid "ACHIEVEMENT_DESC_first_follower"
+msgstr "You got your first fan!"
+
+msgid "ACHIEVEMENT_DESC_first_user_followed"
+msgstr "First User followed."
+
+msgid "ACHIEVEMENT_DESC_flipnote_artist"
+msgstr "10 Flipnotes uploaded"
+
+msgid "ACHIEVEMENT_DESC_flipnote_connoisseur"
+msgstr "5000 Flipnotes uploaded. Just light work."
+
+msgid "ACHIEVEMENT_DESC_flipnote_devotee"
+msgstr "50 Flipnotes uploaded"
+
+msgid "ACHIEVEMENT_DESC_flipnote_enthusiast"
+msgstr "Created your account five years ago. Wow, it's been five years already?"
+
+msgid "ACHIEVEMENT_DESC_flipnote_fanatic"
+msgstr "500 Flipnotes uploaded"
+
+msgid "ACHIEVEMENT_DESC_flipnote_maniac"
+msgstr "100 Flipnotes uploaded"
+
+msgid "ACHIEVEMENT_DESC_flipnote_rookie"
+msgstr "Created your account one year ago. Happy one-year anniversary!"
+
+msgid "ACHIEVEMENT_DESC_flipnote_veteran"
+msgstr "Created your account ten years ago. Time to collect your pension."
+
+msgid "ACHIEVEMENT_DESC_friendly_face"
+msgstr "Welcomed a new Creator."
+
+msgid "ACHIEVEMENT_DESC_happy_new_year"
+msgstr "Posted during New Years. I posted at 11:59:59..."
+
+msgid "ACHIEVEMENT_DESC_inspiration_strikes"
+msgstr "Made a spinoff of someone's Flipnote."
+
+msgid "ACHIEVEMENT_DESC_kingmaker"
+msgstr "Add a legendary Purple Star to a legendary Flipnote."
+
+msgid "ACHIEVEMENT_DESC_leaping_platforms"
+msgstr "Upload a Flipnote to YouTube."
+
+msgid "ACHIEVEMENT_DESC_new_pfp"
+msgstr "Changed your Profile Picture. Do these glasses look good on me?"
+
+msgid "ACHIEVEMENT_DESC_night_owl"
+msgstr "Post from 1am-4am local time. We apologize to your sleep schedule."
+
+msgid "ACHIEVEMENT_DESC_ooh_shinier"
+msgstr "Received a Blue Star."
+
+msgid "ACHIEVEMENT_DESC_ooh_shiny"
+msgstr "Received a Red Star."
+
+msgid "ACHIEVEMENT_DESC_ooh_sparkly"
+msgstr "Received a Green Star."
+
+msgid "ACHIEVEMENT_DESC_purple_dreams"
+msgstr "Received a Purple Star."
+
+msgid "ACHIEVEMENT_DESC_rank_1"
+msgstr "Reach rank 1. All that hard work paid off!"
+
+msgid "ACHIEVEMENT_DESC_rank_top_10"
+msgstr "Reach a rank in the top 10."
+
+msgid "ACHIEVEMENT_DESC_rank_top_100"
+msgstr "Reach a rank in the top 100."
+
+msgid "ACHIEVEMENT_DESC_ricked"
+msgstr "Never gonna give you up!"
+
+msgid "ACHIEVEMENT_DESC_star_collector"
+msgstr "100 Yellow Stars received."
+
+msgid "ACHIEVEMENT_DESC_star_giver"
+msgstr "First Star added."
+
+msgid "ACHIEVEMENT_DESC_star_investor"
+msgstr "1000 Yellow Stars added."
+
+msgid "ACHIEVEMENT_DESC_star_magnet"
+msgstr "100000 Yellow Stars received."
+
+msgid "ACHIEVEMENT_DESC_star_phenomenon"
+msgstr "10000 Yellow Stars received."
+
+msgid "ACHIEVEMENT_DESC_star_sensation"
+msgstr "5000 Yellow Stars received."
+
+msgid "ACHIEVEMENT_DESC_star_supporter"
+msgstr "100 Yellow Stars added."
+
+msgid "ACHIEVEMENT_DESC_star_tycoon"
+msgstr "10000 Yellow Stars added."
+
+msgid "ACHIEVEMENT_DESC_supernova"
+msgstr "Received 5000+ stars on one Flipnote. Top one percent!"
+
+msgid "ACHIEVEMENT_DESC_the_cutting_room_floor"
+msgstr "Post a Flipnote with an unused sound effect."
+
+msgid "ACHIEVEMENT_DESC_unlucky_stars"
+msgstr "Had 13 stars on a Flipnote for 13 days. How luckily unlucky."
+
+msgid "ACHIEVEMENT_DESC_very_antique"
+msgstr "Starred a 10+ year old Flipnote. They don't make 'em like they used to."
+
+msgid "ACHIEVEMENT_DESC_were_mutuals"
+msgstr "Mutually follow someone. That basically means we're besties!"
+
+msgid "ACHIEVEMENT_DESC_whered_it_go"
+msgstr "Tried to play a Flipnote that was deleted after you loaded it."
+
+msgid "ACHIEVEMENT_HOLDING_STAT"
+msgstr "%s%% of creators have this achievement"
+
+msgid "ACHIEVEMENT_NAME_a_star_is_born"
+msgstr "A Star is Born"
+
+msgid "ACHIEVEMENT_NAME_around_the_world"
+msgstr "Around the World"
+
+msgid "ACHIEVEMENT_NAME_birthday_frog"
+msgstr "Birthday Frog"
+
+msgid "ACHIEVEMENT_NAME_bottomless_wallet"
+msgstr "Bottomless Wallet"
+
+msgid "ACHIEVEMENT_NAME_created_an_account"
+msgstr "Welcome!"
+
+msgid "ACHIEVEMENT_NAME_day_of_frogs"
+msgstr "Day of Frogs"
+
+msgid "ACHIEVEMENT_NAME_fancy_decor"
+msgstr "Fancy Decor"
+
+msgid "ACHIEVEMENT_NAME_festive_frog"
+msgstr "Festive Frog"
+
+msgid "ACHIEVEMENT_NAME_first_flipnote"
+msgstr "First Flipnote"
+
+msgid "ACHIEVEMENT_NAME_first_follower"
+msgstr "You're famous!"
+
+msgid "ACHIEVEMENT_NAME_first_user_followed"
+msgstr "I'm a fan!"
+
+msgid "ACHIEVEMENT_NAME_flipnote_artist"
+msgstr "Flipnote Artist"
+
+msgid "ACHIEVEMENT_NAME_flipnote_connoisseur"
+msgstr "Flipnote Connoisseur"
+
+msgid "ACHIEVEMENT_NAME_flipnote_devotee"
+msgstr "Flipnote Devotee"
+
+msgid "ACHIEVEMENT_NAME_flipnote_enthusiast"
+msgstr "Flipnote Enthusiast"
+
+msgid "ACHIEVEMENT_NAME_flipnote_fanatic"
+msgstr "Flipnote Fanatic"
+
+msgid "ACHIEVEMENT_NAME_flipnote_maniac"
+msgstr "Flipnote Maniac"
+
+msgid "ACHIEVEMENT_NAME_flipnote_rookie"
+msgstr "Flipnote Rookie"
+
+msgid "ACHIEVEMENT_NAME_flipnote_veteran"
+msgstr "Flipnote Veteran"
+
+msgid "ACHIEVEMENT_NAME_friendly_face"
+msgstr "Friendly Face"
+
+msgid "ACHIEVEMENT_NAME_happy_new_year"
+msgstr "Happy New Year!"
+
+msgid "ACHIEVEMENT_NAME_inspiration_strikes"
+msgstr "Inspiration Strikes"
+
+msgid "ACHIEVEMENT_NAME_kingmaker"
+msgstr "Kingmaker"
+
+msgid "ACHIEVEMENT_NAME_leaping_platforms"
+msgstr "Leaping Platforms"
+
+msgid "ACHIEVEMENT_NAME_new_pfp"
+msgstr "New Look"
+
+msgid "ACHIEVEMENT_NAME_night_owl"
+msgstr "Night Owl"
+
+msgid "ACHIEVEMENT_NAME_ooh_shinier"
+msgstr "Ooh, shinier"
+
+msgid "ACHIEVEMENT_NAME_ooh_shiny"
+msgstr "Ooh, shiny"
+
+msgid "ACHIEVEMENT_NAME_ooh_sparkly"
+msgstr "Ooh, sparkly"
+
+msgid "ACHIEVEMENT_NAME_purple_dreams"
+msgstr "Purple Dreams"
+
+msgid "ACHIEVEMENT_NAME_rank_1"
+msgstr "Number One!"
+
+msgid "ACHIEVEMENT_NAME_rank_top_10"
+msgstr "In the Top Ten!"
+
+msgid "ACHIEVEMENT_NAME_rank_top_100"
+msgstr "In the Top Hundred!"
+
+msgid "ACHIEVEMENT_NAME_ricked"
+msgstr "Ricked"
+
+msgid "ACHIEVEMENT_NAME_star_collector"
+msgstr "Star Collector"
+
+msgid "ACHIEVEMENT_NAME_star_giver"
+msgstr "Star Giver"
+
+msgid "ACHIEVEMENT_NAME_star_investor"
+msgstr "Star Investor"
+
+msgid "ACHIEVEMENT_NAME_star_magnet"
+msgstr "Star Magnet"
+
+msgid "ACHIEVEMENT_NAME_star_phenomenon"
+msgstr "Star Phenomenon"
+
+msgid "ACHIEVEMENT_NAME_star_sensation"
+msgstr "Star Sensation"
+
+msgid "ACHIEVEMENT_NAME_star_supporter"
+msgstr "Star Supporter"
+
+msgid "ACHIEVEMENT_NAME_star_tycoon"
+msgstr "Star Tycoon"
+
+msgid "ACHIEVEMENT_NAME_supernova"
+msgstr "Supernova"
+
+msgid "ACHIEVEMENT_NAME_the_cutting_room_floor"
+msgstr "The Cutting Room Floor"
+
+msgid "ACHIEVEMENT_NAME_unlucky_stars"
+msgstr "Unlucky Stars"
+
+msgid "ACHIEVEMENT_NAME_very_antique"
+msgstr "Very Antique"
+
+msgid "ACHIEVEMENT_NAME_were_mutuals"
+msgstr "We're Mutuals!"
+
+msgid "ACHIEVEMENT_NAME_whered_it_go"
+msgstr "Where'd it Go?"
+
+msgid "ACHIEVEMENT_UNLOCKED"
+msgstr "Achievement Unlocked!"
+
+msgid "ACHIEVEMENT_NAME_first_comment"
+msgstr "First Comment"
+
+msgid "ACHIEVEMENT_DESC_first_comment"
+msgstr "Be the first to comment on a Flipnote."
+
