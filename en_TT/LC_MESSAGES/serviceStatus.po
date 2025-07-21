@@ -1,59 +1,59 @@
 msgid "ALL_SERVICES_OPERATIONAL"
-msgstr "All services are operational."
+msgstr "ale li pona."
 
 msgid "ALTERNATE_DNS"
-msgstr "If you run into issues, try switching to our temporary backup DNS instead: %s"
+msgstr "sina lukin e pakala la sina ante e ilo DNS lili: %s"
 
 msgid "APOLOGIES_FOR_INCONVENIENCE"
-msgstr "We apologize for any inconvenience this may cause."
+msgstr "mi pana pona tawa sina tan pakala ni."
 
 msgid "AUX_SERVICES"
-msgstr "Auxiliary Services"
+msgstr "ilo namako"
 
 msgid "DNS_SERVER"
-msgstr "DNS Server"
+msgstr "ilo DNS"
 
 msgid "ESTIMATED_RESOLUTION"
-msgstr "Estimated Resolution Time: %s"
+msgstr "pakala weka li tenpo ni: %s"
 
 msgid "INVESTIGATING"
-msgstr "We are currently investigating the issue"
+msgstr "mi li alasa e pakala"
 
 msgid "LAST_UPDATED"
-msgstr "Last updated on %s"
+msgstr "lipu ante lon tenpo %s"
 
 msgid "MAINTENANCE_COMPLETED"
-msgstr "Maintenance Completed"
+msgstr "pakala weka li pini"
 
 msgid "MAINTENANCE_IN_PROGRESS"
-msgstr "Maintenance In Progress"
+msgstr "pakala weka li tenpo ni"
 
 msgid "MAJOR_ISSUES"
-msgstr "Major Issues"
+msgstr "pakala suli"
 
 msgid "MINOR_ISSUES"
-msgstr "Minor Issues"
+msgstr "pakala lili"
 
 msgid "OUTAGE"
-msgstr "Outage"
+msgstr "weka"
 
 msgid "POSSIBLE_ISSUES"
-msgstr "Possible Issues"
+msgstr "ken pakala"
 
 msgid "SCHEDULED_MAINTENANCE"
-msgstr "Scheduled Maintenance"
+msgstr "pakala weka pi tenpo esun"
 
 msgid "SERVICE_STATUS"
-msgstr "Service Status"
+msgstr "pilin tan lipu Sutomemo"
 
 msgid "SUDOMEMO_DEGRADED_PERFORMANCE"
-msgstr "Sudomemo is currently experiencing degraded performance"
+msgstr "lipu Sutomemo li pilin ike"
 
 msgid "UNDERGOING_NETWORK_ISSUES"
-msgstr "Currently undergoing network routing issues"
+msgstr "lipu Sutomemo li toki ilo ike"
 
 msgid "WEATHERING_ATTACK"
-msgstr "Currently weathering a Denial of Service (DoS) attack"
+msgstr "jan ike li toki mute tawa lipu Sutomemo"
 
 msgid "WEBSITE"
-msgstr "Website"
+msgstr "lipu"
