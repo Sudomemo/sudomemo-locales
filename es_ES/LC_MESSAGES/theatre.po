@@ -115,6 +115,9 @@ msgstr "Carga fallida..."
 msgid "BY"
 msgstr "por"
 
+msgid "CANCEL"
+msgstr "Cancel"
+
 msgid "CANNOT_POST_LINKS"
 msgstr "No se permiten enlaces en los mensajes del chat."
 
@@ -204,6 +207,9 @@ msgstr "Comentarios"
 
 msgid "COMMENT_FAILED_USER_BANNED"
 msgstr "No puedes publicar mensajes porque estás bloqueado."
+
+msgid "CONFIRMATION_CODE_REQUIRED"
+msgstr "A confirmation code is required."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
 msgstr "Debes confirmar tu correo electrónico antes de publicar."
@@ -622,6 +628,12 @@ msgstr "Aprende más"
 
 msgid "LINK_REQUIRED_BEFORE_UPLOAD"
 msgstr "Necesitarás el enlace de tu canal de YouTube antes de que puedas subir tu Flipnote."
+
+msgid "LOGIN_CONFIRM_PLACEHOLDER"
+msgstr "Confirmation code"
+
+msgid "LOGIN_CONFIRM_PROMPT"
+msgstr "A confirmation code has been sent to your email address. Please enter it to continue."
 
 # # Ticket types..
 # Login Page
@@ -1248,6 +1260,9 @@ msgstr "Usar este marco de ahora en adelante"
 
 msgid "VERIFIED_USER"
 msgstr "Usuario Verificado"
+
+msgid "VERIFY_CODE"
+msgstr "Verify"
 
 msgid "VIEWPAGE_ADD_MODERATOR_COMMENT"
 msgstr "Añadir comentario como moderador"

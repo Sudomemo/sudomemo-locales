@@ -115,6 +115,9 @@ msgstr "Échec de l'envoi..."
 msgid "BY"
 msgstr "de"
 
+msgid "CANCEL"
+msgstr "Cancel"
+
 msgid "CANNOT_POST_LINKS"
 msgstr "Les liens ne sont pas autorisés dans le chat."
 
@@ -204,6 +207,9 @@ msgstr "Commentaires"
 
 msgid "COMMENT_FAILED_USER_BANNED"
 msgstr "Vous ne pouvez pas envoyez de messages car vous êtes banni(e)."
+
+msgid "CONFIRMATION_CODE_REQUIRED"
+msgstr "A confirmation code is required."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
 msgstr "Vous devez confirmez votre adresse de courriel avant de pouvoir poster des messages."
@@ -622,6 +628,12 @@ msgstr "En savoir plus"
 
 msgid "LINK_REQUIRED_BEFORE_UPLOAD"
 msgstr "Vous devrez lier votre chaîne YouTube avant de pouvoir envoyer votre Flipnote."
+
+msgid "LOGIN_CONFIRM_PLACEHOLDER"
+msgstr "Confirmation code"
+
+msgid "LOGIN_CONFIRM_PROMPT"
+msgstr "A confirmation code has been sent to your email address. Please enter it to continue."
 
 # # Ticket types..
 # Login Page
@@ -1248,6 +1260,9 @@ msgstr "Utiliser ce cadre dès maintenant"
 
 msgid "VERIFIED_USER"
 msgstr "Utilisateur verifié"
+
+msgid "VERIFY_CODE"
+msgstr "Verify"
 
 msgid "VIEWPAGE_ADD_MODERATOR_COMMENT"
 msgstr "Ajouter un commentaire de modérateur"
