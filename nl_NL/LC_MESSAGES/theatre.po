@@ -60,6 +60,33 @@ msgstr "Auteur"
 msgid "BACK"
 msgstr "Terug"
 
+msgid "BATCH_EDIT_DESCRIPTION_PLACEHOLDER"
+msgstr "Description"
+
+msgid "BATCH_EDIT_DONE_MESSAGE"
+msgstr "All done! No more Flipnotes."
+
+msgid "BATCH_EDIT_INSTRUCTIONS"
+msgstr "Give each Flipnote a title and description so viewers can find it! Without them, your Flipnote will get lost in the crowd."
+
+msgid "BATCH_EDIT_PAGE_TITLE"
+msgstr "Flipnote Batch Editor"
+
+msgid "BATCH_EDIT_PANEL_TITLE"
+msgstr "Flipnote Batch Editor"
+
+msgid "BATCH_EDIT_PREVIEW_TIP"
+msgstr "Click the preview to load player"
+
+msgid "BATCH_EDIT_SAVE_AND_NEXT"
+msgstr "Save & Next"
+
+msgid "BATCH_EDIT_SKIP_BUTTON"
+msgstr "Skip"
+
+msgid "BATCH_EDIT_TITLE_PLACEHOLDER"
+msgstr "Title"
+
 msgid "BIO"
 msgstr "Bio"
 
@@ -404,11 +431,17 @@ msgstr "Uitgelichte Flipnotes"
 msgid "FEED"
 msgstr "Feed"
 
+msgid "FIX_NOW"
+msgstr "Fix now"
+
 msgid "FLIPNOTE"
 msgstr "Flipnote"
 
 msgid "FLIPNOTES"
 msgstr "Flipnotes"
+
+msgid "FLIPNOTES_MISSING_INFO"
+msgstr "Some of your Flipnotes are missing key information."
 
 msgid "FLIPNOTE_ARCHIVE_BUTTON_TOGGLE"
 msgstr "Toon link naar gearchiveerde Flipnote Hatena content vanuit mijn profiel"
