@@ -139,6 +139,10 @@ msgstr "Démarrage..."
 msgid "BTN_START_UPLOAD"
 msgstr "Démarrer l'envoi"
 
+# Discord unlink button text
+msgid "BTN_UNLINK_DISCORD"
+msgstr "Unlink Discord Account"
+
 msgid "BTN_UPLOAD_FAILED"
 msgstr "Échec de l'envoi..."
 
@@ -241,6 +245,10 @@ msgstr "Vous ne pouvez pas envoyez de messages car vous êtes banni(e)."
 msgid "CONFIRMATION_CODE_REQUIRED"
 msgstr "A confirmation code is required."
 
+# Discord unlink confirmation dialog
+msgid "CONFIRM_DISCORD_UNLINK"
+msgstr "Are you sure you want to unlink your Discord account? This will remove the connection between your Discord and Sudomemo accounts."
+
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
 msgstr "Vous devez confirmez votre adresse de courriel avant de pouvoir poster des messages."
 
@@ -336,6 +344,14 @@ msgstr "Comment lier"
 # Connected since December 27th, 2020
 msgid "DISCORD_LINKED_ON_DATE"
 msgstr "Connecté depuis le %s"
+
+# Discord unlink explanation text
+msgid "DISCORD_UNLINK_EXPLANATION"
+msgstr "You can unlink your Discord account from your Sudomemo account using the button below. This will remove the connection between your accounts."
+
+# Discord unlink success message
+msgid "DISCORD_UNLINK_SUCCESS"
+msgstr "Discord account unlinked successfully!"
 
 msgid "DOWNLOADS"
 msgstr "Sauvegardes"
