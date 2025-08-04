@@ -139,6 +139,10 @@ msgstr "Empezando..."
 msgid "BTN_START_UPLOAD"
 msgstr "Empezar carga"
 
+# Discord unlink button text
+msgid "BTN_UNLINK_DISCORD"
+msgstr "Unlink Discord Account"
+
 msgid "BTN_UPLOAD_FAILED"
 msgstr "Carga fallida..."
 
@@ -241,6 +245,10 @@ msgstr "No puedes publicar mensajes porque estás bloqueado."
 msgid "CONFIRMATION_CODE_REQUIRED"
 msgstr "A confirmation code is required."
 
+# Discord unlink confirmation dialog
+msgid "CONFIRM_DISCORD_UNLINK"
+msgstr "Are you sure you want to unlink your Discord account? This will remove the connection between your Discord and Sudomemo accounts."
+
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
 msgstr "Debes confirmar tu correo electrónico antes de publicar."
 
@@ -336,6 +344,14 @@ msgstr "Cómo Vincular"
 # Connected since December 27th, 2020
 msgid "DISCORD_LINKED_ON_DATE"
 msgstr "Conectado desde %s"
+
+# Discord unlink explanation text
+msgid "DISCORD_UNLINK_EXPLANATION"
+msgstr "You can unlink your Discord account from your Sudomemo account using the button below. This will remove the connection between your accounts."
+
+# Discord unlink success message
+msgid "DISCORD_UNLINK_SUCCESS"
+msgstr "Discord account unlinked successfully!"
 
 msgid "DOWNLOADS"
 msgstr "Descargas"

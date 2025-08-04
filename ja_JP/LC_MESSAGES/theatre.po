@@ -139,6 +139,10 @@ msgstr "開始しています..."
 msgid "BTN_START_UPLOAD"
 msgstr "アップロードを開始"
 
+# Discord unlink button text
+msgid "BTN_UNLINK_DISCORD"
+msgstr "Unlink Discord Account"
+
 msgid "BTN_UPLOAD_FAILED"
 msgstr "アップロードに失敗しました..."
 
@@ -241,6 +245,10 @@ msgstr "You cannot post messages because you are banned."
 msgid "CONFIRMATION_CODE_REQUIRED"
 msgstr "A confirmation code is required."
 
+# Discord unlink confirmation dialog
+msgid "CONFIRM_DISCORD_UNLINK"
+msgstr "Are you sure you want to unlink your Discord account? This will remove the connection between your Discord and Sudomemo accounts."
+
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
 msgstr "You must confirm your email before posting."
 
@@ -336,6 +344,14 @@ msgstr "紐付け方法"
 # Connected since December 27th, 2020
 msgid "DISCORD_LINKED_ON_DATE"
 msgstr "%sから接続"
+
+# Discord unlink explanation text
+msgid "DISCORD_UNLINK_EXPLANATION"
+msgstr "You can unlink your Discord account from your Sudomemo account using the button below. This will remove the connection between your accounts."
+
+# Discord unlink success message
+msgid "DISCORD_UNLINK_SUCCESS"
+msgstr "Discord account unlinked successfully!"
 
 msgid "DOWNLOADS"
 msgstr "ダウンロード"
