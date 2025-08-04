@@ -60,6 +60,9 @@ msgstr "Artista"
 msgid "BACK"
 msgstr "Voltar"
 
+msgid "BACK_TO_MAIL"
+msgstr "Back to Mail"
+
 msgid "BATCH_EDIT_DESCRIPTION_PLACEHOLDER"
 msgstr "Description"
 
@@ -243,6 +246,16 @@ msgstr "Tens de confirmar o teu email antes de enviar um comentário."
 
 msgid "CONTENT_POLICY"
 msgstr "Content Policy"
+
+msgid "CONTENT_TYPE_comment"
+msgstr "comment"
+
+# Content type strings
+msgid "CONTENT_TYPE_flipnote"
+msgstr "flipnote"
+
+msgid "CONTENT_TYPE_profile"
+msgstr "profile"
 
 msgid "CONTINUE"
 msgstr "Continuar"
@@ -691,6 +704,10 @@ msgstr "Precisas de fazer login para enviar uma mensagem de chat."
 msgid "LOGIN_SIGNUP_SELECT_DEVICE"
 msgstr "Selecciona o teu sistema"
 
+# Mail reader strings
+msgid "MAIL_READER_TITLE"
+msgstr "Message"
+
 msgid "MANAGE_PLAYLIST"
 msgstr "Gerir Playlist"
 
@@ -840,6 +857,50 @@ msgstr "Nintendo DSi"
 
 msgid "NONE"
 msgstr "Nenhum"
+
+msgid "NOTIFICATION_CONTENT_REMOVED"
+msgstr "was removed for violating community guidelines"
+
+msgid "NOTIFICATION_CONTENT_RESTORED"
+msgstr "has been restored after review"
+
+msgid "NOTIFICATION_NEW_FRIEND"
+msgstr "added you as a friend"
+
+# Generic strings
+msgid "NOTIFICATION_NEW_MESSAGE"
+msgstr "New message"
+
+msgid "NOTIFICATION_READ_MESSAGE"
+msgstr "Read Message"
+
+msgid "NOTIFICATION_REPORT_ACCEPTED"
+msgstr "Your report has been accepted and action has been taken"
+
+msgid "NOTIFICATION_REPORT_REJECTED"
+msgstr "Your report has been reviewed and no action was taken"
+
+msgid "NOTIFICATION_SENT_MESSAGE"
+msgstr "sent you a message"
+
+msgid "NOTIFICATION_SPINOFF_CREATED"
+msgstr "created a spinoff of"
+
+msgid "NOTIFICATION_UNKNOWN"
+msgstr "New notification"
+
+# Notification action strings
+msgid "NOTIFICATION_VIEW_DETAILS"
+msgstr "View Details"
+
+msgid "NOTIFICATION_VIEW_MESSAGE"
+msgstr "View Message"
+
+msgid "NOTIFICATION_VIEW_SPINOFF"
+msgstr "View Spinoff"
+
+msgid "NOTIFICATION_YOUR_FLIPNOTE"
+msgstr "your flipnote"
 
 msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
 msgstr "Não podes enviar uma mensagem de chat quando estás silenciado."
