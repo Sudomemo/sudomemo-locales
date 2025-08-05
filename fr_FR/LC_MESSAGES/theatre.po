@@ -175,6 +175,9 @@ msgstr "de"
 msgid "CANCEL"
 msgstr "Cancel"
 
+msgid "CANCEL_PROFILE_PICTURE_CHANGE"
+msgstr "Cancel"
+
 msgid "CANNOT_POST_LINKS"
 msgstr "Les liens ne sont pas autorisés dans le chat."
 
@@ -189,6 +192,9 @@ msgstr "Votre message contient du contenu inapproprié."
 
 msgid "CATEGORY"
 msgstr "Catégorie"
+
+msgid "CHANGE_PROFILE_PICTURE"
+msgstr "Change Profile Picture"
 
 msgid "CHANNEL"
 msgstr "Chaîne"
@@ -275,6 +281,12 @@ msgstr "Are you sure you want to unlink your Discord account? This will remove t
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
 msgstr "Vous devez confirmez votre adresse de courriel avant de pouvoir poster des messages."
 
+msgid "CONFIRM_PROFILE_PICTURE_CHANGE"
+msgstr "Confirm Profile Picture Change"
+
+msgid "CONFIRM_PROFILE_PICTURE_CHANGE_ACTION"
+msgstr "Set as Profile Picture"
+
 msgid "CONTENT_POLICY"
 msgstr "Politique de contenu"
 
@@ -308,6 +320,9 @@ msgstr "Créateurs"
 
 msgid "CREATORS_ROOM"
 msgstr "Salle de créateur"
+
+msgid "CURRENT_PROFILE_PICTURE"
+msgstr "Current Profile Picture"
 
 msgid "CUSTOM_FRAMES"
 msgstr "Cadres personnalisés"
@@ -485,6 +500,9 @@ msgstr "Flipnotes"
 msgid "FLIPNOTES_MISSING_INFO"
 msgstr "Some of your Flipnotes are missing key information."
 
+msgid "FLIPNOTE_ALREADY_SET_AS_PROFILE_PICTURE"
+msgstr "This Flipnote is already set as your profile picture."
+
 msgid "FLIPNOTE_ARCHIVE_BUTTON_TOGGLE"
 msgstr "Afficher le lien vers le contenu Flipnote Hatena archivé depuis mon profil"
 
@@ -513,6 +531,9 @@ msgstr "ID Flipnote"
 # # Flipnote sections
 msgid "FLIPNOTE_LIST_RECALCULATING"
 msgstr "Les classements sont en train d'être recalculés. Essayez de recharger la page dans quelques instants."
+
+msgid "FLIPNOTE_NOT_FOUND_FOR_PROFILE_PICTURE"
+msgstr "Flipnote not found or cannot be used as profile picture."
 
 msgid "FLIPNOTE_SETTINGS_UPLOAD_TO_YOUTUBE"
 msgstr "Vous pouvez envoyer votre Flipnote sur votre chaîne YouTube. Cliquez sur le bouton ci-dessous pour commencer."
@@ -734,6 +755,9 @@ msgstr "Mot de passe"
 msgid "LOGIN_PLACEHOLDER_USERNAME"
 msgstr "Email ou Flipnote Studio ID"
 
+msgid "LOGIN_REQUIRED_FOR_PROFILE_PICTURE"
+msgstr "You must be logged in to change your profile picture."
+
 msgid "LOGIN_REQUIRED_TO_DELETE_CHAT_MESSAGE"
 msgstr "Vous devez vous connectez pour supprimer un message."
 
@@ -885,6 +909,9 @@ msgstr "Infos"
 msgid "NEW_FRAME"
 msgstr "Nouveau cadre"
 
+msgid "NEW_PROFILE_PICTURE"
+msgstr "New Profile Picture"
+
 msgid "NEXT"
 msgstr "Suivant"
 
@@ -963,6 +990,9 @@ msgstr "Aucun utilisateur trouvé avec cet ID Flipnote Studio ou cet e-mail"
 
 msgid "ONLY_APPLIES_FOR_YOUTUBE_SHORTS"
 msgstr "S'applique seulement pout les YouTube Shorts"
+
+msgid "ONLY_OWNER_CAN_SET_PROFILE_PICTURE"
+msgstr "You can only set your own Flipnotes as your profile picture."
 
 msgid "PARENT_FLIPNOTE"
 msgstr "Flipnote parent"
@@ -1089,6 +1119,21 @@ msgstr "À propos de %s"
 msgid "PROFILE_DEFAULT_DESCRIPTION"
 msgstr "%s - %s fans, %s Flipnotes sur Sudomemo"
 
+msgid "PROFILE_PICTURE_CHANGED_SUCCESS"
+msgstr "Profile picture changed successfully!"
+
+msgid "PROFILE_PICTURE_CHANGE_CONFIRMATION"
+msgstr "Are you sure you want to set this Flipnote as your profile picture?"
+
+msgid "PROFILE_PICTURE_CHANGE_FAILED"
+msgstr "Failed to change profile picture. Please try again."
+
+msgid "PROFILE_PICTURE_DESCRIPTION"
+msgstr "You can set this Flipnote as your profile picture. This will be visible on your profile page and when you comment on other Flipnotes."
+
+msgid "PROFILE_PICTURE_SECTION_TITLE"
+msgstr "Profile Picture"
+
 # # Recent comments on their Flipnotes
 msgid "PROFILE_RECENT_COMMENTS"
 msgstr "Commentaires récents"
@@ -1155,6 +1200,9 @@ msgstr "Retirer d'une Playliste"
 msgid "RESET_PASSWORD_BY_FSID"
 msgstr "Vous pouvez toujours réinitialiser votre mot de passe avec votre ID Flipnote Studio ! Envoyez simplement un message rapide au support Sudomemo et nous vous l'enverrons."
 
+msgid "RETURN_TO_FLIPNOTE_EDIT"
+msgstr "Return to Flipnote"
+
 msgid "ROOT_FLIPNOTE"
 msgstr "Flipnote racine"
 
@@ -1198,6 +1246,9 @@ msgstr "Voir plus"
 
 msgid "SETTINGS"
 msgstr "Paramètres"
+
+msgid "SET_AS_PROFILE_PICTURE"
+msgstr "Set as Profile Picture"
 
 msgid "SHARE"
 msgstr "Partager"
@@ -1455,6 +1506,9 @@ msgstr "Vues"
 
 msgid "VIEW_ON_SUDOMEMO"
 msgstr "Voir sur Sudomemo"
+
+msgid "VIEW_YOUR_PROFILE"
+msgstr "View Your Profile"
 
 msgid "VISIBILITY"
 msgstr "Visibility"
