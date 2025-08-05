@@ -56,6 +56,29 @@ msgstr "Isto é um arquivo de um perfil do Flipnote Hatena."
 msgid "ARTIST"
 msgstr "Artista"
 
+msgid "AUTOPLAY_BLOCKED_TOOLTIP_HEADER"
+msgstr "Autoplay Blocked"
+
+# Chrome autoplay help message
+msgid "AUTOPLAY_HELP_CHROME"
+msgstr "Click the settings icon in the address bar → Site Settings → Set 'Sound' to \"Allow\"."
+
+# Edge autoplay help message  
+msgid "AUTOPLAY_HELP_EDGE"
+msgstr "Click the 🔒 padlock in the address bar → Permissions for this site → Set 'Sound' to \"Allow\"."
+
+# Firefox autoplay help message
+msgid "AUTOPLAY_HELP_FIREFOX"
+msgstr "Click the crossed-out play button next to the 🔒 padlock in the address bar → Set 'Autoplay' to \"Allow Audio and Video\"."
+
+# Generic autoplay help message for unknown browsers
+msgid "AUTOPLAY_HELP_GENERIC"
+msgstr "Autoplay may be blocked. Check your browser's site settings."
+
+# Safari autoplay help message
+msgid "AUTOPLAY_HELP_SAFARI"
+msgstr "Right-click the address bar → \"Settings for This Website...\" → Auto-Play → Allow All Auto-Play."
+
 # Back, in the sense of navigation
 msgid "BACK"
 msgstr "Voltar"
@@ -1692,26 +1715,3 @@ msgstr "Estás a editar este Flipnote:"
 
 msgid "YT_LAYOUT_MAY_VARY"
 msgstr "A aparência e layout podem depender no aparelho que vejas o vídeo"
-
-# Firefox autoplay help message
-msgid "AUTOPLAY_HELP_FIREFOX"
-msgstr "Click the crossed-out play button next to the 🔒 padlock in the address bar → Set 'Autoplay' to \"Allow Audio and Video\"."
-
-# Edge autoplay help message  
-msgid "AUTOPLAY_HELP_EDGE"
-msgstr "Click the 🔒 padlock in the address bar → Permissions for this site → Set 'Sound' to \"Allow\"."
-
-# Chrome autoplay help message
-msgid "AUTOPLAY_HELP_CHROME"
-msgstr "Click the settings icon in the address bar → Site Settings → Set 'Sound' to \"Allow\"."
-
-# Safari autoplay help message
-msgid "AUTOPLAY_HELP_SAFARI"
-msgstr "Right-click the address bar → \"Settings for This Website...\" → Auto-Play → Allow All Auto-Play."
-
-# Generic autoplay help message for unknown browsers
-msgid "AUTOPLAY_HELP_GENERIC"
-msgstr "Autoplay may be blocked. Check your browser's site settings."
-
-msgid "AUTOPLAY_BLOCKED_TOOLTIP_HEADER"
-msgstr "Autoplay Blocked"
