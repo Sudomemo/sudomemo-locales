@@ -936,6 +936,10 @@ msgstr "View Spinoff"
 msgid "NOTIFICATION_YOUR_FLIPNOTE"
 msgstr "your flipnote"
 
+# Not following anyone message
+msgid "NOT_FOLLOWING_ANYONE_YET"
+msgstr "%s isn't following anyone yet."
+
 msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
 msgstr "You cannot send chat messages while muted."
 
@@ -944,6 +948,10 @@ msgstr "No description."
 
 msgid "NO_EMAIL_ON_FILE"
 msgstr "Geen email adres op bestand -- contacteer Sudomemo Support"
+
+# No followers message
+msgid "NO_FOLLOWERS_YET"
+msgstr "%s doesn't have any followers yet."
 
 msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
 msgstr "Geen gebruiker gevonden met dat Flipnote Studio ID of email"
@@ -1062,6 +1070,9 @@ msgstr "Populair Deze Maand"
 # I couldn't get this shorter than 5 characters.. (vorig) So I left it in English and changed "Next" back to English as well.
 msgid "PREV"
 msgstr "Prev"
+
+msgid "PREVIOUS"
+msgstr "Previous"
 
 msgid "PRIVACY_POLICY"
 msgstr "Privacybeleid"

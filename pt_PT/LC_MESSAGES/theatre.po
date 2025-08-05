@@ -918,6 +918,10 @@ msgstr "View Spinoff"
 msgid "NOTIFICATION_YOUR_FLIPNOTE"
 msgstr "your flipnote"
 
+# Not following anyone message
+msgid "NOT_FOLLOWING_ANYONE_YET"
+msgstr "%s isn't following anyone yet."
+
 msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
 msgstr "Não podes enviar uma mensagem de chat quando estás silenciado."
 
@@ -926,6 +930,10 @@ msgstr "Sem descrição."
 
 msgid "NO_EMAIL_ON_FILE"
 msgstr "Nenhum endereço de email no registo -- contacte o Suporte do Sudomemo"
+
+# No followers message
+msgid "NO_FOLLOWERS_YET"
+msgstr "%s doesn't have any followers yet."
 
 msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
 msgstr "Nenhum utilizador encontrado com esse ID do Flipnote Studio ID ou email"
@@ -1043,6 +1051,9 @@ msgstr "Populares este Mês"
 # Previous, abbreviated "Prev". Should be a maximum of 4 characters.
 msgid "PREV"
 msgstr "Anterior"
+
+msgid "PREVIOUS"
+msgstr "Previous"
 
 msgid "PRIVACY_POLICY"
 msgstr "Política de Privacidade"

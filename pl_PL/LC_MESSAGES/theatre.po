@@ -918,6 +918,10 @@ msgstr "View Spinoff"
 msgid "NOTIFICATION_YOUR_FLIPNOTE"
 msgstr "your flipnote"
 
+# Not following anyone message
+msgid "NOT_FOLLOWING_ANYONE_YET"
+msgstr "%s isn't following anyone yet."
+
 msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
 msgstr "You cannot send chat messages while muted."
 
@@ -926,6 +930,10 @@ msgstr "No description."
 
 msgid "NO_EMAIL_ON_FILE"
 msgstr "Brak zapisanego adresu e-mail -- skontaktuj się z wsparciem Sudomemo"
+
+# No followers message
+msgid "NO_FOLLOWERS_YET"
+msgstr "%s doesn't have any followers yet."
 
 msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
 msgstr "Nie znaleziono użytkownika z tym FSID lub e-mailem"
@@ -1043,6 +1051,9 @@ msgstr "Popularne w tym miesiącu"
 # Previous, abbreviated "Prev". Should be a maximum of 4 characters.
 msgid "PREV"
 msgstr "Pprz"
+
+msgid "PREVIOUS"
+msgstr "Previous"
 
 msgid "PRIVACY_POLICY"
 msgstr "Polityka prywatności"
