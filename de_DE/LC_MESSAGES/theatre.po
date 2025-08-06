@@ -584,6 +584,9 @@ msgstr "FSID"
 msgid "GENRE"
 msgstr "Genre"
 
+msgid "GET_SUPPORT"
+msgstr "Get Support"
+
 msgid "GIFT_ANONYMOUS"
 msgstr "I'd like to remain anonymous."
 
@@ -1200,6 +1203,9 @@ msgstr "Remove from Playlist"
 msgid "RESET_PASSWORD_BY_FSID"
 msgstr "Du kannst dein Passwort noch immer mit deiner Flipnote Studio ID zurücksetzen! Schicke einfach eine Nachricht an Sudomemo Support."
 
+msgid "RESOURCES"
+msgstr "Resources"
+
 msgid "RETURN_TO_FLIPNOTE_EDIT"
 msgstr "Return to Flipnote"
 
@@ -1354,6 +1360,9 @@ msgstr "Sudomemo Theatre"
 
 msgid "SUDOMEMO_USER"
 msgstr "Sudomemo-Nutzer"
+
+msgid "SUPPORT_US"
+msgstr "Support Us"
 
 msgid "TERMS_OF_USE"
 msgstr "Nutzungsrichtlinien"
