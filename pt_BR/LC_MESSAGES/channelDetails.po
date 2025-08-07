@@ -4,55 +4,55 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CATEGORY"
-msgstr "Category"
+msgstr "Categoria"
 
 msgid "CHANNEL_ID"
-msgstr "Channel ID"
+msgstr "ID do Canal"
 
 msgid "CHANNEL_INFORMATION"
-msgstr "Channel Information"
+msgstr "Informação do Canal"
 
 msgid "CHANNEL_LOCKED"
-msgstr "This channel is locked."
+msgstr "Este canal está trancado."
 
 msgid "CHANNEL_NAME"
-msgstr "Channel Name"
+msgstr "Nome do Canal"
 
 msgid "CHANNEL_NOT_SPECIFIED"
-msgstr "You must pick a channel."
+msgstr "Tem de escolher um canal."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Please confirm your email before posting."
+msgstr "Por favor confirme o seu email antes de postar."
 
 msgid "CONTEST_ALREADY_SUBMITTED"
-msgstr "You've already submitted an entry."
+msgstr "Você já enviou uma entrada."
 
 msgid "CONTEST_LIMIT_ONE"
-msgstr "You may only submit one entry to this channel."
+msgstr "Você só pode enviar uma entrada para esse canal."
 
 msgid "CONTEST_LIMIT_ONE_REVISION"
-msgstr "If you need to update your entry, remove the first one and then resubmit."
+msgstr "Se precisar atualizar sua entrada, primeiro delete sua entrada atual e então poste a nova."
 
 msgid "DUPLICATE_FLIPNOTE_FAILED"
-msgstr "This Flipnote has already been posted to Sudomemo. Try editing it again."
+msgstr "Este Flipnote já foi postado no Sudomemo. Tente edita-lo outra vez."
 
 msgid "FLIPNOTES"
 msgstr "Flipnotes"
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "The Flipnote data is corrupted. Try again in a moment."
+msgstr "Os dados do Flipnote estão corrompidos. Tente novamente em alguns instantes."
 
 msgid "FLIPNOTE_POST_FAILED"
-msgstr "Flipnote upload failed. Try again in a moment."
+msgstr "Upload do Flipnote falhou. Tente novamente em alguns instantes."
 
 msgid "FLIPNOTE_POST_FAIL_USER_BANNED"
-msgstr "You've been restricted from using Sudomemo."
+msgstr "Você está restrito de usar o Sudomemo."
 
 msgid "LOGIN_REQUIRED_TO_POST"
-msgstr "You must be logged in to post a Flipnote."
+msgstr "Deve primeiro fazer login para que possa postar um Flipnote."
 
 msgid "NO_BLANK_FLIPNOTES_ALLOWED"
-msgstr "You may not post an empty Flipnote."
+msgstr "Não se pode postar um Flipnote em branco."
 
 msgid "NO_POSTS_WHILE_MUTED"
-msgstr "You may not post while you are muted."
+msgstr "Não se pode postar enquanto estiver silenciado."
