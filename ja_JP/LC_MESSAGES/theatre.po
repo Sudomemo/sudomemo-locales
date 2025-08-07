@@ -1149,6 +1149,40 @@ msgstr "★をもらった国"
 msgid "PROFILE_USER_POSTS_IN"
 msgstr "投稿したチャンネル"
 
+msgid "PUSH_NOTIFICATIONS_DESCRIPTION"
+msgstr "Receive instant notifications when you get stars, comments, and other interactions on your Flipnotes."
+
+msgid "PUSH_NOTIFICATIONS_DISABLED"
+msgstr "Notifications disabled"
+
+# Notification messages
+msgid "PUSH_NOTIFICATIONS_ENABLED"
+msgstr "Notifications enabled!"
+
+msgid "PUSH_NOTIFICATIONS_NOT_SUPPORTED"
+msgstr "Push notifications not supported in this browser"
+
+msgid "PUSH_NOTIFICATIONS_PERMISSION_DENIED"
+msgstr "Push notifications permission was denied. Please enable them in your browser settings."
+
+msgid "PUSH_NOTIFICATIONS_SETTINGS_HELP"
+msgstr "This setting is saved per-device. You can enable notifications on multiple devices independently."
+
+msgid "PUSH_NOTIFICATIONS_SETTINGS_LABEL"
+msgstr "Enable notifications on this device"
+
+# Settings link in notifications dropdown
+msgid "PUSH_NOTIFICATIONS_SETTINGS_LINK"
+msgstr "Settings..."
+
+# Button text for enabling notifications in dropdown
+msgid "PUSH_NOTIFICATIONS_SUBSCRIBE"
+msgstr "Enable notifications"
+
+# User settings page - notification section
+msgid "PUSH_NOTIFICATIONS_TITLE"
+msgstr "Push Notifications"
+
 msgid "RANDOM"
 msgstr "ランダム"
 
