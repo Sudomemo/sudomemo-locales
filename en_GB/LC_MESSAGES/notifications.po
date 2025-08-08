@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Language: en_GB\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "FRAGMENT_ADDED"
+msgstr " added "
+
+msgid "FRAGMENT_AND"
+msgstr " and "
+
+msgid "FRAGMENT_A_STAR"
+msgstr "a Star"
+
+msgid "FRAGMENT_COMMA"
+msgstr ", "
+
+msgid "FRAGMENT_COMMA_AND"
+msgstr ", and "
+
+msgid "FRAGMENT_COMMENTED_ON"
+msgstr " commented on "
+
+msgid "FRAGMENT_CONTENT"
+msgstr "content"
+
+msgid "FRAGMENT_CREATED_A"
+msgstr " created a "
+
+msgid "FRAGMENT_FOLLOWED_YOU"
+msgstr " followed you"
+
+msgid "FRAGMENT_HAS_BEEN_RESTORED"
+msgstr " has been restored after review"
+
+msgid "FRAGMENT_HAS_BEEN_REVIEWED"
+msgstr " has been reviewed"
+
+msgid "FRAGMENT_INTERACTED_WITH_CONTENT"
+msgstr "interacted with your content"
+
+msgid "FRAGMENT_MESSAGE"
+msgstr "message"
+
+msgid "FRAGMENT_NEW_FLIPNOTE_FRIEND"
+msgstr "You have a new Flipnote Friend: "
+
+msgid "FRAGMENT_OF"
+msgstr " of "
+
+msgid "FRAGMENT_OTHER_PEOPLE_PLURAL"
+msgstr " other people"
+
+msgid "FRAGMENT_OTHER_PERSON_SINGULAR"
+msgstr " other person"
+
+msgid "FRAGMENT_REPORT"
+msgstr "report"
+
+msgid "FRAGMENT_SENT_MESSAGE_DEFAULT"
+msgstr "sent you a "
+
+msgid "FRAGMENT_SENT_YOU_A"
+msgstr " sent you a "
+
+msgid "FRAGMENT_SPINOFF"
+msgstr "Spin-off"
+
+msgid "FRAGMENT_STARS"
+msgstr "Stars"
+
+msgid "FRAGMENT_TO_YOUR"
+msgstr " to your "
+
+msgid "FRAGMENT_WAS_REMOVED_POLICY"
+msgstr " was removed for violating our Content Policy"
+
+msgid "FRAGMENT_YOUR"
+msgstr "Your "
+
+msgid "FRAGMENT_YOUR_FLIPNOTE"
+msgstr "your Flipnote"
