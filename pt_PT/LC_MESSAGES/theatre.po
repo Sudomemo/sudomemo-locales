@@ -581,6 +581,73 @@ msgstr "Criadores nas tendências (Trending)"
 msgid "FSID"
 msgstr "FSID"
 
+# Accessibility strings for genealogy navigation and controls
+msgid "GENEALOGY_BACK_TO_FLIPNOTE"
+msgstr "Back to Flipnote"
+
+# Legend section title
+msgid "GENEALOGY_LEGEND"
+msgstr "Legend"
+
+msgid "GENEALOGY_LEGEND_AVAILABLE"
+msgstr "Available Flipnote"
+
+# Legend items
+msgid "GENEALOGY_LEGEND_CURRENT"
+msgstr "Current Flipnote"
+
+msgid "GENEALOGY_LEGEND_DESCRIPTION"
+msgstr "Legend explaining the color coding used in the genealogy tree"
+
+msgid "GENEALOGY_LEGEND_REMOVED"
+msgstr "Removed Flipnote"
+
+msgid "GENEALOGY_LEGEND_UNKNOWN"
+msgstr "Unknown Flipnote"
+
+# Link text for genealogy
+msgid "GENEALOGY_LINK_TEXT"
+msgstr "Genealogy"
+
+# Meta description for genealogy page
+msgid "GENEALOGY_META_DESCRIPTION"
+msgstr "Genealogy showing the spin-off relationships for this Flipnote"
+
+# Meta description with specific flipnote description
+msgid "GENEALOGY_META_DESCRIPTION_FOR"
+msgstr "Genealogy for: %s"
+
+msgid "GENEALOGY_NAVIGATE_TO"
+msgstr "Navigate to genealogy for this Flipnote"
+
+# Message when no genealogy data is available
+msgid "GENEALOGY_NO_DATA"
+msgstr "No genealogy data available for this Flipnote."
+
+# Main genealogy page title
+msgid "GENEALOGY_PAGE_TITLE"
+msgstr "Flipnote Genealogy"
+
+msgid "GENEALOGY_RESET_VIEW"
+msgstr "Reset view"
+
+# Subtitle text for showing genealogy
+msgid "GENEALOGY_SHOWING_FOR"
+msgstr "Showing genealogy for"
+
+msgid "GENEALOGY_THUMBNAIL_ALT"
+msgstr "Thumbnail for Flipnote by %s"
+
+# Link title for viewing genealogy
+msgid "GENEALOGY_VIEW_LINK"
+msgstr "View Genealogy"
+
+msgid "GENEALOGY_ZOOM_IN"
+msgstr "Zoom in"
+
+msgid "GENEALOGY_ZOOM_OUT"
+msgstr "Zoom out"
+
 msgid "GENRE"
 msgstr "Género"
 
