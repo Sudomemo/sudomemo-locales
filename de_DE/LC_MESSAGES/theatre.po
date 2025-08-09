@@ -638,6 +638,9 @@ msgstr "Showing genealogy for"
 msgid "GENEALOGY_THUMBNAIL_ALT"
 msgstr "Thumbnail for Flipnote by %s"
 
+msgid "GENEALOGY_UNAVAILABLE_FLIPNOTE"
+msgstr "Unavailable Flipnote"
+
 # Link title for viewing genealogy
 msgid "GENEALOGY_VIEW_LINK"
 msgstr "View Genealogy"
@@ -1879,6 +1882,3 @@ msgstr "Du bearbeitest gerade dieses Flipnote:"
 
 msgid "YT_LAYOUT_MAY_VARY"
 msgstr "Appearance and layout may vary depending on device used to view video"
-
-msgid "GENEALOGY_UNAVAILABLE_FLIPNOTE"
-msgstr "Unavailable Flipnote"
