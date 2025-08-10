@@ -237,6 +237,9 @@ msgstr "Cerrado"
 msgid "CHANNEL_PERM_OPEN"
 msgstr "Abierto"
 
+msgid "CHANNEL_WATCHING_NOW"
+msgstr "Currently watching %s"
+
 msgid "CHAT"
 msgstr "Chat"
 
