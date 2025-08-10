@@ -239,7 +239,7 @@ msgid "TICKET_DESC_one_year_plus_ticket"
 msgstr "Questo ticket ti dà accesso ad un anno di Sudomemo Plus!"
 
 msgid "TICKET_DESC_patreon_patron_ticket"
-msgstr "Grazie per aver supportato Sudomemo tramite Patreon!"
+msgstr "Thank you for supporting Sudomemo through Patreon!"
 
 msgid "TICKET_DESC_purple_bunny_ticket"
 msgstr "Questo ticket ti offre 600 Stelle Sudomemo spendibili (alta probabilità di qualche Stella rara!), un tema esclusivo e un badge speciale da mostrare sul tuo profilo!"
@@ -398,7 +398,7 @@ msgid "TICKET_NAME_one_year_plus_ticket"
 msgstr "Ticket di Plus(1 Anno)"
 
 msgid "TICKET_NAME_patreon_patron_ticket"
-msgstr "Ticket del Patreon di Sudomemo"
+msgstr "Sudomemo Patron Ticket"
 
 msgid "TICKET_NAME_purple_bunny_ticket"
 msgstr "Ticket Russell Ramblewood"
@@ -410,10 +410,10 @@ msgid "TICKET_NAME_regular_ticket"
 msgstr "Ticket comune"
 
 msgid "TICKET_NAME_rewind_2021_ticket"
-msgstr "Ticket del Sudomemo Rewind 2021"
+msgstr "Sudomemo Rewind 2021 Ticket"
 
 msgid "TICKET_NAME_rewind_2022_ticket"
-msgstr "Ticket del Sudomemo Rewind 2022"
+msgstr "Sudomemo Rewind 2022 Ticket"
 
 msgid "TICKET_NAME_rewind_2023_ticket"
 msgstr "Ticket del Sudomemo Rewind 2023"
@@ -440,7 +440,7 @@ msgid "TICKET_NAME_sudomemo_radio_pilot_ticket"
 msgstr "Ticket Radio Pilota Sudomemo"
 
 msgid "TICKET_NAME_sudomemo_radio_ticket"
-msgstr "Ticket di Sudomemo Radio"
+msgstr "TicketSudomemo Radio"
 
 msgid "TICKET_NAME_survey_thanks_ticket"
 msgstr "Ticket Sondaggio"
