@@ -83,6 +83,9 @@ msgstr "Right-click the address bar → \"Settings for This Website...\" → Aut
 msgid "BACK"
 msgstr "Terug"
 
+msgid "BACK_TO_CATEGORIES"
+msgstr "Back to Categories"
+
 msgid "BACK_TO_MAIL"
 msgstr "Back to Mail"
 
@@ -191,6 +194,9 @@ msgstr "You cannot send an empty message."
 msgid "CANNOT_USE_PROFANITY"
 msgstr "Your message contains inappropriate language."
 
+msgid "CATEGORIES"
+msgstr "Categories"
+
 msgid "CATEGORY"
 msgstr "Categorie"
 
@@ -237,6 +243,12 @@ msgstr "Gesloten"
 
 msgid "CHANNEL_PERM_OPEN"
 msgstr "Open"
+
+msgid "CHANNEL_RANKING"
+msgstr "Channel Ranking"
+
+msgid "CHANNEL_RANKING_SIDEBAR"
+msgstr "Channel Ranking"
 
 msgid "CHANNEL_WATCHING_NOW"
 msgstr "Currently watching %s"
@@ -1062,12 +1074,30 @@ msgstr "View Spinoff"
 msgid "NOTIFICATION_YOUR_FLIPNOTE"
 msgstr "your flipnote"
 
+msgid "NOT_ENOUGH_DATA_AVAILABLE"
+msgstr "Not enough data available"
+
 # Not following anyone message
 msgid "NOT_FOLLOWING_ANYONE_YET"
 msgstr "%s isn't following anyone yet."
 
+msgid "NO_ACTIVE_CHANNELS"
+msgstr "No active channels"
+
+msgid "NO_CATEGORIES_AVAILABLE"
+msgstr "No categories are currently available."
+
+msgid "NO_CHANNELS_FOUND"
+msgstr "No Channels Found"
+
+msgid "NO_CHANNELS_IN_CATEGORY"
+msgstr "There are currently no channels in this category."
+
 msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
 msgstr "You cannot send chat messages while muted."
+
+msgid "NO_CONTENT"
+msgstr "No content"
 
 msgid "NO_DESCRIPTION"
 msgstr "No description."
@@ -1078,6 +1108,12 @@ msgstr "Geen email adres op bestand -- contacteer Sudomemo Support"
 # No followers message
 msgid "NO_FOLLOWERS_YET"
 msgstr "%s doesn't have any followers yet."
+
+msgid "NO_RANKING_DATA"
+msgstr "No Ranking Data Available"
+
+msgid "NO_RECENT_ACTIVITY"
+msgstr "No recent activity"
 
 msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
 msgstr "Geen gebruiker gevonden met dat Flipnote Studio ID of email"
@@ -1112,6 +1148,9 @@ msgstr "De URL die je bezocht is verlopen."
 # Channel permissions: Is posting Flipnotes to a channel allowed or not?
 msgid "PERMISSIONS"
 msgstr "Rechten"
+
+msgid "PERSONALIZED_RECOMMENDATIONS"
+msgstr "to see personalized recommendations"
 
 msgid "PIN"
 msgstr "Pin"
@@ -1285,6 +1324,9 @@ msgstr "Willekeurige Flipnotes"
 msgid "RANK"
 msgstr "Rang"
 
+msgid "RANKING_DATA_DESCRIPTION"
+msgstr "Channel rankings are based on how much representation each channel has in the Flipnote Rankings. Check back later as more content becomes popular!"
+
 msgid "RANK_IMPROVED"
 msgstr "Rank Improved"
 
@@ -1296,6 +1338,9 @@ msgstr "You have exceeded the rate limit for sending messages."
 
 msgid "RECENT"
 msgstr "Recent"
+
+msgid "RECENTLY_VIEWED_CHANNELS"
+msgstr "Recently viewed channels"
 
 msgid "RECENT_FLIPNOTES"
 msgstr "Recente Flipnotes"
@@ -1644,6 +1689,9 @@ msgstr "Spin-offs"
 # Number of times something has been viewed, or played.
 msgid "VIEWS"
 msgstr "Weergaven"
+
+msgid "VIEW_FLIPNOTES_BY_CATEGORY"
+msgstr "View Flipnotes by category"
 
 msgid "VIEW_ON_SUDOMEMO"
 msgstr "Bekijk op Sudomemo"

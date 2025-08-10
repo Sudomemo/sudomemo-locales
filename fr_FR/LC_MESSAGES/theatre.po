@@ -83,6 +83,9 @@ msgstr "Right-click the address bar → \"Settings for This Website...\" → Aut
 msgid "BACK"
 msgstr "Retour"
 
+msgid "BACK_TO_CATEGORIES"
+msgstr "Back to Categories"
+
 msgid "BACK_TO_MAIL"
 msgstr "Back to Mail"
 
@@ -190,6 +193,9 @@ msgstr "Vous ne pouvez pas envoyer un message vide."
 msgid "CANNOT_USE_PROFANITY"
 msgstr "Votre message contient du contenu inapproprié."
 
+msgid "CATEGORIES"
+msgstr "Categories"
+
 msgid "CATEGORY"
 msgstr "Catégorie"
 
@@ -236,6 +242,12 @@ msgstr "Fermé"
 
 msgid "CHANNEL_PERM_OPEN"
 msgstr "Ouvert"
+
+msgid "CHANNEL_RANKING"
+msgstr "Channel Ranking"
+
+msgid "CHANNEL_RANKING_SIDEBAR"
+msgstr "Channel Ranking"
 
 msgid "CHANNEL_WATCHING_NOW"
 msgstr "Currently watching %s"
@@ -1044,12 +1056,30 @@ msgstr "View Spinoff"
 msgid "NOTIFICATION_YOUR_FLIPNOTE"
 msgstr "your flipnote"
 
+msgid "NOT_ENOUGH_DATA_AVAILABLE"
+msgstr "Not enough data available"
+
 # Not following anyone message
 msgid "NOT_FOLLOWING_ANYONE_YET"
 msgstr "%s isn't following anyone yet."
 
+msgid "NO_ACTIVE_CHANNELS"
+msgstr "No active channels"
+
+msgid "NO_CATEGORIES_AVAILABLE"
+msgstr "No categories are currently available."
+
+msgid "NO_CHANNELS_FOUND"
+msgstr "No Channels Found"
+
+msgid "NO_CHANNELS_IN_CATEGORY"
+msgstr "There are currently no channels in this category."
+
 msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
 msgstr "Vous ne pouvez pas envoyer de messages lorsque vous êtes muet."
+
+msgid "NO_CONTENT"
+msgstr "No content"
 
 msgid "NO_DESCRIPTION"
 msgstr "Aucune description."
@@ -1060,6 +1090,12 @@ msgstr "Pas d'adresse email enregistrée -- contactez le support de Sudomemo"
 # No followers message
 msgid "NO_FOLLOWERS_YET"
 msgstr "%s doesn't have any followers yet."
+
+msgid "NO_RANKING_DATA"
+msgstr "No Ranking Data Available"
+
+msgid "NO_RECENT_ACTIVITY"
+msgstr "No recent activity"
 
 msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
 msgstr "Aucun utilisateur trouvé avec cet ID Flipnote Studio ou cet e-mail"
@@ -1094,6 +1130,9 @@ msgstr "L'URL que vous avez visitée a expiré."
 # Channel permissions: Is posting Flipnotes to a channel allowed or not?
 msgid "PERMISSIONS"
 msgstr "Permissions"
+
+msgid "PERSONALIZED_RECOMMENDATIONS"
+msgstr "to see personalized recommendations"
 
 msgid "PIN"
 msgstr "Épingler"
@@ -1265,6 +1304,9 @@ msgstr "Flipnotes aléatoires"
 msgid "RANK"
 msgstr "Rang"
 
+msgid "RANKING_DATA_DESCRIPTION"
+msgstr "Channel rankings are based on how much representation each channel has in the Flipnote Rankings. Check back later as more content becomes popular!"
+
 msgid "RANK_IMPROVED"
 msgstr "Rang amélioré"
 
@@ -1276,6 +1318,9 @@ msgstr "Vous avez dépassé la limite de fréquence d'envoi des messages."
 
 msgid "RECENT"
 msgstr "Récent"
+
+msgid "RECENTLY_VIEWED_CHANNELS"
+msgstr "Recently viewed channels"
 
 msgid "RECENT_FLIPNOTES"
 msgstr "Flipnotes récentes"
@@ -1619,6 +1664,9 @@ msgstr "Dérivées"
 # Number of times something has been viewed, or played.
 msgid "VIEWS"
 msgstr "Vues"
+
+msgid "VIEW_FLIPNOTES_BY_CATEGORY"
+msgstr "View Flipnotes by category"
 
 msgid "VIEW_ON_SUDOMEMO"
 msgstr "Voir sur Sudomemo"
