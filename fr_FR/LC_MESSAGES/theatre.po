@@ -1760,6 +1760,9 @@ msgstr "#%d dans Flipnotes tendance"
 msgid "X_IN_POPULAR_FLIPNOTES"
 msgstr "#%d in Populaire ce mois"
 
+msgid "X_IN_POPULAR_RANK_BADGE"
+msgstr "#%s in Popular"
+
 msgid "X_USERS"
 msgstr "%d utilisateur(s)"
 
