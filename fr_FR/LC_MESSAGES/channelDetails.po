@@ -25,13 +25,13 @@ msgid "CONFIRM_EMAIL_BEFORE_POSTING"
 msgstr "Merci de confirmer votre adresse email avant de poster."
 
 msgid "CONTEST_ALREADY_SUBMITTED"
-msgstr "You've already submitted an entry."
+msgstr "Vous avez déjà soumis une candidature."
 
 msgid "CONTEST_LIMIT_ONE"
-msgstr "You may only submit one entry to this channel."
+msgstr "Vous ne pouvez soumettre qu'une seule candidature à cette chaîne."
 
 msgid "CONTEST_LIMIT_ONE_REVISION"
-msgstr "If you need to update your entry, remove the first one and then resubmit."
+msgstr "Si vous avez besoin de mettre à jour votre candidature, supprimez la première puis soumettez la nouvelle."
 
 msgid "DUPLICATE_FLIPNOTE_FAILED"
 msgstr "Cette flipnote a déjà été postée sur Sudomemo. Essayez de l'éditer à nouveau."
