@@ -181,6 +181,9 @@ msgstr "Cancel"
 msgid "CANCEL_PROFILE_PICTURE_CHANGE"
 msgstr "Cancel"
 
+msgid "CANCEL_REPLY"
+msgstr "Cancel"
+
 msgid "CANNOT_POST_LINKS"
 msgstr "Links não são permitidos nas mensagens de chat."
 
@@ -838,6 +841,9 @@ msgstr "Pedido inválido."
 msgid "INVALID_SESSION"
 msgstr "Sessão inválida. Por favor inicie sessão outra vez."
 
+msgid "IN_REPLY_TO"
+msgstr "In Reply To"
+
 msgid "LATEST"
 msgstr "Mais Recentes"
 
@@ -1385,6 +1391,12 @@ msgstr "Publicado"
 
 msgid "REMOVE_FROM_PLAYLIST"
 msgstr "Remover da Playlist"
+
+msgid "REPLY"
+msgstr "Reply"
+
+msgid "REPLYING_TO"
+msgstr "Replying to"
 
 msgid "RESET_PASSWORD_BY_FSID"
 msgstr "Ainda podes redefinir a tua Palavra Passe com o teu ID do Flipnote Studio! Simplesmente envia uma mensagem rápida à Equipa de Suporte do Sudomemo e iremos tratar disso em poucos momentos."
