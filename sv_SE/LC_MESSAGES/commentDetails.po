@@ -36,6 +36,9 @@ msgstr "KommentarID"
 msgid "FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote av %s"
 
+msgid "IN_REPLY_TO"
+msgstr "In reply to"
+
 msgid "MESSAGE_DETAILS"
 msgstr "Meddelandedetaljer"
 

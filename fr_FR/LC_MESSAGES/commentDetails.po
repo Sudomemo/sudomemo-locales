@@ -36,6 +36,9 @@ msgstr "ID du commentaire"
 msgid "FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote de %s"
 
+msgid "IN_REPLY_TO"
+msgstr "In reply to"
+
 msgid "MESSAGE_DETAILS"
 msgstr "Détails du message"
 
