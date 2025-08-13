@@ -336,6 +336,9 @@ msgstr "Créateurs"
 msgid "CREATORS_ROOM"
 msgstr "Salle de créateur"
 
+msgid "CURRENT_EMAIL"
+msgstr "Current Email"
+
 msgid "CURRENT_PROFILE_PICTURE"
 msgstr "Current Profile Picture"
 
@@ -474,6 +477,21 @@ msgstr "Lettres, nombres, et symboles, maximum de 40 caractères."
 
 msgid "EDIT_PLAYLIST"
 msgstr "Modifier la Playliste"
+
+msgid "EMAIL_ALREADY_IN_USE"
+msgstr "This email address is already in use by another account."
+
+msgid "EMAIL_CHANGE_ALREADY_PENDING"
+msgstr "You already have a pending email change. Please check your email or wait before requesting another change."
+
+msgid "EMAIL_CHANGE_VERIFICATION_SENT"
+msgstr "Verification email sent! Please check your new email address and click the link to confirm the change."
+
+msgid "EMAIL_SAME_AS_CURRENT"
+msgstr "The new email address must be different from your current one."
+
+msgid "EMAIL_SEND_FAILED"
+msgstr "Failed to send verification email. Please try again later."
 
 msgid "EMPTY_TITLE_ALERT_1"
 msgstr "On dirait que votre flipnote a besoin d'un titre !"
@@ -766,6 +784,9 @@ msgstr "Donner un ticket à %s"
 msgid "HATENA_ID"
 msgstr "ID Hatena"
 
+msgid "HEADER_CHANGE_EMAIL"
+msgstr "Change Email Address"
+
 msgid "HEADER_CHANGE_PASSWORD"
 msgstr "Changer de mot de passe"
 
@@ -795,6 +816,9 @@ msgstr "L'image doit être 1080x1920."
 
 msgid "INFO"
 msgstr "Infos"
+
+msgid "INVALID_EMAIL_FORMAT"
+msgstr "Please enter a valid email address."
 
 msgid "INVALID_OR_MISSING_CHATROOMID"
 msgstr "ID de salon de discussion invalide ou manquant."
@@ -993,6 +1017,16 @@ msgstr "Nouveau"
 
 msgid "NEWS"
 msgstr "Infos"
+
+msgid "NEW_EMAIL"
+msgstr "New Email Address"
+
+# Form validation messages
+msgid "NEW_EMAIL_FIELD_MISSING"
+msgstr "Please enter a new email address."
+
+msgid "NEW_EMAIL_PLACEHOLDER"
+msgstr "Enter your new email address"
 
 msgid "NEW_FRAME"
 msgstr "Nouveau cadre"
@@ -1402,6 +1436,9 @@ msgstr "Recherche Sudomemo"
 msgid "SEE_MORE"
 msgstr "Voir plus"
 
+msgid "SEND_VERIFICATION_EMAIL"
+msgstr "Send Verification Email"
+
 msgid "SETTINGS"
 msgstr "Paramètres"
 
@@ -1598,6 +1635,9 @@ msgstr "Utilisateur non connecté."
 
 msgid "USER_SETTINGS_BIO_EXPLANATION"
 msgstr "C’est ici que vous pouvez mettre à jour votre bio."
+
+msgid "USER_SETTINGS_CHANGE_EMAIL_EXPLANATION"
+msgstr "Update your email address. A verification email will be sent to your new address."
 
 msgid "USER_SETTINGS_CHANGE_PASSWORD_EXPLANATION"
 msgstr "Vous pouvez modifier le mot de passe de votre compte Sudomemo ici :"

@@ -336,6 +336,9 @@ msgstr "作者"
 msgid "CREATORS_ROOM"
 msgstr "マイルーム"
 
+msgid "CURRENT_EMAIL"
+msgstr "Current Email"
+
 msgid "CURRENT_PROFILE_PICTURE"
 msgstr "Current Profile Picture"
 
@@ -474,6 +477,21 @@ msgstr "文字、数字、記号を40字まで使用できます。"
 
 msgid "EDIT_PLAYLIST"
 msgstr "Edit Playlist"
+
+msgid "EMAIL_ALREADY_IN_USE"
+msgstr "This email address is already in use by another account."
+
+msgid "EMAIL_CHANGE_ALREADY_PENDING"
+msgstr "You already have a pending email change. Please check your email or wait before requesting another change."
+
+msgid "EMAIL_CHANGE_VERIFICATION_SENT"
+msgstr "Verification email sent! Please check your new email address and click the link to confirm the change."
+
+msgid "EMAIL_SAME_AS_CURRENT"
+msgstr "The new email address must be different from your current one."
+
+msgid "EMAIL_SEND_FAILED"
+msgstr "Failed to send verification email. Please try again later."
 
 msgid "EMPTY_TITLE_ALERT_1"
 msgstr "It looks like your Flipnote needs a title!"
@@ -766,6 +784,9 @@ msgstr "Gift a ticket to %s"
 msgid "HATENA_ID"
 msgstr "はてなID"
 
+msgid "HEADER_CHANGE_EMAIL"
+msgstr "Change Email Address"
+
 msgid "HEADER_CHANGE_PASSWORD"
 msgstr "パスワードを変更"
 
@@ -795,6 +816,9 @@ msgstr "Image must be 1080x1920."
 
 msgid "INFO"
 msgstr "情報"
+
+msgid "INVALID_EMAIL_FORMAT"
+msgstr "Please enter a valid email address."
 
 msgid "INVALID_OR_MISSING_CHATROOMID"
 msgstr "Invalid or missing chatroom ID."
@@ -993,6 +1017,16 @@ msgstr "Newest"
 
 msgid "NEWS"
 msgstr "ニュース"
+
+msgid "NEW_EMAIL"
+msgstr "New Email Address"
+
+# Form validation messages
+msgid "NEW_EMAIL_FIELD_MISSING"
+msgstr "Please enter a new email address."
+
+msgid "NEW_EMAIL_PLACEHOLDER"
+msgstr "Enter your new email address"
 
 msgid "NEW_FRAME"
 msgstr "New Frame"
@@ -1402,6 +1436,9 @@ msgstr "検索"
 msgid "SEE_MORE"
 msgstr "もっと見る"
 
+msgid "SEND_VERIFICATION_EMAIL"
+msgstr "Send Verification Email"
+
 msgid "SETTINGS"
 msgstr "設定"
 
@@ -1598,6 +1635,9 @@ msgstr "User not logged in."
 
 msgid "USER_SETTINGS_BIO_EXPLANATION"
 msgstr "This is where you can update your bio."
+
+msgid "USER_SETTINGS_CHANGE_EMAIL_EXPLANATION"
+msgstr "Update your email address. A verification email will be sent to your new address."
 
 msgid "USER_SETTINGS_CHANGE_PASSWORD_EXPLANATION"
 msgstr "You can change the password for your Sudomemo account here:"
