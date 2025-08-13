@@ -57,64 +57,64 @@ msgid "ARTIST"
 msgstr "Artiste"
 
 msgid "AUTOPLAY_BLOCKED_TOOLTIP_HEADER"
-msgstr "Autoplay Blocked"
+msgstr "Lecture auto bloquée"
 
 # Chrome autoplay help message
 msgid "AUTOPLAY_HELP_CHROME"
-msgstr "Click the settings icon in the address bar → Site Settings → Set 'Sound' to \"Allow\"."
+msgstr "Cliquez sur l'icône des paramètres dans la barre d'adresse → Paramètres des sites → Réglez 'Son' sur \"Autoriser\"."
 
 # Edge autoplay help message  
 msgid "AUTOPLAY_HELP_EDGE"
-msgstr "Click the 🔒 padlock in the address bar → Permissions for this site → Set 'Sound' to \"Allow\"."
+msgstr "Cliquez sur le cadenas 🔒 dans la barre d'adresse → Autorisations de ce site → Réglez 'Son' sur \"Autoriser\"."
 
 # Firefox autoplay help message
 msgid "AUTOPLAY_HELP_FIREFOX"
-msgstr "Click the crossed-out play button next to the 🔒 padlock in the address bar → Set 'Autoplay' to \"Allow Audio and Video\"."
+msgstr "Cliquez sur le bouton de lecture barré à côté du cadenas 🔒 dans la barre d'adresse → Réglez 'Lire automatiquement des médias' sur \"Autoriser l'audio et la vidéo\"."
 
 # Generic autoplay help message for unknown browsers
 msgid "AUTOPLAY_HELP_GENERIC"
-msgstr "Autoplay may be blocked. Check your browser's site settings."
+msgstr "La lecture auto est peut-être bloquée. Vérifiez les paramètres de site de votre navigateur"
 
 # Safari autoplay help message
 msgid "AUTOPLAY_HELP_SAFARI"
-msgstr "Right-click the address bar → \"Settings for This Website...\" → Auto-Play → Allow All Auto-Play."
+msgstr "Faites un clic droit sur la barre d'adresse → \"Réglages pour ce site web...\" → Lecture automatique → Toujours autoriser la lecture automatique."
 
 # Back, in the sense of navigation
 msgid "BACK"
 msgstr "Retour"
 
 msgid "BACK_TO_CATEGORIES"
-msgstr "Back to Categories"
+msgstr "Retour vers Catégories"
 
 msgid "BACK_TO_MAIL"
-msgstr "Back to Mail"
+msgstr "Retour vers Courriel"
 
 msgid "BATCH_EDIT_DESCRIPTION_PLACEHOLDER"
 msgstr "Description"
 
 msgid "BATCH_EDIT_DONE_MESSAGE"
-msgstr "All done! No more Flipnotes."
+msgstr "Tout est terminé ! Plus de Flipnote."
 
 msgid "BATCH_EDIT_INSTRUCTIONS"
-msgstr "Give each Flipnote a title and description so viewers can find it! Without them, your Flipnote will get lost in the crowd."
+msgstr "Donnez un titre et une description à chaque Flipnote afin que les utilisateurs puissent la trouver facilement ! Sans cela, votre Flipnote se perdra dans la masse."
 
 msgid "BATCH_EDIT_PAGE_TITLE"
-msgstr "Flipnote Batch Editor"
+msgstr "Éditeur de lot de Flipnotes"
 
 msgid "BATCH_EDIT_PANEL_TITLE"
-msgstr "Flipnote Batch Editor"
+msgstr "Éditeur de lot de Flipnotes"
 
 msgid "BATCH_EDIT_PREVIEW_TIP"
-msgstr "Click the preview to load player"
+msgstr "Cliquez sur l'aperçu pour charger le lecteur."
 
 msgid "BATCH_EDIT_SAVE_AND_NEXT"
-msgstr "Save & Next"
+msgstr "Enregistrer & Suivant"
 
 msgid "BATCH_EDIT_SKIP_BUTTON"
-msgstr "Skip"
+msgstr "Passer"
 
 msgid "BATCH_EDIT_TITLE_PLACEHOLDER"
-msgstr "Title"
+msgstr "Titre"
 
 msgid "BIO"
 msgstr "Bio"
@@ -167,7 +167,7 @@ msgstr "Démarrer l'envoi"
 
 # Discord unlink button text
 msgid "BTN_UNLINK_DISCORD"
-msgstr "Unlink Discord Account"
+msgstr "Dissocier le compte Discord"
 
 msgid "BTN_UPLOAD_FAILED"
 msgstr "Échec de l'envoi..."
@@ -176,10 +176,10 @@ msgid "BY"
 msgstr "de"
 
 msgid "CANCEL"
-msgstr "Cancel"
+msgstr "Annuler"
 
 msgid "CANCEL_PROFILE_PICTURE_CHANGE"
-msgstr "Cancel"
+msgstr "Annuler"
 
 msgid "CANCEL_REPLY"
 msgstr "Cancel"
@@ -197,13 +197,13 @@ msgid "CANNOT_USE_PROFANITY"
 msgstr "Votre message contient du contenu inapproprié."
 
 msgid "CATEGORIES"
-msgstr "Categories"
+msgstr "Catégories"
 
 msgid "CATEGORY"
 msgstr "Catégorie"
 
 msgid "CHANGE_PROFILE_PICTURE"
-msgstr "Change Profile Picture"
+msgstr "Changer la photo de profil"
 
 msgid "CHANNEL"
 msgstr "Chaîne"
@@ -247,13 +247,13 @@ msgid "CHANNEL_PERM_OPEN"
 msgstr "Ouvert"
 
 msgid "CHANNEL_RANKING"
-msgstr "Channel Ranking"
+msgstr "Classement de la chaîne"
 
 msgid "CHANNEL_RANKING_SIDEBAR"
-msgstr "Channel Ranking"
+msgstr "Classement de la chaîne"
 
 msgid "CHANNEL_WATCHING_NOW"
-msgstr "Currently watching %s"
+msgstr "Regarde actuellement %s"
 
 msgid "CHAT"
 msgstr "Chat"
@@ -290,33 +290,33 @@ msgid "COMMENT_FAILED_USER_BANNED"
 msgstr "Vous ne pouvez pas envoyez de messages car vous êtes banni(e)."
 
 msgid "CONFIRMATION_CODE_REQUIRED"
-msgstr "A confirmation code is required."
+msgstr "Un code de confirmation est requis."
 
 # Discord unlink confirmation dialog
 msgid "CONFIRM_DISCORD_UNLINK"
-msgstr "Are you sure you want to unlink your Discord account? This will remove the connection between your Discord and Sudomemo accounts."
+msgstr "Êtes-vous sûr de vouloir dissocier votre compte Discord ? Cela supprimera le lien entre vos comptes Discord et Sudomemo."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
-msgstr "Vous devez confirmez votre adresse de courriel avant de pouvoir poster des messages."
+msgstr "Vous devez confirmer votre adresse de courriel avant de pouvoir poster des messages."
 
 msgid "CONFIRM_PROFILE_PICTURE_CHANGE"
-msgstr "Confirm Profile Picture Change"
+msgstr "Confirmer le changement de photo de profil"
 
 msgid "CONFIRM_PROFILE_PICTURE_CHANGE_ACTION"
-msgstr "Set as Profile Picture"
+msgstr "Définir comme photo de profil"
 
 msgid "CONTENT_POLICY"
 msgstr "Politique de contenu"
 
 msgid "CONTENT_TYPE_comment"
-msgstr "comment"
+msgstr "commentaire"
 
 # Content type strings
 msgid "CONTENT_TYPE_flipnote"
 msgstr "flipnote"
 
 msgid "CONTENT_TYPE_profile"
-msgstr "profile"
+msgstr "profil"
 
 msgid "CONTINUE"
 msgstr "Continuer"
@@ -340,10 +340,10 @@ msgid "CREATORS_ROOM"
 msgstr "Salle de créateur"
 
 msgid "CURRENT_EMAIL"
-msgstr "Current Email"
+msgstr "E-mail actuel"
 
 msgid "CURRENT_PROFILE_PICTURE"
-msgstr "Current Profile Picture"
+msgstr "Photo de profil actuelle"
 
 msgid "CUSTOM_FRAMES"
 msgstr "Cadres personnalisés"
@@ -406,11 +406,11 @@ msgstr "Connecté depuis le %s"
 
 # Discord unlink explanation text
 msgid "DISCORD_UNLINK_EXPLANATION"
-msgstr "You can unlink your Discord account from your Sudomemo account using the button below. This will remove the connection between your accounts."
+msgstr "Vous pouvez dissocier votre compte Discord de votre compte Sudomemo en utilisant le bouton ci-dessous. Cela supprimera le lien entre vos comptes."
 
 # Discord unlink success message
 msgid "DISCORD_UNLINK_SUCCESS"
-msgstr "Discord account unlinked successfully!"
+msgstr "Compte Discord dissocié avec succès !"
 
 msgid "DOWNLOADS"
 msgstr "Sauvegardes"
@@ -482,19 +482,19 @@ msgid "EDIT_PLAYLIST"
 msgstr "Modifier la Playliste"
 
 msgid "EMAIL_ALREADY_IN_USE"
-msgstr "This email address is already in use by another account."
+msgstr "Cette adresse e-mail est déjà utilisée par un autre compte."
 
 msgid "EMAIL_CHANGE_ALREADY_PENDING"
-msgstr "You already have a pending email change. Please check your email or wait before requesting another change."
+msgstr "Vous avez déjà une demande de changement d'adresse e-mail en attente. Veuillez vérifier votre e-mail ou patienter avant de demander un autre changement."
 
 msgid "EMAIL_CHANGE_VERIFICATION_SENT"
-msgstr "Verification email sent! Please check your new email address and click the link to confirm the change."
+msgstr "E-mail de vérification envoyé ! Veuillez vérifier votre nouvelle adresse e-mail et cliquer sur le lien pour confirmer le changement."
 
 msgid "EMAIL_SAME_AS_CURRENT"
-msgstr "The new email address must be different from your current one."
+msgstr "La nouvelle adresse e-mail doit être différente de votre adresse actuelle."
 
 msgid "EMAIL_SEND_FAILED"
-msgstr "Failed to send verification email. Please try again later."
+msgstr "Échec de l'envoi de l'e-mail de vérification. Veuillez réessayer plus tard."
 
 msgid "EMPTY_TITLE_ALERT_1"
 msgstr "On dirait que votre flipnote a besoin d'un titre !"
@@ -525,7 +525,7 @@ msgid "FEED"
 msgstr "Flux"
 
 msgid "FIX_NOW"
-msgstr "Fix now"
+msgstr "Réparer maintenant"
 
 msgid "FLIPNOTE"
 msgstr "Flipnote"
@@ -534,10 +534,10 @@ msgid "FLIPNOTES"
 msgstr "Flipnotes"
 
 msgid "FLIPNOTES_MISSING_INFO"
-msgstr "Some of your Flipnotes are missing key information."
+msgstr "Il manque des informations essentielles à certaines de vos Flipnotes."
 
 msgid "FLIPNOTE_ALREADY_SET_AS_PROFILE_PICTURE"
-msgstr "This Flipnote is already set as your profile picture."
+msgstr "Cette Flipnote est déjà définie comme étant votre photo de profil."
 
 msgid "FLIPNOTE_ARCHIVE_BUTTON_TOGGLE"
 msgstr "Afficher le lien vers le contenu Flipnote Hatena archivé depuis mon profil"
@@ -569,7 +569,7 @@ msgid "FLIPNOTE_LIST_RECALCULATING"
 msgstr "Les classements sont en train d'être recalculés. Essayez de recharger la page dans quelques instants."
 
 msgid "FLIPNOTE_NOT_FOUND_FOR_PROFILE_PICTURE"
-msgstr "Flipnote not found or cannot be used as profile picture."
+msgstr "Flipnote introuvable ou ne pouvant pas être utilisée comme photo de profil."
 
 msgid "FLIPNOTE_SETTINGS_UPLOAD_TO_YOUTUBE"
 msgstr "Vous pouvez envoyer votre Flipnote sur votre chaîne YouTube. Cliquez sur le bouton ci-dessous pour commencer."
@@ -619,79 +619,79 @@ msgstr "FSID"
 
 # Accessibility strings for genealogy navigation and controls
 msgid "GENEALOGY_BACK_TO_FLIPNOTE"
-msgstr "Back to Flipnote"
+msgstr "Retour vers la Flipnote"
 
 # Legend section title
 msgid "GENEALOGY_LEGEND"
-msgstr "Legend"
+msgstr "Légende"
 
 msgid "GENEALOGY_LEGEND_AVAILABLE"
-msgstr "Available Flipnote"
+msgstr "Flipnote disponible"
 
 # Legend items
 msgid "GENEALOGY_LEGEND_CURRENT"
-msgstr "Current Flipnote"
+msgstr "Flipnote actuelle"
 
 msgid "GENEALOGY_LEGEND_DESCRIPTION"
-msgstr "Legend explaining the color coding used in the genealogy tree"
+msgstr "Légende expliquant le code couleur utilisé dans l'arbre généalogique"
 
 msgid "GENEALOGY_LEGEND_REMOVED"
-msgstr "Removed Flipnote"
+msgstr "Flipnote supprimée"
 
 msgid "GENEALOGY_LEGEND_UNKNOWN"
-msgstr "Unknown Flipnote"
+msgstr "Flipnote inconnue"
 
 # Link text for genealogy
 msgid "GENEALOGY_LINK_TEXT"
-msgstr "Genealogy"
+msgstr "Généalogie"
 
 # Meta description for genealogy page
 msgid "GENEALOGY_META_DESCRIPTION"
-msgstr "Genealogy showing the spin-off relationships for this Flipnote"
+msgstr "Généalogie montrant les relations de dérivées pour cette Flipnote"
 
 # Meta description with specific flipnote description
 msgid "GENEALOGY_META_DESCRIPTION_FOR"
-msgstr "Genealogy for: %s"
+msgstr "Généalogie pour : %s"
 
 msgid "GENEALOGY_NAVIGATE_TO"
-msgstr "Navigate to genealogy for this Flipnote"
+msgstr "Naviguer vers la généalogie de cette Flipnote."
 
 # Message when no genealogy data is available
 msgid "GENEALOGY_NO_DATA"
-msgstr "No genealogy data available for this Flipnote."
+msgstr "Aucune donnée généalogique disponible pour cette Flipnote."
 
 # Main genealogy page title
 msgid "GENEALOGY_PAGE_TITLE"
-msgstr "Flipnote Genealogy"
+msgstr "Généalogie de Flipnote"
 
 msgid "GENEALOGY_RESET_VIEW"
-msgstr "Reset view"
+msgstr "Réinitialiser la vue"
 
 # Subtitle text for showing genealogy
 msgid "GENEALOGY_SHOWING_FOR"
-msgstr "Showing genealogy for"
+msgstr "Affichage de la généalogie pour"
 
 msgid "GENEALOGY_THUMBNAIL_ALT"
-msgstr "Thumbnail for Flipnote by %s"
+msgstr "Miniature pour la Flipnote de %s"
 
 msgid "GENEALOGY_UNAVAILABLE_FLIPNOTE"
-msgstr "Unavailable Flipnote"
+msgstr "Flipnote indisponible"
 
 # Link title for viewing genealogy
 msgid "GENEALOGY_VIEW_LINK"
-msgstr "View Genealogy"
+msgstr "Voir la généalogie"
 
 msgid "GENEALOGY_ZOOM_IN"
-msgstr "Zoom in"
+msgstr "Zoomer"
 
 msgid "GENEALOGY_ZOOM_OUT"
-msgstr "Zoom out"
+msgstr "Dézoomer"
 
 msgid "GENRE"
 msgstr "Genre"
 
 msgid "GET_SUPPORT"
-msgstr "Get Support"
+msgstr "Obtenir de l'aide"
 
 msgid "GIFT_ANONYMOUS"
 msgstr "J'aimerais rester anonyme."
@@ -788,7 +788,7 @@ msgid "HATENA_ID"
 msgstr "ID Hatena"
 
 msgid "HEADER_CHANGE_EMAIL"
-msgstr "Change Email Address"
+msgstr "Changer d'adresse e-mail"
 
 msgid "HEADER_CHANGE_PASSWORD"
 msgstr "Changer de mot de passe"
@@ -821,7 +821,7 @@ msgid "INFO"
 msgstr "Infos"
 
 msgid "INVALID_EMAIL_FORMAT"
-msgstr "Please enter a valid email address."
+msgstr "Veuillez saisir une adresse e-mail valide."
 
 msgid "INVALID_OR_MISSING_CHATROOMID"
 msgstr "ID de salon de discussion invalide ou manquant."
@@ -854,10 +854,10 @@ msgid "LINK_REQUIRED_BEFORE_UPLOAD"
 msgstr "Vous devrez lier votre chaîne YouTube avant de pouvoir envoyer votre Flipnote."
 
 msgid "LOGIN_CONFIRM_PLACEHOLDER"
-msgstr "Confirmation code"
+msgstr "Code de confirmation"
 
 msgid "LOGIN_CONFIRM_PROMPT"
-msgstr "A confirmation code has been sent to your email address. Please enter it to continue."
+msgstr "Un code de confirmation a été envoyé à votre adresse e-mail. Veuillez le saisir pour continuer."
 
 # # Ticket types..
 # Login Page
@@ -871,16 +871,16 @@ msgid "LOGIN_PLACEHOLDER_PASSWORD"
 msgstr "Mot de passe"
 
 msgid "LOGIN_PLACEHOLDER_USERNAME"
-msgstr "Email ou Flipnote Studio ID"
+msgstr "E-mail ou ID Flipnote Studio"
 
 msgid "LOGIN_REQUIRED_FOR_PROFILE_PICTURE"
-msgstr "You must be logged in to change your profile picture."
+msgstr "Vous devez être connecté pour changer votre photo de profil."
 
 msgid "LOGIN_REQUIRED_TO_DELETE_CHAT_MESSAGE"
-msgstr "Vous devez vous connectez pour supprimer un message."
+msgstr "Vous devez vous connecter pour supprimer un message."
 
 msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
-msgstr "Vous devez vous connectez pour poster un message."
+msgstr "Vous devez vous connecter pour poster un message."
 
 msgid "LOGIN_SIGNUP_SELECT_DEVICE"
 msgstr "Selectionnez votre appareil"
@@ -1025,20 +1025,20 @@ msgid "NEWS"
 msgstr "Infos"
 
 msgid "NEW_EMAIL"
-msgstr "New Email Address"
+msgstr "Nouvelle adresse e-mail"
 
 # Form validation messages
 msgid "NEW_EMAIL_FIELD_MISSING"
-msgstr "Please enter a new email address."
+msgstr "Veuillez saisir une nouvelle adresse e-mail."
 
 msgid "NEW_EMAIL_PLACEHOLDER"
-msgstr "Enter your new email address"
+msgstr "Saisissez votre nouvelle adresse e-mail"
 
 msgid "NEW_FRAME"
 msgstr "Nouveau cadre"
 
 msgid "NEW_PROFILE_PICTURE"
-msgstr "New Profile Picture"
+msgstr "Nouvelle photo de profil"
 
 msgid "NEXT"
 msgstr "Suivant"
@@ -1053,73 +1053,73 @@ msgid "NONE"
 msgstr "Rien"
 
 msgid "NOTIFICATION_CONTENT_REMOVED"
-msgstr "was removed for violating community guidelines"
+msgstr "a été supprimé pour avoir enfreint les règles de la communauté"
 
 msgid "NOTIFICATION_CONTENT_RESTORED"
-msgstr "has been restored after review"
+msgstr "a été restauré après examen"
 
 msgid "NOTIFICATION_NEW_FRIEND"
-msgstr "added you as a friend"
+msgstr "vous a ajouté comme ami"
 
 # Generic strings
 msgid "NOTIFICATION_NEW_MESSAGE"
-msgstr "New message"
+msgstr "Nouveau message"
 
 msgid "NOTIFICATION_READ_MESSAGE"
-msgstr "Read Message"
+msgstr "Lire le message"
 
 msgid "NOTIFICATION_REPORT_ACCEPTED"
-msgstr "Your report has been accepted and action has been taken"
+msgstr "Votre signalement a été accepté et des mesures ont été prises."
 
 msgid "NOTIFICATION_REPORT_REJECTED"
-msgstr "Your report has been reviewed and no action was taken"
+msgstr "Votre signalement a été examiné et aucune mesure n'a été prise."
 
 msgid "NOTIFICATION_SENT_MESSAGE"
-msgstr "sent you a message"
+msgstr "vous a envoyé un message"
 
 msgid "NOTIFICATION_SPINOFF_CREATED"
-msgstr "created a spinoff of"
+msgstr "a créé une dérivée de"
 
 msgid "NOTIFICATION_UNKNOWN"
-msgstr "New notification"
+msgstr "Nouvelle notification"
 
 # Notification action strings
 msgid "NOTIFICATION_VIEW_DETAILS"
-msgstr "View Details"
+msgstr "Voir les détails"
 
 msgid "NOTIFICATION_VIEW_MESSAGE"
-msgstr "View Message"
+msgstr "Voir le message"
 
 msgid "NOTIFICATION_VIEW_SPINOFF"
-msgstr "View Spinoff"
+msgstr "Voir la dérivée"
 
 msgid "NOTIFICATION_YOUR_FLIPNOTE"
-msgstr "your flipnote"
+msgstr "votre flipnote"
 
 msgid "NOT_ENOUGH_DATA_AVAILABLE"
-msgstr "Not enough data available"
+msgstr "Pas assez de données disponibles"
 
 # Not following anyone message
 msgid "NOT_FOLLOWING_ANYONE_YET"
-msgstr "%s isn't following anyone yet."
+msgstr "%s ne suit encore personne."
 
 msgid "NO_ACTIVE_CHANNELS"
-msgstr "No active channels"
+msgstr "Aucune chaîne active"
 
 msgid "NO_CATEGORIES_AVAILABLE"
-msgstr "No categories are currently available."
+msgstr "Aucune catégorie n'est actuellement disponible."
 
 msgid "NO_CHANNELS_FOUND"
-msgstr "No Channels Found"
+msgstr "Aucune chaîne trouvée"
 
 msgid "NO_CHANNELS_IN_CATEGORY"
-msgstr "There are currently no channels in this category."
+msgstr "Il n'y a actuellement aucune chaîne dans cette catégorie."
 
 msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
 msgstr "Vous ne pouvez pas envoyer de messages lorsque vous êtes muet."
 
 msgid "NO_CONTENT"
-msgstr "No content"
+msgstr "Aucun contenu"
 
 msgid "NO_DESCRIPTION"
 msgstr "Aucune description."
@@ -1129,13 +1129,13 @@ msgstr "Pas d'adresse email enregistrée -- contactez le support de Sudomemo"
 
 # No followers message
 msgid "NO_FOLLOWERS_YET"
-msgstr "%s doesn't have any followers yet."
+msgstr "%s n'a pas encore d'abonné"
 
 msgid "NO_RANKING_DATA"
-msgstr "No Ranking Data Available"
+msgstr "Aucune donnée de classement disponible"
 
 msgid "NO_RECENT_ACTIVITY"
-msgstr "No recent activity"
+msgstr "Aucune activité récente"
 
 msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
 msgstr "Aucun utilisateur trouvé avec cet ID Flipnote Studio ou cet e-mail"
@@ -1144,10 +1144,10 @@ msgid "ONLY_APPLIES_FOR_YOUTUBE_SHORTS"
 msgstr "S'applique seulement pout les YouTube Shorts"
 
 msgid "ONLY_OWNER_CAN_SET_PROFILE_PICTURE"
-msgstr "You can only set your own Flipnotes as your profile picture."
+msgstr "Vous ne pouvez définir que vos propres Flipnotes comme étant votre photo de profil."
 
 msgid "PARENT_FLIPNOTE"
-msgstr "Flipnote parent"
+msgstr "Flipnote parente"
 
 msgid "PASSWORD_RESET_SENT"
 msgstr "Une réinitialisation de mot de passe a été envoyée à l'adresse email enregistrée."
@@ -1172,7 +1172,7 @@ msgid "PERMISSIONS"
 msgstr "Permissions"
 
 msgid "PERSONALIZED_RECOMMENDATIONS"
-msgstr "to see personalized recommendations"
+msgstr "pour voir des recommandations personnalisées"
 
 msgid "PIN"
 msgstr "Épingler"
@@ -1261,7 +1261,7 @@ msgid "PREV"
 msgstr "Préc"
 
 msgid "PREVIOUS"
-msgstr "Previous"
+msgstr "Précédent"
 
 msgid "PRIVACY_POLICY"
 msgstr "Politique de confidentialité"
@@ -1275,19 +1275,19 @@ msgid "PROFILE_DEFAULT_DESCRIPTION"
 msgstr "%s - %s fans, %s Flipnotes sur Sudomemo"
 
 msgid "PROFILE_PICTURE_CHANGED_SUCCESS"
-msgstr "Profile picture changed successfully!"
+msgstr "Photo de profil changée avec succès!"
 
 msgid "PROFILE_PICTURE_CHANGE_CONFIRMATION"
-msgstr "Are you sure you want to set this Flipnote as your profile picture?"
+msgstr "Êtes-vous sûr de vouloir définir cette Flipnote comme photo de profil ?"
 
 msgid "PROFILE_PICTURE_CHANGE_FAILED"
-msgstr "Failed to change profile picture. Please try again."
+msgstr "Échec du changement de photo de profil. Veuillez réessayer."
 
 msgid "PROFILE_PICTURE_DESCRIPTION"
-msgstr "You can set this Flipnote as your profile picture. This will be visible on your profile page and when you comment on other Flipnotes."
+msgstr "Vous pouvez définir cette Flipnote comme photo de profil. Elle sera visible sur votre page de profil et lorsque vous commenterez d'autres Flipnotes."
 
 msgid "PROFILE_PICTURE_SECTION_TITLE"
-msgstr "Profile Picture"
+msgstr "Photo de profil"
 
 # # Recent comments on their Flipnotes
 msgid "PROFILE_RECENT_COMMENTS"
@@ -1302,38 +1302,38 @@ msgid "PROFILE_USER_POSTS_IN"
 msgstr "%s publie dans..."
 
 msgid "PUSH_NOTIFICATIONS_DESCRIPTION"
-msgstr "Receive instant notifications when you get stars, comments, and other interactions on your Flipnotes."
+msgstr "Recevez des notifications instantanées lorsque vous obtenez des étoiles, des commentaires et d'autres interactions sur vos Flipnotes."
 
 msgid "PUSH_NOTIFICATIONS_DISABLED"
-msgstr "Notifications disabled"
+msgstr "Notifications désactivées"
 
 # Notification messages
 msgid "PUSH_NOTIFICATIONS_ENABLED"
-msgstr "Notifications enabled!"
+msgstr "Notifications activées !"
 
 msgid "PUSH_NOTIFICATIONS_NOT_SUPPORTED"
-msgstr "Push notifications not supported in this browser"
+msgstr "Notifications push non prises en charge par ce navigateur."
 
 msgid "PUSH_NOTIFICATIONS_PERMISSION_DENIED"
-msgstr "Push notifications permission was denied. Please enable them in your browser settings."
+msgstr "L'autorisation des notifications push a été refusée. Veuillez les activer dans les paramètres de votre navigateur."
 
 msgid "PUSH_NOTIFICATIONS_SETTINGS_HELP"
-msgstr "This setting is saved per-device. You can enable notifications on multiple devices independently."
+msgstr "Ce paramètre est enregistré pour chaque appareil. Vous pouvez activer les notifications sur plusieurs appareils indépendamment."
 
 msgid "PUSH_NOTIFICATIONS_SETTINGS_LABEL"
-msgstr "Enable notifications on this device"
+msgstr "Activer les notifications sur cet appareil"
 
 # Settings link in notifications dropdown
 msgid "PUSH_NOTIFICATIONS_SETTINGS_LINK"
-msgstr "Settings..."
+msgstr "Paramètres..."
 
 # Button text for enabling notifications in dropdown
 msgid "PUSH_NOTIFICATIONS_SUBSCRIBE"
-msgstr "Enable notifications"
+msgstr "Activer les notifications"
 
 # User settings page - notification section
 msgid "PUSH_NOTIFICATIONS_TITLE"
-msgstr "Push Notifications"
+msgstr "Notifications push"
 
 msgid "RANDOM"
 msgstr "Aléatoire"
@@ -1345,7 +1345,7 @@ msgid "RANK"
 msgstr "Rang"
 
 msgid "RANKING_DATA_DESCRIPTION"
-msgstr "Channel rankings are based on how much representation each channel has in the Flipnote Rankings. Check back later as more content becomes popular!"
+msgstr "Les classements de chaînes sont basés sur la représentation de chaque chaîne dans les classements de Flipnotes. Revenez plus tard lorsque davantage de contenu deviendra populaire !"
 
 msgid "RANK_IMPROVED"
 msgstr "Rang amélioré"
@@ -1360,7 +1360,7 @@ msgid "RECENT"
 msgstr "Récent"
 
 msgid "RECENTLY_VIEWED_CHANNELS"
-msgstr "Recently viewed channels"
+msgstr "Chaînes récemment consultées"
 
 msgid "RECENT_FLIPNOTES"
 msgstr "Flipnotes récentes"
@@ -1402,16 +1402,16 @@ msgid "RESET_PASSWORD_BY_FSID"
 msgstr "Vous pouvez toujours réinitialiser votre mot de passe avec votre ID Flipnote Studio ! Envoyez simplement un message rapide au support Sudomemo et nous vous l'enverrons."
 
 msgid "RESOURCES"
-msgstr "Resources"
+msgstr "Ressources"
 
 msgid "RETURN_TO_FLIPNOTE_EDIT"
-msgstr "Return to Flipnote"
+msgstr "Retourner vers la Flipnote"
 
 msgid "ROOT_FLIPNOTE"
 msgstr "Flipnote racine"
 
 msgid "SAFE_COMMS_ANCHOR_1"
-msgstr "Feel something off? Here's how to spot it"
+msgstr "Vous sentez que quelque chose ne va pas ? Voici comment le repérer."
 
 msgid "SAVE"
 msgstr "Sauvegarder"
@@ -1449,7 +1449,7 @@ msgid "SEE_MORE"
 msgstr "Voir plus"
 
 msgid "SEND_VERIFICATION_EMAIL"
-msgstr "Send Verification Email"
+msgstr "Envoyer un e-mail de vérification"
 
 msgid "SETTINGS"
 msgstr "Paramètres"
@@ -1563,7 +1563,7 @@ msgid "SUDOMEMO_USER"
 msgstr "Util. Sudomemo"
 
 msgid "SUPPORT_US"
-msgstr "Support Us"
+msgstr "Soutenez-nous"
 
 msgid "TERMS_OF_USE"
 msgstr "Conditions d'utilisation"
@@ -1649,7 +1649,7 @@ msgid "USER_SETTINGS_BIO_EXPLANATION"
 msgstr "C’est ici que vous pouvez mettre à jour votre bio."
 
 msgid "USER_SETTINGS_CHANGE_EMAIL_EXPLANATION"
-msgstr "Update your email address. A verification email will be sent to your new address."
+msgstr "Mettez à jour votre adresse e-mail. Un e-mail de vérification sera envoyé à votre nouvelle adresse."
 
 msgid "USER_SETTINGS_CHANGE_PASSWORD_EXPLANATION"
 msgstr "Vous pouvez modifier le mot de passe de votre compte Sudomemo ici :"
@@ -1670,7 +1670,7 @@ msgid "VERIFIED_USER"
 msgstr "Utilisateur verifié"
 
 msgid "VERIFY_CODE"
-msgstr "Verify"
+msgstr "Vérifier"
 
 msgid "VIEWPAGE_ADD_MODERATOR_COMMENT"
 msgstr "Ajouter un commentaire de modérateur"
@@ -1718,37 +1718,37 @@ msgid "VIEWS"
 msgstr "Vues"
 
 msgid "VIEW_FLIPNOTES_BY_CATEGORY"
-msgstr "View Flipnotes by category"
+msgstr "Voir les Flipnotes par catégorie"
 
 msgid "VIEW_ON_SUDOMEMO"
 msgstr "Voir sur Sudomemo"
 
 msgid "VIEW_YOUR_PROFILE"
-msgstr "View Your Profile"
+msgstr "Voir votre profil"
 
 msgid "VISIBILITY"
-msgstr "Visibility"
+msgstr "Visibilité"
 
 msgid "VISIBILITY_DESCRIPTION_PRIVATE"
-msgstr "Only you can view this Flipnote. It won't appear anywhere else."
+msgstr "Vous seul pouvez voir cette Flipnote. Elle n'apparaîtra nulle part ailleurs."
 
 msgid "VISIBILITY_DESCRIPTION_PUBLIC"
-msgstr "Anyone can view this Flipnote on your profile and in search results."
+msgstr "N'importe qui peut voir cette Flipnote sur votre profil et dans les résultats de recherche."
 
 msgid "VISIBILITY_DESCRIPTION_UNLISTED"
-msgstr "Only people with a direct link can view this Flipnote. It won't appear publicly."
+msgstr "Seules les personnes ayant un lien direct peuvent voir cette Flipnote. Elle n'apparaîtra pas publiquement."
 
 msgid "VISIBILITY_PRIVATE"
-msgstr "Private"
+msgstr "Privée"
 
 msgid "VISIBILITY_PUBLIC"
-msgstr "Public"
+msgstr "Publique"
 
 msgid "VISIBILITY_SETTINGS"
-msgstr "Visibility Settings"
+msgstr "Paramètres de visibilité"
 
 msgid "VISIBILITY_UNLISTED"
-msgstr "Unlisted"
+msgstr "Non répertoriée"
 
 msgid "WATCH_HISTORY"
 msgstr "Historique de visionnage"
@@ -1810,10 +1810,10 @@ msgid "X_IN_HOT_FLIPNOTES"
 msgstr "#%d dans Flipnotes tendance"
 
 msgid "X_IN_POPULAR_FLIPNOTES"
-msgstr "#%d in Populaire ce mois"
+msgstr "#%d dans Populaire ce mois"
 
 msgid "X_IN_POPULAR_RANK_BADGE"
-msgstr "#%s in Popular"
+msgstr "#%s dans Populaire"
 
 msgid "X_USERS"
 msgstr "%d utilisateur(s)"
