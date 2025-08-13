@@ -4,136 +4,136 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "ADDED_TO_NEW_PLAYLIST"
-msgstr "Added to new Playlist"
+msgstr "Aggiunto a una nuova Playlist"
 
 msgid "ADDED_TO_PLAYLIST"
-msgstr "Added to Playlist"
+msgstr "Aggiunto alla Playlist"
 
 msgid "BACK_TO_CREATORS_ROOM"
-msgstr "Back to Creator's Room"
+msgstr "Torna alla Stanza del Creatore"
 
 msgid "BACK_TO_FLIPNOTE"
-msgstr "Back to Flipnote"
+msgstr "Torna al Flipnote"
 
 msgid "CREATOR"
-msgstr "Creator:"
+msgstr "Creatore:"
 
 msgid "DELETE_PLAYLIST"
-msgstr "Delete Playlist"
+msgstr "Elimina Playlist"
 
 msgid "DELETE_PLAYLIST_CONFIRM_1"
-msgstr "Are you sure you want to delete this Playlist?"
+msgstr "Sei sicuro di voler eliminare questa Playlist?"
 
 msgid "DELETE_PLAYLIST_CONFIRM_2"
-msgstr "This action is irreversible!"
+msgstr "Questa azione non si può annullare!"
 
 msgid "DELETE_PLAYLIST_CONFIRM_NO"
 msgstr "No"
 
 msgid "DELETE_PLAYLIST_CONFIRM_YES"
-msgstr "Yes"
+msgstr "Sì"
 
 msgid "ERROR_AUTHOR_IS_BLOCKED"
-msgstr "You cannot perform this action with this Flipnote because you have blocked the author."
+msgstr "Non puoi eseguire questa azione con questo Flipnote perchè hai bloccato l'autore."
 
 msgid "ERROR_AUTHOR_IS_BLOCKED_DESC"
-msgstr "Please unblock the author and try again."
+msgstr "Per favore, sblocca l'autore e riprova."
 
 msgid "ERROR_AUTHOR_IS_BLOCKING"
-msgstr "You cannot perform this action with this Flipnote because the author has blocked you."
+msgstr "Non puoi eseguire questa azione con questo Flipnote perchè l'autore ti ha bloccato."
 
 msgid "ERROR_AUTHOR_IS_BLOCKING_DESC"
-msgstr "Please try again with a different Flipnote."
+msgstr "Per favore, riprova con un Flipnote diverso."
 
 msgid "ERROR_HINT_INCREASE_LIMIT_PLUS"
-msgstr "You could also increase this limit to %s with Sudomemo Plus!"
+msgstr "Puoi anche incrementare questo limite di %s con Sudomemo Plus!"
 
 msgid "ERROR_PROFANE_DESC"
-msgstr "This description violates our Content Policy."
+msgstr "Questa descrizione viola la nostra Policy sul Contenuto."
 
 msgid "ERROR_PROFANE_DESC_DESC"
-msgstr "Please try again with a more appropriate description."
+msgstr "Per favore, riprova con una descrizione più appropriata."
 
 msgid "ERROR_PROFANE_TITLE"
-msgstr "This title violates our Content Policy."
+msgstr "Questo titolo viola la nostra Policy sul Contenuto."
 
 msgid "ERROR_PROFANE_TITLE_DESC"
-msgstr "Please try again with a more appropriate title."
+msgstr "Per favore, riprova con un titolo più appropriato."
 
 msgid "ERROR_TITLE_ADD_TO_PLAYLIST"
-msgstr "Unable to add to Playlist!"
+msgstr "Impossibile aggiungere alla Playlist!"
 
 msgid "ERROR_TITLE_CREATE_NEW_PLAYLIST"
-msgstr "Unable to create new Playlist!"
+msgstr "Impossibile creare una nuova Playlist!"
 
 msgid "ERROR_TITLE_PROFANE_DESC"
-msgstr "Unable to save new description!"
+msgstr "Impossibile salvare una nuova descrizione!"
 
 msgid "ERROR_TITLE_PROFANE_TITLE"
-msgstr "Unable to save new title!"
+msgstr "Impossibile salvare un nuovo titolo!"
 
 msgid "ERROR_TOO_MANY_FLIPNOTES"
-msgstr "You've hit the Flipnotes limit!"
+msgstr "Hai raggiunto il limite di Flipnote!"
 
 msgid "ERROR_TOO_MANY_FLIPNOTES_DESC"
-msgstr "You cannot add another Flipnote to this Playlist as it is at or above the limit of %s Flipnotes. Remove a Flipnote or create a new Playlist, then try again."
+msgstr "Non puoi aggiungere un altro Flipnote a questa Playlist poichè ha raggiunto o superato il limite di %s Flipnote. Rimuovi un Flipnote o crea una nuova Playlist e riprova."
 
 msgid "ERROR_TOO_MANY_PLAYLISTS"
-msgstr "You've hit the Playlists limit!"
+msgstr "Hai raggiunto il limite di Playlist!"
 
 msgid "ERROR_TOO_MANY_PLAYLISTS_DESC"
-msgstr "You cannot create a new Playlist as you are at or above the limit of %s Playlists. Delete a Playlist and try again."
+msgstr "Non puoi creare una nuova Playlist poichè hai raggiunto o superato il limite di %s Playlist. Elimina una Playlist e riprova."
 
 msgid "FLIPNOTES"
-msgstr "Flipnotes"
+msgstr "Flipnote"
 
 msgid "ID"
 msgstr "ID:"
 
 msgid "NEW_PLAYLIST"
-msgstr "Add to new Playlist"
+msgstr "Aggiungi a nuova Playlist"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "Prossima"
 
 msgid "NO_PLAYLISTS_FOUND"
-msgstr "No playlists found"
+msgstr "Nessuna playlist trovata"
 
 msgid "PLAYLIST_DELETED"
-msgstr "Playlist Deleted"
+msgstr "Playlist cancellata"
 
 msgid "PREV"
-msgstr "Previous"
+msgstr "Precedente"
 
 msgid "PRIVATE"
-msgstr "Private"
+msgstr "Privata"
 
 msgid "PUBLIC"
-msgstr "Public"
+msgstr "Pubblica"
 
 msgid "REMOVED_FROM_PLAYLIST"
-msgstr "Removed from Playlist"
+msgstr "Rimossa dalla Playlist"
 
 msgid "SORT_BY_NEWEST"
-msgstr "Latest"
+msgstr "Più recenti"
 
 msgid "SORT_BY_OLDEST"
-msgstr "Oldest"
+msgstr "Meno recenti"
 
 msgid "TAP_TO_ADD_DESCRIPTION"
-msgstr "Tap here to add a description."
+msgstr "Tocca qui per aggiungere una descrizione."
 
 msgid "UNLISTED"
-msgstr "Unlisted"
+msgstr "Non elencata"
 
 msgid "VIEW_FLIPNOTES"
-msgstr "View Flipnotes"
+msgstr "Visualizza Flipnote"
 
 msgid "VIEW_PLAYLIST"
-msgstr "View Playlist"
+msgstr "Visualizza Playlist"
 
 msgid "VISIBILITY"
-msgstr "Visibility:"
+msgstr "Visibilità:"
 
 msgid "VISIBILITY_CHANGED"
-msgstr "Updated visibility of Playlist"
+msgstr "Aggiornata la visibilità della Playlist"

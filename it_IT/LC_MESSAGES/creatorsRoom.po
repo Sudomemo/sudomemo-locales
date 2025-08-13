@@ -46,7 +46,7 @@ msgid "BLOCK_USER"
 msgstr "Blocca utente"
 
 msgid "BROWSE_PLAYLISTS"
-msgstr "Browse Playlists"
+msgstr "Esplora le Playlist"
 
 msgid "CAN_DRAW_TICKET_SUBTEXT"
 msgstr "Puoi generare un ticket regolare! Potresti vincere un premio."
@@ -120,7 +120,7 @@ msgstr "Token di supporto"
 
 # View interstitial button
 msgid "INTERSTITIAL_BUTTON"
-msgstr "Help keep Sudomemo alive!"
+msgstr "Aiuta a mantenere attivo Sudomemo!"
 
 msgid "INVENTORY"
 msgstr "Inventario"
