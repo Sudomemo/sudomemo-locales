@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Language: pt_PT\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "CHANGE_EMAIL_HEADER"
+msgstr "Verify Your New Email Address"
+
+msgid "EMAIL_CHANGE_VERIFICATION_EXPIRED_TEXT"
+msgstr "This email verification link has expired or has already been used. Please request a new email change from your account settings."
+
+msgid "EMAIL_CHANGE_VERIFIED_SUCCESS"
+msgstr "Your email address has been successfully updated. You can now use your new email address to log in."
+
+# Email change verification email
+msgid "EMAIL_SUBJECT"
+msgstr "Verify your new email address - Sudomemo"
+
+# Email change verification page
+msgid "HEADER_VERIFICATION_EXPIRED"
+msgstr "Verification Link Expired"
+
+msgid "RETURN_TO_SETTINGS"
+msgstr "Return to Settings"
+
+msgid "TEXT_EMAIL_CHANGE_PURPOSE"
+msgstr "You've requested to change your email address on Sudomemo. To complete this change, please click the link below to verify your new email address."
+
+msgid "TEXT_HELLO"
+msgstr "Hello!"
+
+msgid "TEXT_URL_PLAIN_DISPLAY"
+msgstr "If the link doesn't work, copy and paste this URL into your browser:"
+
+msgid "TEXT_VERIFICATION_LINK_FORMAT"
+msgstr "Click here to verify your new email address: %s"
+
+msgid "WEB_HEADER_EMAIL_CHANGE_SUCCESS"
+msgstr "Email Address Changed Successfully!"
