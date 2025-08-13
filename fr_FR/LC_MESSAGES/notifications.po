@@ -57,6 +57,9 @@ msgstr " autres personnes"
 msgid "FRAGMENT_OTHER_PERSON_SINGULAR"
 msgstr " autre personne"
 
+msgid "FRAGMENT_REPLIED_TO_YOUR_COMMENT_ON"
+msgstr " replied to your comment on "
+
 msgid "FRAGMENT_REPORT"
 msgstr "signalement"
 
@@ -83,6 +86,3 @@ msgstr "Votre "
 
 msgid "FRAGMENT_YOUR_FLIPNOTE"
 msgstr "votre Flipnote"
-
-msgid "FRAGMENT_REPLIED_TO_YOUR_COMMENT_ON"
-msgstr " replied to your comment on "
