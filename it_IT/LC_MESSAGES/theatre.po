@@ -57,64 +57,64 @@ msgid "ARTIST"
 msgstr "Artista"
 
 msgid "AUTOPLAY_BLOCKED_TOOLTIP_HEADER"
-msgstr "Autoplay Blocked"
+msgstr "Riproduzione automatica bloccata"
 
 # Chrome autoplay help message
 msgid "AUTOPLAY_HELP_CHROME"
-msgstr "Click the settings icon in the address bar → Site Settings → Set 'Sound' to \"Allow\"."
+msgstr "Clicca l'icona delle impostazioni nella barra degli indirizzi → Impostazioni sito → Imposta 'Audio' su \"Consenti\"."
 
 # Edge autoplay help message  
 msgid "AUTOPLAY_HELP_EDGE"
-msgstr "Click the 🔒 padlock in the address bar → Permissions for this site → Set 'Sound' to \"Allow\"."
+msgstr "Clicca il 🔒 lucchetto nella barra degli indirizzi → Permessi per questo sito → Imposta 'Audio' su \"Consenti\"."
 
 # Firefox autoplay help message
 msgid "AUTOPLAY_HELP_FIREFOX"
-msgstr "Click the crossed-out play button next to the 🔒 padlock in the address bar → Set 'Autoplay' to \"Allow Audio and Video\"."
+msgstr "Clicca il pulsante play barrato vicino al 🔒 lucchetto nella barra degli indirizzi → Imposta 'Riproduzione automatica' su \"Consenti audio e video\"."
 
 # Generic autoplay help message for unknown browsers
 msgid "AUTOPLAY_HELP_GENERIC"
-msgstr "Autoplay may be blocked. Check your browser's site settings."
+msgstr "La riproduzione automatica potrebbe essere bloccata. Controlla le impostazioni sito del tuo browser."
 
 # Safari autoplay help message
 msgid "AUTOPLAY_HELP_SAFARI"
-msgstr "Right-click the address bar → \"Settings for This Website...\" → Auto-Play → Allow All Auto-Play."
+msgstr "Clicca col tasto destro sulla barra degli indirizzi → \"Impostazioni per questo sito web...\" → Riproduzione automatica → Consenti tutto."
 
 # Back, in the sense of navigation
 msgid "BACK"
 msgstr "Indietro"
 
 msgid "BACK_TO_CATEGORIES"
-msgstr "Back to Categories"
+msgstr "Ritorna alle categorie"
 
 msgid "BACK_TO_MAIL"
-msgstr "Back to Mail"
+msgstr "Ritorna a mail"
 
 msgid "BATCH_EDIT_DESCRIPTION_PLACEHOLDER"
-msgstr "Description"
+msgstr "Descrizione"
 
 msgid "BATCH_EDIT_DONE_MESSAGE"
-msgstr "All done! No more Flipnotes."
+msgstr "Tutto fatto! Nessun altro Flipnote."
 
 msgid "BATCH_EDIT_INSTRUCTIONS"
-msgstr "Give each Flipnote a title and description so viewers can find it! Without them, your Flipnote will get lost in the crowd."
+msgstr "Dai a ciascun Flipnote un titolo e una descrizione cosicchè gli spettatori possano trovarlo! Senza di quelli, il tuo Flipnote si perderà tra la folla."
 
 msgid "BATCH_EDIT_PAGE_TITLE"
-msgstr "Flipnote Batch Editor"
+msgstr "Editor Multiplo di Flipnote"
 
 msgid "BATCH_EDIT_PANEL_TITLE"
-msgstr "Flipnote Batch Editor"
+msgstr "Editor Multiplo di Flipnote"
 
 msgid "BATCH_EDIT_PREVIEW_TIP"
-msgstr "Click the preview to load player"
+msgstr "Clicca l'anteprima per caricare il player"
 
 msgid "BATCH_EDIT_SAVE_AND_NEXT"
-msgstr "Save & Next"
+msgstr "Salva e Prossimo"
 
 msgid "BATCH_EDIT_SKIP_BUTTON"
-msgstr "Skip"
+msgstr "Salta"
 
 msgid "BATCH_EDIT_TITLE_PLACEHOLDER"
-msgstr "Title"
+msgstr "Titolo"
 
 msgid "BIO"
 msgstr "Biografia"
@@ -167,7 +167,7 @@ msgstr "Inizia il caricamento"
 
 # Discord unlink button text
 msgid "BTN_UNLINK_DISCORD"
-msgstr "Unlink Discord Account"
+msgstr "Scollega account Discord"
 
 msgid "BTN_UPLOAD_FAILED"
 msgstr "Caricamento fallito..."
@@ -176,10 +176,10 @@ msgid "BY"
 msgstr "per"
 
 msgid "CANCEL"
-msgstr "Cancel"
+msgstr "Annulla"
 
 msgid "CANCEL_PROFILE_PICTURE_CHANGE"
-msgstr "Cancel"
+msgstr "Annulla"
 
 msgid "CANNOT_POST_LINKS"
 msgstr "I link non sono consentiti nei messaggi di chat."
@@ -194,7 +194,7 @@ msgid "CANNOT_USE_PROFANITY"
 msgstr "Il tuo messaggio contiene linguaggio inappropriato."
 
 msgid "CATEGORIES"
-msgstr "Categories"
+msgstr "Categorie"
 
 msgid "CATEGORY"
 msgstr "Categoria"
@@ -244,13 +244,13 @@ msgid "CHANNEL_PERM_OPEN"
 msgstr "Aperto"
 
 msgid "CHANNEL_RANKING"
-msgstr "Channel Ranking"
+msgstr "Classifica Canali"
 
 msgid "CHANNEL_RANKING_SIDEBAR"
-msgstr "Channel Ranking"
+msgstr "Classifica Canali"
 
 msgid "CHANNEL_WATCHING_NOW"
-msgstr "Currently watching %s"
+msgstr "Stai guardando %s"
 
 msgid "CHAT"
 msgstr "Chat"
@@ -337,7 +337,7 @@ msgid "CREATORS_ROOM"
 msgstr "Stanza Creatore"
 
 msgid "CURRENT_EMAIL"
-msgstr "Current Email"
+msgstr "Email Attuale"
 
 msgid "CURRENT_PROFILE_PICTURE"
 msgstr "Immagine del profilo attuale"
@@ -479,19 +479,19 @@ msgid "EDIT_PLAYLIST"
 msgstr "Modifica Playlist"
 
 msgid "EMAIL_ALREADY_IN_USE"
-msgstr "This email address is already in use by another account."
+msgstr "Questo indirizzo email è già in uso da un altro account."
 
 msgid "EMAIL_CHANGE_ALREADY_PENDING"
-msgstr "You already have a pending email change. Please check your email or wait before requesting another change."
+msgstr "Hai già un cambio dell'email in sospeso. Per favore, controlla la tua email o aspetta prima di richiedere un altro cambio."
 
 msgid "EMAIL_CHANGE_VERIFICATION_SENT"
-msgstr "Verification email sent! Please check your new email address and click the link to confirm the change."
+msgstr "Email di verifica inviata! Per favore, controlla il tuo nuovo indirizzo email e clicca il link per confermare il cambio."
 
 msgid "EMAIL_SAME_AS_CURRENT"
-msgstr "The new email address must be different from your current one."
+msgstr "Il nuovo indirizzo email deve essere diverso da quello attuale."
 
 msgid "EMAIL_SEND_FAILED"
-msgstr "Failed to send verification email. Please try again later."
+msgstr "Impossibile inviare l'email di verifica. Per favore, riprova più tardi."
 
 msgid "EMPTY_TITLE_ALERT_1"
 msgstr "Sembra che il tuo Flipnote abbia bisogno di un titolo!"
@@ -616,73 +616,73 @@ msgstr "FSID"
 
 # Accessibility strings for genealogy navigation and controls
 msgid "GENEALOGY_BACK_TO_FLIPNOTE"
-msgstr "Back to Flipnote"
+msgstr "Ritorna al Flipnote"
 
 # Legend section title
 msgid "GENEALOGY_LEGEND"
-msgstr "Legend"
+msgstr "Legenda"
 
 msgid "GENEALOGY_LEGEND_AVAILABLE"
-msgstr "Available Flipnote"
+msgstr "Flipnote Disponibile"
 
 # Legend items
 msgid "GENEALOGY_LEGEND_CURRENT"
-msgstr "Current Flipnote"
+msgstr "Flipnote Attuale"
 
 msgid "GENEALOGY_LEGEND_DESCRIPTION"
-msgstr "Legend explaining the color coding used in the genealogy tree"
+msgstr "Legenda che spiega il codice colore utilizzato nell'albero genealogico"
 
 msgid "GENEALOGY_LEGEND_REMOVED"
-msgstr "Removed Flipnote"
+msgstr "Flipnote Rimosso"
 
 msgid "GENEALOGY_LEGEND_UNKNOWN"
-msgstr "Unknown Flipnote"
+msgstr "Flipnote Sconosciuto"
 
 # Link text for genealogy
 msgid "GENEALOGY_LINK_TEXT"
-msgstr "Genealogy"
+msgstr "Genealogia"
 
 # Meta description for genealogy page
 msgid "GENEALOGY_META_DESCRIPTION"
-msgstr "Genealogy showing the spin-off relationships for this Flipnote"
+msgstr "Genealogia che mostra le relazioni con gli spin-off per questo Flipnote"
 
 # Meta description with specific flipnote description
 msgid "GENEALOGY_META_DESCRIPTION_FOR"
-msgstr "Genealogy for: %s"
+msgstr "Genealogia per: %s"
 
 msgid "GENEALOGY_NAVIGATE_TO"
-msgstr "Navigate to genealogy for this Flipnote"
+msgstr "Naviga alla genealogia per questo Flipnote"
 
 # Message when no genealogy data is available
 msgid "GENEALOGY_NO_DATA"
-msgstr "No genealogy data available for this Flipnote."
+msgstr "Nessun dato sulla genealogia disponibile per questo Flipnote."
 
 # Main genealogy page title
 msgid "GENEALOGY_PAGE_TITLE"
-msgstr "Flipnote Genealogy"
+msgstr "Genealogia del Flipnote"
 
 msgid "GENEALOGY_RESET_VIEW"
-msgstr "Reset view"
+msgstr "Ripristina vista"
 
 # Subtitle text for showing genealogy
 msgid "GENEALOGY_SHOWING_FOR"
-msgstr "Showing genealogy for"
+msgstr "Mostrando la genealogia per"
 
 msgid "GENEALOGY_THUMBNAIL_ALT"
-msgstr "Thumbnail for Flipnote by %s"
+msgstr "Miniatura per il Flipnote da %s"
 
 msgid "GENEALOGY_UNAVAILABLE_FLIPNOTE"
-msgstr "Unavailable Flipnote"
+msgstr "Flipnote non disponibile"
 
 # Link title for viewing genealogy
 msgid "GENEALOGY_VIEW_LINK"
-msgstr "View Genealogy"
+msgstr "Visualizza Genealogia"
 
 msgid "GENEALOGY_ZOOM_IN"
-msgstr "Zoom in"
+msgstr "Ingrandisci"
 
 msgid "GENEALOGY_ZOOM_OUT"
-msgstr "Zoom out"
+msgstr "Riduci"
 
 msgid "GENRE"
 msgstr "Genere"
@@ -818,7 +818,7 @@ msgid "INFO"
 msgstr "Info"
 
 msgid "INVALID_EMAIL_FORMAT"
-msgstr "Please enter a valid email address."
+msgstr "Per favore, inserisci un indirizzo email valido."
 
 msgid "INVALID_OR_MISSING_CHATROOMID"
 msgstr "ID chatroom non valido o mancante."
@@ -1019,14 +1019,14 @@ msgid "NEWS"
 msgstr "Notizie"
 
 msgid "NEW_EMAIL"
-msgstr "New Email Address"
+msgstr "Nuovo indirizzo email"
 
 # Form validation messages
 msgid "NEW_EMAIL_FIELD_MISSING"
-msgstr "Please enter a new email address."
+msgstr "Per favore, inserisci un nuovo indirizzo email."
 
 msgid "NEW_EMAIL_PLACEHOLDER"
-msgstr "Enter your new email address"
+msgstr "Inserisci il tuo nuovo indirizzo email"
 
 msgid "NEW_FRAME"
 msgstr "Nuova cornice"
@@ -1091,29 +1091,29 @@ msgid "NOTIFICATION_YOUR_FLIPNOTE"
 msgstr "il tuo flipnote"
 
 msgid "NOT_ENOUGH_DATA_AVAILABLE"
-msgstr "Not enough data available"
+msgstr "Non abbastanza dati disponibili"
 
 # Not following anyone message
 msgid "NOT_FOLLOWING_ANYONE_YET"
 msgstr "%s non sta ancora seguendo nessuno."
 
 msgid "NO_ACTIVE_CHANNELS"
-msgstr "No active channels"
+msgstr "Nessun canale attivo"
 
 msgid "NO_CATEGORIES_AVAILABLE"
-msgstr "No categories are currently available."
+msgstr "Nessuna categoria è attualmente disponibile."
 
 msgid "NO_CHANNELS_FOUND"
-msgstr "No Channels Found"
+msgstr "Nessun canale trovato"
 
 msgid "NO_CHANNELS_IN_CATEGORY"
-msgstr "There are currently no channels in this category."
+msgstr "Attualmente, non ci sono canali in questa categoria."
 
 msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
 msgstr "Non puoi mandare messaggi di chat mentre sei silenziato."
 
 msgid "NO_CONTENT"
-msgstr "No content"
+msgstr "Nessun contenuto"
 
 msgid "NO_DESCRIPTION"
 msgstr "Nessuna descrizione."
@@ -1126,10 +1126,10 @@ msgid "NO_FOLLOWERS_YET"
 msgstr "%s non ha ancora nessun follower."
 
 msgid "NO_RANKING_DATA"
-msgstr "No Ranking Data Available"
+msgstr "Nessun dato sulla classifica disponibile"
 
 msgid "NO_RECENT_ACTIVITY"
-msgstr "No recent activity"
+msgstr "Nessuna attività recente"
 
 msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
 msgstr "Nessun utente trovato con questo ID Flipnote Studio o indirizzo email"
@@ -1166,10 +1166,10 @@ msgid "PERMISSIONS"
 msgstr "Permessi"
 
 msgid "PERSONALIZED_RECOMMENDATIONS"
-msgstr "to see personalized recommendations"
+msgstr "per vedere consigli personalizzati"
 
 msgid "PIN"
-msgstr "Pin"
+msgstr "Fissa"
 
 msgid "PINNED_COMMENT"
 msgstr "Commento fissato"
@@ -1339,7 +1339,7 @@ msgid "RANK"
 msgstr "Posizione"
 
 msgid "RANKING_DATA_DESCRIPTION"
-msgstr "Channel rankings are based on how much representation each channel has in the Flipnote Rankings. Check back later as more content becomes popular!"
+msgstr "Le classifiche dei canali sono basate su quanta rappresentazione ha ciascun canale nelle classifiche dei Flipnote. Ricontrolla più tardi quando più contenuti diventeranno popolari!"
 
 msgid "RANK_IMPROVED"
 msgstr "Posizione migliorata"
@@ -1354,7 +1354,7 @@ msgid "RECENT"
 msgstr "Recente"
 
 msgid "RECENTLY_VIEWED_CHANNELS"
-msgstr "Recently viewed channels"
+msgstr "Canali visualizzati di recente"
 
 msgid "RECENT_FLIPNOTES"
 msgstr "Flipnote recenti"
@@ -1437,7 +1437,7 @@ msgid "SEE_MORE"
 msgstr "Vedi altro"
 
 msgid "SEND_VERIFICATION_EMAIL"
-msgstr "Send Verification Email"
+msgstr "Invia email di verifica"
 
 msgid "SETTINGS"
 msgstr "Impostazioni"
@@ -1637,7 +1637,7 @@ msgid "USER_SETTINGS_BIO_EXPLANATION"
 msgstr "Qui è dove puoi aggiornare la tua biografia."
 
 msgid "USER_SETTINGS_CHANGE_EMAIL_EXPLANATION"
-msgstr "Update your email address. A verification email will be sent to your new address."
+msgstr "Aggiorna il tuo indirizzo email. Un email di verifica verrà inviata al tuo nuovo indirizzo."
 
 msgid "USER_SETTINGS_CHANGE_PASSWORD_EXPLANATION"
 msgstr "Puoi modificare la password del tuo account Sudomemo qui:"
@@ -1706,7 +1706,7 @@ msgid "VIEWS"
 msgstr "Visualizzazioni"
 
 msgid "VIEW_FLIPNOTES_BY_CATEGORY"
-msgstr "View Flipnotes by category"
+msgstr "Visualizza Flipnote per categoria"
 
 msgid "VIEW_ON_SUDOMEMO"
 msgstr "Guarda su Sudomemo"
@@ -1801,7 +1801,7 @@ msgid "X_IN_POPULAR_FLIPNOTES"
 msgstr "#%d in Popolari questo mese"
 
 msgid "X_IN_POPULAR_RANK_BADGE"
-msgstr "#%s in Popular"
+msgstr "#%s in Popolari"
 
 msgid "X_USERS"
 msgstr "%d user(s)"
