@@ -7,79 +7,79 @@ msgid "FLIPNOTE"
 msgstr "Flipnote"
 
 msgid "FRAGMENT_ADDED"
-msgstr " added "
+msgstr " a ajouté "
 
 msgid "FRAGMENT_AND"
-msgstr " and "
+msgstr " et "
 
 msgid "FRAGMENT_A_STAR"
-msgstr "a Star"
+msgstr "une étoile"
 
 msgid "FRAGMENT_COMMA"
 msgstr ", "
 
 msgid "FRAGMENT_COMMA_AND"
-msgstr ", and "
+msgstr ", et "
 
 msgid "FRAGMENT_COMMENTED_ON"
-msgstr " commented on "
+msgstr " a commenté sur "
 
 msgid "FRAGMENT_CONTENT"
-msgstr "content"
+msgstr "contenu"
 
 msgid "FRAGMENT_CREATED_A"
-msgstr " created a "
+msgstr " a créé un "
 
 msgid "FRAGMENT_FOLLOWED_YOU"
-msgstr " followed you"
+msgstr " vous a suivi"
 
 msgid "FRAGMENT_HAS_BEEN_RESTORED"
-msgstr " has been restored after review"
+msgstr " a été restauré après examen"
 
 msgid "FRAGMENT_HAS_BEEN_REVIEWED"
-msgstr " has been reviewed"
+msgstr " a été examiné"
 
 msgid "FRAGMENT_INTERACTED_WITH_CONTENT"
-msgstr "interacted with your content"
+msgstr "a interagi avec votre contenu"
 
 msgid "FRAGMENT_MESSAGE"
 msgstr "message"
 
 msgid "FRAGMENT_NEW_FLIPNOTE_FRIEND"
-msgstr "You have a new Flipnote Friend: "
+msgstr "Vous avez un nouvel ami Flipnote : "
 
 msgid "FRAGMENT_OF"
-msgstr " of "
+msgstr " de "
 
 msgid "FRAGMENT_OTHER_PEOPLE_PLURAL"
-msgstr " other people"
+msgstr " autres personnes"
 
 msgid "FRAGMENT_OTHER_PERSON_SINGULAR"
-msgstr " other person"
+msgstr " autre personne"
 
 msgid "FRAGMENT_REPORT"
 msgstr "report"
 
 msgid "FRAGMENT_SENT_MESSAGE_DEFAULT"
-msgstr "sent you a "
+msgstr "vous a envoyé un "
 
 msgid "FRAGMENT_SENT_YOU_A"
-msgstr " sent you a "
+msgstr " vous a envoyé un "
 
 msgid "FRAGMENT_SPINOFF"
-msgstr "Spin-off"
+msgstr "Dérivée"
 
 msgid "FRAGMENT_STARS"
-msgstr "Stars"
+msgstr "Étoiles"
 
 msgid "FRAGMENT_TO_YOUR"
-msgstr " to your "
+msgstr " à votre "
 
 msgid "FRAGMENT_WAS_REMOVED_POLICY"
-msgstr " was removed for violating our Content Policy"
+msgstr " a été supprimé pour avoir enfreint notre Politique de contenu"
 
 msgid "FRAGMENT_YOUR"
-msgstr "Your "
+msgstr "Votre "
 
 msgid "FRAGMENT_YOUR_FLIPNOTE"
-msgstr "your Flipnote"
+msgstr "votre Flipnote"
