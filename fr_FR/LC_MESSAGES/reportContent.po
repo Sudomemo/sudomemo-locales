@@ -4,7 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CANCEL_BUTTON"
-msgstr "Cancel"
+msgstr "Annuler"
 
 msgid "CATEGORY_DESC_drugs"
 msgstr "Abus de substances, toxicomanie ou références à la drogue"
@@ -98,7 +98,7 @@ msgstr "Catégorie de violation :"
 
 # Pineapples1337's chat message
 msgid "ITEM_TITLE_FORMAT"
-msgstr "%s's %s"
+msgstr "%s - %s"
 
 msgid "LIMIT_ONE_REPORT"
 msgstr "À noter : Vous ne pouvez signaler ce contenu qu'une seule fois. Les signalements additionnels ne seront pas enregistrés, donc merci de mettre vos informations dans un seul message."
@@ -119,16 +119,16 @@ msgid "REPORT_CATEGORY_LABEL"
 msgstr "Category"
 
 msgid "REPORT_CHAT_MESSAGE"
-msgstr "Report chat message"
+msgstr "Signaler le message de chat"
 
 msgid "REPORT_COMMENT"
-msgstr "Report comment"
+msgstr "Signaler le commentaire"
 
 msgid "REPORT_DETAILS_LABEL"
-msgstr "Details"
+msgstr "Détails"
 
 msgid "REPORT_DETAILS_PLACEHOLDER"
-msgstr "Describe the issue…"
+msgstr "Décrivez le problème…"
 
 msgid "REPORT_EXPLANATION_FAILED"
 msgstr "Une erreur est survenue pendant l'envoi du signalement."
@@ -137,28 +137,28 @@ msgid "REPORT_FAILED_USER_BANNED"
 msgstr "L'utilisation de votre compte Sudomemo a été restreinte."
 
 msgid "REPORT_FLIPNOTE"
-msgstr "Report Flipnote"
+msgstr "Signaler la Flipnote"
 
 msgid "REPORT_FLIPNOTE_HEADER"
-msgstr "Report this Flipnote"
+msgstr "Signaler cette Flipnote"
 
 msgid "REPORT_INSTRUCTIONS"
 msgstr "Merci d'écrire une courte description pour expliquer pourquoi vous pensez que ce contenu viole les conditions d'utilisation de Sudomemo. Une fois que vous l'avez envoyée, appuyez sur Retour pour retourner à la Flipnote."
 
 msgid "REPORT_NETWORK_ERROR"
-msgstr "Network error—please check your connection and try again."
+msgstr "Erreur réseau — Veuillez vérifier votre connexion et réessayer."
 
 msgid "REPORT_SUCCESS_MESSAGE"
-msgstr "Thank you—your report has been submitted."
+msgstr "Merci — Votre signalement a été envoyé."
 
 msgid "REPORT_UNEXPECTED_ERROR"
-msgstr "An unexpected error occurred. Please try again later."
+msgstr "Une erreur inattendue s'est produite. Veuillez réessayer plus tard."
 
 msgid "RESTRICTED_CANCEL"
 msgstr "Vous ne pouvez pas signaler de contenu si votre compte a été restreint, de quelque manière que ce soit."
 
 msgid "SUBMIT_REPORT_BUTTON"
-msgstr "Submit Report"
+msgstr "Envoyer le signalement"
 
 msgid "THANKS_FOR_REPORTING"
 msgstr "Nous avons reçu votre signalement. Merci de nous aider à faire de Sudomemo un meilleur endroit !"
