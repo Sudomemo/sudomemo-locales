@@ -3,6 +3,9 @@ msgstr ""
 "Language: sv_SE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "CANCEL"
+msgstr "Cancel"
+
 msgid "COMMENT_FAILED_USER_BANNED"
 msgstr "Du har blivit förbjuden från att använda Sudomemo."
 
@@ -53,6 +56,9 @@ msgstr "Denna Flipnote har inga kommentarer än."
 
 msgid "PAGE_FORMAT"
 msgstr "Sida %d"
+
+msgid "REPLYING_TO_X"
+msgstr "Replying to %s"
 
 msgid "SUDOMEMO_USER"
 msgstr "Sudomemo Användare"

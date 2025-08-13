@@ -3,6 +3,9 @@ msgstr ""
 "Language: nl_NL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "CANCEL"
+msgstr "Cancel"
+
 msgid "COMMENT_FAILED_USER_BANNED"
 msgstr "Je toegang tot Sudomemo is vergrendeld."
 
@@ -53,6 +56,9 @@ msgstr "Deze Flipnote heeft nog geen reacties."
 
 msgid "PAGE_FORMAT"
 msgstr "Pagina %d"
+
+msgid "REPLYING_TO_X"
+msgstr "Replying to %s"
 
 msgid "SUDOMEMO_USER"
 msgstr "Sudomemo Gebruiker"
