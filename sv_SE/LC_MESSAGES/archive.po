@@ -17,10 +17,10 @@ msgid "BAD_METADATA_WARNING"
 msgstr "Varning: Flipnotens metadata är skadad. Du kan fortfarande titta på den, men rekommenderar inte att öppna den i Flipnote Studio 3D."
 
 msgid "BLUE_STARS"
-msgstr "Blue Stars"
+msgstr "Blå Stars"
 
 msgid "BROWSE"
-msgstr "Browse"
+msgstr "Sök"
 
 msgid "CONTACT"
 msgstr "Kontakt"
@@ -50,7 +50,7 @@ msgid "FEATURED_FLIPNOTES"
 msgstr "Featured Flipnotes"
 
 msgid "FEATURED_FLIPNOTES_DESC"
-msgstr "A collection of famous or noteworthy Flipnotes, curated by our team"
+msgstr "En samling av kända och sevärda Flipnotes, kurerat av vårt team"
 
 msgid "FLIPNOTES"
 msgstr "Flipnotes"
@@ -125,7 +125,7 @@ msgstr "Sidan du letade efter kunde inte hittas."
 
 # Error 404
 msgid "HTTP_ERROR_FORMAT"
-msgstr "Error %s"
+msgstr "Felkod %s"
 
 # May 17th, 1996
 msgid "MONTH_DAY_YEAR_FORMAT"
@@ -163,16 +163,16 @@ msgid "ORIGINAL_NOT_FOUND"
 msgstr "Originalet kunde inte hittas"
 
 msgid "PARENT_FLIPNOTE"
-msgstr "Parent Flipnote"
+msgstr "Föräldra-Flipnote"
 
 msgid "POPULAR"
-msgstr "Popular"
+msgstr "Populär"
 
 msgid "POPULAR_FLIPNOTES"
-msgstr "Popular Flipnotes"
+msgstr "Populära Flipnotes"
 
 msgid "POPULAR_FLIPNOTES_DESC"
-msgstr "Flipnotes that have received a lot of attention from archive visitors"
+msgstr "Flipnotes som fått mycket uppmärksamhet från arkivets besökare"
 
 msgid "PRESS"
 msgstr "Tryck"
@@ -208,7 +208,7 @@ msgid "REGION_JAPAN"
 msgstr "Japan"
 
 msgid "ROOT_FLIPNOTE"
-msgstr "Root Flipnote"
+msgstr "Rot Flipnote"
 
 msgid "SEARCH"
 msgstr "Sök"
@@ -235,7 +235,7 @@ msgid "SONG_GENRE"
 msgstr "Genre"
 
 msgid "SONG_LABEL"
-msgstr "Label"
+msgstr "Skivbolag"
 
 # Referring to the year a song was released
 msgid "SONG_RELEASED"

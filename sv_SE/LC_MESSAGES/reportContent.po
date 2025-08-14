@@ -4,7 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CANCEL_BUTTON"
-msgstr "Cancel"
+msgstr "Avbryt"
 
 msgid "CATEGORY_DESC_drugs"
 msgstr "Substans eller drog referencer"
@@ -116,19 +116,19 @@ msgid "NO_BLANK_REPORTS"
 msgstr "Du kan inte skicka en tom rapport."
 
 msgid "REPORT_CATEGORY_LABEL"
-msgstr "Category"
+msgstr "Kategori"
 
 msgid "REPORT_CHAT_MESSAGE"
-msgstr "Report chat message"
+msgstr "Rapportera chatt-meddelande"
 
 msgid "REPORT_COMMENT"
-msgstr "Report comment"
+msgstr "Rapportera kommentar"
 
 msgid "REPORT_DETAILS_LABEL"
-msgstr "Details"
+msgstr "Detaljer"
 
 msgid "REPORT_DETAILS_PLACEHOLDER"
-msgstr "Describe the issue…"
+msgstr "Förklara problemet…"
 
 msgid "REPORT_EXPLANATION_FAILED"
 msgstr "Ett fel uppstod när rapporten skickades in."
@@ -137,28 +137,28 @@ msgid "REPORT_FAILED_USER_BANNED"
 msgstr "Rapportering misslyckades: du är förbjuden från Sudomemo."
 
 msgid "REPORT_FLIPNOTE"
-msgstr "Report Flipnote"
+msgstr "Rapportera Flipnote"
 
 msgid "REPORT_FLIPNOTE_HEADER"
-msgstr "Report this Flipnote"
+msgstr "Rapportera denna Flipnote"
 
 msgid "REPORT_INSTRUCTIONS"
 msgstr "Var god skriv en kort beskrivning om varför du anser att innehållet bryter mot Sudomemos användarvillkor. När du har skickat det, tryck på Tillbaka för att återgå till Flipnote."
 
 msgid "REPORT_NETWORK_ERROR"
-msgstr "Network error—please check your connection and try again."
+msgstr "Nätverks fel, snälla kolla din uppkoppling och försök igen."
 
 msgid "REPORT_SUCCESS_MESSAGE"
-msgstr "Thank you—your report has been submitted."
+msgstr "Tackar, din rapport har skickats in."
 
 msgid "REPORT_UNEXPECTED_ERROR"
-msgstr "An unexpected error occurred. Please try again later."
+msgstr "Ett oväntat fel uppstod. Snälla försök igen senare."
 
 msgid "RESTRICTED_CANCEL"
 msgstr "Du får inte rapportera innehåll om du har blivit förhindrad från att interagera med Sudomemo på något sätt."
 
 msgid "SUBMIT_REPORT_BUTTON"
-msgstr "Submit Report"
+msgstr "Skicka in rapport"
 
 msgid "THANKS_FOR_REPORTING"
 msgstr "Vi har mottagit din rapport, tack för att du hjälper till för ett tryggare Sudomemo!"
