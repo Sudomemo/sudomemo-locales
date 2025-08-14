@@ -1,59 +1,59 @@
 msgid "ALL_SERVICES_OPERATIONAL"
-msgstr "All services are operational."
+msgstr "Alla tjänster är fungerande."
 
 msgid "ALTERNATE_DNS"
-msgstr "If you run into issues, try switching to our temporary backup DNS instead: %s"
+msgstr "Om du har problem, byt då till våran tillfälliga backup-DNS istället: %s"
 
 msgid "APOLOGIES_FOR_INCONVENIENCE"
-msgstr "We apologize for any inconvenience this may cause."
+msgstr "Vi ursäktar för potensiella störningar."
 
 msgid "AUX_SERVICES"
-msgstr "Auxiliary Services"
+msgstr "Ytterliggare tjänster"
 
 msgid "DNS_SERVER"
 msgstr "DNS Server"
 
 msgid "ESTIMATED_RESOLUTION"
-msgstr "Estimated Resolution Time: %s"
+msgstr "Estimerad Resolution Tid: %s"
 
 msgid "INVESTIGATING"
-msgstr "We are currently investigating the issue"
+msgstr "Vi håller på med att utreda problemet"
 
 msgid "LAST_UPDATED"
-msgstr "Last updated on %s"
+msgstr "Sist uppdaterad %s"
 
 msgid "MAINTENANCE_COMPLETED"
-msgstr "Maintenance Completed"
+msgstr "Uppehåll klargjort"
 
 msgid "MAINTENANCE_IN_PROGRESS"
-msgstr "Maintenance In Progress"
+msgstr "Uppehåll är pågående"
 
 msgid "MAJOR_ISSUES"
-msgstr "Major Issues"
+msgstr "Stora problem"
 
 msgid "MINOR_ISSUES"
-msgstr "Minor Issues"
+msgstr "Små problem"
 
 msgid "OUTAGE"
-msgstr "Outage"
+msgstr "Avbrott"
 
 msgid "POSSIBLE_ISSUES"
-msgstr "Possible Issues"
+msgstr "Möjliga problem"
 
 msgid "SCHEDULED_MAINTENANCE"
-msgstr "Scheduled Maintenance"
+msgstr "Planerat uppehåll"
 
 msgid "SERVICE_STATUS"
-msgstr "Service Status"
+msgstr "Tjänst Status"
 
 msgid "SUDOMEMO_DEGRADED_PERFORMANCE"
-msgstr "Sudomemo is currently experiencing degraded performance"
+msgstr "Sudomemo har för tillfället problem med prestanda"
 
 msgid "UNDERGOING_NETWORK_ISSUES"
-msgstr "Currently undergoing network routing issues"
+msgstr "Pågående problem med nätverkets routing"
 
 msgid "WEATHERING_ATTACK"
-msgstr "Currently weathering a Denial of Service (DoS) attack"
+msgstr "För tillfället under en Denial of Service (DoS) attack"
 
 msgid "WEBSITE"
-msgstr "Website"
+msgstr "Hemsida"

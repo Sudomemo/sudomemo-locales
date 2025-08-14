@@ -7,40 +7,40 @@ msgid "APPLICATION_TOKEN"
 msgstr "App Token"
 
 msgid "APPLICATION_TOKEN_INFO"
-msgstr "Here is your App Token, which can be used for certain apps that require it. Don't share this token with anyone."
+msgstr "Här är din App Token, vilket kan användas för appar som behöver den. Dela den inte med någon."
 
 msgid "APPLICATION_TOKEN_INFO_2"
-msgstr "This token cannot be used to request support."
+msgstr "Denna Token kan inte användas för kundservice."
 
 msgid "DO_NOT_SHARE_TOKEN"
-msgstr "Don't share this token with anyone. If someone reaches out to you claiming to be Sudomemo Support and asks you for this token, don't give it to them."
+msgstr "Dela inte denna Token men någon. Ifall någon kontaktar dig som om de vore Sudomemo Support och ber om den, säg ifrån."
 
 msgid "GET_APPLICATION_TOKEN"
-msgstr "Get App Token"
+msgstr "Se App Token"
 
 msgid "GET_SUPPORT_TOKEN"
-msgstr "Get Support Token"
+msgstr "Se Support Token"
 
 msgid "HATENA_ID_VERIFICATION"
-msgstr "Hatena ID Verification"
+msgstr "Hatena ID Verifiering"
 
 msgid "HATENA_ID_VERIFICATION_INTRO"
-msgstr "This tool allows you to verify ownership of a Hatena ID when working with Sudomemo Support."
+msgstr "Detta verktig låter dig hantera ägaren av ett Hatena ID när du jobbar med Sudomemo kundservice."
 
 msgid "HATENA_ID_VERIFICATION_INTRO_2"
-msgstr "You will be prompted to log in to your Hatena Account, after which you will receive a Support Token."
+msgstr "Du kommer blir förfrågad att logga in på ditt Hatena konto, där du sedan får en Support Token."
 
 msgid "LOGIN_FIRST_BEFORE_SUPPORT_TOKEN"
-msgstr "It looks like you already have an account. Please log in first before requesting a Support Token."
+msgstr "Ser ut some du redan har ett konto. Snälla logga in först innan du ber om en Support Token."
 
 msgid "SUPPORT_TOKEN"
 msgstr "Support Token"
 
 msgid "SUPPORT_TOKEN_INFO"
-msgstr "Here is your Support Token, which you were asked for when you contacted Sudomemo Support."
+msgstr "Här är din Support Token, som du var efterfrågad efter när du kontaktade Sudomemo kundservice."
 
 msgid "YOU_ARE_REQUESTING_APPLICATION_TOKEN"
-msgstr "You are now requesting an App Token, which is used for certain apps that require it."
+msgstr "Du efterfrågar nu en App Token, som används av särskilda appar."
 
 msgid "YOU_ARE_REQUESTING_SUPPORT_TOKEN"
-msgstr "You are now requesting a Support Token, which is used to verify your identity when you contact Sudomemo Support."
+msgstr "Du efterfrågar nu en Support Token, vilket används för att verifiera din identitet när du kontaktar Sudomemo Kundservice."
