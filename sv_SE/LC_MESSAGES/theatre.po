@@ -709,7 +709,7 @@ msgid "GIFT_CONFIRM_YES"
 msgstr "Ja"
 
 msgid "GIFT_ERROR_ALREADY_REDEEMED"
-msgstr "Denna biljett har redan blivit utlöst."
+msgstr "Denna biljett har redan blivit dragen."
 
 msgid "GIFT_ERROR_BLOCKING_RECIPIENT"
 msgstr "Du kan inte ge bort biljetten till denna person då du har blockerat dem."
@@ -1302,38 +1302,38 @@ msgid "PROFILE_USER_POSTS_IN"
 msgstr "%s inlägg i..."
 
 msgid "PUSH_NOTIFICATIONS_DESCRIPTION"
-msgstr "Receive instant notifications when you get stars, comments, and other interactions on your Flipnotes."
+msgstr "Få notiser om när dina flipnotes får Stars, kommentarer, eller andra interaktioner."
 
 msgid "PUSH_NOTIFICATIONS_DISABLED"
-msgstr "Notifications disabled"
+msgstr "Notiser avstängda"
 
 # Notification messages
 msgid "PUSH_NOTIFICATIONS_ENABLED"
-msgstr "Notifications enabled!"
+msgstr "Notiser aktiverade!"
 
 msgid "PUSH_NOTIFICATIONS_NOT_SUPPORTED"
-msgstr "Push notifications not supported in this browser"
+msgstr "Denna webbläsaren stödjer inte notiser"
 
 msgid "PUSH_NOTIFICATIONS_PERMISSION_DENIED"
-msgstr "Push notifications permission was denied. Please enable them in your browser settings."
+msgstr "Notiser var blockerade av webbläsaren, vänligen gå igenom dess inställningar för att tillåta dem."
 
 msgid "PUSH_NOTIFICATIONS_SETTINGS_HELP"
-msgstr "This setting is saved per-device. You can enable notifications on multiple devices independently."
+msgstr "Denna inställningen sparas per enhet. Du kan använda notiser på flera enheter självständigt från varandra."
 
 msgid "PUSH_NOTIFICATIONS_SETTINGS_LABEL"
-msgstr "Enable notifications on this device"
+msgstr "Aktivera notiser på denna enhet"
 
 # Settings link in notifications dropdown
 msgid "PUSH_NOTIFICATIONS_SETTINGS_LINK"
-msgstr "Settings..."
+msgstr "Inställningar..."
 
 # Button text for enabling notifications in dropdown
 msgid "PUSH_NOTIFICATIONS_SUBSCRIBE"
-msgstr "Enable notifications"
+msgstr "Aktivera notiser"
 
 # User settings page - notification section
 msgid "PUSH_NOTIFICATIONS_TITLE"
-msgstr "Push Notifications"
+msgstr "Notiser"
 
 msgid "RANDOM"
 msgstr "Slumpmässig"
@@ -1345,35 +1345,35 @@ msgid "RANK"
 msgstr "Rank"
 
 msgid "RANKING_DATA_DESCRIPTION"
-msgstr "Channel rankings are based on how much representation each channel has in the Flipnote Rankings. Check back later as more content becomes popular!"
+msgstr "Kanal rankningen är baserat på av hur mycket en kanal är representerad i flipnote rankningen. Kom tillbaka senare när mer skapelser blivit populära!"
 
 msgid "RANK_IMPROVED"
-msgstr "Rank Improved"
+msgstr "Rank Förbättrad"
 
 msgid "RANK_UNCHANGED"
-msgstr "Rank Unchanged"
+msgstr "Rank Oförändrad"
 
 msgid "RATELIMIT_EXCEEDED"
-msgstr "You have exceeded the rate limit for sending messages."
+msgstr "Du har uppnått din gräns av att skicka meddelanden."
 
 msgid "RECENT"
 msgstr "Nyligen"
 
 msgid "RECENTLY_VIEWED_CHANNELS"
-msgstr "Recently viewed channels"
+msgstr "Nyligen sedda kanaler"
 
 msgid "RECENT_FLIPNOTES"
 msgstr "Nya Flipnotes"
 
 msgid "RECOMMENDED_FLIPNOTES"
-msgstr "Recommended Flipnotes"
+msgstr "Rekommenderade Flipnotes"
 
 msgid "REGION"
 msgstr "Region"
 
 # Comprising the continents of North and South America
 msgid "REGION_AMERICAS"
-msgstr "Americas"
+msgstr "Amerika"
 
 msgid "REGION_EUROPE_AND_OCEANIA"
 msgstr "Europa och Oceanien"
@@ -1390,43 +1390,43 @@ msgid "RELEASED"
 msgstr "Släppt"
 
 msgid "REMOVE_FROM_PLAYLIST"
-msgstr "Remove from Playlist"
+msgstr "Ta bort från spellista"
 
 msgid "REPLY"
-msgstr "Reply"
+msgstr "Svara"
 
 msgid "REPLYING_TO"
-msgstr "Replying to"
+msgstr "Svara på"
 
 msgid "RESET_PASSWORD_BY_FSID"
-msgstr "You can still reset your password with your Flipnote Studio ID! Simply send a quick message to Sudomemo Support and we'll get that sent out to you."
+msgstr "Du kan fortfarande återställa ditt lösenord med ditt Flipnote Studio ID! Skicka ett meddelande till Sudomemo kundtjänst och sedan skickar vi återställningen."
 
 msgid "RESOURCES"
-msgstr "Resources"
+msgstr "Resurser"
 
 msgid "RETURN_TO_FLIPNOTE_EDIT"
-msgstr "Return to Flipnote"
+msgstr "Tillbaka till Flipnote"
 
 msgid "ROOT_FLIPNOTE"
-msgstr "Root Flipnote"
+msgstr "Rot Flipnote"
 
 msgid "SAFE_COMMS_ANCHOR_1"
-msgstr "Feel something off? Here's how to spot it"
+msgstr "Känns något fel? Här är hur man ser det"
 
 msgid "SAVE"
 msgstr "Spara"
 
 msgid "SAVE_PLAYLIST"
-msgstr "Save Playlist"
+msgstr "Spara Spellista"
 
 msgid "SAVING"
-msgstr "Sparade"
+msgstr "Sparar"
 
 msgid "SEARCH"
 msgstr "Sök"
 
 msgid "SEARCH_PAGE_FORM_PLACEHOLDER"
-msgstr "Username, FSID, song, artist, or channel"
+msgstr "Användarnamn, FSID, låt, artist, eller kanal"
 
 msgid "SEARCH_PAGE_FUZZY_SEARCH_TIP"
 msgstr "Tips: Du kan ange till exepel 'Austin' och hitta resultat som 'ÄuらtÎn'"
@@ -1446,22 +1446,22 @@ msgid "SEARCH_SUDOMEMO"
 msgstr "Sök Sudomemo"
 
 msgid "SEE_MORE"
-msgstr "See more"
+msgstr "se mer"
 
 msgid "SEND_VERIFICATION_EMAIL"
-msgstr "Send Verification Email"
+msgstr "Skicka Verifikations Email"
 
 msgid "SETTINGS"
-msgstr "Settings"
+msgstr "Inställningar"
 
 msgid "SET_AS_PROFILE_PICTURE"
-msgstr "Set as Profile Picture"
+msgstr "Sätt som profilbild"
 
 msgid "SHARE"
 msgstr "Dela"
 
 msgid "SHARE_ON_BLUESKY"
-msgstr "Share on Bluesky"
+msgstr "Dela på Bluesky"
 
 msgid "SHARE_ON_FACEBOOK"
 msgstr "Dela på Facebook"
@@ -1470,7 +1470,7 @@ msgid "SHARE_ON_REDDIT"
 msgstr "Dela på Reddit"
 
 msgid "SHARE_ON_THREADS"
-msgstr "Share on Threads"
+msgstr "Dela på Threads"
 
 msgid "SHARE_ON_TUMBLR"
 msgstr "Dela på Tumblr"
@@ -1479,22 +1479,22 @@ msgid "SHARE_ON_TWITTER"
 msgstr "Dela på Twitter"
 
 msgid "SHARE_ON_WHATSAPP"
-msgstr "Share via WhatsApp"
+msgstr "Dela via WhatsApp"
 
 msgid "SHOP_NOW"
-msgstr "Shop Now"
+msgstr "Shoppa Nu"
 
 msgid "SHORT_PREVIEW"
-msgstr "Short Preview"
+msgstr "Kort Förhandsvisning"
 
 msgid "SHOW_ON_PROFILE"
-msgstr "Show on profile"
+msgstr "Visa på profil"
 
 msgid "SHOW_YOUTUBE_LINK_ON_MY_PROFILE"
-msgstr "Show a link to my YouTube channel on my Sudomemo profile"
+msgstr "Visa en länk till min youtube kanal på min Sudomemo profil"
 
 msgid "SIGNIFICANT_DECLINE"
-msgstr "Significant Decline"
+msgstr "Skarpt nedgående"
 
 msgid "SIGN_IN"
 msgstr "Logga in"
@@ -1506,23 +1506,23 @@ msgid "SIGN_UP"
 msgstr "Bli medlem"
 
 msgid "SLIGHT_DECLINE"
-msgstr "Slight Decline"
+msgstr "Smått nedgående"
 
 # For MusicMatch
 msgid "SONG"
 msgstr "Låt"
 
 msgid "SONGS"
-msgstr "Songs"
+msgstr "Låtar"
 
 msgid "SONG_ARTISTS"
-msgstr "Song Artists"
+msgstr "Låt Artister"
 
 msgid "STARS"
 msgstr "Stars"
 
 msgid "SUBMIT"
-msgstr "Submit"
+msgstr "Skicka"
 
 # This file contains most of the translations for Sudomemo Theatre.
 # Meta tags, descriptions, etc
@@ -1536,7 +1536,7 @@ msgid "SUDOMEMO_PLUS"
 msgstr "Sudomemo Plus"
 
 msgid "SUDOMEMO_PLUS_FEATURE"
-msgstr "Sudomemo Plus feature"
+msgstr "Sudomemo Plus funktion"
 
 msgid "SUDOMEMO_SHOP"
 msgstr "Sudomemo Butiken"
@@ -1560,16 +1560,16 @@ msgid "SUDOMEMO_THEATRE"
 msgstr "Sudomemo Theatre"
 
 msgid "SUDOMEMO_USER"
-msgstr "Sudomemo User"
+msgstr "Sudomemo Användare"
 
 msgid "SUPPORT_US"
-msgstr "Support Us"
+msgstr "Stöd oss"
 
 msgid "TERMS_OF_USE"
 msgstr "Villkor"
 
 msgid "THIS_FLIPNOTE_IS_SPINOFF_OF"
-msgstr "This Flipnote is a spin-off of"
+msgstr "Denna flipnote är en spinoff av"
 
 # Sudomemo Shop
 msgid "TICKETS"
@@ -1592,85 +1592,85 @@ msgid "TROPHY_CASE"
 msgstr "Troféfall"
 
 msgid "UNKNOWN_ERROR"
-msgstr "An unknown error occurred."
+msgstr "Ett okänt fel uppstod."
 
 msgid "UNPIN"
-msgstr "Unpin"
+msgstr "Avpinna"
 
 msgid "UNTITLED_FLIPNOTE"
-msgstr "Untitled Flipnote"
+msgstr "Odöpt Flipnote"
 
 # This is shown to logged-in users on their own Flipnotes without titles
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "Odöpt Flipnote av %s"
 
 msgid "UNTITLED_PLAYLIST"
-msgstr "Untitled Playlist"
+msgstr "Odöpt spellista"
 
 msgid "UPLOAD_CONTACT_DISCORD_OR_EMAIL_FORMAT"
-msgstr "Please contact us on Discord or via email to %s."
+msgstr "Snälla kontakta oss via email eller discord för att %s."
 
 msgid "UPLOAD_OPTIONS"
-msgstr "Upload Options"
+msgstr "Uppladdnings inställningar"
 
 # Upload status
 msgid "UPLOAD_STATUS"
-msgstr "Upload Status"
+msgstr "Uppladdnings status"
 
 # Upload to YouTube page
 msgid "UPLOAD_YOUTUBE_INTEGRATION_BANNED"
-msgstr "Your account has been restricted from using our YouTube integration services."
+msgstr "Ditt konto har blivit avstängt från att använda våran YouTube integration."
 
 msgid "USERNAME_REQUIRED"
-msgstr "A username is required."
+msgstr "Ett användarnamn krävs."
 
 msgid "USERS"
-msgstr "Users"
+msgstr "Användare"
 
 msgid "USERS_FLIPNOTE_FROM_FLIPNOTE_HATENA"
-msgstr "%s's Flipnote from Flipnote Hatena"
+msgstr "%s's Flipnotes från Flipnote Hatena"
 
 msgid "USERS_PROFILE_FROM_FLIPNOTE_HATENA"
-msgstr "%s's profile from Flipnote Hatena"
+msgstr "%s's profil från Flipnote Hatena"
 
 msgid "USER_BANNED_CANNOT_POST"
-msgstr "You are banned and cannot send messages."
+msgstr "Dy är avstängd och kan inte skicka meddelanden."
 
 msgid "USER_MUTED_CANNOT_POST"
-msgstr "You are muted and cannot send messages."
+msgstr "Du är tystad och kan inte skicka meddelanden."
 
 msgid "USER_NOT_AUTHORIZED"
-msgstr "You are not authorized to perform this action."
+msgstr "Du har inte tillåtelse att göra detta."
 
 msgid "USER_NOT_LOGGED_IN"
-msgstr "User not logged in."
+msgstr "Användare har inte loggat in."
 
 msgid "USER_SETTINGS_BIO_EXPLANATION"
-msgstr "This is where you can update your bio."
+msgstr "Detta är vart du kan uppdatera din biografi."
 
 msgid "USER_SETTINGS_CHANGE_EMAIL_EXPLANATION"
-msgstr "Update your email address. A verification email will be sent to your new address."
+msgstr "Uppdatera din email adress. Ett verifikationsmejl kommer skickas till din nya adress."
 
 msgid "USER_SETTINGS_CHANGE_PASSWORD_EXPLANATION"
-msgstr "You can change the password for your Sudomemo account here:"
+msgstr "Du kan ändra lösenordet för ditt Sudomemo konto här:"
 
 msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
-msgstr "After you've joined the Sudomemo Discord, copy and paste this into the chat."
+msgstr "Efter du gått med i Sudomemos Discord, kan du kopiera detta i chatten."
 
 msgid "USER_SETTINGS_SUPPORT_TOKEN_EXPLANATION"
-msgstr "Support tokens are used to verify your account when contacting Sudomemo Support."
+msgstr "Support tokens används för att verifiera ditt konto när du kontaktar sudomemos kundtjänst."
 
 msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
-msgstr "Configure your linked YouTube channel and default Flipnote upload settings."
+msgstr "Konfigurera din länkade YouTube channel och standardiserade Flipnote-uppladdnings inställningar."
 
 msgid "USE_THIS_FRAME_FROM_NOW_ON"
-msgstr "Use this frame from now on"
+msgstr "Använd denna ramen från och med nu"
 
 msgid "VERIFIED_USER"
-msgstr "Verified User"
+msgstr "Verifierad Användare"
 
 msgid "VERIFY_CODE"
-msgstr "Verify"
+msgstr "Verifiera"
 
 msgid "VIEWPAGE_ADD_MODERATOR_COMMENT"
 msgstr "Lägg till Moderator Kommentar"
@@ -1718,46 +1718,46 @@ msgid "VIEWS"
 msgstr "Visningar"
 
 msgid "VIEW_FLIPNOTES_BY_CATEGORY"
-msgstr "View Flipnotes by category"
+msgstr "Visa Flipnotes per kategori"
 
 msgid "VIEW_ON_SUDOMEMO"
-msgstr "View on Sudomemo"
+msgstr "Visa på Sudomemo"
 
 msgid "VIEW_YOUR_PROFILE"
-msgstr "View Your Profile"
+msgstr "Visa din Profile"
 
 msgid "VISIBILITY"
-msgstr "Visibility"
+msgstr "Synlighet"
 
 msgid "VISIBILITY_DESCRIPTION_PRIVATE"
-msgstr "Only you can view this Flipnote. It won't appear anywhere else."
+msgstr "Endast du kan se denna Flipnote. Ingen annan kan se den."
 
 msgid "VISIBILITY_DESCRIPTION_PUBLIC"
-msgstr "Anyone can view this Flipnote on your profile and in search results."
+msgstr "Vem som helst kan kolla eller söka efter denna flipnoten."
 
 msgid "VISIBILITY_DESCRIPTION_UNLISTED"
-msgstr "Only people with a direct link can view this Flipnote. It won't appear publicly."
+msgstr "Endast personer med länken till denna flipnote kan se den. Den kan inte hittas genom sökningar eller din profil."
 
 msgid "VISIBILITY_PRIVATE"
-msgstr "Private"
+msgstr "Privat"
 
 msgid "VISIBILITY_PUBLIC"
-msgstr "Public"
+msgstr "Offentlig"
 
 msgid "VISIBILITY_SETTINGS"
-msgstr "Visibility Settings"
+msgstr "Synlighets Inställningar"
 
 msgid "VISIBILITY_UNLISTED"
-msgstr "Unlisted"
+msgstr "Olistad"
 
 msgid "WATCH_HISTORY"
-msgstr "Watch History"
+msgstr "Tittarhistorik"
 
 msgid "WATCH_NEXT"
-msgstr "Watch Next"
+msgstr "Kolla nästa"
 
 msgid "WEEKLY_TOPIC_WINNER"
-msgstr "Weekly Topic Winner"
+msgstr "Veckotemats vinnare"
 
 msgid "WELCOME_BOX_AFTERNOON_GREETING"
 msgstr "God eftermiddag"
@@ -1807,184 +1807,184 @@ msgid "WELCOME_BOX_YOU_ARE_ADMIN"
 msgstr "Du är inloggad som en Administrator."
 
 msgid "X_IN_HOT_FLIPNOTES"
-msgstr "#%d in Hot Flipnotes"
+msgstr "#%d i heta Flipnotes"
 
 msgid "X_IN_POPULAR_FLIPNOTES"
-msgstr "#%d in Popular this Month"
+msgstr "#%d i populära Flipnotes för denna månaden"
 
 msgid "X_IN_POPULAR_RANK_BADGE"
-msgstr "#%s in Popular"
+msgstr "#%s i populära Flipnotes"
 
 msgid "X_USERS"
-msgstr "%d user(s)"
+msgstr "%d användare"
 
 msgid "YOUTUBE"
 msgstr "YouTube"
 
 msgid "YOUTUBE_ACCOUNT_UNVERIFIED"
-msgstr "Account unverified"
+msgstr "Konto ej verifierat"
 
 msgid "YOUTUBE_ACCOUNT_VERIFICATION_FIX_NOW"
-msgstr "Fix now"
+msgstr "Fixa nu"
 
 msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
-msgstr "Your YouTube account is unverified. Certain features will not function correctly, such as video thumbnails and Flipnotes longer than 15 minutes."
+msgstr "Ditt YouTube konto är ej verifierat. Vissa funktioner kommer inte fungera korrekt, som titelbilder eller flipnotes längre än 15 minuter."
 
 msgid "YOUTUBE_ACCOUNT_VERIFIED"
-msgstr "Account verified"
+msgstr "Konto verifierat"
 
 # Added to the queue at: 2020-07-08 02:46:38
 msgid "YOUTUBE_ADDED_TO_QUEUE_AT"
-msgstr "Added to the queue at:"
+msgstr "Tillagt i kön vid:"
 
 msgid "YOUTUBE_CHECK_FEATURES_THUMB"
-msgstr "Your YouTube channel might not be completely verified. For more information, you can check the status of Custom Thumbnails here:"
+msgstr "Din youtube kanal kanske inte är helt verifierad. För mer information, kan du kolla statusen för egengjorda titelbilder här:"
 
 msgid "YOUTUBE_CONNECT_INTRO"
-msgstr "Connecting your YouTube channel lets you share your Flipnotes directly to YouTube!"
+msgstr "Genom att länka din YouTube kanal kan du ladda upp Flipnotes direkt till YouTube!"
 
 # YouTube metadata
 # Extra description text: will be placed at the end of your video descriptions. 
 msgid "YOUTUBE_DEFAULT_SETTINGS_EXPLANATION"
-msgstr "These settings will be filled in automatically when you upload a Flipnote from your Nintendo DSi or 3DS. If you're uploading from Sudomemo Theatre, you'll be prompted to change or confirm these settings before starting the upload."
+msgstr "Dessa inställningar blir ifyllda automatisk när du laddar upp en Flipnote från ditt Nintendo DSi eller 3DS. Om du laddar upp från Sudomemo Theatre, kommer konfirmation av inställningarna efterfrågas innan uppladdning."
 
 msgid "YOUTUBE_ESTIMATED_DURATION"
-msgstr "Estimated video duration:"
+msgstr "Estimerad video längd:"
 
 msgid "YOUTUBE_EXTRA_DESCRIPTION_TEXT"
-msgstr "Extra Description Text"
+msgstr "Extra beskrivnings text"
 
 msgid "YOUTUBE_EXTRA_DESCRIPTION_TEXT_EXPLANATION"
-msgstr "This text will display when viewers click on 'Show more' in your video's description."
+msgstr "Denna text visas när man trycker på 'Visa mer' i din videos beskrivning."
 
 msgid "YOUTUBE_LINK_PROMPT"
-msgstr "Link your YouTube channel to upload your Flipnotes to YouTube."
+msgstr "Länka din Youtube kanal för att ladda up dina Flipnotes till Youtube."
 
 msgid "YOUTUBE_LOOP_COUNT"
-msgstr "Number of plays"
+msgstr "Antal spelningar"
 
 msgid "YOUTUBE_LOOP_COUNT_EXPLANATION"
-msgstr "Number of times a looped Flipnote will repeat. Select 1 to only play once."
+msgstr "Antalet gånger en loopande flipnote ska repetera. Välj 1 för att spela en gång."
 
 msgid "YOUTUBE_PENDING_UPLOAD"
-msgstr "Your Flipnote is currently waiting to be uploaded. Check back in a few minutes."
+msgstr "Din Flipnote väntar på att bli uppladdad. Kolla tillbaka om några minuter."
 
 # Position in queue: 4 - means there are three uploads ahead of yours
 msgid "YOUTUBE_POSITION_IN_QUEUE"
-msgstr "Position in queue:"
+msgstr "Plats i kön:"
 
 msgid "YOUTUBE_RECONNECT_PROMPT"
-msgstr "The connection to your channel is out of date. Please reconnect it to continue."
+msgstr "Länken till din kanal har löpt ut. Snälla återkoppla den för att fortsätta."
 
 msgid "YOUTUBE_REFRESH_ACCOUNT"
-msgstr "Refresh account"
+msgstr "Ladda om konto"
 
 msgid "YOUTUBE_SHORT"
 msgstr "YouTube Short"
 
 msgid "YOUTUBE_SHORT_TOGGLE"
-msgstr "Make it a YouTube Short?"
+msgstr "Gör det en YouTube Short?"
 
 msgid "YOUTUBE_STATUS_BEING_PROCESSED"
-msgstr "Your upload is currently being processed."
+msgstr "Din uppladdning bearbetas."
 
 msgid "YOUTUBE_STATUS_COMPLETE"
-msgstr "Your upload is complete!"
+msgstr "Uppladdningen är klar!"
 
 msgid "YOUTUBE_STATUS_FAILED_AUTH"
-msgstr "The upload failed due to an authentication problem."
+msgstr "Uppladdningen misslyckades på grund av ett autentiseringsfel."
 
 msgid "YOUTUBE_STATUS_FAILED_CLIENT_ERROR"
-msgstr "The upload failed due to a client error."
+msgstr "Uppladdningen misslyckades på grund av ett klientfel."
 
 msgid "YOUTUBE_STATUS_FAILED_GONE"
-msgstr "The Flipnote disappeared before the upload could complete."
+msgstr "Flipnoten försvann innan uppladdningen var klar."
 
 msgid "YOUTUBE_STATUS_FAILED_SERVICE_ERROR"
-msgstr "The upload failed due to a service error."
+msgstr "Uppladdningen misslyckades på grund av ett service fel."
 
 msgid "YOUTUBE_STATUS_FAILED_THUMB"
-msgstr "Your video was uploaded successfully, but we had a problem uploading the thumbnail."
+msgstr "Din video är nu uppladdad, men titelbilden kunde inte tillämpas."
 
 msgid "YOUTUBE_STATUS_FAILED_UNEXPECTED_ERROR"
-msgstr "An unexpected error occurred during upload."
+msgstr "Ett oväntat fel uppstod under uppladdningen."
 
 msgid "YOUTUBE_STATUS_FAILED_UNKNOWN"
-msgstr "The upload failed for an unknown reason."
+msgstr "Uppladdningen misslyckades av en okänd anledning."
 
 msgid "YOUTUBE_STATUS_PAUSED_GLOBAL_QUOTA"
-msgstr "Our global usage quota has been exceeded, so the upload may be significantly delayed."
+msgstr "Våran uppladdningsgräns har uppnåtts, därmed kan uppladdningen ta lång tid att bearbetas."
 
 msgid "YOUTUBE_STATUS_TRACKER_DONE"
-msgstr "Done!"
+msgstr "Klar!"
 
 msgid "YOUTUBE_STATUS_TRACKER_NEW"
-msgstr "New"
+msgstr "Ny"
 
 msgid "YOUTUBE_STATUS_TRACKER_PROCESSING"
-msgstr "Processing"
+msgstr "Bearbetar"
 
 msgid "YOUTUBE_STATUS_WAITING_TO_BE_PROCESSED"
-msgstr "Your upload is currently waiting to be processed."
+msgstr "Din uppladdning väntar på att bli bearbetad."
 
 msgid "YOUTUBE_TAGS"
-msgstr "Tags"
+msgstr "Taggar"
 
 msgid "YOUTUBE_TAGS_EXPLANATION"
-msgstr "Enter a comma after each tag"
+msgstr "Skriv ett kommatecken efter varje tagg"
 
 msgid "YOUTUBE_TAGS_HINT"
-msgstr "Tags, separated by comma."
+msgstr "Taggar, separerade med komma."
 
 msgid "YOUTUBE_TERMS_AGREEMENT_NOTE"
-msgstr "By submitting your videos to YouTube, you acknowledge that you agree to YouTube's Terms of Service and Community Guidelines."
+msgstr "Genom att ladda upp dina flipnotes på YouTube, godkänner du till deras användarvillkor och riktlinjer."
 
 msgid "YOUTUBE_UNLINK_ACCOUNT"
-msgstr "Unlink account"
+msgstr "Avlänka konto"
 
 msgid "YOUTUBE_UNLINK_ACCOUNT_CONFIRM"
-msgstr "Are you sure you want to remove your linked YouTube channel?"
+msgstr "Är du säker att du vill ta bort din länkade YouTube kanal?"
 
 msgid "YOUTUBE_UPLOAD_HISTORY"
-msgstr "Upload History"
+msgstr "Upladdnings historik"
 
 msgid "YOUTUBE_UPLOAD_HISTORY_CLICK_ICON_TO_TRACK"
-msgstr "Click the status icon on the left to visit your video's live Upload Tracker!"
+msgstr "Klicka på status ikonen till vänster to för att se din videos uppladdningsgranskare live!"
 
 # We may need to limit uploads per day depending on our API quota usage rate
 msgid "YOUTUBE_UPLOAD_LIMIT"
-msgstr "You can currently upload %s videos to YouTube per day."
+msgstr "Du kan för tillfället ladda upp %s videor till YouTube per dag."
 
 msgid "YOUTUBE_UPLOAD_LIMIT_CURRENT"
-msgstr "You have uploaded %s videos so far today."
+msgstr "Du har laddat upp %s videos idag."
 
 msgid "YOUTUBE_UPLOAD_LIMIT_EXCEEDED"
-msgstr "You can't upload any more videos until tomorrow."
+msgstr "Du kan inte ladda upp fler videor förens imorgon."
 
 msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_LIMIT_NOTE"
-msgstr "Sudomemo Plus members can upload %s videos per day."
+msgstr "Sudomemo Plus medlemmar kan ladda upp %s videor per dag."
 
 msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_UNLIMITED_NOTE"
-msgstr "Sudomemo Plus members can upload an unlimited number of videos each day."
+msgstr "Sudomemo Plus  medlemmar kan ladda upp oändligt många videor per dag."
 
 msgid "YOUTUBE_VISIBILITY"
-msgstr "Visibility"
+msgstr "Synlighet"
 
 msgid "YOUTUBE_VISIBILITY_PRIVATE"
-msgstr "Private"
+msgstr "Privat"
 
 msgid "YOUTUBE_VISIBILITY_PUBLIC"
-msgstr "Public"
+msgstr "Offentlig"
 
 msgid "YOUTUBE_VISIBILITY_UNLISTED"
-msgstr "Unlisted"
+msgstr "Olistad"
 
 msgid "YOUTUBE_WATCH_NOW_AT"
-msgstr "Watch now:"
+msgstr "Titta nu:"
 
 # Edit Flipnote page
 msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
 msgstr "Du redigerar denna Flipnote:"
 
 msgid "YT_LAYOUT_MAY_VARY"
-msgstr "Appearance and layout may vary depending on device used to view video"
+msgstr "Exakt utseende kan förändras beroende på enheten videon visas på"
