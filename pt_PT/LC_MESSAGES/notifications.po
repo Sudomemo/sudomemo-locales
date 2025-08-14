@@ -7,82 +7,82 @@ msgid "FLIPNOTE"
 msgstr "Flipnote"
 
 msgid "FRAGMENT_ADDED"
-msgstr " added "
+msgstr " adicionado "
 
 msgid "FRAGMENT_AND"
-msgstr " and "
+msgstr " e "
 
 msgid "FRAGMENT_A_STAR"
-msgstr "a Star"
+msgstr "uma Estrela"
 
 msgid "FRAGMENT_COMMA"
 msgstr ", "
 
 msgid "FRAGMENT_COMMA_AND"
-msgstr ", and "
+msgstr ", e "
 
 msgid "FRAGMENT_COMMENTED_ON"
-msgstr " commented on "
+msgstr " comentou no "
 
 msgid "FRAGMENT_CONTENT"
-msgstr "content"
+msgstr "conteúdo"
 
 msgid "FRAGMENT_CREATED_A"
-msgstr " created a "
+msgstr " criou um "
 
 msgid "FRAGMENT_FOLLOWED_YOU"
-msgstr " followed you"
+msgstr " seguiu-te"
 
 msgid "FRAGMENT_HAS_BEEN_RESTORED"
-msgstr " has been restored after review"
+msgstr " foi restaurado após ser revisto"
 
 msgid "FRAGMENT_HAS_BEEN_REVIEWED"
-msgstr " has been reviewed"
+msgstr " foi revisto"
 
 msgid "FRAGMENT_INTERACTED_WITH_CONTENT"
-msgstr "interacted with your content"
+msgstr "interagiu com o teu conteúdo"
 
 msgid "FRAGMENT_MESSAGE"
-msgstr "message"
+msgstr "mensagem"
 
 msgid "FRAGMENT_NEW_FLIPNOTE_FRIEND"
-msgstr "You have a new Flipnote Friend: "
+msgstr "Tens um novo Amigo de Flipnote: "
 
 msgid "FRAGMENT_OF"
-msgstr " of "
+msgstr " de "
 
 msgid "FRAGMENT_OTHER_PEOPLE_PLURAL"
-msgstr " other people"
+msgstr " outras pessoas"
 
 msgid "FRAGMENT_OTHER_PERSON_SINGULAR"
-msgstr " other person"
+msgstr " outra pessoa"
 
 msgid "FRAGMENT_REPLIED_TO_YOUR_COMMENT_ON"
 msgstr " replied to your comment on "
 
 msgid "FRAGMENT_REPORT"
-msgstr "report"
+msgstr "reportar"
 
 msgid "FRAGMENT_SENT_MESSAGE_DEFAULT"
-msgstr "sent you a "
+msgstr "te enviou um(a) "
 
 msgid "FRAGMENT_SENT_YOU_A"
-msgstr " sent you a "
+msgstr " te enviou um(a) "
 
 msgid "FRAGMENT_SPINOFF"
 msgstr "Spin-off"
 
 msgid "FRAGMENT_STARS"
-msgstr "Stars"
+msgstr "Estrelas"
 
 msgid "FRAGMENT_TO_YOUR"
-msgstr " to your "
+msgstr " para o(a) teu(tua) "
 
 msgid "FRAGMENT_WAS_REMOVED_POLICY"
-msgstr " was removed for violating our Content Policy"
+msgstr " foi removido por violar as nossas Políticas de Conteúdo"
 
 msgid "FRAGMENT_YOUR"
-msgstr "Your "
+msgstr "O teu "
 
 msgid "FRAGMENT_YOUR_FLIPNOTE"
-msgstr "your Flipnote"
+msgstr "o teu Flipnote"

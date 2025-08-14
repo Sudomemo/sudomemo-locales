@@ -10,7 +10,7 @@ msgid "ADDED_TO_PLAYLIST"
 msgstr "Adicionado á Playlist"
 
 msgid "BACK_TO_CREATORS_ROOM"
-msgstr "Back to Creator's Room"
+msgstr "Volta á Sala do Criador"
 
 msgid "BACK_TO_FLIPNOTE"
 msgstr "Voltar ao Flipnote"
@@ -46,7 +46,7 @@ msgid "ERROR_AUTHOR_IS_BLOCKING_DESC"
 msgstr "Por favor tente de novo com outro Flipnote."
 
 msgid "ERROR_HINT_INCREASE_LIMIT_PLUS"
-msgstr "You could also increase this limit to %s with Sudomemo Plus!"
+msgstr "Podes também aumentar este limite para %s com o Sudomemo Plus!"
 
 msgid "ERROR_PROFANE_DESC"
 msgstr "Esta descrição viola a nossa Política de Conteúdo."
