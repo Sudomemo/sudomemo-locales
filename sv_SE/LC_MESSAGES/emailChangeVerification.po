@@ -4,36 +4,36 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CHANGE_EMAIL_HEADER"
-msgstr "Verify Your New Email Address"
+msgstr "Verifiera din nya Email adress"
 
 msgid "EMAIL_CHANGE_VERIFICATION_EXPIRED_TEXT"
-msgstr "This email verification link has expired or has already been used. Please request a new email change from your account settings."
+msgstr "Denna email verifikations länken har gått ut eller redan används. Snälla gör en ny email förändring från dina kontoinställningar."
 
 msgid "EMAIL_CHANGE_VERIFIED_SUCCESS"
-msgstr "Your email address has been successfully updated. You can now use your new email address to log in."
+msgstr "Din email är nu uppdaterad. Härifrån kan du använda den för att logga in."
 
 # Email change verification email
 msgid "EMAIL_SUBJECT"
-msgstr "Verify your new email address - Sudomemo"
+msgstr "Verifiera din nya email adress - Sudomemo"
 
 # Email change verification page
 msgid "HEADER_VERIFICATION_EXPIRED"
-msgstr "Verification Link Expired"
+msgstr "Verifikations länk utgången"
 
 msgid "RETURN_TO_SETTINGS"
-msgstr "Return to Settings"
+msgstr "Tillbaka till inställningar"
 
 msgid "TEXT_EMAIL_CHANGE_PURPOSE"
-msgstr "You've requested to change your email address on Sudomemo. To complete this change, please click the link below to verify your new email address."
+msgstr "Du har bett om att byta email adress på Sudomemo. För att verifiera din nya email adress bör du klicka på länken nedan."
 
 msgid "TEXT_HELLO"
-msgstr "Hello!"
+msgstr "Hej!"
 
 msgid "TEXT_URL_PLAIN_DISPLAY"
-msgstr "If the link doesn't work, copy and paste this URL into your browser:"
+msgstr "Om länken inte fungerar, bör du kopiera denna URL till sökfältet i din webbläsare:"
 
 msgid "TEXT_VERIFICATION_LINK_FORMAT"
-msgstr "Click here to verify your new email address: %s"
+msgstr "Klicka här för att verifiera din nya email: %s"
 
 msgid "WEB_HEADER_EMAIL_CHANGE_SUCCESS"
-msgstr "Email Address Changed Successfully!"
+msgstr "Email adress ändrad!"
