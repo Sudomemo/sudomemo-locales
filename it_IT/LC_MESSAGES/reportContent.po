@@ -4,7 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CANCEL_BUTTON"
-msgstr "Cancel"
+msgstr "Annulla"
 
 msgid "CATEGORY_DESC_drugs"
 msgstr "Riferimenti all'abuso di sostanze o droghe"
@@ -98,7 +98,7 @@ msgstr "Categoria della violazione:"
 
 # Pineapples1337's chat message
 msgid "ITEM_TITLE_FORMAT"
-msgstr "%s's %s"
+msgstr "%2$s di %1$s"
 
 msgid "LIMIT_ONE_REPORT"
 msgstr "Nota bene: Puoi segnalare questo contenuto una volta. Ulteriori segnalazioni non saranno registrate, quindi metti la tua segnalazione in un commento singolo."
@@ -116,19 +116,19 @@ msgid "NO_BLANK_REPORTS"
 msgstr "Non puoi mandare una segnalazione vuota."
 
 msgid "REPORT_CATEGORY_LABEL"
-msgstr "Category"
+msgstr "Categoria"
 
 msgid "REPORT_CHAT_MESSAGE"
-msgstr "Report chat message"
+msgstr "Segnala messaggio di chat"
 
 msgid "REPORT_COMMENT"
-msgstr "Report comment"
+msgstr "Segnala commento"
 
 msgid "REPORT_DETAILS_LABEL"
-msgstr "Details"
+msgstr "Dettagli"
 
 msgid "REPORT_DETAILS_PLACEHOLDER"
-msgstr "Describe the issue…"
+msgstr "Descrivi il problema…"
 
 msgid "REPORT_EXPLANATION_FAILED"
 msgstr "E' stato riscontrato un errore durante l'invio della segnalazione."
@@ -137,28 +137,28 @@ msgid "REPORT_FAILED_USER_BANNED"
 msgstr "Segnalazione fallita: sei bannato da Sudomemo."
 
 msgid "REPORT_FLIPNOTE"
-msgstr "Report Flipnote"
+msgstr "Segnala Flipnote"
 
 msgid "REPORT_FLIPNOTE_HEADER"
-msgstr "Report this Flipnote"
+msgstr "Segnala questo Flipnote"
 
 msgid "REPORT_INSTRUCTIONS"
 msgstr "Scrivi una breve descrizione del motivo per cui pensi che questo contenuto violi i Termini di Utilizzo di Sudomemo. Dopo che l'hai inviata, tocca Indietro per tornare al Flipnote."
 
 msgid "REPORT_NETWORK_ERROR"
-msgstr "Network error—please check your connection and try again."
+msgstr "Errore di rete—per favore, controlla la tua connessione e riprova."
 
 msgid "REPORT_SUCCESS_MESSAGE"
-msgstr "Thank you—your report has been submitted."
+msgstr "Grazie—la tua segnalazione è stata inviata."
 
 msgid "REPORT_UNEXPECTED_ERROR"
-msgstr "An unexpected error occurred. Please try again later."
+msgstr "Si è verificato un errore imprevisto. Per favore, riprova più tardi."
 
 msgid "RESTRICTED_CANCEL"
 msgstr "Non puoi segnalare contenuti se sei stato bannato in qualsiasi modo da Sudomemo."
 
 msgid "SUBMIT_REPORT_BUTTON"
-msgstr "Submit Report"
+msgstr "Invia Segnalazione"
 
 msgid "THANKS_FOR_REPORTING"
 msgstr "Abbiamo ricevuto la tua segnalazione. Grazie per averci aiutato a rendere Sudomemo un posto migliore!"
