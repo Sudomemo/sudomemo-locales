@@ -605,13 +605,13 @@ msgid "FRONTPAGE_TITLE_TAGLINE"
 msgstr "Sudomemo: Flipnote Hatena är tillbaka!"
 
 msgid "FRONTPAGE_TITLE_TAGLINE_2"
-msgstr "Sudomemo: Share Flipnotes"
+msgstr "Sudomemo: Dela Flipnotes"
 
 msgid "FRONTPAGE_TITLE_TAGLINE_3"
-msgstr "Sudomemo: Share Flipnotes on 3DS & DSi"
+msgstr "Sudomemo: Dela Flipnotes på 3DS & DSi"
 
 msgid "FRONTPAGE_TRENDING_CREATORS"
-msgstr "Trendande Creators"
+msgstr "Trendande Skapare"
 
 # This is short for Flipnote Studio ID. Leave it as "FSID" except in Japanese, where it should be うごメモID
 msgid "FSID"
@@ -619,184 +619,184 @@ msgstr "FSID"
 
 # Accessibility strings for genealogy navigation and controls
 msgid "GENEALOGY_BACK_TO_FLIPNOTE"
-msgstr "Back to Flipnote"
+msgstr "Tillbaka till Flipnote"
 
 # Legend section title
 msgid "GENEALOGY_LEGEND"
 msgstr "Legend"
 
 msgid "GENEALOGY_LEGEND_AVAILABLE"
-msgstr "Available Flipnote"
+msgstr "Tillgängliga Flipnotes"
 
 # Legend items
 msgid "GENEALOGY_LEGEND_CURRENT"
-msgstr "Current Flipnote"
+msgstr "Nuvarande Flipnote"
 
 msgid "GENEALOGY_LEGEND_DESCRIPTION"
-msgstr "Legend explaining the color coding used in the genealogy tree"
+msgstr "Legend beskrivande färgkodninge som används genealogi trädet"
 
 msgid "GENEALOGY_LEGEND_REMOVED"
-msgstr "Removed Flipnote"
+msgstr "Borttagen Flipnote"
 
 msgid "GENEALOGY_LEGEND_UNKNOWN"
-msgstr "Unknown Flipnote"
+msgstr "Okänd Flipnote"
 
 # Link text for genealogy
 msgid "GENEALOGY_LINK_TEXT"
-msgstr "Genealogy"
+msgstr "Genealogi"
 
 # Meta description for genealogy page
 msgid "GENEALOGY_META_DESCRIPTION"
-msgstr "Genealogy showing the spin-off relationships for this Flipnote"
+msgstr "Genealogi visande relationen mellan spin-offs för denna Flipnoten"
 
 # Meta description with specific flipnote description
 msgid "GENEALOGY_META_DESCRIPTION_FOR"
-msgstr "Genealogy for: %s"
+msgstr "Genealogi för: %s"
 
 msgid "GENEALOGY_NAVIGATE_TO"
-msgstr "Navigate to genealogy for this Flipnote"
+msgstr "Navigera till genealogin för denna Flipnoten"
 
 # Message when no genealogy data is available
 msgid "GENEALOGY_NO_DATA"
-msgstr "No genealogy data available for this Flipnote."
+msgstr "Ingen genealogi data tillgänglig för denna Flipnote."
 
 # Main genealogy page title
 msgid "GENEALOGY_PAGE_TITLE"
-msgstr "Flipnote Genealogy"
+msgstr "Flipnote Genealogi"
 
 msgid "GENEALOGY_RESET_VIEW"
-msgstr "Reset view"
+msgstr "Återställ vy"
 
 # Subtitle text for showing genealogy
 msgid "GENEALOGY_SHOWING_FOR"
-msgstr "Showing genealogy for"
+msgstr "Visar genealogi för"
 
 msgid "GENEALOGY_THUMBNAIL_ALT"
-msgstr "Thumbnail for Flipnote by %s"
+msgstr "Förhandsbild för Flipnote av %s"
 
 msgid "GENEALOGY_UNAVAILABLE_FLIPNOTE"
-msgstr "Unavailable Flipnote"
+msgstr "Otillgänglig Flipnote"
 
 # Link title for viewing genealogy
 msgid "GENEALOGY_VIEW_LINK"
-msgstr "View Genealogy"
+msgstr "Visa Genealogi"
 
 msgid "GENEALOGY_ZOOM_IN"
-msgstr "Zoom in"
+msgstr "Zooma in"
 
 msgid "GENEALOGY_ZOOM_OUT"
-msgstr "Zoom out"
+msgstr "Zooma out"
 
 msgid "GENRE"
 msgstr "Genre"
 
 msgid "GET_SUPPORT"
-msgstr "Get Support"
+msgstr "Få Support"
 
 msgid "GIFT_ANONYMOUS"
-msgstr "I'd like to remain anonymous."
+msgstr "Jag vill förbli anonym."
 
 msgid "GIFT_ANONYMOUS_PREVIEW"
-msgstr "This gift will be sent anonymously."
+msgstr "Denna present ska skickas anonymt."
 
 msgid "GIFT_ARE_YOU_SURE"
-msgstr "Are you sure you want to gift a %s ticket to %s?"
+msgstr "Är du säker att du vill ge en %s biljett till %s?"
 
 msgid "GIFT_CONFIRM_NO"
-msgstr "No"
+msgstr "Nej"
 
 msgid "GIFT_CONFIRM_YES"
-msgstr "Yes"
+msgstr "Ja"
 
 msgid "GIFT_ERROR_ALREADY_REDEEMED"
-msgstr "This ticket has already been redeemed."
+msgstr "Denna biljett har redan blivit utlöst."
 
 msgid "GIFT_ERROR_BLOCKING_RECIPIENT"
-msgstr "You cannot gift a ticket to this user as you have blocked them."
+msgstr "Du kan inte ge bort biljetten till denna person då du har blockerat dem."
 
 msgid "GIFT_ERROR_COMMENT_TOO_LONG"
-msgstr "This comment is too long. Please shorten it to 1000 characters or less."
+msgstr "Denna kommentaren är för lång. Korta ner den till 1000 tecken eller mindre."
 
 msgid "GIFT_ERROR_EXPIRED"
-msgstr "This ticket has expired."
+msgstr "Denna biljetten har gått ut."
 
 msgid "GIFT_ERROR_INVALID_CODE"
-msgstr "This is not a valid ticket code. Please check for typos and try again."
+msgstr "Detta är inte en giltig biljettkod. Kolla efter stavfel och försök igen."
 
 msgid "GIFT_ERROR_INVALID_FORMAT"
-msgstr "Please enter a valid 12-digit ticket number."
+msgstr "Snälla skriv en ett giltigt 12 siffrigt biljett nummer."
 
 msgid "GIFT_ERROR_PREVIEW"
-msgstr "There was an issue with previewing the ticket. Please try again."
+msgstr "Det var ett problem med att förhandsvisa biljetten. Snälla försök igen."
 
 msgid "GIFT_ERROR_PROFANE_COMMENT"
-msgstr "This comment violates our Content Policy."
+msgstr "Denna kommentar strider mot våran Content Policy."
 
 msgid "GIFT_ERROR_PUBLIC_TICKET"
-msgstr "This ticket is not giftable."
+msgstr "Denna biljett kan inte ges bort."
 
 msgid "GIFT_ERROR_RECIPIENT_BLOCKING"
-msgstr "You cannot gift a ticket to this user as they have blocked you."
+msgstr "Du kan inte ge denna personen en biljett eftersom du blockerats av dem."
 
 msgid "GIFT_ERROR_SEND"
-msgstr "There was an issue sending the gift. Please try again."
+msgstr "Ett problem uppstod när presenten skulle skickas. Snälla försök igen."
 
 # %s will be the username of the person the user is gifting to.
 msgid "GIFT_INFO_HINT"
-msgstr "You can give %s a Sudomemo Ticket! It will be given to them with an optional message from you. You can also choose to remain anonymous."
+msgstr "Du kan ge %s en Sudomemo Biljett! Det kommer ges till dem med ett valfritt meddelande från dig. Du kan välja att förbli anonym."
 
 # %s will be the username of the person the user is gifting to.
 msgid "GIFT_MESSAGE"
-msgstr "Message to %s"
+msgstr "Meddela till %s"
 
 # %s will be the username of the person the user is gifting to.
 msgid "GIFT_PREVIEW_FOR"
-msgstr "Preview Gift for %s"
+msgstr "Förhandsgranska present för %s"
 
 msgid "GIFT_SEND"
-msgstr "Send Gift"
+msgstr "Skicka present"
 
 # %s will be a link to the Sudomemo Shop, with text from this file's "SUDOMEMO_SHOP" string.
 msgid "GIFT_SHOP_HINT"
-msgstr "Need a ticket code? You can get one by purchasing a ticket from the %s."
+msgstr "Behöver du en present kod? Du kan få en genom att köpa en biljett från %s."
 
 # %s will be the username of the person the user is gifting to.
 msgid "GIFT_SUCCESS_INFO_1"
-msgstr "Your gift to %s has been sent successfully. They will be thrilled to receive your thoughtful present!"
+msgstr "Din present till %s har skickats. De kommer att älska den!"
 
 msgid "GIFT_SUCCESS_INFO_2"
-msgstr "Thank you for spreading joy and happiness within the Sudomemo community!"
+msgstr "Tack för att du sprider glädje på Sudomemo!"
 
 msgid "GIFT_SUCCESS_TITLE"
-msgstr "Gift Sent Successfully!"
+msgstr "Present skickad!"
 
 msgid "GIFT_TICKET"
-msgstr "Gift Ticket"
+msgstr "Ge Biljett"
 
 msgid "GIFT_TICKET_CODE"
-msgstr "Ticket Code"
+msgstr "Biljett kod"
 
 msgid "GIFT_TICKET_PREVIEW"
-msgstr "Ticket Preview"
+msgstr "Biljett förhandsvisning"
 
 # %s will be the username of the person the user is gifting to.
 msgid "GIFT_TICKET_TO"
-msgstr "Gift a ticket to %s"
+msgstr "Ge en biljett till %s som present"
 
 # # はてなID
 msgid "HATENA_ID"
 msgstr "HatenaID"
 
 msgid "HEADER_CHANGE_EMAIL"
-msgstr "Change Email Address"
+msgstr "Ändra Email Adress"
 
 msgid "HEADER_CHANGE_PASSWORD"
-msgstr "Change Password"
+msgstr "Ändra lösenord"
 
 # Upload page specifics
 # Upload to YouTube header
 msgid "HEADER_UPLOAD_TO_YOUTUBE"
-msgstr "Upload to YouTube"
+msgstr "Ladda up till youtube"
 
 msgid "HELP_CENTER"
 msgstr "Hjälpcenter"
@@ -808,56 +808,56 @@ msgid "HOT_FLIPNOTES"
 msgstr "Heta Flipnotes"
 
 msgid "HOURLY_CHAT_MESSAGE_LIMIT_REACHED"
-msgstr "You have reached the hourly chat message limit of %d messages."
+msgstr "Du har uppnåt din gräns på %d meddelanden för denna timmen."
 
 # Do not translate ".sudo unlink"
 msgid "HOW_TO_UNLINK_DISCORD"
-msgstr "To unlink your Discord account, type this command into chat: .sudo unlink"
+msgstr "För att avlänka ditt Discord konto kan du skriva detta kommandot: .sudo unlink"
 
 msgid "IMAGE_MUST_BE_1080X1920"
-msgstr "Image must be 1080x1920."
+msgstr "Bilen måste ha en upplösning på 1080x1920."
 
 msgid "INFO"
 msgstr "Info"
 
 msgid "INVALID_EMAIL_FORMAT"
-msgstr "Please enter a valid email address."
+msgstr "Snälla ange en giltig email adress."
 
 msgid "INVALID_OR_MISSING_CHATROOMID"
-msgstr "Invalid or missing chatroom ID."
+msgstr "Ogiltigt eller saknande chattrums-ID."
 
 msgid "INVALID_OR_MISSING_CHATROOM_ID"
-msgstr "Invalid or missing chatroom ID."
+msgstr "Ogiltigt eller saknande chattrums-ID."
 
 msgid "INVALID_OR_MISSING_MESSAGE_CONTENT"
-msgstr "Invalid or missing message content."
+msgstr "Ogiltig eller saknande meddelandeinnehåll."
 
 msgid "INVALID_OR_MISSING_MESSAGE_ID"
-msgstr "Invalid or missing message ID."
+msgstr "Ogiltig eller saknande meddelande-ID."
 
 msgid "INVALID_REQUEST"
-msgstr "Invalid request."
+msgstr "Ogiltig förfrågan."
 
 msgid "INVALID_SESSION"
-msgstr "Invalid session. Please log in again."
+msgstr "ogiltig session. Vänligen logga in igen."
 
 msgid "IN_REPLY_TO"
-msgstr "In Reply To"
+msgstr "Som svar till"
 
 msgid "LATEST"
 msgstr "Senaste"
 
 msgid "LEARN_MORE"
-msgstr "Learn more"
+msgstr "Lär dig mer"
 
 msgid "LINK_REQUIRED_BEFORE_UPLOAD"
-msgstr "You'll need to link your YouTube channel before you can upload your Flipnote."
+msgstr "Du behöver länka en youtube kanal innan du kan ladda up din Flipnote."
 
 msgid "LOGIN_CONFIRM_PLACEHOLDER"
-msgstr "Confirmation code"
+msgstr "Konfirmations kod"
 
 msgid "LOGIN_CONFIRM_PROMPT"
-msgstr "A confirmation code has been sent to your email address. Please enter it to continue."
+msgstr "An konfirmations kod har skickats till din email adress. Vänligen skriv in den för att fortsätta."
 
 # # Ticket types..
 # Login Page
@@ -865,7 +865,7 @@ msgid "LOGIN_FAILED_CHECK_DETAILS"
 msgstr "Vi kunde inte logga in dig, se till att du skrivit rätt detaljer och försök igen."
 
 msgid "LOGIN_FAILED_RATELIMITED"
-msgstr "You've made too many incorrect login attempts recently. Please try again later."
+msgstr "Du har gjort för många felgiltiga inloggningar nyligen. Snälla försök igen senare."
 
 msgid "LOGIN_PLACEHOLDER_PASSWORD"
 msgstr "Lösenord"
@@ -874,53 +874,53 @@ msgid "LOGIN_PLACEHOLDER_USERNAME"
 msgstr "E-post eller Flipnote Studio ID"
 
 msgid "LOGIN_REQUIRED_FOR_PROFILE_PICTURE"
-msgstr "You must be logged in to change your profile picture."
+msgstr "Du måste vara inloggad för att byta profilbild."
 
 msgid "LOGIN_REQUIRED_TO_DELETE_CHAT_MESSAGE"
-msgstr "Login required to delete a chat message."
+msgstr "Inloggning krävs för att radera meddelandet."
 
 msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
-msgstr "Login required to post a chat message."
+msgstr "Inloggning krävs för att lägga up meddelandet."
 
 msgid "LOGIN_SIGNUP_SELECT_DEVICE"
 msgstr "Välj din enhet"
 
 # Mail reader strings
 msgid "MAIL_READER_TITLE"
-msgstr "Message"
+msgstr "Meddelande"
 
 msgid "MANAGE_PLAYLIST"
-msgstr "Manage Playlist"
+msgstr "Hantera spellistor"
 
 msgid "MERCH"
 msgstr "Merch"
 
 msgid "MESSAGE_CONTAINS_INVALID_CHARACTERS"
-msgstr "Your message contains invalid characters."
+msgstr "Ditt meddelande innehåller ogiltiga tecken."
 
 msgid "MESSAGE_DELETED_SUCCESSFULLY"
-msgstr "Message deleted successfully."
+msgstr "Meddelandet har raderats."
 
 msgid "MESSAGE_NOT_FOUND_OR_ALREADY_DELETED"
-msgstr "Message not found or already deleted."
+msgstr "Meddelandet hittades inte eller har redan raderats."
 
 msgid "MESSAGE_NOT_YOURS_TO_DELETE"
-msgstr "You can only delete your own messages."
+msgstr "Du kan endast radera dina egna meddelanden."
 
 msgid "MESSAGE_POSTED_SUCCESSFULLY"
-msgstr "Message posted successfully."
+msgstr "Meddelandet har laddats upp."
 
 msgid "MESSAGE_TOO_LONG"
-msgstr "Your message is too long."
+msgstr "Ditt meddelande är för långt."
 
 msgid "METHOD_NOT_ALLOWED"
-msgstr "Method not allowed."
+msgstr "Metoden är ej tillåten."
 
 msgid "MODERATOR"
 msgstr "Moderator"
 
 msgid "MODIFIED"
-msgstr "Modified"
+msgstr "Ändrad"
 
 msgid "MORE"
 msgstr "Mer"
@@ -956,7 +956,7 @@ msgid "NAVBAR_ITEM_CONTACT_US"
 msgstr "Kontakta oss"
 
 msgid "NAVBAR_ITEM_CREDITS"
-msgstr "Credits"
+msgstr "Medverkande"
 
 msgid "NAVBAR_ITEM_DISCORD"
 msgstr "Discord"
@@ -1025,20 +1025,20 @@ msgid "NEWS"
 msgstr "Nyheter"
 
 msgid "NEW_EMAIL"
-msgstr "New Email Address"
+msgstr "Ny Email Adress"
 
 # Form validation messages
 msgid "NEW_EMAIL_FIELD_MISSING"
-msgstr "Please enter a new email address."
+msgstr "Vänligen ange en ny email adress."
 
 msgid "NEW_EMAIL_PLACEHOLDER"
-msgstr "Enter your new email address"
+msgstr "Ange din nya email adress"
 
 msgid "NEW_FRAME"
-msgstr "New Frame"
+msgstr "Ny Ram"
 
 msgid "NEW_PROFILE_PICTURE"
-msgstr "New Profile Picture"
+msgstr "Ny Profilbild"
 
 msgid "NEXT"
 msgstr "Nästa"
@@ -1050,205 +1050,205 @@ msgid "NINTENDO_DSI"
 msgstr "Nintendo DSi"
 
 msgid "NONE"
-msgstr "None"
+msgstr "Ingen"
 
 msgid "NOTIFICATION_CONTENT_REMOVED"
-msgstr "was removed for violating community guidelines"
+msgstr "var borttagen för att ha stridit mot våra riktlinjer."
 
 msgid "NOTIFICATION_CONTENT_RESTORED"
-msgstr "has been restored after review"
+msgstr "har blivit återställd efter genomskådning"
 
 msgid "NOTIFICATION_NEW_FRIEND"
-msgstr "added you as a friend"
+msgstr "har lagt till dig som vän"
 
 # Generic strings
 msgid "NOTIFICATION_NEW_MESSAGE"
-msgstr "New message"
+msgstr "Nytt meddelande"
 
 msgid "NOTIFICATION_READ_MESSAGE"
-msgstr "Read Message"
+msgstr "Läs meddelande"
 
 msgid "NOTIFICATION_REPORT_ACCEPTED"
-msgstr "Your report has been accepted and action has been taken"
+msgstr "Din rapport var accepterad och åtgärder har tagits"
 
 msgid "NOTIFICATION_REPORT_REJECTED"
-msgstr "Your report has been reviewed and no action was taken"
+msgstr "Din rapport var genomskådad utan några åtgärder"
 
 msgid "NOTIFICATION_SENT_MESSAGE"
-msgstr "sent you a message"
+msgstr "har skickat ett meddelande"
 
 msgid "NOTIFICATION_SPINOFF_CREATED"
-msgstr "created a spinoff of"
+msgstr "skapade en spin-off av"
 
 msgid "NOTIFICATION_UNKNOWN"
-msgstr "New notification"
+msgstr "Ny notis"
 
 # Notification action strings
 msgid "NOTIFICATION_VIEW_DETAILS"
-msgstr "View Details"
+msgstr "Se detaljer"
 
 msgid "NOTIFICATION_VIEW_MESSAGE"
-msgstr "View Message"
+msgstr "Se meddelande"
 
 msgid "NOTIFICATION_VIEW_SPINOFF"
-msgstr "View Spinoff"
+msgstr "Se spin-off"
 
 msgid "NOTIFICATION_YOUR_FLIPNOTE"
-msgstr "your flipnote"
+msgstr "din flipnote"
 
 msgid "NOT_ENOUGH_DATA_AVAILABLE"
-msgstr "Not enough data available"
+msgstr "Finns inte nog med data tillgänglig"
 
 # Not following anyone message
 msgid "NOT_FOLLOWING_ANYONE_YET"
-msgstr "%s isn't following anyone yet."
+msgstr "%s följer inte någon än."
 
 msgid "NO_ACTIVE_CHANNELS"
-msgstr "No active channels"
+msgstr "Inga aktiva kanaler"
 
 msgid "NO_CATEGORIES_AVAILABLE"
-msgstr "No categories are currently available."
+msgstr "Inga tillgängliga kategorier."
 
 msgid "NO_CHANNELS_FOUND"
-msgstr "No Channels Found"
+msgstr "Inga kanaler hittades"
 
 msgid "NO_CHANNELS_IN_CATEGORY"
-msgstr "There are currently no channels in this category."
+msgstr "Det finns för tillfället inga kanaler i kategorin."
 
 msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
-msgstr "You cannot send chat messages while muted."
+msgstr "Du kan inte skicka meddelanden när du är tystad."
 
 msgid "NO_CONTENT"
-msgstr "No content"
+msgstr "Inga skapelser"
 
 msgid "NO_DESCRIPTION"
-msgstr "No description."
+msgstr "Ingen beskrivning."
 
 msgid "NO_EMAIL_ON_FILE"
-msgstr "No email address on file -- contact Sudomemo Support"
+msgstr "Ingen email tillgänglig -- kontakta Sudomemo kundtjänst"
 
 # No followers message
 msgid "NO_FOLLOWERS_YET"
-msgstr "%s doesn't have any followers yet."
+msgstr "%s har inte några följare än."
 
 msgid "NO_RANKING_DATA"
-msgstr "No Ranking Data Available"
+msgstr "Ingen rankings data tillgänglig"
 
 msgid "NO_RECENT_ACTIVITY"
-msgstr "No recent activity"
+msgstr "Ingen nylig aktivitet"
 
 msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
-msgstr "No user found with that Flipnote Studio ID or email"
+msgstr "Ingen användare med den Flipnote Studio ID eller emailen hittades"
 
 msgid "ONLY_APPLIES_FOR_YOUTUBE_SHORTS"
-msgstr "Only applies for YouTube Shorts"
+msgstr "Gäller endast för YouTube Shorts"
 
 msgid "ONLY_OWNER_CAN_SET_PROFILE_PICTURE"
-msgstr "You can only set your own Flipnotes as your profile picture."
+msgstr "Du kan endast ange dina egna flipnotes som en profilbild."
 
 msgid "PARENT_FLIPNOTE"
-msgstr "Parent Flipnote"
+msgstr "Föräldra-Flipnote"
 
 msgid "PASSWORD_RESET_SENT"
-msgstr "A password reset has been sent to the email address on file."
+msgstr "En lösenordsåterställning har skickats till den tillgängliga emailen."
 
 msgid "PASS_CHANGE_COMPLETE"
-msgstr "Your password has been updated."
+msgstr "Ditt lösenord har ändrats."
 
 msgid "PASS_CHANGE_CONFIRM_PASSWORD"
-msgstr "Confirm Password"
+msgstr "Konfirmera lösenord"
 
 msgid "PASS_CHANGE_CONTINUE_TO_LOGIN"
-msgstr "Continue to login"
+msgstr "Fortsätt till inloggning"
 
 msgid "PASS_CHANGE_PASSWORD"
-msgstr "Change Password"
+msgstr "Ändra lösenord"
 
 msgid "PASS_CHANGE_URL_EXPIRED"
-msgstr "The URL you visited has expired."
+msgstr "Den URL du besökte har löpt ut."
 
 # Channel permissions: Is posting Flipnotes to a channel allowed or not?
 msgid "PERMISSIONS"
 msgstr "Behörigheter"
 
 msgid "PERSONALIZED_RECOMMENDATIONS"
-msgstr "to see personalized recommendations"
+msgstr "för att se personliga rekommendationer"
 
 msgid "PIN"
 msgstr "Pin"
 
 msgid "PINNED_COMMENT"
-msgstr "Pinned Comment"
+msgstr "Pinnad Kommentar"
 
 msgid "PLAYLIST"
-msgstr "Playlist"
+msgstr "Spellista"
 
 msgid "PLAYLISTS"
-msgstr "Playlists"
+msgstr "Spellistor"
 
 msgid "PLAYLIST_ERROR_BLOCKED_BY_AUTHOR"
-msgstr "You cannot add this Flipnote to a playlist because you have been blocked by the Flipnote's author."
+msgstr "Du kan inte lägga till denna flipnoten i någon spellista eftersom du är blockerad av dess skapare."
 
 msgid "PLAYLIST_ERROR_BLOCKING_AUTHOR"
-msgstr "You cannot add this Flipnote to a playlist because you have blocked the Flipnote's author."
+msgstr "Du kan inte lägga till denna flipnoten i någon spellista eftersom du har blockerat dess skapare."
 
 # '%s' will be replaced with an error code when shown to the user.
 msgid "PLAYLIST_ERROR_GENERIC"
-msgstr "An error occurred whilst saving this playlist. Error code: %s."
+msgstr "Ett fel uppstod medans spellistan skulle sparas. Felkod: %s."
 
 msgid "PLAYLIST_ERROR_GENERIC_2"
-msgstr "An error occurred. Error code: %s."
+msgstr "Ett fel uppstod. Felkod: %s."
 
 msgid "PLAYLIST_ERROR_HINT_INCREASE_LIMIT_PLUS"
-msgstr "You could also increase this limit to %s with Sudomemo Plus!"
+msgstr "Du kan föröka gränsen till %s med Sudomemo Plus!"
 
 msgid "PLAYLIST_ERROR_PROFANE_DESC"
-msgstr "This description contains content that goes against our Content Policy."
+msgstr "Denna beskrivningen har innehåll som strider mot våran Content Policy."
 
 msgid "PLAYLIST_ERROR_PROFANE_TITLE"
-msgstr "This title contains content that goes against our Content Policy."
+msgstr "Denna titeln har innehåll som strider mot våran Content Policy."
 
 msgid "PLAYLIST_ERROR_TOO_MANY_FLIPNOTES"
-msgstr "You cannot add another Flipnote to this Playlist as it is at or above the limit of %s Flipnotes. Remove a Flipnote or create a new Playlist, then try again."
+msgstr "Du kan inte lägga till fler flipnotes i denna spellistan då den är begränsad till max %s Flipnotes. Ta bort en flipnote eller skapa en ny spellista, och sedan försök igen."
 
 msgid "PLAYLIST_ERROR_TOO_MANY_PLAYLISTS"
-msgstr "You cannot create a new Playlist as you are at or above the limit of %s Playlists. Delete a Playlist and try again."
+msgstr "Du kan inte skapa en ny spellista då du är begränsad till %s spellistor. Snälla radera en spellista och sedan försök igen."
 
 msgid "PLAYLIST_ID"
-msgstr "Playlist ID"
+msgstr "Spellist ID"
 
 msgid "PLAYLIST_NO_FLIPNOTES"
-msgstr "There have been no Flipnotes added to this playlist yet."
+msgstr "Denna spellistan har inga Flipnotes än."
 
 msgid "PLAYLIST_PRIVATE"
-msgstr "Private"
+msgstr "Privat"
 
 msgid "PLAYLIST_PUBLIC"
-msgstr "Public"
+msgstr "Offentlig"
 
 msgid "PLAYLIST_UNKNOWN"
-msgstr "Unknown"
+msgstr "Okänd"
 
 msgid "PLAYLIST_UNLISTED"
-msgstr "Unlisted"
+msgstr "Olistad"
 
 msgid "PLAYLIST_VISIBILITY"
-msgstr "Visibility"
+msgstr "Synlighet"
 
 msgid "PLEASE_SELECT_FRAME_OR_UPLOAD_CUSTOM_FRAME"
-msgstr "Please select a frame or upload a custom frame."
+msgstr "Snälla välj en ram eller ladda upp en egengjord ram."
 
 msgid "PLEASE_SLOW_DOWN"
-msgstr "Please slow down"
+msgstr "Vänligen sakta ner"
 
 msgid "PLEASE_UPLOAD_VALID_IMAGE_FILE"
-msgstr "Please upload a valid image file (PNG only)."
+msgstr "Vänligen ladda upp en bildfil (endast PNG tillåten)."
 
 msgid "PLUS_LEARN_MORE"
 msgstr "Lär dig mer..."
 
 msgid "PLUS_REQUIRED_TO_POST_CHAT_MESSAGE"
-msgstr "Sudomemo Plus is required to post a chat message."
+msgstr "Sudomemo Plus krävs för att lägga upp ett meddelande."
 
 msgid "POPULAR"
 msgstr "Populär"
@@ -1275,19 +1275,19 @@ msgid "PROFILE_DEFAULT_DESCRIPTION"
 msgstr "%s - %s fans, %s Flipnotes på Sudomemo"
 
 msgid "PROFILE_PICTURE_CHANGED_SUCCESS"
-msgstr "Profile picture changed successfully!"
+msgstr "Profilbilden har ändrats!"
 
 msgid "PROFILE_PICTURE_CHANGE_CONFIRMATION"
-msgstr "Are you sure you want to set this Flipnote as your profile picture?"
+msgstr "Är du säker att du vill ha denna flipnoten som profilbild?"
 
 msgid "PROFILE_PICTURE_CHANGE_FAILED"
-msgstr "Failed to change profile picture. Please try again."
+msgstr "Kunde inte ändra profilbild. Snälla försök igen."
 
 msgid "PROFILE_PICTURE_DESCRIPTION"
-msgstr "You can set this Flipnote as your profile picture. This will be visible on your profile page and when you comment on other Flipnotes."
+msgstr "Du kan sätta denna flipnoten som din profilbild. Den kommer vara synlig på din profil när du kommenterar på flipnotes."
 
 msgid "PROFILE_PICTURE_SECTION_TITLE"
-msgstr "Profile Picture"
+msgstr "Profilbild"
 
 # # Recent comments on their Flipnotes
 msgid "PROFILE_RECENT_COMMENTS"
