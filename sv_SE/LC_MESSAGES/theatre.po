@@ -1913,7 +1913,7 @@ msgid "YOUTUBE_STATUS_FAILED_UNKNOWN"
 msgstr "Uppladdningen misslyckades av en okänd anledning."
 
 msgid "YOUTUBE_STATUS_PAUSED_GLOBAL_QUOTA"
-msgstr "Våran uppladdningsgräns har uppnåtts, därmed kan uppladdningen ta lång tid att bearbetas."
+msgstr "Våran globala uppladdningsgräns har uppnåtts, därmed kan uppladdningen ta lång tid att bearbetas."
 
 msgid "YOUTUBE_STATUS_TRACKER_DONE"
 msgstr "Klar!"
@@ -1965,7 +1965,7 @@ msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_LIMIT_NOTE"
 msgstr "Sudomemo Plus medlemmar kan ladda upp %s videor per dag."
 
 msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_UNLIMITED_NOTE"
-msgstr "Sudomemo Plus  medlemmar kan ladda upp oändligt många videor per dag."
+msgstr "Sudomemo Plus medlemmar kan ladda upp oändligt många videor per dag."
 
 msgid "YOUTUBE_VISIBILITY"
 msgstr "Synlighet"
