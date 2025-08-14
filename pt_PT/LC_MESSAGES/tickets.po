@@ -112,7 +112,7 @@ msgstr "Tens de ter feito login para usar um código."
 
 # "Send Gift *OR* Send Gift Anonymously"
 msgid "OR"
-msgstr "OU"
+msgstr "ou"
 
 # Code Redemption
 msgid "REDEEM_CODE"
@@ -193,7 +193,7 @@ msgid "TICKET_DESC_fate_2024_winner_ticket"
 msgstr "Parabéns a ti, para a tua submissão da competição FATE 2024!"
 
 msgid "TICKET_DESC_fate_2025_winner_ticket"
-msgstr "Congratulations on your winning FATE 2025 submission!"
+msgstr "Parabéns a ti, para a tua submissão da competição FATE 2024!"
 
 msgid "TICKET_DESC_featured_artist_ticket"
 msgstr "Nós te damos os nossos parabéns por tornares-te um Artista Destacado no Sudomemo!"
@@ -352,7 +352,7 @@ msgid "TICKET_NAME_fate_2024_winner_ticket"
 msgstr "Bilhete de Vencedor do FATE 2024"
 
 msgid "TICKET_NAME_fate_2025_winner_ticket"
-msgstr "FATE 2025 Winner Ticket"
+msgstr "Bilhete de Vencedor do FATE 2025"
 
 msgid "TICKET_NAME_featured_artist_ticket"
 msgstr "Bilhete de Artista em Destaque"
