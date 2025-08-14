@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Language: pt_BR\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "FAVORITES"
+msgstr "Favorites"
+
+msgid "NEXT"
+msgstr "Next page"
+
+msgid "PAGE"
+msgstr "Page"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d of %d"
+
+msgid "PREV"
+msgstr "Previous page"
+
+msgid "UPPERSUBBOTTOM"
+msgstr "Please select a channel!"
+
+msgid "UPPERTITLE"
+msgstr "Channels"

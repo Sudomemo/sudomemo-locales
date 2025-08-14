@@ -115,7 +115,7 @@ msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
 msgstr "Il tuo account YouTube non è verificato. Alcune funzioni non saranno disponibili correttamente, come le anteprime dei video e i Flipnote più lunghi di 15 minuti."
 
 msgid "YOUTUBE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
-msgstr "Please contact us on Discord or via email to %s."
+msgstr "Per favore, contattaci su Discord o tramite email a %s."
 
 msgid "YOUTUBE_ESTIMATED_DURATION"
 msgstr "Durata del video stimata:"
@@ -124,7 +124,7 @@ msgid "YOUTUBE_ID"
 msgstr "ID YouTube"
 
 msgid "YOUTUBE_INTEGRATION_BANNED"
-msgstr "Your account and console have been restricted from using our YouTube integration services."
+msgstr "Il tuo account e la tua console sono stati limitati dall'utilizzo dei nostri servizi di integrazione di YouTube."
 
 msgid "YOUTUBE_LOOP_COUNT"
 msgstr "Numero di riproduzioni"

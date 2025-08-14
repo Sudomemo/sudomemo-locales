@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Language: pt_BR\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+# Song Band/Artist
+msgid "ARTIST"
+msgstr "Artist"
+
+msgid "BROWSE"
+msgstr "Browse"
+
+# How many Flipnotes are using this song?
+msgid "FLIPNOTE_COUNT"
+msgstr "Flipnotes"
+
+msgid "GENRE"
+msgstr "Genre"
+
+msgid "HEADER_SONG_DETAILS"
+msgstr "Song Details"
+
+# Creator instructions
+msgid "IF_SONG_INCORRECT"
+msgstr "If an incorrect song is shown on your Flipnote, you can update it on Sudomemo Theatre. To learn more, visit: https://flipnot.es/musicmatch"
+
+msgid "LINK_SPOTIFY"
+msgstr "A Spotify link is available here:"
+
+msgid "LINK_YOUTUBE"
+msgstr "A YouTube link is available here:"
+
+msgid "LINK_YOUTUBE_SPOTIFY"
+msgstr "YouTube and Spotify links are available:"
+
+# Year song was published
+msgid "RELEASE_YEAR"
+msgstr "Released"
+
+msgid "SONG_ID"
+msgstr "Song ID"
+
+# Song Name
+msgid "TITLE"
+msgstr "Title"

@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Language: pt_BR\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "CATEGORY_featured"
+msgstr "@Featured Flipnotes"
+
+msgid "CATEGORY_feed"
+msgstr "@Feed"
+
+msgid "CATEGORY_hot"
+msgstr "@Hot Flipnotes"
+
+msgid "CATEGORY_popular"
+msgstr "@Most Popular"
+
+msgid "CATEGORY_random"
+msgstr "@Random Flipnotes"
+
+msgid "CATEGORY_recent"
+msgstr "@Recent Flipnotes"
+
+msgid "HEADER_BROWSE_FLIPNOTES"
+msgstr "Browse Flipnotes"
+
+msgid "HEADER_FEATURED_FLIPNOTES"
+msgstr "Featured Flipnotes"
+
+msgid "HEADER_FLIPNOTES"
+msgstr "Flipnotes"
+
+msgid "HEADER_HOT_FLIPNOTES"
+msgstr "Hot Flipnotes"
+
+msgid "HEADER_MOST_POPULAR"
+msgstr "Most Popular"
+
+msgid "HEADER_NORMAL"
+msgstr "Recent"
+
+msgid "HEADER_NO_SPINOFFS"
+msgstr "No Spinoffs"
+
+msgid "HEADER_PAGE"
+msgstr "Page"
+
+msgid "HEADER_RANDOM_FLIPNOTES"
+msgstr "Random Flipnotes"
+
+msgid "HEADER_ROLEPLAYS"
+msgstr "Roleplays"
+
+msgid "HEADER_WATCH_HISTORY"
+msgstr "Watch History"
+
+msgid "NEXT"
+msgstr "Next"
+
+msgid "PAGE"
+msgstr "Page"
+
+msgid "PAGE_COUNTER_FORMAT"
+msgstr "%d of %d"
+
+msgid "POST_FLIPNOTE"
+msgstr "Post Flipnote"
+
+msgid "PREV"
+msgstr "Previous"
+
+msgid "SUDOMEMO"
+msgstr "Sudomemo"

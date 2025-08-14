@@ -53,6 +53,9 @@ msgstr "Un des gagnants de la Flipnote Fight Competition de Sudomemo d'automne 2
 msgid "TROPHY_DESC_fate_2024_winner"
 msgstr "A soumis une Flipnote gagnante au FATE 2024"
 
+msgid "TROPHY_DESC_fate_2025_winner"
+msgstr "A soumis une Flipnote gagnante au FATE 2025"
+
 msgid "TROPHY_DESC_featured_artist"
 msgstr "Soyez reconnu en tant qu'artiste vedette de Sudomemo"
 
@@ -149,6 +152,9 @@ msgstr "Soumettez une participation déclarée gagnante du Weekly Topic (thème 
 msgid "TROPHY_DESC_welcoming_champion"
 msgstr "A obtenu le titre de Champion de l'Accueil."
 
+msgid "TROPHY_EARNED"
+msgstr "Nouveau trophée !"
+
 msgid "TROPHY_NAME_10th_birthday_bash"
 msgstr "Fête du 10ème anniversaire"
 
@@ -184,7 +190,10 @@ msgid "TROPHY_NAME_fall_2024_ffc_winner"
 msgstr "Lauréat de la Flipnote Fight Competition de Sudomemo d'automne 2024"
 
 msgid "TROPHY_NAME_fate_2024_winner"
-msgstr "Gagnant du FATE 2024"
+msgstr "Lauréat du FATE 2024"
+
+msgid "TROPHY_NAME_fate_2025_winner"
+msgstr "Lauréat du FATE 2025"
 
 msgid "TROPHY_NAME_featured_artist"
 msgstr "Artiste en vedette"

@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Language: fr_CA\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "CONTENT_ID"
+msgstr "Content ID:"
+
+# # continued message...
+msgid "CONTENT_RESTORED_CONTINUED"
+msgstr "The content has been restored to public view, and there's nothing more that you need to do."
+
+msgid "CONTENT_TYPE"
+msgstr "Content type:"
+
+msgid "CONTENT_TYPE_chat_message"
+msgstr "Chat message"
+
+msgid "CONTENT_TYPE_comment"
+msgstr "Comment"
+
+# ## Catch-all
+msgid "CONTENT_TYPE_content"
+msgstr "Other content"
+
+# # Content types
+msgid "CONTENT_TYPE_flipnote"
+msgstr "Flipnote"
+
+msgid "CONTENT_TYPE_profile_bio"
+msgstr "Profile text"
+
+# ## We plan on adding user-created themes.
+msgid "CONTENT_TYPE_room_theme"
+msgstr "Creator's Room theme"
+
+# Content Removed - sent to user when a piece of their content has been restored
+msgid "NOTICE"
+msgstr "Notice"
+
+# # Intro
+msgid "USER_CONTENT_RESTORED"
+msgstr "Something you posted that was previously removed has been restored after further review."

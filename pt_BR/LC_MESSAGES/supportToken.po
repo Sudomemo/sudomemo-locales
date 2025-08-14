@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Language: pt_BR\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "APPLICATION_TOKEN"
+msgstr "App Token"
+
+msgid "APPLICATION_TOKEN_INFO"
+msgstr "Here is your App Token, which can be used for certain apps that require it. Don't share this token with anyone."
+
+msgid "APPLICATION_TOKEN_INFO_2"
+msgstr "This token cannot be used to request support."
+
+msgid "DO_NOT_SHARE_TOKEN"
+msgstr "Don't share this token with anyone. If someone reaches out to you claiming to be Sudomemo Support and asks you for this token, don't give it to them."
+
+msgid "GET_APPLICATION_TOKEN"
+msgstr "Get App Token"
+
+msgid "GET_SUPPORT_TOKEN"
+msgstr "Get Support Token"
+
+msgid "HATENA_ID_VERIFICATION"
+msgstr "Hatena ID Verification"
+
+msgid "HATENA_ID_VERIFICATION_INTRO"
+msgstr "This tool allows you to verify ownership of a Hatena ID when working with Sudomemo Support."
+
+msgid "HATENA_ID_VERIFICATION_INTRO_2"
+msgstr "You will be prompted to log in to your Hatena Account, after which you will receive a Support Token."
+
+msgid "LOGIN_FIRST_BEFORE_SUPPORT_TOKEN"
+msgstr "It looks like you already have an account. Please log in first before requesting a Support Token."
+
+msgid "SUPPORT_TOKEN"
+msgstr "Support Token"
+
+msgid "SUPPORT_TOKEN_INFO"
+msgstr "Here is your Support Token, which you were asked for when you contacted Sudomemo Support."
+
+msgid "YOU_ARE_REQUESTING_APPLICATION_TOKEN"
+msgstr "You are now requesting an App Token, which is used for certain apps that require it."
+
+msgid "YOU_ARE_REQUESTING_SUPPORT_TOKEN"
+msgstr "You are now requesting a Support Token, which is used to verify your identity when you contact Sudomemo Support."

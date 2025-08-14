@@ -1,0 +1,292 @@
+msgid ""
+msgstr ""
+"Language: pt_BR\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "ACHIEVEMENT_EARNED"
+msgstr "Achievement Get!"
+
+msgid "CASE_IS_EMPTY"
+msgstr "The Trophy Case is empty."
+
+msgid "CONTINUE"
+msgstr "Continue"
+
+# Trophy Case
+# # UI Headers, messages, labels
+msgid "TROPHY_CASE"
+msgstr "Trophy Case"
+
+msgid "TROPHY_DESC_10th_birthday_bash"
+msgstr "Attended Sudomemo's 10th Birthday Bash event"
+
+msgid "TROPHY_DESC_11th_birthday_bash"
+msgstr "Attended Sudomemo's 11th Birthday Bash event"
+
+msgid "TROPHY_DESC_7th_birthday_bash"
+msgstr "Attended Sudomemo's 7 Years of Flipnote Fun event"
+
+msgid "TROPHY_DESC_8th_birthday_bash"
+msgstr "Attended Sudomemo's 8 Years of Flipnote Fun event"
+
+msgid "TROPHY_DESC_9th_birthday_bash"
+msgstr "Attended Sudomemo's 9th Birthday Bash event"
+
+msgid "TROPHY_DESC_archive_supporter"
+msgstr "Contributor to the Flipnote Archive Ko-Fi to help preserve Flipnote history!"
+
+msgid "TROPHY_DESC_colors_promo"
+msgstr "One of the winners of the Sudomemo x Colors joint topic, Into The Light"
+
+msgid "TROPHY_DESC_demo_tester"
+msgstr "Participate in the 2017 Sudomemo Update Demo Testing program"
+
+msgid "TROPHY_DESC_early_adopter"
+msgstr "Join Sudomemo during our first month of service"
+
+msgid "TROPHY_DESC_fall_2023_ffc_winner"
+msgstr "One of the winners of the Fall 2023 Sudomemo Flipnote Fight Competition!"
+
+msgid "TROPHY_DESC_fall_2024_ffc_winner"
+msgstr "One of the winners of the Fall 2024 Sudomemo Flipnote Fight Competition!"
+
+msgid "TROPHY_DESC_fate_2024_winner"
+msgstr "Submitted a winning Flipnote to FATE 2024"
+
+msgid "TROPHY_DESC_fate_2025_winner"
+msgstr "Submitted a winning Flipnote to FATE 2025"
+
+msgid "TROPHY_DESC_featured_artist"
+msgstr "Get recognized as a Sudomemo Featured Artist"
+
+msgid "TROPHY_DESC_featured_flipnote"
+msgstr "Have a Flipnote featured"
+
+msgid "TROPHY_DESC_ffotd"
+msgstr "Post the first Flipnote of a new decade"
+
+msgid "TROPHY_DESC_fifth_bday_event"
+msgstr "Attended Sudomemo's fifth birthday party"
+
+msgid "TROPHY_DESC_flipnote_friends"
+msgstr "Became Flipnote Friends with someone who uses Sudomemo!"
+
+msgid "TROPHY_DESC_folder"
+msgstr "Donate spare compute time to Folding@Home to help fight disease"
+
+msgid "TROPHY_DESC_legacy_citizen"
+msgstr "Had Sudomemo Citizenship before it became Plus"
+
+msgid "TROPHY_DESC_meet_bailey_flitwing"
+msgstr "Curious about the world outside her nest."
+
+msgid "TROPHY_DESC_meet_lazy_paisley"
+msgstr "Enjoys his simple life. And food."
+
+msgid "TROPHY_DESC_meet_mitsuo_meow"
+msgstr "Wants to bring good luck and happiness to everyone around her."
+
+msgid "TROPHY_DESC_meet_russell_ramblewood"
+msgstr "He's flamboyant to a fault, but still wants to hear about your day."
+
+msgid "TROPHY_DESC_meet_ziggy_starburst"
+msgstr "Living his life day by day with a touch of added flair."
+
+msgid "TROPHY_DESC_merch"
+msgstr "Owner of some Sudomemo swag — you're officially part of the cool crew."
+
+msgid "TROPHY_DESC_neighborhood_watch"
+msgstr "Correctly flag content that violates our Content Policy"
+
+msgid "TROPHY_DESC_nitro_booster"
+msgstr "Showed how cool they (or a friend) were by boosting the Sudomemo Discord server."
+
+msgid "TROPHY_DESC_one_million_flips_event"
+msgstr "Attend the One-Million Flipnotes event"
+
+msgid "TROPHY_DESC_patreon_patron"
+msgstr "Supported Sudomemo through Patreon"
+
+msgid "TROPHY_DESC_rewind_2021"
+msgstr "Featured in 2021's Sudomemo Rewind!"
+
+msgid "TROPHY_DESC_rewind_2022"
+msgstr "Featured in 2022's Sudomemo Rewind!"
+
+msgid "TROPHY_DESC_rewind_2023"
+msgstr "Featured in 2023's Sudomemo Rewind!"
+
+msgid "TROPHY_DESC_rewind_2024"
+msgstr "Featured in 2024's Sudomemo Rewind!"
+
+msgid "TROPHY_DESC_spookmaster"
+msgstr "Spookmaster Award for Excellence in Witchcraft and Wizardry."
+
+msgid "TROPHY_DESC_spring_2023_ffc_winner"
+msgstr "One of the winners of the first Sudomemo Flipnote Fight Competition!"
+
+msgid "TROPHY_DESC_spring_2024_ffc_winner"
+msgstr "One of the winners of the Spring 2024 Sudomemo Flipnote Fight Competition!"
+
+msgid "TROPHY_DESC_spring_2025_ffc_winner"
+msgstr "One of the winners of the Spring 2025 Sudomemo Flipnote Fight Competition!"
+
+msgid "TROPHY_DESC_sudomemo_radio"
+msgstr "Contributed content to an episode of Sudomemo Radio"
+
+msgid "TROPHY_DESC_sudomemo_radio_pilot"
+msgstr "Contributed content to the very first episode of Sudomemo Radio"
+
+msgid "TROPHY_DESC_translator"
+msgstr "Contribute translations to make Sudomemo open to everyone"
+
+msgid "TROPHY_DESC_visited_wii_room"
+msgstr "Visited Sudomemo's Room on Wii Room!"
+
+msgid "TROPHY_DESC_wcf_2025_winner"
+msgstr "Winner of Sudomemo's 2025 Winter Comedy Fest"
+
+msgid "TROPHY_DESC_weekly_topic_winner"
+msgstr "Submit a winning entry to Sudomemo's Weekly Topic"
+
+msgid "TROPHY_DESC_welcoming_champion"
+msgstr "Earned the title of Welcoming Champion."
+
+msgid "TROPHY_EARNED"
+msgstr "New Trophy!"
+
+msgid "TROPHY_NAME_10th_birthday_bash"
+msgstr "10th Birthday Bash"
+
+msgid "TROPHY_NAME_11th_birthday_bash"
+msgstr "11th Birthday Bash"
+
+msgid "TROPHY_NAME_7th_birthday_bash"
+msgstr "7th Birthday Bash"
+
+msgid "TROPHY_NAME_8th_birthday_bash"
+msgstr "8th Birthday Bash"
+
+msgid "TROPHY_NAME_9th_birthday_bash"
+msgstr "9th Birthday Bash"
+
+msgid "TROPHY_NAME_archive_supporter"
+msgstr "Archive Supporter"
+
+msgid "TROPHY_NAME_colors_promo"
+msgstr "Colors! x Sudomemo Topic Winner"
+
+# # Trophy names and descriptions
+msgid "TROPHY_NAME_demo_tester"
+msgstr "Demo Tester"
+
+msgid "TROPHY_NAME_early_adopter"
+msgstr "Early Adopter"
+
+msgid "TROPHY_NAME_fall_2023_ffc_winner"
+msgstr "Fall 2023 Sudomemo Flipnote Fight Competition Winner"
+
+msgid "TROPHY_NAME_fall_2024_ffc_winner"
+msgstr "Fall 2024 Sudomemo Flipnote Fight Competition Winner"
+
+msgid "TROPHY_NAME_fate_2024_winner"
+msgstr "FATE 2024 Winner"
+
+msgid "TROPHY_NAME_fate_2025_winner"
+msgstr "FATE 2025 Winner"
+
+msgid "TROPHY_NAME_featured_artist"
+msgstr "Featured Artist"
+
+msgid "TROPHY_NAME_featured_flipnote"
+msgstr "Featured Flipnote"
+
+msgid "TROPHY_NAME_ffotd"
+msgstr "First Flipnote of the Decade"
+
+msgid "TROPHY_NAME_fifth_bday_event"
+msgstr "Sudomemo's Fifth Birthday Party"
+
+msgid "TROPHY_NAME_flipnote_friends"
+msgstr "Flipnote Friends"
+
+msgid "TROPHY_NAME_folder"
+msgstr "Folder"
+
+msgid "TROPHY_NAME_legacy_citizen"
+msgstr "Legacy Citizen"
+
+msgid "TROPHY_NAME_meet_bailey_flitwing"
+msgstr "Meet Bailey Flitwing"
+
+msgid "TROPHY_NAME_meet_lazy_paisley"
+msgstr "Meet Lazy Paisley"
+
+msgid "TROPHY_NAME_meet_mitsuo_meow"
+msgstr "Meet Mitsuo Meow"
+
+msgid "TROPHY_NAME_meet_russell_ramblewood"
+msgstr "Meet Russell Ramblewood"
+
+msgid "TROPHY_NAME_meet_ziggy_starburst"
+msgstr "Meet Ziggy Starburst"
+
+msgid "TROPHY_NAME_merch"
+msgstr "Merch Owner"
+
+msgid "TROPHY_NAME_neighborhood_watch"
+msgstr "Neighborhood Watch"
+
+msgid "TROPHY_NAME_nitro_booster"
+msgstr "Nitro Booster"
+
+msgid "TROPHY_NAME_one_million_flips_event"
+msgstr "One Million Flipnotes Event"
+
+msgid "TROPHY_NAME_patreon_patron"
+msgstr "Sudomemo Patron"
+
+msgid "TROPHY_NAME_rewind_2021"
+msgstr "Sudomemo Rewind 2021"
+
+msgid "TROPHY_NAME_rewind_2022"
+msgstr "Sudomemo Rewind 2022"
+
+msgid "TROPHY_NAME_rewind_2023"
+msgstr "Sudomemo Rewind 2023"
+
+msgid "TROPHY_NAME_rewind_2024"
+msgstr "Sudomemo Rewind 2024"
+
+msgid "TROPHY_NAME_spookmaster"
+msgstr "Spookmaster"
+
+msgid "TROPHY_NAME_spring_2023_ffc_winner"
+msgstr "Spring 2023 Sudomemo Flipnote Fight Competition Winner"
+
+msgid "TROPHY_NAME_spring_2024_ffc_winner"
+msgstr "Spring 2024 Sudomemo Flipnote Fight Competition Winner"
+
+msgid "TROPHY_NAME_spring_2025_ffc_winner"
+msgstr "Spring 2025 Sudomemo Flipnote Fight Competition Winner"
+
+msgid "TROPHY_NAME_sudomemo_radio"
+msgstr "Sudomemo Radio Contributor"
+
+msgid "TROPHY_NAME_sudomemo_radio_pilot"
+msgstr "Sudomemo Radio Pilot Contributor"
+
+msgid "TROPHY_NAME_translator"
+msgstr "Translator"
+
+msgid "TROPHY_NAME_visited_wii_room"
+msgstr "Wii Room Trophy"
+
+msgid "TROPHY_NAME_wcf_2025_winner"
+msgstr "2025 Winter Comedy Fest Winner"
+
+msgid "TROPHY_NAME_weekly_topic_winner"
+msgstr "Weekly Topic Winner"
+
+msgid "TROPHY_NAME_welcoming_champion"
+msgstr "Welcoming Champion"

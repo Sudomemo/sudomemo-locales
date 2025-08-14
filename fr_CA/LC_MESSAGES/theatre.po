@@ -1,0 +1,1990 @@
+msgid ""
+msgstr ""
+"Language: fr_CA\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "404_GO_BACK"
+msgstr "Back to Sudomemo Theatre"
+
+# 404 Page
+msgid "404_OOPS_NOT_FOUND"
+msgstr "Oops - That page couldn't be found"
+
+msgid "404_WHOOPS_NOT_THERE"
+msgstr "Whoops! Whatever you were looking for, it wasn't there."
+
+# Account Settings (Theatre)
+msgid "ACCOUNT_SETTINGS"
+msgstr "Account Settings"
+
+msgid "ADD_TO_NEW_PLAYLIST"
+msgstr "Add to new Playlist"
+
+msgid "ADD_TO_PLAYLIST"
+msgstr "Add to Playlist"
+
+msgid "ALT_DRAWN_COMMENT_BY_USER"
+msgstr "Drawn comment by %s"
+
+msgid "ALT_USER_PROFILE_PICTURE"
+msgstr "%s's profile picture"
+
+# Front Page
+# # Alt tags, aria labels
+msgid "ALT_WEEKLY_TOPIC_BANNER"
+msgstr "Banner advertising the Weekly Topic"
+
+msgid "ARCHIVE"
+msgstr "Archive"
+
+msgid "ARCHIVED"
+msgstr "Archived"
+
+msgid "ARCHIVE_FLIPNOTE"
+msgstr "Archive Flipnote"
+
+msgid "ARCHIVE_FLIPNOTE_DESC"
+msgstr "This Flipnote was originally posted on Flipnote Hatena."
+
+msgid "ARCHIVE_PROFILE"
+msgstr "Archive Profile"
+
+msgid "ARCHIVE_PROFILE_DESC"
+msgstr "This is an archive of a Flipnote Hatena profile."
+
+# Very common terms and one-word translations
+msgid "ARTIST"
+msgstr "Artist"
+
+msgid "AUTOPLAY_BLOCKED_TOOLTIP_HEADER"
+msgstr "Autoplay Blocked"
+
+# Chrome autoplay help message
+msgid "AUTOPLAY_HELP_CHROME"
+msgstr "Click the settings icon in the address bar → Site Settings → Set 'Sound' to \"Allow\"."
+
+# Edge autoplay help message  
+msgid "AUTOPLAY_HELP_EDGE"
+msgstr "Click the 🔒 padlock in the address bar → Permissions for this site → Set 'Sound' to \"Allow\"."
+
+# Firefox autoplay help message
+msgid "AUTOPLAY_HELP_FIREFOX"
+msgstr "Click the crossed-out play button next to the 🔒 padlock in the address bar → Set 'Autoplay' to \"Allow Audio and Video\"."
+
+# Generic autoplay help message for unknown browsers
+msgid "AUTOPLAY_HELP_GENERIC"
+msgstr "Autoplay may be blocked. Check your browser's site settings."
+
+# Safari autoplay help message
+msgid "AUTOPLAY_HELP_SAFARI"
+msgstr "Right-click the address bar → \"Settings for This Website...\" → Auto-Play → Allow All Auto-Play."
+
+# Back, in the sense of navigation
+msgid "BACK"
+msgstr "Back"
+
+msgid "BACK_TO_CATEGORIES"
+msgstr "Back to Categories"
+
+msgid "BACK_TO_MAIL"
+msgstr "Back to Mail"
+
+msgid "BATCH_EDIT_DESCRIPTION_PLACEHOLDER"
+msgstr "Description"
+
+msgid "BATCH_EDIT_DONE_MESSAGE"
+msgstr "All done! No more Flipnotes."
+
+msgid "BATCH_EDIT_INSTRUCTIONS"
+msgstr "Give each Flipnote a title and description so viewers can find it! Without them, your Flipnote will get lost in the crowd."
+
+msgid "BATCH_EDIT_PAGE_TITLE"
+msgstr "Flipnote Batch Editor"
+
+msgid "BATCH_EDIT_PANEL_TITLE"
+msgstr "Flipnote Batch Editor"
+
+msgid "BATCH_EDIT_PREVIEW_TIP"
+msgstr "Click the preview to load player"
+
+msgid "BATCH_EDIT_SAVE_AND_NEXT"
+msgstr "Save & Next"
+
+msgid "BATCH_EDIT_SKIP_BUTTON"
+msgstr "Skip"
+
+msgid "BATCH_EDIT_TITLE_PLACEHOLDER"
+msgstr "Title"
+
+msgid "BIO"
+msgstr "Bio"
+
+msgid "BIO_CLEARED"
+msgstr "Bio cleared."
+
+msgid "BIO_CONTAINS_INVALID_OR_PROHIBITED_TEXT"
+msgstr "Bio contains invalid or prohibited text."
+
+msgid "BIO_FIELD_MISSING"
+msgstr "Bio field is missing."
+
+msgid "BIO_PLACEHOLDER"
+msgstr "Enter your bio here..."
+
+msgid "BIO_UPDATED_SUCCESSFULLY"
+msgstr "Bio updated successfully."
+
+# Browse Channel
+msgid "BROWSE_CHANNEL_NO_FLIPNOTES_YET"
+msgstr "There have been no Flipnotes posted to this channel yet."
+
+# Browse Song
+msgid "BROWSE_SONG_NO_FLIPNOTES_YET"
+msgstr "There have been no Flipnotes posted with this song yet."
+
+# Additional things
+# See Flipnotes with the song <song name> by <band/artist name>
+msgid "BROWSE_SONG_YOU_ARE_BROWSING_SONG"
+msgstr "See Flipnotes with the song %s by %s"
+
+msgid "BTN_GET_STARTED"
+msgstr "Get Started"
+
+msgid "BTN_GO_TO_SETTINGS"
+msgstr "Go to Settings"
+
+msgid "BTN_JOIN_DISCORD"
+msgstr "Join Discord"
+
+msgid "BTN_SIGN_IN_WITH_GOOGLE"
+msgstr "Sign in with Google"
+
+msgid "BTN_STARTING_UPLOAD"
+msgstr "Starting..."
+
+msgid "BTN_START_UPLOAD"
+msgstr "Start Upload"
+
+# Discord unlink button text
+msgid "BTN_UNLINK_DISCORD"
+msgstr "Unlink Discord Account"
+
+msgid "BTN_UPLOAD_FAILED"
+msgstr "Upload failed..."
+
+msgid "BY"
+msgstr "by"
+
+msgid "CANCEL"
+msgstr "Cancel"
+
+msgid "CANCEL_PROFILE_PICTURE_CHANGE"
+msgstr "Cancel"
+
+msgid "CANCEL_REPLY"
+msgstr "Cancel"
+
+msgid "CANNOT_POST_LINKS"
+msgstr "Links are not allowed in chat messages."
+
+msgid "CANNOT_POST_THIS_MESSAGE"
+msgstr "Cannot post this message."
+
+msgid "CANNOT_SEND_EMPTY_MESSAGE"
+msgstr "You cannot send an empty message."
+
+msgid "CANNOT_USE_PROFANITY"
+msgstr "Your message contains inappropriate language."
+
+msgid "CATEGORIES"
+msgstr "Categories"
+
+msgid "CATEGORY"
+msgstr "Category"
+
+msgid "CHANGE_PROFILE_PICTURE"
+msgstr "Change Profile Picture"
+
+msgid "CHANNEL"
+msgstr "Channel"
+
+msgid "CHANNELS"
+msgstr "Channels"
+
+msgid "CHANNEL_CAT_NAME_ART"
+msgstr "Art"
+
+msgid "CHANNEL_CAT_NAME_FANDOMS"
+msgstr "Fandoms"
+
+msgid "CHANNEL_CAT_NAME_GENRES"
+msgstr "Genres"
+
+# # categories
+msgid "CHANNEL_CAT_NAME_NONE"
+msgstr "None"
+
+msgid "CHANNEL_CAT_NAME_PERSONAL"
+msgstr "Personal"
+
+msgid "CHANNEL_CAT_NAME_RESOURCES"
+msgstr "Resources"
+
+msgid "CHANNEL_CAT_NAME_ROLEPLAYS"
+msgstr "Roleplays"
+
+msgid "CHANNEL_CAT_NAME_TOPICS"
+msgstr "Topics"
+
+msgid "CHANNEL_CAT_NAME_WEEKLY_TOPIC"
+msgstr "Weekly Topic"
+
+# # Posting permissions
+msgid "CHANNEL_PERM_CLOSED"
+msgstr "Closed"
+
+msgid "CHANNEL_PERM_OPEN"
+msgstr "Open"
+
+msgid "CHANNEL_RANKING"
+msgstr "Channel Ranking"
+
+msgid "CHANNEL_RANKING_SIDEBAR"
+msgstr "Channel Ranking"
+
+msgid "CHANNEL_WATCHING_NOW"
+msgstr "Currently watching %s"
+
+msgid "CHAT"
+msgstr "Chat"
+
+msgid "CHATROOM_ACCESS_DENIED"
+msgstr "You do not have access to this chatroom."
+
+msgid "CHATROOM_DISABLED"
+msgstr "This chatroom is disabled."
+
+msgid "CHATROOM_NOT_FOUND"
+msgstr "Chatroom not found."
+
+msgid "CHATROOM_UNAVAILABLE"
+msgstr "This chatroom is currently unavailable."
+
+msgid "CHAT_DELETE_FAILED"
+msgstr "Failed to delete the chat message."
+
+msgid "CHAT_REPLY_FAILED"
+msgstr "Failed to reply to the chat."
+
+# This used to say "Chronological", but it has since been simplified to just "Oldest".
+msgid "CHRONOLOGICAL"
+msgstr "Oldest"
+
+msgid "CLOSE"
+msgstr "Close"
+
+msgid "COMMENTS"
+msgstr "Comments"
+
+msgid "COMMENT_FAILED_USER_BANNED"
+msgstr "You cannot post messages because you are banned."
+
+msgid "CONFIRMATION_CODE_REQUIRED"
+msgstr "A confirmation code is required."
+
+# Discord unlink confirmation dialog
+msgid "CONFIRM_DISCORD_UNLINK"
+msgstr "Are you sure you want to unlink your Discord account? This will remove the connection between your Discord and Sudomemo accounts."
+
+msgid "CONFIRM_EMAIL_BEFORE_POSTING"
+msgstr "You must confirm your email before posting."
+
+msgid "CONFIRM_PROFILE_PICTURE_CHANGE"
+msgstr "Confirm Profile Picture Change"
+
+msgid "CONFIRM_PROFILE_PICTURE_CHANGE_ACTION"
+msgstr "Set as Profile Picture"
+
+msgid "CONTENT_POLICY"
+msgstr "Content Policy"
+
+msgid "CONTENT_TYPE_comment"
+msgstr "comment"
+
+# Content type strings
+msgid "CONTENT_TYPE_flipnote"
+msgstr "flipnote"
+
+msgid "CONTENT_TYPE_profile"
+msgstr "profile"
+
+msgid "CONTINUE"
+msgstr "Continue"
+
+msgid "COULD_NOT_SAVE_DETAILS"
+msgstr "Couldn't save details"
+
+msgid "CREATED"
+msgstr "Created"
+
+msgid "CREATE_NEW_PLAYLIST"
+msgstr "Create New Playlist"
+
+msgid "CREATOR"
+msgstr "Creator"
+
+msgid "CREATORS"
+msgstr "Creators"
+
+msgid "CREATORS_ROOM"
+msgstr "Creator's Room"
+
+msgid "CURRENT_EMAIL"
+msgstr "Current Email"
+
+msgid "CURRENT_PROFILE_PICTURE"
+msgstr "Current Profile Picture"
+
+msgid "CUSTOM_FRAMES"
+msgstr "Custom Frames"
+
+# November 29th, 2019 08:23:07
+# Used for Flipnote Details
+msgid "DATETIME_MONTH_DAY_ORDINAL_HOUR_MINUTE_SECOND_FORMAT"
+msgstr "F jS, Y H:i:s"
+
+# Date-time formats
+# You can adjust the way dates display to match your region better.
+# These are named after what they are in "American"-style format.
+# Follow this guide: https://www.php.net/manual/en/function.date.php
+# Test with this tool: http://php.fnlist.com/date_time/date
+# Wednesday, December 3rd, 2019
+# Used for news articles
+msgid "DATETIME_WEEKDAY_MONTH_DAY_ORDINAL_YEAR_FORMAT"
+msgstr "l, F jS, Y"
+
+msgid "DEFAULT_META_DESCRIPTION"
+msgstr "Sudomemo: Share your Flipnotes with the world! For Nintendo DSi and 3DS."
+
+msgid "DELETE"
+msgstr "Delete"
+
+msgid "DELETE_PLAYLIST"
+msgstr "Delete Playlist"
+
+msgid "DELETE_PLAYLIST_CONFIRM_1"
+msgstr "Are you sure you want to delete this playlist?"
+
+msgid "DELETE_PLAYLIST_CONFIRM_2"
+msgstr "This action is irreversible!"
+
+msgid "DELETE_PLAYLIST_CONFIRM_NO"
+msgstr "No"
+
+msgid "DELETE_PLAYLIST_CONFIRM_YES"
+msgstr "Yes"
+
+msgid "DESCRIPTION"
+msgstr "Description"
+
+msgid "DESCRIPTION_WILL_GO_HERE"
+msgstr "Your description will go here."
+
+msgid "DETAILS"
+msgstr "Details"
+
+# This refers to Discord, which is a chat app.
+msgid "DISCORD"
+msgstr "Discord"
+
+msgid "DISCORD_HOW_TO_LINK"
+msgstr "How to Link"
+
+# Connected since December 27th, 2020
+msgid "DISCORD_LINKED_ON_DATE"
+msgstr "Connected since %s"
+
+# Discord unlink explanation text
+msgid "DISCORD_UNLINK_EXPLANATION"
+msgstr "You can unlink your Discord account from your Sudomemo account using the button below. This will remove the connection between your accounts."
+
+# Discord unlink success message
+msgid "DISCORD_UNLINK_SUCCESS"
+msgstr "Discord account unlinked successfully!"
+
+msgid "DOWNLOADS"
+msgstr "Downloads"
+
+# Flipnote View Page
+msgid "EDIT_FLIPNOTE"
+msgstr "Edit Flipnote"
+
+# # MusicMatch
+msgid "EDIT_PAGE_ABOUT_MUSICMATCH_1"
+msgstr "Sudomemo's MusicMatch listens to your Flipnote to find what music it uses!"
+
+msgid "EDIT_PAGE_ABOUT_MUSICMATCH_2"
+msgstr "MusicMatch will sometimes find more than one potential song, or pick the wrong one. If this happens, you can update the displayed song here."
+
+msgid "EDIT_PAGE_ABOUT_MUSICMATCH_3"
+msgstr "If you update the song, MusicMatch will learn from that information to better detect songs from Flipnote audio in the future."
+
+msgid "EDIT_PAGE_DESCRIPTION_TOOLTIP"
+msgstr "Letters, numbers, and symbols, maximum of 320 characters."
+
+msgid "EDIT_PAGE_ENTER_A_DESCRIPTION"
+msgstr "Enter a description"
+
+msgid "EDIT_PAGE_ENTER_A_TITLE"
+msgstr "Enter a title"
+
+msgid "EDIT_PAGE_FLIPNOTE_PREVIEW_NOTE"
+msgstr "Note: Flipnote preview does not update."
+
+msgid "EDIT_PAGE_MUSICMATCH_NONE_CORRECT"
+msgstr "None of these are correct"
+
+msgid "EDIT_PAGE_MUSICMATCH_NO_BGM"
+msgstr "Your Flipnote does not have a background audio track."
+
+msgid "EDIT_PAGE_MUSICMATCH_PENDING_MAPPING"
+msgstr "MusicMatch is currently processing your Flipnote. Check back again later."
+
+msgid "EDIT_PAGE_MUSICMATCH_PREVIEW_ON_SPOTIFY"
+msgstr "Preview on Spotify"
+
+msgid "EDIT_PAGE_MUSICMATCH_PREVIEW_ON_YOUTUBE"
+msgstr "Preview on YouTube Music"
+
+msgid "EDIT_PAGE_MUSICMATCH_UNMAPPED"
+msgstr "MusicMatch hasn't gotten to your Flipnote yet. Check back again later."
+
+msgid "EDIT_PAGE_MUSICMATCH_UNMATCHED"
+msgstr "MusicMatch couldn't find any songs matching your Flipnote."
+
+msgid "EDIT_PAGE_PLUS_AUDIO_ENHANCEMENT"
+msgstr "Audio Enhancement"
+
+# Flipnote smoothing
+msgid "EDIT_PAGE_PLUS_SMOOTHING"
+msgstr "Smoothing"
+
+msgid "EDIT_PAGE_SUDOMEMO_PLUS_REQUIRED"
+msgstr "You'll need Sudomemo Plus to use these features."
+
+msgid "EDIT_PAGE_TITLE_AND_DESCRIPTION"
+msgstr "Title and Description"
+
+msgid "EDIT_PAGE_TITLE_TOOLTIP"
+msgstr "Letters, numbers, and symbols, maximum of 40 characters."
+
+msgid "EDIT_PLAYLIST"
+msgstr "Edit Playlist"
+
+msgid "EMAIL_ALREADY_IN_USE"
+msgstr "This email address is already in use by another account."
+
+msgid "EMAIL_CHANGE_ALREADY_PENDING"
+msgstr "You already have a pending email change. Please check your email or wait before requesting another change."
+
+msgid "EMAIL_CHANGE_VERIFICATION_SENT"
+msgstr "Verification email sent! Please check your new email address and click the link to confirm the change."
+
+msgid "EMAIL_SAME_AS_CURRENT"
+msgstr "The new email address must be different from your current one."
+
+msgid "EMAIL_SEND_FAILED"
+msgstr "Failed to send verification email. Please try again later."
+
+msgid "EMPTY_TITLE_ALERT_1"
+msgstr "It looks like your Flipnote needs a title!"
+
+msgid "EMPTY_TITLE_ALERT_2"
+msgstr "Go ahead and add one now."
+
+msgid "ERROR_OCCURRED_TRY_AGAIN"
+msgstr "An error occurred. Please try again."
+
+msgid "FANS"
+msgstr "Fans"
+
+msgid "FAVORITE_OF"
+msgstr "Favorite of"
+
+msgid "FEATURED"
+msgstr "Featured"
+
+msgid "FEATURED_FLIPNOTE"
+msgstr "Featured Flipnote"
+
+msgid "FEATURED_FLIPNOTES"
+msgstr "Featured Flipnotes"
+
+# usage context: rss or personalized feed
+msgid "FEED"
+msgstr "Feed"
+
+msgid "FIX_NOW"
+msgstr "Fix now"
+
+msgid "FLIPNOTE"
+msgstr "Flipnote"
+
+msgid "FLIPNOTES"
+msgstr "Flipnotes"
+
+msgid "FLIPNOTES_MISSING_INFO"
+msgstr "Some of your Flipnotes are missing key information."
+
+msgid "FLIPNOTE_ALREADY_SET_AS_PROFILE_PICTURE"
+msgstr "This Flipnote is already set as your profile picture."
+
+msgid "FLIPNOTE_ARCHIVE_BUTTON_TOGGLE"
+msgstr "Show link to archived Flipnote Hatena content from my profile"
+
+msgid "FLIPNOTE_ARCHIVE_PROFILE_AVAILABLE"
+msgstr "Your Flipnote Hatena profile is available through our Flipnote Archive Preview Program! You can view your old Flipnotes by visiting your profile on Sudomemo Theatre."
+
+msgid "FLIPNOTE_ARCHIVE_PROFILE_NOT_AVAILABLE"
+msgstr "An archived Flipnote Hatena profile is not available for this account."
+
+msgid "FLIPNOTE_ARCHIVE_PROFILE_SETTING_INFORMATION"
+msgstr "While logged in, your archive link will always be shown on your page. You can choose whether or not to make this visible to other users below."
+
+msgid "FLIPNOTE_ARCHIVE_SETTINGS"
+msgstr "Archive Settings"
+
+# # Flipnote by...
+msgid "FLIPNOTE_BY_FORMAT"
+msgstr "Flipnote by %s"
+
+msgid "FLIPNOTE_HATENA_PROFILE"
+msgstr "Flipnote Hatena Profile"
+
+msgid "FLIPNOTE_ID"
+msgstr "Flipnote ID"
+
+# # Flipnote sections
+msgid "FLIPNOTE_LIST_RECALCULATING"
+msgstr "The rankings are currently being recalculated. Try reloading the page in a few moments."
+
+msgid "FLIPNOTE_NOT_FOUND_FOR_PROFILE_PICTURE"
+msgstr "Flipnote not found or cannot be used as profile picture."
+
+msgid "FLIPNOTE_SETTINGS_UPLOAD_TO_YOUTUBE"
+msgstr "You can upload your Flipnote to your YouTube channel. Click the button below to get started."
+
+# Japanese translation should also be be うごメモID here
+msgid "FLIPNOTE_STUDIO_ID"
+msgstr "Flipnote Studio ID"
+
+msgid "FOLLOW"
+msgstr "Follow"
+
+msgid "FOLLOWERS"
+msgstr "Followers"
+
+msgid "FOLLOWING"
+msgstr "Following"
+
+# Creator's Room (Profile)
+msgid "FOLLOWS_YOU"
+msgstr "Follows You"
+
+msgid "FOLLOW_BACK"
+msgstr "Follow Back"
+
+msgid "FORGOT_YOUR_PASSWORD"
+msgstr "Forgot your password?"
+
+# # Right sidebar
+msgid "FRONTPAGE_FLIPNOTE_SPOTLIGHT"
+msgstr "Flipnote Spotlight"
+
+msgid "FRONTPAGE_TITLE_TAGLINE"
+msgstr "Sudomemo: Flipnote Hatena is back!"
+
+msgid "FRONTPAGE_TITLE_TAGLINE_2"
+msgstr "Sudomemo: Share Flipnotes"
+
+msgid "FRONTPAGE_TITLE_TAGLINE_3"
+msgstr "Sudomemo: Share Flipnotes on 3DS & DSi"
+
+msgid "FRONTPAGE_TRENDING_CREATORS"
+msgstr "Trending Creators"
+
+# This is short for Flipnote Studio ID. Leave it as "FSID" except in Japanese, where it should be うごメモID
+msgid "FSID"
+msgstr "FSID"
+
+# Accessibility strings for genealogy navigation and controls
+msgid "GENEALOGY_BACK_TO_FLIPNOTE"
+msgstr "Back to Flipnote"
+
+# Legend section title
+msgid "GENEALOGY_LEGEND"
+msgstr "Legend"
+
+msgid "GENEALOGY_LEGEND_AVAILABLE"
+msgstr "Available Flipnote"
+
+# Legend items
+msgid "GENEALOGY_LEGEND_CURRENT"
+msgstr "Current Flipnote"
+
+msgid "GENEALOGY_LEGEND_DESCRIPTION"
+msgstr "Legend explaining the color coding used in the genealogy tree"
+
+msgid "GENEALOGY_LEGEND_REMOVED"
+msgstr "Removed Flipnote"
+
+msgid "GENEALOGY_LEGEND_UNKNOWN"
+msgstr "Unknown Flipnote"
+
+# Link text for genealogy
+msgid "GENEALOGY_LINK_TEXT"
+msgstr "Genealogy"
+
+# Meta description for genealogy page
+msgid "GENEALOGY_META_DESCRIPTION"
+msgstr "Genealogy showing the spin-off relationships for this Flipnote"
+
+# Meta description with specific flipnote description
+msgid "GENEALOGY_META_DESCRIPTION_FOR"
+msgstr "Genealogy for: %s"
+
+msgid "GENEALOGY_NAVIGATE_TO"
+msgstr "Navigate to genealogy for this Flipnote"
+
+# Message when no genealogy data is available
+msgid "GENEALOGY_NO_DATA"
+msgstr "No genealogy data available for this Flipnote."
+
+# Main genealogy page title
+msgid "GENEALOGY_PAGE_TITLE"
+msgstr "Flipnote Genealogy"
+
+msgid "GENEALOGY_RESET_VIEW"
+msgstr "Reset view"
+
+# Subtitle text for showing genealogy
+msgid "GENEALOGY_SHOWING_FOR"
+msgstr "Showing genealogy for"
+
+msgid "GENEALOGY_THUMBNAIL_ALT"
+msgstr "Thumbnail for Flipnote by %s"
+
+msgid "GENEALOGY_UNAVAILABLE_FLIPNOTE"
+msgstr "Unavailable Flipnote"
+
+# Link title for viewing genealogy
+msgid "GENEALOGY_VIEW_LINK"
+msgstr "View Genealogy"
+
+msgid "GENEALOGY_ZOOM_IN"
+msgstr "Zoom in"
+
+msgid "GENEALOGY_ZOOM_OUT"
+msgstr "Zoom out"
+
+msgid "GENRE"
+msgstr "Genre"
+
+msgid "GET_SUPPORT"
+msgstr "Get Support"
+
+msgid "GIFT_ANONYMOUS"
+msgstr "I'd like to remain anonymous."
+
+msgid "GIFT_ANONYMOUS_PREVIEW"
+msgstr "This gift will be sent anonymously."
+
+msgid "GIFT_ARE_YOU_SURE"
+msgstr "Are you sure you want to gift a %s ticket to %s?"
+
+msgid "GIFT_CONFIRM_NO"
+msgstr "No"
+
+msgid "GIFT_CONFIRM_YES"
+msgstr "Yes"
+
+msgid "GIFT_ERROR_ALREADY_REDEEMED"
+msgstr "This ticket has already been redeemed."
+
+msgid "GIFT_ERROR_BLOCKING_RECIPIENT"
+msgstr "You cannot gift a ticket to this user as you have blocked them."
+
+msgid "GIFT_ERROR_COMMENT_TOO_LONG"
+msgstr "This comment is too long. Please shorten it to 1000 characters or less."
+
+msgid "GIFT_ERROR_EXPIRED"
+msgstr "This ticket has expired."
+
+msgid "GIFT_ERROR_INVALID_CODE"
+msgstr "This is not a valid ticket code. Please check for typos and try again."
+
+msgid "GIFT_ERROR_INVALID_FORMAT"
+msgstr "Please enter a valid 12-digit ticket number."
+
+msgid "GIFT_ERROR_PREVIEW"
+msgstr "There was an issue with previewing the ticket. Please try again."
+
+msgid "GIFT_ERROR_PROFANE_COMMENT"
+msgstr "This comment violates our Content Policy."
+
+msgid "GIFT_ERROR_PUBLIC_TICKET"
+msgstr "This ticket is not giftable."
+
+msgid "GIFT_ERROR_RECIPIENT_BLOCKING"
+msgstr "You cannot gift a ticket to this user as they have blocked you."
+
+msgid "GIFT_ERROR_SEND"
+msgstr "There was an issue sending the gift. Please try again."
+
+# %s will be the username of the person the user is gifting to.
+msgid "GIFT_INFO_HINT"
+msgstr "You can give %s a Sudomemo Ticket! It will be given to them with an optional message from you. You can also choose to remain anonymous."
+
+# %s will be the username of the person the user is gifting to.
+msgid "GIFT_MESSAGE"
+msgstr "Message to %s"
+
+# %s will be the username of the person the user is gifting to.
+msgid "GIFT_PREVIEW_FOR"
+msgstr "Preview Gift for %s"
+
+msgid "GIFT_SEND"
+msgstr "Send Gift"
+
+# %s will be a link to the Sudomemo Shop, with text from this file's "SUDOMEMO_SHOP" string.
+msgid "GIFT_SHOP_HINT"
+msgstr "Need a ticket code? You can get one by purchasing a ticket from the %s."
+
+# %s will be the username of the person the user is gifting to.
+msgid "GIFT_SUCCESS_INFO_1"
+msgstr "Your gift to %s has been sent successfully. They will be thrilled to receive your thoughtful present!"
+
+msgid "GIFT_SUCCESS_INFO_2"
+msgstr "Thank you for spreading joy and happiness within the Sudomemo community!"
+
+msgid "GIFT_SUCCESS_TITLE"
+msgstr "Gift Sent Successfully!"
+
+msgid "GIFT_TICKET"
+msgstr "Gift Ticket"
+
+msgid "GIFT_TICKET_CODE"
+msgstr "Ticket Code"
+
+msgid "GIFT_TICKET_PREVIEW"
+msgstr "Ticket Preview"
+
+# %s will be the username of the person the user is gifting to.
+msgid "GIFT_TICKET_TO"
+msgstr "Gift a ticket to %s"
+
+# # はてなID
+msgid "HATENA_ID"
+msgstr "Hatena ID"
+
+msgid "HEADER_CHANGE_EMAIL"
+msgstr "Change Email Address"
+
+msgid "HEADER_CHANGE_PASSWORD"
+msgstr "Change Password"
+
+# Upload page specifics
+# Upload to YouTube header
+msgid "HEADER_UPLOAD_TO_YOUTUBE"
+msgstr "Upload to YouTube"
+
+msgid "HELP_CENTER"
+msgstr "Help Center"
+
+msgid "HOT"
+msgstr "Hot"
+
+msgid "HOT_FLIPNOTES"
+msgstr "Hot Flipnotes"
+
+msgid "HOURLY_CHAT_MESSAGE_LIMIT_REACHED"
+msgstr "You have reached the hourly chat message limit of %d messages."
+
+# Do not translate ".sudo unlink"
+msgid "HOW_TO_UNLINK_DISCORD"
+msgstr "To unlink your Discord account, type this command into chat: .sudo unlink"
+
+msgid "IMAGE_MUST_BE_1080X1920"
+msgstr "Image must be 1080x1920."
+
+msgid "INFO"
+msgstr "Info"
+
+msgid "INVALID_EMAIL_FORMAT"
+msgstr "Please enter a valid email address."
+
+msgid "INVALID_OR_MISSING_CHATROOMID"
+msgstr "Invalid or missing chatroom ID."
+
+msgid "INVALID_OR_MISSING_CHATROOM_ID"
+msgstr "Invalid or missing chatroom ID."
+
+msgid "INVALID_OR_MISSING_MESSAGE_CONTENT"
+msgstr "Invalid or missing message content."
+
+msgid "INVALID_OR_MISSING_MESSAGE_ID"
+msgstr "Invalid or missing message ID."
+
+msgid "INVALID_REQUEST"
+msgstr "Invalid request."
+
+msgid "INVALID_SESSION"
+msgstr "Invalid session. Please log in again."
+
+msgid "IN_REPLY_TO"
+msgstr "In Reply To"
+
+msgid "LATEST"
+msgstr "Latest"
+
+msgid "LEARN_MORE"
+msgstr "Learn more"
+
+msgid "LINK_REQUIRED_BEFORE_UPLOAD"
+msgstr "You'll need to link your YouTube channel before you can upload your Flipnote."
+
+msgid "LOGIN_CONFIRM_PLACEHOLDER"
+msgstr "Confirmation code"
+
+msgid "LOGIN_CONFIRM_PROMPT"
+msgstr "A confirmation code has been sent to your email address. Please enter it to continue."
+
+# # Ticket types..
+# Login Page
+msgid "LOGIN_FAILED_CHECK_DETAILS"
+msgstr "We couldn't log you in. Check the details you entered and try again."
+
+msgid "LOGIN_FAILED_RATELIMITED"
+msgstr "You've made too many incorrect login attempts recently. Please try again later."
+
+msgid "LOGIN_PLACEHOLDER_PASSWORD"
+msgstr "Password"
+
+msgid "LOGIN_PLACEHOLDER_USERNAME"
+msgstr "Email or Flipnote Studio ID"
+
+msgid "LOGIN_REQUIRED_FOR_PROFILE_PICTURE"
+msgstr "You must be logged in to change your profile picture."
+
+msgid "LOGIN_REQUIRED_TO_DELETE_CHAT_MESSAGE"
+msgstr "Login required to delete a chat message."
+
+msgid "LOGIN_REQUIRED_TO_POST_CHAT_MESSAGE"
+msgstr "Login required to post a chat message."
+
+msgid "LOGIN_SIGNUP_SELECT_DEVICE"
+msgstr "Select your device"
+
+# Mail reader strings
+msgid "MAIL_READER_TITLE"
+msgstr "Message"
+
+msgid "MANAGE_PLAYLIST"
+msgstr "Manage Playlist"
+
+msgid "MERCH"
+msgstr "Merch"
+
+msgid "MESSAGE_CONTAINS_INVALID_CHARACTERS"
+msgstr "Your message contains invalid characters."
+
+msgid "MESSAGE_DELETED_SUCCESSFULLY"
+msgstr "Message deleted successfully."
+
+msgid "MESSAGE_NOT_FOUND_OR_ALREADY_DELETED"
+msgstr "Message not found or already deleted."
+
+msgid "MESSAGE_NOT_YOURS_TO_DELETE"
+msgstr "You can only delete your own messages."
+
+msgid "MESSAGE_POSTED_SUCCESSFULLY"
+msgstr "Message posted successfully."
+
+msgid "MESSAGE_TOO_LONG"
+msgstr "Your message is too long."
+
+msgid "METHOD_NOT_ALLOWED"
+msgstr "Method not allowed."
+
+msgid "MODERATOR"
+msgstr "Moderator"
+
+msgid "MODIFIED"
+msgstr "Modified"
+
+msgid "MORE"
+msgstr "More"
+
+msgid "MUSICMATCH"
+msgstr "MusicMatch"
+
+msgid "MUSICMATCH_ABOUT"
+msgstr "About MusicMatch"
+
+# # MusicMatch
+# ## Where the Flipnote's audio starts at in the song
+msgid "MUSICMATCH_AUDIO_OFFSET"
+msgstr "Starts at %s"
+
+msgid "MUSICMATCH_LISTEN_ON_SPOTIFY"
+msgstr "Listen on Spotify"
+
+msgid "MUSICMATCH_LISTEN_ON_YOUTUBE_MUSIC"
+msgstr "Listen on YouTube Music"
+
+# # Referring to a music label/publishing company
+msgid "MUSIC_LABEL"
+msgstr "Label"
+
+msgid "NAVBAR_ITEM_ADMIN"
+msgstr "Admin"
+
+msgid "NAVBAR_ITEM_CONNECTION_HELP"
+msgstr "Connection Help"
+
+msgid "NAVBAR_ITEM_CONTACT_US"
+msgstr "Contact Us"
+
+msgid "NAVBAR_ITEM_CREDITS"
+msgstr "Credits"
+
+msgid "NAVBAR_ITEM_DISCORD"
+msgstr "Discord"
+
+msgid "NAVBAR_ITEM_EMAIL"
+msgstr "Email"
+
+msgid "NAVBAR_ITEM_FACEBOOK"
+msgstr "Facebook"
+
+msgid "NAVBAR_ITEM_FAQS"
+msgstr "FAQs"
+
+msgid "NAVBAR_ITEM_HELP"
+msgstr "Help"
+
+msgid "NAVBAR_ITEM_HOW_TO_JOIN"
+msgstr "How to Join"
+
+msgid "NAVBAR_ITEM_INSTAGRAM"
+msgstr "Instagram"
+
+# # Switch to dark mode
+msgid "NAVBAR_ITEM_LIGHTS_OFF"
+msgstr "Lights off"
+
+# # Switch to light mode
+msgid "NAVBAR_ITEM_LIGHTS_ON"
+msgstr "Lights on"
+
+msgid "NAVBAR_ITEM_OTHER"
+msgstr "Other"
+
+msgid "NAVBAR_ITEM_REPORTED_FLIPNOTES"
+msgstr "Reported Flipnotes"
+
+msgid "NAVBAR_ITEM_SHOP"
+msgstr "Shop"
+
+msgid "NAVBAR_ITEM_SUDOMEMO_ADMIN"
+msgstr "Sudomin"
+
+msgid "NAVBAR_ITEM_SWITCH_TO_USER_ACCOUNT"
+msgstr "Switch to user account"
+
+msgid "NAVBAR_ITEM_TWITTER"
+msgstr "Twitter"
+
+msgid "NAVBAR_ITEM_USEFUL_LINKS"
+msgstr "Useful Links"
+
+msgid "NAVBAR_ITEM_YOUTUBE"
+msgstr "YouTube"
+
+# Navbar
+msgid "NAVBAR_TOGGLE_NAVIGATION"
+msgstr "Toggle navigation"
+
+msgid "NEEDS_A_TITLE"
+msgstr "Needs a title"
+
+msgid "NEWEST"
+msgstr "Newest"
+
+msgid "NEWS"
+msgstr "News"
+
+msgid "NEW_EMAIL"
+msgstr "New Email Address"
+
+# Form validation messages
+msgid "NEW_EMAIL_FIELD_MISSING"
+msgstr "Please enter a new email address."
+
+msgid "NEW_EMAIL_PLACEHOLDER"
+msgstr "Enter your new email address"
+
+msgid "NEW_FRAME"
+msgstr "New Frame"
+
+msgid "NEW_PROFILE_PICTURE"
+msgstr "New Profile Picture"
+
+msgid "NEXT"
+msgstr "Next"
+
+msgid "NINTENDO_3DS"
+msgstr "Nintendo 3DS"
+
+msgid "NINTENDO_DSI"
+msgstr "Nintendo DSi"
+
+msgid "NONE"
+msgstr "None"
+
+msgid "NOTIFICATION_CONTENT_REMOVED"
+msgstr "was removed for violating community guidelines"
+
+msgid "NOTIFICATION_CONTENT_RESTORED"
+msgstr "has been restored after review"
+
+msgid "NOTIFICATION_NEW_FRIEND"
+msgstr "added you as a friend"
+
+# Generic strings
+msgid "NOTIFICATION_NEW_MESSAGE"
+msgstr "New message"
+
+msgid "NOTIFICATION_READ_MESSAGE"
+msgstr "Read Message"
+
+msgid "NOTIFICATION_REPORT_ACCEPTED"
+msgstr "Your report has been accepted and action has been taken"
+
+msgid "NOTIFICATION_REPORT_REJECTED"
+msgstr "Your report has been reviewed and no action was taken"
+
+msgid "NOTIFICATION_SENT_MESSAGE"
+msgstr "sent you a message"
+
+msgid "NOTIFICATION_SPINOFF_CREATED"
+msgstr "created a spinoff of"
+
+msgid "NOTIFICATION_UNKNOWN"
+msgstr "New notification"
+
+# Notification action strings
+msgid "NOTIFICATION_VIEW_DETAILS"
+msgstr "View Details"
+
+msgid "NOTIFICATION_VIEW_MESSAGE"
+msgstr "View Message"
+
+msgid "NOTIFICATION_VIEW_SPINOFF"
+msgstr "View Spinoff"
+
+msgid "NOTIFICATION_YOUR_FLIPNOTE"
+msgstr "your flipnote"
+
+msgid "NOT_ENOUGH_DATA_AVAILABLE"
+msgstr "Not enough data available"
+
+# Not following anyone message
+msgid "NOT_FOLLOWING_ANYONE_YET"
+msgstr "%s isn't following anyone yet."
+
+msgid "NO_ACTIVE_CHANNELS"
+msgstr "No active channels"
+
+msgid "NO_CATEGORIES_AVAILABLE"
+msgstr "No categories are currently available."
+
+msgid "NO_CHANNELS_FOUND"
+msgstr "No Channels Found"
+
+msgid "NO_CHANNELS_IN_CATEGORY"
+msgstr "There are currently no channels in this category."
+
+msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
+msgstr "You cannot send chat messages while muted."
+
+msgid "NO_CONTENT"
+msgstr "No content"
+
+msgid "NO_DESCRIPTION"
+msgstr "No description."
+
+msgid "NO_EMAIL_ON_FILE"
+msgstr "No email address on file -- contact Sudomemo Support"
+
+# No followers message
+msgid "NO_FOLLOWERS_YET"
+msgstr "%s doesn't have any followers yet."
+
+msgid "NO_RANKING_DATA"
+msgstr "No Ranking Data Available"
+
+msgid "NO_RECENT_ACTIVITY"
+msgstr "No recent activity"
+
+msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
+msgstr "No user found with that Flipnote Studio ID or email"
+
+msgid "ONLY_APPLIES_FOR_YOUTUBE_SHORTS"
+msgstr "Only applies for YouTube Shorts"
+
+msgid "ONLY_OWNER_CAN_SET_PROFILE_PICTURE"
+msgstr "You can only set your own Flipnotes as your profile picture."
+
+msgid "PARENT_FLIPNOTE"
+msgstr "Parent Flipnote"
+
+msgid "PASSWORD_RESET_SENT"
+msgstr "A password reset has been sent to the email address on file."
+
+msgid "PASS_CHANGE_COMPLETE"
+msgstr "Your password has been updated."
+
+msgid "PASS_CHANGE_CONFIRM_PASSWORD"
+msgstr "Confirm Password"
+
+msgid "PASS_CHANGE_CONTINUE_TO_LOGIN"
+msgstr "Continue to login"
+
+msgid "PASS_CHANGE_PASSWORD"
+msgstr "Change Password"
+
+msgid "PASS_CHANGE_URL_EXPIRED"
+msgstr "The URL you visited has expired."
+
+# Channel permissions: Is posting Flipnotes to a channel allowed or not?
+msgid "PERMISSIONS"
+msgstr "Permissions"
+
+msgid "PERSONALIZED_RECOMMENDATIONS"
+msgstr "to see personalized recommendations"
+
+msgid "PIN"
+msgstr "Pin"
+
+msgid "PINNED_COMMENT"
+msgstr "Pinned Comment"
+
+msgid "PLAYLIST"
+msgstr "Playlist"
+
+msgid "PLAYLISTS"
+msgstr "Playlists"
+
+msgid "PLAYLIST_ERROR_BLOCKED_BY_AUTHOR"
+msgstr "You cannot add this Flipnote to a playlist because you have been blocked by the Flipnote's author."
+
+msgid "PLAYLIST_ERROR_BLOCKING_AUTHOR"
+msgstr "You cannot add this Flipnote to a playlist because you have blocked the Flipnote's author."
+
+# '%s' will be replaced with an error code when shown to the user.
+msgid "PLAYLIST_ERROR_GENERIC"
+msgstr "An error occurred whilst saving this playlist. Error code: %s."
+
+msgid "PLAYLIST_ERROR_GENERIC_2"
+msgstr "An error occurred. Error code: %s."
+
+msgid "PLAYLIST_ERROR_HINT_INCREASE_LIMIT_PLUS"
+msgstr "You could also increase this limit to %s with Sudomemo Plus!"
+
+msgid "PLAYLIST_ERROR_PROFANE_DESC"
+msgstr "This description contains content that goes against our Content Policy."
+
+msgid "PLAYLIST_ERROR_PROFANE_TITLE"
+msgstr "This title contains content that goes against our Content Policy."
+
+msgid "PLAYLIST_ERROR_TOO_MANY_FLIPNOTES"
+msgstr "You cannot add another Flipnote to this Playlist as it is at or above the limit of %s Flipnotes. Remove a Flipnote or create a new Playlist, then try again."
+
+msgid "PLAYLIST_ERROR_TOO_MANY_PLAYLISTS"
+msgstr "You cannot create a new Playlist as you are at or above the limit of %s Playlists. Delete a Playlist and try again."
+
+msgid "PLAYLIST_ID"
+msgstr "Playlist ID"
+
+msgid "PLAYLIST_NO_FLIPNOTES"
+msgstr "There have been no Flipnotes added to this playlist yet."
+
+msgid "PLAYLIST_PRIVATE"
+msgstr "Private"
+
+msgid "PLAYLIST_PUBLIC"
+msgstr "Public"
+
+msgid "PLAYLIST_UNKNOWN"
+msgstr "Unknown"
+
+msgid "PLAYLIST_UNLISTED"
+msgstr "Unlisted"
+
+msgid "PLAYLIST_VISIBILITY"
+msgstr "Visibility"
+
+msgid "PLEASE_SELECT_FRAME_OR_UPLOAD_CUSTOM_FRAME"
+msgstr "Please select a frame or upload a custom frame."
+
+msgid "PLEASE_SLOW_DOWN"
+msgstr "Please slow down"
+
+msgid "PLEASE_UPLOAD_VALID_IMAGE_FILE"
+msgstr "Please upload a valid image file (PNG only)."
+
+msgid "PLUS_LEARN_MORE"
+msgstr "Learn more..."
+
+msgid "PLUS_REQUIRED_TO_POST_CHAT_MESSAGE"
+msgstr "Sudomemo Plus is required to post a chat message."
+
+msgid "POPULAR"
+msgstr "Popular"
+
+msgid "POPULAR_THIS_MONTH"
+msgstr "Popular This Month"
+
+# Previous, abbreviated "Prev". Should be a maximum of 4 characters.
+msgid "PREV"
+msgstr "Prev"
+
+msgid "PREVIOUS"
+msgstr "Previous"
+
+msgid "PRIVACY_POLICY"
+msgstr "Privacy Policy"
+
+msgid "PROFILE_ABOUT_USERNAME"
+msgstr "About %s"
+
+# # "Username - 3 fans, 25 Flipnotes on Sudomemo"
+# # Not going to bother making plural variants
+msgid "PROFILE_DEFAULT_DESCRIPTION"
+msgstr "%s - %s fans, %s Flipnotes on Sudomemo"
+
+msgid "PROFILE_PICTURE_CHANGED_SUCCESS"
+msgstr "Profile picture changed successfully!"
+
+msgid "PROFILE_PICTURE_CHANGE_CONFIRMATION"
+msgstr "Are you sure you want to set this Flipnote as your profile picture?"
+
+msgid "PROFILE_PICTURE_CHANGE_FAILED"
+msgstr "Failed to change profile picture. Please try again."
+
+msgid "PROFILE_PICTURE_DESCRIPTION"
+msgstr "You can set this Flipnote as your profile picture. This will be visible on your profile page and when you comment on other Flipnotes."
+
+msgid "PROFILE_PICTURE_SECTION_TITLE"
+msgstr "Profile Picture"
+
+# # Recent comments on their Flipnotes
+msgid "PROFILE_RECENT_COMMENTS"
+msgstr "Recent comments"
+
+# # User's ★ are from:
+msgid "PROFILE_STAR_COUNTRY_HEADER"
+msgstr "%s's ★s are from:"
+
+# # channels that the user posts in most often
+msgid "PROFILE_USER_POSTS_IN"
+msgstr "%s posts in..."
+
+msgid "PUSH_NOTIFICATIONS_DESCRIPTION"
+msgstr "Receive instant notifications when you get stars, comments, and other interactions on your Flipnotes."
+
+msgid "PUSH_NOTIFICATIONS_DISABLED"
+msgstr "Notifications disabled"
+
+# Notification messages
+msgid "PUSH_NOTIFICATIONS_ENABLED"
+msgstr "Notifications enabled!"
+
+msgid "PUSH_NOTIFICATIONS_NOT_SUPPORTED"
+msgstr "Push notifications not supported in this browser"
+
+msgid "PUSH_NOTIFICATIONS_PERMISSION_DENIED"
+msgstr "Push notifications permission was denied. Please enable them in your browser settings."
+
+msgid "PUSH_NOTIFICATIONS_SETTINGS_HELP"
+msgstr "This setting is saved per-device. You can enable notifications on multiple devices independently."
+
+msgid "PUSH_NOTIFICATIONS_SETTINGS_LABEL"
+msgstr "Enable notifications on this device"
+
+# Settings link in notifications dropdown
+msgid "PUSH_NOTIFICATIONS_SETTINGS_LINK"
+msgstr "Settings..."
+
+# Button text for enabling notifications in dropdown
+msgid "PUSH_NOTIFICATIONS_SUBSCRIBE"
+msgstr "Enable notifications"
+
+# User settings page - notification section
+msgid "PUSH_NOTIFICATIONS_TITLE"
+msgstr "Push Notifications"
+
+msgid "RANDOM"
+msgstr "Random"
+
+msgid "RANDOM_FLIPNOTES"
+msgstr "Random Flipnotes"
+
+msgid "RANK"
+msgstr "Rank"
+
+msgid "RANKING_DATA_DESCRIPTION"
+msgstr "Channel rankings are based on how much representation each channel has in the Flipnote Rankings. Check back later as more content becomes popular!"
+
+msgid "RANK_IMPROVED"
+msgstr "Rank Improved"
+
+msgid "RANK_UNCHANGED"
+msgstr "Rank Unchanged"
+
+msgid "RATELIMIT_EXCEEDED"
+msgstr "You have exceeded the rate limit for sending messages."
+
+msgid "RECENT"
+msgstr "Recent"
+
+msgid "RECENTLY_VIEWED_CHANNELS"
+msgstr "Recently viewed channels"
+
+msgid "RECENT_FLIPNOTES"
+msgstr "Recent Flipnotes"
+
+msgid "RECOMMENDED_FLIPNOTES"
+msgstr "Recommended Flipnotes"
+
+msgid "REGION"
+msgstr "Region"
+
+# Comprising the continents of North and South America
+msgid "REGION_AMERICAS"
+msgstr "Americas"
+
+msgid "REGION_EUROPE_AND_OCEANIA"
+msgstr "Europe and Oceania"
+
+msgid "REGION_JAPAN"
+msgstr "Japan"
+
+# Fallback region (this shouldn't happen)
+msgid "REGION_UNKNOWN"
+msgstr "Unknown"
+
+# Referring to a release date/publishing date
+msgid "RELEASED"
+msgstr "Released"
+
+msgid "REMOVE_FROM_PLAYLIST"
+msgstr "Remove from Playlist"
+
+msgid "REPLY"
+msgstr "Reply"
+
+msgid "REPLYING_TO"
+msgstr "Replying to"
+
+msgid "RESET_PASSWORD_BY_FSID"
+msgstr "You can still reset your password with your Flipnote Studio ID! Simply send a quick message to Sudomemo Support and we'll get that sent out to you."
+
+msgid "RESOURCES"
+msgstr "Resources"
+
+msgid "RETURN_TO_FLIPNOTE_EDIT"
+msgstr "Return to Flipnote"
+
+msgid "ROOT_FLIPNOTE"
+msgstr "Root Flipnote"
+
+msgid "SAFE_COMMS_ANCHOR_1"
+msgstr "Feel something off? Here's how to spot it"
+
+msgid "SAVE"
+msgstr "Save"
+
+msgid "SAVE_PLAYLIST"
+msgstr "Save Playlist"
+
+msgid "SAVING"
+msgstr "Saving"
+
+msgid "SEARCH"
+msgstr "Search"
+
+msgid "SEARCH_PAGE_FORM_PLACEHOLDER"
+msgstr "Username, FSID, song, artist, or channel"
+
+msgid "SEARCH_PAGE_FUZZY_SEARCH_TIP"
+msgstr "Tip: You can enter things like 'Austin' and find results like 'ÄuらtÎn'"
+
+# # User hasn't posted any Flipnotes yet
+msgid "SEARCH_PAGE_NO_FLIPNOTES_YET"
+msgstr "No Flipnotes yet..."
+
+msgid "SEARCH_PAGE_NO_RESULTS_FOUND"
+msgstr "No results found."
+
+msgid "SEARCH_PAGE_TOO_MANY_MATCHED"
+msgstr "Your query matched too many creators - try something more specific."
+
+# Search page
+msgid "SEARCH_SUDOMEMO"
+msgstr "Search Sudomemo"
+
+msgid "SEE_MORE"
+msgstr "See more"
+
+msgid "SEND_VERIFICATION_EMAIL"
+msgstr "Send Verification Email"
+
+msgid "SETTINGS"
+msgstr "Settings"
+
+msgid "SET_AS_PROFILE_PICTURE"
+msgstr "Set as Profile Picture"
+
+msgid "SHARE"
+msgstr "Share"
+
+msgid "SHARE_ON_BLUESKY"
+msgstr "Share on Bluesky"
+
+msgid "SHARE_ON_FACEBOOK"
+msgstr "Share on Facebook"
+
+msgid "SHARE_ON_REDDIT"
+msgstr "Share to Reddit"
+
+msgid "SHARE_ON_THREADS"
+msgstr "Share on Threads"
+
+msgid "SHARE_ON_TUMBLR"
+msgstr "Share on Tumblr"
+
+msgid "SHARE_ON_TWITTER"
+msgstr "Share to Twitter"
+
+msgid "SHARE_ON_WHATSAPP"
+msgstr "Share via WhatsApp"
+
+msgid "SHOP_NOW"
+msgstr "Shop Now"
+
+msgid "SHORT_PREVIEW"
+msgstr "Short Preview"
+
+msgid "SHOW_ON_PROFILE"
+msgstr "Show on profile"
+
+msgid "SHOW_YOUTUBE_LINK_ON_MY_PROFILE"
+msgstr "Show a link to my YouTube channel on my Sudomemo profile"
+
+msgid "SIGNIFICANT_DECLINE"
+msgstr "Significant Decline"
+
+msgid "SIGN_IN"
+msgstr "Sign in"
+
+msgid "SIGN_OUT"
+msgstr "Sign out"
+
+msgid "SIGN_UP"
+msgstr "Sign Up"
+
+msgid "SLIGHT_DECLINE"
+msgstr "Slight Decline"
+
+# For MusicMatch
+msgid "SONG"
+msgstr "Song"
+
+msgid "SONGS"
+msgstr "Songs"
+
+msgid "SONG_ARTISTS"
+msgstr "Song Artists"
+
+msgid "STARS"
+msgstr "Stars"
+
+msgid "SUBMIT"
+msgstr "Submit"
+
+# This file contains most of the translations for Sudomemo Theatre.
+# Meta tags, descriptions, etc
+msgid "SUDOMEMO"
+msgstr "Sudomemo"
+
+msgid "SUDOMEMO_NEWS"
+msgstr "Sudomemo News"
+
+msgid "SUDOMEMO_PLUS"
+msgstr "Sudomemo Plus"
+
+msgid "SUDOMEMO_PLUS_FEATURE"
+msgstr "Sudomemo Plus feature"
+
+msgid "SUDOMEMO_SHOP"
+msgstr "Sudomemo Shop"
+
+msgid "SUDOMEMO_SHOP_ABOUT_TICKETS_1"
+msgstr "Tickets are fun items on Sudomemo that you can redeem for Stars, Sudomemo Plus, and other things!"
+
+msgid "SUDOMEMO_SHOP_ABOUT_TICKETS_2"
+msgstr "Once you have a ticket, you can redeem it in your Creator's Room by tapping on \"Redeem\" - or, you can give a ticket code as a gift to a friend!"
+
+msgid "SUDOMEMO_SHOP_ALL_ABOUT_PLUS"
+msgstr "All About Sudomemo Plus"
+
+msgid "SUDOMEMO_SHOP_LEARN_ABOUT_PLUS"
+msgstr "Learn about what you can do with Sudomemo Plus:"
+
+msgid "SUDOMEMO_SHOP_META_DESCRIPTION"
+msgstr "Sudomemo Shop: Sudomemo merch, tickets for Plus and Stars, and other fun things!"
+
+msgid "SUDOMEMO_THEATRE"
+msgstr "Sudomemo Theatre"
+
+msgid "SUDOMEMO_USER"
+msgstr "Sudomemo User"
+
+msgid "SUPPORT_US"
+msgstr "Support Us"
+
+msgid "TERMS_OF_USE"
+msgstr "Terms of Use"
+
+msgid "THIS_FLIPNOTE_IS_SPINOFF_OF"
+msgstr "This Flipnote is a spin-off of"
+
+# Sudomemo Shop
+msgid "TICKETS"
+msgstr "Tickets"
+
+msgid "TITLE"
+msgstr "Title"
+
+# Referring to being the most popular (in terms of ranking)
+msgid "TOP"
+msgstr "Top"
+
+# ## This is composed of two parts: SIGN_IN and TO_ADD_A_COMMENT
+# ## SIGN_IN is a link to the login page, and TO_ADD_A_COMMENT is the part that comes after.
+# ## It reads as follows: Sign in to add a comment
+msgid "TO_ADD_A_COMMENT"
+msgstr "to add a comment"
+
+msgid "TROPHY_CASE"
+msgstr "Trophy Case"
+
+msgid "UNKNOWN_ERROR"
+msgstr "An unknown error occurred."
+
+msgid "UNPIN"
+msgstr "Unpin"
+
+msgid "UNTITLED_FLIPNOTE"
+msgstr "Untitled Flipnote"
+
+# This is shown to logged-in users on their own Flipnotes without titles
+msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
+msgstr "Untitled Flipnote by %s"
+
+msgid "UNTITLED_PLAYLIST"
+msgstr "Untitled Playlist"
+
+msgid "UPLOAD_CONTACT_DISCORD_OR_EMAIL_FORMAT"
+msgstr "Please contact us on Discord or via email to %s."
+
+msgid "UPLOAD_OPTIONS"
+msgstr "Upload Options"
+
+# Upload status
+msgid "UPLOAD_STATUS"
+msgstr "Upload Status"
+
+# Upload to YouTube page
+msgid "UPLOAD_YOUTUBE_INTEGRATION_BANNED"
+msgstr "Your account has been restricted from using our YouTube integration services."
+
+msgid "USERNAME_REQUIRED"
+msgstr "A username is required."
+
+msgid "USERS"
+msgstr "Users"
+
+msgid "USERS_FLIPNOTE_FROM_FLIPNOTE_HATENA"
+msgstr "%s's Flipnote from Flipnote Hatena"
+
+msgid "USERS_PROFILE_FROM_FLIPNOTE_HATENA"
+msgstr "%s's profile from Flipnote Hatena"
+
+msgid "USER_BANNED_CANNOT_POST"
+msgstr "You are banned and cannot send messages."
+
+msgid "USER_MUTED_CANNOT_POST"
+msgstr "You are muted and cannot send messages."
+
+msgid "USER_NOT_AUTHORIZED"
+msgstr "You are not authorized to perform this action."
+
+msgid "USER_NOT_LOGGED_IN"
+msgstr "User not logged in."
+
+msgid "USER_SETTINGS_BIO_EXPLANATION"
+msgstr "This is where you can update your bio."
+
+msgid "USER_SETTINGS_CHANGE_EMAIL_EXPLANATION"
+msgstr "Update your email address. A verification email will be sent to your new address."
+
+msgid "USER_SETTINGS_CHANGE_PASSWORD_EXPLANATION"
+msgstr "You can change the password for your Sudomemo account here:"
+
+msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
+msgstr "After you've joined the Sudomemo Discord, copy and paste this into the chat."
+
+msgid "USER_SETTINGS_SUPPORT_TOKEN_EXPLANATION"
+msgstr "Support tokens are used to verify your account when contacting Sudomemo Support."
+
+msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
+msgstr "Configure your linked YouTube channel and default Flipnote upload settings."
+
+msgid "USE_THIS_FRAME_FROM_NOW_ON"
+msgstr "Use this frame from now on"
+
+msgid "VERIFIED_USER"
+msgstr "Verified User"
+
+msgid "VERIFY_CODE"
+msgstr "Verify"
+
+msgid "VIEWPAGE_ADD_MODERATOR_COMMENT"
+msgstr "Add Moderator Comment"
+
+# ## This can happen in cases of network failure or if the comment is rejected
+msgid "VIEWPAGE_COMMENT_FAILED"
+msgstr "Comment failed..."
+
+msgid "VIEWPAGE_COMMENT_POSTED"
+msgstr "Posted!"
+
+# ## When the Post Comment button is pressed, it changes to "Posting..." and then "Posted!" when complete.
+msgid "VIEWPAGE_COMMENT_POSTING"
+msgstr "Posting..."
+
+msgid "VIEWPAGE_COMMENT_POST_BUTTON"
+msgstr "Post Comment"
+
+msgid "VIEWPAGE_COMMENT_TEXTBOX"
+msgstr "Comment entry text box"
+
+# # Comments section
+msgid "VIEWPAGE_COMMENT_WRITE_HERE"
+msgstr "Write here"
+
+msgid "VIEWPAGE_MODERATOR_COMMENT_WARNING"
+msgstr "Do not use this for personal comments."
+
+# # Original Flipnote / Spinoffs
+msgid "VIEWPAGE_ORIGINAL_FLIPNOTE"
+msgstr "Original Flipnote"
+
+msgid "VIEWPAGE_ORIGINAL_FLIPNOTE_NOT_ON_SUDOMEMO"
+msgstr "The original Flipnote isn't on Sudomemo."
+
+# This shows as "by User" underneath the Flipnote thumbnail
+msgid "VIEWPAGE_RELATED_FLIPNOTE_BY"
+msgstr "by %s"
+
+msgid "VIEWPAGE_SPINOFFS"
+msgstr "Spin-offs"
+
+# Number of times something has been viewed, or played.
+msgid "VIEWS"
+msgstr "Views"
+
+msgid "VIEW_FLIPNOTES_BY_CATEGORY"
+msgstr "View Flipnotes by category"
+
+msgid "VIEW_ON_SUDOMEMO"
+msgstr "View on Sudomemo"
+
+msgid "VIEW_YOUR_PROFILE"
+msgstr "View Your Profile"
+
+msgid "VISIBILITY"
+msgstr "Visibility"
+
+msgid "VISIBILITY_DESCRIPTION_PRIVATE"
+msgstr "Only you can view this Flipnote. It won't appear anywhere else."
+
+msgid "VISIBILITY_DESCRIPTION_PUBLIC"
+msgstr "Anyone can view this Flipnote on your profile and in search results."
+
+msgid "VISIBILITY_DESCRIPTION_UNLISTED"
+msgstr "Only people with a direct link can view this Flipnote. It won't appear publicly."
+
+msgid "VISIBILITY_PRIVATE"
+msgstr "Private"
+
+msgid "VISIBILITY_PUBLIC"
+msgstr "Public"
+
+msgid "VISIBILITY_SETTINGS"
+msgstr "Visibility Settings"
+
+msgid "VISIBILITY_UNLISTED"
+msgstr "Unlisted"
+
+msgid "WATCH_HISTORY"
+msgstr "Watch History"
+
+msgid "WATCH_NEXT"
+msgstr "Watch Next"
+
+msgid "WEEKLY_TOPIC_WINNER"
+msgstr "Weekly Topic Winner"
+
+msgid "WELCOME_BOX_AFTERNOON_GREETING"
+msgstr "Good afternoon"
+
+# ## Our welcome box can change it's greeting, depending on time of day.
+# ## It is displayed like this:
+# ## Good afternoon, User! Happy Flipnoting!
+msgid "WELCOME_BOX_DEFAULT_GREETING"
+msgstr "Hello"
+
+msgid "WELCOME_BOX_EVENING_GREETING"
+msgstr "Good evening"
+
+# Give, in the same sense as "Donate"
+msgid "WELCOME_BOX_GIVE"
+msgstr "Give"
+
+# # Welcome to Sudomemo Box
+msgid "WELCOME_BOX_GREET_ADMIN"
+msgstr "Welcome back, %s"
+
+msgid "WELCOME_BOX_HOW_TO_JOIN"
+msgstr "Learn how to Join!"
+
+msgid "WELCOME_BOX_MORNING_GREETING"
+msgstr "Good morning"
+
+msgid "WELCOME_BOX_OPEN_SUDOMIN"
+msgstr "Open Sudomin"
+
+# ## Another one of our taglines 
+msgid "WELCOME_BOX_SHARE_CREATIVITY_TAGLINE"
+msgstr "Share your creativity with the world!"
+
+# ## "Happy Flipnoting!" is one of our brand catchphrases. "Flipnoting" refers to the act of creating or watching Flipnotes.
+# ## Please don't translate "Flipnoting", except to Japanese where you could probably modify the word うごメモ.
+msgid "WELCOME_BOX_USERNAME_HAPPY_FLIPNOTING"
+msgstr ", %s! Happy Flipnoting!"
+
+msgid "WELCOME_BOX_WELCOME_TO"
+msgstr "Welcome to"
+
+msgid "WELCOME_BOX_WHAT_IS_SUDOMEMO"
+msgstr "Sudomemo is the place to share flipbook animations - called Flipnotes - created and posted from Flipnote Studio on the Nintendo DSi and 3DS."
+
+msgid "WELCOME_BOX_YOU_ARE_ADMIN"
+msgstr "You are logged in as an Administrator."
+
+msgid "X_IN_HOT_FLIPNOTES"
+msgstr "#%d in Hot Flipnotes"
+
+msgid "X_IN_POPULAR_FLIPNOTES"
+msgstr "#%d in Popular this Month"
+
+msgid "X_IN_POPULAR_RANK_BADGE"
+msgstr "#%s in Popular"
+
+msgid "X_USERS"
+msgstr "%d user(s)"
+
+msgid "YOUTUBE"
+msgstr "YouTube"
+
+msgid "YOUTUBE_ACCOUNT_UNVERIFIED"
+msgstr "Account unverified"
+
+msgid "YOUTUBE_ACCOUNT_VERIFICATION_FIX_NOW"
+msgstr "Fix now"
+
+msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
+msgstr "Your YouTube account is unverified. Certain features will not function correctly, such as video thumbnails and Flipnotes longer than 15 minutes."
+
+msgid "YOUTUBE_ACCOUNT_VERIFIED"
+msgstr "Account verified"
+
+# Added to the queue at: 2020-07-08 02:46:38
+msgid "YOUTUBE_ADDED_TO_QUEUE_AT"
+msgstr "Added to the queue at:"
+
+msgid "YOUTUBE_CHECK_FEATURES_THUMB"
+msgstr "Your YouTube channel might not be completely verified. For more information, you can check the status of Custom Thumbnails here:"
+
+msgid "YOUTUBE_CONNECT_INTRO"
+msgstr "Connecting your YouTube channel lets you share your Flipnotes directly to YouTube!"
+
+# YouTube metadata
+# Extra description text: will be placed at the end of your video descriptions. 
+msgid "YOUTUBE_DEFAULT_SETTINGS_EXPLANATION"
+msgstr "These settings will be filled in automatically when you upload a Flipnote from your Nintendo DSi or 3DS. If you're uploading from Sudomemo Theatre, you'll be prompted to change or confirm these settings before starting the upload."
+
+msgid "YOUTUBE_ESTIMATED_DURATION"
+msgstr "Estimated video duration:"
+
+msgid "YOUTUBE_EXTRA_DESCRIPTION_TEXT"
+msgstr "Extra Description Text"
+
+msgid "YOUTUBE_EXTRA_DESCRIPTION_TEXT_EXPLANATION"
+msgstr "This text will display when viewers click on 'Show more' in your video's description."
+
+msgid "YOUTUBE_LINK_PROMPT"
+msgstr "Link your YouTube channel to upload your Flipnotes to YouTube."
+
+msgid "YOUTUBE_LOOP_COUNT"
+msgstr "Number of plays"
+
+msgid "YOUTUBE_LOOP_COUNT_EXPLANATION"
+msgstr "Number of times a looped Flipnote will repeat. Select 1 to only play once."
+
+msgid "YOUTUBE_PENDING_UPLOAD"
+msgstr "Your Flipnote is currently waiting to be uploaded. Check back in a few minutes."
+
+# Position in queue: 4 - means there are three uploads ahead of yours
+msgid "YOUTUBE_POSITION_IN_QUEUE"
+msgstr "Position in queue:"
+
+msgid "YOUTUBE_RECONNECT_PROMPT"
+msgstr "The connection to your channel is out of date. Please reconnect it to continue."
+
+msgid "YOUTUBE_REFRESH_ACCOUNT"
+msgstr "Refresh account"
+
+msgid "YOUTUBE_SHORT"
+msgstr "YouTube Short"
+
+msgid "YOUTUBE_SHORT_TOGGLE"
+msgstr "Make it a YouTube Short?"
+
+msgid "YOUTUBE_STATUS_BEING_PROCESSED"
+msgstr "Your upload is currently being processed."
+
+msgid "YOUTUBE_STATUS_COMPLETE"
+msgstr "Your upload is complete!"
+
+msgid "YOUTUBE_STATUS_FAILED_AUTH"
+msgstr "The upload failed due to an authentication problem."
+
+msgid "YOUTUBE_STATUS_FAILED_CLIENT_ERROR"
+msgstr "The upload failed due to a client error."
+
+msgid "YOUTUBE_STATUS_FAILED_GONE"
+msgstr "The Flipnote disappeared before the upload could complete."
+
+msgid "YOUTUBE_STATUS_FAILED_SERVICE_ERROR"
+msgstr "The upload failed due to a service error."
+
+msgid "YOUTUBE_STATUS_FAILED_THUMB"
+msgstr "Your video was uploaded successfully, but we had a problem uploading the thumbnail."
+
+msgid "YOUTUBE_STATUS_FAILED_UNEXPECTED_ERROR"
+msgstr "An unexpected error occurred during upload."
+
+msgid "YOUTUBE_STATUS_FAILED_UNKNOWN"
+msgstr "The upload failed for an unknown reason."
+
+msgid "YOUTUBE_STATUS_PAUSED_GLOBAL_QUOTA"
+msgstr "Our global usage quota has been exceeded, so the upload may be significantly delayed."
+
+msgid "YOUTUBE_STATUS_TRACKER_DONE"
+msgstr "Done!"
+
+msgid "YOUTUBE_STATUS_TRACKER_NEW"
+msgstr "New"
+
+msgid "YOUTUBE_STATUS_TRACKER_PROCESSING"
+msgstr "Processing"
+
+msgid "YOUTUBE_STATUS_WAITING_TO_BE_PROCESSED"
+msgstr "Your upload is currently waiting to be processed."
+
+msgid "YOUTUBE_TAGS"
+msgstr "Tags"
+
+msgid "YOUTUBE_TAGS_EXPLANATION"
+msgstr "Enter a comma after each tag"
+
+msgid "YOUTUBE_TAGS_HINT"
+msgstr "Tags, separated by comma."
+
+msgid "YOUTUBE_TERMS_AGREEMENT_NOTE"
+msgstr "By submitting your videos to YouTube, you acknowledge that you agree to YouTube's Terms of Service and Community Guidelines."
+
+msgid "YOUTUBE_UNLINK_ACCOUNT"
+msgstr "Unlink account"
+
+msgid "YOUTUBE_UNLINK_ACCOUNT_CONFIRM"
+msgstr "Are you sure you want to remove your linked YouTube channel?"
+
+msgid "YOUTUBE_UPLOAD_HISTORY"
+msgstr "Upload History"
+
+msgid "YOUTUBE_UPLOAD_HISTORY_CLICK_ICON_TO_TRACK"
+msgstr "Click the status icon on the left to visit your video's live Upload Tracker!"
+
+# We may need to limit uploads per day depending on our API quota usage rate
+msgid "YOUTUBE_UPLOAD_LIMIT"
+msgstr "You can currently upload %s videos to YouTube per day."
+
+msgid "YOUTUBE_UPLOAD_LIMIT_CURRENT"
+msgstr "You have uploaded %s videos so far today."
+
+msgid "YOUTUBE_UPLOAD_LIMIT_EXCEEDED"
+msgstr "You can't upload any more videos until tomorrow."
+
+msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_LIMIT_NOTE"
+msgstr "Sudomemo Plus members can upload %s videos per day."
+
+msgid "YOUTUBE_UPLOAD_LIMIT_PLUS_UNLIMITED_NOTE"
+msgstr "Sudomemo Plus members can upload an unlimited number of videos each day."
+
+msgid "YOUTUBE_VISIBILITY"
+msgstr "Visibility"
+
+msgid "YOUTUBE_VISIBILITY_PRIVATE"
+msgstr "Private"
+
+msgid "YOUTUBE_VISIBILITY_PUBLIC"
+msgstr "Public"
+
+msgid "YOUTUBE_VISIBILITY_UNLISTED"
+msgstr "Unlisted"
+
+msgid "YOUTUBE_WATCH_NOW_AT"
+msgstr "Watch now:"
+
+# Edit Flipnote page
+msgid "YOU_ARE_EDITING_THIS_FLIPNOTE"
+msgstr "You are editing this Flipnote:"
+
+msgid "YT_LAYOUT_MAY_VARY"
+msgstr "Appearance and layout may vary depending on device used to view video"

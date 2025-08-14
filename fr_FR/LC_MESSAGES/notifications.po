@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Language: fr_FR\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "FLIPNOTE"
+msgstr "Flipnote"
+
+msgid "FRAGMENT_ADDED"
+msgstr " a ajouté "
+
+msgid "FRAGMENT_AND"
+msgstr " et "
+
+msgid "FRAGMENT_A_STAR"
+msgstr "une étoile"
+
+msgid "FRAGMENT_COMMA"
+msgstr ", "
+
+msgid "FRAGMENT_COMMA_AND"
+msgstr ", et "
+
+msgid "FRAGMENT_COMMENTED_ON"
+msgstr " a commenté sur "
+
+msgid "FRAGMENT_CONTENT"
+msgstr "contenu"
+
+msgid "FRAGMENT_CREATED_A"
+msgstr " a créé un "
+
+msgid "FRAGMENT_FOLLOWED_YOU"
+msgstr " vous a suivi"
+
+msgid "FRAGMENT_HAS_BEEN_RESTORED"
+msgstr " a été restauré après examen"
+
+msgid "FRAGMENT_HAS_BEEN_REVIEWED"
+msgstr " a été examiné"
+
+msgid "FRAGMENT_INTERACTED_WITH_CONTENT"
+msgstr "a interagi avec votre contenu"
+
+msgid "FRAGMENT_MESSAGE"
+msgstr "message"
+
+msgid "FRAGMENT_NEW_FLIPNOTE_FRIEND"
+msgstr "Vous avez un nouvel ami Flipnote : "
+
+msgid "FRAGMENT_OF"
+msgstr " de "
+
+msgid "FRAGMENT_OTHER_PEOPLE_PLURAL"
+msgstr " autres personnes"
+
+msgid "FRAGMENT_OTHER_PERSON_SINGULAR"
+msgstr " autre personne"
+
+msgid "FRAGMENT_REPLIED_TO_YOUR_COMMENT_ON"
+msgstr " replied to your comment on "
+
+msgid "FRAGMENT_REPORT"
+msgstr "signalement"
+
+msgid "FRAGMENT_SENT_MESSAGE_DEFAULT"
+msgstr "vous a envoyé un "
+
+msgid "FRAGMENT_SENT_YOU_A"
+msgstr " vous a envoyé un "
+
+msgid "FRAGMENT_SPINOFF"
+msgstr "Dérivée"
+
+msgid "FRAGMENT_STARS"
+msgstr "Étoiles"
+
+msgid "FRAGMENT_TO_YOUR"
+msgstr " à votre "
+
+msgid "FRAGMENT_WAS_REMOVED_POLICY"
+msgstr " a été supprimé pour avoir enfreint notre Politique de contenu"
+
+msgid "FRAGMENT_YOUR"
+msgstr "Votre "
+
+msgid "FRAGMENT_YOUR_FLIPNOTE"
+msgstr "votre Flipnote"

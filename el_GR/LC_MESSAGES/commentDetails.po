@@ -36,6 +36,9 @@ msgstr "ID Σχολιου"
 msgid "FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote του χρηστη %s"
 
+msgid "IN_REPLY_TO"
+msgstr "In reply to"
+
 msgid "MESSAGE_DETAILS"
 msgstr "Λεπτομεριες μηνυματος"
 

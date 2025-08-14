@@ -192,6 +192,9 @@ msgstr "Félicitations pour votre création gagnante à la Flipnote Fight Compet
 msgid "TICKET_DESC_fate_2024_winner_ticket"
 msgstr "Félicitations pour votre soumission gagnante à FATE 2024 !"
 
+msgid "TICKET_DESC_fate_2025_winner_ticket"
+msgstr "Congratulations on your winning FATE 2025 submission!"
+
 msgid "TICKET_DESC_featured_artist_ticket"
 msgstr "Nous vous félicitons chaleureusement pour être devenu un artiste en vedette de Sudomemo !"
 
@@ -346,7 +349,10 @@ msgid "TICKET_NAME_fall_2024_ffc_winner_ticket"
 msgstr "Ticket de lauréat de la F.F.C. de Sudomemo d'automne 2024"
 
 msgid "TICKET_NAME_fate_2024_winner_ticket"
-msgstr "Ticket gagnant du FATE 2024"
+msgstr "Ticket de lauréat du FATE 2024"
+
+msgid "TICKET_NAME_fate_2025_winner_ticket"
+msgstr "Ticket de lauréat du FATE 2025"
 
 msgid "TICKET_NAME_featured_artist_ticket"
 msgstr "Ticket d'artiste en vedette"

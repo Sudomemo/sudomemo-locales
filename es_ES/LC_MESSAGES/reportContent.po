@@ -3,6 +3,9 @@ msgstr ""
 "Language: es_ES\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "CANCEL_BUTTON"
+msgstr "Cancel"
+
 msgid "CATEGORY_DESC_drugs"
 msgstr "Abuso de sustancias o referencias a drogas"
 
@@ -93,6 +96,10 @@ msgstr "Reportar contenido"
 msgid "HEADER_VIOLATION_CATEGORY"
 msgstr "Categoría de Violación:"
 
+# Pineapples1337's chat message
+msgid "ITEM_TITLE_FORMAT"
+msgstr "%s's %s"
+
 msgid "LIMIT_ONE_REPORT"
 msgstr "Porfavor nota: Debes reportar este contenido solo una vez. Reportes adicionales no serán registrados, así que por favor coloca la información en un solo comentario."
 
@@ -108,17 +115,50 @@ msgstr "Este formulario es para reportar contenido de usuarios exclusivamente. P
 msgid "NO_BLANK_REPORTS"
 msgstr "No puedes enviar un reporte en blanco."
 
+msgid "REPORT_CATEGORY_LABEL"
+msgstr "Category"
+
+msgid "REPORT_CHAT_MESSAGE"
+msgstr "Report chat message"
+
+msgid "REPORT_COMMENT"
+msgstr "Report comment"
+
+msgid "REPORT_DETAILS_LABEL"
+msgstr "Details"
+
+msgid "REPORT_DETAILS_PLACEHOLDER"
+msgstr "Describe the issue…"
+
 msgid "REPORT_EXPLANATION_FAILED"
 msgstr "Un error ocurrió mientras este reporte estaba siendo enviado."
 
 msgid "REPORT_FAILED_USER_BANNED"
 msgstr "Reporte fallido: Estas restringido de Sudomemo."
 
+msgid "REPORT_FLIPNOTE"
+msgstr "Report Flipnote"
+
+msgid "REPORT_FLIPNOTE_HEADER"
+msgstr "Report this Flipnote"
+
 msgid "REPORT_INSTRUCTIONS"
 msgstr "Por favor escribe una corta descripción  de por qué crees que este contenido es una violación de los Términos de Uso de Sudomemo. Una vez envíes esto, presiona Atrás para regresar a la Flipnote"
 
+msgid "REPORT_NETWORK_ERROR"
+msgstr "Network error—please check your connection and try again."
+
+msgid "REPORT_SUCCESS_MESSAGE"
+msgstr "Thank you—your report has been submitted."
+
+msgid "REPORT_UNEXPECTED_ERROR"
+msgstr "An unexpected error occurred. Please try again later."
+
 msgid "RESTRICTED_CANCEL"
 msgstr "No debes reportar contenido si has sido restringido de interactuar con Sudomemo de cualquier manera."
+
+msgid "SUBMIT_REPORT_BUTTON"
+msgstr "Submit Report"
 
 msgid "THANKS_FOR_REPORTING"
 msgstr "Hemos recibido tu reporte. Gracias por ayudar a Sudomemo a ser un mejor lugar!"

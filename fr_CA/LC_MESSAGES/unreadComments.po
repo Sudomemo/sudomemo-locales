@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Language: fr_CA\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "FLIPNOTE_ID"
+msgstr "Flipnote ID"
+
+msgid "HEADER_UNREAD_COMMENTS"
+msgstr "Unread Comments"
+
+msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
+msgstr "You must log in to view this page."
+
+msgid "NO_UNREAD_COMMENTS"
+msgstr "You have no unread comments."
+
+msgid "TAP_ON_FLIPNOTE_ID_TO_VISIT_COMMENTS"
+msgstr "Tap on a Flipnote ID to visit the comments page."
+
+msgid "UNREAD"
+msgstr "Unread"

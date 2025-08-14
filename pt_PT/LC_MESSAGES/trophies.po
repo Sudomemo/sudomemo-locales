@@ -53,6 +53,9 @@ msgstr "Um dos vencedores da Competição Flipnote Fight do Sudomemo de Outono 2
 msgid "TROPHY_DESC_fate_2024_winner"
 msgstr "Fizeste upload de um Flipnote vencedor para o FATE 2024"
 
+msgid "TROPHY_DESC_fate_2025_winner"
+msgstr "Submitted a winning Flipnote to FATE 2025"
+
 msgid "TROPHY_DESC_featured_artist"
 msgstr "Sê reconhecido como um Artista Destacado no Sudomemo"
 
@@ -149,6 +152,9 @@ msgstr "Submeter um post vencedor no Tópico Semanal do Sudomemo"
 msgid "TROPHY_DESC_welcoming_champion"
 msgstr "Ganhaste o título de Cidadão Acolhedor."
 
+msgid "TROPHY_EARNED"
+msgstr "New Trophy!"
+
 msgid "TROPHY_NAME_10th_birthday_bash"
 msgstr "10º Birthday Bash"
 
@@ -185,6 +191,9 @@ msgstr "Vencedor da Competição Flipnote Fight do Sudomemo Outono 2024"
 
 msgid "TROPHY_NAME_fate_2024_winner"
 msgstr "Vencedor do FATE 2024"
+
+msgid "TROPHY_NAME_fate_2025_winner"
+msgstr "FATE 2025 Winner"
 
 msgid "TROPHY_NAME_featured_artist"
 msgstr "Artista Destacado"

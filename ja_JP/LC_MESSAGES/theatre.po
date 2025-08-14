@@ -56,9 +56,65 @@ msgstr "うごメモはてなのプロフィールのアーカイブです。"
 msgid "ARTIST"
 msgstr "アーティスト"
 
+msgid "AUTOPLAY_BLOCKED_TOOLTIP_HEADER"
+msgstr "Autoplay Blocked"
+
+# Chrome autoplay help message
+msgid "AUTOPLAY_HELP_CHROME"
+msgstr "Click the settings icon in the address bar → Site Settings → Set 'Sound' to \"Allow\"."
+
+# Edge autoplay help message  
+msgid "AUTOPLAY_HELP_EDGE"
+msgstr "Click the 🔒 padlock in the address bar → Permissions for this site → Set 'Sound' to \"Allow\"."
+
+# Firefox autoplay help message
+msgid "AUTOPLAY_HELP_FIREFOX"
+msgstr "Click the crossed-out play button next to the 🔒 padlock in the address bar → Set 'Autoplay' to \"Allow Audio and Video\"."
+
+# Generic autoplay help message for unknown browsers
+msgid "AUTOPLAY_HELP_GENERIC"
+msgstr "Autoplay may be blocked. Check your browser's site settings."
+
+# Safari autoplay help message
+msgid "AUTOPLAY_HELP_SAFARI"
+msgstr "Right-click the address bar → \"Settings for This Website...\" → Auto-Play → Allow All Auto-Play."
+
 # Back, in the sense of navigation
 msgid "BACK"
 msgstr "戻る"
+
+msgid "BACK_TO_CATEGORIES"
+msgstr "Back to Categories"
+
+msgid "BACK_TO_MAIL"
+msgstr "Back to Mail"
+
+msgid "BATCH_EDIT_DESCRIPTION_PLACEHOLDER"
+msgstr "Description"
+
+msgid "BATCH_EDIT_DONE_MESSAGE"
+msgstr "All done! No more Flipnotes."
+
+msgid "BATCH_EDIT_INSTRUCTIONS"
+msgstr "Give each Flipnote a title and description so viewers can find it! Without them, your Flipnote will get lost in the crowd."
+
+msgid "BATCH_EDIT_PAGE_TITLE"
+msgstr "Flipnote Batch Editor"
+
+msgid "BATCH_EDIT_PANEL_TITLE"
+msgstr "Flipnote Batch Editor"
+
+msgid "BATCH_EDIT_PREVIEW_TIP"
+msgstr "Click the preview to load player"
+
+msgid "BATCH_EDIT_SAVE_AND_NEXT"
+msgstr "Save & Next"
+
+msgid "BATCH_EDIT_SKIP_BUTTON"
+msgstr "Skip"
+
+msgid "BATCH_EDIT_TITLE_PLACEHOLDER"
+msgstr "Title"
 
 msgid "BIO"
 msgstr "Bio"
@@ -109,11 +165,24 @@ msgstr "開始しています..."
 msgid "BTN_START_UPLOAD"
 msgstr "アップロードを開始"
 
+# Discord unlink button text
+msgid "BTN_UNLINK_DISCORD"
+msgstr "Unlink Discord Account"
+
 msgid "BTN_UPLOAD_FAILED"
 msgstr "アップロードに失敗しました..."
 
 msgid "BY"
 msgstr "by"
+
+msgid "CANCEL"
+msgstr "Cancel"
+
+msgid "CANCEL_PROFILE_PICTURE_CHANGE"
+msgstr "Cancel"
+
+msgid "CANCEL_REPLY"
+msgstr "Cancel"
 
 msgid "CANNOT_POST_LINKS"
 msgstr "Links are not allowed in chat messages."
@@ -127,8 +196,14 @@ msgstr "You cannot send an empty message."
 msgid "CANNOT_USE_PROFANITY"
 msgstr "Your message contains inappropriate language."
 
+msgid "CATEGORIES"
+msgstr "Categories"
+
 msgid "CATEGORY"
 msgstr "カテゴリー"
+
+msgid "CHANGE_PROFILE_PICTURE"
+msgstr "Change Profile Picture"
 
 msgid "CHANNEL"
 msgstr "チャンネル"
@@ -171,6 +246,15 @@ msgstr "非公開"
 msgid "CHANNEL_PERM_OPEN"
 msgstr "公開"
 
+msgid "CHANNEL_RANKING"
+msgstr "Channel Ranking"
+
+msgid "CHANNEL_RANKING_SIDEBAR"
+msgstr "Channel Ranking"
+
+msgid "CHANNEL_WATCHING_NOW"
+msgstr "Currently watching %s"
+
 msgid "CHAT"
 msgstr "Chat"
 
@@ -205,8 +289,34 @@ msgstr "コメント"
 msgid "COMMENT_FAILED_USER_BANNED"
 msgstr "You cannot post messages because you are banned."
 
+msgid "CONFIRMATION_CODE_REQUIRED"
+msgstr "A confirmation code is required."
+
+# Discord unlink confirmation dialog
+msgid "CONFIRM_DISCORD_UNLINK"
+msgstr "Are you sure you want to unlink your Discord account? This will remove the connection between your Discord and Sudomemo accounts."
+
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
 msgstr "You must confirm your email before posting."
+
+msgid "CONFIRM_PROFILE_PICTURE_CHANGE"
+msgstr "Confirm Profile Picture Change"
+
+msgid "CONFIRM_PROFILE_PICTURE_CHANGE_ACTION"
+msgstr "Set as Profile Picture"
+
+msgid "CONTENT_POLICY"
+msgstr "Content Policy"
+
+msgid "CONTENT_TYPE_comment"
+msgstr "comment"
+
+# Content type strings
+msgid "CONTENT_TYPE_flipnote"
+msgstr "flipnote"
+
+msgid "CONTENT_TYPE_profile"
+msgstr "profile"
 
 msgid "CONTINUE"
 msgstr "進む"
@@ -228,6 +338,12 @@ msgstr "作者"
 
 msgid "CREATORS_ROOM"
 msgstr "マイルーム"
+
+msgid "CURRENT_EMAIL"
+msgstr "Current Email"
+
+msgid "CURRENT_PROFILE_PICTURE"
+msgstr "Current Profile Picture"
 
 msgid "CUSTOM_FRAMES"
 msgstr "Custom Frames"
@@ -287,6 +403,14 @@ msgstr "紐付け方法"
 # Connected since December 27th, 2020
 msgid "DISCORD_LINKED_ON_DATE"
 msgstr "%sから接続"
+
+# Discord unlink explanation text
+msgid "DISCORD_UNLINK_EXPLANATION"
+msgstr "You can unlink your Discord account from your Sudomemo account using the button below. This will remove the connection between your accounts."
+
+# Discord unlink success message
+msgid "DISCORD_UNLINK_SUCCESS"
+msgstr "Discord account unlinked successfully!"
 
 msgid "DOWNLOADS"
 msgstr "ダウンロード"
@@ -357,6 +481,21 @@ msgstr "文字、数字、記号を40字まで使用できます。"
 msgid "EDIT_PLAYLIST"
 msgstr "Edit Playlist"
 
+msgid "EMAIL_ALREADY_IN_USE"
+msgstr "This email address is already in use by another account."
+
+msgid "EMAIL_CHANGE_ALREADY_PENDING"
+msgstr "You already have a pending email change. Please check your email or wait before requesting another change."
+
+msgid "EMAIL_CHANGE_VERIFICATION_SENT"
+msgstr "Verification email sent! Please check your new email address and click the link to confirm the change."
+
+msgid "EMAIL_SAME_AS_CURRENT"
+msgstr "The new email address must be different from your current one."
+
+msgid "EMAIL_SEND_FAILED"
+msgstr "Failed to send verification email. Please try again later."
+
 msgid "EMPTY_TITLE_ALERT_1"
 msgstr "It looks like your Flipnote needs a title!"
 
@@ -385,11 +524,20 @@ msgstr "注目作品"
 msgid "FEED"
 msgstr "Feed"
 
+msgid "FIX_NOW"
+msgstr "Fix now"
+
 msgid "FLIPNOTE"
 msgstr "うごメモ"
 
 msgid "FLIPNOTES"
 msgstr "作品"
+
+msgid "FLIPNOTES_MISSING_INFO"
+msgstr "Some of your Flipnotes are missing key information."
+
+msgid "FLIPNOTE_ALREADY_SET_AS_PROFILE_PICTURE"
+msgstr "This Flipnote is already set as your profile picture."
 
 msgid "FLIPNOTE_ARCHIVE_BUTTON_TOGGLE"
 msgstr "プロフィールにアーカイブされたうごメモはてなのプロフィールへのリンクを表示する"
@@ -419,6 +567,9 @@ msgstr "作品ID"
 # # Flipnote sections
 msgid "FLIPNOTE_LIST_RECALCULATING"
 msgstr "現在ランキングの集計中です。しばらく待ってから再度読み込んでください。"
+
+msgid "FLIPNOTE_NOT_FOUND_FOR_PROFILE_PICTURE"
+msgstr "Flipnote not found or cannot be used as profile picture."
 
 msgid "FLIPNOTE_SETTINGS_UPLOAD_TO_YOUTUBE"
 msgstr "作品はYouTubeチャンネルにアップロードできます。 開始するには、下のボタンをクリックしてください。"
@@ -466,8 +617,81 @@ msgstr "作者ランキング"
 msgid "FSID"
 msgstr "うごメモID"
 
+# Accessibility strings for genealogy navigation and controls
+msgid "GENEALOGY_BACK_TO_FLIPNOTE"
+msgstr "Back to Flipnote"
+
+# Legend section title
+msgid "GENEALOGY_LEGEND"
+msgstr "Legend"
+
+msgid "GENEALOGY_LEGEND_AVAILABLE"
+msgstr "Available Flipnote"
+
+# Legend items
+msgid "GENEALOGY_LEGEND_CURRENT"
+msgstr "Current Flipnote"
+
+msgid "GENEALOGY_LEGEND_DESCRIPTION"
+msgstr "Legend explaining the color coding used in the genealogy tree"
+
+msgid "GENEALOGY_LEGEND_REMOVED"
+msgstr "Removed Flipnote"
+
+msgid "GENEALOGY_LEGEND_UNKNOWN"
+msgstr "Unknown Flipnote"
+
+# Link text for genealogy
+msgid "GENEALOGY_LINK_TEXT"
+msgstr "Genealogy"
+
+# Meta description for genealogy page
+msgid "GENEALOGY_META_DESCRIPTION"
+msgstr "Genealogy showing the spin-off relationships for this Flipnote"
+
+# Meta description with specific flipnote description
+msgid "GENEALOGY_META_DESCRIPTION_FOR"
+msgstr "Genealogy for: %s"
+
+msgid "GENEALOGY_NAVIGATE_TO"
+msgstr "Navigate to genealogy for this Flipnote"
+
+# Message when no genealogy data is available
+msgid "GENEALOGY_NO_DATA"
+msgstr "No genealogy data available for this Flipnote."
+
+# Main genealogy page title
+msgid "GENEALOGY_PAGE_TITLE"
+msgstr "Flipnote Genealogy"
+
+msgid "GENEALOGY_RESET_VIEW"
+msgstr "Reset view"
+
+# Subtitle text for showing genealogy
+msgid "GENEALOGY_SHOWING_FOR"
+msgstr "Showing genealogy for"
+
+msgid "GENEALOGY_THUMBNAIL_ALT"
+msgstr "Thumbnail for Flipnote by %s"
+
+msgid "GENEALOGY_UNAVAILABLE_FLIPNOTE"
+msgstr "Unavailable Flipnote"
+
+# Link title for viewing genealogy
+msgid "GENEALOGY_VIEW_LINK"
+msgstr "View Genealogy"
+
+msgid "GENEALOGY_ZOOM_IN"
+msgstr "Zoom in"
+
+msgid "GENEALOGY_ZOOM_OUT"
+msgstr "Zoom out"
+
 msgid "GENRE"
 msgstr "ジャンル"
+
+msgid "GET_SUPPORT"
+msgstr "Get Support"
 
 msgid "GIFT_ANONYMOUS"
 msgstr "I'd like to remain anonymous."
@@ -563,6 +787,9 @@ msgstr "Gift a ticket to %s"
 msgid "HATENA_ID"
 msgstr "はてなID"
 
+msgid "HEADER_CHANGE_EMAIL"
+msgstr "Change Email Address"
+
 msgid "HEADER_CHANGE_PASSWORD"
 msgstr "パスワードを変更"
 
@@ -593,6 +820,9 @@ msgstr "Image must be 1080x1920."
 msgid "INFO"
 msgstr "情報"
 
+msgid "INVALID_EMAIL_FORMAT"
+msgstr "Please enter a valid email address."
+
 msgid "INVALID_OR_MISSING_CHATROOMID"
 msgstr "Invalid or missing chatroom ID."
 
@@ -611,6 +841,9 @@ msgstr "Invalid request."
 msgid "INVALID_SESSION"
 msgstr "Invalid session. Please log in again."
 
+msgid "IN_REPLY_TO"
+msgstr "In Reply To"
+
 msgid "LATEST"
 msgstr "新着順"
 
@@ -619,6 +852,12 @@ msgstr "詳しく知る"
 
 msgid "LINK_REQUIRED_BEFORE_UPLOAD"
 msgstr "作品をアップロードする前に、YouTubeチャンネルと連携する必要があります。"
+
+msgid "LOGIN_CONFIRM_PLACEHOLDER"
+msgstr "Confirmation code"
+
+msgid "LOGIN_CONFIRM_PROMPT"
+msgstr "A confirmation code has been sent to your email address. Please enter it to continue."
 
 # # Ticket types..
 # Login Page
@@ -634,6 +873,9 @@ msgstr "パスワード"
 msgid "LOGIN_PLACEHOLDER_USERNAME"
 msgstr "E-mailまたはうごメモID"
 
+msgid "LOGIN_REQUIRED_FOR_PROFILE_PICTURE"
+msgstr "You must be logged in to change your profile picture."
+
 msgid "LOGIN_REQUIRED_TO_DELETE_CHAT_MESSAGE"
 msgstr "Login required to delete a chat message."
 
@@ -642,6 +884,10 @@ msgstr "Login required to post a chat message."
 
 msgid "LOGIN_SIGNUP_SELECT_DEVICE"
 msgstr "機種を選択してください"
+
+# Mail reader strings
+msgid "MAIL_READER_TITLE"
+msgstr "Message"
 
 msgid "MANAGE_PLAYLIST"
 msgstr "Manage Playlist"
@@ -778,8 +1024,21 @@ msgstr "Newest"
 msgid "NEWS"
 msgstr "ニュース"
 
+msgid "NEW_EMAIL"
+msgstr "New Email Address"
+
+# Form validation messages
+msgid "NEW_EMAIL_FIELD_MISSING"
+msgstr "Please enter a new email address."
+
+msgid "NEW_EMAIL_PLACEHOLDER"
+msgstr "Enter your new email address"
+
 msgid "NEW_FRAME"
 msgstr "New Frame"
+
+msgid "NEW_PROFILE_PICTURE"
+msgstr "New Profile Picture"
 
 msgid "NEXT"
 msgstr "次へ"
@@ -793,8 +1052,74 @@ msgstr "Nintendo DSi"
 msgid "NONE"
 msgstr "None"
 
+msgid "NOTIFICATION_CONTENT_REMOVED"
+msgstr "was removed for violating community guidelines"
+
+msgid "NOTIFICATION_CONTENT_RESTORED"
+msgstr "has been restored after review"
+
+msgid "NOTIFICATION_NEW_FRIEND"
+msgstr "added you as a friend"
+
+# Generic strings
+msgid "NOTIFICATION_NEW_MESSAGE"
+msgstr "New message"
+
+msgid "NOTIFICATION_READ_MESSAGE"
+msgstr "Read Message"
+
+msgid "NOTIFICATION_REPORT_ACCEPTED"
+msgstr "Your report has been accepted and action has been taken"
+
+msgid "NOTIFICATION_REPORT_REJECTED"
+msgstr "Your report has been reviewed and no action was taken"
+
+msgid "NOTIFICATION_SENT_MESSAGE"
+msgstr "sent you a message"
+
+msgid "NOTIFICATION_SPINOFF_CREATED"
+msgstr "created a spinoff of"
+
+msgid "NOTIFICATION_UNKNOWN"
+msgstr "New notification"
+
+# Notification action strings
+msgid "NOTIFICATION_VIEW_DETAILS"
+msgstr "View Details"
+
+msgid "NOTIFICATION_VIEW_MESSAGE"
+msgstr "View Message"
+
+msgid "NOTIFICATION_VIEW_SPINOFF"
+msgstr "View Spinoff"
+
+msgid "NOTIFICATION_YOUR_FLIPNOTE"
+msgstr "your flipnote"
+
+msgid "NOT_ENOUGH_DATA_AVAILABLE"
+msgstr "Not enough data available"
+
+# Not following anyone message
+msgid "NOT_FOLLOWING_ANYONE_YET"
+msgstr "%s isn't following anyone yet."
+
+msgid "NO_ACTIVE_CHANNELS"
+msgstr "No active channels"
+
+msgid "NO_CATEGORIES_AVAILABLE"
+msgstr "No categories are currently available."
+
+msgid "NO_CHANNELS_FOUND"
+msgstr "No Channels Found"
+
+msgid "NO_CHANNELS_IN_CATEGORY"
+msgstr "There are currently no channels in this category."
+
 msgid "NO_CHAT_MESSAGES_WHILE_MUTED"
 msgstr "You cannot send chat messages while muted."
+
+msgid "NO_CONTENT"
+msgstr "No content"
 
 msgid "NO_DESCRIPTION"
 msgstr "No description."
@@ -802,11 +1127,24 @@ msgstr "No description."
 msgid "NO_EMAIL_ON_FILE"
 msgstr "メールアドレスが見つかりません。スドメモのサポートにお問い合わせください"
 
+# No followers message
+msgid "NO_FOLLOWERS_YET"
+msgstr "%s doesn't have any followers yet."
+
+msgid "NO_RANKING_DATA"
+msgstr "No Ranking Data Available"
+
+msgid "NO_RECENT_ACTIVITY"
+msgstr "No recent activity"
+
 msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
 msgstr "そのうごメモIDまたはメールアドレスで登録されているユーザーは見つかりませんでした"
 
 msgid "ONLY_APPLIES_FOR_YOUTUBE_SHORTS"
 msgstr "Only applies for YouTube Shorts"
+
+msgid "ONLY_OWNER_CAN_SET_PROFILE_PICTURE"
+msgstr "You can only set your own Flipnotes as your profile picture."
 
 msgid "PARENT_FLIPNOTE"
 msgstr "原作"
@@ -832,6 +1170,9 @@ msgstr "リンクの有効期限が切れています"
 # Channel permissions: Is posting Flipnotes to a channel allowed or not?
 msgid "PERMISSIONS"
 msgstr "公開設定"
+
+msgid "PERSONALIZED_RECOMMENDATIONS"
+msgstr "to see personalized recommendations"
 
 msgid "PIN"
 msgstr "Pin"
@@ -919,6 +1260,9 @@ msgstr "今月の人気作品"
 msgid "PREV"
 msgstr "前へ"
 
+msgid "PREVIOUS"
+msgstr "Previous"
+
 msgid "PRIVACY_POLICY"
 msgstr "個人情報保護方針"
 
@@ -929,6 +1273,21 @@ msgstr "%sさんのプロフィール"
 # # Not going to bother making plural variants
 msgid "PROFILE_DEFAULT_DESCRIPTION"
 msgstr "%s - %sファン、%s作品 on スドメモ"
+
+msgid "PROFILE_PICTURE_CHANGED_SUCCESS"
+msgstr "Profile picture changed successfully!"
+
+msgid "PROFILE_PICTURE_CHANGE_CONFIRMATION"
+msgstr "Are you sure you want to set this Flipnote as your profile picture?"
+
+msgid "PROFILE_PICTURE_CHANGE_FAILED"
+msgstr "Failed to change profile picture. Please try again."
+
+msgid "PROFILE_PICTURE_DESCRIPTION"
+msgstr "You can set this Flipnote as your profile picture. This will be visible on your profile page and when you comment on other Flipnotes."
+
+msgid "PROFILE_PICTURE_SECTION_TITLE"
+msgstr "Profile Picture"
 
 # # Recent comments on their Flipnotes
 msgid "PROFILE_RECENT_COMMENTS"
@@ -942,6 +1301,40 @@ msgstr "★をもらった国"
 msgid "PROFILE_USER_POSTS_IN"
 msgstr "投稿したチャンネル"
 
+msgid "PUSH_NOTIFICATIONS_DESCRIPTION"
+msgstr "Receive instant notifications when you get stars, comments, and other interactions on your Flipnotes."
+
+msgid "PUSH_NOTIFICATIONS_DISABLED"
+msgstr "Notifications disabled"
+
+# Notification messages
+msgid "PUSH_NOTIFICATIONS_ENABLED"
+msgstr "Notifications enabled!"
+
+msgid "PUSH_NOTIFICATIONS_NOT_SUPPORTED"
+msgstr "Push notifications not supported in this browser"
+
+msgid "PUSH_NOTIFICATIONS_PERMISSION_DENIED"
+msgstr "Push notifications permission was denied. Please enable them in your browser settings."
+
+msgid "PUSH_NOTIFICATIONS_SETTINGS_HELP"
+msgstr "This setting is saved per-device. You can enable notifications on multiple devices independently."
+
+msgid "PUSH_NOTIFICATIONS_SETTINGS_LABEL"
+msgstr "Enable notifications on this device"
+
+# Settings link in notifications dropdown
+msgid "PUSH_NOTIFICATIONS_SETTINGS_LINK"
+msgstr "Settings..."
+
+# Button text for enabling notifications in dropdown
+msgid "PUSH_NOTIFICATIONS_SUBSCRIBE"
+msgstr "Enable notifications"
+
+# User settings page - notification section
+msgid "PUSH_NOTIFICATIONS_TITLE"
+msgstr "Push Notifications"
+
 msgid "RANDOM"
 msgstr "ランダム"
 
@@ -950,6 +1343,9 @@ msgstr "ランダム"
 
 msgid "RANK"
 msgstr "作者ランキング"
+
+msgid "RANKING_DATA_DESCRIPTION"
+msgstr "Channel rankings are based on how much representation each channel has in the Flipnote Rankings. Check back later as more content becomes popular!"
 
 msgid "RANK_IMPROVED"
 msgstr "Rank Improved"
@@ -962,6 +1358,9 @@ msgstr "You have exceeded the rate limit for sending messages."
 
 msgid "RECENT"
 msgstr "新着順"
+
+msgid "RECENTLY_VIEWED_CHANNELS"
+msgstr "Recently viewed channels"
 
 msgid "RECENT_FLIPNOTES"
 msgstr "新着作品"
@@ -993,11 +1392,26 @@ msgstr "新着順"
 msgid "REMOVE_FROM_PLAYLIST"
 msgstr "Remove from Playlist"
 
+msgid "REPLY"
+msgstr "Reply"
+
+msgid "REPLYING_TO"
+msgstr "Replying to"
+
 msgid "RESET_PASSWORD_BY_FSID"
 msgstr "You can still reset your password with your Flipnote Studio ID! Simply send a quick message to Sudomemo Support and we'll get that sent out to you."
 
+msgid "RESOURCES"
+msgstr "Resources"
+
+msgid "RETURN_TO_FLIPNOTE_EDIT"
+msgstr "Return to Flipnote"
+
 msgid "ROOT_FLIPNOTE"
 msgstr "Root Flipnote"
+
+msgid "SAFE_COMMS_ANCHOR_1"
+msgstr "Feel something off? Here's how to spot it"
 
 msgid "SAVE"
 msgstr "保存"
@@ -1034,8 +1448,14 @@ msgstr "検索"
 msgid "SEE_MORE"
 msgstr "もっと見る"
 
+msgid "SEND_VERIFICATION_EMAIL"
+msgstr "Send Verification Email"
+
 msgid "SETTINGS"
 msgstr "設定"
+
+msgid "SET_AS_PROFILE_PICTURE"
+msgstr "Set as Profile Picture"
 
 msgid "SHARE"
 msgstr "共有"
@@ -1142,6 +1562,9 @@ msgstr "スドメモシアター"
 msgid "SUDOMEMO_USER"
 msgstr "スドメモユーザー"
 
+msgid "SUPPORT_US"
+msgstr "Support Us"
+
 msgid "TERMS_OF_USE"
 msgstr "利用規約"
 
@@ -1225,6 +1648,9 @@ msgstr "User not logged in."
 msgid "USER_SETTINGS_BIO_EXPLANATION"
 msgstr "This is where you can update your bio."
 
+msgid "USER_SETTINGS_CHANGE_EMAIL_EXPLANATION"
+msgstr "Update your email address. A verification email will be sent to your new address."
+
 msgid "USER_SETTINGS_CHANGE_PASSWORD_EXPLANATION"
 msgstr "You can change the password for your Sudomemo account here:"
 
@@ -1242,6 +1668,9 @@ msgstr "Use this frame from now on"
 
 msgid "VERIFIED_USER"
 msgstr "確認済みユーザー"
+
+msgid "VERIFY_CODE"
+msgstr "Verify"
 
 msgid "VIEWPAGE_ADD_MODERATOR_COMMENT"
 msgstr "運営コメントを送信"
@@ -1288,8 +1717,38 @@ msgstr "子作品"
 msgid "VIEWS"
 msgstr "えつらん回数"
 
+msgid "VIEW_FLIPNOTES_BY_CATEGORY"
+msgstr "View Flipnotes by category"
+
 msgid "VIEW_ON_SUDOMEMO"
 msgstr "スドメモでみる"
+
+msgid "VIEW_YOUR_PROFILE"
+msgstr "View Your Profile"
+
+msgid "VISIBILITY"
+msgstr "Visibility"
+
+msgid "VISIBILITY_DESCRIPTION_PRIVATE"
+msgstr "Only you can view this Flipnote. It won't appear anywhere else."
+
+msgid "VISIBILITY_DESCRIPTION_PUBLIC"
+msgstr "Anyone can view this Flipnote on your profile and in search results."
+
+msgid "VISIBILITY_DESCRIPTION_UNLISTED"
+msgstr "Only people with a direct link can view this Flipnote. It won't appear publicly."
+
+msgid "VISIBILITY_PRIVATE"
+msgstr "Private"
+
+msgid "VISIBILITY_PUBLIC"
+msgstr "Public"
+
+msgid "VISIBILITY_SETTINGS"
+msgstr "Visibility Settings"
+
+msgid "VISIBILITY_UNLISTED"
+msgstr "Unlisted"
 
 msgid "WATCH_HISTORY"
 msgstr "閲覧履歴"
@@ -1352,6 +1811,9 @@ msgstr "#%d in Hot Flipnotes"
 
 msgid "X_IN_POPULAR_FLIPNOTES"
 msgstr "#%d in Popular this Month"
+
+msgid "X_IN_POPULAR_RANK_BADGE"
+msgstr "#%s in Popular"
 
 msgid "X_USERS"
 msgstr "%d user(s)"

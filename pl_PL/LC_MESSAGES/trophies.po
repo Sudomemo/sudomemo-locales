@@ -53,6 +53,9 @@ msgstr "One of the winners of the Fall 2024 Sudomemo Flipnote Fight Competition!
 msgid "TROPHY_DESC_fate_2024_winner"
 msgstr "Submitted a winning Flipnote to FATE 2024"
 
+msgid "TROPHY_DESC_fate_2025_winner"
+msgstr "Submitted a winning Flipnote to FATE 2025"
+
 msgid "TROPHY_DESC_featured_artist"
 msgstr "Zostań wybrany jako wyrózniony twórca na Sudomemo"
 
@@ -149,6 +152,9 @@ msgstr "Twój Flipnote wygral Temat Tygodnia"
 msgid "TROPHY_DESC_welcoming_champion"
 msgstr "Zdobyl/-a tytul Czempiona Przywitań."
 
+msgid "TROPHY_EARNED"
+msgstr "New Trophy!"
+
 msgid "TROPHY_NAME_10th_birthday_bash"
 msgstr "10th Birthday Bash"
 
@@ -185,6 +191,9 @@ msgstr "Fall 2024 Sudomemo Flipnote Fight Competition Winner"
 
 msgid "TROPHY_NAME_fate_2024_winner"
 msgstr "FATE 2024 Winner"
+
+msgid "TROPHY_NAME_fate_2025_winner"
+msgstr "FATE 2025 Winner"
 
 msgid "TROPHY_NAME_featured_artist"
 msgstr "Wyrózniony twórca"

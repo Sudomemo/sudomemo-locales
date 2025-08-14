@@ -3,6 +3,9 @@ msgstr ""
 "Language: ja_JP\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "CANCEL_BUTTON"
+msgstr "Cancel"
+
 msgid "CATEGORY_DESC_drugs"
 msgstr "薬物乱用または薬物への言及"
 
@@ -93,6 +96,10 @@ msgstr "作品を通報"
 msgid "HEADER_VIOLATION_CATEGORY"
 msgstr "違反カテゴリ:"
 
+# Pineapples1337's chat message
+msgid "ITEM_TITLE_FORMAT"
+msgstr "%s's %s"
+
 msgid "LIMIT_ONE_REPORT"
 msgstr "注意:このコンテンツは1度だけ報告することができます。 追加の報告は出来ませんので、あなたの情報をコメントに入れてください。"
 
@@ -108,17 +115,50 @@ msgstr "このフォームは、ユーザーのコンテンツを報告するた
 msgid "NO_BLANK_REPORTS"
 msgstr "空白のレポートを投稿することはできません。"
 
+msgid "REPORT_CATEGORY_LABEL"
+msgstr "Category"
+
+msgid "REPORT_CHAT_MESSAGE"
+msgstr "Report chat message"
+
+msgid "REPORT_COMMENT"
+msgstr "Report comment"
+
+msgid "REPORT_DETAILS_LABEL"
+msgstr "Details"
+
+msgid "REPORT_DETAILS_PLACEHOLDER"
+msgstr "Describe the issue…"
+
 msgid "REPORT_EXPLANATION_FAILED"
 msgstr "レポートの送信中にエラーが発生しました。"
 
 msgid "REPORT_FAILED_USER_BANNED"
 msgstr "あなたはSudomemoとの対話を制限されています。"
 
+msgid "REPORT_FLIPNOTE"
+msgstr "Report Flipnote"
+
+msgid "REPORT_FLIPNOTE_HEADER"
+msgstr "Report this Flipnote"
+
 msgid "REPORT_INSTRUCTIONS"
 msgstr "このコンテンツがSudomemoの利用規約に違反していると思われる簡単な理由を記入してください。 提出したら、Backをタップして作品に戻ります。"
 
+msgid "REPORT_NETWORK_ERROR"
+msgstr "Network error—please check your connection and try again."
+
+msgid "REPORT_SUCCESS_MESSAGE"
+msgstr "Thank you—your report has been submitted."
+
+msgid "REPORT_UNEXPECTED_ERROR"
+msgstr "An unexpected error occurred. Please try again later."
+
 msgid "RESTRICTED_CANCEL"
 msgstr "何らかの形でSudomemoとの対話が制限されている場合、コンテンツを報告することはできません。"
+
+msgid "SUBMIT_REPORT_BUTTON"
+msgstr "Submit Report"
 
 msgid "THANKS_FOR_REPORTING"
 msgstr "報告を受け取りました。ご報告ありがとうございました。"

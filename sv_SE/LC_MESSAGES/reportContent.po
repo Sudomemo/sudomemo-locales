@@ -3,6 +3,9 @@ msgstr ""
 "Language: sv_SE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "CANCEL_BUTTON"
+msgstr "Cancel"
+
 msgid "CATEGORY_DESC_drugs"
 msgstr "Substans eller drog referencer"
 
@@ -93,6 +96,10 @@ msgstr "Rapportera innehåll"
 msgid "HEADER_VIOLATION_CATEGORY"
 msgstr "Överträdelseskategori:"
 
+# Pineapples1337's chat message
+msgid "ITEM_TITLE_FORMAT"
+msgstr "%s's %s"
+
 msgid "LIMIT_ONE_REPORT"
 msgstr "OBS: Du får bara rapportera det innehållet en gång. Ytterligare rapporter kommer inte att registreras, var vänlig skriv din information i en enda kommentar."
 
@@ -108,17 +115,50 @@ msgstr "Denna blankett är endast för rapportering av innehåll. Om du vill rap
 msgid "NO_BLANK_REPORTS"
 msgstr "Du kan inte skicka en tom rapport."
 
+msgid "REPORT_CATEGORY_LABEL"
+msgstr "Category"
+
+msgid "REPORT_CHAT_MESSAGE"
+msgstr "Report chat message"
+
+msgid "REPORT_COMMENT"
+msgstr "Report comment"
+
+msgid "REPORT_DETAILS_LABEL"
+msgstr "Details"
+
+msgid "REPORT_DETAILS_PLACEHOLDER"
+msgstr "Describe the issue…"
+
 msgid "REPORT_EXPLANATION_FAILED"
 msgstr "Ett fel uppstod när rapporten skickades in."
 
 msgid "REPORT_FAILED_USER_BANNED"
 msgstr "Rapportering misslyckades: du är förbjuden från Sudomemo."
 
+msgid "REPORT_FLIPNOTE"
+msgstr "Report Flipnote"
+
+msgid "REPORT_FLIPNOTE_HEADER"
+msgstr "Report this Flipnote"
+
 msgid "REPORT_INSTRUCTIONS"
 msgstr "Var god skriv en kort beskrivning om varför du anser att innehållet bryter mot Sudomemos användarvillkor. När du har skickat det, tryck på Tillbaka för att återgå till Flipnote."
 
+msgid "REPORT_NETWORK_ERROR"
+msgstr "Network error—please check your connection and try again."
+
+msgid "REPORT_SUCCESS_MESSAGE"
+msgstr "Thank you—your report has been submitted."
+
+msgid "REPORT_UNEXPECTED_ERROR"
+msgstr "An unexpected error occurred. Please try again later."
+
 msgid "RESTRICTED_CANCEL"
 msgstr "Du får inte rapportera innehåll om du har blivit förhindrad från att interagera med Sudomemo på något sätt."
+
+msgid "SUBMIT_REPORT_BUTTON"
+msgstr "Submit Report"
 
 msgid "THANKS_FOR_REPORTING"
 msgstr "Vi har mottagit din rapport, tack för att du hjälper till för ett tryggare Sudomemo!"

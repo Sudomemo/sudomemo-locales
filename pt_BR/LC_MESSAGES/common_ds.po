@@ -1,0 +1,19 @@
+msgid ""
+msgstr ""
+"Language: pt_BR\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "NOT_LOGGED_IN_NOTICE"
+msgstr "You aren't logged in to Sudomemo - tap %s to continue!"
+
+msgid "NOT_LOGGED_IN_NOTICE_LINK_TEXT"
+msgstr "here"
+
+msgid "NOT_REGISTERED_NOTICE"
+msgstr "Having fun? Get started with Sudomemo by tapping %s!"
+
+msgid "NOT_REGISTERED_NOTICE_LINK_TEXT"
+msgstr "here"
+
+msgid "YOU_HAVE_NEW_NOTIFICATIONS"
+msgstr "You have new notifications"

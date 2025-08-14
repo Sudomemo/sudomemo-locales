@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Language: fr_FR\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "CHANGE_EMAIL_HEADER"
+msgstr "Vérifiez votre nouvelle adresse e-mail"
+
+msgid "EMAIL_CHANGE_VERIFICATION_EXPIRED_TEXT"
+msgstr "Ce lien de vérification d'e-mail a expiré ou a déjà été utilisé. Veuillez demander un nouveau changement d'adresse e-mail depuis les paramètres de votre compte."
+
+msgid "EMAIL_CHANGE_VERIFIED_SUCCESS"
+msgstr "Votre adresse e-mail a été modifiée avec succès. Vous pouvez désormais utiliser votre nouvelle adresse e-mail pour vous connecter."
+
+# Email change verification email
+msgid "EMAIL_SUBJECT"
+msgstr "Vérifiez votre nouvelle adresse e-mail - Sudomemo"
+
+# Email change verification page
+msgid "HEADER_VERIFICATION_EXPIRED"
+msgstr "Lien de vérification expiré"
+
+msgid "RETURN_TO_SETTINGS"
+msgstr "Retour aux paramètres"
+
+msgid "TEXT_EMAIL_CHANGE_PURPOSE"
+msgstr "Vous avez demandé à changer votre adresse e-mail sur Sudomemo. Pour terminer cette modification, veuillez cliquer sur le lien ci-dessous afin de vérifier votre nouvelle adresse e-mail."
+
+msgid "TEXT_HELLO"
+msgstr "Bonjour !"
+
+msgid "TEXT_URL_PLAIN_DISPLAY"
+msgstr "Si le lien ne fonctionne pas, copiez-collez cette URL dans votre navigateur :"
+
+msgid "TEXT_VERIFICATION_LINK_FORMAT"
+msgstr "Cliquez ici pour vérifier votre nouvelle adresse e-mail : %s"
+
+msgid "WEB_HEADER_EMAIL_CHANGE_SUCCESS"
+msgstr "Adresse e-mail modifiée avec succès !"
