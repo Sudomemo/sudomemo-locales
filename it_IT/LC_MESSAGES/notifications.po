@@ -7,82 +7,82 @@ msgid "FLIPNOTE"
 msgstr "Flipnote"
 
 msgid "FRAGMENT_ADDED"
-msgstr " added "
+msgstr " ha aggiunto "
 
 msgid "FRAGMENT_AND"
-msgstr " and "
+msgstr " e "
 
 msgid "FRAGMENT_A_STAR"
-msgstr "a Star"
+msgstr "una Stella"
 
 msgid "FRAGMENT_COMMA"
 msgstr ", "
 
 msgid "FRAGMENT_COMMA_AND"
-msgstr ", and "
+msgstr ", e "
 
 msgid "FRAGMENT_COMMENTED_ON"
-msgstr " commented on "
+msgstr " ha commentato su "
 
 msgid "FRAGMENT_CONTENT"
-msgstr "content"
+msgstr "contenuto"
 
 msgid "FRAGMENT_CREATED_A"
-msgstr " created a "
+msgstr " ha creato un "
 
 msgid "FRAGMENT_FOLLOWED_YOU"
-msgstr " followed you"
+msgstr " ti ha seguito"
 
 msgid "FRAGMENT_HAS_BEEN_RESTORED"
-msgstr " has been restored after review"
+msgstr " è stato ripristinato dopo la revisione"
 
 msgid "FRAGMENT_HAS_BEEN_REVIEWED"
-msgstr " has been reviewed"
+msgstr " è stato revisionato"
 
 msgid "FRAGMENT_INTERACTED_WITH_CONTENT"
-msgstr "interacted with your content"
+msgstr "ha interagito con il tuo contenuto"
 
 msgid "FRAGMENT_MESSAGE"
-msgstr "message"
+msgstr "messaggio"
 
 msgid "FRAGMENT_NEW_FLIPNOTE_FRIEND"
-msgstr "You have a new Flipnote Friend: "
+msgstr "Hai un nuovo amico Flipnote: "
 
 msgid "FRAGMENT_OF"
-msgstr " of "
+msgstr " di "
 
 msgid "FRAGMENT_OTHER_PEOPLE_PLURAL"
-msgstr " other people"
+msgstr " altre persone"
 
 msgid "FRAGMENT_OTHER_PERSON_SINGULAR"
-msgstr " other person"
+msgstr " altra persona"
 
 msgid "FRAGMENT_REPLIED_TO_YOUR_COMMENT_ON"
 msgstr " replied to your comment on "
 
 msgid "FRAGMENT_REPORT"
-msgstr "report"
+msgstr "segnalazione"
 
 msgid "FRAGMENT_SENT_MESSAGE_DEFAULT"
-msgstr "sent you a "
+msgstr "ti ha inviato un "
 
 msgid "FRAGMENT_SENT_YOU_A"
-msgstr " sent you a "
+msgstr " ti ha inviato un "
 
 msgid "FRAGMENT_SPINOFF"
-msgstr "Spin-off"
+msgstr "Spinoff"
 
 msgid "FRAGMENT_STARS"
-msgstr "Stars"
+msgstr "Stelle"
 
 msgid "FRAGMENT_TO_YOUR"
-msgstr " to your "
+msgstr " al tuo "
 
 msgid "FRAGMENT_WAS_REMOVED_POLICY"
-msgstr " was removed for violating our Content Policy"
+msgstr " è stato rimosso per aver violato la nostra Policy sul Contenuto"
 
 msgid "FRAGMENT_YOUR"
-msgstr "Your "
+msgstr "Il tuo "
 
 msgid "FRAGMENT_YOUR_FLIPNOTE"
-msgstr "your Flipnote"
+msgstr "il tuo Flipnote"
