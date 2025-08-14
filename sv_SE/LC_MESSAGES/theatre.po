@@ -546,20 +546,20 @@ msgid "FLIPNOTE_ARCHIVE_PROFILE_AVAILABLE"
 msgstr "Din Flipnote Hatena profil är tillgänglig genom vårt Flipnote Archive Preview Program! Du kan se dina gamla Flipnotes genom att kolla på din profil i Sudomemo Theatre."
 
 msgid "FLIPNOTE_ARCHIVE_PROFILE_NOT_AVAILABLE"
-msgstr "An archived Flipnote Hatena profile is not available for this account."
+msgstr "Det finns ingen Flipnote Hatena profil arkiverad för detta kontot."
 
 msgid "FLIPNOTE_ARCHIVE_PROFILE_SETTING_INFORMATION"
-msgstr "While logged in, your archive link will always be shown on your page. You can choose whether or not to make this visible to other users below."
+msgstr "Medans du är inloggad kommer arkivslänken visas på din profil. Du kan välja nedan om du vill hålla den privat eller offentlig."
 
 msgid "FLIPNOTE_ARCHIVE_SETTINGS"
-msgstr "Archive Settings"
+msgstr "Arkiverings inställningar"
 
 # # Flipnote by...
 msgid "FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote av %s"
 
 msgid "FLIPNOTE_HATENA_PROFILE"
-msgstr "Flipnote Hatena Profile"
+msgstr "Flipnote Hatena Profil"
 
 msgid "FLIPNOTE_ID"
 msgstr "FlipnoteID"
@@ -569,7 +569,7 @@ msgid "FLIPNOTE_LIST_RECALCULATING"
 msgstr "Rankningarna beräknas för närvarande. Försök ladda om sidan om några minuter."
 
 msgid "FLIPNOTE_NOT_FOUND_FOR_PROFILE_PICTURE"
-msgstr "Flipnote not found or cannot be used as profile picture."
+msgstr "Flipnoten kunde inte hittas eller kan inte användas som profilbild."
 
 msgid "FLIPNOTE_SETTINGS_UPLOAD_TO_YOUTUBE"
 msgstr "You can upload your Flipnote to your YouTube channel. Click the button below to get started."
