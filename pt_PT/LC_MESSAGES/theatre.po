@@ -57,64 +57,64 @@ msgid "ARTIST"
 msgstr "Artista"
 
 msgid "AUTOPLAY_BLOCKED_TOOLTIP_HEADER"
-msgstr "Autoplay Blocked"
+msgstr "Reprodução Automática Bloqueada"
 
 # Chrome autoplay help message
 msgid "AUTOPLAY_HELP_CHROME"
-msgstr "Click the settings icon in the address bar → Site Settings → Set 'Sound' to \"Allow\"."
+msgstr "Clique no ícone de definições na barra de endereços → Definições do Site → Define 'Som' para \"Permitir\"."
 
 # Edge autoplay help message  
 msgid "AUTOPLAY_HELP_EDGE"
-msgstr "Click the 🔒 padlock in the address bar → Permissions for this site → Set 'Sound' to \"Allow\"."
+msgstr "Clique no 🔒 cadeado na barra de endereços → Permissões para este site → Define 'Som' para \"Permitir\"."
 
 # Firefox autoplay help message
 msgid "AUTOPLAY_HELP_FIREFOX"
-msgstr "Click the crossed-out play button next to the 🔒 padlock in the address bar → Set 'Autoplay' to \"Allow Audio and Video\"."
+msgstr "Clique no botão reproduzir rasurado ao pé do 🔒 cadeado na barra de endereços → Define 'Reprodução Automática' para \"Permitir Audio e Video\"."
 
 # Generic autoplay help message for unknown browsers
 msgid "AUTOPLAY_HELP_GENERIC"
-msgstr "Autoplay may be blocked. Check your browser's site settings."
+msgstr "A Reprodução Automática pode estar bloqueada. Verifique as definições do site no teu navegador de internet."
 
 # Safari autoplay help message
 msgid "AUTOPLAY_HELP_SAFARI"
-msgstr "Right-click the address bar → \"Settings for This Website...\" → Auto-Play → Allow All Auto-Play."
+msgstr "Faça clique direito na barra de endereços → \"Definições para este Site...\" → Reprodução Automática → Permitir Reproduções Automáticas."
 
 # Back, in the sense of navigation
 msgid "BACK"
 msgstr "Voltar"
 
 msgid "BACK_TO_CATEGORIES"
-msgstr "Back to Categories"
+msgstr "Voltar às Categorias"
 
 msgid "BACK_TO_MAIL"
-msgstr "Back to Mail"
+msgstr "Voltar ao Correio"
 
 msgid "BATCH_EDIT_DESCRIPTION_PLACEHOLDER"
-msgstr "Description"
+msgstr "Descrição"
 
 msgid "BATCH_EDIT_DONE_MESSAGE"
-msgstr "All done! No more Flipnotes."
+msgstr "Feito! Não há mais Flipnotes."
 
 msgid "BATCH_EDIT_INSTRUCTIONS"
-msgstr "Give each Flipnote a title and description so viewers can find it! Without them, your Flipnote will get lost in the crowd."
+msgstr "Dá cada Flipnote um título e descrição para que os utilizadores possam o encontrar! Sem eles, o teu Flipnote pode se perder no meio da multidão."
 
 msgid "BATCH_EDIT_PAGE_TITLE"
-msgstr "Flipnote Batch Editor"
+msgstr "Editor de Flipnotes a Vulso"
 
 msgid "BATCH_EDIT_PANEL_TITLE"
-msgstr "Flipnote Batch Editor"
+msgstr "Editor de Flipnotes a Vulso"
 
 msgid "BATCH_EDIT_PREVIEW_TIP"
-msgstr "Click the preview to load player"
+msgstr "Clique na pré-visualização para carregar o reprodutor"
 
 msgid "BATCH_EDIT_SAVE_AND_NEXT"
-msgstr "Save & Next"
+msgstr "Guardar & Continuar"
 
 msgid "BATCH_EDIT_SKIP_BUTTON"
-msgstr "Skip"
+msgstr "Saltar"
 
 msgid "BATCH_EDIT_TITLE_PLACEHOLDER"
-msgstr "Title"
+msgstr "Título"
 
 msgid "BIO"
 msgstr "Biografia"
@@ -126,7 +126,7 @@ msgid "BIO_CONTAINS_INVALID_OR_PROHIBITED_TEXT"
 msgstr "A Biografia contém texto inválido ou proibido."
 
 msgid "BIO_FIELD_MISSING"
-msgstr "O campo de texso da Biografia está vazio."
+msgstr "O campo de texto da Biografia está vazio."
 
 msgid "BIO_PLACEHOLDER"
 msgstr "Escreva a sua biografia aqui..."
@@ -167,7 +167,7 @@ msgstr "Começar Upload"
 
 # Discord unlink button text
 msgid "BTN_UNLINK_DISCORD"
-msgstr "Unlink Discord Account"
+msgstr "Desligar Conta do Discord"
 
 msgid "BTN_UPLOAD_FAILED"
 msgstr "Upload falhado..."
@@ -176,10 +176,10 @@ msgid "BY"
 msgstr "por"
 
 msgid "CANCEL"
-msgstr "Cancel"
+msgstr "Cancelar"
 
 msgid "CANCEL_PROFILE_PICTURE_CHANGE"
-msgstr "Cancel"
+msgstr "Cancelar"
 
 msgid "CANNOT_POST_LINKS"
 msgstr "Links não são permitidos nas mensagens de chat."
@@ -194,13 +194,13 @@ msgid "CANNOT_USE_PROFANITY"
 msgstr "A tua mensagem contém linguagem imprópria."
 
 msgid "CATEGORIES"
-msgstr "Categories"
+msgstr "Categorias"
 
 msgid "CATEGORY"
 msgstr "Categoria"
 
 msgid "CHANGE_PROFILE_PICTURE"
-msgstr "Change Profile Picture"
+msgstr "Mudar Foto de Perfil"
 
 msgid "CHANNEL"
 msgstr "Canal"
@@ -244,13 +244,13 @@ msgid "CHANNEL_PERM_OPEN"
 msgstr "Aberto"
 
 msgid "CHANNEL_RANKING"
-msgstr "Channel Ranking"
+msgstr "Ranking de Canais"
 
 msgid "CHANNEL_RANKING_SIDEBAR"
-msgstr "Channel Ranking"
+msgstr "Ranking de Canais"
 
 msgid "CHANNEL_WATCHING_NOW"
-msgstr "Currently watching %s"
+msgstr "A ver o canal %s"
 
 msgid "CHAT"
 msgstr "Chat"
@@ -287,33 +287,33 @@ msgid "COMMENT_FAILED_USER_BANNED"
 msgstr "Não podes inserir comentários porque foste banido(a)."
 
 msgid "CONFIRMATION_CODE_REQUIRED"
-msgstr "A confirmation code is required."
+msgstr "Um código de confirmação é preciso para esta acção."
 
 # Discord unlink confirmation dialog
 msgid "CONFIRM_DISCORD_UNLINK"
-msgstr "Are you sure you want to unlink your Discord account? This will remove the connection between your Discord and Sudomemo accounts."
+msgstr "Tens a certeza que queres desligar a tua conta do Discord? Isto irá remover as ligações entre as tuas contas do Discord e Sudomemo."
 
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
 msgstr "Tens de confirmar o teu email antes de enviar um comentário."
 
 msgid "CONFIRM_PROFILE_PICTURE_CHANGE"
-msgstr "Confirm Profile Picture Change"
+msgstr "Confirmar Mudança a Foto de Perfil"
 
 msgid "CONFIRM_PROFILE_PICTURE_CHANGE_ACTION"
-msgstr "Set as Profile Picture"
+msgstr "Definir como Foto de Perfil"
 
 msgid "CONTENT_POLICY"
-msgstr "Content Policy"
+msgstr "Políticas de Conteúdo"
 
 msgid "CONTENT_TYPE_comment"
-msgstr "comment"
+msgstr "comentário"
 
 # Content type strings
 msgid "CONTENT_TYPE_flipnote"
 msgstr "flipnote"
 
 msgid "CONTENT_TYPE_profile"
-msgstr "profile"
+msgstr "perfil"
 
 msgid "CONTINUE"
 msgstr "Continuar"
@@ -337,10 +337,10 @@ msgid "CREATORS_ROOM"
 msgstr "Sala do Criador"
 
 msgid "CURRENT_EMAIL"
-msgstr "Current Email"
+msgstr "Email Actual"
 
 msgid "CURRENT_PROFILE_PICTURE"
-msgstr "Current Profile Picture"
+msgstr "Foto de Perfil Actual"
 
 msgid "CUSTOM_FRAMES"
 msgstr "Molduras Customizadas"
@@ -403,11 +403,11 @@ msgstr "Ligado desde %s"
 
 # Discord unlink explanation text
 msgid "DISCORD_UNLINK_EXPLANATION"
-msgstr "You can unlink your Discord account from your Sudomemo account using the button below. This will remove the connection between your accounts."
+msgstr "Podes desligar a tua conta do Discord da tua conta do Sudomemo ao carregar no botão abaixo. Isto irá remover a ligação entre as tuas contas."
 
 # Discord unlink success message
 msgid "DISCORD_UNLINK_SUCCESS"
-msgstr "Discord account unlinked successfully!"
+msgstr "Conta do Discord desligada con successo!"
 
 msgid "DOWNLOADS"
 msgstr "Downloads"
@@ -479,19 +479,19 @@ msgid "EDIT_PLAYLIST"
 msgstr "Editar Playlist"
 
 msgid "EMAIL_ALREADY_IN_USE"
-msgstr "This email address is already in use by another account."
+msgstr "Este endereço de email já está a ser utilizado por outra conta."
 
 msgid "EMAIL_CHANGE_ALREADY_PENDING"
-msgstr "You already have a pending email change. Please check your email or wait before requesting another change."
+msgstr "Tens uma mudança de email pendente. Por-favor verifique a tua caixa de entrada do teu email ou espere um bocado antes de pedir outra mudança."
 
 msgid "EMAIL_CHANGE_VERIFICATION_SENT"
-msgstr "Verification email sent! Please check your new email address and click the link to confirm the change."
+msgstr "Email de verificação enviado! Por-favor verifque a caixa de entrada do novo endereço de email e clique no link para confirmar a mudança."
 
 msgid "EMAIL_SAME_AS_CURRENT"
-msgstr "The new email address must be different from your current one."
+msgstr "O novo endereço de email deve ser diferente do endereço de email actual."
 
 msgid "EMAIL_SEND_FAILED"
-msgstr "Failed to send verification email. Please try again later."
+msgstr "O envio do email de verificação falhou. Por-favor tente de novo mais tarde."
 
 msgid "EMPTY_TITLE_ALERT_1"
 msgstr "Parece que o teu Flipnote precisa de um título!"
@@ -522,7 +522,7 @@ msgid "FEED"
 msgstr "Feed pers."
 
 msgid "FIX_NOW"
-msgstr "Fix now"
+msgstr "Arranjar agora"
 
 msgid "FLIPNOTE"
 msgstr "Flipnote"
@@ -531,10 +531,10 @@ msgid "FLIPNOTES"
 msgstr "Flipnotes"
 
 msgid "FLIPNOTES_MISSING_INFO"
-msgstr "Some of your Flipnotes are missing key information."
+msgstr "Alguns dos teus Flipnotes tem informação em falta."
 
 msgid "FLIPNOTE_ALREADY_SET_AS_PROFILE_PICTURE"
-msgstr "This Flipnote is already set as your profile picture."
+msgstr "Este Flipnote já está definido como a tua Foto de Perfil."
 
 msgid "FLIPNOTE_ARCHIVE_BUTTON_TOGGLE"
 msgstr "Mostrar link ao conteúdo arquivado do Flipnote Hatena do meu perfil"
@@ -566,7 +566,7 @@ msgid "FLIPNOTE_LIST_RECALCULATING"
 msgstr "Os rankings estão a ser recalculados. Tenta actualizar a página dentro de momentos."
 
 msgid "FLIPNOTE_NOT_FOUND_FOR_PROFILE_PICTURE"
-msgstr "Flipnote not found or cannot be used as profile picture."
+msgstr "O Flipnote não pode ser encontrado ou não pode ser usado como uma Foto de Perfil."
 
 msgid "FLIPNOTE_SETTINGS_UPLOAD_TO_YOUTUBE"
 msgstr "Tu podes fazer o upload do teu Flipnote no teu canal do YouTube. Clica no botão em baixo para começar."
@@ -616,57 +616,57 @@ msgstr "FSID"
 
 # Accessibility strings for genealogy navigation and controls
 msgid "GENEALOGY_BACK_TO_FLIPNOTE"
-msgstr "Back to Flipnote"
+msgstr "Voltar ao Flipnote"
 
 # Legend section title
 msgid "GENEALOGY_LEGEND"
-msgstr "Legend"
+msgstr "Legenda"
 
 msgid "GENEALOGY_LEGEND_AVAILABLE"
-msgstr "Available Flipnote"
+msgstr "Flipnote Disponível"
 
 # Legend items
 msgid "GENEALOGY_LEGEND_CURRENT"
-msgstr "Current Flipnote"
+msgstr "Flipnote Actual"
 
 msgid "GENEALOGY_LEGEND_DESCRIPTION"
-msgstr "Legend explaining the color coding used in the genealogy tree"
+msgstr "A legenda explica as cores usadas na árvore de genealogia"
 
 msgid "GENEALOGY_LEGEND_REMOVED"
-msgstr "Removed Flipnote"
+msgstr "Flipnote Removido"
 
 msgid "GENEALOGY_LEGEND_UNKNOWN"
-msgstr "Unknown Flipnote"
+msgstr "Flipnote Desconhecido"
 
 # Link text for genealogy
 msgid "GENEALOGY_LINK_TEXT"
-msgstr "Genealogy"
+msgstr "Genealogia"
 
 # Meta description for genealogy page
 msgid "GENEALOGY_META_DESCRIPTION"
-msgstr "Genealogy showing the spin-off relationships for this Flipnote"
+msgstr "A genealogia mostra as várias relações que os Flpinotes spin-off tiveram ao longo da vida o Flipnote actual"
 
 # Meta description with specific flipnote description
 msgid "GENEALOGY_META_DESCRIPTION_FOR"
-msgstr "Genealogy for: %s"
+msgstr "Genealogia de: %s"
 
 msgid "GENEALOGY_NAVIGATE_TO"
-msgstr "Navigate to genealogy for this Flipnote"
+msgstr "Navega para a genealogia deste Flipnote"
 
 # Message when no genealogy data is available
 msgid "GENEALOGY_NO_DATA"
-msgstr "No genealogy data available for this Flipnote."
+msgstr "Não existe dados de genealogia disponível para este Flipnote."
 
 # Main genealogy page title
 msgid "GENEALOGY_PAGE_TITLE"
-msgstr "Flipnote Genealogy"
+msgstr "Genealogia dos Flipnotes"
 
 msgid "GENEALOGY_RESET_VIEW"
-msgstr "Reset view"
+msgstr "Repor opções"
 
 # Subtitle text for showing genealogy
 msgid "GENEALOGY_SHOWING_FOR"
-msgstr "Showing genealogy for"
+msgstr "A mostrar genealogia de"
 
 msgid "GENEALOGY_THUMBNAIL_ALT"
 msgstr "Thumbnail for Flipnote by %s"
