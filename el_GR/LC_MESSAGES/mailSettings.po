@@ -63,6 +63,12 @@ msgstr "Ληψη email οταν  καποιος  σας  προσθετει  σ�
 msgid "TYPE_FAVE_NOTIF_NAME"
 msgstr "Προστεθηκε στα Αγαπημενα"
 
+msgid "TYPE_METADATA_NOTICE_DESC"
+msgstr "Receive an email when we find issues with your Flipnote metadata"
+
+msgid "TYPE_METADATA_NOTICE_NAME"
+msgstr "Missing Metadata Notice"
+
 msgid "TYPE_NEWS_DESC"
 msgstr "Ληψη email οταν  κατι  νεο  ανεβαινει  στα νεα  του Sudomemo"
 

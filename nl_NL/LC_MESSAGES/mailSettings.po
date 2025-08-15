@@ -63,6 +63,12 @@ msgstr "Ontvang een e-mail wanneer iemand je toevoegd aan hun Favorieten"
 msgid "TYPE_FAVE_NOTIF_NAME"
 msgstr "Toegevoegd als Favoriet"
 
+msgid "TYPE_METADATA_NOTICE_DESC"
+msgstr "Receive an email when we find issues with your Flipnote metadata"
+
+msgid "TYPE_METADATA_NOTICE_NAME"
+msgstr "Missing Metadata Notice"
+
 msgid "TYPE_NEWS_DESC"
 msgstr "Ontvang een e-mail wanneer iets nieuws in Sudomemo Nieuws geplaatst is"
 
