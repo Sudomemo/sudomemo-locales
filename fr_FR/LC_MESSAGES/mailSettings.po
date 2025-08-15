@@ -63,6 +63,12 @@ msgstr "Recevez un mail quand quelqu'un vous ajoute dans ses Favoris"
 msgid "TYPE_FAVE_NOTIF_NAME"
 msgstr "Ajouté comme Favori"
 
+msgid "TYPE_METADATA_NOTICE_DESC"
+msgstr "Receive an email when we find issues with your Flipnote metadata"
+
+msgid "TYPE_METADATA_NOTICE_NAME"
+msgstr "Missing Metadata Notice"
+
 msgid "TYPE_NEWS_DESC"
 msgstr "Recevez un mail quand quelque chose de nouveau est posté dans les infos de Sudomemo"
 

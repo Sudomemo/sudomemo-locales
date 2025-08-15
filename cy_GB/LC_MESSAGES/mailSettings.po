@@ -63,6 +63,12 @@ msgstr "Derbyniwch e-bost pan fydd rhywun yn eich ychwanegu at eu Ffefrynnau"
 msgid "TYPE_FAVE_NOTIF_NAME"
 msgstr "Wedi'i ychwanegu fel Hoff"
 
+msgid "TYPE_METADATA_NOTICE_DESC"
+msgstr "Receive an email when we find issues with your Flipnote metadata"
+
+msgid "TYPE_METADATA_NOTICE_NAME"
+msgstr "Missing Metadata Notice"
+
 msgid "TYPE_NEWS_DESC"
 msgstr "Derbyn e-bost pan fydd rhywbeth newydd yn cael ei bostio i Sudomemo News"
 

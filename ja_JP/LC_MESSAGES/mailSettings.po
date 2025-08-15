@@ -63,6 +63,12 @@ msgstr "誰かがあなたをお気に入りに追加したときにEメール�
 msgid "TYPE_FAVE_NOTIF_NAME"
 msgstr "お気に入りに追加された"
 
+msgid "TYPE_METADATA_NOTICE_DESC"
+msgstr "Receive an email when we find issues with your Flipnote metadata"
+
+msgid "TYPE_METADATA_NOTICE_NAME"
+msgstr "Missing Metadata Notice"
+
 msgid "TYPE_NEWS_DESC"
 msgstr "スドメモニュースが更新されたときメールを受信する"
 
