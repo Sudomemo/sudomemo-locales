@@ -1,0 +1,66 @@
+msgid ""
+msgstr ""
+"Language: it_IT\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "UE_BETTER_CATEGORIES_CONTENT"
+msgstr "Browse your favorite <strong>categories and channels</strong> right here. Like Flipnote Hatena, <strong>channels now have icons</strong>, too."
+
+# Feature 5: Better Channels/Categories
+msgid "UE_BETTER_CATEGORIES_TITLE"
+msgstr "Better Channels and Categories!"
+
+msgid "UE_COMMENT_REPLIES_CONTENT"
+msgstr "Avid commenters rejoice! You can now <strong>reply to comments directly</strong> from your console or on the web."
+
+# Feature 6: Comment replies
+msgid "UE_COMMENT_REPLIES_TITLE"
+msgstr "Re: re: re: re: re:"
+
+msgid "UE_FINISH"
+msgstr "Let's Go!"
+
+msgid "UE_FLIPNOTE_GENEALOGY_CONTENT"
+msgstr "With <strong>Flipnote Genealogy</strong>, you can now see the entire <strong>spin-off tree</strong> of any Flipnote."
+
+# Feature 3: Flipnote Genealogy (How did we get here?)
+msgid "UE_FLIPNOTE_GENEALOGY_TITLE"
+msgstr "How did we get here?"
+
+msgid "UE_FOLLOWING_LIST_CONTENT"
+msgstr "Want to see your <strong>full following and followers list</strong>?<br>You're in luck, because now you can!"
+
+# Feature 1: Following List (@everyone)
+msgid "UE_FOLLOWING_LIST_TITLE"
+msgstr "@everyone"
+
+msgid "UE_INTRO_MESSAGE"
+msgstr "Let's flip through what's new!"
+
+# Control buttons
+msgid "UE_NEXT"
+msgstr "Next"
+
+msgid "UE_NOTIFICATIONS_CONTENT"
+msgstr "<strong>Notifications</strong> are now <strong>synced from your console</strong>.<br>Now you can always stay up-to-date!"
+
+# Feature 4: Notifications (Extra! Extra!)
+msgid "UE_NOTIFICATIONS_TITLE"
+msgstr "Extra! Extra!"
+
+msgid "UE_PROFILE_PICTURE_CONTENT"
+msgstr "You can now <strong>change your profile picture on Sudomemo Theatre</strong>. Click \"Edit Flipnote\" and apply!"
+
+# Feature 2: Profile Picture (Looking good!)
+msgid "UE_PROFILE_PICTURE_TITLE"
+msgstr "Looking good!"
+
+msgid "UE_SKIP_ALL"
+msgstr "Skip All"
+
+msgid "UE_WELCOME_BACK_SUBTITLE"
+msgstr "A lot has changed since you've last logged on."
+
+# Welcome slide
+msgid "UE_WELCOME_BACK_TITLE"
+msgstr "Welcome back!"
