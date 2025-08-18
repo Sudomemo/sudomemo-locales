@@ -13,6 +13,9 @@ msgstr "Pagina non trovata!"
 msgid "404_WHOOPS_NOT_THERE"
 msgstr "Whoops! Qualsiasi cosa tu stia cercando, non si trova qui."
 
+msgid "ABOUT_SUDOMEMO"
+msgstr "Info su SUdomemo"
+
 # Account Settings (Theatre)
 msgid "ACCOUNT_SETTINGS"
 msgstr "Impostazioni Account"

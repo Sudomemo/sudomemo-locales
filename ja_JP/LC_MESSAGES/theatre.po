@@ -13,6 +13,9 @@ msgstr "エラー！ページが見つかりませんでした"
 msgid "404_WHOOPS_NOT_THERE"
 msgstr "このページには表示できるものがありません。"
 
+msgid "ABOUT_SUDOMEMO"
+msgstr "スドメモについて"
+
 # Account Settings (Theatre)
 msgid "ACCOUNT_SETTINGS"
 msgstr "アカウント設定"

@@ -13,6 +13,9 @@ msgstr "Hoppan - Sidan kunde inte hittas"
 msgid "404_WHOOPS_NOT_THERE"
 msgstr "Oj då! Vad du än letade efter var det inte där."
 
+msgid "ABOUT_SUDOMEMO"
+msgstr "Om Sudomemo"
+
 # Account Settings (Theatre)
 msgid "ACCOUNT_SETTINGS"
 msgstr "Kontoinställningar"
