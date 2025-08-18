@@ -13,6 +13,9 @@ msgstr "Upps... Die Seite konnte nicht gefunden werden."
 msgid "404_WHOOPS_NOT_THERE"
 msgstr "Hoppla! Das, wonach du suchst, ist nicht zu finden."
 
+msgid "ABOUT_SUDOMEMO"
+msgstr "Über Sudomemo"
+
 # Account Settings (Theatre)
 msgid "ACCOUNT_SETTINGS"
 msgstr "Konto-Einstellungen"

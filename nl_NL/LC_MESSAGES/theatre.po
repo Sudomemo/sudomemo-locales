@@ -13,6 +13,9 @@ msgstr "Oeps - Die pagina kon niet gevonden worden"
 msgid "404_WHOOPS_NOT_THERE"
 msgstr "Whoops! Waar je ook naar zocht, het was niet hier."
 
+msgid "ABOUT_SUDOMEMO"
+msgstr "Over Sudomemo"
+
 # Account Settings (Theatre)
 msgid "ACCOUNT_SETTINGS"
 msgstr "Account Instellingen"

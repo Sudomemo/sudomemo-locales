@@ -13,6 +13,9 @@ msgstr "Οουπς - Δεν βρεθηκε αυτη η σελιδα"
 msgid "404_WHOOPS_NOT_THERE"
 msgstr "Ουπς! Ο,τι ψαχνατε δεν βρισκεται εδω."
 
+msgid "ABOUT_SUDOMEMO"
+msgstr "Βοηθεια Sudomemo"
+
 # Account Settings (Theatre)
 msgid "ACCOUNT_SETTINGS"
 msgstr "Ρυθμισεις Λογαριασμου"

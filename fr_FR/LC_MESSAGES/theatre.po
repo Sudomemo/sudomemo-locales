@@ -13,6 +13,9 @@ msgstr "Oups - Cette page est introuvable"
 msgid "404_WHOOPS_NOT_THERE"
 msgstr "Ouuups ! Peu importe ce que vous cherchiez, ce n'était pas là."
 
+msgid "ABOUT_SUDOMEMO"
+msgstr "À propos de Sudomemo"
+
 # Account Settings (Theatre)
 msgid "ACCOUNT_SETTINGS"
 msgstr "Paramètres du compte"

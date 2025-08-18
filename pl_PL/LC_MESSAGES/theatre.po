@@ -13,6 +13,9 @@ msgstr "Ups - Ta strona nie została znaleziona"
 msgid "404_WHOOPS_NOT_THERE"
 msgstr "Ups! Czegokolwiek szukasz, nie znajduje się to tutaj."
 
+msgid "ABOUT_SUDOMEMO"
+msgstr "O Sudomemo"
+
 # Account Settings (Theatre)
 msgid "ACCOUNT_SETTINGS"
 msgstr "Ustawienia konta"
