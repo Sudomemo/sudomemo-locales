@@ -197,7 +197,7 @@ msgstr "When enabled, only the thumbnails of Flipnotes will be shown. If Gallery
 msgid "SETTINGS_FLIPNOTE_VIEW_ORIGINAL_THUMBNAIL"
 msgstr "Original Flipnote Thumbnail Resolution"
 
-msgid "SETTINGS_FLIPNOTE_VIEW_ORIGINAL_THUMBNAIL_DESCRIPTION_DESCRIPTION"
+msgid "SETTINGS_FLIPNOTE_VIEW_ORIGINAL_THUMBNAIL_DESCRIPTION"
 msgstr "When enabled, Flipnotes will use the built-in PPM thumbnails. These thumbnails are typically far less vibrant and are lower resolution, as such it is generally recommended to keep this off."
 
 msgid "SETTINGS_FLIPNOTE_VIEW_SORT_BY_FILENAME"
