@@ -1,0 +1,417 @@
+msgid ""
+msgstr ""
+"Language: cy_GB\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "ABOUT"
+msgstr "About"
+
+# Keep ALL_FLIPNOTES_FOLDER under 7 characters.
+msgid "ALL_FLIPNOTES_FOLDER"
+msgstr "All"
+
+msgid "BUTTON_ALL_SETTINGS"
+msgstr "View All Settings"
+
+msgid "BUTTON_BACK"
+msgstr "Back"
+
+msgid "BUTTON_CLOSE_PLAYER"
+msgstr "Close Player"
+
+msgid "BUTTON_CLOSE_SETTINGS"
+msgstr "Close Settings"
+
+msgid "BUTTON_DIGITAL_SHIFT"
+msgstr "Shift"
+
+msgid "BUTTON_TO_TOP"
+msgstr "Top"
+
+msgid "CREDITS"
+msgstr "Credits"
+
+msgid "CREDITS_CREATOR"
+msgstr "Created by King Mayro"
+
+msgid "CREDITS_SPECIAL_THANKS"
+msgstr "Special Thanks"
+
+msgid "DONT_SHOW_NOTICE_AGAIN"
+msgstr "Please don't show this again"
+
+msgid "DUPLICATES"
+msgstr "Duplicates"
+
+msgid "DUPLICATE_INSIDE_FOLDER"
+msgstr "Inside:"
+
+msgid "FLIPNOTE"
+msgstr "Flipnote"
+
+msgid "FLIPNOTE_AMOUNT"
+msgstr "Flipnotes"
+
+msgid "FLIPNOTE_DETAILS_AUTHOR"
+msgstr "Creator:"
+
+msgid "FLIPNOTE_ORGANIZER"
+msgstr "Flipnote Organizer"
+
+msgid "FLIPNOTE_ORGANIZER_SECONDARY_TAGLINE"
+msgstr "Sort, view, search, and watch your downloaded Flipnotes!"
+
+msgid "FLIPNOTE_ORGANIZER_TAGLINE"
+msgstr "Keep your Flipnotes and folders nice and tidy with the Flipnote Organizer!"
+
+# Treat these as if they have a number attatched.
+msgid "FOLDER"
+msgstr "folder"
+
+msgid "FOLDER_AMOUNT"
+msgstr "folders"
+
+msgid "FOLDER_NOTE"
+msgstr "You can find your Flipnote folder at %s"
+
+msgid "FOLDER_NOTE_DONT_WORRY"
+msgstr "Your Flipnotes are not uploaded or stored; they are loaded locally."
+
+msgid "FOLDER_SELECTOR"
+msgstr "Click or drag and drop a folder in here!"
+
+msgid "FOLDER_SELECTOR_NO_DRAG"
+msgstr "Click here to load a folder!!!"
+
+msgid "HOW_TO_USE"
+msgstr "How to Use"
+
+msgid "IMPORTANT"
+msgstr "Important:"
+
+msgid "JAVASCRIPT_NEEDED"
+msgstr "The Flipnote Organizer requires Javascript to run."
+
+msgid "JAVASCRIPT_PLEAE_ENABLE"
+msgstr "Please enable Javascript within your browsers settings."
+
+msgid "LINKS"
+msgstr "Links"
+
+msgid "LISTING_ALL_FLIPNOTES"
+msgstr "All Flipnotes"
+
+msgid "LISTING_NO_SEARCH_RESULTS"
+msgstr "No Results..."
+
+msgid "LISTING_SEARCH_RESULTS"
+msgstr "Search Results"
+
+msgid "NEXT"
+msgstr "Next"
+
+msgid "NO"
+msgstr "No"
+
+msgid "NO_THANKS"
+msgstr "No thanks"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "PREV"
+msgstr "Prev"
+
+msgid "PREVIOUS"
+msgstr "Previous"
+
+msgid "SEARCH"
+msgstr "Search"
+
+msgid "SEARCH_FILTERS"
+msgstr "Search Filters"
+
+msgid "SEARCH_FILTER_LOCKED"
+msgstr "Locked"
+
+msgid "SEARCH_FILTER_LOCKED_OPTION_UNLOCKED"
+msgstr "Unlocked"
+
+msgid "SEARCH_FILTER_OPTION_ANY"
+msgstr "Any"
+
+msgid "SEARCH_FILTER_SPINOFF"
+msgstr "Spinoff"
+
+msgid "SEARCH_PLACEHOLDER"
+msgstr "Enter a Creator, FSID, or use filters"
+
+msgid "SEARCH_RESULTS_FOLDER"
+msgstr "Results"
+
+msgid "SEARCH_TITLE"
+msgstr "Search Flipnotes"
+
+msgid "SEARCH_WAITING"
+msgstr "Indexing Flipnotes, this may take some time depending on how many Flipnotes you have..."
+
+msgid "SELECT_HERE"
+msgstr "Select here!"
+
+msgid "SETTINGS_CLASSIC_SOUNDS"
+msgstr "Classic Button Sounds"
+
+msgid "SETTINGS_CLASSIC_SOUNDS_DESCRIPTION"
+msgstr "When enabled, the original Flipnote Studio sounds are used instead of the Flipnote Organizer versions."
+
+msgid "SETTINGS_CLEAR_FLIPNOTE_CACHE"
+msgstr "Clear Flipnote Cache"
+
+msgid "SETTINGS_FLIPNOTE_DETAILS_DIGITAL_SHIFT"
+msgstr "Digital Shift Button"
+
+msgid "SETTINGS_FLIPNOTE_DETAILS_DIGITAL_SHIFT_DESCRIPTION"
+msgstr "For when the shift key is unavailable, or when it is preferable to have an auto-hold on shift. This cannot be used if Gallery View is enabled."
+
+msgid "SETTINGS_FLIPNOTE_DETAILS_SHIFT"
+msgstr "Shift for More Flipnote Details"
+
+msgid "SETTINGS_FLIPNOTE_DETAILS_SHIFT_DESCRIPTION"
+msgstr "When holding shift or using the Digital Shift, extra details about Flipnotes will be displayed. It is recommended to keep this on. This cannot be used if Gallery View is enabled."
+
+msgid "SETTINGS_FLIPNOTE_VIEW_FLIPNOTE_3D"
+msgstr "View KWZs"
+
+msgid "SETTINGS_FLIPNOTE_VIEW_FLIPNOTE_3D_DESCRIPTION"
+msgstr "When enabled, Flipnote Studio 3D KWZs will show up in the file system. KWZs may not support certain functions that PPMs do such as Shift Details, Color Accessibility, or Searchability."
+
+msgid "SETTINGS_FLIPNOTE_VIEW_FLIPNOTE_3D_REFRESH"
+msgstr "A refresh must be done for this setting to take effect."
+
+msgid "SETTINGS_FLIPNOTE_VIEW_GALLERY"
+msgstr "Gallery View"
+
+msgid "SETTINGS_FLIPNOTE_VIEW_GALLERY_DESCRIPTION"
+msgstr "When enabled, only the thumbnails of Flipnotes will be shown. If Gallery View is enabled, Shift for More Flipnote Details will be unavailable."
+
+msgid "SETTINGS_FLIPNOTE_VIEW_ORIGINAL_THUMBNAIL"
+msgstr "Original Flipnote Thumbnail Resolution"
+
+msgid "SETTINGS_FLIPNOTE_VIEW_ORIGINAL_THUMBNAIL_DESCRIPTION_DESCRIPTION"
+msgstr "When enabled, Flipnotes will use the built-in PPM thumbnails. These thumbnails are typically far less vibrant and are lower resolution, as such it is generally recommended to keep this off."
+
+msgid "SETTINGS_FLIPNOTE_VIEW_SORT_BY_FILENAME"
+msgstr "Sort Flipnotes Alphabetically by Filename"
+
+msgid "SETTINGS_FLIPNOTE_VIEW_SORT_BY_FILENAME_DESCRIPTION"
+msgstr "When enabled, Flipnotes will be sorted alphabetically based on the filename. To maintain parity with listing on the Organizer and on DSi, it is generally recommended to keep this off."
+
+msgid "SETTINGS_FLIPNOTE_VIEW_STICKERS"
+msgstr "Display Stickers on Flipnotes"
+
+msgid "SETTINGS_FLIPNOTE_VIEW_STICKERS_DESCRIPTION"
+msgstr "When enabled, Flipnotes will have stickers shown on top of their thumbnails. To maintain parity with listing on the Organizer and on DSi, it is generally recommended to keep this on."
+
+msgid "SETTINGS_GALLERY_ICONS"
+msgstr "Display Icons Over Thumbnails in Gallery View"
+
+msgid "SETTINGS_GALLERY_ICONS_DESCRIPTION"
+msgstr "When enabled, Flipnotes will have icons shown on top of their thumbnails. Unless the icons are blocking thumbnails, it is generally recommended to keep this on."
+
+msgid "SETTINGS_GALLERY_THUMBNAIL_SCALE"
+msgstr "Gallery View Thumbnail Scale"
+
+msgid "SETTINGS_GALLERY_THUMBNAIL_SCALE_DESCRIPTION"
+msgstr "Adjust the scale of the Gallery View thumbnails."
+
+msgid "SETTINGS_ORGANIZER_FIX_NAVBAR"
+msgstr "Fix Navbar to the Top"
+
+msgid "SETTINGS_ORGANIZER_FIX_NAVBAR_DESCRIPTION"
+msgstr "The navigation bar will always be fixed to the top of the screen. This may be useful when you want to access settings without returning to the top of the page."
+
+msgid "SETTINGS_PLAYER_COLOR_ACCESSIBILITY"
+msgstr "Change Flipnote Player Colors"
+
+msgid "SETTINGS_PLAYER_COLOR_ACCESSIBILITY_DESCRIPTION"
+msgstr "Modifications to red and blue for those who have sensitivites to certain colors or tones, or color deficiencies. These options may make some Flipnotes look awkward as they weren't designed with variable color tones in mind."
+
+msgid "SETTINGS_PLAYER_COLOR_OPTION_COLORBLIND"
+msgstr "Color Deficiency"
+
+msgid "SETTINGS_PLAYER_COLOR_OPTION_DESATURATED"
+msgstr "Desaturated"
+
+msgid "SETTINGS_PLAYER_COLOR_OPTION_FLIPNOTE"
+msgstr "Original"
+
+msgid "SETTINGS_PLAYER_COLOR_OPTION_GRAYSCALE"
+msgstr "Grayscale"
+
+msgid "SETTINGS_PLAYER_COLOR_OPTION_PASTEL"
+msgstr "Pastel"
+
+msgid "SETTINGS_PLAYER_COLOR_OPTION_SOFT"
+msgstr "Soft"
+
+msgid "SETTINGS_PLAYER_INTERPOLATION"
+msgstr "Flipnote Player Pixels Always Crisp"
+
+msgid "SETTINGS_PLAYER_INTERPOLATION_DESCRIPTION"
+msgstr "Pixels in the Flipnote Player will always be crisp at the cost of pixel distortion if using a scale between 1x and 2x or a non-standard zoom level."
+
+msgid "SETTINGS_PLAYER_SCALE"
+msgstr "Flipnote Player Scale"
+
+msgid "SETTINGS_PLAYER_SCALE_DESCRIPTION"
+msgstr "Adjust the scale of the Flipnote Player."
+
+msgid "SETTINGS_PLAYER_TREBLE"
+msgstr "Boost Flipnote Treble"
+
+msgid "SETTINGS_PLAYER_TREBLE_DESCRIPTION"
+msgstr "Boosts the volume of higher audio frequencies while playing Flipnotes."
+
+msgid "SETTINGS_TITLE_ACCESSIBILITY"
+msgstr "Accessibility"
+
+msgid "SETTINGS_TITLE_ACCESSIBILITY_DESCRIPTION"
+msgstr "Options intended to make usage more pleasant with changes to visuals, sound, etc."
+
+# These settings are usually hidden, so don't worry about them too much.
+msgid "SETTINGS_TITLE_DEVELOPER"
+msgstr "Dev Settings"
+
+msgid "SETTINGS_TITLE_DEVELOPER_DESCRIPTION"
+msgstr "These features are still in their early phases and have a low likelihood of adoption."
+
+msgid "SETTINGS_TITLE_EXPERIMENTAL"
+msgstr "Experimental"
+
+msgid "SETTINGS_TITLE_EXPERIMENTAL_DESCRIPTION"
+msgstr "These features are in an unstable and experimental phase. They may be removed or break in the future."
+
+msgid "SETTINGS_TITLE_QUICK_SETTINGS"
+msgstr "Quick Settings"
+
+msgid "SETTINGS_TITLE_SETTINGS"
+msgstr "Settings"
+
+msgid "SETTINGS_VOLUME"
+msgstr "Sound Effects Volume"
+
+msgid "SETTINGS_VOLUME_DESCRIPTION"
+msgstr "Adjust the volume of button sounds."
+
+msgid "SETTINGS_WHISTLE_SOUND"
+msgstr "Play Whistle Sound when Sorting"
+
+msgid "SETTINGS_WHISTLE_SOUND_DESCRIPTION"
+msgstr "When enabled, a whistle sound will play when you begin organizing Flipnotes. If you are sensitive to high-pitched noises, it is generally recommended to turn this off."
+
+msgid "SORT_CANCEL"
+msgstr "Cancel"
+
+msgid "SORT_FINISH"
+msgstr "Confirm"
+
+msgid "SORT_GENERIC_CONTROLLER"
+msgstr "Generic Controller"
+
+msgid "SORT_INSTRUCTIONS"
+msgstr "Select a Flipnote with the arrow keys, and drag and drop with the space bar. Leaving this folder without hitting \"Confirm\" will discard your changes."
+
+msgid "SORT_INSTRUCTIONS_CONTROLLER"
+msgstr "Select a Flipnote with the D-PAD, and drag and drop with the A or X (Playstation) button. Leaving this folder without hitting \"Confirm\" will discard your changes."
+
+msgid "SORT_JOYL_CONTROLLER"
+msgstr "Left Joycon"
+
+msgid "SORT_JOYR_CONTROLLER"
+msgstr "Right Joycon"
+
+msgid "SORT_JOYS_CONTROLLER"
+msgstr "Joycons"
+
+msgid "SORT_PRO_SWITCH_CONTROLLER"
+msgstr "Switch Pro Controller"
+
+msgid "SORT_PS3_CONTROLLER"
+msgstr "Playstation 3 Controller"
+
+msgid "SORT_PS4_CONTROLLER"
+msgstr "Playstation 4 Controller"
+
+msgid "SORT_PS5_CONTROLLER"
+msgstr "Playstation 5 Controller"
+
+msgid "SORT_PS_CONTROLLER"
+msgstr "Playstation Controller"
+
+msgid "SORT_SAVE_NOTICE"
+msgstr "To update the sort order of your Flipnotes, overwrite the dirmemo2.lst file in the folder you just sorted with the one downloaded by the Flipnote Organizer."
+
+msgid "SORT_SAVE_NOTICE_TITLE"
+msgstr "Please note:"
+
+msgid "SORT_WARNING_ALL_FLIPNOTES"
+msgstr "You can't reorganize Flipnotes in All Flipnotes."
+
+msgid "SORT_WARNING_FLIPNOTE_3D"
+msgstr "You can't reorganize Flipnotes made in Flipnote Studio 3D."
+
+msgid "SORT_WARNING_NOT_ENOUGH_PPMS"
+msgstr "You only have 1 Flipnote silly!"
+
+msgid "SORT_WARNING_NO_PPMS"
+msgstr "You don't have any PPMs in this folder."
+
+msgid "SORT_WARNING_SETTINGS"
+msgstr "Open Settings"
+
+# "dirmemo" and "dirmemo2.lst" refer to the sorting file Flipnote uses and should not be translated.
+msgid "SORT_WARNING_TOO_MANY_DIRMEMO"
+msgstr "You can't organize when there is more than one dirmemo file. Try loading less subdirectories."
+
+msgid "SORT_WARNING_TOO_MANY_FLIPNOTES"
+msgstr "You have more than 100 Flipnotes in this folder; Flipnote Studio will ignore any Flipnote past 100. Please move some Flipnotes."
+
+msgid "SORT_WARNING_WRONG_SORTING_MODE"
+msgstr "You need to turn off Sort Flipnotes Alphabetically by Filename in settings before you can sort Flipnotes."
+
+msgid "SORT_XBOX_CONTROLLER"
+msgstr "Xbox Controller"
+
+msgid "SUDOMEMO_ACCOUNT"
+msgstr "Sudomemo Account"
+
+msgid "SUDOMEMO_ACCOUNT_CREATORS_ROOM"
+msgstr "Creator's Room"
+
+msgid "SUDOMEMO_ACCOUNT_HELP_CENTER"
+msgstr "Help Center"
+
+msgid "SUDOMEMO_ACCOUNT_HOME"
+msgstr "Home"
+
+msgid "SUDOMEMO_ACCOUNT_LOGIN"
+msgstr "Login"
+
+msgid "SUDOMEMO_ACCOUNT_LOGOUT"
+msgstr "Sign Out"
+
+msgid "SUDOMEMO_ACCOUNT_SETTINGS"
+msgstr "Account Settings"
+
+msgid "SUDOMEMO_NOT_LOGGED_IN"
+msgstr "You must be logged in to do that!"
+
+msgid "SURE"
+msgstr "Sure!"
+
+# Keep VIEW_ALL_FLIPNOTES under 10 characters.
+msgid "VIEW_ALL_FLIPNOTES"
+msgstr "View All"
+
+msgid "YES"
+msgstr "Yes"
