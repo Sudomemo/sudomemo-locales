@@ -289,6 +289,21 @@ msgstr "Close"
 msgid "COMMENTS"
 msgstr "Komentarze"
 
+msgid "COMMENT_BOX_WRITE_HERE_1"
+msgstr "Write something nice here"
+
+msgid "COMMENT_BOX_WRITE_HERE_2"
+msgstr "What did you like about this?"
+
+msgid "COMMENT_BOX_WRITE_HERE_3"
+msgstr "What do you think?"
+
+msgid "COMMENT_BOX_WRITE_HERE_4"
+msgstr "How does this Flipnote make you feel?"
+
+msgid "COMMENT_BOX_WRITE_HERE_5"
+msgstr "Write something thoughtful here"
+
 msgid "COMMENT_FAILED_USER_BANNED"
 msgstr "You cannot post messages because you are banned."
 
