@@ -440,6 +440,9 @@ msgstr "You can unlink your Discord account from your Sudomemo account using the
 msgid "DISCORD_UNLINK_SUCCESS"
 msgstr "Discord account unlinked successfully!"
 
+msgid "DOWNLOAD"
+msgstr "Download"
+
 msgid "DOWNLOADS"
 msgstr "Downloads"
 
@@ -532,6 +535,36 @@ msgstr "Go ahead and add one now."
 
 msgid "ERROR_OCCURRED_TRY_AGAIN"
 msgstr "An error occurred. Please try again."
+
+msgid "EXPORT_FLIPNOTE"
+msgstr "Export Flipnote"
+
+msgid "EXPORT_FLIPNOTE_DESCRIPTION"
+msgstr "Download your Flipnote in different formats."
+
+msgid "EXPORT_GIF"
+msgstr "GIF Animation"
+
+msgid "EXPORT_GIF_DESCRIPTION"
+msgstr "Animated GIF file"
+
+msgid "EXPORT_MP4"
+msgstr "MP4 Video"
+
+msgid "EXPORT_MP4_DESCRIPTION"
+msgstr "High quality video file"
+
+msgid "EXPORT_MP4_TIMEOUT_WARNING"
+msgstr "Converting your Flipnote for video export may take a little while"
+
+msgid "EXPORT_PPM"
+msgstr "PPM File"
+
+msgid "EXPORT_PPM_DESCRIPTION"
+msgstr "Original Flipnote file"
+
+msgid "EXPORT_PPM_GENEALOGY_WARNING"
+msgstr "Warning: Sharing the Flipnote's .ppm file for the purpose of collaboration between multiple Creators may leave broken links in Flipnote genealogy, causing original authorship and Spin-off history to become unclear"
 
 msgid "FANS"
 msgstr "Fans"
@@ -1459,6 +1492,16 @@ msgstr "Save Playlist"
 
 msgid "SAVING"
 msgstr "Aan het opslaan"
+
+msgid "SD_CARD_INSTRUCTIONS"
+msgstr "For Nintendo DSi/3DS users:"
+
+msgid "SD_CARD_PLACEMENT"
+msgstr "Place the PPM file at:"
+
+# sdroot:/private/ds/app/4B4755xx/<folder of choice>
+msgid "SD_CARD_PLACEMENT_FOLDER_OF_CHOICE"
+msgstr "folder of choice"
 
 msgid "SEARCH"
 msgstr "Zoeken"
