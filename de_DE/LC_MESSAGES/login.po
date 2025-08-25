@@ -3,6 +3,22 @@ msgstr ""
 "Language: de_DE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "AGE_GATE_AGE_REQUIREMENT"
+msgstr "Sudomemo is meant to be used by people 13 years and up."
+
+msgid "AGE_GATE_ERROR_CHECK"
+msgstr "If this message is appearing in error, please make sure your birthday is set correctly in your Flipnote Studio settings."
+
+msgid "AGE_GATE_PARENT_INFO"
+msgstr "For more information, parents can visit: https://flipnot.es/parents"
+
+msgid "AGE_GATE_PARENT_MESSAGE"
+msgstr "Please have your parent read this message."
+
+# Age gate message for users under 13
+msgid "AGE_GATE_TITLE"
+msgstr "It looks like you aren't old enough to use Sudomemo"
+
 msgid "BAN_GREETING_FORMAT"
 msgstr "Hallo, %s."
 
