@@ -16,15 +16,61 @@ msgstr "Whoops! Whatever you were looking for, it wasn't there."
 msgid "ABOUT_SUDOMEMO"
 msgstr "About Sudomemo"
 
+# Success Messages
+msgid "ACCOUNT_ADDED_SUCCESS"
+msgstr "Account added successfully"
+
+msgid "ACCOUNT_ALREADY_IN_SWITCHER"
+msgstr "Account already added"
+
+msgid "ACCOUNT_BANNED_BLOCKED"
+msgstr "Account is restricted from Sudomemo"
+
+msgid "ACCOUNT_NOT_FOUND"
+msgstr "Account not found"
+
+msgid "ACCOUNT_NOT_IN_SWITCHER"
+msgstr "Account not found in switcher"
+
+# Accessibility
+msgid "ACCOUNT_PROFILE_IMAGE"
+msgstr "Profile image for %s"
+
+msgid "ACCOUNT_REMOVED_SUCCESS"
+msgstr "Account removed"
+
 # Account Settings (Theatre)
 msgid "ACCOUNT_SETTINGS"
 msgstr "Account Settings"
+
+msgid "ACCOUNT_SWITCHED_SUCCESS"
+msgstr "Switched to account successfully"
+
+# Account Switcher Interface
+msgid "ACCOUNT_SWITCHER"
+msgstr "Manage login"
+
+msgid "ADD_ACCOUNT_BUTTON"
+msgstr "Add account"
+
+# Account Switcher Modal
+msgid "ADD_ACCOUNT_TO_SWITCHER"
+msgstr "Add account"
+
+msgid "ADD_ANOTHER_ACCOUNT"
+msgstr "Add another account"
+
+msgid "ADD_ANOTHER_ACCOUNT_HELP"
+msgstr "Add another account to switch between them quickly."
 
 msgid "ADD_TO_NEW_PLAYLIST"
 msgstr "Add to new Playlist"
 
 msgid "ADD_TO_PLAYLIST"
 msgstr "Add to Playlist"
+
+msgid "ALREADY_ON_ACCOUNT"
+msgstr "Already on this account"
 
 msgid "ALT_DRAWN_COMMENT_BY_USER"
 msgstr "Drawn comment by %s"
@@ -36,6 +82,9 @@ msgstr "%s's profile picture"
 # # Alt tags, aria labels
 msgid "ALT_WEEKLY_TOPIC_BANNER"
 msgstr "Banner advertising the Weekly Topic"
+
+msgid "AND_PASSWORD"
+msgstr "and password"
 
 msgid "ARCHIVE"
 msgstr "Archive"
@@ -85,6 +134,9 @@ msgstr "Right-click the address bar → \"Settings for This Website...\" → Aut
 # Back, in the sense of navigation
 msgid "BACK"
 msgstr "Back"
+
+msgid "BACK_TO_ACCOUNT_SWITCHER"
+msgstr "Back to login manager"
 
 msgid "BACK_TO_CATEGORIES"
 msgstr "Back to Categories"
@@ -186,6 +238,9 @@ msgstr "Cancel"
 
 msgid "CANCEL_REPLY"
 msgstr "Cancel"
+
+msgid "CANNOT_ADD_CURRENT_ACCOUNT"
+msgstr "Cannot add current account"
 
 msgid "CANNOT_POST_LINKS"
 msgstr "Links are not allowed in chat messages."
@@ -307,6 +362,9 @@ msgstr "Write something thoughtful here"
 msgid "COMMENT_FAILED_USER_BANNED"
 msgstr "You cannot post messages because you are banned."
 
+msgid "CONFIRMATION_CODE"
+msgstr "Confirmation Code"
+
 msgid "CONFIRMATION_CODE_REQUIRED"
 msgstr "A confirmation code is required."
 
@@ -317,11 +375,19 @@ msgstr "Are you sure you want to unlink your Discord account? This will remove t
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
 msgstr "You must confirm your email before posting."
 
+# Logout Confirmation
+msgid "CONFIRM_LOGOUT"
+msgstr "Confirm Logout"
+
 msgid "CONFIRM_PROFILE_PICTURE_CHANGE"
 msgstr "Confirm Profile Picture Change"
 
 msgid "CONFIRM_PROFILE_PICTURE_CHANGE_ACTION"
 msgstr "Set as Profile Picture"
+
+# Confirmation Messages
+msgid "CONFIRM_REMOVE_ACCOUNT"
+msgstr "Are you sure you want to remove this account?"
 
 msgid "CONTENT_POLICY"
 msgstr "Content Policy"
@@ -356,6 +422,9 @@ msgstr "Creators"
 
 msgid "CREATORS_ROOM"
 msgstr "Creator's Room"
+
+msgid "CURRENTLY_SIGNED_IN_AS"
+msgstr "Currently signed in as:"
 
 msgid "CURRENT_EMAIL"
 msgstr "Current Email"
@@ -511,6 +580,13 @@ msgstr "You already have a pending email change. Please check your email or wait
 msgid "EMAIL_CHANGE_VERIFICATION_SENT"
 msgstr "Verification email sent! Please check your new email address and click the link to confirm the change."
 
+msgid "EMAIL_CONFIRMATION_HELP"
+msgstr "Please check your email for a confirmation code."
+
+# Verification Messages
+msgid "EMAIL_CONFIRMATION_REQUIRED"
+msgstr "Email Confirmation Required"
+
 msgid "EMAIL_SAME_AS_CURRENT"
 msgstr "The new email address must be different from your current one."
 
@@ -522,6 +598,12 @@ msgstr "It looks like your Flipnote needs a title!"
 
 msgid "EMPTY_TITLE_ALERT_2"
 msgstr "Go ahead and add one now."
+
+msgid "ENTER_CODE_FROM_EMAIL"
+msgstr "Enter code from email"
+
+msgid "ENTER_SIX_DIGIT_CODE"
+msgstr "Enter 6-digit code"
 
 msgid "ERROR_OCCURRED_TRY_AGAIN"
 msgstr "An error occurred. Please try again."
@@ -555,6 +637,18 @@ msgstr "Original Flipnote file"
 
 msgid "EXPORT_PPM_GENEALOGY_WARNING"
 msgstr "Warning: Sharing the Flipnote's .ppm file for the purpose of collaboration between multiple Creators may leave broken links in Flipnote genealogy, causing original authorship and Spin-off history to become unclear"
+
+msgid "FAILED_TO_ADD_ACCOUNT"
+msgstr "Failed to add account"
+
+msgid "FAILED_TO_LOAD_ACCOUNTS"
+msgstr "Failed to load accounts"
+
+msgid "FAILED_TO_REMOVE_ACCOUNT"
+msgstr "Failed to remove account"
+
+msgid "FAILED_TO_SWITCH_ACCOUNT"
+msgstr "Failed to switch accounts"
 
 msgid "FANS"
 msgstr "Fans"
@@ -667,6 +761,9 @@ msgstr "Trending Creators"
 # This is short for Flipnote Studio ID. Leave it as "FSID" except in Japanese, where it should be うごメモID
 msgid "FSID"
 msgstr "FSID"
+
+msgid "FSID_OR_EMAIL"
+msgstr "FSID or Email"
 
 # Accessibility strings for genealogy navigation and controls
 msgid "GENEALOGY_BACK_TO_FLIPNOTE"
@@ -871,6 +968,13 @@ msgstr "Image must be 1080x1920."
 msgid "INFO"
 msgstr "Info"
 
+msgid "INTERNAL_SERVER_ERROR"
+msgstr "Internal server error"
+
+# Error Messages
+msgid "INVALID_CREDENTIALS"
+msgstr "Invalid credentials"
+
 msgid "INVALID_EMAIL_FORMAT"
 msgstr "Please enter a valid email address."
 
@@ -904,6 +1008,9 @@ msgstr "Learn more"
 msgid "LINK_REQUIRED_BEFORE_UPLOAD"
 msgstr "You'll need to link your YouTube channel before you can upload your Flipnote."
 
+msgid "LOADING"
+msgstr "Loading..."
+
 msgid "LOGIN_CONFIRM_PLACEHOLDER"
 msgstr "Confirmation code"
 
@@ -936,12 +1043,24 @@ msgstr "Login required to post a chat message."
 msgid "LOGIN_SIGNUP_SELECT_DEVICE"
 msgstr "Select your device"
 
+msgid "LOGOUT_COMPLETELY"
+msgstr "Logout Completely"
+
+msgid "LOGOUT_SUGGESTION_USE_SWITCHER"
+msgstr "If you want to switch to a different account instead of logging out completely, please cancel and use the account switcher."
+
+msgid "LOGOUT_WARNING_MAIN_ACCOUNT"
+msgstr "You are about to log out of your main account. This will remove all additional accounts from your account switcher and fully log you out of Sudomemo."
+
 # Mail reader strings
 msgid "MAIL_READER_TITLE"
 msgstr "Message"
 
 msgid "MANAGE_PLAYLIST"
 msgstr "Manage Playlist"
+
+msgid "MAX_ACCOUNTS_REACHED"
+msgstr "Maximum number of accounts reached"
 
 msgid "MERCH"
 msgstr "Merch"
@@ -1109,6 +1228,9 @@ msgstr "was removed for violating community guidelines"
 msgid "NOTIFICATION_CONTENT_RESTORED"
 msgstr "has been restored after review"
 
+msgid "NOTIFICATION_COUNT"
+msgstr "%d notifications"
+
 msgid "NOTIFICATION_NEW_FRIEND"
 msgstr "added you as a friend"
 
@@ -1157,6 +1279,9 @@ msgstr "%s isn't following anyone yet."
 msgid "NO_ACTIVE_CHANNELS"
 msgstr "No active channels"
 
+msgid "NO_ADDITIONAL_ACCOUNTS"
+msgstr "No additional accounts added yet."
+
 msgid "NO_CATEGORIES_AVAILABLE"
 msgstr "No categories are currently available."
 
@@ -1182,6 +1307,9 @@ msgstr "No email address on file -- contact Sudomemo Support"
 msgid "NO_FOLLOWERS_YET"
 msgstr "%s doesn't have any followers yet."
 
+msgid "NO_NOTIFICATIONS"
+msgstr "No notifications"
+
 msgid "NO_RANKING_DATA"
 msgstr "No Ranking Data Available"
 
@@ -1197,8 +1325,14 @@ msgstr "Only applies for YouTube Shorts"
 msgid "ONLY_OWNER_CAN_SET_PROFILE_PICTURE"
 msgstr "You can only set your own Flipnotes as your profile picture."
 
+msgid "ORIGINAL"
+msgstr "Original"
+
 msgid "PARENT_FLIPNOTE"
 msgstr "Parent Flipnote"
+
+msgid "PASSWORD"
+msgstr "Password"
 
 msgid "PASSWORD_RESET_SENT"
 msgstr "A password reset has been sent to the email address on file."
@@ -1285,6 +1419,12 @@ msgstr "Unlisted"
 
 msgid "PLAYLIST_VISIBILITY"
 msgstr "Visibility"
+
+msgid "PLEASE_ENTER_BOTH"
+msgstr "Please enter both"
+
+msgid "PLEASE_ENTER_VERIFICATION_CODE"
+msgstr "Please enter the verification code"
 
 msgid "PLEASE_SELECT_FRAME_OR_UPLOAD_CUSTOM_FRAME"
 msgstr "Please select a frame or upload a custom frame."
@@ -1407,6 +1547,9 @@ msgstr "Rank Unchanged"
 msgid "RATELIMIT_EXCEEDED"
 msgstr "You have exceeded the rate limit for sending messages."
 
+msgid "RATE_LIMITED_SWITCHER"
+msgstr "Rate limited. Please wait before performing more actions."
+
 msgid "RECENT"
 msgstr "Recent"
 
@@ -1440,6 +1583,9 @@ msgstr "Unknown"
 msgid "RELEASED"
 msgstr "Released"
 
+msgid "REMOVE_ACCOUNT"
+msgstr "Remove"
+
 msgid "REMOVE_FROM_PLAYLIST"
 msgstr "Remove from Playlist"
 
@@ -1448,6 +1594,9 @@ msgstr "Reply"
 
 msgid "REPLYING_TO"
 msgstr "Replying to"
+
+msgid "REQUIRED"
+msgstr "Required"
 
 msgid "RESET_PASSWORD_BY_FSID"
 msgstr "You can still reset your password with your Flipnote Studio ID! Simply send a quick message to Sudomemo Support and we'll get that sent out to you."
@@ -1626,6 +1775,12 @@ msgstr "Sudomemo User"
 msgid "SUPPORT_US"
 msgstr "Support Us"
 
+msgid "SWITCH_ACCOUNT"
+msgstr "Switch"
+
+msgid "SWITCH_TO_ANOTHER_ACCOUNT"
+msgstr "Switch to another account:"
+
 msgid "TERMS_OF_USE"
 msgstr "Terms of Use"
 
@@ -1651,6 +1806,21 @@ msgstr "to add a comment"
 
 msgid "TROPHY_CASE"
 msgstr "Trophy Case"
+
+msgid "TRY_AGAIN"
+msgstr "Try again"
+
+msgid "TRY_ENTERING_CODE_AGAIN"
+msgstr "Please try entering the code again."
+
+msgid "TWO_FACTOR_CODE"
+msgstr "2FA Code"
+
+msgid "TWO_FACTOR_HELP"
+msgstr "Please enter your 2FA code."
+
+msgid "TWO_FACTOR_REQUIRED"
+msgstr "Two-Factor Authentication Required"
 
 msgid "UNKNOWN_ERROR"
 msgstr "An unknown error occurred."
@@ -1726,6 +1896,9 @@ msgstr "Configure your linked YouTube channel and default Flipnote upload settin
 
 msgid "USE_THIS_FRAME_FROM_NOW_ON"
 msgstr "Use this frame from now on"
+
+msgid "VERIFICATION_FAILED"
+msgstr "Verification Failed"
 
 msgid "VERIFIED_USER"
 msgstr "Verified User"
@@ -1810,6 +1983,9 @@ msgstr "Visibility Settings"
 
 msgid "VISIBILITY_UNLISTED"
 msgstr "Unlisted"
+
+msgid "WARNING"
+msgstr "Warning"
 
 msgid "WATCH_HISTORY"
 msgstr "Watch History"

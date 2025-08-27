@@ -16,15 +16,61 @@ msgstr "Ups! O quer que estiveste à procura, não está aqui."
 msgid "ABOUT_SUDOMEMO"
 msgstr "Acerca do Sudomemo"
 
+# Success Messages
+msgid "ACCOUNT_ADDED_SUCCESS"
+msgstr "Account added successfully"
+
+msgid "ACCOUNT_ALREADY_IN_SWITCHER"
+msgstr "Account already added"
+
+msgid "ACCOUNT_BANNED_BLOCKED"
+msgstr "Account is restricted from Sudomemo"
+
+msgid "ACCOUNT_NOT_FOUND"
+msgstr "Account not found"
+
+msgid "ACCOUNT_NOT_IN_SWITCHER"
+msgstr "Account not found in switcher"
+
+# Accessibility
+msgid "ACCOUNT_PROFILE_IMAGE"
+msgstr "Profile image for %s"
+
+msgid "ACCOUNT_REMOVED_SUCCESS"
+msgstr "Account removed"
+
 # Account Settings (Theatre)
 msgid "ACCOUNT_SETTINGS"
 msgstr "Definições de Conta"
+
+msgid "ACCOUNT_SWITCHED_SUCCESS"
+msgstr "Switched to account successfully"
+
+# Account Switcher Interface
+msgid "ACCOUNT_SWITCHER"
+msgstr "Manage login"
+
+msgid "ADD_ACCOUNT_BUTTON"
+msgstr "Add account"
+
+# Account Switcher Modal
+msgid "ADD_ACCOUNT_TO_SWITCHER"
+msgstr "Add account"
+
+msgid "ADD_ANOTHER_ACCOUNT"
+msgstr "Add another account"
+
+msgid "ADD_ANOTHER_ACCOUNT_HELP"
+msgstr "Add another account to switch between them quickly."
 
 msgid "ADD_TO_NEW_PLAYLIST"
 msgstr "Adicionar a uma nova Playlist"
 
 msgid "ADD_TO_PLAYLIST"
 msgstr "Adicionar á Playlist"
+
+msgid "ALREADY_ON_ACCOUNT"
+msgstr "Already on this account"
 
 msgid "ALT_DRAWN_COMMENT_BY_USER"
 msgstr "Comentário desenhado de %s"
@@ -36,6 +82,9 @@ msgstr "Foto de Perfil de %s"
 # # Alt tags, aria labels
 msgid "ALT_WEEKLY_TOPIC_BANNER"
 msgstr "Publicidade em banner do Tópico Semanal"
+
+msgid "AND_PASSWORD"
+msgstr "and password"
 
 msgid "ARCHIVE"
 msgstr "Arquivar"
@@ -85,6 +134,9 @@ msgstr "Faça clique direito na barra de endereços → \"Definições para este
 # Back, in the sense of navigation
 msgid "BACK"
 msgstr "Voltar"
+
+msgid "BACK_TO_ACCOUNT_SWITCHER"
+msgstr "Back to login manager"
 
 msgid "BACK_TO_CATEGORIES"
 msgstr "Voltar às Categorias"
@@ -186,6 +238,9 @@ msgstr "Cancelar"
 
 msgid "CANCEL_REPLY"
 msgstr "Cancel"
+
+msgid "CANNOT_ADD_CURRENT_ACCOUNT"
+msgstr "Cannot add current account"
 
 msgid "CANNOT_POST_LINKS"
 msgstr "Links não são permitidos nas mensagens de chat."
@@ -307,6 +362,9 @@ msgstr "Write something thoughtful here"
 msgid "COMMENT_FAILED_USER_BANNED"
 msgstr "Não podes inserir comentários porque foste banido(a)."
 
+msgid "CONFIRMATION_CODE"
+msgstr "Confirmation Code"
+
 msgid "CONFIRMATION_CODE_REQUIRED"
 msgstr "Um código de confirmação é preciso para esta acção."
 
@@ -317,11 +375,19 @@ msgstr "Tens a certeza que queres desligar a tua conta do Discord? Isto irá rem
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
 msgstr "Tens de confirmar o teu email antes de enviar um comentário."
 
+# Logout Confirmation
+msgid "CONFIRM_LOGOUT"
+msgstr "Confirm Logout"
+
 msgid "CONFIRM_PROFILE_PICTURE_CHANGE"
 msgstr "Confirmar Mudança a Foto de Perfil"
 
 msgid "CONFIRM_PROFILE_PICTURE_CHANGE_ACTION"
 msgstr "Definir como Foto de Perfil"
+
+# Confirmation Messages
+msgid "CONFIRM_REMOVE_ACCOUNT"
+msgstr "Are you sure you want to remove this account?"
 
 msgid "CONTENT_POLICY"
 msgstr "Políticas de Conteúdo"
@@ -356,6 +422,9 @@ msgstr "Criadores"
 
 msgid "CREATORS_ROOM"
 msgstr "Sala do Criador"
+
+msgid "CURRENTLY_SIGNED_IN_AS"
+msgstr "Currently signed in as:"
 
 msgid "CURRENT_EMAIL"
 msgstr "Email Actual"
@@ -511,6 +580,13 @@ msgstr "Tens uma mudança de email pendente. Por-favor verifique a tua caixa de 
 msgid "EMAIL_CHANGE_VERIFICATION_SENT"
 msgstr "Email de verificação enviado! Por-favor verifque a caixa de entrada do novo endereço de email e clique no link para confirmar a mudança."
 
+msgid "EMAIL_CONFIRMATION_HELP"
+msgstr "Please check your email for a confirmation code."
+
+# Verification Messages
+msgid "EMAIL_CONFIRMATION_REQUIRED"
+msgstr "Email Confirmation Required"
+
 msgid "EMAIL_SAME_AS_CURRENT"
 msgstr "O novo endereço de email deve ser diferente do endereço de email actual."
 
@@ -522,6 +598,12 @@ msgstr "Parece que o teu Flipnote precisa de um título!"
 
 msgid "EMPTY_TITLE_ALERT_2"
 msgstr "Vai lá adicionar um agora!"
+
+msgid "ENTER_CODE_FROM_EMAIL"
+msgstr "Enter code from email"
+
+msgid "ENTER_SIX_DIGIT_CODE"
+msgstr "Enter 6-digit code"
 
 msgid "ERROR_OCCURRED_TRY_AGAIN"
 msgstr "Ocorreu um erro. Por favor tende outra vez."
@@ -555,6 +637,18 @@ msgstr "Original Flipnote file"
 
 msgid "EXPORT_PPM_GENEALOGY_WARNING"
 msgstr "Warning: Sharing the Flipnote's .ppm file for the purpose of collaboration between multiple Creators may leave broken links in Flipnote genealogy, causing original authorship and Spin-off history to become unclear"
+
+msgid "FAILED_TO_ADD_ACCOUNT"
+msgstr "Failed to add account"
+
+msgid "FAILED_TO_LOAD_ACCOUNTS"
+msgstr "Failed to load accounts"
+
+msgid "FAILED_TO_REMOVE_ACCOUNT"
+msgstr "Failed to remove account"
+
+msgid "FAILED_TO_SWITCH_ACCOUNT"
+msgstr "Failed to switch accounts"
 
 msgid "FANS"
 msgstr "Fãs"
@@ -667,6 +761,9 @@ msgstr "Criadores nas tendências (Trending)"
 # This is short for Flipnote Studio ID. Leave it as "FSID" except in Japanese, where it should be うごメモID
 msgid "FSID"
 msgstr "FSID"
+
+msgid "FSID_OR_EMAIL"
+msgstr "FSID or Email"
 
 # Accessibility strings for genealogy navigation and controls
 msgid "GENEALOGY_BACK_TO_FLIPNOTE"
@@ -871,6 +968,13 @@ msgstr "A imagem tem de ter as dimensões 1080x1920."
 msgid "INFO"
 msgstr "Informação"
 
+msgid "INTERNAL_SERVER_ERROR"
+msgstr "Internal server error"
+
+# Error Messages
+msgid "INVALID_CREDENTIALS"
+msgstr "Invalid credentials"
+
 msgid "INVALID_EMAIL_FORMAT"
 msgstr "Por-favor insire um endereço de email válido."
 
@@ -904,6 +1008,9 @@ msgstr "Saber mais"
 msgid "LINK_REQUIRED_BEFORE_UPLOAD"
 msgstr "Precisas de ligar a tua conta do Canal do YouTube antes de fazer upload do teu Flipnote."
 
+msgid "LOADING"
+msgstr "Loading..."
+
 msgid "LOGIN_CONFIRM_PLACEHOLDER"
 msgstr "Código de Confirmação"
 
@@ -936,12 +1043,24 @@ msgstr "Precisas de fazer login para enviar uma mensagem de chat."
 msgid "LOGIN_SIGNUP_SELECT_DEVICE"
 msgstr "Selecciona o teu sistema"
 
+msgid "LOGOUT_COMPLETELY"
+msgstr "Logout Completely"
+
+msgid "LOGOUT_SUGGESTION_USE_SWITCHER"
+msgstr "If you want to switch to a different account instead of logging out completely, please cancel and use the account switcher."
+
+msgid "LOGOUT_WARNING_MAIN_ACCOUNT"
+msgstr "You are about to log out of your main account. This will remove all additional accounts from your account switcher and fully log you out of Sudomemo."
+
 # Mail reader strings
 msgid "MAIL_READER_TITLE"
 msgstr "Mensagem"
 
 msgid "MANAGE_PLAYLIST"
 msgstr "Gerir Playlist"
+
+msgid "MAX_ACCOUNTS_REACHED"
+msgstr "Maximum number of accounts reached"
 
 msgid "MERCH"
 msgstr "Mercadoria"
@@ -1109,6 +1228,9 @@ msgstr "foi removido por violar as nossa guias de comunidade"
 msgid "NOTIFICATION_CONTENT_RESTORED"
 msgstr "foi restaurado após revisão"
 
+msgid "NOTIFICATION_COUNT"
+msgstr "%d notifications"
+
 msgid "NOTIFICATION_NEW_FRIEND"
 msgstr "te adicionou como um amigo"
 
@@ -1157,6 +1279,9 @@ msgstr "%s ainda não segue ninguém."
 msgid "NO_ACTIVE_CHANNELS"
 msgstr "Nenhuns canais activos"
 
+msgid "NO_ADDITIONAL_ACCOUNTS"
+msgstr "No additional accounts added yet."
+
 msgid "NO_CATEGORIES_AVAILABLE"
 msgstr "Não há categorias disponíveis de momento."
 
@@ -1182,6 +1307,9 @@ msgstr "Nenhum endereço de email no registo -- contacte o Suporte do Sudomemo"
 msgid "NO_FOLLOWERS_YET"
 msgstr "%s ainda não tem seguidores."
 
+msgid "NO_NOTIFICATIONS"
+msgstr "No notifications"
+
 msgid "NO_RANKING_DATA"
 msgstr "Sem dados de ranking disponíveis"
 
@@ -1197,8 +1325,14 @@ msgstr "Isto só se aplica ao YouTube Shorts"
 msgid "ONLY_OWNER_CAN_SET_PROFILE_PICTURE"
 msgstr "Só podes usar os teus próprios Flipnotes como a tua foto de perfil."
 
+msgid "ORIGINAL"
+msgstr "Original"
+
 msgid "PARENT_FLIPNOTE"
 msgstr "Flipnote Parente"
+
+msgid "PASSWORD"
+msgstr "Password"
 
 msgid "PASSWORD_RESET_SENT"
 msgstr "Um link de redefinição de palavra-passe foi enviado para o endereço de email no nosso registo."
@@ -1285,6 +1419,12 @@ msgstr "Não Listada"
 
 msgid "PLAYLIST_VISIBILITY"
 msgstr "Visibilidade"
+
+msgid "PLEASE_ENTER_BOTH"
+msgstr "Please enter both"
+
+msgid "PLEASE_ENTER_VERIFICATION_CODE"
+msgstr "Please enter the verification code"
 
 msgid "PLEASE_SELECT_FRAME_OR_UPLOAD_CUSTOM_FRAME"
 msgstr "Por favor seleccione uma moldura ou faça upload de uma moldura customizada."
@@ -1407,6 +1547,9 @@ msgstr "Rank Mantida"
 msgid "RATELIMIT_EXCEEDED"
 msgstr "Excedeste o limite de envio para enviar mensagens de chat."
 
+msgid "RATE_LIMITED_SWITCHER"
+msgstr "Rate limited. Please wait before performing more actions."
+
 msgid "RECENT"
 msgstr "Recente(s)"
 
@@ -1440,6 +1583,9 @@ msgstr "Desconhecido"
 msgid "RELEASED"
 msgstr "Publicado"
 
+msgid "REMOVE_ACCOUNT"
+msgstr "Remove"
+
 msgid "REMOVE_FROM_PLAYLIST"
 msgstr "Remover da Playlist"
 
@@ -1448,6 +1594,9 @@ msgstr "Reply"
 
 msgid "REPLYING_TO"
 msgstr "Replying to"
+
+msgid "REQUIRED"
+msgstr "Required"
 
 msgid "RESET_PASSWORD_BY_FSID"
 msgstr "Ainda podes redefinir a tua Palavra Passe com o teu ID do Flipnote Studio! Simplesmente envia uma mensagem rápida à Equipa de Suporte do Sudomemo e iremos tratar disso em poucos momentos."
@@ -1626,6 +1775,12 @@ msgstr "Utilizador do Sudomemo"
 msgid "SUPPORT_US"
 msgstr "Apoia-nos"
 
+msgid "SWITCH_ACCOUNT"
+msgstr "Switch"
+
+msgid "SWITCH_TO_ANOTHER_ACCOUNT"
+msgstr "Switch to another account:"
+
 msgid "TERMS_OF_USE"
 msgstr "Termos de Uso"
 
@@ -1651,6 +1806,21 @@ msgstr "Para adicionar um comentário"
 
 msgid "TROPHY_CASE"
 msgstr "Armário de Troféus"
+
+msgid "TRY_AGAIN"
+msgstr "Try again"
+
+msgid "TRY_ENTERING_CODE_AGAIN"
+msgstr "Please try entering the code again."
+
+msgid "TWO_FACTOR_CODE"
+msgstr "2FA Code"
+
+msgid "TWO_FACTOR_HELP"
+msgstr "Please enter your 2FA code."
+
+msgid "TWO_FACTOR_REQUIRED"
+msgstr "Two-Factor Authentication Required"
 
 msgid "UNKNOWN_ERROR"
 msgstr "Ocorreu um erro desconhecido."
@@ -1726,6 +1896,9 @@ msgstr "Configurar o teu canal de YouTube interligado, e definições de upload 
 
 msgid "USE_THIS_FRAME_FROM_NOW_ON"
 msgstr "Usa esta moldura agora"
+
+msgid "VERIFICATION_FAILED"
+msgstr "Verification Failed"
 
 msgid "VERIFIED_USER"
 msgstr "Utilizador Verificado"
@@ -1810,6 +1983,9 @@ msgstr "Definições de Visibilidade Settings"
 
 msgid "VISIBILITY_UNLISTED"
 msgstr "Não listado"
+
+msgid "WARNING"
+msgstr "Warning"
 
 msgid "WATCH_HISTORY"
 msgstr "Histórico de Visual."

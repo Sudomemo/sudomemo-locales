@@ -16,15 +16,61 @@ msgstr "Oj då! Vad du än letade efter var det inte där."
 msgid "ABOUT_SUDOMEMO"
 msgstr "Om Sudomemo"
 
+# Success Messages
+msgid "ACCOUNT_ADDED_SUCCESS"
+msgstr "Account added successfully"
+
+msgid "ACCOUNT_ALREADY_IN_SWITCHER"
+msgstr "Account already added"
+
+msgid "ACCOUNT_BANNED_BLOCKED"
+msgstr "Account is restricted from Sudomemo"
+
+msgid "ACCOUNT_NOT_FOUND"
+msgstr "Account not found"
+
+msgid "ACCOUNT_NOT_IN_SWITCHER"
+msgstr "Account not found in switcher"
+
+# Accessibility
+msgid "ACCOUNT_PROFILE_IMAGE"
+msgstr "Profile image for %s"
+
+msgid "ACCOUNT_REMOVED_SUCCESS"
+msgstr "Account removed"
+
 # Account Settings (Theatre)
 msgid "ACCOUNT_SETTINGS"
 msgstr "Kontoinställningar"
+
+msgid "ACCOUNT_SWITCHED_SUCCESS"
+msgstr "Switched to account successfully"
+
+# Account Switcher Interface
+msgid "ACCOUNT_SWITCHER"
+msgstr "Manage login"
+
+msgid "ADD_ACCOUNT_BUTTON"
+msgstr "Add account"
+
+# Account Switcher Modal
+msgid "ADD_ACCOUNT_TO_SWITCHER"
+msgstr "Add account"
+
+msgid "ADD_ANOTHER_ACCOUNT"
+msgstr "Add another account"
+
+msgid "ADD_ANOTHER_ACCOUNT_HELP"
+msgstr "Add another account to switch between them quickly."
 
 msgid "ADD_TO_NEW_PLAYLIST"
 msgstr "Lägg till i ny spellista"
 
 msgid "ADD_TO_PLAYLIST"
 msgstr "Lägg till i spellista"
+
+msgid "ALREADY_ON_ACCOUNT"
+msgstr "Already on this account"
 
 msgid "ALT_DRAWN_COMMENT_BY_USER"
 msgstr "Ritad kommentar från %s"
@@ -36,6 +82,9 @@ msgstr "%ss profilbild"
 # # Alt tags, aria labels
 msgid "ALT_WEEKLY_TOPIC_BANNER"
 msgstr "Banner som annonserar veckotema"
+
+msgid "AND_PASSWORD"
+msgstr "and password"
 
 msgid "ARCHIVE"
 msgstr "Arkivera"
@@ -85,6 +134,9 @@ msgstr "Högerklicka på sökfältet → \"Inställningar för denna webbplats..
 # Back, in the sense of navigation
 msgid "BACK"
 msgstr "Tillbaka"
+
+msgid "BACK_TO_ACCOUNT_SWITCHER"
+msgstr "Back to login manager"
 
 msgid "BACK_TO_CATEGORIES"
 msgstr "Tillbaka till kategorier"
@@ -186,6 +238,9 @@ msgstr "Avbryt"
 
 msgid "CANCEL_REPLY"
 msgstr "Avbryt"
+
+msgid "CANNOT_ADD_CURRENT_ACCOUNT"
+msgstr "Cannot add current account"
 
 msgid "CANNOT_POST_LINKS"
 msgstr "Länkar är inte tillåtna i chatt-meddelanden."
@@ -307,6 +362,9 @@ msgstr "Write something thoughtful here"
 msgid "COMMENT_FAILED_USER_BANNED"
 msgstr "Du kan inte lägga upp meddelanden eftersom du är avstängd."
 
+msgid "CONFIRMATION_CODE"
+msgstr "Confirmation Code"
+
 msgid "CONFIRMATION_CODE_REQUIRED"
 msgstr "En konfirmationskod krävs."
 
@@ -317,11 +375,19 @@ msgstr "Är du säker att du vill avlänka ditt Discord konto? Detta tar bort ko
 msgid "CONFIRM_EMAIL_BEFORE_POSTING"
 msgstr "Du måst konfirmera din email innan du kan lägga upp något."
 
+# Logout Confirmation
+msgid "CONFIRM_LOGOUT"
+msgstr "Confirm Logout"
+
 msgid "CONFIRM_PROFILE_PICTURE_CHANGE"
 msgstr "Konfirmera förändring av Profilbild"
 
 msgid "CONFIRM_PROFILE_PICTURE_CHANGE_ACTION"
 msgstr "Sätt som Profilbild"
+
+# Confirmation Messages
+msgid "CONFIRM_REMOVE_ACCOUNT"
+msgstr "Are you sure you want to remove this account?"
 
 msgid "CONTENT_POLICY"
 msgstr "Content Policy"
@@ -356,6 +422,9 @@ msgstr "Skapare"
 
 msgid "CREATORS_ROOM"
 msgstr "Creator's Room"
+
+msgid "CURRENTLY_SIGNED_IN_AS"
+msgstr "Currently signed in as:"
 
 msgid "CURRENT_EMAIL"
 msgstr "Nuvarande Email"
@@ -511,6 +580,13 @@ msgstr "Du håller redan på att ändra din email. Kolla gärna din inkorg eller
 msgid "EMAIL_CHANGE_VERIFICATION_SENT"
 msgstr "Verifikations email skickat! Kolla igenom din nya email och klicka på länken för att konfirmera förändringen."
 
+msgid "EMAIL_CONFIRMATION_HELP"
+msgstr "Please check your email for a confirmation code."
+
+# Verification Messages
+msgid "EMAIL_CONFIRMATION_REQUIRED"
+msgstr "Email Confirmation Required"
+
 msgid "EMAIL_SAME_AS_CURRENT"
 msgstr "Den nya emailen måste vara skild från din gamla."
 
@@ -522,6 +598,12 @@ msgstr "Set ut som din Flipnote behöver en titel!"
 
 msgid "EMPTY_TITLE_ALERT_2"
 msgstr "Lägg gärna till en nu."
+
+msgid "ENTER_CODE_FROM_EMAIL"
+msgstr "Enter code from email"
+
+msgid "ENTER_SIX_DIGIT_CODE"
+msgstr "Enter 6-digit code"
 
 msgid "ERROR_OCCURRED_TRY_AGAIN"
 msgstr "Ett fel uppstod. Snälla försök igen."
@@ -555,6 +637,18 @@ msgstr "Original Flipnote file"
 
 msgid "EXPORT_PPM_GENEALOGY_WARNING"
 msgstr "Warning: Sharing the Flipnote's .ppm file for the purpose of collaboration between multiple Creators may leave broken links in Flipnote genealogy, causing original authorship and Spin-off history to become unclear"
+
+msgid "FAILED_TO_ADD_ACCOUNT"
+msgstr "Failed to add account"
+
+msgid "FAILED_TO_LOAD_ACCOUNTS"
+msgstr "Failed to load accounts"
+
+msgid "FAILED_TO_REMOVE_ACCOUNT"
+msgstr "Failed to remove account"
+
+msgid "FAILED_TO_SWITCH_ACCOUNT"
+msgstr "Failed to switch accounts"
 
 msgid "FANS"
 msgstr "Fans"
@@ -667,6 +761,9 @@ msgstr "Trendande Skapare"
 # This is short for Flipnote Studio ID. Leave it as "FSID" except in Japanese, where it should be うごメモID
 msgid "FSID"
 msgstr "FSID"
+
+msgid "FSID_OR_EMAIL"
+msgstr "FSID or Email"
 
 # Accessibility strings for genealogy navigation and controls
 msgid "GENEALOGY_BACK_TO_FLIPNOTE"
@@ -871,6 +968,13 @@ msgstr "Bilen måste ha en upplösning på 1080x1920."
 msgid "INFO"
 msgstr "Info"
 
+msgid "INTERNAL_SERVER_ERROR"
+msgstr "Internal server error"
+
+# Error Messages
+msgid "INVALID_CREDENTIALS"
+msgstr "Invalid credentials"
+
 msgid "INVALID_EMAIL_FORMAT"
 msgstr "Snälla ange en giltig email adress."
 
@@ -904,6 +1008,9 @@ msgstr "Lär dig mer"
 msgid "LINK_REQUIRED_BEFORE_UPLOAD"
 msgstr "Du behöver länka en youtube kanal innan du kan ladda up din Flipnote."
 
+msgid "LOADING"
+msgstr "Loading..."
+
 msgid "LOGIN_CONFIRM_PLACEHOLDER"
 msgstr "Konfirmations kod"
 
@@ -936,12 +1043,24 @@ msgstr "Inloggning krävs för att lägga up meddelandet."
 msgid "LOGIN_SIGNUP_SELECT_DEVICE"
 msgstr "Välj din enhet"
 
+msgid "LOGOUT_COMPLETELY"
+msgstr "Logout Completely"
+
+msgid "LOGOUT_SUGGESTION_USE_SWITCHER"
+msgstr "If you want to switch to a different account instead of logging out completely, please cancel and use the account switcher."
+
+msgid "LOGOUT_WARNING_MAIN_ACCOUNT"
+msgstr "You are about to log out of your main account. This will remove all additional accounts from your account switcher and fully log you out of Sudomemo."
+
 # Mail reader strings
 msgid "MAIL_READER_TITLE"
 msgstr "Meddelande"
 
 msgid "MANAGE_PLAYLIST"
 msgstr "Hantera spellistor"
+
+msgid "MAX_ACCOUNTS_REACHED"
+msgstr "Maximum number of accounts reached"
 
 msgid "MERCH"
 msgstr "Merch"
@@ -1109,6 +1228,9 @@ msgstr "var borttagen för att ha stridit mot våra riktlinjer."
 msgid "NOTIFICATION_CONTENT_RESTORED"
 msgstr "har blivit återställd efter genomskådning"
 
+msgid "NOTIFICATION_COUNT"
+msgstr "%d notifications"
+
 msgid "NOTIFICATION_NEW_FRIEND"
 msgstr "har lagt till dig som vän"
 
@@ -1157,6 +1279,9 @@ msgstr "%s följer inte någon än."
 msgid "NO_ACTIVE_CHANNELS"
 msgstr "Inga aktiva kanaler"
 
+msgid "NO_ADDITIONAL_ACCOUNTS"
+msgstr "No additional accounts added yet."
+
 msgid "NO_CATEGORIES_AVAILABLE"
 msgstr "Inga tillgängliga kategorier."
 
@@ -1182,6 +1307,9 @@ msgstr "Ingen email tillgänglig -- kontakta Sudomemo kundtjänst"
 msgid "NO_FOLLOWERS_YET"
 msgstr "%s har inte några följare än."
 
+msgid "NO_NOTIFICATIONS"
+msgstr "No notifications"
+
 msgid "NO_RANKING_DATA"
 msgstr "Ingen rankings data tillgänglig"
 
@@ -1197,8 +1325,14 @@ msgstr "Gäller endast för YouTube Shorts"
 msgid "ONLY_OWNER_CAN_SET_PROFILE_PICTURE"
 msgstr "Du kan endast ange dina egna flipnotes som en profilbild."
 
+msgid "ORIGINAL"
+msgstr "Original"
+
 msgid "PARENT_FLIPNOTE"
 msgstr "Föräldra-Flipnote"
+
+msgid "PASSWORD"
+msgstr "Password"
 
 msgid "PASSWORD_RESET_SENT"
 msgstr "En lösenordsåterställning har skickats till den tillgängliga emailen."
@@ -1285,6 +1419,12 @@ msgstr "Olistad"
 
 msgid "PLAYLIST_VISIBILITY"
 msgstr "Synlighet"
+
+msgid "PLEASE_ENTER_BOTH"
+msgstr "Please enter both"
+
+msgid "PLEASE_ENTER_VERIFICATION_CODE"
+msgstr "Please enter the verification code"
 
 msgid "PLEASE_SELECT_FRAME_OR_UPLOAD_CUSTOM_FRAME"
 msgstr "Snälla välj en ram eller ladda upp en egengjord ram."
@@ -1407,6 +1547,9 @@ msgstr "Rank Oförändrad"
 msgid "RATELIMIT_EXCEEDED"
 msgstr "Du har uppnått din gräns av att skicka meddelanden."
 
+msgid "RATE_LIMITED_SWITCHER"
+msgstr "Rate limited. Please wait before performing more actions."
+
 msgid "RECENT"
 msgstr "Nyligen"
 
@@ -1440,6 +1583,9 @@ msgstr "Okänd"
 msgid "RELEASED"
 msgstr "Släppt"
 
+msgid "REMOVE_ACCOUNT"
+msgstr "Remove"
+
 msgid "REMOVE_FROM_PLAYLIST"
 msgstr "Ta bort från spellista"
 
@@ -1448,6 +1594,9 @@ msgstr "Svara"
 
 msgid "REPLYING_TO"
 msgstr "Svara på"
+
+msgid "REQUIRED"
+msgstr "Required"
 
 msgid "RESET_PASSWORD_BY_FSID"
 msgstr "Du kan fortfarande återställa ditt lösenord med ditt Flipnote Studio ID! Skicka ett meddelande till Sudomemo kundtjänst och sedan skickar vi återställningen."
@@ -1626,6 +1775,12 @@ msgstr "Sudomemo Användare"
 msgid "SUPPORT_US"
 msgstr "Stöd oss"
 
+msgid "SWITCH_ACCOUNT"
+msgstr "Switch"
+
+msgid "SWITCH_TO_ANOTHER_ACCOUNT"
+msgstr "Switch to another account:"
+
 msgid "TERMS_OF_USE"
 msgstr "Villkor"
 
@@ -1651,6 +1806,21 @@ msgstr "för att lägga till en kommentar"
 
 msgid "TROPHY_CASE"
 msgstr "Troféfall"
+
+msgid "TRY_AGAIN"
+msgstr "Try again"
+
+msgid "TRY_ENTERING_CODE_AGAIN"
+msgstr "Please try entering the code again."
+
+msgid "TWO_FACTOR_CODE"
+msgstr "2FA Code"
+
+msgid "TWO_FACTOR_HELP"
+msgstr "Please enter your 2FA code."
+
+msgid "TWO_FACTOR_REQUIRED"
+msgstr "Two-Factor Authentication Required"
 
 msgid "UNKNOWN_ERROR"
 msgstr "Ett okänt fel uppstod."
@@ -1726,6 +1896,9 @@ msgstr "Konfigurera din länkade YouTube channel och standardiserade Flipnote-up
 
 msgid "USE_THIS_FRAME_FROM_NOW_ON"
 msgstr "Använd denna ramen från och med nu"
+
+msgid "VERIFICATION_FAILED"
+msgstr "Verification Failed"
 
 msgid "VERIFIED_USER"
 msgstr "Verifierad Användare"
@@ -1810,6 +1983,9 @@ msgstr "Synlighets Inställningar"
 
 msgid "VISIBILITY_UNLISTED"
 msgstr "Olistad"
+
+msgid "WARNING"
+msgstr "Warning"
 
 msgid "WATCH_HISTORY"
 msgstr "Tittarhistorik"
