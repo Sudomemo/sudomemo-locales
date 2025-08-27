@@ -12,6 +12,12 @@ msgstr "O teu título tem um limite de 40 caracteres."
 msgid "ADMIN_ACTIONS"
 msgstr "Accções de Administrador"
 
+msgid "BY_FORMAT"
+msgstr "by %s"
+
+msgid "CREDITS"
+msgstr "Credits"
+
 msgid "ENTER_DESCRIPTION"
 msgstr "Introduz uma descrição..."
 
@@ -20,6 +26,9 @@ msgstr "Introduz um título..."
 
 msgid "FLIPNOTE_TITLE_FORMAT"
 msgstr "Flipnote de %s"
+
+msgid "HAPPY_FLIPNOTING"
+msgstr "Happy Flipnoting!"
 
 msgid "HEADER_ADD_DESCRIPTION"
 msgstr "Adicionar Descrição"
@@ -44,6 +53,9 @@ msgstr "Detalhes"
 
 msgid "HEADER_DOWNLOADS"
 msgstr "Downloads"
+
+msgid "HEADER_FLIPNOTE_CREDITS"
+msgstr "Flipnote Credits"
 
 msgid "HEADER_FLIPNOTE_ID"
 msgstr "ID do Flipnote"
@@ -127,17 +139,5 @@ msgstr "M D, A H:M:S"
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote Sem-Título de %s"
 
-msgid "HEADER_FLIPNOTE_CREDITS"
-msgstr "Flipnote Credits"
-
 msgid "VIEW"
 msgstr "View"
-
-msgid "CREDITS"
-msgstr "Credits"
-
-msgid "BY_FORMAT"
-msgstr "by %s"
-
-msgid "HAPPY_FLIPNOTING"
-msgstr "Happy Flipnoting!"

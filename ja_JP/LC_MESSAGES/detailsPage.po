@@ -12,6 +12,12 @@ msgstr "タイトルの文字数は40文字に制限されています。"
 msgid "ADMIN_ACTIONS"
 msgstr "管理者の操作"
 
+msgid "BY_FORMAT"
+msgstr "by %s"
+
+msgid "CREDITS"
+msgstr "Credits"
+
 msgid "ENTER_DESCRIPTION"
 msgstr "説明を入力してください..."
 
@@ -20,6 +26,9 @@ msgstr "タイトルを入力"
 
 msgid "FLIPNOTE_TITLE_FORMAT"
 msgstr "%sさんの作品"
+
+msgid "HAPPY_FLIPNOTING"
+msgstr "Happy Flipnoting!"
 
 msgid "HEADER_ADD_DESCRIPTION"
 msgstr "説明を追加"
@@ -44,6 +53,9 @@ msgstr "作品情報"
 
 msgid "HEADER_DOWNLOADS"
 msgstr "ダウンロード数"
+
+msgid "HEADER_FLIPNOTE_CREDITS"
+msgstr "Flipnote Credits"
 
 msgid "HEADER_FLIPNOTE_ID"
 msgstr "うごメモID"
@@ -127,17 +139,5 @@ msgstr "Y年m月d日 H:i:s"
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "%sさんの作品"
 
-msgid "HEADER_FLIPNOTE_CREDITS"
-msgstr "Flipnote Credits"
-
 msgid "VIEW"
 msgstr "View"
-
-msgid "CREDITS"
-msgstr "Credits"
-
-msgid "BY_FORMAT"
-msgstr "by %s"
-
-msgid "HAPPY_FLIPNOTING"
-msgstr "Happy Flipnoting!"

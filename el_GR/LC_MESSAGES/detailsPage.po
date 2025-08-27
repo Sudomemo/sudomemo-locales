@@ -12,6 +12,12 @@ msgstr "Ο τιτλος σας περιοριζεται σε 40 χαρακτηρ
 msgid "ADMIN_ACTIONS"
 msgstr "Ενεργειεs διαχειριστη"
 
+msgid "BY_FORMAT"
+msgstr "by %s"
+
+msgid "CREDITS"
+msgstr "Credits"
+
 msgid "ENTER_DESCRIPTION"
 msgstr "Εισάγετε περιγραφη..."
 
@@ -20,6 +26,9 @@ msgstr "Προσθεστε τιτλο..."
 
 msgid "FLIPNOTE_TITLE_FORMAT"
 msgstr "Flipnote του %s"
+
+msgid "HAPPY_FLIPNOTING"
+msgstr "Happy Flipnoting!"
 
 msgid "HEADER_ADD_DESCRIPTION"
 msgstr "Προσθεστε Περιγραφη"
@@ -44,6 +53,9 @@ msgstr "Λεπτομεριεs"
 
 msgid "HEADER_DOWNLOADS"
 msgstr "Ληψειs"
+
+msgid "HEADER_FLIPNOTE_CREDITS"
+msgstr "Flipnote Credits"
 
 msgid "HEADER_FLIPNOTE_ID"
 msgstr "Flipnote ID"
@@ -127,17 +139,5 @@ msgstr "D m, Y H:i:s"
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "Ατιτλο Flipnote απο %s"
 
-msgid "HEADER_FLIPNOTE_CREDITS"
-msgstr "Flipnote Credits"
-
 msgid "VIEW"
 msgstr "View"
-
-msgid "CREDITS"
-msgstr "Credits"
-
-msgid "BY_FORMAT"
-msgstr "by %s"
-
-msgid "HAPPY_FLIPNOTING"
-msgstr "Happy Flipnoting!"
