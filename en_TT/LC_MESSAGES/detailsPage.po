@@ -126,3 +126,18 @@ msgstr "M d, Y H:i:s"
 # This is shown to logged-in users on their own Flipnotes without titles
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "Untitled Flipnote by %s"
+
+msgid "HEADER_FLIPNOTE_CREDITS"
+msgstr "Flipnote Credits"
+
+msgid "VIEW"
+msgstr "View"
+
+msgid "CREDITS"
+msgstr "Credits"
+
+msgid "BY_FORMAT"
+msgstr "by %s"
+
+msgid "HAPPY_FLIPNOTING"
+msgstr "Happy Flipnoting!"
