@@ -12,6 +12,12 @@ msgstr "De titel mag niet langer zijn dan 40 karakters."
 msgid "ADMIN_ACTIONS"
 msgstr "Adminacties"
 
+msgid "BY_FORMAT"
+msgstr "by %s"
+
+msgid "CREDITS"
+msgstr "Credits"
+
 msgid "ENTER_DESCRIPTION"
 msgstr "Voer beschrijving in..."
 
@@ -20,6 +26,9 @@ msgstr "Voer titel in..."
 
 msgid "FLIPNOTE_TITLE_FORMAT"
 msgstr "Flipnote door %s"
+
+msgid "HAPPY_FLIPNOTING"
+msgstr "Happy Flipnoting!"
 
 msgid "HEADER_ADD_DESCRIPTION"
 msgstr "Voeg beschrijving toe"
@@ -44,6 +53,9 @@ msgstr "Details"
 
 msgid "HEADER_DOWNLOADS"
 msgstr "Downloads"
+
+msgid "HEADER_FLIPNOTE_CREDITS"
+msgstr "Flipnote Credits"
 
 msgid "HEADER_FLIPNOTE_ID"
 msgstr "Flipnote-ID"
@@ -128,17 +140,5 @@ msgstr "d M Y H:i:s"
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "Naamloze Flipnote door %s"
 
-msgid "HEADER_FLIPNOTE_CREDITS"
-msgstr "Flipnote Credits"
-
 msgid "VIEW"
 msgstr "View"
-
-msgid "CREDITS"
-msgstr "Credits"
-
-msgid "BY_FORMAT"
-msgstr "by %s"
-
-msgid "HAPPY_FLIPNOTING"
-msgstr "Happy Flipnoting!"

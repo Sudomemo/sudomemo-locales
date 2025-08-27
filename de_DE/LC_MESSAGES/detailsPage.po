@@ -12,6 +12,12 @@ msgstr "Die Länge deines Titels ist auf 40 Zeichen begrenzt."
 msgid "ADMIN_ACTIONS"
 msgstr "Administrator-Aktionen"
 
+msgid "BY_FORMAT"
+msgstr "by %s"
+
+msgid "CREDITS"
+msgstr "Credits"
+
 msgid "ENTER_DESCRIPTION"
 msgstr "Beschreibung eingeben"
 
@@ -20,6 +26,9 @@ msgstr "Titel eingeben"
 
 msgid "FLIPNOTE_TITLE_FORMAT"
 msgstr "Flipnote v. %s"
+
+msgid "HAPPY_FLIPNOTING"
+msgstr "Happy Flipnoting!"
 
 msgid "HEADER_ADD_DESCRIPTION"
 msgstr "Beschreibung hinzufügen"
@@ -44,6 +53,9 @@ msgstr "Details"
 
 msgid "HEADER_DOWNLOADS"
 msgstr "Male heruntergeladen"
+
+msgid "HEADER_FLIPNOTE_CREDITS"
+msgstr "Flipnote Credits"
 
 msgid "HEADER_FLIPNOTE_ID"
 msgstr "Flipnote-ID"
@@ -127,17 +139,5 @@ msgstr "j. M y, H:i:s"
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "Unbenanntes Flipnote von %s"
 
-msgid "HEADER_FLIPNOTE_CREDITS"
-msgstr "Flipnote Credits"
-
 msgid "VIEW"
 msgstr "View"
-
-msgid "CREDITS"
-msgstr "Credits"
-
-msgid "BY_FORMAT"
-msgstr "by %s"
-
-msgid "HAPPY_FLIPNOTING"
-msgstr "Happy Flipnoting!"

@@ -12,6 +12,12 @@ msgstr "it can be... 40 LETTERS!"
 msgid "ADMIN_ACTIONS"
 msgstr "Admin actions"
 
+msgid "BY_FORMAT"
+msgstr "by %s"
+
+msgid "CREDITS"
+msgstr "Credits"
+
 msgid "ENTER_DESCRIPTION"
 msgstr "put it in here..."
 
@@ -20,6 +26,9 @@ msgstr "ya right here..."
 
 msgid "FLIPNOTE_TITLE_FORMAT"
 msgstr "flippynote by %s"
+
+msgid "HAPPY_FLIPNOTING"
+msgstr "Happy Flipnoting!"
 
 msgid "HEADER_ADD_DESCRIPTION"
 msgstr "add MORE INFO pls"
@@ -44,6 +53,9 @@ msgstr "Derails"
 
 msgid "HEADER_DOWNLOADS"
 msgstr "savies!"
+
+msgid "HEADER_FLIPNOTE_CREDITS"
+msgstr "Flipnote Credits"
 
 msgid "HEADER_FLIPNOTE_ID"
 msgstr "Flipmeme ID"
@@ -127,17 +139,5 @@ msgstr "M d, Y H:i:s"
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
 msgstr "Untitled Flipnote by %s"
 
-msgid "HEADER_FLIPNOTE_CREDITS"
-msgstr "Flipnote Credits"
-
 msgid "VIEW"
 msgstr "View"
-
-msgid "CREDITS"
-msgstr "Credits"
-
-msgid "BY_FORMAT"
-msgstr "by %s"
-
-msgid "HAPPY_FLIPNOTING"
-msgstr "Happy Flipnoting!"
