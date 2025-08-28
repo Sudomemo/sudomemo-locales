@@ -608,6 +608,12 @@ msgstr "Enter 6-digit code"
 msgid "ERROR_OCCURRED_TRY_AGAIN"
 msgstr "Ocurrió un error. Por favor intenta de nuevo."
 
+msgid "EXPORT_FAILED_NETWORK_ERROR"
+msgstr "Export failed: Network error"
+
+msgid "EXPORT_FAILED_SERVER_ERROR"
+msgstr "Export failed: Server error"
+
 msgid "EXPORT_FLIPNOTE"
 msgstr "Export Flipnote"
 
@@ -625,6 +631,9 @@ msgstr "MP4 Video"
 
 msgid "EXPORT_MP4_DESCRIPTION"
 msgstr "High quality video file"
+
+msgid "EXPORT_MP4_RATE_LIMIT_EXCEEDED"
+msgstr "Rate limit exceeded. Please wait a little bit before exporting another MP4."
 
 msgid "EXPORT_MP4_TIMEOUT_WARNING"
 msgstr "Converting your Flipnote for video export may take a little while"
