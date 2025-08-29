@@ -2089,6 +2089,19 @@ msgstr "Twój kanał na YouTube może nie być w pełni zweryfikowany. Aby dowie
 msgid "YOUTUBE_CONNECT_INTRO"
 msgstr "Połączenie twojego kanału na YouTube umożliwi ci przesyłanie Flipnotes prosto na YouTube!"
 
+msgid "YOUTUBE_DEFAULT_PLAYLISTS"
+msgstr "Default Playlists"
+
+msgid "YOUTUBE_DEFAULT_PLAYLISTS_DESCRIPTION"
+msgstr "Select playlists that should be pre-selected for future uploads"
+
+msgid "YOUTUBE_DEFAULT_PLAYLISTS_ERROR"
+msgstr "Error updating default playlists"
+
+# API response messages
+msgid "YOUTUBE_DEFAULT_PLAYLISTS_UPDATED"
+msgstr "Default playlists updated successfully"
+
 # YouTube metadata
 # Extra description text: will be placed at the end of your video descriptions.
 msgid "YOUTUBE_DEFAULT_SETTINGS_EXPLANATION"
@@ -2103,6 +2116,9 @@ msgstr "Dotatkowy tekst w opisie"
 msgid "YOUTUBE_EXTRA_DESCRIPTION_TEXT_EXPLANATION"
 msgstr "Ten tekst pojawi się gdy widzowie klikną na \"Pokaż więcej\" w opisie twojego filmu."
 
+msgid "YOUTUBE_LAST_SYNC"
+msgstr "Last synced: %s"
+
 msgid "YOUTUBE_LINK_PROMPT"
 msgstr "Połącz swój kanał na YouTube aby przesyłać swoje Flipnotes na YouTube."
 
@@ -2112,8 +2128,34 @@ msgstr "Ilość pętli"
 msgid "YOUTUBE_LOOP_COUNT_EXPLANATION"
 msgstr "Ilość powtórzeń zapętlonego Flipnote. Wybierz 1 aby powtórzyć Flipnote tylko raz."
 
+msgid "YOUTUBE_NEVER_SYNCED"
+msgstr "Never synced"
+
+msgid "YOUTUBE_NO_PLAYLISTS"
+msgstr "No playlists available. Create playlists on YouTube first, then sync them here."
+
 msgid "YOUTUBE_PENDING_UPLOAD"
 msgstr "Twój Flipnote aktualnie czeka na przesłanie. Sprawdź ponownie za kilka minut."
+
+# Main playlist section header
+msgid "YOUTUBE_PLAYLISTS"
+msgstr "Playlists"
+
+msgid "YOUTUBE_PLAYLIST_ITEM"
+msgstr "1 video"
+
+msgid "YOUTUBE_PLAYLIST_ITEMS"
+msgstr "%d videos"
+
+# Playlist status
+msgid "YOUTUBE_PLAYLIST_PRIVATE"
+msgstr "Private"
+
+msgid "YOUTUBE_PLAYLIST_PUBLIC"
+msgstr "Public"
+
+msgid "YOUTUBE_PLAYLIST_UNLISTED"
+msgstr "Unlisted"
 
 # Position in queue: 4 - means there are three uploads ahead of yours
 msgid "YOUTUBE_POSITION_IN_QUEUE"
@@ -2124,6 +2166,20 @@ msgstr "Połączenie z twoim kanałem wygasło. Połącz go ponownie aby kontynu
 
 msgid "YOUTUBE_REFRESH_ACCOUNT"
 msgstr "Odśwież konto"
+
+msgid "YOUTUBE_SAVE_DEFAULT_PLAYLISTS"
+msgstr "Update Default Playlists"
+
+# Playlist selector search
+msgid "YOUTUBE_SEARCH_PLAYLISTS_PLACEHOLDER"
+msgstr "Search for a playlist"
+
+# Playlist selection for uploads
+msgid "YOUTUBE_SELECT_PLAYLISTS"
+msgstr "Add to Playlists"
+
+msgid "YOUTUBE_SELECT_PLAYLISTS_DESCRIPTION"
+msgstr "Select which of your YouTube playlists to add this Flipnote to (optional)"
 
 msgid "YOUTUBE_SHORT"
 msgstr "YouTube Short"
@@ -2172,6 +2228,22 @@ msgstr "Przetwarzany"
 
 msgid "YOUTUBE_STATUS_WAITING_TO_BE_PROCESSED"
 msgstr "Twój filmik aktualnie czeka na przetworzenie."
+
+msgid "YOUTUBE_SYNC_ERROR"
+msgstr "Error syncing playlists"
+
+msgid "YOUTUBE_SYNC_IN_PROGRESS"
+msgstr "Syncing playlists..."
+
+# Manual playlist sync
+msgid "YOUTUBE_SYNC_PLAYLISTS"
+msgstr "Sync Playlists"
+
+msgid "YOUTUBE_SYNC_PLAYLISTS_BUTTON"
+msgstr "Sync Now"
+
+msgid "YOUTUBE_SYNC_SUCCESS"
+msgstr "Playlists synced successfully"
 
 msgid "YOUTUBE_TAGS"
 msgstr "Tagi"

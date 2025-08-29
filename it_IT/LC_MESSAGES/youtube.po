@@ -117,6 +117,13 @@ msgstr "Il tuo account YouTube non è verificato. Alcune funzioni non saranno di
 msgid "YOUTUBE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
 msgstr "Per favore, contattaci su Discord o tramite email a %s."
 
+msgid "YOUTUBE_DS_PLAYLISTS_CHANGE_HINT"
+msgstr "To change default playlists, visit: https://flipnot.es/ytsetup"
+
+# DS upload page messages
+msgid "YOUTUBE_DS_PLAYLISTS_HEADING"
+msgstr "Will be added to:"
+
 msgid "YOUTUBE_ESTIMATED_DURATION"
 msgstr "Durata del video stimata:"
 

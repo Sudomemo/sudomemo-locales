@@ -2089,6 +2089,19 @@ msgstr "Il tuo canale Youtube potrebbe non essere verificato completamente. Per 
 msgid "YOUTUBE_CONNECT_INTRO"
 msgstr "Collegare il tuo canale YouTube ti permette di condividere i tuoi Flipnote direttamente su Youtube!"
 
+msgid "YOUTUBE_DEFAULT_PLAYLISTS"
+msgstr "Default Playlists"
+
+msgid "YOUTUBE_DEFAULT_PLAYLISTS_DESCRIPTION"
+msgstr "Select playlists that should be pre-selected for future uploads"
+
+msgid "YOUTUBE_DEFAULT_PLAYLISTS_ERROR"
+msgstr "Error updating default playlists"
+
+# API response messages
+msgid "YOUTUBE_DEFAULT_PLAYLISTS_UPDATED"
+msgstr "Default playlists updated successfully"
+
 # YouTube metadata
 # Extra description text: will be placed at the end of your video descriptions. 
 msgid "YOUTUBE_DEFAULT_SETTINGS_EXPLANATION"
@@ -2103,6 +2116,9 @@ msgstr "Descrizione aggiuntiva"
 msgid "YOUTUBE_EXTRA_DESCRIPTION_TEXT_EXPLANATION"
 msgstr "Sarà visualizzato questo testo quando gli spettatori cliccheranno su 'Mostra altro' nella descrizione del tuo video."
 
+msgid "YOUTUBE_LAST_SYNC"
+msgstr "Last synced: %s"
+
 msgid "YOUTUBE_LINK_PROMPT"
 msgstr "Collega il tuo canale YouTube per caricare i tuoi Flipnote su YouTube."
 
@@ -2112,8 +2128,34 @@ msgstr "Numero di riproduzioni"
 msgid "YOUTUBE_LOOP_COUNT_EXPLANATION"
 msgstr "Numero di volte in cui un Flipnote continuo si ripete. Seleziona 1 per riprodurlo una volta."
 
+msgid "YOUTUBE_NEVER_SYNCED"
+msgstr "Never synced"
+
+msgid "YOUTUBE_NO_PLAYLISTS"
+msgstr "No playlists available. Create playlists on YouTube first, then sync them here."
+
 msgid "YOUTUBE_PENDING_UPLOAD"
 msgstr "Il tuo Flipnote è in attesa del caricamento. Ricontrolla tra qualche minuto."
+
+# Main playlist section header
+msgid "YOUTUBE_PLAYLISTS"
+msgstr "Playlists"
+
+msgid "YOUTUBE_PLAYLIST_ITEM"
+msgstr "1 video"
+
+msgid "YOUTUBE_PLAYLIST_ITEMS"
+msgstr "%d videos"
+
+# Playlist status
+msgid "YOUTUBE_PLAYLIST_PRIVATE"
+msgstr "Private"
+
+msgid "YOUTUBE_PLAYLIST_PUBLIC"
+msgstr "Public"
+
+msgid "YOUTUBE_PLAYLIST_UNLISTED"
+msgstr "Unlisted"
 
 # Position in queue: 4 - means there are three uploads ahead of yours
 msgid "YOUTUBE_POSITION_IN_QUEUE"
@@ -2124,6 +2166,20 @@ msgstr "La connessione con il tuo canale è scaduta. Riconnettilo."
 
 msgid "YOUTUBE_REFRESH_ACCOUNT"
 msgstr "Ricarica account"
+
+msgid "YOUTUBE_SAVE_DEFAULT_PLAYLISTS"
+msgstr "Update Default Playlists"
+
+# Playlist selector search
+msgid "YOUTUBE_SEARCH_PLAYLISTS_PLACEHOLDER"
+msgstr "Search for a playlist"
+
+# Playlist selection for uploads
+msgid "YOUTUBE_SELECT_PLAYLISTS"
+msgstr "Add to Playlists"
+
+msgid "YOUTUBE_SELECT_PLAYLISTS_DESCRIPTION"
+msgstr "Select which of your YouTube playlists to add this Flipnote to (optional)"
 
 msgid "YOUTUBE_SHORT"
 msgstr "YouTube Short"
@@ -2172,6 +2228,22 @@ msgstr "In elaborazione"
 
 msgid "YOUTUBE_STATUS_WAITING_TO_BE_PROCESSED"
 msgstr "Il tuo caricamento è in attesa di essere elaborato."
+
+msgid "YOUTUBE_SYNC_ERROR"
+msgstr "Error syncing playlists"
+
+msgid "YOUTUBE_SYNC_IN_PROGRESS"
+msgstr "Syncing playlists..."
+
+# Manual playlist sync
+msgid "YOUTUBE_SYNC_PLAYLISTS"
+msgstr "Sync Playlists"
+
+msgid "YOUTUBE_SYNC_PLAYLISTS_BUTTON"
+msgstr "Sync Now"
+
+msgid "YOUTUBE_SYNC_SUCCESS"
+msgstr "Playlists synced successfully"
 
 msgid "YOUTUBE_TAGS"
 msgstr "Tag"

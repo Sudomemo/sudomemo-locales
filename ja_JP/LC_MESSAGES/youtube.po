@@ -117,6 +117,13 @@ msgstr "YouTubeのアカウントが未確認の状態です。サムネイル�
 msgid "YOUTUBE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
 msgstr "Please contact us on Discord or via email to %s."
 
+msgid "YOUTUBE_DS_PLAYLISTS_CHANGE_HINT"
+msgstr "To change default playlists, visit: https://flipnot.es/ytsetup"
+
+# DS upload page messages
+msgid "YOUTUBE_DS_PLAYLISTS_HEADING"
+msgstr "Will be added to:"
+
 msgid "YOUTUBE_ESTIMATED_DURATION"
 msgstr "推定される動画の長さ:"
 

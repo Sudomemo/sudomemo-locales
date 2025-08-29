@@ -2089,6 +2089,19 @@ msgstr "Το καναλι σας στο YouTube μπορει να μην ειν�
 msgid "YOUTUBE_CONNECT_INTRO"
 msgstr "Με το να συνδεθειτε στο YouTube καναλι σας μπορειτε να ανεβασετε τα δικα σας Flipnotes κατευεθιαν YouTube!"
 
+msgid "YOUTUBE_DEFAULT_PLAYLISTS"
+msgstr "Default Playlists"
+
+msgid "YOUTUBE_DEFAULT_PLAYLISTS_DESCRIPTION"
+msgstr "Select playlists that should be pre-selected for future uploads"
+
+msgid "YOUTUBE_DEFAULT_PLAYLISTS_ERROR"
+msgstr "Error updating default playlists"
+
+# API response messages
+msgid "YOUTUBE_DEFAULT_PLAYLISTS_UPDATED"
+msgstr "Default playlists updated successfully"
+
 # YouTube metadata
 # Extra description text: will be placed at the end of your video descriptions. 
 msgid "YOUTUBE_DEFAULT_SETTINGS_EXPLANATION"
@@ -2103,6 +2116,9 @@ msgstr "Extra Description Text"
 msgid "YOUTUBE_EXTRA_DESCRIPTION_TEXT_EXPLANATION"
 msgstr "This text will display when viewers click on 'Show more' in your video's description."
 
+msgid "YOUTUBE_LAST_SYNC"
+msgstr "Last synced: %s"
+
 msgid "YOUTUBE_LINK_PROMPT"
 msgstr "Συνδεστε το YouTube καναλι για να ανεβασετε τα δικα σας Flipnotes στο YouTube."
 
@@ -2112,8 +2128,34 @@ msgstr "Number of plays"
 msgid "YOUTUBE_LOOP_COUNT_EXPLANATION"
 msgstr "Number of times a looped Flipnote will repeat. Select 1 to only play once."
 
+msgid "YOUTUBE_NEVER_SYNCED"
+msgstr "Never synced"
+
+msgid "YOUTUBE_NO_PLAYLISTS"
+msgstr "No playlists available. Create playlists on YouTube first, then sync them here."
+
 msgid "YOUTUBE_PENDING_UPLOAD"
 msgstr "Το Flipnote σας ανεβαινει. Ελατε ξανα σε λιγα λεπτα."
+
+# Main playlist section header
+msgid "YOUTUBE_PLAYLISTS"
+msgstr "Playlists"
+
+msgid "YOUTUBE_PLAYLIST_ITEM"
+msgstr "1 video"
+
+msgid "YOUTUBE_PLAYLIST_ITEMS"
+msgstr "%d videos"
+
+# Playlist status
+msgid "YOUTUBE_PLAYLIST_PRIVATE"
+msgstr "Private"
+
+msgid "YOUTUBE_PLAYLIST_PUBLIC"
+msgstr "Public"
+
+msgid "YOUTUBE_PLAYLIST_UNLISTED"
+msgstr "Unlisted"
 
 # Position in queue: 4 - means there are three uploads ahead of yours
 msgid "YOUTUBE_POSITION_IN_QUEUE"
@@ -2124,6 +2166,20 @@ msgstr "Η συνδεση στο καναλι σας εχει ληξει. Παρ
 
 msgid "YOUTUBE_REFRESH_ACCOUNT"
 msgstr "Ανανεωση λογαριασμου"
+
+msgid "YOUTUBE_SAVE_DEFAULT_PLAYLISTS"
+msgstr "Update Default Playlists"
+
+# Playlist selector search
+msgid "YOUTUBE_SEARCH_PLAYLISTS_PLACEHOLDER"
+msgstr "Search for a playlist"
+
+# Playlist selection for uploads
+msgid "YOUTUBE_SELECT_PLAYLISTS"
+msgstr "Add to Playlists"
+
+msgid "YOUTUBE_SELECT_PLAYLISTS_DESCRIPTION"
+msgstr "Select which of your YouTube playlists to add this Flipnote to (optional)"
 
 msgid "YOUTUBE_SHORT"
 msgstr "YouTube Short"
@@ -2172,6 +2228,22 @@ msgstr "Επεξεργαζεται"
 
 msgid "YOUTUBE_STATUS_WAITING_TO_BE_PROCESSED"
 msgstr "Η δημοσιευση σας βρισκεται στην αναμονη για επεξεργασια."
+
+msgid "YOUTUBE_SYNC_ERROR"
+msgstr "Error syncing playlists"
+
+msgid "YOUTUBE_SYNC_IN_PROGRESS"
+msgstr "Syncing playlists..."
+
+# Manual playlist sync
+msgid "YOUTUBE_SYNC_PLAYLISTS"
+msgstr "Sync Playlists"
+
+msgid "YOUTUBE_SYNC_PLAYLISTS_BUTTON"
+msgstr "Sync Now"
+
+msgid "YOUTUBE_SYNC_SUCCESS"
+msgstr "Playlists synced successfully"
 
 msgid "YOUTUBE_TAGS"
 msgstr "Tags"
