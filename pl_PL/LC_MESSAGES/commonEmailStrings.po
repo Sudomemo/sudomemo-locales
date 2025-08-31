@@ -21,5 +21,8 @@ msgstr "tutaj"
 msgid "TEXT_HOW_TO_CHANGE_SETTINGS_DSI"
 msgstr "Możesz to łatwo zmienić, wchodząc do twojego Pokoju Twórcy na Sudomemo i wybierając <strong>Ustawienia e-maila</strong>."
 
+msgid "TEXT_TRANSACTIONAL_EMAIL_NOTICE"
+msgstr "This email concerns your account on Sudomemo."
+
 msgid "TEXT_WEB_SETTINGS_CHANGE_FORMAT"
 msgstr "Alternatywnie, możesz wyłączyć tego typu maile klikając %s."
