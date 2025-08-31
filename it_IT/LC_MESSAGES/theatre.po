@@ -2134,6 +2134,105 @@ msgstr "Never synced"
 msgid "YOUTUBE_NO_PLAYLISTS"
 msgstr "No playlists available. Create playlists on YouTube first, then sync them here."
 
+msgid "YOUTUBE_OAUTH_ERROR_ACCESS_DENIED_DESC"
+msgstr "Sudomemo needs permission to upload Flipnotes to your YouTube channel."
+
+msgid "YOUTUBE_OAUTH_ERROR_ACCESS_DENIED_MSG"
+msgstr "You didn't grant permission to access your YouTube account."
+
+msgid "YOUTUBE_OAUTH_ERROR_ACCESS_DENIED_STEP1"
+msgstr "Click \"Try Again\" below"
+
+msgid "YOUTUBE_OAUTH_ERROR_ACCESS_DENIED_STEP2"
+msgstr "Make sure to click \"Allow\" when Google asks for YouTube permissions"
+
+msgid "YOUTUBE_OAUTH_ERROR_ACCESS_DENIED_STEP3"
+msgstr "Grant access to both your basic account info and YouTube channel"
+
+msgid "YOUTUBE_OAUTH_ERROR_ACCESS_DENIED_TITLE"
+msgstr "YouTube Access Denied"
+
+msgid "YOUTUBE_OAUTH_ERROR_BACK_TO_SETTINGS"
+msgstr "Back to Settings"
+
+msgid "YOUTUBE_OAUTH_ERROR_CONNECTION_DESC"
+msgstr "This might be a temporary issue with Google's authentication system."
+
+msgid "YOUTUBE_OAUTH_ERROR_CONNECTION_MSG"
+msgstr "There was a problem connecting to Google's servers."
+
+msgid "YOUTUBE_OAUTH_ERROR_CONNECTION_SOLUTION"
+msgstr "Please wait a moment and try again."
+
+msgid "YOUTUBE_OAUTH_ERROR_CONNECTION_TITLE"
+msgstr "Connection Error"
+
+msgid "YOUTUBE_OAUTH_ERROR_EMAIL_SUPPORT"
+msgstr "Email Support"
+
+msgid "YOUTUBE_OAUTH_ERROR_EXPIRED_DESC"
+msgstr "This can happen when your Google account settings change or after a long period of inactivity."
+
+msgid "YOUTUBE_OAUTH_ERROR_EXPIRED_MSG"
+msgstr "Your YouTube connection has expired and needs to be refreshed."
+
+msgid "YOUTUBE_OAUTH_ERROR_EXPIRED_SOLUTION"
+msgstr "Click \"Try Again\" below to reconnect your YouTube account."
+
+msgid "YOUTUBE_OAUTH_ERROR_EXPIRED_TITLE"
+msgstr "YouTube Connection Expired"
+
+msgid "YOUTUBE_OAUTH_ERROR_GENERIC"
+msgstr "Something went wrong while connecting your YouTube account."
+
+msgid "YOUTUBE_OAUTH_ERROR_GENERIC_DESC"
+msgstr "Please try again or contact Sudomemo Support if the problem continues. Include the technical details below in your support request."
+
+msgid "YOUTUBE_OAUTH_ERROR_HELP_CENTER"
+msgstr "Visit our Help Center"
+
+msgid "YOUTUBE_OAUTH_ERROR_HELP_DESC"
+msgstr "If you continue to have problems, you can get help:"
+
+msgid "YOUTUBE_OAUTH_ERROR_HOW_TO_FIX"
+msgstr "How to fix this:"
+
+msgid "YOUTUBE_OAUTH_ERROR_NEED_HELP"
+msgstr "Need More Help?"
+
+msgid "YOUTUBE_OAUTH_ERROR_PERMISSIONS_DESC"
+msgstr "When connecting your YouTube account, you need to grant permission for Sudomemo to upload videos to your channel."
+
+msgid "YOUTUBE_OAUTH_ERROR_PERMISSIONS_MSG"
+msgstr "You didn't give Sudomemo permission to access your YouTube account."
+
+msgid "YOUTUBE_OAUTH_ERROR_PERMISSIONS_STEP1"
+msgstr "Click \"Try Again\" below"
+
+msgid "YOUTUBE_OAUTH_ERROR_PERMISSIONS_STEP2"
+msgstr "When Google asks for permissions, make sure to check the box for YouTube access"
+
+msgid "YOUTUBE_OAUTH_ERROR_PERMISSIONS_STEP3"
+msgstr "Click \"Allow\" to grant all requested permissions"
+
+msgid "YOUTUBE_OAUTH_ERROR_PERMISSIONS_TITLE"
+msgstr "YouTube Permissions Missing"
+
+msgid "YOUTUBE_OAUTH_ERROR_TECHNICAL_DETAILS"
+msgstr "Technical Details"
+
+msgid "YOUTUBE_OAUTH_ERROR_TITLE"
+msgstr "YouTube Account Linking Error"
+
+msgid "YOUTUBE_OAUTH_ERROR_TRY_AGAIN"
+msgstr "Try Again"
+
+msgid "YOUTUBE_OAUTH_ERROR_UNSUPPORTED"
+msgstr "An unexpected error occurred while connecting your YouTube account."
+
+msgid "YOUTUBE_OAUTH_ERROR_UNSUPPORTED_DESC"
+msgstr "Please contact Sudomemo Support and include the technical details below so we can improve the connection process for future users."
+
 msgid "YOUTUBE_PENDING_UPLOAD"
 msgstr "Il tuo Flipnote è in attesa del caricamento. Ricontrolla tra qualche minuto."
 
