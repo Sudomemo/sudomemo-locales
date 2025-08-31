@@ -77,6 +77,9 @@ msgstr "You can find your Flipnote folder at %s"
 msgid "FOLDER_NOTE_DONT_WORRY"
 msgstr "Your Flipnotes are not uploaded or stored; they are loaded locally."
 
+msgid "FOLDER_NOTE_WIIMOTE_CANT_SELECT"
+msgstr "A mouse must be used to select your Flipnote folder due to browser permissions."
+
 msgid "FOLDER_SELECTOR"
 msgstr "Click or drag and drop a folder in here!"
 
@@ -183,7 +186,7 @@ msgid "SETTINGS_FLIPNOTE_VIEW_FLIPNOTE_3D"
 msgstr "View KWZs"
 
 msgid "SETTINGS_FLIPNOTE_VIEW_FLIPNOTE_3D_DESCRIPTION"
-msgstr "When enabled, Flipnote Studio 3D KWZs will show up in the file system. KWZs may not support certain functions that PPMs do such as Shift Details, Color Accessibility, or Searchability."
+msgstr "When enabled, Flipnote Studio 3D KWZs will show up in the file system. KWZs may not support certain functions that PPMs do such as Color Accessibility, or Searchability."
 
 msgid "SETTINGS_FLIPNOTE_VIEW_FLIPNOTE_3D_REFRESH"
 msgstr "A refresh must be done for this setting to take effect."
@@ -272,6 +275,12 @@ msgstr "Boost Flipnote Treble"
 msgid "SETTINGS_PLAYER_TREBLE_DESCRIPTION"
 msgstr "Boosts the volume of higher audio frequencies while playing Flipnotes."
 
+msgid "SETTINGS_SHUFFLE_BUTTON"
+msgstr "Shuffle Button"
+
+msgid "SETTINGS_SHUFFLE_BUTTON_DESCRIPTION"
+msgstr "If disabled, the shuffle button will be hidden and shuffle mode will not be available."
+
 msgid "SETTINGS_TITLE_ACCESSIBILITY"
 msgstr "Accessibility"
 
@@ -297,6 +306,15 @@ msgstr "Quick Settings"
 msgid "SETTINGS_TITLE_SETTINGS"
 msgstr "Settings"
 
+msgid "SETTINGS_USE_WIIMOTE"
+msgstr "Use a Wiimote"
+
+msgid "SETTINGS_USE_WIIMOTE_DESCRIPTION"
+msgstr "Use a Wiimote to interact with the organizer one-handed, as well as get feedback such rumble. For information about using Wiimotes, visit %s"
+
+msgid "SETTINGS_USE_WIIMOTE_DESCRIPTION_CALIBRATE"
+msgstr "To recalibrate IR, try not to tilt your Wiimote too much and press A when one of your IR dots is within the boxes in each corner."
+
 msgid "SETTINGS_VOLUME"
 msgstr "Sound Effects Volume"
 
@@ -309,8 +327,43 @@ msgstr "Play Whistle Sound when Sorting"
 msgid "SETTINGS_WHISTLE_SOUND_DESCRIPTION"
 msgstr "When enabled, a whistle sound will play when you begin organizing Flipnotes. If you are sensitive to high-pitched noises, it is generally recommended to turn this off."
 
+msgid "SETTINGS_WIIMOTE_IN_QUICK_SETTINGS"
+msgstr "Select Wiimote Button in Quick Settings"
+
+msgid "SETTINGS_WIIMOTE_IN_QUICK_SETTINGS_DESCRIPTION"
+msgstr "When enabled, a Select Wiimote button will be added to Quick Settings."
+
+msgid "SETTINGS_WIIMOTE_RUMBLE_FEEDBACK"
+msgstr "Wiimote Rumble"
+
+msgid "SETTINGS_WIIMOTE_RUMBLE_FEEDBACK_DESCRIPTION"
+msgstr "When enabled, the Wiimote will rumble when interacting with certain things."
+
+msgid "SETTINGS_WIIMOTE_VOLUME"
+msgstr "Wiimote Speaker Volume"
+
+# RVL-CNT-01-TR is the device name when viewed in bluetooth and should not be changed.
+msgid "SETTINGS_WIIMOTE_VOLUME_DESCRIPTION"
+msgstr "Adjust the volume of the Wiimote speaker. Only RVL-CNT-01-TR Wiimotes support usage of the speaker."
+
+msgid "SHUFFLE_SKIP"
+msgstr "Skip"
+
 msgid "SORT_CANCEL"
 msgstr "Cancel"
+
+msgid "SORT_CONTROLLER_WIIMOTE"
+msgstr "Wiimote"
+
+# These are for future proofing.
+msgid "SORT_CONTROLLER_WIIMOTE_AND_CLASSIC_CONTROLLER"
+msgstr "Wiimote + Classic Controller"
+
+msgid "SORT_CONTROLLER_WIIMOTE_AND_CLASSIC_CONTROLLER_PRO"
+msgstr "Wiimote + Classic Controller Pro"
+
+msgid "SORT_CONTROLLER_WIIMOTE_AND_NUNCHUK"
+msgstr "Wiimote + Nunchuk"
 
 msgid "SORT_FINISH"
 msgstr "Confirm"
@@ -323,6 +376,9 @@ msgstr "Select a Flipnote with the arrow keys, and drag and drop with the space 
 
 msgid "SORT_INSTRUCTIONS_CONTROLLER"
 msgstr "Select a Flipnote with the D-PAD, and drag and drop with the A or X (Playstation) button. Leaving this folder without hitting \"Confirm\" will discard your changes."
+
+msgid "SORT_INSTRUCTIONS_WIIMOTE"
+msgstr "Select a Flipnote by hovering your pointer over it, and drag by holding A + B. Leaving this folder without hitting \"Confirm\" will discard your changes."
 
 msgid "SORT_JOYL_CONTROLLER"
 msgstr "Left Joycon"
@@ -412,6 +468,15 @@ msgstr "Sure!"
 # Keep VIEW_ALL_FLIPNOTES under 10 characters.
 msgid "VIEW_ALL_FLIPNOTES"
 msgstr "View All"
+
+msgid "WIIMOTE_EXTENSION_NOTICE"
+msgstr "This extension controller cannot be used. Please remove it from the Wiimote."
+
+msgid "WIIMOTE_RECALIBRATE_IR"
+msgstr "Recalibrate IR"
+
+msgid "WIIMOTE_SELECT"
+msgstr "Select Wiimote"
 
 msgid "YES"
 msgstr "Yes"
