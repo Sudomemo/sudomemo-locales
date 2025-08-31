@@ -21,5 +21,8 @@ msgstr "yma"
 msgid "TEXT_HOW_TO_CHANGE_SETTINGS_DSI"
 msgstr "Gallwch eu diweddaru'n hawdd trwy ymweld ag Ystafell eich Creawdwr ar Sudomemo a dewis <strong>Gosodiadau Post</strong>."
 
+msgid "TEXT_TRANSACTIONAL_EMAIL_NOTICE"
+msgstr "This email concerns your account on Sudomemo."
+
 msgid "TEXT_WEB_SETTINGS_CHANGE_FORMAT"
 msgstr "Neu, gallwch ddiffodd y mathau hyn o negeseuon e-bost trwy glicio %s."

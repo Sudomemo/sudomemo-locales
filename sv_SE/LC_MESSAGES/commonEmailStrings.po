@@ -21,5 +21,8 @@ msgstr "här"
 msgid "TEXT_HOW_TO_CHANGE_SETTINGS_DSI"
 msgstr "Du kan enkelt uppdatera dem genom att besöka din Creators Room på Sudomemo och välja <strong>Mail Settings</ strong>."
 
+msgid "TEXT_TRANSACTIONAL_EMAIL_NOTICE"
+msgstr "This email concerns your account on Sudomemo."
+
 msgid "TEXT_WEB_SETTINGS_CHANGE_FORMAT"
 msgstr "Eller, du kan stänga av dessa typer av e-postmeddelanden genom att klicka på %s."
