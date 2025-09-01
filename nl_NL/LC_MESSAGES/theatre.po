@@ -369,6 +369,9 @@ msgstr "Confirmation Code"
 msgid "CONFIRMATION_CODE_REQUIRED"
 msgstr "A confirmation code is required."
 
+msgid "CONFIRM_DELETE_OVERLAY"
+msgstr "Are you sure you want to delete this overlay? This action cannot be undone."
+
 # Discord unlink confirmation dialog
 msgid "CONFIRM_DISCORD_UNLINK"
 msgstr "Are you sure you want to unlink your Discord account? This will remove the connection between your Discord and Sudomemo accounts."
@@ -469,6 +472,9 @@ msgstr "Sudomemo: Share your Flipnotes with the world! For Nintendo DSi and 3DS.
 msgid "DELETE"
 msgstr "Delete"
 
+msgid "DELETE_OVERLAY"
+msgstr "Delete overlay"
+
 msgid "DELETE_PLAYLIST"
 msgstr "Delete Playlist"
 
@@ -521,6 +527,9 @@ msgstr "Downloads"
 # Flipnote View Page
 msgid "EDIT_FLIPNOTE"
 msgstr "Bewerk Flipnote"
+
+msgid "EDIT_OVERLAY_NAME"
+msgstr "Edit overlay name"
 
 # # MusicMatch
 msgid "EDIT_PAGE_ABOUT_MUSICMATCH_1"
@@ -1147,6 +1156,9 @@ msgstr "Luister op YouTube Music"
 msgid "MUSIC_LABEL"
 msgstr "Label"
 
+msgid "MY_OVERLAY"
+msgstr "My Overlay"
+
 msgid "NAVBAR_ITEM_ADMIN"
 msgstr "Administrator"
 
@@ -1360,6 +1372,24 @@ msgstr "You can only set your own Flipnotes as your profile picture."
 
 msgid "ORIGINAL"
 msgstr "Original"
+
+msgid "OVERLAY_ACTION_FAILED"
+msgstr "Action failed. Please try again."
+
+msgid "OVERLAY_DELETED_SUCCESS"
+msgstr "Overlay deleted successfully"
+
+msgid "OVERLAY_NAME"
+msgstr "Overlay Name"
+
+msgid "OVERLAY_NAME_TOO_LONG"
+msgstr "Overlay name must be 30 characters or less"
+
+msgid "OVERLAY_NAME_TOO_SHORT"
+msgstr "Overlay name must be at least 1 character long"
+
+msgid "OVERLAY_RENAMED_SUCCESS"
+msgstr "Overlay renamed successfully"
 
 msgid "PARENT_FLIPNOTE"
 msgstr "Parent Flipnote"
@@ -1624,6 +1654,9 @@ msgstr "Remove"
 msgid "REMOVE_FROM_PLAYLIST"
 msgstr "Remove from Playlist"
 
+msgid "RENAME_OVERLAY"
+msgstr "Rename Overlay"
+
 msgid "REPLY"
 msgstr "Reply"
 
@@ -1653,6 +1686,9 @@ msgstr "Feel something off? Here's how to spot it"
 
 msgid "SAVE"
 msgstr "Opslaan"
+
+msgid "SAVE_NAME"
+msgstr "Save Name"
 
 msgid "SAVE_PLAYLIST"
 msgstr "Save Playlist"
