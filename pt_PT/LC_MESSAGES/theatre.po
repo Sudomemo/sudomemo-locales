@@ -359,6 +359,12 @@ msgstr "How does this Flipnote make you feel?"
 msgid "COMMENT_BOX_WRITE_HERE_5"
 msgstr "Write something thoughtful here"
 
+msgid "COMMENT_EDITOR_COLORFUL_BUTTON"
+msgstr "Be colorful!"
+
+msgid "COMMENT_EDITOR_EMOTE_BUTTON"
+msgstr "Emote!"
+
 msgid "COMMENT_FAILED_USER_BANNED"
 msgstr "Não podes inserir comentários porque foste banido(a)."
 
