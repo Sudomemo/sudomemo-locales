@@ -435,6 +435,9 @@ msgstr "Photo de profil actuelle"
 msgid "CUSTOM_FRAMES"
 msgstr "Cadres personnalisés"
 
+msgid "CUSTOM_FRAMES_PLUS_CTA"
+msgstr "Unlock custom frames and more with Sudomemo Plus!"
+
 # November 29th, 2019 08:23:07
 # Used for Flipnote Details
 msgid "DATETIME_MONTH_DAY_ORDINAL_HOUR_MINUTE_SECOND_FORMAT"
@@ -846,6 +849,9 @@ msgstr "Dézoomer"
 
 msgid "GENRE"
 msgstr "Genre"
+
+msgid "GET_SUDOMEMO_PLUS"
+msgstr "Get Sudomemo Plus"
 
 msgid "GET_SUPPORT"
 msgstr "Obtenir de l'aide"
@@ -1606,6 +1612,9 @@ msgstr "Replying to"
 
 msgid "REQUIRED"
 msgstr "Required"
+
+msgid "REQUIRES_SUDOMEMO_PLUS"
+msgstr "Requires Sudomemo Plus"
 
 msgid "RESET_PASSWORD_BY_FSID"
 msgstr "Vous pouvez toujours réinitialiser votre mot de passe avec votre ID Flipnote Studio ! Envoyez simplement un message rapide au support Sudomemo et nous vous l'enverrons."

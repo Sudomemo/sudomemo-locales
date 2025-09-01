@@ -436,6 +436,9 @@ msgstr "Current Profile Picture"
 msgid "CUSTOM_FRAMES"
 msgstr "Custom Frames"
 
+msgid "CUSTOM_FRAMES_PLUS_CTA"
+msgstr "Unlock custom frames and more with Sudomemo Plus!"
+
 # November 29th, 2019 08:23:07
 # Used for Flipnote Details
 # Now in Dutch:
@@ -859,6 +862,9 @@ msgstr "Zoom out"
 
 msgid "GENRE"
 msgstr "Genre"
+
+msgid "GET_SUDOMEMO_PLUS"
+msgstr "Get Sudomemo Plus"
 
 msgid "GET_SUPPORT"
 msgstr "Get Support"
@@ -1626,6 +1632,9 @@ msgstr "Replying to"
 
 msgid "REQUIRED"
 msgstr "Required"
+
+msgid "REQUIRES_SUDOMEMO_PLUS"
+msgstr "Requires Sudomemo Plus"
 
 msgid "RESET_PASSWORD_BY_FSID"
 msgstr "Je kan nog steeds een wachtwoord reset doen met je Flipnote Studio ID! Zend een berichtje naar Sudomemo Support en we sturen het naar je door."
