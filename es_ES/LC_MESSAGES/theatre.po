@@ -468,7 +468,7 @@ msgstr "Unlock custom frames and more with Sudomemo Plus!"
 # November 29th, 2019 08:23:07
 # Used for Flipnote Details
 msgid "DATETIME_MONTH_DAY_ORDINAL_HOUR_MINUTE_SECOND_FORMAT"
-msgstr "j \\de F \\de Y H:i:s"
+msgstr "j \\d\\e F \\d\\e Y H:i:s"
 
 # Date-time formats
 # You can adjust the way dates display to match your region better.
