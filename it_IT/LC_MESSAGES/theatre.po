@@ -63,11 +63,17 @@ msgstr "Add another account"
 msgid "ADD_ANOTHER_ACCOUNT_HELP"
 msgstr "Add another account to switch between them quickly."
 
+msgid "ADD_NEW_WEBHOOK"
+msgstr "Add New Webhook"
+
 msgid "ADD_TO_NEW_PLAYLIST"
 msgstr "Aggiungi a nuova Playlist"
 
 msgid "ADD_TO_PLAYLIST"
 msgstr "Aggiungi alla Playlist"
+
+msgid "ADD_WEBHOOK"
+msgstr "Add Webhook"
 
 msgid "ALREADY_ON_ACCOUNT"
 msgstr "Already on this account"
@@ -143,6 +149,9 @@ msgstr "Ritorna alle categorie"
 
 msgid "BACK_TO_MAIL"
 msgstr "Ritorna a mail"
+
+msgid "BACK_TO_SETTINGS"
+msgstr "Back to Settings"
 
 msgid "BATCH_EDIT_DESCRIPTION_PLACEHOLDER"
 msgstr "Descrizione"
@@ -377,6 +386,9 @@ msgstr "È richiesto un codice di conferma."
 msgid "CONFIRM_DELETE_OVERLAY"
 msgstr "Are you sure you want to delete this overlay? This action cannot be undone."
 
+msgid "CONFIRM_DELETE_WEBHOOK"
+msgstr "Are you sure you want to delete this webhook? This action cannot be undone."
+
 # Discord unlink confirmation dialog
 msgid "CONFIRM_DISCORD_UNLINK"
 msgstr "Sei sicuro di voler scollegare il tuo account Discord? Questo rimuoverà il collegamento tra il tuo account Discord e il tuo account Sudomemo."
@@ -397,6 +409,12 @@ msgstr "Imposta come immagine del profilo"
 # Confirmation Messages
 msgid "CONFIRM_REMOVE_ACCOUNT"
 msgstr "Are you sure you want to remove this account?"
+
+msgid "CONFIRM_REMOVE_QUEUE_ITEM"
+msgstr "Are you sure you want to remove this item from the queue?"
+
+msgid "CONFIRM_TOGGLE_WEBHOOK"
+msgstr "Are you sure you want to change the status of this webhook?"
 
 msgid "CONTENT_POLICY"
 msgstr "Policy sul Contenuto"
@@ -495,6 +513,12 @@ msgstr "Qui ci sarà la tua descrizione."
 msgid "DETAILS"
 msgstr "Dettagli"
 
+msgid "DISABLE"
+msgstr "Disable"
+
+msgid "DISABLED"
+msgstr "Disabled"
+
 # This refers to Discord, which is a chat app.
 msgid "DISCORD"
 msgstr "Discord"
@@ -514,11 +538,38 @@ msgstr "Puoi scollegare il tuo account Discord dal tuo account Sudomemo usando i
 msgid "DISCORD_UNLINK_SUCCESS"
 msgstr "Account Discord scollegato con successo!"
 
+msgid "DISCORD_WEBHOOKS"
+msgstr "Discord Webhooks"
+
+msgid "DISCORD_WEBHOOKS_DESCRIPTION"
+msgstr "Discord webhooks allow you to automatically send notifications to Discord channels when you post new Flipnotes. This is a Sudomemo Plus exclusive feature!"
+
+msgid "DISCORD_WEBHOOKS_PLUS_REQUIRED_DESC"
+msgstr "You'll need Sudomemo Plus to send upload notifications to Discord."
+
+msgid "DISCORD_WEBHOOKS_PLUS_REQUIRED_TITLE"
+msgstr "Sudomemo Plus Required"
+
+msgid "DISCORD_WEBHOOKS_SETTINGS"
+msgstr "Discord Webhook Settings"
+
+msgid "DISCORD_WEBHOOKS_SETTINGS_DESCRIPTION"
+msgstr "Set up Discord webhooks to get notified when you post new Flipnotes!"
+
+msgid "DISCORD_WEBHOOK_TEST_MESSAGE"
+msgstr "Discord webhook test - your webhook is working correctly!"
+
+msgid "DISCORD_WEBHOOK_URL"
+msgstr "Discord Webhook URL"
+
 msgid "DOWNLOAD"
 msgstr "Download"
 
 msgid "DOWNLOADS"
 msgstr "Download"
+
+msgid "EDIT"
+msgstr "Edit"
 
 # Flipnote View Page
 msgid "EDIT_FLIPNOTE"
@@ -617,11 +668,23 @@ msgstr "Sembra che il tuo Flipnote abbia bisogno di un titolo!"
 msgid "EMPTY_TITLE_ALERT_2"
 msgstr "Procedi ora ad aggiungerne uno."
 
+msgid "ENABLE"
+msgstr "Enable"
+
+msgid "ENABLED"
+msgstr "Enabled"
+
 msgid "ENTER_CODE_FROM_EMAIL"
 msgstr "Enter code from email"
 
 msgid "ENTER_SIX_DIGIT_CODE"
 msgstr "Enter 6-digit code"
+
+msgid "ERROR"
+msgstr "Error"
+
+msgid "ERROR_OCCURRED"
+msgstr "An error occurred. Please try again."
 
 msgid "ERROR_OCCURRED_TRY_AGAIN"
 msgstr "Si è verificato un errore. Per favore, riprova."
@@ -668,14 +731,29 @@ msgstr "Warning: Sharing the Flipnote's .ppm file for the purpose of collaborati
 msgid "FAILED_TO_ADD_ACCOUNT"
 msgstr "Failed to add account"
 
+msgid "FAILED_TO_ADD_WEBHOOK_LIMIT"
+msgstr "Failed to add webhook. You may have reached the maximum limit of 5 webhooks."
+
+msgid "FAILED_TO_DELETE_WEBHOOK"
+msgstr "Failed to delete webhook."
+
 msgid "FAILED_TO_LOAD_ACCOUNTS"
 msgstr "Failed to load accounts"
 
 msgid "FAILED_TO_REMOVE_ACCOUNT"
 msgstr "Failed to remove account"
 
+msgid "FAILED_TO_REMOVE_QUEUE_ITEM"
+msgstr "Failed to remove queue item."
+
+msgid "FAILED_TO_SEND"
+msgstr "Failed to Send"
+
 msgid "FAILED_TO_SWITCH_ACCOUNT"
 msgstr "Failed to switch accounts"
+
+msgid "FAILED_TO_UPDATE_WEBHOOK"
+msgstr "Failed to update webhook."
 
 msgid "FANS"
 msgstr "Fan"
@@ -865,6 +943,9 @@ msgstr "Riduci"
 msgid "GENRE"
 msgstr "Genere"
 
+msgid "GET_PLUS"
+msgstr "Get Plus"
+
 msgid "GET_SUDOMEMO_PLUS"
 msgstr "Get Sudomemo Plus"
 
@@ -1020,11 +1101,23 @@ msgstr "Contenuto del messaggio non valido o mancante."
 msgid "INVALID_OR_MISSING_MESSAGE_ID"
 msgstr "ID messaggio non valido o mancante."
 
+msgid "INVALID_QUEUE_ITEM_ID"
+msgstr "Invalid queue item ID."
+
 msgid "INVALID_REQUEST"
 msgstr "Richiesta non valida."
 
 msgid "INVALID_SESSION"
 msgstr "Sessione non valida. Per favore, accedi di nuovo."
+
+msgid "INVALID_WEBHOOK_DATA"
+msgstr "Invalid webhook data."
+
+msgid "INVALID_WEBHOOK_ID"
+msgstr "Invalid webhook ID."
+
+msgid "INVALID_WEBHOOK_URL_FORMAT"
+msgstr "Invalid Discord webhook URL format."
 
 msgid "IN_REPLY_TO"
 msgstr "In Reply To"
@@ -1086,11 +1179,17 @@ msgstr "You are about to log out of your main account. This will remove all addi
 msgid "MAIL_READER_TITLE"
 msgstr "Messaggio"
 
+msgid "MANAGE_DISCORD_WEBHOOKS"
+msgstr "Manage Discord Webhooks"
+
 msgid "MANAGE_PLAYLIST"
 msgstr "Gestisci Playlist"
 
 msgid "MAX_ACCOUNTS_REACHED"
 msgstr "Maximum number of accounts reached"
+
+msgid "MAX_WEBHOOKS_REACHED"
+msgstr "You have reached the maximum limit of %d webhooks per user."
 
 msgid "MERCH"
 msgstr "Merchandise"
@@ -1110,11 +1209,20 @@ msgstr "Puoi eliminare solo i tuoi messaggi."
 msgid "MESSAGE_POSTED_SUCCESSFULLY"
 msgstr "Messaggio postato con successo."
 
+msgid "MESSAGE_TEMPLATE"
+msgstr "Message Template"
+
+msgid "MESSAGE_TEMPLATE_HELP"
+msgstr "Use {flipnote_url}, {username}, and {title} as placeholders"
+
 msgid "MESSAGE_TOO_LONG"
 msgstr "Il tuo messaggio è troppo lungo."
 
 msgid "METHOD_NOT_ALLOWED"
 msgstr "Metodo non consentito."
+
+msgid "MISSING_REQUIRED_FIELDS"
+msgstr "Missing required fields."
 
 msgid "MODERATOR"
 msgstr "Moderatore"
@@ -1221,6 +1329,9 @@ msgstr "Attiva/Disattiva navigazione"
 msgid "NEEDS_A_TITLE"
 msgstr "Ha bisogno di un titolo"
 
+msgid "NEEDS_SUDOMEMO_PLUS"
+msgstr "Needs Sudomemo Plus"
+
 msgid "NEWEST"
 msgstr "Più recente"
 
@@ -1318,6 +1429,9 @@ msgstr "No additional accounts added yet."
 msgid "NO_CATEGORIES_AVAILABLE"
 msgstr "Nessuna categoria è attualmente disponibile."
 
+msgid "NO_CHANGES_MADE"
+msgstr "No changes made"
+
 msgid "NO_CHANNELS_FOUND"
 msgstr "Nessun canale trovato"
 
@@ -1349,8 +1463,17 @@ msgstr "Nessun dato sulla classifica disponibile"
 msgid "NO_RECENT_ACTIVITY"
 msgstr "Nessuna attività recente"
 
+msgid "NO_TITLE"
+msgstr "No Title"
+
+msgid "NO_UPDATES_PROVIDED"
+msgstr "No updates provided."
+
 msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
 msgstr "Nessun utente trovato con questo ID Flipnote Studio o indirizzo email"
+
+msgid "NO_WEBHOOKS_YET"
+msgstr "You haven't set up any Discord webhooks yet."
 
 msgid "ONLY_APPLIES_FOR_YOUTUBE_SHORTS"
 msgstr "Si applica solo agli YouTube Shorts"
@@ -1486,6 +1609,12 @@ msgstr "Per favore, rallenta"
 msgid "PLEASE_UPLOAD_VALID_IMAGE_FILE"
 msgstr "Per favore, carica un'immagine valida (solo PNG)."
 
+msgid "PLUS"
+msgstr "Plus"
+
+msgid "PLUS_FEATURE"
+msgstr "Plus Feature"
+
 msgid "PLUS_LEARN_MORE"
 msgstr "Scopri di più..."
 
@@ -1577,6 +1706,12 @@ msgstr "Attiva notifiche"
 msgid "PUSH_NOTIFICATIONS_TITLE"
 msgstr "Notifiche push"
 
+msgid "QUEUED_FOR_SENDING"
+msgstr "Queued for Sending"
+
+msgid "QUEUE_ITEM_REMOVED_SUCCESSFULLY"
+msgstr "Queue item removed successfully!"
+
 msgid "RANDOM"
 msgstr "Casuali"
 
@@ -1633,6 +1768,9 @@ msgstr "Sconosciuta"
 # Referring to a release date/publishing date
 msgid "RELEASED"
 msgstr "Pubblicato"
+
+msgid "REMOVE"
+msgstr "Remove"
 
 msgid "REMOVE_ACCOUNT"
 msgstr "Remove"
@@ -1721,6 +1859,9 @@ msgstr "Vedi altro"
 msgid "SEND_VERIFICATION_EMAIL"
 msgstr "Invia email di verifica"
 
+msgid "SENT_SUCCESSFULLY"
+msgstr "Sent Successfully"
+
 msgid "SETTINGS"
 msgstr "Impostazioni"
 
@@ -1774,6 +1915,9 @@ msgstr "Disconnettiti"
 
 msgid "SIGN_UP"
 msgstr "Registrati"
+
+msgid "SKIPPED"
+msgstr "Skipped"
 
 msgid "SLIGHT_DECLINE"
 msgstr "Calo leggero"
@@ -1844,6 +1988,9 @@ msgstr "Switch to another account:"
 msgid "TERMS_OF_USE"
 msgstr "Termini di utilizzo"
 
+msgid "TEST"
+msgstr "Test"
+
 msgid "THIS_FLIPNOTE_IS_SPINOFF_OF"
 msgstr "Questo Flipnote è uno spin-off di"
 
@@ -1897,6 +2044,9 @@ msgstr "Flipnote senza titolo di %s"
 
 msgid "UNTITLED_PLAYLIST"
 msgstr "Playlist senza titolo"
+
+msgid "UPDATED"
+msgstr "Updated"
 
 msgid "UPLOAD_CONTACT_DISCORD_OR_EMAIL_FORMAT"
 msgstr "Per favore, contattaci su Discord o via email a %s."
@@ -2044,6 +2194,9 @@ msgstr "Impostazioni Visibilità"
 msgid "VISIBILITY_UNLISTED"
 msgstr "Non in elenco"
 
+msgid "WAITING_FOR_TITLE_AND_DESCRIPTION"
+msgstr "Waiting for Title and Description"
+
 msgid "WARNING"
 msgstr "Warning"
 
@@ -2052,6 +2205,51 @@ msgstr "Storia di quello che hai guardato"
 
 msgid "WATCH_NEXT"
 msgstr "Guarda il prossimo"
+
+msgid "WEBHOOK_ADDED_SUCCESSFULLY"
+msgstr "Discord webhook added successfully!"
+
+msgid "WEBHOOK_CONNECTION_FAILED"
+msgstr "Failed to connect to Discord webhook. Please check the URL and try again."
+
+msgid "WEBHOOK_DELETED_SUCCESSFULLY"
+msgstr "Webhook deleted successfully!"
+
+msgid "WEBHOOK_DISABLED"
+msgstr "Webhook Disabled"
+
+msgid "WEBHOOK_FEATURE_1"
+msgstr "Automatically notify Discord channels when you post Flipnotes"
+
+msgid "WEBHOOK_FEATURE_2"
+msgstr "Customize the message sent to Discord"
+
+msgid "WEBHOOK_FEATURE_3"
+msgstr "Only works for Flipnotes with both title and description"
+
+msgid "WEBHOOK_NAME"
+msgstr "Webhook Name"
+
+msgid "WEBHOOK_NAME_HELP"
+msgstr "A friendly name to identify this webhook"
+
+msgid "WEBHOOK_QUEUE"
+msgstr "Webhook Queue"
+
+msgid "WEBHOOK_QUEUE_DESCRIPTION"
+msgstr "These are your pending Discord webhook notifications."
+
+msgid "WEBHOOK_TEST_SUCCESSFUL"
+msgstr "Webhook test successful!"
+
+msgid "WEBHOOK_UPDATED_SUCCESSFULLY"
+msgstr "Webhook updated successfully!"
+
+msgid "WEBHOOK_URL_HELP"
+msgstr "Get this from your Discord server: Server Settings → Integrations → Webhooks"
+
+msgid "WEBHOOK_URL_REQUIRED"
+msgstr "Webhook URL is required."
 
 msgid "WEEKLY_TOPIC_WINNER"
 msgstr "Vincitore del topic settimanale"
@@ -2103,6 +2301,9 @@ msgstr "Sudomemo è un portale dove le persone possono condividere animazioni - 
 msgid "WELCOME_BOX_YOU_ARE_ADMIN"
 msgstr "Hai eseguito l'accesso come Amministratore."
 
+msgid "WHAT_ARE_DISCORD_WEBHOOKS"
+msgstr "What are Discord Webhooks?"
+
 msgid "X_IN_HOT_FLIPNOTES"
 msgstr "#%d in Flipnote di tendenza"
 
@@ -2114,6 +2315,9 @@ msgstr "#%s in Popolari"
 
 msgid "X_USERS"
 msgstr "%d user(s)"
+
+msgid "YOUR_DISCORD_WEBHOOKS"
+msgstr "Your Discord Webhooks"
 
 msgid "YOUTUBE"
 msgstr "YouTube"

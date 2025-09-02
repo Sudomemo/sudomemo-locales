@@ -63,11 +63,17 @@ msgstr "Add another account"
 msgid "ADD_ANOTHER_ACCOUNT_HELP"
 msgstr "Add another account to switch between them quickly."
 
+msgid "ADD_NEW_WEBHOOK"
+msgstr "Add New Webhook"
+
 msgid "ADD_TO_NEW_PLAYLIST"
 msgstr "Lägg till i ny spellista"
 
 msgid "ADD_TO_PLAYLIST"
 msgstr "Lägg till i spellista"
+
+msgid "ADD_WEBHOOK"
+msgstr "Add Webhook"
 
 msgid "ALREADY_ON_ACCOUNT"
 msgstr "Already on this account"
@@ -143,6 +149,9 @@ msgstr "Tillbaka till kategorier"
 
 msgid "BACK_TO_MAIL"
 msgstr "Tillbaka till mail"
+
+msgid "BACK_TO_SETTINGS"
+msgstr "Back to Settings"
 
 msgid "BATCH_EDIT_DESCRIPTION_PLACEHOLDER"
 msgstr "Beskrivning"
@@ -377,6 +386,9 @@ msgstr "En konfirmationskod krävs."
 msgid "CONFIRM_DELETE_OVERLAY"
 msgstr "Are you sure you want to delete this overlay? This action cannot be undone."
 
+msgid "CONFIRM_DELETE_WEBHOOK"
+msgstr "Are you sure you want to delete this webhook? This action cannot be undone."
+
 # Discord unlink confirmation dialog
 msgid "CONFIRM_DISCORD_UNLINK"
 msgstr "Är du säker att du vill avlänka ditt Discord konto? Detta tar bort kopplingen mellan ditt Discord och Sudomemo konto."
@@ -397,6 +409,12 @@ msgstr "Sätt som Profilbild"
 # Confirmation Messages
 msgid "CONFIRM_REMOVE_ACCOUNT"
 msgstr "Are you sure you want to remove this account?"
+
+msgid "CONFIRM_REMOVE_QUEUE_ITEM"
+msgstr "Are you sure you want to remove this item from the queue?"
+
+msgid "CONFIRM_TOGGLE_WEBHOOK"
+msgstr "Are you sure you want to change the status of this webhook?"
 
 msgid "CONTENT_POLICY"
 msgstr "Content Policy"
@@ -495,6 +513,12 @@ msgstr "Din beskrivning syns här."
 msgid "DETAILS"
 msgstr "Detaljer"
 
+msgid "DISABLE"
+msgstr "Disable"
+
+msgid "DISABLED"
+msgstr "Disabled"
+
 # This refers to Discord, which is a chat app.
 msgid "DISCORD"
 msgstr "Discord"
@@ -514,11 +538,38 @@ msgstr "Du kan avlänka ditt Discord konto från ditt Sudomemo konto med knappen
 msgid "DISCORD_UNLINK_SUCCESS"
 msgstr "Discord konto avlänkat!"
 
+msgid "DISCORD_WEBHOOKS"
+msgstr "Discord Webhooks"
+
+msgid "DISCORD_WEBHOOKS_DESCRIPTION"
+msgstr "Discord webhooks allow you to automatically send notifications to Discord channels when you post new Flipnotes. This is a Sudomemo Plus exclusive feature!"
+
+msgid "DISCORD_WEBHOOKS_PLUS_REQUIRED_DESC"
+msgstr "You'll need Sudomemo Plus to send upload notifications to Discord."
+
+msgid "DISCORD_WEBHOOKS_PLUS_REQUIRED_TITLE"
+msgstr "Sudomemo Plus Required"
+
+msgid "DISCORD_WEBHOOKS_SETTINGS"
+msgstr "Discord Webhook Settings"
+
+msgid "DISCORD_WEBHOOKS_SETTINGS_DESCRIPTION"
+msgstr "Set up Discord webhooks to get notified when you post new Flipnotes!"
+
+msgid "DISCORD_WEBHOOK_TEST_MESSAGE"
+msgstr "Discord webhook test - your webhook is working correctly!"
+
+msgid "DISCORD_WEBHOOK_URL"
+msgstr "Discord Webhook URL"
+
 msgid "DOWNLOAD"
 msgstr "Download"
 
 msgid "DOWNLOADS"
 msgstr "Nedladdningar"
+
+msgid "EDIT"
+msgstr "Edit"
 
 # Flipnote View Page
 msgid "EDIT_FLIPNOTE"
@@ -617,11 +668,23 @@ msgstr "Set ut som din Flipnote behöver en titel!"
 msgid "EMPTY_TITLE_ALERT_2"
 msgstr "Lägg gärna till en nu."
 
+msgid "ENABLE"
+msgstr "Enable"
+
+msgid "ENABLED"
+msgstr "Enabled"
+
 msgid "ENTER_CODE_FROM_EMAIL"
 msgstr "Enter code from email"
 
 msgid "ENTER_SIX_DIGIT_CODE"
 msgstr "Enter 6-digit code"
+
+msgid "ERROR"
+msgstr "Error"
+
+msgid "ERROR_OCCURRED"
+msgstr "An error occurred. Please try again."
 
 msgid "ERROR_OCCURRED_TRY_AGAIN"
 msgstr "Ett fel uppstod. Snälla försök igen."
@@ -668,14 +731,29 @@ msgstr "Warning: Sharing the Flipnote's .ppm file for the purpose of collaborati
 msgid "FAILED_TO_ADD_ACCOUNT"
 msgstr "Failed to add account"
 
+msgid "FAILED_TO_ADD_WEBHOOK_LIMIT"
+msgstr "Failed to add webhook. You may have reached the maximum limit of 5 webhooks."
+
+msgid "FAILED_TO_DELETE_WEBHOOK"
+msgstr "Failed to delete webhook."
+
 msgid "FAILED_TO_LOAD_ACCOUNTS"
 msgstr "Failed to load accounts"
 
 msgid "FAILED_TO_REMOVE_ACCOUNT"
 msgstr "Failed to remove account"
 
+msgid "FAILED_TO_REMOVE_QUEUE_ITEM"
+msgstr "Failed to remove queue item."
+
+msgid "FAILED_TO_SEND"
+msgstr "Failed to Send"
+
 msgid "FAILED_TO_SWITCH_ACCOUNT"
 msgstr "Failed to switch accounts"
+
+msgid "FAILED_TO_UPDATE_WEBHOOK"
+msgstr "Failed to update webhook."
 
 msgid "FANS"
 msgstr "Fans"
@@ -865,6 +943,9 @@ msgstr "Zooma out"
 msgid "GENRE"
 msgstr "Genre"
 
+msgid "GET_PLUS"
+msgstr "Get Plus"
+
 msgid "GET_SUDOMEMO_PLUS"
 msgstr "Get Sudomemo Plus"
 
@@ -1020,11 +1101,23 @@ msgstr "Ogiltig eller saknande meddelandeinnehåll."
 msgid "INVALID_OR_MISSING_MESSAGE_ID"
 msgstr "Ogiltig eller saknande meddelande-ID."
 
+msgid "INVALID_QUEUE_ITEM_ID"
+msgstr "Invalid queue item ID."
+
 msgid "INVALID_REQUEST"
 msgstr "Ogiltig förfrågan."
 
 msgid "INVALID_SESSION"
 msgstr "ogiltig session. Vänligen logga in igen."
+
+msgid "INVALID_WEBHOOK_DATA"
+msgstr "Invalid webhook data."
+
+msgid "INVALID_WEBHOOK_ID"
+msgstr "Invalid webhook ID."
+
+msgid "INVALID_WEBHOOK_URL_FORMAT"
+msgstr "Invalid Discord webhook URL format."
 
 msgid "IN_REPLY_TO"
 msgstr "Som svar till"
@@ -1086,11 +1179,17 @@ msgstr "You are about to log out of your main account. This will remove all addi
 msgid "MAIL_READER_TITLE"
 msgstr "Meddelande"
 
+msgid "MANAGE_DISCORD_WEBHOOKS"
+msgstr "Manage Discord Webhooks"
+
 msgid "MANAGE_PLAYLIST"
 msgstr "Hantera spellistor"
 
 msgid "MAX_ACCOUNTS_REACHED"
 msgstr "Maximum number of accounts reached"
+
+msgid "MAX_WEBHOOKS_REACHED"
+msgstr "You have reached the maximum limit of %d webhooks per user."
 
 msgid "MERCH"
 msgstr "Merch"
@@ -1110,11 +1209,20 @@ msgstr "Du kan endast radera dina egna meddelanden."
 msgid "MESSAGE_POSTED_SUCCESSFULLY"
 msgstr "Meddelandet har laddats upp."
 
+msgid "MESSAGE_TEMPLATE"
+msgstr "Message Template"
+
+msgid "MESSAGE_TEMPLATE_HELP"
+msgstr "Use {flipnote_url}, {username}, and {title} as placeholders"
+
 msgid "MESSAGE_TOO_LONG"
 msgstr "Ditt meddelande är för långt."
 
 msgid "METHOD_NOT_ALLOWED"
 msgstr "Metoden är ej tillåten."
+
+msgid "MISSING_REQUIRED_FIELDS"
+msgstr "Missing required fields."
 
 msgid "MODERATOR"
 msgstr "Moderator"
@@ -1221,6 +1329,9 @@ msgstr "Växla navigering"
 msgid "NEEDS_A_TITLE"
 msgstr "Needs a title"
 
+msgid "NEEDS_SUDOMEMO_PLUS"
+msgstr "Needs Sudomemo Plus"
+
 msgid "NEWEST"
 msgstr "Newest"
 
@@ -1318,6 +1429,9 @@ msgstr "No additional accounts added yet."
 msgid "NO_CATEGORIES_AVAILABLE"
 msgstr "Inga tillgängliga kategorier."
 
+msgid "NO_CHANGES_MADE"
+msgstr "No changes made"
+
 msgid "NO_CHANNELS_FOUND"
 msgstr "Inga kanaler hittades"
 
@@ -1349,8 +1463,17 @@ msgstr "Ingen rankings data tillgänglig"
 msgid "NO_RECENT_ACTIVITY"
 msgstr "Ingen nylig aktivitet"
 
+msgid "NO_TITLE"
+msgstr "No Title"
+
+msgid "NO_UPDATES_PROVIDED"
+msgstr "No updates provided."
+
 msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
 msgstr "Ingen användare med den Flipnote Studio ID eller emailen hittades"
+
+msgid "NO_WEBHOOKS_YET"
+msgstr "You haven't set up any Discord webhooks yet."
 
 msgid "ONLY_APPLIES_FOR_YOUTUBE_SHORTS"
 msgstr "Gäller endast för YouTube Shorts"
@@ -1486,6 +1609,12 @@ msgstr "Vänligen sakta ner"
 msgid "PLEASE_UPLOAD_VALID_IMAGE_FILE"
 msgstr "Vänligen ladda upp en bildfil (endast PNG tillåten)."
 
+msgid "PLUS"
+msgstr "Plus"
+
+msgid "PLUS_FEATURE"
+msgstr "Plus Feature"
+
 msgid "PLUS_LEARN_MORE"
 msgstr "Lär dig mer..."
 
@@ -1577,6 +1706,12 @@ msgstr "Aktivera notiser"
 msgid "PUSH_NOTIFICATIONS_TITLE"
 msgstr "Notiser"
 
+msgid "QUEUED_FOR_SENDING"
+msgstr "Queued for Sending"
+
+msgid "QUEUE_ITEM_REMOVED_SUCCESSFULLY"
+msgstr "Queue item removed successfully!"
+
 msgid "RANDOM"
 msgstr "Slumpmässig"
 
@@ -1633,6 +1768,9 @@ msgstr "Okänd"
 # Referring to a release date/publishing date
 msgid "RELEASED"
 msgstr "Släppt"
+
+msgid "REMOVE"
+msgstr "Remove"
 
 msgid "REMOVE_ACCOUNT"
 msgstr "Remove"
@@ -1721,6 +1859,9 @@ msgstr "se mer"
 msgid "SEND_VERIFICATION_EMAIL"
 msgstr "Skicka Verifikations Email"
 
+msgid "SENT_SUCCESSFULLY"
+msgstr "Sent Successfully"
+
 msgid "SETTINGS"
 msgstr "Inställningar"
 
@@ -1774,6 +1915,9 @@ msgstr "Logga ut"
 
 msgid "SIGN_UP"
 msgstr "Bli medlem"
+
+msgid "SKIPPED"
+msgstr "Skipped"
 
 msgid "SLIGHT_DECLINE"
 msgstr "Smått nedgående"
@@ -1844,6 +1988,9 @@ msgstr "Switch to another account:"
 msgid "TERMS_OF_USE"
 msgstr "Villkor"
 
+msgid "TEST"
+msgstr "Test"
+
 msgid "THIS_FLIPNOTE_IS_SPINOFF_OF"
 msgstr "Denna flipnote är en spinoff av"
 
@@ -1897,6 +2044,9 @@ msgstr "Odöpt Flipnote av %s"
 
 msgid "UNTITLED_PLAYLIST"
 msgstr "Odöpt spellista"
+
+msgid "UPDATED"
+msgstr "Updated"
 
 msgid "UPLOAD_CONTACT_DISCORD_OR_EMAIL_FORMAT"
 msgstr "Snälla kontakta oss via email eller discord för att %s."
@@ -2044,6 +2194,9 @@ msgstr "Synlighets Inställningar"
 msgid "VISIBILITY_UNLISTED"
 msgstr "Olistad"
 
+msgid "WAITING_FOR_TITLE_AND_DESCRIPTION"
+msgstr "Waiting for Title and Description"
+
 msgid "WARNING"
 msgstr "Warning"
 
@@ -2052,6 +2205,51 @@ msgstr "Tittarhistorik"
 
 msgid "WATCH_NEXT"
 msgstr "Kolla nästa"
+
+msgid "WEBHOOK_ADDED_SUCCESSFULLY"
+msgstr "Discord webhook added successfully!"
+
+msgid "WEBHOOK_CONNECTION_FAILED"
+msgstr "Failed to connect to Discord webhook. Please check the URL and try again."
+
+msgid "WEBHOOK_DELETED_SUCCESSFULLY"
+msgstr "Webhook deleted successfully!"
+
+msgid "WEBHOOK_DISABLED"
+msgstr "Webhook Disabled"
+
+msgid "WEBHOOK_FEATURE_1"
+msgstr "Automatically notify Discord channels when you post Flipnotes"
+
+msgid "WEBHOOK_FEATURE_2"
+msgstr "Customize the message sent to Discord"
+
+msgid "WEBHOOK_FEATURE_3"
+msgstr "Only works for Flipnotes with both title and description"
+
+msgid "WEBHOOK_NAME"
+msgstr "Webhook Name"
+
+msgid "WEBHOOK_NAME_HELP"
+msgstr "A friendly name to identify this webhook"
+
+msgid "WEBHOOK_QUEUE"
+msgstr "Webhook Queue"
+
+msgid "WEBHOOK_QUEUE_DESCRIPTION"
+msgstr "These are your pending Discord webhook notifications."
+
+msgid "WEBHOOK_TEST_SUCCESSFUL"
+msgstr "Webhook test successful!"
+
+msgid "WEBHOOK_UPDATED_SUCCESSFULLY"
+msgstr "Webhook updated successfully!"
+
+msgid "WEBHOOK_URL_HELP"
+msgstr "Get this from your Discord server: Server Settings → Integrations → Webhooks"
+
+msgid "WEBHOOK_URL_REQUIRED"
+msgstr "Webhook URL is required."
 
 msgid "WEEKLY_TOPIC_WINNER"
 msgstr "Veckotemats vinnare"
@@ -2103,6 +2301,9 @@ msgstr "Sudomemo är en animationsajt där folk kan dela Flipnoteanimationer - k
 msgid "WELCOME_BOX_YOU_ARE_ADMIN"
 msgstr "Du är inloggad som en Administrator."
 
+msgid "WHAT_ARE_DISCORD_WEBHOOKS"
+msgstr "What are Discord Webhooks?"
+
 msgid "X_IN_HOT_FLIPNOTES"
 msgstr "#%d i heta Flipnotes"
 
@@ -2114,6 +2315,9 @@ msgstr "#%s i populära Flipnotes"
 
 msgid "X_USERS"
 msgstr "%d användare"
+
+msgid "YOUR_DISCORD_WEBHOOKS"
+msgstr "Your Discord Webhooks"
 
 msgid "YOUTUBE"
 msgstr "YouTube"
