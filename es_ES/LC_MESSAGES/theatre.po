@@ -847,6 +847,9 @@ msgstr "Seguir de vuelta"
 msgid "FORGOT_YOUR_PASSWORD"
 msgstr "¿Olvidó su contraseña?"
 
+msgid "FROM_FOLLOWED_USERS"
+msgstr "From your favorites"
+
 # # Right sidebar
 msgid "FRONTPAGE_FLIPNOTE_SPOTLIGHT"
 msgstr "Flipnotes Destacadas"
@@ -1338,6 +1341,9 @@ msgstr "Más nuevo"
 msgid "NEWS"
 msgstr "Noticias"
 
+msgid "NEW_ARRIVALS"
+msgstr "New Arrivals"
+
 msgid "NEW_EMAIL"
 msgstr "New Email Address"
 
@@ -1593,6 +1599,9 @@ msgstr "No listada"
 
 msgid "PLAYLIST_VISIBILITY"
 msgstr "Visibilidad"
+
+msgid "PLAYS"
+msgstr "Plays"
 
 msgid "PLEASE_ENTER_BOTH"
 msgstr "Please enter both"

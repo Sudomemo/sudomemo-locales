@@ -847,6 +847,9 @@ msgstr "お気に入りに登録"
 msgid "FORGOT_YOUR_PASSWORD"
 msgstr "パスワードを忘れましたか？"
 
+msgid "FROM_FOLLOWED_USERS"
+msgstr "From your favorites"
+
 # # Right sidebar
 msgid "FRONTPAGE_FLIPNOTE_SPOTLIGHT"
 msgstr "注目作品"
@@ -1338,6 +1341,9 @@ msgstr "Newest"
 msgid "NEWS"
 msgstr "ニュース"
 
+msgid "NEW_ARRIVALS"
+msgstr "New Arrivals"
+
 msgid "NEW_EMAIL"
 msgstr "New Email Address"
 
@@ -1593,6 +1599,9 @@ msgstr "Unlisted"
 
 msgid "PLAYLIST_VISIBILITY"
 msgstr "Visibility"
+
+msgid "PLAYS"
+msgstr "Plays"
 
 msgid "PLEASE_ENTER_BOTH"
 msgstr "Please enter both"

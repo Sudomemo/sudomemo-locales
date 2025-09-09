@@ -857,6 +857,9 @@ msgstr "Volg Terug"
 msgid "FORGOT_YOUR_PASSWORD"
 msgstr "Wachtwoord vergeten?"
 
+msgid "FROM_FOLLOWED_USERS"
+msgstr "From your favorites"
+
 # # Right sidebar
 # This is a hard one, as the only translation possible for this will be the same as "Featured Flipnotes". Luckily, over the last couple of years, English is used more and more in combination with Dutch, so leaving this in English will be the best way to clarify what exactly is meant.
 # I agree with this, and it looks more like a name for something rather than just a word.
@@ -1355,6 +1358,9 @@ msgstr "Newest"
 msgid "NEWS"
 msgstr "Nieuws"
 
+msgid "NEW_ARRIVALS"
+msgstr "New Arrivals"
+
 msgid "NEW_EMAIL"
 msgstr "New Email Address"
 
@@ -1611,6 +1617,9 @@ msgstr "Unlisted"
 
 msgid "PLAYLIST_VISIBILITY"
 msgstr "Visibility"
+
+msgid "PLAYS"
+msgstr "Plays"
 
 msgid "PLEASE_ENTER_BOTH"
 msgstr "Please enter both"

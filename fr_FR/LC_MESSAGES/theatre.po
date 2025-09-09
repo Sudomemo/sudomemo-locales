@@ -847,6 +847,9 @@ msgstr "Suivre en retour"
 msgid "FORGOT_YOUR_PASSWORD"
 msgstr "Mot de passe oublié ?"
 
+msgid "FROM_FOLLOWED_USERS"
+msgstr "From your favorites"
+
 # # Right sidebar
 msgid "FRONTPAGE_FLIPNOTE_SPOTLIGHT"
 msgstr "Flipnote en lumière"
@@ -1338,6 +1341,9 @@ msgstr "Nouveau"
 msgid "NEWS"
 msgstr "Infos"
 
+msgid "NEW_ARRIVALS"
+msgstr "New Arrivals"
+
 msgid "NEW_EMAIL"
 msgstr "Nouvelle adresse e-mail"
 
@@ -1593,6 +1599,9 @@ msgstr "Non repértoriée"
 
 msgid "PLAYLIST_VISIBILITY"
 msgstr "Visibilitée"
+
+msgid "PLAYS"
+msgstr "Plays"
 
 msgid "PLEASE_ENTER_BOTH"
 msgstr "Please enter both"

@@ -847,6 +847,9 @@ msgstr "Följ tillbaka"
 msgid "FORGOT_YOUR_PASSWORD"
 msgstr "Forgot your password?"
 
+msgid "FROM_FOLLOWED_USERS"
+msgstr "From your favorites"
+
 # # Right sidebar
 msgid "FRONTPAGE_FLIPNOTE_SPOTLIGHT"
 msgstr "Flipnote Spotlight"
@@ -1338,6 +1341,9 @@ msgstr "Newest"
 msgid "NEWS"
 msgstr "Nyheter"
 
+msgid "NEW_ARRIVALS"
+msgstr "New Arrivals"
+
 msgid "NEW_EMAIL"
 msgstr "Ny Email Adress"
 
@@ -1593,6 +1599,9 @@ msgstr "Olistad"
 
 msgid "PLAYLIST_VISIBILITY"
 msgstr "Synlighet"
+
+msgid "PLAYS"
+msgstr "Plays"
 
 msgid "PLEASE_ENTER_BOTH"
 msgstr "Please enter both"
