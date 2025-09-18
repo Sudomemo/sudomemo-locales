@@ -3,6 +3,9 @@ msgstr ""
 "Language: pl_PL\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "ACKNOWLEDGE_FAILED"
+msgstr "Failed to acknowledge the mute. Please try again."
+
 msgid "AGE_GATE_AGE_REQUIREMENT"
 msgstr "Sudomemo is meant to be used by people 13 years and up."
 
@@ -90,6 +93,41 @@ msgstr "Witaj w Sudomemo! Zaloguj sie by kontynuowac."
 
 msgid "CREATORS_ROOM_SHIM_WELCOME"
 msgstr "Witaj!"
+
+msgid "DATABASE_ERROR"
+msgstr "A database error occurred."
+
+msgid "DS_ACKNOWLEDGE_BUTTON"
+msgstr "Acknowledge"
+
+msgid "DS_ACKNOWLEDGE_LINK"
+msgstr "Acknowledge Mute"
+
+msgid "DS_ACKNOWLEDGE_SUCCESS_BODY"
+msgstr "You have successfully acknowledged the mute. You may now continue using Sudomemo."
+
+msgid "DS_ACKNOWLEDGE_SUCCESS_TITLE"
+msgstr "Mute Acknowledged"
+
+msgid "DS_CONTINUE_TO_SUDOMEMO"
+msgstr "Continue to Sudomemo"
+
+msgid "DS_MUTE_ACKNOWLEDGE_BODY"
+msgstr "You must acknowledge this mute before you can continue using Sudomemo."
+
+# DS Sanction Display
+msgid "DS_MUTE_ACKNOWLEDGE_REQUIRED"
+msgstr "You must acknowledge this restriction before it can be lifted."
+
+# DS Acknowledgment Interface
+msgid "DS_MUTE_ACKNOWLEDGE_TITLE"
+msgstr "Mute Acknowledgment Required"
+
+msgid "DS_MUTE_CAN_BE_LIFTED_AFTER"
+msgstr "This restriction can be lifted after"
+
+msgid "DS_SANCTION_REASON"
+msgstr "Reason"
 
 msgid "EMAIL_ADDITION_DETAILS"
 msgstr "Jezeli kiedykolwiek zapomnisz swojego hasla, wyslemy ci link do jego zresetowania na twój adres e-mail."
@@ -191,6 +229,10 @@ msgstr "Logowanie nie powiodlo sie. Zamknij i otwórz ponownie Flipnote Studio."
 msgid "LOGIN_FORM_PREFILL_PASSWORD"
 msgstr "Wpisz haslo"
 
+# DS Error Messages
+msgid "LOGIN_REQUIRED"
+msgstr "You must be logged in to access this page."
+
 msgid "LOGIN_SETUP"
 msgstr "Ustawienia logowania"
 
@@ -265,6 +307,9 @@ msgstr "Witaj w Sudomemo! Na poczatek, napiszmy mala wiadomosc aby sie przedstaw
 
 msgid "THANK_YOU_FOR_UPDATING_EMAIL"
 msgstr "Dziekujemy za zaktualizowanie e-maila!"
+
+msgid "USER_NOT_FOUND"
+msgstr "User not found."
 
 msgid "VERIFICATION_EXPIRED_TEXT"
 msgstr "Ten link weryfikacji wygasl lub zostal juz uzyty."

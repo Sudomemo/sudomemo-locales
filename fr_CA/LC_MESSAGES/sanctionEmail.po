@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Language: fr_CA\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "EMAIL_ACKNOWLEDGE_LINK_TEXT"
+msgstr "Acknowledge Now"
+
+msgid "EMAIL_ACKNOWLEDGE_SECTION_BODY"
+msgstr "Please click the link below to acknowledge this mute and continue using Sudomemo."
+
+msgid "EMAIL_ACKNOWLEDGE_SECTION_HEADER"
+msgstr "Acknowledge Restriction"
+
+msgid "EMAIL_ACTION_REQUIRED_LABEL"
+msgstr "Action Required"
+
+msgid "EMAIL_APPEAL_LINK_TEXT"
+msgstr "Submit an Appeal"
+
+msgid "EMAIL_APPEAL_SECTION_BODY_MUTE"
+msgstr "If you believe this mute was applied in error, you may submit an appeal."
+
+msgid "EMAIL_APPEAL_SECTION_BODY_RESTRICTION"
+msgstr "If you believe this restriction was applied in error, you may submit an appeal."
+
+msgid "EMAIL_APPEAL_SECTION_HEADER"
+msgstr "Appeal"
+
+msgid "EMAIL_FOOTER_AUTOMATED"
+msgstr "This is an automated message, please do not reply."
+
+msgid "EMAIL_FOOTER_SUPPORT_MUTE"
+msgstr "If you need further assistance regarding this mute, please contact our support team."
+
+msgid "EMAIL_FOOTER_SUPPORT_RESTRICTION"
+msgstr "If you need further assistance regarding this restriction, please contact our support team."
+
+msgid "EMAIL_GREETING"
+msgstr "Hello %s"
+
+msgid "EMAIL_MUTE_ACKNOWLEDGE_REQUIRED"
+msgstr "You must acknowledge this mute before continuing."
+
+msgid "EMAIL_MUTE_NOTICE_BODY"
+msgstr "Your Sudomemo account has been muted. You can still log in and view content, but you cannot post comments or interact with other users."
+
+msgid "EMAIL_MUTE_NOTICE_TITLE"
+msgstr "Notice"
+
+msgid "EMAIL_MUTE_RESTRICTIONS_HEADER"
+msgstr "Restrictions"
+
+msgid "EMAIL_MUTE_RESTRICTION_CHAT"
+msgstr "You cannot send chat messages."
+
+msgid "EMAIL_MUTE_RESTRICTION_COMMENT"
+msgstr "You cannot post comments."
+
+msgid "EMAIL_MUTE_RESTRICTION_OTHER"
+msgstr "Other interactions are disabled."
+
+msgid "EMAIL_MUTE_RESTRICTION_REPLY"
+msgstr "You cannot reply to other comments."
+
+msgid "EMAIL_RESTRICTION_NOTICE_BODY"
+msgstr "You have been restricted from interacting with Sudomemo. This means you cannot log in or interact with Sudomemo."
+
+msgid "EMAIL_RESTRICTION_NOTICE_TITLE"
+msgstr "Notice"
+
+msgid "EMAIL_SANCTION_APPLIED_LABEL"
+msgstr "Applied on"
+
+msgid "EMAIL_SANCTION_DETAILS_HEADER"
+msgstr "Details"
+
+msgid "EMAIL_SANCTION_DURATION_INDEFINITE"
+msgstr "Indefinite"
+
+msgid "EMAIL_SANCTION_DURATION_LABEL"
+msgstr "Duration"
+
+msgid "EMAIL_SANCTION_REASON_LABEL"
+msgstr "Reason"
+
+msgid "EMAIL_SANCTION_UNTIL_LABEL"
+msgstr "Until"
