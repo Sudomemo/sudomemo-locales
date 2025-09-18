@@ -114,6 +114,15 @@ msgstr "U gotta log in to getta code silly."
 msgid "OR"
 msgstr "OR"
 
+msgid "PI_GIFT_ANONYMOUS"
+msgstr "Sent anonymously"
+
+msgid "PI_GIFT_FROM"
+msgstr "Gift from %s"
+
+msgid "PI_GIFT_NO_MESSAGE"
+msgstr "(No message included)"
+
 # Code Redemption
 msgid "REDEEM_CODE"
 msgstr "Getta Code"
