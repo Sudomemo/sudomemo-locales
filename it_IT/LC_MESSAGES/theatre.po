@@ -2260,6 +2260,52 @@ msgstr "Get this from your Discord server: Server Settings → Integrations → 
 msgid "WEBHOOK_URL_REQUIRED"
 msgstr "Webhook URL is required."
 
+msgid "WEB_ACKNOWLEDGE_BUTTON_TEXT"
+msgstr "I acknowledge this message"
+
+msgid "WEB_ACKNOWLEDGE_DURATION_INDEFINITE"
+msgstr "This restriction is indefinite."
+
+msgid "WEB_ACKNOWLEDGE_DURATION_LABEL"
+msgstr "Duration"
+
+msgid "WEB_ACKNOWLEDGE_DURATION_UNTIL"
+msgstr "This restriction will be lifted on %s."
+
+msgid "WEB_ACKNOWLEDGE_PAGE_HEADER"
+msgstr "Notice"
+
+# Web acknowledgment page strings
+msgid "WEB_ACKNOWLEDGE_PAGE_TITLE"
+msgstr "Notice"
+
+msgid "WEB_ACKNOWLEDGE_REASON_LABEL"
+msgstr "Reason"
+
+msgid "WEB_ACKNOWLEDGE_REQUIRED_MESSAGE"
+msgstr "You must acknowledge this message before the restriction can be lifted."
+
+msgid "WEB_ACKNOWLEDGE_RESTRICTED_MESSAGE"
+msgstr "You have been restricted from commenting on Sudomemo."
+
+msgid "WEB_ACKNOWLEDGE_RESTRICTIONS_INTRO"
+msgstr "During this restriction, you will not be able to:"
+
+msgid "WEB_ACKNOWLEDGE_RESTRICTION_CHAT"
+msgstr "Send chat messages"
+
+msgid "WEB_ACKNOWLEDGE_RESTRICTION_COMMENT"
+msgstr "Comment on Flipnotes"
+
+msgid "WEB_ACKNOWLEDGE_RESTRICTION_NOTICE"
+msgstr "Restriction Notice"
+
+msgid "WEB_ACKNOWLEDGE_RESTRICTION_OTHER"
+msgstr "Participate in other community interactions"
+
+msgid "WEB_ACKNOWLEDGE_RESTRICTION_REPLY"
+msgstr "Reply to comments"
+
 msgid "WEEKLY_TOPIC_WINNER"
 msgstr "Vincitore del topic settimanale"
 
