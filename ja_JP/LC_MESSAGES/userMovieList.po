@@ -10,19 +10,19 @@ msgid "FLIPNOTES_BY_FORMAT"
 msgstr "%sさんが投稿した作品"
 
 msgid "LEAST_VIEWED"
-msgstr "Least Viewed"
+msgstr "閲覧数が少ない順"
 
 msgid "MOST_RECENT"
-msgstr "Recent"
+msgstr "新しい順"
 
 msgid "MOST_VIEWED"
-msgstr "Most Viewed"
+msgstr "閲覧数が多い順"
 
 msgid "NEXT"
 msgstr "次へ"
 
 msgid "OLDEST"
-msgstr "Oldest"
+msgstr "古い順"
 
 msgid "PAGE"
 msgstr "ページ"
