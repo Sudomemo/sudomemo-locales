@@ -67,10 +67,10 @@ msgid "ADD_NEW_WEBHOOK"
 msgstr "Add New Webhook"
 
 msgid "ADD_TO_NEW_PLAYLIST"
-msgstr "Add to new Playlist"
+msgstr "新規プレイリストに追加"
 
 msgid "ADD_TO_PLAYLIST"
-msgstr "Add to Playlist"
+msgstr "プレイリスト追加"
 
 msgid "ADD_WEBHOOK"
 msgstr "Add Webhook"
@@ -240,13 +240,13 @@ msgid "BY"
 msgstr "by"
 
 msgid "CANCEL"
-msgstr "Cancel"
+msgstr "キャンセル"
 
 msgid "CANCEL_PROFILE_PICTURE_CHANGE"
-msgstr "Cancel"
+msgstr "キャンセル"
 
 msgid "CANCEL_REPLY"
-msgstr "Cancel"
+msgstr "キャンセル"
 
 msgid "CANNOT_ADD_CURRENT_ACCOUNT"
 msgstr "Cannot add current account"
@@ -273,7 +273,7 @@ msgid "CATEGORY_INDEX_CHANNEL_INFO"
 msgstr "Browse themed collections of Flipnotes — and join the fun by posting yours to a channel!"
 
 msgid "CHANGE_PROFILE_PICTURE"
-msgstr "Change Profile Picture"
+msgstr "プロフィール画像を変更"
 
 msgid "CHANNEL"
 msgstr "チャンネル"
@@ -282,7 +282,7 @@ msgid "CHANNELS"
 msgstr "チャンネル"
 
 msgid "CHANNELS_BY_CATEGORY"
-msgstr "Channels by category"
+msgstr "カテゴリごとのチャンネル"
 
 msgid "CHANNEL_CAT_NAME_ART"
 msgstr "アート"
@@ -320,10 +320,10 @@ msgid "CHANNEL_PERM_OPEN"
 msgstr "公開"
 
 msgid "CHANNEL_RANKING"
-msgstr "Channel Ranking"
+msgstr "チャンネルランキング"
 
 msgid "CHANNEL_RANKING_SIDEBAR"
-msgstr "Channel Ranking"
+msgstr "チャンネルランキング"
 
 msgid "CHANNEL_WATCHING_NOW"
 msgstr "Currently watching %s"
@@ -952,6 +952,9 @@ msgstr "Zoom out"
 msgid "GENRE"
 msgstr "ジャンル"
 
+msgid "GET_HELP"
+msgstr "サポート"
+
 msgid "GET_PLUS"
 msgstr "Get Plus"
 
@@ -1336,10 +1339,10 @@ msgid "NAVBAR_TOGGLE_NAVIGATION"
 msgstr "ナビゲーションの切り替え"
 
 msgid "NEEDS_A_TITLE"
-msgstr "Needs a title"
+msgstr "タイトルが必要です"
 
 msgid "NEEDS_SUDOMEMO_PLUS"
-msgstr "Needs Sudomemo Plus"
+msgstr "スドメモプラスが必要です"
 
 msgid "NEWEST"
 msgstr "Newest"
@@ -1348,7 +1351,7 @@ msgid "NEWS"
 msgstr "ニュース"
 
 msgid "NEW_ARRIVALS"
-msgstr "New Arrivals"
+msgstr "新着作品"
 
 msgid "NEW_EMAIL"
 msgstr "New Email Address"
@@ -1592,22 +1595,22 @@ msgid "PLAYLIST_NO_FLIPNOTES"
 msgstr "There have been no Flipnotes added to this playlist yet."
 
 msgid "PLAYLIST_PRIVATE"
-msgstr "Private"
+msgstr "非公開"
 
 msgid "PLAYLIST_PUBLIC"
-msgstr "Public"
+msgstr "公開"
 
 msgid "PLAYLIST_UNKNOWN"
-msgstr "Unknown"
+msgstr "不明"
 
 msgid "PLAYLIST_UNLISTED"
-msgstr "Unlisted"
+msgstr "限定公開"
 
 msgid "PLAYLIST_VISIBILITY"
-msgstr "Visibility"
+msgstr "公開範囲"
 
 msgid "PLAYS"
-msgstr "Plays"
+msgstr "再生回数"
 
 msgid "PLEASE_ENTER_BOTH"
 msgstr "Please enter both"
@@ -1625,16 +1628,16 @@ msgid "PLEASE_UPLOAD_VALID_IMAGE_FILE"
 msgstr "Please upload a valid image file (PNG only)."
 
 msgid "PLUS"
-msgstr "Plus"
+msgstr "プラス"
 
 msgid "PLUS_FEATURE"
-msgstr "Plus Feature"
+msgstr "プラス機能"
 
 msgid "PLUS_LEARN_MORE"
 msgstr "詳しくはこちら"
 
 msgid "PLUS_REQUIRED_TO_POST_CHAT_MESSAGE"
-msgstr "Sudomemo Plus is required to post a chat message."
+msgstr "チャットメッセージを投稿するにはスドメモプラスが必要です。"
 
 msgid "POPULAR"
 msgstr "人気順"
@@ -1647,7 +1650,7 @@ msgid "PREV"
 msgstr "前へ"
 
 msgid "PREVIOUS"
-msgstr "Previous"
+msgstr "前へ"
 
 msgid "PRIVACY_POLICY"
 msgstr "個人情報保護方針"
@@ -1740,10 +1743,10 @@ msgid "RANKING_DATA_DESCRIPTION"
 msgstr "Channel rankings are based on how much representation each channel has in the Flipnote Rankings. Check back later as more content becomes popular!"
 
 msgid "RANK_IMPROVED"
-msgstr "Rank Improved"
+msgstr "ランクアップ"
 
 msgid "RANK_UNCHANGED"
-msgstr "Rank Unchanged"
+msgstr "変化なし"
 
 msgid "RATELIMIT_EXCEEDED"
 msgstr "You have exceeded the rate limit for sending messages."
@@ -1755,13 +1758,13 @@ msgid "RECENT"
 msgstr "新着順"
 
 msgid "RECENTLY_VIEWED_CHANNELS"
-msgstr "Recently viewed channels"
+msgstr "最近見たチャンネル"
 
 msgid "RECENT_FLIPNOTES"
 msgstr "新着作品"
 
 msgid "RECOMMENDED_FLIPNOTES"
-msgstr "Recommended Flipnotes"
+msgstr "おすすめの作品"
 
 msgid "REGION"
 msgstr "地域"
@@ -1785,43 +1788,43 @@ msgid "RELEASED"
 msgstr "新着順"
 
 msgid "REMOVE"
-msgstr "Remove"
+msgstr "削除"
 
 msgid "REMOVE_ACCOUNT"
-msgstr "Remove"
+msgstr "アカウントを削除"
 
 msgid "REMOVE_FROM_PLAYLIST"
-msgstr "Remove from Playlist"
+msgstr "プレイリストから削除"
 
 msgid "RENAME_OVERLAY"
 msgstr "Rename Overlay"
 
 msgid "REPLY"
-msgstr "Reply"
+msgstr "返信"
 
 msgid "REPLYING_TO"
-msgstr "Replying to"
+msgstr "返信中:"
 
 msgid "REQUIRED"
-msgstr "Required"
+msgstr "必須"
 
 msgid "REQUIRES_SUDOMEMO_PLUS"
-msgstr "Requires Sudomemo Plus"
+msgstr "スドメモプラスが必要です"
 
 msgid "RESET_PASSWORD_BY_FSID"
 msgstr "You can still reset your password with your Flipnote Studio ID! Simply send a quick message to Sudomemo Support and we'll get that sent out to you."
 
 msgid "RESOURCES"
-msgstr "Resources"
+msgstr "リソース"
 
 msgid "RETURN_TO_FLIPNOTE_EDIT"
-msgstr "Return to Flipnote"
+msgstr "作品に戻る"
 
 msgid "ROOT_FLIPNOTE"
-msgstr "Root Flipnote"
+msgstr "元の作品"
 
 msgid "SAFE_COMMS_ANCHOR_1"
-msgstr "Feel something off? Here's how to spot it"
+msgstr "違和感を感じた？ 見分ける方法はこちら"
 
 msgid "SAVE"
 msgstr "保存"
@@ -1920,7 +1923,7 @@ msgid "SHOW_YOUTUBE_LINK_ON_MY_PROFILE"
 msgstr "スドメモのプロフィールにYouTubeチャンネルへのリンクを表示"
 
 msgid "SIGNIFICANT_DECLINE"
-msgstr "Significant Decline"
+msgstr "ランクダウン（大）"
 
 msgid "SIGN_IN"
 msgstr "ログイン"
@@ -1935,7 +1938,7 @@ msgid "SKIPPED"
 msgstr "Skipped"
 
 msgid "SLIGHT_DECLINE"
-msgstr "Slight Decline"
+msgstr "ランクダウン（小）"
 
 # For MusicMatch
 msgid "SONG"
@@ -2213,13 +2216,13 @@ msgid "WAITING_FOR_TITLE_AND_DESCRIPTION"
 msgstr "Waiting for Title and Description"
 
 msgid "WARNING"
-msgstr "Warning"
+msgstr "警告"
 
 msgid "WATCH_HISTORY"
 msgstr "閲覧履歴"
 
 msgid "WATCH_NEXT"
-msgstr "Watch Next"
+msgstr "次に見る"
 
 msgid "WEBHOOK_ADDED_SUCCESSFULLY"
 msgstr "Discord webhook added successfully!"
