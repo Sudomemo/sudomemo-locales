@@ -4,10 +4,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "WARNING_NOTICE_BODY"
-msgstr "You have an important message from the Sudomemo staff team."
+msgstr "スドメモ運営チームからの大切なお知らせがあります。"
 
 msgid "WARNING_NOTICE_TITLE"
-msgstr "Attention!"
+msgstr "ご注意！"
 
 msgid "WARNING_NOTICE_VIEW_BUTTON"
-msgstr "Tap here to view"
+msgstr "こちらをタップして表示"

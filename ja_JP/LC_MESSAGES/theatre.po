@@ -329,25 +329,25 @@ msgid "CHANNEL_WATCHING_NOW"
 msgstr "Currently watching %s"
 
 msgid "CHAT"
-msgstr "Chat"
+msgstr "チャット"
 
 msgid "CHATROOM_ACCESS_DENIED"
-msgstr "You do not have access to this chatroom."
+msgstr "このルームにアクセスすることはできません。"
 
 msgid "CHATROOM_DISABLED"
-msgstr "This chatroom is disabled."
+msgstr "このルームは無効になっています。"
 
 msgid "CHATROOM_NOT_FOUND"
-msgstr "Chatroom not found."
+msgstr "ルームが見つかりません。"
 
 msgid "CHATROOM_UNAVAILABLE"
-msgstr "This chatroom is currently unavailable."
+msgstr "このルームは現在利用できません。"
 
 msgid "CHAT_DELETE_FAILED"
-msgstr "Failed to delete the chat message."
+msgstr "チャットメッセージの削除に失敗しました。"
 
 msgid "CHAT_REPLY_FAILED"
-msgstr "Failed to reply to the chat."
+msgstr "チャットへの返信に失敗しました。"
 
 # This used to say "Chronological", but it has since been simplified to just "Oldest".
 msgid "CHRONOLOGICAL"
@@ -360,34 +360,34 @@ msgid "COMMENTS"
 msgstr "コメント"
 
 msgid "COMMENT_BOX_WRITE_HERE_1"
-msgstr "Write something nice here"
+msgstr "ここに優しい言葉を書いてね"
 
 msgid "COMMENT_BOX_WRITE_HERE_2"
-msgstr "What did you like about this?"
+msgstr "この作品のどこが気に入りましたか？"
 
 msgid "COMMENT_BOX_WRITE_HERE_3"
-msgstr "What do you think?"
+msgstr "どう思いますか？"
 
 msgid "COMMENT_BOX_WRITE_HERE_4"
-msgstr "How does this Flipnote make you feel?"
+msgstr "この作品を見てどんな気持ちになりましたか？"
 
 msgid "COMMENT_BOX_WRITE_HERE_5"
-msgstr "Write something thoughtful here"
+msgstr "ここに思いやりのある言葉を書いてね"
 
 msgid "COMMENT_EDITOR_COLORFUL_BUTTON"
-msgstr "Be colorful!"
+msgstr "色つけよう！"
 
 msgid "COMMENT_EDITOR_EMOTE_BUTTON"
-msgstr "Emote!"
+msgstr "絵文字！"
 
 msgid "COMMENT_FAILED_USER_BANNED"
 msgstr "You cannot post messages because you are banned."
 
 msgid "CONFIRMATION_CODE"
-msgstr "Confirmation Code"
+msgstr "確認コード"
 
 msgid "CONFIRMATION_CODE_REQUIRED"
-msgstr "A confirmation code is required."
+msgstr "確認コードが必要です。"
 
 msgid "CONFIRM_DELETE_OVERLAY"
 msgstr "Are you sure you want to delete this overlay? This action cannot be undone."

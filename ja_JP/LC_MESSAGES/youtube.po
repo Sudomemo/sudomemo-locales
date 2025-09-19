@@ -115,10 +115,10 @@ msgid "YOUTUBE_ACCOUNT_VERIFICATION_PROMPT"
 msgstr "YouTubeのアカウントが未確認の状態です。サムネイルの設定や15分を超える作品など、確認が必要な機能はご利用になれません。"
 
 msgid "YOUTUBE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
-msgstr "Please contact us on Discord or via email to %s."
+msgstr "Discordでご連絡いただくか、メール（%s）までご連絡ください。"
 
 msgid "YOUTUBE_DS_PLAYLISTS_CHANGE_HINT"
-msgstr "To change default playlists, visit: https://flipnot.es/ytsetup"
+msgstr "デフォルトの再生リストを変更するには、こちらへアクセスしてください: https://flipnot.es/ytsetup"
 
 # DS upload page messages
 msgid "YOUTUBE_DS_PLAYLISTS_HEADING"
