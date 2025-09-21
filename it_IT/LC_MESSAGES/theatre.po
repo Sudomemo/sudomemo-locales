@@ -462,6 +462,9 @@ msgstr "Currently signed in as:"
 msgid "CURRENT_EMAIL"
 msgstr "Email Attuale"
 
+msgid "CURRENT_LANGUAGE"
+msgstr "Current Language"
+
 msgid "CURRENT_PROFILE_PICTURE"
 msgstr "Immagine del profilo attuale"
 
@@ -757,6 +760,9 @@ msgstr "Failed to Send"
 
 msgid "FAILED_TO_SWITCH_ACCOUNT"
 msgstr "Failed to switch accounts"
+
+msgid "FAILED_TO_UPDATE_LOCALE"
+msgstr "Failed to update language preference."
 
 msgid "FAILED_TO_UPDATE_WEBHOOK"
 msgstr "Failed to update webhook."
@@ -1101,6 +1107,9 @@ msgstr "Invalid credentials"
 msgid "INVALID_EMAIL_FORMAT"
 msgstr "Per favore, inserisci un indirizzo email valido."
 
+msgid "INVALID_LOCALE"
+msgstr "Sorry, but that language is not available."
+
 msgid "INVALID_OR_MISSING_CHATROOMID"
 msgstr "ID chatroom non valido o mancante."
 
@@ -1133,6 +1142,9 @@ msgstr "Invalid Discord webhook URL format."
 
 msgid "IN_REPLY_TO"
 msgstr "In Reply To"
+
+msgid "LANGUAGE_UPDATED_FORMAT"
+msgstr "Your language has been updated to %s."
 
 msgid "LATEST"
 msgstr "Recenti"
@@ -1435,6 +1447,9 @@ msgstr "Non abbastanza dati disponibili"
 msgid "NOT_FOLLOWING_ANYONE_YET"
 msgstr "%s non sta ancora seguendo nessuno."
 
+msgid "NOT_LOGGED_IN"
+msgstr "You must log in before changing your language."
+
 msgid "NO_ACTIVE_CHANNELS"
 msgstr "Nessun canale attivo"
 
@@ -1468,6 +1483,9 @@ msgstr "Nessun indirizzo email su file -- contatta il Supporto Sudomemo"
 # No followers message
 msgid "NO_FOLLOWERS_YET"
 msgstr "%s non ha ancora nessun follower."
+
+msgid "NO_LOCALE_SPECIFIED"
+msgstr "No language was specified."
 
 msgid "NO_NOTIFICATIONS"
 msgstr "No notifications"
@@ -2115,6 +2133,9 @@ msgstr "Puoi modificare la password del tuo account Sudomemo qui:"
 
 msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
 msgstr "Dopo esserti unito al Discord di Sudomemo, copia e incolla questo nella chat."
+
+msgid "USER_SETTINGS_LANGUAGE_EXPLANATION"
+msgstr "Choose your preferred language for Sudomemo"
 
 msgid "USER_SETTINGS_SUPPORT_TOKEN_EXPLANATION"
 msgstr "I token di supporto vengono utilizzati per verificare il tuo account quando contatti il ​​supporto di Sudomemo."

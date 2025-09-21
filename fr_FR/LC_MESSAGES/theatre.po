@@ -462,6 +462,9 @@ msgstr "Currently signed in as:"
 msgid "CURRENT_EMAIL"
 msgstr "E-mail actuel"
 
+msgid "CURRENT_LANGUAGE"
+msgstr "Current Language"
+
 msgid "CURRENT_PROFILE_PICTURE"
 msgstr "Photo de profil actuelle"
 
@@ -757,6 +760,9 @@ msgstr "Failed to Send"
 
 msgid "FAILED_TO_SWITCH_ACCOUNT"
 msgstr "Failed to switch accounts"
+
+msgid "FAILED_TO_UPDATE_LOCALE"
+msgstr "Failed to update language preference."
 
 msgid "FAILED_TO_UPDATE_WEBHOOK"
 msgstr "Failed to update webhook."
@@ -1101,6 +1107,9 @@ msgstr "Invalid credentials"
 msgid "INVALID_EMAIL_FORMAT"
 msgstr "Veuillez saisir une adresse e-mail valide."
 
+msgid "INVALID_LOCALE"
+msgstr "Sorry, but that language is not available."
+
 msgid "INVALID_OR_MISSING_CHATROOMID"
 msgstr "ID de salon de discussion invalide ou manquant."
 
@@ -1133,6 +1142,9 @@ msgstr "Invalid Discord webhook URL format."
 
 msgid "IN_REPLY_TO"
 msgstr "In Reply To"
+
+msgid "LANGUAGE_UPDATED_FORMAT"
+msgstr "Your language has been updated to %s."
 
 msgid "LATEST"
 msgstr "Nouveau"
@@ -1435,6 +1447,9 @@ msgstr "Pas assez de données disponibles"
 msgid "NOT_FOLLOWING_ANYONE_YET"
 msgstr "%s ne suit encore personne."
 
+msgid "NOT_LOGGED_IN"
+msgstr "You must log in before changing your language."
+
 msgid "NO_ACTIVE_CHANNELS"
 msgstr "Aucune chaîne active"
 
@@ -1468,6 +1483,9 @@ msgstr "Pas d'adresse email enregistrée -- contactez le support de Sudomemo"
 # No followers message
 msgid "NO_FOLLOWERS_YET"
 msgstr "%s n'a pas encore d'abonné"
+
+msgid "NO_LOCALE_SPECIFIED"
+msgstr "No language was specified."
 
 msgid "NO_NOTIFICATIONS"
 msgstr "No notifications"
@@ -2115,6 +2133,9 @@ msgstr "Vous pouvez modifier le mot de passe de votre compte Sudomemo ici :"
 
 msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
 msgstr "Après avoir rejoint le Discord de Sudomemo, copiez-collez ceci dans le salon de discussion."
+
+msgid "USER_SETTINGS_LANGUAGE_EXPLANATION"
+msgstr "Choose your preferred language for Sudomemo"
 
 msgid "USER_SETTINGS_SUPPORT_TOKEN_EXPLANATION"
 msgstr "Les jetons de support servent à vérifier votre compte lorsque vous contactez le support Sudomemo."
