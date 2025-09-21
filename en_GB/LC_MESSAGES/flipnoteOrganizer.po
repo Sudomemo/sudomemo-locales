@@ -339,6 +339,12 @@ msgstr "Wiimote Rumble"
 msgid "SETTINGS_WIIMOTE_RUMBLE_FEEDBACK_DESCRIPTION"
 msgstr "When enabled, the Wiimote will rumble when interacting with certain things."
 
+msgid "SETTINGS_WIIMOTE_SOUND_THROUGH_DEVICE_OUTPUT"
+msgstr "Play Sounds Through TV When Wiimote Speaker is Muted"
+
+msgid "SETTINGS_WIIMOTE_SOUND_THROUGH_DEVICE_OUTPUT_DESCRIPTION"
+msgstr "When enabled, any sounds meant to be played from the Wiimote speaker will be played through your device's audio output if the Wiimote speaker is muted or cannot be used such as with RVL-CNT-01 Wiimotes."
+
 msgid "SETTINGS_WIIMOTE_VOLUME"
 msgstr "Wiimote Speaker Volume"
 

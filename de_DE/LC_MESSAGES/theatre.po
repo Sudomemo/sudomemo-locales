@@ -462,6 +462,9 @@ msgstr "Currently signed in as:"
 msgid "CURRENT_EMAIL"
 msgstr "Current Email"
 
+msgid "CURRENT_LANGUAGE"
+msgstr "Current Language"
+
 msgid "CURRENT_PROFILE_PICTURE"
 msgstr "Current Profile Picture"
 
@@ -757,6 +760,9 @@ msgstr "Failed to Send"
 
 msgid "FAILED_TO_SWITCH_ACCOUNT"
 msgstr "Failed to switch accounts"
+
+msgid "FAILED_TO_UPDATE_LOCALE"
+msgstr "Failed to update language preference."
 
 msgid "FAILED_TO_UPDATE_WEBHOOK"
 msgstr "Failed to update webhook."
@@ -1101,6 +1107,9 @@ msgstr "Invalid credentials"
 msgid "INVALID_EMAIL_FORMAT"
 msgstr "Please enter a valid email address."
 
+msgid "INVALID_LOCALE"
+msgstr "Sorry, but that language is not available."
+
 msgid "INVALID_OR_MISSING_CHATROOMID"
 msgstr "Invalid or missing chatroom ID."
 
@@ -1133,6 +1142,9 @@ msgstr "Invalid Discord webhook URL format."
 
 msgid "IN_REPLY_TO"
 msgstr "In Reply To"
+
+msgid "LANGUAGE_UPDATED_FORMAT"
+msgstr "Your language has been updated to %s."
 
 msgid "LATEST"
 msgstr "Neueste"
@@ -1435,6 +1447,9 @@ msgstr "Not enough data available"
 msgid "NOT_FOLLOWING_ANYONE_YET"
 msgstr "%s isn't following anyone yet."
 
+msgid "NOT_LOGGED_IN"
+msgstr "You must log in before changing your language."
+
 msgid "NO_ACTIVE_CHANNELS"
 msgstr "No active channels"
 
@@ -1468,6 +1483,9 @@ msgstr "Keine Email-Adresse registriert -- kontaktiere Sudomemo Support"
 # No followers message
 msgid "NO_FOLLOWERS_YET"
 msgstr "%s doesn't have any followers yet."
+
+msgid "NO_LOCALE_SPECIFIED"
+msgstr "No language was specified."
 
 msgid "NO_NOTIFICATIONS"
 msgstr "No notifications"
@@ -2115,6 +2133,9 @@ msgstr "Du kannst das Passwort für dein Sudomemo-Konto hier ändern:"
 
 msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
 msgstr "Nachdem du dem Sudomemo Discord-Server beigetreten bist, kopiere dies und schicke es in den Chat."
+
+msgid "USER_SETTINGS_LANGUAGE_EXPLANATION"
+msgstr "Choose your preferred language for Sudomemo"
 
 msgid "USER_SETTINGS_SUPPORT_TOKEN_EXPLANATION"
 msgstr "Support-Tokens werden verwendet, um dein Konto beim Kontakt mit dem Sudomemo-Support zu verifizieren."
