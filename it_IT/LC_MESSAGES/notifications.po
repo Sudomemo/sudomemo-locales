@@ -21,6 +21,9 @@ msgstr ", "
 msgid "FRAGMENT_COMMA_AND"
 msgstr ", e "
 
+msgid "FRAGMENT_COMMENT"
+msgstr "comment"
+
 msgid "FRAGMENT_COMMENTED_ON"
 msgstr " ha commentato su "
 
