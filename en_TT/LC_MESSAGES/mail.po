@@ -12,40 +12,40 @@ msgstr "Inbox"
 # This contains common strings used for the general notification ("mail") system as well
 # Common
 msgid "LOGIN_FIRST_TO_ACCESS_MAIL"
-msgstr "You'll need to log back in before you can view this."
+msgstr "o lon sijelo la sina lukin e ni."
 
 # Not found
 msgid "MAIL_NOT_FOUND"
-msgstr "This message does not exist."
+msgstr "lipu ni li lon ala."
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "sin"
 
 msgid "PREV"
-msgstr "Prev"
+msgstr "pini"
 
 msgid "TITLE_INFO"
-msgstr "Info"
+msgstr "sona"
 
 msgid "TITLE_MESSAGE"
-msgstr "Message"
+msgstr "toki"
 
 msgid "TITLE_NEWFRIEND"
-msgstr "New Friend!"
+msgstr "jan pona sin!"
 
 msgid "TITLE_NEWS"
-msgstr "News"
+msgstr "sona pini"
 
 msgid "TITLE_NOTICE"
-msgstr "Notice"
+msgstr "lukin"
 
 # Titles
 msgid "TITLE_SPINOFF"
-msgstr "Spin-off"
+msgstr "sitelen Sinlinoto"
 
 msgid "TITLE_WARNING"
-msgstr "Warning"
+msgstr "sina o"
 
 # this must be a max of 6 characters
 msgid "UNAUTHED_READ"
-msgstr "Read.."
+msgstr "lukin"
