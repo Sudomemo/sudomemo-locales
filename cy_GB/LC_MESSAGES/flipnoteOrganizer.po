@@ -333,6 +333,12 @@ msgstr "Select Wiimote Button in Quick Settings"
 msgid "SETTINGS_WIIMOTE_IN_QUICK_SETTINGS_DESCRIPTION"
 msgstr "When enabled, a Select Wiimote button will be added to Quick Settings."
 
+msgid "SETTINGS_WIIMOTE_IR_SENSITIVITY"
+msgstr "Wiimote IR Camera Sensitivity"
+
+msgid "SETTINGS_WIIMOTE_IR_SENSITIVITY_DESCRIPTION"
+msgstr "Adjust the sensitivity of the Wiimote IR camera. Higher settings may cause additional dots to appear due to sunlight, smartphones, or heat sources."
+
 msgid "SETTINGS_WIIMOTE_RUMBLE_FEEDBACK"
 msgstr "Wiimote Rumble"
 
