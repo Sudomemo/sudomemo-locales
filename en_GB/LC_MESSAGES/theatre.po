@@ -2745,3 +2745,41 @@ msgstr "You are editing this Flipnote:"
 
 msgid "YT_LAYOUT_MAY_VARY"
 msgstr "Appearance and layout may vary depending on device used to view video"
+msgid "EMAIL_SETTINGS"
+msgstr "Email Settings"
+
+msgid "EMAIL_SETTINGS_EXPLANATION"
+msgstr "Manage your email preferences and control how often you receive notifications from Sudomemo."
+
+msgid "USER_SETTINGS_EMAIL_EXPLANATION"
+msgstr "Configure which emails you receive and how often they're sent."
+
+msgid "EMAIL_SETTINGS_SAVED"
+msgstr "Email settings saved successfully!"
+
+msgid "EMAIL_SETTINGS_SAVE_ERROR"
+msgstr "Failed to save email settings. Please try again."
+
+msgid "SAVE_ERROR"
+msgstr "An error occurred while saving. Please try again."
+
+msgid "DIGEST_FREQUENCY_TITLE"
+msgstr "Digest Email Frequency"
+
+msgid "DIGEST_FREQUENCY_EXPLANATION"
+msgstr "Choose how often you'd like to receive digest emails."
+
+msgid "DIGEST_FREQUENCY_DAILY"
+msgstr "Daily"
+
+msgid "DIGEST_FREQUENCY_TWICE_WEEKLY"
+msgstr "Twice Weekly"
+
+msgid "DIGEST_FREQUENCY_WEEKLY"
+msgstr "Weekly"
+
+msgid "DIGEST_FREQUENCY_BIWEEKLY"
+msgstr "Biweekly"
+
+msgid "DIGEST_FREQUENCY_MONTHLY"
+msgstr "Monthly"

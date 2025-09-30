@@ -116,3 +116,9 @@ msgstr "Derbyniwch grynodeb e-bost o unrhyw sylwadau newydd a gawsoch yn ddiwedd
 
 msgid "TYPE_UNREAD_COMMENTS_NAME"
 msgstr "Sylwadau heb eu darllen"
+
+msgid "TYPE_DIGEST_NAME"
+msgstr "Digest Emails"
+
+msgid "TYPE_DIGEST_DESC"
+msgstr "Periodic summary email including new Flipnotes from your favorites, received Stars, received comments, new follows, etc"

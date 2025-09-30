@@ -116,3 +116,9 @@ msgstr "Ληψη email με  νεα  σχολια  που  δεχθηκατε  �
 
 msgid "TYPE_UNREAD_COMMENTS_NAME"
 msgstr "Μη-Διαβασμενα  Σχολια"
+
+msgid "TYPE_DIGEST_NAME"
+msgstr "Digest Emails"
+
+msgid "TYPE_DIGEST_DESC"
+msgstr "Periodic summary email including new Flipnotes from your favorites, received Stars, received comments, new follows, etc"
