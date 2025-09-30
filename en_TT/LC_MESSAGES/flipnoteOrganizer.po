@@ -182,6 +182,12 @@ msgstr "Shift for More Flipnote Details"
 msgid "SETTINGS_FLIPNOTE_DETAILS_SHIFT_DESCRIPTION"
 msgstr "When holding shift or using the Digital Shift, extra details about Flipnotes will be displayed. It is recommended to keep this on. This cannot be used if Gallery View is enabled."
 
+msgid "SETTINGS_FLIPNOTE_PLAYER_VOLUME"
+msgstr "Flipnote Player Volume"
+
+msgid "SETTINGS_FLIPNOTE_PLAYER_VOLUME_DESCRIPTION"
+msgstr "Adjust the volume of the Flipnote Player."
+
 msgid "SETTINGS_FLIPNOTE_VIEW_FLIPNOTE_3D"
 msgstr "View KWZs"
 
@@ -339,6 +345,9 @@ msgstr "Wiimote IR Camera Sensitivity"
 msgid "SETTINGS_WIIMOTE_IR_SENSITIVITY_DESCRIPTION"
 msgstr "Adjust the sensitivity of the Wiimote IR camera. Higher settings may cause additional dots to appear due to sunlight, smartphones, or heat sources."
 
+msgid "SETTINGS_WIIMOTE_MEMORY_BACKUP"
+msgstr "Backup Wiimote"
+
 msgid "SETTINGS_WIIMOTE_RUMBLE_FEEDBACK"
 msgstr "Wiimote Rumble"
 
@@ -489,6 +498,12 @@ msgstr "Recalibrate IR"
 
 msgid "WIIMOTE_SELECT"
 msgstr "Select Wiimote"
+
+msgid "WIIMOTE_WEBHID_FIREFOX_WARNING"
+msgstr "This browser does not officially support WebHID. Be cautious using extensions or other unofficial implementations."
+
+msgid "WIIMOTE_WEBHID_FIREFOX_WARNING_FUNCTIONS"
+msgstr "Certain functions of the Wiimote may not work correctly while using this WebHID implementation."
 
 msgid "YES"
 msgstr "Yes"
