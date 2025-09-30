@@ -116,3 +116,9 @@ msgstr "Recibe un resumen por correo de todos los comentarios nuevos que hayas r
 
 msgid "TYPE_UNREAD_COMMENTS_NAME"
 msgstr "Comentarios sin leer"
+
+msgid "TYPE_DIGEST_NAME"
+msgstr "Digest Emails"
+
+msgid "TYPE_DIGEST_DESC"
+msgstr "Periodic summary email including new Flipnotes from your favorites, received Stars, received comments, new follows, etc"

@@ -116,3 +116,9 @@ msgstr "Få ett mail med översikt om nya kommentarer du har nyligen mottagit"
 
 msgid "TYPE_UNREAD_COMMENTS_NAME"
 msgstr "Olästa Kommentarer"
+
+msgid "TYPE_DIGEST_NAME"
+msgstr "Digest Emails"
+
+msgid "TYPE_DIGEST_DESC"
+msgstr "Periodic summary email including new Flipnotes from your favorites, received Stars, received comments, new follows, etc"

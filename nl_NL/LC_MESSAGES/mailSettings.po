@@ -116,3 +116,9 @@ msgstr "Ontvang een e-mailsamenvatting over enige nieuwe reacties die je recent 
 
 msgid "TYPE_UNREAD_COMMENTS_NAME"
 msgstr "Ongelezen reacties"
+
+msgid "TYPE_DIGEST_NAME"
+msgstr "Digest Emails"
+
+msgid "TYPE_DIGEST_DESC"
+msgstr "Periodic summary email including new Flipnotes from your favorites, received Stars, received comments, new follows, etc"

@@ -116,3 +116,9 @@ msgstr "最近受け取った新しいコメントの内容をメールで受け
 
 msgid "TYPE_UNREAD_COMMENTS_NAME"
 msgstr "未読のコメント"
+
+msgid "TYPE_DIGEST_NAME"
+msgstr "Digest Emails"
+
+msgid "TYPE_DIGEST_DESC"
+msgstr "Periodic summary email including new Flipnotes from your favorites, received Stars, received comments, new follows, etc"
