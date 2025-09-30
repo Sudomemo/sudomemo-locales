@@ -57,6 +57,12 @@ msgstr "Getta an email when somone coment on u Flipnote"
 msgid "TYPE_COMMENT_NOTIF_NAME"
 msgstr "Comment Gotted!!!"
 
+msgid "TYPE_DIGEST_DESC"
+msgstr "Periodic summary email including new Flipnotes from your favorites, received Stars, received comments, new follows, etc"
+
+msgid "TYPE_DIGEST_NAME"
+msgstr "Digest Emails"
+
 msgid "TYPE_FAVE_NOTIF_DESC"
 msgstr "Getta email wen some1 epic adds ur to theys Favsssss!!!"
 
@@ -116,9 +122,3 @@ msgstr "Getta an email summary of sum new coment you done get recently"
 
 msgid "TYPE_UNREAD_COMMENTS_NAME"
 msgstr "Not readed Comments"
-
-msgid "TYPE_DIGEST_NAME"
-msgstr "Digest Emails"
-
-msgid "TYPE_DIGEST_DESC"
-msgstr "Periodic summary email including new Flipnotes from your favorites, received Stars, received comments, new follows, etc"

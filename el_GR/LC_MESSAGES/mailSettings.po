@@ -57,6 +57,12 @@ msgstr "Ληψη email οταν  καποιος  σας  σχολιαζει  σ�
 msgid "TYPE_COMMENT_NOTIF_NAME"
 msgstr "Ληψη  Σχολιου"
 
+msgid "TYPE_DIGEST_DESC"
+msgstr "Periodic summary email including new Flipnotes from your favorites, received Stars, received comments, new follows, etc"
+
+msgid "TYPE_DIGEST_NAME"
+msgstr "Digest Emails"
+
 msgid "TYPE_FAVE_NOTIF_DESC"
 msgstr "Ληψη email οταν  καποιος  σας  προσθετει  στα  Αγαπημενα  του"
 
@@ -116,9 +122,3 @@ msgstr "Ληψη email με  νεα  σχολια  που  δεχθηκατε  �
 
 msgid "TYPE_UNREAD_COMMENTS_NAME"
 msgstr "Μη-Διαβασμενα  Σχολια"
-
-msgid "TYPE_DIGEST_NAME"
-msgstr "Digest Emails"
-
-msgid "TYPE_DIGEST_DESC"
-msgstr "Periodic summary email including new Flipnotes from your favorites, received Stars, received comments, new follows, etc"

@@ -522,6 +522,27 @@ msgstr "Votre description ira ici."
 msgid "DETAILS"
 msgstr "Détails"
 
+msgid "DIGEST_FREQUENCY_BIWEEKLY"
+msgstr "Biweekly"
+
+msgid "DIGEST_FREQUENCY_DAILY"
+msgstr "Daily"
+
+msgid "DIGEST_FREQUENCY_EXPLANATION"
+msgstr "Choose how often you'd like to receive digest emails."
+
+msgid "DIGEST_FREQUENCY_MONTHLY"
+msgstr "Monthly"
+
+msgid "DIGEST_FREQUENCY_TITLE"
+msgstr "Digest Email Frequency"
+
+msgid "DIGEST_FREQUENCY_TWICE_WEEKLY"
+msgstr "Twice Weekly"
+
+msgid "DIGEST_FREQUENCY_WEEKLY"
+msgstr "Weekly"
+
 msgid "DISABLE"
 msgstr "Disable"
 
@@ -670,6 +691,18 @@ msgstr "La nouvelle adresse e-mail doit être différente de votre adresse actue
 
 msgid "EMAIL_SEND_FAILED"
 msgstr "Échec de l'envoi de l'e-mail de vérification. Veuillez réessayer plus tard."
+
+msgid "EMAIL_SETTINGS"
+msgstr "Email Settings"
+
+msgid "EMAIL_SETTINGS_EXPLANATION"
+msgstr "Manage your email preferences and control how often you receive notifications from Sudomemo."
+
+msgid "EMAIL_SETTINGS_SAVED"
+msgstr "Email settings saved successfully!"
+
+msgid "EMAIL_SETTINGS_SAVE_ERROR"
+msgstr "Failed to save email settings. Please try again."
 
 msgid "EMPTY_TITLE_ALERT_1"
 msgstr "On dirait que votre flipnote a besoin d'un titre !"
@@ -1847,6 +1880,9 @@ msgstr "Vous sentez que quelque chose ne va pas ? Voici comment le repérer."
 msgid "SAVE"
 msgstr "Sauvegarder"
 
+msgid "SAVE_ERROR"
+msgstr "An error occurred while saving. Please try again."
+
 msgid "SAVE_NAME"
 msgstr "Save Name"
 
@@ -2133,6 +2169,9 @@ msgstr "Vous pouvez modifier le mot de passe de votre compte Sudomemo ici :"
 
 msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
 msgstr "Après avoir rejoint le Discord de Sudomemo, copiez-collez ceci dans le salon de discussion."
+
+msgid "USER_SETTINGS_EMAIL_EXPLANATION"
+msgstr "Configure which emails you receive and how often they're sent."
 
 msgid "USER_SETTINGS_LANGUAGE_EXPLANATION"
 msgstr "Choose your preferred language for Sudomemo"
@@ -2745,41 +2784,3 @@ msgstr "Vous éditez cette Flipnote :"
 
 msgid "YT_LAYOUT_MAY_VARY"
 msgstr "L’apparence et la disposition peuvent varier en fonction de l’appareil utilisé pour visionner la vidéo"
-msgid "EMAIL_SETTINGS"
-msgstr "Email Settings"
-
-msgid "EMAIL_SETTINGS_EXPLANATION"
-msgstr "Manage your email preferences and control how often you receive notifications from Sudomemo."
-
-msgid "USER_SETTINGS_EMAIL_EXPLANATION"
-msgstr "Configure which emails you receive and how often they're sent."
-
-msgid "EMAIL_SETTINGS_SAVED"
-msgstr "Email settings saved successfully!"
-
-msgid "EMAIL_SETTINGS_SAVE_ERROR"
-msgstr "Failed to save email settings. Please try again."
-
-msgid "SAVE_ERROR"
-msgstr "An error occurred while saving. Please try again."
-
-msgid "DIGEST_FREQUENCY_TITLE"
-msgstr "Digest Email Frequency"
-
-msgid "DIGEST_FREQUENCY_EXPLANATION"
-msgstr "Choose how often you'd like to receive digest emails."
-
-msgid "DIGEST_FREQUENCY_DAILY"
-msgstr "Daily"
-
-msgid "DIGEST_FREQUENCY_TWICE_WEEKLY"
-msgstr "Twice Weekly"
-
-msgid "DIGEST_FREQUENCY_WEEKLY"
-msgstr "Weekly"
-
-msgid "DIGEST_FREQUENCY_BIWEEKLY"
-msgstr "Biweekly"
-
-msgid "DIGEST_FREQUENCY_MONTHLY"
-msgstr "Monthly"
