@@ -57,6 +57,12 @@ msgstr "Ricevi un'email quando qualcuno commenta un tuo Flipnote"
 msgid "TYPE_COMMENT_NOTIF_NAME"
 msgstr "Commento ricevuto"
 
+msgid "TYPE_DIGEST_DESC"
+msgstr "Periodic summary email including new Flipnotes from your favorites, received Stars, received comments, new follows, etc"
+
+msgid "TYPE_DIGEST_NAME"
+msgstr "Digest Emails"
+
 msgid "TYPE_FAVE_NOTIF_DESC"
 msgstr "Ricevi un'email quando qualcuno ti aggiunge ai suoi Preferiti"
 
@@ -116,9 +122,3 @@ msgstr "Ricevi un'email di riepilogo sui nuovi commenti che hai ricevuto di rece
 
 msgid "TYPE_UNREAD_COMMENTS_NAME"
 msgstr "Commenti non letti"
-
-msgid "TYPE_DIGEST_NAME"
-msgstr "Digest Emails"
-
-msgid "TYPE_DIGEST_DESC"
-msgstr "Periodic summary email including new Flipnotes from your favorites, received Stars, received comments, new follows, etc"

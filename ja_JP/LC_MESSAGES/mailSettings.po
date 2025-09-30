@@ -57,6 +57,12 @@ msgstr "作品にコメントが投稿されたときEメールを受け取る"
 msgid "TYPE_COMMENT_NOTIF_NAME"
 msgstr "受け取ったコメント"
 
+msgid "TYPE_DIGEST_DESC"
+msgstr "Periodic summary email including new Flipnotes from your favorites, received Stars, received comments, new follows, etc"
+
+msgid "TYPE_DIGEST_NAME"
+msgstr "Digest Emails"
+
 msgid "TYPE_FAVE_NOTIF_DESC"
 msgstr "誰かがあなたをお気に入りに追加したときにEメールを受信する"
 
@@ -116,9 +122,3 @@ msgstr "最近受け取った新しいコメントの内容をメールで受け
 
 msgid "TYPE_UNREAD_COMMENTS_NAME"
 msgstr "未読のコメント"
-
-msgid "TYPE_DIGEST_NAME"
-msgstr "Digest Emails"
-
-msgid "TYPE_DIGEST_DESC"
-msgstr "Periodic summary email including new Flipnotes from your favorites, received Stars, received comments, new follows, etc"
