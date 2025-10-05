@@ -75,6 +75,9 @@ msgstr "Sylw"
 msgid "CONFIRM_EMAIL_BEFORE_REPORTING"
 msgstr "Cadarnhewch eich e-bost cyn adrodd ar y cynnwys."
 
+msgid "CONTENT_ALREADY_REMOVED"
+msgstr "The content you're trying to report has already been removed."
+
 msgid "CREATOR_FORMAT"
 msgstr "Crewr: %s"
 

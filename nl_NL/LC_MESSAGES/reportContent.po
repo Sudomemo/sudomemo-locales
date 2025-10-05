@@ -75,6 +75,9 @@ msgstr "reactie"
 msgid "CONFIRM_EMAIL_BEFORE_REPORTING"
 msgstr "Bevestig alsjeblieft je e-mailadres voor je iets rapporteert."
 
+msgid "CONTENT_ALREADY_REMOVED"
+msgstr "The content you're trying to report has already been removed."
+
 msgid "CREATOR_FORMAT"
 msgstr "Auteur: %s"
 
