@@ -75,6 +75,9 @@ msgstr "コメント"
 msgid "CONFIRM_EMAIL_BEFORE_REPORTING"
 msgstr "報告の前にメールアドレスの確認をしてください。"
 
+msgid "CONTENT_ALREADY_REMOVED"
+msgstr "The content you're trying to report has already been removed."
+
 msgid "CREATOR_FORMAT"
 msgstr "作者: %s"
 

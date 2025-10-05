@@ -75,6 +75,9 @@ msgstr "commentaire"
 msgid "CONFIRM_EMAIL_BEFORE_REPORTING"
 msgstr "Merci de confirmer votre adresse email avant de signaler un contenu."
 
+msgid "CONTENT_ALREADY_REMOVED"
+msgstr "The content you're trying to report has already been removed."
+
 msgid "CREATOR_FORMAT"
 msgstr "Créateur : %s"
 
