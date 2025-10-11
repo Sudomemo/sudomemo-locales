@@ -58,6 +58,27 @@ msgstr "You currently have %s day(s) of Sudomemo Plus remaining."
 msgid "NO_THEATRE_ADS"
 msgstr "No advertisements on Sudomemo Theatre"
 
+msgid "PLUS_ADFREE_DESC"
+msgstr "Enjoy an ad-free browsing experience."
+
+msgid "PLUS_AUDIO_DESC"
+msgstr "Cleaner, improved sound when Flipnotes play on Theatre."
+
+msgid "PLUS_COLOR_COMMENTS_DESC"
+msgstr "Post colorful messages that stand out."
+
+msgid "PLUS_CUSTOM_FRAMES"
+msgstr "Custom Frames for YouTube Shorts"
+
+msgid "PLUS_CUSTOM_FRAMES_DESC"
+msgstr "Add unique overlays when uploading Shorts."
+
+msgid "PLUS_DOWNLOAD_COMMENTS_DESC"
+msgstr "Save doodle comments to your DSi/3DS as Flipnotes."
+
+msgid "PLUS_FOLLOW_LIMIT_DESC"
+msgstr "Follow more creators than the default cap."
+
 msgid "PLUS_RUNNING_OUT_MSG_DAYS_REMAINING_FORMAT"
 msgstr "This message is to let you know that you have %s days of Sudomemo Plus remaining."
 
@@ -73,6 +94,17 @@ msgstr "Hello, %s!"
 # Sudomemo Plus Running Low Message
 msgid "PLUS_RUNNING_OUT_MSG_TITLE"
 msgstr "My Sudomemo Plus"
+
+# Plus Benefit Descriptions
+msgid "PLUS_SMOOTHING_DESC"
+msgstr "Cleaner, smoother lines and curves on Sudomemo Theatre."
+
+# Plus Benefit Titles
+msgid "PLUS_WEB_CHAT"
+msgstr "Web Chatroom Access"
+
+msgid "PLUS_WEB_CHAT_DESC"
+msgstr "Chat directly from the Sudomemo website."
 
 msgid "SUDOMEMO_GAME_ACCESS"
 msgstr "Play special games right on Sudomemo!"
