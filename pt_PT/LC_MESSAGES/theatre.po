@@ -50,6 +50,9 @@ msgstr "Switched to account successfully"
 msgid "ACCOUNT_SWITCHER"
 msgstr "Manage login"
 
+msgid "ACTIVE_SUBSCRIPTION"
+msgstr "Active Subscription"
+
 msgid "ADD_ACCOUNT_BUTTON"
 msgstr "Add account"
 
@@ -214,6 +217,9 @@ msgstr "Vê Flipnotes com a música %s de %s"
 msgid "BTN_GET_STARTED"
 msgstr "Começar"
 
+msgid "BTN_GO_HOME"
+msgstr "Back to Sudomemo"
+
 msgid "BTN_GO_TO_SETTINGS"
 msgstr "Ir para as Definições"
 
@@ -235,6 +241,9 @@ msgstr "Desligar Conta do Discord"
 
 msgid "BTN_UPLOAD_FAILED"
 msgstr "Upload falhado..."
+
+msgid "BTN_VIEW_PLUS_STATUS"
+msgstr "View Plus Benefits"
 
 msgid "BY"
 msgstr "por"
@@ -994,6 +1003,9 @@ msgstr "Género"
 msgid "GET_HELP"
 msgstr "Get Help"
 
+msgid "GET_MORE_PLUS_DAYS"
+msgstr "Get more Plus days"
+
 msgid "GET_PLUS"
 msgstr "Get Plus"
 
@@ -1191,6 +1203,10 @@ msgstr "Precisas de ligar a tua conta do Canal do YouTube antes de fazer upload 
 msgid "LOADING"
 msgstr "Loading..."
 
+# General UI strings
+msgid "LOGIN"
+msgstr "Log In"
+
 msgid "LOGIN_CONFIRM_PLACEHOLDER"
 msgstr "Código de Confirmação"
 
@@ -1242,6 +1258,19 @@ msgstr "Manage Discord Webhooks"
 msgid "MANAGE_PLAYLIST"
 msgstr "Gerir Playlist"
 
+msgid "MANAGE_PLUS_AUTO_RENEW"
+msgstr "Your Plus days are automatically renewed each billing cycle."
+
+# Plus Management Page
+msgid "MANAGE_PLUS_HEADER"
+msgstr "Manage Your Sudomemo Plus"
+
+msgid "MANAGE_PLUS_NONE"
+msgstr "You don't have any Sudomemo Plus days yet. Visit the shop to get started!"
+
+msgid "MANAGE_PLUS_REMAINING"
+msgstr "You currently have %s day(s) of Sudomemo Plus remaining."
+
 msgid "MAX_ACCOUNTS_REACHED"
 msgstr "Maximum number of accounts reached"
 
@@ -1286,6 +1315,9 @@ msgstr "Moderador"
 
 msgid "MODIFIED"
 msgstr "Modificado"
+
+msgid "MONTHLY_PLUS_SUBSCRIPTION"
+msgstr "Monthly Plus Subscription"
 
 msgid "MORE"
 msgstr "Mais"
@@ -1417,6 +1449,9 @@ msgstr "New Profile Picture"
 msgid "NEXT"
 msgstr "Próximo"
 
+msgid "NEXT_RENEWAL"
+msgstr "Next Renewal"
+
 msgid "NINTENDO_3DS"
 msgstr "Nintendo 3DS"
 
@@ -1546,6 +1581,24 @@ msgstr "Isto só se aplica ao YouTube Shorts"
 
 msgid "ONLY_OWNER_CAN_SET_PROFILE_PICTURE"
 msgstr "Só podes usar os teus próprios Flipnotes como a tua foto de perfil."
+
+msgid "ORDER_COMPLETE"
+msgstr "Order complete!"
+
+msgid "ORDER_COMPLETE_PROCESSING"
+msgstr "We’re getting everything ready. Your order is processing now."
+
+msgid "ORDER_COMPLETE_SUBSCRIPTION_INFO"
+msgstr "Subscribed? Plus days will show up automatically each cycle."
+
+msgid "ORDER_COMPLETE_THANK_YOU"
+msgstr "Thanks for keeping Sudomemo alive — we're glad you're here!"
+
+msgid "ORDER_COMPLETE_TICKET_INFO"
+msgstr "Bought a ticket? Check your inbox — your code’s on the way!"
+
+msgid "ORDER_ID"
+msgstr "Order Number"
 
 msgid "ORIGINAL"
 msgstr "Original"
@@ -1681,6 +1734,9 @@ msgstr "Por favor faça upload de uma imagem válida (apenas PNG)."
 msgid "PLUS"
 msgstr "Plus"
 
+msgid "PLUS_BENEFITS"
+msgstr "Sudomemo Plus Benefits"
+
 msgid "PLUS_FEATURE"
 msgstr "Plus Feature"
 
@@ -1689,6 +1745,13 @@ msgstr "Saber mais..."
 
 msgid "PLUS_REQUIRED_TO_POST_CHAT_MESSAGE"
 msgstr "Precisas do Sudomemo Plus para enviar uma mensagem de chat."
+
+# Shop Page - Subscriptions
+msgid "PLUS_SUB_MONTHLY"
+msgstr "Monthly Plus Subscription"
+
+msgid "PLUS_SUB_YEARLY"
+msgstr "Yearly Plus Subscription"
 
 msgid "POPULAR"
 msgstr "Populares"
@@ -1705,6 +1768,9 @@ msgstr "Anterior"
 
 msgid "PRIVACY_POLICY"
 msgstr "Política de Privacidade"
+
+msgid "PRODUCT"
+msgstr "Product"
 
 msgid "PROFILE_ABOUT_USERNAME"
 msgstr "Acerca %s"
@@ -2007,8 +2073,20 @@ msgstr "Artistas"
 msgid "STARS"
 msgstr "Estrelas"
 
+msgid "STATUS"
+msgstr "Status"
+
 msgid "SUBMIT"
 msgstr "Enviar"
+
+msgid "SUBSCRIBE"
+msgstr "Subscribe"
+
+msgid "SUBSCRIBE_MONTHLY"
+msgstr "Subscribe Monthly"
+
+msgid "SUBSCRIBE_YEARLY"
+msgstr "Subscribe Yearly"
 
 # This file contains most of the translations for Sudomemo Theatre.
 # Meta tags, descriptions, etc
@@ -2023,6 +2101,9 @@ msgstr "Sudomemo Plus"
 
 msgid "SUDOMEMO_PLUS_FEATURE"
 msgstr "Benifício do Sudomemo Plus"
+
+msgid "SUDOMEMO_PLUS_PITCH"
+msgstr "Support Sudomemo and unlock exclusive perks with Plus! Subscriptions auto-add Plus days each billing cycle."
 
 msgid "SUDOMEMO_SHOP"
 msgstr "Loja do Sudomemo"
@@ -2440,8 +2521,14 @@ msgstr "#%s no rank Popular"
 msgid "X_USERS"
 msgstr "%d utilizador(es)"
 
+msgid "YEARLY_PLUS_SUBSCRIPTION"
+msgstr "Yearly Plus Subscription"
+
 msgid "YOUR_DISCORD_WEBHOOKS"
 msgstr "Your Discord Webhooks"
+
+msgid "YOUR_SUBSCRIPTIONS"
+msgstr "Your Subscriptions"
 
 msgid "YOUTUBE"
 msgstr "YouTube"
