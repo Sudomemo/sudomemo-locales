@@ -50,6 +50,9 @@ msgstr "Un des gagnants de la Flipnote Fight Competition de Sudomemo d'automne 2
 msgid "TROPHY_DESC_fall_2024_ffc_winner"
 msgstr "Un des gagnants de la Flipnote Fight Competition de Sudomemo d'automne 2024 !"
 
+msgid "TROPHY_DESC_fall_2025_ffc_winner"
+msgstr "One of the winners of the Fall 2025 Sudomemo Flipnote Fight Competition!"
+
 msgid "TROPHY_DESC_fate_2024_winner"
 msgstr "A soumis une Flipnote gagnante au FATE 2024"
 
@@ -188,6 +191,9 @@ msgstr "Lauréat de la Flipnote Fight Competition de Sudomemo d'automne 2023"
 
 msgid "TROPHY_NAME_fall_2024_ffc_winner"
 msgstr "Lauréat de la Flipnote Fight Competition de Sudomemo d'automne 2024"
+
+msgid "TROPHY_NAME_fall_2025_ffc_winner"
+msgstr "Fall 2025 Sudomemo Flipnote Fight Competition Winner"
 
 msgid "TROPHY_NAME_fate_2024_winner"
 msgstr "Lauréat du FATE 2024"
