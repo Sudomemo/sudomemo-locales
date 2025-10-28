@@ -2871,3 +2871,6 @@ msgstr "Estás editando esta Flipnote:"
 
 msgid "YT_LAYOUT_MAY_VARY"
 msgstr "La apariencia y el diseño pueden variar según el dispositivo usado para ver el video"
+
+msgid "LOGIN_FAILED_ACCOUNT_SETUP_REQUIRED"
+msgstr "To log in on Sudomemo Theatre, please sign in on Sudomemo using your Nintendo DSi or 3DS first to set up your login details."
