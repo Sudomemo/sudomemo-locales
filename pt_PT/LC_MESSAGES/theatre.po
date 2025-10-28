@@ -1213,6 +1213,9 @@ msgstr "Código de Confirmação"
 msgid "LOGIN_CONFIRM_PROMPT"
 msgstr "Um código de confirmação foi enviado para o teu endereço de email. Por digite-o para continuar."
 
+msgid "LOGIN_FAILED_ACCOUNT_SETUP_REQUIRED"
+msgstr "To log in on Sudomemo Theatre, please sign in on Sudomemo using your Nintendo DSi or 3DS first to set up your login details."
+
 # # Ticket types..
 # Login Page
 msgid "LOGIN_FAILED_CHECK_DETAILS"
@@ -2871,6 +2874,3 @@ msgstr "Estás a editar este Flipnote:"
 
 msgid "YT_LAYOUT_MAY_VARY"
 msgstr "A aparência e layout podem depender no aparelho que vejas o vídeo"
-
-msgid "LOGIN_FAILED_ACCOUNT_SETUP_REQUIRED"
-msgstr "To log in on Sudomemo Theatre, please sign in on Sudomemo using your Nintendo DSi or 3DS first to set up your login details."
