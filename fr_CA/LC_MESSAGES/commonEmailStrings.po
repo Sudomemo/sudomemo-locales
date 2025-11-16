@@ -5,24 +5,24 @@ msgstr ""
 
 # positive interaction
 msgid "EMAIL_GREETING_FRIENDLY_HELLO"
-msgstr "Hello, %s!"
+msgstr "Salut, %s !"
 
 # neutral interaction
 msgid "EMAIL_GREETING_NEUTRAL_HELLO"
-msgstr "Hello, %s."
+msgstr "Bonjour, %s."
 
 msgid "TEXT_CHANGE_SETTINGS_PROMPT"
-msgstr "Want to adjust the emails you get from Sudomemo?"
+msgstr "Vous voulez ajuster les courriels que vous recevez de Sudomemo?"
 
 # the "here" text in the click here. e.g. what will be in the link to the unsubscribe page.
 msgid "TEXT_HERE"
-msgstr "here"
+msgstr "ici"
 
 msgid "TEXT_HOW_TO_CHANGE_SETTINGS_DSI"
-msgstr "You can easily update them by visiting your Creator's Room on Sudomemo and selecting <strong>Mail Settings</strong>."
+msgstr "Vous pouvez les mettre à jour facilement en visitant votre Salle du créateur sur Sudomemo et en sélectionnant <strong>Paramètres de courriel</strong>."
 
 msgid "TEXT_TRANSACTIONAL_EMAIL_NOTICE"
-msgstr "This email concerns your account on Sudomemo."
+msgstr "Ce courriel concerne votre compte sur Sudomemo."
 
 msgid "TEXT_WEB_SETTINGS_CHANGE_FORMAT"
-msgstr "Or, you can turn off these kinds of emails by clicking %s."
+msgstr "Ou vous pouvez désactiver ce type de courriels en cliquant sur %s."

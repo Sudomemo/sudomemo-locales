@@ -58,10 +58,10 @@ msgid "TYPE_COMMENT_NOTIF_NAME"
 msgstr "Comentario recibido"
 
 msgid "TYPE_DIGEST_DESC"
-msgstr "Periodic summary email including new Flipnotes from your favorites, received Stars, received comments, new follows, etc"
+msgstr "Correo periódico con un resumen que incluye nuevos Flipnotes de tus favoritos, Estrellas recibidas, comentarios recibidos, nuevos seguidores, etc."
 
 msgid "TYPE_DIGEST_NAME"
-msgstr "Digest Emails"
+msgstr "Correos de resumen"
 
 msgid "TYPE_FAVE_NOTIF_DESC"
 msgstr "Reciba un Correo electrónico cuando alguien te añada a sus Favoritos"
@@ -70,10 +70,10 @@ msgid "TYPE_FAVE_NOTIF_NAME"
 msgstr "Añadido como Favorito"
 
 msgid "TYPE_METADATA_NOTICE_DESC"
-msgstr "Receive an email when we find issues with your Flipnote metadata"
+msgstr "Recibe un correo cuando detectemos problemas con los metadatos de tu Flipnote"
 
 msgid "TYPE_METADATA_NOTICE_NAME"
-msgstr "Missing Metadata Notice"
+msgstr "Aviso de metadatos faltantes"
 
 msgid "TYPE_NEWS_DESC"
 msgstr "Recibe un Correo electrónico cuando algo nuevo sea publicado en las Noticas de Sudomemo"

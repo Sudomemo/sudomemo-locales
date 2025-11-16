@@ -58,10 +58,10 @@ msgid "TYPE_COMMENT_NOTIF_NAME"
 msgstr "Ληψη  Σχολιου"
 
 msgid "TYPE_DIGEST_DESC"
-msgstr "Periodic summary email including new Flipnotes from your favorites, received Stars, received comments, new follows, etc"
+msgstr "Περιοδικό email σύνοψης με νέα Flipnotes από τα αγαπημένα σας, ληφθείσα Αστέρια, σχόλια, νέους ακόλουθους κ.λπ."
 
 msgid "TYPE_DIGEST_NAME"
-msgstr "Digest Emails"
+msgstr "Email σύνοψης"
 
 msgid "TYPE_FAVE_NOTIF_DESC"
 msgstr "Ληψη email οταν  καποιος  σας  προσθετει  στα  Αγαπημενα  του"
@@ -70,10 +70,10 @@ msgid "TYPE_FAVE_NOTIF_NAME"
 msgstr "Προστεθηκε στα Αγαπημενα"
 
 msgid "TYPE_METADATA_NOTICE_DESC"
-msgstr "Receive an email when we find issues with your Flipnote metadata"
+msgstr "Λάβετε email όταν εντοπίζουμε προβλήματα με τα μεταδεδομένα του Flipnote σας"
 
 msgid "TYPE_METADATA_NOTICE_NAME"
-msgstr "Missing Metadata Notice"
+msgstr "Ειδοποίηση για ελλιπή μεταδεδομένα"
 
 msgid "TYPE_NEWS_DESC"
 msgstr "Ληψη email οταν  κατι  νεο  ανεβαινει  στα νεα  του Sudomemo"

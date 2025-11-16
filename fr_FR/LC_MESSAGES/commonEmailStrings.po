@@ -22,7 +22,7 @@ msgid "TEXT_HOW_TO_CHANGE_SETTINGS_DSI"
 msgstr "Vous pouvez facilement modifier les paramètres en visitant votre Salle de créateur sur Sudomemo et en sélectionnant <strong>Paramètres de mail</strong>."
 
 msgid "TEXT_TRANSACTIONAL_EMAIL_NOTICE"
-msgstr "This email concerns your account on Sudomemo."
+msgstr "Cet e-mail concerne votre compte sur Sudomemo."
 
 msgid "TEXT_WEB_SETTINGS_CHANGE_FORMAT"
 msgstr "Sinon, vous pouvez désactiver ce type de courrier en cliquant %s."
