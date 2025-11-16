@@ -58,10 +58,10 @@ msgid "TYPE_COMMENT_NOTIF_NAME"
 msgstr "Mottagen kommentar"
 
 msgid "TYPE_DIGEST_DESC"
-msgstr "Periodic summary email including new Flipnotes from your favorites, received Stars, received comments, new follows, etc"
+msgstr "Periodiskt sammanfattningsmejl med nya Flipnotes från dina favoriter, mottagna stjärnor, kommentarer, nya följare osv."
 
 msgid "TYPE_DIGEST_NAME"
-msgstr "Digest Emails"
+msgstr "Sammanfattningsmejl"
 
 msgid "TYPE_FAVE_NOTIF_DESC"
 msgstr "Få ett mail när bågon lägger till dig i deras favoriter"
@@ -70,10 +70,10 @@ msgid "TYPE_FAVE_NOTIF_NAME"
 msgstr "Lagt till i favoriter"
 
 msgid "TYPE_METADATA_NOTICE_DESC"
-msgstr "Receive an email when we find issues with your Flipnote metadata"
+msgstr "Få ett mejl när vi hittar problem med metadata i din Flipnote"
 
 msgid "TYPE_METADATA_NOTICE_NAME"
-msgstr "Missing Metadata Notice"
+msgstr "Avisering om saknad metadata"
 
 msgid "TYPE_NEWS_DESC"
 msgstr "Få ett mail när något nytt är publicerats till Sudomemo Nyheter"

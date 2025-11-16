@@ -4,121 +4,121 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "DISABLE"
-msgstr "Disable"
+msgstr "Desativar"
 
 msgid "DISABLED"
-msgstr "Disabled"
+msgstr "Desativado"
 
 msgid "DISABLE_CONFIRMATION_FORMAT"
-msgstr "Are you sure you want to disable '%s' emails?"
+msgstr "Tem certeza de que deseja desativar os e-mails de '%s'?"
 
 msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
-msgstr "The link you followed has expired."
+msgstr "O link que você acessou expirou."
 
 msgid "EMAIL_SETTING_DISABLED_FINISH_FORMAT"
-msgstr "You've disabled '%s' emails."
+msgstr "Você desativou os e-mails de '%s'."
 
 msgid "ENABLE"
-msgstr "Enable"
+msgstr "Ativar"
 
 msgid "ENABLED"
-msgstr "Enabled"
+msgstr "Ativado"
 
 msgid "HEADER_CHANGE_EMAIL_SETTINGS"
-msgstr "Change Email Settings"
+msgstr "Alterar configurações de e-mail"
 
 msgid "HEADER_MAIL_SETTINGS"
-msgstr "Mail Settings"
+msgstr "Configurações de e-mail"
 
 msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
-msgstr "You must be logged in to edit your mail settings."
+msgstr "Você precisa estar conectado para editar suas configurações de e-mail."
 
 msgid "MAIL_STATUS"
 msgstr "Status"
 
 msgid "MAIL_TYPE"
-msgstr "Type"
+msgstr "Tipo"
 
 msgid "REENABLE_INSTRUCTIONS"
-msgstr "If you want to turn them back on, you can do so from by selecting <strong>Email Settings</strong> in your Creator's Room."
+msgstr "Se quiser reativá-los, selecione <strong>Configurações de E-mail</strong> na sua Sala do Criador."
 
 msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
-msgstr "Tap on a mail type's status to view or update it."
+msgstr "Toque no status de um tipo de e-mail para visualizar ou atualizar."
 
 msgid "TAP_TO_DISABLE"
-msgstr "Tap to disable"
+msgstr "Toque para desativar"
 
 msgid "TAP_TO_ENABLE"
-msgstr "Tap to enable"
+msgstr "Toque para ativar"
 
 msgid "TYPE_COMMENT_NOTIF_DESC"
-msgstr "Receive an email when someone comments on your Flipnote"
+msgstr "Receba um e-mail quando alguém comentar no seu Flipnote"
 
 msgid "TYPE_COMMENT_NOTIF_NAME"
-msgstr "Comment Received"
+msgstr "Comentário recebido"
 
 msgid "TYPE_DIGEST_DESC"
-msgstr "Periodic summary email including new Flipnotes from your favorites, received Stars, received comments, new follows, etc"
+msgstr "E-mail periódico com um resumo que inclui novos Flipnotes dos seus favoritos, Estrelas recebidas, comentários recebidos, novos seguidores etc."
 
 msgid "TYPE_DIGEST_NAME"
-msgstr "Digest Emails"
+msgstr "E-mails de resumo"
 
 msgid "TYPE_FAVE_NOTIF_DESC"
-msgstr "Receive an email when someone adds you to their Favorites"
+msgstr "Receba um e-mail quando alguém adicionar você aos Favoritos"
 
 msgid "TYPE_FAVE_NOTIF_NAME"
-msgstr "Added as Favorite"
+msgstr "Adicionado aos Favoritos"
 
 msgid "TYPE_METADATA_NOTICE_DESC"
-msgstr "Receive an email when we find issues with your Flipnote metadata"
+msgstr "Receba um e-mail quando encontrarmos problemas com os metadados do seu Flipnote"
 
 msgid "TYPE_METADATA_NOTICE_NAME"
-msgstr "Missing Metadata Notice"
+msgstr "Aviso de metadados ausentes"
 
 msgid "TYPE_NEWS_DESC"
-msgstr "Receive an email when something new is posted to the Sudomemo News"
+msgstr "Receba um e-mail quando algo novo for publicado nas Notícias do Sudomemo"
 
 msgid "TYPE_NEWS_NAME"
-msgstr "Sudomemo News"
+msgstr "Notícias do Sudomemo"
 
 msgid "TYPE_PROMO_DESC"
-msgstr "Receive emails about new features, tips and tricks, and upcoming events!"
+msgstr "Receba e-mails sobre novos recursos, dicas e truques e eventos futuros!"
 
 msgid "TYPE_PROMO_NAME"
-msgstr "Promo"
+msgstr "Promoções"
 
 msgid "TYPE_REPORT_UPDATE_DESC"
-msgstr "Receive an email when we update the status of content that you've flagged"
+msgstr "Receba um e-mail quando atualizarmos o status de conteúdo que você denunciou"
 
 msgid "TYPE_REPORT_UPDATE_NAME"
-msgstr "Flagged Content Update"
+msgstr "Atualização de conteúdo denunciado"
 
 msgid "TYPE_SECURITY_NOTIF_DESC"
-msgstr "Receive an email when your email address or password is updated"
+msgstr "Receba um e-mail quando seu endereço de e-mail ou senha for atualizado"
 
 msgid "TYPE_SECURITY_NOTIF_NAME"
-msgstr "Account Security"
+msgstr "Segurança da conta"
 
 msgid "TYPE_SERVICE_UPDATE_DESC"
-msgstr "Important updates about Sudomemo's status or availability related to your account"
+msgstr "Atualizações importantes sobre o status ou a disponibilidade do Sudomemo relacionadas à sua conta"
 
 msgid "TYPE_SERVICE_UPDATE_NAME"
-msgstr "Service Updates"
+msgstr "Atualizações de serviço"
 
 msgid "TYPE_SPINOFF_NOTIF_DESC"
-msgstr "Receive an email when someone posts a spin-off to your Flipnote"
+msgstr "Receba um e-mail quando alguém publicar um spin-off do seu Flipnote"
 
 msgid "TYPE_SPINOFF_NOTIF_NAME"
-msgstr "Spin-off Received"
+msgstr "Spin-off recebido"
 
 msgid "TYPE_STAR_REPORT_DESC"
-msgstr "Receive an email at the end of the day about any stars you've received"
+msgstr "Receba um e-mail ao fim do dia com as estrelas que você recebeu"
 
 msgid "TYPE_STAR_REPORT_NAME"
-msgstr "Daily Star Report"
+msgstr "Relatório diário de estrelas"
 
 msgid "TYPE_UNREAD_COMMENTS_DESC"
-msgstr "Receive an email summary of any new comments you've received recently"
+msgstr "Receba um resumo por e-mail dos comentários novos que você recebeu recentemente"
 
 msgid "TYPE_UNREAD_COMMENTS_NAME"
-msgstr "Unread Comments"
+msgstr "Comentários não lidos"

@@ -22,7 +22,7 @@ msgid "TEXT_HOW_TO_CHANGE_SETTINGS_DSI"
 msgstr "Μπορειτε ευκολα να τα ενημερωσετε πηγαινοντας στο Δωματιο Χρηστη σας και επιλεγοντας <strong>Ρυθμισεις Μειλ</strong>."
 
 msgid "TEXT_TRANSACTIONAL_EMAIL_NOTICE"
-msgstr "This email concerns your account on Sudomemo."
+msgstr "Αυτό το email αφορά τον λογαριασμό σας στο Sudomemo."
 
 msgid "TEXT_WEB_SETTINGS_CHANGE_FORMAT"
 msgstr "Η, μπορειτε να τα επενεργοποιησετε πατωντας %s."

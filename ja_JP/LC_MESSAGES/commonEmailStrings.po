@@ -22,7 +22,7 @@ msgid "TEXT_HOW_TO_CHANGE_SETTINGS_DSI"
 msgstr "スドメモのマイルームにアクセスし、<strong>メール設定</strong>を選択することで簡単に設定を変更できます。"
 
 msgid "TEXT_TRANSACTIONAL_EMAIL_NOTICE"
-msgstr "This email concerns your account on Sudomemo."
+msgstr "このメールはSudomemoのあなたのアカウントに関するものです。"
 
 msgid "TEXT_WEB_SETTINGS_CHANGE_FORMAT"
 msgstr "または、%sをクリックすることでメールの受信を停止することができます。"

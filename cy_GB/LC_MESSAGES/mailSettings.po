@@ -58,10 +58,10 @@ msgid "TYPE_COMMENT_NOTIF_NAME"
 msgstr "Sylwadau a Dderbyniwyd"
 
 msgid "TYPE_DIGEST_DESC"
-msgstr "Periodic summary email including new Flipnotes from your favorites, received Stars, received comments, new follows, etc"
+msgstr "E-bost crynodeb cyfnodol sy'n cynnwys Flipnotes newydd gan eich ffefrynnau, Sêr a gawsoch, sylwadau a gawsoch, dilynwyr newydd, ac ati"
 
 msgid "TYPE_DIGEST_NAME"
-msgstr "Digest Emails"
+msgstr "E-byst crynodeb"
 
 msgid "TYPE_FAVE_NOTIF_DESC"
 msgstr "Derbyniwch e-bost pan fydd rhywun yn eich ychwanegu at eu Ffefrynnau"
@@ -70,10 +70,10 @@ msgid "TYPE_FAVE_NOTIF_NAME"
 msgstr "Wedi'i ychwanegu fel Hoff"
 
 msgid "TYPE_METADATA_NOTICE_DESC"
-msgstr "Receive an email when we find issues with your Flipnote metadata"
+msgstr "Derbyniwch e-bost pan fyddwn yn canfod problemau gyda metadata eich Flipnote"
 
 msgid "TYPE_METADATA_NOTICE_NAME"
-msgstr "Missing Metadata Notice"
+msgstr "Hysbysiad metadata coll"
 
 msgid "TYPE_NEWS_DESC"
 msgstr "Derbyn e-bost pan fydd rhywbeth newydd yn cael ei bostio i Sudomemo News"

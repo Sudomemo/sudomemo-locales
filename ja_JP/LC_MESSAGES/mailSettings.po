@@ -58,10 +58,10 @@ msgid "TYPE_COMMENT_NOTIF_NAME"
 msgstr "受け取ったコメント"
 
 msgid "TYPE_DIGEST_DESC"
-msgstr "Periodic summary email including new Flipnotes from your favorites, received Stars, received comments, new follows, etc"
+msgstr "お気に入りの新着フリップノートや受け取ったスター・コメント、新しいフォローなどをまとめた定期的なサマリーメール"
 
 msgid "TYPE_DIGEST_NAME"
-msgstr "Digest Emails"
+msgstr "ダイジェストメール"
 
 msgid "TYPE_FAVE_NOTIF_DESC"
 msgstr "誰かがあなたをお気に入りに追加したときにEメールを受信する"
@@ -70,10 +70,10 @@ msgid "TYPE_FAVE_NOTIF_NAME"
 msgstr "お気に入りに追加された"
 
 msgid "TYPE_METADATA_NOTICE_DESC"
-msgstr "Receive an email when we find issues with your Flipnote metadata"
+msgstr "フリップノートのメタデータに問題が見つかったときにメールでお知らせします"
 
 msgid "TYPE_METADATA_NOTICE_NAME"
-msgstr "Missing Metadata Notice"
+msgstr "メタデータ不足のお知らせ"
 
 msgid "TYPE_NEWS_DESC"
 msgstr "スドメモニュースが更新されたときメールを受信する"
