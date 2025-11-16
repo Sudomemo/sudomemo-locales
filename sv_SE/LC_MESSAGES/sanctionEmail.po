@@ -4,85 +4,85 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "EMAIL_ACKNOWLEDGE_LINK_TEXT"
-msgstr "Acknowledge Now"
+msgstr "Bekräfta nu"
 
 msgid "EMAIL_ACKNOWLEDGE_SECTION_BODY"
-msgstr "Please click the link below to acknowledge this mute and continue using Sudomemo."
+msgstr "Klicka på länken nedan för att bekräfta den här tystnaden och fortsätta använda Sudomemo."
 
 msgid "EMAIL_ACKNOWLEDGE_SECTION_HEADER"
-msgstr "Acknowledge Restriction"
+msgstr "Bekräfta begränsningen"
 
 msgid "EMAIL_ACTION_REQUIRED_LABEL"
-msgstr "Action Required"
+msgstr "Åtgärd krävs"
 
 msgid "EMAIL_APPEAL_LINK_TEXT"
-msgstr "Submit an Appeal"
+msgstr "Skicka en överklagan"
 
 msgid "EMAIL_APPEAL_SECTION_BODY_MUTE"
-msgstr "If you believe this mute was applied in error, you may submit an appeal."
+msgstr "Om du tycker att den här tystnaden är ett misstag kan du överklaga den."
 
 msgid "EMAIL_APPEAL_SECTION_BODY_RESTRICTION"
-msgstr "If you believe this restriction was applied in error, you may submit an appeal."
+msgstr "Om du tycker att den här begränsningen är ett misstag kan du överklaga den."
 
 msgid "EMAIL_APPEAL_SECTION_HEADER"
-msgstr "Appeal"
+msgstr "Överklagan"
 
 msgid "EMAIL_FOOTER_AUTOMATED"
-msgstr "This is an automated message, please do not reply."
+msgstr "Detta är ett automatiskt meddelande, svara inte."
 
 msgid "EMAIL_FOOTER_SUPPORT_MUTE"
-msgstr "If you need further assistance regarding this mute, please contact our support team."
+msgstr "Behöver du mer hjälp med den här tystnaden? Kontakta vårt supportteam."
 
 msgid "EMAIL_FOOTER_SUPPORT_RESTRICTION"
-msgstr "If you need further assistance regarding this restriction, please contact our support team."
+msgstr "Behöver du mer hjälp med den här begränsningen? Kontakta vårt supportteam."
 
 msgid "EMAIL_GREETING"
-msgstr "Hello %s"
+msgstr "Hej %s"
 
 msgid "EMAIL_MUTE_ACKNOWLEDGE_REQUIRED"
-msgstr "You must acknowledge this mute before continuing."
+msgstr "Du måste bekräfta den här tystnaden innan du kan fortsätta."
 
 msgid "EMAIL_MUTE_NOTICE_BODY"
-msgstr "Your Sudomemo account has been muted. You can still log in and view content, but you cannot post comments or interact with other users."
+msgstr "Ditt Sudomemo-konto har tystats. Du kan fortfarande logga in och titta på innehåll, men du kan inte skriva kommentarer eller interagera med andra användare."
 
 msgid "EMAIL_MUTE_NOTICE_TITLE"
-msgstr "Notice"
+msgstr "Meddelande"
 
 msgid "EMAIL_MUTE_RESTRICTIONS_HEADER"
-msgstr "Restrictions"
+msgstr "Begränsningar"
 
 msgid "EMAIL_MUTE_RESTRICTION_CHAT"
-msgstr "You cannot send chat messages."
+msgstr "Du kan inte skicka chattmeddelanden."
 
 msgid "EMAIL_MUTE_RESTRICTION_COMMENT"
-msgstr "You cannot post comments."
+msgstr "Du kan inte skriva kommentarer."
 
 msgid "EMAIL_MUTE_RESTRICTION_OTHER"
-msgstr "Other interactions are disabled."
+msgstr "Andra interaktioner är inaktiverade."
 
 msgid "EMAIL_MUTE_RESTRICTION_REPLY"
-msgstr "You cannot reply to other comments."
+msgstr "Du kan inte svara på andra kommentarer."
 
 msgid "EMAIL_RESTRICTION_NOTICE_BODY"
-msgstr "You have been restricted from interacting with Sudomemo. This means you cannot log in or interact with Sudomemo."
+msgstr "Du har hindrats från att interagera med Sudomemo. Du kan inte logga in eller använda tjänsten."
 
 msgid "EMAIL_RESTRICTION_NOTICE_TITLE"
-msgstr "Notice"
+msgstr "Meddelande"
 
 msgid "EMAIL_SANCTION_APPLIED_LABEL"
-msgstr "Applied on"
+msgstr "Införd den"
 
 msgid "EMAIL_SANCTION_DETAILS_HEADER"
-msgstr "Details"
+msgstr "Detaljer"
 
 msgid "EMAIL_SANCTION_DURATION_INDEFINITE"
-msgstr "Indefinite"
+msgstr "Tills vidare"
 
 msgid "EMAIL_SANCTION_DURATION_LABEL"
-msgstr "Duration"
+msgstr "Varaktighet"
 
 msgid "EMAIL_SANCTION_REASON_LABEL"
-msgstr "Reason"
+msgstr "Orsak"
 
 msgid "EMAIL_SANCTION_UNTIL_LABEL"
-msgstr "Until"
+msgstr "Till"

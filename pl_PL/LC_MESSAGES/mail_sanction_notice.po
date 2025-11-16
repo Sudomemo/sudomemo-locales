@@ -4,49 +4,49 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "MAIL_EFFECTS_HEADER"
-msgstr "During this restriction, you will not be able to:"
+msgstr "Podczas tej blokady nie będziesz mógł:"
 
 msgid "MAIL_EFFECT_COMMENT_FLIPNOTES"
-msgstr "• Comment on Flipnotes"
+msgstr "• Komentować Flipnotek"
 
 msgid "MAIL_EFFECT_OTHER_FUNCTIONALITY_AFFECTED"
-msgstr "• This may affect other functionality"
+msgstr "• Korzystać z innych funkcji, które mogą być ograniczone"
 
 msgid "MAIL_EFFECT_POST_FLIPNOTES"
-msgstr "• Post new Flipnotes"
+msgstr "• Publikować nowych Flipnotek"
 
 msgid "MAIL_EFFECT_REPLY_TO_COMMENTS"
-msgstr "• Reply to comments"
+msgstr "• Odpowiadać na komentarze"
 
 msgid "MAIL_EFFECT_SEND_CHAT_MESSAGES"
-msgstr "• Send chat messages"
+msgstr "• Wysyłać wiadomości na czacie"
 
 msgid "MAIL_EFFECT_STAR_FLIPNOTES"
-msgstr "• Star Flipnotes"
+msgstr "• Dawać gwiazdki Flipnotkom"
 
 msgid "MAIL_EFFECT_USE_FLIPNOTE_FEATURES"
-msgstr "• Use Flipnote features"
+msgstr "• Korzystać z funkcji Flipnote"
 
 msgid "MAIL_SANCTION_ACKNOWLEDGE_REQUIRED"
-msgstr "You must acknowledge this message before the restriction can be lifted."
+msgstr "Musisz potwierdzić tę wiadomość, zanim blokada będzie mogła zostać zdjęta."
 
 msgid "MAIL_SANCTION_CAN_BE_LIFTED_AFTER"
-msgstr "This restriction can be lifted after %s"
+msgstr "Blokadę można zdjąć po %s"
 
 msgid "MAIL_SANCTION_INDEFINITE"
-msgstr "This restriction is indefinite."
+msgstr "Ta blokada obowiązuje bezterminowo."
 
 msgid "MAIL_SANCTION_LIFTED_ON"
-msgstr "This restriction will be lifted on %s"
+msgstr "Blokada zostanie zdjęta %s"
 
 msgid "MAIL_SANCTION_REASON_PREFIX"
-msgstr "Reason: "
+msgstr "Powód: "
 
 msgid "MAIL_SANCTION_TITLE"
-msgstr "You have been restricted from interacting with Sudomemo."
+msgstr "Twoja interakcja z Sudomemo została ograniczona."
 
 msgid "NOTICE"
-msgstr "Notice"
+msgstr "Powiadomienie"
 
 msgid "SANCTION_ACKNOWLEDGE_BUTTON"
-msgstr "Acknowledge..."
+msgstr "Potwierdź…"

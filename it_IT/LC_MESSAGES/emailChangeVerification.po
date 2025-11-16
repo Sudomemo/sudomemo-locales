@@ -4,27 +4,27 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CHANGE_EMAIL_HEADER"
-msgstr "Verifica il tuo nuovo indirizzo email"
+msgstr "Verifica il tuo nuovo indirizzo e-mail"
 
 msgid "EMAIL_CHANGE_VERIFICATION_EXPIRED_TEXT"
-msgstr "Questo link di verifica email è scaduto o è già stato usato. Per favore, richiedi un nuovo cambio dell'email dalle impostazioni del tuo account."
+msgstr "Questo link di verifica è scaduto o è già stato usato. Richiedi un nuovo cambio e-mail dalle impostazioni del tuo account."
 
 msgid "EMAIL_CHANGE_VERIFIED_SUCCESS"
-msgstr "Il tuo indirizzo email è stato aggiornato con successo. Ora puoi usare il tuo nuovo indirizzo email per accedere."
+msgstr "Il tuo indirizzo e-mail è stato aggiornato correttamente. Ora puoi usarlo per accedere."
 
 # Email change verification email
 msgid "EMAIL_SUBJECT"
-msgstr "Verifica il tuo nuovo indirizzo email - Sudomemo"
+msgstr "Verifica il tuo nuovo indirizzo e-mail - Sudomemo"
 
 # Email change verification page
 msgid "HEADER_VERIFICATION_EXPIRED"
 msgstr "Link di verifica scaduto"
 
 msgid "RETURN_TO_SETTINGS"
-msgstr "Ritorna alle Impostazioni"
+msgstr "Torna alle impostazioni"
 
 msgid "TEXT_EMAIL_CHANGE_PURPOSE"
-msgstr "Hai richiesto di cambiare il tuo indirizzo email su Sudomemo. Per completare questo passaggio, per favore, clicca sul link in basso per verificare il tuo nuovo indirizzo email."
+msgstr "Hai richiesto di cambiare l'indirizzo e-mail su Sudomemo. Per completare la modifica, fai clic sul link qui sotto e verifica il nuovo indirizzo."
 
 msgid "TEXT_HELLO"
 msgstr "Ciao!"
@@ -33,7 +33,7 @@ msgid "TEXT_URL_PLAIN_DISPLAY"
 msgstr "Se il link non funziona, copia e incolla questo URL nel tuo browser:"
 
 msgid "TEXT_VERIFICATION_LINK_FORMAT"
-msgstr "Clicca qui per verificare il tuo nuovo indirizzo email: %s"
+msgstr "Fai clic qui per verificare il tuo nuovo indirizzo e-mail: %s"
 
 msgid "WEB_HEADER_EMAIL_CHANGE_SUCCESS"
-msgstr "Indirizzo email cambiato con successo!"
+msgstr "Indirizzo e-mail cambiato con successo!"

@@ -4,36 +4,36 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CHANGE_EMAIL_HEADER"
-msgstr "Verify Your New Email Address"
+msgstr "Bevestig je nieuwe e-mailadres"
 
 msgid "EMAIL_CHANGE_VERIFICATION_EXPIRED_TEXT"
-msgstr "This email verification link has expired or has already been used. Please request a new email change from your account settings."
+msgstr "Deze verificatielink is verlopen of al gebruikt. Vraag een nieuwe wijziging aan via de instellingen van je account."
 
 msgid "EMAIL_CHANGE_VERIFIED_SUCCESS"
-msgstr "Your email address has been successfully updated. You can now use your new email address to log in."
+msgstr "Je e-mailadres is bijgewerkt. Je kunt er nu mee inloggen."
 
 # Email change verification email
 msgid "EMAIL_SUBJECT"
-msgstr "Verify your new email address - Sudomemo"
+msgstr "Bevestig je nieuwe e-mailadres - Sudomemo"
 
 # Email change verification page
 msgid "HEADER_VERIFICATION_EXPIRED"
-msgstr "Verification Link Expired"
+msgstr "Verificatielink verlopen"
 
 msgid "RETURN_TO_SETTINGS"
-msgstr "Return to Settings"
+msgstr "Terug naar instellingen"
 
 msgid "TEXT_EMAIL_CHANGE_PURPOSE"
-msgstr "You've requested to change your email address on Sudomemo. To complete this change, please click the link below to verify your new email address."
+msgstr "Je hebt gevraagd om je e-mailadres op Sudomemo te wijzigen. Klik op de link hieronder om je nieuwe adres te bevestigen."
 
 msgid "TEXT_HELLO"
-msgstr "Hello!"
+msgstr "Hallo!"
 
 msgid "TEXT_URL_PLAIN_DISPLAY"
-msgstr "If the link doesn't work, copy and paste this URL into your browser:"
+msgstr "Werkt de link niet? Kopieer en plak deze URL in je browser:"
 
 msgid "TEXT_VERIFICATION_LINK_FORMAT"
-msgstr "Click here to verify your new email address: %s"
+msgstr "Klik hier om je nieuwe e-mailadres te verifiëren: %s"
 
 msgid "WEB_HEADER_EMAIL_CHANGE_SUCCESS"
-msgstr "Email Address Changed Successfully!"
+msgstr "E-mailadres succesvol gewijzigd!"

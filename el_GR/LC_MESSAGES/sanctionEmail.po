@@ -4,85 +4,85 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "EMAIL_ACKNOWLEDGE_LINK_TEXT"
-msgstr "Acknowledge Now"
+msgstr "Επιβεβαίωσε τώρα"
 
 msgid "EMAIL_ACKNOWLEDGE_SECTION_BODY"
-msgstr "Please click the link below to acknowledge this mute and continue using Sudomemo."
+msgstr "Κάνε κλικ στον παρακάτω σύνδεσμο για να επιβεβαιώσεις αυτή τη σίγαση και να συνεχίσεις να χρησιμοποιείς το Sudomemo."
 
 msgid "EMAIL_ACKNOWLEDGE_SECTION_HEADER"
-msgstr "Acknowledge Restriction"
+msgstr "Επιβεβαίωση περιορισμού"
 
 msgid "EMAIL_ACTION_REQUIRED_LABEL"
-msgstr "Action Required"
+msgstr "Απαιτείται ενέργεια"
 
 msgid "EMAIL_APPEAL_LINK_TEXT"
-msgstr "Submit an Appeal"
+msgstr "Υποβολή ένστασης"
 
 msgid "EMAIL_APPEAL_SECTION_BODY_MUTE"
-msgstr "If you believe this mute was applied in error, you may submit an appeal."
+msgstr "Αν πιστεύεις ότι αυτή η σίγαση έγινε κατά λάθος, μπορείς να υποβάλεις ένσταση."
 
 msgid "EMAIL_APPEAL_SECTION_BODY_RESTRICTION"
-msgstr "If you believe this restriction was applied in error, you may submit an appeal."
+msgstr "Αν πιστεύεις ότι αυτός ο περιορισμός έγινε κατά λάθος, μπορείς να υποβάλεις ένσταση."
 
 msgid "EMAIL_APPEAL_SECTION_HEADER"
-msgstr "Appeal"
+msgstr "Ένσταση"
 
 msgid "EMAIL_FOOTER_AUTOMATED"
-msgstr "This is an automated message, please do not reply."
+msgstr "Αυτό είναι αυτοματοποιημένο μήνυμα, μην απαντήσεις."
 
 msgid "EMAIL_FOOTER_SUPPORT_MUTE"
-msgstr "If you need further assistance regarding this mute, please contact our support team."
+msgstr "Χρειάζεσαι επιπλέον βοήθεια για αυτή τη σίγαση; Επικοινώνησε με την ομάδα υποστήριξής μας."
 
 msgid "EMAIL_FOOTER_SUPPORT_RESTRICTION"
-msgstr "If you need further assistance regarding this restriction, please contact our support team."
+msgstr "Χρειάζεσαι επιπλέον βοήθεια για αυτόν τον περιορισμό; Επικοινώνησε με την ομάδα υποστήριξής μας."
 
 msgid "EMAIL_GREETING"
-msgstr "Hello %s"
+msgstr "Γεια σου %s"
 
 msgid "EMAIL_MUTE_ACKNOWLEDGE_REQUIRED"
-msgstr "You must acknowledge this mute before continuing."
+msgstr "Πρέπει να επιβεβαιώσεις αυτή τη σίγαση πριν συνεχίσεις."
 
 msgid "EMAIL_MUTE_NOTICE_BODY"
-msgstr "Your Sudomemo account has been muted. You can still log in and view content, but you cannot post comments or interact with other users."
+msgstr "Ο λογαριασμός σου στο Sudomemo έχει σιγήσει. Μπορείς ακόμα να συνδεθείς και να δεις περιεχόμενο, αλλά δεν μπορείς να γράψεις σχόλια ή να αλληλεπιδράσεις με άλλους χρήστες."
 
 msgid "EMAIL_MUTE_NOTICE_TITLE"
-msgstr "Notice"
+msgstr "Ειδοποίηση"
 
 msgid "EMAIL_MUTE_RESTRICTIONS_HEADER"
-msgstr "Restrictions"
+msgstr "Περιορισμοί"
 
 msgid "EMAIL_MUTE_RESTRICTION_CHAT"
-msgstr "You cannot send chat messages."
+msgstr "Δεν μπορείς να στέλνεις μηνύματα συνομιλίας."
 
 msgid "EMAIL_MUTE_RESTRICTION_COMMENT"
-msgstr "You cannot post comments."
+msgstr "Δεν μπορείς να δημοσιεύεις σχόλια."
 
 msgid "EMAIL_MUTE_RESTRICTION_OTHER"
-msgstr "Other interactions are disabled."
+msgstr "Άλλες αλληλεπιδράσεις είναι απενεργοποιημένες."
 
 msgid "EMAIL_MUTE_RESTRICTION_REPLY"
-msgstr "You cannot reply to other comments."
+msgstr "Δεν μπορείς να απαντάς σε άλλα σχόλια."
 
 msgid "EMAIL_RESTRICTION_NOTICE_BODY"
-msgstr "You have been restricted from interacting with Sudomemo. This means you cannot log in or interact with Sudomemo."
+msgstr "Έχεις περιοριστεί από το να αλληλεπιδράς με το Sudomemo. Δεν μπορείς να συνδεθείς ή να χρησιμοποιήσεις την υπηρεσία."
 
 msgid "EMAIL_RESTRICTION_NOTICE_TITLE"
-msgstr "Notice"
+msgstr "Ειδοποίηση"
 
 msgid "EMAIL_SANCTION_APPLIED_LABEL"
-msgstr "Applied on"
+msgstr "Εφαρμόστηκε στις"
 
 msgid "EMAIL_SANCTION_DETAILS_HEADER"
-msgstr "Details"
+msgstr "Λεπτομέρειες"
 
 msgid "EMAIL_SANCTION_DURATION_INDEFINITE"
-msgstr "Indefinite"
+msgstr "Αόριστο"
 
 msgid "EMAIL_SANCTION_DURATION_LABEL"
-msgstr "Duration"
+msgstr "Διάρκεια"
 
 msgid "EMAIL_SANCTION_REASON_LABEL"
-msgstr "Reason"
+msgstr "Αιτία"
 
 msgid "EMAIL_SANCTION_UNTIL_LABEL"
-msgstr "Until"
+msgstr "Έως"

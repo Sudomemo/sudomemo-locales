@@ -4,49 +4,49 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "MAIL_EFFECTS_HEADER"
-msgstr "During this restriction, you will not be able to:"
+msgstr "Durante essa restrição você não poderá:"
 
 msgid "MAIL_EFFECT_COMMENT_FLIPNOTES"
-msgstr "• Comment on Flipnotes"
+msgstr "• Comentar Flipnotes"
 
 msgid "MAIL_EFFECT_OTHER_FUNCTIONALITY_AFFECTED"
-msgstr "• This may affect other functionality"
+msgstr "• Outras funções podem ser afetadas"
 
 msgid "MAIL_EFFECT_POST_FLIPNOTES"
-msgstr "• Post new Flipnotes"
+msgstr "• Publicar novas Flipnotes"
 
 msgid "MAIL_EFFECT_REPLY_TO_COMMENTS"
-msgstr "• Reply to comments"
+msgstr "• Responder a comentários"
 
 msgid "MAIL_EFFECT_SEND_CHAT_MESSAGES"
-msgstr "• Send chat messages"
+msgstr "• Enviar mensagens de chat"
 
 msgid "MAIL_EFFECT_STAR_FLIPNOTES"
-msgstr "• Star Flipnotes"
+msgstr "• Dar estrelas às Flipnotes"
 
 msgid "MAIL_EFFECT_USE_FLIPNOTE_FEATURES"
-msgstr "• Use Flipnote features"
+msgstr "• Usar recursos do Flipnote"
 
 msgid "MAIL_SANCTION_ACKNOWLEDGE_REQUIRED"
-msgstr "You must acknowledge this message before the restriction can be lifted."
+msgstr "Você precisa confirmar esta mensagem antes que a restrição possa ser encerrada."
 
 msgid "MAIL_SANCTION_CAN_BE_LIFTED_AFTER"
-msgstr "This restriction can be lifted after %s"
+msgstr "Essa restrição pode ser encerrada depois de %s"
 
 msgid "MAIL_SANCTION_INDEFINITE"
-msgstr "This restriction is indefinite."
+msgstr "Essa restrição é por tempo indeterminado."
 
 msgid "MAIL_SANCTION_LIFTED_ON"
-msgstr "This restriction will be lifted on %s"
+msgstr "Essa restrição será encerrada em %s"
 
 msgid "MAIL_SANCTION_REASON_PREFIX"
-msgstr "Reason: "
+msgstr "Motivo: "
 
 msgid "MAIL_SANCTION_TITLE"
-msgstr "You have been restricted from interacting with Sudomemo."
+msgstr "Sua interação com o Sudomemo foi limitada."
 
 msgid "NOTICE"
-msgstr "Notice"
+msgstr "Aviso"
 
 msgid "SANCTION_ACKNOWLEDGE_BUTTON"
-msgstr "Acknowledge..."
+msgstr "Confirmar…"

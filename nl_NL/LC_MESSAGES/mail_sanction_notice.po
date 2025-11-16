@@ -4,49 +4,49 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "MAIL_EFFECTS_HEADER"
-msgstr "During this restriction, you will not be able to:"
+msgstr "Tijdens deze beperking kun je het volgende niet:"
 
 msgid "MAIL_EFFECT_COMMENT_FLIPNOTES"
-msgstr "• Comment on Flipnotes"
+msgstr "• Reacties plaatsen op Flipnotes"
 
 msgid "MAIL_EFFECT_OTHER_FUNCTIONALITY_AFFECTED"
-msgstr "• This may affect other functionality"
+msgstr "• Andere functies kunnen worden beïnvloed"
 
 msgid "MAIL_EFFECT_POST_FLIPNOTES"
-msgstr "• Post new Flipnotes"
+msgstr "• Nieuwe Flipnotes uploaden"
 
 msgid "MAIL_EFFECT_REPLY_TO_COMMENTS"
-msgstr "• Reply to comments"
+msgstr "• Op reacties antwoorden"
 
 msgid "MAIL_EFFECT_SEND_CHAT_MESSAGES"
-msgstr "• Send chat messages"
+msgstr "• Chatberichten sturen"
 
 msgid "MAIL_EFFECT_STAR_FLIPNOTES"
-msgstr "• Star Flipnotes"
+msgstr "• Flipnotes sterren geven"
 
 msgid "MAIL_EFFECT_USE_FLIPNOTE_FEATURES"
-msgstr "• Use Flipnote features"
+msgstr "• Flipnote-functies gebruiken"
 
 msgid "MAIL_SANCTION_ACKNOWLEDGE_REQUIRED"
-msgstr "You must acknowledge this message before the restriction can be lifted."
+msgstr "Je moet dit bericht bevestigen voordat de beperking kan worden opgeheven."
 
 msgid "MAIL_SANCTION_CAN_BE_LIFTED_AFTER"
-msgstr "This restriction can be lifted after %s"
+msgstr "Deze beperking kan na %s worden opgeheven"
 
 msgid "MAIL_SANCTION_INDEFINITE"
-msgstr "This restriction is indefinite."
+msgstr "Deze beperking is voor onbepaalde tijd."
 
 msgid "MAIL_SANCTION_LIFTED_ON"
-msgstr "This restriction will be lifted on %s"
+msgstr "Deze beperking wordt opgeheven op %s"
 
 msgid "MAIL_SANCTION_REASON_PREFIX"
-msgstr "Reason: "
+msgstr "Reden: "
 
 msgid "MAIL_SANCTION_TITLE"
-msgstr "You have been restricted from interacting with Sudomemo."
+msgstr "Je interactie met Sudomemo is beperkt."
 
 msgid "NOTICE"
-msgstr "Notice"
+msgstr "Melding"
 
 msgid "SANCTION_ACKNOWLEDGE_BUTTON"
-msgstr "Acknowledge..."
+msgstr "Bevestigen…"
