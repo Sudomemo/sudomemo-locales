@@ -4,49 +4,49 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "MAIL_EFFECTS_HEADER"
-msgstr "During this restriction, you will not be able to:"
+msgstr "Κατά τη διάρκεια αυτού του περιορισμού δεν θα μπορείς:"
 
 msgid "MAIL_EFFECT_COMMENT_FLIPNOTES"
-msgstr "• Comment on Flipnotes"
+msgstr "• Να σχολιάζεις Flipnotes"
 
 msgid "MAIL_EFFECT_OTHER_FUNCTIONALITY_AFFECTED"
-msgstr "• This may affect other functionality"
+msgstr "• Άλλες λειτουργίες μπορεί επίσης να επηρεαστούν"
 
 msgid "MAIL_EFFECT_POST_FLIPNOTES"
-msgstr "• Post new Flipnotes"
+msgstr "• Να ανεβάζεις νέες Flipnotes"
 
 msgid "MAIL_EFFECT_REPLY_TO_COMMENTS"
-msgstr "• Reply to comments"
+msgstr "• Να απαντάς σε σχόλια"
 
 msgid "MAIL_EFFECT_SEND_CHAT_MESSAGES"
-msgstr "• Send chat messages"
+msgstr "• Να στέλνεις μηνύματα συνομιλίας"
 
 msgid "MAIL_EFFECT_STAR_FLIPNOTES"
-msgstr "• Star Flipnotes"
+msgstr "• Να δίνεις αστέρια σε Flipnotes"
 
 msgid "MAIL_EFFECT_USE_FLIPNOTE_FEATURES"
-msgstr "• Use Flipnote features"
+msgstr "• Να χρησιμοποιείς λειτουργίες του Flipnote"
 
 msgid "MAIL_SANCTION_ACKNOWLEDGE_REQUIRED"
-msgstr "You must acknowledge this message before the restriction can be lifted."
+msgstr "Πρέπει να επιβεβαιώσεις αυτό το μήνυμα πριν αρθεί ο περιορισμός."
 
 msgid "MAIL_SANCTION_CAN_BE_LIFTED_AFTER"
-msgstr "This restriction can be lifted after %s"
+msgstr "Ο περιορισμός μπορεί να αρθεί μετά τις %s"
 
 msgid "MAIL_SANCTION_INDEFINITE"
-msgstr "This restriction is indefinite."
+msgstr "Αυτός ο περιορισμός είναι αόριστος."
 
 msgid "MAIL_SANCTION_LIFTED_ON"
-msgstr "This restriction will be lifted on %s"
+msgstr "Ο περιορισμός θα αρθεί στις %s"
 
 msgid "MAIL_SANCTION_REASON_PREFIX"
-msgstr "Reason: "
+msgstr "Αιτία: "
 
 msgid "MAIL_SANCTION_TITLE"
-msgstr "You have been restricted from interacting with Sudomemo."
+msgstr "Ο τρόπος που αλληλεπιδράς με το Sudomemo περιορίστηκε."
 
 msgid "NOTICE"
-msgstr "Notice"
+msgstr "Ειδοποίηση"
 
 msgid "SANCTION_ACKNOWLEDGE_BUTTON"
-msgstr "Acknowledge..."
+msgstr "Επιβεβαίωση…"

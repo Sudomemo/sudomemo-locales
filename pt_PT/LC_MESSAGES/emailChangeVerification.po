@@ -4,36 +4,36 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CHANGE_EMAIL_HEADER"
-msgstr "Verifica o teu novo Endereço de Email"
+msgstr "Confirma o teu novo endereço de e-mail"
 
 msgid "EMAIL_CHANGE_VERIFICATION_EXPIRED_TEXT"
-msgstr "Este link para a verificação de email expirou ou já foi usado. Por favor peça uma nova mudança de email nas definições da tua conta."
+msgstr "Esta ligação de verificação expirou ou já foi utilizada. Pede uma nova alteração de e-mail nas definições da tua conta."
 
 msgid "EMAIL_CHANGE_VERIFIED_SUCCESS"
-msgstr "O teu endereço de email foi actualizado com successo. Podes agora usar o teu novo endereço de email para fazeres login."
+msgstr "O teu endereço de e-mail foi atualizado com sucesso. Já o podes usar para iniciar sessão."
 
 # Email change verification email
 msgid "EMAIL_SUBJECT"
-msgstr "Verifica o teu novo endereço de email - Sudomemo"
+msgstr "Confirma o teu novo endereço de e-mail - Sudomemo"
 
 # Email change verification page
 msgid "HEADER_VERIFICATION_EXPIRED"
-msgstr "Link de Verificação Expirou"
+msgstr "Ligação de verificação expirada"
 
 msgid "RETURN_TO_SETTINGS"
-msgstr "Voltar para as Definições"
+msgstr "Voltar às definições"
 
 msgid "TEXT_EMAIL_CHANGE_PURPOSE"
-msgstr "Pediste para mudar o teu endereço de email no Sudomemo. Para completar esta mudança, por favor clique no link embaixo para verificar o teu novo endereço de email."
+msgstr "Pediste para mudar o endereço de e-mail no Sudomemo. Para concluir, clica na ligação abaixo e confirma o novo endereço."
 
 msgid "TEXT_HELLO"
 msgstr "Olá!"
 
 msgid "TEXT_URL_PLAIN_DISPLAY"
-msgstr "Se o link não funcionar, copie e cole este URL no teu navegador:"
+msgstr "Se a ligação não funcionar, copia e cola este URL no teu navegador:"
 
 msgid "TEXT_VERIFICATION_LINK_FORMAT"
-msgstr "Clique aqui para verificar o teu novo endereço de email: %s"
+msgstr "Clica aqui para confirmar o teu novo endereço de e-mail: %s"
 
 msgid "WEB_HEADER_EMAIL_CHANGE_SUCCESS"
-msgstr "Endereço de Email foi Mudado com Successo!"
+msgstr "Endereço de e-mail alterado com sucesso!"
