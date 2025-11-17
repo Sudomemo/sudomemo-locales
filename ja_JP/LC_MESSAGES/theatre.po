@@ -69,6 +69,9 @@ msgstr "Add another account to switch between them quickly."
 msgid "ADD_NEW_WEBHOOK"
 msgstr "Add New Webhook"
 
+msgid "ADD_TO_FAVORITES"
+msgstr "Add to Favorites"
+
 msgid "ADD_TO_NEW_PLAYLIST"
 msgstr "新規プレイリストに追加"
 
@@ -1912,6 +1915,9 @@ msgstr "削除"
 
 msgid "REMOVE_ACCOUNT"
 msgstr "アカウントを削除"
+
+msgid "REMOVE_FAVORITE"
+msgstr "Remove Favorite"
 
 msgid "REMOVE_FROM_PLAYLIST"
 msgstr "プレイリストから削除"
