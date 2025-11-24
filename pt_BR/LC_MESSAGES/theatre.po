@@ -26,6 +26,9 @@ msgstr "Account already added"
 msgid "ACCOUNT_BANNED_BLOCKED"
 msgstr "Account is restricted from Sudomemo"
 
+msgid "ACCOUNT_DEACTIVATED_ERROR"
+msgstr "This Sudomemo account has been closed."
+
 msgid "ACCOUNT_NOT_FOUND"
 msgstr "Account not found"
 

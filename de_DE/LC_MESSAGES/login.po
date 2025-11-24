@@ -3,6 +3,21 @@ msgstr ""
 "Language: de_DE\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "ACCOUNT_DEACTIVATED_ERROR"
+msgstr "This Sudomemo account has been closed."
+
+msgid "ACCOUNT_DEACTIVATED_LINE1"
+msgstr "You've closed this Sudomemo account."
+
+msgid "ACCOUNT_DEACTIVATED_LINE2"
+msgstr "Thank you for the time you spent creating and sharing!"
+
+msgid "ACCOUNT_DEACTIVATED_LINE3"
+msgstr "We hope you'll keep exploring art and self-expression wherever you go."
+
+msgid "ACCOUNT_DEACTIVATED_TITLE"
+msgstr "Account closed"
+
 msgid "ACKNOWLEDGE_FAILED"
 msgstr "Failed to acknowledge the mute. Please try again."
 
