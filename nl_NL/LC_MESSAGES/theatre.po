@@ -878,6 +878,9 @@ msgstr "Archief Instellingen"
 msgid "FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote door %s"
 
+msgid "FLIPNOTE_DETAILS_TIME_FORMAT"
+msgstr "M jS, Y H:i:s"
+
 msgid "FLIPNOTE_HATENA_PROFILE"
 msgstr "Flipnote Hatena Profiel"
 

@@ -868,6 +868,9 @@ msgstr "アーカイブ設定"
 msgid "FLIPNOTE_BY_FORMAT"
 msgstr "%sさんの作品"
 
+msgid "FLIPNOTE_DETAILS_TIME_FORMAT"
+msgstr "M jS, Y H:i:s"
+
 msgid "FLIPNOTE_HATENA_PROFILE"
 msgstr "うごメモはてなでのプロフィール"
 
