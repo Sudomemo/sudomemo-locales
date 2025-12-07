@@ -868,6 +868,9 @@ msgstr "Ustawienia archiwum"
 msgid "FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote stworzony przez %s"
 
+msgid "FLIPNOTE_DETAILS_TIME_FORMAT"
+msgstr "M jS, Y H:i:s"
+
 msgid "FLIPNOTE_HATENA_PROFILE"
 msgstr "Profil na Flipnote Hatena"
 

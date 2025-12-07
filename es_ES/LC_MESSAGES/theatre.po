@@ -868,6 +868,9 @@ msgstr "Configuración del Perfil Archivo"
 msgid "FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote por %s"
 
+msgid "FLIPNOTE_DETAILS_TIME_FORMAT"
+msgstr "M jS, Y H:i:s"
+
 msgid "FLIPNOTE_HATENA_PROFILE"
 msgstr "Perfil de Flipnote Hatena"
 
