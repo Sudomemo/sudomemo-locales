@@ -13,10 +13,10 @@ msgid "ADMIN_ACTIONS"
 msgstr "Actions administratives"
 
 msgid "BY_FORMAT"
-msgstr "by %s"
+msgstr "par %s"
 
 msgid "CREDITS"
-msgstr "Credits"
+msgstr "Crédits"
 
 msgid "ENTER_DESCRIPTION"
 msgstr "Entrez une description..."
@@ -55,7 +55,7 @@ msgid "HEADER_DOWNLOADS"
 msgstr "Téléchargements"
 
 msgid "HEADER_FLIPNOTE_CREDITS"
-msgstr "Flipnote Credits"
+msgstr "Crédits du Flipnote"
 
 msgid "HEADER_FLIPNOTE_ID"
 msgstr "ID de la Flipnote"

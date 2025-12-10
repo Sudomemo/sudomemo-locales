@@ -4,7 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CANCEL"
-msgstr "Cancel"
+msgstr "Annuler"
 
 msgid "COMMENT_FAILED_USER_BANNED"
 msgstr "L'utilisation de votre compte Sudomemo a été restreinte."
@@ -58,7 +58,7 @@ msgid "PAGE_FORMAT"
 msgstr "Page %d"
 
 msgid "REPLYING_TO_X"
-msgstr "Replying to %s"
+msgstr "En réponse à %s"
 
 msgid "SUDOMEMO_USER"
 msgstr "Util. Sudomemo"

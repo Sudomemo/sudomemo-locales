@@ -115,13 +115,13 @@ msgid "OR"
 msgstr "OU"
 
 msgid "PI_GIFT_ANONYMOUS"
-msgstr "Sent anonymously"
+msgstr "Délivré anonymement"
 
 msgid "PI_GIFT_FROM"
-msgstr "Gift from %s"
+msgstr "Cadeau de %s"
 
 msgid "PI_GIFT_NO_MESSAGE"
-msgstr "(No message included)"
+msgstr "(Sans message inclu)"
 
 # Code Redemption
 msgid "REDEEM_CODE"
@@ -131,7 +131,7 @@ msgid "SEND_GIFT"
 msgstr "Offrir un cadeau"
 
 msgid "SEND_GIFT_ANON"
-msgstr "Offrir un cadeau Anonyme"
+msgstr "Offrir un cadeau anonyme"
 
 msgid "SUDOMEMO_CITIZENSHIP"
 msgstr "Citoyenneté Sudomemo"
@@ -146,11 +146,11 @@ msgid "SUDOMEMO_PLUS_FORMAT"
 msgstr "Vous avez reçu %s jours de Sudomemo Plus !"
 
 msgid "TAP_TO_ADD_MSG"
-msgstr "Appuyer ici pour écrire un message..."
+msgstr "Tapotez ici pour écrire un message..."
 
 # %s will be replaced with the gift recipient's username.
 msgid "THANK_YOU_FOR_GIFTING"
-msgstr "Merci d'avoir offert un cadeau à %s! Nous sommes certains que cette personne l'aimera!"
+msgstr "Merci d'avoir offert un cadeau à %s! Nous sommes certains que cette personne l'aimera !"
 
 msgid "THEME_AVAILABLE_FOR_USE"
 msgstr "Vous pouvez maintenant utiliser ce thème dans votre Salle de créateur !"
@@ -199,13 +199,13 @@ msgid "TICKET_DESC_fall_2024_ffc_winner_ticket"
 msgstr "Félicitations pour votre création gagnante à la Flipnote Fight Competition de Sudomemo d'automne 2024 !"
 
 msgid "TICKET_DESC_fall_2025_ffc_winner_ticket"
-msgstr "Congratulations on your winning entry to the Fall 2025 Sudomemo Flipnote Fight Competition!"
+msgstr "Félicitations pour votre création gagnante à la Flipnote Fight Competition de Sudomemo d'automne 2025 !"
 
 msgid "TICKET_DESC_fate_2024_winner_ticket"
 msgstr "Félicitations pour votre soumission gagnante à FATE 2024 !"
 
 msgid "TICKET_DESC_fate_2025_winner_ticket"
-msgstr "Congratulations on your winning FATE 2025 submission!"
+msgstr "Félicitations pour votre soumission gagnante à FATE 2025 !"
 
 msgid "TICKET_DESC_featured_artist_ticket"
 msgstr "Nous vous félicitons chaleureusement pour être devenu un artiste en vedette de Sudomemo !"
@@ -361,7 +361,7 @@ msgid "TICKET_NAME_fall_2024_ffc_winner_ticket"
 msgstr "Ticket de lauréat de la F.F.C. de Sudomemo d'automne 2024"
 
 msgid "TICKET_NAME_fall_2025_ffc_winner_ticket"
-msgstr "Fall 2025 Sudomemo F.F.C. Winner Ticket"
+msgstr "Ticket de lauréat de la F.F.C. de Sudomemo d'automne 2025"
 
 msgid "TICKET_NAME_fate_2024_winner_ticket"
 msgstr "Ticket de lauréat du FATE 2024"

@@ -22,7 +22,7 @@ msgid "FRAGMENT_COMMA_AND"
 msgstr ", et "
 
 msgid "FRAGMENT_COMMENT"
-msgstr "comment"
+msgstr "commentaire"
 
 msgid "FRAGMENT_COMMENTED_ON"
 msgstr " a commenté sur "
@@ -61,7 +61,7 @@ msgid "FRAGMENT_OTHER_PERSON_SINGULAR"
 msgstr " autre personne"
 
 msgid "FRAGMENT_REPLIED_TO_YOUR_COMMENT_ON"
-msgstr " replied to your comment on "
+msgstr " a répondu à votre commentaire sur "
 
 msgid "FRAGMENT_REPORT"
 msgstr "signalement"
