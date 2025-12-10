@@ -118,11 +118,11 @@ msgid "YOUTUBE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
 msgstr "Veuillez nous contacter sur Discord ou par e-mail à %s."
 
 msgid "YOUTUBE_DS_PLAYLISTS_CHANGE_HINT"
-msgstr "To change default playlists, visit: https://flipnot.es/ytsetup"
+msgstr "Pour changer les playlistes par défaut, visitez: https://flipnot.es/ytsetup"
 
 # DS upload page messages
 msgid "YOUTUBE_DS_PLAYLISTS_HEADING"
-msgstr "Will be added to:"
+msgstr "Sera ajouté à :"
 
 msgid "YOUTUBE_ESTIMATED_DURATION"
 msgstr "Durée de la vidéo estimée :"

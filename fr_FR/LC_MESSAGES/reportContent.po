@@ -76,7 +76,7 @@ msgid "CONFIRM_EMAIL_BEFORE_REPORTING"
 msgstr "Merci de confirmer votre adresse email avant de signaler un contenu."
 
 msgid "CONTENT_ALREADY_REMOVED"
-msgstr "The content you're trying to report has already been removed."
+msgstr "Le contenu que vous essayez de signaler est déjà retiré."
 
 msgid "CREATOR_FORMAT"
 msgstr "Créateur : %s"
@@ -119,7 +119,7 @@ msgid "NO_BLANK_REPORTS"
 msgstr "Vous ne pouvez pas envoyer un signalement vide."
 
 msgid "REPORT_CATEGORY_LABEL"
-msgstr "Category"
+msgstr "Catégorie"
 
 msgid "REPORT_CHAT_MESSAGE"
 msgstr "Signaler le message de chat"

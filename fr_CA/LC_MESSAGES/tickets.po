@@ -115,23 +115,23 @@ msgid "OR"
 msgstr "OR"
 
 msgid "PI_GIFT_ANONYMOUS"
-msgstr "Sent anonymously"
+msgstr "Envoyé anonymement"
 
 msgid "PI_GIFT_FROM"
-msgstr "Gift from %s"
+msgstr "Cadeau de %s"
 
 msgid "PI_GIFT_NO_MESSAGE"
-msgstr "(No message included)"
+msgstr "(Sans message inclu)"
 
 # Code Redemption
 msgid "REDEEM_CODE"
 msgstr "Redeem Code"
 
 msgid "SEND_GIFT"
-msgstr "Send Gift"
+msgstr "Envoyer un cadeau"
 
 msgid "SEND_GIFT_ANON"
-msgstr "Send Gift Anonymously"
+msgstr "Envoyer un cadeau anonyme"
 
 msgid "SUDOMEMO_CITIZENSHIP"
 msgstr "Sudomemo Citizenship"
@@ -146,7 +146,7 @@ msgid "SUDOMEMO_PLUS_FORMAT"
 msgstr "You received %s days worth of Sudomemo Plus!"
 
 msgid "TAP_TO_ADD_MSG"
-msgstr "Tap to add a message..."
+msgstr "Appuyez ici pour écrire un message..."
 
 # %s will be replaced with the gift recipient's username.
 msgid "THANK_YOU_FOR_GIFTING"
