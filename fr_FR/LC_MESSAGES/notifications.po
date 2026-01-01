@@ -81,11 +81,20 @@ msgstr "Étoiles"
 msgid "FRAGMENT_TO_YOUR"
 msgstr " à votre "
 
+msgid "FRAGMENT_WAS_PINNED"
+msgstr " was pinned!"
+
 msgid "FRAGMENT_WAS_REMOVED_POLICY"
 msgstr " a été supprimé pour avoir enfreint notre Politique de contenu"
 
 msgid "FRAGMENT_YOUR"
 msgstr "Votre "
 
+msgid "FRAGMENT_YOUR_COMMENT_ON"
+msgstr "Your comment on "
+
 msgid "FRAGMENT_YOUR_FLIPNOTE"
 msgstr "votre Flipnote"
+
+msgid "FRAGMENT_YOUR_FLIPNOTE_WAS_FEATURED"
+msgstr "Your Flipnote was featured! "
