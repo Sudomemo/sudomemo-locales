@@ -81,11 +81,20 @@ msgstr "Stelle"
 msgid "FRAGMENT_TO_YOUR"
 msgstr " al tuo "
 
+msgid "FRAGMENT_WAS_PINNED"
+msgstr " was pinned!"
+
 msgid "FRAGMENT_WAS_REMOVED_POLICY"
 msgstr " è stato rimosso per aver violato la nostra Policy sul Contenuto"
 
 msgid "FRAGMENT_YOUR"
 msgstr "Il tuo "
 
+msgid "FRAGMENT_YOUR_COMMENT_ON"
+msgstr "Your comment on "
+
 msgid "FRAGMENT_YOUR_FLIPNOTE"
 msgstr "il tuo Flipnote"
+
+msgid "FRAGMENT_YOUR_FLIPNOTE_WAS_FEATURED"
+msgstr "Your Flipnote was featured! "

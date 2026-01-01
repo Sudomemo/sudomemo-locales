@@ -81,11 +81,20 @@ msgstr "Stars"
 msgid "FRAGMENT_TO_YOUR"
 msgstr " till din "
 
+msgid "FRAGMENT_WAS_PINNED"
+msgstr " was pinned!"
+
 msgid "FRAGMENT_WAS_REMOVED_POLICY"
 msgstr " var borttagen för att ha stridit mot våran Content Policy"
 
 msgid "FRAGMENT_YOUR"
 msgstr "Din "
 
+msgid "FRAGMENT_YOUR_COMMENT_ON"
+msgstr "Your comment on "
+
 msgid "FRAGMENT_YOUR_FLIPNOTE"
 msgstr "din Flipnote"
+
+msgid "FRAGMENT_YOUR_FLIPNOTE_WAS_FEATURED"
+msgstr "Your Flipnote was featured! "
