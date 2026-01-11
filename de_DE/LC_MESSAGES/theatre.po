@@ -907,6 +907,13 @@ msgstr "Folgt dir"
 msgid "FOLLOW_BACK"
 msgstr "Zurück folgen"
 
+msgid "FOLLOW_UPLOAD_NOTIFICATIONS_OFF"
+msgstr "Turn off new Flipnote notifications"
+
+# Follow upload notifications
+msgid "FOLLOW_UPLOAD_NOTIFICATIONS_ON"
+msgstr "Turn on new Flipnote notifications"
+
 msgid "FORGOT_YOUR_PASSWORD"
 msgstr "Passwort vergessen?"
 
