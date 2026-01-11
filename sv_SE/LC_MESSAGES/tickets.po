@@ -161,6 +161,18 @@ msgstr "Tack för att du deltagit i våran Birthday Bash!"
 msgid "TICKET_DESC_11th_birthday_bash_ticket"
 msgstr "Tack för att du deltagit i våran Birthday Bash!"
 
+msgid "TICKET_DESC_12th_birthday_bash_ticket"
+msgstr "Tack för att du deltagit i våran Birthday Bash!"
+
+msgid "TICKET_DESC_13th_birthday_bash_ticket"
+msgstr "Tack för att du deltagit i våran Birthday Bash!"
+
+msgid "TICKET_DESC_14th_birthday_bash_ticket"
+msgstr "Tack för att du deltagit i våran Birthday Bash!"
+
+msgid "TICKET_DESC_15th_birthday_bash_ticket"
+msgstr "Tack för att du deltagit i våran Birthday Bash!"
+
 msgid "TICKET_DESC_7th_birthday_bash_ticket"
 msgstr "Tack för att du deltagit i våran Birthday Bash!"
 
@@ -328,6 +340,9 @@ msgstr "Tack för att du tittade på Sudomemo Room från Wii Room!"
 msgid "TICKET_DESC_wcf_2025_winner_ticket"
 msgstr "Gratulationer till din vinst under Winter Comedy Fest 2025!"
 
+msgid "TICKET_DESC_wcf_2026_winner_ticket"
+msgstr "Gratulationer till din vinst under Winter Comedy Fest 2026!"
+
 msgid "TICKET_DESC_weekly_topic_winner_ticket"
 msgstr "Grattis för att du vann Veckotemat!"
 
@@ -338,7 +353,19 @@ msgid "TICKET_NAME_10th_birthday_bash_ticket"
 msgstr "10:nde Birthday Bash Biljett"
 
 msgid "TICKET_NAME_11th_birthday_bash_ticket"
-msgstr "11:e Birthday Bash Biljett"
+msgstr "11:nde Birthday Bash Biljett"
+
+msgid "TICKET_NAME_12th_birthday_bash_ticket"
+msgstr "12:nde Birthday Bash Biljett"
+
+msgid "TICKET_NAME_13th_birthday_bash_ticket"
+msgstr "13:nde Birthday Bash Biljett"
+
+msgid "TICKET_NAME_14th_birthday_bash_ticket"
+msgstr "14:nde Birthday Bash Biljett"
+
+msgid "TICKET_NAME_15th_birthday_bash_ticket"
+msgstr "15:nde Birthday Bash Biljett"
 
 msgid "TICKET_NAME_7th_birthday_bash_ticket"
 msgstr "7:de Birthday Bash Biljett"
@@ -507,6 +534,9 @@ msgstr "Wii Room Biljetten"
 
 msgid "TICKET_NAME_wcf_2025_winner_ticket"
 msgstr "2025 Winter Comedy Fest Vinnarbiljett"
+
+msgid "TICKET_NAME_wcf_2026_winner_ticket"
+msgstr "2026 Winter Comedy Fest Vinnarbiljett"
 
 msgid "TICKET_NAME_weekly_topic_winner_ticket"
 msgstr "Veckotemats vinnare biljett"

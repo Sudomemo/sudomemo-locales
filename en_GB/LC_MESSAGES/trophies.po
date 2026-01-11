@@ -23,6 +23,18 @@ msgstr "Attended Sudomemo's 10th Birthday Bash event"
 msgid "TROPHY_DESC_11th_birthday_bash"
 msgstr "Attended Sudomemo's 11th Birthday Bash event"
 
+msgid "TROPHY_DESC_12th_birthday_bash"
+msgstr "Attended Sudomemo's 12th Birthday Bash event"
+
+msgid "TROPHY_DESC_13th_birthday_bash"
+msgstr "Attended Sudomemo's 13th Birthday Bash event"
+
+msgid "TROPHY_DESC_14th_birthday_bash"
+msgstr "Attended Sudomemo's 14th Birthday Bash event"
+
+msgid "TROPHY_DESC_15th_birthday_bash"
+msgstr "Attended Sudomemo's 15th Birthday Bash event"
+
 msgid "TROPHY_DESC_7th_birthday_bash"
 msgstr "Attended Sudomemo's 7 Years of Flipnote Fun event"
 
@@ -167,6 +179,9 @@ msgstr "Visited Sudomemo's Room on Wii Room!"
 msgid "TROPHY_DESC_wcf_2025_winner"
 msgstr "Winner of Sudomemo's 2025 Winter Comedy Fest"
 
+msgid "TROPHY_DESC_wcf_2026_winner"
+msgstr "Winner of Sudomemo's 2026 Winter Comedy Fest"
+
 msgid "TROPHY_DESC_weekly_topic_winner"
 msgstr "Submit a winning entry to Sudomemo's Weekly Topic"
 
@@ -181,6 +196,18 @@ msgstr "10th Birthday Bash"
 
 msgid "TROPHY_NAME_11th_birthday_bash"
 msgstr "11th Birthday Bash"
+
+msgid "TROPHY_NAME_12th_birthday_bash"
+msgstr "12th Birthday Bash"
+
+msgid "TROPHY_NAME_13th_birthday_bash"
+msgstr "13th Birthday Bash"
+
+msgid "TROPHY_NAME_14th_birthday_bash"
+msgstr "14th Birthday Bash"
+
+msgid "TROPHY_NAME_15th_birthday_bash"
+msgstr "15th Birthday Bash"
 
 msgid "TROPHY_NAME_7th_birthday_bash"
 msgstr "7th Birthday Bash"
@@ -326,6 +353,9 @@ msgstr "Wii Room Trophy"
 
 msgid "TROPHY_NAME_wcf_2025_winner"
 msgstr "2025 Winter Comedy Fest Winner"
+
+msgid "TROPHY_NAME_wcf_2026_winner"
+msgstr "2026 Winter Comedy Fest Winner"
 
 msgid "TROPHY_NAME_weekly_topic_winner"
 msgstr "Weekly Topic Winner"

@@ -161,6 +161,18 @@ msgstr "Thanks for attending our Birthday Bash!"
 msgid "TICKET_DESC_11th_birthday_bash_ticket"
 msgstr "Thanks for attending our Birthday Bash!"
 
+msgid "TICKET_DESC_12th_birthday_bash_ticket"
+msgstr "Thanks for attending our Birthday Bash!"
+
+msgid "TICKET_DESC_13th_birthday_bash_ticket"
+msgstr "Thanks for attending our Birthday Bash!"
+
+msgid "TICKET_DESC_14th_birthday_bash_ticket"
+msgstr "Thanks for attending our Birthday Bash!"
+
+msgid "TICKET_DESC_15th_birthday_bash_ticket"
+msgstr "Thanks for attending our Birthday Bash!"
+
 msgid "TICKET_DESC_7th_birthday_bash_ticket"
 msgstr "Thanks for attending our Birthday Bash!"
 
@@ -328,6 +340,9 @@ msgstr "Thank you for visiting the Sudomemo Room on Wii Room!"
 msgid "TICKET_DESC_wcf_2025_winner_ticket"
 msgstr "Congratulations on winning the 2025 Winter Comedy Fest!"
 
+msgid "TICKET_DESC_wcf_2026_winner_ticket"
+msgstr "Congratulations on winning the 2026 Winter Comedy Fest!"
+
 msgid "TICKET_DESC_weekly_topic_winner_ticket"
 msgstr "Congratulations on winning the Sudomemo Weekly Topic!"
 
@@ -339,6 +354,18 @@ msgstr "10th Birthday Bash Ticket"
 
 msgid "TICKET_NAME_11th_birthday_bash_ticket"
 msgstr "11th Birthday Bash Ticket"
+
+msgid "TICKET_NAME_12th_birthday_bash_ticket"
+msgstr "12th Birthday Bash Ticket"
+
+msgid "TICKET_NAME_13th_birthday_bash_ticket"
+msgstr "13th Birthday Bash Ticket"
+
+msgid "TICKET_NAME_14th_birthday_bash_ticket"
+msgstr "14th Birthday Bash Ticket"
+
+msgid "TICKET_NAME_15th_birthday_bash_ticket"
+msgstr "15th Birthday Bash Ticket"
 
 msgid "TICKET_NAME_7th_birthday_bash_ticket"
 msgstr "7th Birthday Bash Ticket"
@@ -507,6 +534,9 @@ msgstr "Wii Room Ticket"
 
 msgid "TICKET_NAME_wcf_2025_winner_ticket"
 msgstr "2025 Winter Comedy Fest Winner Ticket"
+
+msgid "TICKET_NAME_wcf_2026_winner_ticket"
+msgstr "2026 Winter Comedy Fest Winner Ticket"
 
 msgid "TICKET_NAME_weekly_topic_winner_ticket"
 msgstr "Weekly Topic Winner Ticket"

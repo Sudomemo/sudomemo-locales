@@ -19,19 +19,31 @@ msgid "TROPHY_CASE"
 msgstr "Prijzenkast"
 
 msgid "TROPHY_DESC_10th_birthday_bash"
-msgstr "Attended Sudomemo's 10th Birthday Bash event"
+msgstr "Heeft de 10e Birthday Bash van Sudomemo bijgewoond"
 
 msgid "TROPHY_DESC_11th_birthday_bash"
-msgstr "Attended Sudomemo's 11th Birthday Bash event"
+msgstr "Heeft de 11e Birthday Bash van Sudomemo bijgewoond"
+
+msgid "TROPHY_DESC_12th_birthday_bash"
+msgstr "Heeft de 12e Birthday Bash van Sudomemo bijgewoond"
+
+msgid "TROPHY_DESC_13th_birthday_bash"
+msgstr "Heeft de 13e Birthday Bash van Sudomemo bijgewoond"
+
+msgid "TROPHY_DESC_14th_birthday_bash"
+msgstr "Heeft de 14e Birthday Bash van Sudomemo bijgewoond"
+
+msgid "TROPHY_DESC_15th_birthday_bash"
+msgstr "Heeft de 15e Birthday Bash van Sudomemo bijgewoond"
 
 msgid "TROPHY_DESC_7th_birthday_bash"
-msgstr "Woonde het 7 Years of Flipnote Fun-evenement van Sudomemo bij"
+msgstr "Heeft de 7e Birthday Bash van Sudomemo bijgewoond"
 
 msgid "TROPHY_DESC_8th_birthday_bash"
-msgstr "Woonde het 8 Years of Flipnote Fun-evenement van Sudomemo bij"
+msgstr "Heeft de 8e Birthday Bash van Sudomemo bijgewoond"
 
 msgid "TROPHY_DESC_9th_birthday_bash"
-msgstr "Woonde het 9 Years of Flipnote Fun-evenement van Sudomemo bij"
+msgstr "Heeft de 9e Birthday Bash van Sudomemo bijgewoond"
 
 msgid "TROPHY_DESC_archive_supporter"
 msgstr "Bijdrager aan het Flipnote-archief Ko-Fi om de geschiedenis van Flipnote te helpen behouden!"
@@ -168,6 +180,9 @@ msgstr "Visited Sudomemo's Room on Wii Room!"
 msgid "TROPHY_DESC_wcf_2025_winner"
 msgstr "Winner of Sudomemo's 2025 Winter Comedy Fest"
 
+msgid "TROPHY_DESC_wcf_2026_winner"
+msgstr "Winner of Sudomemo's 2026 Winter Comedy Fest"
+
 msgid "TROPHY_DESC_weekly_topic_winner"
 msgstr "Dien een winnende inzending in naar Sudomemo's Wekelijks Onderwerp"
 
@@ -178,20 +193,44 @@ msgstr "Verdiende de titel van Welcoming Champion."
 msgid "TROPHY_EARNED"
 msgstr "New Trophy!"
 
-msgid "TROPHY_NAME_10th_birthday_bash"
-msgstr "10th Birthday Bash"
+Hdee verjaardagsfeest"
 
-msgid "TROPHY_NAME_11th_birthday_bash"
-msgstr "11th Birthday Bash"
+Idee verjaardagsfeest"
+
+Jdee verjaardagsfeest"
+
+Kdee verjaardagsfeest"
+
+Ldee verjaardagsfeest"
+
+Mdee verjaardagsfeest"
 
 msgid "TROPHY_NAME_7th_birthday_bash"
-msgstr "7e verjaardagsfeest"
+msgstr "7e Birthday Bash"
 
 msgid "TROPHY_NAME_8th_birthday_bash"
-msgstr "8ste verjaardagsfeest"
+msgstr "8e Birthday Bash"
 
 msgid "TROPHY_NAME_9th_birthday_bash"
-msgstr "9dee verjaardagsfeest"
+msgstr "9e Birthday Bash"
+
+msgid "TROPHY_NAME_10th_birthday_bash"
+msgstr "10e Birthday Bash"
+
+msgid "TROPHY_NAME_11th_birthday_bash"
+msgstr "11e Birthday Bash"
+
+msgid "TROPHY_NAME_12th_birthday_bash"
+msgstr "12e Birthday Bash"
+
+msgid "TROPHY_NAME_13th_birthday_bash"
+msgstr "13e Birthday Bash"
+
+msgid "TROPHY_NAME_14th_birthday_bash"
+msgstr "14e Birthday Bash"
+
+msgid "TROPHY_NAME_15th_birthday_bash"
+msgstr "15e Birthday Bash"
 
 msgid "TROPHY_NAME_archive_supporter"
 msgstr "Archiefondersteuner"
@@ -330,6 +369,9 @@ msgstr "Wii Room Trophy"
 
 msgid "TROPHY_NAME_wcf_2025_winner"
 msgstr "2025 Winter Comedy Fest Winner"
+
+msgid "TROPHY_NAME_wcf_2026_winner"
+msgstr "2026 Winter Comedy Fest Winner"
 
 msgid "TROPHY_NAME_weekly_topic_winner"
 msgstr "Wekelijks Onderwerpwinnaar"

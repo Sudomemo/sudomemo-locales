@@ -161,6 +161,18 @@ msgstr "¡Gracias por asistir a nuestra Birthday Bash!"
 msgid "TICKET_DESC_11th_birthday_bash_ticket"
 msgstr "¡Gracias por asistir a nuestra Birthday Bash!"
 
+msgid "TICKET_DESC_12th_birthday_bash_ticket"
+msgstr "¡Gracias por asistir a nuestra Birthday Bash!"
+
+msgid "TICKET_DESC_13th_birthday_bash_ticket"
+msgstr "¡Gracias por asistir a nuestra Birthday Bash!"
+
+msgid "TICKET_DESC_14th_birthday_bash_ticket"
+msgstr "¡Gracias por asistir a nuestra Birthday Bash!"
+
+msgid "TICKET_DESC_15th_birthday_bash_ticket"
+msgstr "¡Gracias por asistir a nuestra Birthday Bash!"
+
 msgid "TICKET_DESC_7th_birthday_bash_ticket"
 msgstr "¡Gracias por asistir a nuestro Birthday Bash!"
 
@@ -328,6 +340,9 @@ msgstr "¡Gracias por visitar la Sala de Sudomemo en Wii Room!"
 msgid "TICKET_DESC_wcf_2025_winner_ticket"
 msgstr "¡Felicidades por ganar el Festival de Comedia de Invierno 2025!"
 
+msgid "TICKET_DESC_wcf_2026_winner_ticket"
+msgstr "¡Felicidades por ganar el Festival de Comedia de Invierno 2026!"
+
 msgid "TICKET_DESC_weekly_topic_winner_ticket"
 msgstr "¡Enhorabuena por ganar el Tópico Semanal de Sudomemo!"
 
@@ -335,10 +350,22 @@ msgid "TICKET_DESC_welcoming_champion_ticket"
 msgstr "¡Gracias por acoger a los creadores nuevos y !"
 
 msgid "TICKET_NAME_10th_birthday_bash_ticket"
-msgstr "Ticket del 10mo Birthday Bash"
+msgstr "Ticket del 10o Birthday Bash"
 
 msgid "TICKET_NAME_11th_birthday_bash_ticket"
-msgstr "Ticket del 11vo Birthday Bash"
+msgstr "Ticket del 11o Birthday Bash"
+
+msgid "TICKET_NAME_12th_birthday_bash_ticket"
+msgstr "Ticket del 12o Birthday Bash"
+
+msgid "TICKET_NAME_13th_birthday_bash_ticket"
+msgstr "Ticket del 13o Birthday Bash"
+
+msgid "TICKET_NAME_14th_birthday_bash_ticket"
+msgstr "Ticket del 14o Birthday Bash"
+
+msgid "TICKET_NAME_15th_birthday_bash_ticket"
+msgstr "Ticket del 15o Birthday Bash"
 
 msgid "TICKET_NAME_7th_birthday_bash_ticket"
 msgstr "Ticket del 7mo Birthday Bash"
@@ -507,6 +534,9 @@ msgstr "Ticket de Wii Room"
 
 msgid "TICKET_NAME_wcf_2025_winner_ticket"
 msgstr "Ticket de Ganador del Festival de Comedia de Invierno 2025"
+
+msgid "TICKET_NAME_wcf_2026_winner_ticket"
+msgstr "Ticket de Ganador del Festival de Comedia de Invierno 2026"
 
 msgid "TICKET_NAME_weekly_topic_winner_ticket"
 msgstr "Ticket de ganador del Tópico Semanal"
