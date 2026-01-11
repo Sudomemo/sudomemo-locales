@@ -349,27 +349,6 @@ msgstr "スドメモ今週のお題への入選おめでとう!"
 msgid "TICKET_DESC_welcoming_champion_ticket"
 msgstr "新規・復帰クリエイターを温かく迎えてくれてありがとう！"
 
-H周年バースデーバッシュチケット"
-
-I周年バースデーバッシュチケット"
-
-J周年バースデーバッシュチケット"
-
-K周年バースデーバッシュチケット"
-
-L周年バースデーバッシュチケット"
-
-M周年バースデーバッシュチケット"
-
-msgid "TICKET_NAME_7th_birthday_bash_ticket"
-msgstr "7周年パーティーチケット"
-
-msgid "TICKET_NAME_8th_birthday_bash_ticket"
-msgstr "8周年パーティーチケット"
-
-msgid "TICKET_NAME_9th_birthday_bash_ticket"
-msgstr "9周年バースデーバッシュチケット"
-
 msgid "TICKET_NAME_10th_birthday_bash_ticket"
 msgstr "10周年バースデーバッシュチケット"
 
@@ -387,6 +366,15 @@ msgstr "14周年バースデーバッシュチケット"
 
 msgid "TICKET_NAME_15th_birthday_bash_ticket"
 msgstr "15周年バースデーバッシュチケット"
+
+msgid "TICKET_NAME_7th_birthday_bash_ticket"
+msgstr "7周年パーティーチケット"
+
+msgid "TICKET_NAME_8th_birthday_bash_ticket"
+msgstr "8周年パーティーチケット"
+
+msgid "TICKET_NAME_9th_birthday_bash_ticket"
+msgstr "9周年バースデーバッシュチケット"
 
 msgid "TICKET_NAME_LABEL"
 msgstr "チケット名:"
