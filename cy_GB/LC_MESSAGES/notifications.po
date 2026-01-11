@@ -60,6 +60,10 @@ msgstr " other people"
 msgid "FRAGMENT_OTHER_PERSON_SINGULAR"
 msgstr " other person"
 
+# Followed creator upload notifications
+msgid "FRAGMENT_POSTED_A_NEW"
+msgstr " posted a new "
+
 msgid "FRAGMENT_REPLIED_TO_YOUR_COMMENT_ON"
 msgstr " replied to your comment on "
 
