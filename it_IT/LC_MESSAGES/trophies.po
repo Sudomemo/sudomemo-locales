@@ -18,10 +18,22 @@ msgid "TROPHY_CASE"
 msgstr " Galleria Trofei "
 
 msgid "TROPHY_DESC_10th_birthday_bash"
-msgstr "Per aver partecipato all'evento - Decima Festa di Compleanno di Sudomemo"
+msgstr "Ha partecipato all'evento 10 Years of Flipnote Fun di Sudomemo"
 
 msgid "TROPHY_DESC_11th_birthday_bash"
-msgstr "Per aver partecipato all'evento - Undicesima Festa di Compleanno di Sudomemo"
+msgstr "Ha partecipato all'evento 11 Years of Flipnote Fun di Sudomemo"
+
+msgid "TROPHY_DESC_12th_birthday_bash"
+msgstr "Ha partecipato all'evento 12 Years of Flipnote Fun di Sudomemo"
+
+msgid "TROPHY_DESC_13th_birthday_bash"
+msgstr "Ha partecipato all'evento 13 Years of Flipnote Fun di Sudomemo"
+
+msgid "TROPHY_DESC_14th_birthday_bash"
+msgstr "Ha partecipato all'evento 14 Years of Flipnote Fun di Sudomemo"
+
+msgid "TROPHY_DESC_15th_birthday_bash"
+msgstr "Ha partecipato all'evento 15 Years of Flipnote Fun di Sudomemo"
 
 msgid "TROPHY_DESC_7th_birthday_bash"
 msgstr "Per aver partecipato all'evento - 7 Anni di Flipnote di Sudomemo"
@@ -167,6 +179,9 @@ msgstr "Per aver visitato la Sudomemo Room su Wii Room!"
 msgid "TROPHY_DESC_wcf_2025_winner"
 msgstr "Vincitore della Sudomemo Winter Comedy Fest del 2025"
 
+msgid "TROPHY_DESC_wcf_2026_winner"
+msgstr "Vincitore della Sudomemo Winter Comedy Fest del 2026"
+
 msgid "TROPHY_DESC_weekly_topic_winner"
 msgstr "Invia una voce vincente al Topic settimanale di Sudomemo"
 
@@ -177,10 +192,22 @@ msgid "TROPHY_EARNED"
 msgstr "Nuovo Trofeo!"
 
 msgid "TROPHY_NAME_10th_birthday_bash"
-msgstr "Decima Festa di Compleanno"
+msgstr "Festa del 10° compleanno"
 
 msgid "TROPHY_NAME_11th_birthday_bash"
-msgstr "Undicesima Festa di Compleanno"
+msgstr "Festa del 11° compleanno"
+
+msgid "TROPHY_NAME_12th_birthday_bash"
+msgstr "Festa del 12° compleanno"
+
+msgid "TROPHY_NAME_13th_birthday_bash"
+msgstr "Festa del 13° compleanno"
+
+msgid "TROPHY_NAME_14th_birthday_bash"
+msgstr "Festa del 14° compleanno"
+
+msgid "TROPHY_NAME_15th_birthday_bash"
+msgstr "Festa del 15° compleanno"
 
 msgid "TROPHY_NAME_7th_birthday_bash"
 msgstr "Settima Festa di Compleanno"
@@ -326,6 +353,9 @@ msgstr "Trofeo Wii Room"
 
 msgid "TROPHY_NAME_wcf_2025_winner"
 msgstr "Vincitore del Winter Comedy Fest del 2025"
+
+msgid "TROPHY_NAME_wcf_2026_winner"
+msgstr "Vincitore del Winter Comedy Fest del 2026"
 
 msgid "TROPHY_NAME_weekly_topic_winner"
 msgstr "Vincitore del Topic settimanale"

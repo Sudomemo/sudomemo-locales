@@ -161,6 +161,18 @@ msgstr "Merci d'avoir participé à notre fête d'anniversaire !"
 msgid "TICKET_DESC_11th_birthday_bash_ticket"
 msgstr "Merci d'avoir participé à notre fête d'anniversaire !"
 
+msgid "TICKET_DESC_12th_birthday_bash_ticket"
+msgstr "Merci d'avoir participé à notre fête d'anniversaire !"
+
+msgid "TICKET_DESC_13th_birthday_bash_ticket"
+msgstr "Merci d'avoir participé à notre fête d'anniversaire !"
+
+msgid "TICKET_DESC_14th_birthday_bash_ticket"
+msgstr "Merci d'avoir participé à notre fête d'anniversaire !"
+
+msgid "TICKET_DESC_15th_birthday_bash_ticket"
+msgstr "Merci d'avoir participé à notre fête d'anniversaire !"
+
 msgid "TICKET_DESC_7th_birthday_bash_ticket"
 msgstr "Merci d'avoir participé à notre fête d'anniversaire !"
 
@@ -328,6 +340,9 @@ msgstr "Merci d'avoir visité la pièce de Sudomemo sur Wii Room!"
 msgid "TICKET_DESC_wcf_2025_winner_ticket"
 msgstr "Félicitations pour avoir gagné le Winter Comedy Fest de 2025 !"
 
+msgid "TICKET_DESC_wcf_2026_winner_ticket"
+msgstr "Félicitations pour avoir gagné le Winter Comedy Fest de 2026 !"
+
 msgid "TICKET_DESC_weekly_topic_winner_ticket"
 msgstr "Félicitations pour avoir gagné le Weekly Topic (thème hebdomadaire) de Sudomemo !"
 
@@ -335,10 +350,22 @@ msgid "TICKET_DESC_welcoming_champion_ticket"
 msgstr "Vous avez été très accueillant envers les nouveaux créateurs et ceux qui reviennent ! Merci !"
 
 msgid "TICKET_NAME_10th_birthday_bash_ticket"
-msgstr "Ticket du 10ème anniversaire"
+msgstr "Ticket du 10ième anniversaire"
 
 msgid "TICKET_NAME_11th_birthday_bash_ticket"
-msgstr "Ticket du 11ème anniversaire"
+msgstr "Ticket du 11ième anniversaire"
+
+msgid "TICKET_NAME_12th_birthday_bash_ticket"
+msgstr "Ticket du 12ième anniversaire"
+
+msgid "TICKET_NAME_13th_birthday_bash_ticket"
+msgstr "Ticket du 13ième anniversaire"
+
+msgid "TICKET_NAME_14th_birthday_bash_ticket"
+msgstr "Ticket du 14ième anniversaire"
+
+msgid "TICKET_NAME_15th_birthday_bash_ticket"
+msgstr "Ticket du 15ième anniversaire"
 
 msgid "TICKET_NAME_7th_birthday_bash_ticket"
 msgstr "Ticket du 7ème anniversaire"
@@ -507,6 +534,9 @@ msgstr "Ticket Wii Room"
 
 msgid "TICKET_NAME_wcf_2025_winner_ticket"
 msgstr "Ticket Vainqueur du Winter Comedy Fest de 2025"
+
+msgid "TICKET_NAME_wcf_2026_winner_ticket"
+msgstr "Ticket Vainqueur du Winter Comedy Fest de 2026"
 
 msgid "TICKET_NAME_weekly_topic_winner_ticket"
 msgstr "Ticket Vainqueur du Weekly Topic"

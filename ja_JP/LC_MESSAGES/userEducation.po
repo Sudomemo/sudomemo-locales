@@ -4,90 +4,90 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "UE_BETTER_CATEGORIES_CONTENT"
-msgstr "Browse your favorite <strong>categories and channels</strong> right here. Like Flipnote Hatena, <strong>channels now have icons</strong>, too."
+msgstr "ここでお気に入りの<strong>カテゴリーやチャンネル</strong>をチェックできます。うごメモはてなのように、<strong>チャンネルにもアイコン</strong>が付きました。"
 
 # Feature 5: Better Channels/Categories
 msgid "UE_BETTER_CATEGORIES_TITLE"
-msgstr "Better Channels and Categories!"
+msgstr "チャンネルとカテゴリーがもっと便利に！"
 
 msgid "UE_COMMENT_REPLIES_CONTENT"
-msgstr "Avid commenters rejoice! You can now <strong>reply to comments directly</strong> from your console or on the web."
+msgstr "コメント好きのみなさん、お待たせ！コンソールでもWebでも<strong>コメントに直接返信</strong>できます。"
 
 # Feature 6: Comment replies
 msgid "UE_COMMENT_REPLIES_TITLE"
-msgstr "Re: re: re: re: re:"
+msgstr "返信: 返信: 返信: 返信: 返信:"
 
 msgid "UE_FINISH"
-msgstr "Let's Go!"
+msgstr "さあ始めよう！"
 
 msgid "UE_FLIPNOTE_EXPORT_CONTENT"
-msgstr "You can now <strong>download your Flipnotes</strong> as an <strong>MP4, GIF, or PPM</strong> straight from the web. How convenient!"
+msgstr "Webから<strong>作品をMP4、GIF、PPM</strong>として<strong>直接ダウンロード</strong>できるようになりました。便利！"
 
 msgid "UE_FLIPNOTE_EXPORT_TITLE"
-msgstr "Share in more places!"
+msgstr "もっといろんな場所で共有！"
 
 msgid "UE_FLIPNOTE_GENEALOGY_CONTENT"
-msgstr "With <strong>Flipnote Genealogy</strong>, you can now see the entire <strong>spin-off tree</strong> of any Flipnote."
+msgstr "<strong>Flipnote Genealogy</strong>で、作品の<strong>子作品ツリー</strong>全体を確認できます。"
 
 # Feature 3: Flipnote Genealogy (How did we get here?)
 msgid "UE_FLIPNOTE_GENEALOGY_TITLE"
-msgstr "How did we get here?"
+msgstr "どうやってここまで？"
 
 msgid "UE_FLIPNOTE_ORGANIZER_CONTENT"
-msgstr "You can now organize how your Flipnotes appear on Flipnote Studio with the <strong>Flipnote Organizer</strong>! Just upload your Flipnote folder, press E, and organize away! Check out the help article in our help center to learn more."
+msgstr "<strong>Flipnote Organizer</strong>で、うごメモスタジオでの作品の並びを整理できます！作品フォルダをアップロードしてEを押すだけ。詳しくはヘルプセンターの記事をご覧ください。"
 
 msgid "UE_FLIPNOTE_ORGANIZER_TITLE"
-msgstr "Wow, how organized!"
+msgstr "すっきり整理！"
 
 msgid "UE_FOLLOWING_LIST_CONTENT"
-msgstr "Want to see your <strong>full following and followers list</strong>?<br>You're in luck, because now you can!"
+msgstr "<strong>フォロー/フォロワー一覧</strong>をすべて見たい？<br>今なら見られます！"
 
 # Feature 1: Following List (@everyone)
 msgid "UE_FOLLOWING_LIST_TITLE"
 msgstr "@everyone"
 
 msgid "UE_INTRO_MESSAGE"
-msgstr "Let's flip through what's new!"
+msgstr "新機能を見てみよう！"
 
 msgid "UE_LOGIN_MANAGER_CONTENT"
-msgstr "Dreamed of being able to quickly switch between your accounts on the web? Now that dream is a reality with the new <strong>Login Manager</strong>!"
+msgstr "Webでアカウントを素早く切り替えたいと思っていましたか？新しい<strong>ログインマネージャー</strong>で実現しました！"
 
 msgid "UE_LOGIN_MANAGER_TITLE"
-msgstr "Why yes, I do have 5 DSis"
+msgstr "ええ、DSiが5台あります"
 
 # Control buttons
 msgid "UE_NEXT"
-msgstr "Next"
+msgstr "次へ"
 
 msgid "UE_NOTIFICATIONS_CONTENT"
-msgstr "<strong>Notifications</strong> are now <strong>synced from your console</strong>.<br>Now you can always stay up-to-date!"
+msgstr "<strong>通知</strong>が<strong>コンソールと同期</strong>されるようになりました。<br>いつでも最新情報をチェックできます！"
 
 # Feature 4: Notifications (Extra! Extra!)
 msgid "UE_NOTIFICATIONS_TITLE"
-msgstr "Extra! Extra!"
+msgstr "号外！号外！"
 
 msgid "UE_PROFILE_PICTURE_CONTENT"
-msgstr "You can now <strong>change your profile picture on Sudomemo Theatre</strong>. Click \"Edit Flipnote\" and apply!"
+msgstr "スドメモシアターで<strong>プロフィール画像を変更</strong>できるようになりました。\"作品を編集\"をクリックして適用してください！"
 
 # Feature 2: Profile Picture (Looking good!)
 msgid "UE_PROFILE_PICTURE_TITLE"
-msgstr "Looking good!"
+msgstr "いいね！"
 
 msgid "UE_SKIP_ALL"
-msgstr "Skip All"
+msgstr "すべてスキップ"
 
 msgid "UE_WELCOME_BACK_SUBTITLE"
-msgstr "A lot has changed since you've last logged on."
+msgstr "前回のログインからたくさんの変更がありました。"
 
 msgid "UE_WELCOME_BACK_SUBTITLE_FEW"
-msgstr "Some things have changed since you've last logged on."
+msgstr "前回のログインからいくつか変更があります。"
 
 # Welcome slide
 msgid "UE_WELCOME_BACK_TITLE"
-msgstr "Welcome back!"
+msgstr "おかえりなさい！"
 
 msgid "UE_YOUTUBE_PLAYLISTS_CONTENT"
-msgstr "<strong>YouTube uploading</strong> just got a whole lot better! You can now select which <strong>playlists</strong> you want to add your uploaded Flipnotes to, plus, you can also change the <strong>visibility settings</strong> when uploading from Sudomemo on the DS."
+msgstr "<strong>YouTubeへのアップロード</strong>が大幅に改善！アップロードした作品を追加する<strong>プレイリスト</strong>を選べるようになり、DSからのアップロード時に<strong>公開設定</strong>も変更できます。"
 
 msgid "UE_YOUTUBE_PLAYLISTS_TITLE"
-msgstr "Time to go viral"
+msgstr "バズる準備！"

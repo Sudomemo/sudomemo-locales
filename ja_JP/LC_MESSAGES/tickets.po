@@ -7,15 +7,15 @@ msgid "ACHIEVEMENT"
 msgstr "成果"
 
 msgid "ANONYMOUS"
-msgstr "Anonymous User"
+msgstr "匿名ユーザー"
 
 # %s will be replaced with the gift recipient's username.
 msgid "BACK_TO_RECIPIENT_PROFILE"
-msgstr "Back to %s"
+msgstr "%sのプロフィールに戻る"
 
 # Shown when the user tries to gift a promotional ticket, such as one posted on Sudomemo's social media accounts.
 msgid "CANNOT_GIFT_PUBLIC_CODE"
-msgstr "This ticket is not giftable."
+msgstr "このチケットはプレゼントできません。"
 
 msgid "CODE_ALREADY_USED"
 msgstr "入力されたコードは使用済みです。"
@@ -43,62 +43,62 @@ msgstr "引き換えるコードを入力してください。"
 
 # Shown when the user tries to gift an expired ticket.
 msgid "ERROR_CANT_GIFT_EXPIRED_CODE"
-msgstr "This code has expired."
+msgstr "このコードは期限切れです。"
 
 # Shown when the user tries to send a gift with an inappropriate message.
 msgid "ERROR_PROFANE_GIFT_MSG"
-msgstr "This message violates our Content Policy."
+msgstr "このメッセージはコンテンツポリシーに違反しています。"
 
 # Shown when the user tries to send a gift with an inappropriate message.
 msgid "ERROR_PROFANE_GIFT_MSG_DESC"
-msgstr "Please try again with a more appropriate message."
+msgstr "より適切なメッセージでもう一度お試しください。"
 
 # Shown when the user tries to gift a ticket to a user they have blocked.
 msgid "ERROR_RECIPIENT_IS_BLOCKED"
-msgstr "You have blocked this user."
+msgstr "このユーザーをブロックしています。"
 
 # Shown when the user tries to gift a ticket to a user they have blocked.
 msgid "ERROR_RECIPIENT_IS_BLOCKED_DESC"
-msgstr "Please unblock the user and then try again."
+msgstr "ブロックを解除してからもう一度お試しください。"
 
 # Shown when the user tries to gift a ticket to a user that has blocked them.
 msgid "ERROR_RECIPIENT_IS_BLOCKING"
-msgstr "You have been blocked by this user."
+msgstr "このユーザーにブロックされています。"
 
 # Shown when the user tries to gift a ticket to a user that has blocked them.
 msgid "ERROR_RECIPIENT_IS_BLOCKING_DESC"
-msgstr "Please choose a different user to gift to."
+msgstr "別のユーザーを選んでください。"
 
 # Title shown when the user tries to gift a ticket on console but encounters an error.
 msgid "ERROR_TITLE_CANT_GIFT_TICKET"
-msgstr "Unable to gift ticket!"
+msgstr "チケットを贈れません！"
 
 # Shown when the user tries to send a gift with an inappropriate message.
 msgid "ERROR_TITLE_PROFANE_GIFT_MSG"
-msgstr "Unable to save message."
+msgstr "メッセージを保存できません。"
 
 # Shown for various errors, such as when the user enters a valid code to gift on console, gifts that code on Theatre, and then tries to gift it again on console.
 msgid "ERROR_USE_ANOTHER_CODE"
-msgstr "Please use another code."
+msgstr "別のコードを使用してください。"
 
 # %s is the ticket name, plus "ticket".
 msgid "GIFTED_BY_ANON"
-msgstr "An anonymous user has gifted you a %s!"
+msgstr "匿名ユーザーから%sを受け取りました！"
 
 # First %s is the gifter's username, 2nd %s is the ticket name, plus "ticket".
 msgid "GIFTED_BY_X"
-msgstr "%s has gifted you a %s!"
+msgstr "%sさんから%sを受け取りました！"
 
 # %s will be replaced with the gift recipient's username.
 msgid "GIFTING_TO"
-msgstr "Gifting a ticket to %s..."
+msgstr "%sにチケットを贈っています..."
 
 # %d will be replaced with the gift message character limit.
 msgid "GIFT_MSG_LABEL"
-msgstr "Gift Message (%d chars):"
+msgstr "メッセージ（%d文字）:"
 
 msgid "GIFT_SUCCESS"
-msgstr "Gift Sent!"
+msgstr "プレゼントを送信しました！"
 
 # Inventory
 msgid "INVENTORY"
@@ -112,26 +112,26 @@ msgstr "コードを引き換えるにはログインする必要があります
 
 # "Send Gift *OR* Send Gift Anonymously"
 msgid "OR"
-msgstr "OR"
+msgstr "または"
 
 msgid "PI_GIFT_ANONYMOUS"
-msgstr "Sent anonymously"
+msgstr "匿名で送信"
 
 msgid "PI_GIFT_FROM"
-msgstr "Gift from %s"
+msgstr "%sからのプレゼント"
 
 msgid "PI_GIFT_NO_MESSAGE"
-msgstr "(No message included)"
+msgstr "（メッセージなし）"
 
 # Code Redemption
 msgid "REDEEM_CODE"
 msgstr "引き換えコード"
 
 msgid "SEND_GIFT"
-msgstr "Send Gift"
+msgstr "プレゼントを送る"
 
 msgid "SEND_GIFT_ANON"
-msgstr "Send Gift Anonymously"
+msgstr "匿名で送る"
 
 msgid "SUDOMEMO_CITIZENSHIP"
 msgstr "スドメモ市民権"
@@ -146,20 +146,32 @@ msgid "SUDOMEMO_PLUS_FORMAT"
 msgstr "%s日分のSudomemo Plusを受け取りました!"
 
 msgid "TAP_TO_ADD_MSG"
-msgstr "Tap to add a message..."
+msgstr "タップしてメッセージを追加..."
 
 # %s will be replaced with the gift recipient's username.
 msgid "THANK_YOU_FOR_GIFTING"
-msgstr "Thank you for sending a gift to %s! We're sure they'll love it!"
+msgstr "%sへのプレゼントありがとうございます！きっと喜んでくれるはずです！"
 
 msgid "THEME_AVAILABLE_FOR_USE"
 msgstr "このテーマをマイルームで使うことができます!"
 
 msgid "TICKET_DESC_10th_birthday_bash_ticket"
-msgstr "Thanks for attending our Birthday Bash!"
+msgstr "誕生日パーティーに参加してくれてありがとう!"
 
 msgid "TICKET_DESC_11th_birthday_bash_ticket"
-msgstr "Thanks for attending our Birthday Bash!"
+msgstr "誕生日パーティーに参加してくれてありがとう!"
+
+msgid "TICKET_DESC_12th_birthday_bash_ticket"
+msgstr "誕生日パーティーに参加してくれてありがとう!"
+
+msgid "TICKET_DESC_13th_birthday_bash_ticket"
+msgstr "誕生日パーティーに参加してくれてありがとう!"
+
+msgid "TICKET_DESC_14th_birthday_bash_ticket"
+msgstr "誕生日パーティーに参加してくれてありがとう!"
+
+msgid "TICKET_DESC_15th_birthday_bash_ticket"
+msgstr "誕生日パーティーに参加してくれてありがとう!"
 
 msgid "TICKET_DESC_7th_birthday_bash_ticket"
 msgstr "誕生日パーティーに参加してくれてありがとう!"
@@ -168,10 +180,10 @@ msgid "TICKET_DESC_8th_birthday_bash_ticket"
 msgstr "誕生日パーティーに参加してくれてありがとう!"
 
 msgid "TICKET_DESC_9th_birthday_bash_ticket"
-msgstr "Thanks for attending our Birthday Bash!"
+msgstr "誕生日パーティーに参加してくれてありがとう!"
 
 msgid "TICKET_DESC_LABEL"
-msgstr "Ticket Description:"
+msgstr "チケットの説明:"
 
 msgid "TICKET_DESC_archive_supporter_ticket"
 msgstr "うごメモ歴史の保存に協力していただきありがとうございます!"
@@ -184,7 +196,7 @@ msgstr "このチケットを購入すると、350ものスター（レアなス
 
 # collab with https://www.youtube.com/@ZaneLittle/featured
 msgid "TICKET_DESC_champa_ticket"
-msgstr "A gift from Zane Little!"
+msgstr "Zane Littleからのギフト！"
 
 msgid "TICKET_DESC_colors_promo_ticket"
 msgstr "スドメモ x Colorsを獲得しました！※2020年6月の週刊トピックです！"
@@ -193,19 +205,19 @@ msgid "TICKET_DESC_demo_ticket"
 msgstr "デモチケットの説明です。"
 
 msgid "TICKET_DESC_fall_2023_ffc_winner_ticket"
-msgstr "Congratulations on your winning entry to the Fall 2023 Sudomemo Flipnote Fight Competition!"
+msgstr "2023年秋のSudomemo Flipnote Fight Competitionでの受賞おめでとうございます！"
 
 msgid "TICKET_DESC_fall_2024_ffc_winner_ticket"
-msgstr "Congratulations on your winning entry to the Fall 2024 Sudomemo Flipnote Fight Competition!"
+msgstr "2024年秋のSudomemo Flipnote Fight Competitionでの受賞おめでとうございます！"
 
 msgid "TICKET_DESC_fall_2025_ffc_winner_ticket"
-msgstr "Congratulations on your winning entry to the Fall 2025 Sudomemo Flipnote Fight Competition!"
+msgstr "2025年秋のSudomemo Flipnote Fight Competitionでの受賞おめでとうございます！"
 
 msgid "TICKET_DESC_fate_2024_winner_ticket"
-msgstr "Congratulations on your winning FATE 2024 submission!"
+msgstr "FATE 2024での受賞おめでとうございます！"
 
 msgid "TICKET_DESC_fate_2025_winner_ticket"
-msgstr "Congratulations on your winning FATE 2025 submission!"
+msgstr "FATE 2025での受賞おめでとうございます！"
 
 msgid "TICKET_DESC_featured_artist_ticket"
 msgstr "スドメモで注目された作者になったことを心からお祝いします！"
@@ -217,7 +229,7 @@ msgid "TICKET_DESC_ffotd_ticket"
 msgstr "おめでとうございます！新10年間の最初の作品を投稿しました。"
 
 msgid "TICKET_DESC_five_year_plus_ticket"
-msgstr "This ticket will give you five years of Sudomemo Plus!"
+msgstr "このチケットで5年分のSudomemo Plusが利用できます！"
 
 msgid "TICKET_DESC_folding_reward_ticket"
 msgstr "生活を助けてくれてありがとう！"
@@ -236,7 +248,7 @@ msgid "TICKET_DESC_love_anniversary_ticket"
 msgstr "記念おめでとう "
 
 msgid "TICKET_DESC_merch_ticket"
-msgstr "Thank you for purchasing Sudomemo merchandise!"
+msgstr "スドメモグッズをご購入いただきありがとうございます！"
 
 msgid "TICKET_DESC_neighborhood_watch_ticket"
 msgstr "スドメモの快適さを保つのを助けてくれてありがとう！"
@@ -251,7 +263,7 @@ msgid "TICKET_DESC_one_year_plus_ticket"
 msgstr "1年分Sudomemo Plusをご利用いただけるチケットです!"
 
 msgid "TICKET_DESC_patreon_patron_ticket"
-msgstr "Thank you for supporting Sudomemo through Patreon!"
+msgstr "Patreonでスドメモを支援していただきありがとうございます！"
 
 msgid "TICKET_DESC_purple_bunny_ticket"
 msgstr "このチケットは600ものスター（レアなスターがあるかも？）、限定テーマが貰え、特別なバッジがプロフィールに表示されます"
@@ -263,34 +275,34 @@ msgid "TICKET_DESC_regular_ticket"
 msgstr "スドメモをご利用いただきありがとうございます!"
 
 msgid "TICKET_DESC_rewind_2021_ticket"
-msgstr "Congratulations on your inclusion in 2021's Sudomemo Rewind!"
+msgstr "2021年のSudomemo Rewindに選ばれました！おめでとうございます！"
 
 msgid "TICKET_DESC_rewind_2022_ticket"
-msgstr "Congratulations on your inclusion in 2022's Sudomemo Rewind!"
+msgstr "2022年のSudomemo Rewindに選ばれました！おめでとうございます！"
 
 msgid "TICKET_DESC_rewind_2023_ticket"
-msgstr "Congratulations on your inclusion in 2023's Sudomemo Rewind!"
+msgstr "2023年のSudomemo Rewindに選ばれました！おめでとうございます！"
 
 msgid "TICKET_DESC_rewind_2024_ticket"
-msgstr "Congratulations on your inclusion in 2024's Sudomemo Rewind!"
+msgstr "2024年のSudomemo Rewindに選ばれました！おめでとうございます！"
 
 msgid "TICKET_DESC_rewind_2025_ticket"
-msgstr "Congratulations on your inclusion in 2025's Sudomemo Rewind!"
+msgstr "2025年のSudomemo Rewindに選ばれました！おめでとうございます！"
 
 msgid "TICKET_DESC_rewind_2026_ticket"
-msgstr "Congratulations on your inclusion in 2026's Sudomemo Rewind!"
+msgstr "2026年のSudomemo Rewindに選ばれました！おめでとうございます！"
 
 msgid "TICKET_DESC_rewind_2027_ticket"
-msgstr "Congratulations on your inclusion in 2027's Sudomemo Rewind!"
+msgstr "2027年のSudomemo Rewindに選ばれました！おめでとうございます！"
 
 msgid "TICKET_DESC_rewind_2028_ticket"
-msgstr "Congratulations on your inclusion in 2028's Sudomemo Rewind!"
+msgstr "2028年のSudomemo Rewindに選ばれました！おめでとうございます！"
 
 msgid "TICKET_DESC_rewind_2029_ticket"
-msgstr "Congratulations on your inclusion in 2029's Sudomemo Rewind!"
+msgstr "2029年のSudomemo Rewindに選ばれました！おめでとうございます！"
 
 msgid "TICKET_DESC_rewind_2030_ticket"
-msgstr "Congratulations on your inclusion in 2030's Sudomemo Rewind!"
+msgstr "2030年のSudomemo Rewindに選ばれました！おめでとうございます！"
 
 msgid "TICKET_DESC_special_someone_ticket"
 msgstr "スペシャルサムワンチケットは、特別な誰かのために贈るものです。三か月間のSudomemo Plus、カラースター、および専用のテーマが交付されます"
@@ -299,13 +311,13 @@ msgid "TICKET_DESC_spookmaster_ticket"
 msgstr "スドクエスト:レクイエムをプレイしていただき、ありがとうございます!ゲームを楽しんでいただけたでしょうか?"
 
 msgid "TICKET_DESC_spring_2023_ffc_winner_ticket"
-msgstr "Congratulations on your winning entry to the first Sudomemo Flipnote Fight Competition!"
+msgstr "第1回Sudomemo Flipnote Fight Competitionでの受賞おめでとうございます！"
 
 msgid "TICKET_DESC_spring_2024_ffc_winner_ticket"
-msgstr "Congratulations on your winning entry to the Spring 2024 Sudomemo Flipnote Fight Competition!"
+msgstr "2024年春のSudomemo Flipnote Fight Competitionでの受賞おめでとうございます！"
 
 msgid "TICKET_DESC_spring_2025_ffc_winner_ticket"
-msgstr "Congratulations on your winning entry to the Spring 2025 Sudomemo Flipnote Fight Competition!"
+msgstr "2025年春のSudomemo Flipnote Fight Competitionでの受賞おめでとうございます！"
 
 msgid "TICKET_DESC_sudomemo_radio_pilot_ticket"
 msgstr "スドメモラジオの第1回に参加していただき、ありがとうございました！"
@@ -323,22 +335,31 @@ msgid "TICKET_DESC_twitter_promo_ticket"
 msgstr "スドメモのTwitterをフォローしていただきありがとうございます!"
 
 msgid "TICKET_DESC_visited_wii_room_ticket"
-msgstr "Thank you for visiting the Sudomemo Room on Wii Room!"
+msgstr "Wiiの間のスドメモルームに来てくれてありがとう！"
 
 msgid "TICKET_DESC_wcf_2025_winner_ticket"
-msgstr "Congratulations on winning the 2025 Winter Comedy Fest!"
+msgstr "2025 Winter Comedy Festでの優勝おめでとうございます！"
+
+msgid "TICKET_DESC_wcf_2026_winner_ticket"
+msgstr "2026 Winter Comedy Festでの優勝おめでとうございます！"
 
 msgid "TICKET_DESC_weekly_topic_winner_ticket"
 msgstr "スドメモ今週のお題への入選おめでとう!"
 
 msgid "TICKET_DESC_welcoming_champion_ticket"
-msgstr "You're been very welcoming to new and returning creators! Thanks!"
+msgstr "新規・復帰クリエイターを温かく迎えてくれてありがとう！"
 
-msgid "TICKET_NAME_10th_birthday_bash_ticket"
-msgstr "10th Birthday Bash Ticket"
+H周年バースデーバッシュチケット"
 
-msgid "TICKET_NAME_11th_birthday_bash_ticket"
-msgstr "11th Birthday Bash Ticket"
+I周年バースデーバッシュチケット"
+
+J周年バースデーバッシュチケット"
+
+K周年バースデーバッシュチケット"
+
+L周年バースデーバッシュチケット"
+
+M周年バースデーバッシュチケット"
 
 msgid "TICKET_NAME_7th_birthday_bash_ticket"
 msgstr "7周年パーティーチケット"
@@ -347,10 +368,28 @@ msgid "TICKET_NAME_8th_birthday_bash_ticket"
 msgstr "8周年パーティーチケット"
 
 msgid "TICKET_NAME_9th_birthday_bash_ticket"
-msgstr "9th Birthday Bash Ticket"
+msgstr "9周年バースデーバッシュチケット"
+
+msgid "TICKET_NAME_10th_birthday_bash_ticket"
+msgstr "10周年バースデーバッシュチケット"
+
+msgid "TICKET_NAME_11th_birthday_bash_ticket"
+msgstr "11周年バースデーバッシュチケット"
+
+msgid "TICKET_NAME_12th_birthday_bash_ticket"
+msgstr "12周年バースデーバッシュチケット"
+
+msgid "TICKET_NAME_13th_birthday_bash_ticket"
+msgstr "13周年バースデーバッシュチケット"
+
+msgid "TICKET_NAME_14th_birthday_bash_ticket"
+msgstr "14周年バースデーバッシュチケット"
+
+msgid "TICKET_NAME_15th_birthday_bash_ticket"
+msgstr "15周年バースデーバッシュチケット"
 
 msgid "TICKET_NAME_LABEL"
-msgstr "Ticket Name:"
+msgstr "チケット名:"
 
 msgid "TICKET_NAME_archive_supporter_ticket"
 msgstr "アーカイブサポーターチケット"
@@ -363,7 +402,7 @@ msgstr "ジギースターバーストチケット"
 
 # collab with https://www.youtube.com/@ZaneLittle/featured
 msgid "TICKET_NAME_champa_ticket"
-msgstr "Champa Ticket"
+msgstr "Champaチケット"
 
 msgid "TICKET_NAME_colors_promo_ticket"
 msgstr "Colors!プロモーションチケット"
@@ -373,19 +412,19 @@ msgid "TICKET_NAME_demo_ticket"
 msgstr "デモチケット"
 
 msgid "TICKET_NAME_fall_2023_ffc_winner_ticket"
-msgstr "Fall 2023 Sudomemo F.F.C. Winner Ticket"
+msgstr "2023年秋 Sudomemo F.F.C. 優勝者チケット"
 
 msgid "TICKET_NAME_fall_2024_ffc_winner_ticket"
-msgstr "Fall 2024 Sudomemo F.F.C. Winner Ticket"
+msgstr "2024年秋 Sudomemo F.F.C. 優勝者チケット"
 
 msgid "TICKET_NAME_fall_2025_ffc_winner_ticket"
-msgstr "Fall 2025 Sudomemo F.F.C. Winner Ticket"
+msgstr "2025年秋 Sudomemo F.F.C. 優勝者チケット"
 
 msgid "TICKET_NAME_fate_2024_winner_ticket"
-msgstr "FATE 2024 Winner Ticket"
+msgstr "FATE 2024 優勝者チケット"
 
 msgid "TICKET_NAME_fate_2025_winner_ticket"
-msgstr "FATE 2025 Winner Ticket"
+msgstr "FATE 2025 優勝者チケット"
 
 msgid "TICKET_NAME_featured_artist_ticket"
 msgstr "注目の作者のチケット"
@@ -397,7 +436,7 @@ msgid "TICKET_NAME_ffotd_ticket"
 msgstr "10年間の最初の作品"
 
 msgid "TICKET_NAME_five_year_plus_ticket"
-msgstr "Plus Ticket (Five Years)"
+msgstr "Plusチケット（5年）"
 
 msgid "TICKET_NAME_folding_reward_ticket"
 msgstr "Folding@Home得点チケット"
@@ -415,7 +454,7 @@ msgid "TICKET_NAME_love_anniversary_ticket"
 msgstr "記念日チケット"
 
 msgid "TICKET_NAME_merch_ticket"
-msgstr "Merch Ticket"
+msgstr "グッズチケット"
 
 msgid "TICKET_NAME_neighborhood_watch_ticket"
 msgstr "近隣ウォッチチケット"
@@ -431,7 +470,7 @@ msgid "TICKET_NAME_one_year_plus_ticket"
 msgstr "Plusチケット (1年)"
 
 msgid "TICKET_NAME_patreon_patron_ticket"
-msgstr "Sudomemo Patron Ticket"
+msgstr "Sudomemo Patreonチケット"
 
 msgid "TICKET_NAME_purple_bunny_ticket"
 msgstr "ラッセルランブルウッドチケット"
@@ -443,34 +482,34 @@ msgid "TICKET_NAME_regular_ticket"
 msgstr "レギュラーチケット"
 
 msgid "TICKET_NAME_rewind_2021_ticket"
-msgstr "Sudomemo Rewind 2021 Ticket"
+msgstr "Sudomemo Rewind 2021 チケット"
 
 msgid "TICKET_NAME_rewind_2022_ticket"
-msgstr "Sudomemo Rewind 2022 Ticket"
+msgstr "Sudomemo Rewind 2022 チケット"
 
 msgid "TICKET_NAME_rewind_2023_ticket"
-msgstr "Sudomemo Rewind 2023 Ticket"
+msgstr "Sudomemo Rewind 2023 チケット"
 
 msgid "TICKET_NAME_rewind_2024_ticket"
-msgstr "Sudomemo Rewind 2024 Ticket"
+msgstr "Sudomemo Rewind 2024 チケット"
 
 msgid "TICKET_NAME_rewind_2025_ticket"
-msgstr "Sudomemo Rewind 2025 Ticket"
+msgstr "Sudomemo Rewind 2025 チケット"
 
 msgid "TICKET_NAME_rewind_2026_ticket"
-msgstr "Sudomemo Rewind 2026 Ticket"
+msgstr "Sudomemo Rewind 2026 チケット"
 
 msgid "TICKET_NAME_rewind_2027_ticket"
-msgstr "Sudomemo Rewind 2027 Ticket"
+msgstr "Sudomemo Rewind 2027 チケット"
 
 msgid "TICKET_NAME_rewind_2028_ticket"
-msgstr "Sudomemo Rewind 2028 Ticket"
+msgstr "Sudomemo Rewind 2028 チケット"
 
 msgid "TICKET_NAME_rewind_2029_ticket"
-msgstr "Sudomemo Rewind 2029 Ticket"
+msgstr "Sudomemo Rewind 2029 チケット"
 
 msgid "TICKET_NAME_rewind_2030_ticket"
-msgstr "Sudomemo Rewind 2030 Ticket"
+msgstr "Sudomemo Rewind 2030 チケット"
 
 msgid "TICKET_NAME_special_someone_ticket"
 msgstr "スペシャルサムワンチケット"
@@ -479,13 +518,13 @@ msgid "TICKET_NAME_spookmaster_ticket"
 msgstr "スプークマスターチケット"
 
 msgid "TICKET_NAME_spring_2023_ffc_winner_ticket"
-msgstr "Spring 2023 Sudomemo F.F.C. Winner Ticket"
+msgstr "2023年春 Sudomemo F.F.C. 優勝者チケット"
 
 msgid "TICKET_NAME_spring_2024_ffc_winner_ticket"
-msgstr "Spring 2024 Sudomemo F.F.C. Winner Ticket"
+msgstr "2024年春 Sudomemo F.F.C. 優勝者チケット"
 
 msgid "TICKET_NAME_spring_2025_ffc_winner_ticket"
-msgstr "Spring 2025 Sudomemo F.F.C. Winner Ticket"
+msgstr "2025年春 Sudomemo F.F.C. 優勝者チケット"
 
 msgid "TICKET_NAME_sudomemo_radio_pilot_ticket"
 msgstr "スドメモラジオパイロットチケット"
@@ -503,16 +542,19 @@ msgid "TICKET_NAME_twitter_promo_ticket"
 msgstr "Twitterプロモチケット"
 
 msgid "TICKET_NAME_visited_wii_room_ticket"
-msgstr "Wii Room Ticket"
+msgstr "Wiiの間チケット"
 
 msgid "TICKET_NAME_wcf_2025_winner_ticket"
-msgstr "2025 Winter Comedy Fest Winner Ticket"
+msgstr "2025 Winter Comedy Fest 優勝者チケット"
+
+msgid "TICKET_NAME_wcf_2026_winner_ticket"
+msgstr "2026 Winter Comedy Fest 優勝者チケット"
 
 msgid "TICKET_NAME_weekly_topic_winner_ticket"
 msgstr "今週のお題入選者チケット"
 
 msgid "TICKET_NAME_welcoming_champion_ticket"
-msgstr "Welcoming Champion Ticket"
+msgstr "ウェルカムチャンピオンチケット"
 
 msgid "TICKET_REDEEM_LOSE_FORMAT"
 msgstr "%sを引き換えましたが、"
@@ -529,7 +571,7 @@ msgstr "使う"
 
 # Ticket gifting
 msgid "YOU_GOT_A_GIFT"
-msgstr "You got a gift!"
+msgstr "プレゼントが届きました！"
 
 # Ticket delivery
 msgid "YOU_GOT_A_TICKET"

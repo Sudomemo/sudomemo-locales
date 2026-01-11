@@ -18,10 +18,22 @@ msgid "TROPHY_CASE"
 msgstr "Troféfall"
 
 msgid "TROPHY_DESC_10th_birthday_bash"
-msgstr "Närvarade under Sudomemo's 10:nde Birthday Bash evenemang"
+msgstr "Närvarade under Sudomemo's 10:e Birthday Bash evenemang"
 
 msgid "TROPHY_DESC_11th_birthday_bash"
 msgstr "Närvarade under Sudomemo's 11:e Birthday Bash evenemang"
+
+msgid "TROPHY_DESC_12th_birthday_bash"
+msgstr "Närvarade under Sudomemo's 12:e Birthday Bash evenemang"
+
+msgid "TROPHY_DESC_13th_birthday_bash"
+msgstr "Närvarade under Sudomemo's 13:e Birthday Bash evenemang"
+
+msgid "TROPHY_DESC_14th_birthday_bash"
+msgstr "Närvarade under Sudomemo's 14:e Birthday Bash evenemang"
+
+msgid "TROPHY_DESC_15th_birthday_bash"
+msgstr "Närvarade under Sudomemo's 15:e Birthday Bash evenemang"
 
 msgid "TROPHY_DESC_7th_birthday_bash"
 msgstr "Närvarade under Sudomemo's 7 år av Flipnote Fun evenemanget"
@@ -167,6 +179,9 @@ msgstr "Kollade på Sudomemo's Room inuti Wii Room!"
 msgid "TROPHY_DESC_wcf_2025_winner"
 msgstr "Vinnaren av Sudomemo's Winter Comedy Fest 2025"
 
+msgid "TROPHY_DESC_wcf_2026_winner"
+msgstr "Vinnaren av Sudomemo's Winter Comedy Fest 2026"
+
 msgid "TROPHY_DESC_weekly_topic_winner"
 msgstr "Lägg upp en vinnande Flipnote till Sudomemos Weekly Topic"
 
@@ -177,10 +192,22 @@ msgid "TROPHY_EARNED"
 msgstr "Ny trofé!"
 
 msgid "TROPHY_NAME_10th_birthday_bash"
-msgstr "10:nde Birthday Bash"
+msgstr "10:e Birthday Bash"
 
 msgid "TROPHY_NAME_11th_birthday_bash"
 msgstr "11:e Birthday Bash"
+
+msgid "TROPHY_NAME_12th_birthday_bash"
+msgstr "12:e Birthday Bash"
+
+msgid "TROPHY_NAME_13th_birthday_bash"
+msgstr "13:e Birthday Bash"
+
+msgid "TROPHY_NAME_14th_birthday_bash"
+msgstr "14:e Birthday Bash"
+
+msgid "TROPHY_NAME_15th_birthday_bash"
+msgstr "15:e Birthday Bash"
 
 msgid "TROPHY_NAME_7th_birthday_bash"
 msgstr "7:nde Birthday Bash"
@@ -326,6 +353,9 @@ msgstr "Wii Room Trofé"
 
 msgid "TROPHY_NAME_wcf_2025_winner"
 msgstr "Winter Comedy Fest Vinnare 2025"
+
+msgid "TROPHY_NAME_wcf_2026_winner"
+msgstr "Winter Comedy Fest Vinnare 2026"
 
 msgid "TROPHY_NAME_weekly_topic_winner"
 msgstr "Veckotemans vinnare"

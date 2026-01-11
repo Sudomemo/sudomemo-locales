@@ -18,10 +18,22 @@ msgid "TROPHY_CASE"
 msgstr "Vitrina de Trofeos"
 
 msgid "TROPHY_DESC_10th_birthday_bash"
-msgstr "Asistió al 10mo Birthday Bash de Sudomemo"
+msgstr "Asistió al 10o Birthday Bash de Sudomemo"
 
 msgid "TROPHY_DESC_11th_birthday_bash"
-msgstr "Asistió al 11vo Birthday Bash de Sudomemo"
+msgstr "Asistió al 11o Birthday Bash de Sudomemo"
+
+msgid "TROPHY_DESC_12th_birthday_bash"
+msgstr "Asistió al 12o Birthday Bash de Sudomemo"
+
+msgid "TROPHY_DESC_13th_birthday_bash"
+msgstr "Asistió al 13o Birthday Bash de Sudomemo"
+
+msgid "TROPHY_DESC_14th_birthday_bash"
+msgstr "Asistió al 14o Birthday Bash de Sudomemo"
+
+msgid "TROPHY_DESC_15th_birthday_bash"
+msgstr "Asistió al 15o Birthday Bash de Sudomemo"
 
 msgid "TROPHY_DESC_7th_birthday_bash"
 msgstr "Asistió al 7o Birthday Bash de Sudomemo"
@@ -167,6 +179,9 @@ msgstr "¡Visitó la Sala de Sudomemo en Wii Room!"
 msgid "TROPHY_DESC_wcf_2025_winner"
 msgstr "Ganador del Festival de Comedia de Invierno 2025 de Sudomemo"
 
+msgid "TROPHY_DESC_wcf_2026_winner"
+msgstr "Ganador del Festival de Comedia de Invierno 2026 de Sudomemo"
+
 msgid "TROPHY_DESC_weekly_topic_winner"
 msgstr "Envió una entrada ganadora a la Temática Semanal de Sudomemo."
 
@@ -177,10 +192,22 @@ msgid "TROPHY_EARNED"
 msgstr "New Trophy!"
 
 msgid "TROPHY_NAME_10th_birthday_bash"
-msgstr "10mo Birthday Bash"
+msgstr "10no Birthday Bash"
 
 msgid "TROPHY_NAME_11th_birthday_bash"
-msgstr "11vo Birthday Bash"
+msgstr "11no Birthday Bash"
+
+msgid "TROPHY_NAME_12th_birthday_bash"
+msgstr "12no Birthday Bash"
+
+msgid "TROPHY_NAME_13th_birthday_bash"
+msgstr "13no Birthday Bash"
+
+msgid "TROPHY_NAME_14th_birthday_bash"
+msgstr "14no Birthday Bash"
+
+msgid "TROPHY_NAME_15th_birthday_bash"
+msgstr "15no Birthday Bash"
 
 msgid "TROPHY_NAME_7th_birthday_bash"
 msgstr "7mo Birthday Bash"
@@ -326,6 +353,9 @@ msgstr "Trofeo de Wii Room"
 
 msgid "TROPHY_NAME_wcf_2025_winner"
 msgstr "Ganador del Festival de Comedia de Invierno 2025"
+
+msgid "TROPHY_NAME_wcf_2026_winner"
+msgstr "Ganador del Festival de Comedia de Invierno 2026"
 
 msgid "TROPHY_NAME_weekly_topic_winner"
 msgstr "Ganador de la Temática Semanal"

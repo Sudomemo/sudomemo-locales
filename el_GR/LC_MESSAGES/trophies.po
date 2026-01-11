@@ -18,19 +18,31 @@ msgid "TROPHY_CASE"
 msgstr "Θηκη Τροπαιων"
 
 msgid "TROPHY_DESC_10th_birthday_bash"
-msgstr "Attended Sudomemo's 10th Birthday Bash event"
+msgstr "Παρευρέθηκε στην 10η γιορτή γενεθλίων του Sudomemo."
 
 msgid "TROPHY_DESC_11th_birthday_bash"
-msgstr "Attended Sudomemo's 11th Birthday Bash event"
+msgstr "Παρευρέθηκε στην 11η γιορτή γενεθλίων του Sudomemo."
+
+msgid "TROPHY_DESC_12th_birthday_bash"
+msgstr "Παρευρέθηκε στην 12η γιορτή γενεθλίων του Sudomemo."
+
+msgid "TROPHY_DESC_13th_birthday_bash"
+msgstr "Παρευρέθηκε στην 13η γιορτή γενεθλίων του Sudomemo."
+
+msgid "TROPHY_DESC_14th_birthday_bash"
+msgstr "Παρευρέθηκε στην 14η γιορτή γενεθλίων του Sudomemo."
+
+msgid "TROPHY_DESC_15th_birthday_bash"
+msgstr "Παρευρέθηκε στην 15η γιορτή γενεθλίων του Sudomemo."
 
 msgid "TROPHY_DESC_7th_birthday_bash"
-msgstr "Συμμετειχε στο ιβεντ 7 Χρονια Χαρας με Flipnote"
+msgstr "Παρευρέθηκε στην 7η γιορτή γενεθλίων του Sudomemo."
 
 msgid "TROPHY_DESC_8th_birthday_bash"
-msgstr "Attended Sudomemo's 8 Years of Flipnote Fun event"
+msgstr "Παρευρέθηκε στην 8η γιορτή γενεθλίων του Sudomemo."
 
 msgid "TROPHY_DESC_9th_birthday_bash"
-msgstr "Attended Sudomemo's 9th Birthday Bash event"
+msgstr "Παρευρέθηκε στην 9η γιορτή γενεθλίων του Sudomemo."
 
 msgid "TROPHY_DESC_archive_supporter"
 msgstr "Contributor to the Flipnote Archive Ko-Fi to help preserve Flipnote history!"
@@ -167,6 +179,9 @@ msgstr "Visited Sudomemo's Room on Wii Room!"
 msgid "TROPHY_DESC_wcf_2025_winner"
 msgstr "Winner of Sudomemo's 2025 Winter Comedy Fest"
 
+msgid "TROPHY_DESC_wcf_2026_winner"
+msgstr "Winner of Sudomemo's 2026 Winter Comedy Fest"
+
 msgid "TROPHY_DESC_weekly_topic_winner"
 msgstr "Νικησε στο Weekly Topic"
 
@@ -177,19 +192,31 @@ msgid "TROPHY_EARNED"
 msgstr "New Trophy!"
 
 msgid "TROPHY_NAME_10th_birthday_bash"
-msgstr "10th Birthday Bash"
+msgstr "10η Γιορτή Γενεθλίων"
 
 msgid "TROPHY_NAME_11th_birthday_bash"
-msgstr "11th Birthday Bash"
+msgstr "11η Γιορτή Γενεθλίων"
+
+msgid "TROPHY_NAME_12th_birthday_bash"
+msgstr "12η Γιορτή Γενεθλίων"
+
+msgid "TROPHY_NAME_13th_birthday_bash"
+msgstr "13η Γιορτή Γενεθλίων"
+
+msgid "TROPHY_NAME_14th_birthday_bash"
+msgstr "14η Γιορτή Γενεθλίων"
+
+msgid "TROPHY_NAME_15th_birthday_bash"
+msgstr "15η Γιορτή Γενεθλίων"
 
 msgid "TROPHY_NAME_7th_birthday_bash"
-msgstr "7ο Birthday Bash"
+msgstr "7η Γιορτή Γενεθλίων"
 
 msgid "TROPHY_NAME_8th_birthday_bash"
-msgstr "8th Birthday Bash"
+msgstr "8η Γιορτή Γενεθλίων"
 
 msgid "TROPHY_NAME_9th_birthday_bash"
-msgstr "9th Birthday Bash"
+msgstr "9η Γιορτή Γενεθλίων"
 
 msgid "TROPHY_NAME_archive_supporter"
 msgstr "Archive Supporter"
@@ -326,6 +353,9 @@ msgstr "Wii Room Trophy"
 
 msgid "TROPHY_NAME_wcf_2025_winner"
 msgstr "2025 Winter Comedy Fest Winner"
+
+msgid "TROPHY_NAME_wcf_2026_winner"
+msgstr "2026 Winter Comedy Fest Winner"
 
 msgid "TROPHY_NAME_weekly_topic_winner"
 msgstr "Νικητης Weekly Topi"

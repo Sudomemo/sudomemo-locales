@@ -18,10 +18,22 @@ msgid "TROPHY_CASE"
 msgstr "トロフィーケース"
 
 msgid "TROPHY_DESC_10th_birthday_bash"
-msgstr "Attended Sudomemo's 10th Birthday Bash event"
+msgstr "スドメモの10周年バースデーバッシュに参加した"
 
 msgid "TROPHY_DESC_11th_birthday_bash"
-msgstr "Attended Sudomemo's 11th Birthday Bash event"
+msgstr "スドメモの11周年バースデーバッシュに参加した"
+
+msgid "TROPHY_DESC_12th_birthday_bash"
+msgstr "スドメモの12周年バースデーバッシュに参加した"
+
+msgid "TROPHY_DESC_13th_birthday_bash"
+msgstr "スドメモの13周年バースデーバッシュに参加した"
+
+msgid "TROPHY_DESC_14th_birthday_bash"
+msgstr "スドメモの14周年バースデーバッシュに参加した"
+
+msgid "TROPHY_DESC_15th_birthday_bash"
+msgstr "スドメモの15周年バースデーバッシュに参加した"
 
 msgid "TROPHY_DESC_7th_birthday_bash"
 msgstr "スドメモの7周年ファンイベントに参加する"
@@ -30,7 +42,7 @@ msgid "TROPHY_DESC_8th_birthday_bash"
 msgstr "スドメモの8周年ファンイベントに参加する"
 
 msgid "TROPHY_DESC_9th_birthday_bash"
-msgstr "Attended Sudomemo's 9th Birthday Bash event"
+msgstr "スドメモの9周年バースデーバッシュに参加した"
 
 msgid "TROPHY_DESC_archive_supporter"
 msgstr "うごメモの歴史を保存する、うごメモアーカイブKo-Fiに寄付する"
@@ -167,6 +179,9 @@ msgstr "Visited Sudomemo's Room on Wii Room!"
 msgid "TROPHY_DESC_wcf_2025_winner"
 msgstr "Winner of Sudomemo's 2025 Winter Comedy Fest"
 
+msgid "TROPHY_DESC_wcf_2026_winner"
+msgstr "Winner of Sudomemo's 2026 Winter Comedy Fest"
+
 msgid "TROPHY_DESC_weekly_topic_winner"
 msgstr "スドメモの今週のお題に入賞する"
 
@@ -177,10 +192,22 @@ msgid "TROPHY_EARNED"
 msgstr "New Trophy!"
 
 msgid "TROPHY_NAME_10th_birthday_bash"
-msgstr "10th Birthday Bash"
+msgstr "10周年バースデーバッシュ"
 
 msgid "TROPHY_NAME_11th_birthday_bash"
-msgstr "11th Birthday Bash"
+msgstr "11周年バースデーバッシュ"
+
+msgid "TROPHY_NAME_12th_birthday_bash"
+msgstr "12周年バースデーバッシュ"
+
+msgid "TROPHY_NAME_13th_birthday_bash"
+msgstr "13周年バースデーバッシュ"
+
+msgid "TROPHY_NAME_14th_birthday_bash"
+msgstr "14周年バースデーバッシュ"
+
+msgid "TROPHY_NAME_15th_birthday_bash"
+msgstr "15周年バースデーバッシュ"
 
 msgid "TROPHY_NAME_7th_birthday_bash"
 msgstr "7周年記念パーティー"
@@ -189,7 +216,7 @@ msgid "TROPHY_NAME_8th_birthday_bash"
 msgstr "8周年記念パーティー"
 
 msgid "TROPHY_NAME_9th_birthday_bash"
-msgstr "9th Birthday Bash"
+msgstr "9周年バースデーバッシュ"
 
 msgid "TROPHY_NAME_archive_supporter"
 msgstr "アーカイブサポーター"
@@ -326,6 +353,9 @@ msgstr "Wii Room Trophy"
 
 msgid "TROPHY_NAME_wcf_2025_winner"
 msgstr "2025 Winter Comedy Fest Winner"
+
+msgid "TROPHY_NAME_wcf_2026_winner"
+msgstr "2026 Winter Comedy Fest Winner"
 
 msgid "TROPHY_NAME_weekly_topic_winner"
 msgstr "今週のお題入賞者"

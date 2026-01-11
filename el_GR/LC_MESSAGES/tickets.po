@@ -156,19 +156,31 @@ msgid "THEME_AVAILABLE_FOR_USE"
 msgstr "Πλεον μπορειτε να χρησιμοποιησετε αυτο το θεμα στο Δωματιο Χρηστη σας!"
 
 msgid "TICKET_DESC_10th_birthday_bash_ticket"
-msgstr "Thanks for attending our Birthday Bash!"
+msgstr "Ευχαριστούμε που παρευρεθήκατε στη γιορτή γενεθλίων μας!"
 
 msgid "TICKET_DESC_11th_birthday_bash_ticket"
-msgstr "Thanks for attending our Birthday Bash!"
+msgstr "Ευχαριστούμε που παρευρεθήκατε στη γιορτή γενεθλίων μας!"
+
+msgid "TICKET_DESC_12th_birthday_bash_ticket"
+msgstr "Ευχαριστούμε που παρευρεθήκατε στη γιορτή γενεθλίων μας!"
+
+msgid "TICKET_DESC_13th_birthday_bash_ticket"
+msgstr "Ευχαριστούμε που παρευρεθήκατε στη γιορτή γενεθλίων μας!"
+
+msgid "TICKET_DESC_14th_birthday_bash_ticket"
+msgstr "Ευχαριστούμε που παρευρεθήκατε στη γιορτή γενεθλίων μας!"
+
+msgid "TICKET_DESC_15th_birthday_bash_ticket"
+msgstr "Ευχαριστούμε που παρευρεθήκατε στη γιορτή γενεθλίων μας!"
 
 msgid "TICKET_DESC_7th_birthday_bash_ticket"
-msgstr "Ευχαριστουμε που συμμετειχατε στο  Birthday Bash μας!"
+msgstr "Ευχαριστούμε που παρευρεθήκατε στη γιορτή γενεθλίων μας!"
 
 msgid "TICKET_DESC_8th_birthday_bash_ticket"
-msgstr "Thanks for attending our Birthday Bash!"
+msgstr "Ευχαριστούμε που παρευρεθήκατε στη γιορτή γενεθλίων μας!"
 
 msgid "TICKET_DESC_9th_birthday_bash_ticket"
-msgstr "Thanks for attending our Birthday Bash!"
+msgstr "Ευχαριστούμε που παρευρεθήκατε στη γιορτή γενεθλίων μας!"
 
 msgid "TICKET_DESC_LABEL"
 msgstr "Ticket Description:"
@@ -328,6 +340,9 @@ msgstr "Thank you for visiting the Sudomemo Room on Wii Room!"
 msgid "TICKET_DESC_wcf_2025_winner_ticket"
 msgstr "Congratulations on winning the 2025 Winter Comedy Fest!"
 
+msgid "TICKET_DESC_wcf_2026_winner_ticket"
+msgstr "Congratulations on winning the 2026 Winter Comedy Fest!"
+
 msgid "TICKET_DESC_weekly_topic_winner_ticket"
 msgstr "Συγχαρητηρια για την νικη σας στο Sudomemo Weekly Topic!"
 
@@ -335,19 +350,31 @@ msgid "TICKET_DESC_welcoming_champion_ticket"
 msgstr "You're been very welcoming to new and returning creators! Thanks!"
 
 msgid "TICKET_NAME_10th_birthday_bash_ticket"
-msgstr "10th Birthday Bash Ticket"
+msgstr "Εισιτήριο 10ης Γιορτής Γενεθλίων"
 
 msgid "TICKET_NAME_11th_birthday_bash_ticket"
-msgstr "11th Birthday Bash Ticket"
+msgstr "Εισιτήριο 11ης Γιορτής Γενεθλίων"
+
+msgid "TICKET_NAME_12th_birthday_bash_ticket"
+msgstr "Εισιτήριο 12ης Γιορτής Γενεθλίων"
+
+msgid "TICKET_NAME_13th_birthday_bash_ticket"
+msgstr "Εισιτήριο 13ης Γιορτής Γενεθλίων"
+
+msgid "TICKET_NAME_14th_birthday_bash_ticket"
+msgstr "Εισιτήριο 14ης Γιορτής Γενεθλίων"
+
+msgid "TICKET_NAME_15th_birthday_bash_ticket"
+msgstr "Εισιτήριο 15ης Γιορτής Γενεθλίων"
 
 msgid "TICKET_NAME_7th_birthday_bash_ticket"
-msgstr "Λαχνος για το 7ο μας Birthday"
+msgstr "Εισιτήριο 7ης Γιορτής Γενεθλίων"
 
 msgid "TICKET_NAME_8th_birthday_bash_ticket"
-msgstr "8th Birthday Bash Ticket"
+msgstr "Εισιτήριο 8ης Γιορτής Γενεθλίων"
 
 msgid "TICKET_NAME_9th_birthday_bash_ticket"
-msgstr "9th Birthday Bash Ticket"
+msgstr "Εισιτήριο 9ης Γιορτής Γενεθλίων"
 
 msgid "TICKET_NAME_LABEL"
 msgstr "Ticket Name:"
@@ -507,6 +534,9 @@ msgstr "Wii Room Ticket"
 
 msgid "TICKET_NAME_wcf_2025_winner_ticket"
 msgstr "2025 Winter Comedy Fest Winner Ticket"
+
+msgid "TICKET_NAME_wcf_2026_winner_ticket"
+msgstr "2026 Winter Comedy Fest Winner Ticket"
 
 msgid "TICKET_NAME_weekly_topic_winner_ticket"
 msgstr "Ticket Νικητη του Weekly Topic"

@@ -161,6 +161,18 @@ msgstr "Obrigado por participares no nosso Birthday Bash!"
 msgid "TICKET_DESC_11th_birthday_bash_ticket"
 msgstr "Obrigado por participares no nosso Birthday Bash!"
 
+msgid "TICKET_DESC_12th_birthday_bash_ticket"
+msgstr "Obrigado por participares no nosso Birthday Bash!"
+
+msgid "TICKET_DESC_13th_birthday_bash_ticket"
+msgstr "Obrigado por participares no nosso Birthday Bash!"
+
+msgid "TICKET_DESC_14th_birthday_bash_ticket"
+msgstr "Obrigado por participares no nosso Birthday Bash!"
+
+msgid "TICKET_DESC_15th_birthday_bash_ticket"
+msgstr "Obrigado por participares no nosso Birthday Bash!"
+
 msgid "TICKET_DESC_7th_birthday_bash_ticket"
 msgstr "Obrigado por participares no nosso Birthday Bash!"
 
@@ -328,6 +340,9 @@ msgstr "Obrigado por visitares a Sala Sudomemo no Wii Room!"
 msgid "TICKET_DESC_wcf_2025_winner_ticket"
 msgstr "Parabéns a ti, para a tua vitória na competição Comedy Fest de Inverno de 2025!"
 
+msgid "TICKET_DESC_wcf_2026_winner_ticket"
+msgstr "Parabéns a ti, para a tua vitória na competição Comedy Fest de Inverno de 2026!"
+
 msgid "TICKET_DESC_weekly_topic_winner_ticket"
 msgstr "Parabéns por ganhar uma posição no Tópico Semanal do Sudomemo!"
 
@@ -339,6 +354,18 @@ msgstr "Bilhete do 10º Birthday Bash"
 
 msgid "TICKET_NAME_11th_birthday_bash_ticket"
 msgstr "Bilhete do 11º Birthday Bash"
+
+msgid "TICKET_NAME_12th_birthday_bash_ticket"
+msgstr "Bilhete do 12º Birthday Bash"
+
+msgid "TICKET_NAME_13th_birthday_bash_ticket"
+msgstr "Bilhete do 13º Birthday Bash"
+
+msgid "TICKET_NAME_14th_birthday_bash_ticket"
+msgstr "Bilhete do 14º Birthday Bash"
+
+msgid "TICKET_NAME_15th_birthday_bash_ticket"
+msgstr "Bilhete do 15º Birthday Bash"
 
 msgid "TICKET_NAME_7th_birthday_bash_ticket"
 msgstr "Bilhete do 7º Birthday Bash"
@@ -507,6 +534,9 @@ msgstr "Bilhete do Wii Room"
 
 msgid "TICKET_NAME_wcf_2025_winner_ticket"
 msgstr "Bilhete do Vencedor do Comedy Fest de Inverno de 2025"
+
+msgid "TICKET_NAME_wcf_2026_winner_ticket"
+msgstr "Bilhete do Vencedor do Comedy Fest de Inverno de 2026"
 
 msgid "TICKET_NAME_weekly_topic_winner_ticket"
 msgstr "Bilhete de Vencedor o Tópico Semanal"

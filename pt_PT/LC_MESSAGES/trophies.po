@@ -23,6 +23,18 @@ msgstr "Participaste no evento 10 anos a Divertiste com Flipnotes do Sudomemo"
 msgid "TROPHY_DESC_11th_birthday_bash"
 msgstr "Participaste no evento 11 anos a Divertiste com Flipnotes do Sudomemo"
 
+msgid "TROPHY_DESC_12th_birthday_bash"
+msgstr "Participaste no evento 12 anos a Divertiste com Flipnotes do Sudomemo"
+
+msgid "TROPHY_DESC_13th_birthday_bash"
+msgstr "Participaste no evento 13 anos a Divertiste com Flipnotes do Sudomemo"
+
+msgid "TROPHY_DESC_14th_birthday_bash"
+msgstr "Participaste no evento 14 anos a Divertiste com Flipnotes do Sudomemo"
+
+msgid "TROPHY_DESC_15th_birthday_bash"
+msgstr "Participaste no evento 15 anos a Divertiste com Flipnotes do Sudomemo"
+
 msgid "TROPHY_DESC_7th_birthday_bash"
 msgstr "Participaste no evento 7 anos a Divertiste com Flipnotes do Sudomemo"
 
@@ -167,6 +179,9 @@ msgstr "Visitaste a Sala do Sudomemo no Wii Room!"
 msgid "TROPHY_DESC_wcf_2025_winner"
 msgstr "Vencedor da Festa da Comédia 2025 do Sudomemo"
 
+msgid "TROPHY_DESC_wcf_2026_winner"
+msgstr "Vencedor da Festa da Comédia 2026 do Sudomemo"
+
 msgid "TROPHY_DESC_weekly_topic_winner"
 msgstr "Submeter um post vencedor no Tópico Semanal do Sudomemo"
 
@@ -181,6 +196,18 @@ msgstr "10º Birthday Bash"
 
 msgid "TROPHY_NAME_11th_birthday_bash"
 msgstr "11º Birthday Bash"
+
+msgid "TROPHY_NAME_12th_birthday_bash"
+msgstr "12º Birthday Bash"
+
+msgid "TROPHY_NAME_13th_birthday_bash"
+msgstr "13º Birthday Bash"
+
+msgid "TROPHY_NAME_14th_birthday_bash"
+msgstr "14º Birthday Bash"
+
+msgid "TROPHY_NAME_15th_birthday_bash"
+msgstr "15º Birthday Bash"
 
 msgid "TROPHY_NAME_7th_birthday_bash"
 msgstr "7º Birthday Bash"
@@ -326,6 +353,9 @@ msgstr "Troféu do Wii Room"
 
 msgid "TROPHY_NAME_wcf_2025_winner"
 msgstr "Vencedor da Festa de Comédia 2025"
+
+msgid "TROPHY_NAME_wcf_2026_winner"
+msgstr "Vencedor da Festa de Comédia 2026"
 
 msgid "TROPHY_NAME_weekly_topic_winner"
 msgstr "Vencedor do Tópico Semanal"
