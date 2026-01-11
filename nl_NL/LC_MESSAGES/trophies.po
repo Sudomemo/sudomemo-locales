@@ -193,27 +193,6 @@ msgstr "Verdiende de titel van Welcoming Champion."
 msgid "TROPHY_EARNED"
 msgstr "New Trophy!"
 
-Hdee verjaardagsfeest"
-
-Idee verjaardagsfeest"
-
-Jdee verjaardagsfeest"
-
-Kdee verjaardagsfeest"
-
-Ldee verjaardagsfeest"
-
-Mdee verjaardagsfeest"
-
-msgid "TROPHY_NAME_7th_birthday_bash"
-msgstr "7e Birthday Bash"
-
-msgid "TROPHY_NAME_8th_birthday_bash"
-msgstr "8e Birthday Bash"
-
-msgid "TROPHY_NAME_9th_birthday_bash"
-msgstr "9e Birthday Bash"
-
 msgid "TROPHY_NAME_10th_birthday_bash"
 msgstr "10e Birthday Bash"
 
@@ -231,6 +210,15 @@ msgstr "14e Birthday Bash"
 
 msgid "TROPHY_NAME_15th_birthday_bash"
 msgstr "15e Birthday Bash"
+
+msgid "TROPHY_NAME_7th_birthday_bash"
+msgstr "7e Birthday Bash"
+
+msgid "TROPHY_NAME_8th_birthday_bash"
+msgstr "8e Birthday Bash"
+
+msgid "TROPHY_NAME_9th_birthday_bash"
+msgstr "9e Birthday Bash"
 
 msgid "TROPHY_NAME_archive_supporter"
 msgstr "Archiefondersteuner"
