@@ -834,6 +834,10 @@ msgstr "Flipnotes en vedette"
 msgid "FEED"
 msgstr "Flux"
 
+# First Flipnote badge text
+msgid "FIRST_FLIPNOTE_BADGE"
+msgstr "First Flipnote"
+
 msgid "FIX_NOW"
 msgstr "Réparer maintenant"
 
@@ -1448,6 +1452,10 @@ msgstr "Infos"
 
 msgid "NEW_ARRIVALS"
 msgstr "New Arrivals"
+
+# New Creator badge text
+msgid "NEW_CREATOR_BADGE"
+msgstr "New Creator"
 
 msgid "NEW_EMAIL"
 msgstr "Nouvelle adresse e-mail"
@@ -2893,12 +2901,3 @@ msgstr "Vous éditez cette Flipnote :"
 
 msgid "YT_LAYOUT_MAY_VARY"
 msgstr "L’apparence et la disposition peuvent varier en fonction de l’appareil utilisé pour visionner la vidéo"
-
-# First Flipnote badge text
-msgid "FIRST_FLIPNOTE_BADGE"
-msgstr "First Flipnote"
-
-# New Creator badge text
-msgid "NEW_CREATOR_BADGE"
-msgstr "New Creator"
-
