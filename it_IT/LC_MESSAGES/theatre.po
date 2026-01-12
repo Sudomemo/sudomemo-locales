@@ -2893,3 +2893,12 @@ msgstr "Stai modificando questo Flipnote:"
 
 msgid "YT_LAYOUT_MAY_VARY"
 msgstr "L'aspetto e il layout possono variare a seconda del dispositivo utilizzato per visualizzare il video"
+
+# First Flipnote badge text
+msgid "FIRST_FLIPNOTE_BADGE"
+msgstr "First Flipnote"
+
+# New Creator badge text
+msgid "NEW_CREATOR_BADGE"
+msgstr "New Creator"
+
