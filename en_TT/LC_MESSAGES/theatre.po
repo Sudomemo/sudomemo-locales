@@ -366,7 +366,7 @@ msgstr "Failed to reply to the chat."
 
 # This used to say "Chronological", but it has since been simplified to just "Oldest".
 msgid "CHRONOLOGICAL"
-msgstr "Oldest"
+msgstr "pini suli"
 
 msgid "CLOSE"
 msgstr "Close"
@@ -929,13 +929,13 @@ msgid "FRONTPAGE_FLIPNOTE_SPOTLIGHT"
 msgstr "Flipnote Spotlight"
 
 msgid "FRONTPAGE_TITLE_TAGLINE"
-msgstr "Sudomemo: Flipnote Hatena is back!"
+msgstr "lipu Sutomemo: Flipnote Hatena is back!"
 
 msgid "FRONTPAGE_TITLE_TAGLINE_2"
-msgstr "Sudomemo: Share Flipnotes"
+msgstr "lipu Sutomemo: Share Flipnotes"
 
 msgid "FRONTPAGE_TITLE_TAGLINE_3"
-msgstr "Sudomemo: Share Flipnotes on 3DS & DSi"
+msgstr "lipu Sutomemo: Share Flipnotes on 3DS & DSi"
 
 msgid "FRONTPAGE_TRENDING_CREATORS"
 msgstr "Trending Creators"
@@ -1448,7 +1448,7 @@ msgid "NEWEST"
 msgstr "Newest"
 
 msgid "NEWS"
-msgstr "News"
+msgstr "sona pini"
 
 msgid "NEW_ARRIVALS"
 msgstr "New Arrivals"
@@ -1474,7 +1474,7 @@ msgid "NEW_PROFILE_PICTURE"
 msgstr "New Profile Picture"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "sin"
 
 msgid "NEXT_RENEWAL"
 msgstr "Next Renewal"
@@ -1788,7 +1788,7 @@ msgstr "Popular This Month"
 
 # Previous, abbreviated "Prev". Should be a maximum of 4 characters.
 msgid "PREV"
-msgstr "Prev"
+msgstr "pini"
 
 msgid "PREVIOUS"
 msgstr "Previous"
@@ -2121,13 +2121,13 @@ msgstr "Subscribe Yearly"
 # This file contains most of the translations for Sudomemo Theatre.
 # Meta tags, descriptions, etc
 msgid "SUDOMEMO"
-msgstr "Sudomemo"
+msgstr "lipu Sutomemo"
 
 msgid "SUDOMEMO_NEWS"
-msgstr "Sudomemo News"
+msgstr "sona pini Sutomemo"
 
 msgid "SUDOMEMO_PLUS"
-msgstr "Sudomemo Plus"
+msgstr "namako Sutomemo"
 
 msgid "SUDOMEMO_PLUS_FEATURE"
 msgstr "Sudomemo Plus feature"
@@ -2175,7 +2175,7 @@ msgid "TEST"
 msgstr "Test"
 
 msgid "THIS_FLIPNOTE_IS_SPINOFF_OF"
-msgstr "This Flipnote is a spin-off of"
+msgstr "ni li sitelen Sinlinoto tan"
 
 # Sudomemo Shop
 msgid "TICKETS"
@@ -2344,7 +2344,7 @@ msgid "VIEWPAGE_RELATED_FLIPNOTE_BY"
 msgstr "by %s"
 
 msgid "VIEWPAGE_SPINOFFS"
-msgstr "Spin-offs"
+msgstr "sitelen Sinlinoto"
 
 # Number of times something has been viewed, or played.
 msgid "VIEWS"
@@ -2518,7 +2518,7 @@ msgstr "Good morning"
 msgid "WELCOME_BOX_OPEN_SUDOMIN"
 msgstr "Open Sudomin"
 
-# ## Another one of our taglines 
+# ## Another one of our taglines
 msgid "WELCOME_BOX_SHARE_CREATIVITY_TAGLINE"
 msgstr "Share your creativity with the world!"
 
@@ -2599,7 +2599,7 @@ msgid "YOUTUBE_DEFAULT_PLAYLISTS_UPDATED"
 msgstr "Default playlists updated successfully"
 
 # YouTube metadata
-# Extra description text: will be placed at the end of your video descriptions. 
+# Extra description text: will be placed at the end of your video descriptions.
 msgid "YOUTUBE_DEFAULT_SETTINGS_EXPLANATION"
 msgstr "These settings will be filled in automatically when you upload a Flipnote from your Nintendo DSi or 3DS. If you're uploading from Sudomemo Theatre, you'll be prompted to change or confirm these settings before starting the upload."
 

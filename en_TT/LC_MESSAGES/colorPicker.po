@@ -4,19 +4,19 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CURRENT_COLOR"
-msgstr "Current color:"
+msgstr "kule ni:"
 
 msgid "CURRENT_COLOR_DEFAULT"
-msgstr "Current color: default"
+msgstr "kule ni: ante ala"
 
 msgid "RETURN"
-msgstr "Return"
+msgstr "tawa"
 
 msgid "SELECT_A_COLOR"
-msgstr "Select a color."
+msgstr "o lawa e kule."
 
 msgid "SET_PAPER_COLOR"
-msgstr "Set Paper Color"
+msgstr "o lawa e kule lipu"
 
 msgid "SET_PEN_COLOR"
-msgstr "Set Pen Color"
+msgstr "o lawa e kule linja"

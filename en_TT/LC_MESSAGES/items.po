@@ -4,43 +4,43 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CONTINUE"
-msgstr "Continue"
+msgstr "pona"
 
 msgid "ITEM_DESC_banana"
-msgstr "Not to be confused with a plantain."
+msgstr "ni li ala e kili palisa kasi."
 
 msgid "ITEM_DESC_beach_ball"
-msgstr "A great accessory for a swimming excursion."
+msgstr "sina telo la ni li jan pona."
 
 msgid "ITEM_DESC_hot_chocolate"
-msgstr "A delicious cup of hot chocolate, perfect for a cozy day."
+msgstr "telo suwi seli li pona a. tenpo lete la ni li pakala ala."
 
 msgid "ITEM_DESC_peeled_banana"
-msgstr "Not to be confused with a plan-... Why'd you peel it like that?"
+msgstr "ni li ala e kili pali-- ike a! tan seme la sina weka e selo kepeken nasin ni?"
 
 msgid "ITEM_NAME_banana"
-msgstr "Banana"
+msgstr "kili palisa"
 
 msgid "ITEM_NAME_beach_ball"
-msgstr "Beach Ball"
+msgstr "sike musi"
 
 msgid "ITEM_NAME_hot_chocolate"
-msgstr "Hot Chocolate"
+msgstr "telo suwi seli"
 
 msgid "ITEM_NAME_peeled_banana"
-msgstr "Peeled Banana"
+msgstr "kili palisa pi selo weka"
 
 msgid "ITEM_USE_banana"
-msgstr "You peel the banana."
+msgstr "sina weka e selo tan kili palisa."
 
 msgid "ITEM_USE_beach_ball"
-msgstr "You toss the ball around a bit."
+msgstr "sina musi kepeken sike musi."
 
 msgid "ITEM_USE_hot_chocolate"
-msgstr "After letting it cool for a moment, you drink the hot chocolate."
+msgstr "tenpo lili la sina moku e telo suwi."
 
 msgid "ITEM_USE_peeled_banana"
-msgstr "You eat the banana."
+msgstr "sina moku e kili palisa."
 
 msgid "YOU_GOT_AN_ITEM"
-msgstr "You got an item!"
+msgstr "sina jo e ijo!"

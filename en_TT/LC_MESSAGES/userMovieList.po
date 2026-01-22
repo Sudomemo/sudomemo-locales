@@ -4,37 +4,37 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "FAVORITES_FEED_FORMAT"
-msgstr "%s's Favorites Feed"
+msgstr "sitelen Pilinoto pona tan jan %s"
 
 msgid "FLIPNOTES_BY_FORMAT"
-msgstr "Flipnotes by %s"
+msgstr "sitelen Pilinoto tan %s"
 
 msgid "LEAST_VIEWED"
-msgstr "Least Viewed"
+msgstr "lukin lili"
 
 msgid "MOST_RECENT"
-msgstr "Recent"
+msgstr "sin"
 
 msgid "MOST_VIEWED"
-msgstr "Most Viewed"
+msgstr "lukin suli"
 
 msgid "NEXT"
-msgstr "Next page"
+msgstr "lipu sin"
 
 msgid "OLDEST"
-msgstr "Oldest"
+msgstr "suli"
 
 msgid "PAGE"
-msgstr "Page"
+msgstr "lipu"
 
 msgid "PAGE_COUNTER_FORMAT"
-msgstr "%d of %d"
+msgstr "%d tan %d"
 
 msgid "PREV"
-msgstr "Previous page"
+msgstr "lipu pini"
 
 msgid "STARRED_BY_FORMAT"
-msgstr "Starred by %s"
+msgstr "jan %s li pana e mun"
 
 msgid "UPPERTITLE"
-msgstr "Browse"
+msgstr "lukin"

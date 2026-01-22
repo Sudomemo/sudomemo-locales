@@ -91,13 +91,13 @@ msgid "HEADER_SONG"
 msgstr "Song"
 
 msgid "HEADER_SPINOFFS"
-msgstr "Spin-offs"
+msgstr "sitelen Sinlinoto"
 
 msgid "HEADER_STARS"
 msgstr "Stars"
 
 msgid "HEADER_THIS_FLIPNOTE_IS_A_SPINOFF"
-msgstr "This Flipnote is a spin-off."
+msgstr "sitelen Sinlinoto li sitelen Sinlinoto."
 
 msgid "HEADER_TITLE"
 msgstr "Title"
@@ -115,10 +115,10 @@ msgid "LEAVE_BLANK_TO_RESET_DESC"
 msgstr "To remove the description, leave the form blank when submitting."
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "sin"
 
 msgid "PREV"
-msgstr "Prev"
+msgstr "pini"
 
 msgid "SET_DESCRIPTION"
 msgstr "Set Description"
