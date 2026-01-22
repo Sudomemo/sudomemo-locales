@@ -5,52 +5,52 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "ACTIVE_FROM"
-msgstr "Active from"
+msgstr "Ativo desde"
 
 msgid "ALSO_KNOWN_AS"
-msgstr "Also known as"
+msgstr "Também conhecido(a) como"
 
 msgid "BAD_METADATA"
-msgstr "Flipnote with bad metadata"
+msgstr "Flipnote com metadados corrompidos"
 
 msgid "BAD_METADATA_WARNING"
-msgstr "Warning: The Flipnote metadata is corrupted. You can still watch it, but we strongly recommend against opening it in Flipnote Studio 3D."
+msgstr "Aviso: Os metadados do Flipnote estão corrompidos. Ainda assisti-lo, mas sugerimos que não o abra no Flipnote Studio 3D."
 
 msgid "BLUE_STARS"
-msgstr "Blue Stars"
+msgstr "Estrelas Azuis"
 
 msgid "BROWSE"
-msgstr "Browse"
+msgstr "Procurar"
 
 msgid "CONTACT"
-msgstr "Contact"
+msgstr "Contato"
 
 msgid "CORRUPT_FLIPNOTE_NOTE"
-msgstr "This Flipnote has corrupted data. While it can be played, it is likely a duplicate and should not be considered the authoritative version. Try finding another copy of this Flipnote."
+msgstr "Este Flipnote contem dados corrompidos. Ele pode ser reproduzido, mas é possível que seja uma copia e não deve ser considerada a versão original. Tente encontrar uma copia estável deste Flipnote."
 
 msgid "CREATED"
-msgstr "Created"
+msgstr "Criado"
 
 msgid "CREATORS"
-msgstr "Creators"
+msgstr "Criadores"
 
 msgid "CREDITS"
-msgstr "Credits"
+msgstr "Créditos"
 
 msgid "DURATION"
-msgstr "Duration"
+msgstr "Duração"
 
 msgid "DURATION_FORMAT"
-msgstr "%s seconds"
+msgstr "%s segundos"
 
 msgid "FEATURED"
-msgstr "Featured"
+msgstr "Destacado"
 
 msgid "FEATURED_FLIPNOTES"
-msgstr "Featured Flipnotes"
+msgstr "Flipnotes Destacados"
 
 msgid "FEATURED_FLIPNOTES_DESC"
-msgstr "A collection of famous or noteworthy Flipnotes, curated by our team"
+msgstr "Uma coleção de Flipnotes notáveis, escolhidos pela nossa equipe"
 
 msgid "FLIPNOTES"
 msgstr "Flipnotes"
@@ -59,230 +59,230 @@ msgid "FLIPNOTE_ARCHIVE"
 msgstr "Flipnote Archive"
 
 msgid "FLIPNOTE_ARCHIVE_CREDITS"
-msgstr "Flipnote Archive Credits"
+msgstr "Créditos do Flipnote Archive"
 
 msgid "FLIPNOTE_BY_FORMAT"
-msgstr "Flipnote by %s"
+msgstr "Flipnote de %s"
 
 msgid "FLIPNOTE_MAY_BE_DUPLICATE"
-msgstr "Possible duplicate of another Flipnote."
+msgstr "É possível que seja uma cópia de um outro Flipnote."
 
 msgid "FLIPNOTE_STUDIO_ID"
-msgstr "Flipnote Studio ID"
+msgstr "ID do Flipnote Studio"
 
 msgid "FLIPNOTE_WITHHELD_PRIVACY"
-msgstr "This Flipnote is withheld due to privacy concerns."
+msgstr "Este Flipnote está oculto por razões de privacidade."
 
 # the two %s are replaced with html tags to form a link.
 msgid "FLIPNOTE_WITHHELD_READ_MORE"
-msgstr "For more information, please read our %sFAQ%s."
+msgstr "Para mais informação, por favor leia os nossos %sFAQ%s."
 
 msgid "FOOTER_DONATION_ASK"
-msgstr "This site is expensive to run, so please consider making a %sdonation!%s"
+msgstr "Este website tem os seus custos de manutenção, por favor, considere fazer uma %sdoação!%s"
 
 msgid "FOOTER_SUDOMEMO_SHILL_FORMAT"
-msgstr "Hosted by %sSudomemo%s, a fan-run Flipnote sharing service for Flipnote Studio on the Nintendo DSi and 3DS"
+msgstr "Gerido pelo %sSudomemo%s, um serviço de compartilhamento de Flipnotes gerido por fãs do Flipnote Studio nos Dispositivos Nintendo DSi e 3DS"
 
 msgid "FOOTER_THIRDPARTY_COPYRIGHT"
-msgstr "Flipnote Studio is © Nintendo. Flipnote Hatena is © Hatena Co., Ltd."
+msgstr "Flipnote Studio tem direitos de © da Nintendo. Flipnote Hatena tem direitos de © da Hatena Co., Ltd."
 
 msgid "FOOTER_THIRDPARTY_DISCLAIMER"
-msgstr "The Flipnote Archive is not affilated with or endorsed by Nintendo or Hatena."
+msgstr "O Flipnote Archive não está afiliado ou patrocinado pela Nintendo ou Hatena."
 
 msgid "FRAME_SPEED"
-msgstr "Frame Speed"
+msgstr "Velocidade de Quadros"
 
 msgid "GREEN_STARS"
-msgstr "Green Stars"
+msgstr "Estrelas Verdes"
 
 msgid "HATENA_ID"
-msgstr "Hatena ID"
+msgstr "ID do Hatena"
 
 msgid "HATENA_USER"
-msgstr "Hatena User"
+msgstr "Usuário do Hatena"
 
 msgid "HISTORY"
-msgstr "History"
+msgstr "Histórico"
 
 msgid "HOMEPAGE_CREATOR_STAT"
-msgstr "1.2 million"
+msgstr "1.2 milhões"
 
 msgid "HOMEPAGE_DATA_HEADER"
-msgstr "Total Data"
+msgstr "Informações Totais"
 
 msgid "HOMEPAGE_FLIPNOTE_STAT"
-msgstr "44 million"
+msgstr "44 milhões"
 
 msgid "HOMEPAGE_FROG_DIALOG"
-msgstr "Keep on Flipnoting!"
+msgstr "Continue Flipnoteando!"
 
 # again, wrapped in links
 msgid "HOMEPAGE_INTRO_FORMAT"
-msgstr "A comprehensive archive of %sFlipnote Studio%s animations posted to %sFlipnote Hatena%s before its closure in May 2013."
+msgstr "Um arquivo compreensivo de animações do %sFlipnote Studio%s postadas no %sFlipnote Hatena%s antes do fechamento em Maio de 2013."
 
 msgid "HTTP_ERROR_404_TEXT"
-msgstr "The page you were looking for could not be found."
+msgstr "A página que procura não existe."
 
 # Error 404
 msgid "HTTP_ERROR_FORMAT"
-msgstr "Error %s"
+msgstr "Erro %s"
 
 # May 17th, 1996
 msgid "MONTH_DAY_YEAR_FORMAT"
-msgstr "F jS, Y"
+msgstr "jS F, Y"
 
 # May 1996
 msgid "MONTH_YEAR_FORMAT"
 msgstr "F Y"
 
 msgid "NAVBAR_DONATE"
-msgstr "Donate"
+msgstr "Doar"
 
 msgid "NAVBAR_FAQS"
 msgstr "FAQs"
 
 msgid "NAVBAR_HISTORY"
-msgstr "History"
+msgstr "Histórico"
 
 msgid "NAVBAR_HOME"
-msgstr "Home"
+msgstr "Início"
 
 msgid "NAVBAR_TAGS"
-msgstr "Tags"
+msgstr "Etiquetas"
 
 msgid "NEXT"
-msgstr "Next"
+msgstr "Próximo"
 
 msgid "NUMBER_OF_SONGS_FORMAT"
-msgstr "%d songs"
+msgstr "%d de m"
 
 msgid "ORIGINAL_FLIPNOTE"
-msgstr "Original Flipnote"
+msgstr "Flipnote Original"
 
 msgid "ORIGINAL_NOT_FOUND"
-msgstr "The original couldn't be found"
+msgstr "O Flipnote original não pôde ser encontrado/não existe"
 
 msgid "PARENT_FLIPNOTE"
-msgstr "Parent Flipnote"
+msgstr "Flipnote Parente"
 
 msgid "POPULAR"
 msgstr "Popular"
 
 msgid "POPULAR_FLIPNOTES"
-msgstr "Popular Flipnotes"
+msgstr "Flipnotes Populares"
 
 msgid "POPULAR_FLIPNOTES_DESC"
-msgstr "Flipnotes that have received a lot of attention from archive visitors"
+msgstr "Flipnotes que receberam muita atenção dos visitantes do arquivo"
 
 msgid "PRESS"
-msgstr "Press"
+msgstr "Imprensa"
 
 msgid "PRESS_INQUIRIES"
-msgstr "Press Inquiries"
+msgstr "Inquéritos da Imprensa"
 
 msgid "PREV"
-msgstr "Prev"
+msgstr "Anterior"
 
 msgid "PURPLE_STARS"
-msgstr "Purple Stars"
+msgstr "Estrelas Roxas"
 
 msgid "RANDOM"
-msgstr "Random"
+msgstr "Aleatório"
 
 msgid "RANDOM_FLIPNOTES"
-msgstr "Random Flipnotes"
+msgstr "Flipnotes Aleatórios"
 
 msgid "RANDOM_FLIPNOTES_DESC"
-msgstr "A series of Flipnotes chosen from a random point in time"
+msgstr "Uma série de Flipnotes escolhidos aleatóriamente"
 
 msgid "RED_STARS"
-msgstr "Red Stars"
+msgstr "Estrelas Vermelhas"
 
 msgid "REGION_AMERICAS"
 msgstr "Americas"
 
 msgid "REGION_EUROPE_AND_OCEANIA"
-msgstr "Europe & Oceania"
+msgstr "Europa & Oceania"
 
 msgid "REGION_JAPAN"
-msgstr "Japan"
+msgstr "Japão"
 
 msgid "ROOT_FLIPNOTE"
-msgstr "Root Flipnote"
+msgstr "Flipnote de Origem"
 
 msgid "SEARCH"
-msgstr "Search"
+msgstr "Procurar"
 
 msgid "SEARCH_THE_FLIPNOTE_ARCHIVE"
-msgstr "Search the Flipnote Archive"
+msgstr "Procurar no Flipnote Archive"
 
 msgid "SEE_MORE_ARROW"
-msgstr "See more →"
+msgstr "Ver mais →"
 
 msgid "SHARE"
-msgstr "Share"
+msgstr "Compartilhar"
 
 msgid "SONGS"
-msgstr "Songs"
+msgstr "Músicas"
 
 msgid "SONG_ALBUM"
-msgstr "Album"
+msgstr "Álbum"
 
 msgid "SONG_ARTISTS"
-msgstr "Song Artists"
+msgstr "Artistas de Música"
 
 msgid "SONG_GENRE"
-msgstr "Genre"
+msgstr "Género"
 
 msgid "SONG_LABEL"
-msgstr "Label"
+msgstr "Gravadora"
 
 # Referring to the year a song was released
 msgid "SONG_RELEASED"
-msgstr "Released"
+msgstr "Lançada em"
 
 msgid "SPINOFFS"
 msgstr "Spin-offs"
 
 msgid "SPINOFF_COUNT_FORMAT"
-msgstr "%s spin-offs"
+msgstr "%s de spin-offs"
 
 msgid "SPOTIFY"
 msgstr "Spotify"
 
 msgid "STARS"
-msgstr "Stars"
+msgstr "Estrelas"
 
 msgid "SUDOMEMO"
 msgstr "Sudomemo"
 
 msgid "THIS_FLIPNOTE_IS_SPINOFF_OF"
-msgstr "This Flipnote is a spin-off of"
+msgstr "Este Flipnote é um spin-off de"
 
 msgid "TOTAL_FLIPNOTES"
-msgstr "Total Flipnotes"
+msgstr "Flipnotes Totais"
 
 msgid "USER"
-msgstr "User"
+msgstr "Usuário"
 
 msgid "USERS"
-msgstr "Users"
+msgstr "Usuários"
 
 # Austin's Flipnote from Flipnote Hatena, May 17th, 2010
 msgid "USERS_ARCHIVED_FLIPNOTE_FORMAT"
-msgstr "%s's Flipnote from Flipnote Hatena, %s"
+msgstr "Flipnote do(a) %s's do Flipnote Hatena, de %s"
 
 msgid "USERS_ARCHIVED_PROFILE_FORMAT"
-msgstr "%s's archived Flipnote Hatena profile"
+msgstr "Perfil arquivado do(a) %s do Flipnote Hatena"
 
 msgid "USERS_PROFILE_IMAGE_FORMAT"
-msgstr "%s's Hatena profile image"
+msgstr "Imagem de perfil do(a)%s do Hatena"
 
 msgid "VIEWS"
-msgstr "Views"
+msgstr "Visualizações"
 
 msgid "YELLOW_STARS"
-msgstr "Yellow Stars"
+msgstr "Estrelas Amarelas"
 
 msgid "YOUTUBE_MUSIC"
 msgstr "YouTube Music"
