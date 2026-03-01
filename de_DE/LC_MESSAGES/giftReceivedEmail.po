@@ -1,0 +1,31 @@
+msgid ""
+msgstr ""
+"Language: de_DE\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "EMAIL_SUBJECT_GIFT_RECEIVED"
+msgstr "You got a gift!"
+
+msgid "EMAIL_GREETING_FORMAT"
+msgstr "Hi %s,"
+
+msgid "EMAIL_BODY_ANONYMOUS"
+msgstr "You got a gift on Sudomemo!"
+
+msgid "EMAIL_BODY_FROM_FORMAT"
+msgstr "%s sent you a gift on Sudomemo!"
+
+msgid "EMAIL_GIFT_MESSAGE_LABEL"
+msgstr "Message from your sender:"
+
+msgid "EMAIL_BODY_CTA_HINT"
+msgstr "Hop in and check it out whenever you're ready!"
+
+msgid "EMAIL_OPEN_SUDOMEMO_BUTTON"
+msgstr "Open Sudomemo"
+
+msgid "EMAIL_VIEW_SENDER_PROFILE"
+msgstr "View sender profile"
+
+msgid "EMAIL_SIGNOFF"
+msgstr "Have fun, and happy Flipnoting!"
