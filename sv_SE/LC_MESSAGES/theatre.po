@@ -226,6 +226,9 @@ msgstr "Kom igång"
 msgid "BTN_GO_HOME"
 msgstr "Back to Sudomemo"
 
+msgid "BTN_GO_TO_EDIT_PROFILE"
+msgstr "Go to Edit Profile"
+
 msgid "BTN_GO_TO_SETTINGS"
 msgstr "Gå till inställningar"
 
@@ -684,6 +687,12 @@ msgstr "Bokstäver, nummer, och symboler, högst 40 tecken."
 
 msgid "EDIT_PLAYLIST"
 msgstr "Redigera spellista"
+
+msgid "EDIT_PROFILE"
+msgstr "Edit Profile"
+
+msgid "EDIT_PROFILE_LAYOUT"
+msgstr "Edit Profile Layout"
 
 msgid "EMAIL_ALREADY_IN_USE"
 msgstr "Denna email används redan av ett annat konto."
@@ -1826,6 +1835,120 @@ msgstr "Profilbild"
 msgid "PROFILE_RECENT_COMMENTS"
 msgstr "Nya kommentarer"
 
+msgid "PROFILE_SHELVES_BTN_CHANGE"
+msgstr "Change"
+
+msgid "PROFILE_SHELVES_BTN_CREATE"
+msgstr "Create Shelf"
+
+msgid "PROFILE_SHELVES_BTN_DELETE"
+msgstr "Delete Shelf"
+
+msgid "PROFILE_SHELVES_BTN_REMOVE"
+msgstr "Remove"
+
+msgid "PROFILE_SHELVES_CREATE_TITLE"
+msgstr "Create Shelf"
+
+msgid "PROFILE_SHELVES_DESCRIPTION"
+msgstr "Use shelves to show off the things you're proud of!"
+
+msgid "PROFILE_SHELVES_ERROR_GENERIC"
+msgstr "Could not save profile shelf changes."
+
+msgid "PROFILE_SHELVES_ERROR_NETWORK"
+msgstr "Could not reach the server. Please try again."
+
+msgid "PROFILE_SHELVES_FORM_SHELF_TITLE"
+msgstr "Shelf Title"
+
+msgid "PROFILE_SHELVES_FORM_SHELF_TYPE"
+msgstr "Shelf Type"
+
+msgid "PROFILE_SHELVES_ID_PREFIX"
+msgstr "ID"
+
+msgid "PROFILE_SHELVES_ITEMS_LABEL"
+msgstr "items"
+
+msgid "PROFILE_SHELVES_KEY_PREFIX"
+msgstr "Key"
+
+msgid "PROFILE_SHELVES_MAX_FLIPNOTES_REACHED"
+msgstr "Maximum 8 Flipnotes"
+
+msgid "PROFILE_SHELVES_MAX_PLAYLISTS_REACHED"
+msgstr "Maximum 8 Playlists"
+
+msgid "PROFILE_SHELVES_NONE"
+msgstr "No shelves yet."
+
+msgid "PROFILE_SHELVES_PLAYLIST_SELECTED"
+msgstr "Playlist selected"
+
+msgid "PROFILE_SHELVES_PROFILE_PHOTO_SEARCH_HELP"
+msgstr "Pick a Flipnote to use as your profile photo."
+
+msgid "PROFILE_SHELVES_PROFILE_PHOTO_SEARCH_LABEL"
+msgstr "Choose one of your Flipnotes"
+
+msgid "PROFILE_SHELVES_PROFILE_PHOTO_SEARCH_PLACEHOLDER"
+msgstr "Search your Flipnotes by title..."
+
+msgid "PROFILE_SHELVES_PROFILE_PHOTO_SELECTED"
+msgstr "You have selected a profile photo Flipnote."
+
+msgid "PROFILE_SHELVES_SEARCH_EMPTY_FLIPNOTES"
+msgstr "No matching Flipnotes found."
+
+msgid "PROFILE_SHELVES_SEARCH_EMPTY_PLAYLISTS"
+msgstr "No matching Playlists found."
+
+msgid "PROFILE_SHELVES_SEARCH_ERROR"
+msgstr "Could not search right now."
+
+msgid "PROFILE_SHELVES_SEARCH_FLIPNOTE_HELP"
+msgstr "Start typing to search your uploads"
+
+msgid "PROFILE_SHELVES_SEARCH_FLIPNOTE_LABEL"
+msgstr "Find your Flipnotes"
+
+msgid "PROFILE_SHELVES_SEARCH_FLIPNOTE_PLACEHOLDER"
+msgstr "Paste a link, Flipnote ID, title, or description"
+
+msgid "PROFILE_SHELVES_SEARCH_PLAYLIST_HELP"
+msgstr "Start typing to search your playlists"
+
+msgid "PROFILE_SHELVES_SEARCH_PLAYLIST_LABEL"
+msgstr "Find your Playlists"
+
+msgid "PROFILE_SHELVES_SEARCH_PLAYLIST_PLACEHOLDER"
+msgstr "Paste a playlist link, key, title, or description"
+
+msgid "PROFILE_SHELVES_TITLE"
+msgstr "Profile Shelves"
+
+msgid "PROFILE_SHELVES_TYPE_FEATURED_FLIPNOTES"
+msgstr "Featured Flipnotes"
+
+msgid "PROFILE_SHELVES_TYPE_LABEL"
+msgstr "Type"
+
+msgid "PROFILE_SHELVES_TYPE_PLAYLIST"
+msgstr "Playlist"
+
+msgid "PROFILE_SHELVES_TYPE_PLAYLISTS"
+msgstr "Playlists"
+
+msgid "PROFILE_SHELVES_UNSAVED_CHANGES_WARNING"
+msgstr "You have unsaved changes."
+
+msgid "PROFILE_SHELVES_UNTITLED_FLIPNOTE"
+msgstr "Untitled Flipnote"
+
+msgid "PROFILE_SHELVES_UNTITLED_PLAYLIST"
+msgstr "Untitled Playlist"
+
 # # User's ★ are from:
 msgid "PROFILE_STAR_COUNTRY_HEADER"
 msgstr "%ss ★s Är från:"
@@ -2123,6 +2246,9 @@ msgstr "Subscribe Yearly"
 msgid "SUDOMEMO"
 msgstr "Sudomemo"
 
+msgid "SUDOMEMO_DAILY_DRAW"
+msgstr "Sudomemo Daily Draw"
+
 msgid "SUDOMEMO_NEWS"
 msgstr "Sudomemo Nyheter"
 
@@ -2183,6 +2309,9 @@ msgstr "Biljetter"
 
 msgid "TITLE"
 msgstr "Titel"
+
+msgid "TODAYS_PROMPT"
+msgstr "Today's Prompt"
 
 # Referring to being the most popular (in terms of ranking)
 msgid "TOP"
@@ -2245,6 +2374,9 @@ msgstr "Uppladdnings status"
 msgid "UPLOAD_YOUTUBE_INTEGRATION_BANNED"
 msgstr "Ditt konto har blivit avstängt från att använda våran YouTube integration."
 
+msgid "USERNAME"
+msgstr "Username"
+
 msgid "USERNAME_REQUIRED"
 msgstr "Ett användarnamn krävs."
 
@@ -2281,14 +2413,26 @@ msgstr "Du kan ändra lösenordet för ditt Sudomemo konto här:"
 msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
 msgstr "Efter du gått med i Sudomemos Discord, kan du kopiera detta i chatten."
 
+msgid "USER_SETTINGS_EDIT_PROFILE_EXPLANATION"
+msgstr "Change your profile photo, bio, and shelves in one place."
+
 msgid "USER_SETTINGS_EMAIL_EXPLANATION"
 msgstr "Configure which emails you receive and how often they're sent."
 
 msgid "USER_SETTINGS_LANGUAGE_EXPLANATION"
 msgstr "Choose your preferred language for Sudomemo"
 
+msgid "USER_SETTINGS_PLUS_EXPLANATION"
+msgstr "Manage your Sudomemo Plus subscription and view benefits."
+
+msgid "USER_SETTINGS_PROFILE_LAYOUT_EXPLANATION"
+msgstr "Manage shelves shown above your profile Flipnotes."
+
 msgid "USER_SETTINGS_SUPPORT_TOKEN_EXPLANATION"
 msgstr "Support tokens används för att verifiera ditt konto när du kontaktar sudomemos kundtjänst."
+
+msgid "USER_SETTINGS_USERNAME_EXPLANATION"
+msgstr "Update your username in your Nintendo DSi/3DS System Settings"
 
 msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
 msgstr "Konfigurera din länkade YouTube channel och standardiserade Flipnote-uppladdnings inställningar."
