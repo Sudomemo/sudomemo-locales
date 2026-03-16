@@ -3045,3 +3045,6 @@ msgstr "Stai modificando questo Flipnote:"
 
 msgid "YT_LAYOUT_MAY_VARY"
 msgstr "L'aspetto e il layout possono variare a seconda del dispositivo utilizzato per visualizzare il video"
+
+msgid "PROFILE_SHELVES_UPLOADED_PREFIX"
+msgstr "Uploaded"
