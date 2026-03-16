@@ -1949,6 +1949,9 @@ msgstr "Untitled Flipnote"
 msgid "PROFILE_SHELVES_UNTITLED_PLAYLIST"
 msgstr "Untitled Playlist"
 
+msgid "PROFILE_SHELVES_UPLOADED_PREFIX"
+msgstr "Uploaded"
+
 # # User's ★ are from:
 msgid "PROFILE_STAR_COUNTRY_HEADER"
 msgstr "%s's ★e stammen aus:"
@@ -3045,6 +3048,3 @@ msgstr "Du bearbeitest gerade dieses Flipnote:"
 
 msgid "YT_LAYOUT_MAY_VARY"
 msgstr "Appearance and layout may vary depending on device used to view video"
-
-msgid "PROFILE_SHELVES_UPLOADED_PREFIX"
-msgstr "Uploaded"
