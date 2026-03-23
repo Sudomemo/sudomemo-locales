@@ -3,6 +3,15 @@ msgstr ""
 "Language: fr_FR\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "LINK_EXTERNAL_WARNING"
+msgstr "This link goes to an external site, so please be careful when visiting it!"
+
+msgid "LINK_QR_SCAN_HINT"
+msgstr "Scan this QR code with another device to open the link."
+
+msgid "LINK_QR_TITLE"
+msgstr "Open Link"
+
 msgid "NOT_LOGGED_IN_NOTICE"
 msgstr "Vous n'êtes pas connecté à Sudomemo - appuyez %s pour continuer !"
 
