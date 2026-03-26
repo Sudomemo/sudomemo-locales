@@ -648,6 +648,9 @@ msgstr "Titel eingeben"
 msgid "EDIT_PAGE_FLIPNOTE_PREVIEW_NOTE"
 msgstr "Anmerkung: Flipnote in Vorschau wird nicht aktualisiert."
 
+msgid "EDIT_PAGE_MEMO_PLUS_EDITOR"
+msgstr "Open Memo+ Editor"
+
 msgid "EDIT_PAGE_MUSICMATCH_NONE_CORRECT"
 msgstr "Keines der Resultate ist korrekt."
 
@@ -671,6 +674,9 @@ msgstr "MusicMatch konnte keinen mit deinem Flipnote übereinstimmenden Song fin
 
 msgid "EDIT_PAGE_PLUS_AUDIO_ENHANCEMENT"
 msgstr "Audio-Korrektur"
+
+msgid "EDIT_PAGE_PLUS_MEMO_PLUS"
+msgstr "Memo+"
 
 # Flipnote smoothing
 msgid "EDIT_PAGE_PLUS_SMOOTHING"
@@ -1308,6 +1314,48 @@ msgstr "Maximum number of accounts reached"
 
 msgid "MAX_WEBHOOKS_REACHED"
 msgstr "You have reached the maximum limit of %d webhooks per user."
+
+msgid "MEMOPLUS_APPLY"
+msgstr "Apply Memo+"
+
+msgid "MEMOPLUS_GUIDELINES_CLOSING"
+msgstr "Keep it creative, but also considerate of everyone viewing your work."
+
+msgid "MEMOPLUS_GUIDELINES_DESIGN_BODY"
+msgstr "Memo+ is an enhancement, not a replacement. Your Flipnote should still be clear and enjoyable on original hardware where Memo+ effects are not visible."
+
+msgid "MEMOPLUS_GUIDELINES_DESIGN_TITLE"
+msgstr "Design for both experiences"
+
+msgid "MEMOPLUS_GUIDELINES_FLASHING_BODY"
+msgstr "Rapid or intense flashing colors can be uncomfortable or unsafe for some viewers (including those with photosensitivity). Try to use effects thoughtfully and avoid excessive flashing."
+
+msgid "MEMOPLUS_GUIDELINES_FLASHING_TITLE"
+msgstr "Be mindful with flashing effects"
+
+msgid "MEMOPLUS_GUIDELINES_MODERATION_BODY"
+msgstr "If Memo+ effects are deemed unsafe or disruptive, moderators may remove the Memo+ data or take action on the Flipnote."
+
+msgid "MEMOPLUS_GUIDELINES_MODERATION_TITLE"
+msgstr "Moderation may apply"
+
+msgid "MEMOPLUS_GUIDELINES_PLEASE_NOTE"
+msgstr "Please keep the following in mind:"
+
+msgid "MEMOPLUS_GUIDELINES_TITLE"
+msgstr "Memo+ Guidelines"
+
+msgid "MEMOPLUS_GUIDELINES_WHAT_IS_BODY"
+msgstr "Memo+ is a color enhancement feature for Flipnotes on Sudomemo. It allows you to add additional colors and visual effects when your Flipnote is viewed on Sudomemo Theatre, while the original Flipnote remains unchanged on Nintendo DSi and 3DS systems."
+
+msgid "MEMOPLUS_GUIDELINES_WHAT_IS_TITLE"
+msgstr "What is Memo+?"
+
+msgid "MEMOPLUS_REQUIRES_PLUS_BODY"
+msgstr "Your Memo+ edits can be saved, but you'll need Sudomemo Plus to apply them to this Flipnote."
+
+msgid "MEMOPLUS_REQUIRES_PLUS_TITLE"
+msgstr "Memo+ requires Sudomemo Plus"
 
 msgid "MERCH"
 msgstr "Merch"
@@ -3048,3 +3096,6 @@ msgstr "Du bearbeitest gerade dieses Flipnote:"
 
 msgid "YT_LAYOUT_MAY_VARY"
 msgstr "Appearance and layout may vary depending on device used to view video"
+
+msgid "YT_UPLOAD_PLUS_MEMO_PLUS"
+msgstr "Memo+"
