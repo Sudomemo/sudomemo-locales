@@ -39,6 +39,9 @@ msgstr "Före"
 msgid "HEADER_REFRESH"
 msgstr "Uppdatera"
 
+msgid "LATEST"
+msgstr "Latest"
+
 msgid "LOGIN_REQUIRED_TO_POST_COMMENT"
 msgstr "Du måste vara inloggad för att skicka en kommentar."
 
@@ -56,6 +59,9 @@ msgstr "Denna Flipnote har inga kommentarer än."
 
 msgid "PAGE_FORMAT"
 msgstr "Sida %d"
+
+msgid "POPULAR"
+msgstr "Popular"
 
 msgid "REPLYING_TO_X"
 msgstr "Replying to %s"

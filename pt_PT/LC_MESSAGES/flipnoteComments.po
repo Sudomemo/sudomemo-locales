@@ -39,6 +39,9 @@ msgstr "Anterior"
 msgid "HEADER_REFRESH"
 msgstr "Actualizar"
 
+msgid "LATEST"
+msgstr "Latest"
+
 msgid "LOGIN_REQUIRED_TO_POST_COMMENT"
 msgstr "Tens de ter feito login para postar um comentário."
 
@@ -56,6 +59,9 @@ msgstr "Este Flipnote ainda não tem nenhum comentário."
 
 msgid "PAGE_FORMAT"
 msgstr "Página %d"
+
+msgid "POPULAR"
+msgstr "Popular"
 
 msgid "REPLYING_TO_X"
 msgstr "Replying to %s"
