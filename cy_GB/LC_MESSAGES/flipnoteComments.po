@@ -39,6 +39,9 @@ msgstr "Blae"
 msgid "HEADER_REFRESH"
 msgstr "Adnewyddu"
 
+msgid "LATEST"
+msgstr "Latest"
+
 msgid "LOGIN_REQUIRED_TO_POST_COMMENT"
 msgstr "Rhaid i chi fod wedi mewngofnodi i bostio sylw."
 
@@ -56,6 +59,9 @@ msgstr "Nid oes gan y Flipnote unrhyw sylwadau eto."
 
 msgid "PAGE_FORMAT"
 msgstr "Tudalen %d"
+
+msgid "POPULAR"
+msgstr "Popular"
 
 msgid "REPLYING_TO_X"
 msgstr "Replying to %s"

@@ -39,6 +39,9 @@ msgstr "Zurück"
 msgid "HEADER_REFRESH"
 msgstr "Neu laden"
 
+msgid "LATEST"
+msgstr "Latest"
+
 msgid "LOGIN_REQUIRED_TO_POST_COMMENT"
 msgstr "Du musst eingeloggt sein, um einen Kommentar zu posten."
 
@@ -56,6 +59,9 @@ msgstr "Sei der Erste, der einen Kommentar postet!"
 
 msgid "PAGE_FORMAT"
 msgstr "Seite %d"
+
+msgid "POPULAR"
+msgstr "Popular"
 
 msgid "REPLYING_TO_X"
 msgstr "Replying to %s"

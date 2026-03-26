@@ -39,6 +39,9 @@ msgstr "Vorige"
 msgid "HEADER_REFRESH"
 msgstr "Herlaad"
 
+msgid "LATEST"
+msgstr "Latest"
+
 msgid "LOGIN_REQUIRED_TO_POST_COMMENT"
 msgstr "Je moet ingelogd zijn om reacties te kunnen plaatsen."
 
@@ -56,6 +59,9 @@ msgstr "Deze Flipnote heeft nog geen reacties."
 
 msgid "PAGE_FORMAT"
 msgstr "Pagina %d"
+
+msgid "POPULAR"
+msgstr "Popular"
 
 msgid "REPLYING_TO_X"
 msgstr "Replying to %s"

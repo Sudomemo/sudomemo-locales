@@ -39,6 +39,9 @@ msgstr "前へ"
 msgid "HEADER_REFRESH"
 msgstr "リロード"
 
+msgid "LATEST"
+msgstr "Latest"
+
 msgid "LOGIN_REQUIRED_TO_POST_COMMENT"
 msgstr "コメントを投稿するには、ログインする必要があります。"
 
@@ -56,6 +59,9 @@ msgstr "この作品にはまだコメントがありません。"
 
 msgid "PAGE_FORMAT"
 msgstr "%dページ"
+
+msgid "POPULAR"
+msgstr "Popular"
 
 msgid "REPLYING_TO_X"
 msgstr "Replying to %s"
