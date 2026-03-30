@@ -1357,6 +1357,18 @@ msgstr "Your Memo+ edits can be saved, but you'll need Sudomemo Plus to apply th
 msgid "MEMOPLUS_REQUIRES_PLUS_TITLE"
 msgstr "Memo+ requires Sudomemo Plus"
 
+msgid "MEMOPLUS_SAVE_READONLY_TOOLTIP"
+msgstr "This Memo+ palette is read-only because Memo+ is currently enabled on this Flipnote and your Sudomemo Plus has expired. The current Memo+ effect will stay on, but changes cannot be saved unless you get Sudomemo Plus again."
+
+msgid "MEMOPLUS_TURN_OFF_LOCKED_BODY"
+msgstr "Memo+ is currently turned on for this Flipnote, but you do not have Sudomemo Plus. If you turn it off now, it will stay off until you have Sudomemo Plus again. Your saved palette data will still be kept."
+
+msgid "MEMOPLUS_TURN_OFF_LOCKED_CONFIRM"
+msgstr "Turn Off Memo+"
+
+msgid "MEMOPLUS_TURN_OFF_LOCKED_TITLE"
+msgstr "Turn off Memo+?"
+
 msgid "MERCH"
 msgstr "Merch"
 
