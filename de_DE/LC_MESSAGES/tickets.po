@@ -325,6 +325,9 @@ msgstr "Gratulation dafür, dass du ein Teil der allerersten Episode von Sudomem
 msgid "TICKET_DESC_sudomemo_radio_ticket"
 msgstr "Danke für deinen Beitrag an Sudomemo Radio!"
 
+msgid "TICKET_DESC_super_birthday_ticket"
+msgstr "Like the Birthday Ticket, but super."
+
 msgid "TICKET_DESC_survey_thanks_ticket"
 msgstr "Danke für die Teilnahme an unserer Umfrage"
 
@@ -519,6 +522,9 @@ msgstr "Sudomemo Radio Pilot-Ticket"
 
 msgid "TICKET_NAME_sudomemo_radio_ticket"
 msgstr "Sudomemo Radio-Ticket"
+
+msgid "TICKET_NAME_super_birthday_ticket"
+msgstr "Super Birthday Ticket"
 
 msgid "TICKET_NAME_survey_thanks_ticket"
 msgstr "Umfrage-Ticket"

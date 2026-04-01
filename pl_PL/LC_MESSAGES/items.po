@@ -18,6 +18,9 @@ msgstr "Pyszny kubek goracej czekolady, idealny na przytulne dni."
 msgid "ITEM_DESC_peeled_banana"
 msgstr "Nie pomyl go z fi- czemu on jest tak obrany?"
 
+msgid "ITEM_DESC_purple_star_plushie"
+msgstr "It may not be worth as much as a real purple star, but it still gives you the same warm fuzzies."
+
 msgid "ITEM_NAME_banana"
 msgstr "Banan"
 
@@ -29,6 +32,9 @@ msgstr "Goraca czekolada"
 
 msgid "ITEM_NAME_peeled_banana"
 msgstr "Obrany banan"
+
+msgid "ITEM_NAME_purple_star_plushie"
+msgstr "Purple Star Plushie"
 
 msgid "ITEM_USE_banana"
 msgstr "Obierasz banana."
