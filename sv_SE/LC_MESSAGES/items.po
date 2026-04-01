@@ -18,6 +18,9 @@ msgstr "En utsökt kopp varm choklad, perfekt för en mysig dag."
 msgid "ITEM_DESC_peeled_banana"
 msgstr "Borde inte förvirras med-... Varför skalade du den nedifrån?"
 
+msgid "ITEM_DESC_purple_star_plushie"
+msgstr "It may not be worth as much as a real purple star, but it still gives you the same warm fuzzies."
+
 msgid "ITEM_NAME_banana"
 msgstr "Banan"
 
@@ -29,6 +32,9 @@ msgstr "Varm Choklad"
 
 msgid "ITEM_NAME_peeled_banana"
 msgstr "Skalad Banan"
+
+msgid "ITEM_NAME_purple_star_plushie"
+msgstr "Purple Star Plushie"
 
 msgid "ITEM_USE_banana"
 msgstr "Du skalar bananen."

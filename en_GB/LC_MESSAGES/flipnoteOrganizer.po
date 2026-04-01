@@ -110,6 +110,9 @@ msgstr "No Results..."
 msgid "LISTING_SEARCH_RESULTS"
 msgstr "Search Results"
 
+msgid "MEMOPLUS"
+msgstr "Memo+"
+
 msgid "NEXT"
 msgstr "Next"
 
@@ -244,6 +247,15 @@ msgstr "Change Flipnote Player Colors"
 
 msgid "SETTINGS_PLAYER_COLOR_ACCESSIBILITY_DESCRIPTION"
 msgstr "Modifications to red and blue for those who have sensitivites to certain colors or tones, or color deficiencies. These options may make some Flipnotes look awkward as they weren't designed with variable color tones in mind."
+
+msgid "SETTINGS_PLAYER_COLOR_MEMO_PLUS"
+msgstr "Memo+ Enhancements"
+
+msgid "SETTINGS_PLAYER_COLOR_MEMO_PLUS_DESCRIPTION"
+msgstr "When enabled, the Flipnote Organizer will enable color enhancements for Flipnotes that support Memo+. It is recommended to keep this on."
+
+msgid "SETTINGS_PLAYER_COLOR_MEMO_PLUS_LEARN_MORE"
+msgstr "You can learn more about Memo+ at %s."
 
 msgid "SETTINGS_PLAYER_COLOR_OPTION_COLORBLIND"
 msgstr "Color Deficiency"
@@ -458,6 +470,36 @@ msgstr "You need to turn off Sort Flipnotes Alphabetically by Filename in settin
 
 msgid "SORT_XBOX_CONTROLLER"
 msgstr "Xbox Controller"
+
+msgid "STICKER"
+msgstr "Sticker"
+
+msgid "STICKER_CROWN"
+msgstr "crown"
+
+msgid "STICKER_HEART"
+msgstr "Heart"
+
+msgid "STICKER_MUSIC_NOTE"
+msgstr "Music Note"
+
+msgid "STICKER_ORGANIZER_FIRE"
+msgstr "Fire"
+
+msgid "STICKER_ORGANIZER_FOLDER"
+msgstr "Folder"
+
+msgid "STICKER_ORGANIZER_FROG"
+msgstr "Frog"
+
+msgid "STICKER_ORGANIZER_SPARKLE"
+msgstr "Sparkle"
+
+msgid "STICKER_ORGANIZER_STAR"
+msgstr "STAR"
+
+msgid "STICKER_SKULL"
+msgstr "Skull"
 
 msgid "SUDOMEMO_ACCOUNT"
 msgstr "Sudomemo Account"
