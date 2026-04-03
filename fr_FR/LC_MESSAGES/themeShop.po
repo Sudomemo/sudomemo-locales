@@ -63,6 +63,10 @@ msgstr "Merci de confirmer votre achat ci-dessous."
 msgid "THEME_SHOP_EVOLVING_BACKGROUND"
 msgstr "Ce thème spécial évoluera au fur et à mesure que vous posterez de nouvelles Flipnotes !"
 
+# %s will be an image of a green star.
+msgid "THEME_SHOP_GET_MORE_GREEN_STARS_FORMAT"
+msgstr "To buy themes, you'll need %s Green Stars. You can get more with a Star Ticket from our shop!"
+
 msgid "THEME_SHOP_LEARN_MORE_HEADER"
 msgstr "En savoir davantage sur la boutique de thèmes"
 
