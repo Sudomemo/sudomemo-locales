@@ -3,6 +3,9 @@ msgstr ""
 "Language: en_TT\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "CURRENT_THEME"
+msgstr "Current Theme"
+
 msgid "DECOR"
 msgstr "Decor"
 
@@ -15,6 +18,9 @@ msgstr "Items"
 msgid "NEXT"
 msgstr "Next"
 
+msgid "NO_THEMES_OWNED"
+msgstr "You don't own any themes yet."
+
 msgid "PETS"
 msgstr "Pets"
 
@@ -26,6 +32,24 @@ msgstr "Redeem"
 
 msgid "THEMES"
 msgstr "Themes"
+
+msgid "THEME_ACTIVE"
+msgstr "Active"
+
+msgid "THEME_FLIPNOTE_STUDIO_NOTE"
+msgstr "Creator's Room themes can be seen on Flipnote Studio."
+
+msgid "THEME_OWNED_BY_EVERYONE"
+msgstr "Owned by everyone"
+
+msgid "THEME_PREVIEW"
+msgstr "Preview"
+
+msgid "THEME_PURCHASED_ON"
+msgstr "Purchased on"
+
+msgid "THEME_SWITCH"
+msgstr "Switch"
 
 msgid "TICKETS"
 msgstr "Tickets"
