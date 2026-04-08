@@ -55,6 +55,12 @@ msgstr "Dreamed of being able to quickly switch between your accounts on the web
 msgid "UE_LOGIN_MANAGER_TITLE"
 msgstr "Why yes, I do have 5 DSis"
 
+msgid "UE_NEW_DAILY_DRAW_CONTENT"
+msgstr "Remember the Sudomemo Daily Draw? Reminisce no more, because it's back! Check out the Daily Draw channel and draw away!"
+
+msgid "UE_NEW_DAILY_DRAW_TITLE"
+msgstr "It's been 84 years..."
+
 # Control buttons
 msgid "UE_NEXT"
 msgstr "Next"
@@ -72,6 +78,12 @@ msgstr "You can now <strong>change your profile picture on Sudomemo Theatre</str
 # Feature 2: Profile Picture (Looking good!)
 msgid "UE_PROFILE_PICTURE_TITLE"
 msgstr "Looking good!"
+
+msgid "UE_PROFILE_SHELVES_CONTENT"
+msgstr "Customize your Creator's Room with shelves! Show off your best Flipnotes or an entire playlist with ease."
+
+msgid "UE_PROFILE_SHELVES_TITLE"
+msgstr "Easier than Ikea!"
 
 msgid "UE_SKIP_ALL"
 msgstr "Skip All"
@@ -91,14 +103,3 @@ msgstr "<strong>YouTube uploading</strong> just got a whole lot better! You can 
 
 msgid "UE_YOUTUBE_PLAYLISTS_TITLE"
 msgstr "Time to go viral"
-msgid "UE_PROFILE_SHELVES_TITLE"
-msgstr "Easier than Ikea!"
-
-msgid "UE_PROFILE_SHELVES_CONTENT"
-msgstr "Customize your Creator's Room with shelves! Show off your best Flipnotes or an entire playlist with ease."
-
-msgid "UE_NEW_DAILY_DRAW_TITLE"
-msgstr "It's been 84 years..."
-
-msgid "UE_NEW_DAILY_DRAW_CONTENT"
-msgstr "Remember the Sudomemo Daily Draw? Reminisce no more, because it's back! Check out the Daily Draw channel and draw away!"

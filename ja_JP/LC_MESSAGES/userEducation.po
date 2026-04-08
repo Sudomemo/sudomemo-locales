@@ -55,6 +55,12 @@ msgstr "Webでアカウントを素早く切り替えたいと思っていまし
 msgid "UE_LOGIN_MANAGER_TITLE"
 msgstr "ええ、DSiが5台あります"
 
+msgid "UE_NEW_DAILY_DRAW_CONTENT"
+msgstr "Remember the Sudomemo Daily Draw? Reminisce no more, because it's back! Check out the Daily Draw channel and draw away!"
+
+msgid "UE_NEW_DAILY_DRAW_TITLE"
+msgstr "It's been 84 years..."
+
 # Control buttons
 msgid "UE_NEXT"
 msgstr "次へ"
@@ -72,6 +78,12 @@ msgstr "スドメモシアターで<strong>プロフィール画像を変更</st
 # Feature 2: Profile Picture (Looking good!)
 msgid "UE_PROFILE_PICTURE_TITLE"
 msgstr "いいね！"
+
+msgid "UE_PROFILE_SHELVES_CONTENT"
+msgstr "Customize your Creator's Room with shelves! Show off your best Flipnotes or an entire playlist with ease."
+
+msgid "UE_PROFILE_SHELVES_TITLE"
+msgstr "Easier than Ikea!"
 
 msgid "UE_SKIP_ALL"
 msgstr "すべてスキップ"
@@ -91,14 +103,3 @@ msgstr "<strong>YouTubeへのアップロード</strong>が大幅に改善！ア
 
 msgid "UE_YOUTUBE_PLAYLISTS_TITLE"
 msgstr "バズる準備！"
-msgid "UE_PROFILE_SHELVES_TITLE"
-msgstr "Easier than Ikea!"
-
-msgid "UE_PROFILE_SHELVES_CONTENT"
-msgstr "Customize your Creator's Room with shelves! Show off your best Flipnotes or an entire playlist with ease."
-
-msgid "UE_NEW_DAILY_DRAW_TITLE"
-msgstr "It's been 84 years..."
-
-msgid "UE_NEW_DAILY_DRAW_CONTENT"
-msgstr "Remember the Sudomemo Daily Draw? Reminisce no more, because it's back! Check out the Daily Draw channel and draw away!"
