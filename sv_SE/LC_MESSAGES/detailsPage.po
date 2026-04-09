@@ -114,6 +114,9 @@ msgstr "För att återställa titel till standard, lämna formulären tom när d
 msgid "LEAVE_BLANK_TO_RESET_DESC"
 msgstr "För att ta bort beskrivning, lämna formuläraren tom när du sparar."
 
+msgid "MEMOPLUS_SPECIAL_COLOR_NOTICE"
+msgstr "This Flipnote has a special color version!"
+
 msgid "NEXT"
 msgstr "Nästa"
 
@@ -144,6 +147,3 @@ msgstr "Odöpt Flipnote av %s"
 
 msgid "VIEW"
 msgstr "View"
-
-msgid "MEMOPLUS_SPECIAL_COLOR_NOTICE"
-msgstr "This Flipnote has a special color version!"

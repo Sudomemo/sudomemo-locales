@@ -114,6 +114,9 @@ msgstr "Per reimpostare il titolo di default, lascia il form vuoto."
 msgid "LEAVE_BLANK_TO_RESET_DESC"
 msgstr "Per rimuovere la descrizione, lascia il form vuoto."
 
+msgid "MEMOPLUS_SPECIAL_COLOR_NOTICE"
+msgstr "This Flipnote has a special color version!"
+
 msgid "NEXT"
 msgstr "Successivo"
 
@@ -144,6 +147,3 @@ msgstr "Flipnote Senza Titolo di %s"
 
 msgid "VIEW"
 msgstr "View"
-
-msgid "MEMOPLUS_SPECIAL_COLOR_NOTICE"
-msgstr "This Flipnote has a special color version!"

@@ -114,6 +114,9 @@ msgstr "To reset the title to default, leave the form blank when submitting."
 msgid "LEAVE_BLANK_TO_RESET_DESC"
 msgstr "To remove the description, leave the form blank when submitting."
 
+msgid "MEMOPLUS_SPECIAL_COLOR_NOTICE"
+msgstr "This Flipnote has a special color version!"
+
 msgid "NEXT"
 msgstr "Next"
 
@@ -144,6 +147,3 @@ msgstr "Untitled Flipnote by %s"
 
 msgid "VIEW"
 msgstr "View"
-
-msgid "MEMOPLUS_SPECIAL_COLOR_NOTICE"
-msgstr "This Flipnote has a special color version!"

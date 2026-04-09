@@ -115,6 +115,9 @@ msgstr "Om de titel terug te zetten naar het standaard, laat het formulier leeg 
 msgid "LEAVE_BLANK_TO_RESET_DESC"
 msgstr "Om de beschrijving te verwijderen, laat het formulier leeg bij het insturen."
 
+msgid "MEMOPLUS_SPECIAL_COLOR_NOTICE"
+msgstr "This Flipnote has a special color version!"
+
 msgid "NEXT"
 msgstr "Volgende"
 
@@ -145,6 +148,3 @@ msgstr "Naamloze Flipnote door %s"
 
 msgid "VIEW"
 msgstr "View"
-
-msgid "MEMOPLUS_SPECIAL_COLOR_NOTICE"
-msgstr "This Flipnote has a special color version!"

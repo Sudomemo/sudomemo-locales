@@ -114,6 +114,9 @@ msgstr "Aby zresetowac tytul do domyslnego, zostaw ten formularz pusty podczas w
 msgid "LEAVE_BLANK_TO_RESET_DESC"
 msgstr "Aby usunac opis, zostaw ten formularz pusty podczas wysylania."
 
+msgid "MEMOPLUS_SPECIAL_COLOR_NOTICE"
+msgstr "This Flipnote has a special color version!"
+
 msgid "NEXT"
 msgstr "Nastepna"
 
@@ -144,6 +147,3 @@ msgstr "Flipnote bez nazwy stworzony przez %s"
 
 msgid "VIEW"
 msgstr "View"
-
-msgid "MEMOPLUS_SPECIAL_COLOR_NOTICE"
-msgstr "This Flipnote has a special color version!"
