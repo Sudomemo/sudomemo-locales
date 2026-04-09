@@ -114,6 +114,9 @@ msgstr "Para repor o título para defeito, deixa a caixa de diálogo em branco a
 msgid "LEAVE_BLANK_TO_RESET_DESC"
 msgstr "Para remover a descrição, deixa esta caixa de diálogo em branco."
 
+msgid "MEMOPLUS_SPECIAL_COLOR_NOTICE"
+msgstr "This Flipnote has a special color version!"
+
 msgid "NEXT"
 msgstr "Próximo"
 
@@ -144,6 +147,3 @@ msgstr "Flipnote Sem-Título de %s"
 
 msgid "VIEW"
 msgstr "View"
-
-msgid "MEMOPLUS_SPECIAL_COLOR_NOTICE"
-msgstr "This Flipnote has a special color version!"

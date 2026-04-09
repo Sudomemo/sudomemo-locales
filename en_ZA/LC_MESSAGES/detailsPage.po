@@ -114,6 +114,9 @@ msgstr "take away title? leave blank."
 msgid "LEAVE_BLANK_TO_RESET_DESC"
 msgstr "take away description? ;<; leave blank"
 
+msgid "MEMOPLUS_SPECIAL_COLOR_NOTICE"
+msgstr "This Flipnote has a special color version!"
+
 msgid "NEXT"
 msgstr "yeet"
 
@@ -144,6 +147,3 @@ msgstr "Untitled Flipnote by %s"
 
 msgid "VIEW"
 msgstr "View"
-
-msgid "MEMOPLUS_SPECIAL_COLOR_NOTICE"
-msgstr "This Flipnote has a special color version!"

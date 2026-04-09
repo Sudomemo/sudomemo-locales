@@ -114,6 +114,9 @@ msgstr "Wenn du den Titel zurücksetzen möchtest, lasse das untere Feld einfach
 msgid "LEAVE_BLANK_TO_RESET_DESC"
 msgstr "Wenn du die Beschreibung zurücksetzen möchtest, lasse das untere Feld einfach leer."
 
+msgid "MEMOPLUS_SPECIAL_COLOR_NOTICE"
+msgstr "This Flipnote has a special color version!"
+
 msgid "NEXT"
 msgstr "Weiter"
 
@@ -144,6 +147,3 @@ msgstr "Unbenanntes Flipnote von %s"
 
 msgid "VIEW"
 msgstr "View"
-
-msgid "MEMOPLUS_SPECIAL_COLOR_NOTICE"
-msgstr "This Flipnote has a special color version!"

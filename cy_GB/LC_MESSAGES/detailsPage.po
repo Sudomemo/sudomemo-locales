@@ -114,6 +114,9 @@ msgstr "I ailosod y teitl i ddiffyg, gadewch y ffurflen yn wag wrth gyflwyno."
 msgid "LEAVE_BLANK_TO_RESET_DESC"
 msgstr "I ddileu'r disgrifiad, gadewch y ffurflen yn wag wrth gyflwyno."
 
+msgid "MEMOPLUS_SPECIAL_COLOR_NOTICE"
+msgstr "This Flipnote has a special color version!"
+
 msgid "NEXT"
 msgstr "Nesaf"
 
@@ -144,6 +147,3 @@ msgstr "Untitled Flipnote by %s"
 
 msgid "VIEW"
 msgstr "View"
-
-msgid "MEMOPLUS_SPECIAL_COLOR_NOTICE"
-msgstr "This Flipnote has a special color version!"

@@ -114,6 +114,9 @@ msgstr "Για να επαναφερετε τον τιτλο στην προεπ
 msgid "LEAVE_BLANK_TO_RESET_DESC"
 msgstr "Για να αφαιρεσετε την περιγραφη, αφηστε την φορμα κενη οταν την δηλωνετε."
 
+msgid "MEMOPLUS_SPECIAL_COLOR_NOTICE"
+msgstr "This Flipnote has a special color version!"
+
 msgid "NEXT"
 msgstr "Επομ"
 
@@ -144,6 +147,3 @@ msgstr "Ατιτλο Flipnote απο %s"
 
 msgid "VIEW"
 msgstr "View"
-
-msgid "MEMOPLUS_SPECIAL_COLOR_NOTICE"
-msgstr "This Flipnote has a special color version!"

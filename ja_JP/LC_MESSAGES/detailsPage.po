@@ -114,6 +114,9 @@ msgstr "タイトルをデフォルトの状態にするにはフォームを空
 msgid "LEAVE_BLANK_TO_RESET_DESC"
 msgstr "説明を削除するには、フォームを空白にしたまま送信します。"
 
+msgid "MEMOPLUS_SPECIAL_COLOR_NOTICE"
+msgstr "This Flipnote has a special color version!"
+
 msgid "NEXT"
 msgstr "次へ"
 
@@ -144,6 +147,3 @@ msgstr "%sさんの作品"
 
 msgid "VIEW"
 msgstr "View"
-
-msgid "MEMOPLUS_SPECIAL_COLOR_NOTICE"
-msgstr "This Flipnote has a special color version!"
