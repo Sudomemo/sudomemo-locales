@@ -9,11 +9,17 @@ msgstr "you...ya gotta be a citizen before u do this silly uwu"
 msgid "DISABLE_AUDIO_ENHANCEMENT"
 msgstr "Disable audio enhancement"
 
+msgid "DISABLE_MEMO_PLUS"
+msgstr "Disable Memo+"
+
 msgid "DISABLE_SMOOTHING"
 msgstr "wAIT no turn it off"
 
 msgid "ENABLE_AUDIO_ENHANCEMENT"
 msgstr "Enable audio enhancement"
+
+msgid "ENABLE_MEMO_PLUS"
+msgstr "Enable Memo+"
 
 msgid "ENABLE_SMOOTHING"
 msgstr "TURN IT ON!!!"
@@ -42,11 +48,17 @@ msgstr "On"
 msgid "OPTION_DESC_FORCE_44K_BITRATE"
 msgstr "Sudomemo gonna try and make ur audio sound nice an crisp for theatre."
 
+msgid "OPTION_DESC_MPLUS"
+msgstr "Displays a custom color palette when viewing this Flipnote on Sudomemo Theatre."
+
 msgid "OPTION_DESC_SMOOTH"
 msgstr "Lines, curves, and edges are SUPA-SUAVE on da website."
 
 msgid "OPTION_NAME_FORCE_44K_BITRATE"
 msgstr "Enhanced audio"
+
+msgid "OPTION_NAME_MPLUS"
+msgstr "Memo+"
 
 msgid "OPTION_NAME_SMOOTH"
 msgstr "smOOOTHhh"

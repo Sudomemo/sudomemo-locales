@@ -9,11 +9,17 @@ msgstr "Precisas de uma Cidanania Sudomemo para usar esta função."
 msgid "DISABLE_AUDIO_ENHANCEMENT"
 msgstr "Desactivar melhoramento do áudio"
 
+msgid "DISABLE_MEMO_PLUS"
+msgstr "Disable Memo+"
+
 msgid "DISABLE_SMOOTHING"
 msgstr "Desactivar afinação"
 
 msgid "ENABLE_AUDIO_ENHANCEMENT"
 msgstr "Activar melhoramento do áudio"
+
+msgid "ENABLE_MEMO_PLUS"
+msgstr "Enable Memo+"
 
 msgid "ENABLE_SMOOTHING"
 msgstr "Activar afinação"
@@ -42,11 +48,17 @@ msgstr "Ligado"
 msgid "OPTION_DESC_FORCE_44K_BITRATE"
 msgstr "O Sudomemo irá tentar melhorar o Áudio do teu Flipnote para reprodução no Teatro Theatre."
 
+msgid "OPTION_DESC_MPLUS"
+msgstr "Displays a custom color palette when viewing this Flipnote on Sudomemo Theatre."
+
 msgid "OPTION_DESC_SMOOTH"
 msgstr "Linhas, curvas, e arestas são afinadas para ter um look mais natural no Teatro Sudomemo."
 
 msgid "OPTION_NAME_FORCE_44K_BITRATE"
 msgstr "Áudio melhorado"
+
+msgid "OPTION_NAME_MPLUS"
+msgstr "Memo+"
 
 msgid "OPTION_NAME_SMOOTH"
 msgstr "Afinar"

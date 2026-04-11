@@ -9,11 +9,17 @@ msgstr "Potrzebujesz Sudomemo Citizenship by uzywac tej funkcji."
 msgid "DISABLE_AUDIO_ENHANCEMENT"
 msgstr "Wylacz ulepszenie dzwieku"
 
+msgid "DISABLE_MEMO_PLUS"
+msgstr "Disable Memo+"
+
 msgid "DISABLE_SMOOTHING"
 msgstr "Wylacz wygladzanie"
 
 msgid "ENABLE_AUDIO_ENHANCEMENT"
 msgstr "Wlacz ulepszenie dzwieku"
+
+msgid "ENABLE_MEMO_PLUS"
+msgstr "Enable Memo+"
 
 msgid "ENABLE_SMOOTHING"
 msgstr "Wlacz wygladzanie"
@@ -42,11 +48,17 @@ msgstr "Wlaczone"
 msgid "OPTION_DESC_FORCE_44K_BITRATE"
 msgstr "Sudomemo spróbuje ulepszyc dzwiek twojego Flipnote na Sudomemo Theatre."
 
+msgid "OPTION_DESC_MPLUS"
+msgstr "Displays a custom color palette when viewing this Flipnote on Sudomemo Theatre."
+
 msgid "OPTION_DESC_SMOOTH"
 msgstr "Linie, wygiecia i kanty sa wygladzone dla bardziej naturalnego wygladu na Sudomemo Theatre."
 
 msgid "OPTION_NAME_FORCE_44K_BITRATE"
 msgstr "Ulepszenie dzwieku"
+
+msgid "OPTION_NAME_MPLUS"
+msgstr "Memo+"
 
 msgid "OPTION_NAME_SMOOTH"
 msgstr "Wygladzanie"

@@ -440,6 +440,258 @@ msgstr "Are you sure you want to remove this item from the queue?"
 msgid "CONFIRM_TOGGLE_WEBHOOK"
 msgstr "Are you sure you want to change the status of this webhook?"
 
+msgid "CONSOLE_ADDED"
+msgstr "Added"
+
+msgid "CONSOLE_ADDED_SUCCESS"
+msgstr "Console registered successfully!"
+
+msgid "CONSOLE_ADD_FAILED"
+msgstr "Failed to register console. Please try again."
+
+msgid "CONSOLE_ADD_HELPER"
+msgstr "This identifies your console and allows it to connect to your Sudomemo account. Only register consoles you control."
+
+msgid "CONSOLE_ALREADY_ADDED"
+msgstr "This console is already registered to your account."
+
+msgid "CONSOLE_ALREADY_REMOVED"
+msgstr "This console has already been removed."
+
+msgid "CONSOLE_BTN_ADD_CONSOLE"
+msgstr "Register Console"
+
+msgid "CONSOLE_BTN_BACK"
+msgstr "Back"
+
+msgid "CONSOLE_BTN_BUILD_SAVE"
+msgstr "Build Save Data"
+
+msgid "CONSOLE_BTN_CANCEL"
+msgstr "Cancel"
+
+msgid "CONSOLE_BTN_OPEN"
+msgstr "Open"
+
+msgid "CONSOLE_BTN_REMOVE"
+msgstr "Remove"
+
+msgid "CONSOLE_BTN_SENDING"
+msgstr "Sending…"
+
+msgid "CONSOLE_BTN_VERIFY"
+msgstr "Verify"
+
+msgid "CONSOLE_BTN_VERIFYING"
+msgstr "Verifying…"
+
+msgid "CONSOLE_CONFIRM_REMOVE"
+msgstr "Are you sure you want to remove this console? You can register it again later."
+
+msgid "CONSOLE_DETAIL_TYPE"
+msgstr "Model"
+
+msgid "CONSOLE_INVALID_MAC"
+msgstr "That doesn't look like a valid MAC address. Please enter a 12-character hexadecimal address (e.g. AA:BB:CC:DD:EE:FF)."
+
+msgid "CONSOLE_INVALID_OUI"
+msgstr "That MAC address doesn't appear to belong to a supported Nintendo console. Please double-check the address from your console's System Settings."
+
+msgid "CONSOLE_LABEL_FIELD"
+msgstr "Label"
+
+msgid "CONSOLE_LABEL_PLACEHOLDER"
+msgstr "My DSi, 3DS XL (Blue)"
+
+msgid "CONSOLE_LABEL_REQUIRED"
+msgstr "Please enter a label for your console."
+
+msgid "CONSOLE_MAC_FIELD"
+msgstr "MAC Address"
+
+msgid "CONSOLE_MAC_IN_USE"
+msgstr "That MAC address is already associated with a different account."
+
+msgid "CONSOLE_MAC_PLACEHOLDER"
+msgstr "AA:BB:CC:DD:EE:FF"
+
+msgid "CONSOLE_MAC_REQUIRED"
+msgstr "Please enter a MAC address."
+
+msgid "CONSOLE_MANAGEMENT_DESCRIPTION"
+msgstr "Manage which Nintendo consoles are associated with your Sudomemo account."
+
+msgid "CONSOLE_MANAGEMENT_TITLE"
+msgstr "Console Management"
+
+msgid "CONSOLE_MODAL_ADD_TITLE"
+msgstr "Register a Console"
+
+msgid "CONSOLE_MODAL_SAVE_TITLE"
+msgstr "Build Save Data"
+
+msgid "CONSOLE_NOT_FOUND"
+msgstr "Console entry not found."
+
+msgid "CONSOLE_NO_CONSOLES"
+msgstr "You haven't registered any consoles yet."
+
+msgid "CONSOLE_PAGE_DESCRIPTION"
+msgstr "Register your Nintendo console here to use it with Sudomemo. Once registered, you can build a save file that links the console to your account."
+
+msgid "CONSOLE_PAGE_HOW_TO"
+msgstr "How to get started:"
+
+msgid "CONSOLE_PAGE_STEP_1"
+msgstr "Find your console's MAC address in System Settings → Internet."
+
+msgid "CONSOLE_PAGE_STEP_2"
+msgstr "Click \"Register Console\" and enter your MAC address along with a label."
+
+msgid "CONSOLE_PAGE_STEP_3"
+msgstr "Open the console you just registered and click \"Build Save Data\" to download a save file."
+
+msgid "CONSOLE_PAGE_STEP_4"
+msgstr "Follow our guide to install the new save file onto your Nintendo console."
+
+msgid "CONSOLE_PAGE_TITLE"
+msgstr "Your Consoles"
+
+msgid "CONSOLE_REMOVED_SUCCESS"
+msgstr "Console removed."
+
+msgid "CONSOLE_REMOVE_FAILED"
+msgstr "Failed to remove console. Please try again."
+
+msgid "CONSOLE_SAVE_BODY_1"
+msgstr "This builds a new Flipnote Studio save file that links this console to your Sudomemo account."
+
+msgid "CONSOLE_SAVE_BODY_2"
+msgstr "Any Flipnotes stored in System Memory will be permanently lost. To keep them, use \"Back Up Data\" in Flipnote Studio before continuing."
+
+msgid "CONSOLE_SAVE_BODY_3"
+msgstr "Only consoles with this prepared save data can connect to your Sudomemo account. Other consoles will not be able to access it."
+
+msgid "CONSOLE_SAVE_BODY_WARNING"
+msgstr "WARNING: THIS WILL REPLACE YOUR EXISTING FLIPNOTE STUDIO SAVE DATA."
+
+msgid "CONSOLE_SAVE_BTN_CONTINUE"
+msgstr "Continue"
+
+msgid "CONSOLE_SAVE_BTN_DOWNLOAD"
+msgstr "Download Save Data"
+
+msgid "CONSOLE_SAVE_BUILD_FAILED"
+msgstr "Failed to build save data. Please try again later."
+
+msgid "CONSOLE_SAVE_BUILT_JUST_NOW"
+msgstr "Save data built just now"
+
+msgid "CONSOLE_SAVE_CONFIRM_CHECKBOX"
+msgstr "I understand this will replace my save data and cannot be undone"
+
+msgid "CONSOLE_SAVE_NOT_APPROVED"
+msgstr "This console must be in active status to build a save file."
+
+msgid "CONSOLE_SAVE_NO_BIRTHDAY"
+msgstr "Your birthday is not set. Please set your birthday in your Flipnote Studio settings after connecting, as it will not be included in this save file."
+
+msgid "CONSOLE_SAVE_RATE_LIMITED"
+msgstr "Please wait a few minutes before building another save file for this console."
+
+msgid "CONSOLE_SAVE_READY_BODY_1"
+msgstr "Your console is now prepared to connect to Sudomemo."
+
+msgid "CONSOLE_SAVE_READY_BODY_2"
+msgstr "Install this save file on your console to complete setup."
+
+msgid "CONSOLE_SAVE_READY_TITLE"
+msgstr "Save Data Ready"
+
+msgid "CONSOLE_SAVE_STAGE_1"
+msgstr "Constructing data..."
+
+msgid "CONSOLE_SAVE_STAGE_2"
+msgstr "Embedding console identity..."
+
+msgid "CONSOLE_SAVE_STAGE_3"
+msgstr "Finalizing save data..."
+
+msgid "CONSOLE_SAVE_SUBTEXT"
+msgstr "Builds a save file to connect this console to your account."
+
+msgid "CONSOLE_SAVE_UNAVAILABLE"
+msgstr "Save data building is not currently available. Please check back later."
+
+msgid "CONSOLE_SECTION_DETAILS"
+msgstr "Console Details"
+
+msgid "CONSOLE_SECTION_SETUP"
+msgstr "Setup"
+
+msgid "CONSOLE_SHOW_MAC"
+msgstr "Console MAC Address"
+
+msgid "CONSOLE_STATUS_ACTIVE"
+msgstr "Active"
+
+msgid "CONSOLE_STATUS_REMOVED"
+msgstr "Removed"
+
+msgid "CONSOLE_STATUS_SUSPENDED"
+msgstr "Suspended by staff"
+
+msgid "CONSOLE_SUSPENDED"
+msgstr "This console has been suspended by a staff member. Please contact support if you believe this is an error."
+
+msgid "CONSOLE_TYPE_FIELD"
+msgstr "Console Type"
+
+msgid "CONSOLE_TYPE_REQUIRED"
+msgstr "Please select your console type."
+
+msgid "CONSOLE_TYPE_SELECT_PROMPT"
+msgstr "Select your console model…"
+
+msgid "CONSOLE_UNNAMED_DEVICE"
+msgstr "Console"
+
+msgid "CONSOLE_VERIFY_CODE_EXPIRED"
+msgstr "That verification code has expired. Please request a new one."
+
+msgid "CONSOLE_VERIFY_CODE_FORMAT"
+msgstr "Please enter a 6-digit code."
+
+msgid "CONSOLE_VERIFY_CODE_INVALID"
+msgstr "That code is incorrect. Please try again."
+
+msgid "CONSOLE_VERIFY_CODE_LABEL"
+msgstr "Verification Code"
+
+msgid "CONSOLE_VERIFY_CODE_REQUIRED"
+msgstr "Please enter the 6-digit verification code."
+
+msgid "CONSOLE_VERIFY_CODE_SENT"
+msgstr "A verification code has been sent to your email address. Enter it below to complete registration."
+
+msgid "CONSOLE_VERIFY_EMAIL_FAILED"
+msgstr "Failed to send verification email. Please try again later."
+
+msgid "CONSOLE_VERIFY_INSTRUCTIONS"
+msgstr "We've sent a 6-digit verification code to your email address. Enter it below to complete the console registration."
+
+msgid "CONSOLE_VERIFY_NO_EMAIL"
+msgstr "No email address is associated with your account. Please set your email address first."
+
+msgid "CONSOLE_VERIFY_NO_PENDING"
+msgstr "No pending verification found. Please start the registration process again."
+
+msgid "CONSOLE_VERIFY_TITLE"
+msgstr "Enter Verification Code"
+
+msgid "CONSOLE_VERIFY_TOO_MANY_ATTEMPTS"
+msgstr "Too many incorrect attempts. Please request a new verification code."
+
 msgid "CONTENT_POLICY"
 msgstr "Content Policy"
 
@@ -2472,6 +2724,9 @@ msgstr "Update your email address. A verification email will be sent to your new
 
 msgid "USER_SETTINGS_CHANGE_PASSWORD_EXPLANATION"
 msgstr "Możesz zmienić hasło do twojego konta Sudomemo tutaj:"
+
+msgid "USER_SETTINGS_CONSOLE_MANAGEMENT_EXPLANATION"
+msgstr "View and manage the consoles linked to your Sudomemo account."
 
 msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
 msgstr "Gdy dołączysz do serwera Discord Sudomemo, skopiuj i wklej to do czatu."
