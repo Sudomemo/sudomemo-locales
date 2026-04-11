@@ -9,11 +9,17 @@ msgstr "Χρειαζεστε Sudomemo Citizenship για να χρησιμοπο
 msgid "DISABLE_AUDIO_ENHANCEMENT"
 msgstr "Απενεργοποιηση  του audio enhancement"
 
+msgid "DISABLE_MEMO_PLUS"
+msgstr "Disable Memo+"
+
 msgid "DISABLE_SMOOTHING"
 msgstr "Απενεργοποιηση smoothing"
 
 msgid "ENABLE_AUDIO_ENHANCEMENT"
 msgstr "Ενεργοποιηση  του audio enhancement"
+
+msgid "ENABLE_MEMO_PLUS"
+msgstr "Enable Memo+"
 
 msgid "ENABLE_SMOOTHING"
 msgstr "Ενεργοποιηση smoothing"
@@ -42,11 +48,17 @@ msgstr "ΝΑΙ"
 msgid "OPTION_DESC_FORCE_44K_BITRATE"
 msgstr "Το Sudomemo θα  δοκιμασει  να  κανει  τον  ηχο  σας  πιο  καθαρο  για  το Sudomemo Theatre."
 
+msgid "OPTION_DESC_MPLUS"
+msgstr "Displays a custom color palette when viewing this Flipnote on Sudomemo Theatre."
+
 msgid "OPTION_DESC_SMOOTH"
 msgstr "Για  μια  καλυτερη  οψη  στο  Sudomemo Theatre,  οι γραμμες  λειενονται."
 
 msgid "OPTION_NAME_FORCE_44K_BITRATE"
 msgstr "Enhanced audio"
+
+msgid "OPTION_NAME_MPLUS"
+msgstr "Memo+"
 
 msgid "OPTION_NAME_SMOOTH"
 msgstr "Smoothing"

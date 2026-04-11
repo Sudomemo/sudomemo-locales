@@ -9,11 +9,17 @@ msgstr "この機能を使用するには、スドメモ市民権が必要です
 msgid "DISABLE_AUDIO_ENHANCEMENT"
 msgstr "オーディオ拡張を無効にする"
 
+msgid "DISABLE_MEMO_PLUS"
+msgstr "Disable Memo+"
+
 msgid "DISABLE_SMOOTHING"
 msgstr "スムージングを無効にする"
 
 msgid "ENABLE_AUDIO_ENHANCEMENT"
 msgstr "オーディオ拡張を有効にする"
+
+msgid "ENABLE_MEMO_PLUS"
+msgstr "Enable Memo+"
 
 msgid "ENABLE_SMOOTHING"
 msgstr "スムージングを有効にする"
@@ -42,11 +48,17 @@ msgstr "オン"
 msgid "OPTION_DESC_FORCE_44K_BITRATE"
 msgstr "スドメモは、スドメモシアターの音声をより鮮明できれいにしようとします。"
 
+msgid "OPTION_DESC_MPLUS"
+msgstr "Displays a custom color palette when viewing this Flipnote on Sudomemo Theatre."
+
 msgid "OPTION_DESC_SMOOTH"
 msgstr "スドメモシアターでは、直線、曲線、エッジが滑らかになり、より自然に見えます。"
 
 msgid "OPTION_NAME_FORCE_44K_BITRATE"
 msgstr "強化された音声"
+
+msgid "OPTION_NAME_MPLUS"
+msgstr "Memo+"
 
 msgid "OPTION_NAME_SMOOTH"
 msgstr "スムージング"

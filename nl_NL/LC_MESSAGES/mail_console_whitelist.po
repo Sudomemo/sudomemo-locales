@@ -1,0 +1,34 @@
+msgid ""
+msgstr ""
+"Language: nl_NL\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "CONSOLE_MAIL_ADDED"
+msgstr "A new console has been registered to your account."
+
+msgid "CONSOLE_MAIL_LABEL"
+msgstr "Console:"
+
+msgid "CONSOLE_MAIL_MANAGE_LINK"
+msgstr "Manage your consoles"
+
+msgid "CONSOLE_MAIL_REINSTATED"
+msgstr "A previously suspended console on your account has been reinstated by a staff member."
+
+msgid "CONSOLE_MAIL_REMOVED"
+msgstr "A console has been removed from your account."
+
+msgid "CONSOLE_MAIL_SUSPENDED"
+msgstr "A console associated with your account has been suspended by a staff member."
+
+msgid "CONSOLE_MAIL_SUSPENDED_HELP"
+msgstr "If you believe this is an error, please contact support."
+
+# In-app mail notification for console whitelist events
+# Locale domain: mail_console_whitelist
+# Loaded automatically by the mail reader via template name "console-whitelist"
+msgid "NOTICE"
+msgstr "Notice"
+
+msgid "TITLE_WARNING"
+msgstr "Warning"

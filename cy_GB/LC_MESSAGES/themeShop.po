@@ -51,6 +51,9 @@ msgstr "Dewislen Siop"
 msgid "THEME"
 msgstr "Thema"
 
+msgid "THEME_INVENTORY_WEB_HEADER"
+msgstr "Here are the themes that you own! Preview new ones and switch between them below."
+
 msgid "THEME_SHOP"
 msgstr "Siop Thema "
 

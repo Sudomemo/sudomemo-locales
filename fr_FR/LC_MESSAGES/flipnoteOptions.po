@@ -9,11 +9,17 @@ msgstr "Vous devez être un citoyen Sudomemo pour utiliser cette fonctionnalité
 msgid "DISABLE_AUDIO_ENHANCEMENT"
 msgstr "Désactiver l'amélioration audio"
 
+msgid "DISABLE_MEMO_PLUS"
+msgstr "Disable Memo+"
+
 msgid "DISABLE_SMOOTHING"
 msgstr "Désactiver le lissage"
 
 msgid "ENABLE_AUDIO_ENHANCEMENT"
 msgstr "Activer l'amélioration audio"
+
+msgid "ENABLE_MEMO_PLUS"
+msgstr "Enable Memo+"
 
 msgid "ENABLE_SMOOTHING"
 msgstr "Activer le lissage"
@@ -42,11 +48,17 @@ msgstr "Oui"
 msgid "OPTION_DESC_FORCE_44K_BITRATE"
 msgstr "Sudomemo tentera de rendre le son plus net et plus propre pour Sudomemo Theatre."
 
+msgid "OPTION_DESC_MPLUS"
+msgstr "Displays a custom color palette when viewing this Flipnote on Sudomemo Theatre."
+
 msgid "OPTION_DESC_SMOOTH"
 msgstr "Les lignes, les courbes et les bords sont lissés pour donner un aspect plus naturel sur Sudomemo Theatre."
 
 msgid "OPTION_NAME_FORCE_44K_BITRATE"
 msgstr "Audio amélioré"
+
+msgid "OPTION_NAME_MPLUS"
+msgstr "Memo+"
 
 msgid "OPTION_NAME_SMOOTH"
 msgstr "Lissage"
