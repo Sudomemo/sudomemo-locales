@@ -940,6 +940,9 @@ msgstr "この機能を利用するにはスドメモプラスを手に入れる
 msgid "EDIT_PAGE_TITLE_AND_DESCRIPTION"
 msgstr "作品名と説明文"
 
+msgid "EDIT_PAGE_TITLE_CANNOT_REMOVE"
+msgstr "Flipnotes can't have blank titles."
+
 msgid "EDIT_PAGE_TITLE_TOOLTIP"
 msgstr "文字、数字、記号を40字まで使用できます。"
 

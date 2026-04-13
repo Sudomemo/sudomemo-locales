@@ -940,6 +940,9 @@ msgstr "Il vous faut Sudomemo Plus pour utiliser ces fonctionnalités."
 msgid "EDIT_PAGE_TITLE_AND_DESCRIPTION"
 msgstr "Titre et description"
 
+msgid "EDIT_PAGE_TITLE_CANNOT_REMOVE"
+msgstr "Flipnotes can't have blank titles."
+
 msgid "EDIT_PAGE_TITLE_TOOLTIP"
 msgstr "Lettres, nombres, et symboles, maximum de 40 caractères."
 
