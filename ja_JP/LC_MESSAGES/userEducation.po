@@ -17,6 +17,13 @@ msgstr "コメント好きのみなさん、お待たせ！コンソールでも
 msgid "UE_COMMENT_REPLIES_TITLE"
 msgstr "返信: 返信: 返信: 返信: 返信:"
 
+msgid "UE_CONSOLE_MANAGEMENT_CONTENT"
+msgstr "With Console Management, you can now have multiple consoles linked to your Sudomemo account!"
+
+# Feature: Console Management
+msgid "UE_CONSOLE_MANAGEMENT_TITLE"
+msgstr "Double Life"
+
 msgid "UE_FINISH"
 msgstr "さあ始めよう！"
 
@@ -55,6 +62,13 @@ msgstr "Webでアカウントを素早く切り替えたいと思っていまし
 msgid "UE_LOGIN_MANAGER_TITLE"
 msgstr "ええ、DSiが5台あります"
 
+msgid "UE_MEMO_PLUS_CONTENT"
+msgstr "Introducing Memo+, a color enhancement feature for Flipnotes! It allows you to replace the default Flipnote colors and add visual effects when your Flipnote is viewed on Sudomemo Theatre."
+
+# Feature: Memo+
+msgid "UE_MEMO_PLUS_TITLE"
+msgstr "See It in Color!"
+
 msgid "UE_NEW_DAILY_DRAW_CONTENT"
 msgstr "Remember the Sudomemo Daily Draw? Reminisce no more, because it's back! Check out the Daily Draw channel and draw away!"
 
@@ -87,6 +101,13 @@ msgstr "Easier than Ikea!"
 
 msgid "UE_SKIP_ALL"
 msgstr "すべてスキップ"
+
+msgid "UE_WEB_INVENTORY_CONTENT"
+msgstr "You can now manage tickets, items, and themes on Sudomemo Theatre with Web Inventory. You might even find a surprise or two in your inventory that you didn't know about!"
+
+# Feature: Web Inventory
+msgid "UE_WEB_INVENTORY_TITLE"
+msgstr "So Many Things..."
 
 msgid "UE_WELCOME_BACK_SUBTITLE"
 msgstr "前回のログインからたくさんの変更がありました。"
