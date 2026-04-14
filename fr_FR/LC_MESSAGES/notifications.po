@@ -45,6 +45,9 @@ msgstr " a été examiné"
 msgid "FRAGMENT_INTERACTED_WITH_CONTENT"
 msgstr "a interagi avec votre contenu"
 
+msgid "FRAGMENT_IS_YOUR_NEW_FLIPNOTE_FRIEND"
+msgstr " is your new Flipnote Friend!"
+
 msgid "FRAGMENT_MESSAGE"
 msgstr "message"
 
@@ -84,6 +87,9 @@ msgstr "Étoiles"
 
 msgid "FRAGMENT_TO_YOUR"
 msgstr " à votre "
+
+msgid "FRAGMENT_VIEW_MESSAGE"
+msgstr "View message"
 
 msgid "FRAGMENT_WAS_PINNED"
 msgstr " was pinned!"

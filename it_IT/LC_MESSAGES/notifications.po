@@ -45,6 +45,9 @@ msgstr " è stato revisionato"
 msgid "FRAGMENT_INTERACTED_WITH_CONTENT"
 msgstr "ha interagito con il tuo contenuto"
 
+msgid "FRAGMENT_IS_YOUR_NEW_FLIPNOTE_FRIEND"
+msgstr " is your new Flipnote Friend!"
+
 msgid "FRAGMENT_MESSAGE"
 msgstr "messaggio"
 
@@ -84,6 +87,9 @@ msgstr "Stelle"
 
 msgid "FRAGMENT_TO_YOUR"
 msgstr " al tuo "
+
+msgid "FRAGMENT_VIEW_MESSAGE"
+msgstr "View message"
 
 msgid "FRAGMENT_WAS_PINNED"
 msgstr " was pinned!"
