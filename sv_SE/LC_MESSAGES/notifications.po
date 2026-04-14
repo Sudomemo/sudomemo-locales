@@ -45,6 +45,9 @@ msgstr " har genomskådats"
 msgid "FRAGMENT_INTERACTED_WITH_CONTENT"
 msgstr "interagerade med dina skapelser"
 
+msgid "FRAGMENT_IS_YOUR_NEW_FLIPNOTE_FRIEND"
+msgstr " is your new Flipnote Friend!"
+
 msgid "FRAGMENT_MESSAGE"
 msgstr "meddelande"
 
@@ -84,6 +87,9 @@ msgstr "Stars"
 
 msgid "FRAGMENT_TO_YOUR"
 msgstr " till din "
+
+msgid "FRAGMENT_VIEW_MESSAGE"
+msgstr "View message"
 
 msgid "FRAGMENT_WAS_PINNED"
 msgstr " was pinned!"
