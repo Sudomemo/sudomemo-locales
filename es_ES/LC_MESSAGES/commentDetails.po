@@ -37,7 +37,7 @@ msgid "FLIPNOTE_BY_FORMAT"
 msgstr "Flipnote de %s"
 
 msgid "IN_REPLY_TO"
-msgstr "In reply to"
+msgstr "Respondiendo a"
 
 msgid "MESSAGE_DETAILS"
 msgstr "Detalles del Mensaje"
@@ -58,7 +58,7 @@ msgid "REPORT_CONTENT"
 msgstr "Reportar contenido"
 
 msgid "STARS"
-msgstr "Stars"
+msgstr "Estrellas"
 
 msgid "TIMESTAMP"
 msgstr "Marca de tiempo"
