@@ -17,7 +17,7 @@ msgid "ACHIEVEMENT_DESC_around_the_world"
 msgstr "Viste un Flipnote de cada región. ¡Ni siquiera necesitaste un avión!"
 
 msgid "ACHIEVEMENT_DESC_birthday_frog"
-msgstr "Redeem a Birthday Ticket. Happy Birthday!"
+msgstr "Canjeaste un Ticket de Cumpleaños. ¡Feliz Cumpleaños!"
 
 msgid "ACHIEVEMENT_DESC_bottomless_wallet"
 msgstr "Agregaste 100000 Estrellas Amarillas."
@@ -26,7 +26,7 @@ msgid "ACHIEVEMENT_DESC_created_an_account"
 msgstr "¡Bienvenido/a a Sudomemo! ¡Te encantará este lugar!"
 
 msgid "ACHIEVEMENT_DESC_day_of_frogs"
-msgstr "Publicaste un día bisiesto. ¡Ribbit!"
+msgstr "Publicaste en un día bisiesto. ¡Ribbit!"
 
 msgid "ACHIEVEMENT_DESC_fancy_decor"
 msgstr "Cambiaste el tema de tu Sala del Creador."
@@ -42,7 +42,7 @@ msgid "ACHIEVEMENT_DESC_first_flipnote"
 msgstr "Crea tu primer Flipnote."
 
 msgid "ACHIEVEMENT_DESC_first_follower"
-msgstr "¡Obtuviste a tu primer fan!"
+msgstr "¡Conseguiste tu primer fan!"
 
 msgid "ACHIEVEMENT_DESC_first_user_followed"
 msgstr "Primer Usuario Seguido."
@@ -108,208 +108,208 @@ msgid "ACHIEVEMENT_DESC_rank_1"
 msgstr "Alcanza el 1er Lugar en la Clasificación. ¡Todo ese trabajo duro valió la pena!"
 
 msgid "ACHIEVEMENT_DESC_rank_top_10"
-msgstr "Alcanza un lugar en el Top 10."
+msgstr "Alcanza un lugar en el Top 10 en la Clasificación."
 
 msgid "ACHIEVEMENT_DESC_rank_top_100"
-msgstr "Alcanza un lugar en el Top 100."
+msgstr "Alcanza un lugar en el Top 100 en la Clasificación."
 
 msgid "ACHIEVEMENT_DESC_ricked"
 msgstr "¡"Never gonna give you up"!"
 
 msgid "ACHIEVEMENT_DESC_star_collector"
-msgstr "100 Estrellas Amarillas recibidas."
+msgstr "Recibiste 100 Estrellas Amarillas."
 
 msgid "ACHIEVEMENT_DESC_star_giver"
-msgstr "Primera Estrella agregada."
+msgstr "Agregaste tu primera Estrella."
 
 msgid "ACHIEVEMENT_DESC_star_investor"
-msgstr "1000 Yellow Stars added."
+msgstr "Agregaste 1000 Estrellas Amarillas."
 
 msgid "ACHIEVEMENT_DESC_star_magnet"
-msgstr "100000 Yellow Stars received."
+msgstr "Recibiste 100000 Estrellas Amarillas."
 
 msgid "ACHIEVEMENT_DESC_star_phenomenon"
-msgstr "10000 Yellow Stars received."
+msgstr "Recibiste 10000 Estrellas Amarillas."
 
 msgid "ACHIEVEMENT_DESC_star_sensation"
-msgstr "5000 Yellow Stars received."
+msgstr "Recibiste 5000 Estrellas Amarillas."
 
 msgid "ACHIEVEMENT_DESC_star_supporter"
-msgstr "100 Yellow Stars added."
+msgstr "Agregaste 100 Estrellas Amarillas."
 
 msgid "ACHIEVEMENT_DESC_star_tycoon"
-msgstr "10000 Yellow Stars added."
+msgstr "Agregaste 10000 Estrellas Amarillas."
 
 msgid "ACHIEVEMENT_DESC_supernova"
-msgstr "Received 5000+ stars on one Flipnote. Top one percent!"
+msgstr "Recibiste más de 5000 Estrellas en un mismo Flipnote. ¡Top uno porciento!"
 
 msgid "ACHIEVEMENT_DESC_the_cutting_room_floor"
-msgstr "Post a Flipnote with an unused sound effect."
+msgstr "Publica un Flipnote con un efecto de sonido sin utilizar."
 
 msgid "ACHIEVEMENT_DESC_unlucky_stars"
 msgstr "Had 13 stars on a Flipnote for 13 days. How luckily unlucky."
 
 msgid "ACHIEVEMENT_DESC_very_antique"
-msgstr "Starred a 10+ year old Flipnote. They don't make 'em like they used to."
+msgstr "Agregaste una Estrella a un Flipnote de hace más de 10 años. Ya no los hacen como antes."
 
 msgid "ACHIEVEMENT_DESC_were_mutuals"
 msgstr "Mutually follow someone. That basically means we're besties!"
 
 msgid "ACHIEVEMENT_DESC_whered_it_go"
-msgstr "Tried to play a Flipnote that was deleted after you loaded it."
+msgstr "Intentaste reproducir un Flipnote que fue eliminado luego de que lo cargaste."
 
 msgid "ACHIEVEMENT_HOLDING_STAT"
-msgstr "%s%% of creators have this achievement"
+msgstr "El %s%% de creadores tienen este logro"
 
 msgid "ACHIEVEMENT_NAME_a_star_is_born"
-msgstr "A Star is Born"
+msgstr "Nace una Estrella"
 
 msgid "ACHIEVEMENT_NAME_around_the_world"
-msgstr "Around the World"
+msgstr "De Viaje"
 
 msgid "ACHIEVEMENT_NAME_birthday_frog"
-msgstr "Birthday Frog"
+msgstr "Ranita Cumpleañera"
 
 msgid "ACHIEVEMENT_NAME_bottomless_wallet"
-msgstr "Bottomless Wallet"
+msgstr "Cartera sin Fondo"
 
 msgid "ACHIEVEMENT_NAME_created_an_account"
-msgstr "Welcome!"
+msgstr "¡Bienvenido/a!"
 
 msgid "ACHIEVEMENT_NAME_day_of_frogs"
-msgstr "Day of Frogs"
+msgstr "Día de Ranas"
 
 msgid "ACHIEVEMENT_NAME_fancy_decor"
 msgstr "Fancy Decor"
 
 msgid "ACHIEVEMENT_NAME_festive_frog"
-msgstr "Festive Frog"
+msgstr "Ranita Festiva"
 
 msgid "ACHIEVEMENT_NAME_first_comment"
-msgstr "First Comment"
+msgstr "Primer Comentario"
 
 msgid "ACHIEVEMENT_NAME_first_flipnote"
-msgstr "First Flipnote"
+msgstr "Primer Flipnote"
 
 msgid "ACHIEVEMENT_NAME_first_follower"
-msgstr "You're famous!"
+msgstr "¡Te llueve la fama!"
 
 msgid "ACHIEVEMENT_NAME_first_user_followed"
-msgstr "I'm a fan!"
+msgstr "¡Soy tu fan!"
 
 msgid "ACHIEVEMENT_NAME_flipnote_artist"
-msgstr "Flipnote Artist"
+msgstr "Artista Flipnote"
 
 msgid "ACHIEVEMENT_NAME_flipnote_connoisseur"
-msgstr "Flipnote Connoisseur"
+msgstr "Conocedor Flipnote"
 
 msgid "ACHIEVEMENT_NAME_flipnote_devotee"
-msgstr "Flipnote Devotee"
+msgstr "Devoto a los Flipnotes"
 
 msgid "ACHIEVEMENT_NAME_flipnote_enthusiast"
-msgstr "Flipnote Enthusiast"
+msgstr "Entusiasta Flipnote"
 
 msgid "ACHIEVEMENT_NAME_flipnote_fanatic"
-msgstr "Flipnote Fanatic"
+msgstr "Fanático Flipnote"
 
 msgid "ACHIEVEMENT_NAME_flipnote_maniac"
-msgstr "Flipnote Maniac"
+msgstr "Maniático de los Flipnotes"
 
 msgid "ACHIEVEMENT_NAME_flipnote_rookie"
-msgstr "Flipnote Rookie"
+msgstr "Novato Flipnote"
 
 msgid "ACHIEVEMENT_NAME_flipnote_veteran"
-msgstr "Flipnote Veteran"
+msgstr "Veterano Flipnote"
 
 msgid "ACHIEVEMENT_NAME_friendly_face"
 msgstr "Friendly Face"
 
 msgid "ACHIEVEMENT_NAME_happy_new_year"
-msgstr "Happy New Year!"
+msgstr "¡Feliz Año Nuevo!"
 
 msgid "ACHIEVEMENT_NAME_inspiration_strikes"
-msgstr "Inspiration Strikes"
+msgstr "Golpe de Inspiración"
 
 msgid "ACHIEVEMENT_NAME_kingmaker"
 msgstr "Kingmaker"
 
 msgid "ACHIEVEMENT_NAME_leaping_platforms"
-msgstr "Leaping Platforms"
+msgstr "De Plataforma en Plataforma"
 
 msgid "ACHIEVEMENT_NAME_new_pfp"
-msgstr "New Look"
+msgstr "Nuevo Look"
 
 msgid "ACHIEVEMENT_NAME_night_owl"
-msgstr "Night Owl"
+msgstr "Búho Nocturno"
 
 msgid "ACHIEVEMENT_NAME_ooh_shinier"
-msgstr "Ooh, shinier"
+msgstr "Oooh, brillante"
 
 msgid "ACHIEVEMENT_NAME_ooh_shiny"
-msgstr "Ooh, shiny"
+msgstr "Oooh, brilla"
 
 msgid "ACHIEVEMENT_NAME_ooh_sparkly"
-msgstr "Ooh, sparkly"
+msgstr "Oooh, reluciente"
 
 msgid "ACHIEVEMENT_NAME_purple_dreams"
-msgstr "Purple Dreams"
+msgstr "Sueños Morados"
 
 msgid "ACHIEVEMENT_NAME_rank_1"
-msgstr "Number One!"
+msgstr "¡Número Uno!"
 
 msgid "ACHIEVEMENT_NAME_rank_top_10"
-msgstr "In the Top Ten!"
+msgstr "¡En el Top Diez!"
 
 msgid "ACHIEVEMENT_NAME_rank_top_100"
-msgstr "In the Top Hundred!"
+msgstr "¡En el Top Cien!"
 
 msgid "ACHIEVEMENT_NAME_ricked"
 msgstr "Ricked"
 
 msgid "ACHIEVEMENT_NAME_star_collector"
-msgstr "Star Collector"
+msgstr "Colector de Estrellas"
 
 msgid "ACHIEVEMENT_NAME_star_giver"
-msgstr "Star Giver"
+msgstr "Donante de Estrellas"
 
 msgid "ACHIEVEMENT_NAME_star_investor"
-msgstr "Star Investor"
+msgstr "Inversor de Estrellas"
 
 msgid "ACHIEVEMENT_NAME_star_magnet"
-msgstr "Star Magnet"
+msgstr "Imán Estelar"
 
 msgid "ACHIEVEMENT_NAME_star_phenomenon"
-msgstr "Star Phenomenon"
+msgstr "Celebridad Estelar"
 
 msgid "ACHIEVEMENT_NAME_star_sensation"
-msgstr "Star Sensation"
+msgstr "Sensación Estelar"
 
 msgid "ACHIEVEMENT_NAME_star_supporter"
-msgstr "Star Supporter"
+msgstr "Ayudante Estelar"
 
 msgid "ACHIEVEMENT_NAME_star_tycoon"
-msgstr "Star Tycoon"
+msgstr "Magnate Estelar"
 
 msgid "ACHIEVEMENT_NAME_supernova"
 msgstr "Supernova"
 
 msgid "ACHIEVEMENT_NAME_the_cutting_room_floor"
-msgstr "The Cutting Room Floor"
+msgstr "The Cutting Room Floor" # "The Cutting Room Floor" es el nombre de un sitio web sobre datos sin utilizar principalmente en videojuegos. No traducir.
 
 msgid "ACHIEVEMENT_NAME_unlucky_stars"
-msgstr "Unlucky Stars"
+msgstr "Estrellas de Mala Suerte"
 
 msgid "ACHIEVEMENT_NAME_very_antique"
-msgstr "Very Antique"
+msgstr "Muy Antiguo"
 
 msgid "ACHIEVEMENT_NAME_were_mutuals"
-msgstr "We're Mutuals!"
+msgstr "¡Amistad Mútua!"
 
 msgid "ACHIEVEMENT_NAME_whered_it_go"
-msgstr "Where'd it Go?"
+msgstr "¿Adónde se fué?"
 
 msgid "ACHIEVEMENT_UNLOCKED"
-msgstr "Achievement Unlocked!"
+msgstr "¡Logro Desbloqueado!"
 
 msgid "YOU_GOT_AN_ACHIEVEMENT"
 msgstr "¡Obtuviste un logro!"
