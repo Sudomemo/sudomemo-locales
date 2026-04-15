@@ -49,9 +49,9 @@ msgid "PAGE_FORMAT"
 msgstr "Página %d"
 
 msgid "ROOM_NAME_anime_chat"
-msgstr "Anime Chat"
+msgstr "Chat Anime"
 
-msgid "ROOM_NAME_birthday_bash"
+sgid "ROOM_NAME_birthday_bash"
 msgstr "Sudomemo Birthday Bash"
 
 msgid "ROOM_NAME_blue_chat"
