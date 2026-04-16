@@ -4,7 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CURRENT_THEME"
-msgstr "Current Theme"
+msgstr "Fondo Actual"
 
 msgid "DECOR"
 msgstr "Decoración"
@@ -19,7 +19,7 @@ msgid "NEXT"
 msgstr "Siguiente"
 
 msgid "NO_THEMES_OWNED"
-msgstr "You don't own any themes yet."
+msgstr "Aún no tienes ningún fondo."
 
 msgid "PETS"
 msgstr "Mascotas"
@@ -31,25 +31,25 @@ msgid "REDEEM"
 msgstr "Canjear"
 
 msgid "THEMES"
-msgstr "Temas"
+msgstr "Fondos"
 
 msgid "THEME_ACTIVE"
-msgstr "Active"
+msgstr "Activo"
 
 msgid "THEME_FLIPNOTE_STUDIO_NOTE"
-msgstr "Creator's Room themes can be seen on Flipnote Studio."
+msgstr "Los fondos de la Sala del Creador podrán verse en Flipnote Studio."
 
 msgid "THEME_OWNED_BY_EVERYONE"
-msgstr "Owned by everyone"
+msgstr "Le pertenece a todos"
 
 msgid "THEME_PREVIEW"
-msgstr "Preview"
+msgstr "Ver"
 
 msgid "THEME_PURCHASED_ON"
-msgstr "Purchased on"
+msgstr "Comprado el"
 
 msgid "THEME_SWITCH"
-msgstr "Switch"
+msgstr "Cambiar"
 
 msgid "TICKETS"
 msgstr "Tickets"
