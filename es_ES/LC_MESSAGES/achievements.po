@@ -75,7 +75,7 @@ msgid "ACHIEVEMENT_DESC_friendly_face"
 msgstr "Le diste la bienvenida a un nuevo Creador."
 
 msgid "ACHIEVEMENT_DESC_happy_new_year"
-msgstr "Publicaste durante Año Nuevo. Publiqué a las 11:59:59..."
+msgstr "Publicaste durante Año Nuevo. Vaya, publiqué el mio a las 11:59:59..."
 
 msgid "ACHIEVEMENT_DESC_inspiration_strikes"
 msgstr "Hiciste un Spin-Off del Flipnote de alguien más."
@@ -114,7 +114,7 @@ msgid "ACHIEVEMENT_DESC_rank_top_100"
 msgstr "Alcanza un lugar en el Top 100 en la Clasificación."
 
 msgid "ACHIEVEMENT_DESC_ricked"
-msgstr "¡"Never gonna give you up"!"
+msgstr "¡Never gonna give you up!"
 
 msgid "ACHIEVEMENT_DESC_star_collector"
 msgstr "Recibiste 100 Estrellas Amarillas."
@@ -144,16 +144,16 @@ msgid "ACHIEVEMENT_DESC_supernova"
 msgstr "Recibiste más de 5000 Estrellas en un mismo Flipnote. ¡Top uno porciento!"
 
 msgid "ACHIEVEMENT_DESC_the_cutting_room_floor"
-msgstr "Publica un Flipnote con un efecto de sonido sin utilizar."
+msgstr "Publicaste un Flipnote con un efecto de sonido sin utilizar."
 
 msgid "ACHIEVEMENT_DESC_unlucky_stars"
-msgstr "Had 13 stars on a Flipnote for 13 days. How luckily unlucky."
+msgstr "Tuviste 13 estrellas en un Flipnote durante 13 días. Tienes suerte para tener mala suerte."
 
 msgid "ACHIEVEMENT_DESC_very_antique"
 msgstr "Agregaste una Estrella a un Flipnote de hace más de 10 años. Ya no los hacen como antes."
 
 msgid "ACHIEVEMENT_DESC_were_mutuals"
-msgstr "Mutually follow someone. That basically means we're besties!"
+msgstr "Se un seguidor mútuo de alguien. ¡Básicamente nos hace mejores amigos!"
 
 msgid "ACHIEVEMENT_DESC_whered_it_go"
 msgstr "Intentaste reproducir un Flipnote que fue eliminado luego de que lo cargaste."
@@ -180,7 +180,7 @@ msgid "ACHIEVEMENT_NAME_day_of_frogs"
 msgstr "Día de Ranas"
 
 msgid "ACHIEVEMENT_NAME_fancy_decor"
-msgstr "Fancy Decor"
+msgstr "Decoraciones Elegantes"
 
 msgid "ACHIEVEMENT_NAME_festive_frog"
 msgstr "Ranita Festiva"
@@ -222,7 +222,7 @@ msgid "ACHIEVEMENT_NAME_flipnote_veteran"
 msgstr "Veterano Flipnote"
 
 msgid "ACHIEVEMENT_NAME_friendly_face"
-msgstr "Friendly Face"
+msgstr "Cara amigable"
 
 msgid "ACHIEVEMENT_NAME_happy_new_year"
 msgstr "¡Feliz Año Nuevo!"
@@ -231,7 +231,7 @@ msgid "ACHIEVEMENT_NAME_inspiration_strikes"
 msgstr "Golpe de Inspiración"
 
 msgid "ACHIEVEMENT_NAME_kingmaker"
-msgstr "Kingmaker"
+msgstr "Nombrador de Monarcas"
 
 msgid "ACHIEVEMENT_NAME_leaping_platforms"
 msgstr "De Plataforma en Plataforma"
