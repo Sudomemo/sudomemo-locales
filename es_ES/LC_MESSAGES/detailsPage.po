@@ -139,11 +139,11 @@ msgid "STAR_DETAILS_UPPERTITLE"
 msgstr "★ Estrellas ★"
 
 msgid "TIMESTAMP_FORMAT"
-msgstr "M d, Y H:i:s"
+msgstr "d de M, Y H:i:s"
 
 # This is shown to logged-in users on their own Flipnotes without titles
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
-msgstr "Flipnote sin titulo creado por %s"
+msgstr "Flipnote sin título creado por %s"
 
 msgid "VIEW"
 msgstr "Ver"
