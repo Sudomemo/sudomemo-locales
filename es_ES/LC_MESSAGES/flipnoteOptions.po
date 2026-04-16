@@ -10,7 +10,7 @@ msgid "DISABLE_AUDIO_ENHANCEMENT"
 msgstr "Deshabilitar audio mejorado"
 
 msgid "DISABLE_MEMO_PLUS"
-msgstr "Disable Memo+"
+msgstr "Desactivar Memo+"
 
 msgid "DISABLE_SMOOTHING"
 msgstr "Desactivar suavizado"
@@ -19,7 +19,7 @@ msgid "ENABLE_AUDIO_ENHANCEMENT"
 msgstr "Habilitar audio mejorado"
 
 msgid "ENABLE_MEMO_PLUS"
-msgstr "Enable Memo+"
+msgstr "Habilitar Memo+"
 
 msgid "ENABLE_SMOOTHING"
 msgstr "Habilitar suavizado"
@@ -49,7 +49,7 @@ msgid "OPTION_DESC_FORCE_44K_BITRATE"
 msgstr "Sudomemo hará lo mejor para que tu audio suene más nítido y limpio en Sudomemo Theatre."
 
 msgid "OPTION_DESC_MPLUS"
-msgstr "Displays a custom color palette when viewing this Flipnote on Sudomemo Theatre."
+msgstr "Muestra una paleta de colores personalizada al ver este Flipnote en Sudomemo Theatre."
 
 msgid "OPTION_DESC_SMOOTH"
 msgstr "Líneas, curvas, y otros bordes serán suavizados para una apariencia más natural en Sudomemo Theatre."
