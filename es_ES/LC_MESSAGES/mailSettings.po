@@ -4,25 +4,25 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "DISABLE"
-msgstr "Deshabilitar"
+msgstr "Desactivar"
 
 msgid "DISABLED"
-msgstr "Deshabilitado"
+msgstr "Desactivado"
 
 msgid "DISABLE_CONFIRMATION_FORMAT"
-msgstr "¿Estás seguro de que quieres deshabilitar los correos de '%s'?"
+msgstr "¿Estás seguro de que quieres desactivar los correos de '%s'?"
 
 msgid "EMAIL_CHANGE_TOKEN_EXPIRED"
 msgstr "El link al que entraste ha caducado."
 
 msgid "EMAIL_SETTING_DISABLED_FINISH_FORMAT"
-msgstr "Has deshabilitado los correos de '%s'."
+msgstr "Has desactivado los correos de '%s'."
 
 msgid "ENABLE"
-msgstr "Habilitar"
+msgstr "Activar"
 
 msgid "ENABLED"
-msgstr "Habilitado"
+msgstr "Activado"
 
 msgid "HEADER_CHANGE_EMAIL_SETTINGS"
 msgstr "Cambiar Ajustes de Correo"
@@ -34,7 +34,7 @@ msgid "LOGIN_REQUIRED_TO_VIEW_PAGE"
 msgstr "Debes haber iniciado sesión para editar tus Ajustes de Correo."
 
 msgid "MAIL_STATUS"
-msgstr "Estatus"
+msgstr "Estado"
 
 msgid "MAIL_TYPE"
 msgstr "Tipo"
@@ -43,7 +43,7 @@ msgid "REENABLE_INSTRUCTIONS"
 msgstr "Si quieres volver a habilitarlos, puedes hacerlo seleccionando <strong>Ajustes de Correo</strong> en tu Sala del Creador."
 
 msgid "TAP_ON_STATUS_TO_VIEW_DETAILS"
-msgstr "Presiona en el estado de un tipo de correo para verlo o actualizarlo."
+msgstr "Toca en el estado actual de un tipo de correo para cambiar su estado o ver una descripción más detallada."
 
 msgid "TAP_TO_DISABLE"
 msgstr "Presiona para deshabilitar"
