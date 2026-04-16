@@ -13,7 +13,7 @@ msgid "LINK_QR_TITLE"
 msgstr "Abrir enlace"
 
 msgid "NOT_LOGGED_IN_NOTICE"
-msgstr "¡No ha iniciado sesión en Sudomemo, toque %s para continuar!"
+msgstr "No has iniciado sesión en Sudomemo. ¡Toca %s para continuar!"
 
 msgid "NOT_LOGGED_IN_NOTICE_LINK_TEXT"
 msgstr "aquí"
