@@ -40,7 +40,7 @@ msgid "HEADER_REFRESH"
 msgstr "Actualizar"
 
 msgid "LATEST"
-msgstr "Latest"
+msgstr "Recientes"
 
 msgid "LOGIN_REQUIRED_TO_POST_COMMENT"
 msgstr "Debes iniciar sesión para publicar un comentario."
@@ -64,7 +64,7 @@ msgid "POPULAR"
 msgstr "Popular"
 
 msgid "REPLYING_TO_X"
-msgstr "Replying to %s"
+msgstr "Respondiendo a %s"
 
 msgid "SUDOMEMO_USER"
 msgstr "Usuario de Sudomemo"
