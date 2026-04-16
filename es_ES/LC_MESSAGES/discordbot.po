@@ -13,27 +13,27 @@ msgid "BOOST_TICKET_SUCCESS"
 msgstr "%s recibió un ticket de Nitro Booster, canjeable por un mes de Sudomemo Plus y un trofeo especial. ¡Hurra!"
 
 msgid "CONSIDER_X_CHANNEL_FOR_THIS"
-msgstr "Considera usar %s para esto"
+msgstr "Tal vez %s podría ser mejor para hacer esto"
 
 # Account linking
 msgid "DISCORD_LINKING_GET_STARTED"
-msgstr "¡Visita %s para empezar!"
+msgstr "Por favor, ¡Entra a %s para empezar!"
 
 msgid "DISCORD_LINKING_REQUIRED"
-msgstr "Deberá enlazar su cuenta de Sudomemo para hacer eso."
+msgstr "Deberás enlazar tu cuenta de Sudomemo para hacer eso."
 
 msgid "DISCORD_LINKING_SUCCESS"
-msgstr "¡Su cuenta está vinculada!"
+msgstr "¡Se ha enlazado tu cuenta correctamente!"
 
 msgid "DISCORD_LINKING_UNLINKED"
-msgstr "Se ha eliminado el vínculo entre su cuenta de Discord y Sudomemo."
+msgstr "Se ha eliminado el enlace entre tu cuenta de Discord y Sudomemo."
 
 msgid "DISCORD_LINKING_UNLINK_NOT_LINKED_YET"
-msgstr "Su cuenta de Discord no está vinculada a una cuenta de Sudomemo."
+msgstr "Tu cuenta de Discord no está enlazada a una cuenta de Sudomemo."
 
 # "Invalid mode - must be one of: song, artist, genre"
 msgid "MUSICMATCH_INVALID_MODE"
-msgstr "Modo no válido - debe ser uno de %s"
+msgstr "Modo inválido - debe ser uno de %s"
 
 msgid "MUSICMATCH_MOVIE_COUNT_PLURAL"
 msgstr "%d Flipnotes"
@@ -55,28 +55,28 @@ msgid "MUSICMATCH_TITLE_BY_ARTIST"
 msgstr "%s por %s"
 
 msgid "PATRON_TICKET_SUCCESS"
-msgstr "¡Has recibido un Ticket de Patrón de Sudomemo %s!"
+msgstr "¡Recibiste un Ticket de Patrón de Sudomemo %s!"
 
 msgid "REJECT_ACCOUNT_ALREADY_LINKED"
-msgstr "¡Ya has vinculado tu cuenta de Sudomemo!"
+msgstr "¡Tu cuenta de Sudomemo ya está enlazada!"
 
 msgid "REJECT_BOOST_TICKET_COOLDOWN"
-msgstr "¡Ya has regalado un ticket Nitro Booster este mes! (%s)"
+msgstr "¡Ya regalaste un ticket de Nitro Booster este mes! (%s)"
 
 msgid "REJECT_FSID_ENOENT"
-msgstr "No encontré un usuario con ese ID de Flipnote Studio en Sudomemo."
+msgstr "No pude encontrar un usuario con ese ID de Flipnote Studio en Sudomemo."
 
 msgid "REJECT_GENERIC_ERROR"
-msgstr "Me encontré con un problema haciendo eso. ¡Perdón!"
+msgstr "Me encontré con un problema al intentar hacer eso. ¡Perdón!"
 
 msgid "REJECT_INVALID_FSID"
 msgstr "¡Eso no es un ID de Flipnote Studio válido!"
 
 msgid "REJECT_INVALID_LINK_TOKEN"
-msgstr "¡Eso no es un token de enlace válido! ¡Por favor, visite %s para comenzar!"
+msgstr "¡Eso no es un token de vinculación válido! Por favor, ¡visita %s para comenzar!"
 
 msgid "REJECT_LINK_TOKEN_ENOENT"
-msgstr "Este token de enlace caducó o no existe."
+msgstr "Este token de vinculación caducó o ya no existe."
 
 msgid "REJECT_NOT_NITRO_BOOSTER"
 msgstr "¡Necesitas ser un Sudomemo Nitro Booster para usar esto!"
@@ -85,14 +85,14 @@ msgid "REJECT_NOT_PATRON"
 msgstr "¡Necesitas ser un Patrón de Sudomemo para usar esto!"
 
 msgid "REJECT_PATRON_TICKET_COOLDOWN"
-msgstr "¡Ya has reclamado tu ticket de Patrón este mes!"
+msgstr "¡Ya reclamaste tu ticket de Patrón este mes!"
 
 msgid "REJECT_USER_ENOENT"
 msgstr "No encontré a ese usuario en Sudomemo."
 
 # displayed as "💡 Link your Sudomemo account with `.sudo link`"
 msgid "UNLINKED_COMMAND_TIP"
-msgstr "Vincula tu cuenta de Sudomemo con"
+msgstr "Enlaza tu cuenta de Sudomemo con"
 
 # "Usage: example_command <fsid>"
 msgid "USAGE"
@@ -113,7 +113,7 @@ msgstr ""
 msgid "USAGE_link"
 msgstr ""
 "   link\n"
-"      Vincula tu cuenta de Sudomemo a Discord"
+"      Enlaza tu cuenta de Sudomemo a Discord"
 
 # ONLY TRANSLATE "Search Sudomemo MusicMatch" and "What you're searching for"
 msgid "USAGE_musicmatch"
@@ -127,7 +127,7 @@ msgstr ""
 msgid "USAGE_nitro_plus"
 msgstr ""
 "   nitro_plus <FSID|self>\n"
-"      Regalar ticket Nitro Booster (1 mes de Sudomemo Plus y un trofeo).\n"
+"      Regalar ticket de Nitro Booster (1 mes de Sudomemo Plus y un trofeo).\n"
 "      <FSID>: ID de Flipnote Studio"
 
 msgid "USAGE_patron_plus"
@@ -136,4 +136,4 @@ msgstr ""
 "      Reclamar Ticket mensual de Patrón"
 
 msgid "USER_INFORMATION_WAS_UPDATED"
-msgstr "Tu información fue actualizada."
+msgstr "Se ha actualizado tu información."
