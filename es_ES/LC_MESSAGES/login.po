@@ -44,34 +44,34 @@ msgid "BAN_NOTICE_CONSOLE_BAN"
 msgstr "Tu cuenta y tu consola han sido suspendidos de Sudomemo."
 
 msgid "BAN_NOTICE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
-msgstr "Por favor, contáctanos por Discord o vía Correo electrónico a %s."
+msgstr "Por favor, contáctanos por Discord o vía correo electrónico a %s."
 
 msgid "BAN_NOTICE_PLEASE_READ_BAN_LETTER"
-msgstr "Por favor lee la nota que te hemos enviado para más información."
+msgstr "Por favor, lee la nota que te hemos enviado para más información."
 
 msgid "BAN_VIEW_MAIL"
 msgstr "Ver Correo de Sudomemo"
 
 msgid "BASIC_AUTH_BAD_LENGTH_FORMAT"
-msgstr "El ID parecer ser de %s digitos en tamaño. (Deberían ser solo 16)"
+msgstr "El ID parecer ser de %s digitos en tamaño. Deberían ser solo 16."
 
 msgid "BASIC_AUTH_FSID_INVALID"
 msgstr "El Flipnote Studio ID que proporcionaste en la Autenticación Básica no es válido:"
 
 msgid "BASIC_AUTH_LOWERCASE_LETTERS"
-msgstr "El ID contiene letras en minúscula - debería ser todo mayúscula."
+msgstr "El ID contiene letras en minúscula. Debería ser todo mayúscula."
 
 msgid "BASIC_AUTH_NONHEX_CHARACTERS"
-msgstr "El ID contiene otros caracteres que no son 0-9 y A-F. (Debería tener solo caracteres 0-9 y A-F)."
+msgstr "El ID contiene otros caracteres que no son 0-9 y A-F. Debería tener solo caracteres 0-9 y A-F."
 
 msgid "BASIC_AUTH_NOT_ENABLED"
 msgstr "No parece que tengas activada la Autenticación Básica en tus configuraciones de Proxy."
 
 msgid "BUTTON_ADD_AN_EMAIL_ADDRESS"
-msgstr "Agregar dirección de Correo Electrónico"
+msgstr "Agregar dirección de correo electrónico"
 
 msgid "BUTTON_CHANGE_EMAIL"
-msgstr "Cambiar dirección de Correo Electrónico aquí"
+msgstr "Cambiar dirección de correo electrónico aquí"
 
 msgid "BUTTON_CHANGE_PASSWORD"
 msgstr "Cambiar contraseña"
@@ -83,10 +83,10 @@ msgid "BUTTON_CONTINUE"
 msgstr "Continuar"
 
 msgid "BUTTON_EDIT_EMAIL_ADDRESS"
-msgstr "Cambiar Correo electrónico"
+msgstr "Cambiar correo electrónico"
 
 msgid "BUTTON_RESEND_VERIFICATION_EMAIL"
-msgstr "Re-enviar Correo de confirmación"
+msgstr "Re-enviar correo de confirmación"
 
 msgid "BUTTON_SIGN_IN_TO_SUDOMEMO"
 msgstr "Iniciar sesión en Sudomemo"
@@ -267,7 +267,7 @@ msgid "NEW_USER_WELCOME_FORMAT"
 msgstr "¡Bienvenido a Sudomemo, %s!"
 
 msgid "NOT_RECEIVING_HELP_FORMAT"
-msgstr "¿Sigues sin recibir el Correo? Puedes hablar con nosotros en el Discord de Sudomemo o vía %s."
+msgstr "¿Sigues sin recibir el correo? Puedes hablar con nosotros en el Discord de Sudomemo o vía %s."
 
 msgid "NO_PLAINTEXT_PASSWORD_RECOVERY_IF_LOST"
 msgstr "Después de este paso, no podrémos recuperar tu contraseña si la pierdes."
