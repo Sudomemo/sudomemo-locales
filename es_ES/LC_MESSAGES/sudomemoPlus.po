@@ -25,68 +25,68 @@ msgid "FLIPNOTE_SMOOTHING"
 msgstr "Suavizado en tu Flipnote"
 
 msgid "FOOTNOTE_PLATFORM_FEATURE_PARITY"
-msgstr "Por favor nota que algunas características, tales como suavizado en tus Flipnotes y audio mejorado solo son visibles en Sudomemo Theatre."
+msgstr "Por favor, ten en cuenta que algunas características como el Suavizado de Flipnotes o la mejora de audio, solo serán visibles en Sudomemo Theatre."
 
 msgid "GREETING_LEGACY_ACTIVATE_FORMAT"
 msgstr "¡Hola, %s!"
 
 msgid "INCREASED_FOLLOW_LIMIT"
-msgstr "Incrementar el numero de personas a seguir - hasta %s Creadores"
+msgstr "Incrementar el numero de personas que puedes seguir a hasta %s Creadores"
 
 msgid "LEGACY_ACTIVATE_CITIZENSHIP_CHANGE"
-msgstr "Sudomemo Citizenship ha expirado, ¡reemplazado por Sudomemo Plus!"
+msgstr "Sudomemo Citizenship se ha ido, ¡ha sido reemplazado por Sudomemo Plus!"
 
 msgid "LEGACY_ACTIVATE_EARN_PLUS"
-msgstr "Puedes obtener Sudomemo Plus canjeando tickets que compres en nuestra tienda o ganando en nuestro fondo semanal."
+msgstr "Puedes obtener Sudomemo Plus canjeando tickets que compres desde nuestra tienda oficial, o ganando el Tema Semanal."
 
 msgid "LEGACY_ACTIVATE_GRANDFATHERED_BONUS"
-msgstr "Ya que anteriormente contabas con Citizenship, Has recibido un mes gratis de Sudomemo Plus. Asegúrate de darle una mirada ¡y probar algunas de las nuevas características!"
+msgstr "Como antes contabas con Sudomemo Citizenship, has recibido un mes gratis de Sudomemo Plus. Asegúrate de revisar las nuevas funciones, ¡y diviértete con ellas!"
 
 msgid "LEGACY_ACTIVATE_PLUS_TEASER"
-msgstr "Sudomemo Plus te da acceso a toda clase de características extra, tales como suavizado y audio mejorado en tus Flipnotes de Sudomemo Theatre, al igual que comentarios con color ¡y otras características!"
+msgstr "Sudomemo Plus te da acceso a todo tipo de funciones extra, como suavizado y mejora de audio en tus Flipnotes, así como comentarios coloridos ¡y unas cuantas funciones más!"
 
 # My Sudomemo Plus
 msgid "MANAGE_PLUS_HEADER"
 msgstr "Mi Sudomemo Plus"
 
 msgid "MANAGE_PLUS_HOW_TO_EARN_PLUS"
-msgstr "Puedes obtener Sudomemo Plus canjeando tickets que compres en nuestra tienda o ganando en nuestro fondo semanal."
+msgstr "Puedes obtener Sudomemo Plus canjeando tickets que compres desde nuestra tienda oficial, o ganando el Tema Semanal."
 
 msgid "MANAGE_PLUS_REMAINING"
 msgstr "Actualmente tienes %s día(s) de Sudomemo Plus restante(s)."
 
 msgid "NO_THEATRE_ADS"
-msgstr "No anuncios Sudomemo Theatre"
+msgstr "Eliminación de anuncios en Sudomemo Theatre"
 
 msgid "PLUS_ADFREE_DESC"
-msgstr "Enjoy an ad-free browsing experience."
+msgstr "Disfruta de una experiencia de navegación sin anuncios."
 
 msgid "PLUS_AUDIO_DESC"
-msgstr "Cleaner, improved sound when Flipnotes play on Theatre."
+msgstr "Sonido limpio y mejorado al reproducir Flipnotes en Sudomemo Theatre."
 
 msgid "PLUS_COLOR_COMMENTS_DESC"
-msgstr "Post colorful messages that stand out."
+msgstr "Llama la atención publicando mensajes coloridos."
 
 msgid "PLUS_CUSTOM_FRAMES"
-msgstr "Custom Frames for YouTube Shorts"
+msgstr "Marcos personalizados para los Shorts de YouTube."
 
 msgid "PLUS_CUSTOM_FRAMES_DESC"
 msgstr "Add unique overlays when uploading Shorts."
 
 msgid "PLUS_DOWNLOAD_COMMENTS_DESC"
-msgstr "Save doodle comments to your DSi/3DS as Flipnotes."
+msgstr "Guarda tus comentarios dibujados como Flipnotes en tu Nintendo DSi/3DS."
 
 msgid "PLUS_FOLLOW_LIMIT_DESC"
-msgstr "Follow more creators than the default cap."
+msgstr "Sigue a más creadores que el límite original."
 
 msgid "PLUS_RUNNING_OUT_MSG_DAYS_REMAINING_FORMAT"
-msgstr "Éste es un mensaje para hacerte saber que tienes %s día(s) de Sudomemo Plus restante(s)."
+msgstr "Este mensaje es para notificarte que tienes %s día(s) de Sudomemo Plus restante(s)."
 
 msgid "PLUS_RUNNING_OUT_MSG_HAPPY_FLIPNOTING"
 msgstr "¡Anima tu día!"
 
 msgid "PLUS_RUNNING_OUT_MSG_HOW_TO_EARN_PLUS"
-msgstr "No olvides que Puedes obtener Sudomemo Plus ganando en nuestro fondo semanal, o canjeando tickets que compres en nuestra tienda."
+msgstr "No olvides que puedes obtener Sudomemo Plus ganando en el Tema Semanal, o comprando y canjeando tickets de nuestra tienda oficial."
 
 msgid "PLUS_RUNNING_OUT_MSG_INTRO"
 msgstr "¡Hola, %s!"
@@ -97,21 +97,21 @@ msgstr "Mi Sudomemo Plus"
 
 # Plus Benefit Descriptions
 msgid "PLUS_SMOOTHING_DESC"
-msgstr "Cleaner, smoother lines and curves on Sudomemo Theatre."
+msgstr "Líneas y curvas limpias y suaves en Sudomemo Theatre."
 
 # Plus Benefit Titles
 msgid "PLUS_WEB_CHAT"
-msgstr "Web Chatroom Access"
+msgstr "Acceso al chat desde la Web"
 
 msgid "PLUS_WEB_CHAT_DESC"
-msgstr "Chat directly from the Sudomemo website."
+msgstr "Chatea directamente desde el sitio web de Sudomemo."
 
 msgid "SUDOMEMO_GAME_ACCESS"
-msgstr "¡Juega a juegos especiales directamente en Sudomemo!"
+msgstr "¡Juega a juegos especiales directamente desde el sitio web de Sudomemo!"
 
 # Sudomemo Plus Legacy Citizenship Activation
 msgid "SUDOMEMO_PLUS_LEGACY_HEADER"
 msgstr "¡Bienvenido a Sudomemo Plus!"
 
 msgid "THEME_PUBLISHER_ACCESS"
-msgstr "Publica fondos en la Tienda de fondos"
+msgstr "Publica fondos en la Tienda de Fondos"

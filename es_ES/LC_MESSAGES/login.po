@@ -4,38 +4,38 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "ACCOUNT_DEACTIVATED_ERROR"
-msgstr "This Sudomemo account has been closed."
+msgstr "Se ha cerrado esta cuenta de Sudomemo."
 
 msgid "ACCOUNT_DEACTIVATED_LINE1"
-msgstr "You've closed this Sudomemo account."
+msgstr "Has cerrado esta cuenta de Sudomemo."
 
 msgid "ACCOUNT_DEACTIVATED_LINE2"
-msgstr "Thank you for the time you spent creating and sharing!"
+msgstr "¡Muchas gracias por el tiempo que pasaste creando y compartiendo!"
 
 msgid "ACCOUNT_DEACTIVATED_LINE3"
-msgstr "We hope you'll keep exploring art and self-expression wherever you go."
+msgstr "Esperamos que sigas explorando el arte y la autoexpresión vayas adonde vayas."
 
 msgid "ACCOUNT_DEACTIVATED_TITLE"
-msgstr "Account closed"
+msgstr "Cuenta cerrada"
 
 msgid "ACKNOWLEDGE_FAILED"
-msgstr "Failed to acknowledge the mute. Please try again."
+msgstr "Fallo al reconocer el muteo. Por favor, vuelve a intentarlo."
 
 msgid "AGE_GATE_AGE_REQUIREMENT"
-msgstr "Sudomemo is meant to be used by people 13 years and up."
+msgstr "Sudomemo está dirigido a personas mayores de 13 años."
 
 msgid "AGE_GATE_ERROR_CHECK"
-msgstr "If this message is appearing in error, please make sure your birthday is set correctly in your Flipnote Studio settings."
+msgstr "Si este mensaje es un error, por favor asegúrate de que tu fecha de cumpleaños es correcta en la configuración de Flipnote Studio."
 
 msgid "AGE_GATE_PARENT_INFO"
-msgstr "For more information, parents can visit: https://flipnot.es/parents"
+msgstr "Tus padres pueden visitar https://flipnot.es/parents para obtener más información."
 
 msgid "AGE_GATE_PARENT_MESSAGE"
-msgstr "Please have your parents read this message."
+msgstr "Por favor dile a tus padres que lean este mensaje."
 
 # Age gate message for users under 13
 msgid "AGE_GATE_TITLE"
-msgstr "It looks like you aren't old enough to use Sudomemo"
+msgstr "No tienes la edad suficiente para usar Sudomemo"
 
 msgid "BAN_GREETING_FORMAT"
 msgstr "Hola, %s."
@@ -44,34 +44,34 @@ msgid "BAN_NOTICE_CONSOLE_BAN"
 msgstr "Tu cuenta y tu consola han sido suspendidos de Sudomemo."
 
 msgid "BAN_NOTICE_CONTACT_DISCORD_OR_EMAIL_FORMAT"
-msgstr "Por favor, contáctanos por Discord o vía Correo electrónico a %s."
+msgstr "Por favor, contáctanos por Discord o vía correo electrónico a %s."
 
 msgid "BAN_NOTICE_PLEASE_READ_BAN_LETTER"
-msgstr "Por favor lee la nota que te hemos enviado para más información."
+msgstr "Por favor, lee la nota que te hemos enviado para más información."
 
 msgid "BAN_VIEW_MAIL"
-msgstr "Vista Correo Sudomemo"
+msgstr "Ver Correo de Sudomemo"
 
 msgid "BASIC_AUTH_BAD_LENGTH_FORMAT"
-msgstr "El ID parecer ser de %s digitos en tamaño (deberían ser solo 16)"
+msgstr "El ID parecer ser de %s digitos en tamaño. Deberían ser solo 16."
 
 msgid "BASIC_AUTH_FSID_INVALID"
 msgstr "El Flipnote Studio ID que proporcionaste en la Autenticación Básica no es válido:"
 
 msgid "BASIC_AUTH_LOWERCASE_LETTERS"
-msgstr "El ID contiene letras en minúscula - debería ser todo mayúscula."
+msgstr "El ID contiene letras en minúscula. Debería ser todo mayúscula."
 
 msgid "BASIC_AUTH_NONHEX_CHARACTERS"
-msgstr "El ID contiene otros caracteres que no son 0-9 y A-F (debería tener solo caracteres 0-9 y A-F)."
+msgstr "El ID contiene otros caracteres que no son 0-9 y A-F. Debería tener solo caracteres 0-9 y A-F."
 
 msgid "BASIC_AUTH_NOT_ENABLED"
-msgstr "No parece que tengas activado la Autenticación Básica en tus configuraciones de Proxy."
+msgstr "No parece que tengas activada la Autenticación Básica en tus configuraciones de Proxy."
 
 msgid "BUTTON_ADD_AN_EMAIL_ADDRESS"
-msgstr "Agregar dirección de Correo electrónico"
+msgstr "Agregar dirección de correo electrónico"
 
 msgid "BUTTON_CHANGE_EMAIL"
-msgstr "Cambiar dirección de Correo electrónico aquí"
+msgstr "Cambiar dirección de correo electrónico aquí"
 
 msgid "BUTTON_CHANGE_PASSWORD"
 msgstr "Cambiar contraseña"
@@ -83,10 +83,10 @@ msgid "BUTTON_CONTINUE"
 msgstr "Continuar"
 
 msgid "BUTTON_EDIT_EMAIL_ADDRESS"
-msgstr "Cambiar Correo electrónico"
+msgstr "Cambiar correo electrónico"
 
 msgid "BUTTON_RESEND_VERIFICATION_EMAIL"
-msgstr "Re-enviar Correo de confirmación"
+msgstr "Re-enviar correo de confirmación"
 
 msgid "BUTTON_SIGN_IN_TO_SUDOMEMO"
 msgstr "Iniciar sesión en Sudomemo"
@@ -95,7 +95,7 @@ msgid "BUTTON_SUBMIT"
 msgstr "Enviar"
 
 msgid "CONFIRM_INFO_CORRECT"
-msgstr "Por favor verifíca que la información que introduciste es correcta."
+msgstr "Por favor, verifíca que la información que introduciste es correcta."
 
 msgid "CONTACT_SUPPORT_EMAIL_FORMAT"
 msgstr "Por favor contacta a %s."
@@ -110,63 +110,63 @@ msgid "CREATORS_ROOM_SHIM_WELCOME"
 msgstr "¡Bienvenido!"
 
 msgid "DATABASE_ERROR"
-msgstr "A database error occurred."
+msgstr "Ocurrió un error en la base de datos."
 
 msgid "DS_ACKNOWLEDGE_BUTTON"
-msgstr "Acknowledge"
+msgstr "Reconocer"
 
 msgid "DS_ACKNOWLEDGE_LINK"
-msgstr "Acknowledge Mute"
+msgstr "Reconocer Muteo"
 
 msgid "DS_ACKNOWLEDGE_SUCCESS_BODY"
-msgstr "You have successfully acknowledged the mute. You may now continue using Sudomemo."
+msgstr "Has reconocido el muteo correctamente. Puedes continuar usando Sudomemo."
 
 msgid "DS_ACKNOWLEDGE_SUCCESS_TITLE"
-msgstr "Mute Acknowledged"
+msgstr "Muteo Reconocido"
 
 msgid "DS_CONTINUE_TO_SUDOMEMO"
-msgstr "Continue to Sudomemo"
+msgstr "Continuar a Sudomemo"
 
 msgid "DS_MUTE_ACKNOWLEDGE_BODY"
-msgstr "You must acknowledge this mute before you can continue using Sudomemo."
+msgstr "Debes reconocer este muteo antes de poder continuar usando Sudomemo."
 
 # DS Sanction Display
 msgid "DS_MUTE_ACKNOWLEDGE_REQUIRED"
-msgstr "You must acknowledge this restriction before it can be lifted."
+msgstr "Debes reconocer esta restricción antes de que pueda ser levantada."
 
 # DS Acknowledgment Interface
 msgid "DS_MUTE_ACKNOWLEDGE_TITLE"
-msgstr "Mute Acknowledgment Required"
+msgstr "Reconocimiento de Muteo Requerido"
 
 msgid "DS_MUTE_CAN_BE_LIFTED_AFTER"
-msgstr "This restriction can be lifted after"
+msgstr "Esta restricción puede ser levantada después"
 
 msgid "DS_SANCTION_REASON"
-msgstr "Reason"
+msgstr "Razón"
 
 msgid "EMAIL_ADDITION_DETAILS"
-msgstr "Si en algún momento pierdes tu contraseña, te enviaremos un enlace para reestablecerla a tu Correo electrónico."
+msgstr "Si en algún momento pierdes tu contraseña, te enviaremos un enlace para reestablecerla a tu correo electrónico."
 
 msgid "EMAIL_ADDITION_SUGGESTED"
-msgstr "El Correo electrónico es opcional, pero muy recomendado. Si llegas a olvidar tu contraseña, te enviaremos un Correo electrónico para que la recuperes."
+msgstr "El correo electrónico es opcional, pero altamente recomendado. Si llegas a olvidar tu contraseña, te enviaremos un correo electrónico para que la recuperes."
 
 msgid "EMAIL_CONFIRMATION_SENT_FORMAT"
-msgstr "Un Correo de confirmación ha sido enviado a %s. Por favor verifícalo en unos cuantos minutos."
+msgstr "Un correo de confirmación ha sido enviado a %s. Por favor verifícalo en unos cuantos minutos."
 
 msgid "EMAIL_IS_DUPLICATE"
 msgstr "El correo electrónico que ingresaste ya está en uso."
 
 msgid "EMAIL_NOT_YET_VERIFIED"
-msgstr "Tu Correo electrónico aún no ha sido confirmado."
+msgstr "Tu correo electrónico aún no ha sido confirmado."
 
 msgid "EMAIL_REQUIRES_UPDATE"
-msgstr "Tu Correo electrónico necesita ser actualizado."
+msgstr "Tu correo electrónico necesita ser actualizado."
 
 msgid "EMAIL_VERIFICATION_ADDRESS_REMOVED"
-msgstr "¡Lo sentimos! Hemos marcado esta dirección de email  as incorrecta, asi que ya no recibirás mas emails de Sudomemo."
+msgstr "¡Lo sentimos! Hemos marcado esta dirección de correo electrónico como incorrecta, asi que ya no recibirás mas correos de Sudomemo."
 
 msgid "EMAIL_VERIFIED"
-msgstr "¡Gracias por confirmar tu Correo!"
+msgstr "¡Gracias por confirmar tu correo!"
 
 msgid "ERROR"
 msgstr "Error"
@@ -187,13 +187,13 @@ msgid "FORM_LABEL_DONT_FORGET_PASSWORD"
 msgstr "¡Recuerda tener apuntada tu contraseña, y mantenerla segura!"
 
 msgid "FORM_PREFILL_EMAIL"
-msgstr "Introduce tu Correo electrónico aquí..."
+msgstr "Introduce tu correo electrónico aquí..."
 
 msgid "FORM_PREFILL_PASSWORD"
 msgstr "Introduce tu contraseña aquí..."
 
 msgid "FORM_WARNING_EMAIL_INVALID"
-msgstr "La dirección de Correo electrónico que has introducido no es válida."
+msgstr "La dirección de correo electrónico que has introducido no es válida."
 
 msgid "FORM_WARNING_PASSWORD_DISALLOWED_CHARS"
 msgstr "Tu contraseña no puede contener ninguno de estos caracteres:"
@@ -208,10 +208,10 @@ msgid "GUIDE_MAIN_MENU_SHORTCUT"
 msgstr "Puedes regresar al menú principal presionando L (o R si eres zurdo) y el botón de 'Menú'."
 
 msgid "HEADER_UPDATE_EMAIL"
-msgstr "Actualizar correo"
+msgstr "Actualizar Correo"
 
 msgid "HEADER_VERIFICATION_EXPIRED"
-msgstr "Confirmación expirada"
+msgstr "Confirmación Expirada"
 
 msgid "HEADER_VERIFY_EMAIL"
 msgstr "Confirmar Correo"
@@ -221,7 +221,7 @@ msgstr "Intentos de introducir contraseña: %s"
 
 # A URL will be shown at the end of this.
 msgid "LEGACY_PROXY_WARNING"
-msgstr "Parece que todavía estás usando el proxy ds.sudomemo.net, que hemos dejado de usar. Debes eliminar el proxy en la Configuración del sistema, y puedes tener problemas con usar Sudomemo si lo dejas. Para más información visite: "
+msgstr "Parece que todavía estás usando el proxy ds.sudomemo.net, que hemos dejado de usar. Debes eliminar el proxy en la Configuración del Sistema, o puedes tener problemas al usar Sudomemo si lo dejas. Para más información, visita: "
 
 msgid "LOGIN"
 msgstr "Iniciar sesión"
@@ -236,17 +236,17 @@ msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE1"
 msgstr "Los datos de esta Flipnote están corruptos."
 
 msgid "LOGIN_FAILED_CORRUPTED_DATA_LINE2"
-msgstr "Prueba mandarlo una vez más."
+msgstr "Prueba enviarlo una vez más."
 
 msgid "LOGIN_FAILED_REOPEN_FLIPNOTE_STUDIO"
-msgstr "No puede iniciar a sesión. Cierra y abrar Flipnote Studio otra vez."
+msgstr "No se pudo iniciar sesión. Cierra y vuelve a abrir Flipnote Studio."
 
 msgid "LOGIN_FORM_PREFILL_PASSWORD"
-msgstr "Entran tu contraseña"
+msgstr "Introduce tu contraseña"
 
 # DS Error Messages
 msgid "LOGIN_REQUIRED"
-msgstr "You must be logged in to access this page."
+msgstr "Debes iniciar sesión para entrar a esta página."
 
 msgid "LOGIN_SETUP"
 msgstr "Configuración de inicio de sesión"
@@ -264,34 +264,34 @@ msgid "NEW_USER_THANKS_FOR_REGISTRATION"
 msgstr "¡Bienvenido a Sudomemo!"
 
 msgid "NEW_USER_WELCOME_FORMAT"
-msgstr "Bienvenido a Sudomemo, %s!"
+msgstr "¡Bienvenido a Sudomemo, %s!"
 
 msgid "NOT_RECEIVING_HELP_FORMAT"
-msgstr "¿Sigues sin recibir el Correo? Puedes hablar con nosotros en el Discord de Sudomemo o vía %s."
+msgstr "¿Sigues sin recibir el correo? Puedes hablar con nosotros en el Discord de Sudomemo o vía %s."
 
 msgid "NO_PLAINTEXT_PASSWORD_RECOVERY_IF_LOST"
-msgstr "Después de este punto, no podrémos recuperar tu contraseña."
+msgstr "Después de este paso, no podrémos recuperar tu contraseña si la pierdes."
 
 msgid "PLEASE_DISCONNECT_AND_RECONNECT"
-msgstr "Ocurrió un error. Para volver a intentarlo, desconéctese y luego conéctese a Sudomemo."
+msgstr "Ocurrió un error. Para volver a intentar, desconéctate y reconéctate a Sudomemo."
 
 msgid "PLEASE_ENTER_PASSWORD_TO_SIGN_IN"
 msgstr "Por favor, introduce tu contraseña para iniciar sesión"
 
 msgid "POST_COMMENT_BELOW"
-msgstr "Por favor, sube un commentario (puede ser blanco)."
+msgstr "Para continuar, debes enviar un comentario dibujado (puedes dejarlo vacío)."
 
 msgid "REGISTRATION_ERROR_BAD_EMAIL"
-msgstr "El Correo electrónico que has introducido no esta permitido."
+msgstr "El correo electrónico que has introducido no esta permitido."
 
 msgid "REGISTRATION_ERROR_BAD_PASSWORD"
 msgstr "La contraseña que has introducido no esta permitida."
 
 msgid "REGISTRATION_ERROR_PASSWORD_ALREADY_SET"
-msgstr "Contraseña ya ha sido establecida."
+msgstr "Ya has establecido esta contraseña."
 
 msgid "RETURNING_USER_NEW_LOGIN_SYSTEM"
-msgstr "Desde la última vez que iniciaste sesión hemos creado un nuevo sistema de iniciar sesión -- ¡Pero no te preocupes! Todo tu contenido sigue aqui."
+msgstr "Desde la última vez que nos visitaste, creamos un nuevo sistema de inicio de sesión. Pero no te preocupes, ¡todo tu contenido sigue aquí!"
 
 msgid "RETURNING_USER_PLEASE_CREATE_PASSWORD"
 msgstr "Para comenzar, crea una nueva contraseña aquí abajo."
@@ -300,31 +300,31 @@ msgid "RETURNING_USER_THANKS_FOR_REGISTRATION"
 msgstr "¡Bienvenido de vuelta! Gracias por configurar tu información."
 
 msgid "SEARCH_FOR_SENDER_EMAIL_FORMAT"
-msgstr "¿No has recibido el correo? Échale un vistazo a tu correo basura (Spam), y busca por %s. Si lo encuentras y está marcado como Spam, por favor asegúrate de primero marcar No es Spam."
+msgstr "¿No has recibido el correo? Échale un vistazo a tu correo basura (Spam), y busca por %s. Si lo encuentras y está marcado como Spam, por favor asegúrate de primero marcar que No es Spam."
 
 msgid "SEEK_LOGIN_HELP_IN_DISCORD_FORMAT"
-msgstr "Si necesitas ayuda para conectarte, eres libre de preguntar en nuestro Discord! Puedes unirte desde %s."
+msgstr "Si necesitas ayuda para conectarte, ¡siéntete libre de preguntar en nuestro Discord! Puedes unirte desde %s."
 
 msgid "SIGNUP_AGE_GATE_ERROR"
-msgstr "Necesitas tener 13 años o mas para crear una cuenta de Sudomemo."
+msgstr "Necesitas tener 13 años o más para crear una cuenta de Sudomemo."
 
 msgid "SIGNUP_AGE_GATE_ERROR_FIX"
-msgstr "Si este no es correcto, puedes corregír su cumpleaños por tocando el llave naranja arriba a la derecha del menú primero de Flipnote Studio."
+msgstr "Si has recibido este mensaje de manera errónea, puedes cambiar tu cumpleaños tocando la llave naranja en la esquina superior derecha del menú principal de Flipnote Studio."
 
 msgid "SORRY_NO_LOGIN"
 msgstr "Lo sentimos, ¡pero no pudimos iniciar tu sesión!"
 
 msgid "THANKS_FOR_LOGIN_FORMAT"
-msgstr "Gracias por iniciar sesión, %s!"
+msgstr "¡Gracias por iniciar sesión, %s!"
 
 msgid "THANKS_FOR_LOGIN_PROMPT_INTRO"
-msgstr "¡Bienvenido a Sudomemo! ¡Ahora, escriba un pequeño mensaje para decir quién es usted! (Esto se publicará como una Flipnote en nuestro canal de Presentaciones)."
+msgstr "¡Bienvenido a Sudomemo! Ahora, ¡escribe un pequeño mensaje para decir quien eres! (Se publicará como un Flipnote en el canal de Presentaciones)."
 
 msgid "THANK_YOU_FOR_UPDATING_EMAIL"
 msgstr "¡Gracias por actualizar tu correo electrónico!"
 
 msgid "USER_NOT_FOUND"
-msgstr "User not found."
+msgstr "Usuario no encontrado."
 
 msgid "VERIFICATION_EXPIRED_TEXT"
 msgstr "La URL de confirmación ha expirado o ya ha sido usada."
@@ -333,13 +333,13 @@ msgid "VERIFICATION_LIMIT_EXCEEDED_FORMAT"
 msgstr "Has excedido el número máximo de correos de confirmación. Por favor, contáctanos por %s o vía Discord."
 
 msgid "VERIFICATION_NEEDED"
-msgstr "Necesitamos verificar tu Correo electrónico."
+msgstr "Necesitamos verificar tu correo electrónico."
 
 msgid "WEB_HEADER_SUCCESS"
-msgstr "¡Exitoso!"
+msgstr "¡Éxito!"
 
 msgid "WEB_TAP_CHECK_VERIFICATION_STATUS"
-msgstr "Ve y presiona 'Verificar el estado de confirmación' en tu sistema Nintendo DSi."
+msgstr "Ve y presiona 'Verificar el estado de confirmación' en tu Sistema Nintendo DSi."
 
 msgid "WELCOME_BACK_FORMAT"
-msgstr "Bienvenido de vuelta!, %s!"
+msgstr "¡Bienvenido de vuelta, %s!"

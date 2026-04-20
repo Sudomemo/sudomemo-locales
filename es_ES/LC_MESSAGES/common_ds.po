@@ -4,22 +4,22 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "LINK_EXTERNAL_WARNING"
-msgstr "This link goes to an external site, so please be careful when visiting it!"
+msgstr "Este enlace lleva a un sitio web externo, ¡ten cuidado al visitarlo!"
 
 msgid "LINK_QR_SCAN_HINT"
-msgstr "Scan this QR code with another device to open the link."
+msgstr "Escanea este código QR con un dispositivo distinto para abrir el enlace."
 
 msgid "LINK_QR_TITLE"
-msgstr "Open Link"
+msgstr "Abrir enlace"
 
 msgid "NOT_LOGGED_IN_NOTICE"
-msgstr "¡No ha iniciado sesión en Sudomemo, toque %s para continuar!"
+msgstr "No has iniciado sesión en Sudomemo. ¡Toca %s para continuar!"
 
 msgid "NOT_LOGGED_IN_NOTICE_LINK_TEXT"
 msgstr "aquí"
 
 msgid "NOT_REGISTERED_NOTICE"
-msgstr "¿Divirtiéndose? ¡Únete a Sudomemo tocando %s!"
+msgstr "¿Divirtiéndote? ¡Únete a Sudomemo tocando %s!"
 
 msgid "NOT_REGISTERED_NOTICE_LINK_TEXT"
 msgstr "aquí"

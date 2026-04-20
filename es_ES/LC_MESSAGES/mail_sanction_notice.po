@@ -4,16 +4,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "MAIL_EFFECTS_HEADER"
-msgstr "Durante esta restricción no podrás:"
+msgstr "Durante esta restricción, no podrás:"
 
 msgid "MAIL_EFFECT_COMMENT_FLIPNOTES"
-msgstr "• Comentar Flipnotes"
+msgstr "• Comentar en Flipnotes"
 
 msgid "MAIL_EFFECT_OTHER_FUNCTIONALITY_AFFECTED"
-msgstr "• Puede afectar a otras funciones"
+msgstr "• Esto podría afectar otras funciones"
 
 msgid "MAIL_EFFECT_POST_FLIPNOTES"
-msgstr "• Publicar Flipnotes nuevas"
+msgstr "• Publicar Flipnotes nuevos"
 
 msgid "MAIL_EFFECT_REPLY_TO_COMMENTS"
 msgstr "• Responder a comentarios"
@@ -22,7 +22,7 @@ msgid "MAIL_EFFECT_SEND_CHAT_MESSAGES"
 msgstr "• Enviar mensajes de chat"
 
 msgid "MAIL_EFFECT_STAR_FLIPNOTES"
-msgstr "• Dar estrellas a las Flipnotes"
+msgstr "• Dar estrellas a los Flipnotes"
 
 msgid "MAIL_EFFECT_USE_FLIPNOTE_FEATURES"
 msgstr "• Usar funciones de Flipnote"
@@ -49,4 +49,4 @@ msgid "NOTICE"
 msgstr "Aviso"
 
 msgid "SANCTION_ACKNOWLEDGE_BUTTON"
-msgstr "Confirmar…"
+msgstr "Reconocer..."

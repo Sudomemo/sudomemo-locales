@@ -12,7 +12,7 @@ msgid "EMAIL_GREETING_NEUTRAL_HELLO"
 msgstr "Hola, %s."
 
 msgid "TEXT_CHANGE_SETTINGS_PROMPT"
-msgstr "Quieres limitar los correos que recibes de Sudomemo?"
+msgstr "¿Quieres limitar los correos que recibes de Sudomemo?"
 
 # the "here" text in the click here. e.g. what will be in the link to the unsubscribe page.
 msgid "TEXT_HERE"

@@ -7,104 +7,104 @@ msgid "FLIPNOTE"
 msgstr "Flipnote"
 
 msgid "FRAGMENT_ADDED"
-msgstr " added "
+msgstr " agregó "
 
 msgid "FRAGMENT_AND"
-msgstr " and "
+msgstr " y "
 
 msgid "FRAGMENT_A_STAR"
-msgstr "a Star"
+msgstr "una Estrella"
 
 msgid "FRAGMENT_COMMA"
 msgstr ", "
 
 msgid "FRAGMENT_COMMA_AND"
-msgstr ", and "
+msgstr ", y "
 
 msgid "FRAGMENT_COMMENT"
-msgstr "comment"
+msgstr "comentario"
 
 msgid "FRAGMENT_COMMENTED_ON"
-msgstr " commented on "
+msgstr " comentó en "
 
 msgid "FRAGMENT_CONTENT"
-msgstr "content"
+msgstr "contenido"
 
 msgid "FRAGMENT_CREATED_A"
-msgstr " created a "
+msgstr " creó un "
 
 msgid "FRAGMENT_FOLLOWED_YOU"
-msgstr " followed you"
+msgstr " ahora te está siguiendo"
 
 msgid "FRAGMENT_HAS_BEEN_RESTORED"
-msgstr " has been restored after review"
+msgstr " ha sido restaurado luego de una revisión"
 
 msgid "FRAGMENT_HAS_BEEN_REVIEWED"
-msgstr " has been reviewed"
+msgstr " ha sido revisado"
 
 msgid "FRAGMENT_INTERACTED_WITH_CONTENT"
-msgstr "interacted with your content"
+msgstr "interactuó con tu contenido"
 
 msgid "FRAGMENT_IS_YOUR_NEW_FLIPNOTE_FRIEND"
-msgstr " is your new Flipnote Friend!"
+msgstr " es tu nuevo Amigo Flipnote!"
 
 msgid "FRAGMENT_MESSAGE"
-msgstr "message"
+msgstr "mensaje"
 
 msgid "FRAGMENT_NEW_FLIPNOTE_FRIEND"
-msgstr "You have a new Flipnote Friend: "
+msgstr "Tienes un nuevo Amigo Flipnote: "
 
 msgid "FRAGMENT_OF"
-msgstr " of "
+msgstr " de "
 
 msgid "FRAGMENT_OTHER_PEOPLE_PLURAL"
-msgstr " other people"
+msgstr " otras personas"
 
 msgid "FRAGMENT_OTHER_PERSON_SINGULAR"
-msgstr " other person"
+msgstr " otra persona"
 
 # Followed creator upload notifications
 msgid "FRAGMENT_POSTED_A_NEW"
-msgstr " posted a new "
+msgstr " publicó un nuevo "
 
 msgid "FRAGMENT_REPLIED_TO_YOUR_COMMENT_ON"
-msgstr " replied to your comment on "
+msgstr " respondió a tu commentario en "
 
 msgid "FRAGMENT_REPORT"
-msgstr "report"
+msgstr "reportar"
 
 msgid "FRAGMENT_SENT_MESSAGE_DEFAULT"
-msgstr "sent you a "
+msgstr "te envió un "
 
 msgid "FRAGMENT_SENT_YOU_A"
-msgstr " sent you a "
+msgstr " te envió un "
 
 msgid "FRAGMENT_SPINOFF"
 msgstr "Spin-off"
 
 msgid "FRAGMENT_STARS"
-msgstr "Stars"
+msgstr "Estrellas"
 
 msgid "FRAGMENT_TO_YOUR"
-msgstr " to your "
+msgstr " a tu "
 
 msgid "FRAGMENT_VIEW_MESSAGE"
-msgstr "View message"
+msgstr "Ver mensaje"
 
 msgid "FRAGMENT_WAS_PINNED"
-msgstr " was pinned!"
+msgstr " ha sido fijado!"
 
 msgid "FRAGMENT_WAS_REMOVED_POLICY"
-msgstr " was removed for violating our Content Policy"
+msgstr " fue removido por violar nuestras Políticas de Contenido"
 
 msgid "FRAGMENT_YOUR"
-msgstr "Your "
+msgstr "Tu "
 
 msgid "FRAGMENT_YOUR_COMMENT_ON"
-msgstr "Your comment on "
+msgstr "Tu comentario en "
 
 msgid "FRAGMENT_YOUR_FLIPNOTE"
-msgstr "your Flipnote"
+msgstr "tu Flipnote"
 
 msgid "FRAGMENT_YOUR_FLIPNOTE_WAS_FEATURED"
-msgstr "Your Flipnote was featured! "
+msgstr "¡Tu Flipnote ha sido destacado! "
