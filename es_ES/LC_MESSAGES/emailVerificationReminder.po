@@ -4,22 +4,22 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "EMAIL_SUBJECT"
-msgstr "[Sudomemo] Debes verificar tu dirección de correo electrónico"
+msgstr "[Sudomemo] Acción Requerida: Debes verificar tu dirección de correo electrónico"
 
 msgid "EMAIL_VERIFICATION_REMOVE_ME"
-msgstr "Eliminame, tienes la dirección de correo electrónico incorrecta."
+msgstr "Elimíname, tienes la dirección de correo electrónico incorrecta."
 
 msgid "TEXT_HELLO_FORMAT"
 msgstr "¡Hola, %s!"
 
 msgid "TEXT_LOGIN_WITH_DSI_TO_VERIFY"
-msgstr "Puedes enviar otro correo de verificación iniciando sesión en Sudomemo con tu Nintendo DSi."
+msgstr "Puedes hacer que se te envíe otro correo de verificación iniciando sesión en Sudomemo con tu consola Nintendo DSi."
 
 msgid "TEXT_NEED_HELP_CONNECTION_INFO_LINK_FORMAT"
-msgstr "¿Necesitas ayuda para conectarse a Sudomemo? La guía de configuración se puede encontrar aquí: %s"
+msgstr "¿Necesitas ayuda para conectarte a Sudomemo? La guía de configuración se puede encontrar aquí: %s"
 
 msgid "TEXT_NEED_TO_VERIFY_EMAIL"
-msgstr "Este es un recordatorio de que deber verificar un dirección de correo electrónico en Sudomemo."
+msgstr "Este es un recordatorio de que debes verificar tu dirección de correo electrónico en Sudomemo."
 
 msgid "VERIFICATION_HEADER"
-msgstr "Sudomemo - Verificar correo electrónico"
+msgstr "Sudomemo - Verificar Correo Electrónico"

@@ -13,10 +13,10 @@ msgid "ADMIN_ACTIONS"
 msgstr "Acciones de administrador"
 
 msgid "BY_FORMAT"
-msgstr "by %s"
+msgstr "por %s"
 
 msgid "CREDITS"
-msgstr "Credits"
+msgstr "Créditos"
 
 msgid "ENTER_DESCRIPTION"
 msgstr "Ingresar descripción..."
@@ -55,7 +55,7 @@ msgid "HEADER_DOWNLOADS"
 msgstr "Descargas"
 
 msgid "HEADER_FLIPNOTE_CREDITS"
-msgstr "Flipnote Credits"
+msgstr "Créditos del Flipnote"
 
 msgid "HEADER_FLIPNOTE_ID"
 msgstr "ID de Flipnote"
@@ -73,7 +73,7 @@ msgid "HEADER_ORIGINAL_FLIPNOTE"
 msgstr "Mira la Flipnote original aquí"
 
 msgid "HEADER_PLAYS"
-msgstr "Plays"
+msgstr "Reproducciones"
 
 msgid "HEADER_POSTED"
 msgstr "Publicado"
@@ -115,7 +115,7 @@ msgid "LEAVE_BLANK_TO_RESET_DESC"
 msgstr "Para borrar la descripción, deja el formulario en blanco al momento de enviarlo."
 
 msgid "MEMOPLUS_SPECIAL_COLOR_NOTICE"
-msgstr "This Flipnote has a special color version!"
+msgstr "¡Este Flipnote tiene una versión a color!"
 
 msgid "NEXT"
 msgstr "Siguiente"
@@ -139,11 +139,11 @@ msgid "STAR_DETAILS_UPPERTITLE"
 msgstr "★ Estrellas ★"
 
 msgid "TIMESTAMP_FORMAT"
-msgstr "M d, Y H:i:s"
+msgstr "d de M, Y H:i:s"
 
 # This is shown to logged-in users on their own Flipnotes without titles
 msgid "UNTITLED_FLIPNOTE_BY_FORMAT"
-msgstr "Flipnote sin titulo creado por %s"
+msgstr "Flipnote sin título creado por %s"
 
 msgid "VIEW"
-msgstr "View"
+msgstr "Ver"

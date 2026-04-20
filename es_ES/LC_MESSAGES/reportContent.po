@@ -4,7 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CANCEL_BUTTON"
-msgstr "Cancel"
+msgstr "Cancelar"
 
 msgid "CATEGORY_DESC_drugs"
 msgstr "Abuso de sustancias o referencias a drogas"
@@ -13,13 +13,13 @@ msgid "CATEGORY_DESC_fraud"
 msgstr "Suplantación de identidad u otras actividades fraudulentas"
 
 msgid "CATEGORY_DESC_harassment"
-msgstr "Acoso, discriminación, o difamación"
+msgstr "Bullying, acoso, discriminación, o difamación"
 
 msgid "CATEGORY_DESC_misplaced_rp"
 msgstr "Juego de roles publicado en un canal que no es de juegos de rol"
 
 msgid "CATEGORY_DESC_rapid_flashing"
-msgstr "Parpadeando más de cuatro veces en un segundo"
+msgstr "Parpadeo de más de cuatro veces en un segundo"
 
 msgid "CATEGORY_DESC_sexual"
 msgstr "Temas o contenido sexual"
@@ -28,13 +28,13 @@ msgid "CATEGORY_DESC_spam"
 msgstr "Spam (sin contenido significativo)"
 
 msgid "CATEGORY_DESC_stolen"
-msgstr "Mal uso del Spin-Off función (robado)"
+msgstr "Mal uso de la función de Spin-Off (robado)"
 
 msgid "CATEGORY_DESC_swearing"
-msgstr "Uso de un lenguaje muy fuerte o uso frecuente de un lenguaje fuerte"
+msgstr "Uso de un lenguaje muy fuerte, o uso frecuente de un lenguaje fuerte"
 
 msgid "CATEGORY_DESC_violent"
-msgstr "Contenido gráfico, violencia excesiva, sangre, sangre o horror corporal"
+msgstr "Contenido gráfico, violencia excesiva, sangre u horror corporal"
 
 msgid "CATEGORY_NAME_drugs"
 msgstr "Drogas"
@@ -52,7 +52,7 @@ msgid "CATEGORY_NAME_rapid_flashing"
 msgstr "Parpadeo Rápido"
 
 msgid "CATEGORY_NAME_sexual"
-msgstr "Sexualidad"
+msgstr "Sexual"
 
 msgid "CATEGORY_NAME_spam"
 msgstr "Spam"
@@ -61,22 +61,22 @@ msgid "CATEGORY_NAME_stolen"
 msgstr "Robado"
 
 msgid "CATEGORY_NAME_swearing"
-msgstr "Palabrota"
+msgstr "Palabrotas"
 
 msgid "CATEGORY_NAME_violent"
 msgstr "Gráfico"
 
 msgid "CHAT_MESSAGE"
-msgstr "Mensaje del chat"
+msgstr "Mensaje de chat"
 
 msgid "COMMENT"
 msgstr "Comentario"
 
 msgid "CONFIRM_EMAIL_BEFORE_REPORTING"
-msgstr "Por favor confirma tu Correo electrónico antes de reportar contenido."
+msgstr "Por favor confirma tu correo electrónico antes de reportar contenido."
 
 msgid "CONTENT_ALREADY_REMOVED"
-msgstr "The content you're trying to report has already been removed."
+msgstr "El contenido que estás intentando reportar ya fue removido."
 
 msgid "CREATOR_FORMAT"
 msgstr "Creador(a): %s"
@@ -104,7 +104,7 @@ msgid "ITEM_TITLE_FORMAT"
 msgstr "%s's %s"
 
 msgid "LIMIT_ONE_REPORT"
-msgstr "Porfavor nota: Debes reportar este contenido solo una vez. Reportes adicionales no serán registrados, así que por favor coloca la información en un solo comentario."
+msgstr "Por favor, ten en cuenta: Solo debes reportar este contenido una sola vez. No se registrarán reportes adicionales, así que por favor escribe la información en un solo comentario."
 
 msgid "LOGIN_REQUIRED_TO_CONTINUE"
 msgstr "Debes haber iniciado sesión para continuar."
@@ -113,61 +113,61 @@ msgid "LOGIN_REQUIRED_TO_REPORT_CONTENT"
 msgstr "Debes haber iniciado sesión para enviar reportes de contenido."
 
 msgid "NOTICE_REPORT_OTHER_ISSUES"
-msgstr "Este formulario es para reportar contenido de usuarios exclusivamente. Para reportar el comportamiento de un Usuario, o por otros asuntos y peticiones, por favor manda un Correo electrónico a nuestro soporte técnico:"
+msgstr "Este formulario es SOLO para reportar contenido de un usuario. Si necesitas reportar un usuario por su comportamiento, o tienes otros problemas y peticiones, por favor envía un correo a nuestro equipo de soporte:"
 
 msgid "NO_BLANK_REPORTS"
 msgstr "No puedes enviar un reporte en blanco."
 
 msgid "REPORT_CATEGORY_LABEL"
-msgstr "Category"
+msgstr "Categoría"
 
 msgid "REPORT_CHAT_MESSAGE"
-msgstr "Report chat message"
+msgstr "Reportar mensaje de char"
 
 msgid "REPORT_COMMENT"
-msgstr "Report comment"
+msgstr "Reportar comentario"
 
 msgid "REPORT_DETAILS_LABEL"
-msgstr "Details"
+msgstr "Detalles"
 
 msgid "REPORT_DETAILS_PLACEHOLDER"
-msgstr "Describe the issue…"
+msgstr "Describe el problema…"
 
 msgid "REPORT_EXPLANATION_FAILED"
-msgstr "Un error ocurrió mientras este reporte estaba siendo enviado."
+msgstr "Ocurrió un error durante el envío de este reporte."
 
 msgid "REPORT_FAILED_USER_BANNED"
-msgstr "Reporte fallido: Estas restringido de Sudomemo."
+msgstr "Reporte fallido: Estás restringido de Sudomemo."
 
 msgid "REPORT_FLIPNOTE"
-msgstr "Report Flipnote"
+msgstr "Reportar Flipnote"
 
 msgid "REPORT_FLIPNOTE_HEADER"
-msgstr "Report this Flipnote"
+msgstr "Reportar este Flipnote"
 
 msgid "REPORT_INSTRUCTIONS"
-msgstr "Por favor escribe una corta descripción  de por qué crees que este contenido es una violación de los Términos de Uso de Sudomemo. Una vez envíes esto, presiona Atrás para regresar a la Flipnote"
+msgstr "Por favor escribe una descripción corta explicando por que consideras que este contenido viola los Términos de Uso de Sudomemo. Una vez lo envíes, toca 'Atrás' para volver al Flipnote."
 
 msgid "REPORT_NETWORK_ERROR"
-msgstr "Network error—please check your connection and try again."
+msgstr "Error de conexión. Por favor, revisa tu conexión a internet y vuelve a intentarlo."
 
 msgid "REPORT_SUCCESS_MESSAGE"
-msgstr "Thank you—your report has been submitted."
+msgstr "Gracias. Tu reporte ha sido enviado."
 
 msgid "REPORT_UNEXPECTED_ERROR"
-msgstr "An unexpected error occurred. Please try again later."
+msgstr "Ocurrió un error inesperado. Por favor, vuelve a intentarlo más tarde."
 
 msgid "RESTRICTED_CANCEL"
-msgstr "No debes reportar contenido si has sido restringido de interactuar con Sudomemo de cualquier manera."
+msgstr "No puedes reportar contenido si posees restricciones de cualquier tipo para interactuar con Sudomemo."
 
 msgid "SUBMIT_REPORT_BUTTON"
-msgstr "Submit Report"
+msgstr "Enviar Reporte"
 
 msgid "THANKS_FOR_REPORTING"
-msgstr "Hemos recibido tu reporte. Gracias por ayudar a Sudomemo a ser un mejor lugar!"
+msgstr "Hemos recibido tu reporte. ¡Gracias por ayudar a Sudomemo a ser un mejor lugar!"
 
 msgid "USER_HAS_ALREADY_REPORTED_FORMAT"
 msgstr "Ya has enviado un reporte para esto %s."
 
 msgid "YOU_ARE_REPORTING_THIS_FORMAT"
-msgstr "Estas reportando esto %s:"
+msgstr "Estás reportando este %s:"

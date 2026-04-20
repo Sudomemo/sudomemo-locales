@@ -24,11 +24,11 @@ msgid "CONTENT_TYPE_flipnote"
 msgstr "Flipnote"
 
 msgid "CONTENT_TYPE_profile_bio"
-msgstr "Texto del perfil"
+msgstr "Texto de perfil"
 
 # ## We plan on adding user-created themes.
 msgid "CONTENT_TYPE_room_theme"
-msgstr "Temas de la Sala del Creador"
+msgstr "Fondo de la Sala del Creador"
 
 # Content Report Accepted - sent to user who has correctly reported content
 msgid "NOTICE"
@@ -36,12 +36,12 @@ msgstr "Aviso"
 
 # # Intro
 msgid "REPORT_ACCEPTED"
-msgstr "Revisamos el reporte de contenido que realizaste y decidimos que es válido."
+msgstr "Revisamos un reporte de contenido que hiciste, y verificamos que es válido."
 
 # # continued message...
 msgid "REPORT_ACCEPTED_CONTINUED"
-msgstr "El contenido ha sido removido."
+msgstr "Por lo tanto, hemos removido el contenido."
 
 # this message is followed by a link
 msgid "REPORT_ACCEPTED_INFO"
-msgstr "Reportes como el tuyo ayudan a Sudomemo a ser un lugar seguro y acogedor. Si te gustaria aprender mas sobre nuestras Politicas de Contenido, puedes hacerlo aqui:"
+msgstr "Los reportes como el tuyo ayudan a hacer a Sudomemo un lugar seguro y acogedor para todos. Si te gustaría saber más sobre nuestras Políticas de Contenido, puedes hacerlo aquí:"

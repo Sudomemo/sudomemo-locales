@@ -28,10 +28,10 @@ msgid "LINK_SPOTIFY"
 msgstr "Un link de Spotify está disponible aquí:"
 
 msgid "LINK_YOUTUBE"
-msgstr "Un link de Youtube está disponible aquí:"
+msgstr "Un link de YouTube está disponible aquí:"
 
 msgid "LINK_YOUTUBE_SPOTIFY"
-msgstr "Los links a Youtube y Spotify están disponibles:"
+msgstr "Hay links a YouTube y Spotify disponibles:"
 
 # Year song was published
 msgid "RELEASE_YEAR"

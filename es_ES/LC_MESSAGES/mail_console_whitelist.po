@@ -4,31 +4,31 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CONSOLE_MAIL_ADDED"
-msgstr "A new console has been registered to your account."
+msgstr "Se ha registrado una nueva consola a tu cuenta."
 
 msgid "CONSOLE_MAIL_LABEL"
-msgstr "Console:"
+msgstr "Consola:"
 
 msgid "CONSOLE_MAIL_MANAGE_LINK"
-msgstr "Manage your consoles"
+msgstr "Administrar tus consolas"
 
 msgid "CONSOLE_MAIL_REINSTATED"
-msgstr "A previously suspended console on your account has been reinstated by a staff member."
+msgstr "Una consola previamente suspendida en tu cuenta ha sido rehabilitada por un miembro del equipo de Sudomemo."
 
 msgid "CONSOLE_MAIL_REMOVED"
-msgstr "A console has been removed from your account."
+msgstr "Una consola ha sido eliminada de tu cuenta."
 
 msgid "CONSOLE_MAIL_SUSPENDED"
-msgstr "A console associated with your account has been suspended by a staff member."
+msgstr "Una consola asociada con tu cuenta ha sido suspendida por un miembro del equipo de Sudomemo."
 
 msgid "CONSOLE_MAIL_SUSPENDED_HELP"
-msgstr "If you believe this is an error, please contact support."
+msgstr "Si consideras que esto fue un error, por favor contacta con soporte."
 
 # In-app mail notification for console whitelist events
 # Locale domain: mail_console_whitelist
 # Loaded automatically by the mail reader via template name "console-whitelist"
 msgid "NOTICE"
-msgstr "Notice"
+msgstr "Aviso"
 
 msgid "TITLE_WARNING"
-msgstr "Warning"
+msgstr "Advertencia"

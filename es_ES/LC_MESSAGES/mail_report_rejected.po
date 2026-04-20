@@ -28,7 +28,7 @@ msgstr "Texto del perfil"
 
 # ## We plan on adding user-created themes.
 msgid "CONTENT_TYPE_room_theme"
-msgstr "Temas de la Sala del Creador"
+msgstr "Fondo de la Sala del Creador"
 
 # Content Report Rejected - sent to user who has reported content after report deemed invalid
 msgid "NOTICE"
@@ -36,11 +36,11 @@ msgstr "Aviso"
 
 # # Intro
 msgid "REPORT_REJECTED"
-msgstr "Hemos revisado un reporte de contenido que has enviado."
+msgstr "Revisamos un reporte de contenido que hiciste."
 
 msgid "REPORT_REJECTED_CONTINUED"
-msgstr "Nuestra investigación resultó en que este contenido no viola nuestras Politicas de Contenido, por lo tanto, no ha sido eliminado."
+msgstr "El resultado de nuestra investigación fue que este contenido no viola nuestras Políticas de Contenido y, por lo tanto, no lo hemos eliminado."
 
 # this message is followed by a link
 msgid "REPORT_REJECTED_INFO"
-msgstr "Reportes como el tuyo ayudan a Sudomemo a ser un lugar seguro y acogedor. Recomendamos revisar nuestras Politicas de Contenido para entender mejor que tipo de contenido es acpetable en Sudomemo."
+msgstr "Los reportes como el tuyo ayudan a hacer a Sudomemo un lugar seguro y acogedor para todos. Recomendamos que revises nuestras Políticas de Contenido para poder entender mejor que tipo de contenido es aceptable en Sudomemo:"
