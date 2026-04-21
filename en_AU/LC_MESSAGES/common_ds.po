@@ -3,6 +3,9 @@ msgstr ""
 "Language: en_AU\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "GET_PLUS_QR"
+msgstr "Get Sudomemo Plus"
+
 msgid "LINK_EXTERNAL_WARNING"
 msgstr "This link goes to an external site, so please be careful when visiting it!"
 

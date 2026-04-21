@@ -33,6 +33,9 @@ msgstr "Olá, %s!"
 msgid "INCREASED_FOLLOW_LIMIT"
 msgstr "Aumentar limite de seguidores - até %s Criadores"
 
+msgid "INCREASED_PLAYLIST_LIMIT"
+msgstr "Larger Playlist Limits"
+
 msgid "LEGACY_ACTIVATE_CITIZENSHIP_CHANGE"
 msgstr "A Cidanania Sudomemo foi terminada, e substituída por Sudomemo Plus!"
 
@@ -55,6 +58,9 @@ msgstr "O Sudomemo Plus pode ser adquirido ao trocar bilhetes comprados na nossa
 msgid "MANAGE_PLUS_REMAINING"
 msgstr "Actualmente, tens cerca de %s dia(s) restantes do Sudomemo Plus."
 
+msgid "MEMO_PLUS"
+msgstr "Memo+"
+
 msgid "NO_THEATRE_ADS"
 msgstr "Nenhums anúncios no Teatro Sudomemo"
 
@@ -73,11 +79,23 @@ msgstr "Custom Frames for YouTube Shorts"
 msgid "PLUS_CUSTOM_FRAMES_DESC"
 msgstr "Add unique overlays when uploading Shorts."
 
+msgid "PLUS_DISCORD_WEBHOOKS"
+msgstr "Discord Webhooks"
+
+msgid "PLUS_DISCORD_WEBHOOKS_DESC"
+msgstr "Post Flipnotes automatically to your Discord channels."
+
 msgid "PLUS_DOWNLOAD_COMMENTS_DESC"
 msgstr "Save doodle comments to your DSi/3DS as Flipnotes."
 
 msgid "PLUS_FOLLOW_LIMIT_DESC"
 msgstr "Follow more creators than the default cap."
+
+msgid "PLUS_MEMO_PLUS_DESC"
+msgstr "Add a custom color palette to your Flipnote on Theatre!"
+
+msgid "PLUS_PLAYLIST_LIMIT_DESC"
+msgstr "Create more playlists with more Flipnotes per playlist."
 
 msgid "PLUS_RUNNING_OUT_MSG_DAYS_REMAINING_FORMAT"
 msgstr "Esta mensagem é para te relembrar que tens cerca de %s dias restantes para o Sudomemo Plus."
