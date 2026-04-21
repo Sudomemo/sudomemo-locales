@@ -123,3 +123,9 @@ msgstr "Nazwa uzytkownika"
 
 msgid "YOU_HAVE"
 msgstr "Twoje Kolorowe Gwiazdki:"
+
+msgid "THEME_SHOP_STARS_AWAY_FORMAT"
+msgstr "You're %d %s Stars away from this theme!"
+
+msgid "THEME_SHOP_GET_MORE_STARS"
+msgstr "Get more Stars"
