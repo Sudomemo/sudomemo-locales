@@ -73,6 +73,9 @@ msgstr "This epic theme will change n stuff as you post Flipnotes!!! :D"
 msgid "THEME_SHOP_GET_MORE_GREEN_STARS_FORMAT"
 msgstr "To buy themes, you'll need %s Green Stars. You can get more with a Star Ticket from our shop!"
 
+msgid "THEME_SHOP_GET_MORE_STARS"
+msgstr "Get more Stars"
+
 msgid "THEME_SHOP_LEARN_MORE_HEADER"
 msgstr "lern more about teh theeeem shope"
 
@@ -109,6 +112,9 @@ msgstr "Selected Payment"
 msgid "THEME_SHOP_SELECT_PAYMENT"
 msgstr "Select Payment"
 
+msgid "THEME_SHOP_STARS_AWAY_FORMAT"
+msgstr "You're %d %s Stars away from this theme!"
+
 msgid "THEME_SHOP_STARS_LEFT_AFTER_PAYMENT"
 msgstr "Color stars left after paymetn:"
 
@@ -123,9 +129,3 @@ msgstr "Username"
 
 msgid "YOU_HAVE"
 msgstr "ur color stars:"
-
-msgid "THEME_SHOP_STARS_AWAY_FORMAT"
-msgstr "You're %d %s Stars away from this theme!"
-
-msgid "THEME_SHOP_GET_MORE_STARS"
-msgstr "Get more Stars"

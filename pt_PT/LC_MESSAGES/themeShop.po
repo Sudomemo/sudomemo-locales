@@ -73,6 +73,9 @@ msgstr "Este tema especial irá mudar à medida que postas novos Flipnotes!"
 msgid "THEME_SHOP_GET_MORE_GREEN_STARS_FORMAT"
 msgstr "To buy themes, you'll need %s Green Stars. You can get more with a Star Ticket from our shop!"
 
+msgid "THEME_SHOP_GET_MORE_STARS"
+msgstr "Get more Stars"
+
 msgid "THEME_SHOP_LEARN_MORE_HEADER"
 msgstr "Aprende mais sobre a Loja de Temas"
 
@@ -109,6 +112,9 @@ msgstr "Pagamento Escolhido"
 msgid "THEME_SHOP_SELECT_PAYMENT"
 msgstr "Escolher Pagamento"
 
+msgid "THEME_SHOP_STARS_AWAY_FORMAT"
+msgstr "You're %d %s Stars away from this theme!"
+
 msgid "THEME_SHOP_STARS_LEFT_AFTER_PAYMENT"
 msgstr "Estrelas Coloridas após pagamento:"
 
@@ -123,9 +129,3 @@ msgstr "Nome de Utilizador"
 
 msgid "YOU_HAVE"
 msgstr "As Tuas Estrelas Coloridas:"
-
-msgid "THEME_SHOP_STARS_AWAY_FORMAT"
-msgstr "You're %d %s Stars away from this theme!"
-
-msgid "THEME_SHOP_GET_MORE_STARS"
-msgstr "Get more Stars"

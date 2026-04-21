@@ -73,6 +73,9 @@ msgstr "Detta speciella temat kommer ändras under tiden du lägger upp nya flip
 msgid "THEME_SHOP_GET_MORE_GREEN_STARS_FORMAT"
 msgstr "To buy themes, you'll need %s Green Stars. You can get more with a Star Ticket from our shop!"
 
+msgid "THEME_SHOP_GET_MORE_STARS"
+msgstr "Get more Stars"
+
 msgid "THEME_SHOP_LEARN_MORE_HEADER"
 msgstr "Läs mer om Temabutiken"
 
@@ -109,6 +112,9 @@ msgstr "Vald Betalning"
 msgid "THEME_SHOP_SELECT_PAYMENT"
 msgstr "Välj Betalning"
 
+msgid "THEME_SHOP_STARS_AWAY_FORMAT"
+msgstr "You're %d %s Stars away from this theme!"
+
 msgid "THEME_SHOP_STARS_LEFT_AFTER_PAYMENT"
 msgstr "Color Stars kvar efter betalning:"
 
@@ -123,9 +129,3 @@ msgstr "Användarnamn"
 
 msgid "YOU_HAVE"
 msgstr "Dina Color Stars:"
-
-msgid "THEME_SHOP_STARS_AWAY_FORMAT"
-msgstr "You're %d %s Stars away from this theme!"
-
-msgid "THEME_SHOP_GET_MORE_STARS"
-msgstr "Get more Stars"
