@@ -73,6 +73,9 @@ msgstr "¡Este fondo especial cambiaron por tiempo cuanda subes mas Flipnotes!"
 msgid "THEME_SHOP_GET_MORE_GREEN_STARS_FORMAT"
 msgstr "To buy themes, you'll need %s Green Stars. You can get more with a Star Ticket from our shop!"
 
+msgid "THEME_SHOP_GET_MORE_STARS"
+msgstr "Get more Stars"
+
 msgid "THEME_SHOP_LEARN_MORE_HEADER"
 msgstr "Aprende más acerca de la Tienda de Fondos"
 
@@ -109,6 +112,9 @@ msgstr "Pago seleccionado"
 msgid "THEME_SHOP_SELECT_PAYMENT"
 msgstr "Selecciona Método de Pago"
 
+msgid "THEME_SHOP_STARS_AWAY_FORMAT"
+msgstr "You're %d %s Stars away from this theme!"
+
 msgid "THEME_SHOP_STARS_LEFT_AFTER_PAYMENT"
 msgstr "Estrellas de Color restantes después del pago:"
 
@@ -123,9 +129,3 @@ msgstr "Nombre de usuario"
 
 msgid "YOU_HAVE"
 msgstr "Tus Estrellas de Colores:"
-
-msgid "THEME_SHOP_STARS_AWAY_FORMAT"
-msgstr "You're %d %s Stars away from this theme!"
-
-msgid "THEME_SHOP_GET_MORE_STARS"
-msgstr "Get more Stars"
