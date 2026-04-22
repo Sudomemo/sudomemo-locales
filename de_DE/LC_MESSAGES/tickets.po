@@ -560,6 +560,9 @@ msgstr "Du hast nichts gewonnen. Schade!"
 msgid "TICKET_REDEEM_WIN_FORMAT"
 msgstr "%s wurde eingelöst!"
 
+msgid "TITLE"
+msgstr "Title"
+
 msgid "TROPHY"
 msgstr "Trophy"
 

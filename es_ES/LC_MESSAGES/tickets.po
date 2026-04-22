@@ -560,6 +560,9 @@ msgstr "No has conseguido nada. ¡Lo siento!"
 msgid "TICKET_REDEEM_WIN_FORMAT"
 msgstr "¡Has canjeado el %s!"
 
+msgid "TITLE"
+msgstr "Title"
+
 msgid "TROPHY"
 msgstr "Trophy"
 

@@ -21,6 +21,9 @@ msgstr "Volgende"
 msgid "NO_THEMES_OWNED"
 msgstr "You don't own any themes yet."
 
+msgid "NO_TITLES_OWNED"
+msgstr "You don't own any titles yet."
+
 msgid "PETS"
 msgstr "Huisdieren"
 
@@ -53,6 +56,23 @@ msgstr "Switch"
 
 msgid "TICKETS"
 msgstr "Tickets"
+
+# New localized strings for inventory titles tab
+# Text domain: inventory
+msgid "TITLES"
+msgstr "Titles"
+
+msgid "TITLES_INVENTORY_HEADER"
+msgstr "A collection of titles that reflect your achievements and style."
+
+msgid "TITLE_EQUIP"
+msgstr "Equip"
+
+msgid "TITLE_EQUIPPED"
+msgstr "Equipped"
+
+msgid "TITLE_UNEQUIP"
+msgstr "Unequip"
 
 msgid "USE"
 msgstr "Gebruik"
