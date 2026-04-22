@@ -560,6 +560,9 @@ msgstr "残念ですが、何も獲得できませんでした。"
 msgid "TICKET_REDEEM_WIN_FORMAT"
 msgstr "%sを引き換えました!"
 
+msgid "TITLE"
+msgstr "Title"
+
 msgid "TROPHY"
 msgstr "Trophy"
 

@@ -560,6 +560,9 @@ msgstr "Tyvärr vann du inget. Osis!"
 msgid "TICKET_REDEEM_WIN_FORMAT"
 msgstr "Du drog en %s!"
 
+msgid "TITLE"
+msgstr "Title"
+
 msgid "TROPHY"
 msgstr "Trophy"
 

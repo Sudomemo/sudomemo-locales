@@ -560,6 +560,9 @@ msgstr "Vous n'avez rien gagné. Désolé !"
 msgid "TICKET_REDEEM_WIN_FORMAT"
 msgstr "Vous avez utilisé le %s !"
 
+msgid "TITLE"
+msgstr "Title"
+
 msgid "TROPHY"
 msgstr "Trophy"
 
