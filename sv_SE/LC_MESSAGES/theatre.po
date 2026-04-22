@@ -1475,6 +1475,15 @@ msgstr "Invalid webhook ID."
 msgid "INVALID_WEBHOOK_URL_FORMAT"
 msgstr "Invalid Discord webhook URL format."
 
+msgid "INVENTORY_ITEMS_WEB_HEADER"
+msgstr "A collection of fun and unique items you've picked up along the way."
+
+msgid "INVENTORY_TICKETS_SHOP_NOTICE"
+msgstr "Discover redeemable tickets for Sudomemo Plus and Color Stars in the Sudomemo Shop!"
+
+msgid "INVENTORY_TICKETS_WEB_HEADER"
+msgstr "Redeem tickets for special rewards like Themes, Sudomemo Plus, Color Stars, and more."
+
 msgid "IN_REPLY_TO"
 msgstr "Som svar till"
 
