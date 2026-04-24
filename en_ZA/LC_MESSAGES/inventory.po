@@ -65,6 +65,12 @@ msgstr "Titles"
 msgid "TITLES_INVENTORY_HEADER"
 msgstr "A collection of titles that reflect your achievements and style."
 
+msgid "TITLE_CANT_EQUIP"
+msgstr "Can't equip right now"
+
+msgid "TITLE_CANT_EQUIP_TOOLTIP"
+msgstr "You don't currently meet the requirements to equip this title."
+
 msgid "TITLE_EQUIP"
 msgstr "Equip"
 
