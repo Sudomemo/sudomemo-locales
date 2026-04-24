@@ -98,6 +98,9 @@ msgstr "The Flipnote Organizer requires Javascript to run."
 msgid "JAVASCRIPT_PLEAE_ENABLE"
 msgstr "Please enable Javascript within your browsers settings."
 
+msgid "JOYCON_MIX_WARNING"
+msgstr "You cannot mix a Joycon and a Joycon 2 in a pair. Please remove one from the pair."
+
 msgid "LINKS"
 msgstr "Links"
 
@@ -119,17 +122,38 @@ msgstr "Next"
 msgid "NO"
 msgstr "No"
 
+msgid "NOT_A_JOYCON_WARNING"
+msgstr "That isn't a Joycon!"
+
 msgid "NO_THANKS"
 msgstr "No thanks"
 
 msgid "OK"
 msgstr "OK"
 
+msgid "ORGANIZER_THEME_BLUE"
+msgstr "Cyan"
+
+msgid "ORGANIZER_THEME_DARK_MODE"
+msgstr "Dark Navy"
+
+msgid "ORGANIZER_THEME_DEFAULT"
+msgstr "Orange"
+
+msgid "ORGANIZER_THEME_GREEN"
+msgstr "Green"
+
+msgid "ORGANIZER_THEME_PURPLE"
+msgstr "Purple"
+
 msgid "PREV"
 msgstr "Prev"
 
 msgid "PREVIOUS"
 msgstr "Previous"
+
+msgid "PRO_CONTROLLER_CANT_BE_A_PAIR_WARNING"
+msgstr "Pro Controllers cannot be in a pair with a Joycon."
 
 msgid "SEARCH"
 msgstr "Search"
@@ -163,6 +187,12 @@ msgstr "Indexing Flipnotes, this may take some time depending on how many Flipno
 
 msgid "SELECT_HERE"
 msgstr "Select here!"
+
+msgid "SETTINGS_AUTO_RECONNECT_WIIMOTE"
+msgstr "Auto-Reconnect Wiimote"
+
+msgid "SETTINGS_AUTO_RECONNECT_WIIMOTE_DESCRIPTION"
+msgstr "After you've connected a Wiimote, your Wiimote will automatically reconnect under most circumstances."
 
 msgid "SETTINGS_CLASSIC_SOUNDS"
 msgstr "Classic Button Sounds"
@@ -236,6 +266,18 @@ msgstr "Gallery View Thumbnail Scale"
 msgid "SETTINGS_GALLERY_THUMBNAIL_SCALE_DESCRIPTION"
 msgstr "Adjust the scale of the Gallery View thumbnails."
 
+msgid "SETTINGS_GAMEPADS"
+msgstr "Controllers and Gamepads"
+
+msgid "SETTINGS_GAMEPADS_DESCRIPTION"
+msgstr "Utilize controllers or gamepads to interact with the Flipnote Organizer."
+
+msgid "SETTINGS_JOYCON_PAIR"
+msgstr "Joycon Pairings"
+
+msgid "SETTINGS_JOYCON_PAIR_DESCRIPTION"
+msgstr "Drag and drop connected Joycons to form a pair. If you put a singular Joycon in a pairing, you will have to flip the Joycon on its side."
+
 msgid "SETTINGS_ORGANIZER_FIX_NAVBAR"
 msgstr "Fix Navbar to the Top"
 
@@ -299,6 +341,12 @@ msgstr "Shuffle Button"
 msgid "SETTINGS_SHUFFLE_BUTTON_DESCRIPTION"
 msgstr "If disabled, the shuffle button will be hidden and shuffle mode will not be available."
 
+msgid "SETTINGS_THEME"
+msgstr "Theme"
+
+msgid "SETTINGS_THEME_DESCRIPTION"
+msgstr "Set your preferred theme for the organizer."
+
 msgid "SETTINGS_TITLE_ACCESSIBILITY"
 msgstr "Accessibility"
 
@@ -317,6 +365,12 @@ msgstr "Experimental"
 
 msgid "SETTINGS_TITLE_EXPERIMENTAL_DESCRIPTION"
 msgstr "These features are in an unstable and experimental phase. They may be removed or break in the future."
+
+msgid "SETTINGS_TITLE_GENERAL"
+msgstr "General"
+
+msgid "SETTINGS_TITLE_GENERAL_DESCRIPTION"
+msgstr "General settings related to volume, sorting, how Flipnotes are listed, etc."
 
 msgid "SETTINGS_TITLE_QUICK_SETTINGS"
 msgstr "Quick Settings"
@@ -345,6 +399,12 @@ msgstr "Play Whistle Sound when Sorting"
 msgid "SETTINGS_WHISTLE_SOUND_DESCRIPTION"
 msgstr "When enabled, a whistle sound will play when you begin organizing Flipnotes. If you are sensitive to high-pitched noises, it is generally recommended to turn this off."
 
+msgid "SETTINGS_WIIMOTE_CLASSIC_CONTROLLER_STICK_DEADZONE"
+msgstr "Classic Controller Control Stick Deadzone"
+
+msgid "SETTINGS_WIIMOTE_CLASSIC_CONTROLLER_STICK_DEADZONE_DESCRIPTION"
+msgstr "Adjust the deadzone of the Classic Controller control sticks. Lower values may result in stick drift, while higher values may require you to tilt the sticks much farther."
+
 msgid "SETTINGS_WIIMOTE_IN_QUICK_SETTINGS"
 msgstr "Select Wiimote Button in Quick Settings"
 
@@ -359,6 +419,12 @@ msgstr "Adjust the sensitivity of the Wiimote IR camera. Higher settings may cau
 
 msgid "SETTINGS_WIIMOTE_MEMORY_BACKUP"
 msgstr "Backup Wiimote"
+
+msgid "SETTINGS_WIIMOTE_NUNCHUK_STICK_DEADZONE"
+msgstr "Nunchuk Control Stick Deadzone"
+
+msgid "SETTINGS_WIIMOTE_NUNCHUK_STICK_DEADZONE_DESCRIPTION"
+msgstr "Adjust the deadzone of the Nunchuk control stick. Lower values may result in stick drift, while higher values may require you to tilt the stick much farther."
 
 msgid "SETTINGS_WIIMOTE_RUMBLE_FEEDBACK"
 msgstr "Wiimote Rumble"
@@ -413,11 +479,20 @@ msgstr "Select a Flipnote with the D-PAD, and drag and drop with the A or X (Pla
 msgid "SORT_INSTRUCTIONS_WIIMOTE"
 msgstr "Select a Flipnote by hovering your pointer over it, and drag by holding A + B. Leaving this folder without hitting \"Confirm\" will discard your changes."
 
+msgid "SORT_JOY2L_CONTROLLER"
+msgstr "Left Joycon 2"
+
+msgid "SORT_JOY2R_CONTROLLER"
+msgstr "Right Joycon 2"
+
 msgid "SORT_JOYL_CONTROLLER"
 msgstr "Left Joycon"
 
 msgid "SORT_JOYR_CONTROLLER"
 msgstr "Right Joycon"
+
+msgid "SORT_JOYS2_CONTROLLER"
+msgstr "Joycons 2"
 
 msgid "SORT_JOYS_CONTROLLER"
 msgstr "Joycons"
