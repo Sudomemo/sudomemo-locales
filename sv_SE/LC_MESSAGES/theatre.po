@@ -2656,6 +2656,18 @@ msgstr "Topp"
 msgid "TO_ADD_A_COMMENT"
 msgstr "för att lägga till en kommentar"
 
+msgid "TRANSLATE_COMMENT"
+msgstr "Translate"
+
+msgid "TRANSLATION_ATTRIBUTION_GOOGLE"
+msgstr "Translated by Google"
+
+msgid "TRANSLATION_NOT_READY"
+msgstr "Translation not yet ready for this comment."
+
+msgid "TRANSLATION_UNAVAILABLE"
+msgstr "Translation unavailable."
+
 msgid "TROPHY_CASE"
 msgstr "Troféfall"
 
@@ -3384,16 +3396,3 @@ msgstr "Exakt utseende kan förändras beroende på enheten videon visas på"
 
 msgid "YT_UPLOAD_PLUS_MEMO_PLUS"
 msgstr "Memo+"
-
-msgid "TRANSLATE_COMMENT"
-msgstr "Translate"
-
-msgid "TRANSLATION_ATTRIBUTION_GOOGLE"
-msgstr "Translated by Google"
-
-msgid "TRANSLATION_UNAVAILABLE"
-msgstr "Translation unavailable."
-
-msgid "TRANSLATION_NOT_READY"
-msgstr "Translation not yet ready for this comment."
-
