@@ -3384,3 +3384,16 @@ msgstr "L'aspetto e il layout possono variare a seconda del dispositivo utilizza
 
 msgid "YT_UPLOAD_PLUS_MEMO_PLUS"
 msgstr "Memo+"
+
+msgid "TRANSLATE_COMMENT"
+msgstr "Translate"
+
+msgid "TRANSLATION_ATTRIBUTION_GOOGLE"
+msgstr "Translated by Google"
+
+msgid "TRANSLATION_UNAVAILABLE"
+msgstr "Translation unavailable."
+
+msgid "TRANSLATION_NOT_READY"
+msgstr "Translation not yet ready for this comment."
+
