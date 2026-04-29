@@ -27,7 +27,10 @@ msgstr ", y "
 msgid "FRAGMENT_COMMENT"
 msgstr "comentario"
 
-msgid "FRAGMENT_COMMENTED_ON"
+msgid "FRAGMENT_COMMENTED_ON_PLURAL"
+msgstr " comentaron en "
+
+msgid "FRAGMENT_COMMENTED_ON_SINGULAR"
 msgstr " comentó en "
 
 msgid "FRAGMENT_CONTENT"
