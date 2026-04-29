@@ -1514,6 +1514,12 @@ msgstr "Leer meer"
 msgid "LINK_REQUIRED_BEFORE_UPLOAD"
 msgstr "Je moet je Youtube kanaal koppelen voordat jij je Flipnote kunt uploaden."
 
+msgid "LIVE_SEARCH_CHANNELS_EMPTY"
+msgstr "No channels found."
+
+msgid "LIVE_SEARCH_CHANNELS_ERROR"
+msgstr "Search error."
+
 msgid "LOADING"
 msgstr "Loading..."
 
@@ -2366,6 +2372,27 @@ msgstr "You have exceeded the rate limit for sending messages."
 
 msgid "RATE_LIMITED_SWITCHER"
 msgstr "Rate limited. Please wait before performing more actions."
+
+msgid "REASSIGN_CHANNEL_ERROR"
+msgstr "Failed to update channel."
+
+msgid "REASSIGN_CHANNEL_MODAL_TITLE"
+msgstr "Reassign Channel"
+
+msgid "REASSIGN_CHANNEL_NO_SELECTION"
+msgstr "Please select a channel first."
+
+msgid "REASSIGN_CHANNEL_SEARCH_HELP"
+msgstr "Start typing to find a channel"
+
+msgid "REASSIGN_CHANNEL_SEARCH_LABEL"
+msgstr "Search Channels"
+
+msgid "REASSIGN_CHANNEL_SEARCH_PLACEHOLDER"
+msgstr "Channel name..."
+
+msgid "REASSIGN_CHANNEL_SUCCESS"
+msgstr "Channel updated!"
 
 msgid "RECENT"
 msgstr "Recent"
