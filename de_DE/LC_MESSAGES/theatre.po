@@ -1726,6 +1726,9 @@ msgstr "Discord"
 msgid "NAVBAR_ITEM_EMAIL"
 msgstr "Email"
 
+msgid "NAVBAR_ITEM_END_ADMIN_SESSION"
+msgstr "End admin session"
+
 msgid "NAVBAR_ITEM_FACEBOOK"
 msgstr "Facebook"
 
@@ -2844,6 +2847,9 @@ msgstr "Textbox-Eintrag kommentieren"
 # # Comments section
 msgid "VIEWPAGE_COMMENT_WRITE_HERE"
 msgstr "Schreibe hier"
+
+msgid "VIEWPAGE_MODERATOR_COMMENT_PLACEHOLDER"
+msgstr "This comment will be posted as Moderator."
 
 msgid "VIEWPAGE_MODERATOR_COMMENT_WARNING"
 msgstr "Nutze diese Funktion nicht zum Versenden persönlicher Kommentare."

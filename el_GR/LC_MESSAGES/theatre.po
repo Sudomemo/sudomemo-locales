@@ -1726,6 +1726,9 @@ msgstr "Discord"
 msgid "NAVBAR_ITEM_EMAIL"
 msgstr "Email"
 
+msgid "NAVBAR_ITEM_END_ADMIN_SESSION"
+msgstr "End admin session"
+
 msgid "NAVBAR_ITEM_FACEBOOK"
 msgstr "Facebook"
 
@@ -2844,6 +2847,9 @@ msgstr "Κουτι εισαγωγης σχολιων"
 # # Comments section
 msgid "VIEWPAGE_COMMENT_WRITE_HERE"
 msgstr "γραψτε εδω"
+
+msgid "VIEWPAGE_MODERATOR_COMMENT_PLACEHOLDER"
+msgstr "This comment will be posted as Moderator."
 
 msgid "VIEWPAGE_MODERATOR_COMMENT_WARNING"
 msgstr "Μην το χρησιμοποιειτε για προσωπικα σχολια."
