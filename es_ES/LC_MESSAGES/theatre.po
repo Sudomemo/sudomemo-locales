@@ -84,6 +84,9 @@ msgstr "Agregar a Lista de Reproducción"
 msgid "ADD_WEBHOOK"
 msgstr "Add Webhook"
 
+msgid "ALL"
+msgstr "All"
+
 msgid "ALREADY_ON_ACCOUNT"
 msgstr "Already on this account"
 
@@ -122,6 +125,9 @@ msgstr "Este es un archivo de un perfil de Flipnote Hatena."
 # Very common terms and one-word translations
 msgid "ARTIST"
 msgstr "Artista"
+
+msgid "ARTIST_HAS_N_TRACKS"
+msgstr "%d distinct tracks"
 
 msgid "AUTOPLAY_BLOCKED_TOOLTIP_HEADER"
 msgstr "Autoplay Blocked"
@@ -2481,6 +2487,15 @@ msgstr "folder of choice"
 msgid "SEARCH"
 msgstr "Buscar"
 
+msgid "SEARCH_CATEGORIES"
+msgstr "Categories"
+
+msgid "SEARCH_NO_RESULTS_FOR"
+msgstr "We couldn't find anything for \"%s\"."
+
+msgid "SEARCH_NO_RESULTS_TITLE"
+msgstr "No results"
+
 msgid "SEARCH_PAGE_FORM_PLACEHOLDER"
 msgstr "Nombre de usuario, FSID, canción, artista, o canal"
 
@@ -2745,6 +2760,9 @@ msgstr "Estado de carga"
 # Upload to YouTube page
 msgid "UPLOAD_YOUTUBE_INTEGRATION_BANNED"
 msgstr "Tu cuenta ha sido restringida de usar nuestros servicios de integración con YouTube."
+
+msgid "USED_IN_N_FLIPNOTES"
+msgstr "Used in %d Flipnotes"
 
 msgid "USERNAME"
 msgstr "Username"

@@ -6,10 +6,10 @@ msgstr ""
 msgid "FLIPNOTE"
 msgstr "Flipnote"
 
-msgid "FRAGMENT_ADDED_SINGULAR"
+msgid "FRAGMENT_ADDED_PLURAL"
 msgstr " agregó "
 
-msgid "FRAGMENT_ADDED_PLURAL"
+msgid "FRAGMENT_ADDED_SINGULAR"
 msgstr " agregó "
 
 msgid "FRAGMENT_AND"
