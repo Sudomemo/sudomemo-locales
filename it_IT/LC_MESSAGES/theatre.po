@@ -1795,6 +1795,12 @@ msgstr "Più recente"
 msgid "NEWS"
 msgstr "Notizie"
 
+msgid "NEWS_ARTICLE"
+msgstr "News Article"
+
+msgid "NEWS_ARTICLES"
+msgstr "News Articles"
+
 msgid "NEW_ARRIVALS"
 msgstr "New Arrivals"
 
@@ -3441,9 +3447,3 @@ msgstr "L'aspetto e il layout possono variare a seconda del dispositivo utilizza
 
 msgid "YT_UPLOAD_PLUS_MEMO_PLUS"
 msgstr "Memo+"
-
-msgid "NEWS_ARTICLES"
-msgstr "News Articles"
-
-msgid "NEWS_ARTICLE"
-msgstr "News Article"
