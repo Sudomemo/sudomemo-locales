@@ -4,10 +4,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 
 msgid "CANCEL"
-msgstr "Cancel"
+msgstr "Cancelar"
 
 msgid "COMMENT_FAILED_USER_BANNED"
-msgstr "Tu interacción ha sido restringido de Sudomemo."
+msgstr "Tus interacciones con Sudomemo están restringidas."
 
 msgid "COMMENT_POST_FAILED"
 msgstr "Ha ocurrido un error al publicar el comentario. Vuelve a intentarlo en un momento."
@@ -19,10 +19,10 @@ msgid "DUPLICATE_COMMENT_FAILED"
 msgstr "Este comentario ya ha sido publicado en Sudomemo."
 
 msgid "FLIPNOTE_COMMENTS_DISALLOWED"
-msgstr "No puedes comentar en esta Flipnote."
+msgstr "No puedes comentar en este Flipnote."
 
 msgid "FLIPNOTE_DATA_CORRUPTED"
-msgstr "Los datos de esta Flipnote estan corruptos. Intenta de nuevo en un momento."
+msgstr "Los datos de este Flipnote estan corruptos. Intenta de nuevo en un momento."
 
 msgid "HEADER_COMMENTS"
 msgstr "Comentarios"
@@ -43,7 +43,7 @@ msgid "LATEST"
 msgstr "Recientes"
 
 msgid "LOGIN_REQUIRED_TO_POST_COMMENT"
-msgstr "Debes iniciar sesión para publicar un comentario."
+msgstr "Debes iniciar sesión para publicar comentarios."
 
 msgid "MODERATOR"
 msgstr "Moderador"
@@ -52,16 +52,16 @@ msgid "NO_BLANK_COMMENTS_ALLOWED"
 msgstr "No puedes publicar un comentario vacío."
 
 msgid "NO_COMMENTS_WHILE_MUTED"
-msgstr "Has sido muteado. No puedes publicar un comentario si estas muteado."
+msgstr "Has sido muteado. No puedes publicar un comentario si estás muteado."
 
 msgid "NO_COMMENTS_YET"
-msgstr "Esta Flipnote aún no tiene comentarios."
+msgstr "Este Flipnote aún no tiene comentarios."
 
 msgid "PAGE_FORMAT"
 msgstr "Página %d"
 
 msgid "POPULAR"
-msgstr "Popular"
+msgstr "Populares"
 
 msgid "REPLYING_TO_X"
 msgstr "Respondiendo a %s"

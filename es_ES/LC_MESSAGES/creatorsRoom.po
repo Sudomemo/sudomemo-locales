@@ -49,7 +49,7 @@ msgid "BROWSE_PLAYLISTS"
 msgstr "Explorar Listas de Reproducción"
 
 msgid "CAN_DRAW_TICKET_SUBTEXT"
-msgstr "¡Puedes sacar un ticket normal! Puede ganar un premio."
+msgstr "Puedes sacar un ticket normal. ¡Podrías ganar un premio!"
 
 msgid "CHANGE_ROOM_THEME_LINK"
 msgstr "[Cambiar fondo]"
@@ -70,10 +70,10 @@ msgid "EXAMPLE"
 msgstr "Ejemplo"
 
 msgid "FANS"
-msgstr "Aficionados"
+msgstr "Fans"
 
 msgid "FAN_COUNT_FORMAT"
-msgstr "Aficionados: %s"
+msgstr "Fans: %s"
 
 msgid "FAVORITES_FEED"
 msgstr "Flipnotes de tus favoritos"
@@ -174,7 +174,7 @@ msgid "SETTINGS"
 msgstr "Configuración"
 
 msgid "SET_BIO_INSTRUCTIONS"
-msgstr "Introduce una biografía para tu perfil debajo. Está aparecerá en Sudomemo y Sudomemo Theatre."
+msgstr "Introduce una biografía para tu perfil debajo. Esta aparecerá en Sudomemo y Sudomemo Theatre."
 
 msgid "SPENDABLE_STARS"
 msgstr "Tus Estrellas"
@@ -219,7 +219,7 @@ msgid "THEME_SUCCESSFULLY_SET"
 msgstr "¡Fondo exitosamente establecido!"
 
 msgid "TICKET_COOLDOWN_MESSAGE_FORMAT"
-msgstr "Podrás conseguir otro ticket en: %s hora(s) %s minuto(s)."
+msgstr "Podrás conseguir otro ticket en: %s hora(s) y %s minuto(s)."
 
 msgid "TICKET_SECTION"
 msgstr "Tickets"
