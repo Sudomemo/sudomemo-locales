@@ -8,72 +8,72 @@ msgstr "Volver a Sudomemo Theatre"
 
 # 404 Page
 msgid "404_OOPS_NOT_FOUND"
-msgstr "¡Oops! No encontramos esa página"
+msgstr "¡Uy! No pudimos encontrar esa página..."
 
 msgid "404_WHOOPS_NOT_THERE"
 msgstr "¡Ups! Lo que buscabas no está por aquí."
 
 msgid "ABOUT_SUDOMEMO"
-msgstr "Acerca de Sudomemo"
+msgstr "Sobre Sudomemo"
 
 # Success Messages
 msgid "ACCOUNT_ADDED_SUCCESS"
-msgstr "Account added successfully"
+msgstr "Cuenta agregada correctamente"
 
 msgid "ACCOUNT_ALREADY_IN_SWITCHER"
-msgstr "Account already added"
+msgstr "Cuenta ya agregada"
 
 msgid "ACCOUNT_BANNED_BLOCKED"
-msgstr "Account is restricted from Sudomemo"
+msgstr "Esta cuenta está restringida de Sudomemo."
 
 msgid "ACCOUNT_DEACTIVATED_ERROR"
-msgstr "This Sudomemo account has been closed."
+msgstr "Esta cuenta de Sudomemo ha sido cerrada."
 
 msgid "ACCOUNT_NOT_FOUND"
-msgstr "Account not found"
+msgstr "Cuenta no encontrada."
 
 msgid "ACCOUNT_NOT_IN_SWITCHER"
-msgstr "Account not found in switcher"
+msgstr "No se encontró esa cuenta en el administrador"
 
 # Accessibility
 msgid "ACCOUNT_PROFILE_IMAGE"
-msgstr "Profile image for %s"
+msgstr "Foto de Perfil de %s"
 
 msgid "ACCOUNT_REMOVED_SUCCESS"
-msgstr "Account removed"
+msgstr "Cuenta removida"
 
 # Account Settings (Theatre)
 msgid "ACCOUNT_SETTINGS"
 msgstr "Ajustes de tu Cuenta"
 
 msgid "ACCOUNT_SWITCHED_SUCCESS"
-msgstr "Switched to account successfully"
+msgstr "Cambiaste de cuenta satisfactioriamente"
 
 # Account Switcher Interface
 msgid "ACCOUNT_SWITCHER"
-msgstr "Manage login"
+msgstr "Administrar sesiones"
 
 msgid "ACTIVE_SUBSCRIPTION"
-msgstr "Active Subscription"
+msgstr "Suscripción Activa"
 
 msgid "ADD_ACCOUNT_BUTTON"
-msgstr "Add account"
+msgstr "Añadir cuenta"
 
 # Account Switcher Modal
 msgid "ADD_ACCOUNT_TO_SWITCHER"
-msgstr "Add account"
+msgstr "Añadir cuenta"
 
 msgid "ADD_ANOTHER_ACCOUNT"
-msgstr "Add another account"
+msgstr "Añadir otra cuenta"
 
 msgid "ADD_ANOTHER_ACCOUNT_HELP"
-msgstr "Add another account to switch between them quickly."
+msgstr "Añade otra cuenta para cambiar entre cuentas rápidamente."
 
 msgid "ADD_NEW_WEBHOOK"
-msgstr "Add New Webhook"
+msgstr "Añadir Webhook Nuevo"
 
 msgid "ADD_TO_FAVORITES"
-msgstr "Add to Favorites"
+msgstr "Agregar a Favoritos"
 
 msgid "ADD_TO_NEW_PLAYLIST"
 msgstr "Agregar a nueva Lista de Reproducción"
@@ -82,13 +82,13 @@ msgid "ADD_TO_PLAYLIST"
 msgstr "Agregar a Lista de Reproducción"
 
 msgid "ADD_WEBHOOK"
-msgstr "Add Webhook"
+msgstr "Añadir Webhook"
 
 msgid "ALL"
 msgstr "All"
 
 msgid "ALREADY_ON_ACCOUNT"
-msgstr "Already on this account"
+msgstr "Ya estás en esta cuenta"
 
 msgid "ALT_DRAWN_COMMENT_BY_USER"
 msgstr "Comentario dibujado por %s"
@@ -102,7 +102,7 @@ msgid "ALT_WEEKLY_TOPIC_BANNER"
 msgstr "Banner anunciando el Tema Semanal"
 
 msgid "AND_PASSWORD"
-msgstr "and password"
+msgstr "y contraseña"
 
 msgid "ARCHIVE"
 msgstr "Archivo"
@@ -130,7 +130,7 @@ msgid "ARTIST_HAS_N_TRACKS"
 msgstr "%d distinct tracks"
 
 msgid "AUTOPLAY_BLOCKED_TOOLTIP_HEADER"
-msgstr "Autoplay Blocked"
+msgstr "Reproducción Automática Bloqueada"
 
 # Chrome autoplay help message
 msgid "AUTOPLAY_HELP_CHROME"
@@ -146,7 +146,7 @@ msgstr "Click the crossed-out play button next to the 🔒 padlock in the addres
 
 # Generic autoplay help message for unknown browsers
 msgid "AUTOPLAY_HELP_GENERIC"
-msgstr "Autoplay may be blocked. Check your browser's site settings."
+msgstr "La reproducción automática podría estar bloqueada. Revisa los ajustes del sitio en tu navegador."
 
 # Safari autoplay help message
 msgid "AUTOPLAY_HELP_SAFARI"
@@ -157,7 +157,7 @@ msgid "BACK"
 msgstr "Regresar"
 
 msgid "BACK_TO_ACCOUNT_SWITCHER"
-msgstr "Back to login manager"
+msgstr "Volver al administrador de sesiones"
 
 msgid "BACK_TO_CATEGORIES"
 msgstr "Back to Categories"
@@ -169,13 +169,13 @@ msgid "BACK_TO_SETTINGS"
 msgstr "Back to Settings"
 
 msgid "BATCH_EDIT_DESCRIPTION_PLACEHOLDER"
-msgstr "Description"
+msgstr "Descripción"
 
 msgid "BATCH_EDIT_DONE_MESSAGE"
-msgstr "All done! No more Flipnotes."
+msgstr "¡Listo! No quedan más Flipnotes."
 
 msgid "BATCH_EDIT_INSTRUCTIONS"
-msgstr "Give each Flipnote a title and description so viewers can find it! Without them, your Flipnote will get lost in the crowd."
+msgstr "¡Dale a cada Flipnote un título y descripción para que pueda ser encontrado más facilmente! Sin ellos, tu Flipnote se perderá entre la multitud..."
 
 msgid "BATCH_EDIT_PAGE_TITLE"
 msgstr "Flipnote Batch Editor"
@@ -184,16 +184,16 @@ msgid "BATCH_EDIT_PANEL_TITLE"
 msgstr "Flipnote Batch Editor"
 
 msgid "BATCH_EDIT_PREVIEW_TIP"
-msgstr "Click the preview to load player"
+msgstr "Haz click en la previsualización para abrir el reproductor"
 
 msgid "BATCH_EDIT_SAVE_AND_NEXT"
-msgstr "Save & Next"
+msgstr "Guardar y Seguir"
 
 msgid "BATCH_EDIT_SKIP_BUTTON"
-msgstr "Skip"
+msgstr "Saltar"
 
 msgid "BATCH_EDIT_TITLE_PLACEHOLDER"
-msgstr "Title"
+msgstr "Título"
 
 msgid "BIO"
 msgstr "Bio"
@@ -230,16 +230,16 @@ msgid "BTN_GET_STARTED"
 msgstr "Comenzar"
 
 msgid "BTN_GO_HOME"
-msgstr "Back to Sudomemo"
+msgstr "Volver a Sudomemo"
 
 msgid "BTN_GO_TO_EDIT_PROFILE"
-msgstr "Go to Edit Profile"
+msgstr "Entrar al Editor de Perfil"
 
 msgid "BTN_GO_TO_SETTINGS"
 msgstr "Ir a Ajustes"
 
 msgid "BTN_JOIN_DISCORD"
-msgstr "Únete a Discord"
+msgstr "Únete al Discord"
 
 msgid "BTN_SIGN_IN_WITH_GOOGLE"
 msgstr "Inicia sesión con Google"
@@ -248,32 +248,32 @@ msgid "BTN_STARTING_UPLOAD"
 msgstr "Empezando..."
 
 msgid "BTN_START_UPLOAD"
-msgstr "Empezar carga"
+msgstr "Subir"
 
 # Discord unlink button text
 msgid "BTN_UNLINK_DISCORD"
-msgstr "Unlink Discord Account"
+msgstr "Desenlazar cuenta de Discord"
 
 msgid "BTN_UPLOAD_FAILED"
-msgstr "Carga fallida..."
+msgstr "Subida fallida..."
 
 msgid "BTN_VIEW_PLUS_STATUS"
-msgstr "View Plus Benefits"
+msgstr "Ver los Beneficios de Plus"
 
 msgid "BY"
 msgstr "por"
 
 msgid "CANCEL"
-msgstr "Cancel"
+msgstr "Cancelar"
 
 msgid "CANCEL_PROFILE_PICTURE_CHANGE"
-msgstr "Cancel"
+msgstr "Cancelar"
 
 msgid "CANCEL_REPLY"
-msgstr "Cancel"
+msgstr "Cancelar"
 
 msgid "CANNOT_ADD_CURRENT_ACCOUNT"
-msgstr "Cannot add current account"
+msgstr "No se puede agregar la cuenta actual"
 
 msgid "CANNOT_POST_LINKS"
 msgstr "No se permiten enlaces en los mensajes del chat."
@@ -288,16 +288,16 @@ msgid "CANNOT_USE_PROFANITY"
 msgstr "Tu mensaje contiene lenguaje inapropiado."
 
 msgid "CATEGORIES"
-msgstr "Categories"
+msgstr "Categorías"
 
 msgid "CATEGORY"
-msgstr "Categoria"
+msgstr "Categoría"
 
 msgid "CATEGORY_INDEX_CHANNEL_INFO"
-msgstr "Browse themed collections of Flipnotes — and join the fun by posting yours to a channel!"
+msgstr "¡Navega por colecciones y temas de Flipnotes, y únete a la diversión publicando uno a uno de los canales!"
 
 msgid "CHANGE_PROFILE_PICTURE"
-msgstr "Change Profile Picture"
+msgstr "Cambiar Foto de Perfil"
 
 msgid "CHANNEL"
 msgstr "Canal"
@@ -306,7 +306,7 @@ msgid "CHANNELS"
 msgstr "Canales"
 
 msgid "CHANNELS_BY_CATEGORY"
-msgstr "Channels by category"
+msgstr "Canales por categoría"
 
 msgid "CHANNEL_CAT_NAME_ART"
 msgstr "Arte"
@@ -331,10 +331,10 @@ msgid "CHANNEL_CAT_NAME_ROLEPLAYS"
 msgstr "Roleplay"
 
 msgid "CHANNEL_CAT_NAME_TOPICS"
-msgstr "Fondos"
+msgstr "Temas"
 
 msgid "CHANNEL_CAT_NAME_WEEKLY_TOPIC"
-msgstr "Fondo Semanal"
+msgstr "Tema Semanal"
 
 # # Posting permissions
 msgid "CHANNEL_PERM_CLOSED"
@@ -344,10 +344,10 @@ msgid "CHANNEL_PERM_OPEN"
 msgstr "Abierto"
 
 msgid "CHANNEL_RANKING"
-msgstr "Channel Ranking"
+msgstr "Canales Populares"
 
 msgid "CHANNEL_RANKING_SIDEBAR"
-msgstr "Channel Ranking"
+msgstr "Canales Populares"
 
 msgid "CHANNEL_WATCHING_NOW"
 msgstr "Currently watching %s"
@@ -384,34 +384,34 @@ msgid "COMMENTS"
 msgstr "Comentarios"
 
 msgid "COMMENT_BOX_WRITE_HERE_1"
-msgstr "Write something nice here"
+msgstr "Escribe algo agradable aquí"
 
 msgid "COMMENT_BOX_WRITE_HERE_2"
-msgstr "What did you like about this?"
+msgstr "¿Qué te gustó más sobre esto?"
 
 msgid "COMMENT_BOX_WRITE_HERE_3"
-msgstr "What do you think?"
+msgstr "¿Qué piensas?"
 
 msgid "COMMENT_BOX_WRITE_HERE_4"
-msgstr "How does this Flipnote make you feel?"
+msgstr "¿Qué te hizo sentir este Flipnote?"
 
 msgid "COMMENT_BOX_WRITE_HERE_5"
-msgstr "Write something thoughtful here"
+msgstr "Escribe alguna reflexión aquí"
 
 msgid "COMMENT_EDITOR_COLORFUL_BUTTON"
-msgstr "Be colorful!"
+msgstr "¡Se más colorido!"
 
 msgid "COMMENT_EDITOR_EMOTE_BUTTON"
-msgstr "Emote!"
+msgstr "¡Emotes!"
 
 msgid "COMMENT_FAILED_USER_BANNED"
 msgstr "No puedes publicar mensajes porque estás bloqueado."
 
 msgid "CONFIRMATION_CODE"
-msgstr "Confirmation Code"
+msgstr "Código de Confirmación"
 
 msgid "CONFIRMATION_CODE_REQUIRED"
-msgstr "A confirmation code is required."
+msgstr "Se requiere un código de confirmación."
 
 msgid "CONFIRM_DELETE_OVERLAY"
 msgstr "Are you sure you want to delete this overlay? This action cannot be undone."
@@ -428,13 +428,13 @@ msgstr "Debes confirmar tu correo electrónico antes de publicar."
 
 # Logout Confirmation
 msgid "CONFIRM_LOGOUT"
-msgstr "Confirm Logout"
+msgstr "Confirmar Cierre de Sesión"
 
 msgid "CONFIRM_PROFILE_PICTURE_CHANGE"
-msgstr "Confirm Profile Picture Change"
+msgstr "Confirmar Cambio de Foto de Perfil"
 
 msgid "CONFIRM_PROFILE_PICTURE_CHANGE_ACTION"
-msgstr "Set as Profile Picture"
+msgstr "Usar como Foto de Perfil"
 
 # Confirmation Messages
 msgid "CONFIRM_REMOVE_ACCOUNT"
@@ -447,220 +447,220 @@ msgid "CONFIRM_TOGGLE_WEBHOOK"
 msgstr "Are you sure you want to change the status of this webhook?"
 
 msgid "CONSOLE_ADDED"
-msgstr "Added"
+msgstr "Agregada"
 
 msgid "CONSOLE_ADDED_SUCCESS"
-msgstr "Console registered successfully!"
+msgstr "¡Consola registrada correctamente!"
 
 msgid "CONSOLE_ADD_FAILED"
-msgstr "Failed to register console. Please try again."
+msgstr "No se pudo registrar esta consola. Por favor vuelve a intentarlo."
 
 msgid "CONSOLE_ADD_HELPER"
-msgstr "This identifies your console and allows it to connect to your Sudomemo account. Only register consoles you control."
+msgstr "Esto identifica a tu consola y permite conectarla a tu cuenta de Sudomemo. Registra solamente consolas que tú controles."
 
 msgid "CONSOLE_ALREADY_ADDED"
-msgstr "This console is already registered to your account."
+msgstr "Esta consola ya está registrada en tu cuenta."
 
 msgid "CONSOLE_ALREADY_REMOVED"
-msgstr "This console has already been removed."
+msgstr "Ya se ha removido esta consola."
 
 msgid "CONSOLE_BTN_ADD_CONSOLE"
-msgstr "Register Console"
+msgstr "Registrar Consola"
 
 msgid "CONSOLE_BTN_BACK"
-msgstr "Back"
+msgstr "Volver"
 
 msgid "CONSOLE_BTN_BUILD_SAVE"
-msgstr "Build Save Data"
+msgstr "Crear Datos de Guardado"
 
 msgid "CONSOLE_BTN_CANCEL"
-msgstr "Cancel"
+msgstr "Cancelar"
 
 msgid "CONSOLE_BTN_OPEN"
-msgstr "Open"
+msgstr "Abrir"
 
 msgid "CONSOLE_BTN_REMOVE"
-msgstr "Remove"
+msgstr "Remover"
 
 msgid "CONSOLE_BTN_SENDING"
-msgstr "Sending…"
+msgstr "Enviando…"
 
 msgid "CONSOLE_BTN_VERIFY"
-msgstr "Verify"
+msgstr "Verificar"
 
 msgid "CONSOLE_BTN_VERIFYING"
-msgstr "Verifying…"
+msgstr "Verificando…"
 
 msgid "CONSOLE_CONFIRM_REMOVE"
-msgstr "Are you sure you want to remove this console? You can register it again later."
+msgstr "¿Estás seguro de que quieres remover esta consola? Podrás registrarla de nuevo luego."
 
 msgid "CONSOLE_DETAIL_TYPE"
-msgstr "Model"
+msgstr "Modelo"
 
 msgid "CONSOLE_INVALID_MAC"
-msgstr "That doesn't look like a valid MAC address. Please enter a 12-character hexadecimal address (e.g. AA:BB:CC:DD:EE:FF)."
+msgstr "Eso no parece ser una Dirección MAC válida. Por favor escribe una dirección hexadecimal de 12 caracteres (ej.: AA:BB:CC:DD:EE:FF)."
 
 msgid "CONSOLE_INVALID_OUI"
-msgstr "That MAC address doesn't appear to belong to a supported Nintendo console. Please double-check the address from your console's System Settings."
+msgstr "No parece que esa Dirección MAC le pertenezca a una consola Nintendo válida. Por favor verifica la Dirección MAC desde la Configuración de la consola."
 
 msgid "CONSOLE_LABEL_FIELD"
-msgstr "Label"
+msgstr "Apodo"
 
 msgid "CONSOLE_LABEL_PLACEHOLDER"
-msgstr "My DSi, 3DS XL (Blue)"
+msgstr "Mi DSi, 3DS XL (Azul)"
 
 msgid "CONSOLE_LABEL_REQUIRED"
-msgstr "Please enter a label for your console."
+msgstr "Por favor dale un apodo a tu consola."
 
 msgid "CONSOLE_MAC_FIELD"
-msgstr "MAC Address"
+msgstr "Dirección MAC"
 
 msgid "CONSOLE_MAC_IN_USE"
-msgstr "That MAC address is already associated with a different account."
+msgstr "Esa Dirección MAC ya está asociada a una cuenta diferente."
 
 msgid "CONSOLE_MAC_PLACEHOLDER"
 msgstr "AA:BB:CC:DD:EE:FF"
 
 msgid "CONSOLE_MAC_REQUIRED"
-msgstr "Please enter a MAC address."
+msgstr "Por favor escribe una Dirección MAC."
 
 msgid "CONSOLE_MANAGEMENT_DESCRIPTION"
-msgstr "Manage which Nintendo consoles are associated with your Sudomemo account."
+msgstr "Administra qué consolas de Nintendo están asociadas con tu cuenta de Sudomemo."
 
 msgid "CONSOLE_MANAGEMENT_TITLE"
-msgstr "Console Management"
+msgstr "Administración de Consolas"
 
 msgid "CONSOLE_MODAL_ADD_TITLE"
-msgstr "Register a Console"
+msgstr "Registrar una Consola"
 
 msgid "CONSOLE_MODAL_SAVE_TITLE"
-msgstr "Build Save Data"
+msgstr "Crear Datos de Guardado"
 
 msgid "CONSOLE_NOT_FOUND"
-msgstr "Console entry not found."
+msgstr "Consola no encontrada."
 
 msgid "CONSOLE_NO_CONSOLES"
-msgstr "You haven't registered any consoles yet."
+msgstr "No has registrado ninguna consola aún."
 
 msgid "CONSOLE_PAGE_DESCRIPTION"
-msgstr "Register your Nintendo console here to use it with Sudomemo. Once registered, you can build a save file that links the console to your account."
+msgstr "Registra tu consola Nintendo para poder utilizar Sudomemo. Una vez registrada, podrás crear un archivo de guardado que enlazará tu cuenta con la consola."
 
 msgid "CONSOLE_PAGE_HOW_TO"
-msgstr "How to get started:"
+msgstr "Instrucciones:"
 
 msgid "CONSOLE_PAGE_STEP_1"
-msgstr "Find your console's MAC address in System Settings → Internet."
+msgstr "Encuentra tu Dirección MAC en Configuración de la consola → Configuración de Internet."
 
 msgid "CONSOLE_PAGE_STEP_2"
-msgstr "Click \"Register Console\" and enter your MAC address along with a label."
+msgstr "Haz click en \"Registrar una Consola\" y escribe tu Dirección MAC junto con un apodo."
 
 msgid "CONSOLE_PAGE_STEP_3"
-msgstr "Open the console you just registered and click \"Build Save Data\" to download a save file."
+msgstr "Selecciona la consola que acabas de agregar y haz click en \"Crear Datos de Guardado\" para descargar un archivo de datos de guardado."
 
 msgid "CONSOLE_PAGE_STEP_4"
-msgstr "Follow our guide to install the new save file onto your Nintendo console."
+msgstr "Sigue esta guía para instalar el nuevo archivo de guardado a tu consola Nintendo."
 
 msgid "CONSOLE_PAGE_TITLE"
-msgstr "Your Consoles"
+msgstr "Tus Consolas"
 
 msgid "CONSOLE_REMOVED_SUCCESS"
-msgstr "Console removed."
+msgstr "Consola removida."
 
 msgid "CONSOLE_REMOVE_FAILED"
-msgstr "Failed to remove console. Please try again."
+msgstr "Ocurrió un error al intentar remover la consola. Por favor vuelve a intentarlo."
 
 msgid "CONSOLE_SAVE_BODY_1"
-msgstr "This builds a new Flipnote Studio save file that links this console to your Sudomemo account."
+msgstr "Esto creará un nuevo Archivo de Guardado que enlazará esta consola con tu Cuenta Sudomemo."
 
 msgid "CONSOLE_SAVE_BODY_2"
-msgstr "Any Flipnotes stored in System Memory will be permanently lost. To keep them, use \"Back Up Data\" in Flipnote Studio before continuing."
+msgstr "Todos los Flipnotes guardados en la Memoria de la Consola se perderán. Para mantenerlos, selecciona \"Copia de respaldo\" en Flipnote Studio antes de continuar."
 
 msgid "CONSOLE_SAVE_BODY_3"
 msgstr "Only consoles with this prepared save data can connect to your Sudomemo account. Other consoles will not be able to access it."
 
 msgid "CONSOLE_SAVE_BODY_WARNING"
-msgstr "WARNING: THIS WILL REPLACE YOUR EXISTING FLIPNOTE STUDIO SAVE DATA."
+msgstr "ADVERTENCIA: ¡ESTO REEMPLAZARÁ TUS DATOS DE GUARDADO ACTUALES DE FLIPNOTE STUDIO!"
 
 msgid "CONSOLE_SAVE_BTN_CONTINUE"
-msgstr "Continue"
+msgstr "Continuar"
 
 msgid "CONSOLE_SAVE_BTN_DOWNLOAD"
-msgstr "Download Save Data"
+msgstr "Descargar Datos de Guardado"
 
 msgid "CONSOLE_SAVE_BUILD_FAILED"
-msgstr "Failed to build save data. Please try again later."
+msgstr "Ocurrió un error al crear los datos de guardado. Por favor inténtalo de nuevo más tarde."
 
 msgid "CONSOLE_SAVE_BUILT_JUST_NOW"
-msgstr "Save data built just now"
+msgstr "Datos de guardado creados justo ahora"
 
 msgid "CONSOLE_SAVE_CONFIRM_CHECKBOX"
-msgstr "I understand this will replace my save data and cannot be undone"
+msgstr "Entiendo que esto reemplazará mis datos de guardado y no se podrá deshacer"
 
 msgid "CONSOLE_SAVE_NOT_APPROVED"
-msgstr "This console must be in active status to build a save file."
+msgstr "Esta consola debe estar en un estado activo para crear datos de guardado."
 
 msgid "CONSOLE_SAVE_NO_BIRTHDAY"
-msgstr "Your birthday is not set. Please set your birthday in your Flipnote Studio settings after connecting, as it will not be included in this save file."
+msgstr "Tu cumpleaños no se ha configurado. Por favor configura tu cumpleaños en la configuración de Flipnote Studio luego de conectarte, pues no se incluirá en estos datos."
 
 msgid "CONSOLE_SAVE_RATE_LIMITED"
-msgstr "Please wait a few minutes before building another save file for this console."
+msgstr "Por favor espera unos minutos antes de crear nuevos datos de guardado."
 
 msgid "CONSOLE_SAVE_READY_BODY_1"
-msgstr "Your console is now prepared to connect to Sudomemo."
+msgstr "Tu consola está preparada para conectarse a Sudomemo."
 
 msgid "CONSOLE_SAVE_READY_BODY_2"
-msgstr "Install this save file on your console to complete setup."
+msgstr "Instala este archivo de guardado en tu consola para terminar la configuración."
 
 msgid "CONSOLE_SAVE_READY_TITLE"
-msgstr "Save Data Ready"
+msgstr "Datos de Guardado Listos"
 
 msgid "CONSOLE_SAVE_STAGE_1"
-msgstr "Constructing data..."
+msgstr "Construyendo datos..."
 
 msgid "CONSOLE_SAVE_STAGE_2"
-msgstr "Embedding console identity..."
+msgstr "Agregando identidad de la consola..."
 
 msgid "CONSOLE_SAVE_STAGE_3"
-msgstr "Finalizing save data..."
+msgstr "Finalizando datos de guardado..."
 
 msgid "CONSOLE_SAVE_SUBTEXT"
 msgstr "Builds a save file to connect this console to your account."
 
 msgid "CONSOLE_SAVE_UNAVAILABLE"
-msgstr "Save data building is not currently available. Please check back later."
+msgstr "La creación de datos de guardado no está disponible en este momento. Por favor revisa más tarde."
 
 msgid "CONSOLE_SECTION_DETAILS"
-msgstr "Console Details"
+msgstr "Detalles de la Consola"
 
 msgid "CONSOLE_SECTION_SETUP"
 msgstr "Setup"
 
 msgid "CONSOLE_SHOW_MAC"
-msgstr "Console MAC Address"
+msgstr "Dirección MAC de la Consola"
 
 msgid "CONSOLE_STATUS_ACTIVE"
-msgstr "Active"
+msgstr "Activa"
 
 msgid "CONSOLE_STATUS_REMOVED"
-msgstr "Removed"
+msgstr "Removida"
 
 msgid "CONSOLE_STATUS_SUSPENDED"
-msgstr "Suspended by staff"
+msgstr "Suspendida por el equipo"
 
 msgid "CONSOLE_SUSPENDED"
-msgstr "This console has been suspended by a staff member. Please contact support if you believe this is an error."
+msgstr "Esta consola ha sido suspendida por un miembro del equipo de Sudomemo. Contacta con soporte si crees que esto fué un error."
 
 msgid "CONSOLE_TYPE_FIELD"
-msgstr "Console Type"
+msgstr "Tipo de Consola"
 
 msgid "CONSOLE_TYPE_REQUIRED"
-msgstr "Please select your console type."
+msgstr "Por favor selecciona el tipo de consola."
 
 msgid "CONSOLE_TYPE_SELECT_PROMPT"
-msgstr "Select your console model…"
+msgstr "Selecciona el modelo de tu consola…"
 
 msgid "CONSOLE_UNNAMED_DEVICE"
-msgstr "Console"
+msgstr "Consola"
 
 msgid "CONSOLE_VERIFY_CODE_EXPIRED"
 msgstr "That verification code has expired. Please request a new one."
@@ -678,7 +678,7 @@ msgid "CONSOLE_VERIFY_CODE_REQUIRED"
 msgstr "Please enter the 6-digit verification code."
 
 msgid "CONSOLE_VERIFY_CODE_SENT"
-msgstr "A verification code has been sent to your email address. Enter it below to complete registration."
+msgstr "Se envió un código de verificación a tu correo electrónico. Escríbelo abajo para completar tu registro."
 
 msgid "CONSOLE_VERIFY_EMAIL_FAILED"
 msgstr "Failed to send verification email. Please try again later."
@@ -715,7 +715,7 @@ msgid "CONTINUE"
 msgstr "Continuar"
 
 msgid "COULD_NOT_SAVE_DETAILS"
-msgstr "Los detalles no se pudieron guardados"
+msgstr "Los detalles no se pudieron guardar"
 
 msgid "CREATED"
 msgstr "Creado"
@@ -766,7 +766,7 @@ msgid "DATETIME_WEEKDAY_MONTH_DAY_ORDINAL_YEAR_FORMAT"
 msgstr "l, j \\de F \\de Y"
 
 msgid "DEFAULT_META_DESCRIPTION"
-msgstr "Sudomemo: Comparte tus Flipnotes con el mundo! Para Nintendo DSi y 3DS."
+msgstr "Sudomemo: ¡Comparte tus Flipnotes con el mundo! Para Nintendo DSi y 3DS."
 
 msgid "DELETE"
 msgstr "Borrar"
@@ -799,38 +799,38 @@ msgid "DETAILS"
 msgstr "Detalles"
 
 msgid "DIGEST_FREQUENCY_BIWEEKLY"
-msgstr "Biweekly"
+msgstr "Bisemanalmente"
 
 msgid "DIGEST_FREQUENCY_DAILY"
-msgstr "Daily"
+msgstr "A diario"
 
 msgid "DIGEST_FREQUENCY_EXPLANATION"
 msgstr "Choose how often you'd like to receive digest emails."
 
 msgid "DIGEST_FREQUENCY_MONTHLY"
-msgstr "Monthly"
+msgstr "Mensualmente"
 
 msgid "DIGEST_FREQUENCY_TITLE"
 msgstr "Digest Email Frequency"
 
 msgid "DIGEST_FREQUENCY_TWICE_WEEKLY"
-msgstr "Twice Weekly"
+msgstr "Dos veces por semana"
 
 msgid "DIGEST_FREQUENCY_WEEKLY"
-msgstr "Weekly"
+msgstr "Semanal"
 
 msgid "DISABLE"
-msgstr "Disable"
+msgstr "Desactivar"
 
 msgid "DISABLED"
-msgstr "Disabled"
+msgstr "Desactivado"
 
 # This refers to Discord, which is a chat app.
 msgid "DISCORD"
 msgstr "Discord"
 
 msgid "DISCORD_HOW_TO_LINK"
-msgstr "Cómo Vincular"
+msgstr "Cómo Enlazar"
 
 # Connected since December 27th, 2020
 msgid "DISCORD_LINKED_ON_DATE"
@@ -875,7 +875,7 @@ msgid "DOWNLOADS"
 msgstr "Descargas"
 
 msgid "EDIT"
-msgstr "Edit"
+msgstr "Editar"
 
 # Flipnote View Page
 msgid "EDIT_FLIPNOTE"
@@ -907,7 +907,7 @@ msgid "EDIT_PAGE_FLIPNOTE_PREVIEW_NOTE"
 msgstr "Nota: La vista previa de la Flipnote no se actualiza."
 
 msgid "EDIT_PAGE_MEMO_PLUS_EDITOR"
-msgstr "Open Memo+ Editor"
+msgstr "Abrir Editor de Memo+"
 
 msgid "EDIT_PAGE_MUSICMATCH_NONE_CORRECT"
 msgstr "Ninguna de estas son correctas"
@@ -925,13 +925,13 @@ msgid "EDIT_PAGE_MUSICMATCH_PREVIEW_ON_YOUTUBE"
 msgstr "Escuchar en YouTube Music"
 
 msgid "EDIT_PAGE_MUSICMATCH_UNMAPPED"
-msgstr "MusicMatch no han processado a tu Flipnote. Vuelve a revisar luego."
+msgstr "MusicMatch no ha procesado tu Flipnote aún. Vuelve a revisar luego."
 
 msgid "EDIT_PAGE_MUSICMATCH_UNMATCHED"
-msgstr "MusicMatch no pudo encontrar ninguna canción que suena como tu Flipnote."
+msgstr "MusicMatch no pudo encontrar ninguna canción que se parezca a la de tu Flipnote."
 
 msgid "EDIT_PAGE_PLUS_AUDIO_ENHANCEMENT"
-msgstr "Mejoría de Audio"
+msgstr "Mejora de Audio"
 
 msgid "EDIT_PAGE_PLUS_MEMO_PLUS"
 msgstr "Memo+"
@@ -956,7 +956,7 @@ msgid "EDIT_PLAYLIST"
 msgstr "Editar Lista de Reproducción"
 
 msgid "EDIT_PROFILE"
-msgstr "Edit Profile"
+msgstr "Editar Perfil"
 
 msgid "EDIT_PROFILE_LAYOUT"
 msgstr "Edit Profile Layout"
@@ -1195,7 +1195,7 @@ msgid "FOLLOW_UPLOAD_NOTIFICATIONS_ON"
 msgstr "Turn on new Flipnote notifications"
 
 msgid "FORGOT_YOUR_PASSWORD"
-msgstr "¿Olvidó su contraseña?"
+msgstr "¿Olvidaste tu contraseña?"
 
 msgid "FROM_FOLLOWED_USERS"
 msgstr "From your favorites"
@@ -1221,7 +1221,7 @@ msgid "FSID"
 msgstr "FSID"
 
 msgid "FSID_OR_EMAIL"
-msgstr "FSID or Email"
+msgstr "FSID o Correo"
 
 # Accessibility strings for genealogy navigation and controls
 msgid "GENEALOGY_BACK_TO_FLIPNOTE"
@@ -1288,16 +1288,16 @@ msgid "GENEALOGY_VIEW_LINK"
 msgstr "View Genealogy"
 
 msgid "GENEALOGY_ZOOM_IN"
-msgstr "Zoom in"
+msgstr "Hacer zoom"
 
 msgid "GENEALOGY_ZOOM_OUT"
-msgstr "Zoom out"
+msgstr "Alejar zoom"
 
 msgid "GENRE"
 msgstr "Género"
 
 msgid "GET_HELP"
-msgstr "Get Help"
+msgstr "Conseguir ayuda"
 
 msgid "GET_MORE_PLUS_DAYS"
 msgstr "Get more Plus days"
@@ -1406,7 +1406,7 @@ msgid "HATENA_ID"
 msgstr "Hatena ID"
 
 msgid "HEADER_CHANGE_EMAIL"
-msgstr "Change Email Address"
+msgstr "Cambiar Dirección de Correo Electrónico"
 
 msgid "HEADER_CHANGE_PASSWORD"
 msgstr "Cambiar la contraseña"
@@ -1430,7 +1430,7 @@ msgstr "Has alcanzado el límite de %d mensajes por hora en el chat."
 
 # Do not translate ".sudo unlink"
 msgid "HOW_TO_UNLINK_DISCORD"
-msgstr "Para desvincular su cuenta de Discord, escriba este comando en el chat: .sudo unlink"
+msgstr "Para desenlazar tu cuenta de Discord, escribe este comando en el chat: .sudo unlink"
 
 msgid "IMAGE_MUST_BE_1080X1920"
 msgstr "La imagen debe ser de 1080x1920."
@@ -1567,7 +1567,7 @@ msgid "MAIL_READER_TITLE"
 msgstr "Message"
 
 msgid "MANAGE_DISCORD_WEBHOOKS"
-msgstr "Manage Discord Webhooks"
+msgstr "Administrar Webhooks de Discord"
 
 msgid "MANAGE_PLAYLIST"
 msgstr "Administrar Lista de Reproducción"
@@ -1592,16 +1592,16 @@ msgid "MAX_WEBHOOKS_REACHED"
 msgstr "You have reached the maximum limit of %d webhooks per user."
 
 msgid "MEMOPLUS_APPLY"
-msgstr "Apply Memo+"
+msgstr "Aplicar Memo+"
 
 msgid "MEMOPLUS_GUIDELINES_CLOSING"
-msgstr "Keep it creative, but also considerate of everyone viewing your work."
+msgstr "Mantenlo creativo, pero por favor también considera a las demás personas que ven tu trabajo."
 
 msgid "MEMOPLUS_GUIDELINES_DESIGN_BODY"
-msgstr "Memo+ is an enhancement, not a replacement. Your Flipnote should still be clear and enjoyable on original hardware where Memo+ effects are not visible."
+msgstr "Memo+ es una mejora, no un reemplazo. Tu Flipnote también debería mantenerse claro y visible en las consolas originales, donde Memo+ no es visible."
 
 msgid "MEMOPLUS_GUIDELINES_DESIGN_TITLE"
-msgstr "Design for both experiences"
+msgstr "Diseña para ambas experiencias"
 
 msgid "MEMOPLUS_GUIDELINES_FLASHING_BODY"
 msgstr "Rapid or intense flashing colors can be uncomfortable or unsafe for some viewers (including those with photosensitivity). Try to use effects thoughtfully and avoid excessive flashing."
@@ -1616,22 +1616,22 @@ msgid "MEMOPLUS_GUIDELINES_MODERATION_TITLE"
 msgstr "Moderation may apply"
 
 msgid "MEMOPLUS_GUIDELINES_PLEASE_NOTE"
-msgstr "Please keep the following in mind:"
+msgstr "Por favor ten todo esto en cuenta:"
 
 msgid "MEMOPLUS_GUIDELINES_TITLE"
-msgstr "Memo+ Guidelines"
+msgstr "Guías de uso de Memo+"
 
 msgid "MEMOPLUS_GUIDELINES_WHAT_IS_BODY"
 msgstr "Memo+ is a color enhancement feature for Flipnotes on Sudomemo. It allows you to add additional colors and visual effects when your Flipnote is viewed on Sudomemo Theatre, while the original Flipnote remains unchanged on Nintendo DSi and 3DS systems."
 
 msgid "MEMOPLUS_GUIDELINES_WHAT_IS_TITLE"
-msgstr "What is Memo+?"
+msgstr "¿Qué es Memo+?"
 
 msgid "MEMOPLUS_REQUIRES_PLUS_BODY"
 msgstr "Your Memo+ edits can be saved, but you'll need Sudomemo Plus to apply them to this Flipnote."
 
 msgid "MEMOPLUS_REQUIRES_PLUS_TITLE"
-msgstr "Memo+ requires Sudomemo Plus"
+msgstr "Memo+ requiere Sudomemo Plus"
 
 msgid "MEMOPLUS_SAVE_READONLY_TOOLTIP"
 msgstr "This Memo+ palette is read-only because Memo+ is currently enabled on this Flipnote and your Sudomemo Plus has expired. The current Memo+ effect will stay on, but changes cannot be saved unless you get Sudomemo Plus again."
@@ -1640,13 +1640,13 @@ msgid "MEMOPLUS_TURN_OFF_LOCKED_BODY"
 msgstr "Memo+ is currently turned on for this Flipnote, but you do not have Sudomemo Plus. If you turn it off now, it will stay off until you have Sudomemo Plus again. Your saved palette data will still be kept."
 
 msgid "MEMOPLUS_TURN_OFF_LOCKED_CONFIRM"
-msgstr "Turn Off Memo+"
+msgstr "Desactivar Memo+"
 
 msgid "MEMOPLUS_TURN_OFF_LOCKED_TITLE"
-msgstr "Turn off Memo+?"
+msgstr "¿Desactivar Memo+?"
 
 msgid "MERCH"
-msgstr "Merch"
+msgstr "Mercancía"
 
 msgid "MESSAGE_CONTAINS_INVALID_CHARACTERS"
 msgstr "Tu mensaje contiene caracteres inválidos."
@@ -1682,10 +1682,10 @@ msgid "MODERATOR"
 msgstr "Moderador"
 
 msgid "MODIFIED"
-msgstr "Modified"
+msgstr "Modificado"
 
 msgid "MONTHLY_PLUS_SUBSCRIPTION"
-msgstr "Monthly Plus Subscription"
+msgstr "Suscripción Mensual de Plus"
 
 msgid "MORE"
 msgstr "Más"
@@ -1790,7 +1790,7 @@ msgid "NEEDS_A_TITLE"
 msgstr "Necesita un título"
 
 msgid "NEEDS_SUDOMEMO_PLUS"
-msgstr "Needs Sudomemo Plus"
+msgstr "Necesita Sudomemo Plus"
 
 msgid "NEWEST"
 msgstr "Más nuevo"
@@ -1805,21 +1805,21 @@ msgid "NEWS_ARTICLES"
 msgstr "News Articles"
 
 msgid "NEW_ARRIVALS"
-msgstr "New Arrivals"
+msgstr "Nuevas Llegadas"
 
 # New Creator badge text
 msgid "NEW_CREATOR_BADGE"
-msgstr "New Creator"
+msgstr "Nuevo Creador"
 
 msgid "NEW_EMAIL"
-msgstr "New Email Address"
+msgstr "Nueva Dirección de Correo Electrónico"
 
 # Form validation messages
 msgid "NEW_EMAIL_FIELD_MISSING"
-msgstr "Please enter a new email address."
+msgstr "Por favor escribe una dirección de correo nueva."
 
 msgid "NEW_EMAIL_PLACEHOLDER"
-msgstr "Enter your new email address"
+msgstr "Escribe tu nuevo correo electrónico"
 
 msgid "NEW_FRAME"
 msgstr "Nuevo Marco"
@@ -2427,10 +2427,10 @@ msgid "RELEASED"
 msgstr "Publicado"
 
 msgid "REMOVE"
-msgstr "Remove"
+msgstr "Remover"
 
 msgid "REMOVE_ACCOUNT"
-msgstr "Remove"
+msgstr "Remover"
 
 msgid "REMOVE_FAVORITE"
 msgstr "Remove Favorite"
@@ -2442,19 +2442,19 @@ msgid "RENAME_OVERLAY"
 msgstr "Rename Overlay"
 
 msgid "REPLY"
-msgstr "Reply"
+msgstr "Responder"
 
 msgid "REPLYING_TO"
-msgstr "Replying to"
+msgstr "Respondiendo a"
 
 msgid "REQUIRED"
 msgstr "Required"
 
 msgid "REQUIRES_SUDOMEMO_PLUS"
-msgstr "Requires Sudomemo Plus"
+msgstr "Requiere Sudomemo Plus"
 
 msgid "RESET_PASSWORD_BY_FSID"
-msgstr "¡Aún puedes restablecer tu contraseña con tu ID de Flipnote Studio! Simplemente envía un mensaje rápido a Soporte de Sudomemo y te lo enviaremos."
+msgstr "¡Aún puedes reiniciar tu contraseña con tu ID de Flipnote Studio! Solo tienes que enviar un mensaje al Soporte de Sudomemo y te ayudaremos."
 
 msgid "RESOURCES"
 msgstr "Resources"
@@ -2506,7 +2506,7 @@ msgid "SEARCH_NO_RESULTS_TITLE"
 msgstr "No results"
 
 msgid "SEARCH_PAGE_FORM_PLACEHOLDER"
-msgstr "Nombre de usuario, FSID, canción, artista, o canal"
+msgstr "Nombre de usuario, FSID, canción, artista o canal"
 
 msgid "SEARCH_PAGE_FUZZY_SEARCH_TIP"
 msgstr "Tip: Puedes pedir nombres como 'Austin' y encontrar resultados como 'ÄuらtÎn'"
@@ -2519,7 +2519,7 @@ msgid "SEARCH_PAGE_NO_RESULTS_FOUND"
 msgstr "No se encontraron resultados."
 
 msgid "SEARCH_PAGE_TOO_MANY_MATCHED"
-msgstr "Tu busqueda encaja con demasiados creadores - intenta algo más específico."
+msgstr "Tu búsqueda encaja con demasiados creadores - intenta algo más específico."
 
 # Search page
 msgid "SEARCH_SUDOMEMO"
@@ -2538,7 +2538,7 @@ msgid "SETTINGS"
 msgstr "Configuraciones"
 
 msgid "SET_AS_PROFILE_PICTURE"
-msgstr "Set as Profile Picture"
+msgstr "Usar como Foto de Perfil"
 
 msgid "SHARE"
 msgstr "Compartir"
@@ -2562,7 +2562,7 @@ msgid "SHARE_ON_TWITTER"
 msgstr "Compartir a Twitter"
 
 msgid "SHARE_ON_WHATSAPP"
-msgstr "Comparte en WhatsApp"
+msgstr "Compartir en WhatsApp"
 
 msgid "SHOP_NOW"
 msgstr "Comprar Ahora"
@@ -2649,7 +2649,7 @@ msgid "SUDOMEMO_SHOP_ABOUT_TICKETS_1"
 msgstr "Los tickets son ítems entretenidos en Sudomemo que puedes usar para ganar Estrellas, Sudomemo Plus, y otras cosas!"
 
 msgid "SUDOMEMO_SHOP_ABOUT_TICKETS_2"
-msgstr "Una vez que tengas un Ticket, puedes usarlo en tu Sala de Creador tocando \"Redeem\" - o, puedes mandar un código de ticket como regalo a un amigo!"
+msgstr "Una vez que tengas un Ticket, puedes usarlo en tu Sala del Creador tocando \"Canjear\" - o, puedes mandar un código de ticket como regalo a un amigo!"
 
 msgid "SUDOMEMO_SHOP_ALL_ABOUT_PLUS"
 msgstr "Todo sobre Sudomemo Plus"
@@ -2658,7 +2658,7 @@ msgid "SUDOMEMO_SHOP_LEARN_ABOUT_PLUS"
 msgstr "Aprende sobre lo que puedes hacer con Sudomemo Plus:"
 
 msgid "SUDOMEMO_SHOP_META_DESCRIPTION"
-msgstr "Tienda de Sudomemo: Mercancia de Sudomemo, tickets para Sudomemo Plus y Estrellas, y otras cosas divertidas!"
+msgstr "Tienda de Sudomemo: ¡Mercancía de Sudomemo, tickets para Sudomemo Plus y Estrellas, y otras cosas divertidas!"
 
 msgid "SUDOMEMO_THEATRE"
 msgstr "Teatro Sudomemo"
@@ -2667,29 +2667,29 @@ msgid "SUDOMEMO_USER"
 msgstr "Usuario de Sudomemo"
 
 msgid "SUPPORT_US"
-msgstr "Support Us"
+msgstr "¡Apóyanos!"
 
 msgid "SWITCH_ACCOUNT"
-msgstr "Switch"
+msgstr "Cambiar"
 
 msgid "SWITCH_TO_ANOTHER_ACCOUNT"
-msgstr "Switch to another account:"
+msgstr "Cambiar a otra cuenta:"
 
 msgid "TERMS_OF_USE"
 msgstr "Términos de Uso"
 
 msgid "TEST"
-msgstr "Test"
+msgstr "Prueba"
 
 msgid "THEME_ADVERT_TRY_THIS_THEME"
-msgstr "Try this theme!"
+msgstr "Prueba este fondo!"
 
 msgid "THIS_FLIPNOTE_IS_SPINOFF_OF"
-msgstr "Esta Flipnote es un spin-off de"
+msgstr "Este Flipnote es un Spin-Off de"
 
 # Sudomemo Shop
 msgid "TICKETS"
-msgstr "Boletos"
+msgstr "Tickets"
 
 msgid "TITLE"
 msgstr "Título"
@@ -2708,22 +2708,22 @@ msgid "TO_ADD_A_COMMENT"
 msgstr "para añadir un comentario"
 
 msgid "TRANSLATE_COMMENT"
-msgstr "Translate"
+msgstr "Traducir"
 
 msgid "TRANSLATION_ATTRIBUTION_GOOGLE"
-msgstr "Translated by Google"
+msgstr "Traducido por Google"
 
 msgid "TRANSLATION_NOT_READY"
-msgstr "Translation not yet ready for this comment."
+msgstr "No hay una traducción lista para este comentario aún."
 
 msgid "TRANSLATION_UNAVAILABLE"
-msgstr "Translation unavailable."
+msgstr "Traducción no disponible."
 
 msgid "TROPHY_CASE"
 msgstr "Vitrina de Trofeos"
 
 msgid "TRY_AGAIN"
-msgstr "Try again"
+msgstr "Volver a intentar"
 
 msgid "TRY_ENTERING_CODE_AGAIN"
 msgstr "Please try entering the code again."
@@ -2774,7 +2774,7 @@ msgid "USED_IN_N_FLIPNOTES"
 msgstr "Used in %d Flipnotes"
 
 msgid "USERNAME"
-msgstr "Username"
+msgstr "Nombre de Usuario"
 
 msgid "USERNAME_REQUIRED"
 msgstr "Se requiere un nombre de usuario."
@@ -2804,37 +2804,37 @@ msgid "USER_SETTINGS_BIO_EXPLANATION"
 msgstr "Aquí puedes actualizar tu bio."
 
 msgid "USER_SETTINGS_CHANGE_EMAIL_EXPLANATION"
-msgstr "Update your email address. A verification email will be sent to your new address."
+msgstr "Cambia tu dirección de correo electrónico. Se enviará un correo de confirmación a tu nuevo correo."
 
 msgid "USER_SETTINGS_CHANGE_PASSWORD_EXPLANATION"
 msgstr "Aquí puedes cambiar la contraseña de tu cuenta de Sudomemo:"
 
 msgid "USER_SETTINGS_CONSOLE_MANAGEMENT_EXPLANATION"
-msgstr "View and manage the consoles linked to your Sudomemo account."
+msgstr "Revisa y administra las consolas conectadas a tu cuenta de Sudomemo."
 
 msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
-msgstr "Una vez que te hayas unido a Sudomemo Discord, copia y pega esto en el chat."
+msgstr "Luego de unirte al Discord de Sudomemo, copia y pega esto al chat."
 
 msgid "USER_SETTINGS_EDIT_PROFILE_EXPLANATION"
-msgstr "Change your profile photo, bio, and shelves in one place."
+msgstr "Cambia tu foto de perfil, biografía y estanterías en un solo lugar."
 
 msgid "USER_SETTINGS_EMAIL_EXPLANATION"
-msgstr "Configure which emails you receive and how often they're sent."
+msgstr "Configura que correos recibes y con qué frecuencia los recibes."
 
 msgid "USER_SETTINGS_LANGUAGE_EXPLANATION"
-msgstr "Choose your preferred language for Sudomemo"
+msgstr "Escoge el idioma de Sudomemo"
 
 msgid "USER_SETTINGS_PLUS_EXPLANATION"
-msgstr "Manage your Sudomemo Plus subscription and view benefits."
+msgstr "Administra tu suscripción a Sudomemo Plus y mira sus beneficios."
 
 msgid "USER_SETTINGS_PROFILE_LAYOUT_EXPLANATION"
-msgstr "Manage shelves shown above your profile Flipnotes."
+msgstr "Administra las estanterías mostradas arriba de los Flipnotes de tu perfil."
 
 msgid "USER_SETTINGS_SUPPORT_TOKEN_EXPLANATION"
 msgstr "Los tokens de soporte se usan para verificar tu cuenta cuando contactas al Soporte de Sudomemo."
 
 msgid "USER_SETTINGS_USERNAME_EXPLANATION"
-msgstr "Update your username in your Nintendo DSi/3DS System Settings"
+msgstr "Actualiza tu nombre de usuario en la Configuración de la consola desde tu Nintendo DSi/3DS."
 
 msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
 msgstr "Configura tu Canal de YouTube vinculado y ajustes predeterminados de carga de la Flipnote."
@@ -2843,13 +2843,13 @@ msgid "USE_THIS_FRAME_FROM_NOW_ON"
 msgstr "Usar este marco de ahora en adelante"
 
 msgid "VERIFICATION_FAILED"
-msgstr "Verification Failed"
+msgstr "Verificación Fallida"
 
 msgid "VERIFIED_USER"
 msgstr "Usuario Verificado"
 
 msgid "VERIFY_CODE"
-msgstr "Verify"
+msgstr "Verificar"
 
 msgid "VIEWPAGE_ADD_MODERATOR_COMMENT"
 msgstr "Añadir comentario como moderador"
@@ -3104,10 +3104,10 @@ msgid "YEARLY_PLUS_SUBSCRIPTION"
 msgstr "Yearly Plus Subscription"
 
 msgid "YOUR_DISCORD_WEBHOOKS"
-msgstr "Your Discord Webhooks"
+msgstr "Tus Webhooks de Discord"
 
 msgid "YOUR_SUBSCRIPTIONS"
-msgstr "Your Subscriptions"
+msgstr "Tus Suscripciones"
 
 msgid "YOUTUBE"
 msgstr "YouTube"
@@ -3264,26 +3264,26 @@ msgid "YOUTUBE_OAUTH_ERROR_PERMISSIONS_TITLE"
 msgstr "YouTube Permissions Missing"
 
 msgid "YOUTUBE_OAUTH_ERROR_TECHNICAL_DETAILS"
-msgstr "Technical Details"
+msgstr "Detalles Técnicos"
 
 msgid "YOUTUBE_OAUTH_ERROR_TITLE"
-msgstr "YouTube Account Linking Error"
+msgstr "Error al Enlazar tu Cuenta de YouTube"
 
 msgid "YOUTUBE_OAUTH_ERROR_TRY_AGAIN"
-msgstr "Try Again"
+msgstr "Volver a Intentar"
 
 msgid "YOUTUBE_OAUTH_ERROR_UNSUPPORTED"
-msgstr "An unexpected error occurred while connecting your YouTube account."
+msgstr "Ocurrió un error inesperado al intentar conectar tu cuenta de YouTube."
 
 msgid "YOUTUBE_OAUTH_ERROR_UNSUPPORTED_DESC"
-msgstr "Please contact Sudomemo Support and include the technical details below so we can improve the connection process for future users."
+msgstr "Por favor contacta con el Soporte de Sudomemo e incluye los detalles técnicos de abajo para que podamos mejorar el proceso de conexión en el futuro."
 
 msgid "YOUTUBE_PENDING_UPLOAD"
-msgstr "Tu Flipnote está esperando a ser cargada en este momento. Revisa de nuevo en unos minutos."
+msgstr "Tu Flipnote está esperando a ser subido en este momento. Revisa de nuevo en unos minutos."
 
 # Main playlist section header
 msgid "YOUTUBE_PLAYLISTS"
-msgstr "Playlists"
+msgstr "Listas de Reproducción"
 
 msgid "YOUTUBE_PLAYLIST_ITEM"
 msgstr "1 video"
@@ -3293,37 +3293,37 @@ msgstr "%d videos"
 
 # Playlist status
 msgid "YOUTUBE_PLAYLIST_PRIVATE"
-msgstr "Private"
+msgstr "Privada"
 
 msgid "YOUTUBE_PLAYLIST_PUBLIC"
-msgstr "Public"
+msgstr "Pública"
 
 msgid "YOUTUBE_PLAYLIST_UNLISTED"
-msgstr "Unlisted"
+msgstr "No listada"
 
 # Position in queue: 4 - means there are three uploads ahead of yours
 msgid "YOUTUBE_POSITION_IN_QUEUE"
 msgstr "Posición en la cola:"
 
 msgid "YOUTUBE_RECONNECT_PROMPT"
-msgstr "La conexión a tu canal es expirado. Por favor reconéctala para continuar."
+msgstr "Ha expirado la conexión con tu canal. Deberas reconectar tu canal de YouTube para continuar."
 
 msgid "YOUTUBE_REFRESH_ACCOUNT"
 msgstr "Actualizar cuenta"
 
 msgid "YOUTUBE_SAVE_DEFAULT_PLAYLISTS"
-msgstr "Update Default Playlists"
+msgstr "Actualizar Listas de Reproducción Predeterminadas"
 
 # Playlist selector search
 msgid "YOUTUBE_SEARCH_PLAYLISTS_PLACEHOLDER"
-msgstr "Search for a playlist"
+msgstr "Buscar lista de reproducción"
 
 # Playlist selection for uploads
 msgid "YOUTUBE_SELECT_PLAYLISTS"
-msgstr "Add to Playlists"
+msgstr "Agregar a Listas de Reproducción"
 
 msgid "YOUTUBE_SELECT_PLAYLISTS_DESCRIPTION"
-msgstr "Select which of your YouTube playlists to add this Flipnote to (optional)"
+msgstr "Selecciona las listas de reproducción de YouTube a las que te gustaría agregar este Flipnote (esto es opcional)"
 
 msgid "YOUTUBE_SHORT"
 msgstr "Short de YouTube"
@@ -3332,37 +3332,37 @@ msgid "YOUTUBE_SHORT_TOGGLE"
 msgstr "¿Convertirlo en un Short de YouTube?"
 
 msgid "YOUTUBE_STATUS_BEING_PROCESSED"
-msgstr "Tu video está procesadando."
+msgstr "Tu video está siendo procesado."
 
 msgid "YOUTUBE_STATUS_COMPLETE"
-msgstr "¡Carga completada!"
+msgstr "¡Subida completa!"
 
 msgid "YOUTUBE_STATUS_FAILED_AUTH"
-msgstr "La carga falló debido a un problema de autenticación."
+msgstr "La subida falló debido a un problema de autenticación."
 
 msgid "YOUTUBE_STATUS_FAILED_CLIENT_ERROR"
-msgstr "La carga falló debido a un problema del cliente."
+msgstr "La subida falló debido a un problema del cliente."
 
 msgid "YOUTUBE_STATUS_FAILED_GONE"
-msgstr "El Flipnote desapareció antes de que se pudiera completar la carga."
+msgstr "El Flipnote desapareció antes de que se pudiera completar la subida."
 
 msgid "YOUTUBE_STATUS_FAILED_SERVICE_ERROR"
-msgstr "La carga falló debido a un problema del servicio."
+msgstr "La subida falló debido a un problema del servicio."
 
 msgid "YOUTUBE_STATUS_FAILED_THUMB"
-msgstr "Su video se cargó correctamente, pero tuvimos un problema al cargar la miniatura."
+msgstr "Tu video se subió correctamente, pero tuvimos un problema al cargar la miniatura."
 
 msgid "YOUTUBE_STATUS_FAILED_UNEXPECTED_ERROR"
-msgstr "Un problema inesperado occurrió al cargar."
+msgstr "Ocurrió un problema inesperado al intentar subir."
 
 msgid "YOUTUBE_STATUS_FAILED_UNKNOWN"
-msgstr "La carga falló debido a un problema desconocido."
+msgstr "La subida falló debido a un problema desconocido."
 
 msgid "YOUTUBE_STATUS_PAUSED_GLOBAL_QUOTA"
 msgstr "Nuestra cuota global de uso ha sido excedida, por lo cual tu carga ha sido significantemente atrasada."
 
 msgid "YOUTUBE_STATUS_TRACKER_DONE"
-msgstr "¡Hecho!"
+msgstr "¡Listo!"
 
 msgid "YOUTUBE_STATUS_TRACKER_NEW"
 msgstr "Nuevo"
@@ -3374,20 +3374,20 @@ msgid "YOUTUBE_STATUS_WAITING_TO_BE_PROCESSED"
 msgstr "Tu carga está esperando ser procesada por el momento."
 
 msgid "YOUTUBE_SYNC_ERROR"
-msgstr "Error syncing playlists"
+msgstr "Error al sincronizar listas de reproducción"
 
 msgid "YOUTUBE_SYNC_IN_PROGRESS"
-msgstr "Syncing playlists..."
+msgstr "Sincronizando listas de reproducción..."
 
 # Manual playlist sync
 msgid "YOUTUBE_SYNC_PLAYLISTS"
-msgstr "Sync Playlists"
+msgstr "Sincronizar Listas de Reproducción"
 
 msgid "YOUTUBE_SYNC_PLAYLISTS_BUTTON"
-msgstr "Sync Now"
+msgstr "Sincronizar Ahora"
 
 msgid "YOUTUBE_SYNC_SUCCESS"
-msgstr "Playlists synced successfully"
+msgstr "Listas de reproduccion sincronizadas correctamente"
 
 msgid "YOUTUBE_TAGS"
 msgstr "Etiquetas"
@@ -3396,19 +3396,19 @@ msgid "YOUTUBE_TAGS_EXPLANATION"
 msgstr "Pon una coma después de cada etiqueta"
 
 msgid "YOUTUBE_TAGS_HINT"
-msgstr "Etiquetas, separadas por una comma."
+msgstr "Etiquetas, separadas por una coma."
 
 msgid "YOUTUBE_TERMS_AGREEMENT_NOTE"
-msgstr "Al subir tus videos a YouTube, reconoces que aceptas los Términos y Condiciones junto con las Normas de la Comunidad de YouTube."
+msgstr "Al subir tus videos a YouTube, aceptas los Términos y Condiciones junto con las Normas de la Comunidad de YouTube."
 
 msgid "YOUTUBE_UNLINK_ACCOUNT"
 msgstr "Desvincular cuenta"
 
 msgid "YOUTUBE_UNLINK_ACCOUNT_CONFIRM"
-msgstr "¿Está seguro de que desea eliminar su canal de YouTube vinculado?"
+msgstr "¿Estás seguro de que quieres desvincular tu cuenta de YouTube?"
 
 msgid "YOUTUBE_UPLOAD_HISTORY"
-msgstr "Historial de Cargas"
+msgstr "Historial de Subidas"
 
 msgid "YOUTUBE_UPLOAD_HISTORY_CLICK_ICON_TO_TRACK"
 msgstr "¡Presiona el ícono del estado a la izquierda para ver tu video en el rastreador de carga en vivo!"
@@ -3439,7 +3439,7 @@ msgid "YOUTUBE_VISIBILITY_PUBLIC"
 msgstr "Público"
 
 msgid "YOUTUBE_VISIBILITY_UNLISTED"
-msgstr "No enlistado"
+msgstr "No listado"
 
 msgid "YOUTUBE_WATCH_NOW_AT"
 msgstr "Ver ahora:"
