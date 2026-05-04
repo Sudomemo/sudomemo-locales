@@ -2042,6 +2042,38 @@ msgstr "Pinned Comment"
 msgid "PI_SEE_IN_INVENTORY"
 msgstr "You can find this in your Inventory!"
 
+# %d = star count
+msgid "PI_STARS_BLUE_NAME"
+msgstr "%d Blue Star(s)"
+
+msgid "PI_STARS_DESC"
+msgstr "You can add these Stars to things that you like!"
+
+# %d = star count
+msgid "PI_STARS_GREEN_NAME"
+msgstr "%d Green Star(s)"
+
+# %d = star count
+msgid "PI_STARS_PURPLE_NAME"
+msgstr "%d Purple Star(s)"
+
+# %d = star count
+msgid "PI_STARS_RED_NAME"
+msgstr "%d Red Star(s)"
+
+msgid "PI_STARS_TITLE"
+msgstr "You got Stars!"
+
+msgid "PI_SUDOMEMO_PLUS_DESC"
+msgstr "You can check your Plus balance in your Inventory."
+
+# %d = number of days
+msgid "PI_SUDOMEMO_PLUS_NAME"
+msgstr "%d days of Sudomemo Plus"
+
+msgid "PI_SUDOMEMO_PLUS_TITLE"
+msgstr "You got Sudomemo Plus!"
+
 msgid "PLAYLIST"
 msgstr "Playlist"
 
@@ -2307,6 +2339,115 @@ msgstr "%s ★α ειναι απο:"
 # # channels that the user posts in most often
 msgid "PROFILE_USER_POSTS_IN"
 msgstr "Ο χρηστης %s ανεβαζει στα..."
+
+msgid "PROMO_ALREADY_CLAIMED_BODY"
+msgstr "Looks like you've already redeemed this promo. The reward is already on your account. Have fun!"
+
+msgid "PROMO_ALREADY_CLAIMED_TITLE"
+msgstr "You've already claimed this reward"
+
+msgid "PROMO_BACK_HOME"
+msgstr "Back to Sudomemo"
+
+msgid "PROMO_CLAIM_DEFAULT"
+msgstr "Claim my reward"
+
+msgid "PROMO_CONTINUE_DEFAULT"
+msgstr "Continue"
+
+# %s = the campaign's CTA label
+msgid "PROMO_CONTINUE_TO"
+msgstr "Continue: %s"
+
+msgid "PROMO_CSRF_BODY"
+msgstr "Your session token didn't match. This can happen if you left this page open for a long time. Please go back and click Claim again."
+
+msgid "PROMO_CSRF_RETRY"
+msgstr "Go back"
+
+msgid "PROMO_CSRF_TITLE"
+msgstr "Please try that again"
+
+msgid "PROMO_DBERROR_BODY"
+msgstr "We hit a snag while processing your reward. Please try again in a moment. If the problem keeps happening, contact support and we'll sort it out."
+
+msgid "PROMO_DBERROR_RETRY"
+msgstr "Try again"
+
+msgid "PROMO_DBERROR_TITLE"
+msgstr "Something went wrong on our end"
+
+msgid "PROMO_ENDED_BODY"
+msgstr "Thanks for clicking through. This campaign has wrapped up. Watch your inbox for the next one!"
+
+msgid "PROMO_ENDED_TITLE"
+msgstr "This promo has ended"
+
+msgid "PROMO_EXPIRED_BODY"
+msgstr "Sorry, this offer's window has closed. Keep an eye on your inbox; we run promos throughout the year!"
+
+msgid "PROMO_EXPIRED_TITLE"
+msgstr "This promo link has expired"
+
+msgid "PROMO_GENERIC_LANDING_BODY"
+msgstr "You've been sent a reward by the Sudomemo team! Click the button below to claim it."
+
+msgid "PROMO_GENERIC_REDEEMED_BODY"
+msgstr "Your reward has been added to your account. Enjoy!"
+
+msgid "PROMO_INVALID_BODY"
+msgstr "This promo link doesn't look right. Double-check the URL in your email, or head back to the Sudomemo home page."
+
+msgid "PROMO_INVALID_TITLE"
+msgstr "We couldn't find that promo link"
+
+msgid "PROMO_PAUSED_BODY"
+msgstr "We've put this promo on pause for a moment. Try again in a little while, and thanks for your patience!"
+
+msgid "PROMO_PAUSED_TITLE"
+msgstr "This promo is temporarily paused"
+
+msgid "PROMO_REVOKED_BODY"
+msgstr "This particular link has been revoked. If you think this is a mistake, please reach out to support."
+
+msgid "PROMO_REVOKED_TITLE"
+msgstr "This promo link is no longer valid"
+
+msgid "PROMO_REWARDS_HEADER"
+msgstr "What you got:"
+
+# %s = item display name
+msgid "PROMO_REWARD_ITEM"
+msgstr "Item: %s"
+
+# %d = number of days
+msgid "PROMO_REWARD_PLUS_DAYS"
+msgstr "%d days of Sudomemo Plus"
+
+# %d = star count
+msgid "PROMO_REWARD_STARS"
+msgstr "%d Star(s)"
+
+# %s = theme display name
+msgid "PROMO_REWARD_THEME"
+msgstr "Theme: %s"
+
+# %s = title display name
+msgid "PROMO_REWARD_TITLE"
+msgstr "Title: %s"
+
+# %s = trophy display name
+msgid "PROMO_REWARD_TROPHY"
+msgstr "Trophy: %s"
+
+msgid "PROMO_WRONG_USER_BODY"
+msgstr "You're currently signed in to an account that this promo wasn't sent to. Promo links are personal and tied to the account they were emailed to. Switch accounts to claim it."
+
+msgid "PROMO_WRONG_USER_SWITCH"
+msgstr "Sign out and switch accounts"
+
+msgid "PROMO_WRONG_USER_TITLE"
+msgstr "This link was sent to a different account"
 
 msgid "PUSH_NOTIFICATIONS_DESCRIPTION"
 msgstr "Receive instant notifications when you get stars, comments, and other interactions on your Flipnotes."
