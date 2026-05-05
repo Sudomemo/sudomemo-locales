@@ -71,6 +71,9 @@ msgstr "Skickade in en vinnande Flipnote vid FATE 2024"
 msgid "TROPHY_DESC_fate_2025_winner"
 msgstr "Skickade in en vinnande Flipnote vid FATE 2025"
 
+msgid "TROPHY_DESC_fate_2026_winner"
+msgstr "One of the winners of the 2026 FATE competition!"
+
 msgid "TROPHY_DESC_featured_artist"
 msgstr "Bli känd som Sudomemo kända Artist"
 
@@ -164,6 +167,9 @@ msgstr "En vinnare av Sudomemo Flipnote Fight Competition våren 2024!"
 msgid "TROPHY_DESC_spring_2025_ffc_winner"
 msgstr "En vinnare av Sudomemo Flipnote Fight Competition våren 2025!"
 
+msgid "TROPHY_DESC_spring_2026_ffc_winner"
+msgstr "One of the winners of the Spring 2026 Sudomemo Flipnote Fight Competition!"
+
 msgid "TROPHY_DESC_sudomemo_radio"
 msgstr "Bidrog till ett avsnitt av Sudomemo Radio"
 
@@ -245,6 +251,9 @@ msgstr "FATE 2024's vinnare"
 
 msgid "TROPHY_NAME_fate_2025_winner"
 msgstr "FATE 2025's vinnare"
+
+msgid "TROPHY_NAME_fate_2026_winner"
+msgstr "FATE 2026 Winner"
 
 msgid "TROPHY_NAME_featured_artist"
 msgstr "Känd Artist"
@@ -338,6 +347,9 @@ msgstr "Sudomemo Flipnote Fight Competition's vinnare Våren 2024'"
 
 msgid "TROPHY_NAME_spring_2025_ffc_winner"
 msgstr "Sudomemo Flipnote Fight Competition's vinnare Våren 2025'"
+
+msgid "TROPHY_NAME_spring_2026_ffc_winner"
+msgstr "Spring 2026 Sudomemo Flipnote Fight Competition Winner"
 
 msgid "TROPHY_NAME_sudomemo_radio"
 msgstr "Sudomemo Radio Bidragare"

@@ -219,6 +219,9 @@ msgstr "Congratulations on your winning FATE 2024 submission!"
 msgid "TICKET_DESC_fate_2025_winner_ticket"
 msgstr "Congratulations on your winning FATE 2025 submission!"
 
+msgid "TICKET_DESC_fate_2026_winner_ticket"
+msgstr "Congratulations on your winning entry to the 2026 FATE competition!"
+
 msgid "TICKET_DESC_featured_artist_ticket"
 msgstr "We give our warm congratulations to you for becoming a Sudomemo Featured Artist!"
 
@@ -319,6 +322,9 @@ msgstr "Congratulations on your winning entry to the Spring 2024 Sudomemo Flipno
 msgid "TICKET_DESC_spring_2025_ffc_winner_ticket"
 msgstr "Congratulations on your winning entry to the Spring 2025 Sudomemo Flipnote Fight Competition!"
 
+msgid "TICKET_DESC_spring_2026_ffc_winner_ticket"
+msgstr "Congratulations on your winning entry to the Spring 2026 Sudomemo Flipnote Fight Competition!"
+
 msgid "TICKET_DESC_sudomemo_radio_pilot_ticket"
 msgstr "Congratulations on being a part of the very first episode of Sudomemo Radio!"
 
@@ -416,6 +422,9 @@ msgstr "FATE 2024 Winner Ticket"
 
 msgid "TICKET_NAME_fate_2025_winner_ticket"
 msgstr "FATE 2025 Winner Ticket"
+
+msgid "TICKET_NAME_fate_2026_winner_ticket"
+msgstr "FATE 2026 Winner Ticket"
 
 msgid "TICKET_NAME_featured_artist_ticket"
 msgstr "Featured Artist Ticket"
@@ -516,6 +525,9 @@ msgstr "Spring 2024 Sudomemo F.F.C. Winner Ticket"
 
 msgid "TICKET_NAME_spring_2025_ffc_winner_ticket"
 msgstr "Spring 2025 Sudomemo F.F.C. Winner Ticket"
+
+msgid "TICKET_NAME_spring_2026_ffc_winner_ticket"
+msgstr "Spring 2026 Sudomemo F.F.C. Winner Ticket"
 
 msgid "TICKET_NAME_sudomemo_radio_pilot_ticket"
 msgstr "Sudomemo Radio Pilot Ticket"

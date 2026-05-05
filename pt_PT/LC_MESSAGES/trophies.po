@@ -71,6 +71,9 @@ msgstr "Fizeste upload de um Flipnote vencedor para o FATE 2024"
 msgid "TROPHY_DESC_fate_2025_winner"
 msgstr "Fizeste upload de um Flipnote vencedor para o FATE 2025"
 
+msgid "TROPHY_DESC_fate_2026_winner"
+msgstr "One of the winners of the 2026 FATE competition!"
+
 msgid "TROPHY_DESC_featured_artist"
 msgstr "Sê reconhecido como um Artista Destacado no Sudomemo"
 
@@ -164,6 +167,9 @@ msgstr "Um dos vencedores da Competição Flipnote Fight do Sudomemo de Primaver
 msgid "TROPHY_DESC_spring_2025_ffc_winner"
 msgstr "Um dos vencedores da Competição Flipnote Fight do Sudomemo de Primavera 2025!"
 
+msgid "TROPHY_DESC_spring_2026_ffc_winner"
+msgstr "One of the winners of the Spring 2026 Sudomemo Flipnote Fight Competition!"
+
 msgid "TROPHY_DESC_sudomemo_radio"
 msgstr "Contribuíste conteúdo num episódio do Sudomemo Radio"
 
@@ -245,6 +251,9 @@ msgstr "Vencedor do FATE 2024"
 
 msgid "TROPHY_NAME_fate_2025_winner"
 msgstr "Vencedor do FATE 2025"
+
+msgid "TROPHY_NAME_fate_2026_winner"
+msgstr "FATE 2026 Winner"
 
 msgid "TROPHY_NAME_featured_artist"
 msgstr "Artista Destacado"
@@ -338,6 +347,9 @@ msgstr "Vencedor da Competição Flipnote Fight do Sudomemo Primavera 2024"
 
 msgid "TROPHY_NAME_spring_2025_ffc_winner"
 msgstr "Vencedor da Competição Flipnote Fight do Sudomemo Primavera 2025"
+
+msgid "TROPHY_NAME_spring_2026_ffc_winner"
+msgstr "Spring 2026 Sudomemo Flipnote Fight Competition Winner"
 
 msgid "TROPHY_NAME_sudomemo_radio"
 msgstr "Contribuidor do Sudomemo Radio"
