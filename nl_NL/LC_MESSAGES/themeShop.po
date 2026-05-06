@@ -112,6 +112,12 @@ msgstr "Betaling Geselecteerd"
 msgid "THEME_SHOP_SELECT_PAYMENT"
 msgstr "Selecteer Betaling"
 
+msgid "THEME_SHOP_SOCIAL_PROOF_OWNS_FORMAT"
+msgstr "%s has this theme in their collection"
+
+msgid "THEME_SHOP_SOCIAL_PROOF_USES_FORMAT"
+msgstr "%s uses this theme"
+
 msgid "THEME_SHOP_STARS_AWAY_FORMAT"
 msgstr "You're %d %s Stars away from this theme!"
 
