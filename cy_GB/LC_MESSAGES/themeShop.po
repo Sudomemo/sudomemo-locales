@@ -135,3 +135,27 @@ msgstr "Enw Defnyddiwr"
 
 msgid "YOU_HAVE"
 msgstr "Eich Sêr Lliw:"
+
+msgid "THEME_SHOP_BADGE_AVAILABLE_UNTIL"
+msgstr "Available until %s"
+
+msgid "THEME_SHOP_BADGE_LIMITED"
+msgstr "Limited drop"
+
+# Variant of THEME_SHOP_BADGE_LIMITED that includes the end date when the
+# rule has a non-NULL ends_at. Sprintf placeholder: %s = localised date.
+
+msgid "THEME_SHOP_BADGE_LIMITED_ENDS"
+msgstr "Limited drop — ends %s"
+
+msgid "THEME_SHOP_BADGE_RECURRING"
+msgstr "Seasonal theme · returns each year %1$s – %2$s"
+
+msgid "THEME_SHOP_VAULT_HEADING"
+msgstr "From the archives"
+
+msgid "THEME_SHOP_VAULT_NOT_ON_SALE"
+msgstr "Not on sale"
+
+msgid "THEME_SHOP_VAULT_SUBTITLE"
+msgstr "Themes that aren't on sale right now."
