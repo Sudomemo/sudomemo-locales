@@ -60,6 +60,20 @@ msgstr "Here are the themes that you own! Preview new ones and switch between th
 msgid "THEME_SHOP"
 msgstr "テーマショップ"
 
+msgid "THEME_SHOP_BADGE_AVAILABLE_UNTIL"
+msgstr "Available until %s"
+
+msgid "THEME_SHOP_BADGE_LIMITED"
+msgstr "Limited drop"
+
+# Variant of THEME_SHOP_BADGE_LIMITED that includes the end date when the
+# rule has a non-NULL ends_at. Sprintf placeholder: %s = localised date.
+msgid "THEME_SHOP_BADGE_LIMITED_ENDS"
+msgstr "Limited drop — ends %s"
+
+msgid "THEME_SHOP_BADGE_RECURRING"
+msgstr "Seasonal theme · returns each year %1$s – %2$s"
+
 msgid "THEME_SHOP_CHOOSE_CAREFULLY_BEFORE_BUYING"
 msgstr "購入する際は慎重に選択してください"
 
@@ -127,30 +141,6 @@ msgstr "支払い後に残るカラースター"
 msgid "THEME_SHOP_STAR_BALANCE_TOO_LOW"
 msgstr "このテーマを購入するグリーンスターが足りません"
 
-msgid "THEME_SHOP_YOU_OWN_THIS_THEME"
-msgstr "あなたはすでにこのテーマを所有しています。"
-
-msgid "USERNAME"
-msgstr "ユーザー名"
-
-msgid "YOU_HAVE"
-msgstr "あなたのカラースター："
-
-msgid "THEME_SHOP_BADGE_AVAILABLE_UNTIL"
-msgstr "Available until %s"
-
-msgid "THEME_SHOP_BADGE_LIMITED"
-msgstr "Limited drop"
-
-# Variant of THEME_SHOP_BADGE_LIMITED that includes the end date when the
-# rule has a non-NULL ends_at. Sprintf placeholder: %s = localised date.
-
-msgid "THEME_SHOP_BADGE_LIMITED_ENDS"
-msgstr "Limited drop — ends %s"
-
-msgid "THEME_SHOP_BADGE_RECURRING"
-msgstr "Seasonal theme · returns each year %1$s – %2$s"
-
 msgid "THEME_SHOP_VAULT_HEADING"
 msgstr "From the archives"
 
@@ -159,3 +149,12 @@ msgstr "Not on sale"
 
 msgid "THEME_SHOP_VAULT_SUBTITLE"
 msgstr "Themes that aren't on sale right now."
+
+msgid "THEME_SHOP_YOU_OWN_THIS_THEME"
+msgstr "あなたはすでにこのテーマを所有しています。"
+
+msgid "USERNAME"
+msgstr "ユーザー名"
+
+msgid "YOU_HAVE"
+msgstr "あなたのカラースター："
