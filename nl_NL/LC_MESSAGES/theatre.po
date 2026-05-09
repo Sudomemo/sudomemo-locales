@@ -2276,13 +2276,13 @@ msgid "PROFILE_SHELVES_KEY_PREFIX"
 msgstr "Key"
 
 msgid "PROFILE_SHELVES_MAX_CREATORS_REACHED"
-msgstr "Maximum 8 Creators"
+msgstr "Maximum %s Creators"
 
 msgid "PROFILE_SHELVES_MAX_FLIPNOTES_REACHED"
-msgstr "Maximum 8 Flipnotes"
+msgstr "Maximum %s Flipnotes"
 
 msgid "PROFILE_SHELVES_MAX_PLAYLISTS_REACHED"
-msgstr "Maximum 8 Playlists"
+msgstr "Maximum %s Playlists"
 
 msgid "PROFILE_SHELVES_NONE"
 msgstr "No shelves yet."
