@@ -2275,6 +2275,9 @@ msgstr "items"
 msgid "PROFILE_SHELVES_KEY_PREFIX"
 msgstr "Key"
 
+msgid "PROFILE_SHELVES_MAX_CREATORS_REACHED"
+msgstr "Maximum 8 Creators"
+
 msgid "PROFILE_SHELVES_MAX_FLIPNOTES_REACHED"
 msgstr "Maximum 8 Flipnotes"
 
@@ -2299,11 +2302,23 @@ msgstr "Search your Flipnotes by title..."
 msgid "PROFILE_SHELVES_PROFILE_PHOTO_SELECTED"
 msgstr "You have selected a profile photo Flipnote."
 
+msgid "PROFILE_SHELVES_SEARCH_CREATOR_HELP"
+msgstr "Search for creators by username."
+
+msgid "PROFILE_SHELVES_SEARCH_CREATOR_LABEL"
+msgstr "Search for a creator"
+
+msgid "PROFILE_SHELVES_SEARCH_CREATOR_PLACEHOLDER"
+msgstr "Enter a username..."
+
 msgid "PROFILE_SHELVES_SEARCH_EMPTY_FLIPNOTES"
 msgstr "No matching Flipnotes found."
 
 msgid "PROFILE_SHELVES_SEARCH_EMPTY_PLAYLISTS"
 msgstr "No matching Playlists found."
+
+msgid "PROFILE_SHELVES_SEARCH_EMPTY_USERS"
+msgstr "No matching creators found."
 
 msgid "PROFILE_SHELVES_SEARCH_ERROR"
 msgstr "Could not search right now."
@@ -2328,6 +2343,9 @@ msgstr "Paste a playlist link, key, title, or description"
 
 msgid "PROFILE_SHELVES_TITLE"
 msgstr "Profile Shelves"
+
+msgid "PROFILE_SHELVES_TYPE_FEATURED_CREATORS"
+msgstr "Featured Creators"
 
 msgid "PROFILE_SHELVES_TYPE_FEATURED_FLIPNOTES"
 msgstr "Featured Flipnotes"

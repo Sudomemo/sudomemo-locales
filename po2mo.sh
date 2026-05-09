@@ -5,7 +5,7 @@ textdomain="$1"
 compiled_count=0
 
 if [ -n "$textdomain" ]; then
-	po_files=$(find . -name "${textdomain}.po")
+	po_files=$(find . -name "${textdomain}.po" |grep -v "/old/")
 	if [ -z "$po_files" ]; then
 		echo "No .po files found for textdomain: $textdomain"
 		exit 1
@@ -33,4 +33,3 @@ else
 	echo "Done! Recompiled $compiled_count textdomain file(s)."
 fi
 
-echo "Make sure to update file permissions and reload Apache."
