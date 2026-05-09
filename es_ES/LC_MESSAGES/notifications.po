@@ -42,6 +42,12 @@ msgstr " creó un "
 msgid "FRAGMENT_FOLLOWED_YOU"
 msgstr " ahora te está siguiendo"
 
+msgid "FRAGMENT_FOLLOWED_YOU_PLURAL"
+msgstr " ahora te están siguiendo"
+
+msgid "FRAGMENT_FOLLOWED_YOU_SINGULAR"
+msgstr " ahora te está siguiendo"
+
 msgid "FRAGMENT_HAS_BEEN_RESTORED"
 msgstr " ha sido restaurado luego de una revisión"
 

@@ -7,10 +7,10 @@ msgid "FLIPNOTE"
 msgstr "Flipnote"
 
 msgid "FRAGMENT_ADDED_PLURAL"
-msgstr " adicionado "
+msgstr " adicionaram "
 
 msgid "FRAGMENT_ADDED_SINGULAR"
-msgstr " adicionado "
+msgstr " adicionou "
 
 msgid "FRAGMENT_AND"
 msgstr " e "
@@ -28,7 +28,7 @@ msgid "FRAGMENT_COMMENT"
 msgstr "comment"
 
 msgid "FRAGMENT_COMMENTED_ON_PLURAL"
-msgstr " comentou no "
+msgstr " comentaram no "
 
 msgid "FRAGMENT_COMMENTED_ON_SINGULAR"
 msgstr " comentou no "
@@ -40,6 +40,12 @@ msgid "FRAGMENT_CREATED_A"
 msgstr " criou um "
 
 msgid "FRAGMENT_FOLLOWED_YOU"
+msgstr " seguiu-te"
+
+msgid "FRAGMENT_FOLLOWED_YOU_PLURAL"
+msgstr " seguiram-te"
+
+msgid "FRAGMENT_FOLLOWED_YOU_SINGULAR"
 msgstr " seguiu-te"
 
 msgid "FRAGMENT_HAS_BEEN_RESTORED"

@@ -42,6 +42,12 @@ msgstr " skapade en "
 msgid "FRAGMENT_FOLLOWED_YOU"
 msgstr " följde dig"
 
+msgid "FRAGMENT_FOLLOWED_YOU_PLURAL"
+msgstr " följde dig"
+
+msgid "FRAGMENT_FOLLOWED_YOU_SINGULAR"
+msgstr " följde dig"
+
 msgid "FRAGMENT_HAS_BEEN_RESTORED"
 msgstr " har blivit tillrättstäld efter genomskådning"
 
