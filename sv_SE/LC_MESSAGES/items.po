@@ -12,6 +12,9 @@ msgstr "Borde inte förvirras med andra frukter."
 msgid "ITEM_DESC_beach_ball"
 msgstr "Ett måste för en rolig simbassäng."
 
+msgid "ITEM_DESC_cookie_chocolate_chip"
+msgstr "A familiar cookie with little chocolate chips."
+
 msgid "ITEM_DESC_hot_chocolate"
 msgstr "En utsökt kopp varm choklad, perfekt för en mysig dag."
 
@@ -26,6 +29,9 @@ msgstr "Banan"
 
 msgid "ITEM_NAME_beach_ball"
 msgstr "Badboll"
+
+msgid "ITEM_NAME_cookie_chocolate_chip"
+msgstr "Chocolate Chip Cookie"
 
 msgid "ITEM_NAME_hot_chocolate"
 msgstr "Varm Choklad"
@@ -50,9 +56,3 @@ msgstr "Du äter bananen."
 
 msgid "YOU_GOT_AN_ITEM"
 msgstr "Du fick en ny ägodel!"
-
-msgid "ITEM_NAME_cookie_chocolate_chip"
-msgstr "Chocolate Chip Cookie"
-
-msgid "ITEM_DESC_cookie_chocolate_chip"
-msgstr "A familiar cookie with little chocolate chips."

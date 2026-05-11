@@ -12,6 +12,9 @@ msgstr "Isto não é uma banana da terra."
 msgid "ITEM_DESC_beach_ball"
 msgstr "Um acessório excelente para uma excursão na praia."
 
+msgid "ITEM_DESC_cookie_chocolate_chip"
+msgstr "A familiar cookie with little chocolate chips."
+
 msgid "ITEM_DESC_hot_chocolate"
 msgstr "Uma caneca de chocolate quente, perfeita para estar enrolado nos cobertores."
 
@@ -26,6 +29,9 @@ msgstr "Banana"
 
 msgid "ITEM_NAME_beach_ball"
 msgstr "Bola de Praia"
+
+msgid "ITEM_NAME_cookie_chocolate_chip"
+msgstr "Chocolate Chip Cookie"
 
 msgid "ITEM_NAME_hot_chocolate"
 msgstr "Chocolate Quente"
@@ -50,9 +56,3 @@ msgstr "Comeste a banana."
 
 msgid "YOU_GOT_AN_ITEM"
 msgstr "Recebeste um item!"
-
-msgid "ITEM_NAME_cookie_chocolate_chip"
-msgstr "Chocolate Chip Cookie"
-
-msgid "ITEM_DESC_cookie_chocolate_chip"
-msgstr "A familiar cookie with little chocolate chips."

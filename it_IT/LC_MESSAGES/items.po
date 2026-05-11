@@ -12,6 +12,9 @@ msgstr "Da non confondere con un platano."
 msgid "ITEM_DESC_beach_ball"
 msgstr "Un ottimo accessorio per un'escursione di nuoto."
 
+msgid "ITEM_DESC_cookie_chocolate_chip"
+msgstr "A familiar cookie with little chocolate chips."
+
 msgid "ITEM_DESC_hot_chocolate"
 msgstr "Una deliziosa tazza di cioccolata calda, perfetta per una giornata intima."
 
@@ -26,6 +29,9 @@ msgstr "Banana"
 
 msgid "ITEM_NAME_beach_ball"
 msgstr "Pallone da spiaggia"
+
+msgid "ITEM_NAME_cookie_chocolate_chip"
+msgstr "Chocolate Chip Cookie"
 
 msgid "ITEM_NAME_hot_chocolate"
 msgstr "Cioccolata calda"
@@ -50,9 +56,3 @@ msgstr "Tu mangi la banana."
 
 msgid "YOU_GOT_AN_ITEM"
 msgstr "Hai ottenuto un elemento!"
-
-msgid "ITEM_NAME_cookie_chocolate_chip"
-msgstr "Chocolate Chip Cookie"
-
-msgid "ITEM_DESC_cookie_chocolate_chip"
-msgstr "A familiar cookie with little chocolate chips."
