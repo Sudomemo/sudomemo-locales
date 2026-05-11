@@ -50,3 +50,9 @@ msgstr "You eat the banana."
 
 msgid "YOU_GOT_AN_ITEM"
 msgstr "You got an item!"
+
+msgid "ITEM_NAME_cookie_chocolate_chip"
+msgstr "Chocolate Chip Cookie"
+
+msgid "ITEM_DESC_cookie_chocolate_chip"
+msgstr "A familiar cookie with little chocolate chips."
