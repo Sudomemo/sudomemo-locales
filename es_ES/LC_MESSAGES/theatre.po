@@ -600,7 +600,7 @@ msgid "CONSOLE_SAVE_NOT_APPROVED"
 msgstr "Esta consola debe estar en un estado activo para crear datos de guardado."
 
 msgid "CONSOLE_SAVE_NO_BIRTHDAY"
-msgstr "Tu cumpleaños no se ha configurado. Por favor configura tu cumpleaños en la configuración de Flipnote Studio luego de conectarte, pues no se incluirá en estos datos."
+msgstr "Your birthday is not set. After installing the new save file, please set your birthday in your Flipnote Studio settings before connecting, as it will not be included in the save data."
 
 msgid "CONSOLE_SAVE_RATE_LIMITED"
 msgstr "Por favor espera unos minutos antes de crear nuevos datos de guardado."
