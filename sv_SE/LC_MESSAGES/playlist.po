@@ -114,6 +114,9 @@ msgstr "Offentlig"
 msgid "REMOVED_FROM_PLAYLIST"
 msgstr "Borttagen från spellista"
 
+msgid "SORT_BY_DEFAULT"
+msgstr "Default"
+
 msgid "SORT_BY_NEWEST"
 msgstr "Senaste"
 
