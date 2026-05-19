@@ -114,6 +114,9 @@ msgstr "Publique"
 msgid "REMOVED_FROM_PLAYLIST"
 msgstr "Retiré de la Playlist"
 
+msgid "SORT_BY_DEFAULT"
+msgstr "Default"
+
 msgid "SORT_BY_NEWEST"
 msgstr "Récent"
 

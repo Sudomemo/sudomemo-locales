@@ -955,6 +955,108 @@ msgstr "Lettres, nombres, et symboles, maximum de 40 caractères."
 msgid "EDIT_PLAYLIST"
 msgstr "Modifier la Playliste"
 
+msgid "EDIT_PLAYLIST_BACK_TO_VIEW"
+msgstr "View playlist"
+
+msgid "EDIT_PLAYLIST_CARD_ADD_ITEM"
+msgstr "Add Flipnote"
+
+msgid "EDIT_PLAYLIST_CARD_CHANGE_THUMB"
+msgstr "Change thumbnail"
+
+msgid "EDIT_PLAYLIST_CARD_EDIT_DETAILS"
+msgstr "Edit details"
+
+msgid "EDIT_PLAYLIST_CARD_MORE"
+msgstr "More"
+
+msgid "EDIT_PLAYLIST_CARD_PLAY_ALL"
+msgstr "Play all"
+
+msgid "EDIT_PLAYLIST_CARD_SHARE"
+msgstr "Share"
+
+msgid "EDIT_PLAYLIST_DETAILS_FAILED"
+msgstr "Couldn't save playlist details."
+
+msgid "EDIT_PLAYLIST_EMPTY_STATE"
+msgstr "This playlist is empty. Add Flipnotes from any Flipnote page."
+
+msgid "EDIT_PLAYLIST_ITEM_MOVE_BOTTOM"
+msgstr "Move to bottom"
+
+msgid "EDIT_PLAYLIST_ITEM_MOVE_TOP"
+msgstr "Move to top"
+
+msgid "EDIT_PLAYLIST_ITEM_OPEN"
+msgstr "Open Flipnote"
+
+msgid "EDIT_PLAYLIST_ITEM_OPTIONS"
+msgstr "Options"
+
+msgid "EDIT_PLAYLIST_ITEM_REMOVE"
+msgstr "Remove from playlist"
+
+msgid "EDIT_PLAYLIST_ITEM_REMOVED"
+msgstr "Removed from playlist."
+
+msgid "EDIT_PLAYLIST_ITEM_REMOVE_FAILED"
+msgstr "Couldn't remove that Flipnote."
+
+msgid "EDIT_PLAYLIST_ITEM_SET_THUMB"
+msgstr "Set as playlist thumbnail"
+
+msgid "EDIT_PLAYLIST_ITEM_SHARE"
+msgstr "Share Flipnote"
+
+msgid "EDIT_PLAYLIST_LINK_COPIED"
+msgstr "Link copied to clipboard."
+
+msgid "EDIT_PLAYLIST_ORDER_FAILED"
+msgstr "Couldn't save order — please try again."
+
+msgid "EDIT_PLAYLIST_ORDER_SAVED"
+msgstr "Order saved."
+
+msgid "EDIT_PLAYLIST_OVERFLOW_COPY_LINK"
+msgstr "Copy playlist link"
+
+msgid "EDIT_PLAYLIST_OVERFLOW_DELETE"
+msgstr "Delete playlist"
+
+msgid "EDIT_PLAYLIST_PAGE_TITLE"
+msgstr "Edit Playlist"
+
+msgid "EDIT_PLAYLIST_PAGE_TITLE_FORMAT"
+msgstr "Edit Playlist — %s"
+
+msgid "EDIT_PLAYLIST_SORT_ADDED_NEWEST"
+msgstr "Date added (newest)"
+
+msgid "EDIT_PLAYLIST_SORT_ADDED_OLDEST"
+msgstr "Date added (oldest)"
+
+msgid "EDIT_PLAYLIST_SORT_LABEL"
+msgstr "Sort"
+
+msgid "EDIT_PLAYLIST_SORT_MANUAL"
+msgstr "Default"
+
+msgid "EDIT_PLAYLIST_SORT_POPULAR"
+msgstr "Most popular"
+
+msgid "EDIT_PLAYLIST_SORT_PUBLISHED_NEWEST"
+msgstr "Date published (newest)"
+
+msgid "EDIT_PLAYLIST_SORT_PUBLISHED_OLDEST"
+msgstr "Date published (oldest)"
+
+msgid "EDIT_PLAYLIST_THUMB_SET"
+msgstr "Playlist thumbnail updated."
+
+msgid "EDIT_PLAYLIST_THUMB_SET_FAILED"
+msgstr "Couldn't update thumbnail."
+
 msgid "EDIT_PROFILE"
 msgstr "Edit Profile"
 
