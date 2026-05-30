@@ -12,8 +12,14 @@ msgstr "Nicht mit einer Kochbanane zu verwechseln."
 msgid "ITEM_DESC_beach_ball"
 msgstr "Gutes Zubehör für einen Schwimmausflug."
 
+msgid "ITEM_DESC_butter"
+msgstr "A stick of butter"
+
 msgid "ITEM_DESC_cookie_chocolate_chip"
 msgstr "A familiar cookie with little chocolate chips."
+
+msgid "ITEM_DESC_egg"
+msgstr "A chicken egg"
 
 msgid "ITEM_DESC_hot_chocolate"
 msgstr "Eine leckere Tasse von heißer Schokolade, perfekt für einen bequemen Tag."
@@ -24,14 +30,23 @@ msgstr "Nicht mit einer Koch-... Warum hast du sie so geschält?"
 msgid "ITEM_DESC_purple_star_plushie"
 msgstr "It may not be worth as much as a real purple star, but it still gives you the same warm fuzzies."
 
+msgid "ITEM_DESC_tomato"
+msgstr "A bright red ripe tomato"
+
 msgid "ITEM_NAME_banana"
 msgstr "Banane"
 
 msgid "ITEM_NAME_beach_ball"
 msgstr "Strandball"
 
+msgid "ITEM_NAME_butter"
+msgstr "Butter"
+
 msgid "ITEM_NAME_cookie_chocolate_chip"
 msgstr "Chocolate Chip Cookie"
+
+msgid "ITEM_NAME_egg"
+msgstr "Egg"
 
 msgid "ITEM_NAME_hot_chocolate"
 msgstr "Heiße Schokolade"
@@ -41,6 +56,9 @@ msgstr "Geschälte Banane"
 
 msgid "ITEM_NAME_purple_star_plushie"
 msgstr "Purple Star Plushie"
+
+msgid "ITEM_NAME_tomato"
+msgstr "Tomato"
 
 msgid "ITEM_USE_banana"
 msgstr "Du schälst die Banane."

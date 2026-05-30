@@ -143,6 +143,39 @@ msgstr "Pagina"
 msgid "PAGE_COUNTER_FORMAT"
 msgstr "%d di %d"
 
+msgid "PI_STARS_BLUE_NAME"
+msgstr "%d Blue Star(s)"
+
+msgid "PI_STARS_DESC"
+msgstr "You can add these Stars to things that you like!"
+
+msgid "PI_STARS_GREEN_NAME"
+msgstr "%d Green Star(s)"
+
+msgid "PI_STARS_PURPLE_NAME"
+msgstr "%d Purple Star(s)"
+
+msgid "PI_STARS_RED_NAME"
+msgstr "%d Red Star(s)"
+
+msgid "PI_STARS_TITLE"
+msgstr "You got Stars!"
+
+msgid "PI_SUDOMEMO_PLUS_DESC"
+msgstr "You can check your Plus balance in your Inventory."
+
+msgid "PI_SUDOMEMO_PLUS_NAME"
+msgstr "%d days of Sudomemo Plus"
+
+msgid "PI_SUDOMEMO_PLUS_TITLE"
+msgstr "You got Sudomemo Plus!"
+
+msgid "PI_THEME_DESC"
+msgstr "You can equip this theme from the My Themes section of your Inventory."
+
+msgid "PI_THEME_TITLE"
+msgstr "You got a theme!"
+
 msgid "POSTED_CHATCOMMENTS"
 msgstr "Messaggi nelle Chatrooms"
 
