@@ -386,6 +386,9 @@ msgstr "コメント"
 msgid "COMMENT_BOX_WRITE_HERE_1"
 msgstr "ここに優しい言葉を書いてね"
 
+msgid "COMMENT_BOX_WRITE_HERE_10"
+msgstr "That ending caught me off guard."
+
 msgid "COMMENT_BOX_WRITE_HERE_2"
 msgstr "この作品のどこが気に入りましたか？"
 
@@ -397,6 +400,18 @@ msgstr "この作品を見てどんな気持ちになりましたか？"
 
 msgid "COMMENT_BOX_WRITE_HERE_5"
 msgstr "ここに思いやりのある言葉を書いてね"
+
+msgid "COMMENT_BOX_WRITE_HERE_6"
+msgstr "What scene stood out the most?"
+
+msgid "COMMENT_BOX_WRITE_HERE_7"
+msgstr "The animation timing was really good..."
+
+msgid "COMMENT_BOX_WRITE_HERE_8"
+msgstr "This reminded me of old Flipnote Hatena."
+
+msgid "COMMENT_BOX_WRITE_HERE_9"
+msgstr "The music choice fit perfectly!"
 
 msgid "COMMENT_EDITOR_COLORFUL_BUTTON"
 msgstr "色つけよう！"
@@ -3714,18 +3729,3 @@ msgstr "Appearance and layout may vary depending on device used to view video"
 
 msgid "YT_UPLOAD_PLUS_MEMO_PLUS"
 msgstr "Memo+"
-
-msgid "COMMENT_BOX_WRITE_HERE_6"
-msgstr "What scene stood out the most?"
-
-msgid "COMMENT_BOX_WRITE_HERE_7"
-msgstr "The animation timing was really good..."
-
-msgid "COMMENT_BOX_WRITE_HERE_8"
-msgstr "This reminded me of old Flipnote Hatena."
-
-msgid "COMMENT_BOX_WRITE_HERE_9"
-msgstr "The music choice fit perfectly!"
-
-msgid "COMMENT_BOX_WRITE_HERE_10"
-msgstr "That ending caught me off guard."
