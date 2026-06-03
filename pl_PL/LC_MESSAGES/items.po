@@ -15,6 +15,9 @@ msgstr "Swietny dodatek do wycieczki nad wode."
 msgid "ITEM_DESC_butter"
 msgstr "A stick of butter"
 
+msgid "ITEM_DESC_carrot"
+msgstr "A munchy crunchy carrot"
+
 msgid "ITEM_DESC_cookie_chocolate_chip"
 msgstr "A familiar cookie with little chocolate chips."
 
@@ -41,6 +44,9 @@ msgstr "Pilka plazowa"
 
 msgid "ITEM_NAME_butter"
 msgstr "Butter"
+
+msgid "ITEM_NAME_carrot"
+msgstr "Carrot"
 
 msgid "ITEM_NAME_cookie_chocolate_chip"
 msgstr "Chocolate Chip Cookie"
