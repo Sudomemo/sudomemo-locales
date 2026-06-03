@@ -386,6 +386,9 @@ msgstr "Kommentare"
 msgid "COMMENT_BOX_WRITE_HERE_1"
 msgstr "Write something nice here"
 
+msgid "COMMENT_BOX_WRITE_HERE_10"
+msgstr "That ending caught me off guard."
+
 msgid "COMMENT_BOX_WRITE_HERE_2"
 msgstr "What did you like about this?"
 
@@ -397,6 +400,18 @@ msgstr "How does this Flipnote make you feel?"
 
 msgid "COMMENT_BOX_WRITE_HERE_5"
 msgstr "Write something thoughtful here"
+
+msgid "COMMENT_BOX_WRITE_HERE_6"
+msgstr "What scene stood out the most?"
+
+msgid "COMMENT_BOX_WRITE_HERE_7"
+msgstr "The animation timing was really good..."
+
+msgid "COMMENT_BOX_WRITE_HERE_8"
+msgstr "This reminded me of old Flipnote Hatena."
+
+msgid "COMMENT_BOX_WRITE_HERE_9"
+msgstr "The music choice fit perfectly!"
 
 msgid "COMMENT_EDITOR_COLORFUL_BUTTON"
 msgstr "Be colorful!"
@@ -3720,18 +3735,3 @@ msgstr "Appearance and layout may vary depending on device used to view video"
 
 msgid "YT_UPLOAD_PLUS_MEMO_PLUS"
 msgstr "Memo+"
-
-msgid "COMMENT_BOX_WRITE_HERE_6"
-msgstr "What scene stood out the most?"
-
-msgid "COMMENT_BOX_WRITE_HERE_7"
-msgstr "The animation timing was really good..."
-
-msgid "COMMENT_BOX_WRITE_HERE_8"
-msgstr "This reminded me of old Flipnote Hatena."
-
-msgid "COMMENT_BOX_WRITE_HERE_9"
-msgstr "The music choice fit perfectly!"
-
-msgid "COMMENT_BOX_WRITE_HERE_10"
-msgstr "That ending caught me off guard."
