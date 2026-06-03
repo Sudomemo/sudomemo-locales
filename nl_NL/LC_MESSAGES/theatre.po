@@ -3760,3 +3760,5 @@ msgstr "Appearance and layout may vary depending on device used to view video"
 
 msgid "YT_UPLOAD_PLUS_MEMO_PLUS"
 msgstr "Memo+"
+msgid "NEW_FROM"
+msgstr "New from %s"
