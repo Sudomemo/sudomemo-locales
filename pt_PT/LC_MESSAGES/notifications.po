@@ -6,6 +6,9 @@ msgstr ""
 msgid "FLIPNOTE"
 msgstr "Flipnote"
 
+msgid "FLIPNOTE_BY_FORMAT"
+msgstr "Flipnote by %s"
+
 msgid "FRAGMENT_ADDED_PLURAL"
 msgstr " adicionaram "
 
@@ -17,6 +20,9 @@ msgstr " e "
 
 msgid "FRAGMENT_A_STAR"
 msgstr "uma Estrela"
+
+msgid "FRAGMENT_CHECK_OUT_TODAYS_FEATURED_FLIPNOTE"
+msgstr "Check out today's Featured Flipnote: "
 
 msgid "FRAGMENT_COMMA"
 msgstr ", "
