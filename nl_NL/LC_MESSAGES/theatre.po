@@ -1954,6 +1954,9 @@ msgstr "Enter your new email address"
 msgid "NEW_FRAME"
 msgstr "New Frame"
 
+msgid "NEW_FROM"
+msgstr "New from %s"
+
 msgid "NEW_PROFILE_PICTURE"
 msgstr "New Profile Picture"
 
@@ -3760,5 +3763,3 @@ msgstr "Appearance and layout may vary depending on device used to view video"
 
 msgid "YT_UPLOAD_PLUS_MEMO_PLUS"
 msgstr "Memo+"
-msgid "NEW_FROM"
-msgstr "New from %s"

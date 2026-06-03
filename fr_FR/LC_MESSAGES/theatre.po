@@ -1938,6 +1938,9 @@ msgstr "Saisissez votre nouvelle adresse e-mail"
 msgid "NEW_FRAME"
 msgstr "Nouveau cadre"
 
+msgid "NEW_FROM"
+msgstr "New from %s"
+
 msgid "NEW_PROFILE_PICTURE"
 msgstr "Nouvelle photo de profil"
 
@@ -3729,5 +3732,3 @@ msgstr "L’apparence et la disposition peuvent varier en fonction de l’appare
 
 msgid "YT_UPLOAD_PLUS_MEMO_PLUS"
 msgstr "Memo+"
-msgid "NEW_FROM"
-msgstr "New from %s"
