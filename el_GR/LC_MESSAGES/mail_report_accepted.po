@@ -45,3 +45,6 @@ msgstr "Ετσι  το  περιεχομενο  αφεραιθηκε."
 # this message is followed by a link
 msgid "REPORT_ACCEPTED_INFO"
 msgstr "Αναφορες  να  την  δικη  σας  βοηθουν  το Sudomemo  να  παραμενει  ασφαλη  για  ολους. Εαν  θελετε  να  μαθετε  περισσοτερα  για  την  Πολιτικη  περιεχομενου  μπορειτε να  το  κανετε  εδω:"
+
+msgid "REPORT_ACCEPTED_REWARD"
+msgstr "Because you were one of the first users to report this Flipnote, we've given you a special ticket as a thank-you!"

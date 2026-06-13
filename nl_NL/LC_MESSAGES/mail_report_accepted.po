@@ -45,3 +45,6 @@ msgstr "Hierom is de inhoud verwijderd."
 # this message is followed by a link
 msgid "REPORT_ACCEPTED_INFO"
 msgstr "Rapportages als die van jou maken van Sudomemo een veilige en gastvrije omgeving voor iedereen.  Als je meer zou willen leren over ons inhoudbeleid, kan dat hier:"
+
+msgid "REPORT_ACCEPTED_REWARD"
+msgstr "Because you were one of the first users to report this Flipnote, we've given you a special ticket as a thank-you!"
