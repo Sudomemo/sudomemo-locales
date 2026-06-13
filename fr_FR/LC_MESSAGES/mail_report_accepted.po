@@ -45,3 +45,6 @@ msgstr "Par conséquent, le contenu a été supprimé."
 # this message is followed by a link
 msgid "REPORT_ACCEPTED_INFO"
 msgstr "Des rapports comme le vôtre contribuent à faire de Sudomemo un endroit sûr et accueillant pour tout le monde. Si vous souhaitez en savoir plus sur notre Politique de contenu, vous pouvez le faire ici :"
+
+msgid "REPORT_ACCEPTED_REWARD"
+msgstr "Because you were one of the first users to report this Flipnote, we've given you a special ticket as a thank-you!"

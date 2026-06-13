@@ -45,3 +45,6 @@ msgstr "そのため、コンテンツは削除されました。"
 # this message is followed by a link
 msgid "REPORT_ACCEPTED_INFO"
 msgstr "レポートはスドメモを誰にとっても安全で親しみやすい場所にするために大変有効です。コンテンツポリシーの詳細については、こちらをご覧ください："
+
+msgid "REPORT_ACCEPTED_REWARD"
+msgstr "Because you were one of the first users to report this Flipnote, we've given you a special ticket as a thank-you!"

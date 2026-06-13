@@ -45,3 +45,6 @@ msgstr "Vi har beslutat att ta bort innehållet."
 # this message is followed by a link
 msgid "REPORT_ACCEPTED_INFO"
 msgstr "Rapporter som din hjälper Sudomemo vara en säker och välkomnande plats för alla. Om du vill lära dig mer om vår innehållspolicy kan du göra det här:"
+
+msgid "REPORT_ACCEPTED_REWARD"
+msgstr "Because you were one of the first users to report this Flipnote, we've given you a special ticket as a thank-you!"

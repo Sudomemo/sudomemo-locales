@@ -45,3 +45,6 @@ msgstr "E como tal, nós removemos o conteúdo."
 # this message is followed by a link
 msgid "REPORT_ACCEPTED_INFO"
 msgstr "Relatórios como os teus, ajudam a fazer com que o Sudomemo seja um lugar seguro para todos. Se gostarias de saber mais sobre as nossas Políticas de Conteúdo, podes o fazer aqui:"
+
+msgid "REPORT_ACCEPTED_REWARD"
+msgstr "Because you were one of the first users to report this Flipnote, we've given you a special ticket as a thank-you!"
