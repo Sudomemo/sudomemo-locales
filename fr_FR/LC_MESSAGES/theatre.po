@@ -3732,3 +3732,51 @@ msgstr "L’apparence et la disposition peuvent varier en fonction de l’appare
 
 msgid "YT_UPLOAD_PLUS_MEMO_PLUS"
 msgstr "Memo+"
+
+msgid "CUSTOM_FRAMES_ASSIGNMENT_INHERIT"
+msgstr "Inherit creator default"
+
+msgid "CUSTOM_FRAMES_ASSIGNMENT_NONE"
+msgstr "Do not show a frame"
+
+msgid "CUSTOM_FRAMES_ASSIGNMENT_SPECIFIC"
+msgstr "Use a specific frame"
+
+msgid "CUSTOM_FRAMES_DEFAULT_BADGE"
+msgstr "Default"
+
+msgid "CUSTOM_FRAMES_DEFAULT_FRAME"
+msgstr "Default Frame"
+
+msgid "CUSTOM_FRAMES_REPLACE_IMAGE"
+msgstr "Replace Image"
+
+msgid "CUSTOM_FRAMES_EDIT_SECTION_EXPLANATION"
+msgstr "Choose how this Flipnote is displayed vertically in Flipstream and other vertical experiences."
+
+msgid "CUSTOM_FRAMES_DEFAULT_SETTINGS_LINK"
+msgstr "Set your creator default custom frame"
+
+msgid "CUSTOM_FRAMES_NO_DEFAULT_PREVIEW"
+msgstr "No creator default frame is set"
+
+msgid "CUSTOM_FRAMES_PREVIEW_TITLE"
+msgstr "Vertical display preview"
+
+msgid "CUSTOM_FRAMES_SAMPLE_BADGE"
+msgstr "Sample"
+
+msgid "CUSTOM_FRAMES_SELECT_FRAME"
+msgstr "Select a frame"
+
+msgid "CUSTOM_FRAMES_SETTINGS_EXPLANATION"
+msgstr "Manage your custom frames for Flipstream, YouTube Short uploads, and other places."
+
+msgid "CUSTOM_FRAMES_UPLOAD_FRAME"
+msgstr "Upload Frame"
+
+msgid "CUSTOM_FRAMES_VERTICAL_VIDEO"
+msgstr "Vertical Video"
+
+msgid "FRAME"
+msgstr "Frame"
