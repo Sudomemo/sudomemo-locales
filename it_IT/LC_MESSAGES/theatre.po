@@ -778,7 +778,7 @@ msgid "CUSTOM_FRAMES_DEFAULT_FRAME"
 msgstr "Default Frame"
 
 msgid "CUSTOM_FRAMES_DEFAULT_SETTINGS_LINK"
-msgstr "Set your creator default custom frame"
+msgstr "Set default custom frame"
 
 msgid "CUSTOM_FRAMES_EDIT_SECTION_EXPLANATION"
 msgstr "Choose how this Flipnote is displayed vertically in Flipstream and other vertical experiences."
@@ -1332,6 +1332,45 @@ msgstr "Puoi caricare il tuo Flipnote sul tuo canale Youtube. Clicca il pulsante
 # Japanese translation should also be be うごメモID here
 msgid "FLIPNOTE_STUDIO_ID"
 msgstr "ID Flipnote Studio"
+
+msgid "FLIPSTREAM_PLAYLIST_ADDED"
+msgstr "Added to playlist."
+
+msgid "FLIPSTREAM_PLAYLIST_ADD_FAILED"
+msgstr "Couldn't add that Flipnote to a playlist."
+
+msgid "FLIPSTREAM_PLAYLIST_CREATE_AND_ADD"
+msgstr "Create and add"
+
+msgid "FLIPSTREAM_PLAYLIST_CREATE_FAILED"
+msgstr "Couldn't create that playlist."
+
+msgid "FLIPSTREAM_PLAYLIST_CREATE_TITLE"
+msgstr "Create new playlist"
+
+msgid "FLIPSTREAM_PLAYLIST_LOADING"
+msgstr "Loading playlists..."
+
+msgid "FLIPSTREAM_PLAYLIST_MODAL_TITLE"
+msgstr "Add to playlist"
+
+msgid "FLIPSTREAM_PLAYLIST_NO_AVAILABLE"
+msgstr "No available playlists yet."
+
+msgid "FLIPSTREAM_PLAYLIST_REMOVED"
+msgstr "Removed from playlist."
+
+msgid "FLIPSTREAM_PLAYLIST_REMOVE_FAILED"
+msgstr "Couldn't remove that Flipnote from the playlist."
+
+msgid "FLIPSTREAM_PLAYLIST_TITLE_PLACEHOLDER"
+msgstr "Playlist title"
+
+msgid "FLIPSTREAM_SAVED_TO_PLAYLIST"
+msgstr "Saved to playlist"
+
+msgid "FLIPSTREAM_SAVE_TO_PLAYLIST"
+msgstr "Save to playlist"
 
 msgid "FOLLOW"
 msgstr "Segui"
