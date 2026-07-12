@@ -267,16 +267,25 @@ msgid "SETTINGS_GALLERY_THUMBNAIL_SCALE_DESCRIPTION"
 msgstr "Adjust the scale of the Gallery View thumbnails."
 
 msgid "SETTINGS_GAMEPADS"
-msgstr "Controllers and Gamepads"
+msgstr "Keyboards, Gamepads, and other Controllers"
 
 msgid "SETTINGS_GAMEPADS_DESCRIPTION"
-msgstr "Utilize controllers or gamepads to interact with the Flipnote Organizer."
+msgstr "Utilize a keyboard, gamepads, or other controller-like devices to interact with the Flipnote Organizer."
 
 msgid "SETTINGS_JOYCON_PAIR"
 msgstr "Joycon Pairings"
 
 msgid "SETTINGS_JOYCON_PAIR_DESCRIPTION"
 msgstr "Drag and drop connected Joycons to form a pair. If you put a singular Joycon in a pairing, you will have to flip the Joycon on its side."
+
+msgid "SETTINGS_KEYBINDS"
+msgstr "Use Keyboard Shortcuts"
+
+msgid "SETTINGS_KEYBINDS_DESCRIPTION"
+msgstr "If a keyboard is attached to your device, you can perform actions quickly with keyboard shortcuts."
+
+msgid "SETTINGS_KEYBINDS_DESCRIPTION_LINK"
+msgstr "For a list of keyboard shortcuts, visit %s."
 
 msgid "SETTINGS_ORGANIZER_FIX_NAVBAR"
 msgstr "Fix Navbar to the Top"
