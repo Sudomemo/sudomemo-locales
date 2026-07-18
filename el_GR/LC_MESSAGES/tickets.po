@@ -588,3 +588,9 @@ msgstr "You got a gift!"
 # Ticket delivery
 msgid "YOU_GOT_A_TICKET"
 msgstr "Μολις πηρατε λαχνο!"
+
+msgid "TICKET_NAME_animated_futures_ticket"
+msgstr "Animated Futures Contestant Ticket"
+
+msgid "TICKET_DESC_animated_futures_ticket"
+msgstr "Thank you for participating in the 2026 Sudomemo × Rakonto \"Animated Futures\" contest!"
