@@ -53,6 +53,9 @@ msgstr "Per essere stato uno dei vincitori dell'argomento Into the Light del Top
 msgid "TROPHY_DESC_demo_tester"
 msgstr "Per aver partecipato al Programma Update Demo Testing di Sudomemo del 2017"
 
+msgid "TROPHY_DESC_downriver_streetpass_2026_trophy"
+msgstr "One of the attendees of the 2026 Downriver StreetPass Day!"
+
 msgid "TROPHY_DESC_early_adopter"
 msgstr "Unisciti a Sudomemo durante il nostro primo mese di servizio"
 
@@ -233,6 +236,9 @@ msgstr "Vincitore del Topic Colors! x Sudomemo"
 # # Trophy names and descriptions
 msgid "TROPHY_NAME_demo_tester"
 msgstr "Dimostrazione di prova"
+
+msgid "TROPHY_NAME_downriver_streetpass_2026_trophy"
+msgstr "DownRiver StreetPass Day 2026 Trophy"
 
 msgid "TROPHY_NAME_early_adopter"
 msgstr "Primo iscritto"
