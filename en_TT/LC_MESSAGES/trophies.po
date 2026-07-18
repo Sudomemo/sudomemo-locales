@@ -44,6 +44,9 @@ msgstr "Attended Sudomemo's 8 Years of Flipnote Fun event"
 msgid "TROPHY_DESC_9th_birthday_bash"
 msgstr "Attended Sudomemo's 9th Birthday Bash event"
 
+msgid "TROPHY_DESC_animated_futures_trophy"
+msgstr "One of the contestants in the 2026 Sudomemo × Rakonto \"Animated Futures\" contest"
+
 msgid "TROPHY_DESC_archive_supporter"
 msgstr "Contributor to the Flipnote Archive Ko-Fi to help preserve Flipnote history!"
 
@@ -227,6 +230,9 @@ msgstr "8th Birthday Bash"
 msgid "TROPHY_NAME_9th_birthday_bash"
 msgstr "9th Birthday Bash"
 
+msgid "TROPHY_NAME_animated_futures_trophy"
+msgstr "Animated Futures Contestant Trophy"
+
 msgid "TROPHY_NAME_archive_supporter"
 msgstr "Archive Supporter"
 
@@ -383,9 +389,3 @@ msgstr "Welcoming Champion"
 
 msgid "YOU_GOT_A_TROPHY"
 msgstr "You got a trophy!"
-
-msgid "TROPHY_NAME_animated_futures_trophy"
-msgstr "Animated Futures Contestant Trophy"
-
-msgid "TROPHY_DESC_animated_futures_trophy"
-msgstr "One of the contestants in the 2026 Sudomemo × Rakonto \"Animated Futures\" contest"

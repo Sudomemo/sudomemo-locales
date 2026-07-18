@@ -44,6 +44,9 @@ msgstr "Participaste no evento 8 anos a Divertiste com Flipnotes do Sudomemo"
 msgid "TROPHY_DESC_9th_birthday_bash"
 msgstr "Participaste no evento 9 anos a Divertiste com Flipnotes do Sudomemo"
 
+msgid "TROPHY_DESC_animated_futures_trophy"
+msgstr "One of the contestants in the 2026 Sudomemo × Rakonto \"Animated Futures\" contest"
+
 msgid "TROPHY_DESC_archive_supporter"
 msgstr "Contribuidor do Ko-Fi do Flipnote Archive para ajudar a preservar a história de Flipnotes!"
 
@@ -227,6 +230,9 @@ msgstr "8º Birthday Bash"
 msgid "TROPHY_NAME_9th_birthday_bash"
 msgstr "9º Birthday Bash"
 
+msgid "TROPHY_NAME_animated_futures_trophy"
+msgstr "Animated Futures Contestant Trophy"
+
 msgid "TROPHY_NAME_archive_supporter"
 msgstr "Apoiante do Arquivo"
 
@@ -383,9 +389,3 @@ msgstr "Cidadão Acolhedor"
 
 msgid "YOU_GOT_A_TROPHY"
 msgstr "You got a trophy!"
-
-msgid "TROPHY_NAME_animated_futures_trophy"
-msgstr "Animated Futures Contestant Trophy"
-
-msgid "TROPHY_DESC_animated_futures_trophy"
-msgstr "One of the contestants in the 2026 Sudomemo × Rakonto \"Animated Futures\" contest"
