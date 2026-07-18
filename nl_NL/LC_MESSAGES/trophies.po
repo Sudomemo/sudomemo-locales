@@ -54,6 +54,9 @@ msgstr "Één van de winnaars van de Sudomemo x Colors! gedeeld onderwerp, In he
 msgid "TROPHY_DESC_demo_tester"
 msgstr "Participeer in het 2017 Sudomemo Update Demo Testprogramma"
 
+msgid "TROPHY_DESC_downriver_streetpass_2026_trophy"
+msgstr "One of the attendees of the 2026 Downriver StreetPass Day!"
+
 msgid "TROPHY_DESC_early_adopter"
 msgstr "Neem deel aan Sudomemo in onze eerste maand"
 
@@ -236,6 +239,9 @@ msgstr "Colors! x Sudomemo OnderwerpWinnaar"
 # Hyphen optional, but included because of clarity
 msgid "TROPHY_NAME_demo_tester"
 msgstr "Demo-tester"
+
+msgid "TROPHY_NAME_downriver_streetpass_2026_trophy"
+msgstr "DownRiver StreetPass Day 2026 Trophy"
 
 # Better to keep this untranslated as there is no good translation for this as far as I know.
 msgid "TROPHY_NAME_early_adopter"
