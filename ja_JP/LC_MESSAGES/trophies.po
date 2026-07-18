@@ -53,6 +53,9 @@ msgstr "スドメモ×Colors!の合同のお題「Into The Light」で入賞す�
 msgid "TROPHY_DESC_demo_tester"
 msgstr "2017年スドメモアップデートデモテストに参加する"
 
+msgid "TROPHY_DESC_downriver_streetpass_2026_trophy"
+msgstr "One of the attendees of the 2026 Downriver StreetPass Day!"
+
 msgid "TROPHY_DESC_early_adopter"
 msgstr "サービス開始から1か月以内にスドメモに参加する"
 
@@ -233,6 +236,9 @@ msgstr "Colors!×スドメモのお題の入賞者"
 # # Trophy names and descriptions
 msgid "TROPHY_NAME_demo_tester"
 msgstr "デモテスター"
+
+msgid "TROPHY_NAME_downriver_streetpass_2026_trophy"
+msgstr "DownRiver StreetPass Day 2026 Trophy"
 
 msgid "TROPHY_NAME_early_adopter"
 msgstr "古参者"
