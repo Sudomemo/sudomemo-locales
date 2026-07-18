@@ -53,6 +53,9 @@ msgstr "Einer der Gewinner des Colors! x Sudomemo Themas Into the Light"
 msgid "TROPHY_DESC_demo_tester"
 msgstr "Hat 2017 beim Sudomemo-Update-Demo-Test-Programm teilgenommen"
 
+msgid "TROPHY_DESC_downriver_streetpass_2026_trophy"
+msgstr "One of the attendees of the 2026 Downriver StreetPass Day!"
+
 msgid "TROPHY_DESC_early_adopter"
 msgstr "Ist Sudomemo während des ersten Monats beigetreten"
 
@@ -233,6 +236,9 @@ msgstr "Colors! x Sudomemo Thema-Gewinner"
 # # Trophy names and descriptions
 msgid "TROPHY_NAME_demo_tester"
 msgstr "Demo-Tester"
+
+msgid "TROPHY_NAME_downriver_streetpass_2026_trophy"
+msgstr "DownRiver StreetPass Day 2026 Trophy"
 
 msgid "TROPHY_NAME_early_adopter"
 msgstr "Früher Nutzer"

@@ -204,6 +204,9 @@ msgstr "スドメモ x Colorsを獲得しました！※2020年6月の週刊ト�
 msgid "TICKET_DESC_demo_ticket"
 msgstr "デモチケットの説明です。"
 
+msgid "TICKET_DESC_downriver_streetpass_2026_ticket"
+msgstr "Thanks for attending Downriver StreetPass Day! It was fun getting to meet you!"
+
 msgid "TICKET_DESC_fall_2023_ffc_winner_ticket"
 msgstr "2023年秋のSudomemo Flipnote Fight Competitionでの受賞おめでとうございます！"
 
@@ -407,6 +410,9 @@ msgstr "Colors!プロモーションチケット"
 # Each ticket type will have a name and a description 
 msgid "TICKET_NAME_demo_ticket"
 msgstr "デモチケット"
+
+msgid "TICKET_NAME_downriver_streetpass_2026_ticket"
+msgstr "Downriver StreetPass Day 2026 Ticket"
 
 msgid "TICKET_NAME_fall_2023_ffc_winner_ticket"
 msgstr "2023年秋 Sudomemo F.F.C. 優勝者チケット"

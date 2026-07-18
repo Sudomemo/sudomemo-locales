@@ -204,6 +204,9 @@ msgstr "Parabéns, venceste o Tópico Semanal de Junho 2020 Sudomemo x Colors!"
 msgid "TICKET_DESC_demo_ticket"
 msgstr "Obviamente, isto é um bilhete de amostra."
 
+msgid "TICKET_DESC_downriver_streetpass_2026_ticket"
+msgstr "Thanks for attending Downriver StreetPass Day! It was fun getting to meet you!"
+
 msgid "TICKET_DESC_fall_2023_ffc_winner_ticket"
 msgstr "Parabéns a ti, o vencedor da Competição Flipnote Flight do Sudomemo de Outono 2023!"
 
@@ -407,6 +410,9 @@ msgstr "Bilhete de Promoção do Colors!"
 # Each ticket type will have a name and a description 
 msgid "TICKET_NAME_demo_ticket"
 msgstr "Bilhete de Amostra"
+
+msgid "TICKET_NAME_downriver_streetpass_2026_ticket"
+msgstr "Downriver StreetPass Day 2026 Ticket"
 
 msgid "TICKET_NAME_fall_2023_ffc_winner_ticket"
 msgstr "Bilhete de Vencedor da C.F.F. Sudomemo Outono 2023"
