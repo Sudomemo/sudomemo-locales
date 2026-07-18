@@ -185,6 +185,9 @@ msgstr "Ευχαριστούμε που παρευρεθήκατε στη γιο
 msgid "TICKET_DESC_LABEL"
 msgstr "Ticket Description:"
 
+msgid "TICKET_DESC_animated_futures_ticket"
+msgstr "Thank you for participating in the 2026 Sudomemo × Rakonto \"Animated Futures\" contest!"
+
 msgid "TICKET_DESC_archive_supporter_ticket"
 msgstr "Thank you for helping preserve Flipnote history!"
 
@@ -391,6 +394,9 @@ msgstr "Εισιτήριο 9ης Γιορτής Γενεθλίων"
 msgid "TICKET_NAME_LABEL"
 msgstr "Ticket Name:"
 
+msgid "TICKET_NAME_animated_futures_ticket"
+msgstr "Animated Futures Contestant Ticket"
+
 msgid "TICKET_NAME_archive_supporter_ticket"
 msgstr "Archive Supporter Ticket"
 
@@ -594,9 +600,3 @@ msgstr "You got a gift!"
 # Ticket delivery
 msgid "YOU_GOT_A_TICKET"
 msgstr "Μολις πηρατε λαχνο!"
-
-msgid "TICKET_NAME_animated_futures_ticket"
-msgstr "Animated Futures Contestant Ticket"
-
-msgid "TICKET_DESC_animated_futures_ticket"
-msgstr "Thank you for participating in the 2026 Sudomemo × Rakonto \"Animated Futures\" contest!"

@@ -44,6 +44,9 @@ msgstr "Närvarade under Sudomemo's 8 år av Flipnote Fun evenemanget"
 msgid "TROPHY_DESC_9th_birthday_bash"
 msgstr "Närvarade under Sudomemo's 9:e Birthday Bash evenemang"
 
+msgid "TROPHY_DESC_animated_futures_trophy"
+msgstr "One of the contestants in the 2026 Sudomemo × Rakonto \"Animated Futures\" contest"
+
 msgid "TROPHY_DESC_archive_supporter"
 msgstr "Medhjälpare av Flipnote Arkivets Ko-Fi för att preservera Flipnote historia!"
 
@@ -227,6 +230,9 @@ msgstr "8:nde Birthday Bash"
 msgid "TROPHY_NAME_9th_birthday_bash"
 msgstr "9:e Birthday Bash"
 
+msgid "TROPHY_NAME_animated_futures_trophy"
+msgstr "Animated Futures Contestant Trophy"
+
 msgid "TROPHY_NAME_archive_supporter"
 msgstr "Arkivstödjare"
 
@@ -383,9 +389,3 @@ msgstr "Välkomnande Hjälte"
 
 msgid "YOU_GOT_A_TROPHY"
 msgstr "You got a trophy!"
-
-msgid "TROPHY_NAME_animated_futures_trophy"
-msgstr "Animated Futures Contestant Trophy"
-
-msgid "TROPHY_DESC_animated_futures_trophy"
-msgstr "One of the contestants in the 2026 Sudomemo × Rakonto \"Animated Futures\" contest"

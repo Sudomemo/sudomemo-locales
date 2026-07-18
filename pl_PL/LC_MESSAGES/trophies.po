@@ -44,6 +44,9 @@ msgstr "Bral/-a udzial w ósmym wydarzeniu Birthday Bash"
 msgid "TROPHY_DESC_9th_birthday_bash"
 msgstr "Bral/-a udzial w dziewiatym wydarzeniu Birthday Bash"
 
+msgid "TROPHY_DESC_animated_futures_trophy"
+msgstr "One of the contestants in the 2026 Sudomemo × Rakonto \"Animated Futures\" contest"
+
 msgid "TROPHY_DESC_archive_supporter"
 msgstr "Wspomógl/wspomogla Archiwum Flipnotes na Ko-Fi by pomóc w konserwacji historii Flipnotes!"
 
@@ -227,6 +230,9 @@ msgstr "Ósmy Birthday Bash"
 msgid "TROPHY_NAME_9th_birthday_bash"
 msgstr "Dziewiaty Birthday Bash"
 
+msgid "TROPHY_NAME_animated_futures_trophy"
+msgstr "Animated Futures Contestant Trophy"
+
 msgid "TROPHY_NAME_archive_supporter"
 msgstr "Wsparcie archiwum"
 
@@ -383,9 +389,3 @@ msgstr "Czempion powitania"
 
 msgid "YOU_GOT_A_TROPHY"
 msgstr "You got a trophy!"
-
-msgid "TROPHY_NAME_animated_futures_trophy"
-msgstr "Animated Futures Contestant Trophy"
-
-msgid "TROPHY_DESC_animated_futures_trophy"
-msgstr "One of the contestants in the 2026 Sudomemo × Rakonto \"Animated Futures\" contest"

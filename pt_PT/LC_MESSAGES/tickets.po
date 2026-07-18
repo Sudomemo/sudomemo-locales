@@ -185,6 +185,9 @@ msgstr "Obrigado por participares no nosso Birthday Bash!"
 msgid "TICKET_DESC_LABEL"
 msgstr "Descrição do Bilhete:"
 
+msgid "TICKET_DESC_animated_futures_ticket"
+msgstr "Thank you for participating in the 2026 Sudomemo × Rakonto \"Animated Futures\" contest!"
+
 msgid "TICKET_DESC_archive_supporter_ticket"
 msgstr "Obrigado por ajudar a preservar a história de Flipnotes!"
 
@@ -391,6 +394,9 @@ msgstr "Bilhete do 9º Birthday Bash"
 msgid "TICKET_NAME_LABEL"
 msgstr "Nome do Bilhete:"
 
+msgid "TICKET_NAME_animated_futures_ticket"
+msgstr "Animated Futures Contestant Ticket"
+
 msgid "TICKET_NAME_archive_supporter_ticket"
 msgstr "Bilhete de Apoiante do Arquivo"
 
@@ -594,9 +600,3 @@ msgstr "Recebeste um presente!"
 # Ticket delivery
 msgid "YOU_GOT_A_TICKET"
 msgstr "Recebeste um bilhete!"
-
-msgid "TICKET_NAME_animated_futures_ticket"
-msgstr "Animated Futures Contestant Ticket"
-
-msgid "TICKET_DESC_animated_futures_ticket"
-msgstr "Thank you for participating in the 2026 Sudomemo × Rakonto \"Animated Futures\" contest!"
