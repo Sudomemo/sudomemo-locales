@@ -21,6 +21,12 @@ msgstr " e "
 msgid "FRAGMENT_A_STAR"
 msgstr "uma Estrela"
 
+msgid "FRAGMENT_BADGE"
+msgstr "Badge"
+
+msgid "FRAGMENT_BADGE_NAMED"
+msgstr " received the badge: "
+
 msgid "FRAGMENT_CHECK_OUT_TODAYS_FEATURED_FLIPNOTE"
 msgstr "Check out today's Featured Flipnote: "
 
@@ -123,6 +129,9 @@ msgstr "Your comment on "
 
 msgid "FRAGMENT_YOUR_FLIPNOTE"
 msgstr "o teu Flipnote"
+
+msgid "FRAGMENT_YOUR_FLIPNOTE_RECEIVED_BADGE"
+msgstr "Your Flipnote "
 
 msgid "FRAGMENT_YOUR_FLIPNOTE_WAS_FEATURED"
 msgstr "Your Flipnote was featured! "
