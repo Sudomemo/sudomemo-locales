@@ -810,6 +810,34 @@ msgstr "Upload Frame"
 msgid "CUSTOM_FRAMES_VERTICAL_VIDEO"
 msgstr "Vertical Video"
 
+msgid "DAILY_DRAW"
+msgstr "Daily Draw"
+
+msgid "DAILY_DRAW_ARCHIVE_NAVIGATION"
+msgstr "Daily Draw archive navigation"
+
+msgid "DAILY_DRAW_BROWSE_DAYS"
+msgstr "Browse Days"
+
+msgid "DAILY_DRAW_CALENDAR"
+msgstr "Calendar"
+
+# PHP date format: July 22
+msgid "DAILY_DRAW_DATE_FORMAT"
+msgstr "F j"
+
+msgid "DAILY_DRAW_NO_SUBMISSIONS"
+msgstr "No Flipnotes have been posted for this prompt."
+
+msgid "DAILY_DRAW_SUBMISSIONS"
+msgstr "Daily Draw submissions"
+
+msgid "DAILY_DRAW_TODAY"
+msgstr "Today"
+
+msgid "DAILY_DRAW_VIEW_DATE"
+msgstr "View Date"
+
 # November 29th, 2019 08:23:07
 # Used for Flipnote Details
 msgid "DATETIME_MONTH_DAY_ORDINAL_HOUR_MINUTE_SECOND_FORMAT"
@@ -3825,31 +3853,3 @@ msgstr "L’apparence et la disposition peuvent varier en fonction de l’appare
 
 msgid "YT_UPLOAD_PLUS_MEMO_PLUS"
 msgstr "Memo+"
-
-msgid "DAILY_DRAW"
-msgstr "Daily Draw"
-
-msgid "DAILY_DRAW_ARCHIVE_NAVIGATION"
-msgstr "Daily Draw archive navigation"
-
-msgid "DAILY_DRAW_BROWSE_DAYS"
-msgstr "Browse Days"
-
-msgid "DAILY_DRAW_CALENDAR"
-msgstr "Calendar"
-
-# PHP date format: July 22
-msgid "DAILY_DRAW_DATE_FORMAT"
-msgstr "F j"
-
-msgid "DAILY_DRAW_NO_SUBMISSIONS"
-msgstr "No Flipnotes have been posted for this prompt."
-
-msgid "DAILY_DRAW_SUBMISSIONS"
-msgstr "Daily Draw submissions"
-
-msgid "DAILY_DRAW_TODAY"
-msgstr "Today"
-
-msgid "DAILY_DRAW_VIEW_DATE"
-msgstr "View Date"
