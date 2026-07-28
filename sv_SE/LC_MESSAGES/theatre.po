@@ -1660,6 +1660,9 @@ msgstr "Heta Flipnotes"
 msgid "HOURLY_CHAT_MESSAGE_LIMIT_REACHED"
 msgstr "Du har uppnåt din gräns på %d meddelanden för denna timmen."
 
+msgid "HOW_TO_POST"
+msgstr "How to Post"
+
 # Do not translate ".sudo unlink"
 msgid "HOW_TO_UNLINK_DISCORD"
 msgstr "För att avlänka ditt Discord konto kan du skriva detta kommandot: .sudo unlink"

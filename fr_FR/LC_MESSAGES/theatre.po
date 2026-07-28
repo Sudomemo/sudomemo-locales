@@ -1660,6 +1660,9 @@ msgstr "Flipnotes tendance"
 msgid "HOURLY_CHAT_MESSAGE_LIMIT_REACHED"
 msgstr "Vous avez atteint la limite horaire de %d messages."
 
+msgid "HOW_TO_POST"
+msgstr "How to Post"
+
 # Do not translate ".sudo unlink"
 msgid "HOW_TO_UNLINK_DISCORD"
 msgstr "Pour dissocier votre compte Discord, tapez cette commande dans le salon de discussion : .sudo unlink"

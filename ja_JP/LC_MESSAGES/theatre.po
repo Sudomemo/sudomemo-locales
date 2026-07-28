@@ -1660,6 +1660,9 @@ msgstr "話題作品"
 msgid "HOURLY_CHAT_MESSAGE_LIMIT_REACHED"
 msgstr "You have reached the hourly chat message limit of %d messages."
 
+msgid "HOW_TO_POST"
+msgstr "How to Post"
+
 # Do not translate ".sudo unlink"
 msgid "HOW_TO_UNLINK_DISCORD"
 msgstr "Discordアカウントとの紐付けを解除したい場合は以下のコマンドをチャットに送信してください: .sudo unlink"
