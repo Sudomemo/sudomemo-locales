@@ -600,3 +600,9 @@ msgstr "You got a gift!"
 # Ticket delivery
 msgid "YOU_GOT_A_TICKET"
 msgstr "Otrzymano bilet!"
+
+msgid "TICKET_NAME_starter_ticket"
+msgstr "Starter Ticket"
+
+msgid "TICKET_DESC_starter_ticket"
+msgstr "Welcome! Next, redeem this Ticket from your Inventory."
