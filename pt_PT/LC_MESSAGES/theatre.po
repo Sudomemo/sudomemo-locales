@@ -1660,6 +1660,9 @@ msgstr "Flipnotes Populares neste momento"
 msgid "HOURLY_CHAT_MESSAGE_LIMIT_REACHED"
 msgstr "Atingiste o limite horário de %d mensagens de chat."
 
+msgid "HOW_TO_POST"
+msgstr "How to Post"
+
 # Do not translate ".sudo unlink"
 msgid "HOW_TO_UNLINK_DISCORD"
 msgstr "Para desligar a tua conta Discord, digita este commando no chat: .sudo unlink"

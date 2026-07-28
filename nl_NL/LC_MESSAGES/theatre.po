@@ -1673,6 +1673,9 @@ msgstr "Populaire Flipnotes"
 msgid "HOURLY_CHAT_MESSAGE_LIMIT_REACHED"
 msgstr "You have reached the hourly chat message limit of %d messages."
 
+msgid "HOW_TO_POST"
+msgstr "How to Post"
+
 # Do not translate ".sudo unlink"
 msgid "HOW_TO_UNLINK_DISCORD"
 msgstr "Om je Discord account te ontkoppelen, typ je dit commando in de chat: .sudo unlink"

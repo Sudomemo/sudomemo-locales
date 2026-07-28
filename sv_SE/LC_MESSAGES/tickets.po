@@ -331,6 +331,9 @@ msgstr "Gratulationer för ditt vinnande bidrag för Sudomemo Flipnote Fight Com
 msgid "TICKET_DESC_spring_2026_ffc_winner_ticket"
 msgstr "Congratulations on your winning entry to the Spring 2026 Sudomemo Flipnote Fight Competition!"
 
+msgid "TICKET_DESC_starter_ticket"
+msgstr "Welcome! Next, redeem this Ticket from your Inventory."
+
 msgid "TICKET_DESC_sudomemo_radio_pilot_ticket"
 msgstr "Gratulationer för att du varit med i första avsnittet av Sudomemo Radio!"
 
@@ -541,6 +544,9 @@ msgstr "Sudomemo F.F.C. Vinnarbiljett Våren 2025"
 msgid "TICKET_NAME_spring_2026_ffc_winner_ticket"
 msgstr "Spring 2026 Sudomemo F.F.C. Winner Ticket"
 
+msgid "TICKET_NAME_starter_ticket"
+msgstr "Starter Ticket"
+
 msgid "TICKET_NAME_sudomemo_radio_pilot_ticket"
 msgstr "Sudomemo Radio Pilot Biljetten"
 
@@ -600,9 +606,3 @@ msgstr "Du fick en gåva!"
 # Ticket delivery
 msgid "YOU_GOT_A_TICKET"
 msgstr "Du fick en biljett!"
-
-msgid "TICKET_NAME_starter_ticket"
-msgstr "Starter Ticket"
-
-msgid "TICKET_DESC_starter_ticket"
-msgstr "Welcome! Next, redeem this Ticket from your Inventory."
