@@ -3258,6 +3258,9 @@ msgstr "Δημοσιευση σχολιου Moderator"
 msgid "VIEWPAGE_COMMENT_FAILED"
 msgstr "Αποτυχια σχλιου..."
 
+msgid "VIEWPAGE_COMMENT_POST"
+msgstr "Post"
+
 msgid "VIEWPAGE_COMMENT_POSTED"
 msgstr "ανεβηκε!"
 
@@ -3850,6 +3853,3 @@ msgstr "Appearance and layout may vary depending on device used to view video"
 
 msgid "YT_UPLOAD_PLUS_MEMO_PLUS"
 msgstr "Memo+"
-
-msgid "VIEWPAGE_COMMENT_POST"
-msgstr "Post"

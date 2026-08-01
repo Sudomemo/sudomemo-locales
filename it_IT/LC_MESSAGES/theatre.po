@@ -3258,6 +3258,9 @@ msgstr "Aggiungi un Commento Moderatore"
 msgid "VIEWPAGE_COMMENT_FAILED"
 msgstr "Pubblicazione commento fallita..."
 
+msgid "VIEWPAGE_COMMENT_POST"
+msgstr "Post"
+
 msgid "VIEWPAGE_COMMENT_POSTED"
 msgstr "Pubblicato!"
 
@@ -3850,6 +3853,3 @@ msgstr "L'aspetto e il layout possono variare a seconda del dispositivo utilizza
 
 msgid "YT_UPLOAD_PLUS_MEMO_PLUS"
 msgstr "Memo+"
-
-msgid "VIEWPAGE_COMMENT_POST"
-msgstr "Post"

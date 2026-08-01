@@ -3258,6 +3258,9 @@ msgstr "Ajouter un commentaire de modérateur"
 msgid "VIEWPAGE_COMMENT_FAILED"
 msgstr "L'envoi du commentaire a échoué..."
 
+msgid "VIEWPAGE_COMMENT_POST"
+msgstr "Post"
+
 msgid "VIEWPAGE_COMMENT_POSTED"
 msgstr "Envoyé !"
 
@@ -3850,6 +3853,3 @@ msgstr "L’apparence et la disposition peuvent varier en fonction de l’appare
 
 msgid "YT_UPLOAD_PLUS_MEMO_PLUS"
 msgstr "Memo+"
-
-msgid "VIEWPAGE_COMMENT_POST"
-msgstr "Post"
