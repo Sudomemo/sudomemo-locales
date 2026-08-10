@@ -77,6 +77,9 @@ msgstr "Este Flipnote está oculto por razões de privacidade."
 msgid "FLIPNOTE_WITHHELD_READ_MORE"
 msgstr "Para mais informação, por favor lê os nossos %sFAQ%s."
 
+msgid "FLIPNOTE_WITHHELD_SAFETY"
+msgstr "This Flipnote is withheld due to safety reasons."
+
 msgid "FOOTER_DONATION_ASK"
 msgstr "Este website tem os seus custos de manutenção, por favor, considere fazer uma %sdoação!%s"
 
@@ -286,6 +289,3 @@ msgstr "Estrelas Amarelas"
 
 msgid "YOUTUBE_MUSIC"
 msgstr "YouTube Music"
-
-msgid "FLIPNOTE_WITHHELD_SAFETY"
-msgstr "This Flipnote is withheld due to safety reasons."
