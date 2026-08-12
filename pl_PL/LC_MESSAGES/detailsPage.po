@@ -13,7 +13,7 @@ msgid "ADMIN_ACTIONS"
 msgstr "Akcje administracyjne"
 
 msgid "BY_FORMAT"
-msgstr "by %s"
+msgstr "Zrobione przez %s"
 
 msgid "CREDITS"
 msgstr "Credits"
@@ -34,7 +34,7 @@ msgid "HEADER_ADD_DESCRIPTION"
 msgstr "Dodaj opis"
 
 msgid "HEADER_ADD_TO_PLAYLIST"
-msgstr "Add to Playlist"
+msgstr "Dodaj do Playlisty"
 
 msgid "HEADER_CHANNEL"
 msgstr "Kanal"
@@ -64,7 +64,7 @@ msgid "HEADER_FLIPNOTE_OPTIONS"
 msgstr "Opcje"
 
 msgid "HEADER_NO_STARBEGGING_STAR_LIMIT"
-msgstr "Aby unkinac zebrania o gwiazdki, na Flipnote mozna zostawic maksymalnie 10 zoltych gwiazdek."
+msgstr "Aby uniknac zebrania o gwiazdki, na Flipnote mozna zostawic maksymalnie 10 zoltych gwiazdek."
 
 msgid "HEADER_OPTIONS"
 msgstr "Opcje"
@@ -79,7 +79,7 @@ msgid "HEADER_POSTED"
 msgstr "Wyslany"
 
 msgid "HEADER_REMOVE_FROM_PLAYLIST"
-msgstr "Remove from Playlist"
+msgstr "Usun z Playlisty"
 
 msgid "HEADER_REPORT_FLIPNOTE"
 msgstr "Zglos Flipnote"
@@ -115,7 +115,7 @@ msgid "LEAVE_BLANK_TO_RESET_DESC"
 msgstr "Aby usunac opis, zostaw ten formularz pusty podczas wysylania."
 
 msgid "MEMOPLUS_SPECIAL_COLOR_NOTICE"
-msgstr "This Flipnote has a special color version!"
+msgstr "Ten Flipnote ma wersje w specjalnych kolorach!"
 
 msgid "NEXT"
 msgstr "Nastepna"
