@@ -3261,6 +3261,9 @@ msgstr "Moderatoren-Kommentar versenden"
 msgid "VIEWPAGE_COMMENT_FAILED"
 msgstr "Versenden fehlgeschlagen..."
 
+msgid "VIEWPAGE_COMMENT_POST"
+msgstr "Post"
+
 msgid "VIEWPAGE_COMMENT_POSTED"
 msgstr "Erfolgreich versendet!"
 
@@ -3856,9 +3859,6 @@ msgstr "Appearance and layout may vary depending on device used to view video"
 
 msgid "YT_UPLOAD_PLUS_MEMO_PLUS"
 msgstr "Memo+"
-
-msgid "VIEWPAGE_COMMENT_POST"
-msgstr "Post"
 
 msgid "CURRENTLY_UNAVAILABLE"
 msgstr "Derzeit nicht verfügbar"

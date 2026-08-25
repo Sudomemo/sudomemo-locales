@@ -77,6 +77,9 @@ msgstr "This Flipnote is withheld due to privacy concerns."
 msgid "FLIPNOTE_WITHHELD_READ_MORE"
 msgstr "For more information, please read our %sFAQ%s."
 
+msgid "FLIPNOTE_WITHHELD_SAFETY"
+msgstr "This Flipnote is withheld due to safety reasons."
+
 msgid "FOOTER_DONATION_ASK"
 msgstr "This site is expensive to run, so please consider making a %sdonation!%s"
 
