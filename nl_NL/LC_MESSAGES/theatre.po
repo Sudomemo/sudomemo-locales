@@ -3884,3 +3884,12 @@ msgstr "Memo+"
 
 msgid "VIEWPAGE_COMMENT_POST"
 msgstr "Post"
+
+msgid "CURRENTLY_UNAVAILABLE"
+msgstr "Currently unavailable"
+
+msgid "PLAYLIST_ITEM_NOT_VISIBLE_TO_VIEWERS"
+msgstr "Not visible to other viewers"
+
+msgid "SHOWING_ALL"
+msgstr "Showing all"
