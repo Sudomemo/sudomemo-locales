@@ -3258,6 +3258,9 @@ msgstr "Adicionar Comentário de Moderador"
 msgid "VIEWPAGE_COMMENT_FAILED"
 msgstr "Comentário falhou..."
 
+msgid "VIEWPAGE_COMMENT_POST"
+msgstr "Post"
+
 msgid "VIEWPAGE_COMMENT_POSTED"
 msgstr "Postado!"
 
@@ -3850,9 +3853,6 @@ msgstr "A aparência e layout podem depender no aparelho que vejas o vídeo"
 
 msgid "YT_UPLOAD_PLUS_MEMO_PLUS"
 msgstr "Memo+"
-
-msgid "VIEWPAGE_COMMENT_POST"
-msgstr "Post"
 
 msgid "CURRENTLY_UNAVAILABLE"
 msgstr "Indisponível de momento"

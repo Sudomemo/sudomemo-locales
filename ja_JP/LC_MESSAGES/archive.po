@@ -77,6 +77,9 @@ msgstr "この作品はプライバシーの問題により非表示となって
 msgid "FLIPNOTE_WITHHELD_READ_MORE"
 msgstr "詳細は%sよくある質問%sをご覧ください。"
 
+msgid "FLIPNOTE_WITHHELD_SAFETY"
+msgstr "This Flipnote is withheld due to safety reasons."
+
 msgid "FOOTER_DONATION_ASK"
 msgstr "当サイトは莫大な維持費により維持されています。よろしければ%s寄付%sをご検討いただけますと幸いです。"
 

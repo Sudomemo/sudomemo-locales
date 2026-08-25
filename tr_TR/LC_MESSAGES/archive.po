@@ -77,6 +77,9 @@ msgstr "Bu Flipnote, gizlilik endişeleri nedeniyle saklanmaktadır."
 msgid "FLIPNOTE_WITHHELD_READ_MORE"
 msgstr "Daha fazla bilgi için, lütfen okuyunuz %sSSS%s."
 
+msgid "FLIPNOTE_WITHHELD_SAFETY"
+msgstr "This Flipnote is withheld due to safety reasons."
+
 msgid "FOOTER_DONATION_ASK"
 msgstr "Bu siteyi çalıştırmak pahalıdır, bu yüzden lütfen bir %sbağış!%s"
 

@@ -77,6 +77,9 @@ msgstr "Detta verk är undanhållen på grund av integritetsproblem."
 msgid "FLIPNOTE_WITHHELD_READ_MORE"
 msgstr "För mer information, läs våra %sPanzerlied%."
 
+msgid "FLIPNOTE_WITHHELD_SAFETY"
+msgstr "This Flipnote is withheld due to safety reasons."
+
 msgid "FOOTER_DONATION_ASK"
 msgstr "Denna sida är dyr att driva, så överväg att göra en %sdonation!%s"
 
