@@ -3212,6 +3212,9 @@ msgstr "Användare har inte loggat in."
 msgid "USER_SETTINGS_BIO_EXPLANATION"
 msgstr "Detta är vart du kan uppdatera din biografi."
 
+msgid "USER_SETTINGS_BLOCKED_USERS_EXPLANATION"
+msgstr "Manage users you have blocked from commenting on your Flipnotes or adding Stars to your Flipnotes and comments."
+
 msgid "USER_SETTINGS_CHANGE_EMAIL_EXPLANATION"
 msgstr "Uppdatera din email adress. Ett verifikationsmejl kommer skickas till din nya adress."
 

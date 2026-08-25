@@ -3212,6 +3212,9 @@ msgstr "User not logged in."
 msgid "USER_SETTINGS_BIO_EXPLANATION"
 msgstr "This is where you can update your bio."
 
+msgid "USER_SETTINGS_BLOCKED_USERS_EXPLANATION"
+msgstr "Manage users you have blocked from commenting on your Flipnotes or adding Stars to your Flipnotes and comments."
+
 msgid "USER_SETTINGS_CHANGE_EMAIL_EXPLANATION"
 msgstr "Update your email address. A verification email will be sent to your new address."
 

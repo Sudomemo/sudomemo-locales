@@ -3212,6 +3212,9 @@ msgstr "Utilizador não entrou na conta."
 msgid "USER_SETTINGS_BIO_EXPLANATION"
 msgstr "Aqui podes mudar a tua biografia."
 
+msgid "USER_SETTINGS_BLOCKED_USERS_EXPLANATION"
+msgstr "Manage users you have blocked from commenting on your Flipnotes or adding Stars to your Flipnotes and comments."
+
 msgid "USER_SETTINGS_CHANGE_EMAIL_EXPLANATION"
 msgstr "Actualiza to teu endereço de email. Um email de verificação será enviado para o teu novo endereço de email."
 
