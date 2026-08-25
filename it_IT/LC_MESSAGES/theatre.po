@@ -750,6 +750,9 @@ msgstr "Stanza Creatore"
 msgid "CURRENTLY_SIGNED_IN_AS"
 msgstr "Currently signed in as:"
 
+msgid "CURRENTLY_UNAVAILABLE"
+msgstr "Al momento non disponibile"
+
 msgid "CURRENT_EMAIL"
 msgstr "Email Attuale"
 
@@ -2355,6 +2358,9 @@ msgstr "Non puoi creare una nuova Playlist poichè hai raggiunto o superato il l
 msgid "PLAYLIST_ID"
 msgstr "ID Playlist"
 
+msgid "PLAYLIST_ITEM_NOT_VISIBLE_TO_VIEWERS"
+msgstr "Non visibile agli altri spettatori"
+
 msgid "PLAYLIST_NO_FLIPNOTES"
 msgstr "Non è ancora stato aggiunto alcun Flipnote a questa playlist."
 
@@ -2972,6 +2978,9 @@ msgstr "Acquista ora"
 
 msgid "SHORT_PREVIEW"
 msgstr "Anteprima corta"
+
+msgid "SHOWING_ALL"
+msgstr "Mostra tutto"
 
 msgid "SHOW_ON_PROFILE"
 msgstr "Mostra sul profilo"
@@ -3859,12 +3868,3 @@ msgstr "L'aspetto e il layout possono variare a seconda del dispositivo utilizza
 
 msgid "YT_UPLOAD_PLUS_MEMO_PLUS"
 msgstr "Memo+"
-
-msgid "CURRENTLY_UNAVAILABLE"
-msgstr "Al momento non disponibile"
-
-msgid "PLAYLIST_ITEM_NOT_VISIBLE_TO_VIEWERS"
-msgstr "Non visibile agli altri spettatori"
-
-msgid "SHOWING_ALL"
-msgstr "Mostra tutto"

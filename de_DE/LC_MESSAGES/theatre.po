@@ -750,6 +750,9 @@ msgstr "Ersteller-Raum"
 msgid "CURRENTLY_SIGNED_IN_AS"
 msgstr "Currently signed in as:"
 
+msgid "CURRENTLY_UNAVAILABLE"
+msgstr "Derzeit nicht verfügbar"
+
 msgid "CURRENT_EMAIL"
 msgstr "Current Email"
 
@@ -2355,6 +2358,9 @@ msgstr "You cannot create a new Playlist as you are at or above the limit of %s 
 msgid "PLAYLIST_ID"
 msgstr "Playlist ID"
 
+msgid "PLAYLIST_ITEM_NOT_VISIBLE_TO_VIEWERS"
+msgstr "Für andere Zuschauer nicht sichtbar"
+
 msgid "PLAYLIST_NO_FLIPNOTES"
 msgstr "There have been no Flipnotes added to this playlist yet."
 
@@ -2972,6 +2978,9 @@ msgstr "Shop Now"
 
 msgid "SHORT_PREVIEW"
 msgstr "Short Preview"
+
+msgid "SHOWING_ALL"
+msgstr "Alle anzeigen"
 
 msgid "SHOW_ON_PROFILE"
 msgstr "Auf Profil anzeigen"
@@ -3859,12 +3868,3 @@ msgstr "Appearance and layout may vary depending on device used to view video"
 
 msgid "YT_UPLOAD_PLUS_MEMO_PLUS"
 msgstr "Memo+"
-
-msgid "CURRENTLY_UNAVAILABLE"
-msgstr "Derzeit nicht verfügbar"
-
-msgid "PLAYLIST_ITEM_NOT_VISIBLE_TO_VIEWERS"
-msgstr "Für andere Zuschauer nicht sichtbar"
-
-msgid "SHOWING_ALL"
-msgstr "Alle anzeigen"
