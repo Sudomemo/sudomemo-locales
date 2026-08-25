@@ -750,6 +750,9 @@ msgstr "Creator's Room"
 msgid "CURRENTLY_SIGNED_IN_AS"
 msgstr "Currently signed in as:"
 
+msgid "CURRENTLY_UNAVAILABLE"
+msgstr "För närvarande inte tillgänglig"
+
 msgid "CURRENT_EMAIL"
 msgstr "Nuvarande Email"
 
@@ -2352,6 +2355,9 @@ msgstr "Du kan inte skapa en ny spellista då du är begränsad till %s spellist
 msgid "PLAYLIST_ID"
 msgstr "Spellist ID"
 
+msgid "PLAYLIST_ITEM_NOT_VISIBLE_TO_VIEWERS"
+msgstr "Inte synlig för andra tittare"
+
 msgid "PLAYLIST_NO_FLIPNOTES"
 msgstr "Denna spellistan har inga Flipnotes än."
 
@@ -2969,6 +2975,9 @@ msgstr "Shoppa Nu"
 
 msgid "SHORT_PREVIEW"
 msgstr "Kort Förhandsvisning"
+
+msgid "SHOWING_ALL"
+msgstr "Visa alla"
 
 msgid "SHOW_ON_PROFILE"
 msgstr "Visa på profil"
@@ -3853,12 +3862,3 @@ msgstr "Exakt utseende kan förändras beroende på enheten videon visas på"
 
 msgid "YT_UPLOAD_PLUS_MEMO_PLUS"
 msgstr "Memo+"
-
-msgid "CURRENTLY_UNAVAILABLE"
-msgstr "För närvarande inte tillgänglig"
-
-msgid "PLAYLIST_ITEM_NOT_VISIBLE_TO_VIEWERS"
-msgstr "Inte synlig för andra tittare"
-
-msgid "SHOWING_ALL"
-msgstr "Visa alla"

@@ -750,6 +750,9 @@ msgstr "Sala del Creador"
 msgid "CURRENTLY_SIGNED_IN_AS"
 msgstr "Currently signed in as:"
 
+msgid "CURRENTLY_UNAVAILABLE"
+msgstr "Actualmente no disponible"
+
 msgid "CURRENT_EMAIL"
 msgstr "Current Email"
 
@@ -2352,6 +2355,9 @@ msgstr "No puedes crear una nueva Lista de Reproducción porque estás en o por 
 msgid "PLAYLIST_ID"
 msgstr "Playlist ID"
 
+msgid "PLAYLIST_ITEM_NOT_VISIBLE_TO_VIEWERS"
+msgstr "No visible para otros espectadores"
+
 msgid "PLAYLIST_NO_FLIPNOTES"
 msgstr "Aún no se han agregado Flipnotes a esta lista de reproducción."
 
@@ -2969,6 +2975,9 @@ msgstr "Comprar Ahora"
 
 msgid "SHORT_PREVIEW"
 msgstr "Vista Previa del Short"
+
+msgid "SHOWING_ALL"
+msgstr "Mostrar todo"
 
 msgid "SHOW_ON_PROFILE"
 msgstr "Mostrar en su perfil"
@@ -3853,12 +3862,3 @@ msgstr "La apariencia y el diseño pueden variar según el dispositivo usado par
 
 msgid "YT_UPLOAD_PLUS_MEMO_PLUS"
 msgstr "Memo+"
-
-msgid "CURRENTLY_UNAVAILABLE"
-msgstr "Actualmente no disponible"
-
-msgid "PLAYLIST_ITEM_NOT_VISIBLE_TO_VIEWERS"
-msgstr "No visible para otros espectadores"
-
-msgid "SHOWING_ALL"
-msgstr "Mostrar todo"

@@ -750,6 +750,9 @@ msgstr "Salle de créateur"
 msgid "CURRENTLY_SIGNED_IN_AS"
 msgstr "Currently signed in as:"
 
+msgid "CURRENTLY_UNAVAILABLE"
+msgstr "Actuellement indisponible"
+
 msgid "CURRENT_EMAIL"
 msgstr "E-mail actuel"
 
@@ -2352,6 +2355,9 @@ msgstr "Vous ne pouvez pas créer une nouvelle Playliste car vous avez atteint o
 msgid "PLAYLIST_ID"
 msgstr "ID de la Playliste"
 
+msgid "PLAYLIST_ITEM_NOT_VISIBLE_TO_VIEWERS"
+msgstr "Non visible par les autres spectateurs"
+
 msgid "PLAYLIST_NO_FLIPNOTES"
 msgstr "Il n'y a pas encore de Flipnote ajoutée à cette Playliste."
 
@@ -2969,6 +2975,9 @@ msgstr "Achetez maintenant"
 
 msgid "SHORT_PREVIEW"
 msgstr "Visualiser le Short"
+
+msgid "SHOWING_ALL"
+msgstr "Tout afficher"
 
 msgid "SHOW_ON_PROFILE"
 msgstr "Afficher sur le profil"
@@ -3853,12 +3862,3 @@ msgstr "L’apparence et la disposition peuvent varier en fonction de l’appare
 
 msgid "YT_UPLOAD_PLUS_MEMO_PLUS"
 msgstr "Memo+"
-
-msgid "CURRENTLY_UNAVAILABLE"
-msgstr "Actuellement indisponible"
-
-msgid "PLAYLIST_ITEM_NOT_VISIBLE_TO_VIEWERS"
-msgstr "Non visible par les autres spectateurs"
-
-msgid "SHOWING_ALL"
-msgstr "Tout afficher"

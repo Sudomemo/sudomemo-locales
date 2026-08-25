@@ -750,6 +750,9 @@ msgstr "Sala do Criador"
 msgid "CURRENTLY_SIGNED_IN_AS"
 msgstr "Currently signed in as:"
 
+msgid "CURRENTLY_UNAVAILABLE"
+msgstr "Indisponível de momento"
+
 msgid "CURRENT_EMAIL"
 msgstr "Email Actual"
 
@@ -2352,6 +2355,9 @@ msgstr "Não podes criar uma nova Playlist porque chegaste ao limite ou excedest
 msgid "PLAYLIST_ID"
 msgstr "ID da Playlist"
 
+msgid "PLAYLIST_ITEM_NOT_VISIBLE_TO_VIEWERS"
+msgstr "Não visível para outros espectadores"
+
 msgid "PLAYLIST_NO_FLIPNOTES"
 msgstr "Não há Flipnotes nesta playlist, vai adicionar alguns!"
 
@@ -2969,6 +2975,9 @@ msgstr "Comprar Agora"
 
 msgid "SHORT_PREVIEW"
 msgstr "Previsualizar Short"
+
+msgid "SHOWING_ALL"
+msgstr "Mostrar tudo"
 
 msgid "SHOW_ON_PROFILE"
 msgstr "Mostrar no perfil"
@@ -3853,12 +3862,3 @@ msgstr "A aparência e layout podem depender no aparelho que vejas o vídeo"
 
 msgid "YT_UPLOAD_PLUS_MEMO_PLUS"
 msgstr "Memo+"
-
-msgid "CURRENTLY_UNAVAILABLE"
-msgstr "Indisponível de momento"
-
-msgid "PLAYLIST_ITEM_NOT_VISIBLE_TO_VIEWERS"
-msgstr "Não visível para outros espectadores"
-
-msgid "SHOWING_ALL"
-msgstr "Mostrar tudo"
