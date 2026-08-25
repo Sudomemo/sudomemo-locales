@@ -12,6 +12,9 @@ msgstr "Blok this goober"
 msgid "CANNOT_UNBLOCK_NONBLOCKED_USER"
 msgstr "u cant unblok this user!! how u gona do that if u never blocked dem?? *facepalm*"
 
+msgid "COMMENTING_AND_STARRING_ENABLED_AFTER_UNBLOCK"
+msgstr "After you have unblocked this user, they will be able to comment on your Flipnotes and add Stars to your Flipnotes and comments again, unless they have you blocked as well."
+
 msgid "COMMENTING_ENABLED_AFTER_UNBLOCK"
 msgstr "After u unblock dis user, u can coment on their flippy-wippy nots!!! unless they blocked u back, in wich case u cant. :("
 

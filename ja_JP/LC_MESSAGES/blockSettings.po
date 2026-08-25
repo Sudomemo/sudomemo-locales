@@ -12,6 +12,9 @@ msgstr "ブロックしたユーザー"
 msgid "CANNOT_UNBLOCK_NONBLOCKED_USER"
 msgstr "あなたはこのユーザーをブロックしていないため、解除することはできません。"
 
+msgid "COMMENTING_AND_STARRING_ENABLED_AFTER_UNBLOCK"
+msgstr "After you have unblocked this user, they will be able to comment on your Flipnotes and add Stars to your Flipnotes and comments again, unless they have you blocked as well."
+
 msgid "COMMENTING_ENABLED_AFTER_UNBLOCK"
 msgstr "このユーザーをブロック解除すると、相手があなたをブロックしていない限り、再び相手があなたの作品にコメントすることができます。"
 

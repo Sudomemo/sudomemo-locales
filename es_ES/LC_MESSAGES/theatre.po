@@ -3215,6 +3215,9 @@ msgstr "Usuario no ha iniciado sesión."
 msgid "USER_SETTINGS_BIO_EXPLANATION"
 msgstr "Aquí puedes actualizar tu bio."
 
+msgid "USER_SETTINGS_BLOCKED_USERS_EXPLANATION"
+msgstr "Manage users you have blocked from commenting on your Flipnotes or adding Stars to your Flipnotes and comments."
+
 msgid "USER_SETTINGS_CHANGE_EMAIL_EXPLANATION"
 msgstr "Cambia tu dirección de correo electrónico. Se enviará un correo de confirmación a tu nuevo correo."
 

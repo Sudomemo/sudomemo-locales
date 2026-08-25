@@ -12,6 +12,9 @@ msgstr "Bloc Defnyddiwr"
 msgid "CANNOT_UNBLOCK_NONBLOCKED_USER"
 msgstr "Ni allwch ddadflocio'r defnyddiwr hwn, gan nad ydych wedi eu rhwystro yn y lle cyntaf."
 
+msgid "COMMENTING_AND_STARRING_ENABLED_AFTER_UNBLOCK"
+msgstr "After you have unblocked this user, they will be able to comment on your Flipnotes and add Stars to your Flipnotes and comments again, unless they have you blocked as well."
+
 msgid "COMMENTING_ENABLED_AFTER_UNBLOCK"
 msgstr "Ar ôl i chi ddadflocio'r def Cadarnhau Dadflocionyddiwr hwn, bydd yn gallu rhoi sylwadau ar eich Flipnotes eto, oni bai eich bod chi wedi blocio hefyd."
 
