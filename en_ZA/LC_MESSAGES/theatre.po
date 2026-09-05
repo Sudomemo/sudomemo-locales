@@ -3338,6 +3338,9 @@ msgstr "Anyone can view this Flipnote on your profile and in search results."
 msgid "VISIBILITY_DESCRIPTION_UNLISTED"
 msgstr "Only people with a direct link can view this Flipnote. It won't appear publicly."
 
+msgid "VISIBILITY_LINK_WARNING"
+msgstr "If this Flipnote is Unlisted, anyone who already has or has saved its URL may still be able to view it. Changing visibility does not invalidate previously shared links."
+
 msgid "VISIBILITY_PRIVATE"
 msgstr "Private"
 
