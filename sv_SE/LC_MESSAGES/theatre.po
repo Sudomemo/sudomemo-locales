@@ -3344,6 +3344,9 @@ msgstr "Visa din Profile"
 msgid "VISIBILITY"
 msgstr "Synlighet"
 
+msgid "VISIBILITY_CHANGE_UNAVAILABLE"
+msgstr "The visibility of this Flipnote cannot currently be changed. If you need assistance, please contact Sudomemo Support."
+
 msgid "VISIBILITY_DESCRIPTION_PRIVATE"
 msgstr "Endast du kan se denna Flipnote. Ingen annan kan se den."
 
@@ -3886,6 +3889,3 @@ msgstr "Exakt utseende kan förändras beroende på enheten videon visas på"
 
 msgid "YT_UPLOAD_PLUS_MEMO_PLUS"
 msgstr "Memo+"
-
-msgid "VISIBILITY_CHANGE_UNAVAILABLE"
-msgstr "The visibility of this Flipnote cannot currently be changed. If you need assistance, please contact Sudomemo Support."
