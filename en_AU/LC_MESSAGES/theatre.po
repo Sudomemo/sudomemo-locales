@@ -747,6 +747,9 @@ msgstr "Creators"
 msgid "CREATORS_ROOM"
 msgstr "Creator's Room"
 
+msgid "CREATOR_ROOM_SORT_MODE"
+msgstr "Creator room sort mode"
+
 msgid "CURRENTLY_SIGNED_IN_AS"
 msgstr "Currently signed in as:"
 
@@ -1823,6 +1826,12 @@ msgstr "You don't have any Sudomemo Plus days yet. Visit the shop to get started
 msgid "MANAGE_PLUS_REMAINING"
 msgstr "You currently have %s day(s) of Sudomemo Plus remaining."
 
+msgid "MAP_ATTRIBUTION"
+msgstr "Map attribution"
+
+msgid "MAP_DATA_SOURCE"
+msgstr "Map data"
+
 msgid "MAX_ACCOUNTS_REACHED"
 msgstr "Maximum number of accounts reached"
 
@@ -1951,6 +1960,9 @@ msgstr "Label"
 
 msgid "MY_OVERLAY"
 msgstr "My Overlay"
+
+msgid "MY_THEME"
+msgstr "My Theme"
 
 msgid "NAVBAR_ITEM_ADMIN"
 msgstr "Admin"
@@ -2597,9 +2609,12 @@ msgstr "Untitled Playlist"
 msgid "PROFILE_SHELVES_UPLOADED_PREFIX"
 msgstr "Uploaded"
 
+msgid "PROFILE_STAR_COUNTRY_HEADER_PLURAL"
+msgstr "%s's ★s are from %s countries:"
+
 # # User's ★ are from:
-msgid "PROFILE_STAR_COUNTRY_HEADER"
-msgstr "%s's ★s are from:"
+msgid "PROFILE_STAR_COUNTRY_HEADER_SINGULAR"
+msgstr "%s's ★s are from %s country:"
 
 # # channels that the user posts in most often
 msgid "PROFILE_USER_POSTS_IN"
@@ -2852,6 +2867,9 @@ msgstr "Reply"
 
 msgid "REPLYING_TO"
 msgstr "Replying to"
+
+msgid "REPORT_A_CONCERN"
+msgstr "Report a Concern"
 
 msgid "REQUIRED"
 msgstr "Required"

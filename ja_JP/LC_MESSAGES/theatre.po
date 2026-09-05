@@ -54,7 +54,7 @@ msgid "ACCOUNT_SWITCHER"
 msgstr "Manage login"
 
 msgid "ACTIVE_SUBSCRIPTION"
-msgstr "Active Subscription"
+msgstr "有効なサブスクリプション"
 
 msgid "ADD_ACCOUNT_BUTTON"
 msgstr "Add account"
@@ -70,7 +70,7 @@ msgid "ADD_ANOTHER_ACCOUNT_HELP"
 msgstr "Add another account to switch between them quickly."
 
 msgid "ADD_NEW_WEBHOOK"
-msgstr "Add New Webhook"
+msgstr "新しいWebhookを追加"
 
 msgid "ADD_TO_FAVORITES"
 msgstr "Add to Favorites"
@@ -82,7 +82,7 @@ msgid "ADD_TO_PLAYLIST"
 msgstr "プレイリスト追加"
 
 msgid "ADD_WEBHOOK"
-msgstr "Add Webhook"
+msgstr "Webhookを追加"
 
 msgid "ALL"
 msgstr "All"
@@ -166,7 +166,7 @@ msgid "BACK_TO_MAIL"
 msgstr "Back to Mail"
 
 msgid "BACK_TO_SETTINGS"
-msgstr "Back to Settings"
+msgstr "設定に戻る"
 
 msgid "BATCH_EDIT_DESCRIPTION_PLACEHOLDER"
 msgstr "Description"
@@ -196,7 +196,7 @@ msgid "BATCH_EDIT_TITLE_PLACEHOLDER"
 msgstr "Title"
 
 msgid "BIO"
-msgstr "Bio"
+msgstr "プロフィール文"
 
 msgid "BIO_CLEARED"
 msgstr "Bio cleared."
@@ -208,7 +208,7 @@ msgid "BIO_FIELD_MISSING"
 msgstr "Bio field is missing."
 
 msgid "BIO_PLACEHOLDER"
-msgstr "Enter your bio here..."
+msgstr "プロフィール文を入力…"
 
 msgid "BIO_UPDATED_SUCCESSFULLY"
 msgstr "Bio updated successfully."
@@ -233,7 +233,7 @@ msgid "BTN_GO_HOME"
 msgstr "Back to Sudomemo"
 
 msgid "BTN_GO_TO_EDIT_PROFILE"
-msgstr "Go to Edit Profile"
+msgstr "プロフィール編集へ"
 
 msgid "BTN_GO_TO_SETTINGS"
 msgstr "設定に移動"
@@ -252,7 +252,7 @@ msgstr "アップロードを開始"
 
 # Discord unlink button text
 msgid "BTN_UNLINK_DISCORD"
-msgstr "Unlink Discord Account"
+msgstr "Discordアカウントの連携を解除"
 
 msgid "BTN_UPLOAD_FAILED"
 msgstr "アップロードに失敗しました..."
@@ -378,7 +378,7 @@ msgid "CHRONOLOGICAL"
 msgstr "Oldest"
 
 msgid "CLOSE"
-msgstr "Close"
+msgstr "閉じる"
 
 msgid "COMMENTS"
 msgstr "コメント"
@@ -432,7 +432,7 @@ msgid "CONFIRM_DELETE_OVERLAY"
 msgstr "Are you sure you want to delete this overlay? This action cannot be undone."
 
 msgid "CONFIRM_DELETE_WEBHOOK"
-msgstr "Are you sure you want to delete this webhook? This action cannot be undone."
+msgstr "このWebhookを削除してもよろしいですか？この操作は取り消せません。"
 
 # Discord unlink confirmation dialog
 msgid "CONFIRM_DISCORD_UNLINK"
@@ -456,7 +456,7 @@ msgid "CONFIRM_REMOVE_ACCOUNT"
 msgstr "Are you sure you want to remove this account?"
 
 msgid "CONFIRM_REMOVE_QUEUE_ITEM"
-msgstr "Are you sure you want to remove this item from the queue?"
+msgstr "この項目をキューから削除してもよろしいですか？"
 
 msgid "CONFIRM_TOGGLE_WEBHOOK"
 msgstr "Are you sure you want to change the status of this webhook?"
@@ -543,7 +543,7 @@ msgid "CONSOLE_MANAGEMENT_DESCRIPTION"
 msgstr "Manage which Nintendo consoles are associated with your Sudomemo account."
 
 msgid "CONSOLE_MANAGEMENT_TITLE"
-msgstr "Console Management"
+msgstr "本体の管理"
 
 msgid "CONSOLE_MODAL_ADD_TITLE"
 msgstr "Register a Console"
@@ -733,7 +733,7 @@ msgid "COULD_NOT_SAVE_DETAILS"
 msgstr "詳細を保存できませんでした。"
 
 msgid "CREATED"
-msgstr "Created"
+msgstr "作成日"
 
 msgid "CREATE_NEW_PLAYLIST"
 msgstr "Create New Playlist"
@@ -747,6 +747,9 @@ msgstr "作者"
 msgid "CREATORS_ROOM"
 msgstr "マイルーム"
 
+msgid "CREATOR_ROOM_SORT_MODE"
+msgstr "クリエイタールームの並び順"
+
 msgid "CURRENTLY_SIGNED_IN_AS"
 msgstr "Currently signed in as:"
 
@@ -754,16 +757,16 @@ msgid "CURRENTLY_UNAVAILABLE"
 msgstr "現在利用できません"
 
 msgid "CURRENT_EMAIL"
-msgstr "Current Email"
+msgstr "現在のメールアドレス"
 
 msgid "CURRENT_LANGUAGE"
-msgstr "Current Language"
+msgstr "現在の言語"
 
 msgid "CURRENT_PROFILE_PICTURE"
 msgstr "Current Profile Picture"
 
 msgid "CUSTOM_FRAMES"
-msgstr "Custom Frames"
+msgstr "カスタムフレーム"
 
 msgid "CUSTOM_FRAMES_ASSIGNMENT_INHERIT"
 msgstr "Inherit creator default"
@@ -778,7 +781,7 @@ msgid "CUSTOM_FRAMES_DEFAULT_BADGE"
 msgstr "Default"
 
 msgid "CUSTOM_FRAMES_DEFAULT_FRAME"
-msgstr "Default Frame"
+msgstr "デフォルトフレーム"
 
 msgid "CUSTOM_FRAMES_DEFAULT_SETTINGS_LINK"
 msgstr "Set default custom frame"
@@ -790,7 +793,7 @@ msgid "CUSTOM_FRAMES_NO_DEFAULT_PREVIEW"
 msgstr "No creator default frame is set"
 
 msgid "CUSTOM_FRAMES_PLUS_CTA"
-msgstr "Unlock custom frames and more with Sudomemo Plus!"
+msgstr "Sudomemo Plusでカスタムフレームなどを利用できます！"
 
 msgid "CUSTOM_FRAMES_PREVIEW_TITLE"
 msgstr "Vertical display preview"
@@ -805,13 +808,13 @@ msgid "CUSTOM_FRAMES_SELECT_FRAME"
 msgstr "Select a frame"
 
 msgid "CUSTOM_FRAMES_SETTINGS_EXPLANATION"
-msgstr "Manage your custom frames for Flipstream, YouTube Short uploads, and other places."
+msgstr "FlipstreamやYouTubeショートへのアップロードなどで使用するカスタムフレームを管理します。"
 
 msgid "CUSTOM_FRAMES_UPLOAD_FRAME"
 msgstr "Upload Frame"
 
 msgid "CUSTOM_FRAMES_VERTICAL_VIDEO"
-msgstr "Vertical Video"
+msgstr "縦型動画"
 
 msgid "DAILY_DRAW"
 msgstr "Daily Draw"
@@ -860,7 +863,7 @@ msgid "DEFAULT_META_DESCRIPTION"
 msgstr "スドメモ：作ったメモを世界に発信しよう！DSiと3DSに対応。"
 
 msgid "DELETE"
-msgstr "Delete"
+msgstr "削除"
 
 msgid "DELETE_OVERLAY"
 msgstr "Delete overlay"
@@ -896,13 +899,13 @@ msgid "DIGEST_FREQUENCY_DAILY"
 msgstr "Daily"
 
 msgid "DIGEST_FREQUENCY_EXPLANATION"
-msgstr "Choose how often you'd like to receive digest emails."
+msgstr "ダイジェストメールを受け取る頻度を選択してください。"
 
 msgid "DIGEST_FREQUENCY_MONTHLY"
 msgstr "Monthly"
 
 msgid "DIGEST_FREQUENCY_TITLE"
-msgstr "Digest Email Frequency"
+msgstr "ダイジェストメールの頻度"
 
 msgid "DIGEST_FREQUENCY_TWICE_WEEKLY"
 msgstr "Twice Weekly"
@@ -911,10 +914,10 @@ msgid "DIGEST_FREQUENCY_WEEKLY"
 msgstr "Weekly"
 
 msgid "DISABLE"
-msgstr "Disable"
+msgstr "無効にする"
 
 msgid "DISABLED"
-msgstr "Disabled"
+msgstr "無効"
 
 # This refers to Discord, which is a chat app.
 msgid "DISCORD"
@@ -929,29 +932,29 @@ msgstr "%sから接続"
 
 # Discord unlink explanation text
 msgid "DISCORD_UNLINK_EXPLANATION"
-msgstr "You can unlink your Discord account from your Sudomemo account using the button below. This will remove the connection between your accounts."
+msgstr "以下のボタンから、SudomemoアカウントとDiscordアカウントの連携を解除できます。アカウント間の接続が解除されます。"
 
 # Discord unlink success message
 msgid "DISCORD_UNLINK_SUCCESS"
 msgstr "Discord account unlinked successfully!"
 
 msgid "DISCORD_WEBHOOKS"
-msgstr "Discord Webhooks"
+msgstr "Discord Webhook"
 
 msgid "DISCORD_WEBHOOKS_DESCRIPTION"
-msgstr "Discord webhooks allow you to automatically send notifications to Discord channels when you post new Flipnotes. This is a Sudomemo Plus exclusive feature!"
+msgstr "Discord Webhookを使うと、新しいFlipnoteを投稿したときにDiscordチャンネルへ通知を自動送信できます。Sudomemo Plus限定機能です！"
 
 msgid "DISCORD_WEBHOOKS_PLUS_REQUIRED_DESC"
-msgstr "You'll need Sudomemo Plus to send upload notifications to Discord."
+msgstr "Discordへアップロード通知を送信するにはSudomemo Plusが必要です。"
 
 msgid "DISCORD_WEBHOOKS_PLUS_REQUIRED_TITLE"
-msgstr "Sudomemo Plus Required"
+msgstr "Sudomemo Plusが必要です"
 
 msgid "DISCORD_WEBHOOKS_SETTINGS"
-msgstr "Discord Webhook Settings"
+msgstr "Discord Webhook設定"
 
 msgid "DISCORD_WEBHOOKS_SETTINGS_DESCRIPTION"
-msgstr "Set up Discord webhooks to get notified when you post new Flipnotes!"
+msgstr "新しいFlipnoteの投稿通知を受け取るDiscord Webhookを設定します！"
 
 msgid "DISCORD_WEBHOOK_TEST_MESSAGE"
 msgstr "Discord webhook test - your webhook is working correctly!"
@@ -966,7 +969,7 @@ msgid "DOWNLOADS"
 msgstr "ダウンロード"
 
 msgid "EDIT"
-msgstr "Edit"
+msgstr "編集"
 
 # Flipnote View Page
 msgid "EDIT_FLIPNOTE"
@@ -1149,10 +1152,10 @@ msgid "EDIT_PLAYLIST_THUMB_SET_FAILED"
 msgstr "Couldn't update thumbnail."
 
 msgid "EDIT_PROFILE"
-msgstr "Edit Profile"
+msgstr "プロフィールを編集"
 
 msgid "EDIT_PROFILE_LAYOUT"
-msgstr "Edit Profile Layout"
+msgstr "プロフィールレイアウトを編集"
 
 msgid "EMAIL_ALREADY_IN_USE"
 msgstr "This email address is already in use by another account."
@@ -1177,10 +1180,10 @@ msgid "EMAIL_SEND_FAILED"
 msgstr "Failed to send verification email. Please try again later."
 
 msgid "EMAIL_SETTINGS"
-msgstr "Email Settings"
+msgstr "メール設定"
 
 msgid "EMAIL_SETTINGS_EXPLANATION"
-msgstr "Manage your email preferences and control how often you receive notifications from Sudomemo."
+msgstr "Sudomemoから受け取るメールと通知の頻度を管理します。"
 
 msgid "EMAIL_SETTINGS_SAVED"
 msgstr "Email settings saved successfully!"
@@ -1195,10 +1198,10 @@ msgid "EMPTY_TITLE_ALERT_2"
 msgstr "Go ahead and add one now."
 
 msgid "ENABLE"
-msgstr "Enable"
+msgstr "有効にする"
 
 msgid "ENABLED"
-msgstr "Enabled"
+msgstr "有効"
 
 msgid "ENTER_CODE_FROM_EMAIL"
 msgstr "Enter code from email"
@@ -1207,13 +1210,13 @@ msgid "ENTER_SIX_DIGIT_CODE"
 msgstr "Enter 6-digit code"
 
 msgid "ERROR"
-msgstr "Error"
+msgstr "エラー"
 
 msgid "ERROR_OCCURRED"
-msgstr "An error occurred. Please try again."
+msgstr "エラーが発生しました。もう一度お試しください。"
 
 msgid "ERROR_OCCURRED_TRY_AGAIN"
-msgstr "An error occurred. Please try again."
+msgstr "エラーが発生しました。もう一度お試しください。"
 
 msgid "EXPORT_FAILED_NETWORK_ERROR"
 msgstr "Export failed: Network error"
@@ -1308,7 +1311,7 @@ msgid "FIRST_FLIPNOTE_BADGE"
 msgstr "First Flipnote"
 
 msgid "FIX_NOW"
-msgstr "Fix now"
+msgstr "今すぐ修正"
 
 msgid "FLIPNOTE"
 msgstr "うごメモ"
@@ -1317,7 +1320,7 @@ msgid "FLIPNOTES"
 msgstr "作品"
 
 msgid "FLIPNOTES_MISSING_INFO"
-msgstr "Some of your Flipnotes are missing key information."
+msgstr "一部のうごメモに必要な情報がありません。"
 
 msgid "FLIPNOTE_ALREADY_SET_AS_PROFILE_PICTURE"
 msgstr "This Flipnote is already set as your profile picture."
@@ -1420,11 +1423,11 @@ msgid "FOLLOW_BACK"
 msgstr "お気に入りに登録"
 
 msgid "FOLLOW_UPLOAD_NOTIFICATIONS_OFF"
-msgstr "Turn off new Flipnote notifications"
+msgstr "新しいうごメモの通知をオフにする"
 
 # Follow upload notifications
 msgid "FOLLOW_UPLOAD_NOTIFICATIONS_ON"
-msgstr "Turn on new Flipnote notifications"
+msgstr "新しいうごメモの通知をオンにする"
 
 msgid "FORGOT_YOUR_PASSWORD"
 msgstr "パスワードを忘れましたか？"
@@ -1535,10 +1538,10 @@ msgid "GET_HELP"
 msgstr "サポート"
 
 msgid "GET_MORE_PLUS_DAYS"
-msgstr "Get more Plus days"
+msgstr "Plus日数を追加購入"
 
 msgid "GET_PLUS"
-msgstr "Get Plus"
+msgstr "Plusを利用する"
 
 msgid "GET_SUDOMEMO_PLUS"
 msgstr "Get Sudomemo Plus"
@@ -1641,7 +1644,7 @@ msgid "HATENA_ID"
 msgstr "はてなID"
 
 msgid "HEADER_CHANGE_EMAIL"
-msgstr "Change Email Address"
+msgstr "メールアドレスを変更"
 
 msgid "HEADER_CHANGE_PASSWORD"
 msgstr "パスワードを変更"
@@ -1805,29 +1808,35 @@ msgid "MAIL_READER_TITLE"
 msgstr "Message"
 
 msgid "MANAGE_DISCORD_WEBHOOKS"
-msgstr "Manage Discord Webhooks"
+msgstr "Discord Webhookを管理"
 
 msgid "MANAGE_PLAYLIST"
 msgstr "Manage Playlist"
 
 msgid "MANAGE_PLUS_AUTO_RENEW"
-msgstr "Your Plus days are automatically renewed each billing cycle."
+msgstr "Plus日数は各請求サイクルで自動的に更新されます。"
 
 # Plus Management Page
 msgid "MANAGE_PLUS_HEADER"
-msgstr "Manage Your Sudomemo Plus"
+msgstr "Sudomemo Plusを管理"
 
 msgid "MANAGE_PLUS_NONE"
-msgstr "You don't have any Sudomemo Plus days yet. Visit the shop to get started!"
+msgstr "Sudomemo Plusの日数がまだありません。ショップから始めましょう！"
 
 msgid "MANAGE_PLUS_REMAINING"
-msgstr "You currently have %s day(s) of Sudomemo Plus remaining."
+msgstr "現在、Sudomemo Plusの残り日数は%s日です。"
+
+msgid "MAP_ATTRIBUTION"
+msgstr "地図の帰属表示"
+
+msgid "MAP_DATA_SOURCE"
+msgstr "地図データ"
 
 msgid "MAX_ACCOUNTS_REACHED"
 msgstr "Maximum number of accounts reached"
 
 msgid "MAX_WEBHOOKS_REACHED"
-msgstr "You have reached the maximum limit of %d webhooks per user."
+msgstr "ユーザーごとのWebhook上限（%d個）に達しています。"
 
 msgid "MEMOPLUS_APPLY"
 msgstr "Apply Memo+"
@@ -1902,10 +1911,10 @@ msgid "MESSAGE_POSTED_SUCCESSFULLY"
 msgstr "Message posted successfully."
 
 msgid "MESSAGE_TEMPLATE"
-msgstr "Message Template"
+msgstr "メッセージテンプレート"
 
 msgid "MESSAGE_TEMPLATE_HELP"
-msgstr "Use {flipnote_url}, {username}, and {title} as placeholders"
+msgstr "{flipnote_url}、{username}、{title}をプレースホルダーとして使用できます"
 
 msgid "MESSAGE_TOO_LONG"
 msgstr "Your message is too long."
@@ -1951,6 +1960,9 @@ msgstr "レーベル"
 
 msgid "MY_OVERLAY"
 msgstr "My Overlay"
+
+msgid "MY_THEME"
+msgstr "マイテーマ"
 
 msgid "NAVBAR_ITEM_ADMIN"
 msgstr "管理者"
@@ -2047,14 +2059,14 @@ msgid "NEW_CREATOR_BADGE"
 msgstr "New Creator"
 
 msgid "NEW_EMAIL"
-msgstr "New Email Address"
+msgstr "新しいメールアドレス"
 
 # Form validation messages
 msgid "NEW_EMAIL_FIELD_MISSING"
 msgstr "Please enter a new email address."
 
 msgid "NEW_EMAIL_PLACEHOLDER"
-msgstr "Enter your new email address"
+msgstr "新しいメールアドレスを入力"
 
 msgid "NEW_FRAME"
 msgstr "New Frame"
@@ -2069,7 +2081,7 @@ msgid "NEXT"
 msgstr "次へ"
 
 msgid "NEXT_RENEWAL"
-msgstr "Next Renewal"
+msgstr "次回更新日"
 
 msgid "NINTENDO_3DS"
 msgstr "Nintendo 3DS"
@@ -2184,7 +2196,7 @@ msgid "NO_RECENT_ACTIVITY"
 msgstr "No recent activity"
 
 msgid "NO_TITLE"
-msgstr "No Title"
+msgstr "タイトルなし"
 
 msgid "NO_UPDATES_PROVIDED"
 msgstr "No updates provided."
@@ -2193,7 +2205,7 @@ msgid "NO_USER_FOUND_WITH_FSID_OR_EMAIL"
 msgstr "そのうごメモIDまたはメールアドレスで登録されているユーザーは見つかりませんでした"
 
 msgid "NO_WEBHOOKS_YET"
-msgstr "You haven't set up any Discord webhooks yet."
+msgstr "Discord Webhookはまだ設定されていません。"
 
 msgid "ONLY_APPLIES_FOR_YOUTUBE_SHORTS"
 msgstr "Only applies for YouTube Shorts"
@@ -2322,7 +2334,7 @@ msgid "PLAYLIST"
 msgstr "Playlist"
 
 msgid "PLAYLISTS"
-msgstr "Playlists"
+msgstr "プレイリスト"
 
 msgid "PLAYLIST_ERROR_BLOCKED_BY_AUTHOR"
 msgstr "You cannot add this Flipnote to a playlist because you have been blocked by the Flipnote's author."
@@ -2398,7 +2410,7 @@ msgid "PLUS"
 msgstr "プラス"
 
 msgid "PLUS_BENEFITS"
-msgstr "Sudomemo Plus Benefits"
+msgstr "Sudomemo Plusの特典"
 
 msgid "PLUS_FEATURE"
 msgstr "プラス機能"
@@ -2411,10 +2423,10 @@ msgstr "チャットメッセージを投稿するにはスドメモプラスが
 
 # Shop Page - Subscriptions
 msgid "PLUS_SUB_MONTHLY"
-msgstr "Monthly Plus Subscription"
+msgstr "月額Plusサブスクリプション"
 
 msgid "PLUS_SUB_YEARLY"
-msgstr "Yearly Plus Subscription"
+msgstr "年額Plusサブスクリプション"
 
 msgid "POPULAR"
 msgstr "人気順"
@@ -2433,7 +2445,7 @@ msgid "PRIVACY_POLICY"
 msgstr "個人情報保護方針"
 
 msgid "PRODUCT"
-msgstr "Product"
+msgstr "商品"
 
 msgid "PROFILE_ABOUT_USERNAME"
 msgstr "%sさんのプロフィール"
@@ -2463,34 +2475,34 @@ msgid "PROFILE_RECENT_COMMENTS"
 msgstr "最近ついたコメント"
 
 msgid "PROFILE_SHELVES_BTN_CHANGE"
-msgstr "Change"
+msgstr "変更"
 
 msgid "PROFILE_SHELVES_BTN_CREATE"
-msgstr "Create Shelf"
+msgstr "棚を作成"
 
 msgid "PROFILE_SHELVES_BTN_DELETE"
-msgstr "Delete Shelf"
+msgstr "棚を削除"
 
 msgid "PROFILE_SHELVES_BTN_REMOVE"
 msgstr "Remove"
 
 msgid "PROFILE_SHELVES_CREATE_TITLE"
-msgstr "Create Shelf"
+msgstr "棚を作成"
 
 msgid "PROFILE_SHELVES_DESCRIPTION"
-msgstr "Use shelves to show off the things you're proud of!"
+msgstr "棚を使って、自慢の作品を紹介しましょう！"
 
 msgid "PROFILE_SHELVES_ERROR_GENERIC"
-msgstr "Could not save profile shelf changes."
+msgstr "プロフィール棚の変更を保存できませんでした。"
 
 msgid "PROFILE_SHELVES_ERROR_NETWORK"
-msgstr "Could not reach the server. Please try again."
+msgstr "サーバーに接続できませんでした。もう一度お試しください。"
 
 msgid "PROFILE_SHELVES_FORM_SHELF_TITLE"
-msgstr "Shelf Title"
+msgstr "棚のタイトル"
 
 msgid "PROFILE_SHELVES_FORM_SHELF_TYPE"
-msgstr "Shelf Type"
+msgstr "棚の種類"
 
 msgid "PROFILE_SHELVES_ID_PREFIX"
 msgstr "ID"
@@ -2502,40 +2514,40 @@ msgid "PROFILE_SHELVES_KEY_PREFIX"
 msgstr "Key"
 
 msgid "PROFILE_SHELVES_MAX_CREATORS_REACHED"
-msgstr "Maximum %s Creators"
+msgstr "最大%s人の作者"
 
 msgid "PROFILE_SHELVES_MAX_FLIPNOTES_REACHED"
-msgstr "Maximum %s Flipnotes"
+msgstr "最大%s個のFlipnote"
 
 msgid "PROFILE_SHELVES_MAX_PLAYLISTS_REACHED"
-msgstr "Maximum %s Playlists"
+msgstr "最大%s個のプレイリスト"
 
 msgid "PROFILE_SHELVES_NONE"
-msgstr "No shelves yet."
+msgstr "棚はまだありません。"
 
 msgid "PROFILE_SHELVES_PLAYLIST_SELECTED"
-msgstr "Playlist selected"
+msgstr "プレイリストを選択しました"
 
 msgid "PROFILE_SHELVES_PROFILE_PHOTO_SEARCH_HELP"
-msgstr "Pick a Flipnote to use as your profile photo."
+msgstr "プロフィール写真に使うFlipnoteを選択してください。"
 
 msgid "PROFILE_SHELVES_PROFILE_PHOTO_SEARCH_LABEL"
-msgstr "Choose one of your Flipnotes"
+msgstr "Flipnoteから選択"
 
 msgid "PROFILE_SHELVES_PROFILE_PHOTO_SEARCH_PLACEHOLDER"
-msgstr "Search your Flipnotes by title..."
+msgstr "タイトルでFlipnoteを検索…"
 
 msgid "PROFILE_SHELVES_PROFILE_PHOTO_SELECTED"
-msgstr "You have selected a profile photo Flipnote."
+msgstr "プロフィール写真のFlipnoteを選択しました。"
 
 msgid "PROFILE_SHELVES_SEARCH_CREATOR_HELP"
-msgstr "Search for creators by username."
+msgstr "作者をユーザー名で検索します。"
 
 msgid "PROFILE_SHELVES_SEARCH_CREATOR_LABEL"
-msgstr "Search for a creator"
+msgstr "作者を検索"
 
 msgid "PROFILE_SHELVES_SEARCH_CREATOR_PLACEHOLDER"
-msgstr "Enter a username..."
+msgstr "ユーザー名を入力…"
 
 msgid "PROFILE_SHELVES_SEARCH_EMPTY_FLIPNOTES"
 msgstr "No matching Flipnotes found."
@@ -2568,25 +2580,25 @@ msgid "PROFILE_SHELVES_SEARCH_PLAYLIST_PLACEHOLDER"
 msgstr "Paste a playlist link, key, title, or description"
 
 msgid "PROFILE_SHELVES_TITLE"
-msgstr "Profile Shelves"
+msgstr "プロフィール棚"
 
 msgid "PROFILE_SHELVES_TYPE_FEATURED_CREATORS"
-msgstr "Featured Creators"
+msgstr "おすすめの作者"
 
 msgid "PROFILE_SHELVES_TYPE_FEATURED_FLIPNOTES"
-msgstr "Featured Flipnotes"
+msgstr "おすすめのFlipnote"
 
 msgid "PROFILE_SHELVES_TYPE_LABEL"
-msgstr "Type"
+msgstr "種類"
 
 msgid "PROFILE_SHELVES_TYPE_PLAYLIST"
-msgstr "Playlist"
+msgstr "プレイリスト"
 
 msgid "PROFILE_SHELVES_TYPE_PLAYLISTS"
-msgstr "Playlists"
+msgstr "プレイリスト"
 
 msgid "PROFILE_SHELVES_UNSAVED_CHANGES_WARNING"
-msgstr "You have unsaved changes."
+msgstr "保存されていない変更があります。"
 
 msgid "PROFILE_SHELVES_UNTITLED_FLIPNOTE"
 msgstr "Untitled Flipnote"
@@ -2597,9 +2609,12 @@ msgstr "Untitled Playlist"
 msgid "PROFILE_SHELVES_UPLOADED_PREFIX"
 msgstr "Uploaded"
 
+msgid "PROFILE_STAR_COUNTRY_HEADER_PLURAL"
+msgstr "%sの★は%sか国からです："
+
 # # User's ★ are from:
-msgid "PROFILE_STAR_COUNTRY_HEADER"
-msgstr "★をもらった国"
+msgid "PROFILE_STAR_COUNTRY_HEADER_SINGULAR"
+msgstr "%sの★は%sか国からです："
 
 # # channels that the user posts in most often
 msgid "PROFILE_USER_POSTS_IN"
@@ -2715,7 +2730,7 @@ msgid "PROMO_WRONG_USER_TITLE"
 msgstr "This link was sent to a different account"
 
 msgid "PUSH_NOTIFICATIONS_DESCRIPTION"
-msgstr "Receive instant notifications when you get stars, comments, and other interactions on your Flipnotes."
+msgstr "Flipnoteへのスター、コメントなどの反応を受け取ったときに、すぐ通知します。"
 
 msgid "PUSH_NOTIFICATIONS_DISABLED"
 msgstr "Notifications disabled"
@@ -2731,10 +2746,10 @@ msgid "PUSH_NOTIFICATIONS_PERMISSION_DENIED"
 msgstr "Push notifications permission was denied. Please enable them in your browser settings."
 
 msgid "PUSH_NOTIFICATIONS_SETTINGS_HELP"
-msgstr "This setting is saved per-device. You can enable notifications on multiple devices independently."
+msgstr "この設定は端末ごとに保存されます。複数の端末で個別に通知を有効にできます。"
 
 msgid "PUSH_NOTIFICATIONS_SETTINGS_LABEL"
-msgstr "Enable notifications on this device"
+msgstr "この端末で通知を有効にする"
 
 # Settings link in notifications dropdown
 msgid "PUSH_NOTIFICATIONS_SETTINGS_LINK"
@@ -2746,7 +2761,7 @@ msgstr "Enable notifications"
 
 # User settings page - notification section
 msgid "PUSH_NOTIFICATIONS_TITLE"
-msgstr "Push Notifications"
+msgstr "プッシュ通知"
 
 msgid "QUEUED_FOR_SENDING"
 msgstr "Queued for Sending"
@@ -2853,6 +2868,9 @@ msgstr "返信"
 msgid "REPLYING_TO"
 msgstr "返信中:"
 
+msgid "REPORT_A_CONCERN"
+msgstr "懸念を報告"
+
 msgid "REQUIRED"
 msgstr "必須"
 
@@ -2878,7 +2896,7 @@ msgid "SAVE"
 msgstr "保存"
 
 msgid "SAVE_ERROR"
-msgstr "An error occurred while saving. Please try again."
+msgstr "保存中にエラーが発生しました。もう一度お試しください。"
 
 msgid "SAVE_NAME"
 msgstr "Save Name"
@@ -2935,7 +2953,7 @@ msgid "SEE_MORE"
 msgstr "もっと見る"
 
 msgid "SEND_VERIFICATION_EMAIL"
-msgstr "Send Verification Email"
+msgstr "確認メールを送信"
 
 msgid "SENT_SUCCESSFULLY"
 msgstr "Sent Successfully"
@@ -3017,7 +3035,7 @@ msgid "STARS"
 msgstr "スター数"
 
 msgid "STATUS"
-msgstr "Status"
+msgstr "ステータス"
 
 msgid "SUBMIT"
 msgstr "送信"
@@ -3088,7 +3106,7 @@ msgid "TERMS_OF_USE"
 msgstr "利用規約"
 
 msgid "TEST"
-msgstr "Test"
+msgstr "テスト"
 
 msgid "THEME_ADVERT_TRY_THIS_THEME"
 msgstr "Try this theme!"
@@ -3163,7 +3181,7 @@ msgid "UNTITLED_PLAYLIST"
 msgstr "Untitled Playlist"
 
 msgid "UPDATED"
-msgstr "Updated"
+msgstr "更新日"
 
 msgid "UPLOAD_CONTACT_DISCORD_OR_EMAIL_FORMAT"
 msgstr "Please contact us on Discord or via email to %s."
@@ -3183,7 +3201,7 @@ msgid "USED_IN_N_FLIPNOTES"
 msgstr "Used in %d Flipnotes"
 
 msgid "USERNAME"
-msgstr "Username"
+msgstr "ユーザー名"
 
 msgid "USERNAME_REQUIRED"
 msgstr "A username is required."
@@ -3216,37 +3234,37 @@ msgid "USER_SETTINGS_BLOCKED_USERS_EXPLANATION"
 msgstr "あなたのFlipnoteへのコメントや、あなたのFlipnoteとコメントへのスター追加をブロックしたユーザーを管理します。"
 
 msgid "USER_SETTINGS_CHANGE_EMAIL_EXPLANATION"
-msgstr "Update your email address. A verification email will be sent to your new address."
+msgstr "メールアドレスを更新します。新しいアドレスに確認メールが送信されます。"
 
 msgid "USER_SETTINGS_CHANGE_PASSWORD_EXPLANATION"
-msgstr "You can change the password for your Sudomemo account here:"
+msgstr "ここでSudomemoアカウントのパスワードを変更できます。"
 
 msgid "USER_SETTINGS_CONSOLE_MANAGEMENT_EXPLANATION"
-msgstr "View and manage the consoles linked to your Sudomemo account."
+msgstr "Sudomemoアカウントにリンクされた本体を確認・管理します。"
 
 msgid "USER_SETTINGS_DISCORD_HOW_TO_LINK"
 msgstr "スドメモのDiscordに参加したら、以下のコマンドをコピーしてチャットに送信してください。"
 
 msgid "USER_SETTINGS_EDIT_PROFILE_EXPLANATION"
-msgstr "Change your profile photo, bio, and shelves in one place."
+msgstr "プロフィール写真、プロフィール文、棚をまとめて変更します。"
 
 msgid "USER_SETTINGS_EMAIL_EXPLANATION"
-msgstr "Configure which emails you receive and how often they're sent."
+msgstr "受け取るメールと送信頻度を設定します。"
 
 msgid "USER_SETTINGS_LANGUAGE_EXPLANATION"
-msgstr "Choose your preferred language for Sudomemo"
+msgstr "Sudomemoで使用する言語を選択してください。"
 
 msgid "USER_SETTINGS_PLUS_EXPLANATION"
-msgstr "Manage your Sudomemo Plus subscription and view benefits."
+msgstr "Sudomemo Plusのサブスクリプションを管理し、特典を確認します。"
 
 msgid "USER_SETTINGS_PROFILE_LAYOUT_EXPLANATION"
-msgstr "Manage shelves shown above your profile Flipnotes."
+msgstr "プロフィールのFlipnoteの上に表示する棚を管理します。"
 
 msgid "USER_SETTINGS_SUPPORT_TOKEN_EXPLANATION"
 msgstr "サポートトークンはスドメモサポートに連絡するとき、自分のアカウントを確認するために使われるものです。"
 
 msgid "USER_SETTINGS_USERNAME_EXPLANATION"
-msgstr "Update your username in your Nintendo DSi/3DS System Settings"
+msgstr "Nintendo DSi/3DSの本体設定でユーザー名を更新します。"
 
 msgid "USER_SETTINGS_YOUTUBE_EXPLANATION"
 msgstr "連携したYouTubeチャンネルとデフォルトの作品アップロード設定を行います。"
@@ -3342,7 +3360,7 @@ msgid "VISIBILITY_PRIVATE"
 msgstr "Private"
 
 msgid "VISIBILITY_PUBLIC"
-msgstr "Public"
+msgstr "公開"
 
 msgid "VISIBILITY_SETTINGS"
 msgstr "Visibility Settings"
@@ -3375,25 +3393,25 @@ msgid "WEBHOOK_DISABLED"
 msgstr "Webhook Disabled"
 
 msgid "WEBHOOK_FEATURE_1"
-msgstr "Automatically notify Discord channels when you post Flipnotes"
+msgstr "Flipnoteを投稿したときにDiscordチャンネルへ自動通知"
 
 msgid "WEBHOOK_FEATURE_2"
-msgstr "Customize the message sent to Discord"
+msgstr "Discordへ送信するメッセージをカスタマイズ"
 
 msgid "WEBHOOK_FEATURE_3"
-msgstr "Only works for Flipnotes with both title and description"
+msgstr "タイトルと説明文の両方があるFlipnoteでのみ動作"
 
 msgid "WEBHOOK_NAME"
-msgstr "Webhook Name"
+msgstr "Webhook名"
 
 msgid "WEBHOOK_NAME_HELP"
-msgstr "A friendly name to identify this webhook"
+msgstr "Webhookを識別するわかりやすい名前"
 
 msgid "WEBHOOK_QUEUE"
-msgstr "Webhook Queue"
+msgstr "Webhookキュー"
 
 msgid "WEBHOOK_QUEUE_DESCRIPTION"
-msgstr "These are your pending Discord webhook notifications."
+msgstr "保留中のDiscord Webhook通知です。"
 
 msgid "WEBHOOK_TEST_SUCCESSFUL"
 msgstr "Webhook test successful!"
@@ -3402,7 +3420,7 @@ msgid "WEBHOOK_UPDATED_SUCCESSFULLY"
 msgstr "Webhook updated successfully!"
 
 msgid "WEBHOOK_URL_HELP"
-msgstr "Get this from your Discord server: Server Settings → Integrations → Webhooks"
+msgstr "Discordサーバーの「サーバー設定」→「連携」→「Webhook」から取得できます"
 
 msgid "WEBHOOK_URL_REQUIRED"
 msgstr "Webhook URL is required."
@@ -3501,7 +3519,7 @@ msgid "WELCOME_BOX_YOU_ARE_ADMIN"
 msgstr "管理者権限でログインしています。"
 
 msgid "WHAT_ARE_DISCORD_WEBHOOKS"
-msgstr "What are Discord Webhooks?"
+msgstr "Discord Webhookとは？"
 
 msgid "X_IN_HOT_FLIPNOTES"
 msgstr "#%d in Hot Flipnotes"
@@ -3519,10 +3537,10 @@ msgid "YEARLY_PLUS_SUBSCRIPTION"
 msgstr "Yearly Plus Subscription"
 
 msgid "YOUR_DISCORD_WEBHOOKS"
-msgstr "Your Discord Webhooks"
+msgstr "自分のDiscord Webhook"
 
 msgid "YOUR_SUBSCRIPTIONS"
-msgstr "Your Subscriptions"
+msgstr "自分のサブスクリプション"
 
 msgid "YOUTUBE"
 msgstr "YouTube"
@@ -3550,10 +3568,10 @@ msgid "YOUTUBE_CONNECT_INTRO"
 msgstr "YouTubeチャンネルと連携すると、作品を直接YouTubeに共有できます！"
 
 msgid "YOUTUBE_DEFAULT_PLAYLISTS"
-msgstr "Default Playlists"
+msgstr "デフォルトのプレイリスト"
 
 msgid "YOUTUBE_DEFAULT_PLAYLISTS_DESCRIPTION"
-msgstr "Select playlists that should be pre-selected for future uploads"
+msgstr "今後のアップロードであらかじめ選択するプレイリストを指定します"
 
 msgid "YOUTUBE_DEFAULT_PLAYLISTS_ERROR"
 msgstr "Error updating default playlists"
@@ -3577,7 +3595,7 @@ msgid "YOUTUBE_EXTRA_DESCRIPTION_TEXT_EXPLANATION"
 msgstr "この説明文は、視聴者が動画の説明で[もっと見る]をクリックすると表示されます。"
 
 msgid "YOUTUBE_LAST_SYNC"
-msgstr "Last synced: %s"
+msgstr "最終同期：%s"
 
 msgid "YOUTUBE_LINK_PROMPT"
 msgstr "YouTubeチャンネルと連携して作品をYouTubeにアップロードします。"
@@ -3589,10 +3607,10 @@ msgid "YOUTUBE_LOOP_COUNT_EXPLANATION"
 msgstr "作品が繰り返される回数です。1回だけ再生するには1を選択します。"
 
 msgid "YOUTUBE_NEVER_SYNCED"
-msgstr "Never synced"
+msgstr "未同期"
 
 msgid "YOUTUBE_NO_PLAYLISTS"
-msgstr "No playlists available. Create playlists on YouTube first, then sync them here."
+msgstr "利用できるプレイリストがありません。まずYouTubeでプレイリストを作成し、ここで同期してください。"
 
 msgid "YOUTUBE_OAUTH_ERROR_ACCESS_DENIED_DESC"
 msgstr "Sudomemo needs permission to upload Flipnotes to your YouTube channel."
@@ -3698,7 +3716,7 @@ msgstr "作品がアップロードされるのを待っています。時間を
 
 # Main playlist section header
 msgid "YOUTUBE_PLAYLISTS"
-msgstr "Playlists"
+msgstr "プレイリスト"
 
 msgid "YOUTUBE_PLAYLIST_ITEM"
 msgstr "1 video"
@@ -3727,7 +3745,7 @@ msgid "YOUTUBE_REFRESH_ACCOUNT"
 msgstr "アカウントを更新"
 
 msgid "YOUTUBE_SAVE_DEFAULT_PLAYLISTS"
-msgstr "Update Default Playlists"
+msgstr "デフォルトのプレイリストを更新"
 
 # Playlist selector search
 msgid "YOUTUBE_SEARCH_PLAYLISTS_PLACEHOLDER"
@@ -3789,20 +3807,20 @@ msgid "YOUTUBE_STATUS_WAITING_TO_BE_PROCESSED"
 msgstr "アップロードは現在処理待ちです。"
 
 msgid "YOUTUBE_SYNC_ERROR"
-msgstr "Error syncing playlists"
+msgstr "プレイリストの同期中にエラーが発生しました"
 
 msgid "YOUTUBE_SYNC_IN_PROGRESS"
-msgstr "Syncing playlists..."
+msgstr "プレイリストを同期中…"
 
 # Manual playlist sync
 msgid "YOUTUBE_SYNC_PLAYLISTS"
 msgstr "Sync Playlists"
 
 msgid "YOUTUBE_SYNC_PLAYLISTS_BUTTON"
-msgstr "Sync Now"
+msgstr "今すぐ同期"
 
 msgid "YOUTUBE_SYNC_SUCCESS"
-msgstr "Playlists synced successfully"
+msgstr "プレイリストを同期しました"
 
 msgid "YOUTUBE_TAGS"
 msgstr "タグ"

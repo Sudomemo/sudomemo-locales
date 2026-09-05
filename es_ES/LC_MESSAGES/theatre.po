@@ -747,6 +747,9 @@ msgstr "Creadores"
 msgid "CREATORS_ROOM"
 msgstr "Sala del Creador"
 
+msgid "CREATOR_ROOM_SORT_MODE"
+msgstr "Modo de ordenación de la sala del creador"
+
 msgid "CURRENTLY_SIGNED_IN_AS"
 msgstr "Currently signed in as:"
 
@@ -1823,6 +1826,12 @@ msgstr "You don't have any Sudomemo Plus days yet. Visit the shop to get started
 msgid "MANAGE_PLUS_REMAINING"
 msgstr "You currently have %s day(s) of Sudomemo Plus remaining."
 
+msgid "MAP_ATTRIBUTION"
+msgstr "Atribución del mapa"
+
+msgid "MAP_DATA_SOURCE"
+msgstr "Datos del mapa"
+
 msgid "MAX_ACCOUNTS_REACHED"
 msgstr "Maximum number of accounts reached"
 
@@ -1951,6 +1960,9 @@ msgstr "Etiqueta"
 
 msgid "MY_OVERLAY"
 msgstr "My Overlay"
+
+msgid "MY_THEME"
+msgstr "Mi tema"
 
 msgid "NAVBAR_ITEM_ADMIN"
 msgstr "Administrador"
@@ -2322,7 +2334,7 @@ msgid "PLAYLIST"
 msgstr "Playlist"
 
 msgid "PLAYLISTS"
-msgstr "Playlists"
+msgstr "Listas de reproducción"
 
 msgid "PLAYLIST_ERROR_BLOCKED_BY_AUTHOR"
 msgstr "No puedes agregar esta Flipnote a una lista de reproducción porque el autor de la Flipnote te ha bloqueado."
@@ -2597,9 +2609,12 @@ msgstr "Untitled Playlist"
 msgid "PROFILE_SHELVES_UPLOADED_PREFIX"
 msgstr "Uploaded"
 
+msgid "PROFILE_STAR_COUNTRY_HEADER_PLURAL"
+msgstr "Las ★s de %s vienen de %s países:"
+
 # # User's ★ are from:
-msgid "PROFILE_STAR_COUNTRY_HEADER"
-msgstr "Las ★s de %s vienen de:"
+msgid "PROFILE_STAR_COUNTRY_HEADER_SINGULAR"
+msgstr "Las ★s de %s vienen de %s país:"
 
 # # channels that the user posts in most often
 msgid "PROFILE_USER_POSTS_IN"
@@ -2852,6 +2867,9 @@ msgstr "Responder"
 
 msgid "REPLYING_TO"
 msgstr "Respondiendo a"
+
+msgid "REPORT_A_CONCERN"
+msgstr "Informar de un problema"
 
 msgid "REQUIRED"
 msgstr "Required"
