@@ -13,7 +13,7 @@ msgid "CANNOT_UNBLOCK_NONBLOCKED_USER"
 msgstr "Δεν μπορειτε να μπλοκαρετε αυτον τον χρηστη, εφ'οσον δεν τον ειχατε μπλοκαρει απο την αρχη."
 
 msgid "COMMENTING_AND_STARRING_ENABLED_AFTER_UNBLOCK"
-msgstr "After you have unblocked this user, they will be able to comment on your Flipnotes and add Stars to your Flipnotes and comments again, unless they have you blocked as well."
+msgstr "Αφού ξεμπλοκάρετε αυτόν τον χρήστη, θα μπορεί ξανά να σχολιάζει στα Flipnotes σας και να προσθέτει Αστέρια στα Flipnotes και τα σχόλιά σας, εκτός αν σας έχει μπλοκάρει κι εκείνος."
 
 msgid "COMMENTING_ENABLED_AFTER_UNBLOCK"
 msgstr "Αφου ξεμπλοκαρετε τον χρηστη αυτον, θα μπορειτε να σχολιαζετε ξανα στα Flipnotes του, εκτοs και εαν σαs εχει μπλοκαρει και ο ιδιοs."

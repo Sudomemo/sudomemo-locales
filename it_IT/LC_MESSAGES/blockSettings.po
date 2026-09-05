@@ -13,7 +13,7 @@ msgid "CANNOT_UNBLOCK_NONBLOCKED_USER"
 msgstr "Non puoi sbloccare questo utente, in quanto non lo hai effettivamente bloccato in primo luogo."
 
 msgid "COMMENTING_AND_STARRING_ENABLED_AFTER_UNBLOCK"
-msgstr "After you have unblocked this user, they will be able to comment on your Flipnotes and add Stars to your Flipnotes and comments again, unless they have you blocked as well."
+msgstr "Dopo aver sbloccato questo utente, potrà nuovamente commentare i tuoi Flipnote e aggiungere Stelle ai tuoi Flipnote e commenti, a meno che non ti abbia bloccato a sua volta."
 
 msgid "COMMENTING_ENABLED_AFTER_UNBLOCK"
 msgstr "Dopo aver sbloccato questo utente, sarà in grado di commentare nuovamente i tuoi Flipnote, a meno che anche tu non li abbia bloccati."

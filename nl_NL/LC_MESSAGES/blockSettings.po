@@ -13,7 +13,7 @@ msgid "CANNOT_UNBLOCK_NONBLOCKED_USER"
 msgstr "Je kan deze gebruiker niet deblokkeren, omdat deze niet geblokkeerd is!"
 
 msgid "COMMENTING_AND_STARRING_ENABLED_AFTER_UNBLOCK"
-msgstr "After you have unblocked this user, they will be able to comment on your Flipnotes and add Stars to your Flipnotes and comments again, unless they have you blocked as well."
+msgstr "Nadat je deze gebruiker hebt gedeblokkeerd, kan die weer commentaar op jouw Flipnotes geven en Sterren aan jouw Flipnotes en reacties toevoegen, tenzij die jou ook geblokkeerd heeft."
 
 msgid "COMMENTING_ENABLED_AFTER_UNBLOCK"
 msgstr "Nadat je deze gebruiker gedeblokkeerd hebt, kan die weer commentaar op jouw Flipnotes leveren, tenzij deze jou ook geblokkeerd heeft."

@@ -3213,7 +3213,7 @@ msgid "USER_SETTINGS_BIO_EXPLANATION"
 msgstr "Aqui podes mudar a tua biografia."
 
 msgid "USER_SETTINGS_BLOCKED_USERS_EXPLANATION"
-msgstr "Manage users you have blocked from commenting on your Flipnotes or adding Stars to your Flipnotes and comments."
+msgstr "Gere os utilizadores que bloqueaste para que não comentem os teus Flipnotes nem adicionem Estrelas aos teus Flipnotes e comentários."
 
 msgid "USER_SETTINGS_CHANGE_EMAIL_EXPLANATION"
 msgstr "Actualiza to teu endereço de email. Um email de verificação será enviado para o teu novo endereço de email."
@@ -3334,6 +3334,9 @@ msgstr "Qualquer pessoa pode ver este Flipnote no teu perfil e nos resultados de
 
 msgid "VISIBILITY_DESCRIPTION_UNLISTED"
 msgstr "Só pessoas com um link directo podem ver este Flipnote. Não irá aparecer publicamente."
+
+msgid "VISIBILITY_LINK_WARNING"
+msgstr "If this Flipnote is Unlisted, anyone who already has or has saved its URL may still be able to view it. Changing visibility does not invalidate previously shared links."
 
 msgid "VISIBILITY_PRIVATE"
 msgstr "Privado"
