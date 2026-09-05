@@ -3886,3 +3886,6 @@ msgstr "L’apparence et la disposition peuvent varier en fonction de l’appare
 
 msgid "YT_UPLOAD_PLUS_MEMO_PLUS"
 msgstr "Memo+"
+
+msgid "VISIBILITY_CHANGE_UNAVAILABLE"
+msgstr "The visibility of this Flipnote cannot currently be changed. If you need assistance, please contact Sudomemo Support."
