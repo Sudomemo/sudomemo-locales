@@ -141,6 +141,15 @@ msgstr "Mute Acknowledgment Required"
 msgid "DS_MUTE_CAN_BE_LIFTED_AFTER"
 msgstr "This restriction can be lifted after"
 
+msgid "DS_RESTRICTION_NOTICE"
+msgstr "Je account mag niet meer met Sudomemo communiceren."
+
+msgid "DS_SANCTION_DURATION_INDEFINITE"
+msgstr "Deze beperking is voor onbepaalde tijd."
+
+msgid "DS_SANCTION_DURATION_UNTIL"
+msgstr "Deze beperking wordt opgeheven op %s."
+
 msgid "DS_SANCTION_REASON"
 msgstr "Reason"
 

@@ -141,6 +141,15 @@ msgstr "Mute Acknowledgment Required"
 msgid "DS_MUTE_CAN_BE_LIFTED_AFTER"
 msgstr "This restriction can be lifted after"
 
+msgid "DS_RESTRICTION_NOTICE"
+msgstr "あなたのアカウントはスドメモとのやり取りが制限されています。"
+
+msgid "DS_SANCTION_DURATION_INDEFINITE"
+msgstr "この制限は期限がありません。"
+
+msgid "DS_SANCTION_DURATION_UNTIL"
+msgstr "この制限は%sに解除される予定です。"
+
 msgid "DS_SANCTION_REASON"
 msgstr "Reason"
 

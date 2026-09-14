@@ -141,6 +141,15 @@ msgstr "Mute Acknowledgment Required"
 msgid "DS_MUTE_CAN_BE_LIFTED_AFTER"
 msgstr "This restriction can be lifted after"
 
+msgid "DS_RESTRICTION_NOTICE"
+msgstr "Dein Konto wurde für Interaktionen mit Sudomemo eingeschränkt."
+
+msgid "DS_SANCTION_DURATION_INDEFINITE"
+msgstr "Diese Einschränkung gilt auf unbestimmte Zeit."
+
+msgid "DS_SANCTION_DURATION_UNTIL"
+msgstr "Diese Einschränkung wird am %s aufgehoben."
+
 msgid "DS_SANCTION_REASON"
 msgstr "Reason"
 

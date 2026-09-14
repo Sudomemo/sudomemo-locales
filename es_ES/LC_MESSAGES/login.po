@@ -141,6 +141,15 @@ msgstr "Reconocimiento de Muteo Requerido"
 msgid "DS_MUTE_CAN_BE_LIFTED_AFTER"
 msgstr "Esta restricción puede ser levantada después"
 
+msgid "DS_RESTRICTION_NOTICE"
+msgstr "Se ha restringido tu cuenta para interactuar con Sudomemo."
+
+msgid "DS_SANCTION_DURATION_INDEFINITE"
+msgstr "Esta restricción es indefinida."
+
+msgid "DS_SANCTION_DURATION_UNTIL"
+msgstr "Esta restricción se levantará el %s."
+
 msgid "DS_SANCTION_REASON"
 msgstr "Razón"
 
