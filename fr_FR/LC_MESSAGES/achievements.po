@@ -116,6 +116,9 @@ msgstr "Atteignez un rang dans le top 100."
 msgid "ACHIEVEMENT_DESC_ricked"
 msgstr "Never gonna give you up !"
 
+msgid "ACHIEVEMENT_DESC_serial_gifter"
+msgstr "Giving is its own reward. But you get an achievement too."
+
 msgid "ACHIEVEMENT_DESC_star_collector"
 msgstr "100 étoiles jaunes reçues."
 
@@ -265,6 +268,9 @@ msgstr "Dans le Top cent !"
 
 msgid "ACHIEVEMENT_NAME_ricked"
 msgstr "Rické"
+
+msgid "ACHIEVEMENT_NAME_serial_gifter"
+msgstr "Serial Gifter"
 
 msgid "ACHIEVEMENT_NAME_star_collector"
 msgstr "Collectionneur d'étoiles"

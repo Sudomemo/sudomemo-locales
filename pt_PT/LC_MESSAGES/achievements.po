@@ -116,6 +116,9 @@ msgstr "Chegaste ao top 100. Passo a passo para subir ao topo!"
 msgid "ACHIEVEMENT_DESC_ricked"
 msgstr "Never gonna give you up!"
 
+msgid "ACHIEVEMENT_DESC_serial_gifter"
+msgstr "Giving is its own reward. But you get an achievement too."
+
 msgid "ACHIEVEMENT_DESC_star_collector"
 msgstr "100 Estrelas Amarelas recebidas."
 
@@ -265,6 +268,9 @@ msgstr "Estou nos Top Cem!"
 
 msgid "ACHIEVEMENT_NAME_ricked"
 msgstr "Ricked"
+
+msgid "ACHIEVEMENT_NAME_serial_gifter"
+msgstr "Serial Gifter"
 
 msgid "ACHIEVEMENT_NAME_star_collector"
 msgstr "Coleccionador de Estrelas"
