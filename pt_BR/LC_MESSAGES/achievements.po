@@ -86,6 +86,9 @@ msgstr "Add a legendary Purple Star to a legendary Flipnote."
 msgid "ACHIEVEMENT_DESC_leaping_platforms"
 msgstr "Upload a Flipnote to YouTube."
 
+msgid "ACHIEVEMENT_DESC_make_the_news"
+msgstr "Seu nome está no jornal. Tente não deixar isso subir à cabeça."
+
 msgid "ACHIEVEMENT_DESC_new_pfp"
 msgstr "Changed your Profile Picture. Do these glasses look good on me?"
 
@@ -239,6 +242,9 @@ msgstr "Kingmaker"
 msgid "ACHIEVEMENT_NAME_leaping_platforms"
 msgstr "Leaping Platforms"
 
+msgid "ACHIEVEMENT_NAME_make_the_news"
+msgstr "Nas notícias"
+
 msgid "ACHIEVEMENT_NAME_new_pfp"
 msgstr "New Look"
 
@@ -319,9 +325,3 @@ msgstr "Achievement Unlocked!"
 
 msgid "YOU_GOT_AN_ACHIEVEMENT"
 msgstr "You got an achievement!"
-
-msgid "ACHIEVEMENT_NAME_make_the_news"
-msgstr "Nas notícias"
-
-msgid "ACHIEVEMENT_DESC_make_the_news"
-msgstr "Seu nome está no jornal. Tente não deixar isso subir à cabeça."

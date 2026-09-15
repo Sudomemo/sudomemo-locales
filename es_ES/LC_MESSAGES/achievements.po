@@ -86,6 +86,9 @@ msgstr "Agrega una legendaria Estrella Morada a un legendario Flipnote."
 msgid "ACHIEVEMENT_DESC_leaping_platforms"
 msgstr "Sube un Flipnote a YouTube."
 
+msgid "ACHIEVEMENT_DESC_make_the_news"
+msgstr "Tu nombre está en el periódico. Intenta que no se te suba a la cabeza."
+
 msgid "ACHIEVEMENT_DESC_new_pfp"
 msgstr "Cambiaste tu Foto de Perfil. ¿Se me ven bien estos lentes?"
 
@@ -239,6 +242,9 @@ msgstr "Nombrador de Monarcas"
 msgid "ACHIEVEMENT_NAME_leaping_platforms"
 msgstr "De Plataforma en Plataforma"
 
+msgid "ACHIEVEMENT_NAME_make_the_news"
+msgstr "Salir en las noticias"
+
 msgid "ACHIEVEMENT_NAME_new_pfp"
 msgstr "Nuevo Look"
 
@@ -319,9 +325,3 @@ msgstr "¡Logro Desbloqueado!"
 
 msgid "YOU_GOT_AN_ACHIEVEMENT"
 msgstr "¡Obtuviste un logro!"
-
-msgid "ACHIEVEMENT_NAME_make_the_news"
-msgstr "Salir en las noticias"
-
-msgid "ACHIEVEMENT_DESC_make_the_news"
-msgstr "Tu nombre está en el periódico. Intenta que no se te suba a la cabeza."

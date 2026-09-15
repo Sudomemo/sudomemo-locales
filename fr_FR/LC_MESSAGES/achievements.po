@@ -86,6 +86,9 @@ msgstr "Ajoutez une étoile violette légendaire à une Flipnote légendaire."
 msgid "ACHIEVEMENT_DESC_leaping_platforms"
 msgstr "Envoyez une Flipnote sur YouTube."
 
+msgid "ACHIEVEMENT_DESC_make_the_news"
+msgstr "Votre nom est dans le journal. Essayez de ne pas prendre la grosse tête."
+
 msgid "ACHIEVEMENT_DESC_new_pfp"
 msgstr "A changé votre photo de profil. Ces lunettes me vont-elles bien ?"
 
@@ -239,6 +242,9 @@ msgstr "Faiseur de rois"
 msgid "ACHIEVEMENT_NAME_leaping_platforms"
 msgstr "Saut de plateformes"
 
+msgid "ACHIEVEMENT_NAME_make_the_news"
+msgstr "Faire les nouvelles"
+
 msgid "ACHIEVEMENT_NAME_new_pfp"
 msgstr "Nouveau look"
 
@@ -319,9 +325,3 @@ msgstr "Succès déverrouillé !"
 
 msgid "YOU_GOT_AN_ACHIEVEMENT"
 msgstr "You got an achievement!"
-
-msgid "ACHIEVEMENT_NAME_make_the_news"
-msgstr "Faire les nouvelles"
-
-msgid "ACHIEVEMENT_DESC_make_the_news"
-msgstr "Votre nom est dans le journal. Essayez de ne pas prendre la grosse tête."

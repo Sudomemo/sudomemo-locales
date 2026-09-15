@@ -86,6 +86,9 @@ msgstr "Aggiunto una leggendaria Stella Viola ad un leggendario Flipnote."
 msgid "ACHIEVEMENT_DESC_leaping_platforms"
 msgstr "Carica un Flipnote su YouTube."
 
+msgid "ACHIEVEMENT_DESC_make_the_news"
+msgstr "Il tuo nome è sul giornale. Cerca di non montarti la testa."
+
 msgid "ACHIEVEMENT_DESC_new_pfp"
 msgstr "Cambiato la tua immagine del profilo. Mi stanno bene questi occhiali?"
 
@@ -239,6 +242,9 @@ msgstr "Creatore di re"
 msgid "ACHIEVEMENT_NAME_leaping_platforms"
 msgstr "Piattaforme mobili"
 
+msgid "ACHIEVEMENT_NAME_make_the_news"
+msgstr "Finire sul giornale"
+
 msgid "ACHIEVEMENT_NAME_new_pfp"
 msgstr "Nuovo look"
 
@@ -319,9 +325,3 @@ msgstr "Achievement sbloccato!"
 
 msgid "YOU_GOT_AN_ACHIEVEMENT"
 msgstr "You got an achievement!"
-
-msgid "ACHIEVEMENT_NAME_make_the_news"
-msgstr "Finire sul giornale"
-
-msgid "ACHIEVEMENT_DESC_make_the_news"
-msgstr "Il tuo nome è sul giornale. Cerca di non montarti la testa."

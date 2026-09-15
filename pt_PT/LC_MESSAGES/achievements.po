@@ -86,6 +86,9 @@ msgstr "Adicionaste a Estrela Roxa lendária a um Flipnote lendário."
 msgid "ACHIEVEMENT_DESC_leaping_platforms"
 msgstr "Fizeste upload de um Flipnote no YouTube."
 
+msgid "ACHIEVEMENT_DESC_make_the_news"
+msgstr "O teu nome está no jornal. Tenta não deixar que isso te suba à cabeça."
+
 msgid "ACHIEVEMENT_DESC_new_pfp"
 msgstr "Mudaste a tua Foto de Perfil. Será que estes óculos me ficam bem?"
 
@@ -239,6 +242,9 @@ msgstr "O Lendário Púrpura"
 msgid "ACHIEVEMENT_NAME_leaping_platforms"
 msgstr "Salta Plataformas"
 
+msgid "ACHIEVEMENT_NAME_make_the_news"
+msgstr "Nas notícias"
+
 msgid "ACHIEVEMENT_NAME_new_pfp"
 msgstr "Um novo Look"
 
@@ -319,9 +325,3 @@ msgstr "Conquista Desbloqueada!"
 
 msgid "YOU_GOT_AN_ACHIEVEMENT"
 msgstr "You got an achievement!"
-
-msgid "ACHIEVEMENT_NAME_make_the_news"
-msgstr "Nas notícias"
-
-msgid "ACHIEVEMENT_DESC_make_the_news"
-msgstr "O teu nome está no jornal. Tenta não deixar que isso te suba à cabeça."

@@ -86,6 +86,9 @@ msgstr "Lagt till en legendarisk Lila Star på en legendarisk Flipnote."
 msgid "ACHIEVEMENT_DESC_leaping_platforms"
 msgstr "Laddat upp din första flipnote till youtube."
 
+msgid "ACHIEVEMENT_DESC_make_the_news"
+msgstr "Ditt namn står i tidningen. Försök att inte låta det stiga dig åt huvudet."
+
 msgid "ACHIEVEMENT_DESC_new_pfp"
 msgstr "Ändrat din profilbild. Tror du glösögon hade sätt bra ut på mig?"
 
@@ -239,6 +242,9 @@ msgstr "Kung skapare"
 msgid "ACHIEVEMENT_NAME_leaping_platforms"
 msgstr "Hoppar Platformer"
 
+msgid "ACHIEVEMENT_NAME_make_the_news"
+msgstr "Hamna i nyheterna"
+
 msgid "ACHIEVEMENT_NAME_new_pfp"
 msgstr "Nytt utseende"
 
@@ -319,9 +325,3 @@ msgstr "Achievement Upplåst!"
 
 msgid "YOU_GOT_AN_ACHIEVEMENT"
 msgstr "You got an achievement!"
-
-msgid "ACHIEVEMENT_NAME_make_the_news"
-msgstr "Hamna i nyheterna"
-
-msgid "ACHIEVEMENT_DESC_make_the_news"
-msgstr "Ditt namn står i tidningen. Försök att inte låta det stiga dig åt huvudet."
