@@ -319,3 +319,9 @@ msgstr "Achievement Unlocked!"
 
 msgid "YOU_GOT_AN_ACHIEVEMENT"
 msgstr "You got an achievement!"
+
+msgid "ACHIEVEMENT_NAME_make_the_news"
+msgstr "Cyrraedd y Newyddion"
+
+msgid "ACHIEVEMENT_DESC_make_the_news"
+msgstr "Mae eich enw yn y papur. Ceisiwch beidio â gadael iddo fynd i’ch pen."

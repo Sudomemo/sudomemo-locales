@@ -319,3 +319,9 @@ msgstr "Achievement Unlocked!"
 
 msgid "YOU_GOT_AN_ACHIEVEMENT"
 msgstr "You got an achievement!"
+
+msgid "ACHIEVEMENT_NAME_make_the_news"
+msgstr "ニュースになる"
+
+msgid "ACHIEVEMENT_DESC_make_the_news"
+msgstr "あなたの名前が新聞に載った。調子に乗らないようにね。"

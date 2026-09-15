@@ -319,3 +319,9 @@ msgstr "Achievement Upplåst!"
 
 msgid "YOU_GOT_AN_ACHIEVEMENT"
 msgstr "You got an achievement!"
+
+msgid "ACHIEVEMENT_NAME_make_the_news"
+msgstr "Hamna i nyheterna"
+
+msgid "ACHIEVEMENT_DESC_make_the_news"
+msgstr "Ditt namn står i tidningen. Försök att inte låta det stiga dig åt huvudet."

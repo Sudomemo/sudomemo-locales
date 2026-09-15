@@ -319,3 +319,9 @@ msgstr "Achievement Unlocked!"
 
 msgid "YOU_GOT_AN_ACHIEVEMENT"
 msgstr "You got an achievement!"
+
+msgid "ACHIEVEMENT_NAME_make_the_news"
+msgstr "Faire les nouvelles"
+
+msgid "ACHIEVEMENT_DESC_make_the_news"
+msgstr "Votre nom est dans le journal. Essayez de ne pas prendre la grosse tête."
