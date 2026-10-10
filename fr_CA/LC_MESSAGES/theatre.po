@@ -72,6 +72,9 @@ msgstr "Add another account to switch between them quickly."
 msgid "ADD_NEW_WEBHOOK"
 msgstr "Add New Webhook"
 
+msgid "ADD_TO_CALENDAR"
+msgstr "Add to calendar"
+
 msgid "ADD_TO_FAVORITES"
 msgstr "Add to Favorites"
 
@@ -129,6 +132,9 @@ msgstr "Artist"
 msgid "ARTIST_HAS_N_TRACKS"
 msgstr "%d distinct tracks"
 
+msgid "ATTENDING"
+msgstr "attending"
+
 msgid "AUTOPLAY_BLOCKED_TOOLTIP_HEADER"
 msgstr "Autoplay Blocked"
 
@@ -161,6 +167,9 @@ msgstr "Back to login manager"
 
 msgid "BACK_TO_CATEGORIES"
 msgstr "Back to Categories"
+
+msgid "BACK_TO_EVENTS"
+msgstr "Back to Events"
 
 msgid "BACK_TO_MAIL"
 msgstr "Back to Mail"
@@ -271,6 +280,9 @@ msgstr "Cancel"
 
 msgid "CANCEL_REPLY"
 msgstr "Cancel"
+
+msgid "CANCEL_RSVP"
+msgstr "Cancel my RSVP"
 
 msgid "CANNOT_ADD_CURRENT_ACCOUNT"
 msgstr "Cannot add current account"
@@ -968,6 +980,9 @@ msgstr "Download"
 msgid "DOWNLOADS"
 msgstr "Downloads"
 
+msgid "DOWNLOAD_ICS"
+msgstr "Download ICS"
+
 msgid "EDIT"
 msgstr "Edit"
 
@@ -1217,6 +1232,45 @@ msgstr "An error occurred. Please try again."
 
 msgid "ERROR_OCCURRED_TRY_AGAIN"
 msgstr "An error occurred. Please try again."
+
+msgid "EVENTS"
+msgstr "Events"
+
+msgid "EVENT_CANCELED"
+msgstr "Canceled"
+
+msgid "EVENT_DATE"
+msgstr "Date"
+
+msgid "EVENT_INFORMATION_LINK"
+msgstr "Event information or registration"
+
+msgid "EVENT_LOCATION"
+msgstr "Location"
+
+msgid "EVENT_REMINDER_EMAIL_BODY"
+msgstr "This is a reminder for an event you said you are attending."
+
+msgid "EVENT_REMINDER_EMAIL_SUBJECT"
+msgstr "Your event is coming up"
+
+msgid "EVENT_TIME"
+msgstr "Time"
+
+msgid "EVENT_TYPE"
+msgstr "Format"
+
+msgid "EVENT_UPDATE_EMAIL_CANCELED_BODY"
+msgstr "The following event was canceled."
+
+msgid "EVENT_UPDATE_EMAIL_CANCELED_SUBJECT"
+msgstr "An event you RSVP’d to was canceled"
+
+msgid "EVENT_UPDATE_EMAIL_CHANGED_BODY"
+msgstr "The following event’s schedule has changed."
+
+msgid "EVENT_UPDATE_EMAIL_CHANGED_SUBJECT"
+msgstr "An event you RSVP’d to has changed"
 
 msgid "EXPORT_FAILED_NETWORK_ERROR"
 msgstr "Export failed: Network error"
@@ -1731,6 +1785,9 @@ msgstr "Discover redeemable tickets for Sudomemo Plus and Color Stars in the Sud
 msgid "INVENTORY_TICKETS_WEB_HEADER"
 msgstr "Redeem tickets for special rewards like Themes, Sudomemo Plus, Color Stars, and more."
 
+msgid "IN_PERSON_EVENT"
+msgstr "In person"
+
 msgid "IN_REPLY_TO"
 msgstr "In Reply To"
 
@@ -1802,6 +1859,9 @@ msgstr "If you want to switch to a different account instead of logging out comp
 
 msgid "LOGOUT_WARNING_MAIN_ACCOUNT"
 msgstr "You are about to log out of your main account. This will remove all additional accounts from your account switcher and fully log you out of Sudomemo."
+
+msgid "LOG_IN_TO_RSVP"
+msgstr "Log in to RSVP"
 
 # Mail reader strings
 msgid "MAIL_READER_TITLE"
@@ -2189,6 +2249,9 @@ msgstr "No language was specified."
 msgid "NO_NOTIFICATIONS"
 msgstr "No notifications"
 
+msgid "NO_PAST_EVENTS"
+msgstr "There are no past events to show."
+
 msgid "NO_RANKING_DATA"
 msgstr "No Ranking Data Available"
 
@@ -2198,6 +2261,9 @@ msgstr "No recent activity"
 msgid "NO_TITLE"
 msgstr "No Title"
 
+msgid "NO_UPCOMING_EVENTS"
+msgstr "There are no upcoming events right now."
+
 msgid "NO_UPDATES_PROVIDED"
 msgstr "No updates provided."
 
@@ -2206,6 +2272,9 @@ msgstr "No user found with that Flipnote Studio ID or email"
 
 msgid "NO_WEBHOOKS_YET"
 msgstr "You haven't set up any Discord webhooks yet."
+
+msgid "ONLINE_EVENT"
+msgstr "Online"
 
 msgid "ONLY_APPLIES_FOR_YOUTUBE_SHORTS"
 msgstr "Only applies for YouTube Shorts"
@@ -2275,6 +2344,9 @@ msgstr "Change Password"
 
 msgid "PASS_CHANGE_URL_EXPIRED"
 msgstr "The URL you visited has expired."
+
+msgid "PAST_EVENTS"
+msgstr "Past events"
 
 # Channel permissions: Is posting Flipnotes to a channel allowed or not?
 msgid "PERMISSIONS"
@@ -2843,6 +2915,9 @@ msgstr "Japan"
 msgid "REGION_UNKNOWN"
 msgstr "Unknown"
 
+msgid "RELATED_NEWS"
+msgstr "Related news"
+
 # Referring to a release date/publishing date
 msgid "RELEASED"
 msgstr "Released"
@@ -2888,6 +2963,9 @@ msgstr "Return to Flipnote"
 
 msgid "ROOT_FLIPNOTE"
 msgstr "Root Flipnote"
+
+msgid "RSVP_TO_EVENT"
+msgstr "RSVP to this event"
 
 msgid "SAFE_COMMS_ANCHOR_1"
 msgstr "Feel something off? Here's how to spot it"
@@ -3180,6 +3258,9 @@ msgstr "Untitled Flipnote by %s"
 msgid "UNTITLED_PLAYLIST"
 msgstr "Untitled Playlist"
 
+msgid "UPCOMING_EVENTS"
+msgstr "Upcoming events"
+
 msgid "UPDATED"
 msgstr "Updated"
 
@@ -3332,11 +3413,23 @@ msgstr "Spin-offs"
 msgid "VIEWS"
 msgstr "Views"
 
+msgid "VIEW_EVENT"
+msgstr "View event details"
+
+msgid "VIEW_EVENT_ARCHIVE"
+msgstr "View past events"
+
 msgid "VIEW_FLIPNOTES_BY_CATEGORY"
 msgstr "View Flipnotes by category"
 
+msgid "VIEW_IN_THEME_SHOP"
+msgstr "View in Theme Shop"
+
 msgid "VIEW_ON_SUDOMEMO"
 msgstr "View on Sudomemo"
+
+msgid "VIEW_UPCOMING_EVENTS"
+msgstr "View upcoming events"
 
 msgid "VIEW_YOUR_PROFILE"
 msgstr "View Your Profile"
@@ -3889,96 +3982,3 @@ msgstr "Appearance and layout may vary depending on device used to view video"
 
 msgid "YT_UPLOAD_PLUS_MEMO_PLUS"
 msgstr "Memo+"
-
-msgid "EVENTS"
-msgstr "Events"
-
-msgid "UPCOMING_EVENTS"
-msgstr "Upcoming events"
-
-msgid "PAST_EVENTS"
-msgstr "Past events"
-
-msgid "VIEW_UPCOMING_EVENTS"
-msgstr "View upcoming events"
-
-msgid "VIEW_EVENT_ARCHIVE"
-msgstr "View past events"
-
-msgid "NO_PAST_EVENTS"
-msgstr "There are no past events to show."
-
-msgid "NO_UPCOMING_EVENTS"
-msgstr "There are no upcoming events right now."
-
-msgid "VIEW_IN_THEME_SHOP"
-msgstr "View in Theme Shop"
-
-msgid "EVENT_CANCELED"
-msgstr "Canceled"
-
-msgid "ATTENDING"
-msgstr "attending"
-
-msgid "EVENT_DATE"
-msgstr "Date"
-
-msgid "EVENT_TIME"
-msgstr "Time"
-
-msgid "EVENT_TYPE"
-msgstr "Format"
-
-msgid "ONLINE_EVENT"
-msgstr "Online"
-
-msgid "IN_PERSON_EVENT"
-msgstr "In person"
-
-msgid "EVENT_LOCATION"
-msgstr "Location"
-
-msgid "EVENT_INFORMATION_LINK"
-msgstr "Event information or registration"
-
-msgid "ADD_TO_CALENDAR"
-msgstr "Add to calendar"
-
-msgid "DOWNLOAD_ICS"
-msgstr "Download ICS"
-
-msgid "BACK_TO_EVENTS"
-msgstr "Back to Events"
-
-msgid "RSVP_TO_EVENT"
-msgstr "RSVP to this event"
-
-msgid "CANCEL_RSVP"
-msgstr "Cancel my RSVP"
-
-msgid "LOG_IN_TO_RSVP"
-msgstr "Log in to RSVP"
-
-msgid "RELATED_NEWS"
-msgstr "Related news"
-
-msgid "EVENT_REMINDER_EMAIL_SUBJECT"
-msgstr "Your event is coming up"
-
-msgid "EVENT_REMINDER_EMAIL_BODY"
-msgstr "This is a reminder for an event you said you are attending."
-
-msgid "EVENT_UPDATE_EMAIL_CANCELED_SUBJECT"
-msgstr "An event you RSVP’d to was canceled"
-
-msgid "EVENT_UPDATE_EMAIL_CHANGED_SUBJECT"
-msgstr "An event you RSVP’d to has changed"
-
-msgid "EVENT_UPDATE_EMAIL_CANCELED_BODY"
-msgstr "The following event was canceled."
-
-msgid "EVENT_UPDATE_EMAIL_CHANGED_BODY"
-msgstr "The following event’s schedule has changed."
-
-msgid "VIEW_EVENT"
-msgstr "View event details"

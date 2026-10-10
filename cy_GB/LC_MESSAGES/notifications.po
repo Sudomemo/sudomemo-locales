@@ -3,6 +3,15 @@ msgstr ""
 "Language: cy_GB\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
+msgid "EVENT_NOTIFICATION_CANCELED"
+msgstr "An event you RSVP'd to was canceled:"
+
+msgid "EVENT_NOTIFICATION_CHANGED"
+msgstr "An event you RSVP'd to has changed:"
+
+msgid "EVENT_NOTIFICATION_REMINDER"
+msgstr "An event you RSVP'd to is coming up soon: "
+
 msgid "FLIPNOTE"
 msgstr "Flipnote"
 
@@ -135,12 +144,3 @@ msgstr "Your Flipnote "
 
 msgid "FRAGMENT_YOUR_FLIPNOTE_WAS_FEATURED"
 msgstr "Your Flipnote was featured! "
-
-msgid "EVENT_NOTIFICATION_REMINDER"
-msgstr "An event you RSVP'd to is coming up soon: "
-
-msgid "EVENT_NOTIFICATION_CANCELED"
-msgstr "An event you RSVP'd to was canceled:"
-
-msgid "EVENT_NOTIFICATION_CHANGED"
-msgstr "An event you RSVP'd to has changed:"
