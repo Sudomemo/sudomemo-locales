@@ -3889,3 +3889,96 @@ msgstr "Exakt utseende kan förändras beroende på enheten videon visas på"
 
 msgid "YT_UPLOAD_PLUS_MEMO_PLUS"
 msgstr "Memo+"
+
+msgid "EVENTS"
+msgstr "Events"
+
+msgid "UPCOMING_EVENTS"
+msgstr "Upcoming events"
+
+msgid "PAST_EVENTS"
+msgstr "Past events"
+
+msgid "VIEW_UPCOMING_EVENTS"
+msgstr "View upcoming events"
+
+msgid "VIEW_EVENT_ARCHIVE"
+msgstr "View past events"
+
+msgid "NO_PAST_EVENTS"
+msgstr "There are no past events to show."
+
+msgid "NO_UPCOMING_EVENTS"
+msgstr "There are no upcoming events right now."
+
+msgid "VIEW_IN_THEME_SHOP"
+msgstr "View in Theme Shop"
+
+msgid "EVENT_CANCELED"
+msgstr "Canceled"
+
+msgid "ATTENDING"
+msgstr "attending"
+
+msgid "EVENT_DATE"
+msgstr "Date"
+
+msgid "EVENT_TIME"
+msgstr "Time"
+
+msgid "EVENT_TYPE"
+msgstr "Format"
+
+msgid "ONLINE_EVENT"
+msgstr "Online"
+
+msgid "IN_PERSON_EVENT"
+msgstr "In person"
+
+msgid "EVENT_LOCATION"
+msgstr "Location"
+
+msgid "EVENT_INFORMATION_LINK"
+msgstr "Event information or registration"
+
+msgid "ADD_TO_CALENDAR"
+msgstr "Add to calendar"
+
+msgid "DOWNLOAD_ICS"
+msgstr "Download ICS"
+
+msgid "BACK_TO_EVENTS"
+msgstr "Back to Events"
+
+msgid "RSVP_TO_EVENT"
+msgstr "RSVP to this event"
+
+msgid "CANCEL_RSVP"
+msgstr "Cancel my RSVP"
+
+msgid "LOG_IN_TO_RSVP"
+msgstr "Log in to RSVP"
+
+msgid "RELATED_NEWS"
+msgstr "Related news"
+
+msgid "EVENT_REMINDER_EMAIL_SUBJECT"
+msgstr "Your event is coming up"
+
+msgid "EVENT_REMINDER_EMAIL_BODY"
+msgstr "This is a reminder for an event you said you are attending."
+
+msgid "EVENT_UPDATE_EMAIL_CANCELED_SUBJECT"
+msgstr "An event you RSVP’d to was canceled"
+
+msgid "EVENT_UPDATE_EMAIL_CHANGED_SUBJECT"
+msgstr "An event you RSVP’d to has changed"
+
+msgid "EVENT_UPDATE_EMAIL_CANCELED_BODY"
+msgstr "The following event was canceled."
+
+msgid "EVENT_UPDATE_EMAIL_CHANGED_BODY"
+msgstr "The following event’s schedule has changed."
+
+msgid "VIEW_EVENT"
+msgstr "View event details"

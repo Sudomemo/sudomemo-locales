@@ -135,3 +135,12 @@ msgstr "Your Flipnote "
 
 msgid "FRAGMENT_YOUR_FLIPNOTE_WAS_FEATURED"
 msgstr "¡Tu Flipnote ha sido destacado! "
+
+msgid "EVENT_NOTIFICATION_REMINDER"
+msgstr "An event you RSVP'd to is coming up soon: "
+
+msgid "EVENT_NOTIFICATION_CANCELED"
+msgstr "An event you RSVP'd to was canceled:"
+
+msgid "EVENT_NOTIFICATION_CHANGED"
+msgstr "An event you RSVP'd to has changed:"
