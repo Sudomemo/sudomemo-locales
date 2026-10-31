@@ -3189,6 +3189,12 @@ msgstr "Test"
 msgid "THEME_ADVERT_TRY_THIS_THEME"
 msgstr "Try this theme!"
 
+msgid "THEME_SHOP_AFTER_EXCHANGE"
+msgstr "After exchange"
+
+msgid "THEME_SHOP_YOUR_BALANCE"
+msgstr "Your balance"
+
 msgid "THIS_FLIPNOTE_IS_SPINOFF_OF"
 msgstr "Este Flipnote é um spin-off de"
 
@@ -3982,9 +3988,3 @@ msgstr "A aparência e layout podem depender no aparelho que vejas o vídeo"
 
 msgid "YT_UPLOAD_PLUS_MEMO_PLUS"
 msgstr "Memo+"
-
-msgid "THEME_SHOP_YOUR_BALANCE"
-msgstr "Your balance"
-
-msgid "THEME_SHOP_AFTER_EXCHANGE"
-msgstr "After exchange"
