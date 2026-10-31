@@ -188,6 +188,9 @@ msgstr "Descripción del Ticket:"
 msgid "TICKET_DESC_animated_futures_ticket"
 msgstr "Thank you for participating in the 2026 Sudomemo × Rakonto \"Animated Futures\" contest!"
 
+msgid "TICKET_DESC_arcane_adept_ticket"
+msgstr "Awarded for completing the new SudoQuest: Requiem! Congratulations!"
+
 msgid "TICKET_DESC_archive_supporter_ticket"
 msgstr "¡Gracias por ayudarnos a preservar la historia de Flipnote!"
 
@@ -400,6 +403,9 @@ msgstr "Nombre del Ticket:"
 msgid "TICKET_NAME_animated_futures_ticket"
 msgstr "Animated Futures Contestant Ticket"
 
+msgid "TICKET_NAME_arcane_adept_ticket"
+msgstr "Arcane Adept Ticket"
+
 msgid "TICKET_NAME_archive_supporter_ticket"
 msgstr "Ticket de Seguidor del Archivo"
 
@@ -606,9 +612,3 @@ msgstr "¡Has recibido un regalo!"
 # Ticket delivery
 msgid "YOU_GOT_A_TICKET"
 msgstr "¡Has conseguido un ticket!"
-
-msgid "TICKET_NAME_arcane_adept_ticket"
-msgstr "Arcane Adept Ticket"
-
-msgid "TICKET_DESC_arcane_adept_ticket"
-msgstr "Awarded for completing the new SudoQuest: Requiem! Congratulations!"

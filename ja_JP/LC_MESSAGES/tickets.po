@@ -188,6 +188,9 @@ msgstr "チケットの説明:"
 msgid "TICKET_DESC_animated_futures_ticket"
 msgstr "Thank you for participating in the 2026 Sudomemo × Rakonto \"Animated Futures\" contest!"
 
+msgid "TICKET_DESC_arcane_adept_ticket"
+msgstr "Awarded for completing the new SudoQuest: Requiem! Congratulations!"
+
 msgid "TICKET_DESC_archive_supporter_ticket"
 msgstr "うごメモ歴史の保存に協力していただきありがとうございます!"
 
@@ -400,6 +403,9 @@ msgstr "チケット名:"
 msgid "TICKET_NAME_animated_futures_ticket"
 msgstr "Animated Futures Contestant Ticket"
 
+msgid "TICKET_NAME_arcane_adept_ticket"
+msgstr "Arcane Adept Ticket"
+
 msgid "TICKET_NAME_archive_supporter_ticket"
 msgstr "アーカイブサポーターチケット"
 
@@ -606,9 +612,3 @@ msgstr "プレゼントが届きました！"
 # Ticket delivery
 msgid "YOU_GOT_A_TICKET"
 msgstr "チケットを手に入れました!"
-
-msgid "TICKET_NAME_arcane_adept_ticket"
-msgstr "Arcane Adept Ticket"
-
-msgid "TICKET_DESC_arcane_adept_ticket"
-msgstr "Awarded for completing the new SudoQuest: Requiem! Congratulations!"
