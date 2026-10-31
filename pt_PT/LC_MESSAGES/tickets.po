@@ -606,3 +606,9 @@ msgstr "Recebeste um presente!"
 # Ticket delivery
 msgid "YOU_GOT_A_TICKET"
 msgstr "Recebeste um bilhete!"
+
+msgid "TICKET_NAME_arcane_adept_ticket"
+msgstr "Arcane Adept Ticket"
+
+msgid "TICKET_DESC_arcane_adept_ticket"
+msgstr "Awarded for completing the new SudoQuest: Requiem! Congratulations!"
