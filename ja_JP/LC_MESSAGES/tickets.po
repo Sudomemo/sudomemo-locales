@@ -222,6 +222,9 @@ msgstr "2024年秋のSudomemo Flipnote Fight Competitionでの受賞おめでと
 msgid "TICKET_DESC_fall_2025_ffc_winner_ticket"
 msgstr "2025年秋のSudomemo Flipnote Fight Competitionでの受賞おめでとうございます！"
 
+msgid "TICKET_DESC_fall_2026_ffc_winner_ticket"
+msgstr "Congratulations on your winning entry to the Fall 2026 Sudomemo Flipnote Fight Competition!"
+
 msgid "TICKET_DESC_fate_2024_winner_ticket"
 msgstr "FATE 2024での受賞おめでとうございます！"
 
@@ -437,6 +440,9 @@ msgstr "2024年秋 Sudomemo F.F.C. 優勝者チケット"
 
 msgid "TICKET_NAME_fall_2025_ffc_winner_ticket"
 msgstr "2025年秋 Sudomemo F.F.C. 優勝者チケット"
+
+msgid "TICKET_NAME_fall_2026_ffc_winner_ticket"
+msgstr "Fall 2026 Sudomemo F.F.C. Winner Ticket"
 
 msgid "TICKET_NAME_fate_2024_winner_ticket"
 msgstr "FATE 2024 優勝者チケット"

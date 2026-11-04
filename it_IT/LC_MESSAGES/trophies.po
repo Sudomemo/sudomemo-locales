@@ -74,6 +74,9 @@ msgstr "Per essere stato uno dei vincitori della Sudomemo Flipnote Fight Competi
 msgid "TROPHY_DESC_fall_2025_ffc_winner"
 msgstr "One of the winners of the Fall 2025 Sudomemo Flipnote Fight Competition!"
 
+msgid "TROPHY_DESC_fall_2026_ffc_winner"
+msgstr "One of the winners of the Fall 2026 Sudomemo Flipnote Fight Competition!"
+
 msgid "TROPHY_DESC_fate_2024_winner"
 msgstr "Per aver inviato un Flipnote vincente al FATE 2024"
 
@@ -263,6 +266,9 @@ msgstr "Vincitore della Sudomemo Flipnote Fight Competition di Autunno 2024"
 
 msgid "TROPHY_NAME_fall_2025_ffc_winner"
 msgstr "Fall 2025 Sudomemo Flipnote Fight Competition Winner"
+
+msgid "TROPHY_NAME_fall_2026_ffc_winner"
+msgstr "Fall 2026 Sudomemo Flipnote Fight Competition Winner"
 
 msgid "TROPHY_NAME_fate_2024_winner"
 msgstr "Vincitore del FATE 2024"
