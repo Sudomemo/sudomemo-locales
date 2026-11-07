@@ -146,6 +146,21 @@ msgstr "Green"
 msgid "ORGANIZER_THEME_PURPLE"
 msgstr "Purple"
 
+msgid "PLAYBACK_MODE_IN_ORDER"
+msgstr "In-order"
+
+msgid "PLAYBACK_MODE_SELECT_ORDER"
+msgstr "Select-order"
+
+msgid "PLAYBACK_MODE_SELECT_ORDER_INSTRUCTIONS"
+msgstr "Add a Flipnote to the queue by clicking on its thumbnail. Hit \"Confirm\" to start playing your selected Flipnotes."
+
+msgid "PLAYBACK_MODE_SHUFFLE"
+msgstr "Shuffle"
+
+msgid "PLAYBACK_OPTIONS"
+msgstr "Playback Options"
+
 msgid "PREV"
 msgstr "Prev"
 
@@ -187,6 +202,9 @@ msgstr "Indexing Flipnotes, this may take some time depending on how many Flipno
 
 msgid "SELECT_HERE"
 msgstr "Select here!"
+
+msgid "SELECT_ORDER_INSTRUCTIONS"
+msgstr "Click Flipnotes in the order you want them to play. Click a selected Flipnote again to remove it. Select Confirm to start playback or Cancel to leave without playing."
 
 msgid "SETTINGS_AUTO_RECONNECT_WIIMOTE"
 msgstr "Auto-Reconnect Wiimote"
@@ -292,6 +310,12 @@ msgstr "Fix Navbar to the Top"
 
 msgid "SETTINGS_ORGANIZER_FIX_NAVBAR_DESCRIPTION"
 msgstr "The navigation bar will always be fixed to the top of the screen. This may be useful when you want to access settings without returning to the top of the page."
+
+msgid "SETTINGS_PLAYBACK_OPTIONS_BUTTON"
+msgstr "Playback Options Button"
+
+msgid "SETTINGS_PLAYBACK_OPTIONS_BUTTON_DESCRIPTION"
+msgstr "If disabled, the Playback Options button will be hidden and playback modes will not be available."
 
 msgid "SETTINGS_PLAYER_COLOR_ACCESSIBILITY"
 msgstr "Change Flipnote Player Colors"
@@ -633,27 +657,3 @@ msgstr "Certain functions of the Wiimote may not work correctly while using this
 
 msgid "YES"
 msgstr "Yes"
-
-msgid "SELECT_ORDER_INSTRUCTIONS"
-msgstr "Click Flipnotes in the order you want them to play. Click a selected Flipnote again to remove it. Select Confirm to start playback or Cancel to leave without playing."
-
-msgid "PLAYBACK_MODE_SELECT_ORDER_INSTRUCTIONS"
-msgstr "Add a Flipnote to the queue by clicking on its thumbnail. Hit \"Confirm\" to start playing your selected Flipnotes."
-
-msgid "PLAYBACK_OPTIONS"
-msgstr "Playback Options"
-
-msgid "PLAYBACK_MODE_SHUFFLE"
-msgstr "Shuffle"
-
-msgid "PLAYBACK_MODE_IN_ORDER"
-msgstr "In-order"
-
-msgid "PLAYBACK_MODE_SELECT_ORDER"
-msgstr "Select-order"
-
-msgid "SETTINGS_PLAYBACK_OPTIONS_BUTTON"
-msgstr "Playback Options Button"
-
-msgid "SETTINGS_PLAYBACK_OPTIONS_BUTTON_DESCRIPTION"
-msgstr "If disabled, the Playback Options button will be hidden and playback modes will not be available."
