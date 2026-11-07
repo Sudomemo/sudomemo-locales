@@ -638,7 +638,7 @@ msgid "SELECT_ORDER_INSTRUCTIONS"
 msgstr "Click Flipnotes in the order you want them to play. Click a selected Flipnote again to remove it. Select Confirm to start playback or Cancel to leave without playing."
 
 msgid "PLAYBACK_MODE_SELECT_ORDER_INSTRUCTIONS"
-msgstr "Add a Flipnote to the queue by clicking on its thumbnail. Hit "Confirm" to start playing your selected Flipnotes."
+msgstr "Add a Flipnote to the queue by clicking on its thumbnail. Hit \"Confirm\" to start playing your selected Flipnotes."
 
 msgid "PLAYBACK_OPTIONS"
 msgstr "Playback Options"
